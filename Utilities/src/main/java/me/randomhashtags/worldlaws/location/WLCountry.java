@@ -2,22 +2,23 @@ package me.randomhashtags.worldlaws.location;
 
 public enum WLCountry {
     ABKHAZIA,
-    AFGHANISTAN,
-    ALBANIA,
-    ALGERIA,
-    ANDORRA,
-    ANGOLA,
+    AFGHANISTAN(true),
+    ALBANIA(true),
+    ALGERIA(true),
+    ANDORRA(true),
+    ANGOLA(true),
     ANGUILLA,
     ANTIGUA_AND_BARBUDA,
-    ARGENTINA,
-    ARMENIA,
-    AUSTRALIA,
-    AUSTRIA,
-    AZERBAIJAN,
+    ARGENTINA(true),
+    ARMENIA(true),
+    ARTSAKH,
+    AUSTRALIA(true),
+    AUSTRIA(true),
+    AZERBAIJAN(true),
 
-    BAHAMAS,
-    BAHRAIN,
-    BANGLADESH,
+    BAHAMAS(true),
+    BAHRAIN(true),
+    BANGLADESH(true),
     BARBADOS,
     BELARUS,
     BELGIUM,
@@ -37,17 +38,17 @@ public enum WLCountry {
 
     CAMBODIA,
     CAMEROON,
-    CANADA,
+    CANADA(true),
     CAPE_VERDE,
     CENTRAL_AFRICAN_REPUBLIC,
     CHAD,
     CHILE,
-    CHINA,
+    CHINA(true),
     COLOMBIA,
     COMOROS,
     COOK_ISLANDS,
     COSTA_RICA,
-    IVORY_COAST("Cote d'Ivoire"),
+    IVORY_COAST(false, "Cote d'Ivoire"),
     CROATIA,
     CUBA,
     CYPRUS,
@@ -69,8 +70,8 @@ public enum WLCountry {
 
     FALKLAND_ISLANDS,
     FIJI,
-    FINLAND,
-    FRANCE,
+    FINLAND(true),
+    FRANCE(true),
 
     GABON,
     GAMBIA,
@@ -91,13 +92,13 @@ public enum WLCountry {
     HUNGARY,
 
     ICELAND,
-    INDIA,
-    INDONESIA,
-    IRAN,
-    IRAQ,
-    IRELAND,
+    INDIA(true),
+    INDONESIA(true),
+    IRAN(true),
+    IRAQ(true),
+    IRELAND(true),
     ISRAEL,
-    ITALY,
+    ITALY(true),
 
     JAMAICA,
     JAPAN,
@@ -127,14 +128,14 @@ public enum WLCountry {
     MALTA,
     MARSHALL_ISLANDS,
     MAURITIUS,
-    MEXICO,
+    MEXICO(true),
     MICRONESIA,
     MOLDOVA,
     MONGOLIA,
     MONTENEGRO,
     MOROCCO,
     MOZAMBIQUE,
-    MYANMAR("Burma"),
+    MYANMAR(false, "Burma"),
 
     NAMIBIA,
     NAURU,
@@ -149,7 +150,7 @@ public enum WLCountry {
     NORTHERN_CYPRUS,
     NORWAY,
 
-    OMAN,
+    OMAN(true),
 
     PAKISTAN,
     PALAU,
@@ -162,16 +163,16 @@ public enum WLCountry {
     POLAND,
     PORTUGAL,
 
-    QATAR,
+    QATAR(true),
 
     REPUBLIC_OF_THE_CONGO,
-    ROMANIA,
-    RUSSIA,
-    RWANDA,
+    ROMANIA(true),
+    RUSSIA(true),
+    RWANDA(true),
 
     SAMOA,
     SAN_MARINO,
-    SAO_TOME_AND_PRINCIPE("São Tomé and Príncipe"),
+    SAO_TOME_AND_PRINCIPE(false, "São Tomé and Príncipe"),
     SAUDI_ARABIA,
     SERBIA,
     SINGAPORE,
@@ -192,45 +193,48 @@ public enum WLCountry {
     SYRIA,
 
     TAIWAN,
-    TAJIKISTAN,
-    TANZANIA,
-    THAILAND,
-    TOGO,
-    TONGA,
+    TAJIKISTAN(true),
+    TANZANIA(true),
+    THAILAND(true),
+    TOGO(true),
+    TONGA(true),
     TRANSNISTRIA,
-    TRINIDAD_AND_TOBAGO,
-    TUNISIA,
-    TURKEY,
-    TURKMENISTAN,
-    TUVALU,
+    TRINIDAD_AND_TOBAGO(true),
+    TUNISIA(true),
+    TURKEY(true),
+    TURKMENISTAN(true),
+    TUVALU(true),
 
-    UGANDA,
-    UKRAINE,
-    UNITED_ARAB_EMIRATES,
+    UGANDA(true),
+    UKRAINE(true),
+    UNITED_ARAB_EMIRATES(true),
     UNITED_KINGDOM,
-    UNITED_STATES,
+    UNITED_STATES(true),
     URUGUAY,
-    UZBEKISTAN,
+    UZBEKISTAN(true),
 
+    VANUATU(true),
     VATICAN_CITY,
-    VENEZUELA,
-    VIETNAM,
+    VENEZUELA(true),
+    VIETNAM(true),
 
-    YEMEN,
+    YEMEN(true),
 
-    ZAMBIA,
-    ZIMBABWE,
+    ZAMBIA(true),
+    ZIMBABWE(true),
 
 
     PUERTO_RICO,
     ;
 
     private final String[] aliases;
+    private final boolean hasTerritories;
 
     WLCountry() {
-        aliases = null;
+        this(false);
     }
-    WLCountry(String...aliases) {
+    WLCountry(boolean hasTerritories, String...aliases) {
+        this.hasTerritories = hasTerritories;
         this.aliases = aliases;
     }
 
@@ -239,5 +243,46 @@ public enum WLCountry {
     }
     public String[] getAliases() {
         return aliases;
+    }
+
+    public String getGovernmentWebsite() {
+        switch (this) {
+            case ARGENTINA: return "https://www.argentina.gob.ar";
+            case AUSTRALIA: return "https://www.australia.gov.au";
+            case BAHAMAS: return "https://www.bahamas.gov.bs";
+            case BRAZIL: return "http://www.brazil.gov.br";
+            case CANADA: return "https://www.canada.ca/en.html";
+            case CHINA: return "https://www.gov.cn";
+            case DENMARK: return "https://denmark.dk";
+            case EGYPT: return "http://egypt.gov.eg/";
+            case FIJI: return "https://www.fiji.gov.fj/Home";
+            case FINLAND: return "https://valtioneuvosto.fi/etusivu";
+            case FRANCE: return "https://www.gouvernement.fr";
+            case GERMANY: return "https://www.bundesregierung.de/breg-de";
+            case GREECE: return "https://www.gov.gr";
+            case ICELAND: return "https://www.government.is";
+            case INDIA: return "https://www.india.gov.in";
+            case IRELAND: return "https://www.gov.ie";
+            case ISRAEL: return "https://www.gov.il/en";
+            case ITALY: return "http://www.italia.it/";
+            case JAPAN: return "https://www.japan.go.jp";
+            case JAMAICA: return "https://www.gov.jm";
+            case LUXEMBOURG: return "https://gouvernement.lu";
+            case MEXICO: return "https://www.gob.mx";
+            case NEW_ZEALAND: return "https://www.govt.nz";
+            case NETHERLANDS: return "https://www.government.nl";
+            case NORWAY: return "https://www.regjeringen.no";
+            case RUSSIA: return "http://government.ru";
+            case SINGAPORE: return "https://www.gov.sg";
+            case SWEDEN: return "https://www.government.se";
+            case SWITZERLAND: return "https://www.admin.ch";
+            case UNITED_KINGDOM: return "https://www.gov.uk";
+            case UNITED_STATES: return "https://www.usa.gov";
+            case ZAMBIA: return "https://zambia.co.zm";
+            default: return null;
+        }
+    }
+    public boolean hasTerritories() {
+        return hasTerritories;
     }
 }

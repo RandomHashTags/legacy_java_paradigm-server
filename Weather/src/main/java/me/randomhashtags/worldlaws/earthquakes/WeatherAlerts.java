@@ -4,13 +4,13 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.weather.recode.NewWeatherController;
 import me.randomhashtags.worldlaws.weather.recode.country.WeatherUSA;
+import org.apache.logging.log4j.Level;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.logging.Level;
 
 public enum WeatherAlerts {
     INSTANCE;
@@ -27,6 +27,7 @@ public enum WeatherAlerts {
     private NewWeatherController[] getCountries() {
         return new NewWeatherController[] {
                 WeatherUSA.INSTANCE,
+                //WeatherCA.INSTANCE
         };
     }
 
@@ -61,7 +62,7 @@ public enum WeatherAlerts {
                                 break;
                         }
                     } else {
-                        WLLogger.log(Level.WARNING, "WeatherAlerts - missing WeatherController for country \"" + key + "\"!");
+                        WLLogger.log(Level.WARN, "WeatherAlerts - missing WeatherController for country \"" + key + "\"!");
                     }
                 }
                 break;
@@ -117,6 +118,8 @@ public enum WeatherAlerts {
             } else {
                 controller.getEvents(handler);
             }
+        } else {
+            handler.handle(null);
         }
     }
 

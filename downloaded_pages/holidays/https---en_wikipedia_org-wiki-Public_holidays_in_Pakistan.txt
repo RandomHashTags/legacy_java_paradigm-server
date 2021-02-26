@@ -1,0 +1,1250 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Pakistan - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBXkmgpAMNIAA0WQUm4AAADV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Pakistan","wgTitle":"Public holidays in Pakistan","wgCurRevisionId":1002669770,"wgRevisionId":1002669770,"wgArticleId":843438,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use Pakistani English from March 2018","All Wikipedia articles written in Pakistani English","Use dmy dates from March 2018","Public holidays in Pakistan","Pakistan-related lists",
+"Festivals in Pakistan","Lists of public holidays by country"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Pakistan","wgRelevantArticleId":843438,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q2562683"};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"
+];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Pakistan"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Pakistan&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Pakistan&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Pakistan"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Pakistan rootpage-Public_holidays_in_Pakistan skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Pakistan</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Nationally recognized holidays in Pakistan
+      </div> 
+      <p> <b>Pakistan holidays</b> are celebrated according to the Islamic or Gregorian calendars for religious and civil purposes, respectively. Religious festivals like Eid are celebrated according to the <a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic calendar</a> whereas other national holidays like international labour day, Pakistan day, and Quaid-i-Azam Day are celebrated according to the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a>. </p> 
+      <h2><span class="mw-headline" id="Holidays_in_Pakistan">Holidays in Pakistan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Pakistan&amp;action=edit&amp;section=1" title="Edit section: Holidays in Pakistan">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th style="background: #01411C;"><span style="color:white">Date</span> </th> 
+         <th style="background: #01411C;"><span style="color:white">English Name</span> </th> 
+         <th style="background: #01411C;"><span style="color:white">Local Name</span> </th> 
+         <th style="background: #01411C;"><span style="color:white">Remarks</span> </th>
+        </tr> 
+        <tr> 
+         <td>5 February </td> 
+         <td><a href="/wiki/Kashmir_Solidarity_Day" title="Kashmir Solidarity Day">Kashmir Solidarity Day</a> </td> 
+         <td><span class="Nastaliq" dir="rtl" title="Nastaliq" style="font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Noto Nastaliq Urdu', 'Noto Nastaliq Urdu Draft', 'Hussaini Nastaleeq', 'AlQalam Taj Nastaleeq', IranNastaliq, 'Awami Nastaliq', 'Awami Nastaliq Beta3', 'Awami Nastaliq Beta2', 'Awami Nastaliq Beta1', 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', 'Pak Nastaleeq', 'PDMS_Jauhar', 'Alvi Lahori Nastaleeq'; font-size: 110%; font-style: normal;">یوم یکجحتی کشمیر</span> <p>Youm-e-Yakjehti Kashmir </p> </td> 
+         <td>Protest against Indian administration in <a href="/wiki/Jammu_and_Kashmir_(union_territory)" title="Jammu and Kashmir (union territory)">Jammu and Kashmir</a>. </td>
+        </tr> 
+        <tr> 
+         <td>23 March </td> 
+         <td><a href="/wiki/Pakistan_Day" title="Pakistan Day">Pakistan Day</a> </td> 
+         <td><span class="Nastaliq" dir="rtl" title="Nastaliq" style="font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Noto Nastaliq Urdu', 'Noto Nastaliq Urdu Draft', 'Hussaini Nastaleeq', 'AlQalam Taj Nastaleeq', IranNastaliq, 'Awami Nastaliq', 'Awami Nastaliq Beta3', 'Awami Nastaliq Beta2', 'Awami Nastaliq Beta1', 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', 'Pak Nastaleeq', 'PDMS_Jauhar', 'Alvi Lahori Nastaleeq'; font-size: 110%; font-style: normal;">یوم پاکستان</span> <p>Youm-e-Pakistan </p> </td> 
+         <td>Commemorates the <a href="/wiki/Lahore_Resolution" title="Lahore Resolution">Lahore Resolution</a>, which formally demanded an independent Muslim-majority state to be created out of the <a href="/wiki/British_Indian_Empire" class="mw-redirect" title="British Indian Empire">British Indian Empire</a>; the republic was also declared on this day in 1956. <p>A parade is also held on this day to display weapons. </p> </td>
+        </tr> 
+        <tr> 
+         <td>1 May </td> 
+         <td><a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a> </td> 
+         <td><span class="Nastaliq" dir="rtl" title="Nastaliq" style="font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Noto Nastaliq Urdu', 'Noto Nastaliq Urdu Draft', 'Hussaini Nastaleeq', 'AlQalam Taj Nastaleeq', IranNastaliq, 'Awami Nastaliq', 'Awami Nastaliq Beta3', 'Awami Nastaliq Beta2', 'Awami Nastaliq Beta1', 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', 'Pak Nastaleeq', 'PDMS_Jauhar', 'Alvi Lahori Nastaleeq'; font-size: 110%; font-style: normal;">یوم مزدور</span> <p>Youm-e-Mazdoor </p> </td> 
+         <td>Celebrates the achievements of workers </td>
+        </tr> 
+        <tr> 
+         <td>14 August </td> 
+         <td><a href="/wiki/Independence_Day_(Pakistan)" title="Independence Day (Pakistan)">Independence Day</a> </td> 
+         <td><span class="Nastaliq" dir="rtl" title="Nastaliq" style="font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Noto Nastaliq Urdu', 'Noto Nastaliq Urdu Draft', 'Hussaini Nastaleeq', 'AlQalam Taj Nastaleeq', IranNastaliq, 'Awami Nastaliq', 'Awami Nastaliq Beta3', 'Awami Nastaliq Beta2', 'Awami Nastaliq Beta1', 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', 'Pak Nastaleeq', 'PDMS_Jauhar', 'Alvi Lahori Nastaleeq'; font-size: 110%; font-style: normal;">یوم استقلال</span> <p>Youm-e-Istiqlal </p> </td> 
+         <td>Marking Pakistani independence from the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, formation of <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> in 1947 </td>
+        </tr> 
+        <tr> 
+         <td>25 December </td> 
+         <td><a href="/wiki/Quaid-e-Azam_Day" class="mw-redirect" title="Quaid-e-Azam Day">Quaid-e-Azam Day</a> </td> 
+         <td><span class="Nastaliq" dir="rtl" title="Nastaliq" style="font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Noto Nastaliq Urdu', 'Noto Nastaliq Urdu Draft', 'Hussaini Nastaleeq', 'AlQalam Taj Nastaleeq', IranNastaliq, 'Awami Nastaliq', 'Awami Nastaliq Beta3', 'Awami Nastaliq Beta2', 'Awami Nastaliq Beta1', 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', 'Pak Nastaleeq', 'PDMS_Jauhar', 'Alvi Lahori Nastaleeq'; font-size: 110%; font-style: normal;">یوم ولادت قائداعظم</span> <p>Youm-e-Viladat-e-Quaid-e-Azam </p> </td> 
+         <td>Birthday of <a href="/wiki/Muhammad_Ali_Jinnah" title="Muhammad Ali Jinnah">Muhammad Ali Jinnah</a>, founder of Pakistan </td>
+        </tr> 
+        <tr> 
+         <th colspan="4">Holidays of the (<a href="/wiki/Lunar_calendar" title="Lunar calendar">lunar</a>) <a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic calendar</a> </th>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Dhu_al-Hijjah" title="Dhu al-Hijjah">Dhu al-Hijjah</a> 10th-12th </td> 
+         <td><a href="/wiki/Eid-ul-Adha" class="mw-redirect" title="Eid-ul-Adha">Eid-ul-Adha</a> </td> 
+         <td><span class="Nastaliq" dir="rtl" title="Nastaliq" style="font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Noto Nastaliq Urdu', 'Noto Nastaliq Urdu Draft', 'Hussaini Nastaleeq', 'AlQalam Taj Nastaleeq', IranNastaliq, 'Awami Nastaliq', 'Awami Nastaliq Beta3', 'Awami Nastaliq Beta2', 'Awami Nastaliq Beta1', 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', 'Pak Nastaleeq', 'PDMS_Jauhar', 'Alvi Lahori Nastaleeq'; font-size: 110%; font-style: normal;">عید الاضحٰی </span> </td> 
+         <td>Marks the end of the <a href="/wiki/Hajj" title="Hajj">Hajj</a> pilgrimage; sacrifices offered on this day commemorate <a href="/wiki/Abraham" title="Abraham">Abraham</a>'s willingness to sacrifice his son </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Shawwal" title="Shawwal">Shawwal</a> 1st-3rd </td> 
+         <td><a href="/wiki/Eid-ul-Fitr" class="mw-redirect" title="Eid-ul-Fitr">Eid-ul-Fitr</a> </td> 
+         <td><span class="Nastaliq" dir="rtl" title="Nastaliq" style="font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Noto Nastaliq Urdu', 'Noto Nastaliq Urdu Draft', 'Hussaini Nastaleeq', 'AlQalam Taj Nastaleeq', IranNastaliq, 'Awami Nastaliq', 'Awami Nastaliq Beta3', 'Awami Nastaliq Beta2', 'Awami Nastaliq Beta1', 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', 'Pak Nastaleeq', 'PDMS_Jauhar', 'Alvi Lahori Nastaleeq'; font-size: 110%; font-style: normal;">عيد الفطر</span> </td> 
+         <td>Marks the end of the fasting month of <a href="/wiki/Ramadan" title="Ramadan">Ramadan</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Rabi%CA%BD_al-Awwal" title="Rabiʽ al-Awwal">Rabiʽ al-Awwal</a> 12 </td> 
+         <td><a href="/wiki/Milad_al-Nabi" class="mw-redirect" title="Milad al-Nabi">Eid-e-Milad-un-Nabi</a> </td> 
+         <td><span class="Nastaliq" dir="rtl" title="Nastaliq" style="font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Noto Nastaliq Urdu', 'Noto Nastaliq Urdu Draft', 'Hussaini Nastaleeq', 'AlQalam Taj Nastaleeq', IranNastaliq, 'Awami Nastaliq', 'Awami Nastaliq Beta3', 'Awami Nastaliq Beta2', 'Awami Nastaliq Beta1', 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', 'Pak Nastaleeq', 'PDMS_Jauhar', 'Alvi Lahori Nastaleeq'; font-size: 110%; font-style: normal;">عيد ميلاد النبی </span> </td> 
+         <td>Birthday of the Islamic prophet <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Muharram" title="Muharram">Muharram</a> 9th &amp; 10th </td> 
+         <td><a href="/wiki/Day_of_Ashura" class="mw-redirect" title="Day of Ashura">Ashura</a> </td> 
+         <td><span class="Nastaliq" dir="rtl" title="Nastaliq" style="font-family: 'Jameel Noori Nastaleeq', 'Urdu Typesetting', 'Noto Nastaliq Urdu', 'Noto Nastaliq Urdu Draft', 'Hussaini Nastaleeq', 'AlQalam Taj Nastaleeq', IranNastaliq, 'Awami Nastaliq', 'Awami Nastaliq Beta3', 'Awami Nastaliq Beta2', 'Awami Nastaliq Beta1', 'Nafees Nastaleeq', 'Nafees Nastaleeq v1.01', 'Pak Nastaleeq', 'PDMS_Jauhar', 'Alvi Lahori Nastaleeq'; font-size: 110%; font-style: normal;">عاشوراء/یوم کربلا</span> </td> 
+         <td>Karbala Day for Shias to the mourn for the martyred Imam <a href="/wiki/Hussein_ibn_Ali" class="mw-redirect" title="Hussein ibn Ali">Hussein ibn Ali</a> </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li>23 January - Muneeb Day</li> 
+       <li>21 April - Death Anniversary of Allama <a href="/wiki/Muhammad_Iqbal" title="Muhammad Iqbal">Muhammad Iqbal</a></li> 
+       <li>22 April - National Book Day<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li> 
+       <li>28 May - <a href="/wiki/Youm-e-Takbir" title="Youm-e-Takbir">Youm-e-Takbir</a></li> 
+       <li>6 September - <a href="/wiki/Army_Day" class="mw-redirect" title="Army Day">Army Day</a>/<a href="/wiki/Defence_Day" title="Defence Day">Defence Day</a> or armed forces day of Pakistan (Youm-e-Fauj/Youm-e-Difa). On this day <a href="/wiki/1965_Indo-Pak_war" class="mw-redirect" title="1965 Indo-Pak war">the 1965 Indo-Pak war</a> began</li> 
+       <li>7 September - <a href="/wiki/Air_Force_Day_(Pakistan)" title="Air Force Day (Pakistan)">Air Force Day</a> (Youm-e-Fizaia) Depend on Federal Government on this day <a href="/wiki/Muhammad_Mahmood_Alam" title="Muhammad Mahmood Alam">M.M. Alam</a> shot 5 planes in a minute in the <a href="/wiki/Indo-Pakistani_War_of_1965" title="Indo-Pakistani War of 1965">1965 Indo-Pak War</a> to set a world record.</li> 
+       <li>8 September - <a href="/wiki/Victory_Day" title="Victory Day">Victory Day</a>/<a href="/wiki/Navy_Day" title="Navy Day">Navy Day</a> (Youm-e-Bahria)</li> 
+       <li>16 October - Death anniversary of <a href="/wiki/Liaquat_Ali_Khan" title="Liaquat Ali Khan">Liaquat Ali Khan</a></li> 
+       <li>24 October - <a href="/wiki/Azad_Kashmir_Day" title="Azad Kashmir Day">Azad Kashmir Day</a> (Youm-e-Tasees)</li> 
+       <li>7 December - National Voter's Day<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+      </ul> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Pakistan&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/List_of_festivals_in_Pakistan" title="List of festivals in Pakistan">List of festivals in Pakistan</a></li> 
+       <li><a href="/wiki/Muslim_holidays" class="mw-redirect" title="Muslim holidays">Muslim holidays</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Pakistan&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="The_government_declared_22_April_as_National_Book_Day_and_first_book_festival_was_held_on_April_2010." class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.thenews.com.pk/latest/114053-All-set-to-celebrate-National-Book-Day-on-April-22">"All set to celebrate National Book Day on April 22"</a>. The News International. APP. 20 April 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">26 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=All+set+to+celebrate+National+Book+Day+on+April+22&amp;rft.date=2016-04-20&amp;rft_id=https%3A%2F%2Fwww.thenews.com.pk%2Flatest%2F114053-All-set-to-celebrate-National-Book-Day-on-April-22&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Pakistan" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="The_Election_Commission_of_Pakistan_(ECP)_has_declared_7_December_2016_as_National_Voters_Day_to_create_awareness_among_the_people_about_their_right_to_vote." class="citation news cs1"><a rel="nofollow" class="external text" href="https://nation.com.pk/11-Jul-2016/ecp-declares-dec-7-as-national-voters-day">"ECP declares Dec 7 as National Voters Day"</a>. <i>The Nation</i>. APP. 11 July 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">20 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Nation&amp;rft.atitle=ECP+declares+Dec+7+as+National+Voters+Day&amp;rft.date=2016-07-11&amp;rft_id=https%3A%2F%2Fnation.com.pk%2F11-Jul-2016%2Fecp-declares-dec-7-as-national-voters-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Pakistan" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Pakistan_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Pakistan_topics" title="Template:Pakistan topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Pakistan_topics" title="Template talk:Pakistan topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Pakistan_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Pakistan_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> articles
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="History" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/History_of_Pakistan" title="History of Pakistan">History</a>
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Ancient</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/South_Asian_Stone_Age" title="South Asian Stone Age">Stone age</a></li> 
+                     <li><a href="/wiki/Soanian" title="Soanian">Soanian</a></li> 
+                     <li><a href="/wiki/Mehrgarh" title="Mehrgarh">Mehrgarh</a></li> 
+                     <li><a href="/wiki/Indus_Valley_Civilisation" title="Indus Valley Civilisation">Indus Valley</a></li> 
+                     <li><a href="/wiki/Indo-Iranians" title="Indo-Iranians">Indo-Iranics</a></li> 
+                     <li><a href="/wiki/Vedic_period" title="Vedic period">Indo-Aryan</a></li> 
+                     <li><a href="/wiki/Achaemenid_Empire" title="Achaemenid Empire">Achaemenid</a></li> 
+                     <li><a href="/wiki/Greco-Bactrian_Kingdom" title="Greco-Bactrian Kingdom">Greco-Bactrian</a></li> 
+                     <li><a href="/wiki/Maurya_Empire" title="Maurya Empire">Maurya</a></li> 
+                     <li><a href="/wiki/Gandhara" title="Gandhara">Gandhara</a></li> 
+                     <li><a href="/wiki/Indo-Greek_Kingdom" title="Indo-Greek Kingdom">Indo-Greek</a></li> 
+                     <li><a href="/wiki/Indo-Scythians" title="Indo-Scythians">Indo-Scythians</a></li> 
+                     <li><a href="/wiki/Indo-Parthian_Kingdom" title="Indo-Parthian Kingdom">Indo-Parthian</a></li> 
+                     <li><a href="/wiki/Kushan_Empire" title="Kushan Empire">Kushan</a></li> 
+                     <li><a href="/wiki/Kushano-Sasanian_Kingdom" title="Kushano-Sasanian Kingdom">Indo-Sassanid</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Medieval</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Hephthalites" title="Hephthalites">Indo-Hephthalite</a></li> 
+                     <li><a href="/wiki/Kambojas" title="Kambojas">Kambojas</a></li> 
+                     <li><a href="/wiki/Rai_dynasty" title="Rai dynasty">Rai dynasty</a></li> 
+                     <li><a href="/wiki/Kabul_Shahi" title="Kabul Shahi">Shahi</a></li> 
+                     <li><a href="/wiki/Pala_Empire" title="Pala Empire">Pala</a></li> 
+                     <li><a href="/wiki/Chaulukya_dynasty" title="Chaulukya dynasty">Solanki</a></li> 
+                     <li><a href="/wiki/Muhammad_bin_Qasim" title="Muhammad bin Qasim">Muhammad bin Qasim</a></li> 
+                     <li><a href="/wiki/Ghaznavids" title="Ghaznavids">Ghaznavid</a></li> 
+                     <li><a href="/wiki/Ghurid_dynasty" title="Ghurid dynasty">Ghurid</a></li> 
+                     <li><a href="/wiki/Mamluk_dynasty_(Delhi)" title="Mamluk dynasty (Delhi)">Mamluk</a></li> 
+                     <li><a href="/wiki/Khalji_dynasty" title="Khalji dynasty">Khalji</a></li> 
+                     <li><a href="/wiki/Tughlaq_dynasty" title="Tughlaq dynasty">Tughlaq</a></li> 
+                     <li><a href="/wiki/Sayyid_dynasty" title="Sayyid dynasty">Sayyid</a></li> 
+                     <li><a href="/wiki/Lodi_dynasty" title="Lodi dynasty">Lodi</a></li> 
+                     <li><a href="/wiki/Timurid_Empire" title="Timurid Empire">Timurid</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Modern</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"></div>
+                   <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                    <tbody>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Pre-colonial</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Mughal_Empire" title="Mughal Empire">Mughal</a></li> 
+                         <li><a href="/wiki/Company_rule_in_India" title="Company rule in India">East India Company</a></li> 
+                         <li><a href="/wiki/Durrani_Empire" title="Durrani Empire">Durrani</a></li> 
+                         <li><a href="/wiki/Misl" title="Misl">Sikh Confederacy</a></li> 
+                         <li><a href="/wiki/Sikh_Empire" title="Sikh Empire">Sikh Empire</a></li> 
+                         <li><a href="/wiki/First_Anglo-Afghan_War" title="First Anglo-Afghan War">First Anglo-Afghan War</a></li> 
+                         <li><a href="/wiki/First_Anglo-Sikh_War" title="First Anglo-Sikh War">First Anglo-Sikh War</a></li> 
+                         <li><a href="/wiki/Second_Anglo-Sikh_War" title="Second Anglo-Sikh War">Second Anglo-Sikh War</a></li> 
+                         <li><a href="/wiki/Indian_Rebellion_of_1857" title="Indian Rebellion of 1857">Rebellion</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Colonial</th>
+                      <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/History_of_the_British_Raj" title="History of the British Raj">British Raj</a></li> 
+                         <li><a href="/wiki/Second_Anglo-Afghan_War" title="Second Anglo-Afghan War">Second Anglo-Afghan War</a></li> 
+                         <li><a href="/wiki/Durand_Line" title="Durand Line">Durand Line</a></li> 
+                         <li><a href="/wiki/Third_Anglo-Afghan_War" title="Third Anglo-Afghan War">Third Anglo-Afghan War</a></li> 
+                         <li><a href="/wiki/Aligarh_Movement" title="Aligarh Movement">Aligarh Movement</a></li> 
+                         <li><a href="/wiki/Hindi%E2%80%93Urdu_controversy" title="Hindi–Urdu controversy">Hindi–Urdu controversy</a></li> 
+                         <li><a href="/wiki/Pakistan_Movement" title="Pakistan Movement">Pakistan Movement</a> 
+                          <ul>
+                           <li><a href="/wiki/All-India_Muslim_League" title="All-India Muslim League">Muslim League</a></li> 
+                           <li><a href="/wiki/Two-nation_theory_(Pakistan)" class="mw-redirect" title="Two-nation theory (Pakistan)">Two nation theory</a></li> 
+                           <li><a href="/wiki/Fourteen_Points_of_Jinnah" title="Fourteen Points of Jinnah">Jinnah's 14 Points</a></li> 
+                           <li><a href="/wiki/Lahore_Resolution" title="Lahore Resolution">Lahore Resolution</a></li> 
+                           <li><a href="/wiki/Direct_Action_Day" title="Direct Action Day">Direct Action Day</a></li>
+                          </ul></li> 
+                         <li><a href="/wiki/Partition_of_India" title="Partition of India">Partition</a></li> 
+                         <li><a href="/wiki/Indian_Independence_Act_1947" title="Indian Independence Act 1947">Independence</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Dominion</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Dominion_of_Pakistan" title="Dominion of Pakistan">Dominion of Pakistan</a></li> 
+                         <li><a href="/wiki/Princely_states_of_Pakistan" title="Princely states of Pakistan">Princely states</a></li> 
+                         <li><a href="/wiki/Indo-Pakistani_War_of_1947%E2%80%931948" title="Indo-Pakistani War of 1947–1948">1947 War</a></li> 
+                         <li><a href="/wiki/Liaquat%E2%80%93Nehru_Pact" title="Liaquat–Nehru Pact">Liaquat–Nehru Pact</a></li> 
+                         <li><a href="/wiki/Baghdad_Pact" title="Baghdad Pact">Baghdad Pact</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Republic</th>
+                      <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/History_of_Pakistan_(1947%E2%80%93present)" title="History of Pakistan (1947–present)">1947–present</a></li> 
+                         <li><a href="/wiki/Indus_Waters_Treaty" title="Indus Waters Treaty">Indus Treaty</a></li> 
+                         <li><a href="/wiki/Indo-Pakistani_War_of_1965" title="Indo-Pakistani War of 1965">1965 War</a></li> 
+                         <li><a href="/wiki/Bangladesh_Liberation_War" title="Bangladesh Liberation War">1971 War</a></li> 
+                         <li><a href="/wiki/Project-706" title="Project-706">Project-706</a></li> 
+                         <li><a href="/wiki/Islamization_in_Pakistan" title="Islamization in Pakistan">Islamisation</a></li> 
+                         <li><a href="/wiki/1970s_operation_in_Balochistan" title="1970s operation in Balochistan">Baloch insurgency</a></li> 
+                         <li><a href="/wiki/Kargil_War" title="Kargil War">Kargil War</a></li> 
+                         <li><a href="/wiki/1999_Pakistani_coup_d%27%C3%A9tat" title="1999 Pakistani coup d'état">Liberalization</a></li> 
+                         <li><a href="/wiki/Insurgency_in_Khyber_Pakhtunkhwa" title="Insurgency in Khyber Pakhtunkhwa">Insurgency in Khyber Pakhtunkhwa</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <div></div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="Geography" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/Geography_of_Pakistan" title="Geography of Pakistan">Geography</a>
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Features</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/List_of_beaches_in_Pakistan" title="List of beaches in Pakistan">Beaches</a></li> 
+                     <li><a href="/wiki/List_of_deserts_of_Pakistan" title="List of deserts of Pakistan">Deserts</a></li> 
+                     <li><a href="/wiki/List_of_glaciers_of_Pakistan" title="List of glaciers of Pakistan">Glaciers</a></li> 
+                     <li><a href="/wiki/List_of_islands_of_Pakistan" title="List of islands of Pakistan">Islands</a></li> 
+                     <li><a href="/wiki/List_of_lakes_of_Pakistan" title="List of lakes of Pakistan">Lakes</a></li> 
+                     <li><a href="/wiki/List_of_mountain_ranges_of_Pakistan" title="List of mountain ranges of Pakistan">Mountains</a></li> 
+                     <li><a href="/wiki/List_of_mountain_passes#Pakistan" title="List of mountain passes">Passes</a></li> 
+                     <li><a href="/wiki/List_of_rivers_of_Pakistan" title="List of rivers of Pakistan">Rivers</a></li> 
+                     <li><a href="/wiki/Topography_of_Pakistan" title="Topography of Pakistan">Topography</a></li> 
+                     <li><a href="/wiki/List_of_valleys_in_Pakistan" title="List of valleys in Pakistan">Valleys</a></li> 
+                     <li><a href="/wiki/List_of_waterfalls_of_Pakistan" title="List of waterfalls of Pakistan">Waterfalls</a></li> 
+                     <li><a href="/wiki/List_of_Ramsar_wetland_sites_in_Pakistan" title="List of Ramsar wetland sites in Pakistan">Wetlands</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Areas</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Arabian_Sea" title="Arabian Sea">Arabian Sea</a></li> 
+                     <li><a href="/wiki/Gwadar_Bay" title="Gwadar Bay">Gwadar Bay</a></li> 
+                     <li><a href="/wiki/Indo-Gangetic_Plain" title="Indo-Gangetic Plain">Indus Plain</a></li> 
+                     <li><a href="/wiki/Pothohar_Plateau" title="Pothohar Plateau">Pothohar Plateau</a></li> 
+                     <li><a href="/wiki/Salt_Range" title="Salt Range">Salt Range</a></li> 
+                     <li><a href="/wiki/Sistan_Basin" title="Sistan Basin">Sistan Basin</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geology_of_Pakistan" title="Geology of Pakistan">Geology</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Category:Coal_mines_in_Pakistan" title="Category:Coal mines in Pakistan">Coal fields</a></li> 
+                     <li><a href="/wiki/Category:Natural_gas_fields_in_Pakistan" title="Category:Natural gas fields in Pakistan">Gas fields</a></li> 
+                     <li><a href="/wiki/List_of_minerals_of_Pakistan" title="List of minerals of Pakistan">Minerals</a></li> 
+                     <li><a href="/wiki/Category:Oil_fields_of_Pakistan" title="Category:Oil fields of Pakistan">Oil fields</a></li> 
+                     <li><a href="/wiki/List_of_volcanoes_in_Pakistan" title="List of volcanoes in Pakistan">Volcanoes</a></li> 
+                     <li><a href="/wiki/List_of_floods_in_Pakistan" title="List of floods in Pakistan">Floods</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Environment</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/List_of_botanical_gardens_in_Pakistan" title="List of botanical gardens in Pakistan">Botanical gardens</a></li> 
+                     <li><a href="/wiki/List_of_ecoregions_in_Pakistan" title="List of ecoregions in Pakistan">Ecoregions</a></li> 
+                     <li><a href="/wiki/Climate_change_in_Pakistan" title="Climate change in Pakistan">Climate change</a></li> 
+                     <li><a href="/wiki/Environmental_issues_in_Pakistan" title="Environmental issues in Pakistan">Environmental issues</a></li> 
+                     <li><a href="/wiki/Forestry_in_Pakistan" title="Forestry in Pakistan">Forests</a></li> 
+                     <li><a href="/wiki/Protected_areas_of_Pakistan" title="Protected areas of Pakistan">Protected areas</a> 
+                      <ul>
+                       <li><a href="/wiki/List_of_national_parks_of_Pakistan" title="List of national parks of Pakistan">national parks</a></li> 
+                       <li><a href="/wiki/List_of_game_reserves_of_Pakistan" title="List of game reserves of Pakistan">game reserves</a></li> 
+                       <li><a href="/wiki/List_of_wildlife_sanctuaries_in_Pakistan" title="List of wildlife sanctuaries in Pakistan">sanctuaries</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Wildlife_of_Pakistan" title="Wildlife of Pakistan">Wildlife</a> 
+                      <ul>
+                       <li><a href="/wiki/Flora_of_Pakistan" title="Flora of Pakistan">flora</a></li> 
+                       <li><a href="/wiki/Fauna_of_Pakistan" title="Fauna of Pakistan">fauna</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/List_of_zoos_in_Pakistan" title="List of zoos in Pakistan">Zoos</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Other topics</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Archaeological_sites_in_Pakistan" title="Archaeological sites in Pakistan">Archaeological sites</a></li> 
+                     <li><a href="/wiki/Template:Borders_of_Pakistan" title="Template:Borders of Pakistan">Borders</a></li> 
+                     <li><a href="/wiki/Climate_of_Pakistan" title="Climate of Pakistan">Climate</a> 
+                      <ul>
+                       <li><a href="/wiki/List_of_extreme_weather_records_in_Pakistan" title="List of extreme weather records in Pakistan">weather records</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Category:Borders_of_Pakistan" title="Category:Borders of Pakistan">Borders</a></li> 
+                     <li><a href="/wiki/List_of_natural_disasters_in_Pakistan" title="List of natural disasters in Pakistan">Natural disasters</a> 
+                      <ul>
+                       <li><a href="/wiki/List_of_earthquakes_in_Pakistan" title="List of preEarthquakes in Pakistan">preEarthquakes</a></li>
+                       <li><a href="/wiki/List_of_floods#Pakistan" title="List of floods">floods</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Administrative_units_of_Pakistan" title="Administrative units of Pakistan">Subdivisions</a> 
+                      <ul>
+                       <li><a href="/wiki/Administrative_units_of_Pakistan" title="Administrative units of Pakistan">provinces</a></li> 
+                       <li><a href="/wiki/Districts_of_Pakistan" title="Districts of Pakistan">districts</a></li> 
+                       <li><a href="/wiki/List_of_cities_in_Pakistan" class="mw-redirect" title="List of cities in Pakistan">cities</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/List_of_World_Heritage_Sites_in_Pakistan" title="List of World Heritage Sites in Pakistan">World Heritage Sites</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="Governance" style="font-size:114%;margin:0 4em">
+                Governance
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">State</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/President_of_Pakistan" title="President of Pakistan">President</a></li> 
+                     <li><a href="/wiki/National_Security_Council_(Pakistan)" title="National Security Council (Pakistan)">National Security Council</a> (<a href="/wiki/Cabinet_Committee_on_National_Security_(Pakistan)" title="Cabinet Committee on National Security (Pakistan)">C<sup>2</sup>NS</a></li> 
+                     <li><a href="/wiki/Alternative_Energy_Development_Board" title="Alternative Energy Development Board">AEDB</a></li> 
+                     <li><a href="/wiki/Economic_Coordination_Committee_(Pakistan)" title="Economic Coordination Committee (Pakistan)">ECC</a></li> 
+                     <li><a href="/wiki/National_Command_Authority_(Pakistan)" title="National Command Authority (Pakistan)">NCA</a>)</li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Government</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Government_of_Pakistan" title="Government of Pakistan">National government</a> 
+                      <ul>
+                       <li><a href="/wiki/Cabinet_of_Pakistan" title="Cabinet of Pakistan">Cabinet</a></li> 
+                       <li><a href="/wiki/Government_of_Pakistan" title="Government of Pakistan">Ministries</a></li> 
+                       <li><a href="/wiki/Prime_Minister_of_Pakistan" title="Prime Minister of Pakistan">Prime Minister</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/List_of_provincial_governments_of_Pakistan" title="List of provincial governments of Pakistan">Provincial governments</a> 
+                      <ul>
+                       <li><a href="/wiki/List_of_current_Pakistani_governors" title="List of current Pakistani governors">Governors</a></li> 
+                       <li><a href="/wiki/List_of_current_Pakistani_chief_ministers" title="List of current Pakistani chief ministers">Chief Ministers</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Local_government_in_Pakistan" title="Local government in Pakistan">Local government</a> 
+                      <ul>
+                       <li><a href="/wiki/Union_councils_of_Pakistan" title="Union councils of Pakistan">Union councils</a></li>
+                      </ul></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Legislative</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Parliament_of_Pakistan" title="Parliament of Pakistan">Parliament <span style="font-size:85%;">(<i>Majlis-e-Shoora</i>)</span></a> 
+                      <ul>
+                       <li><a href="/wiki/Senate_of_Pakistan" title="Senate of Pakistan">Senate <span style="font-size:85%;">(upper house)</span></a> 
+                        <ul>
+                         <li><a href="/wiki/Chairman_of_the_Senate_of_Pakistan" title="Chairman of the Senate of Pakistan">Chairman</a></li>
+                        </ul></li> 
+                       <li><a href="/wiki/National_Assembly_of_Pakistan" title="National Assembly of Pakistan">National Assembly <span style="font-size:85%;">(lower house)</span></a> 
+                        <ul>
+                         <li><a href="/wiki/Speaker_of_the_National_Assembly_of_Pakistan" title="Speaker of the National Assembly of Pakistan">Speaker</a></li>
+                        </ul></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Category:Provincial_Assemblies_of_Pakistan" title="Category:Provincial Assemblies of Pakistan">Provincial assemblies</a></li> 
+                     <li><a href="/wiki/Jirga" title="Jirga"><i>Jirga</i> <span style="font-size:85%;">(tribal assembly)</span></a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Judiciary_of_Pakistan" title="Judiciary of Pakistan">Judicial</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Supreme_Judicial_Council_of_Pakistan" title="Supreme Judicial Council of Pakistan">Supreme Council</a></li> 
+                     <li><a href="/wiki/Supreme_Court_of_Pakistan" title="Supreme Court of Pakistan">Supreme Court</a> 
+                      <ul>
+                       <li><a href="/wiki/Chief_Justice_of_Pakistan" title="Chief Justice of Pakistan">Chief Justice</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Federal_Shariat_Court" title="Federal Shariat Court">Shariat Court</a></li> 
+                     <li><a href="/wiki/High_Courts_of_Pakistan" class="mw-redirect" title="High Courts of Pakistan">High Courts</a></li> 
+                     <li><a href="/wiki/District_Courts_of_Pakistan" class="mw-redirect" title="District Courts of Pakistan">District Courts</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Pakistan" title="Politics of Pakistan">Politics</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Elections_in_Pakistan" title="Elections in Pakistan">Elections</a></li> 
+                     <li><a href="/wiki/Foreign_relations_of_Pakistan" title="Foreign relations of Pakistan">Foreign relations</a></li> 
+                     <li><a href="/wiki/Feudalism_in_Pakistan" title="Feudalism in Pakistan">Feudalism</a></li>
+                    </ul> 
+                    <ul>
+                     <li><a href="/wiki/Template:Pakistani_intelligence_agencies" title="Template:Pakistani intelligence agencies">Intelligence community</a></li> 
+                     <li><a href="/wiki/List_of_political_parties_in_Pakistan" title="List of political parties in Pakistan">Political parties</a></li> 
+                     <li><a href="/wiki/Military_coups_in_Pakistan" title="Military coups in Pakistan">Martial law</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Law_of_Pakistan" title="Law of Pakistan">Law</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Constitution_of_Pakistan" title="Constitution of Pakistan">Constitution</a> 
+                      <ul>
+                       <li><a href="/wiki/Legal_Framework_Order,_2002" title="Legal Framework Order, 2002">LFO</a></li> 
+                       <li><a href="/wiki/Pakistan_Penal_Code" title="Pakistan Penal Code">PPC</a></li> 
+                       <li><a href="/wiki/Women%27s_Protection_Bill" title="Women's Protection Bill">WPB</a></li> 
+                       <li><a href="/wiki/Provisional_Constitutional_Order" title="Provisional Constitutional Order">PCO</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Human_rights_in_Pakistan" title="Human rights in Pakistan">Human rights</a> 
+                      <ul>
+                       <li><a href="/wiki/Enforced_disappearances_in_Pakistan" title="Enforced disappearances in Pakistan">Enforced disappearance</a></li> 
+                       <li><a href="/wiki/LGBT_rights_in_Pakistan" title="LGBT rights in Pakistan">LGBT</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/LGBT_history_in_Pakistan" title="LGBT history in Pakistan">LGBT history</a></li> 
+                     <li><a href="/wiki/Law_enforcement_in_Pakistan" title="Law enforcement in Pakistan">Law enforcement</a> 
+                      <ul>
+                       <li><a href="/wiki/Law_enforcement_in_Pakistan" title="Law enforcement in Pakistan">Police</a></li> 
+                       <li><a href="/wiki/Crime_Investigation_Department_(Pakistan)" title="Crime Investigation Department (Pakistan)">Crime Investigation (CID)</a></li> 
+                       <li><a href="/wiki/Anti-Narcotics_Force" title="Anti-Narcotics Force">Anti-Narcotics (ANF)</a></li> 
+                       <li><a href="/wiki/Capital_punishment_in_Pakistan" title="Capital punishment in Pakistan">Capital punishment</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Terrorism_in_Pakistan" title="Terrorism in Pakistan">Terrorism</a> 
+                      <ul>
+                       <li><a href="/wiki/Pakistan_and_state-sponsored_terrorism" title="Pakistan and state-sponsored terrorism">State terrorism</a></li>
+                      </ul></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pakistan_Armed_Forces" title="Pakistan Armed Forces">Military</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Military_history_of_Pakistan" title="Military history of Pakistan">History</a></li> 
+                     <li><a href="/wiki/Pakistan_Army" title="Pakistan Army">Army</a></li> 
+                     <li><a href="/wiki/Pakistan_Air_Force" title="Pakistan Air Force">Air force</a></li> 
+                     <li><a href="/wiki/Pakistan_Navy" title="Pakistan Navy">Navy</a></li> 
+                     <li><a href="/wiki/Pakistan_Marines" title="Pakistan Marines">Marines</a></li> 
+                     <li><a href="/wiki/Pakistan_Coast_Guards" title="Pakistan Coast Guards">Coast Guards</a></li> 
+                     <li><a href="/wiki/Paramilitary_forces_of_Pakistan" title="Paramilitary forces of Pakistan">Paramilitary</a></li> 
+                     <li><a href="/wiki/National_Command_Authority_(Pakistan)" title="National Command Authority (Pakistan)">Nuclear</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="Economy" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/Economy_of_Pakistan" title="Economy of Pakistan">Economy</a>
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Infrastructure</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Electricity_sector_in_Pakistan" title="Electricity sector in Pakistan">Electricity</a> 
+                      <ul>
+                       <li><a href="/wiki/List_of_power_stations_in_Pakistan#Thermal" title="List of power stations in Pakistan">Thermal</a></li> 
+                       <li><a href="/wiki/List_of_power_stations_in_Pakistan#Hydroelectricity" title="List of power stations in Pakistan">Hydro</a></li> 
+                       <li><a href="/wiki/Nuclear_power_in_Pakistan" title="Nuclear power in Pakistan">nuclear</a></li> 
+                       <li><a href="/wiki/Solar_power_in_Pakistan" title="Solar power in Pakistan">solar</a></li> 
+                       <li><a href="/wiki/Wind_power_in_Pakistan" title="Wind power in Pakistan">wind</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Foreign_aid_to_Pakistan" title="Foreign aid to Pakistan">Foreign aid</a></li> 
+                     <li><a href="/wiki/Petroleum_industry_in_Pakistan" title="Petroleum industry in Pakistan">Fuel extraction</a></li> 
+                     <li><a href="/wiki/Housing_in_Pakistan" title="Housing in Pakistan">Housing</a></li> 
+                     <li><a href="/wiki/Planning_Commission_(Pakistan)" title="Planning Commission (Pakistan)">Planning Commission</a></li> 
+                     <li><a href="/wiki/Pakistan_Post" title="Pakistan Post">Post</a></li> 
+                     <li><a href="/wiki/Poverty_in_Pakistan" title="Poverty in Pakistan">Poverty</a></li> 
+                     <li><a href="/wiki/List_of_tallest_buildings_in_Pakistan" title="List of tallest buildings in Pakistan">Tallest buildings</a></li> 
+                     <li><a href="/wiki/Telecommunications_in_Pakistan" title="Telecommunications in Pakistan">Telecommunications</a> 
+                      <ul>
+                       <li><a href="/wiki/Pakistan_Remote_Sensing_Satellite" title="Pakistan Remote Sensing Satellite">Pakistan Remote Sensing Satellite</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Transport_in_Pakistan" title="Transport in Pakistan">Transportation</a> 
+                      <ul>
+                       <li><a href="/wiki/List_of_bridges_in_Pakistan" title="List of bridges in Pakistan">bridges</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Water_resources_management_in_Pakistan" title="Water resources management in Pakistan">Water management</a> 
+                      <ul>
+                       <li><a href="/wiki/Water_supply_and_sanitation_in_Pakistan" title="Water supply and sanitation in Pakistan">Water supply and sanitation</a></li>
+                      </ul></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Industry_of_Pakistan" title="Industry of Pakistan">Industry</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Pakistan_Aeronautical_Complex" title="Pakistan Aeronautical Complex">Aerospace</a></li> 
+                     <li><a href="/wiki/Agriculture_in_Pakistan" title="Agriculture in Pakistan">Agriculture</a></li> 
+                     <li><a href="/wiki/Defence_industry_of_Pakistan" title="Defence industry of Pakistan">Defence</a></li> 
+                     <li><a href="/wiki/Automotive_industry_in_Pakistan" title="Automotive industry in Pakistan">Automotive</a></li> 
+                     <li><a href="/wiki/Fishing_in_Pakistan" title="Fishing in Pakistan">Fishery</a></li> 
+                     <li><a href="/wiki/Forestry_in_Pakistan" title="Forestry in Pakistan">Forestry</a></li> 
+                     <li><a href="/wiki/Animal_husbandry_in_Pakistan" title="Animal husbandry in Pakistan">Husbandry</a></li> 
+                     <li><a href="/wiki/Labour_in_Pakistan" title="Labour in Pakistan">Labour</a> 
+                      <ul>
+                       <li><a href="/wiki/Child_labour_in_Pakistan" title="Child labour in Pakistan">child</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Mass_media_in_Pakistan" title="Mass media in Pakistan">Media</a></li> 
+                     <li><a href="/wiki/Mining_in_Pakistan" title="Mining in Pakistan">Mining</a></li> 
+                     <li><a href="/wiki/Pharmaceutical_industry_in_Pakistan" title="Pharmaceutical industry in Pakistan">Pharmaceuticals</a></li> 
+                     <li><a href="/wiki/Textile_industry_in_Pakistan" title="Textile industry in Pakistan">Textiles</a> 
+                      <ul>
+                       <li><a href="/wiki/Silk_in_the_Indian_subcontinent" title="Silk in the Indian subcontinent">Silk</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Tourism_in_Pakistan" title="Tourism in Pakistan">Tourism</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Commerce</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Banking_in_Pakistan" title="Banking in Pakistan">Banking</a> 
+                      <ul>
+                       <li><a href="/wiki/List_of_banks_in_Pakistan" title="List of banks in Pakistan">banks</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/List_of_companies_of_Pakistan" title="List of companies of Pakistan">Companies</a></li> 
+                     <li><a href="/wiki/Board_of_Investment_(Pakistan)" title="Board of Investment (Pakistan)">Investment board</a></li> 
+                     <li><a href="/wiki/Pakistani_rupee" title="Pakistani rupee">Rupee <span style="font-size:85%;">(currency)</span></a></li> 
+                     <li><a href="/wiki/Securities_%26_Exchange_Commission_of_Pakistan" title="Securities &amp; Exchange Commission of Pakistan">Securities &amp; Exchange Commission</a></li> 
+                     <li><a href="/wiki/List_of_stock_exchanges#Pakistan" title="List of stock exchanges">Stock markets</a></li> 
+                     <li><a href="/wiki/Trading_Corporation_of_Pakistan" title="Trading Corporation of Pakistan">Trading Corporation</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Policy programmes</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Corporate_sector_of_Pakistan" title="Corporate sector of Pakistan">Corporatisation</a></li> 
+                     <li><a href="/wiki/Economy_of_Pakistan" title="Economy of Pakistan">Directive investment</a></li> 
+                     <li><a href="/wiki/Pakistan#Economy" title="Pakistan">Industrialisation</a></li> 
+                     <li><a href="/wiki/Fauji_Foundation" title="Fauji Foundation">Military economisation</a></li> 
+                     <li><a href="/wiki/Nationalisation_in_Pakistan" title="Nationalisation in Pakistan">Nationalisation</a></li> 
+                     <li><a href="/wiki/Privatisation_in_Pakistan" title="Privatisation in Pakistan">Privatisation</a></li> 
+                     <li><a href="/wiki/Yousaf_Raza_Gillani#Financial_and_economic_policy" title="Yousaf Raza Gillani">Public-private partnering</a></li> 
+                     <li><a href="/wiki/Islamic_economics_in_the_world#Contemporary_economics" class="mw-redirect" title="Islamic economics in the world">Redundant Islamic economisation</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="Society_and_culture" style="font-size:114%;margin:0 4em">
+                Society and culture
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Pakistani_society" title="Category:Pakistani society">Society</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Aurat_March" title="Aurat March">Aurat March</a></li> 
+                     <li><a href="/wiki/Crime_in_Pakistan" title="Crime in Pakistan">Crime</a></li> 
+                     <li><a href="/wiki/Culture_of_Pakistan" title="Culture of Pakistan">Culture</a></li> 
+                     <li><a href="/wiki/Education_in_Pakistan" title="Education in Pakistan">Education</a> 
+                      <ul>
+                       <li><a href="/wiki/Lists_of_educational_institutions_in_Pakistan" title="Lists of educational institutions in Pakistan">institutions</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Feudalism_in_Pakistan" title="Feudalism in Pakistan">Feudalism</a></li> 
+                     <li><a href="/wiki/Feminism_in_Pakistan" title="Feminism in Pakistan">Feminism</a></li> 
+                     <li><a href="/wiki/Women_in_Pakistan" title="Women in Pakistan">Gender discrimination</a></li> 
+                     <li><a href="/wiki/Healthcare_in_Pakistan" title="Healthcare in Pakistan">Healthcare</a> 
+                      <ul>
+                       <li><a href="/wiki/List_of_hospitals_in_Pakistan" title="List of hospitals in Pakistan">hospitals</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Human_rights_in_Pakistan" title="Human rights in Pakistan">Human rights</a> 
+                      <ul>
+                       <li><a href="/wiki/LGBT_rights_in_Pakistan" title="LGBT rights in Pakistan">LGBT</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Marriage_in_Pakistan" title="Marriage in Pakistan">Marriage</a></li> 
+                     <li><a href="/wiki/Mass_media_in_Pakistan" title="Mass media in Pakistan">Media</a></li> 
+                     <li><a href="/wiki/Me_Too_movement_(Pakistan)" title="Me Too movement (Pakistan)">Me Too</a></li> 
+                     <li><a href="/wiki/Pakistani_name" title="Pakistani name">Naming</a></li> 
+                     <li><a href="/wiki/Pakistanis" title="Pakistanis">Pakistanis</a> (<a href="/wiki/List_of_Pakistanis" title="List of Pakistanis">list</a>)</li> 
+                     <li><a href="/wiki/Prostitution_in_Pakistan" title="Prostitution in Pakistan">Prostitution</a></li> 
+                     <li><a href="/wiki/Religion_in_Pakistan" title="Religion in Pakistan">Religion</a></li> 
+                     <li><a href="/wiki/Time_in_Pakistan" title="Time in Pakistan">Time</a></li> 
+                     <li><a href="/wiki/Urbanisation_in_Pakistan" title="Urbanisation in Pakistan">Urbanisation</a></li> 
+                     <li><a href="/wiki/Women_in_Pakistan" title="Women in Pakistan">Women</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Demographics_of_Pakistan" title="Demographics of Pakistan">Demographics</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Overseas_Pakistani" title="Overseas Pakistani">Diaspora</a></li> 
+                     <li><a href="/wiki/Ethnic_groups_in_Pakistan" title="Ethnic groups in Pakistan">Ethnicity</a></li> 
+                     <li><a href="/wiki/Immigration_to_Pakistan" title="Immigration to Pakistan">Immigration</a></li> 
+                     <li><a href="/wiki/Languages_of_Pakistan" title="Languages of Pakistan">Languages</a> 
+                      <ul>
+                       <li><a href="/wiki/Urdu" title="Urdu">Urdu</a></li>
+                      </ul></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Arts</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Pakistani_architecture" title="Pakistani architecture">Architecture</a></li> 
+                     <li><a href="/wiki/Cinema_of_Pakistan" title="Cinema of Pakistan">Cinema</a> 
+                      <ul>
+                       <li><a href="/wiki/Lists_of_Pakistani_films" title="Lists of Pakistani films">films</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Category:Dance_in_Pakistan" title="Category:Dance in Pakistan">Dance</a></li> 
+                     <li><a href="/wiki/List_of_festivals_in_Pakistan" title="List of festivals in Pakistan">Festivals</a></li> 
+                     <li><a href="/wiki/Pakistani_folklore" title="Pakistani folklore">Folklore</a></li> 
+                     <li><a href="/wiki/Pakistani_literature" title="Pakistani literature">Literature</a> 
+                      <ul>
+                       <li><i><a href="/wiki/Mushaira" title="Mushaira">Mushaira</a></i></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Music_of_Pakistan" title="Music of Pakistan">Music</a></li> 
+                     <li><a href="/wiki/Pakistani_philosophy" title="Pakistani philosophy">Philosophy</a></li> 
+                     <li><a href="/wiki/Textiles_of_Pakistan" class="mw-redirect" title="Textiles of Pakistan">Textiles</a></li> 
+                     <li><a href="/wiki/Theatre_of_Pakistan" title="Theatre of Pakistan">Theatre</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Lifestyle</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Pakistani_clothing" title="Pakistani clothing">Clothing</a> 
+                      <ul>
+                       <li><i><a href="/wiki/Shalwar_kameez" title="Shalwar kameez">Shalwar kameez</a></i></li> 
+                       <li><i><a href="/wiki/Mehndi" title="Mehndi">Mehndi</a></i></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Pakistani_cuisine" title="Pakistani cuisine">Cuisine</a></li> 
+                     <li><a href="/wiki/Etiquette_in_Pakistan" title="Etiquette in Pakistan">Etiquette</a></li> 
+                     <li><a href="/wiki/Gun_law_in_Pakistan" title="Gun law in Pakistan">Gun culture</a></li> 
+                     <li><a href="/wiki/Pakistani_nationalism" title="Pakistani nationalism">Nationalism</a> 
+                      <ul>
+                       <li><a href="/wiki/List_of_Pakistani_flags" title="List of Pakistani flags">flags</a></li> 
+                       <li><a class="mw-selflink selflink">public holidays</a></li> 
+                       <li><a href="/wiki/List_of_songs_about_Pakistan" title="List of songs about Pakistan">songs</a></li> 
+                       <li><a href="/wiki/National_symbols_of_Pakistan" title="National symbols of Pakistan">symbols</a></li>
+                      </ul></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sport_in_Pakistan" title="Sport in Pakistan">Sports</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Category:Athletics_in_Pakistan" title="Category:Athletics in Pakistan">Athletics</a></li> 
+                     <li><a href="/wiki/Category:Baseball_in_Pakistan" title="Category:Baseball in Pakistan">Baseball</a></li> 
+                     <li><a href="/wiki/Category:Boxing_in_Pakistan" title="Category:Boxing in Pakistan">Boxing</a></li> 
+                     <li><a href="/wiki/Cricket_in_Pakistan" title="Cricket in Pakistan">Cricket</a></li> 
+                     <li><a href="/wiki/Category:Cycle_racing_in_Pakistan" title="Category:Cycle racing in Pakistan">Cycling</a></li> 
+                     <li><a href="/wiki/Pakistan_Hockey_Federation" title="Pakistan Hockey Federation">Field hockey</a></li> 
+                     <li><a href="/wiki/Football_in_Pakistan" title="Football in Pakistan">Football</a></li> 
+                     <li><a href="/wiki/Gillidanda" title="Gillidanda">Gillidanda</a></li> 
+                     <li><a href="/wiki/Category:Golf_in_Pakistan" title="Category:Golf in Pakistan">Golf</a></li> 
+                     <li><a href="/wiki/Kabaddi" title="Kabaddi">Kabaddi</a></li> 
+                     <li><a href="/wiki/Category:Motorsport_in_Pakistan" title="Category:Motorsport in Pakistan">Motorsport</a></li> 
+                     <li><a href="/wiki/Lahore_Marathon" title="Lahore Marathon">Marathon (Lahore)</a></li> 
+                     <li><a href="/wiki/Pakistan_at_the_Olympics" title="Pakistan at the Olympics">Olympics</a></li> 
+                     <li><a href="/wiki/Pakistan_at_the_Paralympics" title="Pakistan at the Paralympics">Paralympics</a></li> 
+                     <li><a href="/wiki/Category:Polo_in_Pakistan" title="Category:Polo in Pakistan">Polo</a></li> 
+                     <li><a href="/wiki/Category:Rugby_union_in_Pakistan" title="Category:Rugby union in Pakistan">Rugby</a></li> 
+                     <li><a href="/wiki/Squash_in_Pakistan" title="Squash in Pakistan">Squash</a></li> 
+                     <li><a href="/wiki/Category:Swimming_in_Pakistan" title="Category:Swimming in Pakistan">Swimming</a></li> 
+                     <li><a href="/wiki/Category:Tennis_in_Pakistan" title="Category:Tennis in Pakistan">Tennis</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Places</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/List_of_botanical_gardens_in_Pakistan" title="List of botanical gardens in Pakistan">Botanical gardens</a></li> 
+                     <li><a href="/wiki/List_of_cemeteries_in_Pakistan" title="List of cemeteries in Pakistan">Cemeteries</a></li> 
+                     <li><a href="/wiki/List_of_churches_in_Pakistan" title="List of churches in Pakistan">Churches</a></li> 
+                     <li><a href="/wiki/List_of_forts_in_Pakistan" title="List of forts in Pakistan">Forts</a></li> 
+                     <li><a href="/wiki/List_of_Gurdwaras#Pakistan" class="mw-redirect" title="List of Gurdwaras">Gurdwaras</a></li> 
+                     <li><a href="/wiki/List_of_Hindu_temples_in_Pakistan" title="List of Hindu temples in Pakistan">Hindu temples</a></li> 
+                     <li><a href="/wiki/List_of_libraries_in_Pakistan" title="List of libraries in Pakistan">Libraries</a></li> 
+                     <li><a href="/wiki/List_of_mausolea_and_shrines_in_Pakistan" title="List of mausolea and shrines in Pakistan">Mausolea and shrines</a></li> 
+                     <li><a href="/wiki/List_of_mosques_in_Pakistan" title="List of mosques in Pakistan">Mosques</a></li> 
+                     <li><a href="/wiki/List_of_museums_in_Pakistan" title="List of museums in Pakistan">Museums</a></li> 
+                     <li><a href="/wiki/List_of_parks_and_gardens_in_Pakistan" title="List of parks and gardens in Pakistan">Parks</a></li> 
+                     <li><a href="/wiki/List_of_stadiums#Pakistan" class="mw-redirect" title="List of stadiums">Stadiums</a></li> 
+                     <li><a href="/wiki/List_of_World_Heritage_Sites_in_Pakistan" title="List of World Heritage Sites in Pakistan">World Heritage Sites</a></li> 
+                     <li><a href="/wiki/List_of_zoos_in_Pakistan" title="List of zoos in Pakistan">Zoos</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div> 
+            <ul>
+             <li><a href="/wiki/Outline_of_Pakistan" title="Outline of Pakistan">Basic topics</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Pakistan" title="Category:Pakistan">Category</a></li> 
+             <li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> <a href="/wiki/Portal:Pakistan" title="Portal:Pakistan">Portal</a></li> 
+             <li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"> <a href="https://commons.wikimedia.org/wiki/Pakistan_(%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86)" class="extiw" title="commons:Pakistan (پاکستان)">Commons</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Asia" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Asia_topic" title="Template:Asia topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Asia_topic" title="Template talk:Asia topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Asia_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Asia" style="font-size:114%;margin:0 4em">
+            Public holidays in Asia
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Afghanistan" title="Public holidays in Afghanistan">Afghanistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bahrain" title="Public holidays in Bahrain">Bahrain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bangladesh" title="Public holidays in Bangladesh">Bangladesh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bhutan" title="Public holidays in Bhutan">Bhutan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Brunei" title="Public holidays in Brunei">Brunei</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cambodia" title="Public holidays in Cambodia">Cambodia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_China" title="Public holidays in China">China</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_East_Timor" class="mw-redirect" title="Public holidays in East Timor">East Timor (Timor-Leste)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_India" title="Public holidays in India">India</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Indonesia" title="Public holidays in Indonesia">Indonesia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iran" title="Public holidays in Iran">Iran</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iraq" title="Public holidays in Iraq">Iraq</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Israel" title="Public holidays in Israel">Israel</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Japan" title="Public holidays in Japan">Japan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jordan" title="Public holidays in Jordan">Jordan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Korea" title="Public holidays in North Korea">North Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Korea" title="Public holidays in South Korea">South Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kuwait" title="Public holidays in Kuwait">Kuwait</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kyrgyzstan" title="Public holidays in Kyrgyzstan">Kyrgyzstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Laos" title="Public holidays in Laos">Laos</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lebanon" title="Public holidays in Lebanon">Lebanon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malaysia" title="Public holidays in Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Maldives" title="Public holidays in the Maldives">Maldives</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mongolia" title="Public holidays in Mongolia">Mongolia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Myanmar" title="Public holidays in Myanmar">Myanmar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nepal" title="Public holidays in Nepal">Nepal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Oman" title="Public holidays in Oman">Oman</a></li> 
+             <li><a class="mw-selflink selflink">Pakistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Philippines" title="Public holidays in the Philippines">Philippines</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Qatar" title="Public holidays in Qatar">Qatar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saudi_Arabia" title="Public holidays in Saudi Arabia">Saudi Arabia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Singapore" title="Public holidays in Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sri_Lanka" class="mw-redirect" title="Public holidays in Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Syria" title="Public holidays in Syria">Syria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tajikistan" title="Public holidays in Tajikistan">Tajikistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Thailand" title="Public holidays in Thailand">Thailand</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkmenistan" title="Public holidays in Turkmenistan">Turkmenistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Arab_Emirates" title="Public holidays in the United Arab Emirates">United Arab Emirates</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uzbekistan" title="Public holidays in Uzbekistan">Uzbekistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vietnam" title="Public holidays in Vietnam">Vietnam</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Yemen" title="Public holidays in Yemen">Yemen</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with<br>limited recognition</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_State_of_Palestine" title="Public holidays in the State of Palestine">Palestine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Taiwan" title="Public holidays in Taiwan">Taiwan</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a> and<br>other territories</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Public_holidays_in_the_British_Indian_Ocean_Territory&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in the British Indian Ocean Territory (page does not exist)">British Indian Ocean Territory</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Christmas_Island" title="Public holidays in Christmas Island">Christmas Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cocos_(Keeling)_Islands" title="Public holidays in the Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hong_Kong" title="Public holidays in Hong Kong">Hong Kong</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Macau" title="Public holidays in Macau">Macau</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+           <div> 
+            <ul>
+             <li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Book:Asia" title="Book:Asia">Book</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Asia" title="Category:Asia">Category</a></li> 
+             <li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> <a href="/wiki/Portal:Asia" title="Portal:Asia">Asia portal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20210130142647
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.532 seconds
+Real time usage: 0.647 seconds
+Preprocessor visited node count: 14331/1000000
+Post‐expand include size: 172748/2097152 bytes
+Template argument size: 8502/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8412/5000000 bytes
+Lua time usage: 0.175/10.000 seconds
+Lua memory usage: 5933704/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  517.956      1 -total
+ 44.06%  228.201      7 Template:Navbox
+ 41.65%  215.706      1 Template:Asia_topic
+ 35.37%  183.217     56 Template:Iso2country
+ 20.36%  105.479      1 Template:Reflist
+ 18.78%   97.265      2 Template:Cite_news
+ 14.48%   75.004      1 Template:Pakistan_topics
+ 13.82%   71.571      1 Template:Navbox_with_collapsible_groups
+ 13.55%   70.202     56 Template:Iso2country/data
+ 12.79%   66.227      1 Template:Short_description
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:843438-0!canonical and timestamp 20210130142646 and revision id 1002669770. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Pakistan&amp;oldid=1002669770">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Pakistan&amp;oldid=1002669770</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Pakistan" title="Category:Public holidays in Pakistan">Public holidays in Pakistan</a></li>
+       <li><a href="/wiki/Category:Pakistan-related_lists" title="Category:Pakistan-related lists">Pakistan-related lists</a></li>
+       <li><a href="/wiki/Category:Festivals_in_Pakistan" title="Category:Festivals in Pakistan">Festivals in Pakistan</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Use_Pakistani_English_from_March_2018" title="Category:Use Pakistani English from March 2018">Use Pakistani English from March 2018</a></li>
+       <li><a href="/wiki/Category:All_Wikipedia_articles_written_in_Pakistani_English" title="Category:All Wikipedia articles written in Pakistani English">All Wikipedia articles written in Pakistani English</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_March_2018" title="Category:Use dmy dates from March 2018">Use dmy dates from March 2018</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Pakistan" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Pakistan" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Pakistan" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Pakistan" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Pakistan">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Pakistan&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Pakistan&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Pakistan" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Pakistan" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Pakistan&amp;oldid=1002669770" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Pakistan&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Pakistan&amp;id=1002669770&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2562683" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Pakistan&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Pakistan&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Feiertage_in_Pakistan" title="Feiertage in Pakistan – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2%D9%87%D8%A7%DB%8C_%D8%AA%D8%B9%D8%B7%DB%8C%D9%84_%D8%AF%D8%B1_%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86" title="روزهای تعطیل در پاکستان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hari_libur_di_Pakistan" title="Hari libur di Pakistan – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9F%D0%B0%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B0" title="Праздники Пакистана – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Public_holidays_in_Pakistan" title="Public holidays in Pakistan – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D9%BE%D8%A7%DA%AA%D8%B3%D8%AA%D8%A7%D9%86_%DB%BE_%D8%B9%D8%A7%D9%85_%D9%85%D9%88%DA%AA%D9%84%D9%88%D9%86" title="پاڪستان ۾ عام موڪلون – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%D8%A7%D8%AA_%D9%BE%D8%A7%DA%A9%D8%B3%D8%AA%D8%A7%D9%86" title="تعطیلات پاکستان – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2562683#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 25 January 2021, at 15:15<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Pakistan&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.532","walltime":"0.647","ppvisitednodes":{"value":14331,"limit":1000000},"postexpandincludesize":{"value":172748,"limit":2097152},"templateargumentsize":{"value":8502,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8412,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  517.956      1 -total"," 44.06%  228.201      7 Template:Navbox"," 41.65%  215.706      1 Template:Asia_topic"," 35.37%  183.217     56 Template:Iso2country"," 20.36%  105.479      1 Template:Reflist"," 18.78%   97.265      2 Template:Cite_news"," 14.48%   75.004      1 Template:Pakistan_topics"," 13.82%   71.571      1 Template:Navbox_with_collapsible_groups"," 13.55%   70.202     56 Template:Iso2country/data"," 12.79%   66.227      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.175","limit":"10.000"},"limitreport-memusage":{"value":5933704,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20210130142647","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Pakistan","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Pakistan","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2562683","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2562683","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-19T22:53:59Z","dateModified":"2021-01-25T15:15:46Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":124,"wgHostname":"mw1368"});});</script> 
+ </body>
+</html>

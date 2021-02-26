@@ -1,0 +1,648 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Mali - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBZ0owpAICIAAKS1M2gAAAAH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Mali","wgTitle":"Public holidays in Mali","wgCurRevisionId":1003273336,"wgRevisionId":1003273336,"wgArticleId":16207288,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Malian culture","Lists of public holidays by country"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Mali","wgRelevantArticleId":16207288,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q7257806"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready",
+"jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Mali"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Mali&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Mali&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Mali"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Mali rootpage-Public_holidays_in_Mali skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Mali</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p>This is a list of <b><a href="/wiki/Public_holiday" title="Public holiday">public holidays</a> in <a href="/wiki/Mali" title="Mali">Mali</a></b>. </p> 
+      <h2><span class="mw-headline" id="Public_holidays">Public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Mali&amp;action=edit&amp;section=1" title="Edit section: Public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <td>January 1</td> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td> 
+         <td><br> </td>
+        </tr> 
+        <tr> 
+         <td>January 20</td> 
+         <td><a href="/wiki/Armed_Forces_Day" title="Armed Forces Day">Armed Forces Day</a></td> 
+         <td>Honors the <a href="/wiki/Malian_Armed_Forces" title="Malian Armed Forces">Malian Armed Forces</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>March 26</td> 
+         <td><a href="/wiki/Martyrs%27_Day" title="Martyrs' Day">Martyrs' Day</a></td> 
+         <td>Also called "Democracy Day," this honors the victims of the <a href="/wiki/1991_Malian_coup_d%27%C3%A9tat" title="1991 Malian coup d'état">1991 Malian coup d'état</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>Monday after <a href="/wiki/Easter" title="Easter">Easter</a>, March or April</td> 
+         <td><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a></td> 
+         <td><br> </td>
+        </tr> 
+        <tr> 
+         <td>May 1</td> 
+         <td><a href="/wiki/Labour_Day" title="Labour Day">Workers' Day</a></td> 
+         <td><br> </td>
+        </tr> 
+        <tr> 
+         <td>May 25</td> 
+         <td><a href="/wiki/Africa_Day" title="Africa Day">Africa Day</a></td> 
+         <td><br> </td>
+        </tr> 
+        <tr> 
+         <td>September 22</td> 
+         <td><a href="/wiki/Independence_Day" class="mw-redirect" title="Independence Day">Independence Day</a></td> 
+         <td>From France, 1960 </td>
+        </tr> 
+        <tr> 
+         <td>December 25</td> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a></td> 
+         <td><br> </td>
+        </tr> 
+        <tr> 
+         <td>12 <a href="/wiki/Rabi%27_al-awwal" class="mw-redirect" title="Rabi' al-awwal">Rabi' al-awwal</a></td> 
+         <td><a href="/wiki/Mawlid" title="Mawlid">Mawlid</a></td> 
+         <td>Prophet's Birthday </td>
+        </tr> 
+        <tr> 
+         <td>19 Rabi' al-awwal</td> 
+         <td>Prophet's Baptism<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td> 
+         <td>Mali is the only country that celebrates this holiday. </td>
+        </tr> 
+        <tr> 
+         <td>1 <a href="/wiki/Shawwal" title="Shawwal">Shawwal</a></td> 
+         <td><a href="/wiki/Eid_ul_Fitr" class="mw-redirect" title="Eid ul Fitr">Korité</a></td> 
+         <td>End of Ramadan, breaking of the Fast </td>
+        </tr> 
+        <tr> 
+         <td>10 <a href="/wiki/Dhu_al-Hijjah" title="Dhu al-Hijjah">Dhu al-Hijjah</a></td> 
+         <td><a href="/wiki/Eid_al_Adha" class="mw-redirect" title="Eid al Adha">Tabaski</a></td> 
+         <td>Feast of the Sacrifice </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Mali&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://publicholidays.africa/mali/2020-dates/#:~:text=Mali%20Public%20Holidays%202020%20%20%20%20Date,%20Easter%20Monday%20%208%20more%20rows%20">"Mali Public Holidays 2020"</a>. <i>PublicHolidays.africa</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 22,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PublicHolidays.africa&amp;rft.atitle=Mali+Public+Holidays+2020&amp;rft_id=https%3A%2F%2Fpublicholidays.africa%2Fmali%2F2020-dates%2F%23%3A~%3Atext%3DMali%2520Public%2520Holidays%25202020%2520%2520%2520%2520Date%2C%2520Easter%2520Monday%2520%25208%2520more%2520rows%2520&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Mali" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://anydayguide.com/calendar/1721">"Armed Forces Day in Mali / January 20, 2020"</a>. <i>AnydayGuide</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 23,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AnydayGuide&amp;rft.atitle=Armed+Forces+Day+in+Mali+%2F+January+20%2C+2020&amp;rft_id=https%3A%2F%2Fanydayguide.com%2Fcalendar%2F1721&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Mali" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/mali/mali-martyrs-day#:~:text=Martyrs%27%20Day%20is%20a%20public%20holiday%20in%20Mali,March%201991%20during%20the%201991%20Malian%20coup%20d%27%C3%A9tat.">"Martyrs Day in Mali in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 23,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Martyrs+Day+in+Mali+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fmali%2Fmali-martyrs-day%23%3A~%3Atext%3DMartyrs%2527%2520Day%2520is%2520a%2520public%2520holiday%2520in%2520Mali%2CMarch%25201991%2520during%2520the%25201991%2520Malian%2520coup%2520d%2527%25C3%25A9tat.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Mali" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://publicholidays.africa/mali/baptism-of-the-prophet/">"Baptism of the Prophet 2020, 2021 and 2022 in Mali"</a>. <i>PublicHolidays.africa</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 22,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PublicHolidays.africa&amp;rft.atitle=Baptism+of+the+Prophet+2020%2C+2021+and+2022+in+Mali&amp;rft_id=https%3A%2F%2Fpublicholidays.africa%2Fmali%2Fbaptism-of-the-prophet%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Mali" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Mali_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Mali_topics" title="Template:Mali topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Mali_topics" title="Template talk:Mali topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Mali_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Mali_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Mali" title="Mali">Mali</a>&nbsp;<a href="/wiki/Index_of_Mali-related_articles" title="Index of Mali-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Mali" title="History of Mali">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Ghana_Empire" title="Ghana Empire">Ghana Empire</a></li> 
+             <li><a href="/wiki/Pre-Imperial_Mali" class="mw-redirect" title="Pre-Imperial Mali">Pre-Imperial Mali</a></li> 
+             <li><a href="/wiki/Mali_Empire" title="Mali Empire">Mali Empire</a></li> 
+             <li><a href="/wiki/Songhai_Empire" title="Songhai Empire">Songhai Empire</a></li> 
+             <li><a href="/wiki/Bamana_Empire" title="Bamana Empire">Bamana Empire</a></li> 
+             <li><a href="/wiki/K%C3%A9n%C3%A9dougou_Kingdom" title="Kénédougou Kingdom">Kénédougou Kingdom</a></li> 
+             <li><a href="/wiki/Kaarta" title="Kaarta">Kaarta</a></li> 
+             <li><a href="/wiki/Massina_Empire" title="Massina Empire">Massina Empire</a></li> 
+             <li><a href="/wiki/Toucouleur_Empire" title="Toucouleur Empire">Toucouleur Empire</a></li> 
+             <li><a href="/wiki/Wassoulou_Empire" title="Wassoulou Empire">Wassoulou Empire</a></li> 
+             <li><a href="/wiki/French_Sudan" title="French Sudan">French Sudan</a></li> 
+             <li><a href="/wiki/Mali_Federation" title="Mali Federation">Mali Federation</a></li> 
+             <li><a href="/wiki/Tuareg_rebellion_(2012)" title="Tuareg rebellion (2012)">2012 Tuareg rebellion</a></li> 
+             <li><a href="/wiki/2012_Malian_coup_d%27%C3%A9tat" title="2012 Malian coup d'état">2012 coup</a></li> 
+             <li><a href="/wiki/Mali_War" title="Mali War">Mali War</a></li> 
+             <li><a href="/wiki/Ebola_virus_disease_in_Mali" title="Ebola virus disease in Mali">Ebola disease event</a></li> 
+             <li><a href="/wiki/2020_Malian_protests" title="2020 Malian protests">2020 protests</a></li> 
+             <li><a href="/wiki/2020_Malian_coup_d%27%C3%A9tat" title="2020 Malian coup d'état">2020 coup</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Mali" title="Geography of Mali">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Template:Borders_of_Mali" title="Template:Borders of Mali">Borders</a></li> 
+                 <li><i><a href="/wiki/Cercles_of_Mali" title="Cercles of Mali">Cercles</a></i></li> 
+                 <li><a href="/wiki/List_of_cities_in_Mali" title="List of cities in Mali">Cities</a></li> 
+                 <li><a href="/wiki/Communes_of_Mali" title="Communes of Mali">Communes</a></li> 
+                 <li><a href="/wiki/Environmental_issues_in_Mali" title="Environmental issues in Mali">Environmental issues</a></li> 
+                 <li><a href="/wiki/Category:Mountains_of_Mali" title="Category:Mountains of Mali">Mountains</a></li> 
+                 <li><a href="/wiki/Category:National_parks_of_Mali" title="Category:National parks of Mali">National parks</a></li> 
+                 <li><a href="/wiki/Regions_of_Mali" title="Regions of Mali">Regions</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Mali" title="List of rivers of Mali">Rivers</a></li> 
+                 <li><a href="/wiki/Wildlife_of_Mali" title="Wildlife of Mali">Wildlife</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Mali" title="Politics of Mali">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Constitution_of_Mali" title="Constitution of Mali">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Mali" title="Elections in Mali">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Mali" title="Foreign relations of Mali">Foreign relations</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Mali" title="Human rights in Mali">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/LGBT_rights_in_Mali" title="LGBT rights in Mali">LGBT rights</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Law_enforcement_in_Mali" title="Law enforcement in Mali">Law enforcement</a></li> 
+                 <li><a href="/wiki/Military_of_Mali" class="mw-redirect" title="Military of Mali">Military</a></li> 
+                 <li><a href="/wiki/National_Assembly_(Mali)" title="National Assembly (Mali)">National Assembly</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Mali" title="List of political parties in Mali">Political parties</a></li> 
+                 <li><a href="/wiki/List_of_heads_of_state_of_Mali" title="List of heads of state of Mali">President</a></li> 
+                 <li><a href="/wiki/List_of_Prime_Ministers_of_Mali" class="mw-redirect" title="List of Prime Ministers of Mali">Prime Minister</a></li> 
+                 <li><a href="/wiki/Vice_President_of_Mali" title="Vice President of Mali">Vice President</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Mali" title="Economy of Mali">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Foreign_aid_to_Mali" title="Foreign aid to Mali">Foreign aid</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Mali" title="Telecommunications in Mali">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Mali" title="Tourism in Mali">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Mali" title="Transport in Mali">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Malian_society" title="Category:Malian society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Child_marriage_in_Mali" title="Child marriage in Mali">Child marriage</a></li> 
+                 <li><a href="/wiki/Demographics_of_Mali" title="Demographics of Mali">Demographics</a></li> 
+                 <li><a href="/wiki/Category:Ethnic_groups_in_Mali" title="Category:Ethnic groups in Mali">Ethnic groups</a></li> 
+                 <li><a href="/wiki/Education_in_Mali" title="Education in Mali">Education</a></li> 
+                 <li><a href="/wiki/Health_in_Mali" title="Health in Mali">Health</a></li> 
+                 <li><a href="/wiki/Human_trafficking_in_Mali" title="Human trafficking in Mali">Human trafficking</a></li> 
+                 <li><a href="/wiki/Languages_of_Mali" title="Languages of Mali">Languages</a></li> 
+                 <li><a href="/wiki/Prostitution_in_Mali" title="Prostitution in Mali">Prostitution</a></li> 
+                 <li><a href="/wiki/Religion_in_Mali" title="Religion in Mali">Religion</a></li> 
+                 <li><a href="/wiki/Slavery_in_Mali" title="Slavery in Mali">Slavery</a></li> 
+                 <li><a href="/wiki/Women_in_Mali" title="Women in Mali">Women</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Mali" title="Culture of Mali">Culture</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Malian_cuisine" title="Malian cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/List_of_Malian_films" title="List of Malian films">Films</a></li> 
+                 <li><a href="/wiki/Flag_of_Mali" title="Flag of Mali">Flag</a></li> 
+                 <li><a href="/wiki/Malian_literature" title="Malian literature">Literature</a></li> 
+                 <li><a href="/wiki/Media_of_Mali" class="mw-redirect" title="Media of Mali">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Mali" title="Music of Mali">Music</a></li> 
+                 <li><a href="/wiki/Polygamy_in_Mali" title="Polygamy in Mali">Polygamy</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Mali" title="Outline of Mali">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Mali-related_articles" title="Index of Mali-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Mali" title="Category:Mali">Category</a></li> 
+             <li><a href="/wiki/Portal:Mali" title="Portal:Mali">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Africa" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Africa_topic" title="Template:Africa topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Africa_topic" title="Template talk:Africa topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Africa_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Africa" style="font-size:114%;margin:0 4em">
+            Public holidays in Africa
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Algeria" title="Public holidays in Algeria">Algeria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Angola" title="Public holidays in Angola">Angola</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Benin" title="Public holidays in Benin">Benin</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Botswana" title="Public holidays in Botswana">Botswana</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Burkina_Faso" title="Public holidays in Burkina Faso">Burkina Faso</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Burundi" title="Public holidays in Burundi">Burundi</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cameroon" title="Public holidays in Cameroon">Cameroon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cape_Verde" title="Public holidays in Cape Verde">Cape Verde (Cabo Verde)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Central_African_Republic" title="Public holidays in the Central African Republic">Central African Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Chad" title="Public holidays in Chad">Chad</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Comoros" title="Public holidays in the Comoros">Comoros</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Democratic_Republic_of_the_Congo" title="Public holidays in the Democratic Republic of the Congo">Democratic Republic of the Congo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_the_Congo" title="Public holidays in the Republic of the Congo">Republic of the Congo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Djibouti" title="Public holidays in Djibouti">Djibouti</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Equatorial_Guinea" title="Public holidays in Equatorial Guinea">Equatorial Guinea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Eritrea" title="Public holidays in Eritrea">Eritrea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Eswatini" title="Public holidays in Eswatini">Eswatini (Swaziland)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ethiopia" title="Public holidays in Ethiopia">Ethiopia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gabon" title="Public holidays in Gabon">Gabon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Gambia" title="Public holidays in the Gambia">The Gambia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ghana" title="Public holidays in Ghana">Ghana</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guinea" title="Public holidays in Guinea">Guinea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guinea-Bissau" title="Public holidays in Guinea-Bissau">Guinea-Bissau</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ivory_Coast" title="Public holidays in Ivory Coast">Ivory Coast (Côte d'Ivoire)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kenya" title="Public holidays in Kenya">Kenya</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lesotho" title="Public holidays in Lesotho">Lesotho</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liberia" title="Public holidays in Liberia">Liberia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Libya" title="Public holidays in Libya">Libya</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Madagascar" title="Public holidays in Madagascar">Madagascar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malawi" title="Public holidays in Malawi">Malawi</a></li> 
+             <li><a class="mw-selflink selflink">Mali</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mauritania" title="Public holidays in Mauritania">Mauritania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mauritius" class="mw-redirect" title="Public holidays in Mauritius">Mauritius</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Morocco" title="Public holidays in Morocco">Morocco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mozambique" title="Public holidays in Mozambique">Mozambique</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Namibia" title="Public holidays in Namibia">Namibia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Niger" title="Public holidays in Niger">Niger</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nigeria" title="Public holidays in Nigeria">Nigeria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Rwanda" title="Public holidays in Rwanda">Rwanda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="Public holidays in São Tomé and Príncipe">São Tomé and Príncipe</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Senegal" title="Public holidays in Senegal">Senegal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Seychelles" title="Public holidays in Seychelles">Seychelles</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sierra_Leone" title="Public holidays in Sierra Leone">Sierra Leone</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Somalia" title="Public holidays in Somalia">Somalia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Africa" title="Public holidays in South Africa">South Africa</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Sudan" title="Public holidays in South Sudan">South Sudan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sudan" title="Public holidays in Sudan">Sudan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tanzania" title="Public holidays in Tanzania">Tanzania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Togo" title="Public holidays in Togo">Togo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tunisia" title="Public holidays in Tunisia">Tunisia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uganda" title="Public holidays in Uganda">Uganda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Zambia" title="Public holidays in Zambia">Zambia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Zimbabwe" title="Public holidays in Zimbabwe">Zimbabwe</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            States with limited
+            <br>recognition
+           </div></th>
+          <td class="navbox-list navbox-even hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_Sahrawi_Arab_Democratic_Republic" class="mw-redirect" title="Public holidays in the Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Somaliland" title="Public holidays in Somaliland">Somaliland</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            Dependencies and
+            <br>other territories
+           </div></th>
+          <td class="navbox-list navbox-odd hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div> 
+             <ul>
+              <li><a href="/wiki/Public_holidays_in_the_Canary_Islands" class="mw-redirect" title="Public holidays in the Canary Islands">Canary Islands</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Ceuta" class="mw-redirect" title="Public holidays in Ceuta">Ceuta</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Melilla" class="mw-redirect" title="Public holidays in Melilla">Melilla</a>&nbsp;&nbsp;<span style="font-size:85%;">(Spain)</span></li> 
+              <li><a href="/w/index.php?title=Public_holidays_in_Madeira&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Madeira (page does not exist)">Madeira</a>&nbsp;<span style="font-size:85%;">(Portugal)</span></li> 
+              <li><a href="/w/index.php?title=Public_holidays_in_Mayotte&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Mayotte (page does not exist)">Mayotte</a>&nbsp;/ <a href="/w/index.php?title=Public_holidays_in_R%C3%A9union&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Réunion (page does not exist)">Réunion</a>&nbsp;<span style="font-size:85%;">(France)</span></li> 
+              <li><a href="/wiki/Public_holidays_in_Saint_Helena" class="mw-redirect" title="Public holidays in Saint Helena">Saint Helena</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Ascension_Island" class="mw-redirect" title="Public holidays in Ascension Island">Ascension Island</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Tristan_da_Cunha" class="mw-redirect" title="Public holidays in Tristan da Cunha">Tristan da Cunha</a>&nbsp;<span style="font-size:85%;">(United Kingdom)</span></li> 
+              <li><a href="/wiki/Public_holidays_in_Western_Sahara" class="mw-redirect" title="Public holidays in Western Sahara">Western Sahara</a></li>
+             </ul> 
+            </div>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1364
+Cached time: 20210130174307
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.292 seconds
+Real time usage: 0.407 seconds
+Preprocessor visited node count: 1325/1000000
+Post‐expand include size: 62637/2097152 bytes
+Template argument size: 7064/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 23/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14605/5000000 bytes
+Lua time usage: 0.147/10.000 seconds
+Lua memory usage: 3736345/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  363.552      1 -total
+ 45.24%  164.486      6 Template:Navbox
+ 35.04%  127.397      1 Template:Mali_topics
+ 34.56%  125.657      1 Template:Reflist
+ 34.08%  123.885      1 Template:Country_topics
+ 31.15%  113.252      4 Template:Cite_web
+ 18.64%   67.771      1 Template:Short_description
+ 10.83%   39.357      1 Template:Pagetype
+ 10.13%   36.834      1 Template:Africa_in_topic
+  7.73%   28.095      1 Template:Bulleted_list
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:16207288-0!canonical and timestamp 20210130174307 and revision id 1003273336. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Mali&amp;oldid=1003273336">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Mali&amp;oldid=1003273336</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Malian_culture" title="Category:Malian culture">Malian culture</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Mali" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Mali" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Mali" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Mali" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Mali">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Mali&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Mali&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Mali" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Mali" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Mali&amp;oldid=1003273336" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Mali&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Mali&amp;id=1003273336&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257806" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Mali&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Mali&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B5" title="วันหยุดในประเทศมาลี – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257806#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 28 January 2021, at 05:55<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Mali&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.407","ppvisitednodes":{"value":1325,"limit":1000000},"postexpandincludesize":{"value":62637,"limit":2097152},"templateargumentsize":{"value":7064,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":23,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14605,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  363.552      1 -total"," 45.24%  164.486      6 Template:Navbox"," 35.04%  127.397      1 Template:Mali_topics"," 34.56%  125.657      1 Template:Reflist"," 34.08%  123.885      1 Template:Country_topics"," 31.15%  113.252      4 Template:Cite_web"," 18.64%   67.771      1 Template:Short_description"," 10.83%   39.357      1 Template:Pagetype"," 10.13%   36.834      1 Template:Africa_in_topic","  7.73%   28.095      1 Template:Bulleted_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.147","limit":"10.000"},"limitreport-memusage":{"value":3736345,"limit":52428800}},"cachereport":{"origin":"mw1364","timestamp":"20210130174307","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Mali","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Mali","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7257806","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7257806","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-03-10T03:27:30Z","dateModified":"2021-01-28T05:55:04Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1332"});});</script> 
+ </body>
+</html>

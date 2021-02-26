@@ -37,7 +37,7 @@ public enum MaternalMortalityRate implements CountryRankingService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/List_of_countries_by_maternal_mortality_ratio";
-        final Elements elements = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
         elements.remove(elements.size()-1);
         final EventSource wikipedia = new EventSource("Wikipedia: List of countries by maternal mortality ratio", url);

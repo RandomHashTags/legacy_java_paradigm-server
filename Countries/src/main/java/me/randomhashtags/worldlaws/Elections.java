@@ -2,12 +2,12 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.elections.Election;
 import me.randomhashtags.worldlaws.event.EventDate;
+import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.time.Month;
 import java.util.HashMap;
-import java.util.logging.Level;
 
 public enum Elections implements RestAPI {
     INSTANCE;

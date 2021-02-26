@@ -1,12 +1,11 @@
 package me.randomhashtags.worldlaws;
 
+import org.apache.logging.log4j.Level;
+
 import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.io.Reader;
 import java.net.Socket;
-import java.util.logging.Level;
-
-import static java.lang.System.out;
 
 public final class ProxyClient extends Thread implements RestAPI {
 
@@ -64,7 +63,7 @@ public final class ProxyClient extends Thread implements RestAPI {
                 }
             });
         } else {
-            WLLogger.log(Level.WARNING, prefix + "INVALID");
+            WLLogger.log(Level.WARN, prefix + "INVALID");
             writeOutput(client, DataValues.HTTP_ERROR_404);
         }
     }

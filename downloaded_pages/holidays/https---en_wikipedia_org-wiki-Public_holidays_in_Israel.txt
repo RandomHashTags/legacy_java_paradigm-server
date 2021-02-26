@@ -1,0 +1,1094 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Israel - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBXz7QpAIC4AAKEaH44AAABJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Israel","wgTitle":"Public holidays in Israel","wgCurRevisionId":1001626962,"wgRevisionId":1001626962,"wgArticleId":2764696,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from June 2017","All articles needing additional references","Articles with short description","Short description is different from Wikidata","Public holidays in Israel","Israeli culture","Lists of public holidays by country","Israeli society"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Israel","wgRelevantArticleId":2764696,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q7257793"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Israel"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Israel&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Israel&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Israel"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Israel rootpage-Public_holidays_in_Israel skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Israel</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Israel&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Public+holidays+in+Israel%22">"Public holidays in Israel"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Public+holidays+in+Israel%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Public+holidays+in+Israel%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Public+holidays+in+Israel%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Public+holidays+in+Israel%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Public+holidays+in+Israel%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> <small class="date-container"><i>(<span class="date">June 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p><i>Note: for exact dates in the Gregorian calendar see <a href="/wiki/Jewish_holidays_2000-2050" class="mw-redirect" title="Jewish holidays 2000-2050">Jewish holidays 2000-2050</a>.</i> </p>
+      <p><b>Public holidays in Israel</b> refers to national holidays officially recognized by the <a href="/wiki/Knesset" title="Knesset">Knesset</a>, Israel's parliament. The State of <a href="/wiki/Israel" title="Israel">Israel</a> has adopted most traditional religious <a href="/wiki/Jewish_holidays" title="Jewish holidays">Jewish holidays</a> as part of its national calendar, while also having established new modern holiday observances since its founding in 1948. Of the religious and modern holidays below, some are <a href="/wiki/Bank_holiday" title="Bank holiday">bank holidays</a> / <a href="/wiki/Federal_holiday" class="mw-redirect" title="Federal holiday">federal holidays</a> requiring all schools, government institutions, financial sector, and most retailers in Jewish Israeli society to be closed, while other holidays are marked as days of note or memorial remembrances with no breaks in public or private sector activities. </p>
+      <p>As is the case with all religious Jewish holidays, most public holidays in Israel generally begin and end at sundown, and follow the <a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew calendar</a>. Because of this, most holidays in Israel fall on a different <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a> date each year, which syncs every 19 years with the Hebrew calendar. </p>
+      <p><a href="/wiki/Shabbat" title="Shabbat">Shabbat</a>, the weekly <a href="/wiki/Sabbath" title="Sabbath">Sabbath</a> day of rest, in Israel begins every Friday evening just before sundown, ending Saturday evening just after sundown. Most of the Israeli workforce, including schools, banks, public transportation, government offices, and retailers within Jewish Israeli society are shut down during these approximately 25 hours, with some non-Jewish retailers and most non-kosher restaurants still open. </p> 
+      <table class="wikitable" align="center"> 
+       <tbody>
+        <tr> 
+         <th style="background:#efefef;">Date in <a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew calendar</a> </th> 
+         <th style="background:#efefef;">English name </th> 
+         <th style="background:#efefef;">Hebrew name </th> 
+         <th style="background:#efefef;">Range of dates in <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a> </th> 
+         <th style="background:#efefef;">Status </th>
+        </tr> 
+        <tr> 
+         <td>Every Friday evening before sundown to Saturday evening after sundown </td> 
+         <td><a href="/wiki/Sabbath" title="Sabbath">Sabbath</a> </td> 
+         <td>שבת<br><a href="/wiki/Shabbat" title="Shabbat">Shabbat</a> </td> 
+         <td>Every week </td> 
+         <td>Official holiday with all schools, government institutions, public transportation and most retailers shut down. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Tishrei" title="Tishrei">Tishrei</a> 1-2 </td> 
+         <td>New Year </td> 
+         <td>ראש השנה<br><a href="/wiki/Rosh_Hashanah" title="Rosh Hashanah">Rosh Hashanah</a> </td> 
+         <td>between Sept 5 &amp; Oct 5 </td> 
+         <td>Official holiday (2 days) </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Tishrei" title="Tishrei">Tishrei</a> 3 </td> 
+         <td>Fast of Gedaliah </td> 
+         <td>צום גדליה <br> <a href="/wiki/Fast_of_Gedalia" title="Fast of Gedalia">Fast of Gedalia</a> </td> 
+         <td> </td> 
+         <td>Business as usual </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Tishrei" title="Tishrei">Tishrei</a> 10 </td> 
+         <td>Day of Atonement </td> 
+         <td>יום כיפור <br> <a href="/wiki/Yom_Kippur" title="Yom Kippur">Yom Kippur</a> </td> 
+         <td>between Sept 14 &amp; Oct 14 </td> 
+         <td>Official holiday, businesses close around noon on the holiday's eve. Absolutely all businesses nationwide are closed. Virtually no traffic on the streets with the exception of emergency vehicles. Non-emergency services that normally operate on holidays, e.g. airports, border crossings, broadcasting stations etc. suspend their work for about 28–30 hours. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Tishrei" title="Tishrei">Tishrei</a> 15 </td> 
+         <td>Feast of Tabernacles </td> 
+         <td>סוכות <br> <a href="/wiki/Sukkot" title="Sukkot">Sukkot</a> </td> 
+         <td>between Sept 19 &amp; Oct 19 </td> 
+         <td>Official holiday </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Tishrei" title="Tishrei">Tishrei</a> 16-21 </td> 
+         <td>Feast of Tabernacles </td> 
+         <td>חול המועד סוכות <br> <a href="/wiki/Chol_HaMoed" title="Chol HaMoed">Chol HaMoed</a> </td> 
+         <td>between Sept 19 &amp; Oct 19 </td> 
+         <td>School holiday, collective paid leave in many businesses and government offices </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Tishrei" title="Tishrei">Tishrei</a> 22 </td> 
+         <td>Simchat Torah/Shmini Atzeret </td> 
+         <td>שמחת תורה/שמיני עצרת <br> <a href="/wiki/Simchat_Torah" title="Simchat Torah">Simchat Torah</a>/<a href="/wiki/Shemini_Atzeret" title="Shemini Atzeret">Shemini Atzeret</a> </td> 
+         <td>between Sept 26 &amp; Oct 26 </td> 
+         <td>Official holiday </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Heshvan" class="mw-redirect" title="Heshvan">Heshvan</a> 12 </td> 
+         <td>Rabin Day </td> 
+         <td>יום רבין <br> <a href="/wiki/Rabin_Day" title="Rabin Day">Rabin Day</a> </td> 
+         <td> </td> 
+         <td>National remembrance day, business as usual </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Heshvan" class="mw-redirect" title="Heshvan">Heshvan</a> 29 </td> 
+         <td>Sigd </td> 
+         <td>סיגד <br> <a href="/wiki/Sigd" title="Sigd">Sigd</a> </td> 
+         <td> </td> 
+         <td>Festival of the <a href="/wiki/Ethiopian_Jews" class="mw-redirect" title="Ethiopian Jews">Ethiopian Jews</a>, optional paid leave, business as usual </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Kislev" title="Kislev">Kislev</a> 6 </td> 
+         <td>Ben-Gurion Day </td> 
+         <td>יום בן-גוריון <br> <a href="/wiki/Ben-Gurion_Day" title="Ben-Gurion Day">Ben-Gurion Day</a> </td> 
+         <td> </td> 
+         <td>Day marked by the Knesset </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Kislev" title="Kislev">Kislev</a> 25-<a href="/wiki/Tevet" title="Tevet">Tevet</a> 2/3 </td> 
+         <td>Hanukkah </td> 
+         <td>חנוכה <br> <a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> </td> 
+         <td>between Nov 27 &amp; Dec 27 </td> 
+         <td>School holiday for the duration of the 8 day festival, business as usual </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Tevet" title="Tevet">Tevet</a> 10 </td> 
+         <td>Tenth of Tevet </td> 
+         <td>צום עשרה בטבת <br> <a href="/wiki/Tenth_of_Tevet" title="Tenth of Tevet">Tsom Asarah b-Tevet</a> </td> 
+         <td> </td> 
+         <td>Business as usual </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Shvat" class="mw-redirect" title="Shvat">Shvat</a> 15 </td> 
+         <td>Tu Bishvat (Arbor Day) </td> 
+         <td>ט"ו בשבט <br> <a href="/wiki/Tu_Bishvat" class="mw-redirect" title="Tu Bishvat">Tu Bishvat</a> </td> 
+         <td> </td> 
+         <td>Business as usual </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Adar" title="Adar">Adar</a> 13 </td> 
+         <td>Fast of Esther </td> 
+         <td>תענית אסתר <br> <a href="/wiki/Fast_of_Esther" title="Fast of Esther">Ta`anit Ester</a> </td> 
+         <td> </td> 
+         <td>School holiday, Business as usual </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Adar" title="Adar">Adar</a> 14 &amp; (<a href="/wiki/Adar" title="Adar">Adar</a> 15 in certain cities that during ancient times were walled, such as <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a>, <a href="/wiki/Tzfat" class="mw-redirect" title="Tzfat">Tzfat</a>, <a href="/wiki/Tiveria" class="mw-redirect" title="Tiveria">Tiveria</a>, <a href="/wiki/Hevron" class="mw-redirect" title="Hevron">Hevron</a>, &amp; <a href="/wiki/Shilo,_Mateh_Binyamin" title="Shilo, Mateh Binyamin">Shiloh</a>) </td> 
+         <td>Purim </td> 
+         <td>פורים <br> <a href="/wiki/Purim" title="Purim">Purim</a> </td> 
+         <td>between February 24 &amp; March 26 </td> 
+         <td>School holiday, optional paid leave </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Nisan" title="Nisan">Nisan</a> 10 </td> 
+         <td><a href="/wiki/Yom_HaAliyah" title="Yom HaAliyah">Aliyah Day</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </td> 
+         <td>יום העלייה <br> <a href="/wiki/Yom_HaAliyah" title="Yom HaAliyah">Yom HaAliyah</a> </td> 
+         <td>between March &amp; April </td> 
+         <td>Official holiday, Business as usual </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Nisan" title="Nisan">Nisan</a> 15 </td> 
+         <td>Passover </td> 
+         <td>פסח <br> <a href="/wiki/Pesach" class="mw-redirect" title="Pesach">Pesach</a> </td> 
+         <td>between March 26 &amp; April 25 </td> 
+         <td>Official holiday </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Nisan" title="Nisan">Nisan</a> 16-20 </td> 
+         <td>Passover (intermediate days) </td> 
+         <td>חול המועד פסח <br> <a href="/wiki/Chol_HaMoed" title="Chol HaMoed">Chol HaMoed Pesach</a> </td> 
+         <td>between March 26 &amp; April 25 </td> 
+         <td>School holiday, collective paid leave in many businesses and government offices </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Nisan" title="Nisan">Nisan</a> 21 </td> 
+         <td>Seventh day of Passover </td> 
+         <td>שביעי של פסח <br> <a href="/wiki/Pesach#Seventh_day_of_Passover" class="mw-redirect" title="Pesach">Shvi'i shel Pesach</a> </td> 
+         <td>between April 1 &amp; May 1 </td> 
+         <td>Official holiday </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Nisan" title="Nisan">Nisan</a> 22 </td> 
+         <td>Mimouna </td> 
+         <td>מימונה <br> <a href="/wiki/Mimouna" title="Mimouna">Mimouna</a> </td> 
+         <td>between April 1 &amp; May 1 </td> 
+         <td>Unpaid leave upon request<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Nisan" title="Nisan">Nisan</a> 27 </td> 
+         <td>Holocaust Remembrance Day </td> 
+         <td>יום הזיכרון לשואה ולגבורה <br> <a href="/wiki/Yom_HaShoah" title="Yom HaShoah">Yom HaZikaron LaShoah VeLaGevurah</a> </td> 
+         <td>between April 7 &amp; May 7 </td> 
+         <td>National remembrance day, business as usual except places of public entertainment </td>
+        </tr> 
+        <tr> 
+         <td>Varies (See <a href="/wiki/Victory_Day_(9_May)" title="Victory Day (9 May)">Victory Day (9 May)</a> in general) </td> 
+         <td>Victory in Europe Day </td> 
+         <td>יום הניצחון על גרמניה הנאצית <a href="/wiki/Victory_in_Europe_Day_(Israel)" title="Victory in Europe Day (Israel)">Victory in Europe Day</a> </td> 
+         <td>May 9 </td> 
+         <td>National remembrance day, business as usual </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Iyar" title="Iyar">Iyar</a> 4 </td> 
+         <td>Fallen Soldiers and Victims of Terrorism Remembrance Day </td> 
+         <td>יום הזיכרון לחללי מערכות ישראל ונפגעי פעולות האיבה <br> <a href="/wiki/Yom_Hazikaron" class="mw-redirect" title="Yom Hazikaron">Yom Hazikaron</a> </td> 
+         <td>between April 14 &amp; May 14 </td> 
+         <td>National remembrance day, business as usual except places of public entertainment </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Iyar" title="Iyar">Iyar</a> 5 </td> 
+         <td>Independence Day </td> 
+         <td>יום העצמאות <br> <a href="/wiki/Yom_Ha-Atzmaut" class="mw-redirect" title="Yom Ha-Atzmaut">Yom Ha-Atzmaut</a> </td> 
+         <td>between April 15 &amp; May 15. </td> 
+         <td>Official Holiday </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Iyar" title="Iyar">Iyar</a> 10 </td> 
+         <td>Herzl Day </td> 
+         <td>יום הרצל <br> <a href="/wiki/Herzl_Day" title="Herzl Day">Herzl Day</a> </td> 
+         <td> </td> 
+         <td>Day marked by the Knesset </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Iyar" title="Iyar">Iyar</a> 18 </td> 
+         <td>Lag BaOmer </td> 
+         <td>ל"ג בעומר <br> <a href="/wiki/Lag_Ba%27omer" class="mw-redirect" title="Lag Ba'omer">Lag Ba'omer</a> </td> 
+         <td> </td> 
+         <td>School holiday </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Iyar" title="Iyar">Iyar</a> 28 </td> 
+         <td>Jerusalem Day </td> 
+         <td>יום ירושלים <br> <a href="/wiki/Yom_Yerushalayim" class="mw-redirect" title="Yom Yerushalayim">Yom Yerushalayim</a> </td> 
+         <td> </td> 
+         <td>Optional paid leave </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Sivan" title="Sivan">Sivan</a> 6 </td> 
+         <td>Shavuot </td> 
+         <td>שבועות <br> <a href="/wiki/Shavuot" title="Shavuot">Shavuot</a> </td> 
+         <td>between May 15 &amp; June 14 </td> 
+         <td>Official holiday </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Tammuz_(Hebrew_month)" title="Tammuz (Hebrew month)">Tammuz</a> 17 </td> 
+         <td>Seventeenth of Tammuz, fast </td> 
+         <td>שבעה עשר בתמוז <br> <a href="/wiki/Seventeenth_of_Tammuz" title="Seventeenth of Tammuz">Tsom Shiva` Asar b-Tammuz</a> </td> 
+         <td> </td> 
+         <td>Business as usual </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Tammuz_(Hebrew_month)" title="Tammuz (Hebrew month)">Tammuz</a> 29 </td> 
+         <td>Jabotinsky Day </td> 
+         <td>יום ז'בוטינסקי <br> <a href="/wiki/Jabotinsky_Day" title="Jabotinsky Day">Jabotinsky Day</a> </td> 
+         <td> </td> 
+         <td>Day marked by the Knesset </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Av_(month)" class="mw-redirect" title="Av (month)">Av</a> 9 </td> 
+         <td>Tisha B'Av, fast </td> 
+         <td>תשעה באב <br> <a href="/wiki/Tisha_B%27Av" title="Tisha B'Av">Tisha B'Av</a> </td> 
+         <td> </td> 
+         <td>Optional paid leave, business as usual except places of public entertainment </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Av_(month)" class="mw-redirect" title="Av (month)">Av</a> 15 </td> 
+         <td>Tu B'Av (Fifteenth of Av) </td> 
+         <td>ט"ו באב <br> <a href="/wiki/Tu_B%27Av" title="Tu B'Av">Tu B'Av</a> </td> 
+         <td> </td> 
+         <td>Business as usual </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Israel&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Jewish_holidays" title="Jewish holidays">Jewish holidays</a></li> 
+       <li><a href="/wiki/Jewish_and_Israeli_holidays_2000%E2%80%932050" title="Jewish and Israeli holidays 2000–2050">Jewish and Israeli holidays 2000–2050</a> with Gregorian calendar dates</li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Israel&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">[<a rel="nofollow" class="external free" href="http://www.haaretz.com/israel-news/1.726833?v=25889A989187F43C1E25FBBF142DC48C">http://www.haaretz.com/israel-news/1.726833?v=25889A989187F43C1E25FBBF142DC48C</a> Rank and file: Aliyah Day becomes official holiday, <a href="/wiki/Haaretz" title="Haaretz">Haaretz</a></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFJeffay2012" class="citation news cs1">Jeffay, Nathan (12 April 2012). <a rel="nofollow" class="external text" href="https://forward.com/articles/153868/mimouna-revelries-mark-end-of-passover/">"Mimouna Revelries Mark End of Passover"</a>. <i>The Jewish Daily Forward</i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Jewish+Daily+Forward&amp;rft.atitle=Mimouna+Revelries+Mark+End+of+Passover&amp;rft.date=2012-04-12&amp;rft.aulast=Jeffay&amp;rft.aufirst=Nathan&amp;rft_id=http%3A%2F%2Fforward.com%2Farticles%2F153868%2Fmimouna-revelries-mark-end-of-passover%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Israel" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Israel&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.timeanddate.com/holidays/israel/#!hol=1">National holidays in Israel (2013)</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.worldtravelguide.net/israel/public-holidays">Public Holidays, Israel, World Travel Guide</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Israel_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Israel_topics" title="Template:Israel topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Israel_topics" title="Template talk:Israel topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Israel_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Israel_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Israel" title="Israel">Israel</a>&nbsp;<a href="/wiki/Index_of_Israel-related_articles" title="Index of Israel-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Israel" title="History of Israel">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/History_of_ancient_Israel_and_Judah" title="History of ancient Israel and Judah">Antiquity</a></li> 
+             <li><a href="/wiki/Second_Temple_period" title="Second Temple period">Second Temple period</a></li> 
+             <li><a href="/wiki/History_of_Jerusalem_during_the_Middle_Ages" title="History of Jerusalem during the Middle Ages">Middle Ages</a></li> 
+             <li><a href="/wiki/Ottoman_Syria" title="Ottoman Syria">Ottoman Syria</a> 
+              <ul>
+               <li><a href="/wiki/Old_Yishuv" title="Old Yishuv">Old Yishuv</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Zionism" title="Zionism">Zionism</a> 
+              <ul>
+               <li><a href="/wiki/Yishuv" title="Yishuv">Yishuv</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Mandatory_Palestine" title="Mandatory Palestine">British mandate</a> 
+              <ul>
+               <li><a href="/wiki/Israeli_Declaration_of_Independence" title="Israeli Declaration of Independence">Independence</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Arab%E2%80%93Israeli_conflict" title="Arab–Israeli conflict">Arab–Israeli conflict</a> 
+              <ul>
+               <li><a href="/wiki/Israeli%E2%80%93Palestinian_conflict" title="Israeli–Palestinian conflict">Israeli–Palestinian conflict</a></li> 
+               <li><a href="/wiki/Israeli%E2%80%93Palestinian_peace_process" title="Israeli–Palestinian peace process">Peace process</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Iran%E2%80%93Israel_proxy_conflict" title="Iran–Israel proxy conflict">Iran–Israel proxy conflict</a></li> 
+             <li><a href="/wiki/Timeline_of_Israeli_history" title="Timeline of Israeli history">Timeline</a> 
+              <ul>
+               <li><a href="/wiki/List_of_years_in_Israel" title="List of years in Israel">by year</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Israel" title="Geography of Israel">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Borders_of_Israel" title="Borders of Israel">Borders</a></li> 
+                 <li><a href="/wiki/List_of_cities_in_Israel" title="List of cities in Israel">Cities</a></li> 
+                 <li><a href="/wiki/Districts_of_Israel" title="Districts of Israel">Districts</a></li> 
+                 <li><a href="/wiki/List_of_lakes_of_Israel" title="List of lakes of Israel">Lakes</a> 
+                  <ul>
+                   <li><a href="/wiki/Dead_Sea" title="Dead Sea">Dead Sea</a></li> 
+                   <li><a href="/wiki/Sea_of_Galilee" title="Sea of Galilee">Sea of Galilee</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Land_of_Israel" title="Land of Israel">Land of Israel</a></li> 
+                 <li><a href="/wiki/National_parks_and_nature_reserves_of_Israel" title="National parks and nature reserves of Israel">National parks and nature reserves</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Israel" title="List of rivers of Israel">Rivers</a> 
+                  <ul>
+                   <li><a href="/wiki/Jordan_River" title="Jordan River">Jordan River</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Wildlife_of_Israel" title="Wildlife of Israel">Wildlife</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Israel" title="Politics of Israel">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Cabinet_of_Israel" title="Cabinet of Israel">Cabinet</a> 
+                  <ul>
+                   <li><a href="/wiki/Prime_Minister_of_Israel" title="Prime Minister of Israel">Prime Minister</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Elections_in_Israel" title="Elections in Israel">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Israel" title="Foreign relations of Israel">Foreign relations</a></li> 
+                 <li><a href="/wiki/Knesset" title="Knesset">Knesset</a> <small>(parliament)</small> 
+                  <ul>
+                   <li><a href="/wiki/List_of_political_parties_in_Israel" title="List of political parties in Israel">Parties</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Israeli_law" title="Israeli law">Law</a> 
+                  <ul>
+                   <li><a href="/wiki/Basic_Laws_of_Israel" title="Basic Laws of Israel">Basic Laws</a></li> 
+                   <li><a href="/wiki/Judiciary_of_Israel" title="Judiciary of Israel">Judiciary</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/President_of_Israel" title="President of Israel">President</a></li> 
+                 <li><a href="/wiki/Israeli_system_of_government" title="Israeli system of government">System of government</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Israeli_security_forces" title="Israeli security forces">Security</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Censorship_in_Israel" title="Censorship in Israel">Censorship</a></li> 
+             <li><a href="/wiki/Civil_defense_in_Israel" title="Civil defense in Israel">Civil defense</a></li> 
+             <li><a href="/wiki/Israeli_Intelligence_Community" title="Israeli Intelligence Community">Intelligence Community</a> 
+              <ul>
+               <li><a href="/wiki/Military_Intelligence_Directorate_(Israel)" title="Military Intelligence Directorate (Israel)">Aman</a></li> 
+               <li><a href="/wiki/Mossad" title="Mossad">Mossad</a></li> 
+               <li><a href="/wiki/Shin_Bet" title="Shin Bet">Shin Bet</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Israel_Defense_Forces" title="Israel Defense Forces">Israel Defense Forces</a> 
+              <ul>
+               <li><a href="/wiki/Conscription_in_Israel" title="Conscription in Israel">Conscription</a></li> 
+               <li><a href="/wiki/Structure_and_internal_organization_of_the_Israel_Army" class="mw-redirect" title="Structure and internal organization of the Israel Army">Structure</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Israel_Police" title="Israel Police">Police</a></li> 
+             <li><a href="/wiki/List_of_wars_involving_Israel" title="List of wars involving Israel">Wars</a></li> 
+             <li><a href="/wiki/Israeli_West_Bank_barrier" title="Israeli West Bank barrier">West Bank barrier</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Israel" title="Economy of Israel">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Agriculture_in_Israel" title="Agriculture in Israel">Agriculture</a></li> 
+                 <li><a href="/wiki/Banking_in_Israel" title="Banking in Israel">Banking</a></li> 
+                 <li><a href="/wiki/List_of_companies_of_Israel" title="List of companies of Israel">Companies</a></li> 
+                 <li><a href="/wiki/Diamond_industry_in_Israel" title="Diamond industry in Israel">Diamond industry</a></li> 
+                 <li><a href="/wiki/Energy_in_Israel" title="Energy in Israel">Energy</a></li> 
+                 <li><a href="/wiki/Science_and_technology_in_Israel" title="Science and technology in Israel">Science and technology</a></li> 
+                 <li><a href="/wiki/Taxation_in_Israel" title="Taxation in Israel">Taxation</a></li> 
+                 <li><a href="/wiki/Tel_Aviv_Stock_Exchange" title="Tel Aviv Stock Exchange">Tel Aviv Stock Exchange</a></li> 
+                 <li><a href="/wiki/Tourism_in_Israel" title="Tourism in Israel">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Israel" title="Transport in Israel">Transport</a></li> 
+                 <li><a href="/wiki/Water_supply_and_sanitation_in_Israel" title="Water supply and sanitation in Israel">Water supply and sanitation</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Israeli_society" title="Category:Israeli society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Crime_in_Israel" title="Crime in Israel">Crime</a></li> 
+                 <li><a href="/wiki/Demographics_of_Israel" title="Demographics of Israel">Demographics</a> 
+                  <ul>
+                   <li><a href="/wiki/Aliyah" title="Aliyah">Aliyah</a></li> 
+                   <li><a href="/wiki/Israelis" title="Israelis">People</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Education_in_Israel" title="Education in Israel">Education</a></li> 
+                 <li><a href="/wiki/Healthcare_in_Israel" title="Healthcare in Israel">Healthcare</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Israel" title="Human rights in Israel">Human rights</a></li> 
+                 <li><a href="/wiki/Kibbutz" title="Kibbutz">Kibbutz</a></li> 
+                 <li><a href="/wiki/Languages_of_Israel" title="Languages of Israel">Languages</a> 
+                  <ul>
+                   <li><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a></li> 
+                   <li><a href="/wiki/Arabic_language_in_Israel" title="Arabic language in Israel">Arabic</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Religion_in_Israel" title="Religion in Israel">Religion</a></li> 
+                 <li><a href="/wiki/Standard_of_living_in_Israel" title="Standard of living in Israel">Standard of living</a></li> 
+                 <li><a href="/wiki/Women_in_Israel" title="Women in Israel">Women</a></li> 
+                 <li><a href="/wiki/Feminism_in_Israel" title="Feminism in Israel">Feminism</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Israel" title="Culture of Israel">Culture</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Archaeology_of_Israel" title="Archaeology of Israel">Archaeology</a></li> 
+                 <li><a href="/wiki/Architecture_of_Israel" title="Architecture of Israel">Architecture</a></li> 
+                 <li><a href="/wiki/Cinema_of_Israel" title="Cinema of Israel">Cinema</a></li> 
+                 <li><a href="/wiki/Israeli_cuisine" title="Israeli cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Israeli_literature" title="Israeli literature">Literature</a></li> 
+                 <li><a href="/wiki/Media_of_Israel" class="mw-redirect" title="Media of Israel">Media</a></li> 
+                 <li><a href="/wiki/List_of_Israeli_museums" title="List of Israeli museums">Museums</a></li> 
+                 <li><a href="/wiki/Music_of_Israel" title="Music of Israel">Music</a></li> 
+                 <li><a href="/wiki/National_symbols_of_Israel" class="mw-redirect" title="National symbols of Israel">National symbols</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Sport_in_Israel" title="Sport in Israel">Sport</a></li> 
+                 <li><a href="/wiki/Visual_arts_in_Israel" title="Visual arts in Israel">Visual arts</a></li> 
+                 <li><a href="/wiki/List_of_World_Heritage_Sites_in_Israel" class="mw-redirect" title="List of World Heritage Sites in Israel">World Heritage Sites</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Israel" title="Outline of Israel">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Israel-related_articles" title="Index of Israel-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Israel" title="Category:Israel">Category</a></li> 
+             <li><a href="/wiki/Portal:Israel" title="Portal:Israel">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Jewish_and_Israeli_holidays_and_observances" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Jewish_and_Israeli_holidays" title="Template:Jewish and Israeli holidays"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Jewish_and_Israeli_holidays" title="Template talk:Jewish and Israeli holidays"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Jewish_and_Israeli_holidays&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Jewish_and_Israeli_holidays_and_observances" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Jewish_holidays" title="Jewish holidays">Jewish</a> and <a class="mw-selflink selflink">Israeli</a> holidays and observances
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            Jewish holidays and
+            <br>observances
+           </div></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Shabbat</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Shabbat" title="Shabbat">Shabbat</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/High_Holy_Days" title="High Holy Days">High Holy Days</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Rosh_Hashanah" title="Rosh Hashanah">Rosh Hashanah</a></li> 
+                 <li><a href="/wiki/Fast_of_Gedalia" title="Fast of Gedalia">Fast of Gedalia</a></li> 
+                 <li><a href="/wiki/Ten_Days_of_Repentance" title="Ten Days of Repentance">Ten Days of Repentance</a></li> 
+                 <li><a href="/wiki/Yom_Kippur" title="Yom Kippur">Yom Kippur</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">
+               <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+                <a href="/wiki/Three_Pilgrimage_Festivals" title="Three Pilgrimage Festivals">Three Pilgrimage<br>Festivals</a>
+               </div></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Passover" title="Passover">Passover</a></li> 
+                 <li><a href="/wiki/Fast_of_the_Firstborn" title="Fast of the Firstborn">Fast of the Firstborn</a></li> 
+                 <li><a href="/wiki/Pesach_Sheni" title="Pesach Sheni">Pesach Sheni</a></li>
+                </ul> 
+               </div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Shavuot" title="Shavuot">Shavuot</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Sukkot" title="Sukkot">Sukkot</a></li> 
+                     <li><a href="/wiki/Hoshana_Rabbah" title="Hoshana Rabbah">Hoshana Rabbah</a></li> 
+                     <li><a href="/wiki/Shemini_Atzeret" title="Shemini Atzeret">Shemini Atzeret</a></li> 
+                     <li><a href="/wiki/Simchat_Torah" title="Simchat Torah">Simchat Torah</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Yom_tov_sheni_shel_galuyot" title="Yom tov sheni shel galuyot">Yom tov sheni shel galuyot</a></li> 
+                     <li><a href="/wiki/Chol_HaMoed" title="Chol HaMoed">Chol HaMoed</a></li> 
+                     <li><a href="/wiki/Isru_chag" title="Isru chag">Isru chag</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div> 
+               </div></td>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Rosh_Chodesh" title="Rosh Chodesh">Rosh Chodesh</a></li> 
+                 <li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a></li> 
+                 <li><a href="/wiki/Tenth_of_Tevet" title="Tenth of Tevet">Tenth of Tevet</a></li> 
+                 <li><a href="/wiki/Tu_BiShvat" title="Tu BiShvat">Tu BiShvat</a></li> 
+                 <li><a href="/wiki/Fast_of_Esther" title="Fast of Esther">Fast of Esther</a></li> 
+                 <li><a href="/wiki/Purim" title="Purim">Purim</a></li> 
+                 <li><a href="/wiki/Purim#Purim_Katan" title="Purim">Purim Katan</a></li> 
+                 <li><a href="/wiki/Counting_of_the_Omer" title="Counting of the Omer">Counting of the Omer</a></li> 
+                 <li><a href="/wiki/Lag_BaOmer" title="Lag BaOmer">Lag BaOmer</a></li> 
+                 <li><a href="/wiki/Seventeenth_of_Tammuz" title="Seventeenth of Tammuz">17th of Tammuz</a></li> 
+                 <li><a href="/wiki/The_Three_Weeks" title="The Three Weeks">The Three Weeks</a></li> 
+                 <li><a href="/wiki/The_Nine_Days" title="The Nine Days">The Nine Days</a></li> 
+                 <li><a href="/wiki/Tisha_B%27Av" title="Tisha B'Av">Tisha B'Av</a></li> 
+                 <li><a href="/wiki/Tu_B%27Av" title="Tu B'Av">Tu B'Av</a></li> 
+                 <li><a href="/wiki/Rosh_Hashanah_LaBehema" title="Rosh Hashanah LaBehema">Rosh Hashanah LaBehema</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            Holidays&nbsp;/ memorial days
+            <br>of the <a href="/wiki/State_of_Israel" class="mw-redirect" title="State of Israel">State of Israel</a>
+           </div></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Yom_HaShoah" title="Yom HaShoah">Yom HaShoah (Holocaust Remembrance Day)</a></li> 
+             <li><a href="/wiki/Yom_HaZikaron" title="Yom HaZikaron">Yom HaZikaron (Memorial Day)</a></li> 
+             <li><a href="/wiki/Independence_Day_(Israel)" title="Independence Day (Israel)">Yom HaAtzmaut (Independence Day)</a></li> 
+             <li><a href="/wiki/Jerusalem_Day" title="Jerusalem Day">Yom Yerushalayim (Jerusalem Day)</a></li> 
+             <li><a href="/wiki/Yom_HaAliyah" title="Yom HaAliyah">Yom HaAliyah (Aliyah Day)</a></li> 
+             <li><a href="/wiki/Day_to_Mark_the_Departure_and_Expulsion_of_Jews_from_the_Arab_Countries_and_Iran" title="Day to Mark the Departure and Expulsion of Jews from the Arab Countries and Iran">Day to Mark the Departure and Expulsion of Jews from the Arab Countries and Iran</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jewish_ethnic_divisions" title="Jewish ethnic divisions">Ethnic minority</a> holidays</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Mimouna" title="Mimouna">Mimouna</a></li> 
+             <li><a href="/wiki/Seharane" title="Seharane">Seharane</a></li> 
+             <li><a href="/wiki/Sigd" title="Sigd">Sigd</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew calendar</a> months</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Tishrei" title="Tishrei">Tishrei</a></li> 
+             <li><a href="/wiki/Cheshvan" title="Cheshvan">Cheshvan</a></li> 
+             <li><a href="/wiki/Kislev" title="Kislev">Kislev</a></li> 
+             <li><a href="/wiki/Tevet" title="Tevet">Tevet</a></li> 
+             <li><a href="/wiki/Shevat" title="Shevat">Shevat</a></li> 
+             <li><a href="/wiki/Adar" title="Adar">Adar and Adar Sheni</a></li> 
+             <li><a href="/wiki/Nisan" title="Nisan">Nisan</a></li> 
+             <li><a href="/wiki/Iyar" title="Iyar">Iyar</a></li> 
+             <li><a href="/wiki/Sivan" title="Sivan">Sivan</a></li> 
+             <li><a href="/wiki/Tammuz_(Hebrew_month)" title="Tammuz (Hebrew month)">Tammuz</a></li> 
+             <li><a href="/wiki/Av" title="Av">Av</a></li> 
+             <li><a href="/wiki/Elul" title="Elul">Elul</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div> 
+            <ul>
+             <li><a href="/wiki/Jewish_and_Israeli_holidays_2000%E2%80%932050" title="Jewish and Israeli holidays 2000–2050">Jewish and Israeli holidays 2000–2050</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Asia" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Asia_topic" title="Template:Asia topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Asia_topic" title="Template talk:Asia topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Asia_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Asia" style="font-size:114%;margin:0 4em">
+            Public holidays in Asia
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Afghanistan" title="Public holidays in Afghanistan">Afghanistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bahrain" title="Public holidays in Bahrain">Bahrain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bangladesh" title="Public holidays in Bangladesh">Bangladesh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bhutan" title="Public holidays in Bhutan">Bhutan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Brunei" title="Public holidays in Brunei">Brunei</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cambodia" title="Public holidays in Cambodia">Cambodia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_China" title="Public holidays in China">China</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_East_Timor" class="mw-redirect" title="Public holidays in East Timor">East Timor (Timor-Leste)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_India" title="Public holidays in India">India</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Indonesia" title="Public holidays in Indonesia">Indonesia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iran" title="Public holidays in Iran">Iran</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iraq" title="Public holidays in Iraq">Iraq</a></li> 
+             <li><a class="mw-selflink selflink">Israel</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Japan" title="Public holidays in Japan">Japan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jordan" title="Public holidays in Jordan">Jordan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Korea" title="Public holidays in North Korea">North Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Korea" title="Public holidays in South Korea">South Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kuwait" title="Public holidays in Kuwait">Kuwait</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kyrgyzstan" title="Public holidays in Kyrgyzstan">Kyrgyzstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Laos" title="Public holidays in Laos">Laos</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lebanon" title="Public holidays in Lebanon">Lebanon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malaysia" title="Public holidays in Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Maldives" title="Public holidays in the Maldives">Maldives</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mongolia" title="Public holidays in Mongolia">Mongolia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Myanmar" title="Public holidays in Myanmar">Myanmar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nepal" title="Public holidays in Nepal">Nepal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Oman" title="Public holidays in Oman">Oman</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Pakistan" title="Public holidays in Pakistan">Pakistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Philippines" title="Public holidays in the Philippines">Philippines</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Qatar" title="Public holidays in Qatar">Qatar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saudi_Arabia" title="Public holidays in Saudi Arabia">Saudi Arabia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Singapore" title="Public holidays in Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sri_Lanka" class="mw-redirect" title="Public holidays in Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Syria" title="Public holidays in Syria">Syria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tajikistan" title="Public holidays in Tajikistan">Tajikistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Thailand" title="Public holidays in Thailand">Thailand</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkmenistan" title="Public holidays in Turkmenistan">Turkmenistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Arab_Emirates" title="Public holidays in the United Arab Emirates">United Arab Emirates</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uzbekistan" title="Public holidays in Uzbekistan">Uzbekistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vietnam" title="Public holidays in Vietnam">Vietnam</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Yemen" title="Public holidays in Yemen">Yemen</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with<br>limited recognition</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_State_of_Palestine" title="Public holidays in the State of Palestine">Palestine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Taiwan" title="Public holidays in Taiwan">Taiwan</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a> and<br>other territories</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Public_holidays_in_the_British_Indian_Ocean_Territory&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in the British Indian Ocean Territory (page does not exist)">British Indian Ocean Territory</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Christmas_Island" title="Public holidays in Christmas Island">Christmas Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cocos_(Keeling)_Islands" title="Public holidays in the Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hong_Kong" title="Public holidays in Hong Kong">Hong Kong</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Macau" title="Public holidays in Macau">Macau</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+           <div> 
+            <ul>
+             <li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Book:Asia" title="Book:Asia">Book</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Asia" title="Category:Asia">Category</a></li> 
+             <li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> <a href="/wiki/Portal:Asia" title="Portal:Asia">Asia portal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1325
+Cached time: 20210130142946
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.668 seconds
+Real time usage: 0.807 seconds
+Preprocessor visited node count: 14316/1000000
+Post‐expand include size: 112470/2097152 bytes
+Template argument size: 14943/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 22/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7034/5000000 bytes
+Lua time usage: 0.219/10.000 seconds
+Lua memory usage: 7115739/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  671.018      1 -total
+ 60.28%  404.520      9 Template:Navbox
+ 42.31%  283.919      1 Template:Asia_topic
+ 35.33%  237.047     56 Template:Iso2country
+ 16.73%  112.287      1 Template:More_citations_needed
+ 16.43%  110.218      1 Template:Israel_topics
+ 15.93%  106.898      1 Template:Country_topics
+ 15.16%  101.722      1 Template:Reflist
+ 13.20%   88.603      1 Template:Cite_news
+ 13.13%   88.135      1 Template:Ambox
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:2764696-0!canonical and timestamp 20210130142945 and revision id 1001626962. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Israel&amp;oldid=1001626962">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Israel&amp;oldid=1001626962</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Israel" title="Category:Public holidays in Israel">Public holidays in Israel</a></li>
+       <li><a href="/wiki/Category:Israeli_culture" title="Category:Israeli culture">Israeli culture</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Israeli_society" title="Category:Israeli society">Israeli society</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2017" title="Category:Articles needing additional references from June 2017">Articles needing additional references from June 2017</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Israel" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Israel" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Israel" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Israel" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Israel">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Israel&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Israel&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Israel" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Israel" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Israel&amp;oldid=1001626962" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Israel&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Israel&amp;id=1001626962&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257793" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Israel&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Israel&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Holidays_in_Israel" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%97%D7%92%D7%99%D7%9D_%D7%A6%D7%99%D7%91%D7%95%D7%A8%D7%99%D7%99%D7%9D_%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C" title="חגים ציבוריים בישראל – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257793#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 20 January 2021, at 15:13<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Israel&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.668","walltime":"0.807","ppvisitednodes":{"value":14316,"limit":1000000},"postexpandincludesize":{"value":112470,"limit":2097152},"templateargumentsize":{"value":14943,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7034,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  671.018      1 -total"," 60.28%  404.520      9 Template:Navbox"," 42.31%  283.919      1 Template:Asia_topic"," 35.33%  237.047     56 Template:Iso2country"," 16.73%  112.287      1 Template:More_citations_needed"," 16.43%  110.218      1 Template:Israel_topics"," 15.93%  106.898      1 Template:Country_topics"," 15.16%  101.722      1 Template:Reflist"," 13.20%   88.603      1 Template:Cite_news"," 13.13%   88.135      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.219","limit":"10.000"},"limitreport-memusage":{"value":7115739,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20210130142946","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Israel","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Israel","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7257793","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7257793","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-26T04:19:21Z","dateModified":"2021-01-20T15:13:05Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":133,"wgHostname":"mw1325"});});</script> 
+ </body>
+</html>

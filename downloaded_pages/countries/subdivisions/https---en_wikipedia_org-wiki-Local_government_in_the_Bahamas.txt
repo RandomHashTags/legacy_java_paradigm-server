@@ -1,0 +1,551 @@
+<table class="wikitable sortable"> 
+ <tbody>
+  <tr> 
+   <th>District</th> 
+   <th>Island Group</th> 
+   <th>Largest Town and Cities </th>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Acklins" title="Acklins">Acklins</a></td> 
+   <td><a href="/wiki/Acklins_and_Crooked_Islands" title="Acklins and Crooked Islands">Acklins and Crooked Islands</a></td> 
+   <td>Spring Point, Lovely Bay </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Berry_Islands" title="Berry Islands">Berry Islands</a></td> 
+   <td><a href="/wiki/Berry_Islands" title="Berry Islands">Berry Islands</a></td> 
+   <td>Bullocks Harbour, <a href="/wiki/Chub_Cay" title="Chub Cay">Chub Cay</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Bimini" title="Bimini">Bimini</a></td> 
+   <td><a href="/wiki/Bimini_Islands" class="mw-redirect" title="Bimini Islands">Bimini</a></td> 
+   <td><a href="/wiki/Alice_Town" title="Alice Town">Alice Town</a>, Louis Town </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Black_Point,_Bahamas" title="Black Point, Bahamas">Black Point</a></td> 
+   <td><a href="/wiki/Exuma" title="Exuma">Exuma</a></td> 
+   <td><a href="/wiki/Black_Point,_Bahamas" title="Black Point, Bahamas">Black Point</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Cat_Island,_Bahamas" title="Cat Island, Bahamas">Cat Island</a></td> 
+   <td><a href="/wiki/Cat_Island,_Bahamas" title="Cat Island, Bahamas">Cat Island</a></td> 
+   <td>Arthur's Town, Port Howe </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Central_Abaco" title="Central Abaco">Central Abaco</a></td> 
+   <td><a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></td> 
+   <td><a href="/wiki/Marsh_Harbour" title="Marsh Harbour">Marsh Harbour</a>, <a href="/wiki/Spring_City,_Bahamas" title="Spring City, Bahamas">Spring City</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Central_Andros" title="Central Andros">Central Andros</a></td> 
+   <td><a href="/wiki/Andros,_Bahamas" title="Andros, Bahamas">Andros</a></td> 
+   <td>Cargill Creek, Behring Point </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Central_Eleuthera" title="Central Eleuthera">Central Eleuthera</a></td> 
+   <td><a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a></td> 
+   <td><a href="/wiki/Governor%27s_Harbour" title="Governor's Harbour">Governor's Harbour</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Freeport,_Bahamas" title="Freeport, Bahamas">City of Freeport</a></td> 
+   <td><a href="/wiki/Grand_Bahama" title="Grand Bahama">Grand Bahama</a></td> 
+   <td><a href="/wiki/Freeport,_Bahamas" title="Freeport, Bahamas">Freeport Lucaya</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Crooked_Island,_Bahamas" title="Crooked Island, Bahamas">Crooked Island</a></td> 
+   <td><a href="/wiki/Acklins_and_Crooked_Islands" title="Acklins and Crooked Islands">Acklins and Crooked Islands</a></td> 
+   <td><a href="/wiki/Colonel_Hill" title="Colonel Hill">Colonel Hill</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/East_Grand_Bahama" title="East Grand Bahama">East Grand Bahama</a></td> 
+   <td><a href="/wiki/Grand_Bahama" title="Grand Bahama">Grand Bahama</a></td> 
+   <td>Pelican Point, Maclean's Town </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Exuma" title="Exuma">Exuma</a></td> 
+   <td><a href="/wiki/Exuma" title="Exuma">Exuma</a></td> 
+   <td><a href="/wiki/George_Town,_Bahamas" title="George Town, Bahamas">George Town</a>, Rolleville </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Grand_Cay" title="Grand Cay">Grand Cay</a></td> 
+   <td><a href="/wiki/Grand_Cay" title="Grand Cay">Grand Cay</a></td> 
+   <td><a href="/wiki/Grand_Cay" title="Grand Cay">Grand Cay City</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Green_Turtle_Cay" title="Green Turtle Cay">Green Turtle Cay</a></td> 
+   <td><a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></td> 
+   <td>New Plymouth </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Harbour_Island,_Bahamas" title="Harbour Island, Bahamas">Harbour Island</a></td> 
+   <td><a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a></td> 
+   <td><a href="/wiki/Dunmore_Town" title="Dunmore Town">Dunmore Town</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Hope_Town" title="Hope Town">Hope Town</a></td> 
+   <td><a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></td> 
+   <td><a href="/wiki/Hope_Town" title="Hope Town">Hope Town</a>, <a href="/wiki/Man-o-War_Cay" class="mw-redirect" title="Man-o-War Cay">Man-o-War Cay</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Inagua" title="Inagua">Inagua</a></td> 
+   <td><a href="/wiki/Inagua" title="Inagua">Inagua Islands</a></td> 
+   <td><a href="/wiki/Matthew_Town" title="Matthew Town">Matthew Town</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Long_Island,_Bahamas" title="Long Island, Bahamas">Long Island</a></td> 
+   <td><a href="/wiki/Long_Island,_Bahamas" title="Long Island, Bahamas">Long Island</a></td> 
+   <td>Deadman's Cay, Clarence Town </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Mangrove_Cay" title="Mangrove Cay">Mangrove Cay</a></td> 
+   <td><a href="/wiki/Andros,_Bahamas" title="Andros, Bahamas">Andros</a></td> 
+   <td>Moxey Town, Lisbon Creek </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Mayaguana" title="Mayaguana">Mayaguana</a></td> 
+   <td><a href="/wiki/Mayaguana" title="Mayaguana">Mayaguana</a></td> 
+   <td>Abraham's Bay </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Moore%27s_Island" title="Moore's Island">Moore's Island</a></td> 
+   <td><a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></td> 
+   <td>Hard Bargain, The Bight </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/North_Abaco" title="North Abaco">North Abaco</a></td> 
+   <td><a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></td> 
+   <td><a href="/wiki/Coopers_Town" title="Coopers Town">Coopers Town</a>, <a href="/wiki/Crown_Haven" title="Crown Haven">Crown Haven</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/North_Andros" title="North Andros">North Andros</a></td> 
+   <td><a href="/wiki/Andros,_Bahamas" title="Andros, Bahamas">Andros</a></td> 
+   <td><a href="/wiki/Nicholls_Town" title="Nicholls Town">Nicholl's Town</a>, Morgan's Bluff </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/North_Eleuthera" title="North Eleuthera">North Eleuthera</a></td> 
+   <td><a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a></td> 
+   <td>Upper Bouge, Lower Bouge, Current </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Ragged_Island,_Bahamas" title="Ragged Island, Bahamas">Ragged Island</a></td> 
+   <td><a href="/wiki/Ragged_Island,_Bahamas" title="Ragged Island, Bahamas">Ragged island Chain</a></td> 
+   <td>Duncan Town </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Rum_Cay" title="Rum Cay">Rum Cay</a></td> 
+   <td><a href="/wiki/Rum_Cay" title="Rum Cay">Rum Cay</a></td> 
+   <td><a href="/wiki/Rum_Cay" title="Rum Cay">Port Nelson</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/San_Salvador_Island" title="San Salvador Island">San Salvador</a></td> 
+   <td><a href="/wiki/San_Salvador_Island" title="San Salvador Island">San Salvador Island</a></td> 
+   <td><a href="/wiki/Cockburn_Town,_Bahamas" title="Cockburn Town, Bahamas">Cockburn Town</a>, United Estates </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/South_Abaco" title="South Abaco">South Abaco</a></td> 
+   <td><a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></td> 
+   <td><a href="/wiki/Sandy_Point,_Bahamas" class="mw-redirect" title="Sandy Point, Bahamas">Sandy Point</a>, Crossing Rocks </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/South_Andros" title="South Andros">South Andros</a></td> 
+   <td><a href="/wiki/Andros,_Bahamas" title="Andros, Bahamas">Andros</a></td> 
+   <td>Congo Town, Mars Bay </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/South_Eleuthera" title="South Eleuthera">South Eleuthera</a></td> 
+   <td><a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a></td> 
+   <td><a href="/wiki/Tarpum_Bay" title="Tarpum Bay">Tarpum Bay</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Spanish_Wells" title="Spanish Wells">Spanish Wells</a></td> 
+   <td>Russel Island</td> 
+   <td><a href="/wiki/Spanish_Wells" title="Spanish Wells">Spanish Wells</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/West_Grand_Bahama" title="West Grand Bahama">West Grand Bahama</a></td> 
+   <td><a href="/wiki/Grand_Bahama" title="Grand Bahama">Grand Bahama</a></td> 
+   <td><a href="/wiki/West_End_theatre" title="West End theatre">West End</a>, Eight Mile Rock </td>
+  </tr>
+ </tbody>
+</table>
+<table class="wikitable sortable" style="font-size:90%; width:650px; margin:auto;"> 
+ <caption style="text-align:center; background:#bfd7ff;">
+  <b>Distribution of councils and population (2010 Census)</b> 
+ </caption> 
+ <tbody>
+  <tr style="background:#efefef;"> 
+   <th style="text-align:center;" class="unsortable"><a href="/wiki/Islands_of_the_Bahamas" class="mw-redirect" title="Islands of the Bahamas">Island</a> </th> 
+   <th align="left">2nd tier </th> 
+   <th align="left">3rd tier </th> 
+   <th align="right">Town </th> 
+   <th align="right">Population </th>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/New_Providence" title="New Providence">New Providence</a> </td> 
+   <td>0 </td> 
+   <td>0 </td> 
+   <td> </td> 
+   <td>246,329 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Abaco,_Bahamas" class="mw-redirect" title="Abaco, Bahamas">Abaco islands</a> </td> 
+   <td>3 </td> 
+   <td>4 </td> 
+   <td> </td> 
+   <td>17,242 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Acklins" title="Acklins">Acklins</a> </td> 
+   <td>0 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>565 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Andros,_Bahamas" title="Andros, Bahamas">Andros Island</a> </td> 
+   <td>3 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>7,490 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Berry_Islands" title="Berry Islands">Berry Islands</a> </td> 
+   <td>0 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>807 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Bimini" title="Bimini">Bimini</a> </td> 
+   <td>0 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>1,988 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Cat_Island,_Bahamas" title="Cat Island, Bahamas">Cat Island</a> </td> 
+   <td>1 </td> 
+   <td>0 </td> 
+   <td> </td> 
+   <td>1,522 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Crooked_Island,_Bahamas" title="Crooked Island, Bahamas">Crooked Island</a> </td> 
+   <td>0 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>330 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Grand_Bahama" title="Grand Bahama">Grand Bahama</a> </td> 
+   <td>2 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>51,368 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Harbour_Island,_Bahamas" title="Harbour Island, Bahamas">Harbour Island</a> </td> 
+   <td>0 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>1,762 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a> </td> 
+   <td>2 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>8,202 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Exuma" title="Exuma">Exuma and Cays</a> </td> 
+   <td>1 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>6,928 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Inagua" title="Inagua">Inagua</a> </td> 
+   <td>0 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>913 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Long_Island,_Bahamas" title="Long Island, Bahamas">Long Island</a> </td> 
+   <td>1 </td> 
+   <td>0 </td> 
+   <td> </td> 
+   <td>3,094 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Mayaguana" title="Mayaguana">Mayaguana</a> </td> 
+   <td>0 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>277 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Ragged_Island,_Bahamas" title="Ragged Island, Bahamas">Ragged Island</a> </td> 
+   <td>0 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>72 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Rum_Cay" title="Rum Cay">Rum Cay</a> </td> 
+   <td>0 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>99 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/San_Salvador_Island" title="San Salvador Island">San Salvador</a> </td> 
+   <td>0 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>930 </td>
+  </tr> 
+  <tr align="left"> 
+   <td><a href="/wiki/Spanish_Wells" title="Spanish Wells">Spanish Wells</a> </td> 
+   <td>0 </td> 
+   <td>1 </td> 
+   <td> </td> 
+   <td>1,551 </td>
+  </tr> 
+  <tr class="sortbottom" bgcolor="#BFD7FF" style="text-align:center;"> 
+   <td style="background:#bfd7ff;"><b>TOTAL</b> </td> 
+   <td style="background:#bfd7ff; text-align:left;"><b>13</b> </td> 
+   <td style="background:#bfd7ff;"><b>19</b> </td> 
+   <td style="background:#bfd7ff;"> </td> 
+   <td style="background:#bfd7ff;"><b>351,461</b> </td> 
+   <td style="background:#bfd7ff;"><b>13,940</b> </td>
+  </tr> 
+  <tr align="left"> 
+   <td>Largest Council </td> 
+   <td>31,478 </td> 
+   <td>6,014 </td> 
+   <td> </td> 
+   <td> </td>
+  </tr> 
+  <tr align="left"> 
+   <td>Smallest Council </td> 
+   <td>72 </td> 
+   <td>1,548 </td> 
+   <td> </td> 
+   <td> </td>
+  </tr> 
+ </tbody>
+</table>
+<table class="wikitable" style="width:420px; margin:auto; font-size:90%;"> 
+ <caption style="text-align:center; background:#bfd7ff;">
+  Reference map for the Islands of the Bahamas<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> 
+ </caption> 
+ <tbody>
+  <tr> 
+   <td align="left">
+    <div role="img" class="noresize" style="width: 630px; line-height: 1; text-align: center; background-color: #ffffff; position: relative;">
+     <a href="/wiki/File:Map_of_the_Bahamas-2010.png" class="image"><img alt="." src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Map_of_the_Bahamas-2010.png/630px-Map_of_the_Bahamas-2010.png" decoding="async" width="630" height="454" srcset="//upload.wikimedia.org/wikipedia/commons/5/50/Map_of_the_Bahamas-2010.png 1.5x" data-file-width="800" data-file-height="577"></a> 
+     <div style="position:absolute; font-size:85%; left:194px; top:140px">
+      <a href="/wiki/New_Providence" title="New Providence">New<br>Providence</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:154px; top:188px">
+      <a href="/wiki/Andros_Island" class="mw-redirect" title="Andros Island">Andros</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:74px; top:132px">
+      <a href="/wiki/Bimini" title="Bimini">Bimini</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:138px; top:120px">
+      <a href="/wiki/Berry_Islands" title="Berry Islands">The Berry<br>Islands</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:426px; top:424px">
+      <a href="/wiki/Inagua" title="Inagua">Inagua</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:378px; top:312px">
+      <a href="/wiki/Crooked_Island,_Bahamas" title="Crooked Island, Bahamas">Crooked<br>Island</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:418px; top:344px">
+      <a href="/wiki/Acklins" title="Acklins">Acklins</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:474px; top:344px">
+      <a href="/wiki/Mayaguana" title="Mayaguana">Mayaguana</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:-0.1px; top:45.1px">
+      <a href="/wiki/Florida" title="Florida">Florida (USA)</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:230px; top:60px">
+      <a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco Islands</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:94px; top:64px">
+      <a href="/wiki/Grand_Bahama" title="Grand Bahama">Grand Bahama</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:530px; top:384px">
+      <a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands (UK)</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:266px; top:248px">
+      <a href="/wiki/Exuma" title="Exuma">Exuma</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:350px; top:272px">
+      <a href="/wiki/Long_Island,_Bahamas" title="Long Island, Bahamas">Long<br>Island</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:306px; top:332px">
+      <a href="/wiki/Ragged_Island,_Bahamas" title="Ragged Island, Bahamas">Ragged Island</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:154px; top:388px">
+      <a href="/wiki/Cuba" title="Cuba">Cuba</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:314px; top:208px">
+      <a href="/wiki/Cat_Island,_Bahamas" title="Cat Island, Bahamas">Cat Island</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:398px; top:232px">
+      <a href="/wiki/San_Salvador_Island" title="San Salvador Island">San Salvador</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:376.4px; top:252px">
+      <a href="/wiki/Rum_Cay" title="Rum Cay">Rum Cay</a>
+     </div> 
+     <div style="position:absolute; font-size:85%; left:266px; top:144px">
+      <a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a>
+     </div> 
+    </div> </td>
+  </tr>
+ </tbody>
+</table>
+<table class="wikitable sortable" style="font-size:90%; width:650px; margin:auto;"> 
+ <caption style="text-align:center; background:#bfd7ff;">
+  <b>Islands of the Bahamas</b><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> 
+ </caption> 
+ <tbody>
+  <tr style="background:#efefef;"> 
+   <th style="text-align:center;" class="unsortable">Crest </th> 
+   <th align="left">Island's name </th> 
+   <th align="left"><a href="/wiki/List_of_Australian_capital_cities" title="List of Australian capital cities">Capital</a> (or largest settlement) </th> 
+   <th align="right">Population </th> 
+   <th align="right">Area (km<sup>2</sup>) </th>
+  </tr> 
+  <tr align="center"> 
+   <td></td> 
+   <td align="left"><a href="/wiki/Acklins" title="Acklins">Acklins</a></td> 
+   <td align="left"><a href="/w/index.php?title=Spring_Point,_Bahamas&amp;action=edit&amp;redlink=1" class="new" title="Spring Point, Bahamas (page does not exist)">Spring Point</a><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></td> 
+   <td align="right">560</td> 
+   <td align="right">492 </td>
+  </tr> 
+  <tr align="center"> 
+   <td><a href="/wiki/File:Badge_of_Abaco.gif" class="image"><img alt="Badge of Abaco.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Badge_of_Abaco.gif/15px-Badge_of_Abaco.gif" decoding="async" width="15" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Badge_of_Abaco.gif/23px-Badge_of_Abaco.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Badge_of_Abaco.gif/30px-Badge_of_Abaco.gif 2x" data-file-width="129" data-file-height="168"></a></td> 
+   <td align="left"><a href="/wiki/Abaco_Islands" title="Abaco Islands">Abaco</a></td> 
+   <td align="left"><a href="/wiki/Marsh_Harbour" title="Marsh Harbour">Marsh Harbour</a><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></td> 
+   <td align="right">16,692</td> 
+   <td align="right">1,681 </td>
+  </tr> 
+  <tr align="center"> 
+   <td><a href="/wiki/File:Badge_of_Andros.jpg" class="image"><img alt="Badge of Andros.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Badge_of_Andros.jpg/15px-Badge_of_Andros.jpg" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Badge_of_Andros.jpg/23px-Badge_of_Andros.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Badge_of_Andros.jpg/30px-Badge_of_Andros.jpg 2x" data-file-width="70" data-file-height="90"></a></td> 
+   <td align="left"><a href="/wiki/Andros_Island" class="mw-redirect" title="Andros Island">Andros</a></td> 
+   <td align="left"><a href="/wiki/Andros_Town" title="Andros Town">Andros Town</a></td> 
+   <td align="right">7,386</td> 
+   <td align="right">5,957 </td>
+  </tr> 
+  <tr align="center"> 
+   <td><a href="/wiki/File:Badge_of_the_Berry_Islands.jpg" class="image"><img alt="Badge of the Berry Islands.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Badge_of_the_Berry_Islands.jpg/15px-Badge_of_the_Berry_Islands.jpg" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Badge_of_the_Berry_Islands.jpg/23px-Badge_of_the_Berry_Islands.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Badge_of_the_Berry_Islands.jpg/30px-Badge_of_the_Berry_Islands.jpg 2x" data-file-width="72" data-file-height="90"></a></td> 
+   <td align="left"><a href="/wiki/Berry_Islands" title="Berry Islands">Berry Islands</a></td> 
+   <td align="left"><a href="/wiki/Nicholls_Town" title="Nicholls Town">Nicholls Town</a></td> 
+   <td align="right">798</td> 
+   <td align="right">31 </td>
+  </tr> 
+  <tr align="center"> 
+   <td><a href="/wiki/File:Crest_of_Bimini.png" class="image"><img alt="Crest of Bimini.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Crest_of_Bimini.png/15px-Crest_of_Bimini.png" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Crest_of_Bimini.png/23px-Crest_of_Bimini.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Crest_of_Bimini.png/30px-Crest_of_Bimini.png 2x" data-file-width="101" data-file-height="125"></a></td> 
+   <td align="left"><a href="/wiki/Bimini" title="Bimini">Bimini</a></td> 
+   <td align="left"><a href="/wiki/Alice_Town" title="Alice Town">Alice Town</a></td> 
+   <td align="right">2,008</td> 
+   <td align="right">23 </td>
+  </tr> 
+  <tr align="center"> 
+   <td>[[]]</td> 
+   <td align="left"><a href="/wiki/Exuma_and_Cays" class="mw-redirect" title="Exuma and Cays">Exuma and Cays</a></td> 
+   <td align="left"><a href="/wiki/George_Town,_Bahamas" title="George Town, Bahamas">George Town</a></td> 
+   <td align="right">6,928</td> 
+   <td align="right">250 </td>
+  </tr> 
+  <tr align="center"> 
+   <td><a href="/wiki/File:Badge_of_Cat_Island.png" class="image"><img alt="Badge of Cat Island.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Badge_of_Cat_Island.png/15px-Badge_of_Cat_Island.png" decoding="async" width="15" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Badge_of_Cat_Island.png/23px-Badge_of_Cat_Island.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Badge_of_Cat_Island.png/30px-Badge_of_Cat_Island.png 2x" data-file-width="95" data-file-height="125"></a></td> 
+   <td align="left"><a href="/wiki/Cat_Island,_Bahamas" title="Cat Island, Bahamas">Cat Island</a></td> 
+   <td align="left"><a href="/wiki/Arthur%27s_Town" title="Arthur's Town">Arthur's Town</a><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></td> 
+   <td align="right">1,503</td> 
+   <td align="right">389 </td>
+  </tr> 
+  <tr align="center"> 
+   <td></td> 
+   <td align="left"><a href="/wiki/Crooked_Island_(Bahamas)" class="mw-redirect" title="Crooked Island (Bahamas)">Crooked Island</a></td> 
+   <td align="left"><a href="/wiki/Colonel_Hill" title="Colonel Hill">Colonel Hill</a><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></td> 
+   <td align="right">323</td> 
+   <td align="right">241 </td>
+  </tr> 
+  <tr align="center"> 
+   <td><a href="/wiki/File:Eleuthera_Island_Crest.jpg" class="image"><img alt="Eleuthera Island Crest.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eleuthera_Island_Crest.jpg/15px-Eleuthera_Island_Crest.jpg" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eleuthera_Island_Crest.jpg/23px-Eleuthera_Island_Crest.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eleuthera_Island_Crest.jpg/30px-Eleuthera_Island_Crest.jpg 2x" data-file-width="108" data-file-height="134"></a></td> 
+   <td align="left"><a href="/wiki/Eleuthera" title="Eleuthera">Eleuthera</a></td> 
+   <td align="left"><a href="/wiki/Governor%27s_Harbour" title="Governor's Harbour">Governor's Harbour</a><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></td> 
+   <td align="right">9,363</td> 
+   <td align="right">518 </td>
+  </tr> 
+  <tr align="center"> 
+   <td><a href="/wiki/File:Crest_of_Grand_Bahama.gif" class="image"><img alt="Crest of Grand Bahama.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Crest_of_Grand_Bahama.gif/15px-Crest_of_Grand_Bahama.gif" decoding="async" width="15" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Crest_of_Grand_Bahama.gif/23px-Crest_of_Grand_Bahama.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Crest_of_Grand_Bahama.gif/30px-Crest_of_Grand_Bahama.gif 2x" data-file-width="101" data-file-height="124"></a></td> 
+   <td align="left"><a href="/wiki/Grand_Bahama" title="Grand Bahama">Grand Bahama</a></td> 
+   <td align="left"><a href="/wiki/Freeport_City" class="mw-redirect" title="Freeport City">Freeport City</a><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></td> 
+   <td align="right">51,756</td> 
+   <td align="right">1,373 </td>
+  </tr> 
+  <tr align="center"> 
+   <td><a href="/wiki/File:Badge_of_Inagua.jpg" class="image"><img alt="Badge of Inagua.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Badge_of_Inagua.jpg/15px-Badge_of_Inagua.jpg" decoding="async" width="15" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Badge_of_Inagua.jpg/23px-Badge_of_Inagua.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Badge_of_Inagua.jpg/30px-Badge_of_Inagua.jpg 2x" data-file-width="66" data-file-height="90"></a></td> 
+   <td align="left"><a href="/wiki/Inagua" title="Inagua">Inagua</a></td> 
+   <td align="left"><a href="/wiki/Matthew_Town" title="Matthew Town">Matthew Town</a><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></td> 
+   <td align="right">911</td> 
+   <td align="right">1,679 </td>
+  </tr> 
+  <tr align="center"> 
+   <td></td> 
+   <td align="left"><a href="/wiki/Long_Island,_Bahamas" title="Long Island, Bahamas">Long Island</a></td> 
+   <td align="left"><a href="/wiki/Clarence_Town" title="Clarence Town">Clarence Town</a><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></td> 
+   <td align="right">3,024</td> 
+   <td align="right">596 </td>
+  </tr> 
+  <tr align="center"> 
+   <td><a href="/wiki/File:MayaguanaCrest.gif" class="image"><img alt="MayaguanaCrest.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MayaguanaCrest.gif/15px-MayaguanaCrest.gif" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MayaguanaCrest.gif/23px-MayaguanaCrest.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/MayaguanaCrest.gif/30px-MayaguanaCrest.gif 2x" data-file-width="102" data-file-height="126"></a></td> 
+   <td align="left"><a href="/wiki/Mayaguana" title="Mayaguana">Mayaguana</a></td> 
+   <td align="left"><a href="/wiki/Abraham%27s_Bay" title="Abraham's Bay">Abraham's Bay</a></td> 
+   <td align="right">271</td> 
+   <td align="right">285 </td>
+  </tr> 
+  <tr align="center"> 
+   <td><a href="/wiki/File:Badge_of_New_Providence.png" class="image"><img alt="Badge of New Providence.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Badge_of_New_Providence.png/15px-Badge_of_New_Providence.png" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Badge_of_New_Providence.png/23px-Badge_of_New_Providence.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Badge_of_New_Providence.png/30px-Badge_of_New_Providence.png 2x" data-file-width="97" data-file-height="125"></a></td> 
+   <td align="left"><a href="/wiki/New_Providence" title="New Providence">New Providence</a></td> 
+   <td align="left"><a href="/wiki/Nassau,_Bahamas" title="Nassau, Bahamas">Nassau</a></td> 
+   <td align="right">248,948</td> 
+   <td align="right">207 </td>
+  </tr> 
+  <tr align="center"> 
+   <td><a href="/wiki/File:Crest_of_Ragged_Island.png" class="image"><img alt="Crest of Ragged Island.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Crest_of_Ragged_Island.png/15px-Crest_of_Ragged_Island.png" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Crest_of_Ragged_Island.png/23px-Crest_of_Ragged_Island.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Crest_of_Ragged_Island.png/30px-Crest_of_Ragged_Island.png 2x" data-file-width="101" data-file-height="125"></a></td> 
+   <td align="left"><a href="/wiki/Ragged_Island,_Bahamas" title="Ragged Island, Bahamas">Ragged</a></td> 
+   <td align="left"><a href="/wiki/List_of_cities_in_the_Bahamas" title="List of cities in the Bahamas">Duncan Town</a><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></td> 
+   <td align="right">70</td> 
+   <td align="right">36 </td>
+  </tr> 
+  <tr align="center"> 
+   <td><a href="/wiki/File:Crest_of_Rum_Cay.png" class="image"><img alt="Crest of Rum Cay.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Crest_of_Rum_Cay.png/15px-Crest_of_Rum_Cay.png" decoding="async" width="15" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Crest_of_Rum_Cay.png/23px-Crest_of_Rum_Cay.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Crest_of_Rum_Cay.png/30px-Crest_of_Rum_Cay.png 2x" data-file-width="101" data-file-height="125"></a></td> 
+   <td align="left"><a href="/wiki/Rum_Cay" title="Rum Cay">Rum Cay</a></td> 
+   <td align="left"><a href="/wiki/Rum_Cay" title="Rum Cay">Port Nelson</a></td> 
+   <td align="right">99</td> 
+   <td align="right">78 </td>
+  </tr> 
+  <tr align="center"> 
+   <td><a href="/wiki/File:Crest_of_San_Salvador_Island.png" class="image"><img alt="Crest of San Salvador Island.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Crest_of_San_Salvador_Island.png/15px-Crest_of_San_Salvador_Island.png" decoding="async" width="15" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Crest_of_San_Salvador_Island.png/23px-Crest_of_San_Salvador_Island.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Crest_of_San_Salvador_Island.png/30px-Crest_of_San_Salvador_Island.png 2x" data-file-width="103" data-file-height="125"></a></td> 
+   <td align="left"><a href="/wiki/San_Salvador_Island" title="San Salvador Island">San Salvador</a></td> 
+   <td align="left"><a href="/wiki/List_of_cities_in_the_Bahamas" title="List of cities in the Bahamas">Cockburn Town</a><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></td> 
+   <td align="right">930</td> 
+   <td align="right">163 </td>
+  </tr> 
+  <tr class="sortbottom" bgcolor="#BFD7FF" style="text-align:center;"> 
+   <td style="background:#bfd7ff;"><a href="/wiki/File:Coat_of_arms_of_the_Bahamas.svg" class="image"><img alt="Coat of arms of the Bahamas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/25px-Coat_of_arms_of_the_Bahamas.svg.png" decoding="async" width="25" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/38px-Coat_of_arms_of_the_Bahamas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Coat_of_arms_of_the_Bahamas.svg/50px-Coat_of_arms_of_the_Bahamas.svg.png 2x" data-file-width="1323" data-file-height="1620"></a> </td> 
+   <td style="background:#bfd7ff; text-align:left;"><a href="/wiki/File:Flag_of_the_Bahamas.svg" class="image"><img alt="Flag of the Bahamas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/30px-Flag_of_the_Bahamas.svg.png" decoding="async" width="30" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/45px-Flag_of_the_Bahamas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/60px-Flag_of_the_Bahamas.svg.png 2x" data-file-width="600" data-file-height="300"></a> <b><a href="/wiki/The_Bahamas" title="The Bahamas">The Bahamas</a></b> </td> 
+   <td style="background:#bfd7ff;"><b><a href="/wiki/Nassau,_Bahamas" title="Nassau, Bahamas">Nassau</a></b> </td> 
+   <td style="background:#bfd7ff;"><b>353,658</b><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> </td> 
+   <td style="background:#bfd7ff;"><b>13,943</b> </td>
+  </tr>
+ </tbody>
+</table>

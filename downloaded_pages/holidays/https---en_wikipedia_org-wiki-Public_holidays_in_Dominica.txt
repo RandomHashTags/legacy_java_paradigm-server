@@ -1,0 +1,427 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Dominica - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBXtwQpAML8AAvUJe08AAAAC","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Dominica","wgTitle":"Public holidays in Dominica","wgCurRevisionId":999141872,"wgRevisionId":999141872,"wgArticleId":25851439,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Lists of public holidays by country","Dominica culture","Events in Dominica"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Dominica",
+"wgRelevantArticleId":25851439,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q7257776"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
+"skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Dominica"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Dominica&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Dominica&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Dominica"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Dominica rootpage-Public_holidays_in_Dominica skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Dominica</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p>This is a list of <b><a href="/wiki/Public_holidays" class="mw-redirect" title="Public holidays">public holidays</a></b> in <b><a href="/wiki/Dominica" title="Dominica">Dominica</a></b>. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date</th> 
+         <th>Name</th> 
+         <th>Comments </th>
+        </tr> 
+        <tr> 
+         <td>January 1</td> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a></td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>February or March</td> 
+         <td><a href="/wiki/Carnival" title="Carnival">Carnival Monday</a></td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td rowspan="2">March or April</td> 
+         <td><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a></td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a></td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>1st Monday in May</td> 
+         <td><a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a></td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>May or June</td> 
+         <td><a href="/wiki/Whit_Monday" title="Whit Monday">Whit Monday</a></td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>1st Monday in August</td> 
+         <td><a href="/wiki/Emancipation_Day" title="Emancipation Day">Emancipation Day</a></td> 
+         <td>Marks the end of slavery in 1834.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>November 3</td> 
+         <td><a href="/wiki/Independence_Day" class="mw-redirect" title="Independence Day">Independence Day</a></td> 
+         <td>From the UK in 1978. </td>
+        </tr> 
+        <tr> 
+         <td>November 4</td> 
+         <td><a href="/wiki/Community_Service_Day" class="mw-redirect" title="Community Service Day">Community Service Day</a></td> 
+         <td>Public service holiday.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>December 25</td> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a></td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>December 26</td> 
+         <td><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a></td> 
+         <td> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Dominica&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/dominica/emancipation-day">"Emancipation Day in Dominica in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 5,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Emancipation+Day+in+Dominica+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fdominica%2Femancipation-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Dominica" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/dominica/national-day-of-community-service">"National Day of Community Service (in lieu) in Dominica in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 5,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=National+Day+of+Community+Service+%28in+lieu%29+in+Dominica+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fdominica%2Fnational-day-of-community-service&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Dominica" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_North_America" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:North_America_topic" title="Template:North America topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:North_America_topic" title="Template talk:North America topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:North_America_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_North_America" style="font-size:114%;margin:0 4em">
+            Public holidays in North America
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Antigua_and_Barbuda" title="Public holidays in Antigua and Barbuda">Antigua and Barbuda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Bahamas" title="Public holidays in the Bahamas">Bahamas</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Barbados" title="Public holidays in Barbados">Barbados</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belize" title="Public holidays in Belize">Belize</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Canada" title="Public holidays in Canada">Canada</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Costa_Rica" title="Public holidays in Costa Rica">Costa Rica</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cuba" title="Public holidays in Cuba">Cuba</a></li> 
+             <li><a class="mw-selflink selflink">Dominica</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Dominican_Republic" title="Public holidays in the Dominican Republic">Dominican Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_El_Salvador" class="mw-redirect" title="Public holidays in El Salvador">El Salvador</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Grenada" title="Public holidays in Grenada">Grenada</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guatemala" title="Public holidays in Guatemala">Guatemala</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Haiti" title="Public holidays in Haiti">Haiti</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Honduras" title="Public holidays in Honduras">Honduras</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jamaica" title="Public holidays in Jamaica">Jamaica</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mexico" title="Public holidays in Mexico">Mexico</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nicaragua" title="Public holidays in Nicaragua">Nicaragua</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Panama" title="Public holidays in Panama">Panama</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Kitts_and_Nevis" title="Public holidays in Saint Kitts and Nevis">Saint Kitts and Nevis</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Lucia" title="Public holidays in Saint Lucia">Saint Lucia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Vincent_and_the_Grenadines" title="Public holidays in Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Trinidad_and_Tobago" title="Public holidays in Trinidad and Tobago">Trinidad and Tobago</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_States" title="Public holidays in the United States">United States</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            Dependencies and
+            <br>other territories
+           </div></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Anguilla" title="Public holidays in Anguilla">Anguilla</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Aruba" class="mw-redirect" title="Public holidays in Aruba">Aruba</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bermuda" title="Public holidays in Bermuda">Bermuda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bonaire" title="Public holidays in Bonaire">Bonaire</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_British_Virgin_Islands" title="Public holidays in the British Virgin Islands">British Virgin Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cayman_Islands" title="Public holidays in the Cayman Islands">Cayman Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cura%C3%A7ao" title="Public holidays in Curaçao">Curaçao</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greenland" title="Public holidays in Greenland">Greenland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guadeloupe" title="Public holidays in Guadeloupe">Guadeloupe</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Martinique" title="Public holidays in Martinique">Martinique</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montserrat" title="Public holidays in Montserrat">Montserrat</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Puerto_Rico" title="Public holidays in Puerto Rico">Puerto Rico</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Barth%C3%A9lemy" title="Public holidays in Saint Barthélemy">Saint Barthélemy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Collectivity_of_Saint_Martin" title="Public holidays in the Collectivity of Saint Martin">Saint Martin</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Pierre_and_Miquelon" title="Public holidays in Saint Pierre and Miquelon">Saint Pierre and Miquelon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saba" title="Public holidays in Saba">Saba</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sint_Eustatius" title="Public holidays in Sint Eustatius">Sint Eustatius</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sint_Maarten" title="Public holidays in Sint Maarten">Sint Maarten</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Turks_and_Caicos_Islands" title="Public holidays in the Turks and Caicos Islands">Turks and Caicos Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_States_Virgin_Islands" title="Public holidays in the United States Virgin Islands">United States Virgin Islands</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1349
+Cached time: 20210130173034
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.200 seconds
+Real time usage: 0.293 seconds
+Preprocessor visited node count: 518/1000000
+Post‐expand include size: 17498/2097152 bytes
+Template argument size: 1226/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7059/5000000 bytes
+Lua time usage: 0.120/10.000 seconds
+Lua memory usage: 3109507/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  267.844      1 -total
+ 48.68%  130.383      1 Template:Reflist
+ 44.84%  120.095      2 Template:Cite_web
+ 30.40%   81.417      1 Template:Short_description
+ 19.67%   52.679      1 Template:North_America_topic
+ 17.38%   46.554      1 Template:Navbox
+ 15.87%   42.498      1 Template:Pagetype
+  9.32%   24.965      3 Template:Main_other
+  7.69%   20.597      1 Template:SDcat
+  1.26%    3.368      1 Template:Longitem
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:25851439-0!canonical and timestamp 20210130173034 and revision id 999141872. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Dominica&amp;oldid=999141872">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Dominica&amp;oldid=999141872</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Dominica_culture" title="Category:Dominica culture">Dominica culture</a></li>
+       <li><a href="/wiki/Category:Events_in_Dominica" title="Category:Events in Dominica">Events in Dominica</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Dominica" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Dominica" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Dominica" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Dominica" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Dominica">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Dominica&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Dominica&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Dominica" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Dominica" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Dominica&amp;oldid=999141872" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Dominica&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Dominica&amp;id=999141872&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257776" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Dominica&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Dominica&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8F%84%EB%AF%B8%EB%8B%88%EC%B9%B4_%EC%97%B0%EB%B0%A9%EC%9D%98_%EA%B3%B5%ED%9C%B4%EC%9D%BC" title="도미니카 연방의 공휴일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B0_%D0%94%D0%BE%D0%BC%D1%96%D0%BD%D1%96%D0%BA%D0%B8" title="Свята Домініки – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257776#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 8 January 2021, at 18:07<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Dominica&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.293","ppvisitednodes":{"value":518,"limit":1000000},"postexpandincludesize":{"value":17498,"limit":2097152},"templateargumentsize":{"value":1226,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7059,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  267.844      1 -total"," 48.68%  130.383      1 Template:Reflist"," 44.84%  120.095      2 Template:Cite_web"," 30.40%   81.417      1 Template:Short_description"," 19.67%   52.679      1 Template:North_America_topic"," 17.38%   46.554      1 Template:Navbox"," 15.87%   42.498      1 Template:Pagetype","  9.32%   24.965      3 Template:Main_other","  7.69%   20.597      1 Template:SDcat","  1.26%    3.368      1 Template:Longitem"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"10.000"},"limitreport-memusage":{"value":3109507,"limit":52428800}},"cachereport":{"origin":"mw1349","timestamp":"20210130173034","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Dominica","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Dominica","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7257776","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7257776","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-01-18T16:08:05Z","dateModified":"2021-01-08T18:07:26Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1349"});});</script> 
+ </body>
+</html>

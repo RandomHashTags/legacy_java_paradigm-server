@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.info.*;
-import me.randomhashtags.worldlaws.info.agriculture.*;
+import me.randomhashtags.worldlaws.info.agriculture.ProductionFoods;
 import me.randomhashtags.worldlaws.info.availability.tech.*;
 import me.randomhashtags.worldlaws.info.legal.*;
 import me.randomhashtags.worldlaws.info.list.Flyover;
@@ -9,21 +9,21 @@ import me.randomhashtags.worldlaws.info.rankings.*;
 import me.randomhashtags.worldlaws.info.service.*;
 import me.randomhashtags.worldlaws.location.CountryInfo;
 import me.randomhashtags.worldlaws.location.CustomCountry;
-import me.randomhashtags.worldlaws.location.Territories;
+import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.*;
-import java.util.logging.Level;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
-// https://simple.wikipedia.org/wiki/List_of_countries
+// https://en.wikipedia.org/wiki/List_of_sovereign_states
 // https://en.wikipedia.org/wiki/Lists_by_country
 public final class Countries implements DataValues, Jsoupable, RestAPI {
 
-    private String filters, json;
+    private String homeJSON;
     private HashMap<String, CustomCountry> countriesMap;
 
     public static void main(String[] args) {
@@ -31,15 +31,15 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
     }
 
     private void init() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     private void test() {
-        MinimumAnnualLeave.INSTANCE.getValue("madagascar", new CompletionHandler() {
+        Wikipedia.INSTANCE.getValue("andorra", new CompletionHandler() {
             @Override
             public void handle(Object object) {
-                WLLogger.log(Level.INFO, "Countries;test;MinimumAnnualLeave;madagascar=" + object.toString());
+                WLLogger.log(Level.INFO, "Countries;test;Wikipedia;object=" + object.toString());
             }
         });
     }
@@ -83,22 +83,22 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
         services.add(Flyover.INSTANCE);
 
         services.addAll(Arrays.asList(
-                AppleCarPlay.INSTANCE,
+                AMCPlus.INSTANCE,
+                new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_CARD),
+                new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_CARPLAY),
                 new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_PAY),
-                new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_ONE),
-                new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_APP_STORE),
+                new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_APP_STORE_APPS),
+                new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_APP_STORE_GAMES),
                 new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_ARCADE),
                 new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_MUSIC),
                 new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_ITUNES_STORE_MOVIES),
                 new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_ITUNES_STORE_MUSIC),
-                new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_ITUNES_STORE_RINGTONES_AND_TONES),
                 new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_ITUNES_STORE_TV_SHOWS),
                 new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_TV_APP),
                 new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_TV_PLUS),
-                new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_PODCASTS),
                 new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_NEWS),
+                new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_NEWS_AUDIO),
                 new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_NEWS_PLUS),
-                new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_FITNESS_PLUS),
                 ATandTTV.INSTANCE,
                 DAZN.INSTANCE,
                 DiscoveryPlus.INSTANCE,
@@ -109,6 +109,7 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
                 HBOMax.INSTANCE,
                 Hulu.INSTANCE,
                 NvidiaGeforceNOW.INSTANCE,
+                ParamountPlus.INSTANCE,
                 Peacock.INSTANCE,
                 PlayStationNow.INSTANCE,
                 SamsungPay.INSTANCE,
@@ -122,23 +123,7 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
                 YouTubeTV.INSTANCE
         ));
 
-        services.addAll(Arrays.asList(
-                ProductionFoodApple.INSTANCE,
-                ProductionFoodApricot.INSTANCE,
-                ProductionFoodAvocado.INSTANCE,
-                ProductionFoodCherry.INSTANCE,
-                ProductionFoodCoconut.INSTANCE,
-                ProductionFoodCucumber.INSTANCE,
-                ProductionFoodGarlic.INSTANCE,
-                ProductionFoodGrape.INSTANCE,
-                ProductionFoodPapaya.INSTANCE,
-                ProductionFoodPear.INSTANCE,
-                ProductionFoodPineapple.INSTANCE,
-                ProductionFoodPlum.INSTANCE,
-                ProductionFoodPotato.INSTANCE,
-                ProductionFoodSoybean.INSTANCE,
-                ProductionFoodTomato.INSTANCE
-        ));
+        services.addAll(Arrays.asList(ProductionFoods.values()));
 
         services.addAll(Arrays.asList(
                 NationalAnimals.INSTANCE,
@@ -162,23 +147,18 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
                 LegalityBitcoin.INSTANCE,
                 LegalityCannabis.INSTANCE,
                 LegalityDrinkingAge.INSTANCE,
-                LegalityDrugAyahuasca.INSTANCE,
-                LegalityDrugCocaine.INSTANCE,
-                LegalityDrugIbogaine.INSTANCE,
-                LegalityDrugMeth.INSTANCE,
-                LegalityDrugPsilocybinMushrooms.INSTANCE,
-                LegalityDrugPsychoactiveCactus.INSTANCE,
-                LegalityDrugSalviaDivinorum.INSTANCE,
                 LegalityIncest.INSTANCE,
                 LegalityMaritalRape.INSTANCE,
                 LegalityPornography.INSTANCE,
                 LegalityProstitution.INSTANCE,
                 LegalitySmokingAge.INSTANCE
         ));
+        services.addAll(Arrays.asList(LegalityDrugs.values()));
 
         services.addAll(Arrays.asList(
                 TravelBriefing.INSTANCE,
-                CIAServices.INSTANCE
+                CIAServices.INSTANCE,
+                Wikipedia.INSTANCE
         ));
 
         services.addAll(Arrays.asList(
@@ -204,7 +184,7 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
                 LegatumProsperityIndex.INSTANCE,
                 LifeExpectancy.INSTANCE,
                 MaternalMortalityRate.INSTANCE,
-                //MinimumWage.INSTANCE,
+                MinimumWage.INSTANCE,
                 NaturalDisasterRisk.INSTANCE,
                 ObesityRate.INSTANCE,
                 Population.INSTANCE,
@@ -214,7 +194,6 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
                 SocialProgressIndex.INSTANCE,
                 SuicideRate.INSTANCE,
                 UnemploymentRate.INSTANCE,
-                //DebtCurrent.INSTANCE
                 WorldGivingIndex.INSTANCE,
                 WorldHappinessReport.INSTANCE
         ));
@@ -240,7 +219,7 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
 
     private void loadCountries() {
         countriesMap = new HashMap<>();
-        final Elements table = getDocumentElements("https://simple.wikipedia.org/wiki/List_of_countries", "table.sortable tbody tr");
+        final Elements table = getDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/List_of_sovereign_states", "table.sortable tbody tr");
         for(int i = 1; i <= 2; i++) {
             table.remove(0);
         }
@@ -248,7 +227,19 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
         for(Element row : table) {
             final Elements tds = row.select("td");
             final Element nameElement = tds.get(0).select("b a[href]").get(0);
-            final String tag = nameElement.text(), targetURL = "https://simple.wikipedia.org" + nameElement.attr("href");
+            final String tag = nameElement.text();
+            final String targetURL;
+            switch (tag) {
+                case "Micronesia":
+                    targetURL = "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia";
+                    break;
+                case "Netherlands":
+                    targetURL = "https://en.wikipedia.org/wiki/Netherlands";
+                    break;
+                default:
+                    targetURL = "https://en.wikipedia.org" + nameElement.attr("href");
+                    break;
+            }
             new Thread(() -> createCountry(tag, targetURL)).start();
         }
         checkForMissingValues();
@@ -269,7 +260,7 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
                 }
                 final String string = builder.toString();
                 if(!string.isEmpty()) {
-                    WLLogger.log(Level.WARNING, "Countries - missing emoji flag for countries: " + string);
+                    WLLogger.log(Level.WARN, "Countries - missing emoji flag for countries: " + string);
                 }
             }
         }, 5*1000);
@@ -284,9 +275,6 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
                 handler.handle(country.toString());
             } else {
                 switch (values[1]) {
-                    case "debt":
-                        DebtCurrent.INSTANCE.getValue(key, handler);
-                        break;
                     case "information":
                         country.getInformation(handler);
                         break;
@@ -307,60 +295,85 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
                 case "elections":
                     Elections.INSTANCE.getResponse("", handler);
                     break;
-                case "filters":
-                    handler.handle(getFilters());
-                    break;
                 case "ranked":
                     CountryRankingServices.getRanked(values[1], handler);
                     break;
+                case "home":
+                    getHomeJSON(handler);
+                    break;
                 default:
-                    handler.handle(getJSON());
+                    WLLogger.log(Level.WARN, "Countries - failed to send response using key \"" + key + "\"!");
                     break;
             }
         }
     }
 
     private void createCountry(String tag, String url) {
-        final Document doc = getDocument(url);
+        final Document doc = getDocument(FileType.COUNTRIES, url, true);
         if(doc != null) {
             final CustomCountry country = new CustomCountry(tag, doc);
             final String backendID = country.getBackendID();
-            final Territories territories = Territories.valueOfBackendID(backendID);
-            country.setTerritories(territories);
             countriesMap.put(backendID, country);
         }
     }
 
-    private String getFilters() {
-        if(filters == null) {
-            final StringBuilder builder = new StringBuilder("[");
-            boolean isFirst = true;
-            final Collection<CountryService> services = CountryRankingServices.getRankingsServices().collect(Collectors.toList());
-            for(CountryService service : services) {
-                final CountryInfo info = service.getInfo();
-                final String name = info.name(), backendID = name.toLowerCase().replace("_", "");
-                final CountryFilter filter = new CountryFilter(backendID, name.replace("_", " "));
-                builder.append(isFirst ? "" : ",").append(filter.toString());
-                isFirst = false;
-            }
-            builder.append("]");
-            filters = builder.toString();
+    private void getHomeJSON(CompletionHandler handler) {
+        if(homeJSON != null) {
+            handler.handle(homeJSON);
+        } else {
+            final HashSet<String> urls = new HashSet<>() {{
+                add("filters");
+                add("countries");
+            }};
+            final int max = urls.size();
+            final StringBuilder builder = new StringBuilder("{");
+            final AtomicInteger completed = new AtomicInteger(0);
+            urls.parallelStream().forEach(url -> {
+                final CompletionHandler completionHandler = new CompletionHandler() {
+                    @Override
+                    public void handle(Object object) {
+                        final int value = completed.addAndGet(1);
+                        builder.append(value == 1 ? "" : ",").append("\"").append(url).append("\":").append(object.toString());
+                        if(value == max) {
+                            builder.append("}");
+                            homeJSON = builder.toString();
+                            handler.handle(homeJSON);
+                        }
+                    }
+                };
+                switch (url) {
+                    case "filters":
+                        completionHandler.handle(getFilters());
+                        break;
+                    case "countries":
+                        completionHandler.handle(getJSON());
+                        break;
+                }
+            });
         }
-        return filters;
     }
 
-    public String getJSON() {
-        if(json == null) {
-            final StringBuilder builder = new StringBuilder("[");
-            boolean isFirst = true;
-            for(CustomCountry country : countriesMap.values()) {
-                builder.append(isFirst ? "" : ",").append(country.toString());
-                isFirst = false;
-            }
-            builder.append("]");
-            json = builder.toString();
+    private String getFilters() {
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        final Collection<CountryService> services = CountryRankingServices.getRankingsServices().collect(Collectors.toList());
+        for(CountryService service : services) {
+            final CountryInfo info = service.getInfo();
+            builder.append(isFirst ? "" : ",").append("\"").append(info.getTitle()).append("\"");
+            isFirst = false;
         }
-        return json;
+        builder.append("]");
+        return builder.toString();
+    }
+    private String getJSON() {
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        for(CustomCountry country : countriesMap.values()) {
+            builder.append(isFirst ? "" : ",").append(country.toString());
+            isFirst = false;
+        }
+        builder.append("]");
+        return builder.toString();
     }
     public CustomCountry valueOfBackendID(String backendID) {
         return countriesMap.getOrDefault(backendID.toLowerCase().replace(" ", ""), null);

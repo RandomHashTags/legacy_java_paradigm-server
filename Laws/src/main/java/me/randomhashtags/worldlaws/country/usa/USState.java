@@ -1,11 +1,13 @@
 package me.randomhashtags.worldlaws.country.usa;
 
+import me.randomhashtags.worldlaws.country.StateIndex;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.*;
 import me.randomhashtags.worldlaws.country.usa.state.*;
-import me.randomhashtags.worldlaws.law.State;
+import me.randomhashtags.worldlaws.country.State;
+
+import java.util.List;
 
 public enum USState {
-
     //ALABAMA(Alabama.INSTANCE), // incomplete - http://alisondb.legislature.state.al.us/alison/codeofalabama/1975/coatoc.htm
     ALASKA(Alaska.INSTANCE),
     ARIZONA(Arizona.INSTANCE),
@@ -56,9 +58,10 @@ public enum USState {
     WEST_VIRGINIA(WestVirginia.INSTANCE),
     WISCONSIN(Wisconsin.INSTANCE), // completed - fix statutes
     //WYOMING
+
     ;
 
-    private State state;
+    private final State state;
 
     USState(State state) {
         this.state = state;

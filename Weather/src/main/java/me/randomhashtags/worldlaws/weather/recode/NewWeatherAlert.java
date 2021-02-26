@@ -1,10 +1,13 @@
 package me.randomhashtags.worldlaws.weather.recode;
 
+import me.randomhashtags.worldlaws.EventSource;
+
 public final class NewWeatherAlert {
 
     private final String event, severity, certainty, headline, instruction, description, zones;
+    private final EventSource source;
 
-    public NewWeatherAlert(NewWeatherPreAlert preAlert, String zones) {
+    public NewWeatherAlert(NewWeatherPreAlert preAlert, String zones, EventSource source) {
         this.event = preAlert.getEvent();
         this.severity = preAlert.getSeverity();
         this.certainty = preAlert.getCertainty();
@@ -12,6 +15,7 @@ public final class NewWeatherAlert {
         this.instruction = preAlert.getInstruction();
         this.description = preAlert.getDescription();
         this.zones = zones;
+        this.source = source;
     }
 
     @Override
@@ -23,7 +27,8 @@ public final class NewWeatherAlert {
                 "\"headline\":\"" + headline + "\"," +
                 "\"instruction\":\"" + instruction + "\"," +
                 "\"description\":\"" + description + "\"," +
-                "\"zones\":" + zones +
+                "\"zones\":" + zones + "," +
+                "\"source\":" + source.toString() +
                 "}";
     }
 }

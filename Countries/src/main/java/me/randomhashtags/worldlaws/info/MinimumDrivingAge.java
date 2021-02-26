@@ -4,13 +4,12 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.info.service.CountryService;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
 
-public enum MinimumDrivingAge implements CountryService {
+public enum MinimumDrivingAge implements CountryValueService {
     INSTANCE;
 
     private HashMap<String, String> countries;
@@ -29,7 +28,7 @@ public enum MinimumDrivingAge implements CountryService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/List_of_minimum_driving_ages";
-        final Elements tables = getDocumentElements(url, "div.mw-parser-output table.wikitable");
+        final Elements tables = getValueDocumentElements(url, "div.mw-parser-output table.wikitable");
         final String title = getInfo().getTitle();
         final EventSource source = new EventSource("Wikipedia: List of minimum driving ages", url);
         final EventSources sources = new EventSources(source);

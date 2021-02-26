@@ -38,7 +38,7 @@ public enum CannabisUse implements CountryRankingService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Annual_cannabis_use_by_country";
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         final List<CountryRankingInfoValue> list = new ArrayList<>();
         final EventSource source = new EventSource("Wikipedia: Annual cannabis use by country", url);

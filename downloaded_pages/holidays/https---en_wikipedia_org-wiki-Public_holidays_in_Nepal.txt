@@ -1,0 +1,1083 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Nepal - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBcQ9ApAMMAAAxulM-EAAABH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Nepal","wgTitle":"Public holidays in Nepal","wgCurRevisionId":997525033,"wgRevisionId":997525033,"wgArticleId":37942488,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from December 2020","All articles needing additional references","Articles with multiple maintenance issues","Articles with short description","Short description is different from Wikidata",
+"Wikipedia articles in need of updating from December 2020","All Wikipedia articles in need of updating","Public holidays in Nepal","Lists of public holidays by country"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Nepal","wgRelevantArticleId":37942488,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition"
+:"interlanguage","wgWikibaseItemId":"Q7257812"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Nepal"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Nepal&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Nepal&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Nepal"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Nepal rootpage-Public_holidays_in_Nepal skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Nepal</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40">
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           <div class="mw-collapsible" style="width:95%; margin: 0.2em 0;">
+            <b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Nepal&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Public_holidays_in_Nepal" title="Talk:Public holidays in Nepal">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small> 
+            <div class="mw-collapsible-content" style="margin-top: 0.3em;"> 
+             <table class="box-One_source plainlinks metadata ambox ambox-content ambox-one_source" role="presentation">
+              <tbody>
+               <tr>
+                <td class="mbox-image">
+                 <div style="width:52px">
+                  <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+                 </div></td>
+                <td class="mbox-text">
+                 <div class="mbox-text-span">
+                  This article <b>relies largely or entirely on a single <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">source</a></b>.<span class="hide-when-compact"> Relevant discussion may be found on the <a href="/wiki/Talk:Public_holidays_in_Nepal##" title="Talk:Public holidays in Nepal">talk page</a>. Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Nepal&amp;action=edit">improve this article</a> by introducing <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> to additional sources.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Public+holidays+in+Nepal%22">"Public holidays in Nepal"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Public+holidays+in+Nepal%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Public+holidays+in+Nepal%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Public+holidays+in+Nepal%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Public+holidays+in+Nepal%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Public+holidays+in+Nepal%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> <small class="date-container"><i>(<span class="date">December 2020</span>)</i></small>
+                 </div></td>
+               </tr>
+              </tbody>
+             </table>
+             <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+              <tbody>
+               <tr>
+                <td class="mbox-image">
+                 <div style="width:52px">
+                  <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+                 </div></td>
+                <td class="mbox-text">
+                 <div class="mbox-text-span">
+                  This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Nepal&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Public+holidays+in+Nepal%22">"Public holidays in Nepal"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Public+holidays+in+Nepal%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Public+holidays+in+Nepal%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Public+holidays+in+Nepal%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Public+holidays+in+Nepal%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Public+holidays+in+Nepal%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> <small class="date-container"><i>(<span class="date">December 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+                 </div></td>
+               </tr>
+              </tbody>
+             </table> 2020 
+            </div> 
+           </div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table>
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p>Public offices and most private businesses in <a href="/wiki/Nepal" title="Nepal">Nepal</a> operate six days a week and only close on <a href="/wiki/Saturday" title="Saturday">Saturdays</a>. <a href="/wiki/International_organizations" class="mw-redirect" title="International organizations">International organizations</a> have their own rules, and normally close on <a href="/wiki/Saturday" title="Saturday">Saturdays</a> and <a href="/wiki/Sunday" title="Sunday">Sundays</a>. Government holidays for the upcoming <a href="/wiki/Calendar_year" title="Calendar year">calendar year</a> are published in Nepal Gazette. Nepal celebrates a number of religious and non-religious holidays. On most of these holidays, most government offices and private institutions are closed, although is not mandatory for privately owned businesses to close and international organizations may operate their own calendar. </p>
+      <p>Some of these events are region, religion or gender specific. For example, a certain holiday in Nepal can only be for women. </p>
+      <p>The longest consecutive public holiday in Nepal is during <a href="/wiki/Dasain" class="mw-redirect" title="Dasain">Vijaya Dashami</a>. On this festival, holidays fall consecutively i.e. from Fulpati to Duwadashi for six days. Ghatasthapana and Kojagrat Purnima holidays are part of this festival but are separate from the six-day holiday. These festival holidays do not fall on the same calendar date every year, as they are celebrated on the basis of Lunar dates also known as <a href="/wiki/Tithi" title="Tithi">tithi</a>. Holidays such as Loktantra Diwas (Democracy Day) and Republic day are celebrated on the basis of both the <a href="/wiki/Vikram_Samvat" title="Vikram Samvat">Bikram Sambat</a> and <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a> dates. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Public_holidays"><span class="tocnumber">1</span> <span class="toctext">Public holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Public_holidays">Public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Nepal&amp;action=edit&amp;section=1" title="Edit section: Public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The following is the list of holidays for the calendar year 2019 in Nepal.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title=" (December 2020)">needs update</span></a></i>]</sup> Some holidays may overlap with Saturdays. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr style="background:#efefef;"> 
+         <th style="width: 6.5em;">Date</th> 
+         <th style="width: 9em;">Holiday Name</th> 
+         <th>Holiday Type</th> 
+         <th>Brief Information </th>
+        </tr> 
+        <tr> 
+         <td>March 4</td> 
+         <td><a href="/wiki/Maha_Shivaratri" title="Maha Shivaratri">Maha Shivaratri</a></td> 
+         <td>Religious</td> 
+         <td>Celebrated in reverence of Lord Shiva. </td>
+        </tr> 
+        <tr> 
+         <td>March 8</td> 
+         <td>Nari Diwas</td> 
+         <td>Non-religious</td> 
+         <td><a href="/wiki/International_Women%27s_Day" title="International Women's Day">International Women's Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>March 20</td> 
+         <td>Fagu Purnima</td> 
+         <td>Religious</td> 
+         <td>Also known as <a href="/wiki/Holi" title="Holi">Holi</a>, the festival of colors. In Terai region of Nepal, this festival is celebrated on the next day. </td>
+        </tr> 
+        <tr> 
+         <td>April 13</td> 
+         <td>New Years Day</td> 
+         <td>Non-Religious</td> 
+         <td>Nepali New Year 2077 or the first day of <a href="/wiki/Vikram_Samvat" title="Vikram Samvat">Bikram Sambat</a> calendar. </td>
+        </tr> 
+        <tr> 
+         <td>May 1</td> 
+         <td>Majdur Diwas</td> 
+         <td>Non-religious</td> 
+         <td>International labour day. </td>
+        </tr> 
+        <tr> 
+         <td>May 7</td> 
+         <td>Buddha Jayanti</td> 
+         <td>Religious</td> 
+         <td>Birth date of <a href="/wiki/Gautama_Buddha" title="Gautama Buddha">Gautam Buddha</a>. </td>
+        </tr> 
+        <tr> 
+         <td>September 19</td> 
+         <td>Sambidhaan Diwas</td> 
+         <td>Non-Religious</td> 
+         <td>Constitution Day in Nepal. </td>
+        </tr> 
+        <tr> 
+         <td>October 23</td> 
+         <td>Fulpati</td> 
+         <td>Religious</td> 
+         <td>Seventh day of Dashain when Jamara is brought from Gorkha palace to Kathmandu. </td>
+        </tr> 
+        <tr> 
+         <td>October 24</td> 
+         <td>Maha Asthami</td> 
+         <td>Religious</td> 
+         <td>The day to appease Goddess Durga's manifestations, the blood-thirsty Kali. </td>
+        </tr> 
+        <tr> 
+         <td>October 25</td> 
+         <td>Maha Navami</td> 
+         <td>Religious</td> 
+         <td>Maha Navami is the last day of Navaratri. </td>
+        </tr> 
+        <tr> 
+         <td>October 26</td> 
+         <td>Bijaya Dashami</td> 
+         <td>Religious</td> 
+         <td>This day is very important day for Nepalese Hindu religion, On Bijaya Dashami mixture of rice, yogurt and vermilion is prepared and is known as Tika. Elders put Tika, Jamara and Kokha on the young ones and give them blessing. </td>
+        </tr> 
+        <tr> 
+         <td>October 27</td> 
+         <td>Ekadashi</td> 
+         <td>Religious</td> 
+         <td>Eleventh day of <a href="/wiki/Dashain" title="Dashain">Dashain</a> where the celebration continues. </td>
+        </tr> 
+        <tr> 
+         <td>November 14</td> 
+         <td>Lakshmi Puja</td> 
+         <td>Religious</td> 
+         <td>In the morning cows are worshipped. Later, usually during the evenings, Lakshmi, goddess of wealth is worshipped. </td>
+        </tr> 
+        <tr> 
+         <td>November 15</td> 
+         <td><a href="/wiki/Mha_Puja" title="Mha Puja">Mha Puja</a> and <a href="/wiki/Govardhan_Puja" title="Govardhan Puja">Govardhan Puja</a></td> 
+         <td>Religious</td> 
+         <td><a href="/wiki/Nepal_Sambat" title="Nepal Sambat">Nepal Sambat</a> new year. </td>
+        </tr> 
+        <tr> 
+         <td>November 16</td> 
+         <td>Bhaitika</td> 
+         <td>Religious</td> 
+         <td>Sisters and brothers wish for each other's safety and well being. Gifts are exchanged between them. </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Nepal&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/List_of_festivals_in_Nepal" title="List of festivals in Nepal">List of festivals in Nepal</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Nepal&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://rajpatra.dop.gov.np/welcome/book/?ref=23620">http://rajpatra.dop.gov.np/welcome/book/?ref=23620</a></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Nepal&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external autonumber" href="https://news18tv.in/former-prime-minister-atal-bihari-vajpayee-took-his-last-breath/">[1]</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.ashesh.com.np/nepali-calendar/">Nepali Calendar with Public Holidays</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Nepal_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Nepal_topics" title="Template:Nepal topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Nepal_topics" title="Template talk:Nepal topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Nepal_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Nepal_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Nepal" title="Nepal">Nepal</a>&nbsp;<a href="/wiki/Index_of_Nepal-related_articles" class="mw-redirect" title="Index of Nepal-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Nepal" title="History of Nepal">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Ancient</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Bhadrabahu" title="Bhadrabahu">Bhadrabahu</a></li>
+                </ul> 
+               </div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Shakya" title="Shakya">Shakya Republic</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Gautama_Buddha" title="Gautama Buddha">Gautama Buddha</a></li> 
+                     <li><a href="/wiki/Maya_(mother_of_Buddha)" class="mw-redirect" title="Maya (mother of Buddha)">Maya (mother of Buddha)</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Kirata_Kingdom" title="Kirata Kingdom">Kirata Kingdom</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Yalamber" class="mw-redirect" title="Yalamber">Yalamber</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Licchavi_(kingdom)" title="Licchavi (kingdom)">Lichchhavi rule</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Manadeva" class="mw-redirect" title="Manadeva">Manadeva</a></li> 
+                     <li><a href="/wiki/Amshuverma" title="Amshuverma">Amshuverma</a></li> 
+                     <li><a href="/wiki/Bhrikuti" title="Bhrikuti">Bhrikuti</a></li> 
+                     <li><a href="/wiki/Araniko" title="Araniko">Araniko</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Medieval<br>and<br>modern</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Arimalla" title="Arimalla">Arimalla</a></li> 
+                 <li><a href="/wiki/Khasa_kingdom" class="mw-redirect" title="Khasa kingdom">Khasa kingdom</a></li> 
+                 <li><a href="/wiki/Baise_Rajya" title="Baise Rajya">Baise Rajya</a></li> 
+                 <li><a href="/wiki/Chaubisi_Rajya" title="Chaubisi Rajya">Chaubisi Rajya</a></li> 
+                 <li><a href="/wiki/Nepal_Mandala" title="Nepal Mandala"> Newa kingdoms</a></li>
+                </ul> 
+               </div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Shah_dynasty" title="Shah dynasty">Early Shah rule</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Gorkha_Kingdom" title="Gorkha Kingdom">Gorkha Kingdom</a></li> 
+                     <li><a href="/wiki/Prithvi_Narayan_Shah" title="Prithvi Narayan Shah">Prithvi Narayan Shah</a></li> 
+                     <li><a href="/wiki/Unification_of_Nepal" title="Unification of Nepal">Unification</a></li> 
+                     <li><a href="/wiki/Kalu_Pande" title="Kalu Pande">Kalu Pande</a></li> 
+                     <li><a href="/wiki/Kingdom_of_Nepal" title="Kingdom of Nepal">Kingdom of Nepal</a></li> 
+                     <li><a href="/wiki/Sino-Nepalese_War" title="Sino-Nepalese War">Sino-Nepal War</a></li> 
+                     <li><a href="/wiki/Bhimsen_Thapa" title="Bhimsen Thapa">Bhimsen Thapa</a></li> 
+                     <li><a href="/wiki/Anglo-Nepalese_War" title="Anglo-Nepalese War">Anglo-Nepal War</a></li> 
+                     <li><a href="/wiki/Balbhadra_Kunwar" title="Balbhadra Kunwar">Balbhadra Kunwar</a></li> 
+                     <li><a href="/wiki/Treaty_of_Sugauli" title="Treaty of Sugauli">Treaty of Sugauli</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Rana_dynasty" title="Rana dynasty">Rana rule</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Kot_massacre" title="Kot massacre">Kot massacre</a></li> 
+                     <li><a href="/wiki/Jung_Bahadur_Rana" title="Jung Bahadur Rana">Jung Bahadur Rana</a></li> 
+                     <li><a href="/wiki/Nepalese%E2%80%93Tibetan_War" class="mw-redirect" title="Nepalese–Tibetan War">Tibetan War</a></li> 
+                     <li><a href="/wiki/Tribhuvan_of_Nepal" title="Tribhuvan of Nepal">Tribhuvan</a></li> 
+                     <li><a href="/wiki/Nepal%E2%80%93Britain_Treaty_of_1923" title="Nepal–Britain Treaty of 1923">Britain Treaty (1923)</a></li> 
+                     <li><a href="/wiki/Nepali_Congress" title="Nepali Congress">Congress</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Post-democracy</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Nepalese_democracy_movement" title="Nepalese democracy movement">Democracy movements</a> 
+                      <ul>
+                       <li><a href="/wiki/1990_Nepalese_revolution" title="1990 Nepalese revolution">Jana Andolan I</a></li> 
+                       <li><a href="/wiki/2006_Nepalese_revolution" title="2006 Nepalese revolution">Jana Andolan II</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Mahendra_of_Nepal" title="Mahendra of Nepal">Mahendra</a></li> 
+                     <li><a href="/wiki/Panchayat_(Nepal)" title="Panchayat (Nepal)">Panchayat rule</a></li> 
+                     <li><a href="/wiki/Ganesh_Man_Singh" title="Ganesh Man Singh">Ganesh Man Singh</a></li> 
+                     <li><a href="/wiki/B._P._Koirala" title="B. P. Koirala">B. P. Koirala</a></li> 
+                     <li><a href="/wiki/Birendra_of_Nepal" title="Birendra of Nepal">Birendra</a></li> 
+                     <li><a href="/wiki/Nepalese_royal_massacre" title="Nepalese royal massacre">Royal massacre</a></li> 
+                     <li><a href="/wiki/Nepalese_Civil_War" title="Nepalese Civil War">Civil War</a></li> 
+                     <li><a href="/wiki/Pushpa_Kamal_Dahal" title="Pushpa Kamal Dahal">Prachanda</a></li> 
+                     <li><a href="/wiki/2015_Nepal_Earthquake" class="mw-redirect" title="2015 Nepal Earthquake">2015 Earthquake</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Emblem_of_Nepal" title="Emblem of Nepal"><img alt="New Emblem of Nepal.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/New_Emblem_of_Nepal.svg/110px-New_Emblem_of_Nepal.svg.png" decoding="async" width="110" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/New_Emblem_of_Nepal.svg/165px-New_Emblem_of_Nepal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/New_Emblem_of_Nepal.svg/220px-New_Emblem_of_Nepal.svg.png 2x" data-file-width="1500" data-file-height="1266"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Nepal" title="Geography of Nepal">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/List_of_mountains_in_Nepal" title="List of mountains in Nepal">Mountains</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Himalayas" title="Himalayas">Himalayas</a> 
+                      <ul>
+                       <li><a href="/wiki/Mount_Everest" title="Mount Everest">Mount Everest</a></li> 
+                       <li><a href="/wiki/Kangchenjunga" title="Kangchenjunga">Kanchenjunga</a></li> 
+                       <li><a href="/wiki/Makalu" title="Makalu">Makalu</a></li> 
+                       <li><a href="/wiki/Dhaulagiri" title="Dhaulagiri">Dhaulagiri</a></li> 
+                       <li><a href="/wiki/Manaslu" title="Manaslu">Manaslu</a></li> 
+                       <li><a href="/wiki/Annapurna" class="mw-redirect" title="Annapurna">Annapurna</a></li>
+                      </ul></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Areas</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Template:Borders_of_Nepal" title="Template:Borders of Nepal">Borders</a></li> 
+                     <li><a href="/wiki/Kathmandu_Valley" title="Kathmandu Valley">Kathmandu Valley</a></li> 
+                     <li><a href="/wiki/Terai" title="Terai">Terai</a> 
+                      <ul>
+                       <li><a href="/wiki/Inner_Terai_Valleys_of_Nepal" title="Inner Terai Valleys of Nepal">Inner Terai Valleys of Nepal</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Tibetan_Plateau" title="Tibetan Plateau">Tibetan Plateau</a></li> 
+                     <li><a href="/wiki/Siliguri_Corridor" title="Siliguri Corridor">Siliguri Corridor <span style="font-size:85%;">(Chicken's Neck)</span></a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/List_of_rivers_of_Nepal" title="List of rivers of Nepal">Rivers</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Arun_River,_China-Nepal" class="mw-redirect" title="Arun River, China-Nepal">Arun</a></li> 
+                     <li><a href="/wiki/Ghaghara" title="Ghaghara">Karnali <span style="font-size:85%;">(Ghaghara)</span></a></li> 
+                     <li><a href="/wiki/Koshi_River" class="mw-redirect" title="Koshi River">Koshi <span style="font-size:85%;">(Kosi)</span></a></li> 
+                     <li><a href="/wiki/Gandaki_River" title="Gandaki River">Narayani <span style="font-size:85%;">(Gandaki)</span></a></li> 
+                     <li><a href="/wiki/West_Rapti_River" title="West Rapti River">West Rapti</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Nepal" title="Politics of Nepal">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Constitution_of_Nepal" title="Constitution of Nepal">Constitution</a></li> 
+                 <li><a href="/wiki/Nepalese_Constituent_Assembly" class="mw-redirect" title="Nepalese Constituent Assembly">Constituent Assembly</a></li> 
+                 <li><a href="/wiki/Elections_in_Nepal" title="Elections in Nepal">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Nepal" title="Foreign relations of Nepal">Foreign relations</a></li> 
+                 <li><a href="/wiki/Nepalese_Armed_Forces" title="Nepalese Armed Forces">Military</a></li> 
+                 <li><a href="/wiki/Federal_Parliament_of_Nepal" title="Federal Parliament of Nepal">Parliament</a> 
+                  <ul>
+                   <li><a href="/wiki/Provincial_Assembly_(Nepal)" title="Provincial Assembly (Nepal)">Provincial assemblies</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Nepal" title="List of political parties in Nepal">Political parties</a> 
+                  <ul>
+                   <li><a href="/wiki/Communism_in_Nepal" title="Communism in Nepal">Communism</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/President_of_Nepal" title="President of Nepal">President</a> 
+                  <ul>
+                   <li><a href="/wiki/Vice_President_of_Nepal" title="Vice President of Nepal">Vice President</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Prime_Minister_of_Nepal" title="Prime Minister of Nepal">Prime Minister</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_prime_ministers_of_Nepal" title="List of prime ministers of Nepal"><span style="font-size:85%;">list</span></a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Council_of_Ministers_of_Nepal" title="Council of Ministers of Nepal">Council of Ministers</a></li> 
+                 <li><a href="/wiki/Supreme_Court_of_Nepal" title="Supreme Court of Nepal">Supreme Court</a> 
+                  <ul>
+                   <li><a href="/wiki/Chief_Justice_of_Nepal" title="Chief Justice of Nepal">Chief Justice</a></li>
+                  </ul></li>
+                </ul> 
+               </div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Administrative_divisions_of_Nepal" title="Administrative divisions of Nepal">Divisions</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/List_of_districts_of_Nepal" title="List of districts of Nepal">Districts</a></li> 
+                     <li><a href="/wiki/Provinces_of_Nepal" title="Provinces of Nepal">Provinces</a></li> 
+                     <li><a href="/wiki/Municipalities_of_Nepal" title="Municipalities of Nepal">Municipalities</a></li> 
+                     <li><a href="/wiki/Gaunpalika" title="Gaunpalika">Rural Municipalities</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/List_of_cities_in_Nepal" title="List of cities in Nepal">Cities</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Bharatpur,_Nepal" title="Bharatpur, Nepal">Bharatpur</a></li> 
+                     <li><a href="/wiki/Biratnagar" title="Biratnagar">Biratnagar</a></li> 
+                     <li><a href="/wiki/Birgunj" title="Birgunj">Birgunj</a></li> 
+                     <li><a href="/wiki/Damak" class="mw-redirect" title="Damak">Damak</a></li> 
+                     <li><a href="/wiki/Hetauda" title="Hetauda">Hetauda</a></li> 
+                     <li><a href="/wiki/Itahari" title="Itahari">Itahari</a></li> 
+                     <li><a href="/wiki/Janakpurdham" class="mw-redirect" title="Janakpurdham">Janakpur</a></li> 
+                     <li><a href="/wiki/Kathmandu" title="Kathmandu">Kathmandu <span style="font-size:85%;">(capital)</span></a></li> 
+                     <li><a href="/wiki/Lalitpur,_Nepal" title="Lalitpur, Nepal">Lalitpur</a></li> 
+                     <li><a href="/wiki/Nepalgunj" title="Nepalgunj">Nepalgunj</a></li> 
+                     <li><a href="/wiki/Pokhara" title="Pokhara">Pokhara</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Nepal" title="Economy of Nepal">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Agriculture_in_Nepal" title="Agriculture in Nepal">Agriculture</a></li> 
+                 <li><a href="/wiki/Energy_in_Nepal" title="Energy in Nepal">Energy</a></li> 
+                 <li><a href="/wiki/List_of_companies_of_Nepal" title="List of companies of Nepal">Companies</a></li> 
+                 <li><a href="/wiki/South_Asian_Free_Trade_Area" title="South Asian Free Trade Area">South Asian Free Trade Area</a></li> 
+                 <li><a href="/wiki/Nepalese_rupee" title="Nepalese rupee">Rupee <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Nepal" title="Telecommunications in Nepal">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Nepal" title="Tourism in Nepal">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Nepal" title="Transport in Nepal">Transport</a></li> 
+                 <li><a href="/wiki/Labour_in_Nepal" title="Labour in Nepal">Workforce</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Culture_of_Nepal" title="Culture of Nepal">Culture</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Nepalese_cuisine" title="Nepalese cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Demographics_of_Nepal" title="Demographics of Nepal">Demographics</a></li> 
+                 <li><a href="/wiki/Education_in_Nepal" title="Education in Nepal">Education</a></li> 
+                 <li><a href="/wiki/Languages_of_Nepal" title="Languages of Nepal">Languages</a></li> 
+                 <li><a href="/wiki/Nepalese_literature" title="Nepalese literature">Literature</a></li> 
+                 <li><a href="/wiki/Music_of_Nepal" title="Music of Nepal">Music</a></li> 
+                 <li><a href="/wiki/Gurkha" title="Gurkha">Gurkhas/Gorkhas</a></li> 
+                 <li><a href="/wiki/International_rankings_of_Nepal" title="International rankings of Nepal">International rankings</a></li> 
+                 <li><a href="/wiki/Media_of_Nepal" class="mw-redirect" title="Media of Nepal">Media</a></li> 
+                 <li><a href="/wiki/Nepal_Academy" title="Nepal Academy">Nepal Academy</a></li> 
+                 <li><a href="/wiki/Newar_people" title="Newar people">Newar</a> 
+                  <ul>
+                   <li><a href="/wiki/Newar_traditional_clothing" title="Newar traditional clothing">Traditional clothing</a></li>
+                  </ul></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Religion_in_Nepal" title="Religion in Nepal">Religion</a> 
+                  <ul>
+                   <li><a href="/wiki/Hinduism_in_Nepal" title="Hinduism in Nepal">Hinduism</a></li> 
+                   <li><a href="/wiki/Buddhism_in_Nepal" title="Buddhism in Nepal">Buddhism</a></li> 
+                   <li><a href="/wiki/Islam_in_Nepal" title="Islam in Nepal">Islam</a></li> 
+                   <li><a href="/wiki/Christianity_in_Nepal" title="Christianity in Nepal">Christianity</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Sherpa_people" title="Sherpa people">Sherpas</a></li> 
+                 <li><a href="/wiki/Sports_in_Nepal" title="Sports in Nepal">Sport</a></li>
+                </ul> 
+               </div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/List_of_festivals_in_Nepal" title="List of festivals in Nepal">Festivals</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Dashain" title="Dashain">Dashain</a></li> 
+                     <li><a href="/wiki/Tihar_(festival)" title="Tihar (festival)">Tihar</a></li> 
+                     <li><a href="/wiki/Mohani" title="Mohani">Mohani</a></li> 
+                     <li><a href="/wiki/Swanti_(festival)" title="Swanti (festival)"> Swonti</a></li> 
+                     <li><a href="/wiki/Dipankha_Yatra" title="Dipankha Yatra">Dipankha Yatra</a></li> 
+                     <li><a href="/wiki/Muslim_holidays" class="mw-redirect" title="Muslim holidays">Eid</a></li> 
+                     <li><a href="/wiki/Yomari_punhi" title="Yomari punhi">Yomari Punhi</a></li> 
+                     <li><a href="/wiki/Gadhimai_festival" title="Gadhimai festival">Gadhimai</a></li> 
+                     <li><a href="/wiki/Jatra_(Nepal)" title="Jatra (Nepal)">Jatra</a></li>
+                    </ul> 
+                   </div>
+                   <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                    <tbody>
+                     <tr>
+                      <th id="Celebrations" scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Celebrations</th>
+                      <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Nwaran" title="Nwaran">Nwaran</a></li> 
+                         <li><a href="/wiki/Pasni_(celebration)" title="Pasni (celebration)">Pasni</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <div> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Issues</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Witch-hunts_in_Nepal" title="Witch-hunts in Nepal">Witch-hunts</a></li> 
+                     <li><a href="/wiki/Capital_punishment_in_Nepal" title="Capital punishment in Nepal">Capital punishment</a></li> 
+                     <li><a href="/wiki/Health_in_Nepal" title="Health in Nepal">Health</a></li> 
+                     <li><a href="/wiki/Human_rights_in_Nepal" title="Human rights in Nepal">Human rights</a> 
+                      <ul>
+                       <li><a href="/wiki/Intersex_rights_in_Nepal" title="Intersex rights in Nepal">Intersex</a></li> 
+                       <li><a href="/wiki/LGBT_rights_in_Nepal" title="LGBT rights in Nepal">LGBT</a></li> 
+                       <li><a href="/wiki/Women%27s_rights_in_Nepal" title="Women's rights in Nepal">Women</a></li>
+                      </ul></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Nepal" title="Outline of Nepal">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Nepal-related_articles" class="mw-redirect" title="Index of Nepal-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Nepal" title="Category:Nepal">Category</a></li> 
+             <li><a href="/wiki/Portal:Nepal" title="Portal:Nepal">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Asia" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Asia_topic" title="Template:Asia topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Asia_topic" title="Template talk:Asia topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Asia_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Asia" style="font-size:114%;margin:0 4em">
+            Public holidays in Asia
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Afghanistan" title="Public holidays in Afghanistan">Afghanistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bahrain" title="Public holidays in Bahrain">Bahrain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bangladesh" title="Public holidays in Bangladesh">Bangladesh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bhutan" title="Public holidays in Bhutan">Bhutan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Brunei" title="Public holidays in Brunei">Brunei</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cambodia" title="Public holidays in Cambodia">Cambodia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_China" title="Public holidays in China">China</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_East_Timor" class="mw-redirect" title="Public holidays in East Timor">East Timor (Timor-Leste)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_India" title="Public holidays in India">India</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Indonesia" title="Public holidays in Indonesia">Indonesia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iran" title="Public holidays in Iran">Iran</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iraq" title="Public holidays in Iraq">Iraq</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Israel" title="Public holidays in Israel">Israel</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Japan" title="Public holidays in Japan">Japan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jordan" title="Public holidays in Jordan">Jordan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Korea" title="Public holidays in North Korea">North Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Korea" title="Public holidays in South Korea">South Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kuwait" title="Public holidays in Kuwait">Kuwait</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kyrgyzstan" title="Public holidays in Kyrgyzstan">Kyrgyzstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Laos" title="Public holidays in Laos">Laos</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lebanon" title="Public holidays in Lebanon">Lebanon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malaysia" title="Public holidays in Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Maldives" title="Public holidays in the Maldives">Maldives</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mongolia" title="Public holidays in Mongolia">Mongolia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Myanmar" title="Public holidays in Myanmar">Myanmar</a></li> 
+             <li><a class="mw-selflink selflink">Nepal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Oman" title="Public holidays in Oman">Oman</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Pakistan" title="Public holidays in Pakistan">Pakistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Philippines" title="Public holidays in the Philippines">Philippines</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Qatar" title="Public holidays in Qatar">Qatar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saudi_Arabia" title="Public holidays in Saudi Arabia">Saudi Arabia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Singapore" title="Public holidays in Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sri_Lanka" class="mw-redirect" title="Public holidays in Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Syria" title="Public holidays in Syria">Syria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tajikistan" title="Public holidays in Tajikistan">Tajikistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Thailand" title="Public holidays in Thailand">Thailand</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkmenistan" title="Public holidays in Turkmenistan">Turkmenistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Arab_Emirates" title="Public holidays in the United Arab Emirates">United Arab Emirates</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uzbekistan" title="Public holidays in Uzbekistan">Uzbekistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vietnam" title="Public holidays in Vietnam">Vietnam</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Yemen" title="Public holidays in Yemen">Yemen</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with<br>limited recognition</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_State_of_Palestine" title="Public holidays in the State of Palestine">Palestine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Taiwan" title="Public holidays in Taiwan">Taiwan</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a> and<br>other territories</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Public_holidays_in_the_British_Indian_Ocean_Territory&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in the British Indian Ocean Territory (page does not exist)">British Indian Ocean Territory</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Christmas_Island" title="Public holidays in Christmas Island">Christmas Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cocos_(Keeling)_Islands" title="Public holidays in the Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hong_Kong" title="Public holidays in Hong Kong">Hong Kong</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Macau" title="Public holidays in Macau">Macau</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+           <div> 
+            <ul>
+             <li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Book:Asia" title="Book:Asia">Book</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Asia" title="Category:Asia">Category</a></li> 
+             <li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> <a href="/wiki/Portal:Asia" title="Portal:Asia">Asia portal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="24x20px&amp;#124;_&amp;#124;alt=Nepal&amp;#124;link=Nepal_Public_holidays_in_Nepal" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Nepal_Holidays" title="Template:Nepal Holidays"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Nepal_Holidays" title="Template talk:Nepal Holidays"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Nepal_Holidays&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="24x20px&amp;#124;_&amp;#124;alt=Nepal&amp;#124;link=Nepal_Public_holidays_in_Nepal" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><a href="/wiki/Nepal" title="Nepal"><img alt="Nepal" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/16px-Flag_of_Nepal.svg.png" decoding="async" width="16" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/25px-Flag_of_Nepal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/33px-Flag_of_Nepal.svg.png 2x" data-file-width="726" data-file-height="885"></a></span> <a class="mw-selflink selflink">Public holidays in Nepal</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Maghe_Sankranti" title="Maghe Sankranti">Maghe Sankranti</a></li> 
+             <li><a href="/wiki/Nepalese_New_Year" class="mw-redirect" title="Nepalese New Year">Naya Barsa</a></li> 
+             <li><a href="/w/index.php?title=Shahid_Diwas&amp;action=edit&amp;redlink=1" class="new" title="Shahid Diwas (page does not exist)">Shahid Diwas</a></li> 
+             <li><a href="/w/index.php?title=Sonam_Losar&amp;action=edit&amp;redlink=1" class="new" title="Sonam Losar (page does not exist)">Sonam Losar</a></li> 
+             <li><a href="/wiki/Saraswati_Puja" class="mw-redirect" title="Saraswati Puja">Saraswati Puja</a></li> 
+             <li><a href="/w/index.php?title=Prajatantra_Diwas&amp;action=edit&amp;redlink=1" class="new" title="Prajatantra Diwas (page does not exist)">Prajatantra Diwas</a></li> 
+             <li><a href="/w/index.php?title=Gyalpo_Lhosar&amp;action=edit&amp;redlink=1" class="new" title="Gyalpo Lhosar (page does not exist)">Gyalpo Lhosar</a></li> 
+             <li><a href="/wiki/Maha_Shivaratri" title="Maha Shivaratri">Maha Shivaratri</a></li> 
+             <li><a href="/w/index.php?title=Nari_Diwas&amp;action=edit&amp;redlink=1" class="new" title="Nari Diwas (page does not exist)">Nari Diwas</a></li> 
+             <li><a href="/w/index.php?title=Fagu_Purnima&amp;action=edit&amp;redlink=1" class="new" title="Fagu Purnima (page does not exist)">Fagu Purnima</a></li> 
+             <li><a href="/w/index.php?title=Ghode_Jatra&amp;action=edit&amp;redlink=1" class="new" title="Ghode Jatra (page does not exist)">Ghode Jatra</a></li> 
+             <li><a href="/wiki/Ram_Nawami" class="mw-redirect" title="Ram Nawami">Ram Nawami</a></li> 
+             <li><a href="/w/index.php?title=Majdur_Diwas&amp;action=edit&amp;redlink=1" class="new" title="Majdur Diwas (page does not exist)">Majdur Diwas</a></li> 
+             <li><a href="/wiki/Buddha_Jayanti" class="mw-redirect" title="Buddha Jayanti">Buddha Jayanti</a></li> 
+             <li><a href="/w/index.php?title=Ganatantra_Diwas&amp;action=edit&amp;redlink=1" class="new" title="Ganatantra Diwas (page does not exist)">Ganatantra Diwas</a></li> 
+             <li><a href="/wiki/Ramadan" title="Ramadan">Ramadan</a></li> 
+             <li><a href="/wiki/Janai_Purnima" class="mw-redirect" title="Janai Purnima">Janai Purnima</a> and <a href="/wiki/Raksha_Bandhan" title="Raksha Bandhan">Raksha Bandhan</a></li> 
+             <li><a href="/wiki/Gaijatra" class="mw-redirect" title="Gaijatra">Gaijatra</a></li> 
+             <li><a href="/w/index.php?title=Gaura_Parwa&amp;action=edit&amp;redlink=1" class="new" title="Gaura Parwa (page does not exist)">Gaura Parwa</a></li> 
+             <li><a href="/wiki/Krishna_Janmashtami" title="Krishna Janmashtami">Krishna Janmashtami</a></li> 
+             <li><a href="/wiki/Baqri_Id" class="mw-redirect" title="Baqri Id">Baqri Id</a></li> 
+             <li><a href="/wiki/Teej" title="Teej">Teej</a></li> 
+             <li><a href="/wiki/Rishi_Panchami" title="Rishi Panchami">Rishi Panchami</a></li> 
+             <li><a href="/wiki/Indra_Jatra" class="mw-redirect" title="Indra Jatra">Indra Jatra</a></li> 
+             <li><a href="/w/index.php?title=Sambidhaan_Diwas&amp;action=edit&amp;redlink=1" class="new" title="Sambidhaan Diwas (page does not exist)">Sambidhaan Diwas</a></li> 
+             <li><a href="/w/index.php?title=Ghatasthapana&amp;action=edit&amp;redlink=1" class="new" title="Ghatasthapana (page does not exist)">Ghatasthapana</a></li> 
+             <li><a href="/w/index.php?title=Fulpati&amp;action=edit&amp;redlink=1" class="new" title="Fulpati (page does not exist)">Fulpati</a></li> 
+             <li><a href="/w/index.php?title=Maha_Asthami&amp;action=edit&amp;redlink=1" class="new" title="Maha Asthami (page does not exist)">Maha Asthami</a></li> 
+             <li><a href="/w/index.php?title=Maha_Navami&amp;action=edit&amp;redlink=1" class="new" title="Maha Navami (page does not exist)">Maha Navami</a></li> 
+             <li><a href="/wiki/Bijaya_Dashami" class="mw-redirect" title="Bijaya Dashami">Bijaya Dashami</a></li> 
+             <li><a href="/wiki/Ekadashi" title="Ekadashi">Ekadashi</a></li> 
+             <li><a href="/w/index.php?title=Duwadashi&amp;action=edit&amp;redlink=1" class="new" title="Duwadashi (page does not exist)">Duwadashi</a></li> 
+             <li><a href="/w/index.php?title=Kojagrat_Purnima&amp;action=edit&amp;redlink=1" class="new" title="Kojagrat Purnima (page does not exist)">Kojagrat Purnima</a></li> 
+             <li><a href="/w/index.php?title=Laxmi_Puja&amp;action=edit&amp;redlink=1" class="new" title="Laxmi Puja (page does not exist)">Laxmi Puja</a></li> 
+             <li><a href="/wiki/Mha_Puja" title="Mha Puja">Mha Puja</a> and <a href="/wiki/Govardhan_Puja" title="Govardhan Puja">Govardhan Puja</a></li> 
+             <li><a href="/w/index.php?title=Bhaitika&amp;action=edit&amp;redlink=1" class="new" title="Bhaitika (page does not exist)">Bhaitika</a></li> 
+             <li><a href="/w/index.php?title=Chhath_Parwa&amp;action=edit&amp;redlink=1" class="new" title="Chhath Parwa (page does not exist)">Chhath Parwa</a></li> 
+             <li><a href="/w/index.php?title=Yomari_Punhi&amp;action=edit&amp;redlink=1" class="new" title="Yomari Punhi (page does not exist)">Yomari Punhi</a> and <a href="/w/index.php?title=Jyapu_Diwas&amp;action=edit&amp;redlink=1" class="new" title="Jyapu Diwas (page does not exist)">Jyapu Diwas</a></li> 
+             <li><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a></li> 
+             <li><a href="/w/index.php?title=Tamu_Lhosar&amp;action=edit&amp;redlink=1" class="new" title="Tamu Lhosar (page does not exist)">Tamu Lhosar</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style>
+            <div role="navigation" aria-label="Portals" class="noprint portal plainlist tright"> 
+             <ul> 
+              <li><span><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/23px-Flag_of_Nepal.svg.png" decoding="async" width="23" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/34px-Flag_of_Nepal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/46px-Flag_of_Nepal.svg.png 2x" data-file-width="726" data-file-height="885"></span><span><a href="/wiki/Portal:Nepal" title="Portal:Nepal">Nepal portal</a></span></li>
+             </ul>
+            </div>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1345
+Cached time: 20210127160017
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.648 seconds
+Real time usage: 0.797 seconds
+Preprocessor visited node count: 14784/1000000
+Post‐expand include size: 195218/2097152 bytes
+Template argument size: 38277/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 25/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4556/5000000 bytes
+Lua time usage: 0.193/10.000 seconds
+Lua memory usage: 6188382/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  657.792      1 -total
+ 67.66%  445.060     14 Template:Navbox
+ 38.44%  252.827      1 Template:Asia_in_topic
+ 31.01%  203.969     56 Template:Iso2country
+ 23.81%  156.598      3 Template:Ambox
+ 21.41%  140.855      1 Template:Nepal_topics
+ 20.84%  137.066      1 Template:Country_topics
+ 19.54%  128.558      1 Template:Multiple_issues
+ 12.44%   81.851     56 Template:Iso2country/data
+  8.83%   58.096      1 Template:One_source
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:37942488-0!canonical and timestamp 20210127160016 and revision id 997525033. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Nepal&amp;oldid=997525033">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Nepal&amp;oldid=997525033</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Nepal" title="Category:Public holidays in Nepal">Public holidays in Nepal</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2020" title="Category:Articles needing additional references from December 2020">Articles needing additional references from December 2020</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_December_2020" title="Category:Wikipedia articles in need of updating from December 2020">Wikipedia articles in need of updating from December 2020</a></li>
+       <li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Nepal" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Nepal" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Nepal" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Nepal" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Nepal">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Nepal&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Nepal&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Nepal" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Nepal" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Nepal&amp;oldid=997525033" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Nepal&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Nepal&amp;id=997525033&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257812" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Nepal&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Nepal&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%94%E1%83%9E%E1%83%90%E1%83%9A%E1%83%98%E1%83%A1_%E1%83%93%E1%83%A6%E1%83%94%E1%83%A1%E1%83%90%E1%83%A1%E1%83%AC%E1%83%90%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%98" title="ნეპალის დღესასწაულები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9D%D0%B5%D0%BF%D0%B0%D0%BB%D0%B0" title="Праздники Непала – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257812#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 31 December 2020, at 23:23<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Nepal&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.648","walltime":"0.797","ppvisitednodes":{"value":14784,"limit":1000000},"postexpandincludesize":{"value":195218,"limit":2097152},"templateargumentsize":{"value":38277,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":25,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4556,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  657.792      1 -total"," 67.66%  445.060     14 Template:Navbox"," 38.44%  252.827      1 Template:Asia_in_topic"," 31.01%  203.969     56 Template:Iso2country"," 23.81%  156.598      3 Template:Ambox"," 21.41%  140.855      1 Template:Nepal_topics"," 20.84%  137.066      1 Template:Country_topics"," 19.54%  128.558      1 Template:Multiple_issues"," 12.44%   81.851     56 Template:Iso2country/data","  8.83%   58.096      1 Template:One_source"]},"scribunto":{"limitreport-timeusage":{"value":"0.193","limit":"10.000"},"limitreport-memusage":{"value":6188382,"limit":52428800}},"cachereport":{"origin":"mw1345","timestamp":"20210127160017","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Nepal","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Nepal","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7257812","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7257812","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-12-16T03:47:03Z","dateModified":"2020-12-31T23:23:33Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1350"});});</script> 
+ </body>
+</html>

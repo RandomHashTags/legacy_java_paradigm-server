@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import org.apache.logging.log4j.Level;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -9,8 +10,6 @@ import java.io.File;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.List;
-import java.util.logging.Level;
 
 public interface Jsoupable {
     String FILE_SEPARATOR = File.separator;
@@ -18,13 +17,14 @@ public interface Jsoupable {
     private static String fixURL(String url) {
         return url.replace("/", "-").replace(".", "_").replace(":", "-");
     }
-    private static String getFolder() {
-        return "downloaded_pages";
+    private static String getFolder(FileType type) {
+        final String folderName = type.getFolderName();
+        return "downloaded_pages" + (folderName != null ? FILE_SEPARATOR + folderName : "");
     }
-    private static Document getLocalDocument(String url) throws Exception {
+    public static Document getLocalDocument(FileType type, String url) throws Exception {
         final String currentPath = System.getProperty("user.dir") + FILE_SEPARATOR;
 
-        final String folder = currentPath + getFolder();
+        final String folder = currentPath + getFolder(type);
         final File folderFile = new File(folder);
         if(!folderFile.exists()) {
             Files.createDirectory(folderFile.toPath());
@@ -43,10 +43,10 @@ public interface Jsoupable {
         }
         return null;
     }
-    private static void createDocument(String url, String html) throws Exception {
+    private static void createDocument(FileType type, String url, String html) throws Exception {
         final String currentPath = System.getProperty("user.dir") + FILE_SEPARATOR;
 
-        final String folder = currentPath + getFolder();
+        final String folder = currentPath + getFolder(type);
         final String directory = folder + FILE_SEPARATOR + fixURL(url) + ".txt";
         final File file = new File(directory);
         if(!file.exists()) {
@@ -54,7 +54,7 @@ public interface Jsoupable {
             WLLogger.log(Level.INFO, "Jsoupable - creating document at path " + path.toAbsolutePath().toString());
             Files.writeString(path, html, StandardCharsets.UTF_8);
         } else {
-            WLLogger.log(Level.WARNING, "Jsoupable - createDocument(" + url + ") - already exists at " + directory + "!");
+            WLLogger.log(Level.WARN, "Jsoupable - createDocument(" + url + ") - already exists at " + directory + "!");
         }
     }
 
@@ -62,8 +62,8 @@ public interface Jsoupable {
         if(string != null && !string.isEmpty()) {
             for(String split : string.split("\\[")) {
                 if(split.contains("]")) {
-                    final String value = split.split("]")[0];
-                    if(value.matches("[0-9]+") || value.equals("citation needed") || value.startsWith("note ") || value.startsWith("law ")) {
+                    final String value = split.split("]")[0], valueLowercased = value.toLowerCase();
+                    if(value.matches("[0-9]+") || value.matches("[a-zA-Z]") || valueLowercased.equals("citation needed") || valueLowercased.startsWith("note ") || valueLowercased.startsWith("law ") || valueLowercased.startsWith("year missing") || valueLowercased.startsWith("update")) {
                         string = string.replace("[" + value + "]", "");
                     }
                 }
@@ -73,26 +73,31 @@ public interface Jsoupable {
     }
 
     default Document getDocument(String url) {
-        return getDocument(url, false);
+        return getDocument(null, url, false);
     }
-    default Document getDocument(String url, boolean download) {
-        return getStaticDocument(url, download);
+    default Document getDocument(FileType type, String url) {
+        return getDocument(type, url, false);
     }
-    default Elements getDocumentElements(String url, String targetElements) {
-        return Jsoupable.getStaticDocumentElements(url, targetElements, -1);
+    default Document getDocument(FileType type, String url, boolean download) {
+        return getStaticDocument(type, url, download);
     }
-    default Elements getDocumentElements(String url, String targetElements, int index) {
-        return Jsoupable.getStaticDocumentElements(url, targetElements, index);
+    default Elements getDocumentElements(FileType type, String url, String targetElements) {
+        return Jsoupable.getStaticDocumentElements(type, url, targetElements, -1);
     }
-    static Elements getStaticDocumentElements(String url, String targetElements) {
-        return getStaticDocumentElements(url, targetElements, -1);
+    default Elements getDocumentElements(FileType type, String url, String targetElements, int index) {
+        return Jsoupable.getStaticDocumentElements(type, url, targetElements, index);
     }
-    static Elements getStaticDocumentElements(String url, String targetElements, int index) {
+    static Elements getStaticDocumentElements(FileType type, String url, String targetElements) {
+        return getStaticDocumentElements(type, url, targetElements, -1);
+    }
+    static Elements getStaticDocumentElements(FileType type, String url, String targetElements, int index) {
         try {
-            final Document local = getLocalDocument(url);
+            final Document local = getLocalDocument(type, url);
             final boolean isList = targetElements.endsWith(" li"), isTR = targetElements.endsWith(" tr");
             if(local != null) {
-                final boolean isUL = targetElements.endsWith(" ul"), isTableWikitable = targetElements.endsWith(" table.wikitable"), isTableSortable = targetElements.endsWith(" table.sortable");
+                final boolean isUL = targetElements.endsWith(" ul");
+                final boolean isTableWikitable = targetElements.equals("table.wikitable") || targetElements.endsWith(" table.wikitable");
+                final boolean isTableSortable = targetElements.equals("table.sortable") || targetElements.endsWith(" table.sortable");
                 return isList ? local.select("li")
                         : isUL ? local.select("ul")
                         : isTableWikitable ? local.select("table.wikitable")
@@ -117,29 +122,29 @@ public interface Jsoupable {
             } else {
                 html = element.outerHtml();
             }
-            createDocument(url, html);
+            createDocument(type, url, html);
             return hasIndex ? element.getAllElements() : elements;
         } catch (Exception e) {
-            WLLogger.log(Level.WARNING, "Jsoupable - getStaticDocumentElements(" + url + ") - error getting document elements! (" + e.getLocalizedMessage() + ")");
+            WLLogger.log(Level.WARN, "Jsoupable - getStaticDocumentElements(" + url + ") - error getting document elements! (" + e.getLocalizedMessage() + ")");
             return null;
         }
     }
-    static Document getStaticDocument(String url, boolean download) {
+    static Document getStaticDocument(FileType type, String url, boolean download) {
         try {
             if(download) {
-                final Document local = getLocalDocument(url);
+                final Document local = getLocalDocument(type, url);
                 if(local != null) {
                     return local;
                 }
                 final Document doc = Jsoup.connect(url).get();
                 final String html = doc.html();
-                createDocument(url, html);
+                createDocument(type, url, html);
                 return doc;
             } else {
                 return Jsoup.connect(url).get();
             }
         } catch (Exception e) {
-            WLLogger.log(Level.WARNING, "Jsoupable - getStaticDocument(" + url + ") - download=" + download + " - error getting document!");
+            WLLogger.log(Level.WARN, "Jsoupable - getStaticDocument(" + url + ") - download=" + download + " - error getting document!");
             return null;
         }
     }

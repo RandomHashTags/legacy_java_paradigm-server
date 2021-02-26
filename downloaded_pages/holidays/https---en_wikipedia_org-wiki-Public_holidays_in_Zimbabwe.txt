@@ -1,0 +1,786 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Zimbabwe - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YCswM3HPFkZ4m4koGBMKMwAAAIs","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Zimbabwe","wgTitle":"Public holidays in Zimbabwe","wgCurRevisionId":1002666492,"wgRevisionId":1002666492,"wgArticleId":929795,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use dmy dates from January 2021","All stub articles","Public holidays in Zimbabwe","Zimbabwean culture","Zimbabwean society","Events in Zimbabwe","Lists of public holidays by country",
+"Zimbabwe stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Zimbabwe","wgRelevantArticleId":929795,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1024521"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":
+"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Zimbabwe"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Zimbabwe&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Zimbabwe&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Zimbabwe"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Zimbabwe rootpage-Public_holidays_in_Zimbabwe skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Zimbabwe</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p> The following is a list of <b>holidays in Zimbabwe</b>: </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date </th> 
+         <th>English Name </th>
+        </tr> 
+        <tr> 
+         <td>1 Jan </td> 
+         <td>New Year's Day </td>
+        </tr> 
+        <tr> 
+         <td>21 Feb </td> 
+         <td><a href="/wiki/Robert_Gabriel_Mugabe_National_Youth_Day" title="Robert Gabriel Mugabe National Youth Day">Robert Gabriel Mugabe National Youth Day</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a> -2d </td> 
+         <td><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a> -1d </td> 
+         <td><a href="/wiki/Holy_Saturday" title="Holy Saturday">Easter Saturday</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a> +1d </td> 
+         <td><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> </td>
+        </tr> 
+        <tr> 
+         <td>18 Apr </td> 
+         <td><a href="/wiki/Independence_Day" class="mw-redirect" title="Independence Day">Independence Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>1 May </td> 
+         <td>Worker's Day </td>
+        </tr> 
+        <tr> 
+         <td>25 May </td> 
+         <td><a href="/wiki/Africa_Day" title="Africa Day">Africa Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>Second Monday in August </td> 
+         <td><a href="/wiki/Heroes%27_Day" title="Heroes' Day">Heroes' Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>Tuesday after Second Monday of August </td> 
+         <td><a href="/wiki/Defence_Forces_Day" class="mw-redirect" title="Defence Forces Day">Defence Forces Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>22 Dec </td> 
+         <td><a rel="nofollow" class="external text" href="http://www.pindula.co.zw/Unity_Accord#Unity_Day">Unity Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>25 Dec </td> 
+         <td>Christmas Day </td>
+        </tr> 
+        <tr> 
+         <td>26 Dec </td> 
+         <td>Boxing Day </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>Public holidays are as detailed in the <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170426055939/http://www.ca-lr.org/ldc_demo/pdfs/final/Public%20Holidays%20And%20Prohibition%20Of%20Business%20Act%20(2001).pdf">Public Holidays and Prohibition of Business Act</a> (Chapter 10:21), its various amendments and General Notices </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Zimbabwe&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.veritaszim.net/node/1879">Public Holidays 2017</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.veritaszim.net/node/1387">Public Holidays 2016</a></li> 
+       <li><a href="/wiki/Public_holidays_in_Rhodesia" title="Public holidays in Rhodesia">Public holidays in Rhodesia</a>, for historical holidays.</li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Zimbabwe&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.timeanddate.com/holidays/zimbabwe/robert-mugabe-national-youth-day">"Robert Gabriel Mugabe National Youth Day in Zimbabwe"</a>. <i>timeanddate.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">26 April</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=timeanddate.com&amp;rft.atitle=Robert+Gabriel+Mugabe+National+Youth+Day+in+Zimbabwe&amp;rft_id=https%3A%2F%2Fwww.timeanddate.com%2Fholidays%2Fzimbabwe%2Frobert-mugabe-national-youth-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Zimbabwe" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Africa" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Africa_topic" title="Template:Africa topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Africa_topic" title="Template talk:Africa topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Africa_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Africa" style="font-size:114%;margin:0 4em">
+            Public holidays in Africa
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Algeria" title="Public holidays in Algeria">Algeria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Angola" title="Public holidays in Angola">Angola</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Benin" title="Public holidays in Benin">Benin</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Botswana" title="Public holidays in Botswana">Botswana</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Burkina_Faso" title="Public holidays in Burkina Faso">Burkina Faso</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Burundi" title="Public holidays in Burundi">Burundi</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cameroon" title="Public holidays in Cameroon">Cameroon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cape_Verde" title="Public holidays in Cape Verde">Cape Verde (Cabo Verde)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Central_African_Republic" title="Public holidays in the Central African Republic">Central African Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Chad" title="Public holidays in Chad">Chad</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Comoros" title="Public holidays in the Comoros">Comoros</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Democratic_Republic_of_the_Congo" title="Public holidays in the Democratic Republic of the Congo">Democratic Republic of the Congo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_the_Congo" title="Public holidays in the Republic of the Congo">Republic of the Congo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Djibouti" title="Public holidays in Djibouti">Djibouti</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Equatorial_Guinea" title="Public holidays in Equatorial Guinea">Equatorial Guinea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Eritrea" title="Public holidays in Eritrea">Eritrea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Eswatini" title="Public holidays in Eswatini">Eswatini (Swaziland)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ethiopia" title="Public holidays in Ethiopia">Ethiopia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gabon" title="Public holidays in Gabon">Gabon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Gambia" title="Public holidays in the Gambia">The Gambia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ghana" title="Public holidays in Ghana">Ghana</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guinea" title="Public holidays in Guinea">Guinea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guinea-Bissau" title="Public holidays in Guinea-Bissau">Guinea-Bissau</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ivory_Coast" title="Public holidays in Ivory Coast">Ivory Coast (Côte d'Ivoire)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kenya" title="Public holidays in Kenya">Kenya</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lesotho" title="Public holidays in Lesotho">Lesotho</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liberia" title="Public holidays in Liberia">Liberia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Libya" title="Public holidays in Libya">Libya</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Madagascar" title="Public holidays in Madagascar">Madagascar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malawi" title="Public holidays in Malawi">Malawi</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mali" title="Public holidays in Mali">Mali</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mauritania" title="Public holidays in Mauritania">Mauritania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mauritius" class="mw-redirect" title="Public holidays in Mauritius">Mauritius</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Morocco" title="Public holidays in Morocco">Morocco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mozambique" title="Public holidays in Mozambique">Mozambique</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Namibia" title="Public holidays in Namibia">Namibia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Niger" title="Public holidays in Niger">Niger</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nigeria" title="Public holidays in Nigeria">Nigeria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Rwanda" title="Public holidays in Rwanda">Rwanda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="Public holidays in São Tomé and Príncipe">São Tomé and Príncipe</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Senegal" title="Public holidays in Senegal">Senegal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Seychelles" title="Public holidays in Seychelles">Seychelles</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sierra_Leone" title="Public holidays in Sierra Leone">Sierra Leone</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Somalia" title="Public holidays in Somalia">Somalia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Africa" title="Public holidays in South Africa">South Africa</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Sudan" title="Public holidays in South Sudan">South Sudan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sudan" title="Public holidays in Sudan">Sudan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tanzania" title="Public holidays in Tanzania">Tanzania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Togo" title="Public holidays in Togo">Togo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tunisia" title="Public holidays in Tunisia">Tunisia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uganda" title="Public holidays in Uganda">Uganda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Zambia" title="Public holidays in Zambia">Zambia</a></li> 
+             <li><a class="mw-selflink selflink">Zimbabwe</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            States with limited
+            <br>recognition
+           </div></th>
+          <td class="navbox-list navbox-even hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_Sahrawi_Arab_Democratic_Republic" class="mw-redirect" title="Public holidays in the Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Somaliland" title="Public holidays in Somaliland">Somaliland</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            Dependencies and
+            <br>other territories
+           </div></th>
+          <td class="navbox-list navbox-odd hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div> 
+             <ul>
+              <li><a href="/wiki/Public_holidays_in_the_Canary_Islands" class="mw-redirect" title="Public holidays in the Canary Islands">Canary Islands</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Ceuta" class="mw-redirect" title="Public holidays in Ceuta">Ceuta</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Melilla" class="mw-redirect" title="Public holidays in Melilla">Melilla</a>&nbsp;&nbsp;<span style="font-size:85%;">(Spain)</span></li> 
+              <li><a href="/w/index.php?title=Public_holidays_in_Madeira&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Madeira (page does not exist)">Madeira</a>&nbsp;<span style="font-size:85%;">(Portugal)</span></li> 
+              <li><a href="/w/index.php?title=Public_holidays_in_Mayotte&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Mayotte (page does not exist)">Mayotte</a>&nbsp;/ <a href="/w/index.php?title=Public_holidays_in_R%C3%A9union&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Réunion (page does not exist)">Réunion</a>&nbsp;<span style="font-size:85%;">(France)</span></li> 
+              <li><a href="/wiki/Public_holidays_in_Saint_Helena" class="mw-redirect" title="Public holidays in Saint Helena">Saint Helena</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Ascension_Island" class="mw-redirect" title="Public holidays in Ascension Island">Ascension Island</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Tristan_da_Cunha" class="mw-redirect" title="Public holidays in Tristan da Cunha">Tristan da Cunha</a>&nbsp;<span style="font-size:85%;">(United Kingdom)</span></li> 
+              <li><a href="/wiki/Public_holidays_in_Western_Sahara" class="mw-redirect" title="Public holidays in Western Sahara">Western Sahara</a></li>
+             </ul> 
+            </div>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Zimbabwe_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Zimbabwe_topics" title="Template:Zimbabwe topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Zimbabwe_topics" title="Template talk:Zimbabwe topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Zimbabwe_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Zimbabwe_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a>&nbsp;<a href="/wiki/Index_of_Zimbabwe-related_articles" title="Index of Zimbabwe-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div id="1890–1923:_Company_rule;_1923–1980:_Southern_Rhodesia;_1953–1963:_Federation;_1965–1979:_Rhodesia_under_UDI;_1979:_Zimbabwe_Rhodesia_under_UDI;_1980–present:_Zimbabwe">
+            1890–1923: <a href="/wiki/Company_rule_in_Rhodesia" title="Company rule in Rhodesia">Company rule</a>; 1923–1980: <a href="/wiki/Southern_Rhodesia" title="Southern Rhodesia">Southern Rhodesia</a>; 1953–1963: <a href="/wiki/Federation_of_Rhodesia_and_Nyasaland" title="Federation of Rhodesia and Nyasaland">Federation</a>; 1965–1979: <a href="/wiki/Rhodesia" title="Rhodesia">Rhodesia</a> under <a href="/wiki/Rhodesia%27s_Unilateral_Declaration_of_Independence" title="Rhodesia's Unilateral Declaration of Independence">UDI</a>; 1979: <a href="/wiki/Zimbabwe_Rhodesia" title="Zimbabwe Rhodesia">Zimbabwe Rhodesia</a> under UDI; 1980–present: <a href="/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Zimbabwe" title="History of Zimbabwe">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/List_of_years_in_Zimbabwe" title="List of years in Zimbabwe">Chronology</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Pre-colonial_history_of_Zimbabwe" title="Pre-colonial history of Zimbabwe">Pre-colonial</a></li> 
+                 <li><a href="/wiki/Rudd_Concession" title="Rudd Concession">Rudd Concession</a></li> 
+                 <li><a href="/wiki/Company_rule_in_Rhodesia" title="Company rule in Rhodesia">Company rule</a> 
+                  <ul>
+                   <li><a href="/wiki/Pioneer_Column" title="Pioneer Column">Pioneer Column</a></li> 
+                   <li><a href="/wiki/First_Matabele_War" title="First Matabele War">First Matabele War</a></li> 
+                   <li><a href="/wiki/Shangani_Patrol" title="Shangani Patrol">Shangani Patrol</a></li> 
+                   <li><a href="/wiki/Second_Matabele_War" title="Second Matabele War">Second Matabele War</a></li> 
+                   <li><a href="/wiki/Second_Boer_War" title="Second Boer War">Second Boer War</a></li> 
+                   <li><a href="/wiki/Southern_Rhodesia_in_World_War_I" title="Southern Rhodesia in World War I">First World War</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Southern_Rhodesia" title="Southern Rhodesia">Southern Rhodesia</a> 
+                  <ul>
+                   <li><a href="/wiki/Colonial_history_of_Southern_Rhodesia" title="Colonial history of Southern Rhodesia">colonial history</a></li> 
+                   <li><a href="/wiki/Southern_Rhodesia_in_World_War_II" title="Southern Rhodesia in World War II">Second World War</a></li> 
+                   <li><a href="/wiki/Federation_of_Rhodesia_and_Nyasaland" title="Federation of Rhodesia and Nyasaland">Rhodesia–Nyasaland federation</a></li> 
+                   <li><a href="/wiki/Southern_Rhodesian_military_involvement_in_the_Malayan_Emergency" title="Southern Rhodesian military involvement in the Malayan Emergency">Malayan Emergency involvement</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Rhodesia%27s_Unilateral_Declaration_of_Independence" title="Rhodesia's Unilateral Declaration of Independence">Unilateral Declaration of Independence</a> 
+                  <ul>
+                   <li><a href="/wiki/History_of_Rhodesia_(1965%E2%80%9379)" title="History of Rhodesia (1965–79)">Rhodesia</a></li> 
+                   <li><a href="/wiki/Rhodesian_Bush_War" title="Rhodesian Bush War">Bush War</a></li> 
+                   <li><a href="/wiki/Victoria_Falls_Conference_(1975)" title="Victoria Falls Conference (1975)">1975 Victoria Falls Conference</a></li> 
+                   <li><a href="/wiki/Geneva_Conference_(1976)" title="Geneva Conference (1976)">1976 Geneva Conference</a></li> 
+                   <li><a href="/wiki/Internal_Settlement" title="Internal Settlement">Internal Settlement</a></li> 
+                   <li><a href="/wiki/Zimbabwe_Rhodesia" title="Zimbabwe Rhodesia">Zimbabwe Rhodesia</a></li> 
+                   <li><a href="/wiki/Lancaster_House_Agreement" title="Lancaster House Agreement">Lancaster House Agreement</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Gukurahundi" title="Gukurahundi">Gukurahundi</a></li> 
+                 <li><a href="/wiki/2008_Zimbabwean_cholera_outbreak" title="2008 Zimbabwean cholera outbreak">2008–2009 cholera outbreak</a></li> 
+                 <li><a href="/wiki/2016%E2%80%932017_Zimbabwe_protests" title="2016–2017 Zimbabwe protests">2016–2017 protests</a></li> 
+                 <li><a href="/wiki/2017_Zimbabwean_coup_d%27%C3%A9tat" title="2017 Zimbabwean coup d'état">2017 coup d'état</a></li> 
+                 <li><a href="/wiki/Zimbabwe_fuel_protests" title="Zimbabwe fuel protests">2019 fuel protests</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">By topic</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Constitutional_history_of_Zimbabwe" class="mw-redirect" title="Constitutional history of Zimbabwe">Constitutional</a></li> 
+                 <li><a href="/wiki/History_of_cricket_in_Zimbabwe_to_1992" title="History of cricket in Zimbabwe to 1992">Cricket (to 1992)</a></li> 
+                 <li><a href="/wiki/History_of_cricket_in_Zimbabwe_from_1992_to_2006" title="History of cricket in Zimbabwe from 1992 to 2006">Cricket (1992–2006)</a></li> 
+                 <li><a href="/wiki/Zimbabwean_cricket_crisis" title="Zimbabwean cricket crisis">Cricket crisis (2003–2007)</a></li> 
+                 <li><a href="/wiki/Military_history_of_Zimbabwe" title="Military history of Zimbabwe">Military</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Zimbabwe" title="Geography of Zimbabwe">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Chimanimani_District" title="Chimanimani District">Chimanimani District</a></li> 
+                 <li><a href="/wiki/List_of_cities_and_towns_in_Zimbabwe" class="mw-redirect" title="List of cities and towns in Zimbabwe">Cities and towns</a></li> 
+                 <li><a href="/wiki/Districts_of_Zimbabwe" title="Districts of Zimbabwe">Districts</a></li> 
+                 <li><a href="/wiki/Great_Zimbabwe" title="Great Zimbabwe">Great Zimbabwe</a></li> 
+                 <li><a href="/wiki/List_of_placename_renaming_in_Zimbabwe" class="mw-redirect" title="List of placename renaming in Zimbabwe">Place name renaming</a></li> 
+                 <li><a href="/wiki/Provinces_of_Zimbabwe" title="Provinces of Zimbabwe">Provinces</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Zimbabwe" title="List of rivers of Zimbabwe">Rivers</a></li> 
+                 <li><a href="/wiki/List_of_wards_of_Zimbabwe" title="List of wards of Zimbabwe">Wards (municipalities)</a></li> 
+                 <li><a href="/wiki/Wildlife_of_Zimbabwe" title="Wildlife of Zimbabwe">Wildlife</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Zimbabwe" title="Politics of Zimbabwe">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Elections_in_Zimbabwe" title="Elections in Zimbabwe">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Zimbabwe" title="Foreign relations of Zimbabwe">Foreign relations</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Zimbabwe" title="Human rights in Zimbabwe">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/LGBT_rights_in_Zimbabwe" title="LGBT rights in Zimbabwe">LGBT rights</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Land_reform_in_Zimbabwe" title="Land reform in Zimbabwe">Land reform</a></li> 
+                 <li><a href="/wiki/Zimbabwe_Defence_Forces" title="Zimbabwe Defence Forces">Military</a></li> 
+                 <li><a href="/wiki/Parliament_of_Zimbabwe" title="Parliament of Zimbabwe">Parliament</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Zimbabwe" title="List of political parties in Zimbabwe">Political parties</a></li> 
+                 <li><a href="/wiki/List_of_heads_of_state_of_Zimbabwe" title="List of heads of state of Zimbabwe">Heads of State</a></li> 
+                 <li><a href="/wiki/President_of_Zimbabwe" title="President of Zimbabwe">Presidents</a> 
+                  <ul>
+                   <li><a href="/wiki/Vice-President_of_Zimbabwe" title="Vice-President of Zimbabwe">Vice-President</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Prime_Minister_of_Zimbabwe" title="Prime Minister of Zimbabwe">Prime Minister</a></li> 
+                 <li><a href="/wiki/2007_Zimbabwean_political_crisis" title="2007 Zimbabwean political crisis">2007 political crisis</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Zimbabwe" title="Economy of Zimbabwe">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Reserve_Bank_of_Zimbabwe" title="Reserve Bank of Zimbabwe">Central bank</a></li> 
+                 <li><a href="/wiki/Zimbabwean_dollar" title="Zimbabwean dollar">Dollar (suspended currency)</a></li> 
+                 <li><a href="/wiki/Zimbabwe_Stock_Exchange" title="Zimbabwe Stock Exchange">Stock Exchange</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Zimbabwe" title="Telecommunications in Zimbabwe">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Zimbabwe" title="Tourism in Zimbabwe">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Zimbabwe" title="Transport in Zimbabwe">Transportation</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Culture_of_Zimbabwe" title="Culture of Zimbabwe">Culture</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Abortion_in_Zimbabwe" title="Abortion in Zimbabwe">Abortion</a></li> 
+                 <li><a href="/wiki/Architecture_of_Zimbabwe" title="Architecture of Zimbabwe">Architecture</a></li> 
+                 <li><a href="/wiki/Zimbabwean_art" title="Zimbabwean art">Art</a></li> 
+                 <li><a href="/wiki/Child_marriage_in_Zimbabwe" title="Child marriage in Zimbabwe">Child marriage</a></li> 
+                 <li><a href="/wiki/Human_trafficking_in_Zimbabwe" title="Human trafficking in Zimbabwe">Human trafficking</a></li> 
+                 <li><a href="/wiki/Media_of_Zimbabwe" class="mw-redirect" title="Media of Zimbabwe">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Zimbabwe" title="Music of Zimbabwe">Music</a></li> 
+                 <li><a href="/wiki/Polygamy_in_Zimbabwe" title="Polygamy in Zimbabwe">Polygamy</a></li> 
+                 <li><a href="/wiki/Prostitution_in_Zimbabwe" title="Prostitution in Zimbabwe">Prostitution</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Demographics_of_Zimbabwe" title="Demographics of Zimbabwe">Demographics</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Category:Ethnic_groups_in_Zimbabwe" title="Category:Ethnic groups in Zimbabwe">Ethnic groups</a><br>(<a href="/wiki/Zimbabwean_diaspora" title="Zimbabwean diaspora">diaspora</a>)</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"></div>
+                   <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                    <tbody>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Black_people" title="Black people">Black</a></th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Hungwe_tribe" title="Hungwe tribe">Hungwe</a></li> 
+                         <li><a href="/wiki/Kunda_people" title="Kunda people">Kunda</a></li> 
+                         <li><a href="/wiki/Lemba_people" title="Lemba people">Lemba</a></li> 
+                         <li><a href="/wiki/Manyika_tribe" title="Manyika tribe">Manyika</a></li> 
+                         <li><a href="/wiki/Northern_Ndebele_people" title="Northern Ndebele people">Ndebele</a></li> 
+                         <li><a href="/wiki/Jews_of_Rusape" title="Jews of Rusape">Rusape Jews</a></li> 
+                         <li><a href="/wiki/Shona_people" title="Shona people">Shona</a></li> 
+                         <li><a href="/wiki/Tokaleya" title="Tokaleya">Tokaleya</a></li> 
+                         <li><a href="/wiki/Tonga_people_(Zambia_and_Zimbabwe)" title="Tonga people (Zambia and Zimbabwe)">Tonga</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/White_people_in_Zimbabwe" title="White people in Zimbabwe">White</a></th>
+                      <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Afrikaners" title="Afrikaners">Afrikaners</a></li> 
+                         <li><a href="/wiki/British_diaspora_in_Africa" title="British diaspora in Africa">British</a></li> 
+                         <li><a href="/wiki/Greeks_in_Zimbabwe" title="Greeks in Zimbabwe">Greeks</a></li> 
+                         <li><a href="/wiki/Portuguese_Africans" title="Portuguese Africans"> Portuguese</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Others</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Coloureds" title="Coloureds">Coloureds</a> (<a href="/wiki/Goffal" title="Goffal">Goffals</a>)</li> 
+                         <li><a href="/wiki/History_of_the_Jews_in_Zimbabwe" title="History of the Jews in Zimbabwe">Jews</a></li> 
+                         <li><a href="/wiki/Indians_in_Zimbabwe" title="Indians in Zimbabwe">Indians</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <div></div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Languages_of_Zimbabwe" title="Languages of Zimbabwe">Languages</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Afrikaans" title="Afrikaans">Afrikaans</a></li> 
+                     <li><a href="/wiki/Zimbabwean_English" title="Zimbabwean English"> English</a></li> 
+                     <li><a href="/wiki/Shona_language" title="Shona language">Shona</a></li> 
+                     <li><a href="/wiki/Zimbabwean_Ndebele_language" class="mw-redirect" title="Zimbabwean Ndebele language">Sindebele</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Symbols</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Sable_antelope" title="Sable antelope">Animal</a></li> 
+                 <li><a href="/wiki/National_Anthem_of_Zimbabwe" title="National Anthem of Zimbabwe">Anthem</a></li> 
+                 <li><a href="/wiki/Coat_of_arms_of_Zimbabwe" title="Coat of arms of Zimbabwe">Coat of arms</a></li> 
+                 <li><a href="/wiki/Zimbabwe_Bird" title="Zimbabwe Bird">Emblem</a></li> 
+                 <li><a href="/wiki/Flag_of_Zimbabwe" title="Flag of Zimbabwe">Flag</a></li> 
+                 <li><a href="/wiki/Gloriosa_superba" title="Gloriosa superba">Flower</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Zimbabwe" title="Outline of Zimbabwe">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Zimbabwe-related_articles" title="Index of Zimbabwe-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Zimbabwe" title="Category:Zimbabwe">Category</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <p><br> </p> 
+      <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+       <tbody>
+        <tr class="noresize">
+         <td><a href="/wiki/File:Zimbabwe_Outline.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Zimbabwe_Outline.svg/30px-Zimbabwe_Outline.svg.png" decoding="async" width="30" height="27" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Zimbabwe_Outline.svg/45px-Zimbabwe_Outline.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Zimbabwe_Outline.svg/60px-Zimbabwe_Outline.svg.png 2x" data-file-width="766" data-file-height="700"></a></td>
+         <td><i>This <a href="/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Zimbabwe&amp;action=edit">expanding it</a>.</i>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+          <div class="navbar plainlinks hlist navbar-mini" style="position: absolute; right: 15px; display: none;">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Zimbabwe-stub" title="Template:Zimbabwe-stub"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Zimbabwe-stub" title="Template talk:Zimbabwe-stub"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Zimbabwe-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> <!-- 
+NewPP limit report
+Parsed by mw1355
+Cached time: 20210208091913
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.344 seconds
+Real time usage: 0.514 seconds
+Preprocessor visited node count: 1460/1000000
+Post‐expand include size: 104821/2097152 bytes
+Template argument size: 17072/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 23/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6428/5000000 bytes
+Lua time usage: 0.141/10.000 seconds
+Lua memory usage: 3587684/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  429.003      1 -total
+ 40.89%  175.435      9 Template:Navbox
+ 30.03%  128.831      1 Template:Zimbabwean_topics
+ 27.26%  116.943      1 Template:Country_topics
+ 23.88%  102.462      1 Template:Reflist
+ 20.77%   89.106      1 Template:Cite_web
+ 15.75%   67.566      1 Template:Short_description
+ 13.59%   58.314      1 Template:Africa_in_topic
+  9.78%   41.958      1 Template:Pagetype
+  8.06%   34.580      1 Template:Zimbabwe-stub
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:929795-0!canonical and timestamp 20210208091913 and revision id 1002666492. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Zimbabwe&amp;oldid=1002666492">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Zimbabwe&amp;oldid=1002666492</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Zimbabwe" title="Category:Public holidays in Zimbabwe">Public holidays in Zimbabwe</a></li>
+       <li><a href="/wiki/Category:Zimbabwean_culture" title="Category:Zimbabwean culture">Zimbabwean culture</a></li>
+       <li><a href="/wiki/Category:Zimbabwean_society" title="Category:Zimbabwean society">Zimbabwean society</a></li>
+       <li><a href="/wiki/Category:Events_in_Zimbabwe" title="Category:Events in Zimbabwe">Events in Zimbabwe</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Zimbabwe_stubs" title="Category:Zimbabwe stubs">Zimbabwe stubs</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_January_2021" title="Category:Use dmy dates from January 2021">Use dmy dates from January 2021</a></li>
+       <li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Zimbabwe" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Zimbabwe" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Zimbabwe" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Zimbabwe" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Zimbabwe">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Zimbabwe&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Zimbabwe&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Zimbabwe" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Zimbabwe" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Zimbabwe&amp;oldid=1002666492" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Zimbabwe&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Zimbabwe&amp;id=1002666492&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1024521" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Zimbabwe&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Zimbabwe&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Feiertage_in_Simbabwe" title="Feiertage in Simbabwe – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Zimbabv%C4%97s_%C5%A1vent%C4%97s" title="Zimbabvės šventės – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B0_%D0%97%D1%96%D0%BC%D0%B1%D0%B0%D0%B1%D0%B2%D0%B5" title="Свята Зімбабве – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1024521#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 25 January 2021, at 14:55<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Zimbabwe&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.514","ppvisitednodes":{"value":1460,"limit":1000000},"postexpandincludesize":{"value":104821,"limit":2097152},"templateargumentsize":{"value":17072,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":23,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6428,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  429.003      1 -total"," 40.89%  175.435      9 Template:Navbox"," 30.03%  128.831      1 Template:Zimbabwean_topics"," 27.26%  116.943      1 Template:Country_topics"," 23.88%  102.462      1 Template:Reflist"," 20.77%   89.106      1 Template:Cite_web"," 15.75%   67.566      1 Template:Short_description"," 13.59%   58.314      1 Template:Africa_in_topic","  9.78%   41.958      1 Template:Pagetype","  8.06%   34.580      1 Template:Zimbabwe-stub"]},"scribunto":{"limitreport-timeusage":{"value":"0.141","limit":"10.000"},"limitreport-memusage":{"value":3587684,"limit":52428800}},"cachereport":{"origin":"mw1355","timestamp":"20210208091913","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Zimbabwe","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Zimbabwe","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1024521","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1024521","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-25T17:43:10Z","dateModified":"2021-01-25T14:55:12Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":176,"wgHostname":"mw1411"});});</script> 
+ </body>
+</html>

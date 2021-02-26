@@ -2,11 +2,11 @@ package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.location.WLCountry;
+import org.apache.logging.log4j.Level;
 
 import java.util.HashMap;
 import java.util.Timer;
 import java.util.TimerTask;
-import java.util.logging.Level;
 
 public interface WeatherController extends RestAPI, Jsoupable {
     WLCountry getCountryBackendID();

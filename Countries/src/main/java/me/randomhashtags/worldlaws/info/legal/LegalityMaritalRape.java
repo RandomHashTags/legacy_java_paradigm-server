@@ -35,11 +35,12 @@ public enum LegalityMaritalRape implements CountryLegalityService {
         }};
     }
 
+    @Override
     public void refresh(CompletionHandler handler) {
         loadStyles();
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Marital_rape_laws_by_country";
-        final Elements tables = getDocumentElements(url, "div.mw-parser-output table.wikitable");
+        final Elements tables = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable");
         final String title = getInfo().getTitle();
         final EventSource source = new EventSource("Wikipedia: Marital rape laws by country", url);
         final EventSources sources = new EventSources(source);

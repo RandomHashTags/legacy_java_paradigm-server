@@ -1,10 +1,10 @@
 package me.randomhashtags.worldlaws.event.entertainment;
 
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.UpcomingEventType;
 import me.randomhashtags.worldlaws.event.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.event.UpcomingEvent;
-import me.randomhashtags.worldlaws.event.UpcomingEventType;
 
 public final class MovieEvent implements UpcomingEvent {
     private final EventDate date;
@@ -52,7 +52,6 @@ public final class MovieEvent implements UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
-                "\"posterURL\":\"" + posterURL + "\"," +
                 "\"productionCompany\":\"" + productionCompany + "\"," +
                 "\"releaseInfo\":\"" + LocalServer.fixEscapeValues(releaseInfo) + "\"" +
                 "}";

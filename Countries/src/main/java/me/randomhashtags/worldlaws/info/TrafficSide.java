@@ -4,14 +4,13 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLUtilities;
-import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.location.CountryInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
 
-public enum TrafficSide implements CountryService {
+public enum TrafficSide implements CountryValueService {
     INSTANCE;
 
     private HashMap<String, String> countries;
@@ -32,7 +31,7 @@ public enum TrafficSide implements CountryService {
         final String url = "https://en.wikipedia.org/wiki/Left-_and_right-hand_traffic", title = getInfo().getTitle();
         final EventSource source = new EventSource("Wikipedia: Left- and right-hand traffic", url);
         final EventSources sources = new EventSources(source);
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements trs = getValueDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         final int yearOfData = WLUtilities.getTodayYear();
         String previousCountry = null;
@@ -64,8 +63,7 @@ public enum TrafficSide implements CountryService {
     }
     private void addCountry(String country, String value, String title, String notes, int yearOfData, EventSources sources) {
         final String realValue = value.startsWith("RHT") ? "Right" : "Left";
-        final CountryInfoValue roadTraffic = new CountryInfoValue("Road Traffic", realValue, null);
-        final CountryInfoKey info = new CountryInfoKey(title, notes, yearOfData, sources, roadTraffic);
-        countries.put(country, info.toString());
+        final CountrySingleValue singleValue = new CountrySingleValue(title, notes, realValue, null, yearOfData, sources);
+        countries.put(country, singleValue.toString());
     }
 }

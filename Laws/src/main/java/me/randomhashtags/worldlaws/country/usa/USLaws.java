@@ -1,25 +1,25 @@
 package me.randomhashtags.worldlaws.country.usa;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.country.LawController;
 import me.randomhashtags.worldlaws.country.usa.federal.USCongress;
 import me.randomhashtags.worldlaws.country.usa.federal.FederalGovernment;
 import me.randomhashtags.worldlaws.country.usa.service.CongressService;
 import me.randomhashtags.worldlaws.country.usa.service.usaproject.UnitedStatesProject;
-import me.randomhashtags.worldlaws.law.State;
+import me.randomhashtags.worldlaws.country.State;
 import me.randomhashtags.worldlaws.location.WLCountry;
-import me.randomhashtags.worldlaws.location.ICountry;
 
-public enum USLaws implements ICountry {
+public enum USLaws implements LawController {
     INSTANCE;
 
-    private CongressService politicianService;
+    private final CongressService politicianService;
 
     USLaws() {
         politicianService = UnitedStatesProject.INSTANCE;
     }
 
     @Override
-    public WLCountry getCountryBackendID() {
+    public WLCountry getCountry() {
         return WLCountry.UNITED_STATES;
     }
 

@@ -35,7 +35,7 @@ public enum CivilianFirearms implements CountryRankingService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Estimated_number_of_civilian_guns_per_capita_by_country";
-        final Elements elements = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
         elements.remove(0);
         final EventSource wikipedia = new EventSource("Wikipedia: Estimated number of civilian guns per capita by country", url);

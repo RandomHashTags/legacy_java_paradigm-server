@@ -5,14 +5,14 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.info.CountryInfoKey;
 import me.randomhashtags.worldlaws.info.CountryInfoValue;
+import me.randomhashtags.worldlaws.info.legal.CountryLegalityService;
 import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.info.service.CountryService;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
 
-public enum LegalityGuns implements CountryService {
+public enum LegalityGuns implements CountryLegalityService {
     INSTANCE;
 
     private HashMap<String, String> countries;
@@ -31,7 +31,7 @@ public enum LegalityGuns implements CountryService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Overview_of_gun_laws_by_nation";
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable", 1).select("tbody tr");
+        final Elements trs = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable", 1).select("tbody tr");
         trs.remove(0);
         trs.remove(0);
         trs.remove(0);

@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.event.EventDate;
 import me.randomhashtags.worldlaws.location.WLCountry;
+import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -10,7 +11,6 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.logging.Level;
 import java.util.stream.Stream;
 
 public enum Holidays implements Jsoupable {
@@ -24,7 +24,7 @@ public enum Holidays implements Jsoupable {
     Holidays() {
         countryJSON = new HashMap<>();
         countryHolidays = new HashMap<>();
-        list = getDocumentElements("https://en.wikipedia.org/wiki/List_of_holidays_by_country", "div.mw-body div.mw-body-content div.mw-content-ltr div.mw-parser-output div.div-col ul li a[href]");
+        list = getDocumentElements(FileType.HOLIDAYS, "https://en.wikipedia.org/wiki/List_of_holidays_by_country", "div.mw-body div.mw-body-content div.mw-content-ltr div.mw-parser-output div.div-col ul li a[href]");
     }
 
     public void getResponse(String value, CompletionHandler handler) {
@@ -131,7 +131,7 @@ public enum Holidays implements Jsoupable {
             final Elements elements = new Elements(list);
             final Stream<Element> filtered = elements.stream().filter(element -> {
                 final String text = element.text().toLowerCase();
-                return text.startsWith("public holidays in") && text.endsWith(country);
+                return text.startsWith("public holidays in") && text.endsWith(country) && element.hasAttr("href");
             });
             final Optional<Element> value = filtered.findFirst();
             if(value.isPresent()) {
@@ -144,7 +144,7 @@ public enum Holidays implements Jsoupable {
         }
     }
     private void getHolidays(String country, String url, CompletionHandler handler) {
-        final Document doc = getDocument(url);
+        final Document doc = getDocument(FileType.HOLIDAYS, url, true);
         final StringBuilder builder = new StringBuilder("[");
         final Elements table = doc.select("table.wikitable tbody tr");
         boolean isFirst = true;

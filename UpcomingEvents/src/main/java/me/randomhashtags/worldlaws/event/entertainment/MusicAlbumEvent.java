@@ -2,9 +2,9 @@ package me.randomhashtags.worldlaws.event.entertainment;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.UpcomingEventType;
 import me.randomhashtags.worldlaws.event.EventDate;
 import me.randomhashtags.worldlaws.event.UpcomingEvent;
-import me.randomhashtags.worldlaws.event.UpcomingEventType;
 
 public final class MusicAlbumEvent implements UpcomingEvent {
     private final EventDate releaseDate;
@@ -36,12 +36,10 @@ public final class MusicAlbumEvent implements UpcomingEvent {
     public String getDescription() {
         return description;
     }
-
     @Override
     public String getImageURL() {
         return albumImageURL;
     }
-
     @Override
     public String getLocation() {
         return null;
@@ -53,8 +51,7 @@ public final class MusicAlbumEvent implements UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
-                "\"artist\":\"" + artist + "\"," +
-                "\"albumURL\":\"" + albumImageURL + "\"" +
+                "\"artist\":\"" + artist + "\"" +
                 "}";
     }
 }

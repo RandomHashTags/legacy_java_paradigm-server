@@ -35,7 +35,7 @@ public enum Spotify implements CountryAvailabilityService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://support.spotify.com/us/article/full-list-of-territories-where-spotify-is-available/";
-        final Elements trs = getDocumentElements(url, "body.type-normal div div.mainContainer div.container div.Layout_main__3m1yK div.raw-content div.RawContent_tableWrapper__3mA43 table tbody tr");
+        final Elements trs = getAvailabilityDocumentElements(url, "body.type-normal div div.mainContainer div.container div.Layout_main__3m1yK div.raw-content div.RawContent_tableWrapper__3mA43 table tbody tr");
         final EventSource source = new EventSource("Spotify", url);
         final EventSources sources = new EventSources(source);
         final String availability = getAvailability(true);

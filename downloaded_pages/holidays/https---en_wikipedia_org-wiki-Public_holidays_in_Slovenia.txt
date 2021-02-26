@@ -1,0 +1,710 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Slovenia - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBcQ9ApAAMMAAkFjwPcAAABG","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Slovenia","wgTitle":"Public holidays in Slovenia","wgCurRevisionId":964506051,"wgRevisionId":964506051,"wgArticleId":843325,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Slovenian-language sources (sl)","Articles with short description","Short description is different from Wikidata","Use dmy dates from November 2019","Articles with Slovene-language sources (sl)","Public holidays in Slovenia","Lists of public holidays by country",
+"Slovenian culture","Slovenian society","Observances in Slovenia"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Slovenia","wgRelevantArticleId":843325,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q2181998"};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"
+];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Slovenia"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Slovenia&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Slovenia&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Slovenia"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Slovenia rootpage-Public_holidays_in_Slovenia skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Slovenia</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p> There are two kinds of <b>public holidays in Slovenia</b> – <a href="/wiki/State_holiday" class="mw-redirect" title="State holiday">state holidays</a> and work-free days. State holidays are those celebrated by the state. These include <a href="/wiki/Official_functions" class="mw-redirect" title="Official functions">official functions</a> and flying the <a href="/wiki/National_flag_of_Slovenia" class="mw-redirect" title="National flag of Slovenia">national flag</a>. The latter are actually <a href="/wiki/Catholic_Church" title="Catholic Church">Catholic</a> <a href="/wiki/Religious_holiday" class="mw-redirect" title="Religious holiday">religious holidays</a>, which are equivalent to any Sunday: companies and schools are closed, but there is no official celebration. </p>
+      <p>9 of 14 state holiday days are work-free, and there are additional 6 work-free days in Slovenia.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Two of them always fall on Sunday, thus, there are effectively at most 13 work-free days in Slovenia. </p>
+      <p>State holidays that are work-free are shown in pale green, while work-free days that are not state holidays (coinciding with Catholic religious holidays) are shown in blue. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date </th> 
+         <th>English name </th> 
+         <th>Slovene name </th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr style="background: PaleGreen;"> 
+         <td>1 January&nbsp;– 2 January </td> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> </td> 
+         <td><i>novo leto</i> </td> 
+         <td>State holiday, work-free. From 1955 until May 2012, when the <a href="/wiki/National_Assembly_of_Slovenia" class="mw-redirect" title="National Assembly of Slovenia">National Assembly of Slovenia</a> passed the <i><a href="/w/index.php?title=Public_Finance_Balance_Act&amp;action=edit&amp;redlink=1" class="new" title="Public Finance Balance Act (page does not exist)">Public Finance Balance Act</a></i>, 2 January was a work-free day.<sup id="cite_ref-KROG2012-05-12_2-0" class="reference"><a href="#cite_note-KROG2012-05-12-2">[2]</a></sup><sup id="cite_ref-Dnevnik2012-04-30_3-0" class="reference"><a href="#cite_note-Dnevnik2012-04-30-3">[3]</a></sup> It was reintroduced in 2017.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </td>
+        </tr> 
+        <tr style="background: PaleGreen;"> 
+         <td>8 February </td> 
+         <td><a href="/wiki/Pre%C5%A1eren_Day" title="Prešeren Day">Prešeren Day</a> </td> 
+         <td><i>Prešernov dan</i> </td> 
+         <td>State holiday, work-free. Anniversary of the death of Slovenian poet <a href="/wiki/France_Pre%C5%A1eren" title="France Prešeren">France Prešeren</a>, established as the national cultural day in 1944, work-free since&nbsp;1991.<sup id="cite_ref-Naglič2008_5-0" class="reference"><a href="#cite_note-Naglič2008-5">[5]</a></sup> </td>
+        </tr> 
+        <tr style="background: #a8d3ff;"> 
+         <td>– </td> 
+         <td><a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a> and <a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> </td> 
+         <td><i>velikonočna nedelja in ponedeljek</i>, <i>velika noč</i> </td> 
+         <td>Work-free days, in March or April (date varies). </td>
+        </tr> 
+        <tr style="background: PaleGreen;"> 
+         <td>27 April </td> 
+         <td>Day of Uprising Against Occupation </td> 
+         <td><i>dan upora proti okupatorju</i> </td> 
+         <td>State holiday, work-free. Formerly <a href="/wiki/Liberation_Front_of_the_Slovene_Nation" title="Liberation Front of the Slovene Nation">Liberation Front</a> Day (<i>dan Osvobodilne fronte</i>), marks the establishment in&nbsp;1941 of the Anti-Imperialist Front to fight "imperialists", later renamed the Liberation Front to fight the German, Italian, Hungarian, and Croatian partition and annexation of Slovenia. </td>
+        </tr> 
+        <tr style="background: PaleGreen;"> 
+         <td>1 May&nbsp;–&nbsp;2 May </td> 
+         <td><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">May Day</a> </td> 
+         <td><i>praznik dela</i> </td> 
+         <td>State holiday, work-free from&nbsp;1949.<sup id="cite_ref-Dnevnik2012-04-30_3-1" class="reference"><a href="#cite_note-Dnevnik2012-04-30-3">[3]</a></sup> </td>
+        </tr> 
+        <tr style="background: #a8d3ff;"> 
+         <td>– </td> 
+         <td><a href="/wiki/Pentecost" title="Pentecost">Whit Sunday</a> </td> 
+         <td><i>binkoštna nedelja</i>, <i>binkošti</i> </td> 
+         <td>Work-free day (it is always on Sunday), in May or June, fifty days after the Easter (date varies). </td>
+        </tr> 
+        <tr style="background: PaleGreen;"> 
+         <td>25 June </td> 
+         <td><a href="/wiki/Statehood_Day_(Slovenia)" title="Statehood Day (Slovenia)">Statehood Day</a> </td> 
+         <td><i>dan državnosti</i> </td> 
+         <td>State holiday, work-free. Commemorates the act of independence in&nbsp;1991. </td>
+        </tr> 
+        <tr style="background: #a8d3ff;"> 
+         <td>15 August </td> 
+         <td><a href="/wiki/Assumption_Day" class="mw-redirect" title="Assumption Day">Assumption Day</a> </td> 
+         <td><i>Marijino vnebovzetje</i> (<i>veliki šmaren</i>) </td> 
+         <td>Work-free day since&nbsp;1992.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </td>
+        </tr> 
+        <tr style="background: #a8d3ff;"> 
+         <td>31 October </td> 
+         <td><a href="/wiki/Reformation_Day" title="Reformation Day">Reformation Day</a> </td> 
+         <td><i>dan reformacije</i> </td> 
+         <td>State holiday since&nbsp;1992, work-free day.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </td>
+        </tr> 
+        <tr style="background: PaleGreen;"> 
+         <td>1 November </td> 
+         <td><a href="/wiki/All_Saints_Day" class="mw-redirect" title="All Saints Day">Day (of Remembrance) of the Dead</a> </td> 
+         <td><i>dan spomina na mrtve</i> or <i>dan mrtvih</i> </td> 
+         <td>State holiday, work-free. Before&nbsp;1991, in the time of the <a href="/wiki/Socialist_Republic_of_Slovenia" title="Socialist Republic of Slovenia">Socialist Republic of Slovenia</a>, it was named <i>dan mrtvih</i> ('day of the dead').<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </td>
+        </tr> 
+        <tr style="background: #a8d3ff;"> 
+         <td>25 December </td> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a> </td> 
+         <td><i>božič</i> </td> 
+         <td>Work-free day. Abolished in&nbsp;1953 and re-instituted in 1991.<sup id="cite_ref-Dnevnik2012-04-30_3-2" class="reference"><a href="#cite_note-Dnevnik2012-04-30-3">[3]</a></sup> </td>
+        </tr> 
+        <tr style="background: PaleGreen;"> 
+         <td>26 December </td> 
+         <td><a href="/wiki/Independence_and_Unity_Day" class="mw-redirect" title="Independence and Unity Day">Independence and Unity Day</a> </td> 
+         <td><i>dan samostojnosti in enotnosti</i> </td> 
+         <td>State holiday, work free. Commemorates the proclamation of the <a href="/wiki/1990_Slovenian_independence_referendum" title="1990 Slovenian independence referendum">independence plebiscite results in 1990</a>. </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>In addition to these, several other holidays are traditionally and popularly celebrated by the people of Slovenia, although not being work-free. The best known are: </p> 
+      <ul>
+       <li><a href="/wiki/Carnival" title="Carnival">Carnival</a> (<i>pust</i>, date varies),</li> 
+       <li><a href="/wiki/International_Women%27s_Day" title="International Women's Day">International Women's Day</a>, 8 March</li> 
+       <li>St. George's Day (<i>jurjevanje</i>, the welcoming of spring; 23 April),</li> 
+       <li>St. Martin's Day (<i>martinovanje</i>, changing of <a href="/wiki/Must" title="Must">must</a> into wine; 11 November)</li> 
+       <li><a href="/wiki/Saint_Nicholas_Day" title="Saint Nicholas Day">Saint Nicholas Day</a> (<i>miklavž</i>, when children receive presents; 6 December)</li> 
+       <li>Insurrection Day (<i>dan vstaje</i>, 22 July, work-free until 1991)</li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Slovenia&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.gov.si/teme/drzavni-prazniki-in-dela-prosti-dnevi/">"Državni prazniki in dela prosti dnevi"</a> [National holidays]. <i>Urad Vlade Republike Slovenije za komuniciranje</i> (in Slovenian). Urad Vlade Republike Slovenije za komuniciranje. 25 November 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Urad+Vlade+Republike+Slovenije+za+komuniciranje&amp;rft.atitle=Dr%C5%BEavni+prazniki+in+dela+prosti+dnevi&amp;rft.date=2019-11-25&amp;rft_id=https%3A%2F%2Fwww.gov.si%2Fteme%2Fdrzavni-prazniki-in-dela-prosti-dnevi%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Slovenia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-KROG2012-05-12-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-KROG2012-05-12_2-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://archive.is/20130418170642/http://kr-og.sta.si/2012/05/dz-sprejel-varcevalne-ukrepe/">"DZ sprejel varčevalne ukrepe"</a> [The National Assembly Passes Austerity Measures]. <i>Krizno ogledalo</i> (in Slovenian). Slovenian Press Agency. 12 May 2012. Archived from <a rel="nofollow" class="external text" href="http://kr-og.sta.si/2012/05/dz-sprejel-varcevalne-ukrepe/">the original</a> on 18 April 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Krizno+ogledalo&amp;rft.atitle=DZ+sprejel+var%C4%8Devalne+ukrepe&amp;rft.date=2012-05-12&amp;rft_id=http%3A%2F%2Fkr-og.sta.si%2F2012%2F05%2Fdz-sprejel-varcevalne-ukrepe%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Slovenia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Dnevnik2012-04-30-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dnevnik2012-04-30_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dnevnik2012-04-30_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Dnevnik2012-04-30_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://moj.dnevnik.si/novice/aktualne_zgodbe/1042526748">"Odprava praznikov je poseg v socialne pravice"</a> [The Abolishment of Holidays is an Intervention into Social Rights]. <i>Dnevnik.si</i> (in Slovenian). 30 April 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dnevnik.si&amp;rft.atitle=Odprava+praznikov+je+poseg+v+socialne+pravice&amp;rft.date=2012-04-30&amp;rft_id=http%3A%2F%2Fmoj.dnevnik.si%2Fnovice%2Faktualne_zgodbe%2F1042526748&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Slovenia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation cs2"><a rel="nofollow" class="external text" href="http://www.rtvslo.si/slovenija/poslanci-odlocili-2-januarja-bomo-spet-lahko-ostali-doma/409936">"Poslanci odločili: 2. januarja bomo spet lahko ostali doma"</a>, <i>MMC RTV Slovenija</i> (in Slovenian)</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MMC+RTV+Slovenija&amp;rft.atitle=Poslanci+odlo%C4%8Dili%3A+2.+januarja+bomo+spet+lahko+ostali+doma&amp;rft_id=http%3A%2F%2Fwww.rtvslo.si%2Fslovenija%2Fposlanci-odlocili-2-januarja-bomo-spet-lahko-ostali-doma%2F409936&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Slovenia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Naglič2008-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Naglič2008_5-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFNaglič2008" class="citation news cs1">Naglič, Miha (3 February 2008). <a rel="nofollow" class="external text" href="https://archive.is/20121224231915/http://www.gorenjskiglas.si/novice/gg_plus/index.php?action=clanek&amp;id=16898">"Prešernov dan"</a> [Prešeren Day]. <i>Gorenjski glas</i> (in Slovenian). GG Plus. Archived from <a rel="nofollow" class="external text" href="http://www.gorenjskiglas.si/novice/gg_plus/index.php?action=clanek&amp;id=16898">the original</a> on 24 December 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Gorenjski+glas&amp;rft.atitle=Pre%C5%A1ernov+dan&amp;rft.date=2008-02-03&amp;rft.aulast=Nagli%C4%8D&amp;rft.aufirst=Miha&amp;rft_id=http%3A%2F%2Fwww.gorenjskiglas.si%2Fnovice%2Fgg_plus%2Findex.php%3Faction%3Dclanek%26id%3D16898&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Slovenia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.slovenskenovice.si/novice/slovenija/za-ene-veliki-smaren-za-druge-prost-dan">"Za ene veliki šmaren, za druge prost dan"</a> [The Assumption Day for Ones, the Free Day for Others]. <i>Slovenske novice</i> (in Slovenian). 14 August 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Slovenske+novice&amp;rft.atitle=Za+ene+veliki+%C5%A1maren%2C+za+druge+prost+dan&amp;rft.date=2011-08-14&amp;rft_id=http%3A%2F%2Fwww.slovenskenovice.si%2Fnovice%2Fslovenija%2Fza-ene-veliki-smaren-za-druge-prost-dan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Slovenia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.slovenskenovice.si/novice/slovenija/zakaj-je-danes-dela-prost-dan">"Zakaj je danes dela prost dan?"</a> [Why Is Today a Work-Free Day?]. <i>Slovenske novice</i> (in Slovenian). 31 October 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Slovenske+novice&amp;rft.atitle=Zakaj+je+danes+dela+prost+dan%3F&amp;rft.date=2011-10-31&amp;rft_id=http%3A%2F%2Fwww.slovenskenovice.si%2Fnovice%2Fslovenija%2Fzakaj-je-danes-dela-prost-dan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Slovenia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.rtvslo.si/slovenija/1-november-dan-ki-velja-za-praznik-zmagoslavja-in-veselja/269402">"1. november – dan, ki velja za praznik zmagoslavja in veselja"</a> [1 November – the Day Which Is Seen as the Holiday of Triumph and Joy]. <i>MMC RTV Slovenija</i> (in Slovenian). RTV Slovenija.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MMC+RTV+Slovenija&amp;rft.atitle=1.+november+%E2%80%93+dan%2C+ki+velja+za+praznik+zmagoslavja+in+veselja&amp;rft_id=http%3A%2F%2Fwww.rtvslo.si%2Fslovenija%2F1-november-dan-ki-velja-za-praznik-zmagoslavja-in-veselja%2F269402&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Slovenia" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Slovenia&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><span class="languageicon">(in Slovene)</span> <a rel="nofollow" class="external text" href="https://archive.is/20130418181631/http://www.pisrs.si/Predpis.aspx?id=ZAKO865&amp;pogled=analiticni">Holidays and Days off in the Republic of Slovenia Act</a>. Retrieved 14 May 2012.</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Slovenia_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Slovenia_topics" title="Template:Slovenia topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Slovenia_topics" title="Template talk:Slovenia topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Slovenia_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Slovenia_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>&nbsp;articles
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Slovenia" title="History of Slovenia">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Timeline_of_Slovenian_history" title="Timeline of Slovenian history">Timeline</a></li> 
+             <li><a href="/wiki/Noricum" title="Noricum">Noricum</a>&nbsp;/ <a href="/wiki/Pannonia" title="Pannonia">Pannonia</a></li> 
+             <li><a href="/wiki/Slavic_settlement_of_the_Eastern_Alps" title="Slavic settlement of the Eastern Alps">Slavic settlement of the Eastern Alps</a></li> 
+             <li><a href="/wiki/Samo" title="Samo">Samo's Realm</a></li> 
+             <li><a href="/wiki/Carantania" title="Carantania">Carantania</a></li> 
+             <li><a href="/wiki/March_of_Carniola" title="March of Carniola">March of Carniola</a></li> 
+             <li><a href="/wiki/Windic_March" title="Windic March">Windic March</a></li> 
+             <li><a href="/wiki/Illyrian_Provinces" title="Illyrian Provinces">Illyrian Provinces</a></li> 
+             <li><a href="/wiki/Kingdom_of_Illyria_(1816%E2%80%931849)" class="mw-redirect" title="Kingdom of Illyria (1816–1849)">Kingdom of Illyria</a></li> 
+             <li><a href="/wiki/Duchy_of_Carniola" title="Duchy of Carniola">Duchy of Carniola</a></li> 
+             <li><a href="/wiki/Drava_Banovina" title="Drava Banovina">Drava Banovina</a></li> 
+             <li><a href="/wiki/Socialist_Republic_of_Slovenia" title="Socialist Republic of Slovenia">Socialist Republic</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Slovenia" title="Slovenia"><img alt="Slovenia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Coat_of_arms_of_Slovenia.svg/80px-Coat_of_arms_of_Slovenia.svg.png" decoding="async" width="80" height="103" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Coat_of_arms_of_Slovenia.svg/120px-Coat_of_arms_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Coat_of_arms_of_Slovenia.svg/160px-Coat_of_arms_of_Slovenia.svg.png 2x" data-file-width="232" data-file-height="300"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Slovenia" title="Geography of Slovenia">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Adriatic_Sea" title="Adriatic Sea">Adriatic Sea</a></li> 
+                 <li><a href="/wiki/List_of_cities_and_towns_in_Slovenia" title="List of cities and towns in Slovenia">Cities and towns</a></li> 
+                 <li><a href="/wiki/Protected_areas_of_Slovenia" class="mw-redirect" title="Protected areas of Slovenia">Conservation</a></li> 
+                 <li><a href="/wiki/List_of_islands_of_Slovenia" title="List of islands of Slovenia">Islands</a></li> 
+                 <li><a href="/wiki/List_of_lakes_of_Slovenia" title="List of lakes of Slovenia">Lakes</a></li> 
+                 <li><a href="/wiki/List_of_mountains_in_Slovenia" title="List of mountains in Slovenia">Mountains</a></li> 
+                 <li><a href="/wiki/Municipalities_of_Slovenia" title="Municipalities of Slovenia">Municipalities</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Slovenia" title="List of rivers of Slovenia">Rivers</a></li> 
+                 <li><a href="/wiki/List_of_World_Heritage_Sites_in_Slovenia" title="List of World Heritage Sites in Slovenia">World Heritage Sites</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Slovenia" title="Politics of Slovenia">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Constitution_of_Slovenia" title="Constitution of Slovenia">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Slovenia" title="Elections in Slovenia">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Slovenia" title="Foreign relations of Slovenia">Foreign relations</a></li> 
+                 <li><a href="/wiki/Government_of_Slovenia" title="Government of Slovenia">Government</a></li> 
+                 <li><a href="/wiki/Judiciary_of_Slovenia" title="Judiciary of Slovenia">Judiciary</a></li> 
+                 <li><a href="/wiki/Law_enforcement_in_Slovenia" class="mw-redirect" title="Law enforcement in Slovenia">Law enforcement</a></li> 
+                 <li><a href="/wiki/LGBT_rights_in_Slovenia" title="LGBT rights in Slovenia">LGBT rights</a></li> 
+                 <li><a href="/wiki/Slovenian_Armed_Forces" title="Slovenian Armed Forces">Military</a></li> 
+                 <li><a href="/wiki/Slovenian_Parliament" title="Slovenian Parliament">Parliament</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Slovenia" title="List of political parties in Slovenia">Political parties</a></li> 
+                 <li><a href="/wiki/President_of_Slovenia" title="President of Slovenia">President</a></li> 
+                 <li><a href="/wiki/Statistical_regions_of_Slovenia" title="Statistical regions of Slovenia">Statistical regions</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Slovenia" title="Economy of Slovenia">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Bank_of_Slovenia" title="Bank of Slovenia">Central bank</a></li> 
+                 <li><a href="/wiki/Energy_in_Slovenia" title="Energy in Slovenia">Energy</a></li> 
+                 <li><a href="/wiki/Ljubljana_Stock_Exchange" title="Ljubljana Stock Exchange">Stock exchange</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Slovenia" title="Telecommunications in Slovenia">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Slovenia" title="Tourism in Slovenia">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Slovenia" title="Transport in Slovenia">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Slovenian_society" title="Category:Slovenian society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Demographics_of_Slovenia" title="Demographics of Slovenia">Demographics</a> 
+                  <ul>
+                   <li><a href="/wiki/Slovenes" title="Slovenes">Slovenes</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Education_in_Slovenia" title="Education in Slovenia">Education</a></li> 
+                 <li><a href="/wiki/Healthcare_in_Slovenia" title="Healthcare in Slovenia">Healthcare</a></li> 
+                 <li><a href="/wiki/Languages_of_Slovenia" title="Languages of Slovenia">Languages</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Slovenia" title="Culture of Slovenia">Culture</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Slovenia#Visual_arts,_architecture_and_design" title="Slovenia">Architecture, visual arts, and design</a></li> 
+                 <li><a href="/wiki/List_of_Slovenian_films" title="List of Slovenian films">Cinema</a></li> 
+                 <li><a href="/wiki/Slovenian_cuisine" title="Slovenian cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Slovene_literature" title="Slovene literature">Literature</a></li> 
+                 <li><a href="/wiki/Media_of_Slovenia" class="mw-redirect" title="Media of Slovenia">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Slovenia" title="Music of Slovenia">Music</a></li> 
+                 <li><a href="/wiki/Slovenian_nationalism" title="Slovenian nationalism">Nationalism</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Religion_in_Slovenia" title="Religion in Slovenia">Religion</a></li> 
+                 <li><a href="/wiki/Sport_in_Slovenia" title="Sport in Slovenia">Sports</a></li> 
+                 <li><a href="/wiki/National_symbols_of_Slovenia" title="National symbols of Slovenia">Symbols</a> 
+                  <ul>
+                   <li><a href="/wiki/Zdravljica" title="Zdravljica">anthem</a></li> 
+                   <li><a href="/wiki/Coat_of_arms_of_Slovenia" title="Coat of arms of Slovenia">coat of arms</a></li> 
+                   <li><a href="/wiki/Flag_of_Slovenia" title="Flag of Slovenia">flag</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Slovenia" title="Outline of Slovenia">Outline</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Slovenia" title="Category:Slovenia">Category</a></li> 
+             <li><a href="/wiki/Portal:Slovenia" title="Portal:Slovenia">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Europe" title="Template:Public holidays in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Europe" title="Template talk:Public holidays in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Europe" style="font-size:114%;margin:0 4em">
+            Public holidays in Europe
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Albania" title="Public holidays in Albania">Albania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Andorra" title="Public holidays in Andorra">Andorra</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Austria" title="Public holidays in Austria">Austria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belarus" title="Public holidays in Belarus">Belarus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belgium" title="Public holidays in Belgium">Belgium</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bosnia_and_Herzegovina" title="Public holidays in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bulgaria" title="Public holidays in Bulgaria">Bulgaria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Croatia" title="Public holidays in Croatia">Croatia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Czech_Republic" title="Public holidays in the Czech Republic">Czech Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Denmark" title="Public holidays in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Estonia" title="Public holidays in Estonia">Estonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Finland" title="Public holidays in Finland">Finland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_France" title="Public holidays in France">France</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Germany" title="Public holidays in Germany">Germany</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greece" title="Public holidays in Greece">Greece</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hungary" title="Public holidays in Hungary">Hungary</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iceland" title="Public holidays in Iceland">Iceland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Ireland" title="Public holidays in the Republic of Ireland">Ireland</a></li> 
+             <li class="mw-empty-elt"></li> 
+             <li><a href="/wiki/Public_holidays_in_Italy" title="Public holidays in Italy">Italy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Latvia" title="Public holidays in Latvia">Latvia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liechtenstein" title="Public holidays in Liechtenstein">Liechtenstein</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lithuania" title="Public holidays in Lithuania">Lithuania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Luxembourg" title="Public holidays in Luxembourg">Luxembourg</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malta" title="Public holidays in Malta">Malta</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Moldova" title="Public holidays in Moldova">Moldova</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Monaco" title="Public holidays in Monaco">Monaco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montenegro" title="Public holidays in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Netherlands" title="Public holidays in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Macedonia" title="Public holidays in North Macedonia">North Macedonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Norway" title="Public holidays in Norway">Norway</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Poland" title="Public holidays in Poland">Poland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Portugal" title="Public holidays in Portugal">Portugal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Romania" title="Public holidays in Romania">Romania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_San_Marino" class="mw-redirect" title="Public holidays in San Marino">San Marino</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Serbia" title="Public holidays in Serbia">Serbia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovakia" title="Public holidays in Slovakia">Slovakia</a></li> 
+             <li><a class="mw-selflink selflink">Slovenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Spain" title="Public holidays in Spain">Spain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sweden" title="Public holidays in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Switzerland" title="Public holidays in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ukraine" title="Public holidays in Ukraine">Ukraine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Kingdom" title="Public holidays in the United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vatican_City" title="Public holidays in Vatican City">Vatican City</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">States with limited<br>recognition</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kosovo" title="Public holidays in Kosovo">Kosovo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Transnistria" title="Public holidays in Transnistria">Transnistria</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies and<br>other entities</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_%C3%85land" title="Public holidays in Åland">Åland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Faroe_Islands" title="Public holidays in the Faroe Islands">Faroe Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gibraltar" title="Public holidays in Gibraltar">Gibraltar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guernsey" title="Public holidays in Guernsey">Guernsey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Isle_of_Man" title="Public holidays in the Isle of Man">Isle of Man</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jersey" title="Public holidays in Jersey">Jersey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Svalbard" title="Public holidays in Svalbard">Svalbard</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other entities</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_European_Union" title="Public holidays in the European Union">European Union</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20210130181206
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.856 seconds
+Real time usage: 1.036 seconds
+Preprocessor visited node count: 12285/1000000
+Post‐expand include size: 89888/2097152 bytes
+Template argument size: 12735/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 25/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 27249/5000000 bytes
+Lua time usage: 0.416/10.000 seconds
+Lua memory usage: 14477072/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  955.034      1 -total
+ 42.92%  409.875      6 Template:Navbox
+ 28.46%  271.769      1 Template:Public_holidays_in_Europe
+ 28.06%  267.982      1 Template:Europe_topic
+ 23.75%  226.810     49 Template:Iso2country
+ 23.63%  225.630      1 Template:Reflist
+ 19.92%  190.248      7 Template:Cite_news
+ 19.89%  189.926      1 Template:In_lang
+ 16.31%  155.733      1 Template:Slovenia_topics
+ 15.92%  152.003      1 Template:Country_topics
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:843325-0!canonical and timestamp 20210130181205 and revision id 964506051. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Slovenia&amp;oldid=964506051">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Slovenia&amp;oldid=964506051</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Slovenia" title="Category:Public holidays in Slovenia">Public holidays in Slovenia</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Slovenian_culture" title="Category:Slovenian culture">Slovenian culture</a></li>
+       <li><a href="/wiki/Category:Slovenian_society" title="Category:Slovenian society">Slovenian society</a></li>
+       <li><a href="/wiki/Category:Observances_in_Slovenia" title="Category:Observances in Slovenia">Observances in Slovenia</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_Slovenian-language_sources_(sl)" title="Category:CS1 Slovenian-language sources (sl)">CS1 Slovenian-language sources (sl)</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_November_2019" title="Category:Use dmy dates from November 2019">Use dmy dates from November 2019</a></li>
+       <li><a href="/wiki/Category:Articles_with_Slovene-language_sources_(sl)" title="Category:Articles with Slovene-language sources (sl)">Articles with Slovene-language sources (sl)</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Slovenia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Slovenia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Slovenia" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Slovenia" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Slovenia">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Slovenia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Slovenia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Slovenia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Slovenia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Slovenia&amp;oldid=964506051" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Slovenia&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Slovenia&amp;id=964506051&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2181998" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Slovenia&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Slovenia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Holidays_in_Slovenia" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/St%C3%A1tn%C3%AD_sv%C3%A1tky_Slovinska" title="Státní svátky Slovinska – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Feiertage_in_Slowenien" title="Feiertage in Slowenien – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Fiestas_de_Eslovenia" title="Fiestas de Eslovenia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%8A%AC%EB%A1%9C%EB%B2%A0%EB%8B%88%EC%95%84%EC%9D%98_%EA%B3%B5%ED%9C%B4%EC%9D%BC" title="슬로베니아의 공휴일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B8" title="Праздники Словении – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Dr%C5%BEavni_prazniki_v_Sloveniji" title="Državni prazniki v Sloveniji – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2181998#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 25 June 2020, at 22:10<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Slovenia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.856","walltime":"1.036","ppvisitednodes":{"value":12285,"limit":1000000},"postexpandincludesize":{"value":89888,"limit":2097152},"templateargumentsize":{"value":12735,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":25,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":27249,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  955.034      1 -total"," 42.92%  409.875      6 Template:Navbox"," 28.46%  271.769      1 Template:Public_holidays_in_Europe"," 28.06%  267.982      1 Template:Europe_topic"," 23.75%  226.810     49 Template:Iso2country"," 23.63%  225.630      1 Template:Reflist"," 19.92%  190.248      7 Template:Cite_news"," 19.89%  189.926      1 Template:In_lang"," 16.31%  155.733      1 Template:Slovenia_topics"," 15.92%  152.003      1 Template:Country_topics"]},"scribunto":{"limitreport-timeusage":{"value":"0.416","limit":"10.000"},"limitreport-memusage":{"value":14477072,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20210130181206","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Slovenia","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Slovenia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2181998","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2181998","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-19T22:18:00Z","dateModified":"2020-06-25T22:10:17Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1391"});});</script> 
+ </body>
+</html>

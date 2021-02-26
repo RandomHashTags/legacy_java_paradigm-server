@@ -1,11 +1,13 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.earthquakes.Earthquakes;
 import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
+import me.randomhashtags.worldlaws.earthquakes.recode.NewEarthquakes;
 import me.randomhashtags.worldlaws.hurricanes.Hurricanes;
 import me.randomhashtags.worldlaws.weather.country.WeatherUS;
+import org.apache.logging.log4j.Level;
 
-import java.util.logging.Level;
+import java.util.HashSet;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public final class Weather implements DataValues {
 
@@ -52,11 +54,14 @@ public final class Weather implements DataValues {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
+            case "home":
+                getHomeResponse(handler);
+                break;
             case "alerts":
                 WeatherAlerts.INSTANCE.getResponse(target.substring(key.length()+1), handler);
                 break;
             case "earthquakes":
-                Earthquakes.INSTANCE.getResponse(target, key, values, handler);
+                NewEarthquakes.INSTANCE.getResponse(values, handler);
                 break;
             case "hurricanes":
                 final int year = Integer.parseInt(values[1]);
@@ -65,5 +70,29 @@ public final class Weather implements DataValues {
             default:
                 break;
         }
+    }
+
+    private void getHomeResponse(CompletionHandler handler) {
+        final HashSet<String> requests = new HashSet<>() {{
+            add("alerts/all");
+            add("earthquakes/recent");
+        }};
+        final int max = requests.size();
+        final StringBuilder builder = new StringBuilder("{");
+        final AtomicInteger completed = new AtomicInteger(0);
+        requests.parallelStream().forEach(request -> {
+            final String key = request.split("/")[0];
+            getResponse(request, new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    builder.append(completed.get() == 0 ? "" : ",").append("\"").append(key).append("\":").append(object.toString());
+                    final int value = completed.addAndGet(1);
+                    if(value == max) {
+                        builder.append("}");
+                        handler.handle(builder.toString());
+                    }
+                }
+            });
+        });
     }
 }

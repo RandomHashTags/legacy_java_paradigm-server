@@ -1,10 +1,11 @@
 package me.randomhashtags.worldlaws;
 
+import org.apache.logging.log4j.Level;
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Optional;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.logging.Level;
 
 public enum TargetServer implements DataValues, RestAPI {
     COUNTRIES("countries", WL_COUNTRIES_SERVER_IP),
@@ -61,13 +62,13 @@ public enum TargetServer implements DataValues, RestAPI {
                 break;
             case HOME:
                 final HashMap<TargetServer, String> urls = new HashMap<>() {{
-                    put(COUNTRIES, "countries");
+                    put(COUNTRIES, "home");
                     put(UPCOMING_EVENTS, "home");
-                    put(WEATHER, "alerts/all");
+                    put(WEATHER, "home");
                 }};
                 final int max = urls.size();
                 final StringBuilder builder = new StringBuilder("{");
-                final AtomicInteger completed = new AtomicInteger(0);
+                final AtomicInteger completed = new AtomicInteger(0), addedValues = new AtomicInteger(0);
                 urls.keySet().parallelStream().forEach(server -> {
                     final String url = urls.get(server), serverBackendID = server.getBackendID();
                     final String targetURL = server.ipAddress + "/" + serverBackendID + "/" + url;
@@ -75,7 +76,10 @@ public enum TargetServer implements DataValues, RestAPI {
                         @Override
                         public void handle(Object object) {
                             final int value = completed.addAndGet(1);
-                            builder.append(value == 1 ? "" : ",").append("\"").append(server.name().toLowerCase()).append("\":").append(object);
+                            if(object != null) {
+                                final boolean isFirst = addedValues.addAndGet(1) == 1;
+                                builder.append(isFirst ? "" : ",").append("\"").append(server.name().toLowerCase()).append("\":").append(object);
+                            }
                             if(value == max) {
                                 builder.append("}");
                                 handler.handle(builder.toString());
@@ -85,9 +89,11 @@ public enum TargetServer implements DataValues, RestAPI {
                 });
                 break;
             default:
+                final String url = ipAddress + "/" + request;
                 try {
-                    request(ipAddress + "/" + request, method, headers, null, handler);
+                    request(url, method, headers, null, handler);
                 } catch (Exception ignored) {
+                    WLLogger.log(Level.WARN, "TargetServer - failed to sendResponse to \"" + url + "\"!");
                 }
                 break;
         }
@@ -98,7 +104,7 @@ public enum TargetServer implements DataValues, RestAPI {
         if(targetServer.isPresent()) {
             return targetServer.get();
         }
-        WLLogger.log(Level.WARNING, "TargetServer - failed to find a server with backendID \"" + backendID + "\"!");
+        WLLogger.log(Level.WARN, "TargetServer - failed to find a server with backendID \"" + backendID + "\"!");
         return null;
     }
 }

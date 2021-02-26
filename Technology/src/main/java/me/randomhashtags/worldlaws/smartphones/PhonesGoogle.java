@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.smartphones;
 
 import me.randomhashtags.worldlaws.*;
+import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -9,7 +10,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.logging.Level;
 
 public enum PhonesGoogle implements SmartphoneCompany {
     INSTANCE;

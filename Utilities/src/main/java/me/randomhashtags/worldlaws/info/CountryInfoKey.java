@@ -41,8 +41,8 @@ public final class CountryInfoKey {
     public String toString() {
         return "{" +
                 "\"title\":\"" + title + "\"," +
-                "\"notes\":\"" + notes + "\"," +
-                "\"yearOfData\":" + yearOfData + "," +
+                (notes != null && !notes.isEmpty() ? "\"notes\":\"" + notes + "\"," : "") +
+                (yearOfData != -1 ? "\"yearOfData\":" + yearOfData + "," : "") +
                 "\"sources\":" + sources.toString() + "," +
                 "\"values\":" + getValuesJSON() +
                 "}";

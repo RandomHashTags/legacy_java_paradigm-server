@@ -3,10 +3,12 @@ package me.randomhashtags.worldlaws.weather.recode.country;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.RequestMethod;
+import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.location.WLCountry;
 import me.randomhashtags.worldlaws.location.Location;
 import me.randomhashtags.worldlaws.weather.WeatherAlertTime;
 import me.randomhashtags.worldlaws.weather.recode.*;
+import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -36,66 +38,19 @@ public enum WeatherUSA implements NewWeatherController {
         return eventsJSON;
     }
 
-    public HashMap<String, String> getTerritories() {
-        return new HashMap<>() {{
-            put("AL", "Alabama");
-            put("AK", "Alaska");
-            put("AZ", "Arizona");
-            put("AR", "Arkansas");
-            put("CA", "California");
-            put("CO", "Colorado");
-            put("CT", "Connecticut");
-            put("DE", "Delaware");
-            put("FL", "Florida");
-            put("GA", "Georgia");
-            put("HI", "Hawaii");
-            put("ID", "Idaho");
-            put("IL", "Illinois");
-            put("IN", "Indiana");
-            put("IA", "Iowa");
-            put("KS", "Kansas");
-            put("KY", "Kentucky");
-            put("LA", "Louisiana");
-            put("ME", "Maine");
-            put("MD", "Maryland");
-            put("MA", "Massachusetts");
-            put("MI", "Michigan");
-            put("MN", "Minnesota");
-            put("MS", "Mississippi");
-            put("MO", "Missouri");
-            put("MT", "Montana");
-            put("NE", "Nebraska");
-            put("NV", "Nevada");
-            put("NH", "New Hampshire");
-            put("NJ", "New Jersey");
-            put("NM", "New Mexico");
-            put("NY", "New York");
-            put("NC", "North Carolina");
-            put("ND", "North Dakota");
-            put("OH", "Ohio");
-            put("OK", "Oklahoma");
-            put("OR", "Oregon");
-            put("PA", "Pennsylvania");
-            put("RI", "Rhode Island");
-            put("SC", "South Carolina");
-            put("SD", "South Dakota");
-            put("TN", "Tennessee");
-            put("TX", "Texas");
-            put("UT", "Utah");
-            put("VT", "Vermont");
-            put("VA", "Virginia");
-            put("WA", "Washington");
-            put("WV", "West Virginia");
-            put("WI", "Wisconsin");
-            put("WY", "Wyoming");
+    @Override
+    public HashMap<String, String> getEventPreAlerts() {
+        return eventPreAlerts;
+    }
 
-            put("DC", "District of Columbia");
-            put("AS", "American Samoa");
-            put("GU", "Guam");
-            put("MP", "Northern Mariana Islands");
-            put("PR", "Puerto Rico");
-            put("VI", "U.S. Virgin Islands");
-        }};
+    @Override
+    public HashMap<String, String> getTerritoryEvents() {
+        return territoryEvents;
+    }
+
+    @Override
+    public HashMap<String, HashMap<String, String>> getTerritoryPreAlerts() {
+        return territoryPreAlerts;
     }
 
     @Override
@@ -120,7 +75,7 @@ public enum WeatherUSA implements NewWeatherController {
             @Override
             public void handleJSONObject(JSONObject json) {
                 if(json != null) {
-                    final HashMap<String, String> territories = getTerritories();
+                    final HashMap<String, String> territories = getAmericanTerritories();
                     final JSONArray array = json.getJSONArray("features");
                     for(Object obj : array) {
                         final JSONObject jsonAlert = (JSONObject) obj;
@@ -142,8 +97,18 @@ public enum WeatherUSA implements NewWeatherController {
                         final String certainty = properties.getString("certainty");
                         final String event = properties.getString("event");
                         final String headline = properties.has("headline") ? properties.getString("headline") : null;
-                        final String description = properties.getString("description");
-                        final String instruction = properties.has("instruction") && properties.get("instruction") instanceof String ? properties.getString("instruction").replace("\n", "\\n") : null;
+                        final String description = properties.getString("description")
+                                .replace("\n\n", "%double_bruh%")
+                                .replace(".\n", "%bruh%")
+                                .replace("\n", " ")
+                                .replace("%bruh%", ".\n")
+                                .replace("%double_bruh%", "\n\n");
+                        final String instruction = properties.has("instruction") && properties.get("instruction") instanceof String
+                                ? properties.getString("instruction")
+                                    .replace(".\n", "%bruh%")
+                                    .replace("\n", " ")
+                                    .replace("%bruh%", ".\n")
+                                : null;
                         final String sent = properties.getString("sent");
                         final String effective = properties.getString("effective");
                         final String expires = properties.getString("expires");
@@ -210,10 +175,10 @@ public enum WeatherUSA implements NewWeatherController {
                     }
                 }
 
-                updateEventPreAlerts(eventPreAlertsMap);
-                updateTerritoryEvents(territoryEventsMap);
-                updateTerritoryPreAlerts(territoryPreAlertsMap);
-                updateEventsJSON(eventsMap);
+                putEventPreAlerts(eventPreAlerts, eventPreAlertsMap);
+                putTerritoryEvents(territoryEvents, territoryEventsMap);
+                putTerritoryPreAlerts(territoryPreAlerts, territoryPreAlertsMap);
+                eventsJSON = getEventsJSON(eventsMap);
 
                 if(handler != null) {
                     handler.handle(eventsJSON);
@@ -221,73 +186,7 @@ public enum WeatherUSA implements NewWeatherController {
             }
         });
     }
-    private void updateEventPreAlerts(HashMap<String, HashSet<NewWeatherPreAlert>> hashmap) {
-        for(Map.Entry<String, HashSet<NewWeatherPreAlert>> map : hashmap.entrySet()) {
-            final String event = map.getKey();
-            final HashSet<NewWeatherPreAlert> preAlerts = map.getValue();
-            final StringBuilder builder = new StringBuilder("[");
-            boolean isFirst = true;
-            for(NewWeatherPreAlert preAlert : preAlerts) {
-                builder.append(isFirst ? "" : ",").append(preAlert.toString());
-                isFirst = false;
-            }
-            final String string = builder.append("]").toString();
-            eventPreAlerts.put(event.toLowerCase().replace(" ", ""), string);
-        }
-    }
-    private void updateTerritoryEvents(HashMap<String, HashSet<NewWeatherEvent>> hashmap) {
-        boolean isFirst = true;
-        for(Map.Entry<String, HashSet<NewWeatherEvent>> map : hashmap.entrySet()) {
-            final String territory = map.getKey();
-            final HashSet<NewWeatherEvent> events = map.getValue();
-            final StringBuilder builder = new StringBuilder("[");
-            for(NewWeatherEvent newWeatherEvent : events) {
-                builder.append(isFirst ? "" : ",").append(newWeatherEvent.toString());
-                isFirst = false;
-            }
-            builder.append("]");
-            territoryEvents.put(territory.toLowerCase().replace(" ", ""), builder.toString());
-        }
-    }
-    private void updateTerritoryPreAlerts(HashMap<String, HashMap<String, HashSet<NewWeatherPreAlert>>> hashmap) {
-        for(Map.Entry<String, HashMap<String, HashSet<NewWeatherPreAlert>>> map : hashmap.entrySet()) {
-            final String territory = map.getKey();
-            final HashMap<String, HashSet<NewWeatherPreAlert>> eventsMap = map.getValue();
-            final HashMap<String, String> preAlertsMap = new HashMap<>();
-            for(Map.Entry<String, HashSet<NewWeatherPreAlert>> eventMap : eventsMap.entrySet()) {
-                final String event = eventMap.getKey();
-                final HashSet<NewWeatherPreAlert> preAlerts = eventMap.getValue();
-                final StringBuilder builder = new StringBuilder("[");
-                boolean isFirst = true;
-                for(NewWeatherPreAlert preAlert : preAlerts) {
-                    builder.append(isFirst ? "" : ",").append(preAlert.toString());
-                    isFirst = false;
-                }
-                final String string = builder.append("]").toString();
-                preAlertsMap.put(event, string);
-            }
-            territoryPreAlerts.put(territory.toLowerCase().replace(" ", ""), preAlertsMap);
-        }
-    }
-    private void updateEventsJSON(HashMap<String, Integer> hashmap) {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
-        for(Map.Entry<String, Integer> map : hashmap.entrySet()) {
-            final String event = map.getKey();
-            final Integer value = map.getValue();
-            builder.append(isFirst ? "" : ",").append("{\"event\":\"").append(event).append("\",\"defcon\":").append(value).append("}");
-            isFirst = false;
-        }
-        builder.append("]");
-        eventsJSON = builder.toString();
-    }
 
-    @Override
-    public void getPreAlerts(String event, CompletionHandler handler) {
-        if(eventPreAlerts.containsKey(event)) {
-            handler.handle(eventPreAlerts.get(event));
-        }
-    }
     @Override
     public void getAlert(String id, CompletionHandler handler) {
         if(alertIDs == null) {
@@ -305,6 +204,7 @@ public enum WeatherUSA implements NewWeatherController {
         if(alertIDs.containsKey(id)) {
             handler.handle(alertIDs.get(id));
         } else if(preAlertIDs.containsKey(id)) {
+            final EventSource source = getSource();
             final NewWeatherPreAlert preAlert = preAlertIDs.get(id);
             final HashSet<String> zones = preAlert.getZoneIDs();
             final int max = zones.size();
@@ -318,7 +218,7 @@ public enum WeatherUSA implements NewWeatherController {
                     if(value == max) {
                         builder.append("]");
                         final String zonesJSON = builder.toString();
-                        final NewWeatherAlert alert = new NewWeatherAlert(preAlert, zonesJSON);
+                        final NewWeatherAlert alert = new NewWeatherAlert(preAlert, zonesJSON, source);
                         final String string = alert.toString();
                         alertIDs.put(id, string);
                         preAlertIDs.remove(id);
@@ -340,19 +240,11 @@ public enum WeatherUSA implements NewWeatherController {
             requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
                 @Override
                 public void handleJSONObject(JSONObject object) {
-                    final HashMap<String, String> territories = getTerritories();
+                    final HashMap<String, String> territories = getAmericanTerritories();
                     final JSONObject geometryJSON = object.getJSONObject("geometry"), properties = object.getJSONObject("properties");
                     final Object state = properties.get("state");
                     final String name = properties.getString("name"), territory = state instanceof String ? territories.getOrDefault(state, "Unknown") : "Unknown";
-                    final JSONArray coordinates = geometryJSON.getJSONArray("coordinates").getJSONArray(0).getJSONArray(0);
-                    final List<Location> geometry = new ArrayList<>();
-                    for(Object coordinate : coordinates) {
-                        final JSONArray array = (JSONArray) coordinate;
-                        final double longitude = array.getDouble(0), latitude = array.getDouble(1);
-                        final Location location = new Location(latitude, longitude);
-                        geometry.add(location);
-                    }
-
+                    final List<Location> geometry = getGeometry(geometryJSON);
                     final WeatherZone zone = new WeatherZone(zoneID, name, territory, geometry);
                     final String string = zone.toString();
                     zones.put(zoneID, string);
@@ -361,18 +253,32 @@ public enum WeatherUSA implements NewWeatherController {
             });
         }
     }
+    private List<Location> getGeometry(JSONObject geometryJSON) {
+        final String geometryType = geometryJSON.getString("type");
+        final List<Location> geometry = new ArrayList<>();
+        switch (geometryType) {
+            case "MultiPolygon":
+                final JSONArray coordinates = geometryJSON.getJSONArray("coordinates").getJSONArray(0).getJSONArray(0);
 
-    @Override
-    public void getTerritoryEvents(String territory, CompletionHandler handler) {
-        if(territoryEvents.containsKey(territory)) {
-            handler.handle(territoryEvents.get(territory));
+                for(Object coordinate : coordinates) {
+                    final JSONArray array = (JSONArray) coordinate;
+                    final double longitude = array.getDouble(0), latitude = array.getDouble(1);
+                    final Location location = new Location(latitude, longitude);
+                    geometry.add(location);
+                }
+                break;
+            case "GeometryCollection":
+                final JSONArray array = geometryJSON.getJSONArray("geometries");
+                for(Object obj : array) {
+                    final JSONObject json = (JSONObject) obj;
+                    final List<Location> targetLocations = getGeometry(json);
+                    geometry.addAll(targetLocations);
+                }
+                break;
+            default:
+                WLLogger.log(Level.WARN, "WeatherUSA - uncaught geometryType \"" + geometryType + "\"!");
+                break;
         }
-    }
-
-    @Override
-    public void getTerritoryPreAlerts(String territory, String event, CompletionHandler handler) {
-        if(territoryPreAlerts.containsKey(territory) && territoryPreAlerts.get(territory).containsKey(event)) {
-            handler.handle(territoryPreAlerts.get(territory).get(event));
-        }
+        return geometry;
     }
 }

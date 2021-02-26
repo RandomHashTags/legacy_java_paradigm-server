@@ -33,8 +33,8 @@ public final class CountryRankingInfoValueOther {
         return "{" +
                 "\"value\":" + getValue() + "," +
                 "\"valueType\":\"" + valueType.name() + "\"," +
-                "\"description\":\"" + LocalServer.fixEscapeValues(description) + "\"," +
-                "\"suffix\":\"" + LocalServer.fixEscapeValues(suffix) + "\"" +
+                (suffix != null ? "\"suffix\":\"" + LocalServer.fixEscapeValues(suffix) + "\"," : "") +
+                "\"description\":\"" + LocalServer.fixEscapeValues(description) + "\"" +
                 "}";
     }
 }

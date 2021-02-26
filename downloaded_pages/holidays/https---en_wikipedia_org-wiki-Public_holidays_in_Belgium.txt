@@ -1,0 +1,824 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Belgium - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBa2BApAMNAAAF728@UAAACC","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Belgium","wgTitle":"Public holidays in Belgium","wgCurRevisionId":1003071953,"wgRevisionId":1003071953,"wgArticleId":782535,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles needing additional references from January 2021","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from May 2018",
+"Public holidays in Belgium","Lists of public holidays by country"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Belgium","wgRelevantArticleId":782535,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1401470"};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Belgium"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Belgium&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Belgium&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Belgium"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Belgium rootpage-Public_holidays_in_Belgium skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Belgium</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Belgium&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Public+holidays+in+Belgium%22">"Public holidays in Belgium"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Public+holidays+in+Belgium%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Public+holidays+in+Belgium%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Public+holidays+in+Belgium%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Public+holidays+in+Belgium%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Public+holidays+in+Belgium%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> <small class="date-container"><i>(<span class="date">January 2021</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>In <b><a href="/wiki/Belgium" title="Belgium">Belgium</a></b> there are ten official <b><a href="/wiki/Public_holiday" title="Public holiday">public holidays</a></b>. Other particular days are also celebrated, but these are not official public holidays and employers are not obliged to give their employees a day off.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> However, some employers do award a day's holiday in accordance with union negotiations. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Public_holidays"><span class="tocnumber">1</span> <span class="toctext">Public holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Particular_days_celebrated_in_Belgium_that_are_not_official_public_holidays"><span class="tocnumber">2</span> <span class="toctext">Particular days celebrated in Belgium that are not official public holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Public_holidays">Public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Belgium&amp;action=edit&amp;section=1" title="Edit section: Public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Holiday</th> 
+         <th>Date</th> 
+         <th>Dutch</th> 
+         <th>French</th> 
+         <th>German </th>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> </td> 
+         <td>January 1 </td> 
+         <td>Nieuwjaar </td> 
+         <td>Nouvel An </td> 
+         <td>Neujahr </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> </td> 
+         <td>Monday after Easter </td> 
+         <td>Paasmaandag </td> 
+         <td>Lundi de Pâques </td> 
+         <td>Ostermontag </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a> </td> 
+         <td>May 1 </td> 
+         <td>Dag van de arbeid </td> 
+         <td>Fête du Travail </td> 
+         <td>Tag der Arbeit </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Ascension_of_Jesus_Christ" class="mw-redirect" title="Ascension of Jesus Christ">Ascension</a> </td> 
+         <td>39 days after Easter </td> 
+         <td>Onze Lieve Heer hemelvaart </td> 
+         <td>Ascension </td> 
+         <td>Christi Himmelfahrt </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Pentecost_Monday" class="mw-redirect" title="Pentecost Monday">Pentecost Monday</a> </td> 
+         <td>Monday after Pentecost </td> 
+         <td>Pinkstermaandag </td> 
+         <td>Lundi de Pentecôte </td> 
+         <td>Pfingstmontag </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Belgian_National_Day" title="Belgian National Day">Belgian National Day</a> </td> 
+         <td>July 28 </td> 
+         <td>Nationale feestdag </td> 
+         <td>Fête nationale </td> 
+         <td>Nationalfeiertag </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Assumption_of_Mary" title="Assumption of Mary">Assumption of Mary</a> </td> 
+         <td>August 15 </td> 
+         <td>Onze Lieve Vrouw hemelvaart </td> 
+         <td>Assomption </td> 
+         <td>Mariä Himmelfahrt </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/All_Saints%27_Day" title="All Saints' Day">All Saints' Day</a> </td> 
+         <td>November 1 </td> 
+         <td>Allerheiligen </td> 
+         <td>Toussaint </td> 
+         <td>Allerheiligen </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Armistice_Day" title="Armistice Day">Armistice Day</a> </td> 
+         <td>November 11 </td> 
+         <td>Wapenstilstand </td> 
+         <td>Jour de l'Armistice </td> 
+         <td>Waffenstillstand </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a> </td> 
+         <td>December 25 </td> 
+         <td>Kerstmis </td> 
+         <td>Noël </td> 
+         <td>Weihnachten </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <p>In addition to the above, the same legal text names all Sundays as public holidays (which is why Easter and Pentecost, which always fall on Sundays, are "feasted" by extending the Sunday holiday to the following Monday) but shops are free to select a different weekday as their "weekly closing day" if they wish; they must then declare near the entry to the shop which day it is: French "Jour de fermeture hebdomadaire: &lt;dayname in French&gt;" and/or Dutch "Wekelijke rustdag: &lt;dayname in Dutch&gt;".<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2018)">citation needed</span></a></i>]</sup> </p> 
+      <h2><span class="mw-headline" id="Particular_days_celebrated_in_Belgium_that_are_not_official_public_holidays">Particular days celebrated in Belgium that are not official public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Belgium&amp;action=edit&amp;section=2" title="Edit section: Particular days celebrated in Belgium that are not official public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Holiday</th> 
+         <th>Date</th> 
+         <th>Dutch</th> 
+         <th>French</th> 
+         <th>German </th>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Epiphany_(feast)" class="mw-redirect" title="Epiphany (feast)">Epiphany</a> </td> 
+         <td>January 6 </td> 
+         <td>Driekoningen </td> 
+         <td>Épiphanie </td> 
+         <td>Erscheinung des Herrn </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Valentine%27s_Day" title="Valentine's Day">Valentine's Day</a> </td> 
+         <td>February 14 </td> 
+         <td>Valentijnsdag </td> 
+         <td>Saint-Valentin </td> 
+         <td>Valentinstag </td>
+        </tr> 
+        <tr> 
+         <td><a href="/w/index.php?title=Iris_Day&amp;action=edit&amp;redlink=1" class="new" title="Iris Day (page does not exist)">Iris Day</a> <small>(in <a href="/wiki/Brussels" title="Brussels">Brussels</a> only)</small> </td> 
+         <td>May 8 </td> 
+         <td>Irisfeest </td> 
+         <td>Fête de l'Iris </td> 
+         <td>— </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Day_of_the_Flemish_Community" title="Day of the Flemish Community">Day of the Flemish Community</a> <small>(in <a href="/wiki/Flanders" title="Flanders">Flanders</a> only)</small> </td> 
+         <td>July 11 </td> 
+         <td>Feest van de Vlaamse Gemeenschap </td> 
+         <td>Fête de la Communauté flamande </td> 
+         <td>— </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/French_Community_Holiday" title="French Community Holiday">French Community Holiday</a> <small>(in <a href="/wiki/Wallonia" title="Wallonia">Wallonia</a> only)</small> </td> 
+         <td>September 27 </td> 
+         <td>Dag van de Franse Gemeenschap </td> 
+         <td>Fête de la Communauté française </td> 
+         <td>— </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Day_of_the_Walloon_Region" title="Day of the Walloon Region">Day of the Walloon Region</a> <small>(in <a href="/wiki/Wallonia" title="Wallonia">Wallonia</a> only)</small> </td> 
+         <td>third Sunday of September </td> 
+         <td>Feest van het Waalse Gewest </td> 
+         <td>Fête de la Région wallonne </td> 
+         <td>Festtag der Wallonischen Region </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Halloween" title="Halloween">Halloween</a> </td> 
+         <td>October 31 </td> 
+         <td>Halloween </td> 
+         <td>Halloween </td> 
+         <td>Halloween </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/All_Souls%27_Day" title="All Souls' Day">All Souls' Day</a> </td> 
+         <td>November 1 </td> 
+         <td>Allerzielen </td> 
+         <td>Toussaint </td> 
+         <td>Allerseelen </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Day_of_the_German-speaking_Community" title="Day of the German-speaking Community">Day of the German-speaking Community</a> </td> 
+         <td rowspan="2">November 15 </td> 
+         <td>Dag van de Duitstalige Gemeenschap </td> 
+         <td>Fête de la Communauté germanophone </td> 
+         <td>Tag der Deutschsprachigen Gemeinschaft </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/King%27s_Feast" title="King's Feast">King's Feast</a> </td> 
+         <td>Koningsdag </td> 
+         <td>Fête du Roi </td> 
+         <td>Festtag des Königs </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Sinterklaas" title="Sinterklaas">Saint Nicholas</a> </td> 
+         <td>December 6 </td> 
+         <td>Sinterklaas </td> 
+         <td>Saint-Nicolas </td> 
+         <td>Sankt Nikolaus </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Second_Day_of_Christmas" class="mw-redirect" title="Second Day of Christmas">Second Day of Christmas</a> </td> 
+         <td>December 26 </td> 
+         <td>Tweede kerstdag </td> 
+         <td>Lendemain de Noël </td> 
+         <td>2. Weihnachtstag </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>The days of the three communities are holidays for their civil servants and for employees of institutions controlled, supervised or financed by them (e.g. municipalities, universities) and may also be observed by banks in the concerned community. King's feast is a holiday observed by all (i.e. federal, community or regional, provincial and local) administrations, including some of the schools they organize. </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Belgium&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Public_holidays_in_the_Netherlands" title="Public holidays in the Netherlands">Public holidays in the Netherlands</a></li> 
+       <li><a href="/wiki/Public_holidays_in_France" title="Public holidays in France">Public holidays in France</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Belgium&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://calendarific.com/holidays/2021/BE">"Public holidays in Belgium"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Public+holidays+in+Belgium&amp;rft_id=https%3A%2F%2Fcalendarific.com%2Fholidays%2F2021%2FBE&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Belgium" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Belgium_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Belgium_topics" title="Template:Belgium topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Belgium_topics" title="Template talk:Belgium topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Belgium_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Belgium_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Belgium" title="Belgium">Belgium</a>&nbsp;<a href="/wiki/Index_of_Belgium-related_articles" title="Index of Belgium-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Belgium" title="History of Belgium">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Gallia_Belgica" title="Gallia Belgica">Gallia Belgica</a></li> 
+             <li><a href="/wiki/Prince-Bishopric_of_Li%C3%A8ge" title="Prince-Bishopric of Liège">Prince-Bishopric of Liège</a></li> 
+             <li><a href="/wiki/Burgundian_Netherlands" title="Burgundian Netherlands">Burgundian Netherlands</a></li> 
+             <li><a href="/wiki/Southern_Netherlands" title="Southern Netherlands">Southern Netherlands</a></li> 
+             <li><a href="/wiki/Spanish_Netherlands" title="Spanish Netherlands">Spanish Netherlands</a></li> 
+             <li><a href="/wiki/Austrian_Netherlands" title="Austrian Netherlands">Austrian Netherlands</a></li> 
+             <li><a href="/wiki/Brabant_Revolution" title="Brabant Revolution">Brabant Revolution</a></li> 
+             <li><a href="/wiki/United_Kingdom_of_the_Netherlands" title="United Kingdom of the Netherlands">United Kingdom of the Netherlands</a></li> 
+             <li><a href="/wiki/Belgium_in_the_long_nineteenth_century" class="mw-redirect" title="Belgium in the long nineteenth century">Long nineteenth century</a></li> 
+             <li><a href="/wiki/Belgian_Revolution" title="Belgian Revolution">Belgian Revolution</a></li> 
+             <li><a href="/wiki/Belgium_and_the_Franco-Prussian_War" title="Belgium and the Franco-Prussian War">Crisis of 1870</a></li> 
+             <li><a href="/wiki/Belgian_overseas_colonies" class="mw-redirect" title="Belgian overseas colonies">Empire</a></li> 
+             <li><a href="/wiki/Belgium_in_World_War_I" title="Belgium in World War I">World War I</a> 
+              <ul>
+               <li><a href="/wiki/German_invasion_of_Belgium" title="German invasion of Belgium">invasion</a></li> 
+               <li><a href="/wiki/German_occupation_of_Belgium_during_World_War_I" title="German occupation of Belgium during World War I">occupation</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Belgium_in_World_War_II" title="Belgium in World War II">World War II</a> 
+              <ul>
+               <li><a href="/wiki/Battle_of_Belgium" title="Battle of Belgium">invasion</a></li> 
+               <li><a href="/wiki/German_occupation_of_Belgium_during_World_War_II" title="German occupation of Belgium during World War II">occupation</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Belgian_Royal_Question" class="mw-redirect" title="Belgian Royal Question">Royal Question</a></li> 
+             <li><a href="/wiki/Congo_Crisis" title="Congo Crisis">Congo Crisis</a></li> 
+             <li><a href="/wiki/State_reform_in_Belgium" title="State reform in Belgium">State reform</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Royal_Arms_of_Belgium.svg/80px-Royal_Arms_of_Belgium.svg.png" decoding="async" width="80" height="98" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Royal_Arms_of_Belgium.svg/120px-Royal_Arms_of_Belgium.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Royal_Arms_of_Belgium.svg/160px-Royal_Arms_of_Belgium.svg.png 2x" data-file-width="301" data-file-height="367"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Belgium" title="Geography of Belgium">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Climate_of_Belgium" class="mw-redirect" title="Climate of Belgium">Climate</a></li> 
+                 <li><a href="/wiki/Extreme_points_of_Belgium" class="mw-redirect" title="Extreme points of Belgium">Extreme points</a></li> 
+                 <li><a href="/wiki/List_of_lakes_of_Belgium" title="List of lakes of Belgium">Lakes</a></li> 
+                 <li><a href="/wiki/List_of_mountains_and_hills_in_Belgium" title="List of mountains and hills in Belgium">Mountains</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Belgium" title="List of rivers of Belgium">Rivers</a></li> 
+                 <li><a href="/wiki/Communities,_regions_and_language_areas_of_Belgium" title="Communities, regions and language areas of Belgium">Subdivisions</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Belgium" title="Politics of Belgium">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Constitution_of_Belgium" title="Constitution of Belgium">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Belgium" title="Elections in Belgium">Elections</a></li> 
+                 <li><a href="/wiki/Council_of_Ministers_(Belgium)" title="Council of Ministers (Belgium)">Executive</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Belgium" title="Foreign relations of Belgium">Foreign relations</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Belgium" title="Human rights in Belgium">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/LGBT_rights_in_Belgium" title="LGBT rights in Belgium">LGBT</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Law_of_Belgium" title="Law of Belgium">Law</a> 
+                  <ul>
+                   <li><a href="/wiki/Law_enforcement_in_Belgium" title="Law enforcement in Belgium">enforcement</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Judiciary_of_Belgium" title="Judiciary of Belgium">Judiciary</a></li> 
+                 <li><a href="/wiki/Belgian_Armed_Forces" title="Belgian Armed Forces">Military</a></li> 
+                 <li><a href="/wiki/Monarchy_of_Belgium" title="Monarchy of Belgium">Monarchy</a></li> 
+                 <li><a href="/wiki/Belgian_Federal_Parliament" title="Belgian Federal Parliament">Parliament</a></li> 
+                 <li><a href="/wiki/Political_parties_in_Belgium" title="Political parties in Belgium">Political parties</a></li> 
+                 <li><a href="/wiki/Prime_Minister_of_Belgium" title="Prime Minister of Belgium">Prime Minister</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Belgium" title="Economy of Belgium">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/2008%E2%80%9309_Belgian_financial_crisis" class="mw-redirect" title="2008–09 Belgian financial crisis">2008–2009 financial crisis</a></li> 
+                 <li><a href="/wiki/Banking_in_Belgium" title="Banking in Belgium">Banking</a> 
+                  <ul>
+                   <li><a href="/wiki/National_Bank_of_Belgium" title="National Bank of Belgium">Central bank</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Telecommunications_in_Belgium" title="Telecommunications in Belgium">Communications</a></li> 
+                 <li><a href="/wiki/Energy_in_Belgium" title="Energy in Belgium">Energy</a></li> 
+                 <li><a href="/wiki/Tourism_in_Belgium" title="Tourism in Belgium">Tourism</a></li> 
+                 <li><a href="/wiki/List_of_trade_unions_in_Belgium" title="List of trade unions in Belgium">Trade unions</a></li> 
+                 <li><a href="/wiki/Transport_in_Belgium" title="Transport in Belgium">Transport</a></li> 
+                 <li><a href="/wiki/Education_in_Belgium" title="Education in Belgium">Science and technology</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Belgian_society" title="Category:Belgian society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Demographics_of_Belgium" title="Demographics of Belgium">Demographics</a></li> 
+                 <li><a href="/wiki/Belgians" title="Belgians">People</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_Belgians" title="List of Belgians">list</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Religion_in_Belgium" title="Religion in Belgium">Religion</a></li> 
+                 <li><a href="/wiki/Education_in_Belgium" title="Education in Belgium">Education</a></li> 
+                 <li><a href="/wiki/Orders,_decorations,_and_medals_of_Belgium" title="Orders, decorations, and medals of Belgium">Honours</a></li> 
+                 <li><a href="/wiki/Crime_in_Belgium" title="Crime in Belgium">Crime</a></li> 
+                 <li><a href="/wiki/Languages_of_Belgium" title="Languages of Belgium">Languages</a></li> 
+                 <li><a href="/wiki/Media_of_Belgium" class="mw-redirect" title="Media of Belgium">Media</a></li> 
+                 <li><a href="/wiki/Healthcare_in_Belgium" title="Healthcare in Belgium">Healthcare</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Belgium" title="Culture of Belgium">Culture</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Culture_of_Belgium#Architecture" title="Culture of Belgium">Architecture</a></li> 
+                 <li><a href="/wiki/Art_of_Belgium" title="Art of Belgium">Art</a></li> 
+                 <li><a href="/wiki/Cinema_of_Belgium" title="Cinema of Belgium">Cinema</a></li> 
+                 <li><a href="/wiki/Belgian_comics" title="Belgian comics">Comics</a></li> 
+                 <li><a href="/wiki/Belgian_cuisine" title="Belgian cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Flag_of_Belgium" title="Flag of Belgium">Flag</a></li> 
+                 <li><a href="/wiki/Belgian_literature" title="Belgian literature">Literature</a></li> 
+                 <li><a href="/wiki/Music_of_Belgium" title="Music of Belgium">Music</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Sport_in_Belgium" title="Sport in Belgium">Sport</a></li> 
+                 <li><a href="/wiki/Television_in_Belgium" title="Television in Belgium">Television</a></li> 
+                 <li><a href="/wiki/List_of_World_Heritage_Sites_in_Belgium" title="List of World Heritage Sites in Belgium">World Heritage Sites</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Belgium" title="Outline of Belgium">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Belgium-related_articles" title="Index of Belgium-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Belgium" title="Category:Belgium">Category</a></li> 
+             <li><a href="/wiki/Portal:Belgium" title="Portal:Belgium">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Europe" title="Template:Public holidays in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Europe" title="Template talk:Public holidays in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Europe" style="font-size:114%;margin:0 4em">
+            Public holidays in Europe
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Albania" title="Public holidays in Albania">Albania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Andorra" title="Public holidays in Andorra">Andorra</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Austria" title="Public holidays in Austria">Austria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belarus" title="Public holidays in Belarus">Belarus</a></li> 
+             <li><a class="mw-selflink selflink">Belgium</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bosnia_and_Herzegovina" title="Public holidays in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bulgaria" title="Public holidays in Bulgaria">Bulgaria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Croatia" title="Public holidays in Croatia">Croatia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Czech_Republic" title="Public holidays in the Czech Republic">Czech Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Denmark" title="Public holidays in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Estonia" title="Public holidays in Estonia">Estonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Finland" title="Public holidays in Finland">Finland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_France" title="Public holidays in France">France</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Germany" title="Public holidays in Germany">Germany</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greece" title="Public holidays in Greece">Greece</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hungary" title="Public holidays in Hungary">Hungary</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iceland" title="Public holidays in Iceland">Iceland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Ireland" title="Public holidays in the Republic of Ireland">Ireland</a></li> 
+             <li class="mw-empty-elt"></li> 
+             <li><a href="/wiki/Public_holidays_in_Italy" title="Public holidays in Italy">Italy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Latvia" title="Public holidays in Latvia">Latvia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liechtenstein" title="Public holidays in Liechtenstein">Liechtenstein</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lithuania" title="Public holidays in Lithuania">Lithuania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Luxembourg" title="Public holidays in Luxembourg">Luxembourg</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malta" title="Public holidays in Malta">Malta</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Moldova" title="Public holidays in Moldova">Moldova</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Monaco" title="Public holidays in Monaco">Monaco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montenegro" title="Public holidays in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Netherlands" title="Public holidays in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Macedonia" title="Public holidays in North Macedonia">North Macedonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Norway" title="Public holidays in Norway">Norway</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Poland" title="Public holidays in Poland">Poland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Portugal" title="Public holidays in Portugal">Portugal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Romania" title="Public holidays in Romania">Romania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_San_Marino" class="mw-redirect" title="Public holidays in San Marino">San Marino</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Serbia" title="Public holidays in Serbia">Serbia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovakia" title="Public holidays in Slovakia">Slovakia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovenia" title="Public holidays in Slovenia">Slovenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Spain" title="Public holidays in Spain">Spain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sweden" title="Public holidays in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Switzerland" title="Public holidays in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ukraine" title="Public holidays in Ukraine">Ukraine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Kingdom" title="Public holidays in the United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vatican_City" title="Public holidays in Vatican City">Vatican City</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">States with limited<br>recognition</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kosovo" title="Public holidays in Kosovo">Kosovo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Transnistria" title="Public holidays in Transnistria">Transnistria</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies and<br>other entities</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_%C3%85land" title="Public holidays in Åland">Åland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Faroe_Islands" title="Public holidays in the Faroe Islands">Faroe Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gibraltar" title="Public holidays in Gibraltar">Gibraltar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guernsey" title="Public holidays in Guernsey">Guernsey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Isle_of_Man" title="Public holidays in the Isle of Man">Isle of Man</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jersey" title="Public holidays in Jersey">Jersey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Svalbard" title="Public holidays in Svalbard">Svalbard</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other entities</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_European_Union" title="Public holidays in the European Union">European Union</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1353
+Cached time: 20210130141740
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.512 seconds
+Real time usage: 0.680 seconds
+Preprocessor visited node count: 11968/1000000
+Post‐expand include size: 92014/2097152 bytes
+Template argument size: 13982/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 26/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5126/5000000 bytes
+Lua time usage: 0.187/10.000 seconds
+Lua memory usage: 6776742/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  600.751      1 -total
+ 49.28%  296.077      6 Template:Navbox
+ 28.03%  168.366      1 Template:Public_holidays_in_Europe
+ 27.62%  165.927      1 Template:Europe_topic
+ 23.77%  142.805      1 Template:Belgium_topics
+ 23.19%  139.329      1 Template:Country_topics
+ 22.46%  134.932     49 Template:Iso2country
+ 14.55%   87.424      1 Template:Reflist
+ 14.51%   87.168      1 Template:Short_description
+ 13.60%   81.717      1 Template:More_citations_needed
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:782535-0!canonical and timestamp 20210130141739 and revision id 1003071953. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Belgium&amp;oldid=1003071953">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Belgium&amp;oldid=1003071953</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Belgium" title="Category:Public holidays in Belgium">Public holidays in Belgium</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2021" title="Category:Articles needing additional references from January 2021">Articles needing additional references from January 2021</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2018" title="Category:Articles with unsourced statements from May 2018">Articles with unsourced statements from May 2018</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Belgium" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Belgium" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Belgium" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Belgium" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Belgium">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Belgium&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Belgium&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Belgium" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Belgium" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Belgium&amp;oldid=1003071953" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Belgium&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Belgium&amp;id=1003071953&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1401470" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Belgium&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Belgium&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/St%C3%A1tn%C3%AD_sv%C3%A1tky_Belgie" title="Státní svátky Belgie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Feiertage_in_Belgien" title="Feiertage in Belgien – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/F%C3%AAtes_et_jours_f%C3%A9ri%C3%A9s_en_Belgique" title="Fêtes et jours fériés en Belgique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B2%A8%EA%B8%B0%EC%97%90%EC%9D%98_%EA%B3%B5%ED%9C%B4%EC%9D%BC" title="벨기에의 공휴일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B2%D5%A5%D5%AC%D5%A3%D5%AB%D5%A1%D5%B5%D5%AB_%D5%BF%D5%B8%D5%B6%D5%A5%D6%80" title="Բելգիայի տոներ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Belgijos_%C5%A1vent%C4%97s" title="Belgijos šventės – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Feestdagen_in_Belgi%C3%AB" title="Feestdagen in België – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1401470#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 27 January 2021, at 07:57<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Belgium&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.512","walltime":"0.680","ppvisitednodes":{"value":11968,"limit":1000000},"postexpandincludesize":{"value":92014,"limit":2097152},"templateargumentsize":{"value":13982,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":26,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5126,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  600.751      1 -total"," 49.28%  296.077      6 Template:Navbox"," 28.03%  168.366      1 Template:Public_holidays_in_Europe"," 27.62%  165.927      1 Template:Europe_topic"," 23.77%  142.805      1 Template:Belgium_topics"," 23.19%  139.329      1 Template:Country_topics"," 22.46%  134.932     49 Template:Iso2country"," 14.55%   87.424      1 Template:Reflist"," 14.51%   87.168      1 Template:Short_description"," 13.60%   81.717      1 Template:More_citations_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.187","limit":"10.000"},"limitreport-memusage":{"value":6776742,"limit":52428800}},"cachereport":{"origin":"mw1353","timestamp":"20210130141740","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Belgium","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Belgium","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1401470","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1401470","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-05T12:38:13Z","dateModified":"2021-01-27T07:57:41Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":183,"wgHostname":"mw1366"});});</script> 
+ </body>
+</html>

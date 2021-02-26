@@ -1,0 +1,1376 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Australia - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBbUzwpAEKIAAP1vp1MAAAAI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Australia","wgTitle":"Public holidays in Australia","wgCurRevisionId":1003673030,"wgRevisionId":1003673030,"wgArticleId":167130,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from April 2018","Articles with permanently dead external links","CS1 maint: archived copy as title","Articles with short description","Short description is different from Wikidata",
+"Use Australian English from July 2016","All Wikipedia articles written in Australian English","All articles with unsourced statements","Articles with unsourced statements from March 2018","Articles containing potentially dated statements from 2018","All articles containing potentially dated statements","Articles with specifically marked weasel-worded phrases from March 2018","Use dmy dates from July 2016","Public holidays in Australia","Lists of public holidays by country","Australia-related lists"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Australia","wgRelevantArticleId":167130,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en",
+"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q834070"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips",
+"ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Australia"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Australia"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Australia rootpage-Public_holidays_in_Australia skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Australia</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p> <b>Public holidays in Australia</b> refer to the <a href="/wiki/Holidays" class="mw-redirect" title="Holidays">holidays</a> recognised in law in <a href="/wiki/Australia" title="Australia">Australia</a>. Although they are declared on a <a href="/wiki/States_and_territories_of_Australia" title="States and territories of Australia">state and territory</a> basis, they comprise a mixture of nationally celebrated days and holidays exclusive to the individual jurisdictions. </p>
+      <p>Public holidays function as non-working days, with workers generally receiving full <a href="/wiki/Paid_leave" class="mw-redirect" title="Paid leave">paid leave</a> independently of <a href="/wiki/Annual_leave" title="Annual leave">annual leave</a>. Those working on public holidays receive additional penalty rates of pay.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Where they fall on a weekend, public holidays are generally declared <i><a href="/wiki/In_lieu" class="mw-redirect" title="In lieu">in lieu</a></i> for the following Monday. </p>
+      <p>Statutory holidays in Australia are based on varying religious, cultural and civic observations. <a href="/wiki/Christianity" title="Christianity">Christian</a> celebrations, namely <a href="/wiki/Christmas" title="Christmas">Christmas</a> and <a href="/wiki/Easter" title="Easter">Easter</a>, are some of the most significant ones observed. A <a href="/wiki/Labour_day" class="mw-redirect" title="Labour day">labour day</a> is observed in each state and territory, although it is varied in date. There are two significant <a href="/wiki/National_day" title="National day">national days</a>, <a href="/wiki/Australia_Day" title="Australia Day">Australia Day</a> (26 January) and <a href="/wiki/Anzac_Day" title="Anzac Day">Anzac Day</a> (25 April), which are nationwide public holidays. </p>
+      <p>When a public holiday occurs on a Friday or Monday, the three-day period is colloquially known as a "<a href="/wiki/Long_weekend" title="Long weekend">long weekend</a>". </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Nature_of_public_holidays"><span class="tocnumber">1</span> <span class="toctext">Nature of public holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Public_holidays"><span class="tocnumber">2</span> <span class="toctext">Public holidays</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-3"><a href="#Substitute_holidays_for_holidays_falling_on_a_weekend"><span class="tocnumber">2.1</span> <span class="toctext">Substitute holidays for holidays falling on a weekend</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#Australia_Day"><span class="tocnumber">2.2</span> <span class="toctext">Australia Day</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#Labour_Day"><span class="tocnumber">2.3</span> <span class="toctext">Labour Day</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#Easter"><span class="tocnumber">2.4</span> <span class="toctext">Easter</span></a></li> 
+          <li class="toclevel-2 tocsection-7"><a href="#ANZAC_Day"><span class="tocnumber">2.5</span> <span class="toctext">ANZAC Day</span></a></li> 
+          <li class="toclevel-2 tocsection-8"><a href="#Queen's_Birthday"><span class="tocnumber">2.6</span> <span class="toctext">Queen's Birthday</span></a></li> 
+          <li class="toclevel-2 tocsection-9"><a href="#Christmas_Day"><span class="tocnumber">2.7</span> <span class="toctext">Christmas Day</span></a></li> 
+          <li class="toclevel-2 tocsection-10"><a href="#Boxing_Day"><span class="tocnumber">2.8</span> <span class="toctext">Boxing Day</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-11"><a href="#Other_holidays"><span class="tocnumber">3</span> <span class="toctext">Other holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-12"><a href="#Public_holidays_by_state"><span class="tocnumber">4</span> <span class="toctext">Public holidays by state</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-13"><a href="#Queensland"><span class="tocnumber">4.1</span> <span class="toctext">Queensland</span></a></li> 
+          <li class="toclevel-2 tocsection-14"><a href="#New_South_Wales"><span class="tocnumber">4.2</span> <span class="toctext">New South Wales</span></a></li> 
+          <li class="toclevel-2 tocsection-15"><a href="#Australian_Capital_Territory_&amp;_Jervis_Bay_Territory"><span class="tocnumber">4.3</span> <span class="toctext">Australian Capital Territory &amp; Jervis Bay Territory</span></a></li> 
+          <li class="toclevel-2 tocsection-16"><a href="#Victoria"><span class="tocnumber">4.4</span> <span class="toctext">Victoria</span></a></li> 
+          <li class="toclevel-2 tocsection-17"><a href="#Western_Australia"><span class="tocnumber">4.5</span> <span class="toctext">Western Australia</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-18"><a href="#Penalty_rates"><span class="tocnumber">5</span> <span class="toctext">Penalty rates</span></a></li> 
+        <li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Nature_of_public_holidays">Nature of public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=1" title="Edit section: Nature of public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Traditionally, Australians in employment (whether in the <a href="/wiki/Public_sector" title="Public sector">public</a> or <a href="/wiki/Private_sector" title="Private sector">private sector</a>) have had the right to take a public holiday off work with regular pay. In recent years this tradition has changed somewhat. For example, <a href="/wiki/Business" title="Business">businesses</a> that normally open on a public holiday may request employees to work on that day. Employers can deny employees a holiday only on reasonable <a href="/wiki/Business_culture" class="mw-redirect" title="Business culture">business</a> grounds. </p>
+      <p>From 2006, <a href="/wiki/WorkChoices" title="WorkChoices">WorkChoices</a> entirely eliminated the entitlement to penalty rates in many workplaces; however since the implementation of the <a href="/wiki/Fair_Work_Act_2009" title="Fair Work Act 2009">Fair Work Act 2009</a> and the modern awards in 2010, most public-holiday penalty rates have increased dramatically.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2018)">citation needed</span></a></i>]</sup> As of 2018<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Australia&amp;action=edit">[update]</a></sup> employees generally receive pay at a penalty rate—usually 2.5 times (known as "double time and a half") the base rate of pay—when they work on a public holiday. </p>
+      <p>Besides designating days as public holidays, Australian authorities also designate some of these days as restricted trading days. </p>
+      <p>Public holidays are determined by a combination of: </p> 
+      <ul>
+       <li>statutes, with specific gazetting of public holidays</li> 
+       <li>industrial awards and agreements</li>
+      </ul> 
+      <p>If a standard public holiday falls on a weekend, a substitute public holiday will sometimes be observed on the first non-weekend day (usually Monday) after the weekend, whether by virtue of the public holiday legislation or by <i>ad hoc</i> proclamation. Workers required to work on a public holiday or substituted public holiday will usually be entitled to remuneration at a holiday penalty rate. </p>
+      <p>All states have their own public holidays in addition to national public holidays, and in some states public holidays, such as <a href="/wiki/Melbourne_Cup_Day" class="mw-redirect" title="Melbourne Cup Day">Melbourne Cup Day</a>, are provided<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (March 2018)">by whom?</span></a></i>]</sup> on a local basis. </p>
+      <p>Alcohol licences in several states prevent sale of alcohol on certain public holidays, such as <a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a>. </p> 
+      <h2><span class="mw-headline" id="Public_holidays">Public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=2" title="Edit section: Public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable" style="font-size:90%;"> 
+       <tbody>
+        <tr> 
+         <th width="10%">Date </th> 
+         <th width="10%"><a href="/wiki/Australian_Capital_Territory" title="Australian Capital Territory">ACT</a> </th> 
+         <th width="10%"><a href="/wiki/New_South_Wales" title="New South Wales">NSW</a> </th> 
+         <th width="10%"><a href="/wiki/Northern_Territory" title="Northern Territory">NT</a> </th> 
+         <th width="10%"><a href="/wiki/Queensland" title="Queensland">QLD</a> </th> 
+         <th width="10%"><a href="/wiki/South_Australia" title="South Australia">SA</a> </th> 
+         <th width="10%"><a href="/wiki/Tasmania" title="Tasmania">TAS</a> </th> 
+         <th width="10%"><a href="/wiki/Victoria_(Australia)" title="Victoria (Australia)">VIC</a> </th> 
+         <th width="10%"><a href="/wiki/Western_Australia" title="Western Australia">WA</a> </th>
+        </tr> 
+        <tr> 
+         <td>1 January</td> 
+         <td colspan="8" style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">New Year's Day </td>
+        </tr> 
+        <tr> 
+         <td>26 January</td> 
+         <td colspan="8" style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Australia_Day" title="Australia Day">Australia Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>2nd Monday in February</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial"><b>H</b> <a href="/wiki/Royal_Hobart_Regatta" title="Royal Hobart Regatta">Royal Hobart Regatta</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <td>1st Monday in March</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No<sup id="cite_ref-pubholqld_3-0" class="reference"><a href="#cite_note-pubholqld-3">[3]</a></sup></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Labour Day </td>
+        </tr> 
+        <tr> 
+         <td>2nd Monday in March</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Canberra_Day" title="Canberra Day">Canberra Day</a></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">March Public Holiday (<a href="/wiki/Adelaide_Cup" title="Adelaide Cup">Adelaide Cup</a>)*</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Eight_Hours_Day" class="mw-redirect" title="Eight Hours Day">Eight Hours Day</a></td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Labour Day</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <td rowspan="5">variable date</td> 
+         <td colspan="8" style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> </td>
+        </tr> 
+        <tr> 
+         <td colspan="3" style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Holy_Saturday" title="Holy Saturday">Easter Saturday</a><sup id="cite_ref-actsat_4-0" class="reference"><a href="#cite_note-actsat-4">[4]</a></sup><sup id="cite_ref-nswsat_5-0" class="reference"><a href="#cite_note-nswsat-5">[5]</a></sup><sup id="cite_ref-ntsat_6-0" class="reference"><a href="#cite_note-ntsat-6">[6]</a></sup></td> 
+         <td colspan="2" style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Holy_Saturday" title="Holy Saturday">The day after Good Friday</a><sup id="cite_ref-qldsat_7-0" class="reference"><a href="#cite_note-qldsat-7">[7]</a></sup><sup id="cite_ref-sasat_8-0" class="reference"><a href="#cite_note-sasat-8">[8]</a></sup></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No <sup id="cite_ref-tas-law_9-0" class="reference"><a href="#cite_note-tas-law-9">[9]</a></sup></td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Holy_Saturday" title="Holy Saturday">Saturday before Easter Sunday</a><sup id="cite_ref-vicsat_10-0" class="reference"><a href="#cite_note-vicsat-10">[10]</a></sup></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No <sup id="cite_ref-wa-law_11-0" class="reference"><a href="#cite_note-wa-law-11">[11]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td colspan="2" style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No**</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a><sup id="cite_ref-vicgazetteS229_14-0" class="reference"><a href="#cite_note-vicgazetteS229-14">[14]</a></sup></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <td colspan="8" style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> </td>
+        </tr> 
+        <tr> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial"><b>C</b> <a href="/wiki/Easter_Tuesday" title="Easter Tuesday">Easter Tuesday</a></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <td>25 April</td> 
+         <td colspan="8" style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Anzac_Day" title="Anzac Day">Anzac Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>1st Monday in May</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">May Day</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Labour Day<sup id="cite_ref-pubholqld_3-1" class="reference"><a href="#cite_note-pubholqld-3">[3]</a></sup></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <td>1st Monday after or on 27 May</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Reconciliation_Day" title="Reconciliation Day">Reconciliation Day</a></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <td>1st Monday in June</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Western_Australia_Day" title="Western Australia Day">Western Australia Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>2nd Monday in June</td> 
+         <td colspan="3" style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Queen%27s_Birthday" class="mw-redirect" title="Queen's Birthday">Queen's Birthday</a></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No<sup id="cite_ref-pubholqld_3-2" class="reference"><a href="#cite_note-pubholqld-3">[3]</a></sup></td> 
+         <td colspan="3" style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Queen%27s_Birthday" class="mw-redirect" title="Queen's Birthday">Queen's Birthday</a></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <td>1st Monday in August</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Picnic_Day_(Australian_holiday)" title="Picnic Day (Australian holiday)">Picnic Day</a></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <td>variable date</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial"><b>B</b> <a href="/wiki/Royal_Queensland_Show" class="mw-redirect" title="Royal Queensland Show">Royal Queensland Show</a><sup id="cite_ref-pubholqld_3-3" class="reference"><a href="#cite_note-pubholqld-3">[3]</a></sup></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <td>As proclaimed by the <a href="/wiki/Governor_of_Western_Australia" title="Governor of Western Australia">Governor of Western Australia</a> (September/October)</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Queen%27s_Birthday" class="mw-redirect" title="Queen's Birthday">Queen's Birthday</a> </td>
+        </tr> 
+        <tr> 
+         <td>Friday before the Australian Football League Grand Final (usually held on the last Saturday in September or first Saturday in October)</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Friday before the <a href="/wiki/Australian_Football_League" title="Australian Football League">Australian Football League</a> Grand Final<sup id="cite_ref-vicgazetteS229_14-1" class="reference"><a href="#cite_note-vicgazetteS229-14">[14]</a></sup></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <td>1st Monday in October</td> 
+         <td colspan="2" style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Labour Day</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Queen%27s_Birthday" class="mw-redirect" title="Queen's Birthday">Queen's Birthday</a><sup id="cite_ref-pubholqld_3-4" class="reference"><a href="#cite_note-pubholqld-3">[3]</a></sup></td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Labour Day</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <td>1st Monday in November</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial"><b>NH</b> <a href="/wiki/Recreation_Day_holiday" title="Recreation Day holiday">Recreation Day</a></td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <td>1st Tuesday of November</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Melbourne_Cup" title="Melbourne Cup">Melbourne Cup</a>†</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <td>24 December</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No***</td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial"><b>P</b> Christmas Eve</td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial"><b>P</b> Christmas Eve<sup id="cite_ref-pubholqld_3-5" class="reference"><a href="#cite_note-pubholqld-3">[3]</a></sup></td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial"><b>P</b> Christmas Eve</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <td>25 December</td> 
+         <td colspan="8" style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Christmas Day </td>
+        </tr> 
+        <tr> 
+         <td>26 December</td> 
+         <td colspan="4" style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Boxing Day</td> 
+         <td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"><a href="/wiki/Proclamation_Day_(South_Australia)" class="mw-redirect" title="Proclamation Day (South Australia)">Proclamation Day</a></td> 
+         <td colspan="3" style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Boxing Day </td>
+        </tr> 
+        <tr> 
+         <td>31 December</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial"><b>P</b> New Year's Eve</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial"><b>P</b> New Year's Eve</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td> 
+         <td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No </td>
+        </tr> 
+        <tr> 
+         <th>Total holidays</th> 
+         <th>13</th> 
+         <th>11</th> 
+         <th>11 + 2 part days</th> 
+         <th>11 + 1 part day</th> 
+         <th>11 + 2 part days</th> 
+         <th>12</th> 
+         <th>13</th> 
+         <th>10 </th>
+        </tr>
+       </tbody>
+      </table> 
+      <dl>
+       <dt>
+        Legend:
+       </dt> 
+       <dd>
+        <b>B</b> City of Brisbane only. The Royal National Agricultural (RNA) Show Day (Brisbane only) is held on the Wednesday during the RNA Show period. The RNA Show commences on the first Friday in August, unless the first Friday is prior to 5 August, then it commences on the second Friday of August.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Other Queensland show holidays: <a rel="nofollow" class="external free" href="https://www.qld.gov.au/recreation/travel/holidays/show">https://www.qld.gov.au/recreation/travel/holidays/show</a>
+       </dd> 
+       <dd>
+        <b>C</b> = Conditional: Public Service employees or where defined in Employment Agreement/Award<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+       </dd>
+      </dl> 
+      <dl>
+       <dd>
+        <b>H</b> = Hobart area only
+       </dd> 
+       <dd>
+        <b>NH</b> = Not Hobart area
+       </dd> 
+       <dd>
+        <b>P</b> Part day, from 7&nbsp;pm to midnight (6&nbsp;pm to midnight for QLD)<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>
+       </dd> 
+       <dd>
+        <b>†</b> Often substituted with the Geelong Cup for Geelong residents. For regional Victoria other local cup days are sometimes substituted.
+       </dd> 
+       <dd>
+        <b>*</b> The holiday is legislated for the 3rd Monday of May. Since 2006 it has been moved via the issuing of a special Proclamation by the <a href="/wiki/Governor_of_South_Australia" title="Governor of South Australia">Governor</a>, to the 2nd Monday of March, on a trial basis.<sup id="cite_ref-Public_Holidays_18-0" class="reference"><a href="#cite_note-Public_Holidays-18">[18]</a></sup>
+       </dd> 
+       <dd>
+        <b>**</b> Sunday is nominally a public holiday in South Australia<sup id="cite_ref-Public_Holidays_18-1" class="reference"><a href="#cite_note-Public_Holidays-18">[18]</a></sup>
+       </dd> 
+       <dd>
+        <b>***</b> Depends on occupation, generally from 6&nbsp;pm to midnight<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
+       </dd>
+      </dl> 
+      <h3><span class="mw-headline" id="Substitute_holidays_for_holidays_falling_on_a_weekend">Substitute holidays for holidays falling on a weekend</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=3" title="Edit section: Substitute holidays for holidays falling on a weekend">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>When a public holiday falls on a weekend, the following work day may be considered a public holiday depending on the state/territory and the holiday in question. </p> 
+      <table class="wikitable" style="font-size:90%;"> 
+       <tbody>
+        <tr> 
+         <th width="15%">Name </th> 
+         <th width="10%">ACT<sup id="cite_ref-act-law_20-0" class="reference"><a href="#cite_note-act-law-20">[20]</a></sup> </th> 
+         <th width="10%">NSW<sup id="cite_ref-nsw-law_21-0" class="reference"><a href="#cite_note-nsw-law-21">[21]</a></sup> </th> 
+         <th width="10%">NT<sup id="cite_ref-nt-law_22-0" class="reference"><a href="#cite_note-nt-law-22">[22]</a></sup> </th> 
+         <th width="10%">QLD<sup id="cite_ref-qld-law_23-0" class="reference"><a href="#cite_note-qld-law-23">[23]</a></sup> </th> 
+         <th width="10%">SA<sup id="cite_ref-sa-law_24-0" class="reference"><a href="#cite_note-sa-law-24">[24]</a></sup> </th> 
+         <th width="10%">TAS<sup id="cite_ref-tas-law_9-1" class="reference"><a href="#cite_note-tas-law-9">[9]</a></sup> </th> 
+         <th width="10%">VIC<sup id="cite_ref-vic-bill_25-0" class="reference"><a href="#cite_note-vic-bill-25">[25]</a></sup> </th> 
+         <th width="10%">WA<sup id="cite_ref-wa-law_11-1" class="reference"><a href="#cite_note-wa-law-11">[11]</a></sup> </th>
+        </tr> 
+        <tr> 
+         <td>New Year's Day</td> 
+         <td colspan="8">Yes </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Australia_Day" title="Australia Day">Australia Day</a></td> 
+         <td colspan="8">Yes </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a></td> 
+         <td colspan="7">Not applicable (always on a Monday)</td> 
+         <td>Yes (when another public holiday coincides) </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/ANZAC_Day" class="mw-redirect" title="ANZAC Day">ANZAC Day</a></td> 
+         <td>Yes</td> 
+         <td>No<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></td> 
+         <td>Yes</td> 
+         <td>No</td> 
+         <td>Yes</td> 
+         <td>No</td> 
+         <td>No<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></td> 
+         <td>Yes </td>
+        </tr> 
+        <tr> 
+         <td>Christmas</td> 
+         <td colspan="8">Yes </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a>/<a href="/wiki/Proclamation_Day_(South_Australia)" class="mw-redirect" title="Proclamation Day (South Australia)">Proclamation Day</a></td> 
+         <td colspan="4">Yes</td> 
+         <td>Yes</td> 
+         <td>Yes</td> 
+         <td>Sunday only</td> 
+         <td>Yes </td>
+        </tr> 
+        <tr> 
+         <td>New Year's Eve</td> 
+         <td colspan="4">Not applicable (not a holiday)</td> 
+         <td>Sunday only</td> 
+         <td colspan="3">Not applicable (not a holiday) </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>Holidays that always fall on a particular day of the week are not listed in this table. Prior to 2008, Victorian law only specified substitute holidays for New Year and Boxing Day, and only if they fell on a Sunday.<sup id="cite_ref-vic-law_28-0" class="reference"><a href="#cite_note-vic-law-28">[28]</a></sup> From 2008, Victorian law specifies the substitute holidays in the table above.<sup id="cite_ref-vic-bill_25-1" class="reference"><a href="#cite_note-vic-bill-25">[25]</a></sup> </p>
+      <p>Since <a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> can occur <a href="/wiki/Easter#Date" title="Easter">as late as 26 April</a> it is possible for the Easter Monday holiday to coincide with <a href="/wiki/Anzac_Day" title="Anzac Day">Anzac Day</a>, as occurred in 2011. State Acts do not give a provision to separate the days when this occurs, so no additional public holiday is given by law. However an extra day is usually proclaimed by the minister, so as to have a steady number of public holidays each year.<sup id="cite_ref-nt-2011_29-0" class="reference"><a href="#cite_note-nt-2011-29">[29]</a></sup><sup id="cite_ref-sa-2011_30-0" class="reference"><a href="#cite_note-sa-2011-30">[30]</a></sup><sup id="cite_ref-tas-2011_31-0" class="reference"><a href="#cite_note-tas-2011-31">[31]</a></sup> In the year 2038, Anzac Day will coincide with Easter Sunday. </p> 
+      <h3><span class="mw-headline" id="Australia_Day">Australia Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=4" title="Edit section: Australia Day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Nationally, <a href="/wiki/Australia_Day" title="Australia Day">Australia Day</a> was originally celebrated on 30 July 1915.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> </p>
+      <p>Recorded celebrations of the 26 January date back to 1808 in Australia, and in 1818, Governor <a href="/wiki/Lachlan_Macquarie" title="Lachlan Macquarie">Lachlan Macquarie</a> held the first official celebration of Australia Day.<sup id="cite_ref-nsw-hist_33-0" class="reference"><a href="#cite_note-nsw-hist-33">[33]</a></sup> 26 January was chosen because it is the day of the establishment of the first British settlement at <a href="/wiki/Port_Jackson" title="Port Jackson">Port Jackson</a> by Captain <a href="/wiki/Arthur_Phillip" title="Arthur Phillip">Arthur Phillip</a> in 1788.<sup id="cite_ref-NADCHistory_34-0" class="reference"><a href="#cite_note-NADCHistory-34">[34]</a></sup> It was made a public holiday in New South Wales in 1836, and Victoria adopted the day as a public holiday in 1931. The 26 January commenced to be recognised by all states and territories as Australia Day in 1946. </p>
+      <p>Australia Day has been celebrated as a national public holiday on 26 January since 1994.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> </p>
+      <p>Since 1960, the winner of the <a href="/wiki/Australian_of_the_Year" title="Australian of the Year">Australian of the Year</a> award is announced by the <a href="/wiki/Prime_Minister_of_Australia" title="Prime Minister of Australia">Prime Minister</a> on the eve of Australia Day (25 Jan). </p> 
+      <h3><span class="mw-headline" id="Labour_Day">Labour Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=5" title="Edit section: Labour Day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Labour Day commemorates the achievements of the <a href="/wiki/Australian_labour_movement" title="Australian labour movement">Australian labour movement</a>. The celebration of Labour Day has its origins in the <a href="/wiki/Eight-hour_day" title="Eight-hour day">eight-hour day</a> movement, which advocated eight hours for work, eight hours for recreation, and eight hours for rest. On 21 April 1856 Stonemasons and building workers on building sites around <a href="/wiki/Melbourne" title="Melbourne">Melbourne</a>, Australia, stopped work and marched from the University of Melbourne to Parliament House to achieve an eight-hour day. Their direct action protest was a success, and they are noted as the first organised workers in the world to achieve an eight-hour day with no loss of pay, which subsequently inspired the celebration of Labour Day and May Day. In Tasmania the public holiday is called Eight Hours Day and in the Northern Territory it is called May Day. </p>
+      <p>The Labour Day public holiday varies considerably between the various <a href="/wiki/States_and_territories_of_Australia" title="States and territories of Australia">states and territories</a>. It is the first Monday in October in the <a href="/wiki/Australian_Capital_Territory" title="Australian Capital Territory">Australian Capital Territory</a>, <a href="/wiki/New_South_Wales" title="New South Wales">New South Wales</a> and <a href="/wiki/South_Australia" title="South Australia">South Australia</a>. In <a href="/wiki/Western_Australia" title="Western Australia">Western Australia</a>, it is the first Monday in March. In both <a href="/wiki/Victoria_(Australia)" title="Victoria (Australia)">Victoria</a> and <a href="/wiki/Tasmania" title="Tasmania">Tasmania</a>, it is the second Monday in March. In the <a href="/wiki/Northern_Territory" title="Northern Territory">Northern Territory</a>, and in <a href="/wiki/Queensland" title="Queensland">Queensland</a><sup id="cite_ref-pubholqld_3-6" class="reference"><a href="#cite_note-pubholqld-3">[3]</a></sup> it is the first Monday in May. More than 80 countries celebrate Labor Day. Labor Day is a long weekend. </p> 
+      <h3><span class="mw-headline" id="Easter">Easter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=6" title="Edit section: Easter">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The days of <a href="/wiki/Easter" title="Easter">Easter</a> vary each year depending on the day determined by the <a href="/wiki/Western_Christian" class="mw-redirect" title="Western Christian">Western Christian</a> calendar. Until 1994 Easter Tuesday was a Bank Holiday in Victoria (it retains this status partially in Tasmania). The day after <a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> and before <a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a> is traditionally known as <a href="/wiki/Holy_Saturday" title="Holy Saturday">Holy Saturday</a>. However, the states where that day is a public holiday use different terminology – it is officially gazetted as "Easter Saturday" in the ACT, New South Wales, and the Northern Territory;<sup id="cite_ref-actsat_4-1" class="reference"><a href="#cite_note-actsat-4">[4]</a></sup><sup id="cite_ref-nswsat_5-1" class="reference"><a href="#cite_note-nswsat-5">[5]</a></sup><sup id="cite_ref-ntsat_6-1" class="reference"><a href="#cite_note-ntsat-6">[6]</a></sup> as "the day after Good Friday" in Queensland and South Australia;<sup id="cite_ref-qldsat_7-1" class="reference"><a href="#cite_note-qldsat-7">[7]</a></sup><sup id="cite_ref-sasat_8-1" class="reference"><a href="#cite_note-sasat-8">[8]</a></sup> and as "Saturday before Easter Sunday" in Victoria.<sup id="cite_ref-vicsat_10-1" class="reference"><a href="#cite_note-vicsat-10">[10]</a></sup> </p> 
+      <h3><span class="mw-headline" id="ANZAC_Day">ANZAC Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=7" title="Edit section: ANZAC Day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p><a href="/wiki/ANZAC_Day" class="mw-redirect" title="ANZAC Day">ANZAC Day</a> is a day on which the country remembers those citizens who fell fighting or who served the country in wars. ANZAC Day is commemorated on 25 April every year. The tradition began to remember the <a href="/wiki/Australian_and_New_Zealand_Army_Corps" title="Australian and New Zealand Army Corps">Australian and New Zealand Army Corps</a> (ANZAC) soldiers who <a href="/wiki/Battle_of_Gallipoli" class="mw-redirect" title="Battle of Gallipoli">landed</a> at <a href="/wiki/Gallipoli" title="Gallipoli">Gallipoli</a> in Turkey during <a href="/wiki/World_War_I" title="World War I">World War I</a>. </p>
+      <p>ANZAC Day commemoration features marches by veterans and by solemn "Dawn Services", a tradition started in <a href="/wiki/Albany,_Western_Australia" title="Albany, Western Australia">Albany</a>, Western Australia on 25 April 1923 and now held at <a href="/wiki/War_memorials" class="mw-redirect" title="War memorials">war memorials</a> around the country, accompanied by thoughts of those lost at war to the ceremonial sounds of <a href="/wiki/The_Last_Post" class="mw-redirect" title="The Last Post">The Last Post</a> on the <a href="/wiki/Bugle_(instrument)" class="mw-redirect" title="Bugle (instrument)">bugle</a>. The fourth stanza of <a href="/wiki/Laurence_Binyon" title="Laurence Binyon">Laurence Binyon</a>'s poem <a href="https://en.wikisource.org/wiki/For_the_Fallen" class="extiw" title="s:For the Fallen">For the Fallen</a> (known as the "<a href="/wiki/Ode_of_Remembrance" class="mw-redirect" title="Ode of Remembrance">Ode of Remembrance</a>") is often recited. </p> 
+      <h3><span id="Queen.27s_Birthday"></span><span class="mw-headline" id="Queen's_Birthday">Queen's Birthday</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=8" title="Edit section: Queen's Birthday">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In all <a href="/wiki/States_and_territories_of_Australia" title="States and territories of Australia">states and territories</a> except Queensland<sup id="cite_ref-pubholqld_3-7" class="reference"><a href="#cite_note-pubholqld-3">[3]</a></sup> and Western Australia, <a href="/wiki/Queen%27s_Birthday" class="mw-redirect" title="Queen's Birthday">Queen's Birthday</a> is observed on the second Monday in June. Because Western Australia celebrates <a href="/wiki/Western_Australia_Day" title="Western Australia Day">Western Australia Day</a> (formerly Foundation Day) on the first Monday in June, the <a href="/wiki/Governor_of_Western_Australia" title="Governor of Western Australia">Governor of Western Australia</a> proclaims the day on which the state will observe the Queen's Birthday, based on school terms and the <a href="/wiki/Perth_Royal_Show" title="Perth Royal Show">Perth Royal Show</a>.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> There is no firm rule to determine this date before it is proclaimed, though it is typically the last Monday of September or the first Monday of October: in 2011 the Queen's Birthday holiday in Western Australia was moved from Monday, 3 October 2011 to Friday, 28 October 2011 to coincide with the Commonwealth Heads of Government Meeting (CHOGM), which was held in Perth.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> In Queensland, it is celebrated on the 1st Monday in October.<sup id="cite_ref-pubholqld_3-8" class="reference"><a href="#cite_note-pubholqld-3">[3]</a></sup> </p>
+      <p>The day has been celebrated since 1788, when <a href="/wiki/Governors_of_New_South_Wales" class="mw-redirect" title="Governors of New South Wales">Governor</a> <a href="/wiki/Arthur_Phillip" title="Arthur Phillip">Arthur Phillip</a> declared a holiday to mark the birthday of <a href="/wiki/George_III_of_the_United_Kingdom" class="mw-redirect" title="George III of the United Kingdom">King George III</a>. Until 1936 it was held on the actual birthday of the Monarch, but after the death of <a href="/wiki/George_V_of_the_United_Kingdom" class="mw-redirect" title="George V of the United Kingdom">King George V</a>, it was decided to keep the date at mid-year. </p>
+      <p>On that day the "Queen's Birthday honours list" is released naming new members of the <a href="/wiki/Order_of_Australia" title="Order of Australia">Order of Australia</a> and other <a href="/wiki/Australian_honours_system" class="mw-redirect" title="Australian honours system">Australian honours</a>. This occurs on the date observed in the Eastern States, not the date observed in Western Australia. </p>
+      <p>The Queen's Birthday weekend and <a href="/wiki/Empire_Day" class="mw-redirect" title="Empire Day">Empire Day</a>, 24 May, were long the traditional times for public <a href="/wiki/Firework" class="mw-redirect" title="Firework">fireworks</a> displays in Australia. Although they still occur, the tradition has recently been overshadowed by larger New Year's Eve fireworks, as the sale of fireworks to the public was banned by the states in the 1980s, and in the <a href="/wiki/Australian_Capital_Territory" title="Australian Capital Territory">ACT</a> as of 24 August 2009.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Christmas_Day">Christmas Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=9" title="Edit section: Christmas Day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Christmas is observed on 25 December each year to commemorate the birth of Jesus. In Australia, it was introduced with British settlement in 1788 as the cultural norms were transferred to the new colonies. Though a Christian religious festival, it does not breach the constitution's separation of Church and State provision, because it is declared under State law, which is not subject to the provision. </p> 
+      <h3><span class="mw-headline" id="Boxing_Day">Boxing Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=10" title="Edit section: Boxing Day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a> is on the day after Christmas, i.e. 26 December each year, except in South Australia. In South Australia, the first otherwise working day after Christmas is a public holiday called <a href="/wiki/Proclamation_Day_(South_Australia)" class="mw-redirect" title="Proclamation Day (South Australia)">Proclamation Day</a>.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> </p>
+      <p>Boxing Day is noted for the start of the post-Christmas sale season. The day has also become a significant sporting day. Melbourne hosts the <a href="/wiki/Boxing_Day_Test" title="Boxing Day Test">Boxing Day Test match</a>; the <a href="/wiki/Sydney_to_Hobart_Yacht_Race" title="Sydney to Hobart Yacht Race">Sydney to Hobart Yacht Race</a> also starts on this day. </p> 
+      <h2><span class="mw-headline" id="Other_holidays">Other holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=11" title="Edit section: Other holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li>Sunday is nominally a public holiday in <a href="/wiki/South_Australia" title="South Australia">South Australia</a>.</li> 
+       <li><a href="/wiki/Proclamation_Day_(South_Australia)" class="mw-redirect" title="Proclamation Day (South Australia)">Proclamation Day</a> is in December in South Australia only.</li> 
+       <li><a href="/wiki/Canberra_Day" title="Canberra Day">Canberra Day</a> is held on the 2nd Monday in March in the ACT. Prior to 2008, this holiday was celebrated on the 3rd Monday of March.</li> 
+       <li><a href="/wiki/Melbourne_Cup_Day" class="mw-redirect" title="Melbourne Cup Day">Melbourne Cup Day</a> is held on the first Tuesday of November—the day of the <a href="/wiki/Melbourne_Cup" title="Melbourne Cup">Melbourne Cup</a>. It was originally observed only in the Melbourne metropolitan area. From 2007 to 2009 in ACT, Melbourne Cup day was also a holiday called "<a href="/wiki/Family_Day#Australian_Capital_Territory" title="Family Day">Family and Community Day</a>". The holiday continued from 2010 to 2017 but no longer coincided with Melbourne Cup day. In Victoria, the Public Holidays Act 1993 (Vic) was amended from 24 September 2008 and made the Melbourne Cup Day holiday applicable in all parts of the state (unless another day is observed in substitute). It also made the holiday applicable to employees covered by <a href="/wiki/Industrial_award" title="Industrial award">federal awards</a>.</li> 
+       <li><a href="/wiki/Recreation_Day_holiday" title="Recreation Day holiday">Recreation Day</a> is the first Monday of November, and celebrated in Northern <a href="/wiki/Tasmania" title="Tasmania">Tasmania</a> where Regatta Day is not a holiday.</li> 
+       <li><a href="/wiki/Royal_Hobart_Regatta" title="Royal Hobart Regatta">Regatta Day</a> is the second Monday in February, and is celebrated in Southern <a href="/wiki/Tasmania" title="Tasmania">Tasmania</a>. Previously it was held on the second Tuesday in February.</li> 
+       <li><a href="/wiki/Geelong_Cup" title="Geelong Cup">Geelong Cup</a> Day is held on the fourth Wednesday of October in the city of <a href="/wiki/Geelong" title="Geelong">Geelong</a>, Victoria</li> 
+       <li><a href="/wiki/Queensland_Day" title="Queensland Day">Queensland Day</a> is celebrated on 6 June each year, but not with a public holiday.</li> 
+       <li><a href="/wiki/Adelaide_Cup" title="Adelaide Cup">Adelaide Cup</a> Day is held on the second Monday in March in South Australia (held in May before 2006)<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup></li> 
+       <li><a href="/wiki/Western_Australia_Day" title="Western Australia Day">Western Australia Day</a> in Western Australia on the first Monday in June.</li> 
+       <li><a href="/wiki/Picnic_Day_(Australian_holiday)" title="Picnic Day (Australian holiday)">Picnic Day</a> in the Northern Territory in August, and also May Day</li> 
+       <li>Tasmania has <a href="/wiki/Easter_Tuesday" title="Easter Tuesday">Easter Tuesday</a> as a bank holiday (for bank and government employees only).</li> 
+       <li>New South Wales has the first Monday in August as a bank holiday (for bank employees only).</li> 
+       <li>Many cities and towns observe local public holidays for their local <a href="/wiki/Agricultural_Show" class="mw-redirect" title="Agricultural Show">Agricultural Show</a>. For example: 
+        <ul>
+         <li><a href="/w/index.php?title=Darwin_Show&amp;action=edit&amp;redlink=1" class="new" title="Darwin Show (page does not exist)">Darwin Show</a> Day in <a href="/wiki/Darwin,_Northern_Territory" title="Darwin, Northern Territory">Darwin</a> area in late July</li> 
+         <li><a href="/wiki/Ekka" title="Ekka">Royal Queensland Show Day</a> in Brisbane area in August<sup id="cite_ref-pubholqld_3-9" class="reference"><a href="#cite_note-pubholqld-3">[3]</a></sup></li> 
+         <li><a href="/w/index.php?title=Gold_Coast_Show&amp;action=edit&amp;redlink=1" class="new" title="Gold Coast Show (page does not exist)">Gold Coast Show</a> in Gold Coast area in October</li>
+        </ul></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Public_holidays_by_state">Public holidays by state</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=12" title="Edit section: Public holidays by state">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Queensland">Queensland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=13" title="Edit section: Queensland">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The days are set in the "Holidays Act 1983".<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup> Most public holidays include a second public holiday on a week-day if they happen to fall on Saturday or Sunday. In which case, both days are public holidays.<sup id="cite_ref-QldPublicHolidays_42-0" class="reference"><a href="#cite_note-QldPublicHolidays-42">[42]</a></sup> </p> 
+      <ul>
+       <li>New Year's Day: 1 January, and if 1 January is a Saturday or Sunday, the following Monday.</li> 
+       <li>Australia Day: 26 January, and if 26 January is a Saturday or Sunday, the following Monday.</li> 
+       <li>Good Friday: on the date it is publicly observed, always a Friday.</li> 
+       <li>The day after Good Friday: Always a Saturday, one day after Good Friday.</li> 
+       <li>Easter Monday: The next Monday after Good Friday.</li> 
+       <li>ANZAC Day: 25 April, and if 25 April is a Sunday, 26 April.</li> 
+       <li>Labour Day ("May Day"): 1st Monday in May.<sup id="cite_ref-pubholqld_3-10" class="reference"><a href="#cite_note-pubholqld-3">[3]</a></sup></li> 
+       <li>Birthday of the Sovereign: 1st Monday in October.<sup id="cite_ref-pubholqld_3-11" class="reference"><a href="#cite_note-pubholqld-3">[3]</a></sup></li> 
+       <li>Christmas Day: 25 December.</li> 
+       <li>Boxing Day: 26 December.</li>
+      </ul> 
+      <p>If Christmas Day (25 December) is a Saturday or Sunday, then 27 December is also a public holiday. If Boxing day (26 December) is a Saturday or Sunday, then 28 December is also a public holiday. </p>
+      <p>Because of the variable days of Easter, Anzac day could fall on an Easter holiday. When ANZAC falls on Saturday, there is no week day public holiday. In such situations it is generally expected that the minister will proclaim extra public holidays on week-days to ensure every year has the same number of public holidays on week-days. </p>
+      <p>The minister of the state may proclaim and adjustments or additions, such as the date of the <a href="/wiki/Ekka" title="Ekka">Brisbane Ekka Show</a> day holiday. This day has historically always been proclaimed for the second Wednesday in August, except if there are 5 Wednesday's in August, in which case the third Wednesday in August.<sup id="cite_ref-QldPublicHolidays_42-1" class="reference"><a href="#cite_note-QldPublicHolidays-42">[42]</a></sup> </p> 
+      <h3><span class="mw-headline" id="New_South_Wales">New South Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=14" title="Edit section: New South Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Public holidays generally follow the national pattern, but special cases are resolved by the State Government and advised by proclamation. Details of future holidays can be found on the NSW Industrial Relations website. Public holidays are regulated by the New South Wales <i>Public Holidays Act 2010 No 115</i>, which supersedes the <i>Banks and Bank Holidays Act 1912 No 43</i>. </p>
+      <p>The first Monday in August is a Bank Holiday, during which banks and financial institutions are closed.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup> </p> 
+      <h3><span id="Australian_Capital_Territory_.26_Jervis_Bay_Territory"></span><span class="mw-headline" id="Australian_Capital_Territory_&amp;_Jervis_Bay_Territory">Australian Capital Territory &amp; Jervis Bay Territory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=15" title="Edit section: Australian Capital Territory &amp; Jervis Bay Territory">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Most New South Wales public holidays are public holidays in the <a href="/wiki/Australian_Capital_Territory" title="Australian Capital Territory">Australian Capital Territory</a>, with the addition of <a href="/wiki/Canberra_Day" title="Canberra Day">Canberra Day</a>. </p> 
+      <h3><span class="mw-headline" id="Victoria">Victoria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=16" title="Edit section: Victoria">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Public holidays in Victoria are regulated by the Victorian <i>Public Holidays Act</i> 1993. </p>
+      <p>Victorian employees fall under the <a href="/wiki/Workchoices" class="mw-redirect" title="Workchoices">Workchoices</a> system either as coming within the Commonwealth constitutional power (called "constitutional corporation employees") or because of Victoria's referral of its legislative powers to the Commonwealth for particular workplace relations matters. </p>
+      <p>Employee entitlements to public holidays and additional pay depend on whether they are covered by a federal award or agreement. </p>
+      <p>Employees not covered by a federal award or agreement are entitled to public holidays under the Victorian <i>Public Holidays Act</i> 1993. Also, all permanent employees not covered by a federal award or agreement who would normally work on a public holiday (or a substitute public holiday) are entitled to the holiday without loss of pay. Their employers are not required to provide additional payment if they work on a public holiday, but this does not exclude the possibility of employees and employers negotiating for additional pay. </p>
+      <p>Employees who are covered by a federal award or agreement are entitled to public holidays as provided by the relevant federal award or agreement and the <i>Public Holidays Act</i> 1993. Many federal awards and agreements also provide for additional penalty rates for work performed on a public holiday. </p>
+      <p>Restricted <a href="/wiki/Shopping_hours" title="Shopping hours">shop trading laws</a> apply to Good Friday, Christmas Day and before 1&nbsp;pm on Anzac Day. On these days only exempted businesses are permitted to open for trading.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup> All public holidays and substitute public holidays are <a href="/wiki/Bank_holidays" class="mw-redirect" title="Bank holidays">bank holidays</a>.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup> </p>
+      <p>In August 2015, the day before the <a href="/wiki/AFL_Grand_Final" title="AFL Grand Final">AFL Grand Final</a>, as well as Easter Sunday, were gazetted as Public Holidays within Victoria. This date of the holiday is as gazetted by the Victorian Government and cannot be accurately predicted. In 2019, the Victorian Parliament legislated the AFL Grand Final public holiday by amending the <i>Public Holidays Act 1993 (Vic)</i>.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup> </p>
+      <p>The Victorian public holidays are as follows:<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup> </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Name</th> 
+         <th>Date </th>
+        </tr> 
+        <tr> 
+         <td>New Year</td> 
+         <td>1 January </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Australia_Day" title="Australia Day">Australia Day</a></td> 
+         <td>26 January </td>
+        </tr> 
+        <tr> 
+         <td>Labour Day</td> 
+         <td>2nd Monday in March </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a></td> 
+         <td>Friday before Easter </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Holy_Saturday" title="Holy Saturday">Holy Saturday</a></td> 
+         <td>Day before Easter </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a></td> 
+         <td>Day of Easter </td>
+        </tr> 
+        <tr> 
+         <td>Easter Monday</td> 
+         <td>Day after Easter </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Anzac_Day" title="Anzac Day">Anzac Day</a></td> 
+         <td>25 April </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Queen%27s_Birthday" class="mw-redirect" title="Queen's Birthday">Queen's Birthday</a></td> 
+         <td>2nd Monday in June </td>
+        </tr> 
+        <tr> 
+         <td>Friday before <a href="/wiki/Australian_Football_League" title="Australian Football League">Australian Football League</a> Grand Final</td> 
+         <td>Variable date (usually late September/early October) </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Melbourne_Cup_Day" class="mw-redirect" title="Melbourne Cup Day">Melbourne Cup Day</a></td> 
+         <td>1st Tuesday of November* </td>
+        </tr> 
+        <tr> 
+         <td>Christmas</td> 
+         <td>25 December </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a></td> 
+         <td>26 December </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>* Melbourne Cup Day is observed in most of the state, but various <a href="/wiki/Horse_racing#Australia" title="Horse racing">cup days</a> and <a href="/wiki/Agricultural_show" title="Agricultural show">show days</a> in the state's west are locally substituted. See the list at <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20110807092429/http://www.vic.gov.au/about-victoria-tourism/holidays-daylight-saving/public-holidays/victorian-non-metropolitan-public-holiday-dates.html">[1]</a>. </p>
+      <p>Melbourne Show Day used to be observed on the Thursday in the last full week of September as a half-day public holiday—later changing to full day—until 1994 (abolished by the state government).<sup id="cite_ref-ShowDay_48-0" class="reference"><a href="#cite_note-ShowDay-48">[48]</a></sup> Easter Tuesday was observed as a Bank Holiday in Victoria until 1994 (also abolished by the state government). </p> 
+      <h3><span class="mw-headline" id="Western_Australia">Western Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=17" title="Edit section: Western Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Name</th> 
+         <th>Date </th>
+        </tr> 
+        <tr> 
+         <td>New Year</td> 
+         <td>1 January * </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Australia_Day" title="Australia Day">Australia Day</a></td> 
+         <td>26 January * </td>
+        </tr> 
+        <tr> 
+         <td>Labour Day</td> 
+         <td>1st Monday in March </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a></td> 
+         <td>Friday before Easter </td>
+        </tr> 
+        <tr> 
+         <td>Easter Monday</td> 
+         <td>Day after Easter </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Anzac_Day" title="Anzac Day">Anzac Day</a></td> 
+         <td>25 April * </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Queen%27s_Birthday" class="mw-redirect" title="Queen's Birthday">Queen's Birthday</a></td> 
+         <td>Last Monday of September # </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Christmas" title="Christmas">Christmas</a></td> 
+         <td>25 December * </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a></td> 
+         <td>26 December * </td>
+        </tr>
+       </tbody>
+      </table> 
+      <ul>
+       <li>*If a Public Holiday falls on a Saturday or Sunday, the following Monday is also observed as a Public Holiday <sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup></li> 
+       <li>#The Queens Birthday may be held of a different date in regional communities <sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Penalty_rates">Penalty rates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=18" title="Edit section: Penalty rates">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: <a href="/wiki/Overtime" title="Overtime">Overtime</a>
+      </div> 
+      <p>Penalty rates are the rates of pay which an employee is paid higher than their standard base rate for working at times or on days, such as public holidays, which are outside the normal working week.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup> They were introduced in 1947 for workers working on the <a href="/wiki/Sabbath" title="Sabbath">Sabbath</a>,<sup id="cite_ref-spectator.com.au_52-0" class="reference"><a href="#cite_note-spectator.com.au-52">[52]</a></sup><sup id="cite_ref-smh.com.au_53-0" class="reference"><a href="#cite_note-smh.com.au-53">[53]</a></sup> as most workers were Christian, while today, these rates of pay are set by the <a href="/wiki/Fair_Work_Commission" title="Fair Work Commission">Fair Work Commission</a>. </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=19" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Australian_labour_law" title="Australian labour law">Australian labour law</a></li> 
+       <li><a href="/wiki/Australian_Pay_and_Classification_Scales" title="Australian Pay and Classification Scales">Australian Pay and Classification Scales</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.fairwork.gov.au/leave/public-holidays/not-working-on-public-holidays">https://www.fairwork.gov.au/leave/public-holidays/not-working-on-public-holidays</a></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://publicholidays.com.au/royal-hobart-regatta/">"Royal Hobart Regatta 2017 and 2018"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Royal+Hobart+Regatta+2017+and+2018&amp;rft_id=http%3A%2F%2Fpublicholidays.com.au%2Froyal-hobart-regatta%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-pubholqld-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-pubholqld_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pubholqld_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-pubholqld_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-pubholqld_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-pubholqld_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-pubholqld_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-pubholqld_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-pubholqld_3-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-pubholqld_3-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-pubholqld_3-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-pubholqld_3-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-pubholqld_3-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.qld.gov.au/recreation/travel/holidays/public/">"Queensland public holiday dates for 2019–2021"</a>. Queensland Government<span class="reference-accessdate">. Retrieved <span class="nowrap">1 May</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Queensland+public+holiday+dates+for+2019%E2%80%932021&amp;rft.pub=Queensland+Government&amp;rft_id=http%3A%2F%2Fwww.qld.gov.au%2Frecreation%2Ftravel%2Fholidays%2Fpublic%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-actsat-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-actsat_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-actsat_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cmd.act.gov.au/communication/holidays">Daylight Saving and Public Holidays in the ACT</a> - ACT Government: Chief Minister, Treasury and Economic Development Directorate. Retrieved 5 March 2018.</span> </li> 
+         <li id="cite_note-nswsat-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-nswsat_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nswsat_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.nsw.gov.au/about-new-south-wales/public-holidays/">NSW Public Holidays</a> - New South Wales Government. Retrieved 5 March 2018.</span> </li> 
+         <li id="cite_note-ntsat-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-ntsat_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ntsat_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://nt.gov.au/employ/for-employees-in-nt/nt-public-holidays">NT public holidays</a> - Northern Territory Government. Retrieved 5 March 2018.</span> </li> 
+         <li id="cite_note-qldsat-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-qldsat_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-qldsat_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.qld.gov.au/recreation/travel/holidays/public">Public, school and show holidays</a> - Queensland Government. Retrieved 5 March 2018.</span> </li> 
+         <li id="cite_note-sasat-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-sasat_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sasat_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.safework.sa.gov.au/resources/public-holidays">Public holidays</a> - SafeWork South Australia. Retrieved 11 Jan 2021.</span> </li> 
+         <li id="cite_note-tas-law-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-tas-law_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tas-law_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.thelaw.tas.gov.au/tocview/index.w3p;cond=;doc_id=96%2B%2B2000%2BAT%40EN%2B20080816000000;histon=;prompt=;rec=-1;term=">"Statutory Holidays Act 2000"</a>. Tasmania.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Statutory+Holidays+Act+2000&amp;rft.pub=Tasmania&amp;rft_id=http%3A%2F%2Fwww.thelaw.tas.gov.au%2Ftocview%2Findex.w3p%3Bcond%3D%3Bdoc_id%3D96%252B%252B2000%252BAT%2540EN%252B20080816000000%3Bhiston%3D%3Bprompt%3D%3Brec%3D-1%3Bterm%3D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-vicsat-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-vicsat_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-vicsat_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays">Victorian public holidays 2018, 2019</a> - Business Victoria. Retrieved 5 March 2018.</span> </li> 
+         <li id="cite_note-wa-law-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-wa-law_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wa-law_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.austlii.edu.au/au/legis/wa/consol_act/pabha1972203/index.html">"Public And Bank Holidays Act 1972"</a>. Western Australia.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Public+And+Bank+Holidays+Act+1972&amp;rft.pub=Western+Australia&amp;rft_id=http%3A%2F%2Fwww.austlii.edu.au%2Fau%2Flegis%2Fwa%2Fconsol_act%2Fpabha1972203%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cmd.act.gov.au/communication/holidays">http://www.cmd.act.gov.au/communication/holidays</a></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.legislation.qld.gov.au/view/html/inforce/current/act-1983-018#sch">https://www.legislation.qld.gov.au/view/html/inforce/current/act-1983-018#sch</a></span> </li> 
+         <li id="cite_note-vicgazetteS229-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-vicgazetteS229_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-vicgazetteS229_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gazette.vic.gov.au/gazette/Gazettes2015/GG2015S229.pdf">"Victorian Government Gazette – Special S229"</a> <span class="cs1-format">(PDF)</span>. Victorian Government Printer. 19 August 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Victorian+Government+Gazette+%E2%80%93+Special+S229&amp;rft.pub=Victorian+Government+Printer&amp;rft.date=2015-08-19&amp;rft_id=http%3A%2F%2Fwww.gazette.vic.gov.au%2Fgazette%2FGazettes2015%2FGG2015S229.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.qld.gov.au/recreation/travel/holidays/public">https://www.qld.gov.au/recreation/travel/holidays/public</a></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130410150552/http://workplacestandards.tas.gov.au/resources/public_holidays">"Workplace Standards"</a>. Tasmanian Government. Archived from <a rel="nofollow" class="external text" href="http://workplacestandards.tas.gov.au/resources/public_holidays">the original</a> on 10 April 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Workplace+Standards&amp;rft.pub=Tasmanian+Government&amp;rft_id=http%3A%2F%2Fworkplacestandards.tas.gov.au%2Fresources%2Fpublic_holidays&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.fairwork.gov.au/leave/public-holidays/pages/listof2012publicholidays.aspx">http://www.fairwork.gov.au/leave/public-holidays/pages/listof2012publicholidays.aspx</a></span> </li> 
+         <li id="cite_note-Public_Holidays-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Public_Holidays_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Public_Holidays_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.safework.sa.gov.au/resources/public-holidays">"Public Holidays"</a>. SafeWork SA<span class="reference-accessdate">. Retrieved <span class="nowrap">11 January</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Public+Holidays&amp;rft.pub=SafeWork+SA&amp;rft_id=https%3A%2F%2Fwww.safework.sa.gov.au%2Fresources%2Fpublic-holidays&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.sdansw.org.au/members/members-home/nsw-christmas-public-holiday-guides-2014/">http://www.sdansw.org.au/members/members-home/nsw-christmas-public-holiday-guides-2014/</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&nbsp;Dead link since April 2018">permanent dead link</span></a></i>]</span></sup></span> </li> 
+         <li id="cite_note-act-law-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-act-law_20-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.austlii.edu.au/au/legis/act/consol_act/ha1958106/">"Holidays Act 1958"</a>. Australian Capital Territory.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Holidays+Act+1958&amp;rft.pub=Australian+Capital+Territory&amp;rft_id=http%3A%2F%2Fwww.austlii.edu.au%2Fau%2Flegis%2Fact%2Fconsol_act%2Fha1958106%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-nsw-law-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-nsw-law_21-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.legislation.nsw.gov.au/maintop/view/inforce/act+115+2010+cd+0+N">"Public Holidays Act 2010 No 115"</a>. New South Wales.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Public+Holidays+Act+2010+No+115&amp;rft.pub=New+South+Wales&amp;rft_id=http%3A%2F%2Fwww.legislation.nsw.gov.au%2Fmaintop%2Fview%2Finforce%2Fact%2B115%2B2010%2Bcd%2B0%2BN&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-nt-law-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-nt-law_22-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://legislation.nt.gov.au/Legislation/PUBLIC-HOLIDAYS-ACT">"Public Holidays Act"</a>. Northern Territory Government.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Public+Holidays+Act&amp;rft.pub=Northern+Territory+Government&amp;rft_id=https%3A%2F%2Flegislation.nt.gov.au%2FLegislation%2FPUBLIC-HOLIDAYS-ACT&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-qld-law-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-qld-law_23-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.legislation.qld.gov.au/view/html/inforce/current/act-1983-018">"Holidays Act 1983"</a>. Queensland Government.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Holidays+Act+1983&amp;rft.pub=Queensland+Government&amp;rft_id=https%3A%2F%2Fwww.legislation.qld.gov.au%2Fview%2Fhtml%2Finforce%2Fcurrent%2Fact-1983-018&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-sa-law-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-sa-law_24-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.legislation.sa.gov.au/LZ/C/A/HOLIDAYS%20ACT%201910.aspx">"Holidays Act 1910"</a>. South Australia.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Holidays+Act+1910&amp;rft.pub=South+Australia&amp;rft_id=http%3A%2F%2Fwww.legislation.sa.gov.au%2FLZ%2FC%2FA%2FHOLIDAYS%2520ACT%25201910.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-vic-bill-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-vic-bill_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-vic-bill_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/LTObject_Store/LTObjSt3.nsf/DDE300B846EED9C7CA257616000A3571/FBC043F4F89CFF79CA257761002A8E5A/$FILE/93-119a024.pdf">"Public Holidays Act 1993"</a> <span class="cs1-format">(PDF)</span>. Victoria.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Public+Holidays+Act+1993&amp;rft.pub=Victoria&amp;rft_id=http%3A%2F%2Fwww.legislation.vic.gov.au%2FDomino%2FWeb_Notes%2FLDMS%2FLTObject_Store%2FLTObjSt3.nsf%2FDDE300B846EED9C7CA257616000A3571%2FFBC043F4F89CFF79CA257761002A8E5A%2F%24FILE%2F93-119a024.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.industrialrelations.nsw.gov.au/oirwww/NSW_public_holidays/NSW_Public_Holidays.page">"Holidays for NSW under the Public Holidays Act 2010"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Holidays+for+NSW+under+the+Public+Holidays+Act+2010&amp;rft_id=http%3A%2F%2Fwww.industrialrelations.nsw.gov.au%2Foirwww%2FNSW_public_holidays%2FNSW_Public_Holidays.page&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.theage.com.au/victoria/no-extra-public-holiday-for-anzac-day-2015-20140720-zv1ep.html">"No extra public holiday for Anzac Day 2015"</a>. The Age. 20 July 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=No+extra+public+holiday+for+Anzac+Day+2015&amp;rft.date=2014-07-20&amp;rft_id=http%3A%2F%2Fwww.theage.com.au%2Fvictoria%2Fno-extra-public-holiday-for-anzac-day-2015-20140720-zv1ep.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-vic-law-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-vic-law_28-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090225162512/http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/B5E771391706115FCA257322000CECB3/$FILE/93-119a022.pdf">"Public Holidays Act 2003"</a> <span class="cs1-format">(PDF)</span>. Victoria. Archived from <a rel="nofollow" class="external text" href="http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/B5E771391706115FCA257322000CECB3/$FILE/93-119a022.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 25 February 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">16 August</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Public+Holidays+Act+2003&amp;rft.pub=Victoria&amp;rft_id=http%3A%2F%2Fwww.legislation.vic.gov.au%2FDomino%2FWeb_Notes%2FLDMS%2FPubLawToday.nsf%2Fa12f6f60fbd56800ca256de500201e54%2FB5E771391706115FCA257322000CECB3%2F%24FILE%2F93-119a022.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-nt-2011-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-nt-2011_29-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071012182118/http://ocpe.nt.gov.au/legislation/holidays">"Public Holidays 2011"</a>. Northern Territory. Archived from <a rel="nofollow" class="external text" href="http://www.ocpe.nt.gov.au/legislation/holidays">the original</a> on 12 October 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Public+Holidays+2011&amp;rft.pub=Northern+Territory&amp;rft_id=http%3A%2F%2Fwww.ocpe.nt.gov.au%2Flegislation%2Fholidays&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-sa-2011-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-sa-2011_30-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20151219143813/http://www.safework.sa.gov.au/show_page.jsp?id=2483#item33650">"Public Holidays 2011"</a>. South Australia. Archived from <a rel="nofollow" class="external text" href="http://www.safework.sa.gov.au/show_page.jsp?id=2483#item33650">the original</a> on 19 December 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">16 August</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Public+Holidays+2011&amp;rft.pub=South+Australia&amp;rft_id=http%3A%2F%2Fwww.safework.sa.gov.au%2Fshow_page.jsp%3Fid%3D2483%23item33650&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-tas-2011-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-tas-2011_31-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080907132545/http://www.wst.tas.gov.au/__data/assets/pdf_file/0007/84517/2011.pdf">"Public Holidays 2011"</a> <span class="cs1-format">(PDF)</span>. Tasmania. Archived from <a rel="nofollow" class="external text" href="http://www.wst.tas.gov.au/__data/assets/pdf_file/0007/84517/2011.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 7 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">16 August</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Public+Holidays+2011&amp;rft.pub=Tasmania&amp;rft_id=http%3A%2F%2Fwww.wst.tas.gov.au%2F__data%2Fassets%2Fpdf_file%2F0007%2F84517%2F2011.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.abc.net.au/local/stories/2015/07/27/4281586.htm">http://www.abc.net.au/local/stories/2015/07/27/4281586.htm</a></span> </li> 
+         <li id="cite_note-nsw-hist-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-nsw-hist_33-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.australiaday.com.au/studentresources/history.aspx#Chronology">"Australia Day History"</a>. Australia Day Council of New South Wales<span class="reference-accessdate">. Retrieved <span class="nowrap">29 October</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Australia+Day+History&amp;rft.pub=Australia+Day+Council+of+New+South+Wales&amp;rft_id=http%3A%2F%2Fwww.australiaday.com.au%2Fstudentresources%2Fhistory.aspx%23Chronology&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-NADCHistory-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-NADCHistory_34-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.australiaday.com.au/studentresources/history.aspx">"National Australia Day Council – History"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=National+Australia+Day+Council+%E2%80%93+History&amp;rft_id=http%3A%2F%2Fwww.australiaday.com.au%2Fstudentresources%2Fhistory.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.theguardian.com/australia-news/2018/jan/25/australia-day-a-guide-to-changing-minds-without-ruining-the-barbecue">https://www.theguardian.com/australia-news/2018/jan/25/australia-day-a-guide-to-changing-minds-without-ruining-the-barbecue</a></span> </li> 
+         <li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.docep.wa.gov.au/">Department of Consumer and Employment Protection, Labour Relations division</a></span> </li> 
+         <li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120302031743/http://www.commerce.wa.gov.au/LabourRelations/Content/Employers/Pay_rates_leave_and_conditions/Public_holidays_in_Western_Aus.html">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.commerce.wa.gov.au/LabourRelations/Content/Employers/Pay_rates_leave_and_conditions/Public_holidays_in_Western_Aus.html">the original</a> on 2 March 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">12 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.commerce.wa.gov.au%2FLabourRelations%2FContent%2FEmployers%2FPay_rates_leave_and_conditions%2FPublic_holidays_in_Western_Aus.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span></span> </li> 
+         <li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.abc.net.au/news/stories/2009/08/24/2664761.htm">"Cracker down: ACT bans fireworks"</a>. Australian Broadcasting Corporation. 24 August 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">24 August</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cracker+down%3A+ACT+bans+fireworks&amp;rft.pub=Australian+Broadcasting+Corporation&amp;rft.date=2009-08-24&amp;rft_id=http%3A%2F%2Fwww.abc.net.au%2Fnews%2Fstories%2F2009%2F08%2F24%2F2664761.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190129043249/https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays">"Public holidays"</a>. <i>SafeWork SA</i>. Government of South Australia. Archived from <a rel="nofollow" class="external text" href="https://www.safework.sa.gov.au/law-compliance/laws-regulations/public-holidays">the original</a> on 29 January 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">26 December</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=SafeWork+SA&amp;rft.atitle=Public+holidays&amp;rft_id=https%3A%2F%2Fwww.safework.sa.gov.au%2Flaw-compliance%2Flaws-regulations%2Fpublic-holidays&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.timeanddate.com/holidays/australia/adelaide-cup">Holidays: Adelaide Cup in Australia</a></span> </li> 
+         <li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation cs2"><a rel="nofollow" class="external text" href="https://www.legislation.qld.gov.au/view/html/inforce/current/act-1983-018"><i>Holidays Act 1983</i></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Holidays+Act+1983&amp;rft_id=https%3A%2F%2Fwww.legislation.qld.gov.au%2Fview%2Fhtml%2Finforce%2Fcurrent%2Fact-1983-018&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-QldPublicHolidays-42"><span class="mw-cite-backlink">^ <a href="#cite_ref-QldPublicHolidays_42-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-QldPublicHolidays_42-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.qld.gov.au/recreation/travel/holidays/public/">"Public holidays"</a>. Queensland Government.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Public+holidays&amp;rft.pub=Queensland+Government&amp;rft_id=http%3A%2F%2Fwww.qld.gov.au%2Frecreation%2Ftravel%2Fholidays%2Fpublic%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.legislation.nsw.gov.au/maintop/view/inforce/act+49+2008+cd+0+N">"NSW Retail Trading Act 2008 No 49"</a>. Part 3A.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NSW+Retail+Trading+Act+2008+No+49&amp;rft.pages=Part+3A&amp;rft_id=http%3A%2F%2Fwww.legislation.nsw.gov.au%2Fmaintop%2Fview%2Finforce%2Fact%2B49%2B2008%2Bcd%2B0%2BN&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.business.vic.gov.au/BUSVIC/STANDARD//PC_62300.html">Business Victoria – Can I open my shop on a public holiday?</a></span> </li> 
+         <li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.austlii.edu.au/au/legis/vic/consol_act/pha1993163/s9.html">Public Holidays Act 1993 – (sec 9 Bank Holidays)</a></span> </li> 
+         <li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://content.legislation.vic.gov.au/sites/default/files/914a785c-770c-3948-bc50-43c33a41d55a_19-029aa%20authorised.pdf">Public Holidays Amendment Act 2019</a></span> </li> 
+         <li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.business.vic.gov.au/BUSVIC/STANDARD//PC_50544.html">Business Victoria – Victorian Public Holidays &amp; Shop Trading Hours – 2009</a></span> </li> 
+         <li id="cite_note-ShowDay-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-ShowDay_48-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140604130354/http://www.rasv.com.au/Heritage/RASV_Heritage_About/HistoryOfRASV/RASV_History_Detail/">"Detailed History"</a>. Royal Agricultural Society of Victoria. 15 September 2014. Archived from <a rel="nofollow" class="external text" href="http://www.rasv.com.au/Heritage/RASV_Heritage_About/HistoryOfRASV/RASV_History_Detail/">the original</a> on 4 June 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">15 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Detailed+History&amp;rft.pub=Royal+Agricultural+Society+of+Victoria&amp;rft.date=2014-09-15&amp;rft_id=http%3A%2F%2Fwww.rasv.com.au%2FHeritage%2FRASV_Heritage_About%2FHistoryOfRASV%2FRASV_History_Detail%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia">https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia</a></span> </li> 
+         <li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.commerce.wa.gov.au/labour-relations/regional-dates-queens-birthday-public-holiday">https://www.commerce.wa.gov.au/labour-relations/regional-dates-queens-birthday-public-holiday</a></span> </li> 
+         <li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.fairwork.gov.au/pay/penalty-rates-and-allowances">"Fair Work Ombudsman website"</a>. <i>Fair Work Ombudsman</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Fair+Work+Ombudsman&amp;rft.atitle=Fair+Work+Ombudsman+website&amp;rft_id=https%3A%2F%2Fwww.fairwork.gov.au%2Fpay%2Fpenalty-rates-and-allowances&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Australia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-spectator.com.au-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-spectator.com.au_52-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://spectator.com.au/2017/02/penalty-rate-win/">https://spectator.com.au/2017/02/penalty-rate-win/</a></span> </li> 
+         <li id="cite_note-smh.com.au-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-smh.com.au_53-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.smh.com.au/business/workplace-relations/penalty-rates-are-absurd-20151005-gk1s9w.html">http://www.smh.com.au/business/workplace-relations/penalty-rates-are-absurd-20151005-gk1s9w.html</a></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Oceania" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Oceania_topic" title="Template:Oceania topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Oceania_topic" title="Template talk:Oceania topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Oceania_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Oceania" style="font-size:114%;margin:0 4em">
+            Public holidays in Oceania
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a class="mw-selflink selflink">Australia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Federated_States_of_Micronesia" title="Public holidays in the Federated States of Micronesia">Federated States of Micronesia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Fiji" class="mw-redirect" title="Public holidays in Fiji">Fiji</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kiribati" title="Public holidays in Kiribati">Kiribati</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Marshall_Islands" title="Public holidays in the Marshall Islands">Marshall Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nauru" title="Public holidays in Nauru">Nauru</a></li> 
+             <li><a href="/wiki/Public_holidays_in_New_Zealand" title="Public holidays in New Zealand">New Zealand</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Palau" title="Public holidays in Palau">Palau</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Papua_New_Guinea" title="Public holidays in Papua New Guinea">Papua New Guinea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Samoa" title="Public holidays in Samoa">Samoa</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Solomon_Islands" class="mw-redirect" title="Public holidays in Solomon Islands">Solomon Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tonga" class="mw-redirect" title="Public holidays in Tonga">Tonga</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tuvalu" title="Public holidays in Tuvalu">Tuvalu</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vanuatu" title="Public holidays in Vanuatu">Vanuatu</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Associated states<br>of New Zealand</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_Cook_Islands" title="Public holidays in the Cook Islands">Cook Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Niue" title="Public holidays in Niue">Niue</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies<br>and other territories</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_American_Samoa" class="mw-redirect" title="Public holidays in American Samoa">American Samoa</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Christmas_Island" title="Public holidays in Christmas Island">Christmas Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cocos_(Keeling)_Islands" title="Public holidays in the Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Easter_Island" title="Public holidays in Easter Island">Easter Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_French_Polynesia" title="Public holidays in French Polynesia">French Polynesia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guam" class="mw-redirect" title="Public holidays in Guam">Guam</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hawaii" class="mw-redirect" title="Public holidays in Hawaii">Hawaii</a></li> 
+             <li><a href="/wiki/Public_holidays_in_New_Caledonia" title="Public holidays in New Caledonia">New Caledonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Norfolk_Island" title="Public holidays in Norfolk Island">Norfolk Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Northern_Mariana_Islands" class="mw-redirect" title="Public holidays in the Northern Mariana Islands">Northern Mariana Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Pitcairn_Islands" title="Public holidays in the Pitcairn Islands">Pitcairn Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tokelau" title="Public holidays in Tokelau">Tokelau</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Wallis_and_Futuna" title="Public holidays in Wallis and Futuna">Wallis and Futuna</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Australia_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Australia_topics" title="Template:Australia topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Australia_topics" title="Template talk:Australia topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Australia_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Australia_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Australia" title="Australia">Australia</a>&nbsp;<a href="/wiki/Index_of_Australia-related_articles" title="Index of Australia-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Australia" title="History of Australia">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Timeline_of_Australian_history" title="Timeline of Australian history">Timeline</a></li> 
+                 <li><a href="/wiki/Bibliography_of_Australian_history" title="Bibliography of Australian history">Bibliography</a></li> 
+                 <li><a href="/wiki/Prehistory_of_Australia" title="Prehistory of Australia">Prehistory</a></li> 
+                 <li><a href="/wiki/Australian_archaeology" title="Australian archaeology">Archaeology</a></li> 
+                 <li><a href="/wiki/European_land_exploration_of_Australia" title="European land exploration of Australia">European Exploration</a></li> 
+                 <li><a href="/wiki/Territorial_evolution_of_Australia" title="Territorial evolution of Australia">Territorial evolution</a></li> 
+                 <li><a href="/wiki/History_of_Australia_(1788%E2%80%931850)" title="History of Australia (1788–1850)">1788–1850</a></li> 
+                 <li><a href="/wiki/History_of_Australia_(1851%E2%80%931900)" title="History of Australia (1851–1900)">1851–1900</a></li> 
+                 <li><a href="/wiki/History_of_Australia_(1901%E2%80%931945)" title="History of Australia (1901–1945)">1901–1945</a></li> 
+                 <li><a href="/wiki/History_of_Australia_since_1945" title="History of Australia since 1945">Since 1945</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">By topic</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Constitutional_history_of_Australia" title="Constitutional history of Australia">Constitutional</a></li> 
+                 <li><a href="/wiki/Diplomatic_history_of_Australia" title="Diplomatic history of Australia">Diplomatic</a></li> 
+                 <li><a href="/wiki/Economic_history_of_Australia" title="Economic history of Australia">Economic</a></li> 
+                 <li><a href="/wiki/Federation_of_Australia" title="Federation of Australia">Federation</a></li> 
+                 <li><a href="/wiki/Immigration_history_of_Australia" title="Immigration history of Australia">Immigration</a></li> 
+                 <li><a href="/wiki/History_of_Indigenous_Australians" title="History of Indigenous Australians">Indigenous</a></li> 
+                 <li><a href="/wiki/Military_history_of_Australia" title="Military history of Australia">Military</a></li> 
+                 <li><a href="/wiki/History_of_monarchy_in_Australia" title="History of monarchy in Australia">Monarchy</a></li> 
+                 <li><a href="/wiki/History_of_rail_transport_in_Australia" title="History of rail transport in Australia">Railway</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Australia" title="Geography of Australia">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Climate_of_Australia" title="Climate of Australia">Climate</a></li> 
+                 <li><a href="/wiki/Climate_change_in_Australia" title="Climate change in Australia">Climate change</a></li> 
+                 <li><a href="/wiki/Australia_(continent)" title="Australia (continent)">Continent</a></li> 
+                 <li><a href="/wiki/Deserts_of_Australia" title="Deserts of Australia">Deserts</a></li> 
+                 <li><a href="/wiki/Environment_of_Australia" title="Environment of Australia">Environment</a> 
+                  <ul>
+                   <li><a href="/wiki/Environmental_issues_in_Australia" title="Environmental issues in Australia">issues</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/List_of_earthquakes_in_Australia" title="List of preEarthquakes in Australia">Earthquakes</a></li>
+                 <li><a href="/wiki/Flora_of_Australia" title="Flora of Australia">Flora</a></li> 
+                 <li><a href="/wiki/Fauna_of_Australia" title="Fauna of Australia">Fauna</a></li> 
+                 <li><a href="/wiki/Forests_of_Australia" title="Forests of Australia">Forests</a></li> 
+                 <li><a href="/wiki/Geology_of_Australia" title="Geology of Australia">Geology</a></li> 
+                 <li><a href="/wiki/List_of_islands_of_Australia" title="List of islands of Australia">Islands</a></li> 
+                 <li><a href="/wiki/List_of_mountains_in_Australia" title="List of mountains in Australia">Mountains</a></li> 
+                 <li><a href="/wiki/List_of_regions_of_Australia" title="List of regions of Australia">Regions</a></li> 
+                 <li><a href="/wiki/National_Reserve_System" title="National Reserve System">Protected areas</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Australia" title="List of rivers of Australia">Rivers</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Administrative_divisions_of_Australia" class="mw-redirect" title="Administrative divisions of Australia">Subdivisions</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/States_and_territories_of_Australia" title="States and territories of Australia">States and territories</a></li> 
+                 <li><a href="/wiki/List_of_Australian_capital_cities" title="List of Australian capital cities">Capitals</a></li> 
+                 <li><a href="/wiki/List_of_cities_in_Australia" title="List of cities in Australia">Cities</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Australia" title="Politics of Australia">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Constitution_of_Australia" title="Constitution of Australia">Constitution</a></li> 
+                 <li><a href="/wiki/Australian_court_hierarchy" class="mw-redirect" title="Australian court hierarchy">Courts</a></li> 
+                 <li><a href="/wiki/Elections_in_Australia" title="Elections in Australia">Elections</a> 
+                  <ul>
+                   <li><a href="/wiki/Political_funding_in_Australia" title="Political funding in Australia">Donations</a></li> 
+                   <li><a href="/wiki/Electoral_system_of_Australia" title="Electoral system of Australia">Electoral system</a></li> 
+                   <li><a href="/wiki/List_of_political_parties_in_Australia" title="List of political parties in Australia">Parties</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Australian_federal_budget" title="Australian federal budget">Federal budget</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Australia" title="Foreign relations of Australia">Foreign relations</a></li> 
+                 <li><a href="/wiki/Australian_Government" title="Australian Government">Government</a></li> 
+                 <li><a href="/wiki/Governor-General_of_Australia" title="Governor-General of Australia">Governor-General</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Australia" title="Human rights in Australia">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/Intersex_rights_in_Australia" title="Intersex rights in Australia">Intersex</a></li> 
+                   <li><a href="/wiki/LGBT_rights_in_Australia" title="LGBT rights in Australia">LGBT</a></li> 
+                   <li><a href="/wiki/Transgender_rights_in_Australia" title="Transgender rights in Australia">Transgender</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Australian_Intelligence_Community" title="Australian Intelligence Community">Intelligence and security</a></li> 
+                 <li><a href="/wiki/Law_of_Australia" class="mw-redirect" title="Law of Australia">Law</a> 
+                  <ul>
+                   <li><a href="/wiki/Australian_constitutional_law" title="Australian constitutional law">Constitution</a></li> 
+                   <li><a href="/wiki/Judiciary_of_Australia" title="Judiciary of Australia">Judiciary</a></li> 
+                   <li><a href="/wiki/Law_enforcement_in_Australia" title="Law enforcement in Australia">Enforcement</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Australian_Defence_Force" title="Australian Defence Force">Military</a></li> 
+                 <li><a href="/wiki/Monarchy_of_Australia" title="Monarchy of Australia">Monarchy</a></li> 
+                 <li><a href="/wiki/Australian_government_debt" title="Australian government debt">National debt</a></li> 
+                 <li><a href="/wiki/Parliament_of_Australia" title="Parliament of Australia">Parliament</a></li> 
+                 <li><a href="/wiki/Politics_of_Australia#Ideology_in_Australian_politics" title="Politics of Australia">Political ideology</a> 
+                  <ul>
+                   <li><a href="/wiki/Anarchism_in_Australia" title="Anarchism in Australia">Anarchism</a></li> 
+                   <li><a href="/wiki/Christian_politics_in_Australia" title="Christian politics in Australia">Christian</a></li> 
+                   <li><a href="/wiki/Conservatism_in_Australia" title="Conservatism in Australia">Conservatism</a></li> 
+                   <li><a href="/wiki/Far-right_politics_in_Australia" title="Far-right politics in Australia">Far-right</a></li> 
+                   <li><a href="/wiki/Liberalism_in_Australia" title="Liberalism in Australia">Liberalism</a></li> 
+                   <li><a href="/wiki/Australian_nationalism" title="Australian nationalism">Nationalism</a></li> 
+                   <li><a href="/wiki/Republicanism_in_Australia" title="Republicanism in Australia">Republicanism</a></li> 
+                   <li><a href="/wiki/Socialism_in_Australia" title="Socialism in Australia">Socialism</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Australian_Public_Service" title="Australian Public Service">Public Service</a></li> 
+                 <li><a href="/wiki/Women_and_government_in_Australia" title="Women and government in Australia">Women</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_female_heads_of_government_in_Australia" title="List of female heads of government in Australia">Government leaders</a></li> 
+                   <li><a href="/wiki/List_of_female_cabinet_ministers_of_Australia" title="List of female cabinet ministers of Australia">Government ministers</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Opposition_(Australia)" title="Opposition (Australia)">Shadow Cabinet</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Australia" title="Economy of Australia">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Agriculture_in_Australia" title="Agriculture in Australia">Agriculture</a></li> 
+                 <li><a href="/wiki/Australian_dollar" title="Australian dollar">Dollar <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Energy_in_Australia" title="Energy in Australia">Energy</a></li> 
+                 <li><a href="/wiki/List_of_Australian_states_and_territories_by_gross_state_product" title="List of Australian states and territories by gross state product">Gross state product</a></li> 
+                 <li><a href="/wiki/Home_ownership_in_Australia" title="Home ownership in Australia">Home ownership</a> 
+                  <ul>
+                   <li><a href="/wiki/Public_housing_in_Australia" title="Public housing in Australia">Public housing</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Median_household_income_in_Australia_and_New_Zealand" title="Median household income in Australia and New Zealand">Household income</a></li> 
+                 <li><a href="/wiki/Manufacturing_in_Australia" title="Manufacturing in Australia">Manufacturing</a></li> 
+                 <li><a href="/wiki/Media_of_Australia" class="mw-redirect" title="Media of Australia">Media</a></li> 
+                 <li><a href="/wiki/Mining_in_Australia" title="Mining in Australia">Mining</a></li> 
+                 <li><a href="/wiki/Poverty_in_Australia" title="Poverty in Australia">Poverty</a></li> 
+                 <li><a href="/wiki/Reserve_Bank_of_Australia" title="Reserve Bank of Australia">Reserve Bank</a></li> 
+                 <li><a href="/wiki/Australian_Securities_Exchange" title="Australian Securities Exchange">Stock Exchange</a></li> 
+                 <li><a href="/wiki/Superannuation_in_Australia" title="Superannuation in Australia">Superannuation</a></li> 
+                 <li><a href="/wiki/Taxation_in_Australia" title="Taxation in Australia">Taxation</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Australia" title="Telecommunications in Australia">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Australia" title="Tourism in Australia">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Australia" title="Transport in Australia">Transport</a></li> 
+                 <li><a href="/wiki/Social_security_in_Australia" title="Social security in Australia">Welfare system</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Australian_society" title="Category:Australian society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Aged_care_in_Australia" title="Aged care in Australia">Aged care</a> 
+                  <ul>
+                   <li><a href="/wiki/Dementia_and_Alzheimer%27s_disease_in_Australia" title="Dementia and Alzheimer's disease in Australia">Dementia and Alzheimer's disease</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Crime_in_Australia" title="Crime in Australia">Crime</a></li> 
+                 <li><a href="/wiki/Demography_of_Australia" title="Demography of Australia">Demographics</a></li> 
+                 <li><a href="/wiki/Education_in_Australia" title="Education in Australia">Education</a></li> 
+                 <li><a href="/wiki/Indigenous_Australians" title="Indigenous Australians">Indigenous Australians</a></li> 
+                 <li><a href="/wiki/Category:Ethnic_groups_in_Australia" title="Category:Ethnic groups in Australia">Ethnic groups</a></li> 
+                 <li><a href="/wiki/Health_care_in_Australia" title="Health care in Australia">Health care</a></li> 
+                 <li><a href="/wiki/Homelessness_in_Australia" title="Homelessness in Australia">Homelessness</a></li> 
+                 <li><a href="/wiki/Immigration_to_Australia" title="Immigration to Australia">Immigration</a></li> 
+                 <li><a href="/wiki/Languages_of_Australia" title="Languages of Australia">Languages</a></li> 
+                 <li><a href="/wiki/Religion_in_Australia" title="Religion in Australia">Religion</a></li> 
+                 <li><a href="/wiki/Women_in_Australia" title="Women in Australia">Women</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Australia" title="Culture of Australia">Culture</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Architecture_of_Australia" title="Architecture of Australia">Architecture</a></li> 
+                 <li><a href="/wiki/Australian_art" title="Australian art">Art</a></li> 
+                 <li><a href="/wiki/Arts_in_Australia" title="Arts in Australia">Arts</a></li> 
+                 <li><a href="/wiki/Australian_English" title="Australian English">Australian English</a></li> 
+                 <li><a href="/wiki/Cinema_of_Australia" title="Cinema of Australia">Cinema</a></li> 
+                 <li><a href="/wiki/Australian_cuisine" title="Australian cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Dance_in_Australia" title="Dance in Australia">Dance</a></li> 
+                 <li><a href="/wiki/Australian_literature" title="Australian literature">Literature</a></li> 
+                 <li><a href="/wiki/Music_of_Australia" title="Music of Australia">Music</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/List_of_radio_stations_in_Australia" title="List of radio stations in Australia">Radio</a></li> 
+                 <li><a href="/wiki/Sport_in_Australia" title="Sport in Australia">Sport</a></li> 
+                 <li><a href="/wiki/National_symbols_of_Australia" title="National symbols of Australia">Symbols</a></li> 
+                 <li><a href="/wiki/Television_in_Australia" title="Television in Australia">Television</a></li> 
+                 <li><a href="/wiki/Theatre_of_Australia" title="Theatre of Australia">Theatre</a></li> 
+                 <li><a href="/wiki/Anglosphere" title="Anglosphere">Anglosphere</a></li> 
+                 <li><a href="/wiki/Australian_studies" title="Australian studies">Australian studies</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Australia" title="Outline of Australia">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Australia-related_articles" title="Index of Australia-related articles">Index</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Bibliography_of_Australia" class="mw-redirect" title="Bibliography of Australia">Bibliography</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Australia" title="Category:Australia">Category</a></li> 
+             <li><a href="/wiki/Portal:Australia" title="Portal:Australia">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Public_holidays_in_Australia" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2" style="background-color: #ddf;">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Australia" title="Template:Public holidays in Australia"><abbr title="View this template" style=";background-color: #ddf;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Australia" title="Template talk:Public holidays in Australia"><abbr title="Discuss this template" style=";background-color: #ddf;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Australia&amp;action=edit"><abbr title="Edit this template" style=";background-color: #ddf;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Public_holidays_in_Australia" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640"></span> <a class="mw-selflink selflink">Public holidays in Australia</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;padding: 0.25em 0; line-height: 1.4em;">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a></li> 
+             <li><a href="/wiki/Australia_Day" title="Australia Day">Australia Day</a></li> 
+             <li><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a></li> 
+             <li><a href="/wiki/Holy_Saturday" title="Holy Saturday">Easter Saturday</a></li> 
+             <li><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a></li> 
+             <li><a href="/wiki/Anzac_Day" title="Anzac Day">Anzac Day</a></li> 
+             <li><a href="/wiki/Queen%27s_Official_Birthday" title="Queen's Official Birthday">Queen's Birthday</a></li> 
+             <li><a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a></li> 
+             <li><a href="/wiki/Christmas" title="Christmas">Christmas Day</a></li> 
+             <li><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <p class="mw-empty-elt"> </p> <!-- 
+NewPP limit report
+Parsed by mw1401
+Cached time: 20210131160328
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.676 seconds
+Real time usage: 0.869 seconds
+Preprocessor visited node count: 4117/1000000
+Post‐expand include size: 151373/2097152 bytes
+Template argument size: 18168/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 27/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 105496/5000000 bytes
+Lua time usage: 0.292/10.000 seconds
+Lua memory usage: 6203281/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  715.563      1 -total
+ 40.82%  292.096      1 Template:Reflist
+ 31.65%  226.476     27 Template:Cite_web
+ 19.81%  141.770      8 Template:Navbox
+ 14.09%  100.850      1 Template:Australia_topics
+ 13.40%   95.855      1 Template:Country_topics
+ 10.11%   72.354      3 Template:Fix
+  9.77%   69.900      1 Template:Short_description
+  8.68%   62.087      1 Template:Citation_needed
+  5.13%   36.698      1 Template:Oceania_topic
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:167130-0!canonical and timestamp 20210131160327 and revision id 1003673030. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Australia&amp;oldid=1003673030">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Australia&amp;oldid=1003673030</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Australia" title="Category:Public holidays in Australia">Public holidays in Australia</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Australia-related_lists" title="Category:Australia-related lists">Australia-related lists</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li>
+       <li><a href="/wiki/Category:Articles_with_dead_external_links_from_April_2018" title="Category:Articles with dead external links from April 2018">Articles with dead external links from April 2018</a></li>
+       <li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Use_Australian_English_from_July_2016" title="Category:Use Australian English from July 2016">Use Australian English from July 2016</a></li>
+       <li><a href="/wiki/Category:All_Wikipedia_articles_written_in_Australian_English" title="Category:All Wikipedia articles written in Australian English">All Wikipedia articles written in Australian English</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2018" title="Category:Articles with unsourced statements from March 2018">Articles with unsourced statements from March 2018</a></li>
+       <li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2018" title="Category:Articles containing potentially dated statements from 2018">Articles containing potentially dated statements from 2018</a></li>
+       <li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_March_2018" title="Category:Articles with specifically marked weasel-worded phrases from March 2018">Articles with specifically marked weasel-worded phrases from March 2018</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_July_2016" title="Category:Use dmy dates from July 2016">Use dmy dates from July 2016</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Australia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Australia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Australia" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Australia" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Australia">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Australia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Australia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Australia&amp;oldid=1003673030" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Australia&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Australia&amp;id=1003673030&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q834070" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Australia&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Australia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:National_holidays_of_Australia" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/St%C3%A1tn%C3%AD_sv%C3%A1tky_Austr%C3%A1lie" title="Státní svátky Austrálie – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Cuti_umum_di_Australia" title="Cuti umum di Australia – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Feriados_na_Austr%C3%A1lia" title="Feriados na Austrália – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B8" title="Праздники Австралии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B0_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%96%D1%97" title="Свята Австралії – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%85%AC%E5%85%B1%E5%81%87%E6%97%A5" title="澳大利亚公共假日 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q834070#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 30 January 2021, at 03:22<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Australia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.676","walltime":"0.869","ppvisitednodes":{"value":4117,"limit":1000000},"postexpandincludesize":{"value":151373,"limit":2097152},"templateargumentsize":{"value":18168,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":27,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":105496,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  715.563      1 -total"," 40.82%  292.096      1 Template:Reflist"," 31.65%  226.476     27 Template:Cite_web"," 19.81%  141.770      8 Template:Navbox"," 14.09%  100.850      1 Template:Australia_topics"," 13.40%   95.855      1 Template:Country_topics"," 10.11%   72.354      3 Template:Fix","  9.77%   69.900      1 Template:Short_description","  8.68%   62.087      1 Template:Citation_needed","  5.13%   36.698      1 Template:Oceania_topic"]},"scribunto":{"limitreport-timeusage":{"value":"0.292","limit":"10.000"},"limitreport-memusage":{"value":6203281,"limit":52428800}},"cachereport":{"origin":"mw1401","timestamp":"20210131160328","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Australia","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Australia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q834070","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q834070","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-01-09T05:19:00Z","dateModified":"2021-01-30T03:22:07Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":986,"wgHostname":"mw1401"});});</script> 
+ </body>
+</html>

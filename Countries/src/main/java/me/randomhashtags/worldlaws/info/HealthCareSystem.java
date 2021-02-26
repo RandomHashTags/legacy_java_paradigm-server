@@ -4,7 +4,6 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.info.service.CountryService;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
@@ -12,7 +11,7 @@ import org.jsoup.select.Elements;
 import java.util.HashMap;
 import java.util.List;
 
-public enum HealthCareSystem implements CountryService {
+public enum HealthCareSystem implements CountryValueService {
     INSTANCE;
 
     private HashMap<String, String> countries;
@@ -31,7 +30,7 @@ public enum HealthCareSystem implements CountryService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Health_care_systems_by_country";
-        final Element output = getDocumentElements(url, "div.mw-parser-output").get(0);
+        final Element output = getValueDocumentElements(url, "div.mw-parser-output").get(0);
         final Elements trs = output.select("div.div-col");
         for(int i = 0; i < trs.size()-5; i++) {
             trs.remove(5);

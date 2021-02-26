@@ -1,0 +1,1226 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Romania - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBVpQgpAAEUAAAnWTfUAAABJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Romania","wgTitle":"Public holidays in Romania","wgCurRevisionId":1002329417,"wgRevisionId":1002329417,"wgArticleId":494357,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Romanian-language sources (ro)","Articles with short description","Short description is different from Wikidata","Public holidays in Romania","Lists of public holidays by country","Romanian culture","Romanian society","Observances in Romania"],"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Romania","wgRelevantArticleId":494357,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1401513"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":
+"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/9/9e/Soldiers_on_parade.jpg"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Romania"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Romania&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Romania&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Romania"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Romania rootpage-Public_holidays_in_Romania skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Romania</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       List of the public holidays of Romania
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Soldiers_on_parade.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Soldiers_on_parade.jpg/220px-Soldiers_on_parade.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Soldiers_on_parade.jpg/330px-Soldiers_on_parade.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Soldiers_on_parade.jpg/440px-Soldiers_on_parade.jpg 2x" data-file-width="900" data-file-height="600"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Soldiers_on_parade.jpg" class="internal" title="Enlarge"></a>
+         </div>Soldiers on a parade during the <a href="/wiki/Great_Union_Day" title="Great Union Day">National Day of Romania</a>, 1 December 2008
+        </div>
+       </div>
+      </div> 
+      <p>The following is a list of <b>public holidays in Romania</b>. According to Romanian law, Romania had 51 public holidays as of 2011, which cover 14% of the days of the year in the country.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Official_non-working_holidays"><span class="tocnumber">1</span> <span class="toctext">Official non-working holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Other_working_holidays_and_observances"><span class="tocnumber">2</span> <span class="toctext">Other working holidays and observances</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Traditional_holidays_-_working_observances"><span class="tocnumber">3</span> <span class="toctext">Traditional holidays - working observances</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Official_non-working_holidays">Official non-working holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Romania&amp;action=edit&amp;section=1" title="Edit section: Official non-working holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date </th> 
+         <th>Romanian name </th> 
+         <th>English name </th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/January_1" title="January 1">January 1</a>/<a href="/wiki/January_2" title="January 2">2</a> </td> 
+         <td><i>Anul Nou</i> </td> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/January_24" title="January 24">January 24</a> </td> 
+         <td><i>Ziua Unirii Principatelor Române</i> </td> 
+         <td><a href="/wiki/Day_of_the_Unification_of_the_Romanian_Principalities" title="Day of the Unification of the Romanian Principalities">Day of the Unification of the Romanian Principalities</a> </td> 
+         <td>It celebrates the unification of the <a href="/wiki/United_Principalities_of_Moldavia_and_Wallachia" title="United Principalities of Moldavia and Wallachia">Romanian Principalities of Moldavia and Wallachia</a> in 1859 and the foundation of the Romanian modern state.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> A non-working day since 2016. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/April" title="April">April</a>/<a href="/wiki/May" title="May">May</a><br>(April 30, May 2, May 3 in 2021) </td> 
+         <td><i>Paștele</i> </td> 
+         <td><a href="/wiki/Easter" title="Easter">Easter</a> </td> 
+         <td>The official holiday is the <a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Orthodox</a> <a href="/wiki/Easter" title="Easter">Easter</a>. The holiday is three days long, <a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Easter Sunday and <a href="/wiki/Easter_Monday" title="Easter Monday">Monday</a> are non-working, Tuesday is not a public holiday. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_1" title="May 1">May 1</a> </td> 
+         <td><i>Ziua Muncii</i> </td> 
+         <td><a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a> </td> 
+         <td>International Labour Day </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/June_1" title="June 1">June 1</a> </td> 
+         <td><i>Ziua Copilului</i> </td> 
+         <td><a href="/wiki/Children%27s_Day" title="Children's Day">Children's Day</a> </td> 
+         <td>Public holiday starting with 2017<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May" title="May">May</a>/<a href="/wiki/June" title="June">June</a><br>(June 20/June 21 in 2021) </td> 
+         <td><i>Rusaliile</i> </td> 
+         <td><a href="/wiki/Pentecost" title="Pentecost">Pentecost</a>, <a href="/wiki/Whit_Monday" title="Whit Monday">Whit Monday</a> </td> 
+         <td>The 50th and 51st day after the Orthodox Easter. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/August_15" title="August 15">August 15</a> </td> 
+         <td><i>Adormirea Maicii Domnului/Sfânta Maria Mare</i> </td> 
+         <td><a href="/wiki/Dormition_of_the_Mother_of_God" title="Dormition of the Mother of God">Dormition of the Mother of God</a> </td> 
+         <td>Also the Day of the <a href="/wiki/Romanian_Naval_Forces" title="Romanian Naval Forces">Romanian Naval Forces</a> since <a href="/wiki/Mary_(mother_of_Jesus)" class="mw-redirect" title="Mary (mother of Jesus)">St. Mary</a> is the <a href="/wiki/Patron_saint" title="Patron saint">patron saint</a> of the Navy. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/November_30" title="November 30">November 30</a> </td> 
+         <td><i>Sfântul Andrei</i> </td> 
+         <td><a href="/wiki/St._Andrew%27s_Day" class="mw-redirect" title="St. Andrew's Day">St. Andrew's Day</a> </td> 
+         <td><a href="/wiki/Saint_Andrew" class="mw-redirect" title="Saint Andrew">Saint Andrew</a> is the patron saint of Romania. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/December_1" title="December 1">December 1</a> </td> 
+         <td><i>Ziua Națională a României</i> </td> 
+         <td><a href="/wiki/Great_Union_Day" title="Great Union Day">National Day of Romania</a> </td> 
+         <td>It celebrates the unification of <a href="/wiki/Union_of_Transylvania_with_Romania" title="Union of Transylvania with Romania">Transylvania</a>, <a href="/wiki/Union_of_Bessarabia_with_Romania" title="Union of Bessarabia with Romania">Bessarabia</a> and <a href="/wiki/Bukovina#Kingdom_of_Romania" title="Bukovina">Bukovina</a> with the <a href="/wiki/Kingdom_of_Romania" title="Kingdom of Romania">Kingdom of Romania</a>. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/December_25" title="December 25">December 25</a>/<a href="/wiki/December_26" title="December 26">26</a> </td> 
+         <td><i>Crăciunul</i> </td> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a> </td> 
+         <td>Both first and second Christmas Day are holidays. Third Christmas Day is not a public holiday. </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Other_working_holidays_and_observances">Other working holidays and observances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Romania&amp;action=edit&amp;section=2" title="Edit section: Other working holidays and observances">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date </th> 
+         <th>Name </th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/January_15" title="January 15">January 15</a> </td> 
+         <td>National Culture Day<sup id="cite_ref-mihai_5-0" class="reference"><a href="#cite_note-mihai-5">[5]</a></sup> </td> 
+         <td>Celebration of the birth of the Romanian poet <a href="/wiki/Mihai_Eminescu" title="Mihai Eminescu">Mihai Eminescu</a>.<sup id="cite_ref-mihai_5-1" class="reference"><a href="#cite_note-mihai-5">[5]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/January_27" title="January 27">January 27</a> </td> 
+         <td><a href="/wiki/International_Holocaust_Remembrance_Day" title="International Holocaust Remembrance Day">International Holocaust Remembrance Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/February_19" title="February 19">February 19</a> </td> 
+         <td><a href="/wiki/Constantin_Br%C3%A2ncu%C8%99i" title="Constantin Brâncuși">Brâncuși</a> Day<sup id="cite_ref-ZiuaBrancusi_6-0" class="reference"><a href="#cite_note-ZiuaBrancusi-6">[6]</a></sup> </td> 
+         <td>Not a public holiday. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/February_20" title="February 20">February 20</a> </td> 
+         <td><a href="/wiki/World_Day_of_Social_Justice" title="World Day of Social Justice">World Day of Social Justice</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/March_8" title="March 8">March 8</a> </td> 
+         <td><a href="/wiki/International_Women%27s_Day" title="International Women's Day">Women's Day</a> </td> 
+         <td>Observes women's day<sup id="cite_ref-legeaz.net_7-0" class="reference"><a href="#cite_note-legeaz.net-7">[7]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/March_9" title="March 9">March 9</a> </td> 
+         <td>Anti-Communist Political Prisoners' Day<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/March_20" title="March 20">March 20</a> </td> 
+         <td><a href="/wiki/International_Francophonie_Day" title="International Francophonie Day">International Francophonie Day</a> and <a href="/wiki/International_Day_of_Happiness" title="International Day of Happiness">International Day of Happiness</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/March_21" title="March 21">March 21</a> </td> 
+         <td><a href="/wiki/International_Day_for_the_Elimination_of_Racial_Discrimination" title="International Day for the Elimination of Racial Discrimination">International Day for the Elimination of Racial Discrimination</a>, <a href="/wiki/World_Down_Syndrome_Day" title="World Down Syndrome Day">World Down Syndrome Day</a>, <a href="/wiki/International_Day_for_the_Eradication_of_Poverty" title="International Day for the Eradication of Poverty">International Day for the Eradication of Poverty</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> and <a href="/w/index.php?title=Oltenia_Day&amp;action=edit&amp;redlink=1" class="new" title="Oltenia Day (page does not exist)">Oltenia Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/March_22" title="March 22">March 22</a> </td> 
+         <td><a href="/wiki/World_Water_Day" title="World Water Day">World Water Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/March_24" title="March 24">March 24</a> </td> 
+         <td><a href="/wiki/World_Tuberculosis_Day" title="World Tuberculosis Day">World Tuberculosis Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/March_25" title="March 25">March 25</a> </td> 
+         <td><a href="/wiki/Police_Day#Romania" title="Police Day">Romanian Police Day</a> and <a href="/wiki/International_Day_for_the_Remembrance_of_the_Slave_Trade_and_its_Abolition" title="International Day for the Remembrance of the Slave Trade and its Abolition">International Day for the Remembrance of the Slave Trade and its Abolition</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/March_27" title="March 27">March 27</a> </td> 
+         <td>Day of the <a href="/wiki/Union_of_Bessarabia_with_Romania" title="Union of Bessarabia with Romania">Union of Bessarabia with Romania</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>Last Sunday in March </td> 
+         <td><a href="/wiki/Earth_Hour" title="Earth Hour">Earth Hour</a> </td> 
+         <td>Not a public holiday </td>
+        </tr> 
+        <tr> 
+         <td>First Sunday in April </td> 
+         <td><a href="/wiki/NATO_Day" title="NATO Day">NATO Day</a> </td> 
+         <td>Not a public holiday – observed by the <a href="/wiki/Government_of_Romania" title="Government of Romania">Government</a> institutions </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/April_2" title="April 2">April 2</a> </td> 
+         <td><a href="/wiki/World_Autism_Awareness_Day" title="World Autism Awareness Day">World Autism Awareness Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/April_3" title="April 3">April 3</a> </td> 
+         <td>Romanian Gendarmerie Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/April_7" title="April 7">April 7</a> </td> 
+         <td><a href="/wiki/World_Health_Day" title="World Health Day">World Health Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/April_8" title="April 8">April 8</a> </td> 
+         <td><a href="/wiki/International_Romani_Day" title="International Romani Day">Day of the Romani Ethnicity of Romania</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/April_22" title="April 22">April 22</a> </td> 
+         <td><a href="/wiki/Earth_Day" title="Earth Day">Earth Day</a> </td> 
+         <td>Not a public holiday </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/April_23" title="April 23">April 23</a> </td> 
+         <td>Railway Day, Librarian Day, <a href="/wiki/World_Book_Day" title="World Book Day">World Book Day</a>, National Day of the Romanian Tax Consultant </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/April_29" title="April 29">April 29</a> </td> 
+         <td>War Veterans' Day<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>First Sunday in May </td> 
+         <td><a href="/wiki/Mother%27s_Day" title="Mother's Day">Mother's Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>Second Sunday in May </td> 
+         <td><a href="/wiki/Father%27s_Day" title="Father's Day">Father's Day</a>, Teenager's Day and National Dress Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_2" title="May 2">May 2</a> </td> 
+         <td>National Youth Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_3" title="May 3">May 3</a> </td> 
+         <td><a href="/wiki/World_Press_Freedom_Day" title="World Press Freedom Day">World Press Freedom Day</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_5" title="May 5">May 5</a> </td> 
+         <td>Day of the Tatar Language </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_8" title="May 8">May 8</a> </td> 
+         <td>Equality of Opportunities Between Women and Men Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_9" title="May 9">May 9</a> </td> 
+         <td><a href="/wiki/Romanian_War_of_Independence" title="Romanian War of Independence">Independence Day</a>,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> <a href="/wiki/Victory_Day_(9_May)" title="Victory Day (9 May)">Victory Day</a> and <a href="/wiki/Europe_Day" title="Europe Day">Europe Day</a> </td> 
+         <td>It celebrates Romania's proclamation of independence during the war against the Ottoman Empire in 1877–1878, concluded with the recognition of Romania's independence. Romania celebrates the capitulation of <a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi Germany</a> in 1945. Also, starting 2007, Romania observes Europe Day. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_10" title="May 10">May 10</a> </td> 
+         <td>Monarchy Day </td> 
+         <td>Not a public holiday - celebrates the crowning of <a href="/wiki/Carol_I_of_Romania" title="Carol I of Romania">Carol I</a> as its first king, as well as all the kings of the Romanian monarchy. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_14" title="May 14">May 14</a> </td> 
+         <td>International Humanitarian Rights Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_15" title="May 15">May 15</a> </td> 
+         <td>National Veterinary Day and <a href="/wiki/International_Day_of_Families" title="International Day of Families">International Day of Families</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_17" title="May 17">May 17</a> </td> 
+         <td><a href="/wiki/International_Day_Against_Homophobia,_Transphobia_and_Biphobia" title="International Day Against Homophobia, Transphobia and Biphobia">International Day Against Homophobia, Transphobia and Biphobia</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_21" title="May 21">May 21</a> </td> 
+         <td><a href="/wiki/World_Day_for_Cultural_Diversity_for_Dialogue_and_Development" title="World Day for Cultural Diversity for Dialogue and Development">World Day for Cultural Diversity for Dialogue and Development</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_24" title="May 24">May 24</a> </td> 
+         <td>Bulgarian Language Day<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_25" title="May 25">May 25</a> </td> 
+         <td>Slovak Language Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_31" title="May 31">May 31</a> </td> 
+         <td>Military Reserves Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>Last Sunday in May </td> 
+         <td>Romanian Businessperson Day </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May" title="May">May</a>/<a href="/wiki/June" title="June">June</a> </td> 
+         <td>Heroes' Day/<a href="/wiki/Ascension_of_Jesus_Christ" class="mw-redirect" title="Ascension of Jesus Christ">Ascension</a> </td> 
+         <td>The 40th day from the <a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Orthodox</a> <a href="/wiki/Easter" title="Easter">Easter</a>. Not a public holiday - observed with military and religious festivities at the monuments dedicated to the national heroes (such as the <a href="/wiki/Tomb_of_the_Unknown_Soldier_in_Bucharest" class="mw-redirect" title="Tomb of the Unknown Soldier in Bucharest">Tomb of the Unknown Soldier</a>) </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/June_1" title="June 1">June 1</a> </td> 
+         <td><a href="/wiki/Parents%27_Day" title="Parents' Day">Parents' Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/June_2" title="June 2">June 2</a> </td> 
+         <td>National Adoption Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/June_4" title="June 4">June 4</a> </td> 
+         <td><a href="/wiki/International_Day_of_Innocent_Children_Victims_of_Aggression" title="International Day of Innocent Children Victims of Aggression">International Day of Innocent Children Victims of Aggression</a> and <a href="/wiki/Trianon_Treaty_Day" title="Trianon Treaty Day">Trianon Treaty Day</a>. </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/June_5" title="June 5">June 5</a> </td> 
+         <td>National Day Against Child Abuse and <a href="/wiki/World_Environment_Day" title="World Environment Day">World Environment Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/June_14" title="June 14">June 14</a> </td> 
+         <td><a href="/wiki/World_Blood_Donor_Day" title="World Blood Donor Day">World Blood Donor Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/June_20" title="June 20">June 20</a> </td> 
+         <td><a href="/wiki/World_Refugee_Day" title="World Refugee Day">World Refugee Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/June_26" title="June 26">June 26</a> </td> 
+         <td><a href="/wiki/Flag_of_Romania" title="Flag of Romania">National Flag</a> Day, <a href="/wiki/International_Day_in_Support_of_Victims_of_Torture" title="International Day in Support of Victims of Torture">International Day in Support of Victims of Torture</a> and <a href="/wiki/International_Day_Against_Drug_Abuse_and_Illicit_Trafficking" title="International Day Against Drug Abuse and Illicit Trafficking">International Day Against Drug Abuse and Illicit Trafficking</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>First Sunday in July </td> 
+         <td>Justice Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>Second Sunday in July </td> 
+         <td>Statistician Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/July_20" title="July 20">July 20</a> </td> 
+         <td>Romanian Aviation and Air Force Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/July_24" title="July 24">July 24</a> </td> 
+         <td>Romanian Border Police Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/July_28" title="July 28">July 28</a> </td> 
+         <td>National Ambulance Day and <a href="/wiki/World_Hepatitis_Day" title="World Hepatitis Day">World Hepatitis Day</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/July_29" title="July 29">July 29</a> </td> 
+         <td><a href="/wiki/National_anthem_of_Romania" class="mw-redirect" title="National anthem of Romania">National Anthem</a> Day </td> 
+         <td>Date when <a href="/wiki/De%C5%9Fteapt%C4%83-te,_rom%C3%A2ne!" class="mw-redirect" title="Deşteaptă-te, române!">Deşteaptă-te, române!</a> was first performed, in 1848 at <a href="/wiki/R%C3%A2mnicu_V%C3%A2lcea" title="Râmnicu Vâlcea">Râmnicu Vâlcea</a> - not a public holiday </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/July_30" title="July 30">July 30</a> </td> 
+         <td><a href="/wiki/Friendship_Day" title="Friendship Day">Friendship Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/August_15" title="August 15">August 15</a> </td> 
+         <td>Romanian Navy Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/August_23" title="August 23">August 23</a> </td> 
+         <td><a href="/wiki/Liberation_from_Fascist_Occupation_Day" title="Liberation from Fascist Occupation Day">Liberation from Fascist Occupation Day</a> and <a href="/wiki/European_Day_of_Remembrance_for_Victims_of_Stalinism_and_Nazism" class="mw-redirect" title="European Day of Remembrance for Victims of Stalinism and Nazism">Day of Remembrance of the Victims of Fascism and Communism</a> </td> 
+         <td>National holiday between 1949 and 1990. On 23 August 1944, <a href="/wiki/Michael_I_of_Romania" title="Michael I of Romania">King Michael I</a> joined with pro-Allied opposition politicians and led a successful coup against <a href="/wiki/Conduc%C4%83tor" title="Conducător">Conducător</a> of Romania, Marshal <a href="/wiki/Ion_Antonescu" title="Ion Antonescu">Ion Antonescu</a>'s fascist government. Romania joins the Allies and participates alongside the <a href="/wiki/Red_Army" title="Red Army">Red Army</a> in further operations in countries under Nazi occupation. Since 2011, Romania observes the European Day for Commemoration of the Victims of Totalitarian and Authoritarian regimes, also as a reminder of the <a href="/wiki/Molotov-Ribbentrop_pact" class="mw-redirect" title="Molotov-Ribbentrop pact">Molotov-Ribbentrop pact</a> signed on this day in 1939 – which resulted in Romania losing most of the region that is now <a href="/wiki/Moldova" title="Moldova">Moldova</a> and parts of <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> (<i>see <a href="/wiki/Soviet_occupation_of_Bessarabia_and_Northern_Bukovina" title="Soviet occupation of Bessarabia and Northern Bukovina">Soviet occupation of Bessarabia and Northern Bukovina</a></i>). </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/August_31" title="August 31">August 31</a> </td> 
+         <td><a href="/wiki/Romanian_Language_Day" title="Romanian Language Day">Romanian Language Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/September_1" title="September 1">September 1</a> </td> 
+         <td>Danube Delta Biosphere Reserve Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/September_10" title="September 10">September 10</a> </td> 
+         <td><a href="/wiki/World_Suicide_Prevention_Day" title="World Suicide Prevention Day">World Suicide Prevention Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/September_13" title="September 13">September 13</a> </td> 
+         <td>Firefighters of Romania's Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/September_14" title="September 14">September 14</a> </td> 
+         <td>Romanian Engineer's Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/September_15" title="September 15">September 15</a> </td> 
+         <td><a href="/wiki/International_Day_of_Democracy" title="International Day of Democracy">International Day of Democracy</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/September_21" title="September 21">September 21</a> </td> 
+         <td><a href="/wiki/International_Day_of_Peace" title="International Day of Peace">International Day of Peace</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/September_28" title="September 28">September 28</a> </td> 
+         <td>Czech Language Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/September_29" title="September 29">September 29</a> </td> 
+         <td>World Heart Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/October_1" title="October 1">October 1</a> </td> 
+         <td><a href="/wiki/International_Day_of_Older_Persons" title="International Day of Older Persons">International Day of Older Persons</a> and Romanian Diver's Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/October_5" title="October 5">October 5</a> </td> 
+         <td>World Education Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/October_9" title="October 9">October 9</a> </td> 
+         <td><a href="/wiki/World_Post_Day" title="World Post Day">World Post Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/October_10" title="October 10">October 10</a> </td> 
+         <td><a href="/wiki/World_Mental_Health_Day" title="World Mental Health Day">World Mental Health Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/October_11" title="October 11">October 11</a> </td> 
+         <td>Transylvanian Schools Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/October_17" title="October 17">October 17</a> </td> 
+         <td><a href="/wiki/International_Day_for_the_Eradication_of_Poverty" title="International Day for the Eradication of Poverty">International Day for the Eradication of Poverty</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/October_24" title="October 24">October 24</a> </td> 
+         <td><a href="/wiki/United_Nations_Day" title="United Nations Day">United Nations Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/October_25" title="October 25">October 25</a> </td> 
+         <td><a href="/wiki/Armed_Forces_Day#Romania" title="Armed Forces Day">Armed Forces Day</a> </td> 
+         <td>Not a public holiday. Observed by the <a href="/wiki/Romanian_Army" class="mw-redirect" title="Romanian Army">Romanian Army</a> and its veterans on the anniversary of the liberation of <a href="/wiki/Carei" title="Carei">Carei</a>, the last Romanian city under horthyst-fascist occupation during <a href="/wiki/World_War_II" title="World War II">World War II</a>. Also the birthday of <a href="/wiki/King_of_Romania" title="King of Romania">King</a> <a href="/wiki/Mihai_I_of_Romania" class="mw-redirect" title="Mihai I of Romania">Michael I</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/November_11" title="November 11">November 11</a> </td> 
+         <td>Veterans' Day </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/November_14" title="November 14">November 14</a> </td> 
+         <td><a href="/wiki/Dobruja_Day" title="Dobruja Day">Dobruja Day</a> and <a href="/wiki/World_Diabetes_Day" title="World Diabetes Day">World Diabetes Day</a> </td> 
+         <td>Date which celebrates the integration of <a href="/wiki/Northern_Dobruja" title="Northern Dobruja">Northern Dobruja</a> into Romania in 1878. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/November_16" title="November 16">November 16</a> </td> 
+         <td><a href="/wiki/International_Day_for_Tolerance" title="International Day for Tolerance">International Day for Tolerance</a> and Romanian World Heritage Day </td>
+        </tr> 
+        <tr> 
+         <td>November 19 </td> 
+         <td>Men's Day and Romanian Researcher and Designer Day </td> 
+         <td>Observes men's day<sup id="cite_ref-legeaz.net_7-1" class="reference"><a href="#cite_note-legeaz.net-7">[7]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/November_28" title="November 28">November 28</a> </td> 
+         <td><a href="/wiki/Bukovina_Day" title="Bukovina Day">Bukovina Day</a> </td> 
+         <td>Date which celebrates the Union of Bukovina with Romania in 1918. </td>
+        </tr> 
+        <tr> 
+         <td>Third Thursday of November </td> 
+         <td>National Day Without Tobacco </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>Third Sunday of November </td> 
+         <td><a href="/wiki/World_Day_of_Remembrance_for_Road_Traffic_Victims" title="World Day of Remembrance for Road Traffic Victims">World Day of Remembrance for Road Traffic Victims</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/December_1" title="December 1">December 1</a> </td> 
+         <td><a href="/wiki/World_AIDS_Day" title="World AIDS Day">World AIDS Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/December_2" title="December 2">December 2</a> </td> 
+         <td><a href="/wiki/International_Day_for_the_Abolition_of_Slavery" title="International Day for the Abolition of Slavery">International Day for the Abolition of Slavery</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/December_3" title="December 3">December 3</a> </td> 
+         <td><a href="/wiki/United_Nations%27_International_Day_of_Persons_with_Disabilities" title="United Nations' International Day of Persons with Disabilities">United Nations' International Day of Persons with Disabilities</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/December_8" title="December 8">December 8</a> </td> 
+         <td><a href="/wiki/Constitution_Day" title="Constitution Day">Constitution Day</a> </td> 
+         <td>Date when the referendum on the <a href="/wiki/Romanian_Constitution" class="mw-redirect" title="Romanian Constitution">Romanian Constitution</a> was held in 1991 thus establishing the first democratic republic. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/December_9" title="December 9">December 9</a> </td> 
+         <td><a href="/wiki/International_Anti-Corruption_Day" title="International Anti-Corruption Day">International Anti-Corruption Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/December_10" title="December 10">December 10</a> </td> 
+         <td><a href="/wiki/Human_Rights_Day" title="Human Rights Day">Human Rights Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/December_13" title="December 13">December 13</a> </td> 
+         <td>Day of the Tatar Ethnicity of Romania </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/December_16" title="December 16">December 16</a> </td> 
+         <td>National Solidarity Day Against Dictatorship </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/December_18" title="December 18">December 18</a> </td> 
+         <td>Day of the National Minorities of Romania </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/December_20" title="December 20">December 20</a> </td> 
+         <td><a href="/wiki/International_Human_Solidarity_Day" title="International Human Solidarity Day">International Human Solidarity Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/December_21" title="December 21">December 21</a> </td> 
+         <td><a href="/wiki/Romanian_Revolution_of_1989" class="mw-redirect" title="Romanian Revolution of 1989">Day of Remembrance of the Victims of Communism in Romania</a> </td> 
+         <td>Marks the peak of the victorious Romanian Revolution of 1989 and commemorates the victims who fell in the violent street confrontations between 16 and 27 December. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/December_22" title="December 22">December 22</a> </td> 
+         <td>Romanian Revolution Victory and Freedom Day </td> 
+         <td> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Traditional_holidays_-_working_observances">Traditional holidays - working observances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Romania&amp;action=edit&amp;section=3" title="Edit section: Traditional holidays - working observances">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date </th> 
+         <th>Name </th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/February_24" title="February 24">February 24</a> </td> 
+         <td><a href="/wiki/Dragobete" title="Dragobete">Dragobetele</a> </td> 
+         <td>Similar to <a href="/wiki/St._Valentine%27s_Day" class="mw-redirect" title="St. Valentine's Day">St. Valentine's Day</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/March_1" title="March 1">March 1</a> </td> 
+         <td><a href="/wiki/M%C4%83r%C8%9Bi%C8%99or" title="Mărțișor">Mărțișorul</a> </td> 
+         <td>Spring festival </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Romania&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFRata2011" class="citation news cs1">Rata, Marinela (26 September 2011). <a rel="nofollow" class="external text" href="https://romanialibera.ro/actualitate/fapt-divers/cate-zile-nationale-are-romania-238929">"Câte zile naționale are România"</a>. <i><a href="/wiki/Rom%C3%A2nia_Liber%C4%83" title="România Liberă">România Liberă</a></i> (in Romanian).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rom%C3%A2nia+Liber%C4%83&amp;rft.atitle=C%C3%A2te+zile+na%C8%9Bionale+are+Rom%C3%A2nia&amp;rft.date=2011-09-26&amp;rft.aulast=Rata&amp;rft.aufirst=Marinela&amp;rft_id=https%3A%2F%2Fromanialibera.ro%2Factualitate%2Ffapt-divers%2Fcate-zile-nationale-are-romania-238929&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Romania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.mediafax.ro/politic/legea-prin-care-24-ianuarie-a-fost-declarata-zi-libera-nelucratoare-a-fost-promulgata-de-iohannis-15777292">"Legea prin care 24 ianuarie a fost declarată zi liberă nelucrătoare a fost promulgată de Iohannis"</a>. <i>Mediafax</i> (in Romanian). 7 October 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mediafax&amp;rft.atitle=Legea+prin+care+24+ianuarie+a+fost+declarat%C4%83+zi+liber%C4%83+nelucr%C4%83toare+a+fost+promulgat%C4%83+de+Iohannis&amp;rft.date=2016-10-07&amp;rft_id=http%3A%2F%2Fwww.mediafax.ro%2Fpolitic%2Flegea-prin-care-24-ianuarie-a-fost-declarata-zi-libera-nelucratoare-a-fost-promulgata-de-iohannis-15777292&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Romania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.mediafax.ro/social/iohannis-a-promulgat-legea-prin-care-vinerea-mare-este-sarbatoare-legala-nelucratoare-17058413">"Iohannis a promulgat legea prin care Vinerea Mare este sărbătoare legală nelucrătoare"</a>. <i>Mediafax</i> (in Romanian). 12 March 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">16 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mediafax&amp;rft.atitle=Iohannis+a+promulgat+legea+prin+care+Vinerea+Mare+este+s%C4%83rb%C4%83toare+legal%C4%83+nelucr%C4%83toare&amp;rft.date=2018-03-12&amp;rft_id=http%3A%2F%2Fwww.mediafax.ro%2Fsocial%2Fiohannis-a-promulgat-legea-prin-care-vinerea-mare-este-sarbatoare-legala-nelucratoare-17058413&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Romania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFInteligo" class="citation web cs1">Inteligo. <a rel="nofollow" class="external text" href="http://www.avocatnet.ro/content/articles/id_43954/Din-2017-salaria%C8%9Bii-vor-sta-acas%C4%83-%C8%99i-de-Ziua-Copilului-1-iunie-inclus%C4%83-de-azi-pe-lista-liberelor-legale.html">"Din 2017, salariații vor sta acasă și de Ziua Copilului. 1 iunie, inclusă de azi pe lista liberelor legale"</a>. <i>Avocatnet.ro</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-01-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Avocatnet.ro&amp;rft.atitle=Din+2017%2C+salaria%C8%9Bii+vor+sta+acas%C4%83+%C8%99i+de+Ziua+Copilului.+1+iunie%2C+inclus%C4%83+de+azi+pe+lista+liberelor+legale&amp;rft.au=Inteligo&amp;rft_id=http%3A%2F%2Fwww.avocatnet.ro%2Fcontent%2Farticles%2Fid_43954%2FDin-2017-salaria%25C8%259Bii-vor-sta-acas%25C4%2583-%25C8%2599i-de-Ziua-Copilului-1-iunie-inclus%25C4%2583-de-azi-pe-lista-liberelor-legale.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Romania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-mihai-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-mihai_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mihai_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.agerpres.ro/flux-documentare/2017/01/15/documentar-15-ianuarie-ziua-culturii-nationale-10-37-37">"DOCUMENTAR: 15 ianuarie, Ziua Culturii Naţionale"</a>. <i><a href="/wiki/Agerpres" title="Agerpres">Agerpres</a></i> (in Romanian). 13 January 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Agerpres&amp;rft.atitle=DOCUMENTAR%3A+15+ianuarie%2C+Ziua+Culturii+Na%C5%A3ionale&amp;rft.date=2017-01-13&amp;rft_id=https%3A%2F%2Fwww.agerpres.ro%2Fflux-documentare%2F2017%2F01%2F15%2Fdocumentar-15-ianuarie-ziua-culturii-nationale-10-37-37&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Romania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-ZiuaBrancusi-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-ZiuaBrancusi_6-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.mediafax.ro/cultura-media/legea-pentru-declararea-zilei-brancusi-ca-sarbatoare-nationala-a-fost-promulgata-de-iohannis-14902219">"Legea pentru declararea Zilei Brâncuşi ca sărbătoare naţională a fost promulgată de Iohannis"</a> (in Romanian). Mediafax. 2015-11-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Legea+pentru+declararea+Zilei+Br%C3%A2ncu%C5%9Fi+ca+s%C4%83rb%C4%83toare+na%C5%A3ional%C4%83+a+fost+promulgat%C4%83+de+Iohannis&amp;rft.pub=Mediafax&amp;rft.date=2015-11-27&amp;rft_id=http%3A%2F%2Fwww.mediafax.ro%2Fcultura-media%2Flegea-pentru-declararea-zilei-brancusi-ca-sarbatoare-nationala-a-fost-promulgata-de-iohannis-14902219&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Romania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-legeaz.net-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-legeaz.net_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-legeaz.net_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://legeaz.net/monitorul-oficial-169-2016/legea-22-2016-8-martie-ziua-femeii-19-noiembrie-ziua-barbatului">"Legea nr. 22/2016 - declararea zilei de 8 martie — Ziua femeii si 19 noiembrie — Ziua bărbatului"</a>. <i>Legeaz.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Legeaz.net&amp;rft.atitle=Legea+nr.+22%2F2016+-+declararea+zilei+de+8+martie+%E2%80%94+Ziua+femeii+si+19+noiembrie+%E2%80%94+Ziua+b%C4%83rbatului&amp;rft_id=http%3A%2F%2Flegeaz.net%2Fmonitorul-oficial-169-2016%2Flegea-22-2016-8-martie-ziua-femeii-19-noiembrie-ziua-barbatului&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Romania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFMironescu2012" class="citation news cs1">Mironescu, Vlad (23 April 2012). <a rel="nofollow" class="external text" href="https://www.gandul.ro/stiri/9-martie-ziua-detinutilor-politici-anticomunisti-7969141">"9 martie, "Ziua Deținuților Politici Anticomuniști<span class="cs1-kern-right">"</span>"</a>. <i><a href="/wiki/G%C3%A2ndul" title="Gândul">Gândul</a></i> (in Romanian).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=G%C3%A2ndul&amp;rft.atitle=9+martie%2C+%22Ziua+De%C8%9Binu%C8%9Bilor+Politici+Anticomuni%C8%99ti%22&amp;rft.date=2012-04-23&amp;rft.aulast=Mironescu&amp;rft.aufirst=Vlad&amp;rft_id=https%3A%2F%2Fwww.gandul.ro%2Fstiri%2F9-martie-ziua-detinutilor-politici-anticomunisti-7969141&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Romania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.agerpres.ro/documentare/2020/03/21/ziua-internationala-a-padurilor-onu--470372">"Ziua internaţională a pădurilo (ONU)"</a>. <i>Agerpres</i> (in Romanian). 21 March 2020.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Agerpres&amp;rft.atitle=Ziua+interna%C5%A3ional%C4%83+a+p%C4%83durilo+%28ONU%29&amp;rft.date=2020-03-21&amp;rft_id=https%3A%2F%2Fwww.agerpres.ro%2Fdocumentare%2F2020%2F03%2F21%2Fziua-internationala-a-padurilor-onu--470372&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Romania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.agerpres.ro/flux-documentare/2015/04/29/ziua-veteranilor-de-razboi-07-41-29">"Ziua Veteranilor de Război"</a>. <i>Agerpres</i> (in Romanian). 28 April 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Agerpres&amp;rft.atitle=Ziua+Veteranilor+de+R%C4%83zboi&amp;rft.date=2015-04-28&amp;rft_id=https%3A%2F%2Fwww.agerpres.ro%2Fflux-documentare%2F2015%2F04%2F29%2Fziua-veteranilor-de-razboi-07-41-29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Romania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFCristea2018" class="citation news cs1">Cristea, Irina Andreea (9 May 2018). <a rel="nofollow" class="external text" href="https://www.agerpres.ro/documentare/2018/05/09/9-mai-ziua-independentei-de-stat-a-romaniei--103952">"9 Mai - Ziua Independenţei de Stat a României"</a>. <i>www.agerpres.ro</i> (in Romanian). <a href="/wiki/Agerpres" title="Agerpres">Agerpres</a><span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=www.agerpres.ro&amp;rft.atitle=9+Mai+-+Ziua+Independen%C5%A3ei+de+Stat+a+Rom%C3%A2niei&amp;rft.date=2018-05-09&amp;rft.aulast=Cristea&amp;rft.aufirst=Irina+Andreea&amp;rft_id=https%3A%2F%2Fwww.agerpres.ro%2Fdocumentare%2F2018%2F05%2F09%2F9-mai-ziua-independentei-de-stat-a-romaniei--103952&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Romania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFMărgăritescu2015" class="citation news cs1">Mărgăritescu, Andrei (24 May 2015). <a rel="nofollow" class="external text" href="https://romanialibera.ro/actualitate/eveniment/ziua-limbii-bulgare--introdusa-prin-lege-in-romaniia-379416">"Ziua Limbii Bulgare, introdusă prin lege în România"</a>. <i>România Liberă</i> (in Romanian).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rom%C3%A2nia+Liber%C4%83&amp;rft.atitle=Ziua+Limbii+Bulgare%2C+introdus%C4%83+prin+lege+%C3%AEn+Rom%C3%A2nia&amp;rft.date=2015-05-24&amp;rft.aulast=M%C4%83rg%C4%83ritescu&amp;rft.aufirst=Andrei&amp;rft_id=https%3A%2F%2Fromanialibera.ro%2Factualitate%2Feveniment%2Fziua-limbii-bulgare--introdusa-prin-lege-in-romaniia-379416&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Romania" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Romania&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://zilelibere.com/">Public holidays in Romania</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Romania_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Romania_topics" title="Template:Romania topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Romania_topics" title="Template talk:Romania topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Romania_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Romania_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Romania" title="Romania">Romania</a>&nbsp;articles
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div id="*_Topics"> 
+            <ul>
+             <li><a href="/wiki/Outline_of_Romania" title="Outline of Romania">Topics</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Romania" title="History of Romania">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Timeline_of_Romanian_history" title="Timeline of Romanian history">Timeline</a></li> 
+             <li><a href="/wiki/Prehistoric_Romania" class="mw-redirect" title="Prehistoric Romania">Prehistoric Romania</a></li> 
+             <li><a href="/wiki/Dacia" title="Dacia">Dacia</a></li> 
+             <li><a href="/wiki/Roman_Dacia" title="Roman Dacia">Roman Dacia</a></li> 
+             <li><a href="/wiki/Romania_in_the_Early_Middle_Ages" title="Romania in the Early Middle Ages">Early Middle Ages</a></li> 
+             <li><a href="/wiki/Romania_in_the_Middle_Ages" title="Romania in the Middle Ages">Middle Ages</a></li> 
+             <li><a href="/wiki/Early_Modern_Romania" title="Early Modern Romania">Early Modern Era</a></li> 
+             <li><a href="/wiki/National_awakening_of_Romania" title="National awakening of Romania">National awakening</a></li> 
+             <li><a href="/wiki/United_Principalities_of_Moldavia_and_Wallachia" title="United Principalities of Moldavia and Wallachia">United Principalities</a></li> 
+             <li><a href="/wiki/Kingdom_of_Romania" title="Kingdom of Romania">Kingdom</a></li> 
+             <li><a href="/wiki/Romania_during_World_War_I" title="Romania during World War I">World War I</a></li> 
+             <li><a href="/wiki/Greater_Romania" title="Greater Romania">Greater Romania</a></li> 
+             <li><a href="/wiki/Romania_in_World_War_II" title="Romania in World War II">World War II</a></li> 
+             <li><a href="/wiki/Socialist_Republic_of_Romania" title="Socialist Republic of Romania">Communist Romania</a></li> 
+             <li><a href="/wiki/Romanian_Revolution" title="Romanian Revolution">Revolution</a></li> 
+             <li><a href="/wiki/History_of_Romania_since_1989" title="History of Romania since 1989">Since 1989</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Romania" title="Romania"><img alt="Romania" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Coat_of_arms_of_Romania.svg/80px-Coat_of_arms_of_Romania.svg.png" decoding="async" width="80" height="116" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Coat_of_arms_of_Romania.svg/120px-Coat_of_arms_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Coat_of_arms_of_Romania.svg/160px-Coat_of_arms_of_Romania.svg.png 2x" data-file-width="670" data-file-height="970"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Romania" title="Geography of Romania">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_cities_and_towns_in_Romania" title="List of cities and towns in Romania">Cities</a></li> 
+                 <li><a href="/wiki/Climate_of_Romania" title="Climate of Romania">Climate</a></li> 
+                 <li><a href="/wiki/Counties_of_Romania" title="Counties of Romania">Counties</a></li> 
+                 <li><a href="/wiki/List_of_earthquakes_in_Romania" title="List of preEarthquakes in Romania">Earthquakes</a></li>
+                 <li><a href="/wiki/Fauna_of_Romania" title="Fauna of Romania">Fauna</a></li> 
+                 <li><a href="/wiki/Flora_of_Romania" title="Flora of Romania">Flora</a></li> 
+                 <li><a href="/wiki/Historical_regions_of_Romania" title="Historical regions of Romania">Historical regions</a></li> 
+                 <li><a href="/wiki/List_of_islands_of_Romania" title="List of islands of Romania">Islands</a></li> 
+                 <li><a href="/wiki/List_of_lakes_of_Romania" title="List of lakes of Romania">Lakes</a></li> 
+                 <li><a href="/wiki/List_of_mountains_in_Romania" title="List of mountains in Romania">Mountains</a></li> 
+                 <li><a href="/wiki/Protected_areas_in_Romania" class="mw-redirect" title="Protected areas in Romania">Protected areas</a></li> 
+                 <li><a href="/wiki/List_of_longest_rivers_of_Romania" class="mw-redirect" title="List of longest rivers of Romania">Rivers</a></li> 
+                 <li><a href="/wiki/Territorial_evolution_of_Romania" title="Territorial evolution of Romania">Territorial evolution</a></li> 
+                 <li><a href="/wiki/Topography_of_Romania" title="Topography of Romania">Topography</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Romania" title="Politics of Romania">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Administrative_divisions_of_Romania" title="Administrative divisions of Romania">Administrative divisions</a></li> 
+                 <li><a href="/wiki/Constitution_of_Romania" title="Constitution of Romania">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Romania" title="Elections in Romania">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Romania" title="Foreign relations of Romania">Foreign relations</a></li> 
+                 <li><a href="/wiki/Government_of_Romania" title="Government of Romania">Government</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Romania" title="Human rights in Romania">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/LGBT_rights_in_Romania" title="LGBT rights in Romania">LGBT</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Courts_in_Romania" class="mw-redirect" title="Courts in Romania">Judiciary</a></li> 
+                 <li><a href="/wiki/Law_enforcement_in_Romania" class="mw-redirect" title="Law enforcement in Romania">Law enforcement</a></li> 
+                 <li><a href="/wiki/Military_of_Romania" class="mw-redirect" title="Military of Romania">Military</a></li> 
+                 <li><a href="/wiki/Parliament_of_Romania" title="Parliament of Romania">Parliament</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Romania" title="List of political parties in Romania">Political parties</a></li> 
+                 <li><a href="/wiki/Unification_of_Romania_and_Moldova" title="Unification of Romania and Moldova">Unification with Moldova</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Romania" title="Economy of Romania">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Agriculture_in_Romania" title="Agriculture in Romania">Agriculture</a></li> 
+                 <li><a href="/wiki/Energy_in_Romania" title="Energy in Romania">Energy</a></li> 
+                 <li><a href="/wiki/List_of_exports_of_Romania" title="List of exports of Romania">Exports</a></li> 
+                 <li><a href="/wiki/Foreign_direct_investment_in_Romania" title="Foreign direct investment in Romania">Foreign investment</a></li> 
+                 <li><a href="/wiki/Foreign_trade_of_Romania" title="Foreign trade of Romania">Foreign trade</a></li> 
+                 <li><a href="/wiki/Forestry_in_Romania" title="Forestry in Romania">Forestry</a></li> 
+                 <li><a href="/wiki/Industry_of_Romania" title="Industry of Romania">Industry</a> 
+                  <ul>
+                   <li><a href="/wiki/Automotive_industry_in_Romania" title="Automotive industry in Romania">automotive</a></li> 
+                   <li><a href="/wiki/Construction_industry_of_Romania" title="Construction industry of Romania">construction</a></li> 
+                   <li><a href="/wiki/Mining_industry_of_Romania" title="Mining industry of Romania">mining</a></li> 
+                   <li><a href="/wiki/Petrochemical_industry_in_Romania" title="Petrochemical industry in Romania">petrochemical</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Romanian_leu" title="Romanian leu">Leu <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/National_Bank_of_Romania" title="National Bank of Romania">National Bank</a></li> 
+                 <li><a href="/wiki/Romanian_property_bubble" title="Romanian property bubble">Property bubble</a></li> 
+                 <li><a href="/wiki/Science_and_technology_in_Romania" title="Science and technology in Romania">Science and technology</a></li> 
+                 <li><a href="/wiki/Services_in_Romania" title="Services in Romania">Services</a></li> 
+                 <li><a href="/wiki/Bucharest_Stock_Exchange" title="Bucharest Stock Exchange">Stock Exchange</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Romania" class="mw-redirect" title="Telecommunications in Romania">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Romania" title="Tourism in Romania">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Romania" title="Transport in Romania">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Romanian_society" title="Category:Romanian society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Crime_in_Romania" title="Crime in Romania">Crime</a></li> 
+                 <li><a href="/wiki/Demographics_of_Romania" title="Demographics of Romania">Demographics</a></li> 
+                 <li><a href="/wiki/Education_in_Romania" title="Education in Romania">Education</a></li> 
+                 <li><a href="/wiki/Healthcare_in_Romania" title="Healthcare in Romania">Healthcare</a></li> 
+                 <li><a href="/wiki/Immigration_to_Romania" title="Immigration to Romania">Immigration</a></li> 
+                 <li><a href="/wiki/Languages_of_Romania" title="Languages of Romania">Languages</a></li> 
+                 <li><a href="/wiki/Minorities_of_Romania" title="Minorities of Romania">Minorities</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Religion_in_Romania" title="Religion in Romania">Religion</a></li> 
+                 <li><a href="/wiki/Romanians" title="Romanians">Romanians</a></li> 
+                 <li><a href="/wiki/Social_structure_of_Romania" title="Social structure of Romania">Social structure</a></li> 
+                 <li><a href="/wiki/Systematization_(Romania)" title="Systematization (Romania)">Urban planning</a></li> 
+                 <li><a href="/wiki/Social_welfare_in_Romania" class="mw-redirect" title="Social welfare in Romania">Welfare</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Romania" title="Culture of Romania">Culture</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Romanian_Academy" title="Romanian Academy">Academy</a></li> 
+                 <li><a href="/wiki/Romanian_architecture" title="Romanian architecture">Architecture</a></li> 
+                 <li><a href="/wiki/Art_of_Romania" title="Art of Romania">Art</a></li> 
+                 <li><a href="/wiki/Cinema_of_Romania" title="Cinema of Romania">Cinema</a></li> 
+                 <li><a href="/wiki/Romanian_cuisine" title="Romanian cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Folklore_of_Romania" title="Folklore of Romania">Folklore</a></li> 
+                 <li><a href="/wiki/Romanian_humour" title="Romanian humour">Humour</a></li> 
+                 <li><a href="/wiki/Literature_of_Romania" class="mw-redirect" title="Literature of Romania">Literature</a></li> 
+                 <li><a href="/wiki/Communications_media_in_Romania" class="mw-redirect" title="Communications media in Romania">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Romania" title="Music of Romania">Music</a></li> 
+                 <li><a href="/wiki/Romanian_philosophy" title="Romanian philosophy">Philosophy</a></li> 
+                 <li><a href="/wiki/Sport_in_Romania" title="Sport in Romania">Sport</a></li> 
+                 <li><a href="/wiki/List_of_World_Heritage_Sites_in_Romania" title="List of World Heritage Sites in Romania">World Heritage Sites</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Romania" title="Outline of Romania">Outline</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Romania" title="Category:Romania">Category</a></li> 
+             <li><a href="/wiki/Portal:Romania" title="Portal:Romania">Portal</a></li> 
+             <li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"> <a href="https://commons.wikimedia.org/wiki/Rom%C3%A2nia" class="extiw" title="commons:România">Commons</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Europe" title="Template:Public holidays in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Europe" title="Template talk:Public holidays in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Europe" style="font-size:114%;margin:0 4em">
+            Public holidays in Europe
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Albania" title="Public holidays in Albania">Albania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Andorra" title="Public holidays in Andorra">Andorra</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Austria" title="Public holidays in Austria">Austria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belarus" title="Public holidays in Belarus">Belarus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belgium" title="Public holidays in Belgium">Belgium</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bosnia_and_Herzegovina" title="Public holidays in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bulgaria" title="Public holidays in Bulgaria">Bulgaria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Croatia" title="Public holidays in Croatia">Croatia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Czech_Republic" title="Public holidays in the Czech Republic">Czech Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Denmark" title="Public holidays in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Estonia" title="Public holidays in Estonia">Estonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Finland" title="Public holidays in Finland">Finland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_France" title="Public holidays in France">France</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Germany" title="Public holidays in Germany">Germany</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greece" title="Public holidays in Greece">Greece</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hungary" title="Public holidays in Hungary">Hungary</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iceland" title="Public holidays in Iceland">Iceland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Ireland" title="Public holidays in the Republic of Ireland">Ireland</a></li> 
+             <li class="mw-empty-elt"></li> 
+             <li><a href="/wiki/Public_holidays_in_Italy" title="Public holidays in Italy">Italy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Latvia" title="Public holidays in Latvia">Latvia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liechtenstein" title="Public holidays in Liechtenstein">Liechtenstein</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lithuania" title="Public holidays in Lithuania">Lithuania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Luxembourg" title="Public holidays in Luxembourg">Luxembourg</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malta" title="Public holidays in Malta">Malta</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Moldova" title="Public holidays in Moldova">Moldova</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Monaco" title="Public holidays in Monaco">Monaco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montenegro" title="Public holidays in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Netherlands" title="Public holidays in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Macedonia" title="Public holidays in North Macedonia">North Macedonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Norway" title="Public holidays in Norway">Norway</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Poland" title="Public holidays in Poland">Poland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Portugal" title="Public holidays in Portugal">Portugal</a></li> 
+             <li><a class="mw-selflink selflink">Romania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_San_Marino" class="mw-redirect" title="Public holidays in San Marino">San Marino</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Serbia" title="Public holidays in Serbia">Serbia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovakia" title="Public holidays in Slovakia">Slovakia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovenia" title="Public holidays in Slovenia">Slovenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Spain" title="Public holidays in Spain">Spain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sweden" title="Public holidays in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Switzerland" title="Public holidays in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ukraine" title="Public holidays in Ukraine">Ukraine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Kingdom" title="Public holidays in the United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vatican_City" title="Public holidays in Vatican City">Vatican City</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">States with limited<br>recognition</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kosovo" title="Public holidays in Kosovo">Kosovo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Transnistria" title="Public holidays in Transnistria">Transnistria</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies and<br>other entities</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_%C3%85land" title="Public holidays in Åland">Åland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Faroe_Islands" title="Public holidays in the Faroe Islands">Faroe Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gibraltar" title="Public holidays in Gibraltar">Gibraltar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guernsey" title="Public holidays in Guernsey">Guernsey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Isle_of_Man" title="Public holidays in the Isle of Man">Isle of Man</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jersey" title="Public holidays in Jersey">Jersey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Svalbard" title="Public holidays in Svalbard">Svalbard</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other entities</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_European_Union" title="Public holidays in the European Union">European Union</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20210130141219
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.700 seconds
+Real time usage: 0.909 seconds
+Preprocessor visited node count: 12608/1000000
+Post‐expand include size: 107790/2097152 bytes
+Template argument size: 15870/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 24/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 40485/5000000 bytes
+Lua time usage: 0.245/10.000 seconds
+Lua memory usage: 5943188/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  739.923      1 -total
+ 58.37%  431.921      6 Template:Navbox
+ 28.81%  213.178      1 Template:Public_holidays_in_Europe
+ 28.50%  210.847      1 Template:Europe_topic
+ 28.29%  209.306      1 Template:Romanian_topics
+ 27.41%  202.789      1 Template:Country_topics
+ 26.41%  195.379      1 Template:Reflist
+ 21.95%  162.389     49 Template:Iso2country
+ 21.45%  158.707      9 Template:Cite_news
+  9.93%   73.488      1 Template:Short_description
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:494357-0!canonical and timestamp 20210130141218 and revision id 1002329417. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Romania&amp;oldid=1002329417">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Romania&amp;oldid=1002329417</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Romania" title="Category:Public holidays in Romania">Public holidays in Romania</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Romanian_culture" title="Category:Romanian culture">Romanian culture</a></li>
+       <li><a href="/wiki/Category:Romanian_society" title="Category:Romanian society">Romanian society</a></li>
+       <li><a href="/wiki/Category:Observances_in_Romania" title="Category:Observances in Romania">Observances in Romania</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_Romanian-language_sources_(ro)" title="Category:CS1 Romanian-language sources (ro)">CS1 Romanian-language sources (ro)</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Romania" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Romania" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Romania" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Romania" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Romania">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Romania&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Romania&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Romania" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Romania" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Romania&amp;oldid=1002329417" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Romania&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Romania&amp;id=1002329417&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1401513" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Romania&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Romania&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Feiertage_in_Rum%C3%A4nien" title="Feiertage in Rumänien – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/F%C3%AAtes_et_jours_f%C3%A9ri%C3%A9s_en_Roumanie" title="Fêtes et jours fériés en Roumanie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Rumunijos_%C5%A1vent%C4%97s" title="Sąrašas:Rumunijos šventės – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Feestdagen_in_Roemeni%C3%AB" title="Feestdagen in Roemenië – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Feriados_na_Rom%C3%AAnia" title="Feriados na Romênia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/S%C4%83rb%C4%83tori_publice_%C3%AEn_Rom%C3%A2nia" title="Sărbători publice în România – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D0%B8" title="Праздники Румынии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1401513#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 23 January 2021, at 22:39<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Romania&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.700","walltime":"0.909","ppvisitednodes":{"value":12608,"limit":1000000},"postexpandincludesize":{"value":107790,"limit":2097152},"templateargumentsize":{"value":15870,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":24,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":40485,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  739.923      1 -total"," 58.37%  431.921      6 Template:Navbox"," 28.81%  213.178      1 Template:Public_holidays_in_Europe"," 28.50%  210.847      1 Template:Europe_topic"," 28.29%  209.306      1 Template:Romanian_topics"," 27.41%  202.789      1 Template:Country_topics"," 26.41%  195.379      1 Template:Reflist"," 21.95%  162.389     49 Template:Iso2country"," 21.45%  158.707      9 Template:Cite_news","  9.93%   73.488      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.245","limit":"10.000"},"limitreport-memusage":{"value":5943188,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20210130141219","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Romania","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Romania","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1401513","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1401513","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-29T03:34:35Z","dateModified":"2021-01-23T22:39:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9e\/Soldiers_on_parade.jpg","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1045,"wgHostname":"mw1274"});});</script> 
+ </body>
+</html>

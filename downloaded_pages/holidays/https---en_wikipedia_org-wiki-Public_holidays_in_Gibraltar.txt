@@ -1,0 +1,1042 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Gibraltar - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBZ4pwpAMMUAA9E8AWoAAABN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Gibraltar","wgTitle":"Public holidays in Gibraltar","wgCurRevisionId":997538216,"wgRevisionId":997538216,"wgArticleId":18012104,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from November 2018","All articles with vague or ambiguous time","Vague or ambiguous time from August 2017","All stub articles","Public holidays by dependent territory","Holiday stubs","Gibraltar stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Public_holidays_in_Gibraltar","wgRelevantArticleId":18012104,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q19770517"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":
+"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Gibraltar"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Gibraltar&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Gibraltar&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Gibraltar"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Gibraltar rootpage-Public_holidays_in_Gibraltar skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Gibraltar</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p> The <b>public holidays in Gibraltar</b> are a mix of "bank holidays" and "public holidays" and are often used interchangeably, although strictly and legally there is a difference. Bank holidays are holidays when banks and many other businesses are closed for the day. Public holidays are holidays which have been observed through custom and practice.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date</th> 
+         <th>Name</th> 
+         <th>Notes </th>
+        </tr> 
+        <tr> 
+         <td>1 January</td> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a></td> 
+         <td>from 1974, by Royal Proclamation. currently<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (August 2017)">when?</span></a></i>]</sup> not proclaimed if 1 January falls on Saturday or Sunday. </td>
+        </tr> 
+        <tr> 
+         <td>variable</td> 
+         <td><a href="/wiki/Commonwealth_Day" title="Commonwealth Day">Commonwealth Day</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td> 
+         <td>Second Monday of March </td>
+        </tr> 
+        <tr> 
+         <td rowspan="2"><i><a href="/wiki/Computus" title="Computus">variable</a></i></td> 
+         <td><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a></td> 
+         <td>Traditional <i>common law</i> holiday Falls on <a href="/wiki/2_April" class="mw-redirect" title="2 April">2 April</a> in 2021. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a></td> 
+         <td>Statutory bank holiday, defined by name. Falls on <a href="/wiki/5_April" class="mw-redirect" title="5 April">5 April</a> in 2021. </td>
+        </tr> 
+        <tr> 
+         <td>28 April</td> 
+         <td><a href="/wiki/Workers%27_Memorial_Day" title="Workers' Memorial Day">Workers' Memorial Day</a></td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>1 May</td> 
+         <td><a href="/wiki/May_Day" title="May Day">May Day Bank Holiday</a></td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>Last Monday in May</td> 
+         <td>Spring <a href="/wiki/Bank_Holiday" class="mw-redirect" title="Bank Holiday">Bank Holiday</a></td> 
+         <td>Statutory bank holiday from 1971, following a trial period from 1965 to 1970. Replaced <a href="/wiki/Whit_Monday" title="Whit Monday">Whit Monday</a>, which was formerly a public holiday whose date varied according to the date of Easter. The legislation does not specify a <i>name</i> for the holiday, merely when it occurs. Falls on 31 May in 2021. </td>
+        </tr> 
+        <tr> 
+         <td>Third Monday in June</td> 
+         <td><a href="/wiki/Queen%27s_Birthday" class="mw-redirect" title="Queen's Birthday">Queen's Birthday</a></td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>Last Monday in August</td> 
+         <td>Summer <a href="/wiki/Bank_Holiday" class="mw-redirect" title="Bank Holiday">Bank Holiday</a></td> 
+         <td>Statutory bank holiday from 1971, following a trial period from 1965 to 1970. Replaced the <i>first</i> Monday in August (formerly commonly known as "August Bank Holiday". The legislation does not specify a <i>name</i> for the holiday, merely when it occurs. Falls on 30 August in 2021. </td>
+        </tr> 
+        <tr> 
+         <td>10 September</td> 
+         <td><a href="/wiki/Gibraltar_National_Day" title="Gibraltar National Day">Gibraltar National Day</a></td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>25 December</td> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a></td> 
+         <td>Traditional <i>common law</i> holiday </td>
+        </tr> 
+        <tr> 
+         <td>26 December</td> 
+         <td><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a></td> 
+         <td>Statutory bank holiday. Legislation does not <i>name</i> the holiday, but states that it falls on "26th December, if it be not a Saturday or Sunday." Falls on Monday 28 December 2020 (In lieu of Saturday 26 December 2020)<sup id="cite_ref-GIBGOV_3-0" class="reference"><a href="#cite_note-GIBGOV-3">[3]</a></sup> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Gibraltar&amp;action=edit&amp;section=1" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li>In 2020, 8 May will also be a public holiday to commemorate the 75th anniversary of <a href="/wiki/VE_Day" class="mw-redirect" title="VE Day">VE Day</a>.<sup id="cite_ref-GIBGOV_3-1" class="reference"><a href="#cite_note-GIBGOV-3">[3]</a></sup></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Gibraltar&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"> <style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.gibraltar.gov.gi/new/sites/default/files/press/2017/Official%20Notices/BANK%20HOLIDAYS%202018.pdf">"HM Government of Gibraltar - BANK AND PUBLIC HOLIDAYS 2018"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">17 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=HM+Government+of+Gibraltar+-+BANK+AND+PUBLIC+HOLIDAYS+2018&amp;rft_id=https%3A%2F%2Fwww.gibraltar.gov.gi%2Fnew%2Fsites%2Fdefault%2Ffiles%2Fpress%2F2017%2FOfficial%2520Notices%2FBANK%2520HOLIDAYS%25202018.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Gibraltar" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/world/europe/1870747.stm">"The rocky road to Spain"</a>. <a href="/wiki/BBC_News" title="BBC News">BBC News</a>. 2002. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060218073355/http://news.bbc.co.uk/1/hi/world/europe/1870747.stm">Archived</a> from the original on 18 February 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+rocky+road+to+Spain&amp;rft.pub=BBC+News&amp;rft.date=2002&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fworld%2Feurope%2F1870747.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Gibraltar" class="Z3988"></span></span> </li> 
+         <li id="cite_note-GIBGOV-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-GIBGOV_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GIBGOV_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"> 
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.gibraltar.gov.gi/press-releases/bank-and-public-holidays-2020-5363">"HM Government of Gibraltar - BANK AND PUBLIC HOLIDAYS 2020"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 January</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=HM+Government+of+Gibraltar+-+BANK+AND+PUBLIC+HOLIDAYS+2020&amp;rft_id=https%3A%2F%2Fwww.gibraltar.gov.gi%2Fpress-releases%2Fbank-and-public-holidays-2020-5363&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Gibraltar" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Gibraltar_topics" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Gibraltar_topics" title="Template:Gibraltar topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Gibraltar_topics" title="Template talk:Gibraltar topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Gibraltar_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Gibraltar_topics" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a> topics
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="History" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/History_of_Gibraltar" title="History of Gibraltar">History</a>
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Neanderthals_in_Gibraltar" title="Neanderthals in Gibraltar">Neanderthals in Gibraltar</a></li> 
+                 <li><a href="/wiki/Timeline_of_the_history_of_Gibraltar" title="Timeline of the history of Gibraltar">Timeline</a> (<a href="/wiki/List_of_sieges_of_Gibraltar" title="List of sieges of Gibraltar">sieges</a>)</li> 
+                 <li><a href="/wiki/Pillars_of_Hercules" title="Pillars of Hercules">Pillars of Hercules</a></li> 
+                 <li><a href="/wiki/First_Siege_of_Gibraltar" title="First Siege of Gibraltar">First Siege of Gibraltar</a></li> 
+                 <li><a href="/wiki/Battle_of_Gibraltar_(1607)" title="Battle of Gibraltar (1607)">Battle of Gibraltar</a></li> 
+                 <li><a href="/wiki/Capture_of_Gibraltar" title="Capture of Gibraltar">Capture of Gibraltar</a></li> 
+                 <li><a href="/wiki/George_Rooke" title="George Rooke">George Rooke</a></li> 
+                 <li><a href="/wiki/Treaty_of_Utrecht" class="mw-redirect" title="Treaty of Utrecht">Treaty of Utrecht</a></li> 
+                 <li><a href="/wiki/Thirteenth_Siege_of_Gibraltar" title="Thirteenth Siege of Gibraltar">Thirteenth Siege of Gibraltar</a></li> 
+                 <li><a href="/wiki/Great_Siege_of_Gibraltar" title="Great Siege of Gibraltar">Great Siege</a></li> 
+                 <li><a href="/wiki/George_Augustus_Eliott,_1st_Baron_Heathfield" title="George Augustus Eliott, 1st Baron Heathfield">George Augustus Eliott</a></li> 
+                 <li><a href="/wiki/Gibraltar_real" title="Gibraltar real">Gibraltar real <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Military_history_of_Gibraltar_during_World_War_II" title="Military history of Gibraltar during World War II">World War II</a></li> 
+                 <li><a href="/wiki/History_of_nationality_in_Gibraltar" title="History of nationality in Gibraltar">Nationality</a></li> 
+                 <li><a href="/wiki/History_of_the_Genoese_in_Gibraltar" title="History of the Genoese in Gibraltar">Genoese in Gibraltar</a></li> 
+                 <li><a href="/wiki/History_of_the_Maltese_in_Gibraltar" title="History of the Maltese in Gibraltar">Maltese in Gibraltar</a></li> 
+                 <li><a href="/wiki/Explosion_of_the_RFA_Bedenham" title="Explosion of the RFA Bedenham">Explosion of the RFA <i>Bedenham</i></a></li> 
+                 <li><a href="/wiki/Operation_Flavius" title="Operation Flavius">Operation Flavius</a> (<a href="/wiki/Death_on_the_Rock" title="Death on the Rock">Death on the Rock</a>)</li> 
+                 <li><a href="/wiki/MV_Aurora_(2000)#2003:_Norwalk_virus_breakout" title="MV Aurora (2000)"><i>Aurora</i> incident</a></li> 
+                 <li><a href="/wiki/MV_New_Flame" title="MV New Flame"><i>New Flame</i> incident</a></li> 
+                 <li><a href="/wiki/MV_Fedra" title="MV Fedra"><i>Fedra</i> incident</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Gibraltar" title="Gibraltar"><img alt="Gibraltar" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Arms_of_Gibraltar_%28Variant%29.svg/80px-Arms_of_Gibraltar_%28Variant%29.svg.png" decoding="async" width="80" height="95" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Arms_of_Gibraltar_%28Variant%29.svg/120px-Arms_of_Gibraltar_%28Variant%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Arms_of_Gibraltar_%28Variant%29.svg/160px-Arms_of_Gibraltar_%28Variant%29.svg.png 2x" data-file-width="511" data-file-height="609"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="Geography" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/Geography_of_Gibraltar" class="mw-redirect" title="Geography of Gibraltar">Geography</a>
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">General</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Climate_of_Gibraltar" title="Climate of Gibraltar">Climate</a></li> 
+                     <li><a href="/wiki/Geology_of_the_Iberian_Peninsula" title="Geology of the Iberian Peninsula">Geology</a> 
+                      <ul>
+                       <li><a href="/wiki/Azores%E2%80%93Gibraltar_Transform_Fault" title="Azores–Gibraltar Transform Fault">Azores–Gibraltar Transform Fault</a></li> 
+                       <li><a href="/wiki/Gibraltar_Arc" title="Gibraltar Arc">Gibraltar Arc</a></li>
+                      </ul></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Environment_of_Gibraltar" title="Category:Environment of Gibraltar">Environment</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/List_of_birds_of_Gibraltar" title="List of birds of Gibraltar">Birds</a></li> 
+                     <li><a href="/wiki/List_of_mammals_of_Gibraltar" title="List of mammals of Gibraltar">Mammals</a> 
+                      <ul>
+                       <li><a href="/wiki/Barbary_macaques_in_Gibraltar" title="Barbary macaques in Gibraltar">Barbary macaques</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/List_of_amphibians_and_reptiles_of_Gibraltar" title="List of amphibians and reptiles of Gibraltar">Reptiles and amphibians</a></li> 
+                     <li><a href="/wiki/Iberis_gibraltarica" title="Iberis gibraltarica">Candytuft <span style="font-size:85%;">(<i>Iberis gibraltarica</i>)</span></a></li> 
+                     <li><a href="/wiki/Gibraltar_Botanic_Gardens" title="Gibraltar Botanic Gardens">Botanic Gardens</a></li> 
+                     <li><a href="/wiki/Gibraltar_Ornithological_%26_Natural_History_Society" title="Gibraltar Ornithological &amp; Natural History Society">Ornithological &amp; Natural History Society (GONHS)</a></li> 
+                     <li><a href="/wiki/Alameda_Wildlife_Conservation_Park" title="Alameda Wildlife Conservation Park">Wildlife Park</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Places</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"></div>
+                   <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                    <tbody>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Natural</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Bay_of_Gibraltar" title="Bay of Gibraltar">Bay of Gibraltar</a></li> 
+                         <li><a href="/wiki/Catalan_Bay" title="Catalan Bay">Catalan Bay</a></li> 
+                         <li><a href="/wiki/Eastern_Beach,_Gibraltar" title="Eastern Beach, Gibraltar">Eastern Beach</a></li> 
+                         <li><a href="/wiki/Gorham%27s_Cave" title="Gorham's Cave">Gorham's Cave</a></li> 
+                         <li><a href="/wiki/Rock_of_Gibraltar" title="Rock of Gibraltar">Rock of Gibraltar</a></li> 
+                         <li><a href="/wiki/St._Michael%27s_Cave" title="St. Michael's Cave">St. Michael's Cave</a></li> 
+                         <li><a href="/wiki/Sandy_Bay,_Gibraltar" title="Sandy Bay, Gibraltar">Sandy Bay</a></li> 
+                         <li><a href="/wiki/Strait_of_Gibraltar" title="Strait of Gibraltar">Strait of Gibraltar</a></li> 
+                         <li><a href="/wiki/Vanguard_Cave" title="Vanguard Cave">Vanguard Cave</a></li> 
+                         <li><a href="/wiki/Windmill_Hill_(Gibraltar)" title="Windmill Hill (Gibraltar)">Windmill Hill</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Category:Buildings_and_structures_in_Gibraltar" title="Category:Buildings and structures in Gibraltar">Built</a></th>
+                      <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Bristol_Hotel,_Gibraltar" title="Bristol Hotel, Gibraltar">Bristol Hotel</a></li> 
+                         <li><a href="/wiki/Gibraltar_City_Hall" title="Gibraltar City Hall">City Hall</a></li> 
+                         <li><a href="/wiki/The_Convent_(Gibraltar)" title="The Convent (Gibraltar)">The Convent</a></li> 
+                         <li><a href="/wiki/Garrison_Library" title="Garrison Library">Garrison Library</a></li> 
+                         <li><a href="/wiki/King_George_V_Hospital_(Gibraltar)" title="King George V Hospital (Gibraltar)">King George V Hospital</a></li> 
+                         <li><a href="/wiki/Moorish_Castle" title="Moorish Castle">Moorish Castle</a></li> 
+                         <li><a href="/wiki/The_Rock_Hotel" title="The Rock Hotel">The Rock Hotel</a></li> 
+                         <li><a href="/wiki/St_Bernard%27s_Hospital" title="St Bernard's Hospital">St. Bernard's Hospital</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <div></div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="Politics" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/Politics_of_Gibraltar" title="Politics of Gibraltar">Politics</a>
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">General</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Constitution_of_Gibraltar" title="Constitution of Gibraltar">Constitution Order</a> 
+                      <ul>
+                       <li><a href="/wiki/Gibraltar_Constitution_Order_1969" title="Gibraltar Constitution Order 1969">1969</a></li> 
+                       <li><a href="/wiki/Gibraltar_Constitution_Order_2006" title="Gibraltar Constitution Order 2006">2006</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Law_of_Gibraltar" title="Law of Gibraltar">Law</a> 
+                      <ul>
+                       <li><a href="/wiki/Judiciary_of_Gibraltar" title="Judiciary of Gibraltar">court system</a></li> 
+                       <li><a href="/wiki/LGBT_rights_in_Gibraltar" title="LGBT rights in Gibraltar">LGBT rights</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/British_passport_(Gibraltar)" title="British passport (Gibraltar)">Passport</a></li> 
+                     <li><a href="/wiki/Political_development_in_modern_Gibraltar" title="Political development in modern Gibraltar">Political development in modern Gibraltar</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">People</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Chief_Minister_of_Gibraltar" title="Chief Minister of Gibraltar">Chief Minister</a></li> 
+                     <li><a href="/wiki/Governor_of_Gibraltar" title="Governor of Gibraltar">Governor</a></li> 
+                     <li><a href="/wiki/Mayor_of_Gibraltar" title="Mayor of Gibraltar">Mayor</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Gibraltar" title="Politics of Gibraltar">Politics</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Black_Swan_Project" title="Black Swan Project">Black Swan Project controversy</a></li> 
+                     <li><a href="/wiki/Disputed_status_of_Gibraltar" class="mw-redirect" title="Disputed status of Gibraltar">Disputed status</a> 
+                      <ul>
+                       <li><a href="/wiki/Disputed_status_of_the_isthmus_between_Gibraltar_and_Spain" title="Disputed status of the isthmus between Gibraltar and Spain">isthmus</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Elections_in_Gibraltar" title="Elections in Gibraltar">Elections</a> 
+                      <ul>
+                       <li><a href="/wiki/2007_Gibraltar_general_election" title="2007 Gibraltar general election">2007</a></li> 
+                       <li><a href="/wiki/2011_Gibraltar_general_election" title="2011 Gibraltar general election">2011</a></li> 
+                       <li><a href="/wiki/2015_Gibraltar_general_election" title="2015 Gibraltar general election">2015</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Gibraltar_Parliament" title="Gibraltar Parliament">Parliament</a> 
+                      <ul>
+                       <li><a href="/wiki/Speaker_of_the_Gibraltar_Parliament" title="Speaker of the Gibraltar Parliament">Speaker</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/List_of_political_parties_in_Gibraltar" title="List of political parties in Gibraltar">Political parties</a></li> 
+                     <li><a href="/wiki/Sovereignty" title="Sovereignty">Sovereignty referendums</a> 
+                      <ul>
+                       <li><a href="/wiki/1967_Gibraltar_sovereignty_referendum" title="1967 Gibraltar sovereignty referendum">1967</a></li> 
+                       <li><a href="/wiki/2002_Gibraltar_sovereignty_referendum" title="2002 Gibraltar sovereignty referendum">2002</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/2016_United_Kingdom_European_Union_membership_referendum" title="2016 United Kingdom European Union membership referendum">EU referendum</a> 
+                      <ul>
+                       <li><a href="/wiki/European_Union_(Referendum)_Act_2016_(Gibraltar)" title="European Union (Referendum) Act 2016 (Gibraltar)">European Union (Referendum) Act 2016 (Gibraltar)</a></li>
+                      </ul></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Military_of_Gibraltar" class="mw-redirect" title="Military of Gibraltar">Military</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/British_Forces_Gibraltar" title="British Forces Gibraltar">British Forces Gibraltar</a></li> 
+                     <li><a href="/wiki/Gibraltar_Defence_Police" title="Gibraltar Defence Police">Gibraltar Defence Police</a></li> 
+                     <li><a href="/wiki/Gibraltar_Squadron" title="Gibraltar Squadron">Gibraltar Squadron</a></li> 
+                     <li><a href="/wiki/Napier_of_Magdala_Battery" title="Napier of Magdala Battery">Napier of Magdala Battery</a></li> 
+                     <li><a href="/wiki/RAF_Gibraltar" title="RAF Gibraltar">RAF Gibraltar</a></li> 
+                     <li><a href="/wiki/Royal_Gibraltar_Police" title="Royal Gibraltar Police">Royal Gibraltar Police</a></li> 
+                     <li><a href="/wiki/Royal_Gibraltar_Regiment" title="Royal Gibraltar Regiment">Royal Gibraltar Regiment</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="Economy" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/Economy_of_Gibraltar" title="Economy of Gibraltar">Economy</a>
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">General</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/List_of_banks_in_Gibraltar" title="List of banks in Gibraltar">Banks</a></li> 
+                     <li><a href="/wiki/Gibraltar_pound" title="Gibraltar pound">Gibraltar pound</a> 
+                      <ul>
+                       <li><a href="/wiki/Coins_of_the_Gibraltar_pound" class="mw-redirect" title="Coins of the Gibraltar pound">coins</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Gibraltar_Stock_Exchange" title="Gibraltar Stock Exchange">Stock Exchange</a></li> 
+                     <li><a href="/wiki/Taxation_in_Gibraltar" title="Taxation in Gibraltar">Taxation</a></li> 
+                     <li><a href="/wiki/Tourism_in_Gibraltar" title="Tourism in Gibraltar">Tourism</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Communications_in_Gibraltar" title="Communications in Gibraltar">Communications</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/.gi" title=".gi">.gi <span style="font-size:85%;">(Internet domain)</span></a></li> 
+                     <li><a href="/wiki/Gibraltar_Broadcasting_Corporation" title="Gibraltar Broadcasting Corporation">Gibraltar Broadcasting Corporation</a></li> 
+                     <li><i><a href="/wiki/Gibraltar_Chronicle" title="Gibraltar Chronicle">Gibraltar Chronicle</a></i></li> 
+                     <li><a href="/wiki/Gibtelecom" title="Gibtelecom">Gibtelecom</a></li> 
+                     <li><a href="/wiki/Panorama_(Gibraltar)" title="Panorama (Gibraltar)">Panorama</a></li> 
+                     <li><a href="/wiki/Gibraltar_Regulatory_Authority" title="Gibraltar Regulatory Authority">Regulatory Authority</a></li> 
+                     <li><a href="/wiki/Royal_Gibraltar_Post_Office" title="Royal Gibraltar Post Office">Royal Gibraltar Post Office</a> 
+                      <ul>
+                       <li><a href="/wiki/Postage_stamps_and_postal_history_of_Gibraltar" title="Postage stamps and postal history of Gibraltar">postage stamps and history</a></li> 
+                       <li><a href="/wiki/Postal_orders_of_Gibraltar" title="Postal orders of Gibraltar">postal orders</a></li> 
+                       <li><a href="/wiki/Gibraltar_Study_Circle" title="Gibraltar Study Circle">Study Circle</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Telephone_numbers_in_Gibraltar" title="Telephone numbers in Gibraltar">Telephone numbers</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Transport_in_Gibraltar" title="Transport in Gibraltar">Transport</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Gibraltar_International_Airport" title="Gibraltar International Airport">Airport</a></li> 
+                     <li><a href="/wiki/Gibraltar_Cable_Car" title="Gibraltar Cable Car">Cable car</a></li> 
+                     <li><a href="/wiki/Gibraltar%E2%80%93Spain_border" title="Gibraltar–Spain border">Gibraltar–Spain border</a></li> 
+                     <li><a href="/wiki/Shipping_in_Gibraltar" title="Shipping in Gibraltar">Shipping in Gibraltar</a></li> 
+                     <li><a href="/wiki/Vehicle_registration_plates_of_Gibraltar" title="Vehicle registration plates of Gibraltar">Vehicle registration plates</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="Culture" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/Culture_of_Gibraltar" title="Culture of Gibraltar">Culture</a>
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">General</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Gibraltarian_cuisine" title="Gibraltarian cuisine">Cuisine</a></li> 
+                     <li><a href="/wiki/Education_in_Gibraltar" title="Education in Gibraltar">Education</a> 
+                      <ul>
+                       <li><a href="/wiki/Bayside_Comprehensive_School" title="Bayside Comprehensive School">Bayside Comprehensive School</a></li> 
+                       <li><a href="/wiki/Westside_School,_Gibraltar" title="Westside School, Gibraltar">Westside School</a></li> 
+                       <li><a href="/wiki/University_of_Gibraltar" title="University of Gibraltar">University of Gibraltar</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Miss_Gibraltar" title="Miss Gibraltar">Miss Gibraltar</a></li> 
+                     <li><a href="/wiki/Music_of_Gibraltar" title="Music of Gibraltar">Music</a> 
+                      <ul>
+                       <li><a href="/wiki/Ll%C3%A9vame_Donde_Nac%C3%AD" title="Llévame Donde Nací">Llévame Donde Nací</a></li>
+                      </ul></li> 
+                     <li><a href="/w/index.php?title=Gibraltar_Fair&amp;action=edit&amp;redlink=1" class="new" title="Gibraltar Fair (page does not exist)">Gibraltar Fair</a></li> 
+                     <li><a href="/wiki/Gibraltar_National_Day" title="Gibraltar National Day">National Day</a></li> 
+                     <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                     <li><a href="/wiki/Scouting_and_Guiding_in_Gibraltar" title="Scouting and Guiding in Gibraltar">Scouting and Guiding in Gibraltar</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Demographics_of_Gibraltar" title="Demographics of Gibraltar">Demographics</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Gibraltarians" title="Gibraltarians">Gibraltarians</a> 
+                      <ul>
+                       <li><a href="/wiki/List_of_Gibraltarians" title="List of Gibraltarians">list</a></li> 
+                       <li><a href="/wiki/Gibraltarians_in_the_United_Kingdom" title="Gibraltarians in the United Kingdom">in the UK</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Gibraltarian_status" title="Gibraltarian status">Gibraltarian status</a></li> 
+                     <li><a href="/wiki/Languages_of_Gibraltar" title="Languages of Gibraltar">Languages</a> 
+                      <ul>
+                       <li><a href="/wiki/English_language" title="English language">English</a></li> 
+                       <li><a href="/wiki/Llanito" title="Llanito">Llanito</a></li>
+                      </ul></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religion_in_Gibraltar" class="mw-redirect" title="Religion in Gibraltar">Religion</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"></div>
+                   <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                    <tbody>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Christianity</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Church_of_England" title="Church of England">Anglicanism</a> 
+                          <ul>
+                           <li><a href="/wiki/Diocese_in_Europe" title="Diocese in Europe">Diocese in Europe</a></li> 
+                           <li><a href="/wiki/Bishop_in_Europe" title="Bishop in Europe">Bishop diocesan</a></li> 
+                           <li><a href="/wiki/Suffragan_Bishop_in_Europe" title="Suffragan Bishop in Europe">Bishop suffragan</a></li> 
+                           <li><a href="/wiki/Cathedral_of_the_Holy_Trinity,_Gibraltar" title="Cathedral of the Holy Trinity, Gibraltar">Cathedral of the Holy Trinity</a></li>
+                          </ul></li> 
+                         <li><a href="/wiki/St_Andrew%27s_Church,_Gibraltar" title="St Andrew's Church, Gibraltar">St. Andrew's Church <span style="font-size:85%;">(Church of Scotland)</span></a></li> 
+                         <li><a href="/wiki/Gibraltar_Methodist_Church" title="Gibraltar Methodist Church">Methodism</a></li> 
+                         <li><a href="/wiki/Roman_Catholicism_in_Gibraltar" class="mw-redirect" title="Roman Catholicism in Gibraltar">Roman Catholicism</a> 
+                          <ul>
+                           <li><a href="/wiki/Roman_Catholic_Diocese_of_Gibraltar" title="Roman Catholic Diocese of Gibraltar">Diocese</a></li> 
+                           <li><a href="/wiki/Roman_Catholic_Bishop_of_Gibraltar" class="mw-redirect" title="Roman Catholic Bishop of Gibraltar">Bishop</a></li> 
+                           <li><a href="/wiki/Cathedral_of_St._Mary_the_Crowned" title="Cathedral of St. Mary the Crowned">Cathedral of St. Mary the Crowned</a></li> 
+                           <li><a href="/wiki/Our_Lady_of_Europe" title="Our Lady of Europe">Our Lady of Europe</a></li> 
+                           <li><a href="/wiki/Shrine_of_Our_Lady_of_Europe" title="Shrine of Our Lady of Europe">Shrine of Our Lady of Europe</a></li>
+                          </ul></li> 
+                         <li><a href="/wiki/Trafalgar_Cemetery" title="Trafalgar Cemetery">Trafalgar Cemetery</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Other faiths</th>
+                      <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Hinduism_in_Gibraltar" title="Hinduism in Gibraltar">Hinduism</a></li> 
+                         <li><a href="/wiki/Islam_in_Gibraltar" title="Islam in Gibraltar">Islam</a> 
+                          <ul>
+                           <li><a href="/wiki/Ibrahim-al-Ibrahim_Mosque" title="Ibrahim-al-Ibrahim Mosque">Ibrahim-al-Ibrahim Mosque</a></li>
+                          </ul></li> 
+                         <li><a href="/wiki/History_of_the_Jews_in_Gibraltar" title="History of the Jews in Gibraltar">Judaism</a> 
+                          <ul>
+                           <li><a href="/wiki/Great_Synagogue_(Gibraltar)" title="Great Synagogue (Gibraltar)">Great Synagogue</a></li>
+                          </ul></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <div></div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sport_in_Gibraltar" title="Sport in Gibraltar">Sport</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"></div>
+                   <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                    <tbody>
+                     <tr>
+                      <th id="By_sport" scope="row" class="navbox-group" style="width:1%;width:4.4em;font-weight:normal;">By sport</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Gibraltar_national_basketball_team" class="mw-redirect" title="Gibraltar national basketball team">Basketball</a></li> 
+                         <li><a href="/wiki/Gibraltar_Cricket_Association" title="Gibraltar Cricket Association">Cricket</a> 
+                          <ul>
+                           <li><a href="/wiki/Gibraltar_national_cricket_team" title="Gibraltar national cricket team">national team</a></li>
+                          </ul></li> 
+                         <li><a href="/wiki/Gibraltar_Cycling_Association" title="Gibraltar Cycling Association">Cycling</a></li> 
+                         <li><a href="/wiki/Gibraltar_Hockey_Association" title="Gibraltar Hockey Association">Field hockey</a> 
+                          <ul>
+                           <li><a href="/wiki/Gibraltar_men%27s_national_field_hockey_team" title="Gibraltar men's national field hockey team">national team</a></li>
+                          </ul></li> 
+                         <li><a href="/wiki/Football_in_Gibraltar" title="Football in Gibraltar">Football</a> 
+                          <ul>
+                           <li><a href="/wiki/Gibraltar_Football_Association" title="Gibraltar Football Association">Football Association</a></li> 
+                           <li><a href="/wiki/Gibraltar_national_football_team" title="Gibraltar national football team">national team</a></li>
+                          </ul></li> 
+                         <li><a href="/wiki/Rugby_union_in_Gibraltar" title="Rugby union in Gibraltar">Rugby union</a> 
+                          <ul>
+                           <li><a href="/wiki/Gibraltar_national_rugby_union_team" title="Gibraltar national rugby union team">national team</a></li> 
+                           <li><a href="/wiki/Gibraltar_Barbarians_Rugby_Club" title="Gibraltar Barbarians Rugby Club">Campo Gibraltar RUFC</a></li>
+                          </ul></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px;width:auto;">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Gibraltar_at_the_Commonwealth_Games" title="Gibraltar at the Commonwealth Games">Commonwealth Games</a></li> 
+                         <li><a href="/wiki/International_Island_Games_Association" title="International Island Games Association">Island Games</a></li> 
+                         <li><a href="/wiki/Gibraltarian_records_in_athletics" class="mw-redirect" title="Gibraltarian records in athletics">Records in athletics</a></li> 
+                         <li><a href="/wiki/Victoria_Stadium_(Gibraltar)" class="mw-redirect" title="Victoria Stadium (Gibraltar)">Victoria Stadium</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <div></div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:National_symbols_of_Gibraltar" title="Category:National symbols of Gibraltar">Symbols</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Gibraltar_Anthem" title="Gibraltar Anthem">Anthem</a></li> 
+                     <li><a href="/wiki/Coat_of_arms_of_Gibraltar" title="Coat of arms of Gibraltar">Coat of arms</a></li> 
+                     <li><a href="/wiki/Flag_of_Gibraltar" title="Flag of Gibraltar">Official flag</a> 
+                      <ul>
+                       <li><a href="/wiki/List_of_flags_of_Gibraltar" title="List of flags of Gibraltar">other flags</a></li>
+                      </ul></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow navbox-title" colspan="3">
+           <div> 
+            <ul>
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <b><a href="/wiki/Category:Gibraltar" title="Category:Gibraltar">Category</a></b></li> 
+             <li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"> <b><a href="https://commons.wikimedia.org/wiki/Category:Gibraltar" class="extiw" title="commons:Category:Gibraltar">Commons</a></b></li> 
+             <li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> <b><a href="/wiki/Portal:Gibraltar" title="Portal:Gibraltar">Portal</a></b></li> 
+             <li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" decoding="async" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100"> <b><a href="/wiki/Wikipedia:WikiProject_Gibraltar" title="Wikipedia:WikiProject Gibraltar">WikiProject</a></b></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Europe" title="Template:Public holidays in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Europe" title="Template talk:Public holidays in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Europe" style="font-size:114%;margin:0 4em">
+            Public holidays in Europe
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Albania" title="Public holidays in Albania">Albania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Andorra" title="Public holidays in Andorra">Andorra</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Austria" title="Public holidays in Austria">Austria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belarus" title="Public holidays in Belarus">Belarus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belgium" title="Public holidays in Belgium">Belgium</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bosnia_and_Herzegovina" title="Public holidays in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bulgaria" title="Public holidays in Bulgaria">Bulgaria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Croatia" title="Public holidays in Croatia">Croatia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Czech_Republic" title="Public holidays in the Czech Republic">Czech Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Denmark" title="Public holidays in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Estonia" title="Public holidays in Estonia">Estonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Finland" title="Public holidays in Finland">Finland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_France" title="Public holidays in France">France</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Germany" title="Public holidays in Germany">Germany</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greece" title="Public holidays in Greece">Greece</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hungary" title="Public holidays in Hungary">Hungary</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iceland" title="Public holidays in Iceland">Iceland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Ireland" title="Public holidays in the Republic of Ireland">Ireland</a></li> 
+             <li class="mw-empty-elt"></li> 
+             <li><a href="/wiki/Public_holidays_in_Italy" title="Public holidays in Italy">Italy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Latvia" title="Public holidays in Latvia">Latvia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liechtenstein" title="Public holidays in Liechtenstein">Liechtenstein</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lithuania" title="Public holidays in Lithuania">Lithuania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Luxembourg" title="Public holidays in Luxembourg">Luxembourg</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malta" title="Public holidays in Malta">Malta</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Moldova" title="Public holidays in Moldova">Moldova</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Monaco" title="Public holidays in Monaco">Monaco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montenegro" title="Public holidays in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Netherlands" title="Public holidays in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Macedonia" title="Public holidays in North Macedonia">North Macedonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Norway" title="Public holidays in Norway">Norway</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Poland" title="Public holidays in Poland">Poland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Portugal" title="Public holidays in Portugal">Portugal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Romania" title="Public holidays in Romania">Romania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_San_Marino" class="mw-redirect" title="Public holidays in San Marino">San Marino</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Serbia" title="Public holidays in Serbia">Serbia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovakia" title="Public holidays in Slovakia">Slovakia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovenia" title="Public holidays in Slovenia">Slovenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Spain" title="Public holidays in Spain">Spain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sweden" title="Public holidays in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Switzerland" title="Public holidays in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ukraine" title="Public holidays in Ukraine">Ukraine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Kingdom" title="Public holidays in the United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vatican_City" title="Public holidays in Vatican City">Vatican City</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">States with limited<br>recognition</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kosovo" title="Public holidays in Kosovo">Kosovo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Transnistria" title="Public holidays in Transnistria">Transnistria</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies and<br>other entities</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_%C3%85land" title="Public holidays in Åland">Åland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Faroe_Islands" title="Public holidays in the Faroe Islands">Faroe Islands</a></li> 
+             <li><a class="mw-selflink selflink">Gibraltar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guernsey" title="Public holidays in Guernsey">Guernsey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Isle_of_Man" title="Public holidays in the Isle of Man">Isle of Man</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jersey" title="Public holidays in Jersey">Jersey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Svalbard" title="Public holidays in Svalbard">Svalbard</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other entities</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_European_Union" title="Public holidays in the European Union">European Union</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+       <tbody>
+        <tr class="noresize">
+         <td><a href="/wiki/File:Calendar_icon.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/23px-Calendar_icon.svg.png" decoding="async" width="23" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/35px-Calendar_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/47px-Calendar_icon.svg.png 2x" data-file-width="720" data-file-height="920"></a></td>
+         <td><i>This <a href="/wiki/Holiday" title="Holiday">holiday</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Gibraltar&amp;action=edit">expanding it</a>.</i>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+          <div class="navbar plainlinks hlist navbar-mini" style="position: absolute; right: 15px; display: none;">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Holiday-stub" title="Template:Holiday-stub"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Holiday-stub" title="Template talk:Holiday-stub"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Holiday-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+       <tbody>
+        <tr class="noresize">
+         <td><a href="/wiki/File:Flag_of_Gibraltar.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/40px-Flag_of_Gibraltar.svg.png" decoding="async" width="40" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/60px-Flag_of_Gibraltar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/80px-Flag_of_Gibraltar.svg.png 2x" data-file-width="1000" data-file-height="500"></a></td>
+         <td><i>This <a href="/wiki/Gibraltar" title="Gibraltar">Gibraltar</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Gibraltar&amp;action=edit">expanding it</a>.</i>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+          <div class="navbar plainlinks hlist navbar-mini" style="position: absolute; right: 15px; display: none;">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Gibraltar-stub" title="Template:Gibraltar-stub"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Gibraltar-stub" title="Template talk:Gibraltar-stub"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Gibraltar-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> <!-- 
+NewPP limit report
+Parsed by mw1324
+Cached time: 20210130173320
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.592 seconds
+Real time usage: 0.738 seconds
+Preprocessor visited node count: 11847/1000000
+Post‐expand include size: 138959/2097152 bytes
+Template argument size: 7538/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 13477/5000000 bytes
+Lua time usage: 0.194/10.000 seconds
+Lua memory usage: 5486006/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  621.124      1 -total
+ 37.50%  232.897      8 Template:Navbox
+ 36.93%  229.385      1 Template:Public_holidays_in_Europe
+ 36.48%  226.575      1 Template:Europe_topic
+ 29.56%  183.593     49 Template:Iso2country
+ 17.89%  111.142      1 Template:Gibraltar_topics
+ 17.60%  109.293      1 Template:Reflist
+ 17.17%  106.642      1 Template:Navbox_with_collapsible_groups
+ 15.76%   97.909      3 Template:Cite_web
+ 12.27%   76.211      1 Template:When
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:18012104-0!canonical and timestamp 20210130173319 and revision id 997538216. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Gibraltar&amp;oldid=997538216">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Gibraltar&amp;oldid=997538216</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_by_dependent_territory" title="Category:Public holidays by dependent territory">Public holidays by dependent territory</a></li>
+       <li><a href="/wiki/Category:Holiday_stubs" title="Category:Holiday stubs">Holiday stubs</a></li>
+       <li><a href="/wiki/Category:Gibraltar_stubs" title="Category:Gibraltar stubs">Gibraltar stubs</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_November_2018" title="Category:Use dmy dates from November 2018">Use dmy dates from November 2018</a></li>
+       <li><a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">All articles with vague or ambiguous time</a></li>
+       <li><a href="/wiki/Category:Vague_or_ambiguous_time_from_August_2017" title="Category:Vague or ambiguous time from August 2017">Vague or ambiguous time from August 2017</a></li>
+       <li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Gibraltar" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Gibraltar" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Gibraltar" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Gibraltar" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Gibraltar">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Gibraltar&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Gibraltar&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Gibraltar" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Gibraltar" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Gibraltar&amp;oldid=997538216" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Gibraltar&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Gibraltar&amp;id=997538216&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19770517" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Gibraltar&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Gibraltar&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/%C3%9Cnnepek_Gibralt%C3%A1rban" title="Ünnepek Gibraltárban – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%93%D0%B8%D0%B1%D1%80%D0%B0%D0%BB%D1%82%D0%B0%D1%80%D0%B0" title="Праздники Гибралтара – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19770517#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 1 January 2021, at 00:59<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Gibraltar&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.592","walltime":"0.738","ppvisitednodes":{"value":11847,"limit":1000000},"postexpandincludesize":{"value":138959,"limit":2097152},"templateargumentsize":{"value":7538,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13477,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  621.124      1 -total"," 37.50%  232.897      8 Template:Navbox"," 36.93%  229.385      1 Template:Public_holidays_in_Europe"," 36.48%  226.575      1 Template:Europe_topic"," 29.56%  183.593     49 Template:Iso2country"," 17.89%  111.142      1 Template:Gibraltar_topics"," 17.60%  109.293      1 Template:Reflist"," 17.17%  106.642      1 Template:Navbox_with_collapsible_groups"," 15.76%   97.909      3 Template:Cite_web"," 12.27%   76.211      1 Template:When"]},"scribunto":{"limitreport-timeusage":{"value":"0.194","limit":"10.000"},"limitreport-memusage":{"value":5486006,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20210130173320","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Gibraltar","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Gibraltar","sameAs":"http:\/\/www.wikidata.org\/entity\/Q19770517","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q19770517","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-06-18T22:46:42Z","dateModified":"2021-01-01T00:59:49Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1355"});});</script> 
+ </body>
+</html>

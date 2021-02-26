@@ -29,7 +29,7 @@ public enum Flyover implements AppleFeatureAvailability {
     @Override
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
-        final Elements elements = getSectionValues("maps-flyover").select("div.section-content ul li");
+        final Elements elements = getSectionElements("maps-flyover");
         final HashMap<String, List<FlyoverObj>> flyovers = new HashMap<>();
         for(Element element : elements) {
             final String[] values = element.text().split(", ");
@@ -52,11 +52,10 @@ public enum Flyover implements AppleFeatureAvailability {
                 flyovers.get(country).add(flyoverObj);
             }
         }
-        boolean isFirst = true;
         for(Map.Entry<String, List<FlyoverObj>> map : flyovers.entrySet()) {
             final String country = map.getKey();
             final StringBuilder builder = new StringBuilder("[");
-            isFirst = true;
+            boolean isFirst = true;
             for(FlyoverObj obj : map.getValue()) {
                 builder.append(isFirst ? "" : ",").append(obj.toString());
                 isFirst = false;

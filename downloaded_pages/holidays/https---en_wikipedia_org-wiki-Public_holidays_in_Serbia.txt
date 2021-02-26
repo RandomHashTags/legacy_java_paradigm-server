@@ -1,0 +1,693 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Serbia - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBXnuwpAML8AAckcJbQAAAAW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Serbia","wgTitle":"Public holidays in Serbia","wgCurRevisionId":1002770777,"wgRevisionId":1002770777,"wgArticleId":18012080,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","CS1 uses Serbian-language script (sr)","CS1 Serbian-language sources (sr)","Public holidays in Serbia","Lists of public holidays by country"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext"
+,"wgRelevantPageName":"Public_holidays_in_Serbia","wgRelevantArticleId":18012080,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q25734"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Serbia"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Serbia&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Serbia&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Serbia"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Serbia rootpage-Public_holidays_in_Serbia skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Serbia</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p>The public holidays in <a href="/wiki/Serbia" title="Serbia">Serbia</a> are defined by the Law of national and other holidays in the Republic of Serbia. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Public_holidays"><span class="tocnumber">1</span> <span class="toctext">Public holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Religious_holidays"><span class="tocnumber">2</span> <span class="toctext">Religious holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Working_holidays"><span class="tocnumber">3</span> <span class="toctext">Working holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Public_holidays">Public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Serbia&amp;action=edit&amp;section=1" title="Edit section: Public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable" style="text-align:center" width="1024"> 
+       <tbody>
+        <tr> 
+         <td colspan="7"><b>Public Holidays</b> </td>
+        </tr> 
+        <tr> 
+         <th width="10%">Date </th> 
+         <th width="25%">Name </th> 
+         <th width="15%">Serbian name (<a href="/wiki/Serbian_Cyrillic_alphabet" title="Serbian Cyrillic alphabet">Cyrillic</a>) </th> 
+         <th width="15%">Serbian name (<a href="/wiki/Gaj%27s_Latin_alphabet" title="Gaj's Latin alphabet">Latin</a>) </th> 
+         <th width="10%">2020 date </th> 
+         <th width="10%">2021 date </th> 
+         <th width="30%">Remarks </th>
+        </tr> 
+        <tr> 
+         <td>January 1<sup>1</sup></td> 
+         <td rowspan="2"><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a></td> 
+         <td rowspan="2"><i> Нова Година</i></td> 
+         <td rowspan="2"><i> Nova Godina</i></td> 
+         <td colspan="2">January 1</td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>January 2<sup>1</sup></td> 
+         <td colspan="2">January 2</td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>January 7</td> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a></td> 
+         <td><i>Божић</i></td> 
+         <td><i>Božić</i></td> 
+         <td colspan="2">January 7</td> 
+         <td align="left"><i><a href="/wiki/Serbian_Orthodox_Church" title="Serbian Orthodox Church">Serbian Orthodox Church</a> uses the <a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a></i> </td>
+        </tr> 
+        <tr> 
+         <td>February 15<sup>1</sup></td> 
+         <td rowspan="2"><a href="/wiki/Statehood_Day_(Serbia)" title="Statehood Day (Serbia)">Statehood Day</a></td> 
+         <td rowspan="2"><i>Дан државности Србије</i></td> 
+         <td rowspan="2"><i>Dan državnosti Srbije</i></td> 
+         <td colspan="2">February 15</td> 
+         <td rowspan="2" align="left"><i>Anniversary of the <a href="/wiki/First_Serbian_Uprising" title="First Serbian Uprising">First Serbian Uprising</a> in 1804 and the first modern Serbian <a href="/wiki/Constitution" title="Constitution">Constitution</a> in 1835</i> </td>
+        </tr> 
+        <tr> 
+         <td>February 16<sup>1</sup></td> 
+         <td colspan="2">February 16 </td>
+        </tr> 
+        <tr> 
+         <td><i><a href="/wiki/Moveable_feast" title="Moveable feast">moveable</a></i><br><small>Easter – 2 days</small><br>Next: 30 April 2021</td> 
+         <td><a href="/wiki/Great_Friday" class="mw-redirect" title="Great Friday">Great Friday</a></td> 
+         <td><i>Велики петак</i></td> 
+         <td><i>Veliki petak</i></td> 
+         <td>April 17</td> 
+         <td>April 30</td> 
+         <td rowspan="3" align="left"><i><a href="/wiki/Serbian_Orthodox_Church" title="Serbian Orthodox Church">Serbian Orthodox Church</a> calculates <a href="/wiki/Easter" title="Easter">Easter</a> using Orthodox <a href="/wiki/Computus" title="Computus">Computus</a></i> </td>
+        </tr> 
+        <tr> 
+         <td><i><a href="/wiki/Moveable_feast" title="Moveable feast">moveable</a></i><br><small>Easter + 1 day</small><br>Next: 3 May 2021</td> 
+         <td><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a></td> 
+         <td><i>Васкрсни понедељак (Ускрсни понедељак)</i></td> 
+         <td><i>Vaskrsni ponedeljak (Uskrsni ponedeljak)</i></td> 
+         <td>April 20</td> 
+         <td>May 3 </td>
+        </tr> 
+        <tr> 
+         <td>May 1<sup>1</sup></td> 
+         <td rowspan="2"><a href="/wiki/May_Day" title="May Day">May Day</a></td> 
+         <td rowspan="2"><i>Празник рада</i></td> 
+         <td rowspan="2"><i>Praznik rada</i></td> 
+         <td colspan="2">May 1</td> 
+         <td align="left"> </td>
+        </tr> 
+        <tr> 
+         <td>May 2<sup>1</sup></td> 
+         <td colspan="2">May 2</td> 
+         <td align="left"> </td>
+        </tr> 
+        <tr> 
+         <td>November 11<sup>1</sup></td> 
+         <td><a href="/wiki/Armistice_Day" title="Armistice Day">Armistice Day</a></td> 
+         <td><i>Дан примирја</i></td> 
+         <td><i>Dan primirja</i></td> 
+         <td colspan="2">November 11</td> 
+         <td> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><sup>1</sup> If one of the non-religious holidays falls on a Sunday, then the next working day is a non-working day. </p> 
+      <h2><span class="mw-headline" id="Religious_holidays">Religious holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Serbia&amp;action=edit&amp;section=2" title="Edit section: Religious holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Additionally, the employees of Christian, Muslim and Jewish religion are allowed not to work on some of their religious holidays. </p> 
+      <table class="wikitable" style="text-align:center" width="1024"> 
+       <tbody>
+        <tr> 
+         <td colspan="7"><b>Religious holidays</b> </td>
+        </tr> 
+        <tr> 
+         <td colspan="7"><b><a href="/wiki/Serbian_Orthodox_Church" title="Serbian Orthodox Church">Serbian Orthodox Christians</a></b> </td>
+        </tr> 
+        <tr> 
+         <th width="10%">Date </th> 
+         <th width="25%">Name </th> 
+         <th width="15%">Serbian name (<a href="/wiki/Serbian_Cyrillic_alphabet" title="Serbian Cyrillic alphabet">Cyrillic</a>) </th> 
+         <th width="15%">Serbian name (<a href="/wiki/Gaj%27s_Latin_alphabet" title="Gaj's Latin alphabet">Latin</a>) </th> 
+         <th width="10%">2020 date </th> 
+         <th width="10%">2021 date </th> 
+         <th width="30%">Remarks </th>
+        </tr> 
+        <tr> 
+         <td><i>varies</i></td> 
+         <td><a href="/wiki/Slava" title="Slava">Slava</a></td> 
+         <td><i>Крсна слава</i></td> 
+         <td><i> Krsna slava</i></td> 
+         <td colspan="2"><i>varies</i></td> 
+         <td align="left"><i>Patron saint of the family - varies among families</i> </td>
+        </tr> 
+        <tr> 
+         <td colspan="7"><b><a href="/wiki/Western_Christians" class="mw-redirect" title="Western Christians">Western Christians</a> &amp; <a href="/wiki/Revised_Julian_calendar" title="Revised Julian calendar">Revised Julian calendar</a> <a href="/wiki/Eastern_Orthodox_Christians" class="mw-redirect" title="Eastern Orthodox Christians">Eastern Orthodox Christians</a></b> </td>
+        </tr> 
+        <tr> 
+         <th width="10%">Date </th> 
+         <th width="25%">Name </th> 
+         <th width="15%">Serbian name (<a href="/wiki/Serbian_Cyrillic_alphabet" title="Serbian Cyrillic alphabet">Cyrillic</a>) </th> 
+         <th width="15%">Serbian name (<a href="/wiki/Gaj%27s_Latin_alphabet" title="Gaj's Latin alphabet">Latin</a>) </th> 
+         <th width="10%">2020 date </th> 
+         <th width="10%">2021 date </th> 
+         <th width="30%">Remarks </th>
+        </tr> 
+        <tr> 
+         <td>December 25</td> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a></td> 
+         <td><i>Божић</i></td> 
+         <td><i>Božić</i></td> 
+         <td colspan="2">December 25</td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td colspan="7"><b><a href="/wiki/Western_Christians" class="mw-redirect" title="Western Christians">Western Christians</a></b> </td>
+        </tr> 
+        <tr> 
+         <th width="10%">Date </th> 
+         <th width="25%">Name </th> 
+         <th width="15%">Serbian name (<a href="/wiki/Serbian_Cyrillic_alphabet" title="Serbian Cyrillic alphabet">Cyrillic</a>) </th> 
+         <th width="15%">Serbian name (<a href="/wiki/Gaj%27s_Latin_alphabet" title="Gaj's Latin alphabet">Latin</a>) </th> 
+         <th width="10%">2020 date </th> 
+         <th width="10%">2021 date </th> 
+         <th width="30%">Remarks </th>
+        </tr> 
+        <tr> 
+         <td><i>varies</i></td> 
+         <td><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a></td> 
+         <td><i>Велики петак</i></td> 
+         <td><i>Veliki petak</i></td> 
+         <td>April 10</td> 
+         <td>April 2</td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><i>varies</i></td> 
+         <td><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a></td> 
+         <td><i>Ускрсни понедељак</i></td> 
+         <td><i>Uskrsni ponedeljak</i></td> 
+         <td>April 13</td> 
+         <td>April 5</td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td colspan="7"><b><a href="/wiki/Islam" title="Islam">Muslims</a></b> </td>
+        </tr> 
+        <tr> 
+         <th width="10%">Date </th> 
+         <th width="25%">Name </th> 
+         <th width="15%">Serbian name (<a href="/wiki/Serbian_Cyrillic_alphabet" title="Serbian Cyrillic alphabet">Cyrillic</a>) </th> 
+         <th width="15%">Serbian name (<a href="/wiki/Gaj%27s_Latin_alphabet" title="Gaj's Latin alphabet">Latin</a>) </th> 
+         <th width="10%">2020 date </th> 
+         <th width="10%">2021 date </th> 
+         <th width="30%">Remarks </th>
+        </tr> 
+        <tr> 
+         <td>1 <a href="/wiki/Shawwal" title="Shawwal">Shawwal</a></td> 
+         <td><a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a></td> 
+         <td><i>Рамазански Бајрам</i></td> 
+         <td><i>Ramazanski Bajram</i></td> 
+         <td>May 24</td> 
+         <td>May 14</td> 
+         <td align="left"><i>End of <a href="/wiki/Ramadan" title="Ramadan">Ramadan</a></i> </td>
+        </tr> 
+        <tr> 
+         <td>10 <a href="/wiki/Dhu_al-Hijjah" title="Dhu al-Hijjah">Dhu al-Hijjah</a></td> 
+         <td><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a></td> 
+         <td><i>Курбански Бајрам</i></td> 
+         <td><i>Kurbanski Bajram</i></td> 
+         <td>July 31</td> 
+         <td>July 20</td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td colspan="7"><b><a href="/wiki/Judaism" title="Judaism">Jews</a></b> </td>
+        </tr> 
+        <tr> 
+         <th width="10%">Date </th> 
+         <th width="25%">Name </th> 
+         <th width="15%">Serbian name (<a href="/wiki/Serbian_Cyrillic_alphabet" title="Serbian Cyrillic alphabet">Cyrillic</a>) </th> 
+         <th width="15%">Serbian name (<a href="/wiki/Gaj%27s_Latin_alphabet" title="Gaj's Latin alphabet">Latin</a>) </th> 
+         <th width="10%">2020 date </th> 
+         <th width="10%">2021 date </th> 
+         <th width="30%">Remarks </th>
+        </tr> 
+        <tr> 
+         <td>10 <a href="/wiki/Tishrei" title="Tishrei">Tishrei</a></td> 
+         <td><a href="/wiki/Yom_Kippur" title="Yom Kippur">Yom Kippur</a></td> 
+         <td><i>Јом Кипур</i></td> 
+         <td><i>Jom Kipur</i></td> 
+         <td>September 28</td> 
+         <td>September 16</td> 
+         <td> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Working_holidays">Working holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Serbia&amp;action=edit&amp;section=3" title="Edit section: Working holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Some holidays are defined by the Law as working holidays, hence they are not bank holidays, but they are observed by the state and people. </p> 
+      <table class="wikitable" style="text-align:center" width="1024"> 
+       <tbody>
+        <tr> 
+         <td colspan="7"><b>Working holidays</b> </td>
+        </tr> 
+        <tr> 
+         <th width="10%">Date </th> 
+         <th width="25%">Name </th> 
+         <th width="15%">Serbian name (<a href="/wiki/Serbian_Cyrillic_alphabet" title="Serbian Cyrillic alphabet">Cyrillic</a>) </th> 
+         <th width="15%">Serbian name (<a href="/wiki/Gaj%27s_Latin_alphabet" title="Gaj's Latin alphabet">Latin</a>) </th> 
+         <th width="10%">2019 date </th> 
+         <th width="10%">2020 date </th> 
+         <th width="30%">Remarks </th>
+        </tr> 
+        <tr> 
+         <td>January 27</td> 
+         <td><a href="/wiki/Saint_Sava" title="Saint Sava">Saint Sava</a> Day</td> 
+         <td><i>Свети Сава (Савиндан)</i></td> 
+         <td><i>Sveti Sava (Savindan)</i></td> 
+         <td colspan="2">January 27</td> 
+         <td align="left"><i>According to <a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a>. Patron saint of the Serbian schools. In the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a> it's observed on January 14</i> </td>
+        </tr> 
+        <tr> 
+         <td>April 22</td> 
+         <td>National Holocaust, World War II Genocide and other Fascist Crimes Victims Remembrance Day</td> 
+         <td><i>Дан сећања на жртве холокауста, геноцида и других жртава фашизма у Другом светском рату</i></td> 
+         <td><i>Dan sećanja na žrtve holokausta, genocida i drugih žrtava fašizma u Drugom svetskom ratu</i></td> 
+         <td colspan="2">April 22</td> 
+         <td align="left"><i>Holocaust, genocide and World War II victims remembrance day<br>The anniversary of the prisoner breakout from <a href="/wiki/Jasenovac_concentration_camp" title="Jasenovac concentration camp">Jasenovac concentration camp</a></i> </td>
+        </tr> 
+        <tr> 
+         <td>May 9</td> 
+         <td><a href="/wiki/Victory_Day_(9_May)" title="Victory Day (9 May)">Victory Day</a></td> 
+         <td><i>Дан победе</i></td> 
+         <td><i>Dan pobede</i></td> 
+         <td colspan="2">May 9</td> 
+         <td align="left"><i>Victory day over Fascism.</i> </td>
+        </tr> 
+        <tr> 
+         <td>June 28</td> 
+         <td><a href="/wiki/Vidovdan" title="Vidovdan">Vidovdan</a> (<a href="/wiki/Saint_Vitus" class="mw-redirect" title="Saint Vitus">Saint Vitus</a> Day)</td> 
+         <td><i>Видовдан</i></td> 
+         <td><i>Vidovdan</i></td> 
+         <td colspan="2">June 28</td> 
+         <td align="left"><i>According to <a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a>. Remembrance on the <a href="/wiki/Battle_of_Kosovo" title="Battle of Kosovo">Battle of Kosovo</a>. In the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a> it's observed on June 15</i> </td>
+        </tr> 
+        <tr> 
+         <td>October 21</td> 
+         <td>World War II Serbian Victims Remembrance Day</td> 
+         <td><i>Дан сећања на српске жртве у Другом светском рату</i></td> 
+         <td><i>Dan sećanja na srpske žrtve u Drugom svetskom ratu</i></td> 
+         <td colspan="2">October 21</td> 
+         <td align="left"><i>Remembrance on the <a href="/wiki/Kragujevac_massacre" title="Kragujevac massacre">Kragujevac massacre</a> and National World War II victims remembrance day</i> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Serbia&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.propisi.com/zakon-o-drzavnim-i-drugim-praznicima-u-republici-srbiji.html"><bdi lang="sr">Закон о државним и другим празницима у Републици Србији</bdi></a> [Law of the national and other holidays in the Republic of Serbia]. <i>Issues 43/2001, 101/2007, 92/2011</i> (in Serbian). Службени гласник РС. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-12-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Issues+43%2F2001%2C+101%2F2007%2C+92%2F2011&amp;rft.atitle=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD+%D0%BE+%D0%B4%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8%D0%BC+%D0%B8+%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%BC+%D0%BF%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B8%D0%BC%D0%B0+%D1%83+%D0%A0%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%86%D0%B8+%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B8&amp;rft.date=2011&amp;rft_id=http%3A%2F%2Fwww.propisi.com%2Fzakon-o-drzavnim-i-drugim-praznicima-u-republici-srbiji.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Serbia" class="Z3988"></span></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Europe" title="Template:Public holidays in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Europe" title="Template talk:Public holidays in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Europe" style="font-size:114%;margin:0 4em">
+            Public holidays in Europe
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Albania" title="Public holidays in Albania">Albania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Andorra" title="Public holidays in Andorra">Andorra</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Austria" title="Public holidays in Austria">Austria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belarus" title="Public holidays in Belarus">Belarus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belgium" title="Public holidays in Belgium">Belgium</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bosnia_and_Herzegovina" title="Public holidays in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bulgaria" title="Public holidays in Bulgaria">Bulgaria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Croatia" title="Public holidays in Croatia">Croatia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Czech_Republic" title="Public holidays in the Czech Republic">Czech Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Denmark" title="Public holidays in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Estonia" title="Public holidays in Estonia">Estonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Finland" title="Public holidays in Finland">Finland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_France" title="Public holidays in France">France</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Germany" title="Public holidays in Germany">Germany</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greece" title="Public holidays in Greece">Greece</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hungary" title="Public holidays in Hungary">Hungary</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iceland" title="Public holidays in Iceland">Iceland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Ireland" title="Public holidays in the Republic of Ireland">Ireland</a></li> 
+             <li class="mw-empty-elt"></li> 
+             <li><a href="/wiki/Public_holidays_in_Italy" title="Public holidays in Italy">Italy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Latvia" title="Public holidays in Latvia">Latvia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liechtenstein" title="Public holidays in Liechtenstein">Liechtenstein</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lithuania" title="Public holidays in Lithuania">Lithuania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Luxembourg" title="Public holidays in Luxembourg">Luxembourg</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malta" title="Public holidays in Malta">Malta</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Moldova" title="Public holidays in Moldova">Moldova</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Monaco" title="Public holidays in Monaco">Monaco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montenegro" title="Public holidays in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Netherlands" title="Public holidays in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Macedonia" title="Public holidays in North Macedonia">North Macedonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Norway" title="Public holidays in Norway">Norway</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Poland" title="Public holidays in Poland">Poland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Portugal" title="Public holidays in Portugal">Portugal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Romania" title="Public holidays in Romania">Romania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_San_Marino" class="mw-redirect" title="Public holidays in San Marino">San Marino</a></li> 
+             <li><a class="mw-selflink selflink">Serbia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovakia" title="Public holidays in Slovakia">Slovakia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovenia" title="Public holidays in Slovenia">Slovenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Spain" title="Public holidays in Spain">Spain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sweden" title="Public holidays in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Switzerland" title="Public holidays in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ukraine" title="Public holidays in Ukraine">Ukraine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Kingdom" title="Public holidays in the United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vatican_City" title="Public holidays in Vatican City">Vatican City</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">States with limited<br>recognition</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kosovo" title="Public holidays in Kosovo">Kosovo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Transnistria" title="Public holidays in Transnistria">Transnistria</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies and<br>other entities</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_%C3%85land" title="Public holidays in Åland">Åland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Faroe_Islands" title="Public holidays in the Faroe Islands">Faroe Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gibraltar" title="Public holidays in Gibraltar">Gibraltar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guernsey" title="Public holidays in Guernsey">Guernsey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Isle_of_Man" title="Public holidays in the Isle of Man">Isle of Man</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jersey" title="Public holidays in Jersey">Jersey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Svalbard" title="Public holidays in Svalbard">Svalbard</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other entities</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_European_Union" title="Public holidays in the European Union">European Union</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1324
+Cached time: 20210130192033
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.400 seconds
+Real time usage: 0.467 seconds
+Preprocessor visited node count: 11047/1000000
+Post‐expand include size: 40233/2097152 bytes
+Template argument size: 6695/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3009/5000000 bytes
+Lua time usage: 0.164/10.000 seconds
+Lua memory usage: 5138878/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  418.932      1 -total
+ 53.01%  222.093      1 Template:Public_holidays_in_Europe
+ 52.29%  219.066      1 Template:Europe_topic
+ 49.06%  205.535      1 Template:Navbox
+ 37.28%  156.174     49 Template:Iso2country
+ 29.23%  122.433      1 Template:Cite_web
+ 17.61%   73.773      1 Template:Short_description
+ 13.46%   56.395     49 Template:Iso2country/data
+ 10.19%   42.691      1 Template:Pagetype
+  7.35%   30.787     51 Template:Main_other
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:18012080-0!canonical and timestamp 20210130192033 and revision id 1002770777. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Serbia&amp;oldid=1002770777">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Serbia&amp;oldid=1002770777</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Serbia" title="Category:Public holidays in Serbia">Public holidays in Serbia</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:CS1_uses_Serbian-language_script_(sr)" title="Category:CS1 uses Serbian-language script (sr)">CS1 uses Serbian-language script (sr)</a></li>
+       <li><a href="/wiki/Category:CS1_Serbian-language_sources_(sr)" title="Category:CS1 Serbian-language sources (sr)">CS1 Serbian-language sources (sr)</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Serbia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Serbia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Serbia" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Serbia" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Serbia">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Serbia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Serbia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Serbia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Serbia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Serbia&amp;oldid=1002770777" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Serbia&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Serbia&amp;id=1002770777&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25734" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Serbia&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Serbia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Holidays_in_Serbia" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B9%D8%B7%D9%84_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9_%D9%81%D9%8A_%D8%B5%D8%B1%D8%A8%D9%8A%D8%A7" title="قائمة العطل الرسمية في صربيا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Feiertage_in_Serbien" title="Feiertage in Serbien – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%B5%D1%80%D0%B1%D0%B8%D0%B8" title="Праздники Сербии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%94%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8_%D0%BF%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B8_%D1%83_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B8" title="Државни празници у Србији – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Praznici_u_Srbiji" title="Praznici u Srbiji – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25734#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 26 January 2021, at 00:02<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Serbia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.400","walltime":"0.467","ppvisitednodes":{"value":11047,"limit":1000000},"postexpandincludesize":{"value":40233,"limit":2097152},"templateargumentsize":{"value":6695,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3009,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  418.932      1 -total"," 53.01%  222.093      1 Template:Public_holidays_in_Europe"," 52.29%  219.066      1 Template:Europe_topic"," 49.06%  205.535      1 Template:Navbox"," 37.28%  156.174     49 Template:Iso2country"," 29.23%  122.433      1 Template:Cite_web"," 17.61%   73.773      1 Template:Short_description"," 13.46%   56.395     49 Template:Iso2country/data"," 10.19%   42.691      1 Template:Pagetype","  7.35%   30.787     51 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.164","limit":"10.000"},"limitreport-memusage":{"value":5138878,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20210130192033","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Serbia","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Serbia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q25734","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q25734","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-06-18T22:44:50Z","dateModified":"2021-01-26T00:02:12Z","headline":"holidays in Serbia"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1349"});});</script> 
+ </body>
+</html>

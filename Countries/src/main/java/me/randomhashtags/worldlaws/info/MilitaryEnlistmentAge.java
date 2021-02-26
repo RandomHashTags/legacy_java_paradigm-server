@@ -4,13 +4,12 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.info.service.CountryService;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
 
-public enum MilitaryEnlistmentAge implements CountryService {
+public enum MilitaryEnlistmentAge implements CountryInfoService {
     INSTANCE;
 
     private HashMap<String, String> countries;
@@ -29,7 +28,7 @@ public enum MilitaryEnlistmentAge implements CountryService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/List_of_enlistment_age_by_country";
-        final Elements lists = getDocumentElements(url, "h2 + ul li");
+        final Elements lists = getInfoDocumentElements(url, "h2 + ul li");
         lists.remove(lists.size()-1);
         final String title = getInfo().getTitle();
         final EventSource source = new EventSource("Wikipedia: List of enlistment age by country", url);

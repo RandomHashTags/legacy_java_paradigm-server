@@ -1,10 +1,11 @@
 package me.randomhashtags.worldlaws;
 
+import org.apache.logging.log4j.Level;
+
 import javax.net.ssl.*;
 import java.io.FileInputStream;
 import java.net.ServerSocket;
 import java.security.KeyStore;
-import java.util.logging.Level;
 
 public final class Proxy implements RestAPI {
 

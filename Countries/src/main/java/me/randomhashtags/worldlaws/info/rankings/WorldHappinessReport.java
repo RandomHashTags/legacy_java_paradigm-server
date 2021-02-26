@@ -37,7 +37,7 @@ public enum WorldHappinessReport implements CountryRankingService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/World_Happiness_Report";
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         final EventSource wikipedia = new EventSource("Wikipedia: World Happiness Report", url);
         final EventSources sources = new EventSources(wikipedia);

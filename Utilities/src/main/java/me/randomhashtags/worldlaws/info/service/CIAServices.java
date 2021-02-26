@@ -1,6 +1,10 @@
 package me.randomhashtags.worldlaws.info.service;
 
+import org.apache.logging.log4j.Level;
+
 import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.location.CountryInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -34,11 +38,12 @@ public enum CIAServices implements CountryService {
         if(countries.containsKey(shortName)) {
             handler.handle(countries.get(shortName));
         } else {
+            final long started = System.currentTimeMillis();
             String summaryURL = null, travelFactsURL = null;
 
             final String prefix = "https://www.cia.gov/";
             final String url = prefix + "the-world-factbook/countries/" + shortName.toLowerCase().replace(" ", "-") + "/";
-            final Elements elements = getDocumentElements(url, "div.thee-link-container a");
+            final Elements elements = getDocumentElements(FileType.SERVICES, url, "div.thee-link-container a");
             for(Element element : elements) {
                 final String href = element.attr("href");
                 if(href.endsWith("summary.pdf")) {
@@ -50,6 +55,7 @@ public enum CIAServices implements CountryService {
             final CIAValues values = new CIAValues(summaryURL, travelFactsURL);
             final String string = values.toString();
             countries.put(shortName, string);
+            WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + shortName + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
             handler.handle(string);
         }
     }

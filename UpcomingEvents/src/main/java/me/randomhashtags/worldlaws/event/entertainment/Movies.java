@@ -2,9 +2,10 @@ package me.randomhashtags.worldlaws.event.entertainment;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.event.EventDate;
-import me.randomhashtags.worldlaws.event.PreUpcomingEvent;
-import me.randomhashtags.worldlaws.event.UpcomingEventType;
+import me.randomhashtags.worldlaws.PreUpcomingEvent;
+import me.randomhashtags.worldlaws.UpcomingEventType;
 import me.randomhashtags.worldlaws.location.WLCountry;
+import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -14,7 +15,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
-import java.util.logging.Level;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public enum Movies implements EventController {
     INSTANCE;
@@ -22,7 +23,6 @@ public enum Movies implements EventController {
     private String json;
     private final HashMap<WLCountry, String> countriesJSON;
     private final HashMap<String, String> preEvents, events;
-    private static int MAX_HANDLERS;
 
     Movies() {
         countriesJSON = new HashMap<>();
@@ -81,6 +81,7 @@ public enum Movies implements EventController {
         json = builder.toString();
     }
     private void addMoviesJSON(WLCountry country, HashSet<MovieEvent> movies) {
+        final UpcomingEventType type = getType();
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         for(MovieEvent event : movies) {
@@ -89,7 +90,7 @@ public enum Movies implements EventController {
             final String identifier = getEventIdentifier(date, title);
             events.put(identifier, event.toJSON());
 
-            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(event.getType(), date, title, event.getProductionCompany(), event.getImageURL());
+            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(type, date, title, event.getProductionCompany(), event.getImageURL());
             final String string = preUpcomingEvent.toString();
             preEvents.put(identifier, string);
             builder.append(isFirst ? "" : ",").append(string);
@@ -124,7 +125,7 @@ public enum Movies implements EventController {
         final Document doc = getDocument(url);
         if(doc != null) {
             final Elements table = doc.select("div.mw-body-content div.mw-content-ltr div.mw-parser-output h2 + table.wikitable tbody tr");
-            if(year >= 2016) {
+            if(year >= 2016) { // supported format only until 2016
                 refreshUSAFilms2016(year, url, table, handler);
             }
         }
@@ -135,7 +136,7 @@ public enum Movies implements EventController {
         Month month = null;
         int day = 1;
         final EventSource listOfAmericanFilmsSource = new EventSource("Wikipedia: List of American films of " + year, url);
-        MAX_HANDLERS = 0;
+        final AtomicInteger maxHandlers = new AtomicInteger(0);
         for(Element element : table) {
             String text = element.text();
             final Month targetMonth = getMonthFrom(text, keys);
@@ -152,7 +153,7 @@ public enum Movies implements EventController {
             final Elements rows = element.select("td");
             if(!rows.isEmpty()) {
                 rows.removeIf(row -> row.hasAttr("style"));
-                MAX_HANDLERS += 1;
+                maxHandlers.addAndGet(1);
                 final Element titleElement = rows.get(0);
                 final String title = titleElement.text();
                 final String productionCompany = rows.get(1).text();
@@ -242,12 +243,12 @@ public enum Movies implements EventController {
                         final String img = imgURL != null ? "https:" + imgURL : null;
                         final MovieEvent movie = new MovieEvent(date, title, premise, img, productionCompany, releaseInfo, sources);
                         MOVIES.add(movie);
-                        if(MOVIES.size() == MAX_HANDLERS) {
+                        if(MOVIES.size() == maxHandlers.get()) {
                             handler.handle(MOVIES);
                         }
                     }).start();
                 } else {
-                    MAX_HANDLERS -= 1;
+                    maxHandlers.addAndGet(-1);
                 }
             }
         }

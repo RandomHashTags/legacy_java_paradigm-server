@@ -21,9 +21,9 @@ public final class CountrySingleValue {
     public String toString() {
         return "{" +
                 "\"title\":\"" + title + "\"," +
-                "\"notes\":\"" + notes + "\"," +
+                (notes != null && !notes.isEmpty() ? "\"notes\":\"" + notes + "\"," : "") +
                 "\"value\":\"" + value + "\"," +
-                "\"valueDescription\":\"" + valueDescription + "\"," +
+                (valueDescription != null && !valueDescription.isEmpty() ? "\"valueDescription\":\"" + valueDescription + "\"," : "") +
                 "\"yearOfData\":" + yearOfData + "," +
                 "\"sources\":" + sources.toString() + "," +
                 "}";

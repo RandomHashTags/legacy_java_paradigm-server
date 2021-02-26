@@ -1,0 +1,618 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Kuwait - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBXWOgpAAL0AATfTl@MAAABF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Kuwait","wgTitle":"Public holidays in Kuwait","wgCurRevisionId":951513427,"wgRevisionId":951513427,"wgArticleId":37942470,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","All stub articles","Kuwaiti culture","Kuwaiti society","Lists of public holidays by country","Kuwait stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Public_holidays_in_Kuwait","wgRelevantArticleId":37942470,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q12183705"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Kuwait"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Kuwait&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Kuwait&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Kuwait"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Kuwait rootpage-Public_holidays_in_Kuwait skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Kuwait</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <dl>
+       <dd>
+        This is a list of <b><a href="/wiki/Public_holiday" title="Public holiday">holidays</a> in <a href="/wiki/Kuwait" title="Kuwait">Kuwait</a></b>. Some dates given are according to the solar <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a> widely used internationally and some dates are according to the lunar <a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic calendar</a>.
+       </dd>
+      </dl> 
+      <table class="wikitable" border="1"> 
+       <caption>
+        Public holidays in Kuwait 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th>Day</th> 
+         <th>Holiday </th>
+        </tr> 
+        <tr> 
+         <td>1 January</td> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>25 February</td> 
+         <td><a href="/wiki/National_Day" class="mw-redirect" title="National Day">National Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>26 February</td> 
+         <td><a href="/wiki/Liberation_Day" title="Liberation Day">Liberation Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>12 <a href="/wiki/Rabi%27_al-awwal" class="mw-redirect" title="Rabi' al-awwal">Rabi' al-awwal</a></td> 
+         <td><a href="/wiki/Mawlid" title="Mawlid">Mawlid</a> </td>
+        </tr> 
+        <tr> 
+         <td>1 <a href="/wiki/Muharram" title="Muharram">Muharram</a></td> 
+         <td><a href="/wiki/Islamic_New_Year" title="Islamic New Year">Islamic New Year</a> </td>
+        </tr> 
+        <tr> 
+         <td>27 <a href="/wiki/Rajab" title="Rajab">Rajab</a></td> 
+         <td><a href="/wiki/Isra_and_Mi%27raj" title="Isra and Mi'raj">Isra and Mi'raj</a> </td>
+        </tr> 
+        <tr> 
+         <td>1 to 3 <a href="/wiki/Shawwal" title="Shawwal">Shawwal</a></td> 
+         <td><a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a> </td>
+        </tr> 
+        <tr> 
+         <td>9 <a href="/wiki/Dhu_al-Hijjah" title="Dhu al-Hijjah"> Thu Al-Hujja</a></td> 
+         <td><a href="/wiki/Day_of_Arafah" title="Day of Arafah"> Al-Wuquf Fi Arafa</a> </td>
+        </tr> 
+        <tr> 
+         <td>10 to 13 <a href="/wiki/Dhu_al-Hijjah" title="Dhu al-Hijjah"> Thu Al-Hujja</a></td> 
+         <td><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Kuwait&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Asia" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Asia_topic" title="Template:Asia topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Asia_topic" title="Template talk:Asia topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Asia_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Asia" style="font-size:114%;margin:0 4em">
+            Public holidays in Asia
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Afghanistan" title="Public holidays in Afghanistan">Afghanistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bahrain" title="Public holidays in Bahrain">Bahrain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bangladesh" title="Public holidays in Bangladesh">Bangladesh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bhutan" title="Public holidays in Bhutan">Bhutan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Brunei" title="Public holidays in Brunei">Brunei</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cambodia" title="Public holidays in Cambodia">Cambodia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_China" title="Public holidays in China">China</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_East_Timor" class="mw-redirect" title="Public holidays in East Timor">East Timor (Timor-Leste)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_India" title="Public holidays in India">India</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Indonesia" title="Public holidays in Indonesia">Indonesia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iran" title="Public holidays in Iran">Iran</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iraq" title="Public holidays in Iraq">Iraq</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Israel" title="Public holidays in Israel">Israel</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Japan" title="Public holidays in Japan">Japan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jordan" title="Public holidays in Jordan">Jordan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Korea" title="Public holidays in North Korea">North Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Korea" title="Public holidays in South Korea">South Korea</a></li> 
+             <li><a class="mw-selflink selflink">Kuwait</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kyrgyzstan" title="Public holidays in Kyrgyzstan">Kyrgyzstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Laos" title="Public holidays in Laos">Laos</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lebanon" title="Public holidays in Lebanon">Lebanon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malaysia" title="Public holidays in Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Maldives" title="Public holidays in the Maldives">Maldives</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mongolia" title="Public holidays in Mongolia">Mongolia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Myanmar" title="Public holidays in Myanmar">Myanmar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nepal" title="Public holidays in Nepal">Nepal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Oman" title="Public holidays in Oman">Oman</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Pakistan" title="Public holidays in Pakistan">Pakistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Philippines" title="Public holidays in the Philippines">Philippines</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Qatar" title="Public holidays in Qatar">Qatar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saudi_Arabia" title="Public holidays in Saudi Arabia">Saudi Arabia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Singapore" title="Public holidays in Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sri_Lanka" class="mw-redirect" title="Public holidays in Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Syria" title="Public holidays in Syria">Syria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tajikistan" title="Public holidays in Tajikistan">Tajikistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Thailand" title="Public holidays in Thailand">Thailand</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkmenistan" title="Public holidays in Turkmenistan">Turkmenistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Arab_Emirates" title="Public holidays in the United Arab Emirates">United Arab Emirates</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uzbekistan" title="Public holidays in Uzbekistan">Uzbekistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vietnam" title="Public holidays in Vietnam">Vietnam</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Yemen" title="Public holidays in Yemen">Yemen</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with<br>limited recognition</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_State_of_Palestine" title="Public holidays in the State of Palestine">Palestine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Taiwan" title="Public holidays in Taiwan">Taiwan</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a> and<br>other territories</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Public_holidays_in_the_British_Indian_Ocean_Territory&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in the British Indian Ocean Territory (page does not exist)">British Indian Ocean Territory</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Christmas_Island" title="Public holidays in Christmas Island">Christmas Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cocos_(Keeling)_Islands" title="Public holidays in the Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hong_Kong" title="Public holidays in Hong Kong">Hong Kong</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Macau" title="Public holidays in Macau">Macau</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+           <div> 
+            <ul>
+             <li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Book:Asia" title="Book:Asia">Book</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Asia" title="Category:Asia">Category</a></li> 
+             <li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> <a href="/wiki/Portal:Asia" title="Portal:Asia">Asia portal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Kuwait_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Kuwait_topics" title="Template:Kuwait topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Kuwait_topics" title="Template talk:Kuwait topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Kuwait_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Kuwait_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Kuwait" title="Kuwait">Kuwait</a>&nbsp;<a href="/wiki/Index_of_Kuwait-related_articles" title="Index of Kuwait-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Kuwait" title="History of Kuwait">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Battle_of_Chains" title="Battle of Chains">Battle of Chains</a></li> 
+             <li><a href="/wiki/Sheikhdom_of_Kuwait" title="Sheikhdom of Kuwait">Sheikhdom</a></li> 
+             <li><a href="/wiki/Kuwait-Najd_War" class="mw-redirect" title="Kuwait-Najd War">Kuwait-Najd War</a></li> 
+             <li><a href="/wiki/Gulf_War" title="Gulf War">Gulf War</a></li> 
+             <li><a href="/wiki/Timeline_of_Kuwait_City" title="Timeline of Kuwait City">Timeline of Kuwait City</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Coat_of_arms_of_Kuwait" title="Coat of arms of Kuwait"><img alt="Emblem of Kuwait.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Emblem_of_Kuwait.svg/80px-Emblem_of_Kuwait.svg.png" decoding="async" width="80" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Emblem_of_Kuwait.svg/120px-Emblem_of_Kuwait.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Emblem_of_Kuwait.svg/160px-Emblem_of_Kuwait.svg.png 2x" data-file-width="504" data-file-height="570"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Kuwait" title="Geography of Kuwait">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Template:Borders_of_Kuwait" title="Template:Borders of Kuwait">Borders</a></li> 
+                 <li><a href="/wiki/Geography_of_Kuwait" title="Geography of Kuwait">Geology</a></li> 
+                 <li><a href="/wiki/List_of_islands_of_Kuwait" title="List of islands of Kuwait">Islands</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Kuwait" class="mw-redirect" title="List of rivers of Kuwait">Rivers</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Kuwait" title="Politics of Kuwait">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Administrative_divisions_of_Kuwait" class="mw-redirect" title="Administrative divisions of Kuwait">Administrative divisions</a></li> 
+                 <li><a href="/wiki/Cabinet_of_Kuwait" title="Cabinet of Kuwait">Cabinet</a></li> 
+                 <li><a href="/wiki/Constitution_of_Kuwait" title="Constitution of Kuwait">Constitution</a></li> 
+                 <li><a href="/wiki/List_of_emirs_of_Kuwait" class="mw-redirect" title="List of emirs of Kuwait">Emir</a></li> 
+                 <li><a href="/wiki/Elections_in_Kuwait" title="Elections in Kuwait">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Kuwait" title="Foreign relations of Kuwait">Foreign relations</a></li> 
+                 <li><a href="/wiki/Government_of_Kuwait" title="Government of Kuwait">Government</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_Prime_Ministers_of_Kuwait" class="mw-redirect" title="List of Prime Ministers of Kuwait">Prime Minister</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Human_rights_in_Kuwait" title="Human rights in Kuwait">Human rights</a></li> 
+                 <li><a href="/wiki/National_Assembly_(Kuwait)" title="National Assembly (Kuwait)">Legislature</a></li> 
+                 <li><a href="/wiki/Kuwait_Military_Forces" title="Kuwait Military Forces">Military</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Kuwait" title="List of political parties in Kuwait">Political parties</a></li> 
+                 <li><a href="/wiki/Visa_policy_of_Kuwait" title="Visa policy of Kuwait">Visa policy</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Kuwait" title="Economy of Kuwait">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Central_Bank_of_Kuwait" title="Central Bank of Kuwait">Central Bank</a></li> 
+                 <li><a href="/wiki/Kuwaiti_dinar" title="Kuwaiti dinar">Dinar <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Health_in_Kuwait" title="Health in Kuwait">Health</a></li> 
+                 <li><a href="/wiki/Boursa_Kuwait" title="Boursa Kuwait">Stock Exchange</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Kuwait" title="Telecommunications in Kuwait">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Kuwait" title="Tourism in Kuwait">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Kuwait" title="Transport in Kuwait">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Culture_of_Kuwait" title="Culture of Kuwait">Culture</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_museums_in_Kuwait" title="List of museums in Kuwait">Museums</a></li> 
+                 <li><a href="/wiki/Art_of_Kuwait" title="Art of Kuwait">Art</a></li> 
+                 <li><a href="/wiki/Music_of_Kuwait" title="Music of Kuwait">Music</a></li> 
+                 <li><a href="/wiki/Kuwait_National_Cultural_District" title="Kuwait National Cultural District">Kuwait National Cultural District</a></li> 
+                 <li><a href="/wiki/Cinema_of_Kuwait" title="Cinema of Kuwait">Cinema</a></li> 
+                 <li><a href="/wiki/Television_in_Kuwait" title="Television in Kuwait">Kuwaiti television</a></li> 
+                 <li><a href="/wiki/Kuwaiti_cuisine" title="Kuwaiti cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Demographics_of_Kuwait" title="Demographics of Kuwait">Demographics</a></li> 
+                 <li><a href="/wiki/Education_in_Kuwait" title="Education in Kuwait">Education</a></li> 
+                 <li><a href="/wiki/Languages_of_Kuwait" class="mw-redirect" title="Languages of Kuwait">Languages</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Religion_in_Kuwait" title="Religion in Kuwait">Religion</a></li> 
+                 <li><a href="/wiki/Sport_in_Kuwait" title="Sport in Kuwait">Sport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Kuwait" title="Outline of Kuwait">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Kuwait-related_articles" title="Index of Kuwait-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Kuwait" title="Category:Kuwait">Category</a></li> 
+             <li><a href="/wiki/Portal:Kuwait" title="Portal:Kuwait">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <p><br> </p> 
+      <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+       <tbody>
+        <tr class="noresize">
+         <td><a href="/wiki/File:Flag_of_Kuwait.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/30px-Flag_of_Kuwait.svg.png" decoding="async" width="30" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/45px-Flag_of_Kuwait.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/60px-Flag_of_Kuwait.svg.png 2x" data-file-width="1200" data-file-height="600"></a></td>
+         <td><i>This <a href="/wiki/Kuwait" title="Kuwait">Kuwait</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Kuwait&amp;action=edit">expanding it</a>.</i>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+          <div class="navbar plainlinks hlist navbar-mini" style="position: absolute; right: 15px; display: none;">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Kuwait-stub" title="Template:Kuwait-stub"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Kuwait-stub" title="Template talk:Kuwait-stub"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Kuwait-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> <!-- 
+NewPP limit report
+Parsed by mw1331
+Cached time: 20210108091723
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.380 seconds
+Real time usage: 0.504 seconds
+Preprocessor visited node count: 14016/1000000
+Post‐expand include size: 69721/2097152 bytes
+Template argument size: 11293/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 22/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3366/5000000 bytes
+Lua time usage: 0.105/10.000 seconds
+Lua memory usage: 3425795/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  429.780      1 -total
+ 72.13%  310.008      6 Template:Navbox
+ 56.48%  242.730      1 Template:Asia_in_topic
+ 40.25%  172.984     56 Template:Iso2country
+ 21.22%   91.195      1 Template:Short_description
+ 17.27%   74.219      1 Template:Kuwait_topics
+ 16.30%   70.041      1 Template:Country_topics
+ 15.09%   64.854     56 Template:Iso2country/data
+ 12.86%   55.290     60 Template:Main_other
+  8.88%   38.154      1 Template:SDcat
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:37942470-0!canonical and timestamp 20210108091723 and revision id 951513427. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Kuwait&amp;oldid=951513427">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Kuwait&amp;oldid=951513427</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Kuwaiti_culture" title="Category:Kuwaiti culture">Kuwaiti culture</a></li>
+       <li><a href="/wiki/Category:Kuwaiti_society" title="Category:Kuwaiti society">Kuwaiti society</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Kuwait_stubs" title="Category:Kuwait stubs">Kuwait stubs</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Kuwait" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Kuwait" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Kuwait" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Kuwait" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Kuwait">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Kuwait&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Kuwait&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Kuwait" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Kuwait" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Kuwait&amp;oldid=951513427" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Kuwait&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Kuwait&amp;id=951513427&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12183705" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Kuwait&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Kuwait&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B9%D8%B7%D9%84_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA" title="قائمة العطل الرسمية في الكويت – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12183705#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 17 April 2020, at 15:10<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Kuwait&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.380","walltime":"0.504","ppvisitednodes":{"value":14016,"limit":1000000},"postexpandincludesize":{"value":69721,"limit":2097152},"templateargumentsize":{"value":11293,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3366,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  429.780      1 -total"," 72.13%  310.008      6 Template:Navbox"," 56.48%  242.730      1 Template:Asia_in_topic"," 40.25%  172.984     56 Template:Iso2country"," 21.22%   91.195      1 Template:Short_description"," 17.27%   74.219      1 Template:Kuwait_topics"," 16.30%   70.041      1 Template:Country_topics"," 15.09%   64.854     56 Template:Iso2country/data"," 12.86%   55.290     60 Template:Main_other","  8.88%   38.154      1 Template:SDcat"]},"scribunto":{"limitreport-timeusage":{"value":"0.105","limit":"10.000"},"limitreport-memusage":{"value":3425795,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20210108091723","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Kuwait","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Kuwait","sameAs":"http:\/\/www.wikidata.org\/entity\/Q12183705","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q12183705","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-12-16T03:45:30Z","dateModified":"2020-04-17T15:10:38Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":130,"wgHostname":"mw1385"});});</script> 
+ </body>
+</html>

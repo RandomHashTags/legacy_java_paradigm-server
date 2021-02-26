@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
-import me.randomhashtags.worldlaws.law.*;
+import me.randomhashtags.worldlaws.country.*;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;

@@ -1,0 +1,633 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Nauru - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBWuMwpAICsAAE22HPgAAAEN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Nauru","wgTitle":"Public holidays in Nauru","wgCurRevisionId":1003294446,"wgRevisionId":1003294446,"wgArticleId":495036,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Nauruan culture","Lists of public holidays by country","Events in Nauru"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Nauru","wgRelevantArticleId":
+495036,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q4376366"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready",
+"jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Nauru"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Nauru&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Nauru&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Nauru"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Nauru rootpage-Public_holidays_in_Nauru skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Nauru</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p>This a list of <b><a href="/wiki/Holiday" title="Holiday">holidays</a> in <a href="/wiki/Nauru" title="Nauru">Nauru</a></b>, an island nation in <a href="/wiki/Micronesia" title="Micronesia">Micronesia</a>. </p> 
+      <table class="wikitable sortable"> 
+       <tbody>
+        <tr> 
+         <th scope="col">Date </th> 
+         <th scope="col">Name </th> 
+         <th scope="col">Information </th>
+        </tr> 
+        <tr> 
+         <th scope="row">1 January </th> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> </td> 
+         <td>The first day of the year.<sup id="cite_ref-oed_1-0" class="reference"><a href="#cite_note-oed-1">[1]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <th scope="row">31 January </th> 
+         <td><a href="/wiki/Independence_Day" class="mw-redirect" title="Independence Day">Independence Day</a> </td> 
+         <td>Celebrates the Independence of Nauru, 31 January 1968<sup id="cite_ref-state_2-0" class="reference"><a href="#cite_note-state-2">[2]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <th scope="row">Friday before <a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a> </th> 
+         <td><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> </td> 
+         <td>The anniversary of the death of <a href="/wiki/Jesus" title="Jesus">Jesus</a><sup id="cite_ref-oed2_3-0" class="reference"><a href="#cite_note-oed2-3">[3]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <th scope="row">The day after <a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a> </th> 
+         <td><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> </td> 
+         <td><sup id="cite_ref-oed3_4-0" class="reference"><a href="#cite_note-oed3-4">[4]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <th scope="row">17 May </th> 
+         <td><a href="/wiki/Constitution_Day" title="Constitution Day">Constitution Day</a> </td> 
+         <td>Celebrates when the Constitution of Nauru was created<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <th scope="row">25 September </th> 
+         <td><a href="/wiki/National_Youth_Day" class="mw-redirect" title="National Youth Day">National Youth Day</a> </td> 
+         <td>This emphasis is on healthy living and active pursuits on the island infamous for having the world’s largest percentage of obesity. Volleyball, tug of war and a relay race around the Nauru International Airport airstrip are just some of the competitions held during this vibrant festival.<sup id="cite_ref-iexplore_6-0" class="reference"><a href="#cite_note-iexplore-6">[6]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <th scope="row">26 October </th> 
+         <td><a href="/wiki/Angam_Day" title="Angam Day">Angam Day</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <th scope="row">25 December </th> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <th scope="row">26 December </th> 
+         <td><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a> </td> 
+         <td> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Nauru&amp;action=edit&amp;section=1" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-oed-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-oed_1-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.oed.com/view/Entry/126656?redirectedFrom=New+Year%27s+Day#eid34749957">"Home&nbsp;: Oxford English Dictionary"</a>. oed.com<span class="reference-accessdate">. Retrieved <span class="nowrap">13 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Home+%3A+Oxford+English+Dictionary&amp;rft.pub=oed.com&amp;rft_id=http%3A%2F%2Fwww.oed.com%2Fview%2FEntry%2F126656%3FredirectedFrom%3DNew%2BYear%2527s%2BDay%23eid34749957&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Nauru" class="Z3988"></span></span> </li> 
+         <li id="cite_note-state-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-state_2-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://2009-2017.state.gov/secretary/remarks/2014/01/220773.htm">"Republic of Nauru's Independence Day"</a>. state.gov<span class="reference-accessdate">. Retrieved <span class="nowrap">13 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Republic+of+Nauru%27s+Independence+Day&amp;rft.pub=state.gov&amp;rft_id=https%3A%2F%2F2009-2017.state.gov%2Fsecretary%2Fremarks%2F2014%2F01%2F220773.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Nauru" class="Z3988"></span></span> </li> 
+         <li id="cite_note-oed2-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-oed2_3-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.oed.com/view/Entry/79942?redirectedFrom=Good+Friday#eid">"Home&nbsp;: Oxford English Dictionary"</a>. oed.com<span class="reference-accessdate">. Retrieved <span class="nowrap">13 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Home+%3A+Oxford+English+Dictionary&amp;rft.pub=oed.com&amp;rft_id=http%3A%2F%2Fwww.oed.com%2Fview%2FEntry%2F79942%3FredirectedFrom%3DGood%2BFriday%23eid&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Nauru" class="Z3988"></span></span> </li> 
+         <li id="cite_note-oed3-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-oed3_4-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.oed.com/view/Entry/59097?redirectedFrom=Easter+Monday#eid189455158">"Easter, n.1&nbsp;: Oxford English Dictionary"</a>. oed.com<span class="reference-accessdate">. Retrieved <span class="nowrap">13 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Easter%2C+n.1+%3A+Oxford+English+Dictionary&amp;rft.pub=oed.com&amp;rft_id=http%3A%2F%2Fwww.oed.com%2Fview%2FEntry%2F59097%3FredirectedFrom%3DEaster%2BMonday%23eid189455158&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Nauru" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.athletics-oceania.com/index.php?id=18&amp;tx_ttnews">http://www.athletics-oceania.com/index.php?id=18&amp;tx_ttnews</a>[tt_news]=1720&amp;cHash=027344d..</span> </li> 
+         <li id="cite_note-iexplore-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-iexplore_6-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.iexplore.com/travel-guides/australia-and-south-pacific/nauru/festivals-and-events">"Nauru Holidays and Festivals"</a>. iexplore.com<span class="reference-accessdate">. Retrieved <span class="nowrap">13 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nauru+Holidays+and+Festivals&amp;rft.pub=iexplore.com&amp;rft_id=http%3A%2F%2Fwww.iexplore.com%2Ftravel-guides%2Faustralia-and-south-pacific%2Fnauru%2Ffestivals-and-events&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Nauru" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://calendarific.com/holidays/2021/NR">"Nauru Public Holidays"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nauru+Public+Holidays&amp;rft_id=https%3A%2F%2Fcalendarific.com%2Fholidays%2F2021%2FNR&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Nauru" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Nauru&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130727070348/http://www.un.int/nauru/countryprofile.html">"Nauru Country Profile"</a>. <a href="/wiki/United_Nations" title="United Nations">United Nations</a>. Archived from <a rel="nofollow" class="external text" href="http://www.un.int/nauru/countryprofile.html">the original</a> on 27 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nauru+Country+Profile&amp;rft.pub=United+Nations&amp;rft_id=http%3A%2F%2Fwww.un.int%2Fnauru%2Fcountryprofile.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Nauru" class="Z3988"></span></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Nauru_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Nauru_topics" title="Template:Nauru topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Nauru_topics" title="Template talk:Nauru topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Nauru_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Nauru_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Nauru" title="Nauru">Nauru</a>&nbsp;<a href="/wiki/Index_of_Nauru-related_articles" title="Index of Nauru-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Nauru" title="History of Nauru">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Nauruan_Civil_War" title="Nauruan Civil War">Civil War</a></li> 
+             <li><a href="/wiki/List_of_colonial_governors_of_Nauru" title="List of colonial governors of Nauru">Colonial governors</a></li> 
+             <li><a href="/wiki/German_attacks_on_Nauru" title="German attacks on Nauru">German attacks</a></li> 
+             <li><a href="/wiki/Japanese_occupation_of_Nauru" title="Japanese occupation of Nauru">Japanese occupation</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <span class="flagicon"><a href="/wiki/Nauru" title="Nauru"><img alt="Nauru" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/100px-Flag_of_Nauru.svg.png" decoding="async" width="100" height="50" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/150px-Flag_of_Nauru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/200px-Flag_of_Nauru.svg.png 2x" data-file-width="600" data-file-height="300"></a></span>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Nauru" title="Geography of Nauru">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Canals_in_Nauru" title="Canals in Nauru">Canals</a></li> 
+                 <li><a href="/wiki/Constituencies_of_Nauru" title="Constituencies of Nauru">Constituencies</a></li> 
+                 <li><a href="/wiki/Nauruan_navigational_system" title="Nauruan navigational system">Navigational system</a></li>
+                </ul> 
+               </div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Districts_of_Nauru" class="mw-redirect" title="Districts of Nauru">Districts</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Aiwo_District" title="Aiwo District">Aiwo</a></li> 
+                     <li><a href="/wiki/Anabar_District" title="Anabar District">Anabar</a></li> 
+                     <li><a href="/wiki/Anetan_District" title="Anetan District">Anetan</a></li> 
+                     <li><a href="/wiki/Anibare_District" title="Anibare District">Anibare</a></li> 
+                     <li><a href="/wiki/Baitsi_District" title="Baitsi District">Baitsi</a></li> 
+                     <li><a href="/wiki/Boe_District" title="Boe District">Boe</a></li> 
+                     <li><a href="/wiki/Buada_District" title="Buada District">Buada</a></li> 
+                     <li><a href="/wiki/Denigomodu_District" title="Denigomodu District">Denigomodu</a></li> 
+                     <li><a href="/wiki/Ewa_District,_Nauru" title="Ewa District, Nauru">Ewa</a></li> 
+                     <li><a href="/wiki/Ijuw_District" title="Ijuw District">Ijuw</a></li> 
+                     <li><a href="/wiki/Meneng_District" title="Meneng District">Meneng</a></li> 
+                     <li><a href="/wiki/Nibok_District" title="Nibok District">Nibok</a></li> 
+                     <li><a href="/wiki/Uaboe_District" title="Uaboe District">Uaboe</a></li> 
+                     <li><a href="/wiki/Yaren_District" title="Yaren District">Yaren</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_settlements_in_Nauru" title="List of settlements in Nauru">Settlements</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Aiwo_Constituency" title="Aiwo Constituency">Aiwo</a></li> 
+                     <li><a href="/wiki/Anabar_Constituency" title="Anabar Constituency">Anabar</a></li> 
+                     <li><a href="/wiki/Anetan_Constituency" title="Anetan Constituency">Anetan</a></li> 
+                     <li><a href="/wiki/Boe_Constituency" title="Boe Constituency">Boe</a></li> 
+                     <li><a href="/wiki/Buada_Constituency" title="Buada Constituency">Buada</a></li> 
+                     <li><a href="/wiki/Meneng_Constituency" title="Meneng Constituency">Meneng</a></li> 
+                     <li><a href="/wiki/Ubenide_Constituency" title="Ubenide Constituency">Ubenide</a></li> 
+                     <li><a href="/wiki/Yaren_Constituency" title="Yaren Constituency">Yaren</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Nauru" title="Politics of Nauru">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Constitution_of_Nauru" title="Constitution of Nauru">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Nauru" title="Elections in Nauru">Elections</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Nauru" title="Human rights in Nauru">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/LGBT_rights_in_Nauru" title="LGBT rights in Nauru">LGBT</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Pacific_Solution" title="Pacific Solution">Pacific Solution</a></li> 
+                 <li><a href="/wiki/Parliament_of_Nauru" title="Parliament of Nauru">Parliament</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Nauru" title="List of political parties in Nauru">Political parties</a></li> 
+                 <li><a href="/wiki/President_of_Nauru" title="President of Nauru">President</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Nauru" title="Economy of Nauru">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Category:Companies_of_Nauru" title="Category:Companies of Nauru">Companies</a></li> 
+                 <li><a href="/wiki/Phosphate_mining_in_Nauru" class="mw-redirect" title="Phosphate mining in Nauru">Phosphate mining</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Nauru" title="Telecommunications in Nauru">Telecommunications</a></li> 
+                 <li><a href="/wiki/Transport_in_Nauru" title="Transport in Nauru">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Nauruan_society" title="Category:Nauruan society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Angam_Day" title="Angam Day">Angam Day</a></li> 
+                 <li><a href="/wiki/Culture_of_Nauru" title="Culture of Nauru">Culture</a></li> 
+                 <li><a href="/wiki/Demographics_of_Nauru" title="Demographics of Nauru">Demographics</a></li> 
+                 <li><a href="/wiki/Nauruan_indigenous_religion" title="Nauruan indigenous religion">Indigenous religion</a></li> 
+                 <li><a href="/wiki/Nauruan_Creole" class="mw-redirect" title="Nauruan Creole">Nauruan Creole</a></li> 
+                 <li><a href="/wiki/Nauruan_language" title="Nauruan language">Nauruan language</a></li> 
+                 <li><a href="/wiki/Music_of_Nauru" title="Music of Nauru">Music</a></li> 
+                 <li><a href="/wiki/Obesity_in_Nauru" title="Obesity in Nauru">Obesity</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Category:Sport_in_Nauru" title="Category:Sport in Nauru">Sport</a></li> 
+                 <li><a href="/wiki/Tourism_in_Nauru" title="Tourism in Nauru">Tourism</a></li>
+                </ul> 
+               </div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th id="Landmarks" scope="row" class="navbox-group" style="width:1%">Landmarks</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Menen_Hotel" class="mw-redirect" title="Menen Hotel">Menen Hotel</a></li> 
+                     <li><a href="/wiki/Meneng_Stadium" title="Meneng Stadium">Meneng Stadium</a></li> 
+                     <li><a href="/wiki/Nauru_Regional_Processing_Centre" title="Nauru Regional Processing Centre">Nauru Regional Processing Centre</a></li> 
+                     <li><a href="/wiki/Nauru_Secondary_School" title="Nauru Secondary School">Nauru Secondary School</a></li> 
+                     <li><a href="/wiki/OD-N-Aiwo_Hotel" class="mw-redirect" title="OD-N-Aiwo Hotel">OD-N-Aiwo Hotel</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Nauru" title="Outline of Nauru">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Nauru-related_articles" title="Index of Nauru-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Nauru" title="Category:Nauru">Category</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Oceania" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Oceania_topic" title="Template:Oceania topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Oceania_topic" title="Template talk:Oceania topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Oceania_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Oceania" style="font-size:114%;margin:0 4em">
+            Public holidays in Oceania
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Australia" title="Public holidays in Australia">Australia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Federated_States_of_Micronesia" title="Public holidays in the Federated States of Micronesia">Federated States of Micronesia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Fiji" class="mw-redirect" title="Public holidays in Fiji">Fiji</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kiribati" title="Public holidays in Kiribati">Kiribati</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Marshall_Islands" title="Public holidays in the Marshall Islands">Marshall Islands</a></li> 
+             <li><a class="mw-selflink selflink">Nauru</a></li> 
+             <li><a href="/wiki/Public_holidays_in_New_Zealand" title="Public holidays in New Zealand">New Zealand</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Palau" title="Public holidays in Palau">Palau</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Papua_New_Guinea" title="Public holidays in Papua New Guinea">Papua New Guinea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Samoa" title="Public holidays in Samoa">Samoa</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Solomon_Islands" class="mw-redirect" title="Public holidays in Solomon Islands">Solomon Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tonga" class="mw-redirect" title="Public holidays in Tonga">Tonga</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tuvalu" title="Public holidays in Tuvalu">Tuvalu</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vanuatu" title="Public holidays in Vanuatu">Vanuatu</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Associated states<br>of New Zealand</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_Cook_Islands" title="Public holidays in the Cook Islands">Cook Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Niue" title="Public holidays in Niue">Niue</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies<br>and other territories</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_American_Samoa" class="mw-redirect" title="Public holidays in American Samoa">American Samoa</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Christmas_Island" title="Public holidays in Christmas Island">Christmas Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cocos_(Keeling)_Islands" title="Public holidays in the Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Easter_Island" title="Public holidays in Easter Island">Easter Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_French_Polynesia" title="Public holidays in French Polynesia">French Polynesia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guam" class="mw-redirect" title="Public holidays in Guam">Guam</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hawaii" class="mw-redirect" title="Public holidays in Hawaii">Hawaii</a></li> 
+             <li><a href="/wiki/Public_holidays_in_New_Caledonia" title="Public holidays in New Caledonia">New Caledonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Norfolk_Island" title="Public holidays in Norfolk Island">Norfolk Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Northern_Mariana_Islands" class="mw-redirect" title="Public holidays in the Northern Mariana Islands">Northern Mariana Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Pitcairn_Islands" title="Public holidays in the Pitcairn Islands">Pitcairn Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tokelau" title="Public holidays in Tokelau">Tokelau</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Wallis_and_Futuna" title="Public holidays in Wallis and Futuna">Wallis and Futuna</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20210130140549
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.292 seconds
+Real time usage: 0.394 seconds
+Preprocessor visited node count: 1368/1000000
+Post‐expand include size: 66938/2097152 bytes
+Template argument size: 9063/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 21/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 22318/5000000 bytes
+Lua time usage: 0.145/10.000 seconds
+Lua memory usage: 4966393/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  339.590      1 -total
+ 41.37%  140.481      8 Template:Navbox
+ 36.82%  125.048      1 Template:Reflist
+ 36.56%  124.167      1 Template:Nauru_topics
+ 35.58%  120.819      1 Template:Country_topics
+ 32.92%  111.780      7 Template:Cite_web
+ 20.48%   69.540      1 Template:Short_description
+ 10.92%   37.089      1 Template:Pagetype
+  5.79%   19.656      5 Template:Main_other
+  5.49%   18.660      1 Template:Bulleted_list
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:495036-0!canonical and timestamp 20210130140549 and revision id 1003294446. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Nauru&amp;oldid=1003294446">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Nauru&amp;oldid=1003294446</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Nauruan_culture" title="Category:Nauruan culture">Nauruan culture</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Events_in_Nauru" title="Category:Events in Nauru">Events in Nauru</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Nauru" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Nauru" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Nauru" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Nauru" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Nauru">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Nauru&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Nauru&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Nauru" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Nauru" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Nauru&amp;oldid=1003294446" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Nauru&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Nauru&amp;id=1003294446&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4376366" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Nauru&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Nauru&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Nauru_%C5%A1vent%C4%97s" title="Sąrašas:Nauru šventės – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9D%D0%B0%D1%83%D1%80%D1%83" title="Праздники Науру – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4376366#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 28 January 2021, at 09:04<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Nauru&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.394","ppvisitednodes":{"value":1368,"limit":1000000},"postexpandincludesize":{"value":66938,"limit":2097152},"templateargumentsize":{"value":9063,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":21,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":22318,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  339.590      1 -total"," 41.37%  140.481      8 Template:Navbox"," 36.82%  125.048      1 Template:Reflist"," 36.56%  124.167      1 Template:Nauru_topics"," 35.58%  120.819      1 Template:Country_topics"," 32.92%  111.780      7 Template:Cite_web"," 20.48%   69.540      1 Template:Short_description"," 10.92%   37.089      1 Template:Pagetype","  5.79%   19.656      5 Template:Main_other","  5.49%   18.660      1 Template:Bulleted_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.145","limit":"10.000"},"limitreport-memusage":{"value":4966393,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20210130140549","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Nauru","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Nauru","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4376366","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4376366","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-29T13:30:30Z","dateModified":"2021-01-28T09:04:27Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1322"});});</script> 
+ </body>
+</html>

@@ -2,16 +2,16 @@ package me.randomhashtags.worldlaws.event.space;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.event.EventDate;
-import me.randomhashtags.worldlaws.event.PreUpcomingEvent;
+import me.randomhashtags.worldlaws.PreUpcomingEvent;
 import me.randomhashtags.worldlaws.event.USAEventController;
-import me.randomhashtags.worldlaws.event.UpcomingEventType;
+import me.randomhashtags.worldlaws.UpcomingEventType;
+import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.HashMap;
 import java.util.Timer;
 import java.util.TimerTask;
-import java.util.logging.Level;
 
 public enum SpaceX implements USAEventController {
     INSTANCE;
@@ -77,7 +77,7 @@ public enum SpaceX implements USAEventController {
                         public void handle(Object object) {
                             final JSONObject launchpadJSON = new JSONObject(object.toString());
                             final String location = launchpadJSON.getString("locality") + ", " + launchpadJSON.getString("region");
-                            final SpaceEvent event = new SpaceEvent(type, date, title, description, location, sources);
+                            final SpaceEvent event = new SpaceEvent(date, title, description, location, sources);
                             final String identifier = getEventIdentifier(date, title);
                             events.put(identifier, event.toJSON());
 

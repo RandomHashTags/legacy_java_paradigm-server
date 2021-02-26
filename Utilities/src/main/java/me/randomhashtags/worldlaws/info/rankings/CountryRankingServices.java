@@ -23,10 +23,10 @@ public abstract class CountryRankingServices {
     }
 
     public static Stream<CountryService> getRankingsServices() {
-        return CountryServices.SERVICES.stream().filter(service -> service instanceof CountryRankingService);
+        return CountryServices.SERVICES.parallelStream().filter(service -> service instanceof CountryRankingService);
     }
-    public static CountryRankingService valueOf(String backendID) {
-        final Optional<CountryService> optional = getRankingsServices().filter(service -> backendID.equals(service.getInfo().name().toLowerCase().replace("_", ""))).findFirst();
+    private static CountryRankingService valueOf(String backendID) {
+        final Optional<CountryService> optional = getRankingsServices().filter(service -> backendID.equals(service.getInfo().getTitle().toLowerCase().replace(" ", ""))).findFirst();
         return (CountryRankingService) optional.orElse(null);
     }
 }

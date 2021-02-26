@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.country.usa.state.unfinished;
 
-import me.randomhashtags.worldlaws.law.StateIndex;
-import me.randomhashtags.worldlaws.law.State;
+import me.randomhashtags.worldlaws.country.StateIndex;
+import me.randomhashtags.worldlaws.country.State;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;

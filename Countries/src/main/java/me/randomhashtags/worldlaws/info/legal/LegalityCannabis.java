@@ -34,11 +34,12 @@ public enum LegalityCannabis implements CountryLegalityService {
         }};
     }
 
+    @Override
     public void refresh(CompletionHandler handler) {
         loadStyles();
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Legality_of_cannabis";
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements trs = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         final String title = getInfo().getTitle();
         trs.remove(0);
         trs.removeIf(row -> row.hasAttr("class") && row.attr("class").equals("sortbottom"));

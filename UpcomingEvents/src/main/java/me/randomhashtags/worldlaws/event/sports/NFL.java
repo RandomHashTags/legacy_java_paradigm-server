@@ -3,12 +3,12 @@ package me.randomhashtags.worldlaws.event.sports;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.event.USAEventController;
-import me.randomhashtags.worldlaws.event.UpcomingEventType;
+import me.randomhashtags.worldlaws.UpcomingEventType;
+import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
-import java.util.logging.Level;
 
 public enum NFL implements USAEventController {
     INSTANCE;

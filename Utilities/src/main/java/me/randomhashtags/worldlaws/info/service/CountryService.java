@@ -5,13 +5,13 @@ import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.location.CountryInfo;
+import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.logging.Level;
 
 public interface CountryService extends RestAPI, Jsoupable {
     CountryInfo getInfo();
@@ -23,11 +23,10 @@ public interface CountryService extends RestAPI, Jsoupable {
             handler.handle(value);
         } else {
             final long started = System.currentTimeMillis();
-            final String className = getClassSimpleName();
             refresh(new CompletionHandler() {
                 @Override
                 public void handle(Object object) {
-                    WLLogger.log(Level.INFO, className + " - loaded " + getCountries().size() + " countries/territories (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.log(Level.INFO, getInfo().name() + " - loaded " + getCountries().size() + " countries/territories (took " + (System.currentTimeMillis()-started) + "ms)");
                     final String value = getValue(countryBackendID);
                     handler.handle(value);
                 }

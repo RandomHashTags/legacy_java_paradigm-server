@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -10,7 +11,6 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.logging.Level;
 
 public interface RestAPI {
     HashMap<String, String> CONTENT_HEADERS = new HashMap<>() {{
@@ -60,11 +60,11 @@ public interface RestAPI {
         try {
             final StringBuilder target = new StringBuilder(targetURL);
             int i = 0;
-            if(query != null) {
+            if (query != null) {
                 target.append("?");
-                for(Map.Entry<String, String> entry : query.entrySet()) {
+                for (Map.Entry<String, String> entry : query.entrySet()) {
                     final String key = entry.getKey(), value = entry.getValue();
-                    if(i != 0) {
+                    if (i != 0) {
                         target.append("&");
                     }
                     target.append(key).append("=").append(value);
@@ -74,10 +74,10 @@ public interface RestAPI {
             final String targeturl = target.toString();
             final URL url = new URL(targeturl);
             connection = (HttpURLConnection) url.openConnection();
-            connection.setConnectTimeout(20_000);
+            connection.setConnectTimeout(10_000);
             connection.setRequestMethod(method.getName());
-            if(headers != null) {
-                for(Map.Entry<String, String> entry : headers.entrySet()) {
+            if (headers != null) {
+                for (Map.Entry<String, String> entry : headers.entrySet()) {
                     final String key = entry.getKey(), value = entry.getValue();
                     connection.setRequestProperty(key, value);
                 }
@@ -100,8 +100,7 @@ public interface RestAPI {
                 handler.handle(response.toString());
             } else {
                 final StringBuilder builder = new StringBuilder("RestAPI ERROR!");
-                builder.append("\nDiagnoses = response code < 200 || response code >= 400");
-                builder.append("\nresponseCode=").append(responseCode);
+                builder.append("\nDiagnoses = responseCode=").append(responseCode);
                 builder.append("\ntargeturl=").append(targeturl);
                 builder.append("\nheaderFields=").append(connection.getHeaderFields().toString());
                 try {
@@ -111,12 +110,12 @@ public interface RestAPI {
                 }
                 builder.append("\nheaders=").append(headers != null ? headers.toString() : "null");
                 builder.append("\nerrorStream=").append(connection.getErrorStream());
-                WLLogger.log(Level.WARNING, builder.toString());
+                WLLogger.log(Level.WARN, builder.toString());
                 handler.handle(null);
             }
         } catch (Exception e) {
             if(!targetURL.startsWith("http://localhost")) {
-                WLLogger.log(Level.WARNING, "[REST API] ERROR - \"(" + e.getStackTrace()[0].getClassName() + ") " + e.getMessage() + "\" with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
+                WLLogger.log(Level.ERROR, "[REST API] - \"(" + e.getStackTrace()[0].getClassName() + ") " + e.getMessage() + "\" with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
             }
             handler.handle(null);
         } finally {

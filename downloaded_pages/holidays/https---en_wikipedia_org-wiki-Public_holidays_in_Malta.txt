@@ -1,0 +1,836 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Malta - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBWv2ApAAMEABD3EhEcAAABN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Malta","wgTitle":"Public holidays in Malta","wgCurRevisionId":1001759491,"wgRevisionId":1001759491,"wgArticleId":4424598,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use dmy dates from July 2017","Articles needing additional references from February 2017","All articles needing additional references","Public holidays in Malta","Lists of public holidays by country"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Malta","wgRelevantArticleId":4424598,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q937183"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Malta"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Malta"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Malta rootpage-Public_holidays_in_Malta skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Malta</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p class="mw-empty-elt"> </p> 
+      <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Malta&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Public+holidays+in+Malta%22">"Public holidays in Malta"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Public+holidays+in+Malta%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Public+holidays+in+Malta%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Public+holidays+in+Malta%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Public+holidays+in+Malta%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Public+holidays+in+Malta%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> <small class="date-container"><i>(<span class="date">February 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><a href="/wiki/Malta" title="Malta">Malta</a> is the country with the most <a href="/wiki/Holidays" class="mw-redirect" title="Holidays">holidays</a> in the <a href="/wiki/European_Union" title="European Union">European Union</a>. Since 2005, any holidays falling on Saturdays or Sundays do not add an extra day to the workers' leave pool. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#National_holidays"><span class="tocnumber">1</span> <span class="toctext">National holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Public_holidays"><span class="tocnumber">2</span> <span class="toctext">Public holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Traditional_Feasts"><span class="tocnumber">3</span> <span class="toctext">Traditional Feasts</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-4"><a href="#January"><span class="tocnumber">3.1</span> <span class="toctext">January</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#February"><span class="tocnumber">3.2</span> <span class="toctext">February</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#March"><span class="tocnumber">3.3</span> <span class="toctext">March</span></a></li> 
+          <li class="toclevel-2 tocsection-7"><a href="#April"><span class="tocnumber">3.4</span> <span class="toctext">April</span></a></li> 
+          <li class="toclevel-2 tocsection-8"><a href="#May"><span class="tocnumber">3.5</span> <span class="toctext">May</span></a></li> 
+          <li class="toclevel-2 tocsection-9"><a href="#June"><span class="tocnumber">3.6</span> <span class="toctext">June</span></a></li> 
+          <li class="toclevel-2 tocsection-10"><a href="#July"><span class="tocnumber">3.7</span> <span class="toctext">July</span></a></li> 
+          <li class="toclevel-2 tocsection-11"><a href="#August"><span class="tocnumber">3.8</span> <span class="toctext">August</span></a></li> 
+          <li class="toclevel-2 tocsection-12"><a href="#September"><span class="tocnumber">3.9</span> <span class="toctext">September</span></a></li> 
+          <li class="toclevel-2 tocsection-13"><a href="#October"><span class="tocnumber">3.10</span> <span class="toctext">October</span></a></li> 
+          <li class="toclevel-2 tocsection-14"><a href="#November"><span class="tocnumber">3.11</span> <span class="toctext">November</span></a></li> 
+          <li class="toclevel-2 tocsection-15"><a href="#December"><span class="tocnumber">3.12</span> <span class="toctext">December</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-16"><a href="#Distinction_between_National_and_Public_Holidays"><span class="tocnumber">4</span> <span class="toctext">Distinction between National and Public Holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="National_holidays">National holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=1" title="Edit section: National holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><b>31 March:</b> <a href="/wiki/Freedom_Day_(Malta)" title="Freedom Day (Malta)">Freedom Day</a> ('Jum il-Ħelsien')</li> 
+       <li><b>7 June:</b> <a href="/wiki/Sette_Giugno" title="Sette Giugno">Sette Giugno</a></li> 
+       <li><b>8 September:</b> <a href="/wiki/Victory_Day_(Malta)" title="Victory Day (Malta)">Victory Day</a> ('Jum il-Vitorja')</li> 
+       <li><b>21 September:</b> <a href="/wiki/Independence_Day_(Malta)" title="Independence Day (Malta)">Independence Day</a> ('Jum l-Indipendenza')</li> 
+       <li><b>13 December:</b> <a href="/wiki/Republic_Day_(Malta)" title="Republic Day (Malta)">Republic Day</a> ('Jum ir-Repubblika')</li>
+      </ul> 
+      <h2><span class="mw-headline" id="Public_holidays">Public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=2" title="Edit section: Public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><b>1 January:</b> <a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> ('L-Ewwel tas-Sena')</li> 
+       <li><b>10 February:</b> Feast of <a href="/wiki/Saint_Paul" class="mw-redirect" title="Saint Paul">Saint Paul</a>'s Shipwreck in Malta ('Nawfraġju ta' San Pawl') - the apostle is the patron saint of Malta</li> 
+       <li><b>19 March:</b> Feast of <a href="/wiki/Saint_Joseph" title="Saint Joseph">Saint Joseph</a> ('San Ġużepp')</li> 
+       <li><b>Friday before Easter:</b> <a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> ('Il-Ġimgħa l-Kbira')</li> 
+       <li><b>1 May:</b> <a href="/wiki/May_Day" title="May Day">Worker's Day</a> ('Jum il-Ħaddiem')</li> 
+       <li><b>29 June:</b> Feast of <a href="/wiki/Saint_Peter" title="Saint Peter">Saint Peter</a>; <a href="/wiki/Paul_of_Tarsus" class="mw-redirect" title="Paul of Tarsus">Saint Paul</a>, patron saints ('L-Imnarja')</li> 
+       <li><b>15 August:</b> Feast of the <a href="/wiki/Assumption_of_Mary" title="Assumption of Mary">Assumption of Our Lady</a> ('Santa Marija')</li> 
+       <li><b>8 December:</b> Feast of the <a href="/wiki/Immaculate_Conception" title="Immaculate Conception">Immaculate Conception</a> ('Il-Kunċizzjoni')</li> 
+       <li><b>25 December:</b> <a href="/wiki/Christmas" title="Christmas">Christmas</a> Day ('Il-Milied')</li>
+      </ul> 
+      <h2><span class="mw-headline" id="Traditional_Feasts">Traditional Feasts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=3" title="Edit section: Traditional Feasts">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The following is a list of feasts or special days celebrated in Malta. Note that, with the exception of the dates mentioned in the previous section, these feasts are not public holidays and on these days, business runs as usual across the Maltese islands. As Malta is largely Roman Catholic, most of these feasts celebrate Saints or events from the Holy Bible. </p> 
+      <h3><span class="mw-headline" id="January">January</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=4" title="Edit section: January">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>January by the Maltese is known as 'ix-xahar tal-bard' ('the coldest month') </p> 
+      <ul>
+       <li><b>1 January:</b> New Year's Day ('L-Ewwel tas-Sena' or 'L-Istrina')</li> 
+       <li><b>First Sunday after 1 January:</b> Epiphany ('Epifanija' or 'It-Tre Re')</li> 
+       <li><b>13 January:</b> St Anthony the Abbot ('San Anton Abbati') in <a href="/wiki/Rabat,_Malta" title="Rabat, Malta">Rabat</a></li> 
+       <li><b>25 January:</b> Conversion of Saint Paul ('Konverżjoni ta' San Pawl') in <a href="/wiki/Mdina" title="Mdina">Mdina</a></li>
+      </ul> 
+      <h3><span class="mw-headline" id="February">February</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=5" title="Edit section: February">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>February by the Maltese is known as 'ix-xahar ta' San Pawl' ('Saint Paul's month') </p> 
+      <ul>
+       <li><b>2 February:</b> Candlemas ('Gandlora')</li> 
+       <li><b>3 February:</b> Saint Blase ('San Blas')</li> 
+       <li><b>10 February:</b> Saint Paul Shipwreck ('San Pawl Nawfragu') in <a href="/wiki/Valletta" title="Valletta">Valletta</a>, <a href="/wiki/Marsalforn" title="Marsalforn">Marsalforn</a> and <a href="/wiki/Munxar" title="Munxar">Munxar</a></li> 
+       <li><b>14 February:</b> Saint Valentine ('San Valentinu')</li>
+      </ul> 
+      <h3><span class="mw-headline" id="March">March</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=6" title="Edit section: March">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>March by the Maltese is known as 'ix-xahar ta' San Ġużepp, tal-Lunzjata u tar-roħs' ('Saint Joseph, the Annunciation and Sales' month') </p> 
+      <ul>
+       <li><b>27 March:</b> Jesus of Nazareth ('Ġesù Nazzarenu') in <a href="/wiki/Sliema" title="Sliema">Sliema</a></li> 
+       <li><b>19 March:</b> Saint Joseph ('San Ġużepp') in Rabat</li> 
+       <li><b>25 March:</b> Annunciation ('Il-Lunzjata')</li> 
+       <li><b>31 March:</b> Freedom Day ('Jum il-Helsien')</li>
+      </ul> 
+      <h3><span class="mw-headline" id="April">April</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=7" title="Edit section: April">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>April is known by the Maltese as 'ix-xahar tan-nwhar u ta' San Girgor' ('the month of blossoms and Saint Gregory'). </p> 
+      <ul>
+       <li><b>1 April:</b> April Fool's Day ('Il-Ġifa')</li> 
+       <li><b>First Wednesday after Easter Sunday:</b> Saint Gregory ('San Girgor')</li> 
+       <li><b>6 April:</b> Saint Publius ('San Publju') in <a href="/wiki/Floriana" title="Floriana">Floriana</a></li> 
+       <li><b>23 April:</b> Saint George ('San Ġorġ') in <a href="/wiki/Qormi" title="Qormi">Qormi</a> and <a href="/wiki/Victoria,_Gozo" title="Victoria, Gozo">Rabat</a> (Vi</li>
+      </ul> 
+      <p>The following feasts are moveable, as they can occur either in March or in April. </p> 
+      <ul>
+       <li>Friday before Palm Sunday – Our Lady of Sorrows ('Id-Duluri')</li> 
+       <li>Palm Sunday ('Ħadd il-Palm')</li> 
+       <li>Good Friday ('Il-Ġimgħa l-Kbira')</li> 
+       <li>Easter ('L-Għid' or 'L-Irxoxt')</li>
+      </ul> 
+      <h3><span class="mw-headline" id="May">May</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=8" title="Edit section: May">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>May by the Maltese is known as 'ix-xahar tal-ħsad, tal-Madonna ta' Pompej' ('the month of harvest, Our Lady of Pompeii') </p> 
+      <ul>
+       <li><b>1 May:</b> Saint Joseph the Worker (<a rel="nofollow" class="external text" href="http://www.sanguzepphaddiem.com">www.sanguzepphaddiem.com </a> 'San Ġużepp Ħaddiem' or 'Jum il-Ħaddiem') with a feast at <a href="/wiki/%C4%A6amrun" class="mw-redirect" title="Ħamrun">Ħamrun</a> and <a href="/wiki/Birkirkara" title="Birkirkara">Birkirkara</a></li> 
+       <li><b>2 May:</b> Our Lady of Liesse ('Il-Madonna ta' Liesse') in <a href="/wiki/Valletta" title="Valletta">Valletta</a></li> 
+       <li><b>3 May:</b> Feast of the Cross ('Santu Kruċ') in <a href="/wiki/Birkirkara" title="Birkirkara">Birkirkara</a></li> 
+       <li><b>3 May:</b> St. Augustine ('Santu Wistin') in <a href="/wiki/Valletta" title="Valletta">Valletta</a></li> 
+       <li><b>9 May:</b> Liturgical Feast of Saint George Preca ('San Ġorġ Preca')</li> 
+       <li><b>31 May:</b> Holy Trinity ('Trinità Mqaddsa') in <a href="/wiki/Marsa,_Malta" title="Marsa, Malta">Marsa</a></li> 
+       <li><b>22 May:</b> Saint Rita ('Santa Rita') in <a href="/wiki/Valletta" title="Valletta">Valletta</a></li> 
+       <li><b>24 May:</b> The Annunciation ('Il-Lunzjata')in <a href="/wiki/Tarxien" title="Tarxien">Tarxien</a></li> 
+       <li><b>24 May:</b> Saint Paul ('San Pawl') in <a href="/wiki/Munxar" title="Munxar">Munxar</a>, <a href="/wiki/Gozo" title="Gozo">Gozo</a></li> 
+       <li><b>2 June:</b> Our Lady of Fatima ('Il-Madonna ta' Fatima') in <a href="/wiki/Piet%C3%A0,_Malta" title="Pietà, Malta">Pietà, Malta</a></li> 
+       <li><b>24 May:</b> Saint Joseph ('San Ġużepp') in <a href="/wiki/G%C4%A7axaq" title="Għaxaq">Għaxaq</a></li> 
+       <li><b>31 May:</b> Saint Anthony of Padua ('Sant' Antnin ta' Padova') in <a href="/wiki/Birkirkara" title="Birkirkara">Birkirkara</a></li> 
+       <li><b>Second Sunday of May:</b> Mother's Day ('Jum l-Omm')</li>
+      </ul> 
+      <h3><span class="mw-headline" id="June">June</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=9" title="Edit section: June">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>June by the Maltese is known as 'ix-xahar tad-dris, tal-ħġejjeġ, tal-Imnarja, u tal-Qalb ta' Ġesù' ('the month of reaping, bonfires, Saint Peter and Saint Paul, and Sacred Heart'). </p> 
+      <ul>
+       <li><b>First Sunday of June:</b> Saint Joseph ('San Ġużepp')in <a href="/wiki/G%C4%A7axaq" title="Għaxaq">Għaxaq</a></li> 
+       <li><b>21 June:</b> Christ the Redeemer ('Kristu Redentur') in <a href="/wiki/Senglea" title="Senglea">Senglea</a></li> 
+       <li><b>14 June:</b> Saint Philip ('San Filep') in <a href="/wiki/%C5%BBebbu%C4%A1,_Malta" class="mw-redirect" title="Żebbuġ, Malta">Żebbuġ, Malta</a></li> 
+       <li><b>14 June:</b> Corpus Christi in <a href="/wiki/G%C4%A7asri" title="Għasri">Għasri</a>; Sacred Heart of Jesus ('Il-Qalb ta' Ġesù') in <a href="/wiki/Fontana,_Gozo" title="Fontana, Gozo">Fontana, Gozo</a></li> 
+       <li><b>21 June:</b> Our Lady of Lily ('Il-Madonna tal-Ġilju') in <a href="/wiki/Mqabba" title="Mqabba">Mqabba</a>; Saint Catherine ('Santa Katarina') in <a href="/wiki/%C5%BBejtun" title="Żejtun">Żejtun</a>; Saint John the Baptist ('San Ġwann Battista') in <a href="/wiki/Xewkija" title="Xewkija">Xewkija</a></li> 
+       <li><b>22 June:</b> Our Lady of Lourdes ('Il-Madonna ta' Lourdes') in <a href="/wiki/Qrendi" title="Qrendi">Qrendi</a></li> 
+       <li><b>Third Sunday of June:</b> Father's Day ('Jum il-Missier')</li> 
+       <li><b>29 June:</b> Saint Nicholas ('San Nikola') in <a href="/wiki/Si%C4%A1%C4%A1iewi" title="Siġġiewi">Siġġiewi</a>; Saint George ('San Ġorġ') in <a href="/wiki/Qormi" title="Qormi">Qormi</a>, Our Lady of Sacred Heart ('Il-Qalb Bla Tebgħa ta' Marija') in <a href="/wiki/Burmarrad" title="Burmarrad">Burmarrad</a>; Saint Peter and Saint Paul ('San Pietru u San Pawl: L-Imnarja') in <a href="/wiki/Mdina" title="Mdina">Mdina</a> and <a href="/wiki/Nadur" title="Nadur">Nadur</a></li> 
+       <li><b>Fourth Sunday of June:</b> Saint John ('San Ġwann')</li>
+      </ul> 
+      <h3><span class="mw-headline" id="July">July</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=10" title="Edit section: July">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>July by the Maltese is known as 'tal-Karmnu' ('Our Lady of Mount Carmel'). </p> 
+      <ul>
+       <li><b>5 July:</b> The Visitation ('Il-Viżitazzjoni') in <a href="/wiki/G%C4%A7arb" title="Għarb">Għarb</a>, <a href="/wiki/Gozo" title="Gozo">Gozo</a>; Saint Paul ('San Pawl') in <a href="/wiki/Rabat,_Malta" title="Rabat, Malta">Rabat, Malta</a>; Our Lady of Sacred Heart ('Sacro Cuor') in <a href="/wiki/Sliema" title="Sliema">Sliema</a>; Saint Andrew ('Sant' Andrija'): in <a href="/wiki/Luqa" title="Luqa">Luqa</a>; Our Lady of Lourdes ('Il-Madonna ta' Lourdes') in <a href="/wiki/Qrendi" title="Qrendi">Qrendi</a>; Our Lady of Mount Carmel in <a href="/wiki/Fleur-de-Lys,_Malta" title="Fleur-de-Lys, Malta">Fleur-de-Lys</a></li> 
+       <li><b>12 July:</b> Our Lady of Mount Carmel in <a href="/wiki/Fgura" title="Fgura">Fgura</a></li> 
+       <li><b>13 July:</b> Our Lady of Mount Carmel in <a href="/wiki/G%C5%BCira" title="Gżira">Gżira</a></li> 
+       <li><b>16 July:</b> Our Lady of Mount Carmel ('Il-Madonna tal-Karmnu') in <a href="/wiki/Valletta" title="Valletta">Valletta</a></li> 
+       <li><b>19 July:</b> Our Lady of Mount Carmel in <a href="/wiki/Mdina" title="Mdina">Mdina</a> and <a href="/wiki/Birkirkara" title="Birkirkara">Birkirkara</a></li> 
+       <li><b>20 July:</b> Our Lady of Sorrows ('Marija Sultana Tal-Martri') in <a href="/wiki/St._Paul%27s_Bay" title="St. Paul's Bay">San Pawl Il-Bahar</a></li> 
+       <li><b>26 July:</b> Our Lady of Mount Carmel in <a href="/wiki/Balluta_Bay" title="Balluta Bay">Balluta Bay</a> (<a href="/wiki/San_%C4%A0iljan" class="mw-redirect" title="San Ġiljan">San Ġiljan</a>)</li> 
+       <li><b>Second Sunday of July:</b> Saint Joseph ('San Ġużepp') in <a href="/wiki/%C4%A6al_Kirkop" class="mw-redirect" title="Ħal Kirkop">Ħal Kirkop</a>; the Annunciation ('Marija Annunzjata') in Hal <a href="/wiki/Balzan" title="Balzan">Balzan</a></li> 
+       <li><b>Third Sunday of July:</b> Saint George (San Gorg) in Victoria; Saint Sebastian ('San Bastjan') in Hal <a href="/wiki/Qormi" title="Qormi">Qormi</a>; Sacred Family ('Sagra Familja') in <a href="/wiki/Bidnija" title="Bidnija">Bidnija</a></li> 
+       <li><b>26 July:</b> Saint Anne ('Sant' Anna') in <a href="/wiki/Marsaskala" title="Marsaskala">Marsaskala</a></li> 
+       <li><b>27 July:</b> Saint Venera ('Santa Venera') in <a href="/wiki/Santa_Venera" title="Santa Venera">Santa Venera</a>; Mount Carmel* ('Madonna Tal-Karmnu') in <a href="/wiki/%C5%BBurrieq" title="Żurrieq">Żurrieq</a></li> 
+       <li><b>Last Sunday of July:</b> Christ the King ('Kristu Re') in <a href="/wiki/Paola,_Malta" title="Paola, Malta">Paola, Malta</a></li>
+      </ul> 
+      <h3><span class="mw-headline" id="August">August</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=11" title="Edit section: August">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Saintmaryghaxaq.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Saintmaryghaxaq.JPG/220px-Saintmaryghaxaq.JPG" decoding="async" width="220" height="353" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/e/e2/Saintmaryghaxaq.JPG 1.5x" data-file-width="279" data-file-height="448"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Saintmaryghaxaq.JPG" class="internal" title="Enlarge"></a>
+         </div><a href="/wiki/Assumption_of_Mary" title="Assumption of Mary">Assumption of Mary</a> statue by <a href="/wiki/Mariano_Gerada" title="Mariano Gerada">Mariano Gerada</a>, 1808, <a href="/wiki/G%C4%A7axaq" title="Għaxaq">Għaxaq</a>, Malta
+        </div>
+       </div>
+      </div> 
+      <p>August by the Maltese is known as 'ix-xahar tal-frott, ta' Santa Marija u ta' San Lawrenz' ('the month of fruit, Saint Mary and Saint Lawrence'). </p> 
+      <ul>
+       <li><b>3 August:</b> Saint Peter in Chains ('San Pietru fil-Ktajjen') in <a href="/wiki/Bir%C5%BCebbu%C4%A1a" title="Birżebbuġa">Birżebbuġa</a></li> 
+       <li><b>10 August:</b> Saint Lawrence ('San Lawrenz') in <a href="/wiki/Birgu" title="Birgu">Birgu</a> and San Lawrenz</li> 
+       <li><b>11 August:</b> Saint Gaetan ('San Gejtanu') in <a href="/wiki/%C4%A6amrun" class="mw-redirect" title="Ħamrun">Ħamrun</a></li> 
+       <li><b>15 August:</b> The Seven Saint Marys ('Is-Seba' Santa Marijiet') in <a href="/wiki/G%C4%A7axaq" title="Għaxaq">Għaxaq</a>, <a href="/wiki/Mqabba" title="Mqabba">Mqabba</a>, <a href="/wiki/Qrendi" title="Qrendi">Qrendi</a>, <a href="/wiki/Gudja" title="Gudja">Gudja</a>, <a href="/wiki/Mosta" title="Mosta">Mosta</a>, <a href="/wiki/Attard" title="Attard">Attard</a>, <a href="/wiki/Victoria,_Gozo" title="Victoria, Gozo">Victoria</a> (Rabat, Gozo)</li> 
+       <li><b>16 August:</b> Saint Roque ('Santu Rokku')</li> 
+       <li><b>Nearest Sunday to 18 August:</b> Saint Helen (Santa Elena): in <a href="/wiki/Birkirkara" title="Birkirkara">Birkirkara</a>: Feast celebrated on a Sunday morning</li> 
+       <li><b>Third Sunday of August:</b> Stella Maris (Our Lady Star of the Sea) in <a href="/wiki/Sliema" title="Sliema">Sliema</a></li> 
+       <li><b>29 August:</b> The Martyrdom of Saint John the Baptist ('Il-Martirju ta' San Ġwann')</li> 
+       <li><b>Last Sunday of August:</b> Saint Dominic of Guzman ('San Duminku ta' Guzman') in <a href="/wiki/Birgu" title="Birgu">Birgu</a></li> 
+       <li><b>Last Sunday of August:</b> Saint Julian ('San Ġiljan') in <a href="/wiki/San_%C4%A0iljan" class="mw-redirect" title="San Ġiljan">San Ġiljan</a></li>
+      </ul> 
+      <h3><span class="mw-headline" id="September">September</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=12" title="Edit section: September">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>September by the Maltese is known as 'ix-xahar tal-Vitorja, tal-Bambina, u tal-Grazzja' ('the month of Victory, the Nativity of Our Lady, and Our Lady of Graces'). </p> 
+      <ul>
+       <li><b>8 September:</b> The Nativity of Our Lady (<i>Il-Bambina</i>) in <a href="/wiki/Mellie%C4%A7a" title="Mellieħa">Mellieħa</a>, <a href="/wiki/Naxxar" title="Naxxar">Naxxar</a>, <a href="/wiki/Senglea" title="Senglea">Senglea</a> and <a href="/wiki/Xag%C4%A7ra" title="Xagħra">Xagħra</a></li> 
+       <li><b>First Sunday after 8 September:</b> Our Lady of Graces (<i>Il-Madonna tal-Grazzja</i>)</li> 
+       <li><b>12 September:</b> The Name of Mary (<i>L-Isem ta' Marija</i>)</li> 
+       <li><b>21 September:</b> Independence Day (<i>Jum L-Indipendenza</i>)</li>
+      </ul> 
+      <h3><span class="mw-headline" id="October">October</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=13" title="Edit section: October">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>October by the Maltese is known as 'ix-xahar tar-Rużarju' ('the month of the Rosary'). </p> 
+      <ul>
+       <li>Our Lady of Rosary ('Il-Madonna tar-Rużarju') different villages in Malta and Gozo celebrate Our Lady of Rosary on different days in October</li>
+      </ul> 
+      <h3><span class="mw-headline" id="November">November</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=14" title="Edit section: November">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>By the Maltese, November is known as 'ix-xahar tal-inżigħ tal-weraq, tal-erwieħ, u tal-imwiet' ('the month of fallen leaves, of souls, and of deaths'). </p> 
+      <ul>
+       <li><b>2 November:</b> All Souls Day ('L-Għid tal-Erwieħ')</li> 
+       <li><b>11 November:</b> Saint Martin of Tours ('San Martin')</li> 
+       <li><b>22 November:</b> Saint Cecilia ('Santa Ċeċilja')</li> 
+       <li><b>25 November:</b> Saint Catherine of Alexandria ('Santa Katarina ta' Lixandra')</li> 
+       <li><b>First Sunday after 25 November:</b> Christ the King ('Kristu Re')</li>
+      </ul> 
+      <h3><span class="mw-headline" id="December">December</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=15" title="Edit section: December">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>December by the Maltese is known as 'ix-xahar tal-Milied u tal-Kunċizzjoni' ('the Christmas and Conception month') </p> 
+      <ul>
+       <li><b>8 December:</b> Immaculate conception, with the Traditional Festa in Cospicua</li> 
+       <li><b>13 December:</b> <a href="/wiki/Republic_Day_(Malta)" title="Republic Day (Malta)">Republic Day</a> ('Jum ir-Repubblika'), Saint Lucy ('Santa Luċija') in <a href="/wiki/Imtarfa" class="mw-redirect" title="Imtarfa">Imtarfa</a></li> 
+       <li><b>25 December:</b> Christmas ('Il-Milied'), with its traditional procession with the statue of Infant <a href="/wiki/Jesus" title="Jesus">Jesus</a></li> 
+       <li><b>26 December:</b> Saint Stephen ('San Stiefnu')</li> 
+       <li><b>28 December:</b> Innocent Saints ('L-Innoċenti Martri')</li> 
+       <li><b>31 December:</b> Saint Silvester ('San Silvestru')</li>
+      </ul> 
+      <h2><span class="mw-headline" id="Distinction_between_National_and_Public_Holidays">Distinction between National and Public Holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=16" title="Edit section: Distinction between National and Public Holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Article 3 of the National Holidays and Other Public Holidays Act (chapter 252) provides the distinction between National and Public Holidays.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+      <blockquote> 
+       <p>The National Holidays shall be public holidays and on those occasions there shall be flown on public buildings the National Flag of Malta. </p> 
+      </blockquote> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.justiceservices.gov.mt/DownloadDocument.aspx?app=lom&amp;itemid=8746">"National Holidays and Other Public Holidays Act (chapter 252)"</a>. Maltese Government. 27 June 1975.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=National+Holidays+and+Other+Public+Holidays+Act+%28chapter+252%29&amp;rft.pub=Maltese+Government&amp;rft.date=1975-06-27&amp;rft_id=http%3A%2F%2Fwww.justiceservices.gov.mt%2FDownloadDocument.aspx%3Fapp%3Dlom%26itemid%3D8746&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Malta" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Malta_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Malta_topics" title="Template:Malta topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Malta_topics" title="Template talk:Malta topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Malta_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Malta_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Malta" title="Malta">Malta</a>&nbsp;<a href="/wiki/Index_of_Malta-related_articles" title="Index of Malta-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Malta" title="History of Malta">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Timeline_of_Maltese_history" title="Timeline of Maltese history">Timeline</a></li> 
+             <li><a href="/wiki/Megalithic_Temples_of_Malta" title="Megalithic Temples of Malta">Megalithic Temples</a></li> 
+             <li><a href="/wiki/Phoenicia" title="Phoenicia">Phoenicians</a></li> 
+             <li><a href="/wiki/Ancient_Carthage" title="Ancient Carthage">Carthaginian Empire</a></li> 
+             <li><a href="/wiki/Roman_Republic" title="Roman Republic">Roman Republic</a> 
+              <ul>
+               <li><a href="/wiki/Capture_of_Malta_(218_BC)" title="Capture of Malta (218 BC)">Invasion</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a></li> 
+             <li><a href="/wiki/Byzantine_Malta" title="Byzantine Malta">Byzantine rule</a></li> 
+             <li><a href="/wiki/History_of_Malta#Arab_period" title="History of Malta">Arab Period</a> 
+              <ul>
+               <li><a href="/wiki/Siege_of_Melite_(870)" title="Siege of Melite (870)">Aghlabid invasion</a></li> 
+               <li><a href="/wiki/Siege_of_Medina_(1053%E2%80%9354)" title="Siege of Medina (1053–54)">Byzantine invasion</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Kingdom_of_Sicily" title="Kingdom of Sicily">Kingdom of Sicily</a> 
+              <ul>
+               <li><a href="/wiki/Norman_invasion_of_Malta" title="Norman invasion of Malta">Norman invasion</a></li> 
+               <li><a href="/wiki/Battle_of_Malta" title="Battle of Malta">Battle of Malta</a></li> 
+               <li><a href="/wiki/Siege_of_Malta_(1429)" title="Siege of Malta (1429)">Hafsid invasion</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Hospitaller_Malta" title="Hospitaller Malta">Order of Saint John</a> 
+              <ul>
+               <li><a href="/wiki/Invasion_of_Gozo_(1551)" title="Invasion of Gozo (1551)">Invasion of Gozo</a></li> 
+               <li><a href="/wiki/Great_Siege_of_Malta" title="Great Siege of Malta">Great Siege</a></li> 
+               <li><a href="/wiki/Rising_of_the_Priests" title="Rising of the Priests">Rising of the Priests</a></li>
+              </ul></li> 
+             <li><a href="/wiki/French_occupation_of_Malta" title="French occupation of Malta">French occupation</a> 
+              <ul>
+               <li><a href="/wiki/French_invasion_of_Malta" title="French invasion of Malta">Invasion</a></li> 
+               <li><a href="/wiki/Siege_of_Malta_(1798%E2%80%931800)" title="Siege of Malta (1798–1800)">Blockade</a></li> 
+               <li><a href="/wiki/Gozo_(independent_state)" title="Gozo (independent state)">Independent Gozo</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Malta_Protectorate" title="Malta Protectorate">British Protectorate</a></li> 
+             <li><a href="/wiki/Crown_Colony_of_Malta" title="Crown Colony of Malta">British Colony</a> 
+              <ul>
+               <li><a href="/wiki/Language_Question_(Malta)" title="Language Question (Malta)">Language Question</a></li> 
+               <li><a href="/wiki/Malta_exiles" title="Malta exiles">Exiles</a></li> 
+               <li><a href="/wiki/Siege_of_Malta_(World_War_II)" title="Siege of Malta (World War II)">World War II</a></li> 
+               <li><a href="/wiki/Award_of_the_George_Cross_to_Malta" title="Award of the George Cross to Malta">Award of the George Cross</a></li>
+              </ul></li> 
+             <li><a href="/wiki/State_of_Malta" title="State of Malta">State of Malta</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Malta" title="Malta"><img alt="Malta" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Arms_of_Malta.svg/80px-Arms_of_Malta.svg.png" decoding="async" width="80" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Arms_of_Malta.svg/120px-Arms_of_Malta.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Arms_of_Malta.svg/160px-Arms_of_Malta.svg.png 2x" data-file-width="300" data-file-height="350"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Malta" title="Geography of Malta">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Category:Caves_of_Malta" title="Category:Caves of Malta">Caves</a></li> 
+                 <li><a href="/wiki/Climate_of_Malta" title="Climate of Malta">Climate</a></li> 
+                 <li><a href="/wiki/Geology_of_Malta" title="Geology of Malta">Geology</a></li> 
+                 <li><a href="/wiki/Fortifications_of_Malta" title="Fortifications of Malta">Fortifications</a></li> 
+                 <li><a href="/wiki/Category:Islands_of_Malta" title="Category:Islands of Malta">Islands</a></li> 
+                 <li><a href="https://commons.wikimedia.org/wiki/Category:Maps_of_Malta" class="extiw" title="commons:Category:Maps of Malta">Maps</a></li> 
+                 <li><a href="/wiki/List_of_towns_in_Malta" title="List of towns in Malta">Areas</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Malta" title="Politics of Malta">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Armed_Forces_of_Malta" title="Armed Forces of Malta">Armed Forces</a></li> 
+                 <li><a href="/wiki/Constitution_of_Malta" title="Constitution of Malta">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Malta" title="Elections in Malta">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Malta" title="Foreign relations of Malta">Foreign relations</a> 
+                  <ul>
+                   <li><a href="/wiki/Ministry_for_Foreign_and_European_Affairs_(Malta)" title="Ministry for Foreign and European Affairs (Malta)">Ministry for Foreign and European Affairs</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/List_of_heads_of_state_of_Malta" title="List of heads of state of Malta">Heads of state</a></li> 
+                 <li><a href="/wiki/LGBT_rights_in_Malta" title="LGBT rights in Malta">LGBT rights</a></li> 
+                 <li><a href="/wiki/Local_councils_of_Malta" title="Local councils of Malta">Local councils</a></li> 
+                 <li><a href="/wiki/Parliament_of_Malta" title="Parliament of Malta">Parliament</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Malta" title="List of political parties in Malta">Political parties</a></li> 
+                 <li><a href="/wiki/President_of_Malta" title="President of Malta">President</a></li> 
+                 <li><a href="/wiki/Prime_Minister_of_Malta" title="Prime Minister of Malta">Prime Minister</a></li> 
+                 <li><a href="/wiki/Chief_of_Staff_to_the_Prime_Minister_(Malta)" title="Chief of Staff to the Prime Minister (Malta)">Chief of Staff</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Malta" title="Economy of Malta">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Central_Bank_of_Malta" title="Central Bank of Malta">Central Bank</a></li> 
+                 <li><a href="/wiki/Euro" title="Euro">Currency</a></li> 
+                 <li><a href="/wiki/Energy_in_Malta" title="Energy in Malta">Energy</a></li> 
+                 <li><a href="/wiki/Malta_Stock_Exchange" title="Malta Stock Exchange">Stock exchange</a></li> 
+                 <li><a href="/wiki/Taxation_in_Malta" title="Taxation in Malta">Taxation</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Malta" title="Telecommunications in Malta">Telecommunications</a></li> 
+                 <li><a href="/wiki/Category:Trade_unions_in_Malta" title="Category:Trade unions in Malta">Trade unions</a></li> 
+                 <li><a href="/wiki/Transport_in_Malta" title="Transport in Malta">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Maltese_society" title="Category:Maltese society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Demographics_of_Malta" title="Demographics of Malta">Demographics</a></li> 
+                 <li><a href="/wiki/Emigration_from_Malta" title="Emigration from Malta">Emigration</a></li> 
+                 <li><a href="/wiki/Immigration_to_Malta" title="Immigration to Malta">Immigration</a></li> 
+                 <li><a href="/wiki/Education_in_Malta" title="Education in Malta">Education</a></li> 
+                 <li><a href="/wiki/Healthcare_in_Malta" title="Healthcare in Malta">Healthcare</a></li> 
+                 <li><a href="/wiki/Languages_of_Malta" title="Languages of Malta">Languages</a></li> 
+                 <li><a href="/wiki/Maltese_people" title="Maltese people">Maltese</a></li> 
+                 <li><a href="/wiki/Religion_in_Malta" title="Religion in Malta">Religion</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Malta" title="Culture of Malta">Culture</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Architecture_of_Malta" title="Architecture of Malta">Architecture</a></li> 
+                 <li><a href="/wiki/Maltese_Carnival" title="Maltese Carnival">Maltese Carnival</a></li> 
+                 <li><a href="/wiki/Coat_of_arms_of_Malta" title="Coat of arms of Malta">Coat of arms</a></li> 
+                 <li><a href="/wiki/Maltese_cross" title="Maltese cross">Maltese cross</a></li> 
+                 <li><a href="/wiki/Maltese_cuisine" title="Maltese cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/List_of_Maltese_films" title="List of Maltese films">Film</a></li> 
+                 <li><a href="/wiki/Flag_of_Malta" title="Flag of Malta">Flag</a></li> 
+                 <li><a href="/wiki/Maltese_folklore" title="Maltese folklore">Folklore</a></li> 
+                 <li><a href="/wiki/Maltese_literature" title="Maltese literature">Literature</a></li> 
+                 <li><a href="/wiki/Music_of_Malta" title="Music of Malta">Music</a></li> 
+                 <li><a href="/wiki/Philosophy_in_Malta" title="Philosophy in Malta">Philosophy</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Sport_in_Malta" title="Sport in Malta">Sport</a></li> 
+                 <li><a href="/wiki/Symbols_of_Malta" class="mw-redirect" title="Symbols of Malta">Symbols</a></li> 
+                 <li><a href="/wiki/List_of_World_Heritage_Sites_in_Malta" title="List of World Heritage Sites in Malta">World Heritage Sites</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Malta" title="Outline of Malta">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Malta-related_articles" title="Index of Malta-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Malta" title="Category:Malta">Category</a></li> 
+             <li><a href="/wiki/Portal:Malta" title="Portal:Malta">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Europe" title="Template:Public holidays in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Europe" title="Template talk:Public holidays in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Europe" style="font-size:114%;margin:0 4em">
+            Public holidays in Europe
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Albania" title="Public holidays in Albania">Albania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Andorra" title="Public holidays in Andorra">Andorra</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Austria" title="Public holidays in Austria">Austria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belarus" title="Public holidays in Belarus">Belarus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belgium" title="Public holidays in Belgium">Belgium</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bosnia_and_Herzegovina" title="Public holidays in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bulgaria" title="Public holidays in Bulgaria">Bulgaria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Croatia" title="Public holidays in Croatia">Croatia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Czech_Republic" title="Public holidays in the Czech Republic">Czech Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Denmark" title="Public holidays in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Estonia" title="Public holidays in Estonia">Estonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Finland" title="Public holidays in Finland">Finland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_France" title="Public holidays in France">France</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Germany" title="Public holidays in Germany">Germany</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greece" title="Public holidays in Greece">Greece</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hungary" title="Public holidays in Hungary">Hungary</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iceland" title="Public holidays in Iceland">Iceland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Ireland" title="Public holidays in the Republic of Ireland">Ireland</a></li> 
+             <li class="mw-empty-elt"></li> 
+             <li><a href="/wiki/Public_holidays_in_Italy" title="Public holidays in Italy">Italy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Latvia" title="Public holidays in Latvia">Latvia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liechtenstein" title="Public holidays in Liechtenstein">Liechtenstein</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lithuania" title="Public holidays in Lithuania">Lithuania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Luxembourg" title="Public holidays in Luxembourg">Luxembourg</a></li> 
+             <li><a class="mw-selflink selflink">Malta</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Moldova" title="Public holidays in Moldova">Moldova</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Monaco" title="Public holidays in Monaco">Monaco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montenegro" title="Public holidays in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Netherlands" title="Public holidays in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Macedonia" title="Public holidays in North Macedonia">North Macedonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Norway" title="Public holidays in Norway">Norway</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Poland" title="Public holidays in Poland">Poland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Portugal" title="Public holidays in Portugal">Portugal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Romania" title="Public holidays in Romania">Romania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_San_Marino" class="mw-redirect" title="Public holidays in San Marino">San Marino</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Serbia" title="Public holidays in Serbia">Serbia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovakia" title="Public holidays in Slovakia">Slovakia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovenia" title="Public holidays in Slovenia">Slovenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Spain" title="Public holidays in Spain">Spain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sweden" title="Public holidays in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Switzerland" title="Public holidays in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ukraine" title="Public holidays in Ukraine">Ukraine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Kingdom" title="Public holidays in the United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vatican_City" title="Public holidays in Vatican City">Vatican City</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">States with limited<br>recognition</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kosovo" title="Public holidays in Kosovo">Kosovo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Transnistria" title="Public holidays in Transnistria">Transnistria</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies and<br>other entities</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_%C3%85land" title="Public holidays in Åland">Åland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Faroe_Islands" title="Public holidays in the Faroe Islands">Faroe Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gibraltar" title="Public holidays in Gibraltar">Gibraltar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guernsey" title="Public holidays in Guernsey">Guernsey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Isle_of_Man" title="Public holidays in the Isle of Man">Isle of Man</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jersey" title="Public holidays in Jersey">Jersey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Svalbard" title="Public holidays in Svalbard">Svalbard</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other entities</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_European_Union" title="Public holidays in the European Union">European Union</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1384
+Cached time: 20210130152252
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.600 seconds
+Real time usage: 0.964 seconds
+Preprocessor visited node count: 12144/1000000
+Post‐expand include size: 91707/2097152 bytes
+Template argument size: 13652/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 26/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5363/5000000 bytes
+Lua time usage: 0.209/10.000 seconds
+Lua memory usage: 6374771/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  871.336      1 -total
+ 40.42%  352.206      6 Template:Navbox
+ 33.15%  288.853      1 Template:Short_description
+ 29.04%  253.012      1 Template:Pagetype
+ 26.25%  228.721      1 Template:Public_holidays_in_Europe
+ 25.91%  225.723      1 Template:Europe_topic
+ 21.61%  188.333     49 Template:Iso2country
+ 16.86%  146.871      1 Template:Malta_topics
+ 16.34%  142.349      1 Template:Country_topics
+ 11.56%  100.711      1 Template:Reflist
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:4424598-0!canonical and timestamp 20210130152251 and revision id 1001759491. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Malta&amp;oldid=1001759491">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Malta&amp;oldid=1001759491</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Malta" title="Category:Public holidays in Malta">Public holidays in Malta</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_July_2017" title="Category:Use dmy dates from July 2017">Use dmy dates from July 2017</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2017" title="Category:Articles needing additional references from February 2017">Articles needing additional references from February 2017</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Malta" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Malta" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Malta" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Malta" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Malta">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Malta" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Malta" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Malta&amp;oldid=1001759491" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Malta&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Malta&amp;id=1001759491&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q937183" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Malta&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Malta&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:National_holidays_of_Malta" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/F%C3%AAtes_et_jours_f%C3%A9ri%C3%A9s_%C3%A0_Malte" title="Fêtes et jours fériés à Malte – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Publiczne_%C5%9Bwi%C4%99ta_na_Malcie" title="Publiczne święta na Malcie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q937183#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 21 January 2021, at 05:20<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Malta&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.600","walltime":"0.964","ppvisitednodes":{"value":12144,"limit":1000000},"postexpandincludesize":{"value":91707,"limit":2097152},"templateargumentsize":{"value":13652,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":26,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5363,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  871.336      1 -total"," 40.42%  352.206      6 Template:Navbox"," 33.15%  288.853      1 Template:Short_description"," 29.04%  253.012      1 Template:Pagetype"," 26.25%  228.721      1 Template:Public_holidays_in_Europe"," 25.91%  225.723      1 Template:Europe_topic"," 21.61%  188.333     49 Template:Iso2country"," 16.86%  146.871      1 Template:Malta_topics"," 16.34%  142.349      1 Template:Country_topics"," 11.56%  100.711      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.209","limit":"10.000"},"limitreport-memusage":{"value":6374771,"limit":52428800}},"cachereport":{"origin":"mw1384","timestamp":"20210130152252","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Malta","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Malta","sameAs":"http:\/\/www.wikidata.org\/entity\/Q937183","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q937183","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-03-17T19:26:54Z","dateModified":"2021-01-21T05:20:43Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135,"wgHostname":"mw1389"});});</script> 
+ </body>
+</html>

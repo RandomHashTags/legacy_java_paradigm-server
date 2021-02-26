@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.event.entertainment;
 
+import me.randomhashtags.worldlaws.UpcomingEventType;
 import me.randomhashtags.worldlaws.event.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.event.UpcomingEvent;
-import me.randomhashtags.worldlaws.event.UpcomingEventType;
 
 import java.util.List;
 
@@ -65,7 +65,6 @@ public final class VideoGameEvent implements UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
-                "\"coverArtURL\":\"" + coverArtURL + "\"," +
                 "\"platforms\":" + getPlatformsJSON(true) +
                 "}";
     }

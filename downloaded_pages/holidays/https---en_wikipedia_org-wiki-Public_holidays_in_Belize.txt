@@ -1,0 +1,769 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Belize - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBXnGiUGEkHveY85maegRgAAANU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Belize","wgTitle":"Public holidays in Belize","wgCurRevisionId":1003203292,"wgRevisionId":1003203292,"wgArticleId":19400366,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Public holidays in Belize","Belizean society","Belizean culture"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Belize","wgRelevantArticleId":19400366,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q7257760"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Belize"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Belize&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Belize&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Belize"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Belize rootpage-Public_holidays_in_Belize skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Belize</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p>This is a list of <b>public holidays in <a href="/wiki/Belize" title="Belize">Belize</a></b>. </p> 
+      <h2><span class="mw-headline" id="Public_holidays">Public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Belize&amp;action=edit&amp;section=1" title="Edit section: Public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable sortable"> 
+       <tbody>
+        <tr> 
+         <th>Date </th> 
+         <th>Day </th> 
+         <th>Observance </th> 
+         <th>Observance rule </th> 
+         <th>Explanatory note </th>
+        </tr> 
+        <tr> 
+         <td>1 January </td> 
+         <td> </td> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> </td> 
+         <td>fixed at 1 January (see Note 1) </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>9 March </td> 
+         <td> </td> 
+         <td><a href="/wiki/Baron_Bliss_Day" class="mw-redirect" title="Baron Bliss Day">National Heroes &amp; Benefactors Day</a> </td> 
+         <td>9 March (see Note 2) </td> 
+         <td>This day was originally designated "Baron Bliss Day" to honor a wealthy Englishman who left his fortune to the former <a href="/wiki/British_Honduras" title="British Honduras">British Honduras</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>** </td> 
+         <td><i>Monday</i> </td> 
+         <td><i>National Heroes and Benefactors Day (in lieu of)</i> </td> 
+         <td>see Note 2 </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>* </td> 
+         <td>Friday </td> 
+         <td><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> </td> 
+         <td>fixed by church calendar (moveable) </td> 
+         <td>Crucifixion of Jesus </td>
+        </tr> 
+        <tr> 
+         <td>* </td> 
+         <td>Saturday </td> 
+         <td><a href="/wiki/Holy_Saturday" title="Holy Saturday">Holy Saturday</a> </td> 
+         <td>fixed by church calendar (moveable) </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>* </td> 
+         <td>Sunday </td> 
+         <td><a href="/wiki/Easter" title="Easter">Easter</a> </td> 
+         <td>fixed by church calendar (moveable) </td> 
+         <td>Resurrection of Jesus </td>
+        </tr> 
+        <tr> 
+         <td>* </td> 
+         <td>Monday </td> 
+         <td><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> </td> 
+         <td>fixed by church calendar (moveable) </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>1 May </td> 
+         <td> </td> 
+         <td><a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a> </td> 
+         <td>fixed at May 1 (see Note 1) </td> 
+         <td>Also called International Workers' Day </td>
+        </tr> 
+        <tr> 
+         <td>** </td> 
+         <td><i>Monday</i> </td> 
+         <td><i>Labour Day (in lieu of)</i> </td> 
+         <td>see Note 1 </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>24 May </td> 
+         <td> </td> 
+         <td><a href="/wiki/Commonwealth_Day" title="Commonwealth Day">Commonwealth Day</a> </td> 
+         <td>24 May (see Note 2) </td> 
+         <td>Formerly Sovereign's Day; honors the monarch's birthday </td>
+        </tr> 
+        <tr> 
+         <td>** </td> 
+         <td><i>Monday</i> </td> 
+         <td><i>Commonwealth Day (in lieu of)</i> </td> 
+         <td>see Note 1 </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>10 September </td> 
+         <td> </td> 
+         <td><a href="/wiki/September_Celebrations" title="September Celebrations">Saint George's Caye Day</a> (or National Day) </td> 
+         <td>fixed at 10 September (see Note 1) </td> 
+         <td>The <a href="/wiki/Battle_of_St._George%27s_Caye" title="Battle of St. George's Caye">Battle of St. George's Caye</a> was a key battle involving British colonists, freed slaves who worked as lumber cutters, and pirates who fought against the Spanish Empire in 1798. There is an annual <a href="/wiki/Regatta" title="Regatta">regatta</a> in <a href="/wiki/San_Pedro_Town" title="San Pedro Town">San Pedro Town</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>21 September </td> 
+         <td> </td> 
+         <td><a href="/wiki/September_Celebrations" title="September Celebrations">Independence Day</a> </td> 
+         <td>fixed at 21 September (see Note 1) </td> 
+         <td>"British Honduras" became "Belize" in 1973 and was granted independence by Great Britain in 1981.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>** </td> 
+         <td><i>Monday</i> </td> 
+         <td><i>Independence Day (in lieu of)</i> </td> 
+         <td>see Note 1 </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>12 October </td> 
+         <td> </td> 
+         <td><a href="/wiki/Pan_American_Day#Belize" title="Pan American Day">Pan America Day</a> </td> 
+         <td>12 October (see Note 2) </td> 
+         <td>Formerly called <a href="/wiki/Columbus_Day#Caribbean_observance" title="Columbus Day">Columbus Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>** </td> 
+         <td><i>Monday</i> </td> 
+         <td><i>Pan America Day (in lieu of)</i> </td> 
+         <td>See Note 2 </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>19 November </td> 
+         <td> </td> 
+         <td><a href="/wiki/Garifuna_Settlement_Day" title="Garifuna Settlement Day">Garifuna Settlement Day</a> </td> 
+         <td>fixed at 19 November (see Note 1) </td> 
+         <td>Since 1941, this holiday has honoured the <a href="/wiki/Garifuna" title="Garifuna">Garifuna</a> people, a group of mixed-race people with African and Carib roots.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>25 December </td> 
+         <td> </td> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a> </td> 
+         <td>fixed at 25 December (see Note 1) </td> 
+         <td>Birth of Jesus </td>
+        </tr> 
+        <tr> 
+         <td>26 December </td> 
+         <td> </td> 
+         <td><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a> </td> 
+         <td>fixed at 26 December (see Note 1) </td> 
+         <td>This is a day set aside for charitable works, although many people participate in sports or go shopping.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>** </td> 
+         <td><i>Monday</i> </td> 
+         <td><i>Boxing Day (in lieu of)</i> </td> 
+         <td>see Note 1 </td> 
+         <td> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <ul>
+       <li>(*) Moveable holidays</li> 
+       <li>(**) Replacement days: 
+        <ul>
+         <li><b>Note 1</b> - Chapter 289 of the laws of Belize states that if the holiday falls on a Sunday, the following Monday is observed as the bank and public holiday.</li> 
+         <li><b>Note 2</b> - Chapter 289 of the laws of Belize states that if the holiday falls on a Sunday or a Friday, the following Monday is observed as the bank and public holiday; further, if the holiday falls on a Tuesday, Wednesday or Thursday, the preceding Monday is observed as the bank and public holiday.</li>
+        </ul></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Variable_holidays">Variable holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Belize&amp;action=edit&amp;section=2" title="Edit section: Variable holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r998391716">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style>
+      <div class="div-col"> 
+       <ul>
+        <li><a href="/wiki/2020_in_Belize" class="mw-redirect" title="2020 in Belize">2020</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> 
+         <ul>
+          <li>9 March, Monday: National Heroes and Benefactors Day</li> 
+          <li>10 April, Friday: Good Friday</li> 
+          <li>11 April, Saturday: Holy Saturday</li> 
+          <li>13 April, Monday: Easter Monday</li> 
+          <li>25 May, Monday: Commonwealth Day</li> 
+          <li>28 Dececember, Monday: Boxing Day Holiday</li>
+         </ul></li> 
+        <li><a href="/wiki/2021_in_Belize" title="2021 in Belize">2021</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> 
+         <ul>
+          <li>2 April, Friday: Good Friday</li> 
+          <li>3 April, Saturday: Holy Saturday</li> 
+          <li>5 April, Monday: Easter Monday</li> 
+          <li>24 May, Monday: Commonwealth Day</li> 
+          <li>11 October, Monday: Pan America Day</li> 
+          <li>27 Dececeber, Monday: Boxing Day Holiday</li>
+         </ul></li> 
+        <li>2022<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> 
+         <ul>
+          <li>7 March, Monday: National Heroes and Benefactors Day</li> 
+          <li>15 April, Friday: Good Friday</li> 
+          <li>16 April, Saturday: Holy Saturday</li> 
+          <li>18 April, Monday: Easter Monday</li> 
+          <li>2 May Monday: Labour Day Holiday</li> 
+          <li>23 May, Monday: Commonwealth Day</li> 
+          <li>10 October, Monday: Pan America Day</li>
+         </ul></li> 
+        <li>2023<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> 
+         <ul>
+          <li>2 January, Monday: New Year Holiday</li> 
+          <li>6 March, Monday: National Heroes and Benefactors Day</li> 
+          <li>7 April, Friday: Good Friday</li> 
+          <li>8 April, Saturday: Holy Saturday</li> 
+          <li>10 April, Monday: Easter Monday</li> 
+          <li>29 May, Monday: Sovereign's Day</li> 
+          <li>11 September, Monday: Saint George's Caye Holiday</li> 
+          <li>9 October, Monday: Pan America Day</li> 
+          <li>20 November, Monday: Garifuna Settlement Holiday</li>
+         </ul></li>
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Belize&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://publicholidays.bz/national-heroes-benefactors-day/">"National Heroes and Benefactors Day 2021, 2022 and 2023"</a>. <i>PublicHolidays.bz</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 15,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PublicHolidays.bz&amp;rft.atitle=National+Heroes+and+Benefactors+Day+2021%2C+2022+and+2023&amp;rft_id=https%3A%2F%2Fpublicholidays.bz%2Fnational-heroes-benefactors-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Belize" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://publicholidays.bz/saint-georges-caye-day/">"Saint George's Caye Day 2020, 2021 and 2022"</a>. <i>PublicHolidays.bz</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 15,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PublicHolidays.bz&amp;rft.atitle=Saint+George%27s+Caye+Day+2020%2C+2021+and+2022&amp;rft_id=https%3A%2F%2Fpublicholidays.bz%2Fsaint-georges-caye-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Belize" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://publicholidays.bz/independence-day/">"Independence Day 2020, 2021 and 2022"</a>. <i>PublicHolidays.bz</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 15,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PublicHolidays.bz&amp;rft.atitle=Independence+Day+2020%2C+2021+and+2022&amp;rft_id=https%3A%2F%2Fpublicholidays.bz%2Findependence-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Belize" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://publicholidays.bz/garifuna-settlement-day/">"Garifuna Settlement Day 2020, 2021 and 2022"</a>. <i>PublicHolidays.bz</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 15,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PublicHolidays.bz&amp;rft.atitle=Garifuna+Settlement+Day+2020%2C+2021+and+2022&amp;rft_id=https%3A%2F%2Fpublicholidays.bz%2Fgarifuna-settlement-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Belize" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.thespruce.com/what-is-boxing-day-435060#:~:text=Boxing%20Day%20was%20traditionally%20a%20day%20off%20for,The%20name%20is%20a%20reference%20to%20charity%20drives.">"Learn the True Story of How Boxing Day Gets Its Name"</a>. <i>The Spruce</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 15,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Spruce&amp;rft.atitle=Learn+the+True+Story+of+How+Boxing+Day+Gets+Its+Name&amp;rft_id=https%3A%2F%2Fwww.thespruce.com%2Fwhat-is-boxing-day-435060%23%3A~%3Atext%3DBoxing%2520Day%2520was%2520traditionally%2520a%2520day%2520off%2520for%2CThe%2520name%2520is%2520a%2520reference%2520to%2520charity%2520drives.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Belize" class="Z3988"></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://publicholidays.bz/2020-dates/#:~:text=Belize%20Public%20Holidays%202020%20%20%20%20Date,%20Holy%20Saturday%20%2010%20more%20rows%20">"Belize Public Holidays 2020"</a>. <i>PublicHolidays.bz</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 15,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PublicHolidays.bz&amp;rft.atitle=Belize+Public+Holidays+2020&amp;rft_id=https%3A%2F%2Fpublicholidays.bz%2F2020-dates%2F%23%3A~%3Atext%3DBelize%2520Public%2520Holidays%25202020%2520%2520%2520%2520Date%2C%2520Holy%2520Saturday%2520%252010%2520more%2520rows%2520&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Belize" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://publicholidays.bz/2021-dates/">"Belize Public Holidays 2021"</a>. <i>PublicHolidays.bz</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 15,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PublicHolidays.bz&amp;rft.atitle=Belize+Public+Holidays+2021&amp;rft_id=https%3A%2F%2Fpublicholidays.bz%2F2021-dates%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Belize" class="Z3988"></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://publicholidays.bz/2022-dates/">"Belize Public Holidays 2022"</a>. <i>PublicHolidays.bz</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 15,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PublicHolidays.bz&amp;rft.atitle=Belize+Public+Holidays+2022&amp;rft_id=https%3A%2F%2Fpublicholidays.bz%2F2022-dates%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Belize" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://publicholidays.bz/2023-dates/">"Belize Public Holidays 2023"</a>. <i>PublicHolidays.bz</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 15,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PublicHolidays.bz&amp;rft.atitle=Belize+Public+Holidays+2023&amp;rft_id=https%3A%2F%2Fpublicholidays.bz%2F2023-dates%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Belize" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.belizelaw.org/web/lawadmin/PDF%20files/cap289.pdf">Laws of Belize Chapter 289</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Belize_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Belize_topics" title="Template:Belize topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Belize_topics" title="Template talk:Belize topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Belize_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Belize_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Belize" title="Belize">Belize</a>&nbsp;<a href="/wiki/Index_of_Belize-related_articles" class="mw-redirect" title="Index of Belize-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Belize" title="History of Belize">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Pre-Columbian_Belize" title="Pre-Columbian Belize">Pre-Columbian</a></li> 
+             <li><a href="/wiki/History_of_Belize_(1506%E2%80%931862)" title="History of Belize (1506–1862)">1506–1862</a></li> 
+             <li><a href="/wiki/Battle_of_St._George%27s_Caye" title="Battle of St. George's Caye">Battle of St. George's Caye</a></li> 
+             <li><a href="/wiki/British_Honduras" title="British Honduras">British Honduras (1862–1981)</a></li> 
+             <li><a href="/wiki/Belizean%E2%80%93Guatemalan_territorial_dispute" title="Belizean–Guatemalan territorial dispute">Belizean–Guatemalan territorial dispute</a></li> 
+             <li><a href="/wiki/Belize_Act_1981" title="Belize Act 1981">Belize Act 1981</a></li> 
+             <li><a href="/wiki/History_of_Belize_(1981%E2%80%93present)" class="mw-redirect" title="History of Belize (1981–present)">Belize since 1981</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Belize" title="Geography of Belize">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_municipalities_in_Belize" title="List of municipalities in Belize">Cities</a></li> 
+                 <li><a href="/wiki/Climate_of_Belize" class="mw-redirect" title="Climate of Belize">Climate</a></li> 
+                 <li><a href="/wiki/Conservation_in_Belize" title="Conservation in Belize">Conservation</a></li> 
+                 <li><a href="/wiki/Fauna_of_Belize" title="Fauna of Belize">Fauna</a></li> 
+                 <li><a href="/wiki/Flora_of_Belize" title="Flora of Belize">Flora</a></li> 
+                 <li><a href="/wiki/Geology_of_Belize" class="mw-redirect" title="Geology of Belize">Geology</a></li> 
+                 <li><a href="/wiki/List_of_islands_of_Belize" title="List of islands of Belize">Islands</a></li> 
+                 <li><a href="/wiki/Category:Mountains_of_Belize" title="Category:Mountains of Belize">Mountains</a></li> 
+                 <li><a href="/wiki/List_of_protected_areas_of_Belize" title="List of protected areas of Belize">Protected areas</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Belize" title="List of rivers of Belize">Rivers</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Belize" title="Politics of Belize">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Attorney-General_of_Belize" title="Attorney-General of Belize">Attorney General</a></li> 
+                 <li><a href="/wiki/Belmopan" title="Belmopan">Belmopan</a></li> 
+                 <li><a href="/wiki/Chief_Justice_of_Belize" title="Chief Justice of Belize">Chief Justice</a></li> 
+                 <li><a href="/wiki/Constituencies_of_Belize" title="Constituencies of Belize">Constituencies</a></li> 
+                 <li><a href="/wiki/Constitution_of_Belize" title="Constitution of Belize">Constitution</a></li> 
+                 <li><a href="/wiki/Districts_of_Belize" title="Districts of Belize">Districts</a></li> 
+                 <li><a href="/wiki/Elections_in_Belize" title="Elections in Belize">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Belize" title="Foreign relations of Belize">Foreign relations</a></li> 
+                 <li><a href="/wiki/Governor-General_of_Belize" title="Governor-General of Belize">Governor-General</a></li> 
+                 <li><a href="/wiki/Category:Human_rights_in_Belize" title="Category:Human rights in Belize">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/LGBT_rights_in_Belize" title="LGBT rights in Belize">LGBT</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Belize_Police_Department" title="Belize Police Department">Law enforcement</a></li> 
+                 <li><a href="/wiki/Local_government_in_Belize" title="Local government in Belize">Local government</a></li> 
+                 <li><a href="/wiki/Belize_Defence_Force" title="Belize Defence Force">Military</a></li> 
+                 <li><a href="/wiki/Monarchy_of_Belize" title="Monarchy of Belize">Monarchy</a></li> 
+                 <li><a href="/wiki/National_Assembly_(Belize)" title="National Assembly (Belize)">National Assembly</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Belize" title="List of political parties in Belize">Political parties</a></li> 
+                 <li><a href="/wiki/List_of_Prime_Ministers_of_Belize" class="mw-redirect" title="List of Prime Ministers of Belize">Prime Minister</a></li> 
+                 <li><a href="/wiki/Senate_(Belize)" title="Senate (Belize)">Senate</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Belize" title="Economy of Belize">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Banana_production_in_Belize" title="Banana production in Belize">Bananas</a></li> 
+                 <li><a href="/wiki/Central_Bank_of_Belize" title="Central Bank of Belize">Central bank</a></li> 
+                 <li><a href="/wiki/Belize_dollar" title="Belize dollar">Dollar <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Energy_in_Belize" title="Energy in Belize">Energy</a></li> 
+                 <li><a href="/wiki/Ports_of_Belize" title="Ports of Belize">Ports</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Belize" title="Telecommunications in Belize">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Belize" title="Tourism in Belize">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Belize" title="Transport in Belize">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Belizean_society" title="Category:Belizean society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Demographics_of_Belize" title="Demographics of Belize">Demographics</a></li> 
+                     <li><a href="/wiki/Education_in_Belize" title="Education in Belize">Education</a></li> 
+                     <li><a href="/wiki/Healthcare_in_Belize" title="Healthcare in Belize">Health</a></li> 
+                     <li><a href="/wiki/Prostitution_in_Belize" title="Prostitution in Belize">Prostitution</a></li> 
+                     <li><a href="/wiki/Languages_of_Belize" title="Languages of Belize">Languages</a></li> 
+                     <li><a href="/wiki/Belizeans" title="Belizeans">People</a></li> 
+                     <li><a href="/wiki/Religion_in_Belize" title="Religion in Belize">Religion</a></li> 
+                     <li><a href="/wiki/Belizean_society" title="Belizean society">Social structure</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Belize" title="Culture of Belize">Culture</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Land_of_the_Free_(anthem)" title="Land of the Free (anthem)">Anthem</a></li> 
+                     <li><a href="/wiki/Coat_of_arms_of_Belize" title="Coat of arms of Belize">Coat of arms</a></li> 
+                     <li><a href="/wiki/Belizean_cuisine" title="Belizean cuisine">Cuisine</a></li> 
+                     <li><a href="/wiki/Flag_of_Belize" title="Flag of Belize">Flag</a></li> 
+                     <li><a href="/wiki/Music_of_Belize" title="Music of Belize">Music</a></li> 
+                     <li><a href="/wiki/List_of_newspapers_in_Belize" title="List of newspapers in Belize">Newspapers</a></li> 
+                     <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                     <li><a href="/wiki/Sport_in_Belize" title="Sport in Belize">Sport</a></li> 
+                     <li><a href="/wiki/Belize#National_symbols" title="Belize">Symbols</a></li> 
+                     <li><a href="/wiki/List_of_television_stations_in_Belize" title="List of television stations in Belize">Television</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Belize" title="Outline of Belize">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Belize-related_articles" class="mw-redirect" title="Index of Belize-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Belize" title="Category:Belize">Category</a></li> 
+             <li><a href="/wiki/Portal:Belize" title="Portal:Belize">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_North_America" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:North_America_topic" title="Template:North America topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:North_America_topic" title="Template talk:North America topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:North_America_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_North_America" style="font-size:114%;margin:0 4em">
+            Public holidays in North America
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Antigua_and_Barbuda" title="Public holidays in Antigua and Barbuda">Antigua and Barbuda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Bahamas" title="Public holidays in the Bahamas">Bahamas</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Barbados" title="Public holidays in Barbados">Barbados</a></li> 
+             <li><a class="mw-selflink selflink">Belize</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Canada" title="Public holidays in Canada">Canada</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Costa_Rica" title="Public holidays in Costa Rica">Costa Rica</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cuba" title="Public holidays in Cuba">Cuba</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Dominica" title="Public holidays in Dominica">Dominica</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Dominican_Republic" title="Public holidays in the Dominican Republic">Dominican Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_El_Salvador" class="mw-redirect" title="Public holidays in El Salvador">El Salvador</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Grenada" title="Public holidays in Grenada">Grenada</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guatemala" title="Public holidays in Guatemala">Guatemala</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Haiti" title="Public holidays in Haiti">Haiti</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Honduras" title="Public holidays in Honduras">Honduras</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jamaica" title="Public holidays in Jamaica">Jamaica</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mexico" title="Public holidays in Mexico">Mexico</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nicaragua" title="Public holidays in Nicaragua">Nicaragua</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Panama" title="Public holidays in Panama">Panama</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Kitts_and_Nevis" title="Public holidays in Saint Kitts and Nevis">Saint Kitts and Nevis</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Lucia" title="Public holidays in Saint Lucia">Saint Lucia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Vincent_and_the_Grenadines" title="Public holidays in Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Trinidad_and_Tobago" title="Public holidays in Trinidad and Tobago">Trinidad and Tobago</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_States" title="Public holidays in the United States">United States</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            Dependencies and
+            <br>other territories
+           </div></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Anguilla" title="Public holidays in Anguilla">Anguilla</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Aruba" class="mw-redirect" title="Public holidays in Aruba">Aruba</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bermuda" title="Public holidays in Bermuda">Bermuda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bonaire" title="Public holidays in Bonaire">Bonaire</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_British_Virgin_Islands" title="Public holidays in the British Virgin Islands">British Virgin Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cayman_Islands" title="Public holidays in the Cayman Islands">Cayman Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cura%C3%A7ao" title="Public holidays in Curaçao">Curaçao</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greenland" title="Public holidays in Greenland">Greenland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guadeloupe" title="Public holidays in Guadeloupe">Guadeloupe</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Martinique" title="Public holidays in Martinique">Martinique</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montserrat" title="Public holidays in Montserrat">Montserrat</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Puerto_Rico" title="Public holidays in Puerto Rico">Puerto Rico</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Barth%C3%A9lemy" title="Public holidays in Saint Barthélemy">Saint Barthélemy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Collectivity_of_Saint_Martin" title="Public holidays in the Collectivity of Saint Martin">Saint Martin</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Pierre_and_Miquelon" title="Public holidays in Saint Pierre and Miquelon">Saint Pierre and Miquelon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saba" title="Public holidays in Saba">Saba</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sint_Eustatius" title="Public holidays in Sint Eustatius">Sint Eustatius</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sint_Maarten" title="Public holidays in Sint Maarten">Sint Maarten</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Turks_and_Caicos_Islands" title="Public holidays in the Turks and Caicos Islands">Turks and Caicos Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_States_Virgin_Islands" title="Public holidays in the United States Virgin Islands">United States Virgin Islands</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1391
+Cached time: 20210130160232
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.288 seconds
+Real time usage: 0.369 seconds
+Preprocessor visited node count: 1360/1000000
+Post‐expand include size: 70452/2097152 bytes
+Template argument size: 9825/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 22/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 29548/5000000 bytes
+Lua time usage: 0.130/10.000 seconds
+Lua memory usage: 4169125/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  304.545      1 -total
+ 42.92%  130.723      7 Template:Navbox
+ 40.36%  122.927      1 Template:Reflist
+ 38.77%  118.085      1 Template:Belize_topics
+ 37.38%  113.846      1 Template:Country_topics
+ 36.30%  110.542      9 Template:Cite_web
+ 13.38%   40.755      1 Template:Div_col
+  7.16%   21.801      1 Template:Bulleted_list
+  5.15%   15.672      1 Template:North_America_topic
+  2.38%    7.260      2 Template:Nobold
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:19400366-0!canonical and timestamp 20210130160232 and revision id 1003203292. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Belize&amp;oldid=1003203292">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Belize&amp;oldid=1003203292</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Belize" title="Category:Public holidays in Belize">Public holidays in Belize</a></li>
+       <li><a href="/wiki/Category:Belizean_society" title="Category:Belizean society">Belizean society</a></li>
+       <li><a href="/wiki/Category:Belizean_culture" title="Category:Belizean culture">Belizean culture</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Belize" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Belize" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Belize" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Belize" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Belize">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Belize&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Belize&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Belize" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Belize" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Belize&amp;oldid=1003203292" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Belize&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Belize&amp;id=1003203292&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257760" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Belize&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Belize&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B2%A8%EB%A6%AC%EC%A6%88%EC%9D%98_%EA%B3%B5%ED%9C%B4%EC%9D%BC" title="벨리즈의 공휴일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257760#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 27 January 2021, at 22:08<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Belize&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.369","ppvisitednodes":{"value":1360,"limit":1000000},"postexpandincludesize":{"value":70452,"limit":2097152},"templateargumentsize":{"value":9825,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":29548,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  304.545      1 -total"," 42.92%  130.723      7 Template:Navbox"," 40.36%  122.927      1 Template:Reflist"," 38.77%  118.085      1 Template:Belize_topics"," 37.38%  113.846      1 Template:Country_topics"," 36.30%  110.542      9 Template:Cite_web"," 13.38%   40.755      1 Template:Div_col","  7.16%   21.801      1 Template:Bulleted_list","  5.15%   15.672      1 Template:North_America_topic","  2.38%    7.260      2 Template:Nobold"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"10.000"},"limitreport-memusage":{"value":4169125,"limit":52428800}},"cachereport":{"origin":"mw1391","timestamp":"20210130160232","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Belize","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Belize","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7257760","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7257760","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-09-20T16:26:49Z","dateModified":"2021-01-27T22:08:58Z"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1413"});});</script> 
+ </body>
+</html>

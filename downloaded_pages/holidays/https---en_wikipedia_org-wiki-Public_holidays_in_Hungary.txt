@@ -1,0 +1,894 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Hungary - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBWQyx3pRiTbLlz8F3cP-wAAAEs","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Hungary","wgTitle":"Public holidays in Hungary","wgCurRevisionId":999152038,"wgRevisionId":999152038,"wgArticleId":879914,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description is different from Wikidata","All articles with unsourced statements","Articles with unsourced statements from March 2017","Commons category link is on Wikidata","Public holidays in Hungary",
+"Lists of public holidays by country"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Hungary","wgRelevantArticleId":879914,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1163103"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":
+"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Hungary"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Hungary&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Hungary&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Hungary"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Hungary rootpage-Public_holidays_in_Hungary skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Hungary</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p>A number of <a href="/wiki/Public_holidays" class="mw-redirect" title="Public holidays">public holidays</a> and special events take place each year in <a href="/wiki/Hungary" title="Hungary">Hungary</a>. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Fixed_public_holidays"><span class="tocnumber">1</span> <span class="toctext">Fixed public holidays</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Article_J_of_the_Constitution_of_Hungary_on_national_holidays"><span class="tocnumber">1.1</span> <span class="toctext">Article J of the Constitution of Hungary on national holidays</span></a></li> 
+          <li class="toclevel-2 tocsection-3"><a href="#List_of_public_holidays"><span class="tocnumber">1.2</span> <span class="toctext">List of public holidays</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Remembrance_days_endorsed_by_the_state"><span class="tocnumber">2</span> <span class="toctext">Remembrance days endorsed by the state</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Holidays_not_endorsed_by_the_state"><span class="tocnumber">3</span> <span class="toctext">Holidays not endorsed by the state</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Special_events"><span class="tocnumber">4</span> <span class="toctext">Special events</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Fixed_public_holidays">Fixed public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Hungary&amp;action=edit&amp;section=1" title="Edit section: Fixed public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Article_J_of_the_Constitution_of_Hungary_on_national_holidays">Article J of the Constitution of Hungary on national holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Hungary&amp;action=edit&amp;section=2" title="Edit section: Article J of the Constitution of Hungary on national holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>(1) The national holidays of Hungary shall be: </p>
+      <p>a) the 15th day of March, in memory of the 1848–49 Revolution and War of Independence, </p>
+      <p>b) the 20th day of August, in memory of the state's founding and its founder King Saint Stephen, </p>
+      <p>c) the 23rd day of October, in memory of the 1956 Revolution and War of Independence. </p>
+      <p>(2) The official state holiday shall be the 20th day of August. </p>
+      <p>Source:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+      <h3><span class="mw-headline" id="List_of_public_holidays">List of public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Hungary&amp;action=edit&amp;section=3" title="Edit section: List of public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th scope="col">Date </th> 
+         <th scope="col">English name </th> 
+         <th scope="col">Local name </th> 
+         <th scope="col">Remarks </th>
+        </tr> 
+        <tr> 
+         <td>1 January</td> 
+         <td><a href="/wiki/New_Year" title="New Year">New Year</a>'s Day</td> 
+         <td><i>Újév</i> </td>
+        </tr> 
+        <tr> 
+         <td>15 March</td> 
+         <td><a href="/wiki/National_Day" class="mw-redirect" title="National Day">National Day</a></td> 
+         <td><i>Nemzeti ünnep</i> </td> 
+         <td>Memorial day of the <a href="/wiki/Hungarian_Revolution_of_1848" title="Hungarian Revolution of 1848">1848 Revolution</a> (which aimed at the independence of the Hungarian Kingdom from the Austrian Empire). There are usually speeches and music such as the <a href="/wiki/Nemzeti_dal" title="Nemzeti dal">Nemzeti dal</a>; many people wear a <a href="/wiki/Cockade" title="Cockade">cockade</a> with the <a href="/wiki/National_colours" title="National colours">national colours</a> <a href="/wiki/Flag_of_Hungary" title="Flag of Hungary">red, white, and green</a>. </td>
+        </tr> 
+        <tr> 
+         <td><i><a href="/wiki/Moveable_feast" title="Moveable feast">Moveable</a></i></td> 
+         <td><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a></td> 
+         <td><i>Nagypéntek</i> </td> 
+         <td>Good Friday is public holiday since 2017<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2017)">citation needed</span></a></i>]</sup> . </td>
+        </tr> 
+        <tr> 
+         <td><i><a href="/wiki/Moveable_feast" title="Moveable feast">Moveable</a></i></td> 
+         <td><a href="/wiki/Easter" title="Easter">Easter</a> Monday</td> 
+         <td><i>Húsvéthétfő</i> </td> 
+         <td>Men visit women to sprinkle them with perfume (or in the countryside, sometimes water), first asking permission by reciting a verse. In return, the women give the men eggs (sometimes painted, sometimes chocolate). Children receive chocolate eggs (sometimes fruits and nuts, chocolate rabbits), from the Easter Bunny; these gifts are sometimes hidden in the garden or house. (Real rabbits are sometimes gifted.) The day's meal is often ham, eggs, sweetbreads, and horseradish for breakfast. </td>
+        </tr> 
+        <tr> 
+         <td>1 May</td> 
+         <td><a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a></td> 
+         <td><i>A munka ünnepe</i> </td> 
+         <td>The countries of the EU are represented with special programmes, bridges are decorated and exhibitions are held. Labour Day coincides with <a href="/wiki/May_Day" title="May Day">May Day</a> (<i>majális</i>); many attend outdoor festivities in public parks. Since 2004 it is also the anniversary of the accession to the <a href="/wiki/European_Union" title="European Union">EU</a>. </td>
+        </tr> 
+        <tr> 
+         <td><i><a href="/wiki/Moveable_feast" title="Moveable feast">Moveable</a></i></td> 
+         <td><a href="/wiki/Pentecost" title="Pentecost">Pentecost</a> Monday</td> 
+         <td><i>Pünkösdhétfő</i> </td> 
+         <td>Monday after <a href="/wiki/Pentecost" title="Pentecost">Pentecost</a> </td>
+        </tr> 
+        <tr> 
+         <td>20 August</td> 
+         <td>State Foundation Day </td> 
+         <td><i>Az államalapítás ünnepe</i> </td> 
+         <td>Commemoration of Hungary's first king <a href="/wiki/Stephen_I_of_Hungary" title="Stephen I of Hungary">St. Stephen</a>, also the day of the foundation of Hungary and "the day of the new bread". St. Stephen (<i>Szent István király</i>, ca. 975 – 15 August 1038), as the first king of Hungary, led the country into the Christian church and established the institutions of the kingdom and the church. He was canonized on 20 August 1083, and 20 August is his <a href="/wiki/Feast_day" class="mw-redirect" title="Feast day">feast day</a> in Hungary. <p>Celebrated with a half-hour <a href="/wiki/Fireworks" title="Fireworks">fireworks</a> display on the bank of the <a href="/wiki/Danube" title="Danube">Danube</a> in the evening, watched from both river banks, the Buda hills, and the rooftops of Pest and Buda. Under the <a href="/wiki/Hungarian_People%27s_Republic" title="Hungarian People's Republic">Hungarian People's Republic</a>, 20 August was celebrated as the founding of the socialist republic.<sup id="cite_ref-HPR_2-0" class="reference"><a href="#cite_note-HPR-2">[2]</a></sup> </p> </td>
+        </tr> 
+        <tr> 
+         <td>23 October</td> 
+         <td><a href="/wiki/National_Day" class="mw-redirect" title="National Day">National Day</a></td> 
+         <td><i>Nemzeti ünnep</i> </td> 
+         <td>Memorial day of the <a href="/wiki/1956_Hungarian_Revolution" class="mw-redirect" title="1956 Hungarian Revolution">1956 Revolution</a>, which fought to expel Soviet troops from Hungary and establish free elections. Also the day of the proclamation of the <a href="/wiki/Third_Hungarian_Republic" class="mw-redirect" title="Third Hungarian Republic">Third Hungarian Republic</a> (1989). Celebrated with speeches and exhibitions. </td>
+        </tr> 
+        <tr> 
+         <td>1 November</td> 
+         <td><a href="/wiki/All_Saints_Day" class="mw-redirect" title="All Saints Day">All Saints Day</a></td> 
+         <td><i>Mindenszentek</i> </td> 
+         <td>Day of remembrance of the dead. Family and friends decorate graves in Christian cemeteries. </td>
+        </tr> 
+        <tr> 
+         <td>25 December</td> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a></td> 
+         <td><i>Karácsony</i> </td> 
+         <td>Public transport stops operating at about 4 pm on the 24th, Christmas Eve (<i>Szenteste</i>) as most families gather to celebrate, placing presents under a <a href="/wiki/Christmas_tree" title="Christmas tree">Christmas tree</a> which has been decorated while the children are away from the house. Presents are then opened and a large meal eaten in celebration. On the 25th and 26th, people usually visit relatives. </td>
+        </tr> 
+        <tr> 
+         <td>26 December</td> 
+         <td><a href="/wiki/Second_Day_of_Christmas" class="mw-redirect" title="Second Day of Christmas">Second Day of Christmas</a></td> 
+         <td><i>Karácsony másnapja</i> </td> 
+         <td>&nbsp; </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Remembrance_days_endorsed_by_the_state">Remembrance days endorsed by the state</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Hungary&amp;action=edit&amp;section=4" title="Edit section: Remembrance days endorsed by the state">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Remembrance Days are working days in Hungary. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th scope="col">Date </th> 
+         <th scope="col">English name </th> 
+         <th scope="col">Local name </th> 
+         <th scope="col">Remarks </th>
+        </tr> 
+        <tr> 
+         <td>1 February</td> 
+         <td>Memorial Day of the Republic</td> 
+         <td><i>A köztársaság emléknapja</i> </td> 
+         <td>Commemorating the law (1946. évi I. törvény) on the proclamation of the <a href="/wiki/Republic_of_Hungary_(1946-1949)" class="mw-redirect" title="Republic of Hungary (1946-1949)">republic</a> in 1946, memorial day since 2006. </td>
+        </tr> 
+        <tr> 
+         <td>25 February</td> 
+         <td>Memorial Day for the Victims of the Communist Dictatorships</td> 
+         <td><i>A kommunista diktatúrák áldozatainak emléknapja</i> </td> 
+         <td>On this day in 1947 <a href="/wiki/B%C3%A9la_Kov%C3%A1cs_(politician,_1908)" title="Béla Kovács (politician, 1908)">Béla Kovács</a>, Secretary-General of the <a href="/wiki/Independent_Smallholders,_Agrarian_Workers_and_Civic_Party" title="Independent Smallholders, Agrarian Workers and Civic Party">Independent Smallholders' Party</a> was arrested and deported to the Soviet Union. Memorial day since 2000, commemorations are held in high schools. </td>
+        </tr> 
+        <tr> 
+         <td>16 April</td> 
+         <td>Memorial Day for the Victims of the Holocaust</td> 
+         <td><i>A holokauszt áldozatainak emléknapja</i> </td> 
+         <td>On this day in 1944 the Jews of <a href="/wiki/Governorate_of_Subcarpathia" class="mw-redirect" title="Governorate of Subcarpathia">Subcarpathia</a> were rounded up and forced into ghettos. Memorial day since 2001, commemorations are held in high schools. </td>
+        </tr> 
+        <tr> 
+         <td>21 May</td> 
+         <td>National Defense Day</td> 
+         <td><i>Honvédelmi nap</i> </td> 
+         <td><a href="/wiki/Battle_of_Buda_(1849)" class="mw-redirect" title="Battle of Buda (1849)">Battle of Buda</a> (1849) </td>
+        </tr> 
+        <tr> 
+         <td>4 June</td> 
+         <td>Day of National Unity</td> 
+         <td><i>A nemzeti összetartozás napja</i> </td> 
+         <td>Commemorating the anniversary of the signing of the <a href="/wiki/Treaty_of_Trianon" title="Treaty of Trianon">Treaty of Trianon</a>, when the <a href="/wiki/Kingdom_of_Hungary" title="Kingdom of Hungary">Kingdom of Hungary</a> lost 72% of its territory. National memorial day since 2010. </td>
+        </tr> 
+        <tr> 
+         <td>19 June</td> 
+         <td>Independent Hungary Day</td> 
+         <td><i>A független Magyarország napja</i> </td> 
+         <td>Commemorating the execution of the martyrs of the <a href="/wiki/1956_Hungarian_Revolution" class="mw-redirect" title="1956 Hungarian Revolution">1956 Hungarian Revolution</a> (on 16 June 1958), and the anniversary of the end of the <a href="/wiki/Soviet_occupation_of_Hungary" class="mw-redirect" title="Soviet occupation of Hungary">Soviet occupation of Hungary</a>. Memorial day since 2001. </td>
+        </tr> 
+        <tr> 
+         <td>6 October</td> 
+         <td>Memorial Day for the Martyrs of Arad</td> 
+         <td><i>Az aradi vértanúk emléknapja</i> </td> 
+         <td>Commemorating the anniversary of the 1849 execution of the <a href="/wiki/13_Martyrs_of_Arad" class="mw-redirect" title="13 Martyrs of Arad">13 Martyrs of Arad</a> after the defeat of the Hungarian Independence War. National memorial day, commemorations are held in primary and high schools. </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Holidays_not_endorsed_by_the_state">Holidays not endorsed by the state</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Hungary&amp;action=edit&amp;section=5" title="Edit section: Holidays not endorsed by the state">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th scope="col">Date </th> 
+         <th scope="col">English Name </th> 
+         <th scope="col">Local Name </th> 
+         <th scope="col">Remarks </th>
+        </tr> 
+        <tr> 
+         <td>8 March</td> 
+         <td><a href="/wiki/International_Women%27s_Day" title="International Women's Day">International Women's Day</a></td> 
+         <td><i>Nemzetközi nőnap</i> </td> 
+         <td>Women get flowers and gifts from their employers and schoolchildren often bring gifts for their teachers. </td>
+        </tr> 
+        <tr> 
+         <td>4 April</td> 
+         <td><a href="/wiki/Liberation_Day_(Hungary)" title="Liberation Day (Hungary)">Liberation Day</a></td> 
+         <td><i>Felszabadítási Nap</i> </td> 
+         <td>During <a href="/wiki/Hungary_in_World_War_II" title="Hungary in World War II">World War II in Hungary</a>, the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet</a> <a href="/wiki/Red_Army" title="Red Army">Red Army</a> liberated Hungary from the Nazi German regime. Was celebrated until 1989<sup id="cite_ref-HPR_2-1" class="reference"><a href="#cite_note-HPR-2">[2]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>7 November</td> 
+         <td><a href="/wiki/October_Revolution" title="October Revolution">Great October Socialist Revolution</a></td> 
+         <td><i>Nagy októberi szocialista forradalom</i> </td> 
+         <td>Throughout the existence of Communist rule in Hungary, the country celebrated the <a href="/wiki/October_Revolution" title="October Revolution">Russian Socialist Revolution</a> commemorating the 1917 uprising by the Bolsheviks led by <a href="/wiki/Vladimir_Lenin" title="Vladimir Lenin">Vladimir Lenin</a>. Celebrated simultaneously with the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>.<sup id="cite_ref-HPR_2-2" class="reference"><a href="#cite_note-HPR-2">[2]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>6 December</td> 
+         <td><a href="/wiki/Santa_Claus" title="Santa Claus">Santa Claus</a>, <a href="/wiki/Saint_Nicholas_Day" title="Saint Nicholas Day">Saint Nicholas Day</a></td> 
+         <td><i>Mikulás</i>, <i>Télapó</i> </td> 
+         <td>On this day, Hungarian children polish their boots and put them in the window. <i>Mikulás</i> comes in the night and fills them with chocolates and/or small presents. If they were bad, they might get sticks instead. </td>
+        </tr> 
+        <tr> 
+         <td>31 December</td> 
+         <td><a href="/wiki/New_Year" title="New Year">New Year</a>'s Eve</td> 
+         <td><i>Szilveszter</i> </td> 
+         <td>Young people go partying until morning. Streets are noisy with paper trumpets, hoots and the pop of champagne corks; people often wear masks and throw <a href="/wiki/Petards" class="mw-redirect" title="Petards">petards</a>. Those who stay home usually watch comedies made for the occasion; at midnight they drink champagne and wish each other good luck for the new year (<i>BÚÉK</i>). All Hungarian radio &amp; television channels broadcast the <a href="/wiki/Isten,_%C3%A1ldd_meg_a_magyart" class="mw-redirect" title="Isten, áldd meg a magyart">national anthem</a> at midnight, and then the <a href="/wiki/President_of_Hungary" title="President of Hungary">President</a>'s speech. Firework displays are common. The next day streets are empty, and people sleep late (or sleep themselves sober). Lentils are eaten, symbolising coins for good luck. </td>
+        </tr> 
+        <tr> 
+         <td><i><a href="/wiki/Moveable_feast" title="Moveable feast">Moveable</a></i></td> 
+         <td><a href="/wiki/Carnival" title="Carnival">Carnival</a></td> 
+         <td><i><a href="/wiki/Bus%C3%B3j%C3%A1r%C3%A1s" title="Busójárás">Farsang</a></i> </td> 
+         <td>A six-day regional carnival, originally celebrated by the <a href="/wiki/%C5%A0okci" title="Šokci">Šokci</a> (ethnic-<a href="/wiki/Croatians" class="mw-redirect" title="Croatians">Croatians</a>) living in the town of <a href="/wiki/Moh%C3%A1cs" title="Mohács">Mohács</a>. Traditions include <a href="/wiki/Folk_music" title="Folk music">folk music</a>, <a href="/wiki/Masquerade_ball" title="Masquerade ball">masquerading</a>, <a href="/wiki/Parade" title="Parade">parades</a> and <a href="/wiki/Dance" title="Dance">dancing</a>. </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Special_events">Special events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Hungary&amp;action=edit&amp;section=6" title="Edit section: Special events">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Hungary's most notable annual events include the <a href="/wiki/Budapest_Spring_Festival" title="Budapest Spring Festival">Budapest Spring Festival</a> (mid-march to mid-April), <a href="/w/index.php?title=Hortob%C3%A1gy_Equestrian_Days&amp;action=edit&amp;redlink=1" class="new" title="Hortobágy Equestrian Days (page does not exist)">Hortobágy Equestrian Days</a> (late June), <a href="/w/index.php?title=Sopron_Early_Music_Days&amp;action=edit&amp;redlink=1" class="new" title="Sopron Early Music Days (page does not exist)">Sopron Early Music Days</a> (late June), <a href="/w/index.php?title=Festival_in_Budapest&amp;action=edit&amp;redlink=1" class="new" title="Festival in Budapest (page does not exist)">Festival in Budapest</a> (late June), <a href="/wiki/Miskolc_Opera_Festival" title="Miskolc Opera Festival">Miskolc Opera Festival</a> (late June), <a href="/w/index.php?title=Miskolc_Kal%C3%A1lka_International_Folk_Festival&amp;action=edit&amp;redlink=1" class="new" title="Miskolc Kalálka International Folk Festival (page does not exist)">Miskolc Kalálka International Folk Festival</a> (July), <a href="/w/index.php?title=Gy%C5%91r_Summer_Festival&amp;action=edit&amp;redlink=1" class="new" title="Győr Summer Festival (page does not exist)">Győr Summer Festival</a> (late June), <a href="/w/index.php?title=Gy%C5%91r_Summer_Cultural_Festival&amp;action=edit&amp;redlink=1" class="new" title="Győr Summer Cultural Festival (page does not exist)">Győr Summer Cultural Festival</a> (late June to late July), <a href="/w/index.php?title=Pannon_Festival&amp;action=edit&amp;redlink=1" class="new" title="Pannon Festival (page does not exist)">Pannon Festival</a> in Pécs (July and August), <a href="/w/index.php?title=Szentendre_Summer_Festival&amp;action=edit&amp;redlink=1" class="new" title="Szentendre Summer Festival (page does not exist)">Szentendre Summer Festival</a> (July), <a href="/w/index.php?title=K%C5%91szeg_Street_Theatre_Festival&amp;action=edit&amp;redlink=1" class="new" title="Kőszeg Street Theatre Festival (page does not exist)">Kőszeg Street Theatre Festival</a> (late July), <a href="/w/index.php?title=Savaria_International_Dance_Competition&amp;action=edit&amp;redlink=1" class="new" title="Savaria International Dance Competition (page does not exist)">Savaria International Dance Competition</a> in Szombathely (July), <a href="/w/index.php?title=Debrecen_Jazz_Days&amp;action=edit&amp;redlink=1" class="new" title="Debrecen Jazz Days (page does not exist)">Debrecen Jazz Days</a> (July), <a href="/w/index.php?title=Szeged_Open_Air_Festival&amp;action=edit&amp;redlink=1" class="new" title="Szeged Open Air Festival (page does not exist)">Szeged Open Air Festival</a> (mid-July to August), <a href="/wiki/Di%C3%A1ksziget" class="mw-redirect" title="Diáksziget">Diáksziget</a> (shorter: <i>"Sziget"</i> or "Sziget Festival", Student Island or Pepsi Island) north of Budapest (August), <a href="/w/index.php?title=Eger_Wine_Harvest_Festival&amp;action=edit&amp;redlink=1" class="new" title="Eger Wine Harvest Festival (page does not exist)">Eger Wine Harvest Festival</a> (September), and <a href="/w/index.php?title=Budapest_Autumn_Arts_Festival&amp;action=edit&amp;redlink=1" class="new" title="Budapest Autumn Arts Festival (page does not exist)">Budapest Autumn Arts Festival</a> (mid-September to mid-October). </p>
+      <p>St Stephen's Day (August 20) is celebrated with sporting events, parades and fireworks nationwide. On the same day there is a <a href="/w/index.php?title=Floral_Festival&amp;action=edit&amp;redlink=1" class="new" title="Floral Festival (page does not exist)">Floral Festival</a> in Debrecen and a <a href="/w/index.php?title=Bridge_Fair&amp;action=edit&amp;redlink=1" class="new" title="Bridge Fair (page does not exist)">Bridge Fair</a> in nearby Hortobágy. Formula 1 car races are held in early August at the <a href="/wiki/Hungaroring" title="Hungaroring">Hungaroring</a> near <a href="/wiki/Mogyor%C3%B3d" title="Mogyoród">Mogyoród</a>, 18&nbsp;km northeast of Budapest.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Hungary&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130102160605/http://www.kormany.hu/download/4/c3/30000/THE%20FUNDAMENTAL%20LAW%20OF%20HUNGARY.pdf">"The Fundamental Law of Hungary"</a> <span class="cs1-format">(PDF)</span>. kormany.hu. Archived from <a rel="nofollow" class="external text" href="http://www.kormany.hu/download/4/c3/30000/THE%20FUNDAMENTAL%20LAW%20OF%20HUNGARY.pdf">the original</a> <span class="cs1-format">(pdf)</span> on 2 January 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">4 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Fundamental+Law+of+Hungary&amp;rft.pub=kormany.hu&amp;rft_id=http%3A%2F%2Fwww.kormany.hu%2Fdownload%2F4%2Fc3%2F30000%2FTHE%2520FUNDAMENTAL%2520LAW%2520OF%2520HUNGARY.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Hungary" class="Z3988"></span></span> </li> 
+         <li id="cite_note-HPR-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-HPR_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HPR_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-HPR_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Cavendish, Marshall (2005), p. 114.</span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.budapesthotels.com/touristguide/PublicHolidays.asp">Public Holidays and Special Events</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20040225175848/http://www.budapesthotels.com/touristguide/PublicHolidays.asp">Archived</a> 2004-02-25 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Hungary&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Holidays_in_Hungary" class="extiw" title="commons:Category:Holidays in Hungary"><span style="">Holidays in Hungary</span></a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://naptarak.com/naptarak_unnepek_hun">Hungarian public holidays calculator</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Europe" title="Template:Public holidays in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Europe" title="Template talk:Public holidays in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Europe" style="font-size:114%;margin:0 4em">
+            Public holidays in Europe
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Albania" title="Public holidays in Albania">Albania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Andorra" title="Public holidays in Andorra">Andorra</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Austria" title="Public holidays in Austria">Austria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belarus" title="Public holidays in Belarus">Belarus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belgium" title="Public holidays in Belgium">Belgium</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bosnia_and_Herzegovina" title="Public holidays in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bulgaria" title="Public holidays in Bulgaria">Bulgaria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Croatia" title="Public holidays in Croatia">Croatia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Czech_Republic" title="Public holidays in the Czech Republic">Czech Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Denmark" title="Public holidays in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Estonia" title="Public holidays in Estonia">Estonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Finland" title="Public holidays in Finland">Finland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_France" title="Public holidays in France">France</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Germany" title="Public holidays in Germany">Germany</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greece" title="Public holidays in Greece">Greece</a></li> 
+             <li><a class="mw-selflink selflink">Hungary</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iceland" title="Public holidays in Iceland">Iceland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Ireland" title="Public holidays in the Republic of Ireland">Ireland</a></li> 
+             <li class="mw-empty-elt"></li> 
+             <li><a href="/wiki/Public_holidays_in_Italy" title="Public holidays in Italy">Italy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Latvia" title="Public holidays in Latvia">Latvia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liechtenstein" title="Public holidays in Liechtenstein">Liechtenstein</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lithuania" title="Public holidays in Lithuania">Lithuania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Luxembourg" title="Public holidays in Luxembourg">Luxembourg</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malta" title="Public holidays in Malta">Malta</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Moldova" title="Public holidays in Moldova">Moldova</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Monaco" title="Public holidays in Monaco">Monaco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montenegro" title="Public holidays in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Netherlands" title="Public holidays in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Macedonia" title="Public holidays in North Macedonia">North Macedonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Norway" title="Public holidays in Norway">Norway</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Poland" title="Public holidays in Poland">Poland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Portugal" title="Public holidays in Portugal">Portugal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Romania" title="Public holidays in Romania">Romania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_San_Marino" class="mw-redirect" title="Public holidays in San Marino">San Marino</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Serbia" title="Public holidays in Serbia">Serbia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovakia" title="Public holidays in Slovakia">Slovakia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovenia" title="Public holidays in Slovenia">Slovenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Spain" title="Public holidays in Spain">Spain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sweden" title="Public holidays in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Switzerland" title="Public holidays in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ukraine" title="Public holidays in Ukraine">Ukraine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Kingdom" title="Public holidays in the United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vatican_City" title="Public holidays in Vatican City">Vatican City</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">States with limited<br>recognition</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kosovo" title="Public holidays in Kosovo">Kosovo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Transnistria" title="Public holidays in Transnistria">Transnistria</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies and<br>other entities</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_%C3%85land" title="Public holidays in Åland">Åland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Faroe_Islands" title="Public holidays in the Faroe Islands">Faroe Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gibraltar" title="Public holidays in Gibraltar">Gibraltar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guernsey" title="Public holidays in Guernsey">Guernsey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Isle_of_Man" title="Public holidays in the Isle of Man">Isle of Man</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jersey" title="Public holidays in Jersey">Jersey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Svalbard" title="Public holidays in Svalbard">Svalbard</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other entities</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_European_Union" title="Public holidays in the European Union">European Union</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Hungary_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Hungary_topics" title="Template:Hungary topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Hungary_topics" title="Template talk:Hungary topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Hungary_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Hungary_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Hungary" title="Hungary">Hungary</a>&nbsp;<a href="/wiki/Index_of_Hungary-related_articles" title="Index of Hungary-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Hungary" title="History of Hungary">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Hungarian_prehistory" title="Hungarian prehistory">Hungarian prehistory</a></li> 
+                 <li><a href="/wiki/Pannonia" title="Pannonia">Pannonia</a></li> 
+                 <li><a href="/wiki/Principality_of_Hungary" title="Principality of Hungary">Principality</a></li> 
+                 <li><a href="/wiki/Kingdom_of_Hungary_(1000%E2%80%931301)" title="Kingdom of Hungary (1000–1301)">High Medieval Kingdom</a></li> 
+                 <li><a href="/wiki/Kingdom_of_Hungary_(1301%E2%80%931526)" title="Kingdom of Hungary (1301–1526)">Late Medieval Kingdom</a></li> 
+                 <li><a href="/wiki/Ottoman%E2%80%93Hungarian_wars" title="Ottoman–Hungarian wars">Ottoman–Hungarian wars</a></li> 
+                 <li><a href="/wiki/Kingdom_of_Hungary_(1526%E2%80%931867)" title="Kingdom of Hungary (1526–1867)">Habsburg Kingdom</a></li> 
+                 <li><a href="/wiki/Principality_of_Transylvania_(1570%E2%80%931711)" title="Principality of Transylvania (1570–1711)">Principality of Transylvania</a></li> 
+                 <li><a href="/wiki/R%C3%A1k%C3%B3czi%27s_War_of_Independence" title="Rákóczi's War of Independence">Rákóczi's War</a></li> 
+                 <li><a href="/wiki/Hungarian_Revolution_of_1848" title="Hungarian Revolution of 1848">Revolution of 1848</a></li> 
+                 <li><a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austro-Hungarian Empire</a></li> 
+                 <li><a href="/wiki/Hungary_in_World_War_I" title="Hungary in World War I">World War I</a></li> 
+                 <li><a href="/wiki/First_Hungarian_Republic" title="First Hungarian Republic">First Republic</a></li> 
+                 <li><a href="/wiki/Treaty_of_Trianon" title="Treaty of Trianon">Treaty of Trianon</a></li> 
+                 <li><a href="/wiki/Kingdom_of_Hungary_(1920%E2%80%931946)" title="Kingdom of Hungary (1920–1946)">Interwar Kingdom of Hungary</a></li> 
+                 <li><a href="/wiki/Hungary_in_World_War_II" title="Hungary in World War II">World War II</a></li> 
+                 <li><a href="/wiki/Second_Hungarian_Republic" title="Second Hungarian Republic">Second Republic</a></li> 
+                 <li><a href="/wiki/Hungarian_People%27s_Republic" title="Hungarian People's Republic">People's Republic</a></li> 
+                 <li><a href="/wiki/Hungarian_Revolution_of_1956" title="Hungarian Revolution of 1956">Revolution of 1956</a></li> 
+                 <li><a href="/wiki/History_of_Hungary#Third_Republic_(since_1989)" title="History of Hungary">Third Republic</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/History_of_Christianity_in_Hungary" title="History of Christianity in Hungary">Christianity</a></li> 
+                 <li><a href="/wiki/Economy_of_Hungary#History_of_the_Hungarian_economy" title="Economy of Hungary">Economic</a></li> 
+                 <li><a href="/wiki/Military_history_of_Hungary" title="Military history of Hungary">Military</a></li> 
+                 <li><a href="/wiki/List_of_Hungarian_monarchs" title="List of Hungarian monarchs">Monarchs</a></li> 
+                 <li><a href="/wiki/Hungarian_nobility" title="Hungarian nobility">Nobility</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <img alt="Coat of arms of Hungary" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_arms_of_Hungary.svg/80px-Coat_of_arms_of_Hungary.svg.png" decoding="async" width="80" height="170" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_arms_of_Hungary.svg/120px-Coat_of_arms_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_arms_of_Hungary.svg/160px-Coat_of_arms_of_Hungary.svg.png 2x" data-file-width="1000" data-file-height="2130">
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Hungary" title="Geography of Hungary">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Administrative_divisions_of_Hungary" title="Administrative divisions of Hungary">Administrative divisions</a></li> 
+                 <li><a href="/wiki/Counties_of_Hungary" title="Counties of Hungary">Counties</a></li> 
+                 <li><a href="/wiki/List_of_cities_and_towns_of_Hungary" title="List of cities and towns of Hungary">Cities and towns</a></li> 
+                 <li><a href="/wiki/Climate_of_Hungary" title="Climate of Hungary">Climate</a></li> 
+                 <li><a href="/wiki/Geography_of_Hungary#Extreme_points" title="Geography of Hungary">Extreme points</a></li> 
+                 <li><a href="/wiki/Category:Geology_of_Hungary" title="Category:Geology of Hungary">Geology</a></li> 
+                 <li><a href="/wiki/List_of_islands_of_Hungary" title="List of islands of Hungary">Islands</a></li> 
+                 <li><a href="/wiki/List_of_lakes_of_Hungary" title="List of lakes of Hungary">Lakes</a></li> 
+                 <li><a href="/wiki/Category:Mountain_ranges_of_Hungary" title="Category:Mountain ranges of Hungary">Mountains</a></li> 
+                 <li><a href="/wiki/List_of_national_parks_of_Hungary" title="List of national parks of Hungary">National parks</a></li> 
+                 <li><a href="/wiki/List_of_regions_of_Hungary" title="List of regions of Hungary">Regions</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Hungary" title="List of rivers of Hungary">Rivers</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Hungary" title="Politics of Hungary">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Government_of_Hungary" title="Government of Hungary">Cabinet</a></li> 
+                 <li><a href="/wiki/Constitution_of_Hungary" title="Constitution of Hungary">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Hungary" title="Elections in Hungary">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Hungary" title="Foreign relations of Hungary">Foreign relations</a></li> 
+                 <li><a href="/wiki/Category:Human_rights_in_Hungary" title="Category:Human rights in Hungary">Human rights</a></li> 
+                 <li><a href="/wiki/Category:Hungarian_intelligence_agencies" title="Category:Hungarian intelligence agencies">Intelligence</a></li> 
+                 <li><a href="/wiki/Category:Hungarian_law" title="Category:Hungarian law">Law</a></li> 
+                 <li><a href="/wiki/Law_enforcement_in_Hungary" title="Law enforcement in Hungary">Law enforcement</a></li> 
+                 <li><a href="/wiki/Hungarian_Defence_Forces" title="Hungarian Defence Forces">Military</a></li> 
+                 <li><a href="/wiki/Hungarian_nationality_law" title="Hungarian nationality law">Nationality</a></li> 
+                 <li><a href="/wiki/National_Assembly_(Hungary)" title="National Assembly (Hungary)">Parliament</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Hungary" title="List of political parties in Hungary">Political parties</a></li> 
+                 <li><a href="/wiki/President_of_Hungary" title="President of Hungary">President</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_heads_of_state_of_Hungary" title="List of heads of state of Hungary"><span style="font-size:85%;">list</span></a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Prime_Minister_of_Hungary" title="Prime Minister of Hungary">Prime Minister</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_Prime_Ministers_of_Hungary" class="mw-redirect" title="List of Prime Ministers of Hungary"><span style="font-size:85%;">list</span></a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Hungary" title="Economy of Hungary">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Economy_of_Hungary#Agriculture" title="Economy of Hungary">Agriculture</a></li> 
+                 <li><a href="/wiki/List_of_banks_in_Hungary" title="List of banks in Hungary">Banks</a> 
+                  <ul>
+                   <li><span style="font-size:85%;"><a href="/wiki/Hungarian_National_Bank" title="Hungarian National Bank">Hungarian National Bank</a></span></li>
+                  </ul></li> 
+                 <li><a href="/wiki/List_of_companies_of_Hungary" title="List of companies of Hungary">Companies</a></li> 
+                 <li><a href="/wiki/Energy_in_Hungary" title="Energy in Hungary">Energy</a></li> 
+                 <li><a href="/wiki/Hungarian_forint" title="Hungarian forint">Forint </a> <span style="font-size:85%;">(currency)</span></li> 
+                 <li><a href="/wiki/Economy_of_Hungary#Industry" title="Economy of Hungary">Industry</a></li> 
+                 <li><a href="/wiki/Science_and_technology_in_Hungary" title="Science and technology in Hungary">Science and technology</a></li> 
+                 <li><a href="/wiki/Budapest_Stock_Exchange" title="Budapest Stock Exchange">Stock exchange</a></li> 
+                 <li><a href="/wiki/Taxation_in_Hungary" title="Taxation in Hungary">Taxation</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Hungary" title="Telecommunications in Hungary">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Hungary" title="Tourism in Hungary">Tourism</a></li> 
+                 <li><a href="/wiki/Category:Trade_unions_in_Hungary" title="Category:Trade unions in Hungary">Trade unions</a></li> 
+                 <li><a href="/wiki/Transport_in_Hungary" title="Transport in Hungary">Transport</a></li> 
+                 <li><a href="/wiki/Unemployment_in_Hungary" title="Unemployment in Hungary">Unemployment</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Hungarian_society" title="Category:Hungarian society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Anti-Hungarian_sentiment" title="Anti-Hungarian sentiment">Anti-Hungarian sentiment</a></li> 
+                 <li><a href="/wiki/Crime_in_Hungary" title="Crime in Hungary">Crime</a></li> 
+                 <li><a href="/wiki/Demographics_of_Hungary" title="Demographics of Hungary">Demographics</a></li> 
+                 <li><a href="/wiki/Education_in_Hungary" title="Education in Hungary">Education</a> 
+                  <ul>
+                   <li><span style="font-size:85%;"><a href="/wiki/List_of_universities_and_colleges_in_Hungary" title="List of universities and colleges in Hungary">Universities and colleges</a></span></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Family_policy_in_Hungary" title="Family policy in Hungary">Family policy</a></li> 
+                 <li><a href="/wiki/Health_in_Hungary" title="Health in Hungary">Health</a></li> 
+                 <li><a href="/wiki/Healthcare_in_Hungary" title="Healthcare in Hungary">Healthcare</a></li> 
+                 <li><a href="/wiki/Hungarians" title="Hungarians">Hungarians</a></li> 
+                 <li><a href="/wiki/Hungarian_diaspora" title="Hungarian diaspora">Hungarian diaspora</a></li> 
+                 <li><a href="/wiki/Hungarian_irredentism" title="Hungarian irredentism">Irredentism</a></li> 
+                 <li><a href="/wiki/International_rankings_of_Hungary" title="International rankings of Hungary">International rankings</a></li> 
+                 <li><a href="/wiki/Languages_of_Hungary" title="Languages of Hungary">Languages</a></li> 
+                 <li><a href="/wiki/LGBT_rights_in_Hungary" title="LGBT rights in Hungary">LGBT</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Religion_in_Hungary" title="Religion in Hungary">Religion</a></li> 
+                 <li><a href="/wiki/Women_in_Hungary" title="Women in Hungary">Women</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Hungary" title="Culture of Hungary">Culture</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Architecture_of_Hungary" title="Architecture of Hungary">Architecture</a> 
+                  <ul>
+                   <li><span style="font-size:85%;"><a href="/wiki/List_of_castles_in_Hungary" title="List of castles in Hungary">Castles</a></span></li> 
+                   <li><span style="font-size:85%;"><a href="/wiki/List_of_palaces_in_Hungary" class="mw-redirect" title="List of palaces in Hungary">Palaces and mansions</a></span></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Hungarian_art" title="Hungarian art">Art</a></li> 
+                 <li><a href="/wiki/Cinema_of_Hungary" title="Cinema of Hungary">Cinema</a></li> 
+                 <li><a href="/wiki/Hungarian_cuisine" title="Hungarian cuisine">Cuisine</a> 
+                  <ul>
+                   <li><span style="font-size:85%;"><a href="/wiki/Hungarian_wine" title="Hungarian wine">Wine</a></span></li> 
+                   <li><span style="font-size:85%;"><a href="/wiki/Beer_in_Hungary" title="Beer in Hungary">Beer</a></span></li> 
+                   <li><span style="font-size:85%;"><a href="/wiki/List_of_Hungarian_dishes" title="List of Hungarian dishes">Dishes</a></span></li> 
+                   <li><span style="font-size:85%;"><a href="/wiki/Hungarian_sausages" title="Hungarian sausages">Sausages</a></span></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Hungarian_dance" title="Hungarian dance">Dance</a></li> 
+                 <li><a href="/wiki/Budapest_Fashion_Week" title="Budapest Fashion Week">Fashion</a></li> 
+                 <li><a href="/wiki/Category:Festivals_in_Hungary" title="Category:Festivals in Hungary">Festivals</a></li> 
+                 <li><a href="/wiki/Category:Hungarian_folklore" title="Category:Hungarian folklore">Folklore</a></li> 
+                 <li><a href="/wiki/Category:Hungarian_inventions" title="Category:Hungarian inventions">Inventions</a></li> 
+                 <li><a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian language</a></li> 
+                 <li><a href="/wiki/Hungarian_literature" title="Hungarian literature">Literature</a></li> 
+                 <li><a href="/wiki/Media_of_Hungary" class="mw-redirect" title="Media of Hungary">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Hungary" title="Music of Hungary">Music</a></li> 
+                 <li><a href="/wiki/Hungarian_names" title="Hungarian names">Names</a></li> 
+                 <li><a href="/wiki/Culture_of_Hungary#Spa_culture" title="Culture of Hungary">Spa culture</a></li> 
+                 <li><a href="/wiki/Hungary_at_the_Olympics" title="Hungary at the Olympics">Sport</a></li> 
+                 <li><a href="/wiki/National_symbols_of_Hungary" title="National symbols of Hungary">Symbols</a></li> 
+                 <li><a href="/wiki/Television_in_Hungary" title="Television in Hungary">Television</a></li> 
+                 <li><a href="/wiki/List_of_theatres_in_Hungary" title="List of theatres in Hungary">Theatre</a></li> 
+                 <li><a href="/wiki/List_of_World_Heritage_Sites_in_Hungary" title="List of World Heritage Sites in Hungary">World Heritage Sites</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Hungary" title="Outline of Hungary">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Hungary-related_articles" title="Index of Hungary-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Hungary" title="Category:Hungary">Category</a></li> 
+             <li><a href="/wiki/Portal:Hungary" title="Portal:Hungary">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1393
+Cached time: 20210130145139
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.512 seconds
+Real time usage: 0.724 seconds
+Preprocessor visited node count: 12188/1000000
+Post‐expand include size: 106771/2097152 bytes
+Template argument size: 20988/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 25/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6827/5000000 bytes
+Lua time usage: 0.195/10.000 seconds
+Lua memory usage: 6132613/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  631.981      1 -total
+ 44.43%  280.808      7 Template:Navbox
+ 32.15%  203.167      1 Template:Public_holidays_in_Europe
+ 31.54%  199.326      1 Template:Europe_topic
+ 24.05%  151.981      1 Template:Reflist
+ 20.67%  130.609     49 Template:Iso2country
+ 20.37%  128.730      1 Template:Cite_web
+ 14.34%   90.640      1 Template:Hungary_topics
+ 13.83%   87.412      1 Template:Country_topics
+ 10.76%   67.975      1 Template:Short_description
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:879914-0!canonical and timestamp 20210130145139 and revision id 999152038. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Hungary&amp;oldid=999152038">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Hungary&amp;oldid=999152038</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Hungary" title="Category:Public holidays in Hungary">Public holidays in Hungary</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2017" title="Category:Articles with unsourced statements from March 2017">Articles with unsourced statements from March 2017</a></li>
+       <li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Hungary" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Hungary" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Hungary" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Hungary" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Hungary">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Hungary&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Hungary&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Hungary" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Hungary" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Hungary&amp;oldid=999152038" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Hungary&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Hungary&amp;id=999152038&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1163103" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Hungary&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Hungary&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Holidays_in_Hungary" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Feiertage_in_Ungarn" title="Feiertage in Ungarn – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/F%C3%AAtes_et_jours_f%C3%A9ri%C3%A9s_en_Hongrie" title="Fêtes et jours fériés en Hongrie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%97%9D%EA%B0%80%EB%A6%AC%EC%9D%98_%EA%B3%B5%ED%9C%B4%EC%9D%BC" title="헝가리의 공휴일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Vengrijos_%C5%A1vent%C4%97s" title="Sąrašas:Vengrijos šventės – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Magyarorsz%C3%A1gi_%C3%BCnnepek_%C3%A9s_eml%C3%A9knapok_list%C3%A1ja" title="Magyarországi ünnepek és emléknapok listája – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1163103#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 8 January 2021, at 19:06<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Hungary&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.512","walltime":"0.724","ppvisitednodes":{"value":12188,"limit":1000000},"postexpandincludesize":{"value":106771,"limit":2097152},"templateargumentsize":{"value":20988,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":25,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6827,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  631.981      1 -total"," 44.43%  280.808      7 Template:Navbox"," 32.15%  203.167      1 Template:Public_holidays_in_Europe"," 31.54%  199.326      1 Template:Europe_topic"," 24.05%  151.981      1 Template:Reflist"," 20.67%  130.609     49 Template:Iso2country"," 20.37%  128.730      1 Template:Cite_web"," 14.34%   90.640      1 Template:Hungary_topics"," 13.83%   87.412      1 Template:Country_topics"," 10.76%   67.975      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.195","limit":"10.000"},"limitreport-memusage":{"value":6132613,"limit":52428800}},"cachereport":{"origin":"mw1393","timestamp":"20210130145139","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Hungary","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Hungary","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1163103","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1163103","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-05T17:56:38Z","dateModified":"2021-01-08T19:06:48Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":212,"wgHostname":"mw1265"});});</script> 
+ </body>
+</html>

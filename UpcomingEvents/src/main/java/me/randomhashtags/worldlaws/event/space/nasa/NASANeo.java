@@ -2,12 +2,12 @@ package me.randomhashtags.worldlaws.event.space.nasa;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.event.*;
+import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.util.HashMap;
-import java.util.logging.Level;
 
 public enum NASANeo implements USAEventController {
     INSTANCE;
@@ -55,6 +55,7 @@ public enum NASANeo implements USAEventController {
         requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject jsonobject) {
+                final UpcomingEventType type = getType();
                 final String dateString = year + "-" + month + "-" + (day < 10 ? "0" + day : "" + day);
                 final JSONArray nearEarthObjects = jsonobject.getJSONObject("near_earth_objects").getJSONArray(dateString);
                 final StringBuilder builder = new StringBuilder("[");
@@ -77,7 +78,7 @@ public enum NASANeo implements USAEventController {
                     final String identifier = getEventIdentifier(neoDate, neoTitle);
                     events.put(identifier, neo.toJSON());
 
-                    final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(neo.getType(), neoDate, neoTitle, "Near Earth Object description???", null);
+                    final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(type, neoDate, neoTitle, "Near Earth Object description???", null);
                     final String string = preUpcomingEvent.toString();
                     preEvents.put(identifier, string);
                     builder.append(isFirst ? "" : ",").append(string);
@@ -115,7 +116,7 @@ public enum NASANeo implements USAEventController {
 
         @Override
         public UpcomingEventType getType() {
-            return UpcomingEventType.SPACE_NEAR_EARTH_OBJECT;
+            return UpcomingEventType.SPACE_NASA;
         }
 
         @Override

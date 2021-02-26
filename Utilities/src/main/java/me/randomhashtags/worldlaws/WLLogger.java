@@ -1,36 +1,14 @@
 package me.randomhashtags.worldlaws;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.logging.*;
+import org.apache.logging.log4j.Level;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.core.config.Configurator;
 
 public abstract class WLLogger {
-    private static Logger LOGGER;
+    private static final Logger LOGGER = LogManager.getLogger("WLLogger");
     public static void log(Level level, String msg) {
-        if(LOGGER == null) {
-            LogManager.getLogManager().reset();
-            LOGGER = Logger.getLogger(WLLogger.class.getName());
-
-            final SimpleDateFormat format = new SimpleDateFormat("yyyy.MMM.dd@HH:mm:ss:SSS");
-            final Handler handler = new Handler() {
-                @Override
-                public void publish(LogRecord logRecord) {
-                    final Date date = new Date(logRecord.getMillis());
-                    final String now = format.format(date), msg = logRecord.getMessage();
-                    final String string = "[" + now + "] [" + logRecord.getLevel().getName() + "] " + msg;
-                    System.out.println(string);
-                }
-
-                @Override
-                public void flush() {
-                }
-
-                @Override
-                public void close() throws SecurityException {
-                }
-            };
-            LOGGER.addHandler(handler);
-        }
+        Configurator.setLevel("WLLogger", Level.DEBUG);
         LOGGER.log(level, msg);
     }
 }

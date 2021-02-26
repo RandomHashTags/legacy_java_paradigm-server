@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.event.EventDate;
-import me.randomhashtags.worldlaws.event.UpcomingEventType;
 import me.randomhashtags.worldlaws.location.WLCountry;
 
 import java.time.Month;
@@ -27,7 +26,7 @@ public interface EventController extends RestAPI, Jsoupable {
     }
 
     default String getEventIdentifier(EventDate date, String title) {
-        return getEventDateIdentifier(date) + "." + title.toLowerCase().replace(" ", "");
+        return getEventDateIdentifier(date) + "." + title.toLowerCase().replace(" ", "").replace("|", "-");
     }
     default void getEventsFromDate(EventDate date, CompletionHandler handler) {
         final HashMap<String, String> events = getPreEvents();
@@ -47,7 +46,8 @@ public interface EventController extends RestAPI, Jsoupable {
         final StringBuilder builder = new StringBuilder("[");
         if(hashmap != null) {
             final String identifier = getEventDateIdentifier(date) + ".";
-            final Set<Map.Entry<String, String>> set = hashmap.entrySet();
+            final HashMap<String, String> hashmapClone = new HashMap<>(hashmap);
+            final Set<Map.Entry<String, String>> set = hashmapClone.entrySet();
             set.removeIf(map -> !map.getKey().startsWith(identifier));
             boolean isFirst = true;
             for(Map.Entry<String, String> value : set) {

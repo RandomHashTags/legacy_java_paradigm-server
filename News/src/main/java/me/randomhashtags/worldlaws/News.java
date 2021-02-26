@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.info.service.NewsAPIDotOrg;
+import me.randomhashtags.worldlaws.service.NewsAPIDotOrg;
 
 public class News implements RestAPI, DataValues {
 

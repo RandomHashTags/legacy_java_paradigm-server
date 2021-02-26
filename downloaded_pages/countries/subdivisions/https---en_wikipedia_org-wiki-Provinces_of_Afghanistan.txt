@@ -1,0 +1,462 @@
+<table class="wikitable sortable"> 
+ <caption>
+  Provinces of Afghanistan<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> 
+ </caption> 
+ <tbody>
+  <tr> 
+   <th>Province </th> 
+   <th>Map # </th> 
+   <th align="right"><a href="/wiki/ISO_3166-2:AF" title="ISO 3166-2:AF">ISO 3166-2:AF</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </th> 
+   <th align="left">License<br>Plate<br>Code </th> 
+   <th align="left">Capital </th> 
+   <th align="right">Population<br>(2015)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </th> 
+   <th align="right">Area<br>(km<sup>2</sup>) </th> 
+   <th align="right">Population<br>density<br>(km<sup>2</sup>)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </th> 
+   <th align="right">No. of<br>Districts </th> 
+   <th align="right"><a href="/wiki/United_Nations_subregions_of_Afghanistan" title="United Nations subregions of Afghanistan">U.N. Region</a> </th> 
+   <th align="right">Region </th>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Badakhshan_Province" title="Badakhshan Province">Badakhshan</a></td> 
+   <td style="text-align:center;">30</td> 
+   <td style="text-align:center;">AF-BDS</td> 
+   <td>BDN</td> 
+   <td><a href="/wiki/Fayzabad,_Badakhshan" title="Fayzabad, Badakhshan">Fayzabad</a></td> 
+   <td align="right">950,953</td> 
+   <td align="right">44,835</td> 
+   <td align="right">22.2</td> 
+   <td align="right">29</td> 
+   <td>North East</td> 
+   <td>North </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Badghis_Province" title="Badghis Province">Badghis</a></td> 
+   <td style="text-align:center;">4</td> 
+   <td style="text-align:center;">AF-BDG</td> 
+   <td><i>BDG</i></td> 
+   <td><a href="/wiki/Qala_i_Naw,_Afghanistan" class="mw-redirect" title="Qala i Naw, Afghanistan">Qala i Naw</a></td> 
+   <td align="right">495,958</td> 
+   <td align="right">20,791</td> 
+   <td align="right">24.3</td> 
+   <td align="right">7</td> 
+   <td>West</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Baghlan_Province" title="Baghlan Province">Baghlan</a></td> 
+   <td style="text-align:center;">19</td> 
+   <td style="text-align:center;">AF-BGL</td> 
+   <td>BAG</td> 
+   <td><a href="/wiki/Puli_Khumri" title="Puli Khumri">Puli Khumri</a></td> 
+   <td align="right">910,784</td> 
+   <td align="right">18,255</td> 
+   <td align="right">52.1</td> 
+   <td align="right">16</td> 
+   <td>North East</td> 
+   <td>North </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Balkh_Province" title="Balkh Province">Balkh</a></td> 
+   <td style="text-align:center;">13</td> 
+   <td style="text-align:center;">AF-BAL</td> 
+   <td>BLH</td> 
+   <td><a href="/wiki/Mazar-i-Sharif" title="Mazar-i-Sharif">Mazar-i-Sharif</a></td> 
+   <td align="right">1,325,659</td> 
+   <td align="right">16,186</td> 
+   <td align="right">80.7</td> 
+   <td align="right">15</td> 
+   <td>North West</td> 
+   <td>North </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Bamyan_Province" title="Bamyan Province">Bamyan</a></td> 
+   <td style="text-align:center;">15</td> 
+   <td style="text-align:center;">AF-BAM</td> 
+   <td>BAM</td> 
+   <td><a href="/wiki/Bamyan,_Afghanistan" class="mw-redirect" title="Bamyan, Afghanistan">Bamyan</a></td> 
+   <td align="right">487,218</td> 
+   <td align="right">18,029</td> 
+   <td align="right">25.4</td> 
+   <td align="right">7</td> 
+   <td>West</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Daykundi_Province" title="Daykundi Province">Daykundi</a></td> 
+   <td style="text-align:center;">10</td> 
+   <td style="text-align:center;">AF-DAY</td> 
+   <td><i>DYK</i></td> 
+   <td><a href="/wiki/Nili,_Afghanistan" title="Nili, Afghanistan">Nili</a></td> 
+   <td align="right">507,339</td> 
+   <td align="right">17,515</td> 
+   <td align="right">28.1</td> 
+   <td align="right">8</td> 
+   <td>South West</td> 
+   <td>South </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Farah_Province" title="Farah Province">Farah</a></td> 
+   <td style="text-align:center;">2</td> 
+   <td style="text-align:center;">AF-FRA</td> 
+   <td>FRH</td> 
+   <td><a href="/wiki/Farah,_Afghanistan" title="Farah, Afghanistan">Farah</a></td> 
+   <td align="right">507,405</td> 
+   <td align="right">49,339</td> 
+   <td align="right">10.4</td> 
+   <td align="right">11</td> 
+   <td>West</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Faryab_Province" title="Faryab Province">Faryab</a></td> 
+   <td style="text-align:center;">5</td> 
+   <td style="text-align:center;">AF-FYB</td> 
+   <td><i>FYB</i></td> 
+   <td><a href="/wiki/Maymana" title="Maymana">Maymana</a></td> 
+   <td align="right">998,147</td> 
+   <td align="right">20,793</td> 
+   <td align="right">49.0</td> 
+   <td align="right">14</td> 
+   <td>North West</td> 
+   <td>North </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Ghazni_Province" title="Ghazni Province">Ghazni</a></td> 
+   <td style="text-align:center;">16</td> 
+   <td style="text-align:center;">AF-GHA</td> 
+   <td>GAZ</td> 
+   <td><a href="/wiki/Ghazni" title="Ghazni">Ghazni</a></td> 
+   <td align="right">1,228,831</td> 
+   <td align="right">22,460</td> 
+   <td align="right">57.4</td> 
+   <td align="right">19</td> 
+   <td>South East</td> 
+   <td>South </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Ghor_Province" title="Ghor Province">Ghor</a></td> 
+   <td style="text-align:center;">6</td> 
+   <td style="text-align:center;">AF-GHO</td> 
+   <td>GHR</td> 
+   <td><a href="/wiki/Firozkoh" title="Firozkoh">Feroz Koh</a></td> 
+   <td align="right">790,296</td> 
+   <td align="right">36,676</td> 
+   <td align="right">18.9</td> 
+   <td align="right">11</td> 
+   <td>West</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Helmand_Province" title="Helmand Province">Helmand</a></td> 
+   <td style="text-align:center;">7</td> 
+   <td style="text-align:center;">AF-HEL</td> 
+   <td>HEL</td> 
+   <td><a href="/wiki/Lashkargah" title="Lashkargah">Lashkargah</a></td> 
+   <td align="right">924,711</td> 
+   <td align="right">58,305</td> 
+   <td align="right">15.9</td> 
+   <td align="right">13</td> 
+   <td>South West</td> 
+   <td>South </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Herat_Province" title="Herat Province">Herat</a></td> 
+   <td style="text-align:center;">1</td> 
+   <td style="text-align:center;">AF-HER</td> 
+   <td>HRT</td> 
+   <td><a href="/wiki/Herat" title="Herat">Herat</a></td> 
+   <td align="right">1,890,202</td> 
+   <td align="right">55,868</td> 
+   <td align="right">35.1</td> 
+   <td align="right">15</td> 
+   <td>West</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Jowzjan_Province" title="Jowzjan Province">Jowzjan</a></td> 
+   <td style="text-align:center;">8</td> 
+   <td style="text-align:center;">AF-JOW</td> 
+   <td><i>JZJ</i></td> 
+   <td><a href="/wiki/Sheberghan" title="Sheberghan">Sheberghan</a></td> 
+   <td align="right">540,255</td> 
+   <td align="right">11,291</td> 
+   <td align="right">49.5</td> 
+   <td align="right">9</td> 
+   <td>North West</td> 
+   <td>North </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Kabul_Province" title="Kabul Province">Kabul</a></td> 
+   <td style="text-align:center;">22</td> 
+   <td style="text-align:center;">AF-KAB</td> 
+   <td>KBL</td> 
+   <td><a href="/wiki/Kabul" title="Kabul">Kabul</a></td> 
+   <td align="right">4,372,977</td> 
+   <td align="right">4,523</td> 
+   <td align="right">917.7</td> 
+   <td align="right">18</td> 
+   <td>Central</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Kandahar_Province" title="Kandahar Province">Kandahar</a></td> 
+   <td style="text-align:center;">12</td> 
+   <td style="text-align:center;">AF-KAN</td> 
+   <td>KRD</td> 
+   <td><a href="/wiki/Kandahar" title="Kandahar">Kandahar</a></td> 
+   <td align="right">1,226,593</td> 
+   <td align="right">54,864</td> 
+   <td align="right">23.2</td> 
+   <td align="right">16</td> 
+   <td>South West</td> 
+   <td>South </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Kapisa_Province" title="Kapisa Province">Kapisa</a></td> 
+   <td style="text-align:center;">29</td> 
+   <td style="text-align:center;">AF-KAP</td> 
+   <td>KPS</td> 
+   <td><a href="/wiki/Mahmud-i-Raqi" title="Mahmud-i-Raqi">Mahmud-i-Raqi</a></td> 
+   <td align="right">441,010</td> 
+   <td align="right">1,908</td> 
+   <td align="right">238.2</td> 
+   <td align="right">7</td> 
+   <td>Central</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Khost_Province" title="Khost Province">Khost</a></td> 
+   <td style="text-align:center;">26</td> 
+   <td style="text-align:center;">AF-KHO</td> 
+   <td>KST</td> 
+   <td><a href="/wiki/Khost" title="Khost">Khost</a></td> 
+   <td align="right">574,582</td> 
+   <td align="right">4,235</td> 
+   <td align="right">136.3</td> 
+   <td align="right">13</td> 
+   <td>South East</td> 
+   <td>South </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Kunar_Province" title="Kunar Province">Kunar</a></td> 
+   <td style="text-align:center;">34</td> 
+   <td style="text-align:center;">AF-KNR</td> 
+   <td><i>KNR</i></td> 
+   <td><a href="/wiki/Asadabad,_Afghanistan" title="Asadabad, Afghanistan">Asadabad</a></td> 
+   <td align="right">450,652</td> 
+   <td align="right">4,925</td> 
+   <td align="right">94.5</td> 
+   <td align="right">15</td> 
+   <td>East</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Kunduz_Province" title="Kunduz Province">Kunduz</a></td> 
+   <td style="text-align:center;">18</td> 
+   <td style="text-align:center;">AF-KDZ</td> 
+   <td>KDZ</td> 
+   <td><a href="/wiki/Kunduz" title="Kunduz">Kunduz</a></td> 
+   <td align="right">1,010,037</td> 
+   <td align="right">8,080</td> 
+   <td align="right">130.3</td> 
+   <td align="right">7</td> 
+   <td>North East</td> 
+   <td>North </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Laghman_Province" title="Laghman Province">Laghman</a></td> 
+   <td style="text-align:center;">32</td> 
+   <td style="text-align:center;">AF-LAG</td> 
+   <td>LGM</td> 
+   <td><a href="/wiki/Mihtarlam" title="Mihtarlam">Mihtarlam</a></td> 
+   <td align="right">445,588</td> 
+   <td align="right">3,977</td> 
+   <td align="right">118.1</td> 
+   <td align="right">5</td> 
+   <td>East</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Logar_Province" title="Logar Province">Logar</a></td> 
+   <td style="text-align:center;">23</td> 
+   <td style="text-align:center;">AF-LOG</td> 
+   <td><i>LGR</i></td> 
+   <td><a href="/wiki/Pul-i-Alam" class="mw-redirect" title="Pul-i-Alam">Pul-i-Alam</a></td> 
+   <td align="right">392,045</td> 
+   <td align="right">4,568</td> 
+   <td align="right">90.7</td> 
+   <td align="right">7</td> 
+   <td>Central</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Nangarhar_Province" title="Nangarhar Province">Nangarhar</a></td> 
+   <td style="text-align:center;">33</td> 
+   <td style="text-align:center;">AF-NAN</td> 
+   <td>NGR</td> 
+   <td><a href="/wiki/Jalalabad,_Afghanistan" class="mw-redirect" title="Jalalabad, Afghanistan">Jalalabad</a></td> 
+   <td align="right">1,517,388</td> 
+   <td align="right">7,641</td> 
+   <td align="right">208.9</td> 
+   <td align="right">23</td> 
+   <td>East</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Nimruz_Province" title="Nimruz Province">Nimruz</a></td> 
+   <td style="text-align:center;">3</td> 
+   <td style="text-align:center;">AF-NIM</td> 
+   <td>NRZ</td> 
+   <td><a href="/wiki/Zaranj" title="Zaranj">Zaranj</a></td> 
+   <td align="right">164,978</td> 
+   <td align="right">42,409</td> 
+   <td align="right">4.1</td> 
+   <td align="right">5</td> 
+   <td>South West</td> 
+   <td>South </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Nuristan_Province" title="Nuristan Province">Nuristan</a></td> 
+   <td style="text-align:center;">31</td> 
+   <td style="text-align:center;">AF-NUR</td> 
+   <td><i>NUR</i></td> 
+   <td><a href="/wiki/Parun" title="Parun">Parun</a></td> 
+   <td align="right">147,967</td> 
+   <td align="right">9,255</td> 
+   <td align="right">16.7</td> 
+   <td align="right">7</td> 
+   <td>East</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Paktia_Province" title="Paktia Province">Paktia</a></td> 
+   <td style="text-align:center;">24</td> 
+   <td style="text-align:center;">AF-PIA</td> 
+   <td><i>PAK</i></td> 
+   <td><a href="/wiki/Gardez" title="Gardez">Gardez</a></td> 
+   <td align="right">551,987</td> 
+   <td align="right">5,683</td> 
+   <td align="right">106.4</td> 
+   <td align="right">11</td> 
+   <td>South East</td> 
+   <td>South </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Paktika_Province" title="Paktika Province">Paktika</a></td> 
+   <td style="text-align:center;">25</td> 
+   <td style="text-align:center;">AF-PKA</td> 
+   <td>PKT</td> 
+   <td><a href="/wiki/Sharana,_Afghanistan" class="mw-redirect" title="Sharana, Afghanistan">Sharana</a></td> 
+   <td align="right">434,742</td> 
+   <td align="right">19,515</td> 
+   <td align="right">23.2</td> 
+   <td align="right">15</td> 
+   <td>South East</td> 
+   <td>South </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Panjshir_Province" title="Panjshir Province">Panjshir</a></td> 
+   <td style="text-align:center;">28</td> 
+   <td style="text-align:center;">AF-PAN</td> 
+   <td>PJR</td> 
+   <td><a href="/wiki/Bazarak,_Panjshir" class="mw-redirect" title="Bazarak, Panjshir">Bazarak</a></td> 
+   <td align="right">371,902</td> 
+   <td align="right">3,771</td> 
+   <td align="right">41.8</td> 
+   <td align="right">7</td> 
+   <td>Central</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Parwan_Province" title="Parwan Province">Parwan</a></td> 
+   <td style="text-align:center;">20</td> 
+   <td style="text-align:center;">AF-PAR</td> 
+   <td>PRN</td> 
+   <td><a href="/wiki/Charikar" title="Charikar">Charikar</a></td> 
+   <td align="right">664,502</td> 
+   <td align="right">5,715</td> 
+   <td align="right">120.9</td> 
+   <td align="right">9</td> 
+   <td>Central</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Samangan_Province" title="Samangan Province">Samangan</a></td> 
+   <td style="text-align:center;">14</td> 
+   <td style="text-align:center;">AF-SAM</td> 
+   <td>SAM</td> 
+   <td><a href="/wiki/Samangan" title="Samangan">Samangan</a></td> 
+   <td align="right">387,928</td> 
+   <td align="right">13,437</td> 
+   <td align="right">30.6</td> 
+   <td align="right">5</td> 
+   <td>North West</td> 
+   <td>North </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Sar-e_Pol_Province" title="Sar-e Pol Province">Sar-e Pol</a></td> 
+   <td style="text-align:center;">9</td> 
+   <td style="text-align:center;">AF-SAR</td> 
+   <td><i>SRP</i></td> 
+   <td><a href="/wiki/Sar-e_Pol_city" title="Sar-e Pol city">Sar-e Pol</a></td> 
+   <td align="right">559,577</td> 
+   <td align="right">16,385</td> 
+   <td align="right">37.3</td> 
+   <td align="right">7</td> 
+   <td>North West</td> 
+   <td>North </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Takhar_Province" title="Takhar Province">Takhar</a></td> 
+   <td style="text-align:center;">27</td> 
+   <td style="text-align:center;">AF-TAK</td> 
+   <td>TAK</td> 
+   <td><a href="/wiki/Taloqan" title="Taloqan">Taloqan</a></td> 
+   <td align="right">983,336</td> 
+   <td align="right">12,457</td> 
+   <td align="right">81.2</td> 
+   <td align="right">16</td> 
+   <td>North East</td> 
+   <td>North </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Uruzgan_Province" title="Uruzgan Province">Uruzgan</a></td> 
+   <td style="text-align:center;">11</td> 
+   <td style="text-align:center;">AF-URU</td> 
+   <td>ORZ</td> 
+   <td><a href="/wiki/Tarinkot" title="Tarinkot">Tarinkot</a></td> 
+   <td align="right">386,818</td> 
+   <td align="right">11,473</td> 
+   <td align="right">32.7</td> 
+   <td align="right">6</td> 
+   <td>South West</td> 
+   <td>South </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Maidan_Wardak_Province" title="Maidan Wardak Province">Maidan Wardak</a></td> 
+   <td style="text-align:center;">21</td> 
+   <td style="text-align:center;">AF-WAR</td> 
+   <td>WDK</td> 
+   <td><a href="/wiki/Maidan_Shar" title="Maidan Shar">Maidan Shar</a></td> 
+   <td align="right">596,287</td> 
+   <td align="right">10,348</td> 
+   <td align="right">57.3</td> 
+   <td align="right">9</td> 
+   <td>Central</td> 
+   <td>Central </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Zabul_Province" title="Zabul Province">Zabul</a></td> 
+   <td style="text-align:center;">17</td> 
+   <td style="text-align:center;">AF-ZAB</td> 
+   <td>ZBL</td> 
+   <td><a href="/wiki/Qalat,_Zabul_Province" class="mw-redirect" title="Qalat, Zabul Province">Qalat</a></td> 
+   <td align="right">304,126</td> 
+   <td align="right">17,471</td> 
+   <td align="right">17.8</td> 
+   <td align="right">9</td> 
+   <td>South West</td> 
+   <td>South </td>
+  </tr>
+ </tbody>
+</table>

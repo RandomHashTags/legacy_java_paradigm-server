@@ -35,7 +35,7 @@ public enum GooglePlayPass implements CountryAvailabilityService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://play.google.com/about/pass-availability/";
-        final Elements elements = getDocumentElements(url, "body main.h-c-page ul li");
+        final Elements elements = getAvailabilityDocumentElements(url, "body main.h-c-page ul li");
         final EventSource source = new EventSource("Google", url);
         final EventSources sources = new EventSources(source);
         final String availability = getAvailability(true);

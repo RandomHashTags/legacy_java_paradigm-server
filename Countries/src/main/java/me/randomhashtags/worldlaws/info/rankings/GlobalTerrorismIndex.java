@@ -37,7 +37,7 @@ public enum GlobalTerrorismIndex implements CountryRankingService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Global_Terrorism_Index";
-        final Elements elements = getDocumentElements(url, "div.mw-parser-output table.wikitable", 3).select("tbody tr");
+        final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 3).select("tbody tr");
         elements.remove(0);
         final EventSource wikipedia = new EventSource("Wikipedia: Global Terrorism Index", url);
         final EventSources sources = new EventSources(wikipedia);

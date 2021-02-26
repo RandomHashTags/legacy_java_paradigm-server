@@ -1,13 +1,14 @@
 package me.randomhashtags.worldlaws.info.service;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.location.CountryInfo;
+import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
-import java.util.logging.Level;
 
 // https://en.wikipedia.org/wiki/Lists_of_cities_by_country
 public enum Cities implements CountryService {
@@ -50,7 +51,7 @@ public enum Cities implements CountryService {
         cities = new HashMap<>();
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Lists_of_cities_by_country";
-        final Elements elements = getDocumentElements(url, "div.mw-parser-output ul li");
+        final Elements elements = getDocumentElements(FileType.COUNTRIES, url, "div.mw-parser-output ul li");
         elements.removeIf(element -> element.select("b").isEmpty());
         for(Element element : elements) {
             final Element link = element.select("b").get(0).select("a").get(0);
@@ -60,7 +61,9 @@ public enum Cities implements CountryService {
             final String country = (!target.isEmpty() ? text.split(target)[1] : text).replace(" ", "").split("\\(")[0];
             countries.put(country, targetURL);
         }
-        handler.handle(null);
+        if(handler != null) {
+            handler.handle(null);
+        }
     }
 
     private void loadCities(String country, CompletionHandler handler) {

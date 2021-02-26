@@ -37,7 +37,7 @@ public enum WorldGivingIndex implements CountryRankingService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/World_Giving_Index";
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         final int yearOfData = Integer.parseInt(trs.get(0).select("th").get(1).text().split(" ")[0]);
         trs.remove(0);
         trs.removeIf(row -> {

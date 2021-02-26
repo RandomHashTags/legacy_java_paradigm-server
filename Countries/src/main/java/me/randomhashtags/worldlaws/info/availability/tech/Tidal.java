@@ -35,7 +35,7 @@ public enum Tidal implements CountryAvailabilityService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://support.tidal.com/hc/en-us/articles/202453191-Which-countries-is-TIDAL-available-";
-        final Elements trs = getDocumentElements(url, "section.categories-wrapper div ul li.txt-content p");
+        final Elements trs = getAvailabilityDocumentElements(url, "section.categories-wrapper div ul li.txt-content p");
         trs.remove(trs.size()-1);
         trs.remove(trs.size()-1);
         final EventSource source = new EventSource("Tidal", url);

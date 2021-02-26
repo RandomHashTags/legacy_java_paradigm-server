@@ -2,9 +2,10 @@ package me.randomhashtags.worldlaws.event.entertainment;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.event.EventDate;
-import me.randomhashtags.worldlaws.event.PreUpcomingEvent;
-import me.randomhashtags.worldlaws.event.UpcomingEventType;
+import me.randomhashtags.worldlaws.PreUpcomingEvent;
+import me.randomhashtags.worldlaws.UpcomingEventType;
 import me.randomhashtags.worldlaws.location.WLCountry;
+import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -13,7 +14,7 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.util.HashMap;
 import java.util.concurrent.atomic.AtomicBoolean;
-import java.util.logging.Level;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public enum MusicAlbums implements EventController {
     INSTANCE;
@@ -62,6 +63,7 @@ public enum MusicAlbums implements EventController {
         final String url = "https://en.wikipedia.org/wiki/List_of_" + year + "_albums";
         final Document doc = getDocument(url);
         if(doc != null) {
+            final UpcomingEventType type = getType();
             final StringBuilder builder = new StringBuilder("[");
             final Elements headers = doc.select("h3");
             final Elements tables = doc.select("h3 + table.wikitable");
@@ -73,6 +75,8 @@ public enum MusicAlbums implements EventController {
             final String prefix = "https://en.wikipedia.org";
             final EventSource wikipedia = new EventSource("Wikipedia: List of " + year + " albums", url);
             final AtomicBoolean isFirst = new AtomicBoolean(true);
+            final int maxCompleted = tables.size();
+            final AtomicInteger completed = new AtomicInteger(0);
             tables.parallelStream().forEach(table -> {
                 final Elements trs = table.select("tbody tr");
                 trs.remove(0);
@@ -115,18 +119,21 @@ public enum MusicAlbums implements EventController {
                         final MusicAlbumEvent event = new MusicAlbumEvent(releaseDate, artist, album, albumImageURL, description, sources);
                         final String identifier = getEventIdentifier(releaseDate, album);
                         events.put(identifier, event.toJSON());
-                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(event.getType(), releaseDate, album, artist, albumImageURL);
+                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(type, releaseDate, album, artist, albumImageURL);
                         final String string = preUpcomingEvent.toString();
                         preEvents.put(identifier, string);
                         builder.append(isFirst.get() ? "" : ",").append(string);
                         isFirst.set(false);
                     }
                 }
+                final int value = completed.addAndGet(1);
+                if(value == maxCompleted) {
+                    final String string = builder.append("]").toString();
+                    WLLogger.log(Level.INFO, "MusicAlbums - refreshed for year " + year + " (took " + (System.currentTimeMillis()-started) + "ms)");
+                    years.put(year, string);
+                    handler.handle(string);
+                }
             });
-            final String string = builder.append("]").toString();
-            WLLogger.log(Level.INFO, "MusicAlbums - refreshed for year " + year + " (took " + (System.currentTimeMillis()-started) + "ms)");
-            years.put(year, string);
-            handler.handle(string);
         }
     }
 }

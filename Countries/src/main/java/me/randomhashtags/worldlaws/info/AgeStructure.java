@@ -3,14 +3,13 @@ package me.randomhashtags.worldlaws.info;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.location.CountryInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
 
-public enum AgeStructure implements CountryService {
+public enum AgeStructure implements CountryInfoService {
     INSTANCE;
 
     private HashMap<String, String> countries;
@@ -31,7 +30,7 @@ public enum AgeStructure implements CountryService {
         final String url = "https://en.wikipedia.org/wiki/List_of_countries_by_age_structure", title = getInfo().getTitle();
         final EventSource source = new EventSource("Wikipedia: List of countries by age structure", url);
         final EventSources sources = new EventSources(source);
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements trs = getInfoDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.remove(0);
         final int yearOfData = 2017;

@@ -81,7 +81,8 @@ public final class CongressBill {
 
     @Override
     public String toString() {
-        return "{\"chamber\":\"" + chamber + "\"," +
+        return "{" +
+                "\"chamber\":\"" + chamber + "\"," +
                 "\"id\":\"" + id + "\"," +
                 "\"title\":\"" + title + "\"," +
                 "\"sponsor\":" + sponsor.toJSON() + "," +

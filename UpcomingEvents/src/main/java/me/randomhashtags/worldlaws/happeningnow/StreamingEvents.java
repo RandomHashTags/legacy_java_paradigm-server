@@ -2,13 +2,13 @@ package me.randomhashtags.worldlaws.happeningnow;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.EventController;
-import me.randomhashtags.worldlaws.event.UpcomingEventType;
+import me.randomhashtags.worldlaws.UpcomingEventType;
 import me.randomhashtags.worldlaws.location.WLCountry;
+import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.*;
-import java.util.logging.Level;
 
 public enum StreamingEvents implements EventController, DataValues {
     TWITCH(UpcomingEventType.LIVE_STREAM_TWITCH,

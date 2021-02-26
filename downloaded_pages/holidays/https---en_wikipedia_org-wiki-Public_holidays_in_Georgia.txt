@@ -1,0 +1,977 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Georgia (country) - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBcPiQpAICoAAHBggXUAAAAV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Georgia_(country)","wgTitle":"Public holidays in Georgia (country)","wgCurRevisionId":966257982,"wgRevisionId":966257982,"wgArticleId":3069065,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Lists of public holidays by country","Public holidays in Georgia (country)","Society of Georgia (country)"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Public_holidays_in_Georgia_(country)","wgRelevantArticleId":3069065,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Public_holidays_in_Georgia","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Public_holidays_in_Georgia_(country)","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1236795"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready",
+"noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/New_Year%27s_Eve_2008_-_Tbilisi_Freedom_Square.JPG/1200px-New_Year%27s_Eve_2008_-_Tbilisi_Freedom_Square.JPG"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Georgia_(country)&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Georgia_(country)&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Georgia_(country)"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Georgia_country rootpage-Public_holidays_in_Georgia_country skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Georgia (country)</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">&nbsp;&nbsp;(Redirected from <a href="/w/index.php?title=Public_holidays_in_Georgia&amp;redirect=no" class="mw-redirect" title="Public holidays in Georgia">Public holidays in Georgia</a>)</span>
+    </div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikimedia list article
+      </div> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       For holidays in the U.S. state of Georgia, see <a href="/wiki/Public_holidays_in_Georgia_(U.S.)" class="mw-redirect" title="Public holidays in Georgia (U.S.)">Public holidays in Georgia (U.S.)</a>.
+      </div> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr style="background:#efefef;"> 
+         <th>Date </th> 
+         <th>English name </th> 
+         <th>Georgian name </th> 
+         <th>Transliteration </th> 
+         <th>Remarks </th> 
+         <th>Illustration </th>
+        </tr> 
+        <tr> 
+         <td>January 1 </td> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> </td> 
+         <td>ახალი წელი </td> 
+         <td>Akhali ts'eli </td> 
+         <td> </td> 
+         <td><a href="/wiki/File:New_Year%27s_Eve_2008_-_Tbilisi_Freedom_Square.JPG" class="image"><img alt="New Year's Eve 2008 - Tbilisi Freedom Square.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/New_Year%27s_Eve_2008_-_Tbilisi_Freedom_Square.JPG/180px-New_Year%27s_Eve_2008_-_Tbilisi_Freedom_Square.JPG" decoding="async" width="180" height="135" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/New_Year%27s_Eve_2008_-_Tbilisi_Freedom_Square.JPG/270px-New_Year%27s_Eve_2008_-_Tbilisi_Freedom_Square.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/New_Year%27s_Eve_2008_-_Tbilisi_Freedom_Square.JPG/360px-New_Year%27s_Eve_2008_-_Tbilisi_Freedom_Square.JPG 2x" data-file-width="2253" data-file-height="1690"></a> </td>
+        </tr> 
+        <tr> 
+         <td>January 2 </td> 
+         <td>Second day of the New Year </td> 
+         <td>ბედობა </td> 
+         <td>Bedoba </td> 
+         <td> </td> 
+         <td><a href="/wiki/File:Chichilaki_Georgian_christmass_tree.jpg" class="image"><img alt="Chichilaki Georgian christmass tree.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chichilaki_Georgian_christmass_tree.jpg/180px-Chichilaki_Georgian_christmass_tree.jpg" decoding="async" width="180" height="269" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chichilaki_Georgian_christmass_tree.jpg/270px-Chichilaki_Georgian_christmass_tree.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chichilaki_Georgian_christmass_tree.jpg/360px-Chichilaki_Georgian_christmass_tree.jpg 2x" data-file-width="2534" data-file-height="3785"></a> </td>
+        </tr> 
+        <tr> 
+         <td>January 7 </td> 
+         <td><a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Orthodox</a> <a href="/wiki/Christmas" title="Christmas">Christmas</a> </td> 
+         <td>ქრისტეშობა </td> 
+         <td>Krist'eshoba </td> 
+         <td> </td> 
+         <td><a href="/wiki/File:Alilo_2008.jpg" class="image"><img alt="Alilo 2008.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alilo_2008.jpg/180px-Alilo_2008.jpg" decoding="async" width="180" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alilo_2008.jpg/270px-Alilo_2008.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alilo_2008.jpg/360px-Alilo_2008.jpg 2x" data-file-width="800" data-file-height="533"></a> </td>
+        </tr> 
+        <tr> 
+         <td>January 19 </td> 
+         <td><a href="/wiki/Baptism" title="Baptism">Baptism</a> Day of our Lord <a href="/wiki/Jesus_Christ" class="mw-redirect" title="Jesus Christ">Jesus Christ</a> </td> 
+         <td>ნათლისღება </td> 
+         <td>Natlisgheba </td> 
+         <td> </td> 
+         <td><a href="/wiki/File:Baptism._Works_of_Gregory_the_Theologian_A-109,_73v,_12th_c.jpg" class="image"><img alt="Baptism. Works of Gregory the Theologian A-109, 73v, 12th c.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Baptism._Works_of_Gregory_the_Theologian_A-109%2C_73v%2C_12th_c.jpg/180px-Baptism._Works_of_Gregory_the_Theologian_A-109%2C_73v%2C_12th_c.jpg" decoding="async" width="180" height="225" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Baptism._Works_of_Gregory_the_Theologian_A-109%2C_73v%2C_12th_c.jpg/270px-Baptism._Works_of_Gregory_the_Theologian_A-109%2C_73v%2C_12th_c.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Baptism._Works_of_Gregory_the_Theologian_A-109%2C_73v%2C_12th_c.jpg/360px-Baptism._Works_of_Gregory_the_Theologian_A-109%2C_73v%2C_12th_c.jpg 2x" data-file-width="2469" data-file-height="3092"></a> </td>
+        </tr> 
+        <tr> 
+         <td>March 3 </td> 
+         <td><a href="/wiki/Mother%27s_Day" title="Mother's Day">Mother's Day</a> </td> 
+         <td>დედის დღე </td> 
+         <td>Dedis dghe </td> 
+         <td> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>March 8 </td> 
+         <td><a href="/wiki/International_Women%27s_Day" title="International Women's Day">International Women's Day</a> </td> 
+         <td>ქალთა საერთაშორისო დღე </td> 
+         <td>Kalta saertashoriso dghe </td> 
+         <td> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>April 9 </td> 
+         <td>National Unity Day </td> 
+         <td>ეროვნული ერთიანობის დღე </td> 
+         <td>Erovnuli ertianobis dghe </td> 
+         <td>Commemoration of the <a href="/wiki/April_9_tragedy" title="April 9 tragedy">April 9 tragedy</a> 1989 (also known as Tbilisi Massacre, Tbilisi tragedy) when on <a href="/wiki/Rustaveli_Avenue" title="Rustaveli Avenue">Rustaveli Avenue</a>, in <a href="/wiki/Tbilisi" title="Tbilisi">Tbilisi</a> an anti-Soviet demonstration was dispersed by the Soviet Army, resulting in 20 deaths and hundreds of injuries. </td> 
+         <td><a href="/wiki/File:Richard_Norland_on_Rustaveli_Ave_09.04.2015.jpg" class="image"><img alt="Richard Norland on Rustaveli Ave 09.04.2015.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Richard_Norland_on_Rustaveli_Ave_09.04.2015.jpg/180px-Richard_Norland_on_Rustaveli_Ave_09.04.2015.jpg" decoding="async" width="180" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Richard_Norland_on_Rustaveli_Ave_09.04.2015.jpg/270px-Richard_Norland_on_Rustaveli_Ave_09.04.2015.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Richard_Norland_on_Rustaveli_Ave_09.04.2015.jpg/360px-Richard_Norland_on_Rustaveli_Ave_09.04.2015.jpg 2x" data-file-width="2048" data-file-height="1365"></a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Moveable_feast" title="Moveable feast">Moveable</a> </td> 
+         <td><a href="/wiki/Eastern_Orthodox" class="mw-redirect" title="Eastern Orthodox">Eastern Orthodox</a> <a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a>, <a href="/wiki/Great_Saturday" class="mw-redirect" title="Great Saturday">Great Saturday</a>, <a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a> and <a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> of <a href="/wiki/Bright_Week" title="Bright Week">Bright Week</a> </td> 
+         <td>სააღდგომო დღეები – წითელი პარასკევი, დიდი შაბათი, ბრწყინვალე აღდგომა და ორშაბათი </td> 
+         <td>Saaghdgomo dgheebi – ts'iteli parask'evi, didi shabati, brts'q'invale aghdgoma da orshabati </td> 
+         <td>On <a href="/wiki/Bright_Monday" class="mw-redirect" title="Bright Monday">Bright Monday</a>, the <a href="/wiki/Georgian_Orthodox_Church" title="Georgian Orthodox Church">Georgian Orthodox Church</a> serves <a href="/wiki/Liturgy" title="Liturgy">Liturgy</a> for Dismissals </td> 
+         <td><a href="/wiki/File:Pirosmani._Easter_eggs.jpg" class="image"><img alt="Pirosmani. Easter eggs.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pirosmani._Easter_eggs.jpg/180px-Pirosmani._Easter_eggs.jpg" decoding="async" width="180" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pirosmani._Easter_eggs.jpg/270px-Pirosmani._Easter_eggs.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pirosmani._Easter_eggs.jpg/360px-Pirosmani._Easter_eggs.jpg 2x" data-file-width="552" data-file-height="577"></a> </td>
+        </tr> 
+        <tr> 
+         <td>May 9 </td> 
+         <td>Day of <a href="/wiki/Victory_Day_(Eastern_Europe)" class="mw-redirect" title="Victory Day (Eastern Europe)">Victory over Fascism</a>, <a href="/wiki/Europe_Day" title="Europe Day">Europe Day</a> </td> 
+         <td>ფაშიზმზე გამარჯვების დღე, ევროპის დღე </td> 
+         <td>P'ashizmze gamarjvebis dghe, evropis dghe </td> 
+         <td> </td> 
+         <td><a href="/wiki/File:US_Amb_Norland_%26_Georgian_WWII_veteran_09.05.15.jpg" class="image"><img alt="US Amb Norland &amp; Georgian WWII veteran 09.05.15.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/US_Amb_Norland_%26_Georgian_WWII_veteran_09.05.15.jpg/180px-US_Amb_Norland_%26_Georgian_WWII_veteran_09.05.15.jpg" decoding="async" width="180" height="119" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/US_Amb_Norland_%26_Georgian_WWII_veteran_09.05.15.jpg/270px-US_Amb_Norland_%26_Georgian_WWII_veteran_09.05.15.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/US_Amb_Norland_%26_Georgian_WWII_veteran_09.05.15.jpg/360px-US_Amb_Norland_%26_Georgian_WWII_veteran_09.05.15.jpg 2x" data-file-width="960" data-file-height="636"></a> </td>
+        </tr> 
+        <tr> 
+         <td>May 12 </td> 
+         <td><a href="/wiki/Saint_Andrew" class="mw-redirect" title="Saint Andrew">Saint Andrew the First-Called</a> Day </td> 
+         <td>წმინდა მოციქულის ანდრია პირველწოდებულის საქართველოში შემოსვლის დღე </td> 
+         <td>Ts'minda motsikulis andria k'irvelts'odebulis sakartveloshi shemosvlis dghe </td> 
+         <td>Celebration of day of <a href="/wiki/Apostle_Andrew" class="mw-redirect" title="Apostle Andrew">Apostle Andrew</a> the 'first-called', founder of <a href="/wiki/Georgian_Orthodox_Church" title="Georgian Orthodox Church">Georgian Orthodox Church</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>May 26 </td> 
+         <td><a href="/wiki/Independence_Day_(Georgia)" title="Independence Day (Georgia)">Independence Day</a> </td> 
+         <td>დამოუკიდებლობის დღე </td> 
+         <td>Damouk'ideblobis dghe </td> 
+         <td>On May 26, 1918 National Council of Georgia declared national independence of Georgian people and creation of <a href="/wiki/Democratic_Republic_of_Georgia" title="Democratic Republic of Georgia">Democratic Republic of Georgia</a>. The statehood of Georgia was restored after 117 years (from 1801) </td> 
+         <td><a href="/wiki/File:Georgian_soldiers_during_the_independence_day_of_Georgia,_Tbilisi_(1).jpg" class="image"><img alt="Georgian soldiers during the independence day of Georgia, Tbilisi (1).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Georgian_soldiers_during_the_independence_day_of_Georgia%2C_Tbilisi_%281%29.jpg/180px-Georgian_soldiers_during_the_independence_day_of_Georgia%2C_Tbilisi_%281%29.jpg" decoding="async" width="180" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Georgian_soldiers_during_the_independence_day_of_Georgia%2C_Tbilisi_%281%29.jpg/270px-Georgian_soldiers_during_the_independence_day_of_Georgia%2C_Tbilisi_%281%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Georgian_soldiers_during_the_independence_day_of_Georgia%2C_Tbilisi_%281%29.jpg/360px-Georgian_soldiers_during_the_independence_day_of_Georgia%2C_Tbilisi_%281%29.jpg 2x" data-file-width="3884" data-file-height="2600"></a> </td>
+        </tr> 
+        <tr> 
+         <td>August 28 </td> 
+         <td><a href="/wiki/Dormition_of_the_Theotokos" class="mw-redirect" title="Dormition of the Theotokos">Saint Mary's Day</a> </td> 
+         <td>მარიამობა </td> 
+         <td>Mariamoba </td> 
+         <td> </td> 
+         <td><a href="/wiki/File:Dormition_of_the_Theotokos_(Nekresi,_16th_cent).jpg" class="image"><img alt="Dormition of the Theotokos (Nekresi, 16th cent).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dormition_of_the_Theotokos_%28Nekresi%2C_16th_cent%29.jpg/180px-Dormition_of_the_Theotokos_%28Nekresi%2C_16th_cent%29.jpg" decoding="async" width="180" height="135" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dormition_of_the_Theotokos_%28Nekresi%2C_16th_cent%29.jpg/270px-Dormition_of_the_Theotokos_%28Nekresi%2C_16th_cent%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dormition_of_the_Theotokos_%28Nekresi%2C_16th_cent%29.jpg/360px-Dormition_of_the_Theotokos_%28Nekresi%2C_16th_cent%29.jpg 2x" data-file-width="480" data-file-height="359"></a> </td>
+        </tr> 
+        <tr> 
+         <td>October 14 </td> 
+         <td>Day of <a href="/wiki/Svetitskhoveli" class="mw-redirect" title="Svetitskhoveli">Svetitskhoveli</a> Cathedral (in <a href="/wiki/Mtskheta" title="Mtskheta">Mtskheta</a>) </td> 
+         <td>სვეტიცხოვლობა </td> 
+         <td>Mtskhetoba (Svetitskovloba) </td> 
+         <td>Celebration of first <a href="/wiki/Christianity" title="Christianity">Christian</a> church in Georgia. According to chronicles, holy <a href="/wiki/Chiton_(costume)" title="Chiton (costume)">chiton</a> (shirt) of <a href="https://en.wiktionary.org/wiki/Savior" class="extiw" title="wiktionary:Savior">Savior</a> is buried under this church. </td> 
+         <td><a href="/wiki/File:107_Mtskh%C3%A9ta_La_cath%C3%A9drale_de_Sv%C3%A9titskhov%C3%A9li.JPG" class="image"><img alt="107 Mtskhéta La cathédrale de Svétitskhovéli.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/107_Mtskh%C3%A9ta_La_cath%C3%A9drale_de_Sv%C3%A9titskhov%C3%A9li.JPG/180px-107_Mtskh%C3%A9ta_La_cath%C3%A9drale_de_Sv%C3%A9titskhov%C3%A9li.JPG" decoding="async" width="180" height="135" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/107_Mtskh%C3%A9ta_La_cath%C3%A9drale_de_Sv%C3%A9titskhov%C3%A9li.JPG/270px-107_Mtskh%C3%A9ta_La_cath%C3%A9drale_de_Sv%C3%A9titskhov%C3%A9li.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/107_Mtskh%C3%A9ta_La_cath%C3%A9drale_de_Sv%C3%A9titskhov%C3%A9li.JPG/360px-107_Mtskh%C3%A9ta_La_cath%C3%A9drale_de_Sv%C3%A9titskhov%C3%A9li.JPG 2x" data-file-width="3072" data-file-height="2304"></a> </td>
+        </tr> 
+        <tr> 
+         <td>November 23 </td> 
+         <td><a href="/wiki/Saint_George%27s_Day" title="Saint George's Day">Saint George's Day</a> </td> 
+         <td>გიორგობა </td> 
+         <td>Giorgoba </td> 
+         <td><a href="/wiki/Saint_George" title="Saint George">Saint George</a> (in Georgian: წმინდა გიორგი, ‘’tsminda giorgi’’) is a patron saint of Georgia </td> 
+         <td><a href="/wiki/File:Gorijvari,_Georgia_%E2%80%94_Church_Gorijvari_(Giorgoba_2010).jpg" class="image"><img alt="Gorijvari, Georgia — Church Gorijvari (Giorgoba 2010).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gorijvari%2C_Georgia_%E2%80%94_Church_Gorijvari_%28Giorgoba_2010%29.jpg/180px-Gorijvari%2C_Georgia_%E2%80%94_Church_Gorijvari_%28Giorgoba_2010%29.jpg" decoding="async" width="180" height="118" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gorijvari%2C_Georgia_%E2%80%94_Church_Gorijvari_%28Giorgoba_2010%29.jpg/270px-Gorijvari%2C_Georgia_%E2%80%94_Church_Gorijvari_%28Giorgoba_2010%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gorijvari%2C_Georgia_%E2%80%94_Church_Gorijvari_%28Giorgoba_2010%29.jpg/360px-Gorijvari%2C_Georgia_%E2%80%94_Church_Gorijvari_%28Giorgoba_2010%29.jpg 2x" data-file-width="900" data-file-height="589"></a> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Georgia_(country)&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://www.officeholidays.com/countries/georgia/index.php">National holidays of Georgia</a></li>
+      </ul> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Asia" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Asia_topic" title="Template:Asia topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Asia_topic" title="Template talk:Asia topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Asia_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Asia" style="font-size:114%;margin:0 4em">
+            Public holidays in Asia
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Afghanistan" title="Public holidays in Afghanistan">Afghanistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bahrain" title="Public holidays in Bahrain">Bahrain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bangladesh" title="Public holidays in Bangladesh">Bangladesh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bhutan" title="Public holidays in Bhutan">Bhutan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Brunei" title="Public holidays in Brunei">Brunei</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cambodia" title="Public holidays in Cambodia">Cambodia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_China" title="Public holidays in China">China</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_East_Timor" class="mw-redirect" title="Public holidays in East Timor">East Timor (Timor-Leste)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a class="mw-selflink selflink">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_India" title="Public holidays in India">India</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Indonesia" title="Public holidays in Indonesia">Indonesia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iran" title="Public holidays in Iran">Iran</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iraq" title="Public holidays in Iraq">Iraq</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Israel" title="Public holidays in Israel">Israel</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Japan" title="Public holidays in Japan">Japan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jordan" title="Public holidays in Jordan">Jordan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Korea" title="Public holidays in North Korea">North Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Korea" title="Public holidays in South Korea">South Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kuwait" title="Public holidays in Kuwait">Kuwait</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kyrgyzstan" title="Public holidays in Kyrgyzstan">Kyrgyzstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Laos" title="Public holidays in Laos">Laos</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lebanon" title="Public holidays in Lebanon">Lebanon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malaysia" title="Public holidays in Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Maldives" title="Public holidays in the Maldives">Maldives</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mongolia" title="Public holidays in Mongolia">Mongolia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Myanmar" title="Public holidays in Myanmar">Myanmar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nepal" title="Public holidays in Nepal">Nepal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Oman" title="Public holidays in Oman">Oman</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Pakistan" title="Public holidays in Pakistan">Pakistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Philippines" title="Public holidays in the Philippines">Philippines</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Qatar" title="Public holidays in Qatar">Qatar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saudi_Arabia" title="Public holidays in Saudi Arabia">Saudi Arabia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Singapore" title="Public holidays in Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sri_Lanka" class="mw-redirect" title="Public holidays in Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Syria" title="Public holidays in Syria">Syria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tajikistan" title="Public holidays in Tajikistan">Tajikistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Thailand" title="Public holidays in Thailand">Thailand</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkmenistan" title="Public holidays in Turkmenistan">Turkmenistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Arab_Emirates" title="Public holidays in the United Arab Emirates">United Arab Emirates</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uzbekistan" title="Public holidays in Uzbekistan">Uzbekistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vietnam" title="Public holidays in Vietnam">Vietnam</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Yemen" title="Public holidays in Yemen">Yemen</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with<br>limited recognition</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_State_of_Palestine" title="Public holidays in the State of Palestine">Palestine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Taiwan" title="Public holidays in Taiwan">Taiwan</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a> and<br>other territories</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Public_holidays_in_the_British_Indian_Ocean_Territory&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in the British Indian Ocean Territory (page does not exist)">British Indian Ocean Territory</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Christmas_Island" title="Public holidays in Christmas Island">Christmas Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cocos_(Keeling)_Islands" title="Public holidays in the Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hong_Kong" title="Public holidays in Hong Kong">Hong Kong</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Macau" title="Public holidays in Macau">Macau</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+           <div> 
+            <ul>
+             <li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Book:Asia" title="Book:Asia">Book</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Asia" title="Category:Asia">Category</a></li> 
+             <li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> <a href="/wiki/Portal:Asia" title="Portal:Asia">Asia portal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Europe" title="Template:Public holidays in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Europe" title="Template talk:Public holidays in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Europe" style="font-size:114%;margin:0 4em">
+            Public holidays in Europe
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Albania" title="Public holidays in Albania">Albania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Andorra" title="Public holidays in Andorra">Andorra</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Austria" title="Public holidays in Austria">Austria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belarus" title="Public holidays in Belarus">Belarus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belgium" title="Public holidays in Belgium">Belgium</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bosnia_and_Herzegovina" title="Public holidays in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bulgaria" title="Public holidays in Bulgaria">Bulgaria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Croatia" title="Public holidays in Croatia">Croatia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Czech_Republic" title="Public holidays in the Czech Republic">Czech Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Denmark" title="Public holidays in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Estonia" title="Public holidays in Estonia">Estonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Finland" title="Public holidays in Finland">Finland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_France" title="Public holidays in France">France</a></li> 
+             <li><a class="mw-selflink selflink">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Germany" title="Public holidays in Germany">Germany</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greece" title="Public holidays in Greece">Greece</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hungary" title="Public holidays in Hungary">Hungary</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iceland" title="Public holidays in Iceland">Iceland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Ireland" title="Public holidays in the Republic of Ireland">Ireland</a></li> 
+             <li class="mw-empty-elt"></li> 
+             <li><a href="/wiki/Public_holidays_in_Italy" title="Public holidays in Italy">Italy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Latvia" title="Public holidays in Latvia">Latvia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liechtenstein" title="Public holidays in Liechtenstein">Liechtenstein</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lithuania" title="Public holidays in Lithuania">Lithuania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Luxembourg" title="Public holidays in Luxembourg">Luxembourg</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malta" title="Public holidays in Malta">Malta</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Moldova" title="Public holidays in Moldova">Moldova</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Monaco" title="Public holidays in Monaco">Monaco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montenegro" title="Public holidays in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Netherlands" title="Public holidays in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Macedonia" title="Public holidays in North Macedonia">North Macedonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Norway" title="Public holidays in Norway">Norway</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Poland" title="Public holidays in Poland">Poland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Portugal" title="Public holidays in Portugal">Portugal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Romania" title="Public holidays in Romania">Romania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_San_Marino" class="mw-redirect" title="Public holidays in San Marino">San Marino</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Serbia" title="Public holidays in Serbia">Serbia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovakia" title="Public holidays in Slovakia">Slovakia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovenia" title="Public holidays in Slovenia">Slovenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Spain" title="Public holidays in Spain">Spain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sweden" title="Public holidays in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Switzerland" title="Public holidays in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ukraine" title="Public holidays in Ukraine">Ukraine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Kingdom" title="Public holidays in the United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vatican_City" title="Public holidays in Vatican City">Vatican City</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">States with limited<br>recognition</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kosovo" title="Public holidays in Kosovo">Kosovo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Transnistria" title="Public holidays in Transnistria">Transnistria</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies and<br>other entities</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_%C3%85land" title="Public holidays in Åland">Åland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Faroe_Islands" title="Public holidays in the Faroe Islands">Faroe Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gibraltar" title="Public holidays in Gibraltar">Gibraltar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guernsey" title="Public holidays in Guernsey">Guernsey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Isle_of_Man" title="Public holidays in the Isle of Man">Isle of Man</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jersey" title="Public holidays in Jersey">Jersey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Svalbard" title="Public holidays in Svalbard">Svalbard</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other entities</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_European_Union" title="Public holidays in the European Union">European Union</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Georgia_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3" style="background:#h999f2;">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Georgia_(country)_topics" title="Template:Georgia (country) topics"><abbr title="View this template" style="background:#h999f2;;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Georgia_(country)_topics" title="Template talk:Georgia (country) topics"><abbr title="Discuss this template" style="background:#h999f2;;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Georgia_(country)_topics&amp;action=edit"><abbr title="Edit this template" style="background:#h999f2;;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Georgia_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgia</a>&nbsp;<a href="/wiki/Index_of_Georgia_(country)-related_articles" title="Index of Georgia (country)-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#h999f2;;width:1%"><a href="/wiki/History_of_Georgia_(country)" title="History of Georgia (country)">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Early</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Prehistoric_Georgia" title="Prehistoric Georgia">Prehistoric Georgia</a></li> 
+                 <li><a href="/wiki/Shulaveri-Shomu_culture" title="Shulaveri-Shomu culture">Shulaveri-Shomu culture</a></li> 
+                 <li><a href="/wiki/Kura%E2%80%93Araxes_culture" title="Kura–Araxes culture">Kura–Araxes culture</a></li> 
+                 <li><a href="/wiki/Trialeti_culture" title="Trialeti culture">Trialeti culture</a></li> 
+                 <li><a href="/wiki/Colchian_culture" title="Colchian culture">Colchian culture</a></li> 
+                 <li><a href="/wiki/Diauehi" title="Diauehi">Diauehi</a></li> 
+                 <li><a href="/wiki/Colchis" title="Colchis">Colchis</a></li> 
+                 <li><a href="/wiki/Kingdom_of_Iberia_(antiquity)" class="mw-redirect" title="Kingdom of Iberia (antiquity)">Iberia</a></li> 
+                 <li><a href="/wiki/Lazica" title="Lazica">Lazica</a></li> 
+                 <li><a href="/wiki/Georgia_in_the_Roman_era" title="Georgia in the Roman era">Roman era</a></li> 
+                 <li><a href="/wiki/Sasanian_Iberia" title="Sasanian Iberia">Sasanian Iberia</a></li> 
+                 <li><a href="/wiki/Christianization_of_Iberia" title="Christianization of Iberia">Christianization of Iberia</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Middle</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Principality_of_Iberia" title="Principality of Iberia">Principality of Iberia</a></li> 
+                 <li><a href="/wiki/Bagrationi_dynasty" title="Bagrationi dynasty">Bagrationi dynasty</a></li> 
+                 <li><a href="/wiki/Arab_rule_in_Georgia" title="Arab rule in Georgia">Arab rule</a></li> 
+                 <li><a href="/wiki/Emirate_of_Tbilisi" title="Emirate of Tbilisi">Emirate of Tbilisi</a></li> 
+                 <li><a href="/wiki/Kingdom_of_Abkhazia" title="Kingdom of Abkhazia">Kingdom of Abkhazia</a></li> 
+                 <li><a href="/wiki/Bagratid_Iberia" class="mw-redirect" title="Bagratid Iberia">Bagratid Iberia</a></li> 
+                 <li><a href="/wiki/Kingdom_of_Hereti" title="Kingdom of Hereti">Kingdom of Hereti</a></li> 
+                 <li><a href="/wiki/First_Kingdom_of_Kakheti" title="First Kingdom of Kakheti">First Kingdom of Kakheti</a></li> 
+                 <li><a href="/wiki/Kingdom_of_Georgia" title="Kingdom of Georgia">Kingdom of Georgia</a></li> 
+                 <li><a href="/wiki/Byzantine%E2%80%93Georgian_wars" title="Byzantine–Georgian wars">Byzantine wars</a></li> 
+                 <li><a href="/wiki/Georgian%E2%80%93Seljuk_wars" title="Georgian–Seljuk wars">Seljuk wars</a> 
+                  <ul>
+                   <li><a href="/wiki/Battle_of_Didgori" title="Battle of Didgori">Battle of Didgori</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Georgian_Golden_Age" title="Georgian Golden Age">Golden Age</a></li> 
+                 <li><a href="/wiki/Mongol_invasions_of_Georgia" title="Mongol invasions of Georgia">Mongol invasions</a></li> 
+                 <li><a href="/wiki/Timur%27s_invasions_of_Georgia" title="Timur's invasions of Georgia">Timur's invasions</a></li> 
+                 <li><a href="/wiki/Samtskhe_atabegate" class="mw-redirect" title="Samtskhe atabegate">Samtskhe atabegate</a></li> 
+                 <li><a href="/wiki/Turkmen_incursions_into_Georgia" title="Turkmen incursions into Georgia">Turkmen incursions</a></li> 
+                 <li><a href="/wiki/Kingdom_of_Imereti" title="Kingdom of Imereti">Kingdom of Imereti</a> 
+                  <ul>
+                   <li><a href="/wiki/Principality_of_Abkhazia" title="Principality of Abkhazia">Principality of Abkhazia</a></li> 
+                   <li><a href="/wiki/Principality_of_Svaneti" title="Principality of Svaneti">Principality of Svaneti</a></li> 
+                   <li><a href="/wiki/Principality_of_Guria" title="Principality of Guria">Principality of Guria</a></li> 
+                   <li><a href="/wiki/Principality_of_Mingrelia" title="Principality of Mingrelia">Principality of Mingrelia</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Kingdom_of_Kartli" title="Kingdom of Kartli">Kingdom of Kartli</a></li> 
+                 <li><a href="/wiki/Kingdom_of_Kakheti" title="Kingdom of Kakheti">Kingdom of Kakheti</a></li> 
+                 <li><a href="/wiki/Safavid_Georgia" title="Safavid Georgia">Safavid Georgia</a></li> 
+                 <li><a href="/wiki/Abbas_I%27s_Kakhetian_and_Kartlian_campaigns" title="Abbas I's Kakhetian and Kartlian campaigns">Shah Abbas I's invasions</a></li> 
+                 <li><a href="/wiki/Kingdom_of_Kartli-Kakheti" title="Kingdom of Kartli-Kakheti">Kingdom of Kartli-Kakheti</a></li> 
+                 <li><a href="/wiki/Battle_of_Krtsanisi" title="Battle of Krtsanisi">1795 Persian Invasion</a></li> 
+                 <li><a href="/wiki/Georgia_within_the_Russian_Empire" title="Georgia within the Russian Empire">Absorption by the Russian Empire</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Modern</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Democratic_Republic_of_Georgia" title="Democratic Republic of Georgia">Democratic Republic of Georgia</a></li> 
+                 <li><a href="/wiki/Georgian%E2%80%93Armenian_War" title="Georgian–Armenian War">Armenian War</a></li> 
+                 <li><a href="/wiki/Red_Army_invasion_of_Georgia" title="Red Army invasion of Georgia">Red Army invasion</a></li> 
+                 <li><a href="/wiki/Georgian_Soviet_Socialist_Republic" title="Georgian Soviet Socialist Republic">Georgian Soviet Socialist Republic</a></li> 
+                 <li><a href="/wiki/April_9_tragedy" title="April 9 tragedy">April 9 tragedy</a></li> 
+                 <li><a href="/wiki/History_of_Georgia_(country)#Independent_Georgia" title="History of Georgia (country)">Independent Georgia</a></li> 
+                 <li><a href="/wiki/Georgian_Civil_War" title="Georgian Civil War">Civil War</a></li> 
+                 <li><a href="/wiki/War_in_Abkhazia_(1992%E2%80%931993)" title="War in Abkhazia (1992–1993)">War in Abkhazia</a></li> 
+                 <li><a href="/wiki/Rose_Revolution" title="Rose Revolution">Rose Revolution</a></li> 
+                 <li><a href="/wiki/Russo-Georgian_War" title="Russo-Georgian War">Russo-Georgian War</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">By topic</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Name_of_Georgia_(country)" class="mw-redirect" title="Name of Georgia (country)">Name of Georgia</a></li> 
+                 <li><a href="/wiki/Lists_of_Georgian_monarchs" title="Lists of Georgian monarchs">Monarchs</a></li> 
+                 <li><a href="/wiki/List_of_historical_states_of_Georgia" title="List of historical states of Georgia">States</a></li> 
+                 <li><a href="/wiki/Military_history_of_Georgia" title="Military history of Georgia">Military history</a></li> 
+                 <li><a href="/wiki/List_of_wars_involving_Georgia_(country)" title="List of wars involving Georgia (country)">Wars</a></li> 
+                 <li><a href="/wiki/List_of_Georgian_battles" title="List of Georgian battles">Battles</a></li> 
+                 <li><a href="/wiki/Timeline_of_Georgian_(country)_history" title="Timeline of Georgian (country) history">Timeline of Georgian history</a></li> 
+                 <li><i><a href="/wiki/Category:History_of_Georgia_(country)" title="Category:History of Georgia (country)">more</a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Georgia_(country)" title="Georgia (country)"><img alt="Georgia (country)" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Arms_of_Georgia.svg/80px-Arms_of_Georgia.svg.png" decoding="async" width="80" height="102" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Arms_of_Georgia.svg/120px-Arms_of_Georgia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Arms_of_Georgia.svg/160px-Arms_of_Georgia.svg.png 2x" data-file-width="300" data-file-height="383"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#h999f2;;width:1%"><a href="/wiki/Geography_of_Georgia_(country)" title="Geography of Georgia (country)">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Template:Borders_of_Georgia" title="Template:Borders of Georgia">Borders</a></li> 
+                 <li><a href="/wiki/List_of_birds_of_Georgia_(country)" title="List of birds of Georgia (country)">Birds</a></li> 
+                 <li><a href="/wiki/Black_Sea" title="Black Sea">Black Sea</a></li> 
+                 <li><a href="/wiki/Geography_of_Georgia_(country)#Climate" title="Geography of Georgia (country)">Climate</a></li> 
+                 <li><a href="/wiki/List_of_earthquakes_in_Georgia_(country)" title="List of preEarthquakes in Georgia (country)">Earthquakes</a></li>
+                 <li><a href="/wiki/Environmental_issues_in_Georgia_(country)" title="Environmental issues in Georgia (country)">Environmental issues</a></li> 
+                 <li><a href="/wiki/Glaciers_of_Georgia" title="Glaciers of Georgia">Glaciers</a></li> 
+                 <li><a href="/wiki/Greater_Caucasus" title="Greater Caucasus">Greater Caucasus</a></li> 
+                 <li><a href="/wiki/List_of_lakes_of_Georgia_(country)" title="List of lakes of Georgia (country)">Lakes</a></li> 
+                 <li><a href="/wiki/Lesser_Caucasus" title="Lesser Caucasus">Lesser Caucasus</a></li> 
+                 <li><a href="/wiki/List_of_mammals_of_Georgia_(country)" title="List of mammals of Georgia (country)">Mammals</a></li> 
+                 <li><a href="/wiki/National_parks_of_Georgia_(country)" title="National parks of Georgia (country)">National parks</a></li> 
+                 <li><a href="/wiki/List_of_protected_areas_of_Georgia" title="List of protected areas of Georgia">Protected areas</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Georgia_(country)" title="List of rivers of Georgia (country)">Rivers</a></li> 
+                 <li><a href="/wiki/List_of_volcanoes_in_Georgia_(country)" title="List of volcanoes in Georgia (country)">Volcanoes</a></li> 
+                 <li><i><a href="/wiki/Category:Geography_of_Georgia_(country)" title="Category:Geography of Georgia (country)">more</a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="background:#h999f2;;width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Administrative_divisions_of_Georgia_(country)" title="Administrative divisions of Georgia (country)">Subdivisions</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Administrative_divisions_of_Georgia_(country)" title="Administrative divisions of Georgia (country)">Administrative divisions</a></li> 
+                 <li><a href="/wiki/List_of_cities_and_towns_in_Georgia_(country)" title="List of cities and towns in Georgia (country)">Cities and towns</a></li> 
+                 <li><a href="/wiki/Tbilisi" title="Tbilisi">Tbilisi</a></li> 
+                 <li><a href="/wiki/Mkhare" title="Mkhare">Regions</a></li> 
+                 <li><i><a href="/wiki/Category:Subdivisions_of_Georgia_(country)" title="Category:Subdivisions of Georgia (country)">more</a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#h999f2;;width:1%"><a href="/wiki/Politics_of_Georgia_(country)" title="Politics of Georgia (country)">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Constitution_of_Georgia_(country)" title="Constitution of Georgia (country)">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Georgia_(country)" title="Elections in Georgia (country)">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Georgia_(country)" title="Foreign relations of Georgia (country)">Foreign relations</a></li> 
+                 <li><a href="/wiki/Government_of_Georgia_(country)" title="Government of Georgia (country)">Government</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Georgia_(country)" title="Human rights in Georgia (country)">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/LGBT_rights_in_Georgia_(country)" title="LGBT rights in Georgia (country)">LGBT</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Law_enforcement_in_Georgia_(country)" title="Law enforcement in Georgia (country)">Law enforcement</a></li> 
+                 <li><a href="/wiki/Defense_Forces_of_Georgia" title="Defense Forces of Georgia">Military</a></li> 
+                 <li><a href="/wiki/Parliament_of_Georgia_(country)" title="Parliament of Georgia (country)">Parliament</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Georgia" title="List of political parties in Georgia">Political parties</a></li> 
+                 <li><a href="/wiki/President_of_Georgia" title="President of Georgia">President</a></li> 
+                 <li><a href="/wiki/Prime_Minister_of_Georgia" title="Prime Minister of Georgia">Prime Minister</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#h999f2;;width:1%"><a href="/wiki/Economy_of_Georgia_(country)" title="Economy of Georgia (country)">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Agriculture_in_Georgia_(country)" title="Agriculture in Georgia (country)">Agriculture</a></li> 
+                 <li><a href="/wiki/National_Bank_of_Georgia" title="National Bank of Georgia">Central bank</a></li> 
+                 <li><a href="/wiki/List_of_companies_of_Georgia_(country)" title="List of companies of Georgia (country)">Companies</a></li> 
+                 <li><a href="/wiki/Energy_in_Georgia_(country)" title="Energy in Georgia (country)">Energy</a></li> 
+                 <li><a href="/wiki/Georgian_lari" title="Georgian lari">Lari (currency)</a></li> 
+                 <li><a href="/wiki/Mining_in_Georgia_(country)" title="Mining in Georgia (country)">Mining</a></li> 
+                 <li><a href="/wiki/Georgian_Stock_Exchange" title="Georgian Stock Exchange">Stock Exchange</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Georgia_(country)" title="Telecommunications in Georgia (country)">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Georgia_(country)" title="Tourism in Georgia (country)">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Georgia_(country)" title="Transport in Georgia (country)">Transport</a></li> 
+                 <li><i><a href="/wiki/Category:Economy_of_Georgia_(country)" title="Category:Economy of Georgia (country)">more</a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#h999f2;;width:1%"><a href="/wiki/Culture_of_Georgia_(country)" title="Culture of Georgia (country)">Culture</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Georgian_scripts" title="Georgian scripts">Alphabet</a></li> 
+                 <li><a href="/wiki/Architecture_of_Georgia_(country)" title="Architecture of Georgia (country)">Architecture</a></li> 
+                 <li><a href="/wiki/Georgian_art" title="Georgian art">Art</a></li> 
+                 <li><a href="/wiki/Chokha" title="Chokha">Chokha</a></li> 
+                 <li><a href="/wiki/Cinema_of_Georgia" title="Cinema of Georgia">Cinema</a></li> 
+                 <li><a href="/wiki/Georgian_cuisine" title="Georgian cuisine">Cuisine</a> 
+                  <ul>
+                   <li><a href="/wiki/Georgian_wine" title="Georgian wine">Wine</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Georgian_dance" title="Georgian dance">Dance</a></li> 
+                 <li>Languages 
+                  <ul>
+                   <li><small><a href="/wiki/Georgian_language" title="Georgian language">Georgian</a></small></li> 
+                   <li><small><a href="/wiki/Laz_language" title="Laz language">Laz</a></small></li> 
+                   <li><small><a href="/wiki/Mingrelian_language" title="Mingrelian language">Mingrelian</a></small></li> 
+                   <li><small><a href="/wiki/Svan_language" title="Svan language">Svan</a></small></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Mass_media_in_Georgia_(country)" title="Mass media in Georgia (country)">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Georgia_(country)" title="Music of Georgia (country)">Music</a></li> 
+                 <li><a href="/wiki/Georgian_mythology" title="Georgian mythology">Mythology</a></li> 
+                 <li><a href="/wiki/Georgian_name" title="Georgian name">Names</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Religion_in_Georgia_(country)" title="Religion in Georgia (country)">Religion</a></li> 
+                 <li><a href="/wiki/Sport_in_Georgia_(country)" title="Sport in Georgia (country)">Sports</a></li> 
+                 <li><a href="/wiki/List_of_World_Heritage_sites_in_Georgia_(country)" class="mw-redirect" title="List of World Heritage sites in Georgia (country)">World Heritage sites</a></li> 
+                 <li><i><a href="/wiki/Category:Culture_of_Georgia_(country)" title="Category:Culture of Georgia (country)">more</a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="background:#h999f2;;width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Demographics_of_Georgia_(country)" title="Demographics of Georgia (country)">Demographics</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Education_in_Georgia_(country)" title="Education in Georgia (country)">Education</a></li> 
+                 <li><a href="/wiki/Ethnic_minorities_in_Georgia_(country)" title="Ethnic minorities in Georgia (country)">Ethnic minorities</a></li> 
+                 <li><a href="/wiki/Georgians" title="Georgians">Georgians</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_Georgians" title="List of Georgians">List</a></li> 
+                   <li><a href="/wiki/Georgian_diaspora" title="Georgian diaspora">Diaspora</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Healthcare_in_Georgia_(country)" title="Healthcare in Georgia (country)">Health care</a></li> 
+                 <li><a href="/wiki/Women_in_Georgia_(country)" title="Women in Georgia (country)">Women</a></li> 
+                 <li><i><a href="/wiki/Category:Demographics_of_Georgia_(country)" title="Category:Demographics of Georgia (country)">more</a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="background:#h999f2;;width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Symbols</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Tavisupleba" title="Tavisupleba">Anthem</a></li> 
+                 <li><a href="/wiki/Bolnisi_cross" title="Bolnisi cross">Bolnisi cross</a></li> 
+                 <li><a href="/wiki/Borjgali" title="Borjgali">Borjgali</a></li> 
+                 <li><a href="/wiki/Coat_of_arms_of_Georgia_(country)" title="Coat of arms of Georgia (country)">Coat of arms</a></li> 
+                 <li><a href="/wiki/Flag_of_Georgia_(country)" title="Flag of Georgia (country)">Flag</a></li> 
+                 <li><a href="/wiki/Dzala_ertobashia" title="Dzala ertobashia">Motto</a></li> 
+                 <li><a href="/wiki/Saint_George" title="Saint George">Saint George</a> 
+                  <ul>
+                   <li><a href="/wiki/Saint_George%27s_Cross" title="Saint George's Cross">cross</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Saint_Nino" title="Saint Nino">Saint Nino</a> 
+                  <ul>
+                   <li><a href="/wiki/Grapevine_cross" title="Grapevine cross">cross</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="background:#h999f2;;font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Georgia_(country)" title="Outline of Georgia (country)">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Georgia_(country)-related_articles" title="Index of Georgia (country)-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Georgia_(country)" title="Category:Georgia (country)">Category</a></li> 
+             <li><a href="/wiki/Portal:Georgia_(country)" title="Portal:Georgia (country)">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1301
+Cached time: 20210117214358
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.628 seconds
+Real time usage: 0.755 seconds
+Preprocessor visited node count: 25035/1000000
+Post‐expand include size: 151174/2097152 bytes
+Template argument size: 27970/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 26/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3366/5000000 bytes
+Lua time usage: 0.139/10.000 seconds
+Lua memory usage: 4104089/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  591.371      1 -total
+ 80.69%  477.204      8 Template:Navbox
+ 49.07%  290.158    105 Template:Iso2country
+ 41.41%  244.863      1 Template:Asia_topic
+ 26.63%  157.488      1 Template:Public_holidays_in_Europe
+ 26.16%  154.713      1 Template:Europe_topic
+ 17.62%  104.199    105 Template:Iso2country/data
+ 14.65%   86.638      1 Template:Georgia_(country)_topics
+ 14.22%   84.068      1 Template:Short_description
+ 14.03%   82.948      1 Template:Country_topics
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:3069065-0!canonical and timestamp 20210117214358 and revision id 966257982. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Georgia_(country)&amp;oldid=966257982">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Georgia_(country)&amp;oldid=966257982</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Public_holidays_in_Georgia_(country)" title="Category:Public holidays in Georgia (country)">Public holidays in Georgia (country)</a></li>
+       <li><a href="/wiki/Category:Society_of_Georgia_(country)" title="Category:Society of Georgia (country)">Society of Georgia (country)</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Georgia+%28country%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Georgia+%28country%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Georgia_(country)" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Georgia_(country)" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Georgia_(country)">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Georgia_(country)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Georgia_(country)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Georgia_(country)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Georgia_(country)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Georgia_(country)&amp;oldid=966257982" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Georgia_(country)&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Georgia_%28country%29&amp;id=966257982&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1236795" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Georgia_%28country%29&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Georgia_(country)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Feiertage_in_Georgien" title="Feiertage in Georgien – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/F%C3%AAtes_et_jours_f%C3%A9ri%C3%A9s_en_G%C3%A9orgie" title="Fêtes et jours fériés en Géorgie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8E%D6%80%D5%A1%D5%BD%D5%BF%D5%A1%D5%B6%D5%AB_%D5%BF%D5%B8%D5%B6%D5%A5%D6%80" title="Վրաստանի տոներ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9D%E1%83%A4%E1%83%98%E1%83%AA%E1%83%98%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A3%E1%83%A5%E1%83%9B%E1%83%94_%E1%83%93%E1%83%A6%E1%83%94%E1%83%94%E1%83%91%E1%83%98_%E1%83%A1%E1%83%90%E1%83%A5%E1%83%90%E1%83%A0%E1%83%97%E1%83%95%E1%83%94%E1%83%9A%E1%83%9D%E1%83%A8%E1%83%98" title="ოფიციალური უქმე დღეები საქართველოში – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%9D%E1%83%A4%E1%83%98%E1%83%AA%E1%83%98%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%A3%E1%83%A5%E1%83%95%E1%83%98_%E1%83%93%E1%83%A6%E1%83%90%E1%83%9A%E1%83%94%E1%83%A4%E1%83%98_%E1%83%A1%E1%83%90%E1%83%A5%E1%83%9D%E1%83%A0%E1%83%97%E1%83%A3%E1%83%9D%E1%83%A1" title="ოფიციალური უქვი დღალეფი საქორთუოს – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E3%81%AE%E7%A5%9D%E6%97%A5" title="ジョージアの祝日 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8" title="Праздники Грузии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Helgdagar_i_Georgien" title="Helgdagar i Georgien – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1236795#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 6 July 2020, at 01:45<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Georgia_(country)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.628","walltime":"0.755","ppvisitednodes":{"value":25035,"limit":1000000},"postexpandincludesize":{"value":151174,"limit":2097152},"templateargumentsize":{"value":27970,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":26,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3366,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  591.371      1 -total"," 80.69%  477.204      8 Template:Navbox"," 49.07%  290.158    105 Template:Iso2country"," 41.41%  244.863      1 Template:Asia_topic"," 26.63%  157.488      1 Template:Public_holidays_in_Europe"," 26.16%  154.713      1 Template:Europe_topic"," 17.62%  104.199    105 Template:Iso2country/data"," 14.65%   86.638      1 Template:Georgia_(country)_topics"," 14.22%   84.068      1 Template:Short_description"," 14.03%   82.948      1 Template:Country_topics"]},"scribunto":{"limitreport-timeusage":{"value":"0.139","limit":"10.000"},"limitreport-memusage":{"value":4104089,"limit":52428800}},"cachereport":{"origin":"mw1301","timestamp":"20210117214358","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Georgia (country)","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Georgia_(country)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1236795","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1236795","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-11-03T09:21:52Z","dateModified":"2020-07-06T01:45:46Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5e\/New_Year%27s_Eve_2008_-_Tbilisi_Freedom_Square.JPG","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":133,"wgHostname":"mw1321"});});</script> 
+ </body>
+</html>

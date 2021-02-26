@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.info;
 
 import me.randomhashtags.worldlaws.LocalServer;
 
-public final class CountryInfoValue {
+public class CountryInfoValue {
     private final String title, value, description;
 
     public CountryInfoValue(String title, String value, String description) {
@@ -14,9 +14,9 @@ public final class CountryInfoValue {
     @Override
     public String toString() {
         return "{" +
+                (description != null ? "\"description\":\"" + description + "\"," : "") +
                 "\"title\":\"" + title + "\"," +
-                "\"value\":\"" + value + "\"," +
-                "\"description\":\"" + description + "\"" +
+                "\"value\":\"" + value + "\"" +
                 "}";
     }
 }

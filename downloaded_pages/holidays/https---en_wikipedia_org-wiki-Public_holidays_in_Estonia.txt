@@ -1,0 +1,814 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Estonia - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBcQ9ApAAEEAAJ5Lqz0AAAAK","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Estonia","wgTitle":"Public holidays in Estonia","wgCurRevisionId":963137904,"wgRevisionId":963137904,"wgArticleId":2099616,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles with Estonian-language sources (et)","Public holidays in Estonia","Lists of public holidays by country","Estonian society"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Public_holidays_in_Estonia","wgRelevantArticleId":2099616,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q618439"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Estonia"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Estonia&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Estonia&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Estonia"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Estonia rootpage-Public_holidays_in_Estonia skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Estonia</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p>All official <a href="/wiki/Holiday" title="Holiday">holidays</a> in <a href="/wiki/Estonia" title="Estonia">Estonia</a> are established by acts of <a href="/wiki/Parliament_of_Estonia" class="mw-redirect" title="Parliament of Estonia">Parliament</a>. </p> 
+      <h2><span class="mw-headline" id="Public_holidays">Public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Estonia&amp;action=edit&amp;section=1" title="Edit section: Public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The following are holidays that mean days off: </p> 
+      <table class="wikitable" style="font-size: 100%; width="> 
+       <tbody>
+        <tr style="background: #ececec;"> 
+         <th width="110px">Date </th> 
+         <th width="240px">English Name </th> 
+         <th width="170px">Estonian Name </th> 
+         <th width="565px">Remarks </th>
+        </tr> 
+        <tr> 
+         <td>January 1 </td> 
+         <td><a href="/wiki/New_Year" title="New Year">New Year's Day</a> </td> 
+         <td><i>uusaasta</i> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>February 24 </td> 
+         <td><a href="/wiki/Independence_Day_(Estonia)" title="Independence Day (Estonia)">Independence Day</a> </td> 
+         <td><i>iseseisvuspäev</i> </td> 
+         <td><b><a href="/wiki/National_Day" class="mw-redirect" title="National Day">National Day</a></b> – celebrates the <a href="/wiki/Estonian_Declaration_of_Independence" title="Estonian Declaration of Independence">declaration of independence</a> in 1918. </td>
+        </tr> 
+        <tr> 
+         <td><i><a href="/wiki/Moveable_feast" title="Moveable feast">Moveable</a> Friday</i> </td> 
+         <td><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> </td> 
+         <td><i>suur reede</i> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><i>Moveable Sunday</i> </td> 
+         <td><a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a> </td> 
+         <td><i>ülestõusmispühade 1. püha</i> </td> 
+         <td>Commonly known as <i>lihavõtted</i>. </td>
+        </tr> 
+        <tr> 
+         <td>May 1 </td> 
+         <td><a href="/wiki/May_Day" title="May Day">Spring Day (May Day)</a> </td> 
+         <td><i>kevadpüha</i> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><i>Moveable</i> </td> 
+         <td><a href="/wiki/Pentecost" title="Pentecost">Whitsunday (Pentecost)</a> </td> 
+         <td><i>nelipühade 1. püha</i> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>June 23 </td> 
+         <td><a href="/wiki/V%C3%B5idup%C3%BCha" title="Võidupüha">Victory Day</a> </td> 
+         <td><i>Võidupüha</i> </td> 
+         <td>Celebrates the victory in the <a href="/wiki/Battle_of_C%C4%93sis_(1919)" title="Battle of Cēsis (1919)">Battle of Võnnu</a> during the <a href="/wiki/Estonian_War_of_Independence" title="Estonian War of Independence">Estonian War of Independence</a>. </td>
+        </tr> 
+        <tr> 
+         <td>June 24 </td> 
+         <td><a href="/wiki/Midsummer_Day#Estonia" class="mw-redirect" title="Midsummer Day">Midsummer Day#Estonia</a> </td> 
+         <td><i>Jaanipäev</i> </td> 
+         <td><a href="/wiki/Jaani%C3%B5htu" class="mw-redirect" title="Jaaniõhtu">Jaaniõhtu</a> is celebrated in the night before Midsummer Day. </td>
+        </tr> 
+        <tr> 
+         <td>August 20 </td> 
+         <td>Restoration Independence Day </td> 
+         <td><i>taasiseseisvumispäev</i> </td> 
+         <td>Celebrates Estonia's <a href="/wiki/Estonia#Restoration_of_Independence" title="Estonia">restoration of independence</a> in 1991. </td>
+        </tr> 
+        <tr> 
+         <td>December 24 </td> 
+         <td><a href="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</a> </td> 
+         <td><i>jõululaupäev</i> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>December 25 </td> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a> </td> 
+         <td><i>esimene jõulupüha</i> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>December 26 </td> 
+         <td><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a> </td> 
+         <td><i>teine jõulupüha</i> </td> 
+         <td> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="National_Holidays">National Holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Estonia&amp;action=edit&amp;section=2" title="Edit section: National Holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The following holidays do not give a day off: </p> 
+      <table class="wikitable" style="font-size: 100%; width="> 
+       <tbody>
+        <tr style="background: #ececec;"> 
+         <th width="110px">Date </th> 
+         <th width="240px">English Name </th> 
+         <th width="170px">Estonian Name </th> 
+         <th width="565px">Remarks </th>
+        </tr> 
+        <tr> 
+         <td>January 6 </td> 
+         <td><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">The Epiphany</a> </td> 
+         <td><i>kolmekuningapäev</i> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>February 2 </td> 
+         <td>Anniversary of the <a href="/wiki/Treaty_of_Tartu_(Russian%E2%80%93Estonian)" title="Treaty of Tartu (Russian–Estonian)">Tartu Peace Treaty</a> </td> 
+         <td><i>Tartu rahulepingu aastapäev</i> </td> 
+         <td>Treaty that ended the <a href="/wiki/Estonian_War_of_Independence" title="Estonian War of Independence">Estonian War of Independence</a> </td>
+        </tr> 
+        <tr> 
+         <td>March 14 </td> 
+         <td>Native Language Day </td> 
+         <td><i>emakeelepäev</i> </td> 
+         <td><a href="/wiki/Kristjan_Jaak_Peterson" title="Kristjan Jaak Peterson">Kristjan Jaak Peterson</a>'s birthday. </td>
+        </tr> 
+        <tr> 
+         <td><i>Moveable Sunday</i> </td> 
+         <td><a href="/wiki/Mothers%27_Day" class="mw-redirect" title="Mothers' Day">Mothers' Day</a> </td> 
+         <td><i>emadepäev</i> </td> 
+         <td>Held on the second Sunday of May. </td>
+        </tr> 
+        <tr> 
+         <td>June 4 </td> 
+         <td><a href="/wiki/National_Flag_Day" class="mw-redirect" title="National Flag Day">National Flag Day</a> </td> 
+         <td><i>Eesti lipu päev</i> </td> 
+         <td>Date when the <a href="/wiki/Flag_of_Estonia" title="Flag of Estonia">Flag of Estonia</a> was first consecrated in 1884. </td>
+        </tr> 
+        <tr> 
+         <td>June 14 </td> 
+         <td><a href="/wiki/National_day_of_mourning" title="National day of mourning">Day of Mourning and Commemoration</a> </td> 
+         <td><i>leinapäev</i> </td> 
+         <td>Commemorating the victims of <a href="/wiki/Soviet_deportations_from_Estonia" title="Soviet deportations from Estonia">Soviet deportations</a> in 1941 and 1949. </td>
+        </tr> 
+        <tr> 
+         <td>August 23 </td> 
+         <td><a href="/wiki/European_Day_of_Remembrance_for_Victims_of_Stalinism_and_Nazism" class="mw-redirect" title="European Day of Remembrance for Victims of Stalinism and Nazism">European Day of Remembrance for Victims of Stalinism and Nazism</a> </td> 
+         <td><i>kommunismi ja natsismi ohvrite mälestuspäev</i> </td> 
+         <td>Day when the <a href="/wiki/Molotov%E2%80%93Ribbentrop_Pact" title="Molotov–Ribbentrop Pact">Molotov–Ribbentrop Pact</a> was signed in 1939. </td>
+        </tr> 
+        <tr> 
+         <td><i>Moveable Sunday</i> </td> 
+         <td><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">Grandparents Day</a> </td> 
+         <td><i>vanavanemate päev</i> </td> 
+         <td>Held on the second Sunday of September. </td>
+        </tr> 
+        <tr> 
+         <td>September 22 </td> 
+         <td><a href="/wiki/Resistance_Fighting_Day" title="Resistance Fighting Day">Resistance Fighting Day</a> </td> 
+         <td><i>vastupanuvõitluse päev</i> </td> 
+         <td><a href="/wiki/Otto_Tief" title="Otto Tief">Otto Tief</a>'s attempt to <a href="/wiki/National_Committee_of_the_Republic_of_Estonia" title="National Committee of the Republic of Estonia">restore the Estonian independence</a> in 1944 </td>
+        </tr> 
+        <tr> 
+         <td>October 1 </td> 
+         <td><a href="/wiki/Local_government" title="Local government">Local government</a> Day </td> 
+         <td><i>omavalitsuspäev</i> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>November 2 </td> 
+         <td><a href="/wiki/All_Souls%27_Day" title="All Souls' Day">All Souls' Day</a> </td> 
+         <td><i>hingedepäev</i> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><i>Moveable Sunday</i> </td> 
+         <td><a href="/wiki/Fathers%27_Day" class="mw-redirect" title="Fathers' Day">Fathers' Day</a> </td> 
+         <td><i>isadepäev</i> </td> 
+         <td>Held on the second Sunday of November. </td>
+        </tr> 
+        <tr> 
+         <td>November 16 </td> 
+         <td><a href="/wiki/Estonian_Sovereignty_Declaration" title="Estonian Sovereignty Declaration">Day of Declaration of Sovereignty</a> </td> 
+         <td><i>taassünni päev</i> </td> 
+         <td><a href="/wiki/Estonian_Sovereignty_Declaration" title="Estonian Sovereignty Declaration">Estonian Declaration of Sovereignty</a>, which was issued in 1988. </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Estonia&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://www.riigiteataja.ee/akt/13276841?leiaKehtiv">Public and National Holidays Act</a> <span class="languageicon">(in Estonian)</span></li> 
+       <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110106162819/http://www.vm.ee/en/node/5753">Estonian Holidays in 2014</a></li> 
+       <li>List of holidays celebrated in the <a href="/wiki/European_Union" title="European Union">European Union</a> in 2006 was used for translation: 
+        <ul>
+         <li><a rel="nofollow" class="external text" href="http://europa.eu/abc/travel/pdf/holiday_2006_et.pdf">in Estonian</a></li> 
+         <li><a rel="nofollow" class="external text" href="http://europa.eu/abc/travel/pdf/holiday_2006_en.pdf">in English</a></li>
+        </ul></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Estonia_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Estonia_topics" title="Template:Estonia topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Estonia_topics" title="Template talk:Estonia topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Estonia_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Estonia_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Estonia" title="Estonia">Estonia</a>&nbsp;<a href="/wiki/Index_of_Estonia-related_articles" title="Index of Estonia-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Estonia" title="History of Estonia">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Timeline_of_Estonian_history" title="Timeline of Estonian history">Timeline</a> 
+              <ul>
+               <li><a href="/wiki/List_of_wars_involving_Estonia" title="List of wars involving Estonia">list of wars</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Ancient_Estonia" title="Ancient Estonia">Ancient Estonia</a></li> 
+             <li><a href="/wiki/Livonian_Crusade" title="Livonian Crusade">Livonian Crusade</a></li> 
+             <li><a href="/wiki/Danish_Estonia" class="mw-redirect" title="Danish Estonia">Danish Estonia</a></li> 
+             <li><a href="/wiki/Terra_Mariana" title="Terra Mariana">German Bishoprics</a></li> 
+             <li><a href="/wiki/Livonian_Order" title="Livonian Order">Livonian Order</a></li> 
+             <li><a href="/wiki/Baltic_Germans" title="Baltic Germans">Baltic Germans</a></li> 
+             <li><a href="/wiki/Livonian_War" title="Livonian War">Livonian War</a></li> 
+             <li><a href="/wiki/Duchy_of_Livonia" title="Duchy of Livonia">Polish Livonia</a></li> 
+             <li><a href="/wiki/Estonia_under_Swedish_rule" title="Estonia under Swedish rule">Swedish Estonia</a></li> 
+             <li><a href="/wiki/Great_Northern_War" title="Great Northern War">Great Northern War</a></li> 
+             <li><a href="/wiki/Governorate_of_Estonia" title="Governorate of Estonia">Russian Estonia</a></li> 
+             <li><a href="/wiki/Governorate_of_Livonia" title="Governorate of Livonia">Livonia</a></li> 
+             <li><a href="/wiki/Estonian_national_awakening" title="Estonian national awakening">Age of Awakening</a></li> 
+             <li><a href="/wiki/Estonian_Declaration_of_Independence" title="Estonian Declaration of Independence">Declaration of Independence</a></li> 
+             <li><a href="/wiki/Estonian_War_of_Independence" title="Estonian War of Independence">War of Independence</a> 
+              <ul>
+               <li><a href="/wiki/Battle_of_C%C4%93sis_(1919)" title="Battle of Cēsis (1919)">Battle of Võnnu</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Era_of_Silence" title="Era of Silence">Era of Silence</a></li> 
+             <li><a href="/wiki/Occupation_of_the_Baltic_states" title="Occupation of the Baltic states">Occupation of Estonia</a></li> 
+             <li><a href="/wiki/Estonia_in_World_War_II" title="Estonia in World War II">World War II</a></li> 
+             <li><a href="/wiki/Forest_Brothers" title="Forest Brothers">Forest Brothers</a></li> 
+             <li><a href="/wiki/Soviet_deportations_from_Estonia" title="Soviet deportations from Estonia">Deportations</a></li> 
+             <li><a href="/wiki/Estonian_Soviet_Socialist_Republic" title="Estonian Soviet Socialist Republic">Estonian SSR</a></li> 
+             <li><a href="/wiki/Estonian_government-in-exile" title="Estonian government-in-exile">Government-in-exile</a></li> 
+             <li><a href="/wiki/Singing_Revolution" title="Singing Revolution">Singing Revolution</a></li> 
+             <li><a href="/wiki/Estonian_Sovereignty_Declaration" title="Estonian Sovereignty Declaration">Declaration of sovereignty</a></li> 
+             <li><a href="/wiki/Estonian_Restoration_of_Independence" title="Estonian Restoration of Independence">Restoration of independence</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Estonia" title="Estonia"><img alt="Estonia" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Small_coat_of_arms_of_Estonia.svg/80px-Small_coat_of_arms_of_Estonia.svg.png" decoding="async" width="80" height="89" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Small_coat_of_arms_of_Estonia.svg/120px-Small_coat_of_arms_of_Estonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Small_coat_of_arms_of_Estonia.svg/160px-Small_coat_of_arms_of_Estonia.svg.png 2x" data-file-width="329" data-file-height="365"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Estonia" title="Geography of Estonia">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Climate_of_Estonia" title="Climate of Estonia">Climate</a></li> 
+                 <li><a href="/wiki/Extreme_points_of_Estonia" title="Extreme points of Estonia">Extreme points</a></li> 
+                 <li><a href="/wiki/List_of_mammals_of_Estonia" title="List of mammals of Estonia">Fauna</a></li> 
+                 <li><a href="/wiki/List_of_islands_of_Estonia" title="List of islands of Estonia">Islands</a></li> 
+                 <li><a href="/wiki/List_of_lakes_of_Estonia" title="List of lakes of Estonia">Lakes</a></li> 
+                 <li><a href="/wiki/Populated_places_in_Estonia" title="Populated places in Estonia">Populated places</a></li> 
+                 <li><a href="/wiki/Protected_areas_of_Estonia" title="Protected areas of Estonia">Protected areas</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Estonia" title="List of rivers of Estonia">Rivers</a></li> 
+                 <li><a href="/wiki/List_of_cities_and_towns_in_Estonia" title="List of cities and towns in Estonia">Towns</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Estonia" title="Politics of Estonia">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Counties_of_Estonia" title="Counties of Estonia">Administrative divisions</a></li> 
+                 <li><a href="/wiki/Constitution_of_Estonia" title="Constitution of Estonia">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Estonia" title="Elections in Estonia">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Estonia" title="Foreign relations of Estonia">Foreign relations</a></li> 
+                 <li><a href="/wiki/Government_of_Estonia" title="Government of Estonia">Government</a> 
+                  <ul>
+                   <li><a href="/wiki/Estonian_government-in-exile" title="Estonian government-in-exile">exile</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Human_rights_in_Estonia" title="Human rights in Estonia">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/LGBT_rights_in_Estonia" title="LGBT rights in Estonia">LGBT</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Law_of_Estonia" title="Law of Estonia">Law</a></li> 
+                 <li><a href="/wiki/Estonian_Police" title="Estonian Police">Law enforcement</a></li> 
+                 <li><a href="/wiki/Estonia_Defence_Forces" class="mw-redirect" title="Estonia Defence Forces">Military</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Estonia" title="List of political parties in Estonia">Political parties</a></li> 
+                 <li><a href="/wiki/President_of_Estonia" title="President of Estonia">President</a></li> 
+                 <li><a href="/wiki/Prime_Minister_of_Estonia" title="Prime Minister of Estonia">Prime Minister</a></li> 
+                 <li><a href="/wiki/Riigikogu" title="Riigikogu"><i>Riigikogu</i> <span style="font-size:85%;">(parliament)</span></a></li> 
+                 <li><a href="/wiki/Supreme_Court_of_Estonia" title="Supreme Court of Estonia">Supreme Court</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Estonia" title="Economy of Estonia">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Agriculture_in_Estonia" title="Agriculture in Estonia">Agriculture</a></li> 
+                 <li><a href="/wiki/Bank_of_Estonia" title="Bank of Estonia">Central bank</a></li> 
+                 <li><a href="/wiki/E-Residency_of_Estonia" title="E-Residency of Estonia">e-Residency</a></li> 
+                 <li><a href="/wiki/Energy_in_Estonia" title="Energy in Estonia">Energy</a></li> 
+                 <li><a href="/wiki/Oil_shale_in_Estonia" title="Oil shale in Estonia">Oil shale</a></li> 
+                 <li><a href="/wiki/Tallinn_Stock_Exchange" class="mw-redirect" title="Tallinn Stock Exchange">Stock exchange</a></li> 
+                 <li><a href="/wiki/Taxation_in_Estonia" title="Taxation in Estonia">Taxation</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Estonia" title="Telecommunications in Estonia">Telecommunications</a></li> 
+                 <li><a href="/w/index.php?title=Tourism_in_Estonia&amp;action=edit&amp;redlink=1" class="new" title="Tourism in Estonia (page does not exist)">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Estonia" title="Transport in Estonia">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Society</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Crime_in_Estonia" title="Crime in Estonia">Crime</a></li> 
+                 <li><a href="/wiki/Demographics_of_Estonia" title="Demographics of Estonia">Demographics</a></li> 
+                 <li><a href="/wiki/Education_in_Estonia" title="Education in Estonia">Education</a></li> 
+                 <li><a href="/wiki/Estonians" title="Estonians">Estonians</a></li> 
+                 <li><a href="/wiki/Estonian_language" title="Estonian language">Estonian language</a></li> 
+                 <li><a href="/wiki/Category:Ethnic_groups_in_Estonia" title="Category:Ethnic groups in Estonia">Ethnic groups</a></li> 
+                 <li><a href="/wiki/Healthcare_in_Estonia" title="Healthcare in Estonia">Healthcare</a></li> 
+                 <li><a href="/wiki/Religion_in_Estonia" title="Religion in Estonia">Religion</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Estonia" title="Culture of Estonia">Culture</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Mu_isamaa,_mu_%C3%B5nn_ja_r%C3%B5%C3%B5m" title="Mu isamaa, mu õnn ja rõõm">Anthem</a></li> 
+                 <li><a href="/wiki/Architecture_of_Estonia" title="Architecture of Estonia">Architecture</a></li> 
+                 <li><a href="/wiki/Beer_in_Estonia" title="Beer in Estonia">Beer</a></li> 
+                 <li><a href="/wiki/Cinema_of_Estonia" title="Cinema of Estonia">Cinema</a></li> 
+                 <li><a href="/wiki/Coat_of_arms_of_Estonia" title="Coat of arms of Estonia">Coat of arms</a></li> 
+                 <li><a href="/wiki/Estonian_cuisine" title="Estonian cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Category:Estonian_given_names" title="Category:Estonian given names">Estonian names</a></li> 
+                 <li><a href="/wiki/List_of_Estonian_flags" title="List of Estonian flags">Flags</a></li> 
+                 <li><a href="/wiki/Estonian_folklore" title="Estonian folklore">Folklore</a></li> 
+                 <li><a href="/wiki/Internet_in_Estonia" title="Internet in Estonia">Internet</a></li> 
+                 <li><a href="/wiki/Languages_of_Estonia" title="Languages of Estonia">Languages</a></li> 
+                 <li><a href="/wiki/Estonian_literature" title="Estonian literature">Literature</a></li> 
+                 <li><a href="/wiki/Media_of_Estonia" class="mw-redirect" title="Media of Estonia">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Estonia" title="Music of Estonia">Music</a></li> 
+                 <li><a href="/wiki/Estonian_mythology" title="Estonian mythology">Mythology</a></li> 
+                 <li><a href="/wiki/Name_of_Estonia" title="Name of Estonia">Name</a></li> 
+                 <li><a href="/wiki/National_symbols_of_Estonia" title="National symbols of Estonia">Symbols</a></li> 
+                 <li><a href="/wiki/List_of_newspapers_in_Estonia" title="List of newspapers in Estonia">Newspapers</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/List_of_radio_stations_in_Estonia" title="List of radio stations in Estonia">Radio</a></li> 
+                 <li><a href="/wiki/Sport_in_Estonia" title="Sport in Estonia">Sport</a></li> 
+                 <li><a href="/wiki/Television_in_Estonia" title="Television in Estonia">Television</a></li> 
+                 <li><a href="/wiki/Theatre_of_Estonia" title="Theatre of Estonia">Theatre</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Estonia" title="Outline of Estonia">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Estonia-related_articles" title="Index of Estonia-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Estonia" title="Category:Estonia">Category</a></li> 
+             <li><a href="/wiki/Portal:Estonia" title="Portal:Estonia">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Europe" title="Template:Public holidays in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Europe" title="Template talk:Public holidays in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Europe" style="font-size:114%;margin:0 4em">
+            Public holidays in Europe
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Albania" title="Public holidays in Albania">Albania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Andorra" title="Public holidays in Andorra">Andorra</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Austria" title="Public holidays in Austria">Austria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belarus" title="Public holidays in Belarus">Belarus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belgium" title="Public holidays in Belgium">Belgium</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bosnia_and_Herzegovina" title="Public holidays in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bulgaria" title="Public holidays in Bulgaria">Bulgaria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Croatia" title="Public holidays in Croatia">Croatia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Czech_Republic" title="Public holidays in the Czech Republic">Czech Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Denmark" title="Public holidays in Denmark">Denmark</a></li> 
+             <li><a class="mw-selflink selflink">Estonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Finland" title="Public holidays in Finland">Finland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_France" title="Public holidays in France">France</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Germany" title="Public holidays in Germany">Germany</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greece" title="Public holidays in Greece">Greece</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hungary" title="Public holidays in Hungary">Hungary</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iceland" title="Public holidays in Iceland">Iceland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Ireland" title="Public holidays in the Republic of Ireland">Ireland</a></li> 
+             <li class="mw-empty-elt"></li> 
+             <li><a href="/wiki/Public_holidays_in_Italy" title="Public holidays in Italy">Italy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Latvia" title="Public holidays in Latvia">Latvia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liechtenstein" title="Public holidays in Liechtenstein">Liechtenstein</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lithuania" title="Public holidays in Lithuania">Lithuania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Luxembourg" title="Public holidays in Luxembourg">Luxembourg</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malta" title="Public holidays in Malta">Malta</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Moldova" title="Public holidays in Moldova">Moldova</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Monaco" title="Public holidays in Monaco">Monaco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montenegro" title="Public holidays in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Netherlands" title="Public holidays in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Macedonia" title="Public holidays in North Macedonia">North Macedonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Norway" title="Public holidays in Norway">Norway</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Poland" title="Public holidays in Poland">Poland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Portugal" title="Public holidays in Portugal">Portugal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Romania" title="Public holidays in Romania">Romania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_San_Marino" class="mw-redirect" title="Public holidays in San Marino">San Marino</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Serbia" title="Public holidays in Serbia">Serbia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovakia" title="Public holidays in Slovakia">Slovakia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovenia" title="Public holidays in Slovenia">Slovenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Spain" title="Public holidays in Spain">Spain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sweden" title="Public holidays in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Switzerland" title="Public holidays in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ukraine" title="Public holidays in Ukraine">Ukraine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Kingdom" title="Public holidays in the United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vatican_City" title="Public holidays in Vatican City">Vatican City</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">States with limited<br>recognition</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kosovo" title="Public holidays in Kosovo">Kosovo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Transnistria" title="Public holidays in Transnistria">Transnistria</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies and<br>other entities</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_%C3%85land" title="Public holidays in Åland">Åland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Faroe_Islands" title="Public holidays in the Faroe Islands">Faroe Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gibraltar" title="Public holidays in Gibraltar">Gibraltar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guernsey" title="Public holidays in Guernsey">Guernsey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Isle_of_Man" title="Public holidays in the Isle of Man">Isle of Man</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jersey" title="Public holidays in Jersey">Jersey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Svalbard" title="Public holidays in Svalbard">Svalbard</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other entities</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_European_Union" title="Public holidays in the European Union">European Union</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20210122004810
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.536 seconds
+Real time usage: 0.638 seconds
+Preprocessor visited node count: 11725/1000000
+Post‐expand include size: 84879/2097152 bytes
+Template argument size: 15045/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 24/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2344/5000000 bytes
+Lua time usage: 0.205/10.000 seconds
+Lua memory usage: 15466320/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  567.766      1 -total
+ 61.13%  347.047      6 Template:Navbox
+ 41.69%  236.699      1 Template:Public_holidays_in_Europe
+ 41.09%  233.284      1 Template:Europe_topic
+ 33.53%  190.400     49 Template:Iso2country
+ 23.24%  131.952      1 Template:In_lang
+ 22.43%  127.371      1 Template:Estonia_topics
+ 21.83%  123.944      1 Template:Country_topics
+ 12.56%   71.301      1 Template:Short_description
+ 11.08%   62.926     49 Template:Iso2country/data
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:2099616-0!canonical and timestamp 20210122004809 and revision id 963137904. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Estonia&amp;oldid=963137904">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Estonia&amp;oldid=963137904</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Estonia" title="Category:Public holidays in Estonia">Public holidays in Estonia</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Estonian_society" title="Category:Estonian society">Estonian society</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Articles_with_Estonian-language_sources_(et)" title="Category:Articles with Estonian-language sources (et)">Articles with Estonian-language sources (et)</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Estonia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Estonia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Estonia" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Estonia" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Estonia">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Estonia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Estonia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Estonia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Estonia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Estonia&amp;oldid=963137904" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Estonia&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Estonia&amp;id=963137904&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q618439" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Estonia&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Estonia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Holidays_in_Estonia" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Feiertage_in_Estland" title="Feiertage in Estland – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Eesti_riigip%C3%BChad" title="Eesti riigipühad – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/F%C3%AAtes_et_jours_f%C3%A9ri%C3%A9s_en_Estonie" title="Fêtes et jours fériés en Estonie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B7%D5%BD%D5%BF%D5%B8%D5%B6%D5%AB%D5%A1%D5%B5%D5%AB_%D5%BF%D5%B8%D5%B6%D5%A5%D6%80" title="Էստոնիայի տոներ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Estijos_%C5%A1vent%C4%97s" title="Sąrašas:Estijos šventės – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Feriados_na_Est%C3%B4nia" title="Feriados na Estônia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D0%B8" title="Праздники Эстонии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B0_%D0%95%D1%81%D1%82%D0%BE%D0%BD%D1%96%D1%97" title="Свята Естонії – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q618439#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 18 June 2020, at 02:33<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Estonia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.536","walltime":"0.638","ppvisitednodes":{"value":11725,"limit":1000000},"postexpandincludesize":{"value":84879,"limit":2097152},"templateargumentsize":{"value":15045,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":24,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2344,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  567.766      1 -total"," 61.13%  347.047      6 Template:Navbox"," 41.69%  236.699      1 Template:Public_holidays_in_Europe"," 41.09%  233.284      1 Template:Europe_topic"," 33.53%  190.400     49 Template:Iso2country"," 23.24%  131.952      1 Template:In_lang"," 22.43%  127.371      1 Template:Estonia_topics"," 21.83%  123.944      1 Template:Country_topics"," 12.56%   71.301      1 Template:Short_description"," 11.08%   62.926     49 Template:Iso2country/data"]},"scribunto":{"limitreport-timeusage":{"value":"0.205","limit":"10.000"},"limitreport-memusage":{"value":15466320,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20210122004810","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Estonia","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Estonia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q618439","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q618439","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-23T12:15:42Z","dateModified":"2020-06-18T02:33:37Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":167,"wgHostname":"mw1270"});});</script> 
+ </body>
+</html>

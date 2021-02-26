@@ -1,14 +1,13 @@
 package me.randomhashtags.worldlaws.info;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.location.CountryInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
 
-public enum MinimumAnnualLeave implements CountryService {
+public enum MinimumAnnualLeave implements CountryInfoService {
     INSTANCE;
 
     private HashMap<String, String> countries;
@@ -29,7 +28,7 @@ public enum MinimumAnnualLeave implements CountryService {
         final String url = "https://en.wikipedia.org/wiki/List_of_minimum_annual_leave_by_country";
         final EventSource source = new EventSource("Wikipedia: List of minimum annual leave by country", url);
         final EventSources sources = new EventSources(source);
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements trs = getInfoDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         final String title = getInfo().getTitle();
         final int yearOfData = WLUtilities.getTodayYear();
@@ -38,16 +37,16 @@ public enum MinimumAnnualLeave implements CountryService {
             if(tds.size() > 0 && tds.get(0).select("a").size() > 0) {
                 final String country = tds.get(0).text().toLowerCase().split("\\[")[0].split("\\(")[0].replace(" ", "");
                 final String annualLeaveText = removeReferences(tds.get(1).text());
-                final CountryInfoValue annualLeave = new CountryInfoValue("Annual Leave", annualLeaveText, "");
+                final CountryInfoValue annualLeave = new CountryInfoValue("Annual Leave", annualLeaveText, null);
 
                 final String paidVacationDaysText = removeReferences(tds.get(2).text());
-                final CountryInfoValue paidVacationDays = new CountryInfoValue("Paid Vacation Days", paidVacationDaysText, "");
+                final CountryInfoValue paidVacationDays = new CountryInfoValue("Paid Vacation Days", paidVacationDaysText, null);
 
                 final String paidPublicHolidaysText = removeReferences(tds.get(3).text());
-                final CountryInfoValue paidPublicHolidays = new CountryInfoValue("Paid Public Holidays", paidPublicHolidaysText, "");
+                final CountryInfoValue paidPublicHolidays = new CountryInfoValue("Paid Public Holidays", paidPublicHolidaysText, null);
 
                 final String totalPaidLeaveText = removeReferences(tds.get(4).text());
-                final CountryInfoValue totalPaidLeave = new CountryInfoValue("Total Paid Leave", totalPaidLeaveText, "");
+                final CountryInfoValue totalPaidLeave = new CountryInfoValue("Total Paid Leave", totalPaidLeaveText, null);
 
                 final CountryInfoKey info = new CountryInfoKey(title, null, yearOfData, sources, annualLeave, paidVacationDays, paidPublicHolidays, totalPaidLeave);
                 countries.put(country, info.toString());

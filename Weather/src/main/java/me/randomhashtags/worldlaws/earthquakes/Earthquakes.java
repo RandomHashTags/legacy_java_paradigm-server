@@ -2,8 +2,8 @@ package me.randomhashtags.worldlaws.earthquakes;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.location.Location;
-import me.randomhashtags.worldlaws.location.Territories;
-import me.randomhashtags.worldlaws.location.Territory;
+import me.randomhashtags.worldlaws.location.TerritoryAbbreviations;
+import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -11,9 +11,8 @@ import java.time.Month;
 import java.time.Year;
 import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.logging.Level;
 
-public enum Earthquakes implements RestAPI {
+public enum Earthquakes implements RestAPI, TerritoryAbbreviations {
     INSTANCE;
 
     private final String yearsJSON;
@@ -202,7 +201,7 @@ public enum Earthquakes implements RestAPI {
                     final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
                     final Location location = new Location(latitude, longitude);
 
-                    final Earthquake earthquake = new Earthquake(cause, magnitude, place, time, lastUpdated, 0, location, url);
+                    final Earthquake earthquake = new Earthquake(null, cause, magnitude, place, time, lastUpdated, 0, location, url);
                     final String territory = earthquake.getTerritory();
                     if(!earthquakes.containsKey(territory)) {
                         earthquakes.put(territory, new HashSet<>());
@@ -211,13 +210,13 @@ public enum Earthquakes implements RestAPI {
                 }
                 final HashSet<Earthquake> allEarthquakes = new HashSet<>();
                 final HashMap<String, String> territoryMap = new HashMap<>();
+                final HashMap<String, String> usaAbbreviations = getAmericanTerritories();
                 for(Map.Entry<String, HashSet<Earthquake>> set : earthquakes.entrySet()) {
                     final String key = set.getKey();
-                    final Territory territory = Territories.valueOfTerritoryAbbreviation(key);
-                    final String name = (territory != null ? territory.getName() : key).toLowerCase();
+                    final String territory = usaAbbreviations.getOrDefault(key, key).toLowerCase().replace(" ", "");
                     final HashSet<Earthquake> values = earthquakes.get(key);
                     final String value = getEarthquakeJSONArray(values);
-                    territoryMap.put(name.replace(" ", ""), value);
+                    territoryMap.put(territory, value);
                     allEarthquakes.addAll(values);
                 }
                 territories.get(year).put(monthValue, territoryMap);

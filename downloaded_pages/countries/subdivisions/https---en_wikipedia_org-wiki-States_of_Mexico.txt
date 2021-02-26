@@ -1,0 +1,403 @@
+<table class="wikitable sortable" style="font-size: 95%; padding:0px; text-align: center;"> 
+ <caption>
+  States of Mexico 
+ </caption> 
+ <tbody>
+  <tr> 
+   <th style="width: 115px;">State </th> 
+   <th>Official name (except Mexico City): <p><i>Estado Libre y Soberano de</i> (English: "Free and Sovereign State of")&nbsp;: </p> </th> 
+   <th>Coat of arms </th> 
+   <th>Capital </th> 
+   <th>Largest city </th> 
+   <th>Area<sup id="cite_ref-Landarea_6-0" class="reference"><a href="#cite_note-Landarea-6">[6]</a></sup> </th> 
+   <th>Population (2020)<sup id="cite_ref-census2020_7-0" class="reference"><a href="#cite_note-census2020-7">[7]</a></sup> </th> 
+   <th>Municipalities </th> 
+   <th>Order of Admission<br>to Federation </th> 
+   <th>Date of Admission<br>to Federation </th>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Aguascalientes" title="Aguascalientes">Aguascalientes</a> </td> 
+   <td style="text-align: center;"><i>Aguascalientes</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Aguascalientes.svg" class="image"><img alt="Coat of arms of Aguascalientes.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Coat_of_arms_of_Aguascalientes.svg/50px-Coat_of_arms_of_Aguascalientes.svg.png" decoding="async" width="50" height="58" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Coat_of_arms_of_Aguascalientes.svg/75px-Coat_of_arms_of_Aguascalientes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Coat_of_arms_of_Aguascalientes.svg/100px-Coat_of_arms_of_Aguascalientes.svg.png 2x" data-file-width="193" data-file-height="222"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Aguascalientes_City" title="Aguascalientes City">Aguascalientes</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Aguascalientes_City" title="Aguascalientes City">Aguascalientes</a> </td> 
+   <td style="text-align: right;"><span style="display:none">005615.7</span>5,615.7&nbsp;km<sup>2</sup> (2,168.2&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">01425607</span>1,425,607 </td> 
+   <td style="text-align: center;">11 </td> 
+   <td style="text-align: center;"><span style="display:none">24</span><span data-sort-value="7001240000000000000♠">24</span> </td> 
+   <td><span style="display:none">18570205</span>1857-02-05<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Baja_California" title="Baja California">Baja California</a> </td> 
+   <td style="text-align: center;"><i>Baja California</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Baja_California.svg" class="image"><img alt="Coat of arms of Baja California.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Coat_of_arms_of_Baja_California.svg/50px-Coat_of_arms_of_Baja_California.svg.png" decoding="async" width="50" height="72" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Coat_of_arms_of_Baja_California.svg/75px-Coat_of_arms_of_Baja_California.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Coat_of_arms_of_Baja_California.svg/100px-Coat_of_arms_of_Baja_California.svg.png 2x" data-file-width="200" data-file-height="286"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Mexicali" title="Mexicali">Mexicali</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Tijuana" title="Tijuana">Tijuana</a> </td> 
+   <td style="text-align: right;"><span style="display:none">071450.0</span>71,450.0&nbsp;km<sup>2</sup> (27,587.0&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">03769020</span>3,769,020 </td> 
+   <td style="text-align: center;">6 </td> 
+   <td style="text-align: center;"><span style="display:none">29</span><span data-sort-value="7001290000000000000♠">29</span> </td> 
+   <td><span style="display:none">19520116</span>1952-01-16<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Baja_California_Sur" title="Baja California Sur">Baja California Sur</a> </td> 
+   <td style="text-align: center;"><i>Baja California Sur</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Baja_California_Sur.svg" class="image"><img alt="Coat of arms of Baja California Sur.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Baja_California_Sur.svg/50px-Coat_of_arms_of_Baja_California_Sur.svg.png" decoding="async" width="50" height="60" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Baja_California_Sur.svg/75px-Coat_of_arms_of_Baja_California_Sur.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Baja_California_Sur.svg/100px-Coat_of_arms_of_Baja_California_Sur.svg.png 2x" data-file-width="400" data-file-height="480"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/La_Paz,_Baja_California_Sur" title="La Paz, Baja California Sur">La Paz</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/La_Paz,_Baja_California_Sur" title="La Paz, Baja California Sur">La Paz</a> </td> 
+   <td style="text-align: right;"><span style="display:none">073909.4</span>73,909.4&nbsp;km<sup>2</sup> (28,536.6&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">00798447</span>798,447 </td> 
+   <td style="text-align: center;">5 </td> 
+   <td style="text-align: center;"><span style="display:none">31</span><span data-sort-value="7001310000000000000♠">31</span> </td> 
+   <td><span style="display:none">19741008</span>1974-10-08<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Campeche" title="Campeche">Campeche</a> </td> 
+   <td style="text-align: center;"><i>Campeche</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Campeche.svg" class="image"><img alt="Coat of arms of Campeche.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Coat_of_arms_of_Campeche.svg/50px-Coat_of_arms_of_Campeche.svg.png" decoding="async" width="50" height="76" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Coat_of_arms_of_Campeche.svg/75px-Coat_of_arms_of_Campeche.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Coat_of_arms_of_Campeche.svg/100px-Coat_of_arms_of_Campeche.svg.png 2x" data-file-width="400" data-file-height="611"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Campeche_City" title="Campeche City">San Francisco de Campeche</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Campeche_City" title="Campeche City">San Francisco de Campeche</a> </td> 
+   <td style="text-align: right;"><span style="display:none">057484.9</span>57,484.9&nbsp;km<sup>2</sup> (22,195.0&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">00928363</span>928,363 </td> 
+   <td style="text-align: center;">13 </td> 
+   <td style="text-align: center;"><span style="display:none">25</span><span data-sort-value="7001250000000000000♠">25</span> </td> 
+   <td><span style="display:none">18630429</span>1863-04-29<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Chiapas" title="Chiapas">Chiapas</a> </td> 
+   <td style="text-align: center;"><i>Chiapas</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Chiapas.svg" class="image"><img alt="Coat of arms of Chiapas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Coat_of_arms_of_Chiapas.svg/50px-Coat_of_arms_of_Chiapas.svg.png" decoding="async" width="50" height="64" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Coat_of_arms_of_Chiapas.svg/75px-Coat_of_arms_of_Chiapas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Coat_of_arms_of_Chiapas.svg/100px-Coat_of_arms_of_Chiapas.svg.png 2x" data-file-width="710" data-file-height="907"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Tuxtla_Guti%C3%A9rrez" title="Tuxtla Gutiérrez">Tuxtla Gutiérrez</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Tuxtla_Guti%C3%A9rrez" title="Tuxtla Gutiérrez">Tuxtla Gutiérrez</a> </td> 
+   <td style="text-align: right;"><span style="display:none">073311.0</span>73,311.0&nbsp;km<sup>2</sup> (28,305.5&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">05543828</span>5,543,828 </td> 
+   <td style="text-align: center;">124 </td> 
+   <td style="text-align: center;"><span style="display:none">19</span><span data-sort-value="7001190000000000000♠">19</span> </td> 
+   <td><span style="display:none">18240914</span>1824-09-14<sup id="cite_ref-googlebooks_12-0" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Chihuahua_(state)" title="Chihuahua (state)">Chihuahua</a> </td> 
+   <td style="text-align: center;"><i>Chihuahua</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Chihuahua.svg" class="image"><img alt="Coat of arms of Chihuahua.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Coat_of_arms_of_Chihuahua.svg/50px-Coat_of_arms_of_Chihuahua.svg.png" decoding="async" width="50" height="57" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Coat_of_arms_of_Chihuahua.svg/75px-Coat_of_arms_of_Chihuahua.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Coat_of_arms_of_Chihuahua.svg/100px-Coat_of_arms_of_Chihuahua.svg.png 2x" data-file-width="350" data-file-height="402"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Chihuahua_City" title="Chihuahua City">Chihuahua</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Ciudad_Ju%C3%A1rez" title="Ciudad Juárez">Ciudad Juárez</a> </td> 
+   <td style="text-align: right;"><span style="display:none">247412.6</span>247,412.6&nbsp;km<sup>2</sup> (95,526.5&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">03741869</span>3,741,869 </td> 
+   <td style="text-align: center;">67 </td> 
+   <td style="text-align: center;"><span style="display:none">18</span><span data-sort-value="7001180000000000000♠">18</span> </td> 
+   <td><span style="display:none">18240706</span>1824-07-06<sup id="cite_ref-googlebooks_12-1" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a> </td> 
+   <td><i>Ciudad de México</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Mexico_City,_Mexico.svg" class="image"><img alt="Coat of arms of Mexico City, Mexico.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Coat_of_arms_of_Mexico_City%2C_Mexico.svg/50px-Coat_of_arms_of_Mexico_City%2C_Mexico.svg.png" decoding="async" width="50" height="60" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Coat_of_arms_of_Mexico_City%2C_Mexico.svg/75px-Coat_of_arms_of_Mexico_City%2C_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Coat_of_arms_of_Mexico_City%2C_Mexico.svg/100px-Coat_of_arms_of_Mexico_City%2C_Mexico.svg.png 2x" data-file-width="931" data-file-height="1118"></a> </td> 
+   <td>N/A </td> 
+   <td>N/A </td> 
+   <td style="text-align: right;"><span style="display:none">001494.3</span>1,494.3&nbsp;km<sup>2</sup> (577.0&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">09209944</span>9,209,944 </td> 
+   <td style="text-align: center;">16 </td> 
+   <td style="text-align: center;"><span style="display:none">32</span><span data-sort-value="7001320000000000000♠">32</span> </td> 
+   <td><span style="display:none">18240914</span>2016-01-29 </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Coahuila" title="Coahuila">Coahuila</a><sup>1</sup> <sup>4</sup> </td> 
+   <td style="text-align: center;"><i>Coahuila de Zaragoza</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Coahuila.svg" class="image"><img alt="Coat of arms of Coahuila.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Coat_of_arms_of_Coahuila.svg/50px-Coat_of_arms_of_Coahuila.svg.png" decoding="async" width="50" height="52" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Coat_of_arms_of_Coahuila.svg/75px-Coat_of_arms_of_Coahuila.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Coat_of_arms_of_Coahuila.svg/100px-Coat_of_arms_of_Coahuila.svg.png 2x" data-file-width="400" data-file-height="412"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Saltillo" title="Saltillo">Saltillo</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Saltillo" title="Saltillo">Saltillo</a> </td> 
+   <td style="text-align: right;"><span style="display:none">151594.8</span>151,594.8&nbsp;km<sup>2</sup> (58,531.1&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">03146771</span>3,146,771 </td> 
+   <td style="text-align: center;">38 </td> 
+   <td style="text-align: center;"><span style="display:none">16</span><span data-sort-value="7001160000000000000♠">16</span> </td> 
+   <td><span style="display:none">18240507</span>1824-05-07<sup id="cite_ref-googlebooks_12-2" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Colima" title="Colima">Colima</a><sup>6</sup> </td> 
+   <td style="text-align: center;"><i>Colima</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Colima.svg" class="image"><img alt="Coat of arms of Colima.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_Colima.svg/50px-Coat_of_arms_of_Colima.svg.png" decoding="async" width="50" height="74" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_Colima.svg/75px-Coat_of_arms_of_Colima.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_Colima.svg/100px-Coat_of_arms_of_Colima.svg.png 2x" data-file-width="300" data-file-height="443"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Colima_City" title="Colima City">Colima</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Manzanillo,_Colima" title="Manzanillo, Colima">Manzanillo</a> </td> 
+   <td style="text-align: right;"><span style="display:none">005626.9</span>5,626.9&nbsp;km<sup>2</sup> (2,172.6&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">00731391</span>731,391 </td> 
+   <td style="text-align: center;">10 </td> 
+   <td style="text-align: center;"><span style="display:none">23</span><span data-sort-value="7001230000000000000♠">23</span> </td> 
+   <td><span style="display:none">18560912</span>1856-09-12<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Durango" title="Durango">Durango</a> </td> 
+   <td style="text-align: center;"><i>Durango</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Durango.svg" class="image"><img alt="Coat of arms of Durango.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Coat_of_arms_of_Durango.svg/50px-Coat_of_arms_of_Durango.svg.png" decoding="async" width="50" height="64" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Coat_of_arms_of_Durango.svg/75px-Coat_of_arms_of_Durango.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Coat_of_arms_of_Durango.svg/100px-Coat_of_arms_of_Durango.svg.png 2x" data-file-width="300" data-file-height="381"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Durango_City" title="Durango City">Victoria de Durango</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Durango_City" title="Durango City">Victoria de Durango</a> </td> 
+   <td style="text-align: right;"><span style="display:none">123364.0</span>123,364.0&nbsp;km<sup>2</sup> (47,631.1&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">01832650</span>1,832,650 </td> 
+   <td style="text-align: center;">39 </td> 
+   <td style="text-align: center;"><span style="display:none">17</span><span data-sort-value="7001170000000000000♠">17</span> </td> 
+   <td><span style="display:none">18240522</span>1824-05-22<sup id="cite_ref-googlebooks_12-3" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Guanajuato" title="Guanajuato">Guanajuato</a> </td> 
+   <td style="text-align: center;"><i>Guanajuato</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Guanajuato.svg" class="image"><img alt="Coat of arms of Guanajuato.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Coat_of_arms_of_Guanajuato.svg/50px-Coat_of_arms_of_Guanajuato.svg.png" decoding="async" width="50" height="75" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Coat_of_arms_of_Guanajuato.svg/75px-Coat_of_arms_of_Guanajuato.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Coat_of_arms_of_Guanajuato.svg/100px-Coat_of_arms_of_Guanajuato.svg.png 2x" data-file-width="524" data-file-height="789"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Guanajuato_City" title="Guanajuato City">Guanajuato</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Le%C3%B3n,_Guanajuato" title="León, Guanajuato">León</a> </td> 
+   <td style="text-align: right;"><span style="display:none">030606.7</span>30,606.7&nbsp;km<sup>2</sup> (11,817.3&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">06166934</span>6,166,934 </td> 
+   <td style="text-align: center;">46 </td> 
+   <td style="text-align: center;"><span style="display:none">02</span><span data-sort-value="7000200000000000000♠">2</span> </td> 
+   <td><span style="display:none">18231220</span>1823-12-20<sup id="cite_ref-googlebooks_12-4" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Guerrero" title="Guerrero">Guerrero</a> </td> 
+   <td style="text-align: center;"><i>Guerrero</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Guerrero.svg" class="image"><img alt="Coat of arms of Guerrero.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Coat_of_arms_of_Guerrero.svg/50px-Coat_of_arms_of_Guerrero.svg.png" decoding="async" width="50" height="85" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Coat_of_arms_of_Guerrero.svg/75px-Coat_of_arms_of_Guerrero.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Coat_of_arms_of_Guerrero.svg/100px-Coat_of_arms_of_Guerrero.svg.png 2x" data-file-width="200" data-file-height="341"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Chilpancingo" title="Chilpancingo">Chilpancingo</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Acapulco" title="Acapulco">Acapulco</a> </td> 
+   <td style="text-align: right;"><span style="display:none">063595.9</span>63,595.9&nbsp;km<sup>2</sup> (24,554.5&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">03540685</span>3,540,685 </td> 
+   <td style="text-align: center;">81 </td> 
+   <td style="text-align: center;"><span style="display:none">21</span><span data-sort-value="7001210000000000000♠">21</span> </td> 
+   <td><span style="display:none">18491027</span>1849-10-27<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Hidalgo_(state)" title="Hidalgo (state)">Hidalgo</a> </td> 
+   <td style="text-align: center;"><i>Hidalgo</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Hidalgo.svg" class="image"><img alt="Coat of arms of Hidalgo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Coat_of_arms_of_Hidalgo.svg/50px-Coat_of_arms_of_Hidalgo.svg.png" decoding="async" width="50" height="42" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Coat_of_arms_of_Hidalgo.svg/75px-Coat_of_arms_of_Hidalgo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Coat_of_arms_of_Hidalgo.svg/100px-Coat_of_arms_of_Hidalgo.svg.png 2x" data-file-width="300" data-file-height="250"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Pachuca" title="Pachuca">Pachuca</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Pachuca" title="Pachuca">Pachuca</a> </td> 
+   <td style="text-align: right;"><span style="display:none">020821.4</span>20,821.4&nbsp;km<sup>2</sup> (8,039.2&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">03082841</span>3,082,841 </td> 
+   <td style="text-align: center;">84 </td> 
+   <td style="text-align: center;"><span style="display:none">26</span><span data-sort-value="7001260000000000000♠">26</span> </td> 
+   <td><span style="display:none">18690116</span>1869-01-16<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Jalisco" title="Jalisco">Jalisco</a> </td> 
+   <td style="text-align: center;"><i>Jalisco</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Jalisco.svg" class="image"><img alt="Coat of arms of Jalisco.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Coat_of_arms_of_Jalisco.svg/50px-Coat_of_arms_of_Jalisco.svg.png" decoding="async" width="50" height="71" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Coat_of_arms_of_Jalisco.svg/75px-Coat_of_arms_of_Jalisco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Coat_of_arms_of_Jalisco.svg/100px-Coat_of_arms_of_Jalisco.svg.png 2x" data-file-width="175" data-file-height="247"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Guadalajara" title="Guadalajara">Guadalajara</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Guadalajara" title="Guadalajara">Guadalajara</a> </td> 
+   <td style="text-align: right;"><span style="display:none">078595.9</span>78,595.9&nbsp;km<sup>2</sup> (30,346.0&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">08348151</span>8,348,151 </td> 
+   <td style="text-align: center;">125 </td> 
+   <td style="text-align: center;"><span style="display:none">09</span><span data-sort-value="7000900000000000000♠">9</span> </td> 
+   <td><span style="display:none">18231223</span>1823-12-23<sup id="cite_ref-googlebooks_12-5" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/State_of_Mexico" title="State of Mexico">México</a> </td> 
+   <td style="text-align: center;"><i>México</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Mexico_State.svg" class="image"><img alt="Coat of arms of Mexico State.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coat_of_arms_of_Mexico_State.svg/50px-Coat_of_arms_of_Mexico_State.svg.png" decoding="async" width="50" height="55" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coat_of_arms_of_Mexico_State.svg/75px-Coat_of_arms_of_Mexico_State.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coat_of_arms_of_Mexico_State.svg/100px-Coat_of_arms_of_Mexico_State.svg.png 2x" data-file-width="91" data-file-height="101"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Toluca" title="Toluca">Toluca de Lerdo</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Ecatepec_de_Morelos" title="Ecatepec de Morelos">Ecatepec de Morelos</a> </td> 
+   <td style="text-align: right;"><span style="display:none">022351.8</span>22,351.8&nbsp;km<sup>2</sup> (8,630.1&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">16992418</span>16,992,418 </td> 
+   <td style="text-align: center;">125 </td> 
+   <td style="text-align: center;"><span style="display:none">01</span><span data-sort-value="7000100000000000000♠">1</span> </td> 
+   <td><span style="display:none">18231220</span>1823-12-20<sup id="cite_ref-googlebooks_12-6" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Michoac%C3%A1n" title="Michoacán">Michoacán</a> </td> 
+   <td style="text-align: center;"><i>Michoacán de Ocampo</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Michoacan.svg" class="image"><img alt="Coat of arms of Michoacan.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Coat_of_arms_of_Michoacan.svg/50px-Coat_of_arms_of_Michoacan.svg.png" decoding="async" width="50" height="70" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Coat_of_arms_of_Michoacan.svg/75px-Coat_of_arms_of_Michoacan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Coat_of_arms_of_Michoacan.svg/100px-Coat_of_arms_of_Michoacan.svg.png 2x" data-file-width="300" data-file-height="421"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Morelia" title="Morelia">Morelia</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Morelia" title="Morelia">Morelia</a> </td> 
+   <td style="text-align: right;"><span style="display:none">058598.7</span>58,598.7&nbsp;km<sup>2</sup> (22,625.1&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">04748846</span>4,748,846 </td> 
+   <td style="text-align: center;">113 </td> 
+   <td style="text-align: center;"><span style="display:none">05</span><span data-sort-value="7000500000000000000♠">5</span> </td> 
+   <td><span style="display:none">18231222</span>1823-12-22<sup id="cite_ref-googlebooks_12-7" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Morelos" title="Morelos">Morelos</a> </td> 
+   <td style="text-align: center;"><i>Morelos</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Morelos.svg" class="image"><img alt="Coat of arms of Morelos.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Coat_of_arms_of_Morelos.svg/50px-Coat_of_arms_of_Morelos.svg.png" decoding="async" width="50" height="63" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Coat_of_arms_of_Morelos.svg/75px-Coat_of_arms_of_Morelos.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Coat_of_arms_of_Morelos.svg/100px-Coat_of_arms_of_Morelos.svg.png 2x" data-file-width="300" data-file-height="379"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Cuernavaca" title="Cuernavaca">Cuernavaca</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Cuernavaca" title="Cuernavaca">Cuernavaca</a> </td> 
+   <td style="text-align: right;"><span style="display:none">004878.9</span>4,878.9&nbsp;km<sup>2</sup> (1,883.8&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">01971520</span>1,971,520 </td> 
+   <td style="text-align: center;">36 </td> 
+   <td style="text-align: center;"><span style="display:none">27</span><span data-sort-value="7001270000000000000♠">27</span> </td> 
+   <td><span style="display:none">18690417</span>1869-04-17<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Nayarit" title="Nayarit">Nayarit</a> </td> 
+   <td style="text-align: center;"><i>Nayarit</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Nayarit.svg" class="image"><img alt="Coat of arms of Nayarit.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Coat_of_arms_of_Nayarit.svg/50px-Coat_of_arms_of_Nayarit.svg.png" decoding="async" width="50" height="57" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Coat_of_arms_of_Nayarit.svg/75px-Coat_of_arms_of_Nayarit.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Coat_of_arms_of_Nayarit.svg/100px-Coat_of_arms_of_Nayarit.svg.png 2x" data-file-width="640" data-file-height="724"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Tepic" title="Tepic">Tepic</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Tepic" title="Tepic">Tepic</a> </td> 
+   <td style="text-align: right;"><span style="display:none">027856.5</span>27,856.5&nbsp;km<sup>2</sup> (10,755.5&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">01235456</span>1,235,456 </td> 
+   <td style="text-align: center;">20 </td> 
+   <td style="text-align: center;"><span style="display:none">28</span><span data-sort-value="7001280000000000000♠">28</span> </td> 
+   <td><span style="display:none">19170126</span>1917-01-26<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Nuevo_Le%C3%B3n" title="Nuevo León">Nuevo León</a><sup>4</sup> </td> 
+   <td style="text-align: center;"><i>Nuevo León</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Nuevo_Leon.svg" class="image"><img alt="Coat of arms of Nuevo Leon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Coat_of_arms_of_Nuevo_Leon.svg/50px-Coat_of_arms_of_Nuevo_Leon.svg.png" decoding="async" width="50" height="70" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Coat_of_arms_of_Nuevo_Leon.svg/75px-Coat_of_arms_of_Nuevo_Leon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Coat_of_arms_of_Nuevo_Leon.svg/100px-Coat_of_arms_of_Nuevo_Leon.svg.png 2x" data-file-width="300" data-file-height="420"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Monterrey" title="Monterrey">Monterrey</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Monterrey" title="Monterrey">Monterrey</a> </td> 
+   <td style="text-align: right;"><span style="display:none">064156.2</span>64,156.2&nbsp;km<sup>2</sup> (24,770.8&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">05784442</span>5,784,442 </td> 
+   <td style="text-align: center;">51 </td> 
+   <td style="text-align: center;"><span style="display:none">15</span><span data-sort-value="7001150000000000000♠">15</span> </td> 
+   <td><span style="display:none">18240507</span>1824-05-07<sup id="cite_ref-googlebooks_12-8" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Oaxaca" title="Oaxaca">Oaxaca</a> </td> 
+   <td style="text-align: center;"><i>Oaxaca</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Oaxaca.svg" class="image"><img alt="Coat of arms of Oaxaca.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coat_of_arms_of_Oaxaca.svg/50px-Coat_of_arms_of_Oaxaca.svg.png" decoding="async" width="50" height="67" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coat_of_arms_of_Oaxaca.svg/75px-Coat_of_arms_of_Oaxaca.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coat_of_arms_of_Oaxaca.svg/100px-Coat_of_arms_of_Oaxaca.svg.png 2x" data-file-width="400" data-file-height="535"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Oaxaca_City" title="Oaxaca City">Oaxaca</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Oaxaca_City" title="Oaxaca City">Oaxaca</a> </td> 
+   <td style="text-align: right;"><span style="display:none">093757.6</span>93,757.6&nbsp;km<sup>2</sup> (36,200.0&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">04132148</span>4,132,148 </td> 
+   <td style="text-align: center;">570 </td> 
+   <td style="text-align: center;"><span style="display:none">03</span><span data-sort-value="7000300000000000000♠">3</span> </td> 
+   <td><span style="display:none">18231221</span>1823-12-21<sup id="cite_ref-googlebooks_12-9" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Puebla" title="Puebla">Puebla</a> </td> 
+   <td style="text-align: center;"><i>Puebla</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Puebla.svg" class="image"><img alt="Coat of arms of Puebla.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Coat_of_arms_of_Puebla.svg/50px-Coat_of_arms_of_Puebla.svg.png" decoding="async" width="50" height="71" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Coat_of_arms_of_Puebla.svg/75px-Coat_of_arms_of_Puebla.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Coat_of_arms_of_Puebla.svg/100px-Coat_of_arms_of_Puebla.svg.png 2x" data-file-width="300" data-file-height="425"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Puebla_City" class="mw-redirect" title="Puebla City">Puebla</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Puebla_City" class="mw-redirect" title="Puebla City">Puebla</a> </td> 
+   <td style="text-align: right;"><span style="display:none">034309.6</span>34,309.6&nbsp;km<sup>2</sup> (13,247.0&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">06583278</span>6,583,278 </td> 
+   <td style="text-align: center;">217 </td> 
+   <td style="text-align: center;"><span style="display:none">04</span><span data-sort-value="7000400000000000000♠">4</span> </td> 
+   <td><span style="display:none">18231221</span>1823-12-21<sup id="cite_ref-googlebooks_12-10" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Quer%C3%A9taro" title="Querétaro">Querétaro</a> </td> 
+   <td style="text-align: center;"><i>Querétaro de Arteaga</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Queretaro.svg" class="image"><img alt="Coat of arms of Queretaro.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Coat_of_arms_of_Queretaro.svg/50px-Coat_of_arms_of_Queretaro.svg.png" decoding="async" width="50" height="60" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Coat_of_arms_of_Queretaro.svg/75px-Coat_of_arms_of_Queretaro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Coat_of_arms_of_Queretaro.svg/100px-Coat_of_arms_of_Queretaro.svg.png 2x" data-file-width="300" data-file-height="358"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Quer%C3%A9taro_City" title="Querétaro City">Querétaro</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Quer%C3%A9taro_City" title="Querétaro City">Querétaro</a> </td> 
+   <td style="text-align: right;"><span style="display:none">011690.6</span>11,690.6&nbsp;km<sup>2</sup> (4,513.8&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">02368467</span>2,368,467 </td> 
+   <td style="text-align: center;">18 </td> 
+   <td style="text-align: center;"><span style="display:none">11</span><span data-sort-value="7001110000000000000♠">11</span> </td> 
+   <td><span style="display:none">18231223</span>1823-12-23<sup id="cite_ref-googlebooks_12-11" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Quintana_Roo" title="Quintana Roo">Quintana Roo</a> </td> 
+   <td style="text-align: center;"><i>Quintana Roo</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Quintana_Roo.svg" class="image"><img alt="Coat of arms of Quintana Roo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Coat_of_arms_of_Quintana_Roo.svg/50px-Coat_of_arms_of_Quintana_Roo.svg.png" decoding="async" width="50" height="69" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Coat_of_arms_of_Quintana_Roo.svg/75px-Coat_of_arms_of_Quintana_Roo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Coat_of_arms_of_Quintana_Roo.svg/100px-Coat_of_arms_of_Quintana_Roo.svg.png 2x" data-file-width="300" data-file-height="411"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Chetumal" title="Chetumal">Chetumal</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Canc%C3%BAn" title="Cancún">Cancún</a> </td> 
+   <td style="text-align: right;"><span style="display:none">044705.2</span>44,705.2&nbsp;km<sup>2</sup> (17,260.8&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">01857985</span>1,857,985 </td> 
+   <td style="text-align: center;">11 </td> 
+   <td style="text-align: center;"><span style="display:none">30</span><span data-sort-value="7001300000000000000♠">30</span> </td> 
+   <td><span style="display:none">19741008</span>1974-10-08<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/San_Luis_Potos%C3%AD" title="San Luis Potosí">San Luis Potosí</a> </td> 
+   <td style="text-align: center;"><i>San Luis Potosí</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_San_Luis_Potosi.svg" class="image"><img alt="Coat of arms of San Luis Potosi.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Coat_of_arms_of_San_Luis_Potosi.svg/50px-Coat_of_arms_of_San_Luis_Potosi.svg.png" decoding="async" width="50" height="58" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Coat_of_arms_of_San_Luis_Potosi.svg/75px-Coat_of_arms_of_San_Luis_Potosi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Coat_of_arms_of_San_Luis_Potosi.svg/100px-Coat_of_arms_of_San_Luis_Potosi.svg.png 2x" data-file-width="914" data-file-height="1069"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/San_Luis_Potos%C3%AD_City" title="San Luis Potosí City">San Luis Potosí</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/San_Luis_Potos%C3%AD_City" title="San Luis Potosí City">San Luis Potosí</a> </td> 
+   <td style="text-align: right;"><span style="display:none">061138.0</span>61,138.0&nbsp;km<sup>2</sup> (23,605.5&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">02,822255</span>2,822,255 </td> 
+   <td style="text-align: center;">58 </td> 
+   <td style="text-align: center;"><span style="display:none">06</span><span data-sort-value="7000600000000000000♠">6</span> </td> 
+   <td><span style="display:none">18231222</span>1823-12-22<sup id="cite_ref-googlebooks_12-12" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Sinaloa" title="Sinaloa">Sinaloa</a> </td> 
+   <td style="text-align: center;"><i>Sinaloa</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Sinaloa.svg" class="image"><img alt="Coat of arms of Sinaloa.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Coat_of_arms_of_Sinaloa.svg/50px-Coat_of_arms_of_Sinaloa.svg.png" decoding="async" width="50" height="89" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Coat_of_arms_of_Sinaloa.svg/75px-Coat_of_arms_of_Sinaloa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Coat_of_arms_of_Sinaloa.svg/100px-Coat_of_arms_of_Sinaloa.svg.png 2x" data-file-width="225" data-file-height="400"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Culiac%C3%A1n" title="Culiacán">Culiacán</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Culiac%C3%A1n" title="Culiacán">Culiacán</a> </td> 
+   <td style="text-align: right;"><span style="display:none">057365.4</span>57,365.4&nbsp;km<sup>2</sup> (22,148.9&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">03026943</span>3,026,943 </td> 
+   <td style="text-align: center;">18 </td> 
+   <td style="text-align: center;"><span style="display:none">20</span><span data-sort-value="7001200000000000000♠">20</span> </td> 
+   <td><span style="display:none">18301014</span>1830-10-14<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Sonora" title="Sonora">Sonora</a><sup>2</sup> </td> 
+   <td style="text-align: center;"><i>Sonora</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Sonora.svg" class="image"><img alt="Coat of arms of Sonora.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Coat_of_arms_of_Sonora.svg/50px-Coat_of_arms_of_Sonora.svg.png" decoding="async" width="50" height="56" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Coat_of_arms_of_Sonora.svg/75px-Coat_of_arms_of_Sonora.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Coat_of_arms_of_Sonora.svg/100px-Coat_of_arms_of_Sonora.svg.png 2x" data-file-width="300" data-file-height="333"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Hermosillo" title="Hermosillo">Hermosillo</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Hermosillo" title="Hermosillo">Hermosillo</a> </td> 
+   <td style="text-align: right;"><span style="display:none">179354.7</span>179,354.7&nbsp;km<sup>2</sup> (69,249.2&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">02944840</span>2,944,840 </td> 
+   <td style="text-align: center;">72 </td> 
+   <td style="text-align: center;"><span style="display:none">12</span><span data-sort-value="7001120000000000000♠">12</span> </td> 
+   <td><span style="display:none">18240110</span>1824-01-10<sup id="cite_ref-googlebooks_12-13" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Tabasco" title="Tabasco">Tabasco</a><sup>5</sup> </td> 
+   <td style="text-align: center;"><i>Tabasco</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Tabasco.svg" class="image"><img alt="Coat of arms of Tabasco.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Coat_of_arms_of_Tabasco.svg/50px-Coat_of_arms_of_Tabasco.svg.png" decoding="async" width="50" height="75" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Coat_of_arms_of_Tabasco.svg/75px-Coat_of_arms_of_Tabasco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Coat_of_arms_of_Tabasco.svg/100px-Coat_of_arms_of_Tabasco.svg.png 2x" data-file-width="220" data-file-height="332"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Villahermosa" title="Villahermosa">Villahermosa</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Villahermosa" title="Villahermosa">Villahermosa</a> </td> 
+   <td style="text-align: right;"><span style="display:none">024730.9</span>24,730.9&nbsp;km<sup>2</sup> (9,548.7&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">02402598</span>2,402,598 </td> 
+   <td style="text-align: center;">17 </td> 
+   <td style="text-align: center;"><span style="display:none">13</span><span data-sort-value="7001130000000000000♠">13</span> </td> 
+   <td><span style="display:none">18240207</span>1824-02-07<sup id="cite_ref-googlebooks_12-14" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Tamaulipas" title="Tamaulipas">Tamaulipas</a><sup>4</sup> </td> 
+   <td style="text-align: center;"><i>Tamaulipas</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Tamaulipas.svg" class="image"><img alt="Coat of arms of Tamaulipas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Coat_of_arms_of_Tamaulipas.svg/50px-Coat_of_arms_of_Tamaulipas.svg.png" decoding="async" width="50" height="62" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Coat_of_arms_of_Tamaulipas.svg/75px-Coat_of_arms_of_Tamaulipas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Coat_of_arms_of_Tamaulipas.svg/100px-Coat_of_arms_of_Tamaulipas.svg.png 2x" data-file-width="300" data-file-height="372"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Ciudad_Victoria" title="Ciudad Victoria">Ciudad Victoria</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Reynosa" title="Reynosa">Reynosa</a> </td> 
+   <td style="text-align: right;"><span style="display:none">080249.3</span>80,249.3&nbsp;km<sup>2</sup> (30,984.4&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">03527735</span>3,527,735 </td> 
+   <td style="text-align: center;">43 </td> 
+   <td style="text-align: center;"><span style="display:none">14</span><span data-sort-value="7001140000000000000♠">14</span> </td> 
+   <td><span style="display:none">18240207</span>1824-02-07<sup id="cite_ref-googlebooks_12-15" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Tlaxcala" title="Tlaxcala">Tlaxcala</a> </td> 
+   <td style="text-align: center;"><i>Tlaxcala</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Tlaxcala.svg" class="image"><img alt="Coat of arms of Tlaxcala.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Coat_of_arms_of_Tlaxcala.svg/50px-Coat_of_arms_of_Tlaxcala.svg.png" decoding="async" width="50" height="60" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Coat_of_arms_of_Tlaxcala.svg/75px-Coat_of_arms_of_Tlaxcala.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Coat_of_arms_of_Tlaxcala.svg/100px-Coat_of_arms_of_Tlaxcala.svg.png 2x" data-file-width="300" data-file-height="360"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Tlaxcala_City" title="Tlaxcala City">Tlaxcala</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/San_Pablo_del_Monte" title="San Pablo del Monte">San Pablo del Monte</a> </td> 
+   <td style="text-align: right;"><span style="display:none">003996.6</span>3,996.6&nbsp;km<sup>2</sup> (1,543.1&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">01342977</span>1,342,977 </td> 
+   <td style="text-align: center;">60 </td> 
+   <td style="text-align: center;"><span style="display:none">22</span><span data-sort-value="7001220000000000000♠">22</span> </td> 
+   <td><span style="display:none">18561209</span>1856-12-09<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Veracruz" title="Veracruz">Veracruz</a> </td> 
+   <td style="text-align: center;"><i>Veracruz de<br>Ignacio de la Llave</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Veracruz.svg" class="image"><img alt="Coat of arms of Veracruz.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Coat_of_arms_of_Veracruz.svg/50px-Coat_of_arms_of_Veracruz.svg.png" decoding="async" width="50" height="61" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Coat_of_arms_of_Veracruz.svg/75px-Coat_of_arms_of_Veracruz.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Coat_of_arms_of_Veracruz.svg/100px-Coat_of_arms_of_Veracruz.svg.png 2x" data-file-width="350" data-file-height="425"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Xalapa" title="Xalapa">Xalapa</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Veracruz_(city)" title="Veracruz (city)">Veracruz</a> </td> 
+   <td style="text-align: right;"><span style="display:none">071823.5</span>71,823.5&nbsp;km<sup>2</sup> (27,731.2&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">08062579</span>8,062,579 </td> 
+   <td style="text-align: center;">212 </td> 
+   <td style="text-align: center;"><span style="display:none">07</span><span data-sort-value="7000700000000000000♠">7</span> </td> 
+   <td><span style="display:none">18231222</span>1823-12-22<sup id="cite_ref-googlebooks_12-16" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Yucat%C3%A1n" title="Yucatán">Yucatán</a><sup>3</sup> </td> 
+   <td style="text-align: center;"><i>Yucatán</i> </td> 
+   <td><a href="/wiki/File:Coat_of_arms_of_Yucatan.svg" class="image"><img alt="Coat of arms of Yucatan.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Coat_of_arms_of_Yucatan.svg/50px-Coat_of_arms_of_Yucatan.svg.png" decoding="async" width="50" height="65" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Coat_of_arms_of_Yucatan.svg/75px-Coat_of_arms_of_Yucatan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Coat_of_arms_of_Yucatan.svg/100px-Coat_of_arms_of_Yucatan.svg.png 2x" data-file-width="300" data-file-height="391"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/M%C3%A9rida,_Yucat%C3%A1n" title="Mérida, Yucatán">Mérida</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/M%C3%A9rida,_Yucat%C3%A1n" title="Mérida, Yucatán">Mérida</a> </td> 
+   <td style="text-align: right;"><span style="display:none">039524.4</span>39,524.4&nbsp;km<sup>2</sup> (15,260.5&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">02320898</span>2,320,898 </td> 
+   <td style="text-align: center;">106 </td> 
+   <td style="text-align: center;"><span style="display:none">08</span><span data-sort-value="7000800000000000000♠">8</span> </td> 
+   <td><span style="display:none">18231223</span>1823-12-23<sup id="cite_ref-googlebooks_12-17" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Zacatecas" title="Zacatecas">Zacatecas</a> </td> 
+   <td style="text-align: center;"><i>Zacatecas</i> </td> 
+   <td><a href="/wiki/File:Escudo_de_armas_de_la_Ciudad_y_Estado_de_Zacatecas.svg" class="image"><img alt="Escudo de armas de la Ciudad y Estado de Zacatecas.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Escudo_de_armas_de_la_Ciudad_y_Estado_de_Zacatecas.svg/50px-Escudo_de_armas_de_la_Ciudad_y_Estado_de_Zacatecas.svg.png" decoding="async" width="50" height="55" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Escudo_de_armas_de_la_Ciudad_y_Estado_de_Zacatecas.svg/75px-Escudo_de_armas_de_la_Ciudad_y_Estado_de_Zacatecas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Escudo_de_armas_de_la_Ciudad_y_Estado_de_Zacatecas.svg/100px-Escudo_de_armas_de_la_Ciudad_y_Estado_de_Zacatecas.svg.png 2x" data-file-width="703" data-file-height="770"></a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Zacatecas_City" title="Zacatecas City">Zacatecas</a> </td> 
+   <td style="text-align: center;"><a href="/wiki/Guadalupe,_Zacatecas" title="Guadalupe, Zacatecas">Guadalupe</a> </td> 
+   <td style="text-align: right;"><span style="display:none">075275.3</span>75,275.3&nbsp;km<sup>2</sup> (29,064.0&nbsp;sq&nbsp;mi) </td> 
+   <td style="text-align: right;"><span style="display:none">01622138</span>1,622,138 </td> 
+   <td style="text-align: center;">58 </td> 
+   <td style="text-align: center;"><span style="display:none">10</span><span data-sort-value="7001100000000000000♠">10</span> </td> 
+   <td><span style="display:none">18231223</span>1823-12-23<sup id="cite_ref-googlebooks_12-18" class="reference"><a href="#cite_note-googlebooks-12">[12]</a></sup> </td>
+  </tr> 
+ </tbody>
+</table>

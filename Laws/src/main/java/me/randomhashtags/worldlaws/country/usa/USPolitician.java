@@ -1,9 +1,6 @@
 package me.randomhashtags.worldlaws.country.usa;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.Jsoupable;
-import me.randomhashtags.worldlaws.LocalServer;
-import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.usa.federal.PreCongressBill;
 import me.randomhashtags.worldlaws.country.usa.federal.USCongress;
 import me.randomhashtags.worldlaws.country.usa.service.congress.USCongressPoliticians;
@@ -11,12 +8,12 @@ import me.randomhashtags.worldlaws.law.LegislationType;
 import me.randomhashtags.worldlaws.people.HumanName;
 import me.randomhashtags.worldlaws.people.PoliticalParty;
 import me.randomhashtags.worldlaws.people.Politician;
+import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
-import java.util.logging.Level;
 
 public final class USPolitician implements Politician {
     private final HumanName name;
@@ -77,7 +74,7 @@ public final class USPolitician implements Politician {
             }
             final String targetURL = url + "?pageSize=250&q=%7B%22sponsorship%22%3A%22" + type.name().toLowerCase() + "%22%7D";
             final USCongress congress = USCongress.getCongress(administration);
-            final Elements table = Jsoupable.getStaticDocumentElements(targetURL, "main.content div.main-wrapper div.search-row div.search-column-main ol.basic-search-results-list li.expanded");
+            final Elements table = Jsoupable.getStaticDocumentElements(FileType.PEOPLE_POLITICIANS_UNITED_STATES, targetURL, "main.content div.main-wrapper div.search-row div.search-column-main ol.basic-search-results-list li.expanded");
             final StringBuilder builder = new StringBuilder("[");
             boolean isFirst = true;
             for(Element element : table) {
@@ -101,8 +98,9 @@ public final class USPolitician implements Politician {
         final String governedTerritory = describingValues[1];
         final String district = describingValues.length > 2 ? describingValues[2] : null;
 
-        final String url = "https://www.congress.gov" + profileSlug;
-        final Document doc = Jsoupable.getStaticDocument(url, true);
+        final String congressURLPrefix = "https://www.congress.gov";
+        final String url = congressURLPrefix + profileSlug;
+        final Document doc = Jsoupable.getStaticDocument(FileType.PEOPLE_POLITICIANS_UNITED_STATES, url, true);
         String imageURL = null;
         HumanName name = null;
         if(doc != null) {
@@ -118,7 +116,7 @@ public final class USPolitician implements Politician {
             final Elements images = doc.select("div.overview_wrapper div.overview div.overview-member-row div.overview-member-column-picture a[href] img");
             imageURL = images.isEmpty() ? null : images.get(0).attr("src");
         }
-        final USPolitician politician = new USPolitician(name, governedTerritory, district, party, imageURL == null ? "null" : "https://www.congress.gov" + imageURL, url, null);
+        final USPolitician politician = new USPolitician(name, governedTerritory, district, party, imageURL == null ? "null" : congressURLPrefix + imageURL, url, null);
         final String uniqueID = name != null ? name.getFirstName() + name.getMiddleName() + name.getLastName() : "";
         USCongressPoliticians.POLITICIANS.put(uniqueID, politician);
         handler.handlePolitician(politician);

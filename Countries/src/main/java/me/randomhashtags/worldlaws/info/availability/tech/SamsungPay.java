@@ -35,7 +35,7 @@ public enum SamsungPay implements CountryAvailabilityService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Samsung_Pay";
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements trs = getAvailabilityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         final EventSource source = new EventSource("Wikipedia: Samsung Pay", url);
         final EventSources sources = new EventSources(source);

@@ -6,11 +6,11 @@ import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.usa.service.CongressService;
 import me.randomhashtags.worldlaws.people.HumanName;
+import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.HashMap;
-import java.util.logging.Level;
 
 public enum UnitedStatesProject implements RestAPI, CongressService {
     INSTANCE;

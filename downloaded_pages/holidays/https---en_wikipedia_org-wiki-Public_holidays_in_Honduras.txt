@@ -1,0 +1,708 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Honduras - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBXdjHxPYD0wKt8Eeb8H6gAAAQI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Honduras","wgTitle":"Public holidays in Honduras","wgCurRevisionId":1003269936,"wgRevisionId":1003269936,"wgArticleId":37942363,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Spanish-language sources (es)","Articles with short description","Short description is different from Wikidata","Public holidays in Honduras","Lists of public holidays by country","Events in Honduras"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Public_holidays_in_Honduras","wgRelevantArticleId":37942363,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q7257792"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Honduras"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Honduras&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Honduras&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Honduras"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Honduras rootpage-Public_holidays_in_Honduras skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Honduras</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p><b>Public holidays in Honduras</b> are centered on Christianity and the commemoration of events in Honduran history. Each celebration is very important to many families across this country. They are often celebrated with extended family members, and friends. On a few of the most important holidays, such as Independence Day and holy week parades and processions are held from early morning to later in the afternoon or evening. </p> 
+      <h2><span class="mw-headline" id="Public_holidays">Public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Honduras&amp;action=edit&amp;section=1" title="Edit section: Public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table border="1" align="left" cellpadding="2" cellspacing="0"> 
+       <tbody>
+        <tr style="background:#efefef;"> 
+         <th>Date </th> 
+         <th>English Name </th> 
+         <th>Spanish Name </th> 
+         <th>Comments </th>
+        </tr> 
+        <tr> 
+         <td>January 1 </td> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> </td> 
+         <td>Año Nuevo </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>April 14 </td> 
+         <td>Americas Day </td> 
+         <td>Día de la Americas </td> 
+         <td>Commemorates the establishment of the International Union of American Republics at the First International Conference of American States in 1890. </td>
+        </tr> 
+        <tr> 
+         <td>March–April </td> 
+         <td><a href="/wiki/Holy_Week" title="Holy Week">Holy Week</a> (Especially <a href="/wiki/Maundy_Thursday" title="Maundy Thursday">Maundy Thursday</a>, <a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> and <a href="/wiki/Holy_Saturday" title="Holy Saturday">Holy Saturday</a>) </td> 
+         <td>Semana Santa (Jueves Santo, Viernes Santo, Sábado Santo) </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>May 1 </td> 
+         <td><a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a> </td> 
+         <td>Día de Trabajo </td> 
+         <td><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">International Workers' Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>September 15 </td> 
+         <td><a href="/wiki/Independence_Day" class="mw-redirect" title="Independence Day">Independence Day</a> </td> 
+         <td>Día de la Independencia </td> 
+         <td><a href="/wiki/Act_of_Independence_of_Central_America" title="Act of Independence of Central America">Act of Independence of Central America</a>, 1821 </td>
+        </tr> 
+        <tr> 
+         <td>October 3 (celebration may vary) </td> 
+         <td><a href="/wiki/Francisco_Moraz%C3%A1n" title="Francisco Morazán">Francisco Morazán</a>'s Day/Soldier's Day </td> 
+         <td>Día del Soldado </td> 
+         <td>Morazán was president of the <a href="/wiki/Federal_Republic_of_Central_America" title="Federal Republic of Central America">Federal Republic of Central America</a>, 1830–1839.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>October 12 </td> 
+         <td><a href="/wiki/Columbus_Day" title="Columbus Day">Discovery of America Day</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </td> 
+         <td>Día del Descubrimiento de América </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>October 21 </td> 
+         <td><a href="/wiki/Armed_Forces_Day" title="Armed Forces Day">Armed Forces Day</a> </td> 
+         <td>Día de las Fuerzas Armadas </td> 
+         <td>In 1956 the army supported the people against dictator Julio Lozano Díaz.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>December 25 </td> 
+         <td><a href="/wiki/Christmas" title="Christmas">Christmas</a> </td> 
+         <td>Navidad </td> 
+         <td> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p>
+      <div style="clear:both;"></div> 
+      <h3><span class="mw-headline" id="Non-obligatory">Non-obligatory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Honduras&amp;action=edit&amp;section=2" title="Edit section: Non-obligatory">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <table border="1" align="left" cellpadding="2" cellspacing="0"> 
+       <tbody>
+        <tr style="background:#efefef;"> 
+         <th>Date </th> 
+         <th>English Name </th> 
+         <th>Spanish Name </th> 
+         <th>Comments </th>
+        </tr> 
+        <tr> 
+         <td>January 25 </td> 
+         <td>Women's Day </td> 
+         <td>Día de la Mujer </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>February 3 </td> 
+         <td><a href="/wiki/Virgin_of_Suyapa" class="mw-redirect" title="Virgin of Suyapa">Virgin of Suyapa</a>'s Day </td> 
+         <td>Nuestra Señora de Suyapa </td> 
+         <td>Our Lady of Suyapa is the Patroness of Honduras. </td>
+        </tr> 
+        <tr> 
+         <td>March 19 </td> 
+         <td>Father's Day </td> 
+         <td>Día del Padre </td> 
+         <td>Coincides with <a href="/wiki/Saint_Joseph" title="Saint Joseph">Saint Joseph</a>'s Day </td>
+        </tr> 
+        <tr> 
+         <td>April 19 </td> 
+         <td>Spanish Language Day </td> 
+         <td><a href="https://es.wikipedia.org/wiki/D%C3%ADa_del_Idioma_Espa%C3%B1ol_en_las_Naciones_Unidas" class="extiw" title="es:Día del Idioma Español en las Naciones Unidas">Día del Idioma Española</a> </td> 
+         <td>Honors the Spanish language and culture; coincides with the death of <a href="/wiki/Miguel_de_Cervantes" title="Miguel de Cervantes">Miguel de Cervantes</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>Second Sunday of May<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </td> 
+         <td><a href="/wiki/Mother%27s_Day" title="Mother's Day">Mother's Day</a> </td> 
+         <td>Día de la Madre </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>June 11 </td> 
+         <td>Student's Day </td> 
+         <td>Día del Estudiante </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>July 20 </td> 
+         <td><a href="/wiki/Lempira_(Lenca_ruler)" title="Lempira (Lenca ruler)">Lempira</a> Day </td> 
+         <td>Día de Lempira </td> 
+         <td>Dedicated to a leader of the Lenca people who led the resistance against the Spanish <a href="/wiki/Conquistador" title="Conquistador">conquistadors</a> in the 1530s.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>September 1 </td> 
+         <td>National Flag's Day </td> 
+         <td>Día de la Bandera </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>September 10 </td> 
+         <td>Children's Day </td> 
+         <td>Día del Niño </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>September 17 </td> 
+         <td>Teacher's Day </td> 
+         <td>Día del Maestro </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>December 24 </td> 
+         <td><a href="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</a> </td> 
+         <td>Noche Buena </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>December 31 </td> 
+         <td><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">New Year's Eve</a> </td> 
+         <td>Vispera de Año Nuevo </td> 
+         <td> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <div style="clear:both;"></div> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Honduras&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/honduras/francisco-moranzas-birthday">"Francisco Morazan's Birthday in Honduras in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Francisco+Morazan%27s+Birthday+in+Honduras+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fhonduras%2Ffrancisco-moranzas-birthday&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Honduras" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/honduras/discovery-of-america-day">"Discovery of America Day in Honduras in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Discovery+of+America+Day+in+Honduras+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fhonduras%2Fdiscovery-of-america-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Honduras" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/honduras/honduran-army-day">"Army Day in Honduras in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Army+Day+in+Honduras+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fhonduras%2Fhonduran-army-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Honduras" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://nacerenhonduras.com/2009/03/feriados-nacionales-de-honduras.html">"Feriados Nacionales de Honduras - Nacer en Honduras"</a>. <i>Nacerenhonduras.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nacerenhonduras.com&amp;rft.atitle=Feriados+Nacionales+de+Honduras+-+Nacer+en+Honduras&amp;rft_id=http%3A%2F%2Fnacerenhonduras.com%2F2009%2F03%2Fferiados-nacionales-de-honduras.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Honduras" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.un.org/es/observances/spanish-language-day">"Día del Idioma Español en las Naciones Unidas | Naciones Unidas"</a>. <i>United Nations</i> (in Spanish). Naciones Unidos<span class="reference-accessdate">. Retrieved <span class="nowrap">January 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=United+Nations&amp;rft.atitle=D%C3%ADa+del+Idioma+Espa%C3%B1ol+en+las+Naciones+Unidas+%7C+Naciones+Unidas&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fes%2Fobservances%2Fspanish-language-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Honduras" class="Z3988"></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/honduras/mothers-day">"Mother's Day in Honduras in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Mother%27s+Day+in+Honduras+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fhonduras%2Fmothers-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Honduras" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://anydayguide.com/calendar/3287">"Lempira Day in Honduras / July 20, 2021"</a>. <i>AnydayGuide</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AnydayGuide&amp;rft.atitle=Lempira+Day+in+Honduras+%2F+July+20%2C+2021&amp;rft_id=https%3A%2F%2Fanydayguide.com%2Fcalendar%2F3287&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Honduras" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Honduras_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Honduras_topics" title="Template:Honduras topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Honduras_topics" title="Template talk:Honduras topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Honduras_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Honduras_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Honduras" title="Honduras">Honduras</a>&nbsp;<a href="/wiki/Index_of_Honduras-related_articles" title="Index of Honduras-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Honduras" title="History of Honduras">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Cop%C3%A1n" title="Copán">Pre-Columbian history</a></li> 
+             <li><a href="/wiki/Spanish_conquest_of_Honduras" title="Spanish conquest of Honduras">Spanish conquest of Honduras</a></li> 
+             <li><a href="/wiki/Captaincy_General_of_Guatemala" title="Captaincy General of Guatemala">Captaincy General <span style="font-size:85%;">(Guatemalan)</span></a></li> 
+             <li><a href="/wiki/Federal_Republic_of_Central_America" title="Federal Republic of Central America">Federal Republic of Central America</a></li> 
+             <li><a href="/wiki/History_of_Honduras_(to_1838)" title="History of Honduras (to 1838)">History to 1838</a></li> 
+             <li><a href="/wiki/History_of_Honduras_(1838%E2%80%931932)" title="History of Honduras (1838–1932)">1838–1932</a></li> 
+             <li><a href="/wiki/History_of_Honduras_(1932%E2%80%931982)" class="mw-redirect" title="History of Honduras (1932–1982)">1932–1982</a></li> 
+             <li><a href="/wiki/History_of_Honduras_(1982%E2%80%93present)" title="History of Honduras (1982–present)">since 1982</a></li> 
+             <li><a href="/wiki/2009_Honduran_constitutional_crisis" title="2009 Honduran constitutional crisis">2009 constitutional crisis</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Coat_of_arms_of_Honduras" title="Coat of arms of Honduras"><img alt="Coat of arms of Honduras.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Coat_of_arms_of_Honduras.svg/70px-Coat_of_arms_of_Honduras.svg.png" decoding="async" width="70" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Coat_of_arms_of_Honduras.svg/105px-Coat_of_arms_of_Honduras.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Coat_of_arms_of_Honduras.svg/140px-Coat_of_arms_of_Honduras.svg.png 2x" data-file-width="600" data-file-height="710"></a> 
+            <div style="padding-top:1.0em;">
+             <a href="/wiki/Flag_of_Honduras" title="Flag of Honduras"><img alt="Flag of Honduras.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/70px-Flag_of_Honduras.svg.png" decoding="async" width="70" height="35" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/105px-Flag_of_Honduras.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/140px-Flag_of_Honduras.svg.png 2x" data-file-width="1260" data-file-height="630"></a>
+            </div>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Honduras" title="Geography of Honduras">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_cities_in_Honduras" class="mw-redirect" title="List of cities in Honduras">Cities</a></li> 
+                 <li><a href="/wiki/List_of_ecoregions_in_Honduras" title="List of ecoregions in Honduras">Ecoregions</a></li> 
+                 <li><a href="/wiki/Category:Fauna_of_Honduras" title="Category:Fauna of Honduras">Fauna</a></li> 
+                 <li><a href="/wiki/Category:Flora_of_Honduras" title="Category:Flora of Honduras">Flora</a></li> 
+                 <li><a href="/wiki/List_of_islands_of_Honduras" title="List of islands of Honduras">Islands</a></li> 
+                 <li><a href="/wiki/Category:Mountains_of_Honduras" title="Category:Mountains of Honduras">Mountains</a></li> 
+                 <li><a href="/wiki/List_of_national_parks_of_Honduras" title="List of national parks of Honduras">National parks</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Honduras" title="List of rivers of Honduras">Rivers</a></li> 
+                 <li><a href="/wiki/List_of_volcanoes_in_Honduras" title="List of volcanoes in Honduras">Volcanoes</a></li> 
+                 <li><a href="/wiki/Category:World_Heritage_Sites_in_Honduras" title="Category:World Heritage Sites in Honduras">World Heritage Sites</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Honduras" title="Politics of Honduras">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Administrative_divisions_of_Honduras" class="mw-redirect" title="Administrative divisions of Honduras">Administrative divisions</a></li> 
+                 <li><a href="/wiki/Constitution_of_Honduras" title="Constitution of Honduras">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Honduras" title="Elections in Honduras">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Honduras" title="Foreign relations of Honduras">Foreign relations</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Honduras" title="Human rights in Honduras">Human rights</a></li> 
+                 <li><a href="/wiki/Law_enforcement_in_Honduras" title="Law enforcement in Honduras">Law enforcement</a></li> 
+                 <li><a href="/wiki/Military_of_Honduras" class="mw-redirect" title="Military of Honduras">Military</a></li> 
+                 <li><a href="/wiki/National_Congress_of_Honduras" title="National Congress of Honduras">National Congress</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Honduras" title="List of political parties in Honduras">Political parties</a></li> 
+                 <li><a href="/wiki/President_of_Honduras" title="President of Honduras">President</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_presidents_of_Honduras" title="List of presidents of Honduras">list</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Supreme_Court_of_Honduras" title="Supreme Court of Honduras">Supreme Court</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Honduras" title="Economy of Honduras">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Central_Bank_of_Honduras" title="Central Bank of Honduras">Central bank</a></li> 
+                 <li><a href="/wiki/Honduran_lempira" title="Honduran lempira">Lempira <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Electricity_sector_in_Honduras" title="Electricity sector in Honduras">Energy</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Honduras" title="Telecommunications in Honduras">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Honduras" title="Tourism in Honduras">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Honduras" title="Transport in Honduras">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Honduran_society" title="Category:Honduran society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Crime_in_Honduras" title="Crime in Honduras">Crime</a></li> 
+                 <li><a href="/wiki/Demographics_of_Honduras" title="Demographics of Honduras">Demographics</a></li> 
+                 <li><a href="/wiki/Education_in_Honduras" title="Education in Honduras">Education</a></li> 
+                 <li><a href="/wiki/Health_in_Honduras" title="Health in Honduras">Health</a></li> 
+                 <li><a href="/wiki/Languages_of_Honduras" title="Languages of Honduras">Languages</a></li> 
+                 <li><a href="/wiki/Religion_in_Honduras" title="Religion in Honduras">Religion</a></li> 
+                 <li><a href="/wiki/Water_supply_and_sanitation_in_Honduras" title="Water supply and sanitation in Honduras">Water supply and sanitation</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Honduras" title="Culture of Honduras">Culture</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/National_Anthem_of_Honduras" title="National Anthem of Honduras">Anthem</a></li> 
+                 <li><a href="/wiki/Coat_of_arms_of_Honduras" title="Coat of arms of Honduras">Coat of arms</a></li> 
+                 <li><a href="/wiki/Honduran_cuisine" title="Honduran cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Flag_of_Honduras" title="Flag of Honduras">Flag</a></li> 
+                 <li><a href="/wiki/Honduran_literature" title="Honduran literature">Literature</a></li> 
+                 <li><a href="/wiki/Mass_media_in_Honduras" title="Mass media in Honduras">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Honduras" title="Music of Honduras">Music</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Sport_in_Honduras" title="Sport in Honduras">Sport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Honduras" title="Outline of Honduras">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Honduras-related_articles" title="Index of Honduras-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Honduras" title="Category:Honduras">Category</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_North_America" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:North_America_topic" title="Template:North America topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:North_America_topic" title="Template talk:North America topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:North_America_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_North_America" style="font-size:114%;margin:0 4em">
+            Public holidays in North America
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Antigua_and_Barbuda" title="Public holidays in Antigua and Barbuda">Antigua and Barbuda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Bahamas" title="Public holidays in the Bahamas">Bahamas</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Barbados" title="Public holidays in Barbados">Barbados</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belize" title="Public holidays in Belize">Belize</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Canada" title="Public holidays in Canada">Canada</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Costa_Rica" title="Public holidays in Costa Rica">Costa Rica</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cuba" title="Public holidays in Cuba">Cuba</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Dominica" title="Public holidays in Dominica">Dominica</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Dominican_Republic" title="Public holidays in the Dominican Republic">Dominican Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_El_Salvador" class="mw-redirect" title="Public holidays in El Salvador">El Salvador</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Grenada" title="Public holidays in Grenada">Grenada</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guatemala" title="Public holidays in Guatemala">Guatemala</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Haiti" title="Public holidays in Haiti">Haiti</a></li> 
+             <li><a class="mw-selflink selflink">Honduras</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jamaica" title="Public holidays in Jamaica">Jamaica</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mexico" title="Public holidays in Mexico">Mexico</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nicaragua" title="Public holidays in Nicaragua">Nicaragua</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Panama" title="Public holidays in Panama">Panama</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Kitts_and_Nevis" title="Public holidays in Saint Kitts and Nevis">Saint Kitts and Nevis</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Lucia" title="Public holidays in Saint Lucia">Saint Lucia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Vincent_and_the_Grenadines" title="Public holidays in Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Trinidad_and_Tobago" title="Public holidays in Trinidad and Tobago">Trinidad and Tobago</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_States" title="Public holidays in the United States">United States</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            Dependencies and
+            <br>other territories
+           </div></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Anguilla" title="Public holidays in Anguilla">Anguilla</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Aruba" class="mw-redirect" title="Public holidays in Aruba">Aruba</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bermuda" title="Public holidays in Bermuda">Bermuda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bonaire" title="Public holidays in Bonaire">Bonaire</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_British_Virgin_Islands" title="Public holidays in the British Virgin Islands">British Virgin Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cayman_Islands" title="Public holidays in the Cayman Islands">Cayman Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cura%C3%A7ao" title="Public holidays in Curaçao">Curaçao</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greenland" title="Public holidays in Greenland">Greenland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guadeloupe" title="Public holidays in Guadeloupe">Guadeloupe</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Martinique" title="Public holidays in Martinique">Martinique</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montserrat" title="Public holidays in Montserrat">Montserrat</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Puerto_Rico" title="Public holidays in Puerto Rico">Puerto Rico</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Barth%C3%A9lemy" title="Public holidays in Saint Barthélemy">Saint Barthélemy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Collectivity_of_Saint_Martin" title="Public holidays in the Collectivity of Saint Martin">Saint Martin</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Pierre_and_Miquelon" title="Public holidays in Saint Pierre and Miquelon">Saint Pierre and Miquelon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saba" title="Public holidays in Saba">Saba</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sint_Eustatius" title="Public holidays in Sint Eustatius">Sint Eustatius</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sint_Maarten" title="Public holidays in Sint Maarten">Sint Maarten</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Turks_and_Caicos_Islands" title="Public holidays in the Turks and Caicos Islands">Turks and Caicos Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_States_Virgin_Islands" title="Public holidays in the United States Virgin Islands">United States Virgin Islands</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1372
+Cached time: 20210130194104
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.344 seconds
+Real time usage: 0.469 seconds
+Preprocessor visited node count: 1350/1000000
+Post‐expand include size: 64420/2097152 bytes
+Template argument size: 7238/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 21/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 23108/5000000 bytes
+Lua time usage: 0.177/10.000 seconds
+Lua memory usage: 4736148/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  406.560      1 -total
+ 40.00%  162.628      1 Template:Reflist
+ 36.51%  148.433      7 Template:Cite_web
+ 35.55%  144.534      6 Template:Navbox
+ 31.52%  128.153      1 Template:Honduras_topics
+ 30.55%  124.190      1 Template:Country_topics
+ 21.45%   87.199      1 Template:Short_description
+ 11.77%   47.862      1 Template:Pagetype
+  6.16%   25.024      4 Template:Main_other
+  5.12%   20.813      1 Template:SDcat
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:37942363-0!canonical and timestamp 20210130194104 and revision id 1003269936. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Honduras&amp;oldid=1003269936">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Honduras&amp;oldid=1003269936</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Honduras" title="Category:Public holidays in Honduras">Public holidays in Honduras</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Events_in_Honduras" title="Category:Events in Honduras">Events in Honduras</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_Spanish-language_sources_(es)" title="Category:CS1 Spanish-language sources (es)">CS1 Spanish-language sources (es)</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Honduras" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Honduras" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Honduras" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Honduras" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Honduras">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Honduras&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Honduras&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Honduras" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Honduras" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Honduras&amp;oldid=1003269936" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Honduras&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Honduras&amp;id=1003269936&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257792" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Honduras&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Honduras&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_Honduras" title="Anexo:Días festivos en Honduras – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%98%A8%EB%91%90%EB%9D%BC%EC%8A%A4%EC%9D%98_%EA%B3%B5%ED%9C%B4%EC%9D%BC" title="온두라스의 공휴일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257792#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 28 January 2021, at 05:28<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Honduras&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.469","ppvisitednodes":{"value":1350,"limit":1000000},"postexpandincludesize":{"value":64420,"limit":2097152},"templateargumentsize":{"value":7238,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":21,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":23108,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  406.560      1 -total"," 40.00%  162.628      1 Template:Reflist"," 36.51%  148.433      7 Template:Cite_web"," 35.55%  144.534      6 Template:Navbox"," 31.52%  128.153      1 Template:Honduras_topics"," 30.55%  124.190      1 Template:Country_topics"," 21.45%   87.199      1 Template:Short_description"," 11.77%   47.862      1 Template:Pagetype","  6.16%   25.024      4 Template:Main_other","  5.12%   20.813      1 Template:SDcat"]},"scribunto":{"limitreport-timeusage":{"value":"0.177","limit":"10.000"},"limitreport-memusage":{"value":4736148,"limit":52428800}},"cachereport":{"origin":"mw1372","timestamp":"20210130194104","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Honduras","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Honduras","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7257792","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7257792","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-12-16T03:27:48Z","dateModified":"2021-01-28T05:28:40Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":168,"wgHostname":"mw1411"});});</script> 
+ </body>
+</html>

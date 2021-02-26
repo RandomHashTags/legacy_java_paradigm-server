@@ -45,11 +45,12 @@ public enum LegalityProstitution implements CountryLegalityService {
         values.put(5, "Decriminalized");
     }
 
+    @Override
     public void refresh(CompletionHandler handler) {
         loadValues();
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Prostitution_law";
-        final Elements hrefs = getDocumentElements(url, "div.mw-parser-output h3 + p + ul");
+        final Elements hrefs = getLegalityDocumentElements(url, "div.mw-parser-output h3 + p + ul");
         final EventSource source = new EventSource("Wikipedia: Prostitution law", url);
         final EventSources sources = new EventSources(source);
         for(int i = 0; i < 6; i++) {

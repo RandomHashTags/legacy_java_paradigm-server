@@ -1,0 +1,107 @@
+<table class="wikitable"> 
+ <tbody>
+  <tr> 
+   <th>Map</th> 
+   <th>Governorate</th> 
+   <th>Population (2010)</th> 
+   <th>Area (km<sup>2</sup>) </th> 
+   <th>Population <p>Density </p> </th> 
+   <th>Constituencies (2002-2014) </th>
+  </tr> 
+  <tr> 
+   <td rowspan="5"><a href="/wiki/File:New_Governorates_of_Bahrain_2014.svg" class="image"><img alt="New Governorates of Bahrain 2014.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/New_Governorates_of_Bahrain_2014.svg/200px-New_Governorates_of_Bahrain_2014.svg.png" decoding="async" width="200" height="284" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/New_Governorates_of_Bahrain_2014.svg/300px-New_Governorates_of_Bahrain_2014.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/New_Governorates_of_Bahrain_2014.svg/400px-New_Governorates_of_Bahrain_2014.svg.png 2x" data-file-width="300" data-file-height="426"></a></td> 
+   <td></td> 
+   <td></td> 
+   <td> </td> 
+   <td></td> 
+   <td rowspan="5">
+    <div class="thumb tright">
+     <div class="thumbinner" style="width:222px;">
+      <a href="/wiki/File:Constituencies_in_Bahrain_governorates.png" class="image"><img alt="Constituencies in Bahrain governorates.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Constituencies_in_Bahrain_governorates.png/220px-Constituencies_in_Bahrain_governorates.png" decoding="async" width="220" height="316" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Constituencies_in_Bahrain_governorates.png/330px-Constituencies_in_Bahrain_governorates.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Constituencies_in_Bahrain_governorates.png/440px-Constituencies_in_Bahrain_governorates.png 2x" data-file-width="567" data-file-height="814"></a> 
+      <div class="thumbcaption">
+       <div class="magnify">
+        <a href="/wiki/File:Constituencies_in_Bahrain_governorates.png" class="internal" title="Enlarge"></a>
+       </div>
+      </div>
+     </div>
+    </div> </td>
+  </tr> 
+  <tr> 
+   <td><b>Yellow</b> <a href="/wiki/Capital_Governorate,_Bahrain" title="Capital Governorate, Bahrain">Capital Governorate</a> </td> 
+   <td>329,510 </td> 
+   <td>68 </td> 
+   <td>4,845.7 </td>
+  </tr> 
+  <tr> 
+   <td><b>Gold</b> <a href="/wiki/Muharraq_Governorate" title="Muharraq Governorate">Muharraq Governorate</a> </td> 
+   <td>189,114 </td> 
+   <td>57 </td> 
+   <td>3,317.7 </td>
+  </tr> 
+  <tr> 
+   <td><b>Light Blue</b> <a href="/wiki/Northern_Governorate" title="Northern Governorate">Northern Governorate</a> </td> 
+   <td>276,949 </td> 
+   <td>175 </td> 
+   <td>1,582.5 </td>
+  </tr> 
+  <tr> 
+   <td><b>Pink</b> <a href="/wiki/Southern_Governorate" title="Southern Governorate">Southern Governorate</a> </td> 
+   <td>101,456 </td> 
+   <td>480 </td> 
+   <td>211.3 </td>
+  </tr>
+ </tbody>
+</table>
+<table class="wikitable"> 
+ <tbody>
+  <tr> 
+   <th>Governorate</th> 
+   <th>Population <br> (2010)</th> 
+   <th>Non-nationals <br> (2010)</th> 
+   <th>Nationals <br> (2010)</th> 
+   <th>Divisions <br> (2018) </th>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bahrain_Capital_Governorate_Flag.svg/20px-Bahrain_Capital_Governorate_Flag.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bahrain_Capital_Governorate_Flag.svg/31px-Bahrain_Capital_Governorate_Flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bahrain_Capital_Governorate_Flag.svg/40px-Bahrain_Capital_Governorate_Flag.svg.png 2x" data-file-width="640" data-file-height="480"></span> <a href="/wiki/Capital_Governorate_(Bahrain)" class="mw-redirect" title="Capital Governorate (Bahrain)">Capital Governorate</a> </td> 
+   <td>329,510</td> 
+   <td>261,921</td> 
+   <td>67,589 </td> 
+   <td>10 </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bahrain_Muharraq_Governorate_Flag.svg/20px-Bahrain_Muharraq_Governorate_Flag.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bahrain_Muharraq_Governorate_Flag.svg/31px-Bahrain_Muharraq_Governorate_Flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bahrain_Muharraq_Governorate_Flag.svg/40px-Bahrain_Muharraq_Governorate_Flag.svg.png 2x" data-file-width="640" data-file-height="480"></span> <a href="/wiki/Muharraq_Governorate" title="Muharraq Governorate">Muharraq Governorate</a> </td> 
+   <td>189,114</td> 
+   <td>86,870</td> 
+   <td>102,244 </td> 
+   <td>8 </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bahrain_Northern_Governorate_Flag.svg/20px-Bahrain_Northern_Governorate_Flag.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bahrain_Northern_Governorate_Flag.svg/31px-Bahrain_Northern_Governorate_Flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bahrain_Northern_Governorate_Flag.svg/40px-Bahrain_Northern_Governorate_Flag.svg.png 2x" data-file-width="640" data-file-height="480"></span> <a href="/wiki/Northern_Governorate" title="Northern Governorate">Northern Governorate</a> </td> 
+   <td>276,949</td> 
+   <td>82,887</td> 
+   <td>194,062 </td> 
+   <td>12 </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bahrain_Southern_Governorate_Flag.svg/20px-Bahrain_Southern_Governorate_Flag.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bahrain_Southern_Governorate_Flag.svg/31px-Bahrain_Southern_Governorate_Flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bahrain_Southern_Governorate_Flag.svg/40px-Bahrain_Southern_Governorate_Flag.svg.png 2x" data-file-width="640" data-file-height="480"></span> <a href="/wiki/Southern_Governorate" title="Southern Governorate">Southern Governorate</a> </td> 
+   <td>101,456</td> 
+   <td>68,525</td> 
+   <td>32,931 </td> 
+   <td>10 </td>
+  </tr> 
+  <tr> 
+   <td>Other </td> 
+   <td>11,237</td> 
+   <td>11,237</td> 
+   <td> </td> 
+   <td> </td>
+  </tr> 
+  <tr> 
+   <td><span class="flagicon"><a href="/wiki/Bahrain" title="Bahrain"><img alt="Bahrain" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/35px-Flag_of_Bahrain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/46px-Flag_of_Bahrain.svg.png 2x" data-file-width="1500" data-file-height="900"></a></span> <a href="/wiki/Bahrain" title="Bahrain">Total</a> </td> 
+   <td>1,234,571</td> 
+   <td>666,172</td> 
+   <td>568,399 </td> 
+   <td>40 </td>
+  </tr>
+ </tbody>
+</table>

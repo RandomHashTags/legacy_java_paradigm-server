@@ -1,14 +1,14 @@
 package me.randomhashtags.worldlaws.info.availability;
 
 public enum CountryAvailabilityCategory {
+    APP_STORE,
     APPLE,
-    DISNEY,
     ENTERTAINMENT,
     ENTERTAINMENT_STREAMING,
     ENTERTAINMENT_GAMING,
     ENTERTAINMENT_MUSIC,
-    GOOGLE,
-    MICROSOFT,
+    ENTERTAINMENT_PODCAST,
+    NEWS,
     PAYMENT_METHOD
     ;
 }

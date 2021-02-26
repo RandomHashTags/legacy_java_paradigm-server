@@ -1,0 +1,1339 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Russia - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBbjqQpAMMMAAvkFf9MAAADT","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Russia","wgTitle":"Public holidays in Russia","wgCurRevisionId":998842142,"wgRevisionId":998842142,"wgArticleId":873520,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from December 2017","Articles with permanently dead external links","Articles with short description","Short description is different from Wikidata","Articles needing additional references from March 2013",
+"All articles needing additional references","Articles containing Russian-language text","Public holidays in Russia","Lists of public holidays by country","Observances in Russia"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Russia","wgRelevantArticleId":873520,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,
+"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1401527"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Russia"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Russia"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Russia rootpage-Public_holidays_in_Russia skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Russia</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div role="note" class="hatnote navigation-not-searchable">
+       See also: <a href="/wiki/Public_holidays_in_the_Soviet_Union" title="Public holidays in the Soviet Union">Public holidays in the Soviet Union</a>
+      </div> 
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Russia&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Public+holidays+in+Russia%22">"Public holidays in Russia"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Public+holidays+in+Russia%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Public+holidays+in+Russia%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Public+holidays+in+Russia%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Public+holidays+in+Russia%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Public+holidays+in+Russia%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> <small class="date-container"><i>(<span class="date">March 2013</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <style data-mw-deduplicate="TemplateStyles:r1003042402">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%}.mw-parser-output .sidebar a{white-space:nowrap}.mw-parser-output .sidebar-wraplinks a{white-space:normal}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding-bottom:0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em 0}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding-top:0.2em;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding-top:0.4em;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.4em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding-top:0}.mw-parser-output .sidebar-image{padding:0.2em 0 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em}.mw-parser-output .sidebar-content{padding:0 0.1em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.4em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%}.mw-parser-output .sidebar-collapse .sidebar-navbar{padding-top:0.6em}.mw-parser-output .sidebar-collapse .mw-collapsible-toggle{margin-top:0.2em}.mw-parser-output .sidebar-list-title{text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none;margin-left:0!important;margin-right:0!important}}</style>
+      <table class="sidebar sidebar-collapse vertical-navbox nomobile hlist">
+       <tbody>
+        <tr>
+         <td class="sidebar-pretitle">Part of <a href="/wiki/Category:Russia" title="Category:Russia">a series</a> on the</td>
+        </tr>
+        <tr>
+         <th class="sidebar-title-with-pretitle" style="border-bottom: 1px solid #aaa"><span class="wraplinks"><a href="/wiki/Culture_of_Russia" class="mw-redirect" title="Culture of Russia">Culture of Russia</a></span></th>
+        </tr>
+        <tr>
+         <td class="sidebar-image photo"><a href="/wiki/File:Flag_of_Russia.svg" class="image"><img alt="Flag of Russia.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/100px-Flag_of_Russia.svg.png" decoding="async" width="100" height="67" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/150px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/200px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600"></a></td>
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/History_of_Russia" title="History of Russia">History</a></th>
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Ethnic_groups_in_Russia" title="Ethnic groups in Russia">People</a></th>
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Languages_of_Russia" title="Languages of Russia">Languages</a></th>
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Russian_traditions_and_superstitions" title="Russian traditions and superstitions">Traditions</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Mythology and folklore
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Mythology_of_Russia" class="mw-redirect" title="Mythology of Russia">Mythology</a></li> 
+             <li><a href="/wiki/Folklore_of_Russia" title="Folklore of Russia">folklore</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Cuisine_of_Russia" class="mw-redirect" title="Cuisine of Russia">Cuisine</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a class="mw-selflink selflink">Festivals</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a class="mw-selflink selflink">Public holidays</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Religion_in_Russia" title="Religion in Russia">Religion</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/Art_of_Russia" class="mw-redirect" title="Art of Russia">Art</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Architecture_of_Russia" class="mw-redirect" title="Architecture of Russia">Architecture</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Literature_of_Russia" class="mw-redirect" title="Literature of Russia">Literature</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Music and performing arts
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Music_of_Russia" title="Music of Russia">Music</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/Media_in_Russia" class="mw-redirect" title="Media in Russia">Media</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Television_in_Russia" title="Television in Russia">Television</a></li> 
+             <li><a href="/wiki/Cinema_of_Russia" title="Cinema of Russia">Cinema</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Sport_in_Russia" title="Sport in Russia">Sport</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Monuments
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/List_of_World_Heritage_Sites_in_Russia" title="List of World Heritage Sites in Russia">World Heritage Sites</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/National_symbols_of_Russia" title="National symbols of Russia">Symbols</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Flag_of_Russia" title="Flag of Russia">Flag</a></li> 
+             <li><a href="/wiki/Coat_of_arms_of_Russia" title="Coat of arms of Russia">Coat of arms</a></li> 
+             <li><a href="/wiki/List_of_cultural_icons_of_Russia" title="List of cultural icons of Russia">Cultural icons</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-below"> 
+          <ul>
+           <li class="mw-empty-elt"></li> 
+           <li><a href="/wiki/File:Flag_of_Russia.svg" class="image"><img alt="Flag of Russia.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/16px-Flag_of_Russia.svg.png" decoding="async" width="16" height="11" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/24px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/32px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600"></a>&nbsp;<a href="/wiki/Portal:Russia" title="Portal:Russia">Russia portal</a></li>
+          </ul></td>
+        </tr>
+        <tr>
+         <td class="sidebar-navbar"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+          <div class="navbar plainlinks hlist navbar-mini">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Culture_of_Russia" title="Template:Culture of Russia"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Culture_of_Russia" title="Template talk:Culture of Russia"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Culture_of_Russia&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>The following is the list of <b>official public holidays recognized by the <a href="/wiki/Government_of_Russia" title="Government of Russia">Government of Russia</a></b>. On these days, government offices, <a href="/wiki/Embassy" class="mw-redirect" title="Embassy">embassies</a> and some shops, are closed. If the date of observance falls on a <a href="/wiki/Workweek_and_weekend#Russia" title="Workweek and weekend">weekend</a>, the following Monday will be a day off in lieu of the holiday. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Major_National_Holidays"><span class="tocnumber">1</span> <span class="toctext">Major National Holidays</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#New_Year_Holiday"><span class="tocnumber">1.1</span> <span class="toctext">New Year Holiday</span></a></li> 
+          <li class="toclevel-2 tocsection-3"><a href="#Orthodox_Christmas_day"><span class="tocnumber">1.2</span> <span class="toctext">Orthodox Christmas day</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#Defender_of_the_Fatherland_Day"><span class="tocnumber">1.3</span> <span class="toctext">Defender of the Fatherland Day</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#International_Women's_Day"><span class="tocnumber">1.4</span> <span class="toctext">International Women's Day</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#Spring_and_Labour_day"><span class="tocnumber">1.5</span> <span class="toctext">Spring and Labour day</span></a></li> 
+          <li class="toclevel-2 tocsection-7"><a href="#Victory_Day"><span class="tocnumber">1.6</span> <span class="toctext">Victory Day</span></a></li> 
+          <li class="toclevel-2 tocsection-8"><a href="#Russia_Day"><span class="tocnumber">1.7</span> <span class="toctext">Russia Day</span></a></li> 
+          <li class="toclevel-2 tocsection-9"><a href="#Unity_Day"><span class="tocnumber">1.8</span> <span class="toctext">Unity Day</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-10"><a href="#Regional_public_holidays"><span class="tocnumber">2</span> <span class="toctext">Regional public holidays</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-11"><a href="#Muslim_regions"><span class="tocnumber">2.1</span> <span class="toctext">Muslim regions</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-12"><a href="#List_of_other_public_holidays,_commemorative_and_professional_days"><span class="tocnumber">3</span> <span class="toctext">List of other public holidays, commemorative and professional days</span></a></li> 
+        <li class="toclevel-1 tocsection-13"><a href="#Popular_holidays_which_are_not_public_holidays"><span class="tocnumber">4</span> <span class="toctext">Popular holidays which are not public holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Major_National_Holidays">Major National Holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=1" title="Edit section: Major National Holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="New_Year_Holiday">New Year Holiday</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=2" title="Edit section: New Year Holiday">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In addition to <a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> (Новый год <i>Novy god</i>) on 1 January, 2–5 January are public holidays as well,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-laboru112holidays_2-0" class="reference"><a href="#cite_note-laboru112holidays-2">[2]</a></sup> called New Year holiday (Новогодние каникулы <i>Novogodniye kanikuly</i>). The holiday includes January 6 and 8, with Christmas being January 7, declared as non-working days by <a href="/w/index.php?title=Russian_labour_law&amp;action=edit&amp;redlink=1" class="new" title="Russian labour law (page does not exist)">law</a>. Until 2005, only 1 and 2 January were public holidays.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Orthodox_Christmas_day">Orthodox Christmas day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=3" title="Edit section: Orthodox Christmas day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: <a href="/wiki/Christmas_in_Russia" title="Christmas in Russia">Christmas in Russia</a>
+      </div>
+      <div role="note" class="hatnote navigation-not-searchable">
+       Further information: <a href="/wiki/Christmas_traditions" title="Christmas traditions">Christmas traditions</a>
+      </div> 
+      <p><a href="/wiki/Christmas_in_Russia" title="Christmas in Russia">Christmas in Russia</a> (Рождество Христово <i>Rozhdestvo Khristovo</i>) is celebrated on 25 December <a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a> which falls on January 7th <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a> and commemorates the birth of Jesus Christ. The public holiday was re-established in 1991, following the decades of <a href="/wiki/Religion_in_the_Soviet_Union" title="Religion in the Soviet Union">suppression of religion</a> and <a href="/wiki/State_atheism" title="State atheism">state atheism</a> of the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>. </p> 
+      <h3><span class="mw-headline" id="Defender_of_the_Fatherland_Day">Defender of the Fatherland Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=4" title="Edit section: Defender of the Fatherland Day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The <a href="/wiki/Defender_of_the_Fatherland_Day" title="Defender of the Fatherland Day">Defender of the Fatherland Day</a> (<i>День защитника Отечествa</i> or <i>Den zashchitnika Otechestva</i>) is celebrated on 23 February and is dedicated to veterans and members of the <a href="/wiki/Armed_Forces_of_the_Russian_Federation" class="mw-redirect" title="Armed Forces of the Russian Federation">Armed Forces of the Russian Federation</a>, though it is often colloquially known as Men's Day (День Мужчин, <i>Den' Muzhchin</i>) and commonly treated as a celebration of all men. The holiday was established in 1918. </p> 
+      <h3><span id="International_Women.27s_Day"></span><span class="mw-headline" id="International_Women's_Day">International Women's Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=5" title="Edit section: International Women's Day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>On the eve of World War I campaigning for peace, Russian women observed their first <a href="/wiki/International_Women%27s_Day" title="International Women's Day">International Women's Day</a> on the last Sunday in February 1913. In 1913 following discussions, International Women's Day was transferred to 8 March and has remained the global date for <a href="/wiki/International_Women%27s_Day" title="International Women's Day">International Women's Day</a> ever since. </p> 
+      <h3><span class="mw-headline" id="Spring_and_Labour_day">Spring and Labour day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=6" title="Edit section: Spring and Labour day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Further information: <a href="/wiki/International_Workers%27_Day#Russia" title="International Workers' Day">International Workers' Day §&nbsp;Russia</a>
+      </div> 
+      <p>In the former Soviet Union, 1 May was <a href="/wiki/International_Workers%27_Day" title="International Workers' Day">International Workers' Day</a> and was celebrated with huge parades in cities like <a href="/wiki/Moscow" title="Moscow">Moscow</a>. Though the celebrations are low-key nowadays, several groups march on that day to protest grievances the workers have. Since 1992, May Day is officially called "The Day of Spring and Labour". </p> 
+      <h3><span class="mw-headline" id="Victory_Day">Victory Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=7" title="Edit section: Victory Day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>May 9, Russia celebrates the victory over <a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi Germany</a>, while remembering those who died in order to achieve it. On 9 May 1945 (by <a href="/wiki/Moscow_time" class="mw-redirect" title="Moscow time">Moscow time</a>) the German military surrendered to the Soviet Union and the <a href="/wiki/Allies_of_World_War_II" title="Allies of World War II">Allies of World War II</a> in Berlin (Karlshorst). <a href="/wiki/Victory_Day_(May_9)" class="mw-redirect" title="Victory Day (May 9)">Victory Day</a> (День Победы <i>Den Pobedy</i>) is by far one of the biggest Russian holidays. It commemorates those who died in World War II and pays tribute to survivors and veterans. Flowers and wreaths are laid on wartime graves and special parties and concerts are organized for veterans. In the evening there is a firework display. A huge ground and air military parade, hosted by the <a href="/wiki/President_of_the_Russian_Federation" class="mw-redirect" title="President of the Russian Federation">President of the Russian Federation</a>, is annually organized in <a href="/wiki/Moscow" title="Moscow">Moscow</a> on <a href="/wiki/Red_Square" title="Red Square">Red Square</a>. Similar ground, air and marine (if it is possible) parades are organized in several other Russian cities (which are <a href="/wiki/Hero_City" title="Hero City">Hero Cities</a> or have <a href="/wiki/Military_districts_of_Russia" title="Military districts of Russia">military district</a> or <a href="/wiki/Russian_Navy" title="Russian Navy">fleet</a> headquarters primarily). </p> 
+      <h3><span class="mw-headline" id="Russia_Day">Russia Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=8" title="Edit section: Russia Day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p><b><a href="/wiki/Russia_Day" title="Russia Day">Russia Day</a></b> (День России <i>Den Rossii</i>) National Day, celebrated on June 12. On this day, in 1991, Russian parliament formally declared Russian sovereignty from the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>. The holiday was officially established in 1992. Initially it was named <b>Day of the Adoption of the <a href="/wiki/Declaration_of_State_Sovereignty_of_the_Russian_Soviet_Federative_Socialist_Republic" title="Declaration of State Sovereignty of the Russian Soviet Federative Socialist Republic">Declaration of Sovereignty of the Russian Federation</a></b>, on 1 February 2002 it was officially renamed to Russia Day (in 1998 <a href="/wiki/Boris_Yeltsin" title="Boris Yeltsin">Boris Yeltsin</a> offered this name socially). In Russian society there is a misconception that this holiday is also called "Russia's Independence Day", but it never has had such a name in official documents. According to a survey by <a href="/wiki/Levada_Center" title="Levada Center">Levada Center</a> in May 2009, 44% of respondents named the holiday as "Independence Day of Russia". </p> 
+      <h3><span class="mw-headline" id="Unity_Day">Unity Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=9" title="Edit section: Unity Day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p><a href="/wiki/Unity_Day_(Russia)" title="Unity Day (Russia)">Unity Day</a> (День народного единства <i>Den narodnogo edinstva</i>) was first celebrated on November 4, 2005, commemorates the popular uprising led by <a href="/wiki/Kuzma_Minin" title="Kuzma Minin">Kuzma Minin</a> and <a href="/wiki/Dmitry_Pozharsky" title="Dmitry Pozharsky">Dmitry Pozharsky</a> which ejected the <a href="/wiki/Polish%E2%80%93Lithuanian_Commonwealth" title="Polish–Lithuanian Commonwealth">Polish</a> invaders from Moscow in November 1612, and more generally the end of the <a href="/wiki/Time_of_Troubles" title="Time of Troubles">Time of Troubles</a> and <a href="/wiki/Polish%E2%80%93Muscovite_War_(1605%E2%80%931618)" title="Polish–Muscovite War (1605–1618)">foreign intervention in Russia</a>. The event was marked by a public holiday which was held in Russia on October 22 (<a href="/wiki/Old_Style" class="mw-redirect" title="Old Style">Old Style</a>) from 1649 till 1917. Its name alludes to the idea that all the classes of Russian society willingly united to preserve Russian statehood when its demise seemed inevitable, even though there was neither Tsar nor Patriarch to guide them. Most observers view this as an attempted replacement to counter <a href="/wiki/Communist" class="mw-redirect" title="Communist">Communist</a> demonstrations on November 7 holiday, which marked the anniversary of the <a href="/wiki/October_Revolution" title="October Revolution">October Revolution</a>. National Unity Day is also known as Consolidation Day (as an alternative translation), which people in Russia celebrate on November 3–4. </p> 
+      <h2><span class="mw-headline" id="Regional_public_holidays">Regional public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=10" title="Edit section: Regional public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Muslim_regions">Muslim regions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=11" title="Edit section: Muslim regions">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li>Kurban Bayram (<a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a>)</li> 
+       <li>Uraza Bayram (<a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a>)</li>
+      </ul> 
+      <h2><span id="List_of_other_public_holidays.2C_commemorative_and_professional_days"></span><span class="mw-headline" id="List_of_other_public_holidays,_commemorative_and_professional_days">List of other public holidays, commemorative and professional days</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=12" title="Edit section: List of other public holidays, commemorative and professional days">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable" align="center" cellpadding="2" cellspacing="0"> 
+       <tbody>
+        <tr> 
+         <th style="background:#efefef;">Date </th> 
+         <th style="background:#efefef;">English name </th> 
+         <th style="background:#efefef;">Original name </th> 
+         <th style="background:#efefef;">Remarks </th>
+        </tr> 
+        <tr> 
+         <td>January 12</td> 
+         <td><a href="/w/index.php?title=Prosecutor_General%27s_Day&amp;action=edit&amp;redlink=1" class="new" title="Prosecutor General's Day (page does not exist)">Prosecutor General's Day</a></td> 
+         <td><span lang="ru" title="Russian-language text">День работника прокуратуры Российской Федерации</span></td> 
+         <td>Honoring the 1772 foundation of the office of the <a href="/wiki/Prosecutor_General_of_Russia" class="mw-redirect" title="Prosecutor General of Russia">Prosecutor General of Russia</a> <br> </td>
+        </tr> 
+        <tr> 
+         <td>January 25</td> 
+         <td><a href="/wiki/Tatiana_Day" title="Tatiana Day">Tatiana Day</a></td> 
+         <td><span lang="ru" title="Russian-language text">Татьянин день</span></td> 
+         <td>Celebrated as (University) Students' Day <br> </td>
+        </tr> 
+        <tr> 
+         <td>February 15</td> 
+         <td>International Duties Memorial Day</td> 
+         <td><span lang="ru" title="Russian-language text">День памяти воинов-интернационалистов</span><br></td> 
+         <td>Honoring all those who served in the 1979–1989 <a href="/wiki/Soviet%E2%80%93Afghan_War" title="Soviet–Afghan War">Soviet–Afghan War</a> and in assisting and helping <a href="/wiki/Warsaw_Pact" title="Warsaw Pact">Warsaw Pact</a> armed services during the <a href="/wiki/Cold_War" title="Cold War">Cold War</a> or serving in various other military actions abroad, e.g. Vietnam </td>
+        </tr> 
+        <tr> 
+         <td>February 27</td> 
+         <td>Day of Special Operations Forces<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td> 
+         <td><span lang="ru" title="Russian-language text">День Сил специальных операций</span><br></td> 
+         <td>Honoring the active and reserve personnel, heroes and veterans of the <a href="/wiki/Special_Operations_Forces_(Russia)" title="Special Operations Forces (Russia)">Special Operations Forces</a> and commemorating establishment of Russian control in Crimea in 2014<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>March 25</td> 
+         <td>Cultural Worker Day</td> 
+         <td><span lang="ru" title="Russian-language text">День работника культуры России</span></td> 
+         <td>Honoring people involved in the cultural sector </td>
+        </tr> 
+        <tr> 
+         <td>April 21</td> 
+         <td><a href="/w/index.php?title=Local_Self-Government_Day&amp;action=edit&amp;redlink=1" class="new" title="Local Self-Government Day (page does not exist)">Local Self-Government Day</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </td> 
+         <td><span lang="ru" title="Russian-language text">День местного самоуправления</span><br> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>April 26</td> 
+         <td><a href="/w/index.php?title=Memorial_Day_for_those_lost_in_radiation_accidents_and_catastrophes&amp;action=edit&amp;redlink=1" class="new" title="Memorial Day for those lost in radiation accidents and catastrophes (page does not exist)">Memorial Day for those lost in radiation accidents and catastrophes</a></td> 
+         <td><span lang="ru" title="Russian-language text">День памяти погибших в радиационных авариях и катастрофах</span><br></td> 
+         <td>Anniversary of the 1986 <a href="/wiki/Chernobyl_disaster" title="Chernobyl disaster">Chernobyl disaster</a> </td>
+        </tr> 
+        <tr> 
+         <td>April 27</td> 
+         <td><a href="/wiki/Day_of_Russian_Parliamentarism" class="mw-redirect" title="Day of Russian Parliamentarism">Day of Russian Parliamentarism</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></td> 
+         <td><span lang="ru" title="Russian-language text">День российского парламентаризма</span><br></td> 
+         <td>commemorates the first session of Russia's first-ever State Duma in 1906 </td>
+        </tr> 
+        <tr> 
+         <td>June 6</td> 
+         <td><a href="/w/index.php?title=Day_of_the_Russian_Language&amp;action=edit&amp;redlink=1" class="new" title="Day of the Russian Language (page does not exist)">Day of the Russian Language</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></td> 
+         <td><span lang="ru" title="Russian-language text">День русского языка</span><br></td> 
+         <td>Prior to 2011, Pushkin Day honoring Alexander Puskhin, now honors the Russian Language </td>
+        </tr> 
+        <tr> 
+         <td>June 8</td> 
+         <td><a href="/w/index.php?title=Social_Workers%27_Day&amp;action=edit&amp;redlink=1" class="new" title="Social Workers' Day (page does not exist)">Social Worker Day</a></td> 
+         <td><span lang="ru" title="Russian-language text">День социального работника</span></td> 
+         <td>Enacted in 2000 </td>
+        </tr> 
+        <tr> 
+         <td>3rd Sunday of June </td> 
+         <td><a href="/wiki/Medical_Worker_Day" title="Medical Worker Day">Medical Worker Day</a> </td> 
+         <td>День медицинского работника </td> 
+         <td>Has been celebrated since 1988 in USSR </td>
+        </tr> 
+        <tr> 
+         <td>Last Sunday of July</td> 
+         <td><a href="/wiki/Navy_Day_(Russia)" title="Navy Day (Russia)">Navy Day</a></td> 
+         <td><span lang="ru" title="Russian-language text">День Военно-Морского Флота</span></td> 
+         <td>Honoring the active and reserve personnel, heroes and veterans of the <a href="/wiki/Russian_Navy" title="Russian Navy">Russian Navy</a> </td>
+        </tr> 
+        <tr> 
+         <td>June 29</td> 
+         <td>Partisans and Underground Fighters Day</td> 
+         <td><span lang="ru" title="Russian-language text">День партизан и подпольщиков</span></td> 
+         <td>Holiday enacted in 2009, honoring the 1941 decree on the raising of the first units of the <a href="/wiki/Soviet_partisans" title="Soviet partisans">Soviet partisans</a> by the Council of People's Commissariats </td>
+        </tr> 
+        <tr> 
+         <td>1st Sunday of August</td> 
+         <td><a href="/w/index.php?title=Railway_Workers%27_Day&amp;action=edit&amp;redlink=1" class="new" title="Railway Workers' Day (page does not exist)">Railway Workers' Day</a></td> 
+         <td><span lang="ru" title="Russian-language text">День железнодорожника</span></td> 
+         <td>Holiday commemorating the achievements of the railways sector </td>
+        </tr> 
+        <tr> 
+         <td>August 6</td> 
+         <td>Russian Railway Troops Day</td> 
+         <td><span lang="ru" title="Russian-language text">День железнодорожных войск</span></td> 
+         <td>Honoring all the active and reserve personnel, heroes, fallen and veterans of the <a href="/wiki/Russian_Railway_Troops" title="Russian Railway Troops">Russian Railway Troops</a> </td>
+        </tr> 
+        <tr> 
+         <td>2nd Saturday of August</td> 
+         <td><a href="/wiki/Sports_Day" class="mw-redirect" title="Sports Day">Sports Day</a></td> 
+         <td><span lang="ru" title="Russian-language text">День физкультурника</span></td> 
+         <td>Holiday commemorating the achievements of the nation's sportsmen and women, coaches, judges, sports officials and youth and disabled athletes </td>
+        </tr> 
+        <tr> 
+         <td>August 12</td> 
+         <td><a href="/wiki/Russian_Air_Force_Day" title="Russian Air Force Day">Russian Air Force Day</a></td> 
+         <td><span lang="ru" title="Russian-language text">День Военно-воздушных сил</span></td> 
+         <td>Honoring the active and reserve personnel, heroes and veterans of the <a href="/wiki/Russian_Air_Force" title="Russian Air Force">Russian Air Force</a> </td>
+        </tr> 
+        <tr> 
+         <td>August 27</td> 
+         <td><a href="/w/index.php?title=Films_and_Movies_Day&amp;action=edit&amp;redlink=1" class="new" title="Films and Movies Day (page does not exist)">Films and Movies Day</a></td> 
+         <td><span lang="ru" title="Russian-language text">День российского кино</span></td> 
+         <td>Honoring people involved in one of the world's oldest national film industries </td>
+        </tr> 
+        <tr> 
+         <td>September 13</td> 
+         <td><a href="/wiki/Day_of_the_Programmer" title="Day of the Programmer">Programmer Day</a></td> 
+         <td><span lang="ru" title="Russian-language text">День программиста</span></td> 
+         <td>professional day </td>
+        </tr> 
+        <tr> 
+         <td>September 29</td> 
+         <td><a href="/w/index.php?title=Day_of_Machine-Building_industry_workers&amp;action=edit&amp;redlink=1" class="new" title="Day of Machine-Building industry workers (page does not exist)">Day of Machine-Building industry workers</a></td> 
+         <td><span lang="ru" title="Russian-language text">День машиностроителей</span></td> 
+         <td>professional holiday </td>
+        </tr> 
+        <tr> 
+         <td>October 1</td> 
+         <td>Russian Ground Forces Day</td> 
+         <td><span lang="ru" title="Russian-language text">День Сухопутных войск</span></td> 
+         <td>Honors those serving, the heroes, fallen and veterans of the <a href="/wiki/Russian_Ground_Forces" title="Russian Ground Forces">Russian Ground Forces</a> on the day of the raising of the first units of the legendary <a href="/wiki/Streltsy" title="Streltsy">Streltsy</a> by <a href="/wiki/Ivan_the_Terrible" title="Ivan the Terrible">Ivan the Terrible</a> in 1550 </td>
+        </tr> 
+        <tr> 
+         <td>October 4</td> 
+         <td><a href="/w/index.php?title=Russian_Aerospace_Defense_Forces_Day&amp;action=edit&amp;redlink=1" class="new" title="Russian Aerospace Defense Forces Day (page does not exist)">Russian Aerospace Defense Forces Day</a></td> 
+         <td><span lang="ru" title="Russian-language text">День космических войск</span></td> 
+         <td>The anniversary of the 1957 launch of <a href="/wiki/Sputnik" class="mw-redirect" title="Sputnik">Sputnik</a> that opened the way to the <a href="/wiki/Space_Age" title="Space Age">Space Age</a> </td>
+        </tr> 
+        <tr> 
+         <td>October 23</td> 
+         <td><a href="/w/index.php?title=Day_of_Advertisement_industry_Workers&amp;action=edit&amp;redlink=1" class="new" title="Day of Advertisement industry Workers (page does not exist)">Day of Advertisement industry Workers</a></td> 
+         <td><span lang="ru" title="Russian-language text">День работников рекламы</span></td> 
+         <td>professional holiday, enacted in 1994 </td>
+        </tr> 
+        <tr> 
+         <td>October 24</td> 
+         <td><a href="/w/index.php?title=Day_of_Special_Forces_of_the_Armed_Forces&amp;action=edit&amp;redlink=1" class="new" title="Day of Special Forces of the Armed Forces (page does not exist)">Day of Special Forces of the Armed Forces</a></td> 
+         <td><span lang="ru" title="Russian-language text">День подразделений специального назначения</span></td> 
+         <td>Memorial, enacted in 2006, honoring the 1950 raising of the first <a href="/wiki/Spetsnaz" title="Spetsnaz">Spetsnaz</a> companies </td>
+        </tr> 
+        <tr> 
+         <td>October 25</td> 
+         <td><a href="/w/index.php?title=Day_of_Customs_Workers&amp;action=edit&amp;redlink=1" class="new" title="Day of Customs Workers (page does not exist)">Day of Customs Workers</a></td> 
+         <td><span lang="ru" title="Russian-language text">День таможенника</span></td> 
+         <td>Enacted in 1995 </td>
+        </tr> 
+        <tr> 
+         <td>October 29</td> 
+         <td><a href="/w/index.php?title=Day_of_MVD_Security_services&amp;action=edit&amp;redlink=1" class="new" title="Day of MVD Security services (page does not exist)">Day of MVD Security services</a></td> 
+         <td><span lang="ru" title="Russian-language text">День вневедомственной охраны</span></td> 
+         <td>Enacted in 1952 by government decree </td>
+        </tr> 
+        <tr> 
+         <td>October 30</td> 
+         <td><a href="/wiki/Day_of_Remembrance_of_the_Victims_of_Political_Repressions" title="Day of Remembrance of the Victims of Political Repressions">Day of Remembrance of the Victims of Political Repressions</a></td> 
+         <td><span lang="ru" title="Russian-language text">День памяти жертв политических репрессий</span></td> 
+         <td>Enacted in 1991, honors the victims of the Imperial and Soviet era political repressions </td>
+        </tr> 
+        <tr> 
+         <td>October 31</td> 
+         <td><a href="/w/index.php?title=Day_of_the_detention_centers_and_prisons_workers&amp;action=edit&amp;redlink=1" class="new" title="Day of the detention centers and prisons workers (page does not exist)">Day of the Detention Centers and Prisons Workers</a></td> 
+         <td><span lang="ru" title="Russian-language text">День работников СИЗО и тюрем</span></td> 
+         <td>Enacted in 2006 </td>
+        </tr> 
+        <tr> 
+         <td>November 10</td> 
+         <td><a href="/wiki/Police_and_Internal_Affairs_Servicemen%27s_Day" title="Police and Internal Affairs Servicemen's Day">Police and Internal Affairs Servicemen's Day</a></td> 
+         <td><span lang="ru" title="Russian-language text">День сотрудника органов внутренних дел Российской Федерации</span></td> 
+         <td>Honoring all those serving in the <a href="/wiki/Police_of_Russia" title="Police of Russia">Police of Russia</a> and all those working in the <a href="/wiki/Ministry_of_Internal_Affairs_(Russia)" title="Ministry of Internal Affairs (Russia)">Ministry of Internal Affairs (Russia)</a> </td>
+        </tr> 
+        <tr> 
+         <td>November 19</td> 
+         <td><a href="/w/index.php?title=Day_of_the_Missile_Forces_and_Artillery&amp;action=edit&amp;redlink=1" class="new" title="Day of the Missile Forces and Artillery (page does not exist)">Day of the Missile Forces and Artillery</a></td> 
+         <td><span lang="ru" title="Russian-language text">День ракетных войск и артиллерии</span></td> 
+         <td>Enacted on 21 October 1944, to commemorate the artillery strikes and bombardment at the Battle of Stalingrad of 19 November 1942 </td>
+        </tr> 
+        <tr> 
+         <td>November 27</td> 
+         <td><a href="/w/index.php?title=Naval_Infantry_Day&amp;action=edit&amp;redlink=1" class="new" title="Naval Infantry Day (page does not exist)">Naval Infantry Day</a></td> 
+         <td><span lang="ru" title="Russian-language text">День морской пехоты</span></td> 
+         <td>Honoring the 1705 date of the raising of the first units of today's Russian Naval Infantry by orders of <a href="/wiki/Peter_the_Great" title="Peter the Great">Peter the Great</a> </td>
+        </tr> 
+        <tr> 
+         <td>December 9</td> 
+         <td><a href="/w/index.php?title=Fatherland%27s_Heroes_Day&amp;action=edit&amp;redlink=1" class="new" title="Fatherland's Heroes Day (page does not exist)">Fatherland's Heroes Day</a></td> 
+         <td><span lang="ru" title="Russian-language text">День Героев Отечества</span></td> 
+         <td>Anniversary of the 1769 establishment (OS date: November 26) by <a href="/wiki/Catherine_the_Great" title="Catherine the Great">Catherine the Great</a> of the <a href="/wiki/Order_of_St._George" title="Order of St. George">Order of St. George</a> </td>
+        </tr> 
+        <tr> 
+         <td>December 17</td> 
+         <td><a href="/w/index.php?title=Strategic_Missile_Troops_Day&amp;action=edit&amp;redlink=1" class="new" title="Strategic Missile Troops Day (page does not exist)">Strategic Missile Troops Day</a></td> 
+         <td><span lang="ru" title="Russian-language text">День Ракетных войск стратегического назначения</span></td> 
+         <td>Enacted in 1995 to commemorate the establishment of the strategic missile forces on the 17th of December 1959 </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Popular_holidays_which_are_not_public_holidays">Popular holidays which are not public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=13" title="Edit section: Popular holidays which are not public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Old_New_Year" title="Old New Year">New Year according to Julian Calendar</a> on January 14</li> 
+       <li><a href="/wiki/Vladimir_Lenin" title="Vladimir Lenin">Death Anniversary of Vladimir Lenin</a> and <a href="/wiki/Bloody_Sunday_(1905)" title="Bloody Sunday (1905)">Bloody Sunday</a> on January 21–22</li> 
+       <li><a href="/wiki/Tatiana_Day" title="Tatiana Day">Tatiana Day</a> (Students Day) on January 25</li> 
+       <li><a href="/wiki/Valentine%27s_Day" title="Valentine's Day">Valentine's Day</a> on February 14</li> 
+       <li><a href="/wiki/Maslenitsa" title="Maslenitsa">Maslenitsa</a> (a week before the <a href="/wiki/Great_Lent" title="Great Lent">Great Lent</a>) Start date changes every year, depending on the beginning of the Great Lent (in 2021: 8 March to 14 March)</li> 
+       <li><a href="/wiki/National_Guard_of_Russia" title="National Guard of Russia">Internal Troops and National Guard Servicemen</a>'s Day on March 27</li> 
+       <li><a href="/wiki/Annunciation" title="Annunciation">Annunciation</a> on April 7</li> 
+       <li><a href="/wiki/Cosmonautics_Day" title="Cosmonautics Day">Cosmonautics Day</a> on April 12</li> 
+       <li><a href="/wiki/Soviet_Air_Defense_Forces" class="mw-redirect" title="Soviet Air Defense Forces">Soviet Air Defense Forces</a> Day on the Second Sunday of April</li> 
+       <li><a href="/wiki/Russian_State_Fire_Service" title="Russian State Fire Service">Russian State Fire Service</a> Day on April 30</li> 
+       <li><a href="/wiki/Radio_Day" title="Radio Day">Radio Day</a> on May 7</li> 
+       <li><a href="/wiki/Saints_Cyril_and_Methodius" title="Saints Cyril and Methodius">Saints Cyril and Methodius' Day</a> on May 24 (also Slavonic Literature and Culture Day)</li> 
+       <li><a href="/wiki/Border_Guards_Day" title="Border Guards Day">Border Guards Day</a> on May 28, celebrating the anniversary of the <a href="/wiki/Border_Service_of_the_Federal_Security_Service_of_the_Russian_Federation" title="Border Service of the Federal Security Service of the Russian Federation">Border Service of the Federal Security Service of the Russian Federation</a></li> 
+       <li><a href="/wiki/Ivan_Kupala_Day" class="mw-redirect" title="Ivan Kupala Day">Ivan Kupala Day</a> on July 7 (should be 24 June, St. John's Day and Summer Solistice, but shifted due to Julian calendar usage)</li> 
+       <li><a href="/wiki/Day_of_Remembrance_and_Sorrow" title="Day of Remembrance and Sorrow">Day of Remembrance and Sorrow</a> on 22 June, marking the start of Operation Barbarossa - the Nazi invasion of the USSR</li> 
+       <li><a href="/wiki/Paratroopers%27_Day" title="Paratroopers' Day">Paratroopers' Day</a> on August 2</li> 
+       <li><a href="/wiki/Savior_of_the_Apple_Feast_Day" class="mw-redirect" title="Savior of the Apple Feast Day">Savior of the Apple Feast Day</a> on August 19 (also the Great Feast of the <a href="/wiki/Transfiguration_of_Jesus" title="Transfiguration of Jesus">Transfiguration of Jesus</a>)</li> 
+       <li>Great Feast of the <a href="/wiki/Dormition_of_the_Mother_of_God" title="Dormition of the Mother of God">Dormition of the Mother of God</a> on August 28</li> 
+       <li><a href="/wiki/Knowledge_Day" title="Knowledge Day">Knowledge Day</a> on September 1 (traditionally, the first day of school)</li> 
+       <li><a href="/wiki/Day_of_Tankmen" title="Day of Tankmen">Day of Tankmen</a> on the Second Sunday of September</li> 
+       <li><a href="/wiki/October_Revolution_Day" title="October Revolution Day">October Revolution Day</a> on November 7</li> 
+       <li><a href="/wiki/Naval_Infantry_(Russia)" class="mw-redirect" title="Naval Infantry (Russia)">Naval Infantry</a> Day on November 27</li> 
+       <li><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">(Western) Christmas Day</a> on December 25</li> 
+       <li>Emergency Workers Day on December 27, celebrating those working in the <a href="/wiki/Ministry_of_Emergency_Situations_(Russia)" title="Ministry of Emergency Situations (Russia)">Ministry of Emergency Situations</a> on the anniversary of its foundation in 1990</li>
+      </ul> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Public_holidays_in_the_Soviet_Union" title="Public holidays in the Soviet Union">Public holidays in the Soviet Union</a></li> 
+       <li><a href="/wiki/Days_of_Military_Honour" title="Days of Military Honour">Days of Military Honour</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2007/01/05/world/europe/05iht-russia.4115692.html">Russia takes an extended New Year holiday</a> - Europe - <i>International Herald Tribune</i>. By Steven Lee Myers. Published: Friday, January 5, 2007</span> </li> 
+         <li id="cite_note-laboru112holidays-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-laboru112holidays_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ppt.ru/kodeks.phtml?kodeks=17&amp;paper=112">Article 112, Public holidays</a> - Labor Code of the Russian Federation. (Russian) Retrieved on June 6, 2013</span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ilo.org/dyn/natlex/docs/WEBTEXT/60535/65252/E01RUS01.htm#chap18">Article 112</a>. Non-working holidays (English version). International Labour Organization. Retrieved on June 6, 2013</span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://publication.pravo.gov.ru/Document/View/0001201502260061">Указ Президента Российской Федерации от 26.02.2015 № 103 "Об установлении Дня Сил специальных операций"</a></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://ria.ru/spravka/20180227/1515287149.html">День сил специальных операций в России</a> <a href="/wiki/RIA_Novosti" title="RIA Novosti">RIA Novosti</a>, 27 February 2018.</span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://graph.document.kremlin.ru/page.aspx?1615300">УКАЗ Президента РФ от 10.06.2012 N 805 "О ДНЕ МЕСТНОГО САМОУПРАВЛЕНИЯ"</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&nbsp;Dead link since December 2017">permanent dead link</span></a></i>]</span></sup></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.itar-tass.com/en/c154/440983.html">"RF State Duma to vote establishment of Day of Russian Parliamentarism on Friday"</a>. <a href="/wiki/Itar_Tass" class="mw-redirect" title="Itar Tass">Itar Tass</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 April</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RF+State+Duma+to+vote+establishment+of+Day+of+Russian+Parliamentarism+on+Friday&amp;rft_id=http%3A%2F%2Fwww.itar-tass.com%2Fen%2Fc154%2F440983.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Russia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.itar-tass.com/en/c154/762857.html">"Russian State Duma calls for efforts to popularize Russian language abroad"</a>. <a href="/wiki/Itar_Tass" class="mw-redirect" title="Itar Tass">Itar Tass</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Russian+State+Duma+calls+for+efforts+to+popularize+Russian+language+abroad&amp;rft_id=http%3A%2F%2Fwww.itar-tass.com%2Fen%2Fc154%2F762857.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Russia" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Russia_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Russia_topics" title="Template:Russia topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Russia_topics" title="Template talk:Russia topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Russia_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Russia_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Russia" title="Russia">Russia</a>&nbsp;articles
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Russia" title="History of Russia">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Timeline_of_Russian_history" title="Timeline of Russian history">Timeline</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Proto-Indo-Europeans" title="Proto-Indo-Europeans">Proto-Indo-Europeans</a></li> 
+                 <li><a href="/wiki/Scythians" title="Scythians">Scythians</a></li> 
+                 <li><a href="/wiki/Sarmatians" title="Sarmatians">Sarmatians</a></li> 
+                 <li><a href="/wiki/Early_Slavs" title="Early Slavs">Early Slavs</a></li> 
+                 <li><a href="/wiki/East_Slavs" title="East Slavs">East Slavs</a></li> 
+                 <li><a href="/wiki/Rus%27_Khaganate" title="Rus' Khaganate">Rus' Khaganate</a></li> 
+                 <li><a href="/wiki/Kievan_Rus%27" title="Kievan Rus'">Kievan Rus'</a></li> 
+                 <li><a href="/wiki/Novgorod_Republic" title="Novgorod Republic">Novgorod Republic</a></li> 
+                 <li><a href="/wiki/Vladimir-Suzdal" title="Vladimir-Suzdal">Grand Duchy of Vladimir</a></li> 
+                 <li><a href="/wiki/Golden_Horde" title="Golden Horde">Golden Horde</a></li> 
+                 <li><a href="/wiki/Grand_Duchy_of_Moscow" title="Grand Duchy of Moscow">Grand Duchy of Moscow</a></li> 
+                 <li><a href="/wiki/Tsardom_of_Russia" title="Tsardom of Russia">Tsardom of Russia</a></li> 
+                 <li><a href="/wiki/Russian_Empire" title="Russian Empire">Russian Empire</a></li> 
+                 <li><a href="/wiki/Russian_Republic" title="Russian Republic">Russian Republic</a></li> 
+                 <li><a href="/wiki/October_Revolution" title="October Revolution">October Revolution</a></li> 
+                 <li><a href="/wiki/Russian_Civil_War" title="Russian Civil War">Civil war</a> 
+                  <ul>
+                   <li><a href="/wiki/Russian_state" class="mw-redirect" title="Russian state">Russian state</a></li> 
+                   <li><a href="/wiki/Russian_Soviet_Federative_Socialist_Republic" title="Russian Soviet Federative Socialist Republic">Russian SFSR</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a></li> 
+                 <li><a href="/wiki/Eastern_Front_(World_War_II)" title="Eastern Front (World War II)">Great Patriotic War</a></li> 
+                 <li><a href="/wiki/Eastern_Bloc" title="Eastern Bloc">Eastern Bloc</a></li> 
+                 <li><a href="/wiki/Dissolution_of_the_Soviet_Union" title="Dissolution of the Soviet Union">Dissolution of the Soviet Union</a></li> 
+                 <li><a href="/wiki/History_of_Russia_(1991%E2%80%93present)" title="History of Russia (1991–present)">Russian Federation</a></li> 
+                 <li><a href="/wiki/Union_State" title="Union State">Union State</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">By topic</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Economic_history_of_the_Russian_Federation" title="Economic history of the Russian Federation">Economy</a></li> 
+                 <li><a href="/wiki/History_of_Russian_journalism" title="History of Russian journalism">Journalism</a> ‎</li> 
+                 <li><a href="/wiki/Military_history_of_Russia" title="Military history of Russia">Military</a></li> 
+                 <li><a href="/wiki/Postage_stamps_and_postal_history_of_Russia" title="Postage stamps and postal history of Russia">Postal</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Russia" title="Geography of Russia">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Borders_of_Russia" title="Borders of Russia">Borders</a></li> 
+                 <li><a href="/wiki/Caspian_Sea" title="Caspian Sea">Caspian Sea</a></li> 
+                 <li><a href="/wiki/Caucasus_Mountains" title="Caucasus Mountains">Caucasus Mountains</a></li> 
+                 <li><a href="/wiki/List_of_cities_and_towns_in_Russia" title="List of cities and towns in Russia">Cities and towns</a></li> 
+                 <li><a href="/wiki/Climate_of_Russia" title="Climate of Russia">Climate</a></li> 
+                 <li><a href="/wiki/List_of_earthquakes_in_Russia" title="List of preEarthquakes in Russia">Earthquakes</a></li>
+                 <li><a href="/wiki/Extreme_points_of_Russia" class="mw-redirect" title="Extreme points of Russia">Extreme points</a></li> 
+                 <li><a href="/wiki/European_Russia" title="European Russia">European Russia</a></li> 
+                 <li><a href="/wiki/List_of_fjords_of_Russia" title="List of fjords of Russia">Fjords</a></li> 
+                 <li><a href="/wiki/Geology_of_Russia" title="Geology of Russia">Geology</a></li> 
+                 <li><a href="/wiki/List_of_glaciers_in_Russia" title="List of glaciers in Russia">Glaciers</a></li> 
+                 <li><a href="/wiki/Great_Russian_Regions" title="Great Russian Regions">Great Russian Regions</a></li> 
+                 <li><a href="/wiki/List_of_islands_of_Russia" title="List of islands of Russia">Islands</a></li> 
+                 <li><a href="/wiki/List_of_lakes_of_Russia" title="List of lakes of Russia">Lakes</a></li> 
+                 <li><a href="/wiki/List_of_mountains_of_Russia" class="mw-redirect" title="List of mountains of Russia">Mountains</a></li> 
+                 <li><a href="/wiki/North_Asia" title="North Asia">North Asia</a></li> 
+                 <li><a href="/wiki/North_Caucasus" title="North Caucasus">North Caucasus</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Russia" title="List of rivers of Russia">Rivers</a></li> 
+                 <li><a href="/wiki/Russian_Far_East" title="Russian Far East">Russian Far East</a></li> 
+                 <li><a href="/wiki/Siberia" title="Siberia">Siberia</a></li> 
+                 <li><a href="/wiki/Subdivisions_of_Russia" class="mw-redirect" title="Subdivisions of Russia">Subdivisions</a></li> 
+                 <li><a href="/wiki/Ural_Mountains" title="Ural Mountains">Ural Mountains</a></li> 
+                 <li><a href="/wiki/List_of_volcanoes_in_Russia" title="List of volcanoes in Russia">Volcanoes</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Russia" title="Politics of Russia">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Civil_Service_of_the_Russian_Federation" title="Civil Service of the Russian Federation">Civil Service</a></li> 
+                 <li><a href="/wiki/Conscription_in_Russia" title="Conscription in Russia">Conscription</a></li> 
+                 <li><a href="/wiki/Constitution_of_Russia" title="Constitution of Russia">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Russia" title="Elections in Russia">Elections</a></li> 
+                 <li><a href="/wiki/Federal_budget_of_Russia" title="Federal budget of Russia">Federal budget</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Russia" title="Foreign relations of Russia">Foreign relations</a></li> 
+                 <li><a href="/wiki/Freedom_of_assembly_in_Russia" title="Freedom of assembly in Russia">Freedom of assembly</a></li> 
+                 <li><a href="/wiki/Freedom_of_the_press_in_Russia" class="mw-redirect" title="Freedom of the press in Russia">Freedom of press</a> 
+                  <ul>
+                   <li><a href="/wiki/Media_freedom_in_Russia" title="Media freedom in Russia">Media</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Government_of_Russia" title="Government of Russia">Government</a></li> 
+                 <li><a href="/wiki/Judiciary_of_Russia" title="Judiciary of Russia">Judiciary</a></li> 
+                 <li><a href="/wiki/Law_of_Russia" title="Law of Russia">Law</a></li> 
+                 <li><a href="/wiki/Law_enforcement_in_Russia" title="Law enforcement in Russia">Law enforcement</a> (<a href="/wiki/Prisons_in_Russia" title="Prisons in Russia">Prisons</a>)</li> 
+                 <li><a href="/wiki/Liberalism_in_Russia" title="Liberalism in Russia">Liberalism</a></li> 
+                 <li><a href="/wiki/Conservatism_in_Russia" title="Conservatism in Russia">Conservatism</a></li> 
+                 <li><a href="/wiki/Russian_nationalism" title="Russian nationalism">Nationalism</a></li> 
+                 <li><a href="/wiki/Martial_law_in_Russia" title="Martial law in Russia">Martial law</a></li> 
+                 <li><a href="/wiki/Russian_Armed_Forces" title="Russian Armed Forces">Military</a></li> 
+                 <li><a href="/wiki/Russian_opposition" class="mw-redirect" title="Russian opposition">Opposition</a></li> 
+                 <li><a href="/wiki/Political_parties_in_Russia" title="Political parties in Russia">Political parties</a></li> 
+                 <li><a href="/wiki/President_of_Russia" title="President of Russia">President of Russia</a></li> 
+                 <li><a href="/wiki/State_of_emergency_in_Russia" title="State of emergency in Russia">State of emergency</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Russia" title="Economy of Russia">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Agriculture_in_Russia" title="Agriculture in Russia">Agriculture</a></li> 
+                 <li><a href="/wiki/Aircraft_industry_of_Russia" title="Aircraft industry of Russia">Aircraft industry</a></li> 
+                 <li><a href="/wiki/Banking_in_Russia" title="Banking in Russia">Banking</a></li> 
+                 <li><a href="/wiki/Automotive_industry_in_Russia" title="Automotive industry in Russia">Car industry</a></li> 
+                 <li><a href="/wiki/Central_Bank_of_Russia" title="Central Bank of Russia">Central Bank</a></li> 
+                 <li><a href="/wiki/Defense_industry_of_Russia" title="Defense industry of Russia">Defence industry</a></li> 
+                 <li><a href="/wiki/Economic_regions_of_Russia" title="Economic regions of Russia">Economic regions</a></li> 
+                 <li><a href="/wiki/Energy_in_Russia" title="Energy in Russia">Energy</a></li> 
+                 <li><a href="/wiki/Fishing_industry_in_Russia" title="Fishing industry in Russia">Fishing industry</a></li> 
+                 <li><a href="/wiki/Forestry_in_Russia" title="Forestry in Russia">Forestry</a></li> 
+                 <li><a href="/wiki/Gambling_in_Russia" title="Gambling in Russia">Gambling</a></li> 
+                 <li><a href="/wiki/Mining_industry_of_Russia" title="Mining industry of Russia">Mining</a></li> 
+                 <li><a href="/wiki/Petroleum_industry_in_Russia" title="Petroleum industry in Russia">Petroleum industry</a></li> 
+                 <li><a href="/wiki/Russian_oligarch" title="Russian oligarch">Russian oligarchs</a></li> 
+                 <li><a href="/wiki/Russian_ruble" title="Russian ruble">Russian ruble</a></li> 
+                 <li><a href="/wiki/Science_and_technology_in_Russia" title="Science and technology in Russia">Science and technology</a> 
+                  <ul>
+                   <li><a href="/wiki/Russian_Academy_of_Sciences" title="Russian Academy of Sciences">Academy of Sciences</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Shipbuilding_in_Russia" title="Shipbuilding in Russia">Shipbuilding</a></li> 
+                 <li><a href="/wiki/Space_industry_of_Russia" title="Space industry of Russia">Space industry</a></li> 
+                 <li><a href="/wiki/Taxation_in_Russia" title="Taxation in Russia">Taxation</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Russia" title="Telecommunications in Russia">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Russia" title="Tourism in Russia">Tourism</a></li> 
+                 <li><a href="/wiki/List_of_trade_unions_in_Russia" title="List of trade unions in Russia">Trade unions</a></li> 
+                 <li><a href="/wiki/Transport_in_Russia" title="Transport in Russia">Transport</a></li> 
+                 <li><a href="/wiki/Waste_management_in_Russia" title="Waste management in Russia">Waste</a></li> 
+                 <li><a href="/wiki/Water_supply_and_sanitation_in_Russia" title="Water supply and sanitation in Russia">Water supply and sanitation</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Russian_society" title="Category:Russian society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Abortion_in_Russia" title="Abortion in Russia">Abortion</a></li> 
+                 <li><a href="/wiki/Alcohol_consumption_in_Russia" title="Alcohol consumption in Russia">Alcohol</a></li> 
+                 <li><a href="/wiki/Citizenship_of_Russia" class="mw-redirect" title="Citizenship of Russia">Citizens</a></li> 
+                 <li><a href="/wiki/Crime_in_Russia" title="Crime in Russia">Crime</a></li> 
+                 <li><a href="/wiki/Corruption_in_Russia" title="Corruption in Russia">Corruption</a></li> 
+                 <li><a href="/wiki/Demographics_of_Russia" title="Demographics of Russia">Demographics</a></li> 
+                 <li><a href="/wiki/Education_in_Russia" title="Education in Russia">Education</a></li> 
+                 <li><a href="/wiki/Ethnic_groups_in_Russia" title="Ethnic groups in Russia">Ethnic groups</a></li> 
+                 <li><a href="/wiki/Feminism_in_Russia" title="Feminism in Russia">Feminism</a></li> 
+                 <li><a href="/wiki/Healthcare_in_Russia" title="Healthcare in Russia">Healthcare</a></li> 
+                 <li><a href="/wiki/Immigration_to_Russia" title="Immigration to Russia">Immigration</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Russia" title="Human rights in Russia">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/LGBT_rights_in_Russia" title="LGBT rights in Russia">LGBT</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Languages_of_Russia" title="Languages of Russia">Languages</a></li> 
+                 <li><a href="/wiki/Prostitution_in_Russia" title="Prostitution in Russia">Prostitution</a></li> 
+                 <li><a href="/wiki/Racism_in_Russia" title="Racism in Russia">Racism</a></li> 
+                 <li><a href="/wiki/Religion_in_Russia" title="Religion in Russia">Religion</a></li> 
+                 <li><a href="/wiki/Suicide_in_Russia" title="Suicide in Russia">Suicide</a></li> 
+                 <li><a href="/wiki/Women_in_Russia" title="Women in Russia">Women</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Russia" class="mw-redirect" title="Culture of Russia">Culture</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/National_anthem_of_Russia" title="National anthem of Russia">Anthem</a></li> 
+                 <li><a href="/wiki/Russian_architecture" title="Russian architecture">Architecture</a></li> 
+                 <li><a href="/wiki/List_of_Russian_artists" title="List of Russian artists">Arts</a></li> 
+                 <li><a href="/wiki/Russian_ballet" title="Russian ballet">Ballet</a></li> 
+                 <li><a href="/wiki/Cinema_of_Russia" title="Cinema of Russia">Cinema</a></li> 
+                 <li><a href="/wiki/Coat_of_arms_of_Russia" title="Coat of arms of Russia">Coat of arms</a></li> 
+                 <li><a href="/wiki/Russian_cuisine" title="Russian cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/List_of_cultural_icons_of_Russia" title="List of cultural icons of Russia">Cultural icons</a></li> 
+                 <li><a href="/wiki/Russian_fashion" title="Russian fashion">Fashion</a></li> 
+                 <li><a href="/wiki/Category:Festivals_in_Russia" title="Category:Festivals in Russia">Festivals</a></li> 
+                 <li><a href="/wiki/Folklore_of_Russia" title="Folklore of Russia">Folklore</a></li> 
+                 <li><a href="/wiki/Graffiti_in_Russia" title="Graffiti in Russia">Graffiti</a></li> 
+                 <li><a href="/wiki/Internet_in_Russia" title="Internet in Russia">Internet</a></li> 
+                 <li><a href="/wiki/Timeline_of_Russian_innovation" title="Timeline of Russian innovation">Inventions</a></li> 
+                 <li><a href="/wiki/Russian_literature" title="Russian literature">Literature</a></li> 
+                 <li><a href="/wiki/Russian_martial_arts" title="Russian martial arts">Martial arts</a></li> 
+                 <li><a href="/wiki/Media_of_Russia" class="mw-redirect" title="Media of Russia">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Russia" title="Music of Russia">Music</a></li> 
+                 <li><a href="/wiki/Names_of_Rus%27,_Russia_and_Ruthenia" title="Names of Rus', Russia and Ruthenia">Names</a></li> 
+                 <li><a href="/wiki/Russian_nobility" title="Russian nobility">Nobility</a></li> 
+                 <li><a href="/wiki/Flag_of_Russia" title="Flag of Russia">National Flag</a></li> 
+                 <li><a href="/wiki/Russian_opera" title="Russian opera">Opera</a></li> 
+                 <li><a href="/wiki/List_of_Russian_philosophers" title="List of Russian philosophers">Philosophy</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Russian_language" title="Russian language">Russian language</a></li> 
+                 <li><a href="/wiki/Television_in_Russia" title="Television in Russia">Television</a></li> 
+                 <li><a href="/wiki/Sport_in_Russia" title="Sport in Russia">Sports</a></li> 
+                 <li><a href="/wiki/List_of_World_Heritage_Sites_in_Russia" title="List of World Heritage Sites in Russia">World Heritage sites</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Russia" title="Outline of Russia">Outline</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Russia" title="Category:Russia">Category</a></li> 
+             <li><a href="/wiki/Portal:Russia" title="Portal:Russia">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Asia" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Asia_topic" title="Template:Asia topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Asia_topic" title="Template talk:Asia topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Asia_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Asia" style="font-size:114%;margin:0 4em">
+            Public holidays in Asia
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Afghanistan" title="Public holidays in Afghanistan">Afghanistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bahrain" title="Public holidays in Bahrain">Bahrain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bangladesh" title="Public holidays in Bangladesh">Bangladesh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bhutan" title="Public holidays in Bhutan">Bhutan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Brunei" title="Public holidays in Brunei">Brunei</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cambodia" title="Public holidays in Cambodia">Cambodia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_China" title="Public holidays in China">China</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_East_Timor" class="mw-redirect" title="Public holidays in East Timor">East Timor (Timor-Leste)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_India" title="Public holidays in India">India</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Indonesia" title="Public holidays in Indonesia">Indonesia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iran" title="Public holidays in Iran">Iran</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iraq" title="Public holidays in Iraq">Iraq</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Israel" title="Public holidays in Israel">Israel</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Japan" title="Public holidays in Japan">Japan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jordan" title="Public holidays in Jordan">Jordan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Korea" title="Public holidays in North Korea">North Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Korea" title="Public holidays in South Korea">South Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kuwait" title="Public holidays in Kuwait">Kuwait</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kyrgyzstan" title="Public holidays in Kyrgyzstan">Kyrgyzstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Laos" title="Public holidays in Laos">Laos</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lebanon" title="Public holidays in Lebanon">Lebanon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malaysia" title="Public holidays in Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Maldives" title="Public holidays in the Maldives">Maldives</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mongolia" title="Public holidays in Mongolia">Mongolia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Myanmar" title="Public holidays in Myanmar">Myanmar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nepal" title="Public holidays in Nepal">Nepal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Oman" title="Public holidays in Oman">Oman</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Pakistan" title="Public holidays in Pakistan">Pakistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Philippines" title="Public holidays in the Philippines">Philippines</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Qatar" title="Public holidays in Qatar">Qatar</a></li> 
+             <li><a class="mw-selflink selflink">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saudi_Arabia" title="Public holidays in Saudi Arabia">Saudi Arabia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Singapore" title="Public holidays in Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sri_Lanka" class="mw-redirect" title="Public holidays in Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Syria" title="Public holidays in Syria">Syria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tajikistan" title="Public holidays in Tajikistan">Tajikistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Thailand" title="Public holidays in Thailand">Thailand</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkmenistan" title="Public holidays in Turkmenistan">Turkmenistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Arab_Emirates" title="Public holidays in the United Arab Emirates">United Arab Emirates</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uzbekistan" title="Public holidays in Uzbekistan">Uzbekistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vietnam" title="Public holidays in Vietnam">Vietnam</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Yemen" title="Public holidays in Yemen">Yemen</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with<br>limited recognition</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_State_of_Palestine" title="Public holidays in the State of Palestine">Palestine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Taiwan" title="Public holidays in Taiwan">Taiwan</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a> and<br>other territories</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Public_holidays_in_the_British_Indian_Ocean_Territory&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in the British Indian Ocean Territory (page does not exist)">British Indian Ocean Territory</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Christmas_Island" title="Public holidays in Christmas Island">Christmas Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cocos_(Keeling)_Islands" title="Public holidays in the Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hong_Kong" title="Public holidays in Hong Kong">Hong Kong</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Macau" title="Public holidays in Macau">Macau</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+           <div> 
+            <ul>
+             <li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Book:Asia" title="Book:Asia">Book</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Asia" title="Category:Asia">Category</a></li> 
+             <li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> <a href="/wiki/Portal:Asia" title="Portal:Asia">Asia portal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Europe" title="Template:Public holidays in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Europe" title="Template talk:Public holidays in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Europe" style="font-size:114%;margin:0 4em">
+            Public holidays in Europe
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Albania" title="Public holidays in Albania">Albania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Andorra" title="Public holidays in Andorra">Andorra</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Austria" title="Public holidays in Austria">Austria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belarus" title="Public holidays in Belarus">Belarus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belgium" title="Public holidays in Belgium">Belgium</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bosnia_and_Herzegovina" title="Public holidays in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bulgaria" title="Public holidays in Bulgaria">Bulgaria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Croatia" title="Public holidays in Croatia">Croatia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Czech_Republic" title="Public holidays in the Czech Republic">Czech Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Denmark" title="Public holidays in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Estonia" title="Public holidays in Estonia">Estonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Finland" title="Public holidays in Finland">Finland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_France" title="Public holidays in France">France</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Germany" title="Public holidays in Germany">Germany</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greece" title="Public holidays in Greece">Greece</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hungary" title="Public holidays in Hungary">Hungary</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iceland" title="Public holidays in Iceland">Iceland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Ireland" title="Public holidays in the Republic of Ireland">Ireland</a></li> 
+             <li class="mw-empty-elt"></li> 
+             <li><a href="/wiki/Public_holidays_in_Italy" title="Public holidays in Italy">Italy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Latvia" title="Public holidays in Latvia">Latvia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liechtenstein" title="Public holidays in Liechtenstein">Liechtenstein</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lithuania" title="Public holidays in Lithuania">Lithuania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Luxembourg" title="Public holidays in Luxembourg">Luxembourg</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malta" title="Public holidays in Malta">Malta</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Moldova" title="Public holidays in Moldova">Moldova</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Monaco" title="Public holidays in Monaco">Monaco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montenegro" title="Public holidays in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Netherlands" title="Public holidays in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Macedonia" title="Public holidays in North Macedonia">North Macedonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Norway" title="Public holidays in Norway">Norway</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Poland" title="Public holidays in Poland">Poland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Portugal" title="Public holidays in Portugal">Portugal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Romania" title="Public holidays in Romania">Romania</a></li> 
+             <li><a class="mw-selflink selflink">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_San_Marino" class="mw-redirect" title="Public holidays in San Marino">San Marino</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Serbia" title="Public holidays in Serbia">Serbia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovakia" title="Public holidays in Slovakia">Slovakia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovenia" title="Public holidays in Slovenia">Slovenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Spain" title="Public holidays in Spain">Spain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sweden" title="Public holidays in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Switzerland" title="Public holidays in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ukraine" title="Public holidays in Ukraine">Ukraine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Kingdom" title="Public holidays in the United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vatican_City" title="Public holidays in Vatican City">Vatican City</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">States with limited<br>recognition</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kosovo" title="Public holidays in Kosovo">Kosovo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Transnistria" title="Public holidays in Transnistria">Transnistria</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies and<br>other entities</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_%C3%85land" title="Public holidays in Åland">Åland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Faroe_Islands" title="Public holidays in the Faroe Islands">Faroe Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gibraltar" title="Public holidays in Gibraltar">Gibraltar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guernsey" title="Public holidays in Guernsey">Guernsey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Isle_of_Man" title="Public holidays in the Isle of Man">Isle of Man</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jersey" title="Public holidays in Jersey">Jersey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Svalbard" title="Public holidays in Svalbard">Svalbard</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other entities</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_European_Union" title="Public holidays in the European Union">European Union</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="20x20px&amp;#124;link=&amp;#124;alt=_Public_holidays_in_Russia" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Russia" title="Template:Public holidays in Russia"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Russia" title="Template talk:Public holidays in Russia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Russia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="20x20px&amp;#124;link=&amp;#124;alt=_Public_holidays_in_Russia" style="font-size:114%;margin:0 4em">
+            <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/30px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/40px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600"> <a class="mw-selflink selflink">Public holidays in Russia</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> (1 Jan)</li> 
+             <li><a href="/wiki/Christmas_in_Russia" title="Christmas in Russia">Christmas</a> (7 Jan)</li> 
+             <li><a href="/wiki/Defender_of_the_Fatherland_Day" title="Defender of the Fatherland Day">Defender of the Fatherland Day</a> (23 Feb)</li> 
+             <li><a href="/wiki/International_Women%27s_Day" title="International Women's Day">International Women's Day</a> (8 Mar)</li> 
+             <li><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">International Workers' Day</a> (1 May)</li> 
+             <li><a href="/wiki/Victory_Day_(9_May)" title="Victory Day (9 May)">Victory Day</a> (9 May)</li> 
+             <li><a href="/wiki/Russia_Day" title="Russia Day">Russia Day</a> (12 Jun)</li> 
+             <li><a href="/wiki/Unity_Day_(Russia)" title="Unity Day (Russia)">Unity Day</a> (4 Nov)</li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20210131160703
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.168 seconds
+Real time usage: 1.592 seconds
+Preprocessor visited node count: 26417/1000000
+Post‐expand include size: 183860/2097152 bytes
+Template argument size: 29660/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 47/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16349/5000000 bytes
+Lua time usage: 0.442/10.000 seconds
+Lua memory usage: 15964517/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1402.298      1 -total
+ 53.70%  753.097      9 Template:Navbox
+ 33.98%  476.539      1 Template:Public_holidays_in_Europe
+ 33.66%  471.951      1 Template:Europe_topic
+ 29.94%  419.875    105 Template:Iso2country
+ 17.42%  244.223      1 Template:Asia_topic
+ 12.38%  173.578     32 Template:Lang
+ 11.67%  163.647    105 Template:Iso2country/data
+ 10.59%  148.441      1 Template:Culture_of_Russia
+ 10.28%  144.215      1 Template:Culture_of_region
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:873520-0!canonical and timestamp 20210131160701 and revision id 998842142. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Russia&amp;oldid=998842142">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Russia&amp;oldid=998842142</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Russia" title="Category:Public holidays in Russia">Public holidays in Russia</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Observances_in_Russia" title="Category:Observances in Russia">Observances in Russia</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li>
+       <li><a href="/wiki/Category:Articles_with_dead_external_links_from_December_2017" title="Category:Articles with dead external links from December 2017">Articles with dead external links from December 2017</a></li>
+       <li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_March_2013" title="Category:Articles needing additional references from March 2013">Articles needing additional references from March 2013</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Russian-language_text" title="Category:Articles containing Russian-language text">Articles containing Russian-language text</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Russia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Russia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Russia" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Russia" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Russia">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Russia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Russia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Russia&amp;oldid=998842142" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Russia&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Russia&amp;id=998842142&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1401527" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Russia&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Russia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Holidays_in_Russia" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B9%D8%B7%D9%84_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9_%D9%81%D9%8A_%D8%B1%D9%88%D8%B3%D9%8A%D8%A7" title="قائمة العطل الرسمية في روسيا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%A0%D0%B0%C3%A7%C3%A7%D0%B5%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B9%C4%95%D0%BD_%D1%83%D1%8F%D0%B2%C4%95%D1%81%D0%B5%D0%BC%D0%BF%D0%B5_%D0%B0%D1%81%C4%83%D0%BC%D0%BB%C4%83%D1%85_%D0%BA%D1%83%D0%BD%C4%95%D1%81%D0%B5%D0%BC" title="Раççей Федерацийĕн уявĕсемпе асăмлăх кунĕсем – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Feiertage_in_Russland" title="Feiertage in Russland – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/F%C3%AAtes_et_jours_f%C3%A9ri%C3%A9s_en_Russie" title="Fêtes et jours fériés en Russie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Cuti_umum_di_Rusia" title="Cuti umum di Rusia – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Feriados_na_R%C3%BAssia" title="Feriados na Rússia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Праздники России – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D1%81%D1%81%D1%8B%D1%8B%D0%B9%D0%B0_%D0%B1%D1%8B%D1%80%D0%B0%D0%B0%D2%BB%D1%8B%D0%BD%D0%BD%D1%8C%D1%8B%D0%BA%D1%82%D0%B0%D1%80%D0%B0" title="Арассыыйа бырааһынньыктара – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ven%C3%A4j%C3%A4n_juhlap%C3%A4iv%C3%A4t" title="Venäjän juhlapäivät – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Helgdagar_i_Ryssland" title="Helgdagar i Ryssland – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%84%E0%B8%B1%E0%B8%8D%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2" title="รายชื่อวันสำคัญของรัสเซีย – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%96%D1%97" title="Свята Росії – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/C%C3%A1c_ng%C3%A0y_l%E1%BB%85_%E1%BB%9F_Nga" title="Các ngày lễ ở Nga – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%AC%E4%BC%97%E5%81%87%E6%9C%9F" title="俄罗斯公众假期 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1401527#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 7 January 2021, at 07:43<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Russia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.168","walltime":"1.592","ppvisitednodes":{"value":26417,"limit":1000000},"postexpandincludesize":{"value":183860,"limit":2097152},"templateargumentsize":{"value":29660,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":47,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16349,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1402.298      1 -total"," 53.70%  753.097      9 Template:Navbox"," 33.98%  476.539      1 Template:Public_holidays_in_Europe"," 33.66%  471.951      1 Template:Europe_topic"," 29.94%  419.875    105 Template:Iso2country"," 17.42%  244.223      1 Template:Asia_topic"," 12.38%  173.578     32 Template:Lang"," 11.67%  163.647    105 Template:Iso2country/data"," 10.59%  148.441      1 Template:Culture_of_Russia"," 10.28%  144.215      1 Template:Culture_of_region"]},"scribunto":{"limitreport-timeusage":{"value":"0.442","limit":"10.000"},"limitreport-memusage":{"value":15964517,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1261","timestamp":"20210131160703","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Russia","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Russia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1401527","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1401527","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-02T17:54:18Z","dateModified":"2021-01-07T07:43:34Z","headline":"Russia"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":127,"wgHostname":"mw1353"});});</script> 
+ </body>
+</html>

@@ -28,7 +28,8 @@ public final class BillAction {
 
     @Override
     public String toString() {
-        return "{\"chamber\":\"" + chamber + "\"," +
+        return "{" +
+                "\"chamber\":\"" + chamber + "\"," +
                 "\"title\":\"" + title + "\"," +
                 "\"date\":\"" + date.toString() + "\"" +
                 "}";

@@ -39,7 +39,6 @@ public enum PolicyArea {
     WATER_RESOURCES_DEVELOPMENT,
     ;
 
-    private static final PolicyArea[] POLICIES = PolicyArea.values();
     private static HashSet<String> EXCLUDED;
 
     private String tag;
@@ -71,7 +70,7 @@ public enum PolicyArea {
     }
 
     public static PolicyArea fromTag(String input) {
-        for(PolicyArea area : POLICIES) {
+        for(PolicyArea area : PolicyArea.values()) {
             if(area.getTag().equalsIgnoreCase(input)) {
                 return area;
             }

@@ -1,44 +1,41 @@
 package me.randomhashtags.worldlaws.location;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.Jsoupable;
-import me.randomhashtags.worldlaws.LocalServer;
-import me.randomhashtags.worldlaws.WLLogger;
+import org.apache.logging.log4j.Level;
+
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
-import org.json.JSONArray;
-import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import org.jsoup.nodes.Node;
+import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
 import java.util.*;
-import java.util.logging.Level;
 import java.util.stream.Stream;
 
 public final class CustomCountry implements Jsoupable {
 
-    private static final Elements TIMEZONE_ELEMENTS = Jsoupable.getStaticDocumentElements("https://en.wikipedia.org/wiki/List_of_time_zones_by_country", "table.wikitable tbody tr");
-    private static final Elements FLAG_ELEMENTS = Jsoupable.getStaticDocument("https://emojipedia.org/flags/", true).select("ul.emoji-list li a[href]");
-    private static final Elements ISO_ALPHA_2_ELEMENTS = Jsoupable.getStaticDocumentElements("https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2", "div.mw-parser-output table.wikitable", 2).select("tbody tr");
+    private static final Elements TIMEZONE_ELEMENTS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/List_of_time_zones_by_country", "table.wikitable tbody tr");
+    private static final Elements FLAG_ELEMENTS = Jsoupable.getStaticDocument(FileType.COUNTRIES, "https://emojipedia.org/flags/", true).select("ul.emoji-list li a[href]");
+    private static final Elements ISO_ALPHA_2_ELEMENTS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2", "div.mw-parser-output table.wikitable", 2).select("tbody tr");
 
     static {
         ISO_ALPHA_2_ELEMENTS.remove(0);
     }
 
-    private Elements infobox;
-    private String backendID, tag, shortName, name, flagURL, flagEmoji, isoAlpha2;
+    private final String tag, shortName, name;
+    private String flagURL, flagEmoji, isoAlpha2;
     private CountryDaylightSavingsTime daylightSavingsTime;
     private Set<UTCOffset> timezones;
-    private Territories territories;
-
+    private boolean hasTerritories;
     private String information;
 
     public CustomCountry(String tag, Document page) {
         this.tag = tag;
-        infobox = page.select("table.infobox tbody tr");
+        final Elements infobox = page.select("table.infobox tbody tr");
 
-        final String sname = tag.equalsIgnoreCase("artsakh") ? tag
+        shortName = tag.equalsIgnoreCase("artsakh") ? tag
                 : page.select("h1.firstHeading").get(0).text()
                 .replaceFirst("Democratic Republic of the ", "")
                 .replaceFirst("Democratic Republic of ", "")
@@ -51,38 +48,16 @@ public final class CustomCountry implements Jsoupable {
 
                 .replaceFirst("Northern ", "")
                 .replaceFirst("Federated States of ", "")
-                .replaceFirst(" \\(country\\)", "")
-                ;
-        shortName = sname;
-
-        backendID = sname.toLowerCase().replace(" ", "");
-        name = infobox.size() > 0 ? infobox.get(0).select("th div.fn").text() : shortName;
+                .replaceFirst(" \\(country\\)", "");
+        name = infobox.size() > 0 ? removeReferences(infobox.get(0).select("th div.fn").text()) : shortName;
 
         setupFlagEmoji();
         setupTimeZones();
         setupFlagURL();
     }
-    public CustomCountry(JSONObject information) {
-        backendID = information.getString("backendID");
-        tag = information.getString("tag");
-        shortName = information.getString("shortName");
-        name = information.getString("name");
-        flagURL = information.getString("flagURL");
-        flagEmoji = information.getString("flagEmoji");
-        timezones = new HashSet<>();
-        final JSONArray timezones = information.getJSONArray("timezones");
-        for(Object obj : timezones) {
-            final JSONObject timezoneJSON = (JSONObject) obj;
-            final UTCOffset offset = new UTCOffset(timezoneJSON);
-            this.timezones.add(offset);
-        }
-    }
 
-    public String getTag() {
-        return tag;
-    }
     public String getBackendID() {
-        return backendID;
+        return shortName.toLowerCase().replace(" ", "");
     }
     public String getShortName() {
         return shortName;
@@ -98,12 +73,6 @@ public final class CustomCountry implements Jsoupable {
     }
     public String getISOAlpha2() {
         return isoAlpha2;
-    }
-    public Territories getTerritories() {
-        return territories;
-    }
-    public void setTerritories(Territories territories) {
-        this.territories = territories;
     }
 
     private void setupFlagEmoji() {
@@ -130,24 +99,58 @@ public final class CustomCountry implements Jsoupable {
             elements.parallelStream().forEach(element -> {
                 final Elements tds = element.select("td");
                 final int timeZones = Integer.parseInt(tds.get(1).text());
-                final Element element3 = tds.get(2);
+                final Element timezoneElement = tds.get(2);
                 if(timeZones == 1) {
-                    final UTCOffset offset = getTimeZone(element3.text());
+                    final UTCOffset offset = getTimeZone(timezoneElement.text());
                     this.daylightSavingsTime = DST.getFrom(shortName, offset);
                     timezones.add(offset);
                 } else {
-                    final Elements timezoneElements = element3.select("a");
+                    int lastIndex = 0, targetIndex = 0;
+                    final HashMap<Integer, String> text = new HashMap<>();
+                    final List<Node> allElements = timezoneElement.childNodes();
+                    final int max = allElements.size();
+                    final Elements breaks = timezoneElement.select("br");
+                    for(Element br : breaks) {
+                        final int index = allElements.indexOf(br);
+                        final String string = getTimeZoneText(allElements, lastIndex, index);
+                        text.put(targetIndex, string);
+                        targetIndex += 1;
+                        lastIndex = index;
+                    }
+                    final String string = getTimeZoneText(allElements, lastIndex, max);
+                    text.put(targetIndex, string);
+                    targetIndex += 1;
+
+                    final Elements timezoneElements = timezoneElement.select("a");
                     timezoneElements.removeIf(tzElement -> !tzElement.attr("title").startsWith("UTC"));
-                    for(Element timeZone : timezoneElements) {
-                        final String value = timeZone.text();
+                    for(int i = 0; i < targetIndex; i++) {
+                        final String value = text.get(i);
                         final UTCOffset offset = getTimeZone(value);
-                        timezones.add(offset);
+                        if(offset != null) {
+                            timezones.add(offset);
+                        }
                     }
                 }
             });
         }
     }
+    private String getTimeZoneText(List<Node> allElements, int lastIndex, int max) {
+        final StringBuilder builder = new StringBuilder();
+        for(int i = lastIndex; i < max; i++) {
+            final Node node = allElements.get(i);
+            final boolean isTextNode = node instanceof TextNode;
+            final String string = removeReferences(isTextNode ? ((TextNode) node).text() : ((Element) node).text());
+            builder.append(string);
+        }
+        return builder.toString();
+    }
     private UTCOffset getTimeZone(String value) {
+        if(value.startsWith(" ")) {
+            value = value.substring(1);
+        }
+        if(value.isEmpty()) {
+            return null;
+        }
         final String[] splits = value.split(" — ");
         final String zones = splits[0].split(" \\(")[0].substring("UTC".length());
         final String[] values = zones.split(":");
@@ -158,16 +161,21 @@ public final class CustomCountry implements Jsoupable {
         if(isNegative) {
             hours *= -1;
         }
-        return new UTCOffset(hours, minutes, splits.length == 1 ? "Whole country" : splits[1].split("\\[")[0]);
+        String string = splits.length == 1 ? "Whole country" : splits[1].split(" \\[")[0];
+        if(string.endsWith(" ")) {
+            string = string.substring(0, string.length()-1);
+        }
+        return new UTCOffset(hours, minutes, string);
     }
     private void setupFlagURL() {
+        final String backendID = getBackendID();
         final Stream<Element> elements = ISO_ALPHA_2_ELEMENTS.parallelStream().filter(row -> {
             final Elements tds = row.select("td");
             if(tds.size() < 2) {
-                return true;
+                return false;
             }
-            final String country = tds.get(1).text().toLowerCase();
-            return !(backendID.equalsIgnoreCase(country) || shortName.equalsIgnoreCase(country) || name.equalsIgnoreCase(country));
+            final String country = tds.get(1).text().toLowerCase().split(" \\(")[0];
+            return backendID.equalsIgnoreCase(country.replace(" ", "")) || shortName.equalsIgnoreCase(country) || name.equalsIgnoreCase(country);
         });
         final Optional<Element> firstElement = elements.findFirst();
         if(firstElement.isPresent()) {
@@ -182,47 +190,71 @@ public final class CustomCountry implements Jsoupable {
         } else {
             final long started = System.currentTimeMillis();
             final HashMap<CountryInfo, String> values = new HashMap<>();
-            final List<CountryResource> resources = new ArrayList<>();
+            final WLCountry country = getWLCountry();
+            if(country != null) {
+                final HashSet<CountryService> services = new HashSet<>(CountryServices.SERVICES);
+                final List<CountryResource> resources = new ArrayList<>();
 
-            final boolean hasTerritories = territories != null;
-            if(hasTerritories) {
-                final String territoriesURL = territories.getWikipageURL();
-                if(territoriesURL != null) {
-                    resources.add(new CountryResource("Territories", territoriesURL));
+                hasTerritories = country.hasTerritories();
+                if(hasTerritories) {
+                    final TerritoryDetails details = TerritoryDetails.INSTANCE;
+                    services.add(details);
+                    resources.add(new CountryResource("Territories", details.getURL(country)));
                 }
-            }
-            values.put(CountryInfo.TERRITORIES, hasTerritories ? territories.getTerritoriesJSONArray() : "null");
+                final int servicesSize = services.size(), max = servicesSize + 1;
 
-            final StringBuilder builder = new StringBuilder("[");
-            boolean isFirst = true;
-            for(CountryResource resource : resources) {
-                builder.append(isFirst ? "" : ",").append(resource.toString());
-                isFirst = false;
-            }
-            builder.append("]");
-            values.put(CountryInfo.RESOURCES, builder.toString());
+                final String website = country.getGovernmentWebsite();
+                if(website != null) {
+                    resources.add(new CountryResource("Government Website", country.getGovernmentWebsite()));
+                }
+                final StringBuilder builder = new StringBuilder("[");
+                boolean isFirst = true;
+                for(CountryResource resource : resources) {
+                    builder.append(isFirst ? "" : ",").append(resource.toString());
+                    isFirst = false;
+                }
+                builder.append("]");
+                values.put(CountryInfo.RESOURCES, builder.toString());
 
-            final HashSet<CountryService> services = new HashSet<>(CountryServices.SERVICES);
-            final int max = services.size()+2;
-            loadNew(started, services, max, values, handler);
+                loadNew(started, country, services, max, values, handler);
+            }
         }
     }
 
-    private void loadNew(long started, HashSet<CountryService> services, int max, HashMap<CountryInfo, String> values, CompletionHandler handler) {
+    private void loadNew(long started, WLCountry country, HashSet<CountryService> services, int max, HashMap<CountryInfo, String> values, CompletionHandler handler) {
+        final String backendID = getBackendID();
         services.parallelStream().forEach(service -> {
             final CountryInfo info = service.getInfo();
-            final boolean isCIA = info == CountryInfo.SERVICE_CIA_VALUES;
-            service.getValue(isCIA ? shortName : backendID, new CompletionHandler() {
+            final CompletionHandler serviceHandler = new CompletionHandler() {
                 @Override
                 public void handle(Object object) {
-                    values.put(info, object.toString());
-                    completeInformation(max, started, values, handler);
+                    completeInformation(info, object, max, started, values, handler);
                 }
-            });
+            };
+            final String countryIdentifier;
+            switch (info) {
+                case SERVICE_CIA_VALUES:
+                    countryIdentifier = shortName;
+                    break;
+                case SERVICE_WIKIPEDIA:
+                    countryIdentifier = tag;
+                    break;
+                case TERRITORIES:
+                    countryIdentifier = null;
+                    ((TerritoryDetails) service).getValues(country, serviceHandler);
+                    break;
+                default:
+                    countryIdentifier = backendID;
+                    break;
+            }
+            if(countryIdentifier != null) {
+                service.getValue(countryIdentifier, serviceHandler);
+            }
         });
     }
 
-    private void completeInformation(int max, long started, HashMap<CountryInfo, String> values, CompletionHandler handler) {
+    private synchronized void completeInformation(CountryInfo info, Object object, int max, long started, HashMap<CountryInfo, String> values, CompletionHandler handler) {
+        values.put(info, object.toString());
         if(values.size() == max) {
             final CountryInformation countryInformation = new CountryInformation(values);
             final String string = countryInformation.toString();
@@ -236,15 +268,14 @@ public final class CustomCountry implements Jsoupable {
                 }
             }
             final String missingString = missingValues.isEmpty() ? "" : " (missing " + missingValues.toString() + ")";
-            WLLogger.log(Level.INFO, "CustomCountry - loaded information for country \"" + backendID + "\" (took " + (System.currentTimeMillis()-started) + "ms)" + missingString);
+            WLLogger.log(Level.INFO, "CustomCountry - loaded information for country \"" + name + "\" (took " + (System.currentTimeMillis()-started) + "ms)" + missingString);
             handler.handle(string);
         }
     }
 
-    private String getGovernmentDetails() {
+    private WLCountry getWLCountry() {
         try {
-            final GovernmentDetails details = GovernmentDetails.valueOf(shortName.toUpperCase().replace(" ", "_"));
-            return details.toString();
+            return WLCountry.valueOf(shortName.toUpperCase().replace(" ", "_"));
         } catch (Exception e) {
             return null;
         }
@@ -253,15 +284,12 @@ public final class CustomCountry implements Jsoupable {
     @Override
     public String toString() {
         return "{" +
-                "\"backendID\":\"" + backendID + "\"," +
-                "\"tag\":\"" + tag + "\"," +
-                "\"shortName\":\"" + shortName + "\"," +
                 "\"name\":\"" + name + "\"," +
+                (!name.equals(shortName) ? "\"shortName\":\"" + shortName + "\"," : "") +
                 "\"flagURL\":\"" + flagURL + "\"," +
                 "\"flagEmoji\":\"" + flagEmoji + "\"," +
-                "\"governmentDetails\":" + getGovernmentDetails() + "," +
-                "\"hasTerritories\":" + (territories != null) + "," +
-                "\"daylightSavingsTime\":" + (daylightSavingsTime != null ? daylightSavingsTime.toString() : "null") + "," +
+                (hasTerritories ? "\"hasTerritories\":true," : "") +
+                (daylightSavingsTime != null ? "\"daylightSavingsTime\":" + daylightSavingsTime.toString() + "," : "") +
                 "\"timezones\":" + timezones.toString() +
                 "}";
     }

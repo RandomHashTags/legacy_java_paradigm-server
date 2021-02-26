@@ -27,10 +27,11 @@ public enum LegalitySmokingAge implements CountryLegalityService {
         return countries;
     }
 
+    @Override
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Smoking_age";
-        final Elements tables = getDocumentElements(url, "div.mw-parser-output div + table.wikitable");
+        final Elements tables = getLegalityDocumentElements(url, "div.mw-parser-output div + table.wikitable");
         final String title = getInfo().getTitle();
         final EventSource source = new EventSource("Wikipedia: Smoking age", url);
         final EventSources sources = new EventSources(source);

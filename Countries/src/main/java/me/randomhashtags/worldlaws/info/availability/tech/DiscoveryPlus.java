@@ -33,7 +33,19 @@ public enum DiscoveryPlus implements CountryAvailabilityService {
         countries = new HashMap<>();
         final String value = getAvailability(true);
         final String[] array = {
-                "unitedstates"
+                "denmark",
+                "finland",
+                "india",
+                "ireland",
+                "italy",
+                "japan",
+                "netherlands",
+                "norway",
+                "poland",
+                "spain",
+                "sweden",
+                "unitedkingdom",
+                "unitedstates",
         };
         for(String country : array) {
             countries.put(country, value);

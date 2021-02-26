@@ -1,0 +1,998 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Tanzania - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBYJwApAAEMAABYVCrMAAAAH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Tanzania","wgTitle":"Public holidays in Tanzania","wgCurRevisionId":1001645758,"wgRevisionId":1001645758,"wgArticleId":26429288,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Public holidays in Tanzania","Tanzanian culture","Tanzanian society","Tanzania-related lists","Events in Tanzania","Lists of public holidays by country"],"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Tanzania","wgRelevantArticleId":26429288,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1401538"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":
+"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1200px-Flag_of_Tanzania.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Tanzania"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Tanzania&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Tanzania&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Tanzania"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Tanzania rootpage-Public_holidays_in_Tanzania skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Tanzania</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <style data-mw-deduplicate="TemplateStyles:r1003042402">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%}.mw-parser-output .sidebar a{white-space:nowrap}.mw-parser-output .sidebar-wraplinks a{white-space:normal}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding-bottom:0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em 0}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding-top:0.2em;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding-top:0.4em;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.4em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding-top:0}.mw-parser-output .sidebar-image{padding:0.2em 0 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em}.mw-parser-output .sidebar-content{padding:0 0.1em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.4em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%}.mw-parser-output .sidebar-collapse .sidebar-navbar{padding-top:0.6em}.mw-parser-output .sidebar-collapse .mw-collapsible-toggle{margin-top:0.2em}.mw-parser-output .sidebar-list-title{text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none;margin-left:0!important;margin-right:0!important}}</style>
+      <table class="sidebar sidebar-collapse vertical-navbox nomobile hlist">
+       <tbody>
+        <tr>
+         <td class="sidebar-pretitle">Part of <a href="/wiki/Category:Tanzania" title="Category:Tanzania">a series</a> on the</td>
+        </tr>
+        <tr>
+         <th class="sidebar-title-with-pretitle" style="border-bottom: 1px solid #aaa"><span class="wraplinks"><a href="/wiki/Culture_of_Tanzania" title="Culture of Tanzania">Culture of Tanzania</a></span></th>
+        </tr>
+        <tr>
+         <td class="sidebar-image photo"><a href="/wiki/File:Flag_of_Tanzania.svg" class="image"><img alt="Flag of Tanzania.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/150px-Flag_of_Tanzania.svg.png" decoding="async" width="150" height="100" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/225px-Flag_of_Tanzania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/300px-Flag_of_Tanzania.svg.png 2x" data-file-width="900" data-file-height="600"></a></td>
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/History_of_Tanzania" title="History of Tanzania">History</a></th>
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Ethnic_groups_in_Tanzania" class="mw-redirect" title="Ethnic groups in Tanzania">People</a></th>
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Languages_of_Tanzania" title="Languages of Tanzania">Languages</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/Cuisine_of_Tanzania" class="mw-redirect" title="Cuisine of Tanzania">Cuisine</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Culture_of_Tanzania#Cuisine" title="Culture of Tanzania">Main Cuisine</a></li> 
+             <li><a href="/wiki/Zanzibari_cuisine" title="Zanzibari cuisine">Zanzibari cuisine</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a class="mw-selflink selflink">Festivals</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Saba_Saba_Day" title="Saba Saba Day">Saba Saba</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Religion_in_Tanzania" title="Religion in Tanzania">Religion</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Music and performing arts
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Music_of_Tanzania" title="Music of Tanzania">Music</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/Media_in_Tanzania" class="mw-redirect" title="Media in Tanzania">Media</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Cinema_of_Tanzania" title="Cinema of Tanzania">Cinema</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Sport_in_Tanzania" title="Sport in Tanzania">Sport</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Monuments
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/List_of_World_Heritage_Sites_in_Tanzania" title="List of World Heritage Sites in Tanzania">World Heritage Sites</a></li> 
+             <li><a href="/wiki/List_of_Landmarks_in_Stone_Town" title="List of Landmarks in Stone Town">Stone Town Buildings</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Symbols
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Flag_of_Tanzania" title="Flag of Tanzania">Flag</a></li> 
+             <li><a href="/wiki/Coat_of_arms_of_Tanzania" title="Coat of arms of Tanzania">Coat of arms</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-below"> 
+          <ul>
+           <li class="mw-empty-elt"></li> 
+           <li><a href="/wiki/File:Flag_of_Tanzania.svg" class="image"><img alt="Flag of Tanzania.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/16px-Flag_of_Tanzania.svg.png" decoding="async" width="16" height="11" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/24px-Flag_of_Tanzania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/32px-Flag_of_Tanzania.svg.png 2x" data-file-width="900" data-file-height="600"></a>&nbsp;<a href="/wiki/Portal:Tanzania" title="Portal:Tanzania">Tanzania portal</a></li>
+          </ul></td>
+        </tr>
+        <tr>
+         <td class="sidebar-navbar"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+          <div class="navbar plainlinks hlist navbar-mini">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Culture_of_Tanzania" title="Template:Culture of Tanzania"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Culture_of_Tanzania" title="Template talk:Culture of Tanzania"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Culture_of_Tanzania&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Public holidays in Tanzania</b> are in accordance with the Public Holidays Ordinance (Amended) Act,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> 1966 and are observed throughout the nation. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#List_for_2020"><span class="tocnumber">2</span> <span class="toctext">List for 2020</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#List_for_2016"><span class="tocnumber">3</span> <span class="toctext">List for 2016</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Tanzania&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The Public Holidays Ordinance (Amended) Act, 1966 lists twelve public holidays in its schedule. At present, Tanzania has a total of seventeen public holidays:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> eight <a href="/wiki/Religious_holiday" class="mw-redirect" title="Religious holiday">religious holidays</a>, three <a href="/wiki/National_Day" class="mw-redirect" title="National Day">national holidays</a>, two commemorating the death anniversaries of the inaugural leaders of its constituent states and the remaining four of other national importance. </p>
+      <p>The <a href="/wiki/President_of_Tanzania" title="President of Tanzania">President of Tanzania</a> may declare additional holidays at his or her discretion, for example, during the general election day. The <a href="/wiki/President_of_Zanzibar" title="President of Zanzibar">President of Zanzibar</a> may do the same within the semi-autonomous islands of <a href="/wiki/Zanzibar" title="Zanzibar">Zanzibar</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> A recent example of this was on 4 November 2015 where President Kikwete announced a national holiday for the next day to celebrate Magufuli winning the presidential election.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p> 
+      <h2><span class="mw-headline" id="List_for_2020">List for 2020</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Tanzania&amp;action=edit&amp;section=2" title="Edit section: List for 2020">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th rowspan="6">Key </th> 
+         <td style="background:#FF9"> </td> 
+         <td>National holiday </td>
+        </tr> 
+        <tr> 
+         <td bgcolor="#98FB98"> </td> 
+         <td>Religious holiday </td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Maulidi_Day_in_Dar_es_Salaam,_Tanzania.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Maulidi_Day_in_Dar_es_Salaam%2C_Tanzania.jpg/220px-Maulidi_Day_in_Dar_es_Salaam%2C_Tanzania.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Maulidi_Day_in_Dar_es_Salaam%2C_Tanzania.jpg/330px-Maulidi_Day_in_Dar_es_Salaam%2C_Tanzania.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Maulidi_Day_in_Dar_es_Salaam%2C_Tanzania.jpg/440px-Maulidi_Day_in_Dar_es_Salaam%2C_Tanzania.jpg 2x" data-file-width="1024" data-file-height="683"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Maulidi_Day_in_Dar_es_Salaam,_Tanzania.jpg" class="internal" title="Enlarge"></a>
+         </div>A <a href="/wiki/Banner" title="Banner">banner</a> with <a href="/wiki/Mawlid" title="Mawlid">Maulid</a> greetings in <a href="/wiki/Kisutu,_Dar_Es_Salaam" class="mw-redirect" title="Kisutu, Dar Es Salaam">Kisutu</a>, <a href="/wiki/Dar_es_Salaam" title="Dar es Salaam">Dar es Salaam</a>.
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Zanzibar_revolution_40_years.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zanzibar_revolution_40_years.JPG/220px-Zanzibar_revolution_40_years.JPG" decoding="async" width="220" height="172" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zanzibar_revolution_40_years.JPG/330px-Zanzibar_revolution_40_years.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zanzibar_revolution_40_years.JPG/440px-Zanzibar_revolution_40_years.JPG 2x" data-file-width="794" data-file-height="619"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Zanzibar_revolution_40_years.JPG" class="internal" title="Enlarge"></a>
+         </div>Revolution Day military parade at <a href="/wiki/Amaan_Stadium" title="Amaan Stadium">Amaan Stadium</a> in <a href="/wiki/Unguja" title="Unguja">Unguja</a>, <a href="/wiki/Zanzibar" title="Zanzibar">Zanzibar</a>.
+        </div>
+       </div>
+      </div> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th width="100px">Date</th> 
+         <th width="180px">Name</th> 
+         <th>Notes </th>
+        </tr> 
+        <tr> 
+         <td>1 January </td> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>12 January </td> 
+         <td style="background:#FF9"><a href="/wiki/Zanzibar_Revolution" title="Zanzibar Revolution">Zanzibar Revolution</a> Day </td> 
+         <td>Marking the end of the <a href="/wiki/Sultanate_of_Zanzibar" title="Sultanate of Zanzibar">Sultanate of Zanzibar</a> </td>
+        </tr> 
+        <tr> 
+         <td>7 April </td> 
+         <td>Karume Day </td> 
+         <td>Commemoration of the assassination of Zanzibari President <a href="/wiki/Abeid_Karume" title="Abeid Karume">Abeid Karume</a> </td>
+        </tr> 
+        <tr> 
+         <td>Friday of <a href="/wiki/Holy_Week" title="Holy Week">Holy Week</a><br>March or April </td> 
+         <td bgcolor="#98FB98"><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> </td> 
+         <td>Commemorating the <a href="/wiki/Crucifixion_of_Jesus" title="Crucifixion of Jesus">Crucifixion of Jesus</a> </td>
+        </tr> 
+        <tr> 
+         <td>Monday after <a href="/wiki/Easter" title="Easter">Easter</a><br>March or April </td> 
+         <td bgcolor="#98FB98"><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> </td> 
+         <td>Day compensating for the Sunday commemoration of the resurrection of <a href="/wiki/Christ" class="mw-redirect" title="Christ">Christ</a> </td>
+        </tr> 
+        <tr> 
+         <td>26 April </td> 
+         <td style="background:#FF9">Union Day </td> 
+         <td>The unification of <a href="/wiki/Tanganyika" title="Tanganyika">Tanganyika</a> and the <a href="/wiki/People%27s_Republic_of_Zanzibar" class="mw-redirect" title="People's Republic of Zanzibar">People's Republic of Zanzibar</a> in 1964 </td>
+        </tr> 
+        <tr> 
+         <td>1 May </td> 
+         <td><a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>1 <a href="/wiki/Shawwal" title="Shawwal">Shawwal</a> </td> 
+         <td bgcolor="#98FB98"><a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a> </td> 
+         <td>Marks the end of the holy month of <a href="/wiki/Ramadan" title="Ramadan">Ramadan</a><br>Breaking of the Fast </td>
+        </tr> 
+        <tr> 
+         <td>7 July </td> 
+         <td><a href="/wiki/Saba_Saba_Day" title="Saba Saba Day">Saba Saba Day</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </td> 
+         <td>Climax of the annual <a href="/wiki/Dar_es_Salaam_International_Trade_Fair" title="Dar es Salaam International Trade Fair">Dar es Salaam International Trade Fair</a> </td>
+        </tr> 
+        <tr> 
+         <td>8 August </td> 
+         <td><a href="/wiki/Nane_Nane_Day" title="Nane Nane Day">Nane Nane Day</a> </td> 
+         <td>Farmers' Day </td>
+        </tr> 
+        <tr> 
+         <td>14 October </td> 
+         <td>Nyerere Day </td> 
+         <td>Commemoration of the death anniversary of <a href="/wiki/Julius_Nyerere" title="Julius Nyerere">Julius Nyerere</a>, the father of the nation </td>
+        </tr> 
+        <tr> 
+         <td>12 <a href="/wiki/Rabi%27_al-awwal" class="mw-redirect" title="Rabi' al-awwal">Rabi' al-awwal</a> </td> 
+         <td bgcolor="#98FB98"><a href="/wiki/Maulid" class="mw-redirect" title="Maulid">Maulid Day</a> </td> 
+         <td>Observance of the birth anniversary of the Islamic prophet <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a> </td>
+        </tr> 
+        <tr> 
+         <td>9 December </td> 
+         <td style="background:#FF9">Independence Day </td> 
+         <td>Celebrating the end of <a href="/wiki/Tanganyika_Territory" class="mw-redirect" title="Tanganyika Territory">British rule</a> in 1961 </td>
+        </tr> 
+        <tr> 
+         <td>25 December </td> 
+         <td bgcolor="#98FB98"><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a> </td> 
+         <td>Commemoration of the birth of Jesus </td>
+        </tr> 
+        <tr> 
+         <td>26 December </td> 
+         <td bgcolor="#98FB98"><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td colspan="2">
+          <center>
+           <b>Total</b>
+          </center> </td> 
+         <td>
+          <center>
+           <b><span style="color:red;">15 days</span></b>
+          </center> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="List_for_2016">List for 2016</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Tanzania&amp;action=edit&amp;section=3" title="Edit section: List for 2016">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th rowspan="6">Key </th> 
+         <td style="background:#FF9"> </td> 
+         <td>National holiday </td>
+        </tr> 
+        <tr> 
+         <td bgcolor="#98FB98"> </td> 
+         <td>Religious holiday </td>
+        </tr>
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th width="100px">Date</th> 
+         <th width="180px">Name</th> 
+         <th>Notes </th>
+        </tr> 
+        <tr> 
+         <td>1 January </td> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>12 January </td> 
+         <td style="background:#FF9"><a href="/wiki/Zanzibar_Revolution" title="Zanzibar Revolution">Zanzibar Revolution</a> Day </td> 
+         <td>Marking the end of the <a href="/wiki/Sultanate_of_Zanzibar" title="Sultanate of Zanzibar">Sultanate of Zanzibar</a> </td>
+        </tr> 
+        <tr> 
+         <td>25 March </td> 
+         <td bgcolor="#98FB98"><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> </td> 
+         <td>Commemorating the crucifixion and death of <a href="/wiki/Jesus" title="Jesus">Jesus</a> </td>
+        </tr> 
+        <tr> 
+         <td>28 March </td> 
+         <td bgcolor="#98FB98"><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> </td> 
+         <td>Commemorating the resurrection of Jesus </td>
+        </tr> 
+        <tr> 
+         <td>7 April </td> 
+         <td>Karume Day </td> 
+         <td>Commemoration of the assassination of Zanzibari President <a href="/wiki/Abeid_Karume" title="Abeid Karume">Abeid Karume</a> </td>
+        </tr> 
+        <tr> 
+         <td>26 April </td> 
+         <td style="background:#FF9">Union Day </td> 
+         <td>The unification of <a href="/wiki/Tanganyika" title="Tanganyika">Tanganyika</a> and the <a href="/wiki/People%27s_Republic_of_Zanzibar" class="mw-redirect" title="People's Republic of Zanzibar">People's Republic of Zanzibar</a> in 1964 </td>
+        </tr> 
+        <tr> 
+         <td>1 May </td> 
+         <td><a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>7 July </td> 
+         <td><a href="/wiki/Saba_Saba_Day" title="Saba Saba Day">Saba Saba Day</a> </td> 
+         <td>Climax of the annual <a href="/wiki/Dar_es_Salaam_International_Trade_Fair" title="Dar es Salaam International Trade Fair">Dar es Salaam International Trade Fair</a> </td>
+        </tr> 
+        <tr> 
+         <td>7 July* </td> 
+         <td bgcolor="#98FB98"><a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a> </td> 
+         <td>Marks the end of the holy month of <a href="/wiki/Ramadan" title="Ramadan">Ramadan</a> (2 days) </td>
+        </tr> 
+        <tr> 
+         <td>8 August </td> 
+         <td><a href="/wiki/Nane_Nane_Day" title="Nane Nane Day">Nane Nane Day</a> </td> 
+         <td>Farmers' Day </td>
+        </tr> 
+        <tr> 
+         <td>14 September* </td> 
+         <td bgcolor="#98FB98"><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>14 October </td> 
+         <td>Nyerere Day </td> 
+         <td>Commemoration of the death anniversary of <a href="/wiki/Julius_Nyerere" title="Julius Nyerere">Julius Nyerere</a>, the father of the nation </td>
+        </tr> 
+        <tr> 
+         <td>9 December </td> 
+         <td style="background:#FF9">Independence Day </td> 
+         <td>Celebrating the end of <a href="/wiki/Tanganyika_Territory" class="mw-redirect" title="Tanganyika Territory">British rule</a> in 1961 </td>
+        </tr> 
+        <tr> 
+         <td>25 December* </td> 
+         <td bgcolor="#98FB98"><a href="/wiki/Maulid" class="mw-redirect" title="Maulid">Maulid Day</a> </td> 
+         <td>Observance of the birth anniversary of <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a> </td>
+        </tr> 
+        <tr> 
+         <td>25 December </td> 
+         <td bgcolor="#98FB98"><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a> </td> 
+         <td>Commemoration of the birth of Jesus </td>
+        </tr> 
+        <tr> 
+         <td>26 December </td> 
+         <td bgcolor="#98FB98"><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td colspan="2">
+          <center>
+           <b>Total</b>
+          </center> </td> 
+         <td>
+          <center>
+           <b><span style="color:red;">16 days</span></b>
+          </center> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>* denotes subject to the <a href="/wiki/Islamic_calendar" title="Islamic calendar">sighting of the moon</a> </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Tanzania&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/List_of_holidays_by_country" title="List of holidays by country">List of holidays by country</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Tanzania&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ilo.org/dyn/travail/docs/2234/Public%20Holidays%20Ordinance%20-%201966%20Amendment.pdf">"The Public Holidays Ordinance (Amended) Act, 1966"</a> <span class="cs1-format">(PDF)</span>. Parliament of Tanzania<span class="reference-accessdate">. Retrieved <span class="nowrap">19 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Public+Holidays+Ordinance+%28Amended%29+Act%2C+1966&amp;rft.pub=Parliament+of+Tanzania&amp;rft_id=http%3A%2F%2Fwww.ilo.org%2Fdyn%2Ftravail%2Fdocs%2F2234%2FPublic%2520Holidays%2520Ordinance%2520-%25201966%2520Amendment.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Tanzania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://tanzaniaembassy-us.org/?page_id=1290">"PUBLIC HOLIDAYS IN TANZANIA 2017"</a>. Embassy of the United Republic of Tanzania Washington D.C<span class="reference-accessdate">. Retrieved <span class="nowrap">19 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PUBLIC+HOLIDAYS+IN+TANZANIA+2017&amp;rft.pub=Embassy+of+the+United+Republic+of+Tanzania+Washington+D.C.&amp;rft_id=http%3A%2F%2Ftanzaniaembassy-us.org%2F%3Fpage_id%3D1290&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Tanzania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.ippmedia.com/frontend/?l=63665">"JK: It's public holiday to celebrate Z'bar Revolution"</a>. <i>The Guardian</i>. 13 January 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">12 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=JK%3A+It%27s+public+holiday+to+celebrate+Z%27bar+Revolution&amp;rft.date=2014-01-13&amp;rft_id=http%3A%2F%2Fwww.ippmedia.com%2Ffrontend%2F%3Fl%3D63665&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Tanzania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://ikulu.go.tz/index.php/media/press_details/1971">"Jamhuri ya Muungano wa Tanzania - Tovuti Rasmi ya Rais"</a>. <i>ikulu.go.tz</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ikulu.go.tz&amp;rft.atitle=Jamhuri+ya+Muungano+wa+Tanzania+-+Tovuti+Rasmi+ya+Rais&amp;rft_id=http%3A%2F%2Fikulu.go.tz%2Findex.php%2Fmedia%2Fpress_details%2F1971&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Tanzania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/tanzania/saba-saba-day">"Saba Saba Day in Tanzania in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 23,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Saba+Saba+Day+in+Tanzania+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Ftanzania%2Fsaba-saba-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Tanzania" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Tanzania&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://www.webcitation.org/6ZixXMo67?url=http://www.businesstimes.co.tz/index.php?option=com_content&amp;view=article&amp;id=1590:revisiting-tanzanias-lazy-hazy-holidays-&amp;catid=37:column&amp;Itemid=60">Revisiting Tanzania’s lazy, hazy holidays …</a> by Karl Lymo, <i>Business Times</i></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Africa" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Africa_topic" title="Template:Africa topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Africa_topic" title="Template talk:Africa topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Africa_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Africa" style="font-size:114%;margin:0 4em">
+            Public holidays in Africa
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Algeria" title="Public holidays in Algeria">Algeria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Angola" title="Public holidays in Angola">Angola</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Benin" title="Public holidays in Benin">Benin</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Botswana" title="Public holidays in Botswana">Botswana</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Burkina_Faso" title="Public holidays in Burkina Faso">Burkina Faso</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Burundi" title="Public holidays in Burundi">Burundi</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cameroon" title="Public holidays in Cameroon">Cameroon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cape_Verde" title="Public holidays in Cape Verde">Cape Verde (Cabo Verde)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Central_African_Republic" title="Public holidays in the Central African Republic">Central African Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Chad" title="Public holidays in Chad">Chad</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Comoros" title="Public holidays in the Comoros">Comoros</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Democratic_Republic_of_the_Congo" title="Public holidays in the Democratic Republic of the Congo">Democratic Republic of the Congo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_the_Congo" title="Public holidays in the Republic of the Congo">Republic of the Congo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Djibouti" title="Public holidays in Djibouti">Djibouti</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Equatorial_Guinea" title="Public holidays in Equatorial Guinea">Equatorial Guinea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Eritrea" title="Public holidays in Eritrea">Eritrea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Eswatini" title="Public holidays in Eswatini">Eswatini (Swaziland)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ethiopia" title="Public holidays in Ethiopia">Ethiopia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gabon" title="Public holidays in Gabon">Gabon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Gambia" title="Public holidays in the Gambia">The Gambia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ghana" title="Public holidays in Ghana">Ghana</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guinea" title="Public holidays in Guinea">Guinea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guinea-Bissau" title="Public holidays in Guinea-Bissau">Guinea-Bissau</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ivory_Coast" title="Public holidays in Ivory Coast">Ivory Coast (Côte d'Ivoire)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kenya" title="Public holidays in Kenya">Kenya</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lesotho" title="Public holidays in Lesotho">Lesotho</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liberia" title="Public holidays in Liberia">Liberia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Libya" title="Public holidays in Libya">Libya</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Madagascar" title="Public holidays in Madagascar">Madagascar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malawi" title="Public holidays in Malawi">Malawi</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mali" title="Public holidays in Mali">Mali</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mauritania" title="Public holidays in Mauritania">Mauritania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mauritius" class="mw-redirect" title="Public holidays in Mauritius">Mauritius</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Morocco" title="Public holidays in Morocco">Morocco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mozambique" title="Public holidays in Mozambique">Mozambique</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Namibia" title="Public holidays in Namibia">Namibia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Niger" title="Public holidays in Niger">Niger</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nigeria" title="Public holidays in Nigeria">Nigeria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Rwanda" title="Public holidays in Rwanda">Rwanda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="Public holidays in São Tomé and Príncipe">São Tomé and Príncipe</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Senegal" title="Public holidays in Senegal">Senegal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Seychelles" title="Public holidays in Seychelles">Seychelles</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sierra_Leone" title="Public holidays in Sierra Leone">Sierra Leone</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Somalia" title="Public holidays in Somalia">Somalia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Africa" title="Public holidays in South Africa">South Africa</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Sudan" title="Public holidays in South Sudan">South Sudan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sudan" title="Public holidays in Sudan">Sudan</a></li> 
+             <li><a class="mw-selflink selflink">Tanzania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Togo" title="Public holidays in Togo">Togo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tunisia" title="Public holidays in Tunisia">Tunisia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uganda" title="Public holidays in Uganda">Uganda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Zambia" title="Public holidays in Zambia">Zambia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Zimbabwe" title="Public holidays in Zimbabwe">Zimbabwe</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            States with limited
+            <br>recognition
+           </div></th>
+          <td class="navbox-list navbox-even hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_Sahrawi_Arab_Democratic_Republic" class="mw-redirect" title="Public holidays in the Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Somaliland" title="Public holidays in Somaliland">Somaliland</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            Dependencies and
+            <br>other territories
+           </div></th>
+          <td class="navbox-list navbox-odd hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div> 
+             <ul>
+              <li><a href="/wiki/Public_holidays_in_the_Canary_Islands" class="mw-redirect" title="Public holidays in the Canary Islands">Canary Islands</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Ceuta" class="mw-redirect" title="Public holidays in Ceuta">Ceuta</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Melilla" class="mw-redirect" title="Public holidays in Melilla">Melilla</a>&nbsp;&nbsp;<span style="font-size:85%;">(Spain)</span></li> 
+              <li><a href="/w/index.php?title=Public_holidays_in_Madeira&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Madeira (page does not exist)">Madeira</a>&nbsp;<span style="font-size:85%;">(Portugal)</span></li> 
+              <li><a href="/w/index.php?title=Public_holidays_in_Mayotte&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Mayotte (page does not exist)">Mayotte</a>&nbsp;/ <a href="/w/index.php?title=Public_holidays_in_R%C3%A9union&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Réunion (page does not exist)">Réunion</a>&nbsp;<span style="font-size:85%;">(France)</span></li> 
+              <li><a href="/wiki/Public_holidays_in_Saint_Helena" class="mw-redirect" title="Public holidays in Saint Helena">Saint Helena</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Ascension_Island" class="mw-redirect" title="Public holidays in Ascension Island">Ascension Island</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Tristan_da_Cunha" class="mw-redirect" title="Public holidays in Tristan da Cunha">Tristan da Cunha</a>&nbsp;<span style="font-size:85%;">(United Kingdom)</span></li> 
+              <li><a href="/wiki/Public_holidays_in_Western_Sahara" class="mw-redirect" title="Public holidays in Western Sahara">Western Sahara</a></li>
+             </ul> 
+            </div>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Tanzania_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Tanzania_topics" title="Template:Tanzania topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Tanzania_topics" title="Template talk:Tanzania topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Tanzania_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Tanzania_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Tanzania" title="Tanzania">Tanzania</a>&nbsp;<a href="/wiki/Index_of_Tanzania-related_articles" title="Index of Tanzania-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Tanzania" title="History of Tanzania">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Timeline_of_Tanzanian_history" title="Timeline of Tanzanian history">Timeline</a></li> 
+             <li><a href="/wiki/German_East_Africa" title="German East Africa">German East Africa</a></li> 
+             <li><a href="/wiki/Maji_Maji_Rebellion" title="Maji Maji Rebellion">Maji Maji Rebellion</a></li> 
+             <li><a href="/wiki/East_African_Campaign_(World_War_I)" class="mw-redirect" title="East African Campaign (World War I)">East African Campaign <span style="font-size:85%;">(World War I)</span></a></li> 
+             <li><a href="/wiki/Tanganyika_(territory)" title="Tanganyika (territory)">British rule</a></li> 
+             <li><a href="/wiki/Tanganyika" title="Tanganyika">Tanganyika</a></li> 
+             <li><a href="/wiki/Sultanate_of_Zanzibar" title="Sultanate of Zanzibar">Sultanate of Zanzibar</a></li> 
+             <li><a href="/wiki/Zanzibar_Revolution" title="Zanzibar Revolution">Zanzibar Revolution</a></li> 
+             <li><a href="/wiki/Arusha_Declaration" title="Arusha Declaration">Arusha Declaration</a></li> 
+             <li><a href="/wiki/Ujamaa" title="Ujamaa">Ujamaa</a></li> 
+             <li><a href="/wiki/Uganda%E2%80%93Tanzania_War" title="Uganda–Tanzania War">Uganda–Tanzania War</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <div class="floatright">
+             <a href="/wiki/Coat_of_arms_of_the_United_Republic_of_Tanzania" title="Coat of arms of the United Republic of Tanzania"><img alt="Coat of arms of Tanzania.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_Tanzania.svg/75px-Coat_of_arms_of_Tanzania.svg.png" decoding="async" width="75" height="87" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_Tanzania.svg/113px-Coat_of_arms_of_Tanzania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_Tanzania.svg/150px-Coat_of_arms_of_Tanzania.svg.png 2x" data-file-width="251" data-file-height="291"></a>
+            </div>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Tanzania" title="Geography of Tanzania">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_cities_in_Tanzania" title="List of cities in Tanzania">Cities</a></li> 
+                 <li><a href="/wiki/Districts_of_Tanzania" title="Districts of Tanzania">Districts</a></li> 
+                 <li><a href="/wiki/List_of_islands_of_Tanzania" title="List of islands of Tanzania">Islands</a></li> 
+                 <li><a href="/wiki/List_of_lakes_of_Tanzania" title="List of lakes of Tanzania">Lakes</a></li> 
+                 <li><a href="/wiki/List_of_protected_areas_of_Tanzania" title="List of protected areas of Tanzania">National Parks</a></li> 
+                 <li><a href="/wiki/Regions_of_Tanzania" title="Regions of Tanzania">Regions</a></li> 
+                 <li><a href="/wiki/List_of_rivers_in_Tanzania" class="mw-redirect" title="List of rivers in Tanzania">Rivers</a></li> 
+                 <li><a href="/wiki/List_of_volcanoes_in_Tanzania" title="List of volcanoes in Tanzania">Volcanoes</a></li> 
+                 <li><a href="/wiki/Wildlife_of_Tanzania" title="Wildlife of Tanzania">Wildlife</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Tanzania" title="Politics of Tanzania">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Cabinet_of_Tanzania" title="Cabinet of Tanzania">Cabinet</a></li> 
+                 <li><a href="/wiki/Constitution_of_Tanzania" title="Constitution of Tanzania">Constitution</a></li> 
+                 <li>Courts (<a href="/wiki/High_Court_of_Tanzania" title="High Court of Tanzania">High Court</a>)</li> 
+                 <li><a href="/wiki/Elections_in_Tanzania" title="Elections in Tanzania">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Tanzania" title="Foreign relations of Tanzania">Foreign relations</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Tanzania" title="Human rights in Tanzania">Human rights</a> (<a href="/wiki/LGBT_rights_in_Tanzania" title="LGBT rights in Tanzania">LGBT rights</a>)</li> 
+                 <li><a href="/wiki/Tanzania_People%27s_Defence_Force" title="Tanzania People's Defence Force">Military</a></li> 
+                 <li><a href="/wiki/National_Assembly_(Tanzania)" title="National Assembly (Tanzania)">Parliament</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Tanzania" title="List of political parties in Tanzania">Political parties</a></li> 
+                 <li><a href="/wiki/President_of_Tanzania" title="President of Tanzania">President</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_heads_of_state_of_Tanzania" title="List of heads of state of Tanzania">List</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Vice_President_of_Tanzania" class="mw-redirect" title="Vice President of Tanzania">Vice President</a></li> 
+                 <li><a href="/wiki/Prime_Minister_of_Tanzania" title="Prime Minister of Tanzania">Prime Minister</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_Prime_Ministers_of_Tanzania" class="mw-redirect" title="List of Prime Ministers of Tanzania">List</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Tanzania" title="Economy of Tanzania">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Agriculture_in_Tanzania" title="Agriculture in Tanzania">Agriculture</a></li> 
+                 <li><a href="/wiki/Bank_of_Tanzania" title="Bank of Tanzania">Central bank</a></li> 
+                 <li><a href="/wiki/List_of_companies_of_Tanzania" title="List of companies of Tanzania">Companies</a></li> 
+                 <li><a href="/wiki/Tanzanian_shilling" title="Tanzanian shilling">Shilling <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Dar_es_Salaam_Stock_Exchange" title="Dar es Salaam Stock Exchange">Stock Exchange</a></li> 
+                 <li><a href="/wiki/Taxation_in_Tanzania" title="Taxation in Tanzania">Taxation</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Tanzania" title="Telecommunications in Tanzania">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Tanzania" title="Tourism in Tanzania">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Tanzania" title="Transport in Tanzania">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Tanzanian_society" title="Category:Tanzanian society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Tanzanian_cuisine" class="mw-redirect" title="Tanzanian cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Culture_of_Tanzania" title="Culture of Tanzania">Culture</a></li> 
+                 <li><a href="/wiki/Demographics_of_Tanzania" title="Demographics of Tanzania">Demographics</a></li> 
+                 <li><a href="/wiki/Education_in_Tanzania" title="Education in Tanzania">Education</a></li> 
+                 <li><a href="/wiki/List_of_ethnic_groups_in_Tanzania" title="List of ethnic groups in Tanzania">Ethnic groups</a></li> 
+                 <li><a href="/wiki/Flag_of_Tanzania" title="Flag of Tanzania">Flag</a></li> 
+                 <li><a href="/wiki/Healthcare_in_Tanzania" title="Healthcare in Tanzania">Healthcare</a></li> 
+                 <li><a href="/wiki/HIV/AIDS_in_Tanzania" title="HIV/AIDS in Tanzania">HIV/AIDS</a></li> 
+                 <li><a href="/wiki/Languages_of_Tanzania" title="Languages of Tanzania">Languages</a></li> 
+                 <li><a href="/wiki/List_of_Tanzanians" title="List of Tanzanians">List of Tanzanians</a></li> 
+                 <li><a href="/wiki/Tanzanian_literature" title="Tanzanian literature">Literature</a></li> 
+                 <li><a href="/wiki/Media_of_Tanzania" class="mw-redirect" title="Media of Tanzania">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Tanzania" title="Music of Tanzania">Music</a></li> 
+                 <li><a href="/wiki/Persecution_of_people_with_albinism" title="Persecution of people with albinism">Persecution of Albinos</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Religion_in_Tanzania" title="Religion in Tanzania">Religion</a></li> 
+                 <li><a href="/wiki/Sport_in_Tanzania" title="Sport in Tanzania">Sport</a></li> 
+                 <li><a href="/wiki/Water_supply_and_sanitation_in_Tanzania" title="Water supply and sanitation in Tanzania">Water supply and sanitation</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Zanzibar" title="Zanzibar">Zanzibar</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/History_of_Zanzibar" title="History of Zanzibar">History</a></li> 
+             <li><a href="/wiki/Pemba_Island" title="Pemba Island">Pemba</a></li> 
+             <li><a href="/wiki/Unguja" title="Unguja">Unguja</a></li> 
+             <li><a href="/wiki/Zanzibar_Archipelago" title="Zanzibar Archipelago">Archipelago</a></li> 
+             <li><a href="/wiki/Zanzibar_House_of_Representatives" title="Zanzibar House of Representatives">House of Representatives</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Tanzania" title="Outline of Tanzania">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Tanzania-related_articles" title="Index of Tanzania-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Tanzania" title="Category:Tanzania">Category</a></li> 
+             <li><a href="/wiki/Portal:Tanzania" title="Portal:Tanzania">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1397
+Cached time: 20210130172948
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.404 seconds
+Real time usage: 0.575 seconds
+Preprocessor visited node count: 2145/1000000
+Post‐expand include size: 82634/2097152 bytes
+Template argument size: 10120/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 43/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 20527/5000000 bytes
+Lua time usage: 0.179/10.000 seconds
+Lua memory usage: 4813396/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  496.975      1 -total
+ 27.60%  137.163      1 Template:Culture_of_Tanzania
+ 27.03%  134.353      1 Template:Reflist
+ 26.60%  132.199      1 Template:Culture_of_region
+ 24.09%  119.742      1 Template:Sidebar_with_collapsible_lists
+ 23.62%  117.402      6 Template:Navbox
+ 22.92%  113.905      4 Template:Cite_web
+ 17.97%   89.287      1 Template:Tanzania_topics
+ 16.94%   84.180      1 Template:Country_topics
+ 16.40%   81.505      1 Template:Short_description
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:26429288-0!canonical and timestamp 20210130172947 and revision id 1001645758. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Tanzania&amp;oldid=1001645758">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Tanzania&amp;oldid=1001645758</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Tanzania" title="Category:Public holidays in Tanzania">Public holidays in Tanzania</a></li>
+       <li><a href="/wiki/Category:Tanzanian_culture" title="Category:Tanzanian culture">Tanzanian culture</a></li>
+       <li><a href="/wiki/Category:Tanzanian_society" title="Category:Tanzanian society">Tanzanian society</a></li>
+       <li><a href="/wiki/Category:Tanzania-related_lists" title="Category:Tanzania-related lists">Tanzania-related lists</a></li>
+       <li><a href="/wiki/Category:Events_in_Tanzania" title="Category:Events in Tanzania">Events in Tanzania</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Tanzania" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Tanzania" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Tanzania" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Tanzania" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Tanzania">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Tanzania&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Tanzania&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Tanzania" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Tanzania" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Tanzania&amp;oldid=1001645758" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Tanzania&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Tanzania&amp;id=1001645758&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1401538" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Tanzania&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Tanzania&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Feiertage_in_Tansania" title="Feiertage in Tansania – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%94%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8_%D0%BF%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B8_%D0%B2%D0%BE_%D0%A2%D0%B0%D0%BD%D0%B7%D0%B0%D0%BD%D0%B8%D1%98%D0%B0" title="Државни празници во Танзанија – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1401538#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 20 January 2021, at 17:01<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Tanzania&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.404","walltime":"0.575","ppvisitednodes":{"value":2145,"limit":1000000},"postexpandincludesize":{"value":82634,"limit":2097152},"templateargumentsize":{"value":10120,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":43,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20527,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  496.975      1 -total"," 27.60%  137.163      1 Template:Culture_of_Tanzania"," 27.03%  134.353      1 Template:Reflist"," 26.60%  132.199      1 Template:Culture_of_region"," 24.09%  119.742      1 Template:Sidebar_with_collapsible_lists"," 23.62%  117.402      6 Template:Navbox"," 22.92%  113.905      4 Template:Cite_web"," 17.97%   89.287      1 Template:Tanzania_topics"," 16.94%   84.180      1 Template:Country_topics"," 16.40%   81.505      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.179","limit":"10.000"},"limitreport-memusage":{"value":4813396,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1397","timestamp":"20210130172948","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Tanzania","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Tanzania","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1401538","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1401538","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-03-04T23:44:06Z","dateModified":"2021-01-20T17:01:11Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/38\/Flag_of_Tanzania.svg","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":139,"wgHostname":"mw1272"});});</script> 
+ </body>
+</html>

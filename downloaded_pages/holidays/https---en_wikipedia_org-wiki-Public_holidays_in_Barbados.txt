@@ -1,0 +1,679 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Barbados - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBcQ8wpAICsAAKj8HoMAAAAU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Barbados","wgTitle":"Public holidays in Barbados","wgCurRevisionId":1002669813,"wgRevisionId":1002669813,"wgArticleId":6341143,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use dmy dates from January 2020","All stub articles","Public holidays in Barbados","Barbados-related lists","Barbadian culture","Barbadian society","Caribbean culture",
+"Lists of public holidays by country","Barbados stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Barbados","wgRelevantArticleId":6341143,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q7257759"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":
+"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Barbados"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Barbados&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Barbados&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Barbados"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Barbados rootpage-Public_holidays_in_Barbados skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Barbados</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p> There are 12 <b><a href="/wiki/Public_holiday" title="Public holiday">public holiday</a> in <a href="/wiki/Barbados" title="Barbados">Barbados</a></b>, also called <i>bank holidays</i> locally:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th style="background:#efefef;">Holiday </th> 
+         <th style="background:#efefef;">Date </th> 
+         <th style="background:#efefef;">Date in 2021 </th> 
+         <th style="background:#efefef;">Remarks </th>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> </td> 
+         <td>1 January </td> 
+         <td>1 January 2021 </td> 
+         <td>Celebrates the first day of every year in the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a>. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Errol_Barrow_Day" title="Errol Barrow Day">Errol Barrow Day</a> </td> 
+         <td>21 January </td> 
+         <td>21 January 2021 </td> 
+         <td>A day of recognition for <a href="/wiki/Errol_Barrow" title="Errol Barrow">Errol Barrow</a> the Father of the Nation. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> </td> 
+         <td><i>Date varies</i> </td> 
+         <td>2 April 2021 </td> 
+         <td>Commemorates the <a href="/wiki/Crucifixion_of_Jesus" title="Crucifixion of Jesus">crucifixion and death of Jesus</a>. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> </td> 
+         <td><i>Date varies</i> </td> 
+         <td>5 April 2021 </td> 
+         <td>Day after <a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a>. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/National_Heroes%27_Day" class="mw-redirect" title="National Heroes' Day">National Heroes' Day</a> </td> 
+         <td>28 April </td> 
+         <td>28 April 2021 </td> 
+         <td>Celebrated in honour of the ten <a href="/wiki/Barbadian_National_Heroes" title="Barbadian National Heroes">Barbadian National Heroes</a>. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/May_Day" title="May Day">May Day</a> (<a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a>) </td> 
+         <td>1 May </td> 
+         <td>1 May 2021 </td> 
+         <td>Celebrated in recognition of <a href="/wiki/International_Workers%27_Day" title="International Workers' Day">International Workers' Day</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Whit_Monday" title="Whit Monday">Whit Monday</a> </td> 
+         <td><i>Date varies</i> </td> 
+         <td>24 May 2021 </td> 
+         <td>Day after <a href="/wiki/Pentecost" title="Pentecost">Pentecost</a>. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Emancipation_Day" title="Emancipation Day">Emancipation Day</a> </td> 
+         <td>1 August </td> 
+         <td>1 August 2021 </td> 
+         <td>The date on which <a href="/wiki/Transatlantic_slave_trade" class="mw-redirect" title="Transatlantic slave trade">Trans-Atlantic African slavery</a> was abolished throughout the <a href="/wiki/British_Empire" title="British Empire">British Empire</a>. </td>
+        </tr> 
+        <tr> 
+         <td>Kadooment Day </td> 
+         <td><i>1st Monday in August</i> </td> 
+         <td>3 August 2020 </td> 
+         <td>Climax of <a href="/wiki/Crop_Over" title="Crop Over">Crop Over</a> celebrations. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Independence_Day" class="mw-redirect" title="Independence Day">Independence Day</a> </td> 
+         <td>30 November </td> 
+         <td>30 November 2021 </td> 
+         <td>The anniversary of <a href="/wiki/Barbados_Independence_Act_1966" title="Barbados Independence Act 1966">Barbadian national independence</a>, from the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> in 1966. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a> </td> 
+         <td>25 December </td> 
+         <td>25 December 2021 </td> 
+         <td>Celebrates the <a href="/wiki/Nativity_of_Jesus" title="Nativity of Jesus">birth of Jesus</a>. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a> </td> 
+         <td>26 December </td> 
+         <td>26 December 2021 </td> 
+         <td>Day after Christmas. </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Barbados&amp;action=edit&amp;section=1" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://labour.gov.bb/wp-content/uploads/2019/01/Public-Holidays-for-the-Year-2020.pdf">Public Holidays for the Year 2020</a> - Ministry of Labour</li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Barbados&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.loopnewsbarbados.com/content/happy-holidays-six-long-weekends-2020-barbados">"Happy Holidays: Six long weekends in 2020 for Barbados"</a>. <i>Loop News Barbados</i>. 17 December 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">28 April</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Loop+News+Barbados&amp;rft.atitle=Happy+Holidays%3A+Six+long+weekends+in+2020+for+Barbados&amp;rft.date=2019-12-17&amp;rft_id=https%3A%2F%2Fwww.loopnewsbarbados.com%2Fcontent%2Fhappy-holidays-six-long-weekends-2020-barbados&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Barbados" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.nationnews.com/nationnews/news/80706/barbados-employers-confederation-celebrating-day">"BARBADOS EMPLOYERS' CONFEDERATION: Celebrating May Day"</a>. <i>Nation News</i>. 7 May 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">28 April</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nation+News&amp;rft.atitle=BARBADOS+EMPLOYERS%27+CONFEDERATION%3A+Celebrating+May+Day&amp;rft.date=2016-05-07&amp;rft_id=https%3A%2F%2Fwww.nationnews.com%2Fnationnews%2Fnews%2F80706%2Fbarbados-employers-confederation-celebrating-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Barbados" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Barbados_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Barbados_topics" title="Template:Barbados topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Barbados_topics" title="Template talk:Barbados topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Barbados_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Barbados_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Barbados" title="Barbados">Barbados</a>&nbsp;<a href="/wiki/Index_of_Barbados-related_articles" title="Index of Barbados-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Barbados" title="History of Barbados">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Timeline_of_Barbadian_history" title="Timeline of Barbadian history">Timeline</a></li> 
+             <li><a href="/wiki/British_Empire" title="British Empire">British Empire</a></li> 
+             <li><a href="/wiki/List_of_Governors_of_Barbados" class="mw-redirect" title="List of Governors of Barbados">Governors</a></li> 
+             <li><a href="/wiki/History_of_the_British_West_Indies" title="History of the British West Indies">British West Indies</a></li> 
+             <li><a href="/wiki/British_Windward_Islands" title="British Windward Islands">Windward Islands colony</a></li> 
+             <li><a href="/wiki/History_of_the_British_West_Indies#Colonial_period_1833–1958" title="History of the British West Indies">Confederation riots</a></li> 
+             <li><a href="/wiki/West_Indies_Federation" title="West Indies Federation">West Indies Federation</a></li> 
+             <li><a href="/wiki/Barbados_Independence_Act_1966" title="Barbados Independence Act 1966">Barbados Independence Act 1966</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Barbados" title="Geography of Barbados">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_cities,_towns_and_villages_in_Barbados" title="List of cities, towns and villages in Barbados">Cities, towns and villages</a></li> 
+                 <li><a href="/wiki/Geography_of_Barbados#Climate" title="Geography of Barbados">Climate</a></li> 
+                 <li><a href="/wiki/Fauna_of_Barbados" title="Fauna of Barbados">Fauna</a></li> 
+                 <li><a href="/wiki/Category:Flora_of_Barbados" title="Category:Flora of Barbados">Flora</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Barbados" title="List of rivers of Barbados">Rivers</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Barbados" title="Politics of Barbados">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Parishes_of_Barbados" title="Parishes of Barbados">Administrative divisions</a></li> 
+                 <li><a href="/wiki/Constitution_of_Barbados" title="Constitution of Barbados">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Barbados" title="Elections in Barbados">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Barbados" title="Foreign relations of Barbados">Foreign relations</a></li> 
+                 <li><a href="/wiki/Government_of_Barbados" title="Government of Barbados">Government</a></li> 
+                 <li><a href="/wiki/Governor-General_of_Barbados" title="Governor-General of Barbados">Governor-General</a></li> 
+                 <li><a href="/wiki/Judiciary_of_Barbados" title="Judiciary of Barbados">Judiciary</a></li> 
+                 <li><a href="/wiki/Laws_of_Barbados" class="mw-redirect" title="Laws of Barbados">Law</a></li> 
+                 <li><a href="/wiki/Barbados_Defence_Force" title="Barbados Defence Force">Military</a></li> 
+                 <li><a href="/wiki/Monarchy_of_Barbados" title="Monarchy of Barbados">Monarchy</a></li> 
+                 <li><a href="/wiki/Parliament_of_Barbados" title="Parliament of Barbados">Parliament</a></li> 
+                 <li><a href="/wiki/Royal_Barbados_Police_Force" title="Royal Barbados Police Force">Police</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Barbados" title="List of political parties in Barbados">Political parties</a></li> 
+                 <li><a href="/wiki/Prime_Minister_of_Barbados" title="Prime Minister of Barbados">Prime Minister</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Barbados" title="Economy of Barbados">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Economy_of_Barbados#Agriculture" title="Economy of Barbados">Agriculture</a></li> 
+                 <li><a href="/wiki/Central_Bank_of_Barbados" title="Central Bank of Barbados">Central Bank</a></li> 
+                 <li><a href="/wiki/Barbadian_dollar" title="Barbadian dollar">Barbadian dollar <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Barbados_Stock_Exchange" title="Barbados Stock Exchange">Stock exchange</a></li> 
+                 <li><a href="/wiki/Rum" title="Rum">Rum</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Barbados" title="Telecommunications in Barbados">Telecommunications</a></li> 
+                 <li><a href="/wiki/Economy_of_Barbados#Tourism" title="Economy of Barbados">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Barbados" title="Transport in Barbados">Transport</a></li> 
+                 <li><a href="/wiki/Barbados_Water_Authority" title="Barbados Water Authority">Water</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Barbadian_society" title="Category:Barbadian society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Demographics_of_Barbados" title="Demographics of Barbados">Demographics</a></li> 
+                 <li><a href="/wiki/Education_in_Barbados" title="Education in Barbados">Education</a></li> 
+                 <li><a href="/wiki/Category:Ethnic_groups_in_Barbados" title="Category:Ethnic groups in Barbados">Ethnic groups</a></li> 
+                 <li><a href="/w/index.php?title=Human_rights_in_Barbados&amp;action=edit&amp;redlink=1" class="new" title="Human rights in Barbados (page does not exist)">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/LGBT_rights_in_Barbados" title="LGBT rights in Barbados">LGBT</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Bajan_Creole" title="Bajan Creole">Language</a></li> 
+                 <li><a href="/wiki/Religion_in_Barbados" title="Religion in Barbados">Religion</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Barbados" title="Culture of Barbados">Culture</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/In_Plenty_and_In_Time_of_Need" title="In Plenty and In Time of Need">Anthem</a></li> 
+                 <li><a href="/wiki/Category:Barbadian_cuisine" title="Category:Barbadian cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Crop_Over" title="Crop Over">Crop Over</a></li> 
+                 <li><a href="/wiki/Flag_of_Barbados" title="Flag of Barbados">Flag</a></li> 
+                 <li><a href="/wiki/Landship_(Barbados)" class="mw-redirect" title="Landship (Barbados)">Landship</a></li> 
+                 <li><a href="/wiki/Media_of_Barbados" class="mw-redirect" title="Media of Barbados">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Barbados" title="Music of Barbados">Music</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Sport_in_Barbados" title="Sport in Barbados">Sports</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Barbados" title="Outline of Barbados">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Barbados-related_articles" title="Index of Barbados-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Barbados" title="Category:Barbados">Category</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_the_Americas" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Americas_topic" title="Template:Americas topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Americas_topic" title="Template talk:Americas topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Americas_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_the_Americas" style="font-size:114%;margin:0 4em">
+            Public holidays in the Americas
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div id="*_North_America_**_Caribbean_**_Central_America_**_Northern_America_*_South_America"> 
+            <ul>
+             <li><a href="/w/index.php?title=Public_holidays_in_North_America&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in North America (page does not exist)">North America</a> 
+              <ul>
+               <li><a href="/w/index.php?title=Public_holidays_in_Caribbean&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Caribbean (page does not exist)">Caribbean</a></li> 
+               <li><a href="/w/index.php?title=Public_holidays_in_Central_America&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Central America (page does not exist)">Central America</a></li> 
+               <li><a href="/w/index.php?title=Public_holidays_in_Northern_America&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Northern America (page does not exist)">Northern America</a></li>
+              </ul></li> 
+             <li><a href="/w/index.php?title=Public_holidays_in_South_America&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in South America (page does not exist)">South America</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sovereign_state" title="Sovereign state">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Antigua_and_Barbuda" title="Public holidays in Antigua and Barbuda">Antigua and Barbuda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Argentina" title="Public holidays in Argentina">Argentina</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Bahamas" title="Public holidays in the Bahamas">Bahamas</a></li> 
+             <li><a class="mw-selflink selflink">Barbados</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belize" title="Public holidays in Belize">Belize</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bolivia" title="Public holidays in Bolivia">Bolivia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Brazil" title="Public holidays in Brazil">Brazil</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Canada" title="Public holidays in Canada">Canada</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Chile" title="Public holidays in Chile">Chile</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Colombia" title="Public holidays in Colombia">Colombia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Costa_Rica" title="Public holidays in Costa Rica">Costa Rica</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cuba" title="Public holidays in Cuba">Cuba</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Dominica" title="Public holidays in Dominica">Dominica</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Dominican_Republic" title="Public holidays in the Dominican Republic">Dominican Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ecuador" title="Public holidays in Ecuador">Ecuador</a></li> 
+             <li><a href="/wiki/Public_holidays_in_El_Salvador" class="mw-redirect" title="Public holidays in El Salvador">El Salvador</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Grenada" title="Public holidays in Grenada">Grenada</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guatemala" title="Public holidays in Guatemala">Guatemala</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guyana" title="Public holidays in Guyana">Guyana</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Haiti" title="Public holidays in Haiti">Haiti</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Honduras" title="Public holidays in Honduras">Honduras</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jamaica" title="Public holidays in Jamaica">Jamaica</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mexico" title="Public holidays in Mexico">Mexico</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nicaragua" title="Public holidays in Nicaragua">Nicaragua</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Panama" title="Public holidays in Panama">Panama</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Paraguay" title="Public holidays in Paraguay">Paraguay</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Peru" title="Public holidays in Peru">Peru</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Kitts_and_Nevis" title="Public holidays in Saint Kitts and Nevis">Saint Kitts and Nevis</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Lucia" title="Public holidays in Saint Lucia">Saint Lucia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Vincent_and_the_Grenadines" title="Public holidays in Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Suriname" class="mw-redirect" title="Public holidays in Suriname">Suriname</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Trinidad_and_Tobago" title="Public holidays in Trinidad and Tobago">Trinidad and Tobago</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_States" title="Public holidays in the United States">United States</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uruguay" title="Public holidays in Uruguay">Uruguay</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Venezuela" title="Public holidays in Venezuela">Venezuela</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Americas" title="Americas"><img alt="Americas (orthographic projection).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/100px-Americas_%28orthographic_projection%29.svg.png" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/150px-Americas_%28orthographic_projection%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/200px-Americas_%28orthographic_projection%29.svg.png 2x" data-file-width="550" data-file-height="550"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            <a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a> and
+            <br>other <a href="/wiki/Territory" title="Territory">territories</a>
+           </div></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Anguilla" title="Public holidays in Anguilla">Anguilla</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Aruba" class="mw-redirect" title="Public holidays in Aruba">Aruba</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bermuda" title="Public holidays in Bermuda">Bermuda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bonaire" title="Public holidays in Bonaire">Bonaire</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_British_Virgin_Islands" title="Public holidays in the British Virgin Islands">British Virgin Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cayman_Islands" title="Public holidays in the Cayman Islands">Cayman Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cura%C3%A7ao" title="Public holidays in Curaçao">Curaçao</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Falkland_Islands" title="Public holidays in the Falkland Islands">Falkland Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_French_Guiana" title="Public holidays in French Guiana">French Guiana</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greenland" title="Public holidays in Greenland">Greenland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guadeloupe" title="Public holidays in Guadeloupe">Guadeloupe</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Martinique" title="Public holidays in Martinique">Martinique</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montserrat" title="Public holidays in Montserrat">Montserrat</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Puerto_Rico" title="Public holidays in Puerto Rico">Puerto Rico</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Barth%C3%A9lemy" title="Public holidays in Saint Barthélemy">Saint Barthélemy</a></li> 
+             <li><a href="/w/index.php?title=Public_holidays_in_Saint_Martin_(France)&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Saint Martin (France) (page does not exist)">Saint Martin</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saint_Pierre_and_Miquelon" title="Public holidays in Saint Pierre and Miquelon">Saint Pierre and Miquelon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saba" title="Public holidays in Saba">Saba</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sint_Eustatius" title="Public holidays in Sint Eustatius">Sint Eustatius</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sint_Maarten" title="Public holidays in Sint Maarten">Sint Maarten</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Georgia_and_the_South_Sandwich_Islands" title="Public holidays in South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Turks_and_Caicos_Islands" title="Public holidays in the Turks and Caicos Islands">Turks and Caicos Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_States_Virgin_Islands" title="Public holidays in the United States Virgin Islands">US Virgin Islands</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+       <tbody>
+        <tr class="noresize">
+         <td><a href="/wiki/File:Flag_of_Barbados.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/30px-Flag_of_Barbados.svg.png" decoding="async" width="30" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/45px-Flag_of_Barbados.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/60px-Flag_of_Barbados.svg.png 2x" data-file-width="1500" data-file-height="1000"></a></td>
+         <td><i>This <a href="/wiki/Barbados" title="Barbados">Barbados</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Barbados&amp;action=edit">expanding it</a>.</i>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+          <div class="navbar plainlinks hlist navbar-mini" style="position: absolute; right: 15px; display: none;">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Barbados-stub" title="Template:Barbados-stub"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Barbados-stub" title="Template talk:Barbados-stub"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Barbados-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> <!-- 
+NewPP limit report
+Parsed by mw1371
+Cached time: 20210131185057
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.376 seconds
+Real time usage: 0.736 seconds
+Preprocessor visited node count: 1442/1000000
+Post‐expand include size: 63598/2097152 bytes
+Template argument size: 7209/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 21/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9569/5000000 bytes
+Lua time usage: 0.162/10.000 seconds
+Lua memory usage: 4218521/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  650.971      1 -total
+ 37.56%  244.486      3 Template:Calendar_date
+ 20.14%  131.079      6 Template:Navbox
+ 18.48%  120.291      1 Template:Barbados_topics
+ 17.94%  116.800      1 Template:Country_topics
+ 16.56%  107.784      1 Template:Reflist
+ 15.31%   99.683      2 Template:Cite_web
+ 12.10%   78.789      1 Template:Short_description
+  6.50%   42.333      1 Template:Pagetype
+  5.15%   33.556      1 Template:Use_dmy_dates
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:6341143-0!canonical and timestamp 20210131185056 and revision id 1002669813. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Barbados&amp;oldid=1002669813">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Barbados&amp;oldid=1002669813</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Barbados" title="Category:Public holidays in Barbados">Public holidays in Barbados</a></li>
+       <li><a href="/wiki/Category:Barbados-related_lists" title="Category:Barbados-related lists">Barbados-related lists</a></li>
+       <li><a href="/wiki/Category:Barbadian_culture" title="Category:Barbadian culture">Barbadian culture</a></li>
+       <li><a href="/wiki/Category:Barbadian_society" title="Category:Barbadian society">Barbadian society</a></li>
+       <li><a href="/wiki/Category:Caribbean_culture" title="Category:Caribbean culture">Caribbean culture</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Barbados_stubs" title="Category:Barbados stubs">Barbados stubs</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_January_2020" title="Category:Use dmy dates from January 2020">Use dmy dates from January 2020</a></li>
+       <li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Barbados" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Barbados" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Barbados" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Barbados" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Barbados">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Barbados&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Barbados&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Barbados" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Barbados" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Barbados&amp;oldid=1002669813" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Barbados&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Barbados&amp;id=1002669813&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257759" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Barbados&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Barbados&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B0%94%EB%B2%A0%EC%9D%B4%EB%8F%84%EC%8A%A4%EC%9D%98_%EA%B3%B5%ED%9C%B4%EC%9D%BC" title="바베이도스의 공휴일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B0_%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D0%B4%D0%BE%D1%81%D1%83" title="Свята Барбадосу – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257759#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 25 January 2021, at 15:16<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Barbados&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.736","ppvisitednodes":{"value":1442,"limit":1000000},"postexpandincludesize":{"value":63598,"limit":2097152},"templateargumentsize":{"value":7209,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":21,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9569,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  650.971      1 -total"," 37.56%  244.486      3 Template:Calendar_date"," 20.14%  131.079      6 Template:Navbox"," 18.48%  120.291      1 Template:Barbados_topics"," 17.94%  116.800      1 Template:Country_topics"," 16.56%  107.784      1 Template:Reflist"," 15.31%   99.683      2 Template:Cite_web"," 12.10%   78.789      1 Template:Short_description","  6.50%   42.333      1 Template:Pagetype","  5.15%   33.556      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.162","limit":"10.000"},"limitreport-memusage":{"value":4218521,"limit":52428800}},"cachereport":{"origin":"mw1371","timestamp":"20210131185057","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Barbados","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Barbados","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7257759","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7257759","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-08-09T03:29:44Z","dateModified":"2021-01-25T15:16:00Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw1322"});});</script> 
+ </body>
+</html>

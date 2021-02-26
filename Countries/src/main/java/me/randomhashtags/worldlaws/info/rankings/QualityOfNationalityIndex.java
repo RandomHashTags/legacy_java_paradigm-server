@@ -37,7 +37,7 @@ public enum QualityOfNationalityIndex implements CountryRankingService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/The_Quality_of_Nationality_Index";
-        final Elements elements = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
         final EventSource wikipedia = new EventSource("Wikipedia: The Quality of Nationality Index", url);
         final EventSources sources = new EventSources(wikipedia);

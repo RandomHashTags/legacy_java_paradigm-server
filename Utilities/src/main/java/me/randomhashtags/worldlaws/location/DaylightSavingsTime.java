@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.location;
 
+import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.WLUtilities;
 import org.jsoup.select.Elements;
@@ -20,7 +21,7 @@ public enum DaylightSavingsTime {
     private LocalDateTime startDate, endDate;
 
     DaylightSavingsTime() {
-        ELEMENTS = Jsoupable.getStaticDocumentElements("https://en.wikipedia.org/wiki/Daylight_saving_time_by_country", "table.wikitable tbody tr");
+        ELEMENTS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/Daylight_saving_time_by_country", "table.wikitable tbody tr");
         ELEMENTS.remove(0);
         ELEMENTS.removeIf(row -> row.select("td").get(3).text().equals("–"));
         observations = new HashMap<>();
@@ -34,10 +35,14 @@ public enum DaylightSavingsTime {
     public CountryDaylightSavingsTime getFrom(String country, UTCOffset offset) {
         country = country.toLowerCase();
         final boolean observed = isObserved(country);
-        isDaylightSavingsTime(country, offset);
-        final CountryDaylightSavingsTime dst = new CountryDaylightSavingsTime(observed, startDate, endDate);
-        resetVariables();
-        return dst;
+        if(observed) {
+            isDaylightSavingsTime(country, offset);
+            final CountryDaylightSavingsTime dst = new CountryDaylightSavingsTime(startDate, endDate);
+            resetVariables();
+            return dst;
+        } else {
+            return null;
+        }
     }
     private boolean isObserved(String country) {
         if(observations.containsKey(country)) {
@@ -57,8 +62,8 @@ public enum DaylightSavingsTime {
     private void isDaylightSavingsTime(String country, UTCOffset offset) {
         if(isObserved(country)) {
             final Instant now = Instant.now();
-            final long offsetEpoch = (offset.getHour()*60*60*1000)+(offset.getMinute()*60*1000);
-            final long targetEpoch = now.toEpochMilli()+offsetEpoch;
+            final long offsetEpoch = (offset.getHour()*60*60*1000) + (offset.getMinute()*60*1000);
+            final long targetEpoch = now.toEpochMilli() + offsetEpoch;
             final Instant utcInstant = Instant.ofEpochMilli(targetEpoch);
             final LocalDateTime today = LocalDate.ofInstant(utcInstant, TimeZone.getTimeZone("UTC").toZoneId()).atStartOfDay();
             final int currentYear = today.getYear();

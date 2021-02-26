@@ -2,16 +2,16 @@ package me.randomhashtags.worldlaws.event.entertainment;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.event.EventDate;
-import me.randomhashtags.worldlaws.event.PreUpcomingEvent;
-import me.randomhashtags.worldlaws.event.UpcomingEventType;
+import me.randomhashtags.worldlaws.PreUpcomingEvent;
+import me.randomhashtags.worldlaws.UpcomingEventType;
 import me.randomhashtags.worldlaws.location.WLCountry;
+import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.time.Month;
 import java.util.*;
-import java.util.logging.Level;
 
 public enum VideoGames implements EventController {
     INSTANCE;
@@ -230,9 +230,10 @@ public enum VideoGames implements EventController {
         return MAX_COMPLETED_HANDLERS;
     }
     private synchronized void addVideoGame(VideoGameEvent event) {
+        final UpcomingEventType type = getType();
         final EventDate date = event.getDate();
         final String title = event.getTitle();
-        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(event.getType(), date, title, event.getPlatforms(), event.getImageURL());
+        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(type, date, title, event.getPlatforms(), event.getImageURL());
         final String identifier = getEventIdentifier(date, title), string = preUpcomingEvent.toString();
         preEvents.put(identifier, string);
         VIDEO_GAMES.add(preUpcomingEvent);

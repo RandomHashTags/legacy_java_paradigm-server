@@ -1,0 +1,1167 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Kenya - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBYhMQpAEKIAAYzff4AAAACC","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Kenya","wgTitle":"Public holidays in Kenya","wgCurRevisionId":1003071991,"wgRevisionId":1003071991,"wgArticleId":35900764,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles needing additional references from January 2021","All articles needing additional references","Public holidays in Kenya","Lists of public holidays by country","Kenyan society",
+"Kenya-related lists"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Kenya","wgRelevantArticleId":35900764,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q7257797"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1200px-Flag_of_Kenya.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Kenya"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Kenya&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Kenya&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Kenya"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Kenya rootpage-Public_holidays_in_Kenya skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Kenya</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Kenya&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Public+holidays+in+Kenya%22">"Public holidays in Kenya"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Public+holidays+in+Kenya%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Public+holidays+in+Kenya%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Public+holidays+in+Kenya%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Public+holidays+in+Kenya%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Public+holidays+in+Kenya%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> <small class="date-container"><i>(<span class="date">January 2021</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <style data-mw-deduplicate="TemplateStyles:r1003042402">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%}.mw-parser-output .sidebar a{white-space:nowrap}.mw-parser-output .sidebar-wraplinks a{white-space:normal}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding-bottom:0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em 0}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding-top:0.2em;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding-top:0.4em;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.4em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding-top:0}.mw-parser-output .sidebar-image{padding:0.2em 0 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em}.mw-parser-output .sidebar-content{padding:0 0.1em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.4em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%}.mw-parser-output .sidebar-collapse .sidebar-navbar{padding-top:0.6em}.mw-parser-output .sidebar-collapse .mw-collapsible-toggle{margin-top:0.2em}.mw-parser-output .sidebar-list-title{text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none;margin-left:0!important;margin-right:0!important}}</style>
+      <table class="sidebar sidebar-collapse vertical-navbox nomobile hlist">
+       <tbody>
+        <tr>
+         <td class="sidebar-pretitle">Part of <a href="/wiki/Category:Kenya" title="Category:Kenya">a series</a> on the</td>
+        </tr>
+        <tr>
+         <th class="sidebar-title-with-pretitle" style="border-bottom: 1px solid #aaa"><span class="wraplinks"><a href="/wiki/Culture_of_Kenya" title="Culture of Kenya">Culture of Kenya</a></span></th>
+        </tr>
+        <tr>
+         <td class="sidebar-image photo"><a href="/wiki/File:Flag_of_Kenya.svg" class="image"><img alt="Flag of Kenya.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/150px-Flag_of_Kenya.svg.png" decoding="async" width="150" height="100" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/225px-Flag_of_Kenya.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/300px-Flag_of_Kenya.svg.png 2x" data-file-width="900" data-file-height="600"></a></td>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/History_of_Kenya" title="History of Kenya">History</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/History_of_Kenya#Paleolithic" title="History of Kenya">Pleistocene</a></li> 
+             <li><a href="/wiki/History_of_Kenya#Neolithic" title="History of Kenya">Neolithic</a></li> 
+             <li><a href="/wiki/History_of_Kenya#Iron_Age" title="History of Kenya">African iron age</a></li> 
+             <li><a href="/wiki/History_of_Kenya#Swahili_culture_and_trade" title="History of Kenya">Swahili city states</a></li> 
+             <li><a href="/wiki/History_of_Kenya#Portuguese_and_Omani_influences" title="History of Kenya">Portuguese and Omani period</a></li> 
+             <li><a href="/wiki/History_of_Kenya#British_rule_(1895–1963)" title="History of Kenya">British Colonial Period</a></li> 
+             <li><a href="/wiki/History_of_Kenya#Independence" title="History of Kenya">Early post Independence</a></li> 
+             <li><a href="/wiki/History_of_Kenya#Moi_regime_(1978–2002)" title="History of Kenya">Moi Era</a></li> 
+             <li><a href="/wiki/History_of_Kenya#Recent_history_(2002_to_present)" title="History of Kenya">Recent history</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/Ethnic_groups_in_Kenya" class="mw-redirect" title="Ethnic groups in Kenya">People</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content">
+            <u>Historic peoples</u> 
+            <ul>
+             <li><a href="/wiki/Koobi_Fora" title="Koobi Fora">Koobi Fora Hominins</a></li> 
+             <li><a href="/wiki/Olorgesailie" title="Olorgesailie">Olorgesailie Aechulean hand axe culture</a></li> 
+             <li><a href="/wiki/Savanna_Pastoral_Neolithic" title="Savanna Pastoral Neolithic">Savanna Pastoral Neolithic Culture</a></li> 
+             <li><a href="/wiki/Eburran_industry" title="Eburran industry">Eburran industry</a></li> 
+             <li><a href="/wiki/Elmenteitan" title="Elmenteitan">Elmenteitan culture</a></li> 
+             <li><a href="/wiki/Sirikwa_culture" title="Sirikwa culture">Sirikwa culture</a></li> 
+             <li><a href="/wiki/Urewe" title="Urewe">Urewe culture</a></li> 
+             <li><a href="/wiki/Shungwaya" title="Shungwaya">Shungwaya</a></li>
+            </ul> 
+            <p><u>Modern ethnicities</u> </p> 
+            <ul>
+             <li><a href="/wiki/Kikuyu_people" title="Kikuyu people">Kikuyu</a></li> 
+             <li><a href="/wiki/Luhya_people" title="Luhya people">Luhya</a> 
+              <ul>
+               <li><a href="/wiki/Banyala" title="Banyala">Banyala</a></li> 
+               <li><a href="/wiki/Bukusu" title="Bukusu">Bukusu</a></li> 
+               <li><a href="/wiki/Gisu_people" title="Gisu people">Gisu</a></li> 
+               <li><a href="/wiki/Idakho" title="Idakho">Idakho</a></li> 
+               <li><a href="/wiki/Isukha" title="Isukha">Isukha</a></li> 
+               <li><a href="/wiki/Khayo" title="Khayo">Khayo</a></li> 
+               <li><a href="/wiki/Kisa_tribe" title="Kisa tribe">Kisa</a></li> 
+               <li><a href="/wiki/Marachi" title="Marachi">Marachi</a></li> 
+               <li><a href="/wiki/Maragoli" title="Maragoli">Maragoli</a></li> 
+               <li><a href="/wiki/Marama_tribe" title="Marama tribe">Marama</a></li> 
+               <li><a href="/wiki/Tachoni" title="Tachoni">Tachoni</a></li> 
+               <li><a href="/wiki/Tiriki" title="Tiriki">Tiriki</a></li> 
+               <li><a href="/wiki/Samia_tribe" title="Samia tribe">Samia</a></li> 
+               <li><a href="/wiki/Wanga" title="Wanga">Wanga</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Kalenjin_people" title="Kalenjin people">Kalenjin</a> 
+              <ul>
+               <li><a href="/wiki/Nandi_people" title="Nandi people">Nandi</a></li> 
+               <li><a href="/wiki/Marakwet_people" title="Marakwet people">Marakwet</a></li> 
+               <li><a href="/wiki/Kipsigis_people" title="Kipsigis people">Kipsigis</a></li> 
+               <li><a href="/wiki/Elgeyo_people" title="Elgeyo people">Elgeyo</a></li> 
+               <li><a href="/wiki/Tugen_people" title="Tugen people">Tugen</a></li> 
+               <li><a href="/wiki/Terik_people" title="Terik people">Terik</a></li> 
+               <li><a href="/wiki/Pokot_people" title="Pokot people">Pokot</a></li> 
+               <li><a href="/wiki/Sabaot_people" title="Sabaot people">Sabaot</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Luo_people" title="Luo people">Luo</a></li> 
+             <li><a href="/wiki/Suba_people_(Kenya)" title="Suba people (Kenya)">Suba</a></li> 
+             <li><a href="/wiki/Kunta_people" title="Kunta people">Kunta</a></li> 
+             <li><a href="/wiki/Kamba_people" title="Kamba people">Kamba</a></li> 
+             <li><a href="/wiki/Somalis_in_Kenya" title="Somalis in Kenya">Somali</a></li> 
+             <li><a href="/wiki/Kisii_people" title="Kisii people">Kisii</a></li> 
+             <li><a href="/wiki/Kuria_people" title="Kuria people">Kuria</a></li> 
+             <li><a href="/wiki/Meru_people" title="Meru people">Meru</a></li> 
+             <li><a href="/wiki/Mbeere_people" title="Mbeere people">Mbeere</a></li> 
+             <li><a href="/wiki/Embu_people" title="Embu people">Embu</a></li> 
+             <li><a href="/wiki/Teso_people" title="Teso people">Teso</a></li> 
+             <li><a href="/wiki/Maasai_people" title="Maasai people">Maasai</a></li> 
+             <li><a href="/wiki/Samburu_people" title="Samburu people">Samburu</a></li> 
+             <li><a href="/wiki/Ilchamus_people" title="Ilchamus people">Ilchamus</a></li> 
+             <li><a href="/wiki/Turkana_people" title="Turkana people">Turkana</a></li> 
+             <li><a href="/wiki/Borana_Oromo_people" title="Borana Oromo people">Borana</a></li> 
+             <li><a href="/wiki/Sakuye_people" title="Sakuye people">Sakuye</a></li> 
+             <li><a href="/wiki/Tana_Orma_people" title="Tana Orma people">Orma</a></li> 
+             <li><a href="/wiki/Rendille_people" title="Rendille people">Rendille</a></li> 
+             <li><a href="/wiki/Gabra_people" title="Gabra people">Gabra</a></li> 
+             <li><a href="/wiki/Sengwer_people" title="Sengwer people">Sengwer</a></li> 
+             <li><a href="/wiki/Mijikenda_peoples" title="Mijikenda peoples">Mijikenda</a> 
+              <ul>
+               <li><a href="/wiki/Jibana_people" title="Jibana people">Jibana</a></li> 
+               <li><a href="/wiki/Giriama_people" title="Giriama people">Giriama</a></li> 
+               <li><a href="/wiki/Duruma" title="Duruma">Duruma</a></li> 
+               <li><a href="/wiki/Chonyi_people" title="Chonyi people">Chonyi</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Swahili_people" title="Swahili people">Swahili</a></li> 
+             <li><a href="/wiki/Taita_people" title="Taita people">Taita</a></li> 
+             <li><a href="/wiki/Taveta_people" title="Taveta people">Taveta</a></li> 
+             <li><a href="/wiki/Okiek_people" title="Okiek people">Okiek</a></li> 
+             <li><a href="/wiki/Indians_in_Kenya" title="Indians in Kenya">Kenyan Asians</a></li> 
+             <li><a href="/wiki/White_people_in_Kenya" title="White people in Kenya">White Kenyans</a></li> 
+             <li><a href="/wiki/Demographics_of_Kenya#Arabs" title="Demographics of Kenya">Kenyan Arabs</a></li>
+            </ul> 
+            <p><u>Diaspora</u> </p> 
+            <ul>
+             <li><a href="/wiki/Kenyan_Americans" title="Kenyan Americans">Kenyan Americans</a></li> 
+             <li><a href="/wiki/Kenyan_Australians" title="Kenyan Australians">Kenyan Australians</a></li> 
+             <li><a href="/wiki/Kenyan_migration_to_the_United_Kingdom" title="Kenyan migration to the United Kingdom">Kenyan Britons</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/Languages_of_Kenya" title="Languages of Kenya">Languages</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Niger-Congo_languages" class="mw-redirect" title="Niger-Congo languages">Niger-Congo</a> 
+              <ul>
+               <li><a href="/wiki/Bantu_languages" title="Bantu languages">Bantu</a> 
+                <ul>
+                 <li><a href="/wiki/Swahili_language" title="Swahili language">Swahili</a></li> 
+                 <li><a href="/wiki/Kikuyu_language" title="Kikuyu language">Kikuyu</a></li> 
+                 <li><a href="/wiki/Kamba_language" title="Kamba language">Kamba</a></li> 
+                 <li><a href="/wiki/Ekegusii" class="mw-redirect" title="Ekegusii">Ekegusii</a></li> 
+                 <li><a href="/wiki/Kim%C3%AE%C3%AEru" class="mw-redirect" title="Kimîîru">Kimîîru</a></li> 
+                 <li><a href="/wiki/Luhya_language" title="Luhya language">Oluluhyia</a></li> 
+                 <li><a href="/wiki/Pokomo_language" title="Pokomo language">Kipokomo</a></li> 
+                 <li><a href="/wiki/Kigiryama" class="mw-redirect" title="Kigiryama">Kigiryama</a></li> 
+                 <li><a href="/wiki/Kiembu" class="mw-redirect" title="Kiembu">Kiembu</a></li> 
+                 <li><a href="/wiki/Bajuni" class="mw-redirect" title="Bajuni">bajuni</a></li>
+                </ul></li>
+              </ul></li>
+            </ul> 
+            <ul>
+             <li><a href="/wiki/Nilo-Saharan_languages" title="Nilo-Saharan languages">Nilo-Saharan</a> 
+              <ul>
+               <li><a href="/wiki/Nilotic_languages" title="Nilotic languages">Nilotic</a> 
+                <ul>
+                 <li><a href="/wiki/Dholuo" title="Dholuo">Dholuo</a></li> 
+                 <li><a href="/wiki/Kalenjin_language" class="mw-redirect" title="Kalenjin language">Kalenjin</a></li> 
+                 <li><a href="/wiki/Maasai_language" title="Maasai language">Maa</a></li> 
+                 <li><a href="/wiki/Turkana_language" title="Turkana language">Turkana</a></li>
+                </ul></li>
+              </ul></li>
+            </ul> 
+            <ul>
+             <li><a href="/wiki/Afroasiatic_languages" title="Afroasiatic languages">Afroasiatic</a> 
+              <ul>
+               <li><a href="/wiki/Cushitic_languages" title="Cushitic languages">Cushitic</a> 
+                <ul>
+                 <li><a href="/wiki/Rendille_language" title="Rendille language">Rendille</a></li> 
+                 <li><a href="/wiki/Somali_language" title="Somali language">Somali</a></li>
+                </ul></li> 
+               <li><a href="/wiki/Semitic_languages" title="Semitic languages">Semitic</a> 
+                <ul>
+                 <li><a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a></li>
+                </ul></li>
+              </ul></li>
+            </ul> 
+            <ul>
+             <li><a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European</a> 
+              <ul>
+               <li><a href="/wiki/Germanic_languages" title="Germanic languages">Germanic</a> 
+                <ul>
+                 <li><a href="/wiki/West_Germanic_languages" title="West Germanic languages">West Germanic</a></li> 
+                 <li><a href="/wiki/English_language" title="English language">English</a></li> 
+                 <li><a href="/wiki/German_language" title="German language">German</a></li> 
+                 <li><a href="/wiki/Afrikaans" title="Afrikaans">Afrikaans</a></li>
+                </ul></li> 
+               <li><a href="/wiki/Indo-Iranian_languages" title="Indo-Iranian languages">Indo-Iranian</a> 
+                <ul>
+                 <li><a href="/wiki/Hindustani_language" title="Hindustani language">Hindustani</a></li>
+                </ul></li> 
+               <li><a href="/wiki/Italic_languages" title="Italic languages">Italic</a> 
+                <ul>
+                 <li><a href="/wiki/French_language" title="French language">French</a></li> 
+                 <li><a href="/wiki/Italian_language" title="Italian language">Italian</a></li>
+                </ul></li>
+              </ul></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Mythology and folklore
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Bantu_mythology" title="Bantu mythology">Bantu mythology</a> 
+              <ul>
+               <li><a href="/wiki/Gikuyu_people#Spirituality_and_religion" class="mw-redirect" title="Gikuyu people">Gikuyu</a></li> 
+               <li><a href="/wiki/Kamba_people#Culture_and_beliefs" title="Kamba people">Akamba</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Maasai_mythology" title="Maasai mythology">Maasai mythology</a></li> 
+             <li><a href="/wiki/Kalenjin_mythology" title="Kalenjin mythology">Kalenjin mythology</a></li> 
+             <li><a href="/wiki/Kit-Mikayi" title="Kit-Mikayi">Kit-Mikayi</a></li> 
+             <li><a href="/wiki/Luanda_Magere" title="Luanda Magere">Luanda Magere</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Cuisine_of_Kenya" class="mw-redirect" title="Cuisine of Kenya">Cuisine</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a class="mw-selflink selflink">Festivals</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a></li> 
+             <li><a href="/wiki/Mawlid" title="Mawlid">Mawlid</a></li> 
+             <li><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a></li> 
+             <li><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a></li> 
+             <li><a href="/wiki/Lamu#Culture" title="Lamu">Lamu Cultural Festival</a></li> 
+             <li><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">Labour day</a></li> 
+             <li><a href="/wiki/Madaraka_Day" title="Madaraka Day">Madaraka Day</a></li> 
+             <li><a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a></li> 
+             <li><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a></li> 
+             <li><a href="/wiki/Moi_Day" title="Moi Day">Huduma Day</a></li> 
+             <li><a href="/wiki/Diwali" title="Diwali">Diwali</a></li> 
+             <li><a href="/wiki/Mashujaa_Day" class="mw-redirect" title="Mashujaa Day">Mashujaa Day</a></li> 
+             <li><a href="/wiki/Jamhuri_Day" title="Jamhuri Day">Jamhuri Day</a></li> 
+             <li><a href="/wiki/Rusinga_(Cultural)_Festival" title="Rusinga (Cultural) Festival">Rusinga (Cultural) Festival</a></li> 
+             <li><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a></li> 
+             <li><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/Religion_in_Kenya" title="Religion in Kenya">Religion</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Catholic_Church_in_Kenya" title="Catholic Church in Kenya">Catholicism</a></li> 
+             <li><a href="/wiki/Anglican_Church_of_Kenya" title="Anglican Church of Kenya">Anglicanism</a></li> 
+             <li><a href="/wiki/Africa_Inland_Mission" title="Africa Inland Mission">African Inland Church</a></li> 
+             <li><a href="/wiki/Quakers_in_Africa#Kenya" title="Quakers in Africa">Quakers</a></li> 
+             <li><a href="/wiki/History_of_the_Jews_in_Kenya" title="History of the Jews in Kenya">Judaism</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Art
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/African_art#East_Africa" title="African art">Traditional art</a></li> 
+             <li><a href="/wiki/Wangechi_Mutu" title="Wangechi Mutu">Wangechi Mutu</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/Literature_of_Kenya" class="mw-redirect" title="Literature of Kenya">Literature</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Swahili_literature" title="Swahili literature">Swahili literature</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Music and performing arts
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Music_of_Kenya" title="Music of Kenya">Music</a></li> 
+             <li><a href="/wiki/Benga_music" title="Benga music">Benga</a></li> 
+             <li><a href="/wiki/Boomba_music" title="Boomba music">Boomba</a></li> 
+             <li><a href="/wiki/Genge" title="Genge">Genge</a></li> 
+             <li><a href="/wiki/Kenyan_hip_hop" title="Kenyan hip hop">Kenyan hip hop</a></li> 
+             <li><a href="/wiki/Congolese_rumba" title="Congolese rumba">Lingala</a></li> 
+             <li><a href="/wiki/Ohangla" title="Ohangla">Ohangla</a></li> 
+             <li><a href="/wiki/Soukous" title="Soukous">Soukous</a></li> 
+             <li><a href="/wiki/Taarab" title="Taarab">Taarab</a></li>
+            </ul> 
+            <p><u>Performing arts</u> </p> 
+            <ul>
+             <li><a href="/wiki/Kenya_National_Theatre" title="Kenya National Theatre">Kenya National Theatre</a></li> 
+             <li><a href="/wiki/Kenya_Institute_of_Puppet_Theatre_(KIPT)" title="Kenya Institute of Puppet Theatre (KIPT)">Kenya Institute of Puppet Theatre (KIPT)</a></li> 
+             <li><a href="/wiki/The_Kenya_Schools_and_Colleges_Drama_Festival" title="The Kenya Schools and Colleges Drama Festival">The Kenya Schools and Colleges Drama Festival</a></li> 
+             <li><a href="/wiki/Too_Early_for_Birds" title="Too Early for Birds">Too Early for Birds</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/Media_in_Kenya" class="mw-redirect" title="Media in Kenya">Media</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Cinema_of_Kenya" title="Cinema of Kenya">Cinema</a></li> 
+             <li><a href="/wiki/Nation_Media_Group" title="Nation Media Group">Nation Media Group</a></li>
+            </ul> 
+            <p><u>Government agencies</u> </p> 
+            <ul>
+             <li><a href="/wiki/Communications_Authority_of_Kenya" title="Communications Authority of Kenya">Communications Authority</a></li> 
+             <li><a href="/wiki/Kenya_Film_Commission" title="Kenya Film Commission">Kenya Film Commission</a></li> 
+             <li><a href="/wiki/Kenya_Film_Classification_Board" title="Kenya Film Classification Board">Kenya Film Classification Board</a></li> 
+             <li><a href="/wiki/Kenya_News_Agency" title="Kenya News Agency">Kenya News Agency</a></li>
+            </ul> 
+            <p><u>Television</u> </p> 
+            <ul>
+             <li><a href="/wiki/A24_news_channel" title="A24 news channel">A24 news channel</a></li> 
+             <li><a href="/wiki/Citizen_TV" title="Citizen TV">Citizen TV</a></li> 
+             <li><a href="/wiki/Kenya_Broadcasting_Corporation" title="Kenya Broadcasting Corporation">Kenya Broadcasting Corporation</a></li> 
+             <li><a href="/wiki/Kenya_Television_Network" title="Kenya Television Network">Kenya Television Network</a></li> 
+             <li><a href="/wiki/Tinga_Tinga_Tales" title="Tinga Tinga Tales">Tinga Tinga Tales</a></li>
+            </ul> 
+            <p><u>Radio</u> </p> 
+            <ul>
+             <li><a href="/wiki/98.4_Capital_FM" title="98.4 Capital FM">98.4 Capital FM</a></li> 
+             <li><a href="/wiki/CRI_Nairobi_91.9_FM" title="CRI Nairobi 91.9 FM">CRI Nairobi 91.9 FM</a></li> 
+             <li><a href="/wiki/Pamoja_FM" title="Pamoja FM">Pamoja FM</a></li> 
+             <li><a href="/wiki/Radio_Maria" title="Radio Maria">Radio Maria</a></li>
+            </ul> 
+            <p><u>Newspapers</u> </p> 
+            <ul>
+             <li><a href="/wiki/The_African_Executive" title="The African Executive">The African Executive</a></li> 
+             <li><a href="/wiki/Business_Daily_Africa" title="Business Daily Africa">Business Daily Africa</a></li> 
+             <li><a href="/wiki/Daily_Nation" title="Daily Nation">Daily Nation</a></li> 
+             <li><a href="/wiki/The_EastAfrican" title="The EastAfrican">The EastAfrican</a></li> 
+             <li><a href="/wiki/Kenya_Gazette" title="Kenya Gazette">Kenya Gazette</a></li> 
+             <li><a href="/wiki/Kenya_Times" title="Kenya Times">Kenya Times</a></li> 
+             <li><a href="/wiki/The_Standard_(Kenya)" title="The Standard (Kenya)">The Standard</a></li> 
+             <li><a href="/wiki/The_Star_(Kenya)" title="The Star (Kenya)">The Star</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/Sport_in_Kenya" title="Sport in Kenya">Sport</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Athletics_Kenya" title="Athletics Kenya">Athletics Kenya</a></li> 
+             <li><a href="/wiki/Football_in_Kenya" title="Football in Kenya">Football in Kenya</a> 
+              <ul>
+               <li><a href="/wiki/Football_Kenya_Federation" title="Football Kenya Federation">Football Kenya Federation</a></li> 
+               <li><a href="/wiki/Kenyan_Premier_League" title="Kenyan Premier League">Kenyan Premier League</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Rugby_union_in_Kenya" title="Rugby union in Kenya">Rugby union in Kenya</a> 
+              <ul>
+               <li><a href="/wiki/Safari_Sevens" title="Safari Sevens">Safari Sevens</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Cricket_in_Kenya" title="Cricket in Kenya">Cricket in Kenya</a></li> 
+             <li><a href="/wiki/Kenya_Open" title="Kenya Open">Golf in Kenya</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Monuments
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/List_of_World_Heritage_Sites_in_Kenya" title="List of World Heritage Sites in Kenya">World Heritage Sites</a></li> 
+             <li><a href="/wiki/List_of_sites_and_monuments_in_Kenya" title="List of sites and monuments in Kenya">List of Monuments</a></li> 
+             <li><a href="/wiki/Lothagam_North_Pillar_Site" title="Lothagam North Pillar Site">Lothagam North Pillar Site</a></li> 
+             <li><a href="/wiki/Kalokol_Pillar_Site" title="Kalokol Pillar Site">Namoratunga</a></li> 
+             <li><a href="/wiki/Thimlich_Ohinga" title="Thimlich Ohinga">Thimlich Ohinga</a></li> 
+             <li><a href="/wiki/Ruins_of_Gedi" title="Ruins of Gedi">Ruins of Gedi</a></li> 
+             <li><a href="/wiki/Jumba_la_Mtwana" title="Jumba la Mtwana">Jumba la Mtwana</a></li> 
+             <li><a href="/wiki/Lamu_Fort" title="Lamu Fort">Lamu Fort</a></li> 
+             <li><a href="/wiki/Siyu" title="Siyu">Siyu Fort</a></li> 
+             <li><a href="/wiki/Fort_Jesus" title="Fort Jesus">Fort Jesus</a></li> 
+             <li><a href="/wiki/Tom_Mboya_Monument" title="Tom Mboya Monument">Tom Mboya Monument</a></li> 
+             <li><a href="/wiki/Dedan_Kimathi#The_Dedan_Kimathi_statue" title="Dedan Kimathi">Dedan Kimathi Statue</a></li> 
+             <li><a href="/wiki/Baden-Powell_grave" title="Baden-Powell grave">Baden-Powell grave</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Symbols
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Flag_of_Kenya" title="Flag of Kenya">Flag</a></li> 
+             <li><a href="/wiki/Coat_of_arms_of_Kenya" title="Coat of arms of Kenya">Coat of arms</a></li> 
+             <li><a href="/wiki/Ee_Mungu_Nguvu_Yetu" title="Ee Mungu Nguvu Yetu">Ee Mungu Nguvu Yetu</a></li> 
+             <li><a href="/wiki/Coat_of_arms_of_Kenya" title="Coat of arms of Kenya">Coat of arms of Kenya</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-below"> 
+          <ul>
+           <li class="mw-empty-elt"></li> 
+           <li><a href="/wiki/File:Flag_of_Kenya.svg" class="image"><img alt="Flag of Kenya.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/16px-Flag_of_Kenya.svg.png" decoding="async" width="16" height="11" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/24px-Flag_of_Kenya.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/32px-Flag_of_Kenya.svg.png 2x" data-file-width="900" data-file-height="600"></a>&nbsp;<a href="/wiki/Portal:Kenya" title="Portal:Kenya">Kenya portal</a></li>
+          </ul></td>
+        </tr>
+        <tr>
+         <td class="sidebar-navbar"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+          <div class="navbar plainlinks hlist navbar-mini">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Culture_of_Kenya" title="Template:Culture of Kenya"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Culture_of_Kenya" title="Template talk:Culture of Kenya"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Culture_of_Kenya&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>There are approximately twelve nationally recognized <b><a href="/wiki/Public_holidays" class="mw-redirect" title="Public holidays">Public holidays</a></b> celebrated in the <b><a href="/wiki/Republic_of_Kenya" class="mw-redirect" title="Republic of Kenya">Republic of Kenya</a></b>, a country in <a href="/wiki/East_Africa" title="East Africa">East Africa</a>. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date </th> 
+         <th>Name </th>
+        </tr> 
+        <tr> 
+         <td>January 1 </td> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>Varies </td> 
+         <td><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> </td>
+        </tr> 
+        <tr> 
+         <td>Varies </td> 
+         <td><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> </td>
+        </tr> 
+        <tr> 
+         <td>May 1 </td> 
+         <td><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">Labour Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>June 1 </td> 
+         <td><a href="/wiki/Madaraka_Day" title="Madaraka Day">Madaraka Day</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>Depends on the sighting of the moon </td> 
+         <td><a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a> </td>
+        </tr> 
+        <tr> 
+         <td>Depends on the sighting of the moon </td> 
+         <td><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a> </td>
+        </tr> 
+        <tr> 
+         <td>October 10 </td> 
+         <td><a href="/wiki/Moi_Day" title="Moi Day">Huduma Day</a> (Formerly Moi Day)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>October 20 </td> 
+         <td><a href="/wiki/Mashujaa_Day" class="mw-redirect" title="Mashujaa Day">Mashujaa Day</a> (Formerly Kenyatta Day) </td>
+        </tr> 
+        <tr> 
+         <td>December 12 </td> 
+         <td><a href="/wiki/Jamhuri_Day" title="Jamhuri Day">Jamhuri Day</a>, marks the date of Kenya's establishment as a republic on December 12, 1964.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>December 25 </td> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>December 26 </td> 
+         <td><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a> (Utamaduni Day in Kenya) <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>December 31 </td> 
+         <td><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">New Year's Eve</a> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Kenya&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/kenya/madaraka-day">"Madaraka Day in Kenya in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Madaraka+Day+in+Kenya+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fkenya%2Fmadaraka-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Kenya" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/kenya/moi-day">"Huduma Day in Kenya in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Huduma+Day+in+Kenya+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fkenya%2Fmoi-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Kenya" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/kenya/jamhuri-day">"Jamhuri Day in Kenya in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Jamhuri+Day+in+Kenya+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fkenya%2Fjamhuri-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Kenya" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.officeholidays.com/countries/kenya/2020">https://www.officeholidays.com/countries/kenya/2020</a></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.standardmedia.co.ke/kenya/article/2001353839/cabinet-renames-moi-boxing-days">https://www.standardmedia.co.ke/kenya/article/2001353839/cabinet-renames-moi-boxing-days</a></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Kenya&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external free" href="http://www.worldtravelguide.net/kenya/public-holidays">http://www.worldtravelguide.net/kenya/public-holidays</a></li> 
+       <li><a rel="nofollow" class="external free" href="https://www.standardmedia.co.ke/article/2001259798/judge-restores-moi-day-as-public-holiday">https://www.standardmedia.co.ke/article/2001259798/judge-restores-moi-day-as-public-holiday</a></li> 
+       <li><a rel="nofollow" class="external free" href="https://www.internationalwomensday.com/About">https://www.internationalwomensday.com/About</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Kenya_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Kenya_topics" title="Template:Kenya topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Kenya_topics" title="Template talk:Kenya topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Kenya_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Kenya_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Kenya" title="Kenya">Kenya</a>&nbsp;<a href="/wiki/Index_of_Kenya-related_articles" title="Index of Kenya-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Kenya" title="History of Kenya">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Timeline_of_Kenya" title="Timeline of Kenya">Timeline</a></li> 
+             <li><a href="/wiki/Wanga_Kingdom" title="Wanga Kingdom">Wanga Kingdom</a></li> 
+             <li><a href="/wiki/East_African_slave_trade" class="mw-redirect" title="East African slave trade">East African slave trade</a></li> 
+             <li><a href="/wiki/East_Africa_Protectorate" title="East Africa Protectorate">East Africa Protectorate</a></li> 
+             <li><a href="/wiki/Uganda_Railway" title="Uganda Railway">Uganda Railway</a></li> 
+             <li><a href="/wiki/Kenya_Colony" title="Kenya Colony">Kenya Colony</a> 
+              <ul>
+               <li><a href="/wiki/Kenya_Colony_in_World_War_II" class="mw-redirect" title="Kenya Colony in World War II">In World War II</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Ilemi_Triangle" title="Ilemi Triangle">Ilemi Triangle</a></li> 
+             <li><a href="/wiki/Kenya_African_Union" title="Kenya African Union">Kenya African Union</a></li> 
+             <li><a href="/wiki/Mau_Mau_Uprising" title="Mau Mau Uprising">Mau Mau Uprising</a></li> 
+             <li><a href="/wiki/Constitution_of_Kenya_(1963)" title="Constitution of Kenya (1963)">1963 Constitution</a></li> 
+             <li><a href="/wiki/1982_Kenyan_coup_d%27%C3%A9tat_attempt" title="1982 Kenyan coup d'état attempt">1982 coup d'état attempt</a></li> 
+             <li><a href="/wiki/Goldenberg_scandal" title="Goldenberg scandal">Goldenberg scandal</a></li> 
+             <li><a href="/wiki/Kenyan_general_election,_1992" class="mw-redirect" title="Kenyan general election, 1992">1992 Elections</a></li> 
+             <li><a href="/wiki/2007%E2%80%932008_Kenyan_crisis" title="2007–2008 Kenyan crisis">2007–2008 crisis</a></li> 
+             <li><a href="/wiki/Kenyan_constitutional_referendum,_2010" class="mw-redirect" title="Kenyan constitutional referendum, 2010">2010 referendum</a></li> 
+             <li><a href="/wiki/Kenyan_general_election,_2013" class="mw-redirect" title="Kenyan general election, 2013"> 2013 Elections</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <div class="floatright">
+             <a href="/wiki/Coat_of_arms_of_Kenya" title="Coat of arms of Kenya"><img alt="Coat of arms of Kenya (Official).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Coat_of_arms_of_Kenya_%28Official%29.svg/120px-Coat_of_arms_of_Kenya_%28Official%29.svg.png" decoding="async" width="120" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Coat_of_arms_of_Kenya_%28Official%29.svg/180px-Coat_of_arms_of_Kenya_%28Official%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Coat_of_arms_of_Kenya_%28Official%29.svg/240px-Coat_of_arms_of_Kenya_%28Official%29.svg.png 2x" data-file-width="738" data-file-height="695"></a>
+            </div>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Kenya" title="Geography of Kenya">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_biosphere_reserves_in_Kenya" class="mw-redirect" title="List of biosphere reserves in Kenya">Biosphere reserves</a></li> 
+                 <li><a href="/wiki/Climate_of_Kenya" class="mw-redirect" title="Climate of Kenya">Climate</a></li> 
+                 <li><a href="/wiki/List_of_ecoregions_in_Kenya" title="List of ecoregions in Kenya">Ecoregions</a></li> 
+                 <li><a href="/wiki/Environmental_issues_in_Kenya" title="Environmental issues in Kenya">Environmental issues</a></li> 
+                 <li><a href="/wiki/Great_Rift_Valley" title="Great Rift Valley">Great Rift Valley</a></li> 
+                 <li><a href="/wiki/List_of_lakes_of_Kenya" title="List of lakes of Kenya">Lakes</a></li> 
+                 <li><a href="/wiki/Category:Mountains_of_Kenya" title="Category:Mountains of Kenya">Mountains</a></li> 
+                 <li><a href="/wiki/List_of_national_parks_of_Kenya" title="List of national parks of Kenya">Protected areas</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Kenya" title="List of rivers of Kenya">Rivers</a></li> 
+                 <li><a href="/wiki/List_of_volcanoes_in_Kenya" title="List of volcanoes in Kenya">Volcanoes</a></li> 
+                 <li><a href="/wiki/Wildlife_of_Kenya" title="Wildlife of Kenya">Wildlife</a></li> 
+                 <li><a href="/wiki/List_of_World_Heritage_Sites_in_Kenya" title="List of World Heritage Sites in Kenya">World Heritage Sites</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Administrative_divisions_of_Kenya" class="mw-redirect" title="Administrative divisions of Kenya">Subdivisions</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_cities_in_Kenya" title="List of cities in Kenya">Cities</a></li> 
+                 <li><a href="/wiki/Counties_of_Kenya" title="Counties of Kenya">Counties</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Kenya" title="Politics of Kenya">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Constitution_of_Kenya" title="Constitution of Kenya">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Kenya" title="Elections in Kenya">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Kenya" title="Foreign relations of Kenya">Foreign relations</a></li> 
+                 <li><a href="/wiki/Government_of_Kenya" title="Government of Kenya">Government</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Kenya" title="Human rights in Kenya">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/Intersex_rights_in_Kenya" title="Intersex rights in Kenya">Intersex</a></li> 
+                   <li><a href="/wiki/LGBT_rights_in_Kenya" title="LGBT rights in Kenya">LGBT rights</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Judiciary_of_Kenya" title="Judiciary of Kenya">Judiciary</a></li> 
+                 <li><a href="/wiki/Law_enforcement_in_Kenya" title="Law enforcement in Kenya">Law enforcement</a></li> 
+                 <li><a href="/wiki/Kenya_Defence_Forces" title="Kenya Defence Forces">Military</a></li> 
+                 <li><a href="/wiki/National_Assembly_of_Kenya" class="mw-redirect" title="National Assembly of Kenya">Parliament</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Kenya" title="List of political parties in Kenya">Political parties</a></li> 
+                 <li><a href="/wiki/President_of_Kenya" title="President of Kenya">President</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_heads_of_state_of_Kenya" title="List of heads of state of Kenya">list</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Deputy_President_of_Kenya" title="Deputy President of Kenya">Deputy President</a></li> 
+                 <li><i><a href="/wiki/Prime_Minister_of_Kenya" title="Prime Minister of Kenya">Prime Minister <span style="font-size:85%;">(defunct)</span></a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Kenya" title="Economy of Kenya">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Agriculture_in_Kenya" title="Agriculture in Kenya">Agriculture</a></li> 
+                 <li><a href="/wiki/Central_Bank_of_Kenya" title="Central Bank of Kenya">Central bank</a></li> 
+                 <li><a href="/wiki/Coffee_industry_of_Kenya" class="mw-redirect" title="Coffee industry of Kenya">Coffee</a></li> 
+                 <li><a href="/wiki/Energy_in_Kenya" title="Energy in Kenya">Energy</a></li> 
+                 <li><a href="/wiki/Real_estate_in_Kenya" title="Real estate in Kenya">Real Estate</a></li> 
+                 <li><a href="/wiki/Kenyan_shilling" title="Kenyan shilling">Shilling <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Kenya" title="Telecommunications in Kenya">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Kenya" title="Tourism in Kenya">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Kenya" title="Transport in Kenya">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Kenyan_society" title="Category:Kenyan society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Child_marriage_in_Kenya" title="Child marriage in Kenya">Child marriage</a></li> 
+                 <li><a href="/wiki/Corruption_in_Kenya" title="Corruption in Kenya">Corruption</a></li> 
+                 <li><a href="/wiki/Crime_in_Kenya" title="Crime in Kenya">Crime</a></li> 
+                 <li><a href="/wiki/Demographics_of_Kenya" title="Demographics of Kenya">Demographics</a></li> 
+                 <li><a href="/wiki/Education_in_Kenya" title="Education in Kenya">Education</a></li> 
+                 <li><a href="/wiki/Health_in_Kenya" title="Health in Kenya">Health</a></li> 
+                 <li><a href="/wiki/Human_trafficking_in_Kenya" title="Human trafficking in Kenya">Human trafficking</a></li> 
+                 <li><a href="/wiki/Languages_of_Kenya" title="Languages of Kenya">Languages</a></li> 
+                 <li><a href="/wiki/Polygamy_in_Kenya" title="Polygamy in Kenya">Polygamy</a></li> 
+                 <li><a href="/wiki/Prostitution_in_Kenya" title="Prostitution in Kenya">Prostitution</a></li> 
+                 <li><a href="/wiki/Religion_in_Kenya" title="Religion in Kenya">Religion</a></li> 
+                 <li><a href="/wiki/Water_supply_and_sanitation_in_Kenya" title="Water supply and sanitation in Kenya">Water supply and sanitation</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Kenya" title="Culture of Kenya">Culture</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Ee_Mungu_Nguvu_Yetu" title="Ee Mungu Nguvu Yetu">Anthem</a></li> 
+                 <li><a href="/wiki/Cinema_of_Kenya" title="Cinema of Kenya">Cinema</a></li> 
+                 <li><a href="/wiki/Coat_of_arms_of_Kenya" title="Coat of arms of Kenya">Coat of arms</a></li> 
+                 <li><a href="/wiki/Kenyan_English" title="Kenyan English">English</a></li> 
+                 <li><a href="/wiki/Engsh" title="Engsh">Engsh</a></li> 
+                 <li><a href="/wiki/Flag_of_Kenya" title="Flag of Kenya">Flag</a></li> 
+                 <li><a href="/wiki/Category:Kenyan_names" title="Category:Kenyan names">Names</a></li> 
+                 <li><a href="/wiki/Kenyan_literature" title="Kenyan literature">Literature</a></li> 
+                 <li><a href="/wiki/Media_of_Kenya" class="mw-redirect" title="Media of Kenya">Media</a></li> 
+                 <li><a href="/wiki/List_of_museums_in_Kenya" title="List of museums in Kenya">Museums</a></li> 
+                 <li><a href="/wiki/Music_of_Kenya" title="Music of Kenya">Music</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Sport_in_Kenya" title="Sport in Kenya">Sports</a></li> 
+                 <li><a href="/wiki/Sheng_slang" title="Sheng slang">Sheng</a></li> 
+                 <li><a href="/wiki/Swahili_language" title="Swahili language">Swahili</a></li> 
+                 <li><a href="/wiki/Video_gaming_in_Kenya" class="mw-redirect" title="Video gaming in Kenya">Video gaming</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Kenya" title="Outline of Kenya">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Kenya-related_articles" title="Index of Kenya-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Kenya" title="Category:Kenya">Category</a></li> 
+             <li><a href="/wiki/Portal:Kenya" title="Portal:Kenya">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Africa" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Africa_topic" title="Template:Africa topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Africa_topic" title="Template talk:Africa topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Africa_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Africa" style="font-size:114%;margin:0 4em">
+            Public holidays in Africa
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Algeria" title="Public holidays in Algeria">Algeria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Angola" title="Public holidays in Angola">Angola</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Benin" title="Public holidays in Benin">Benin</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Botswana" title="Public holidays in Botswana">Botswana</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Burkina_Faso" title="Public holidays in Burkina Faso">Burkina Faso</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Burundi" title="Public holidays in Burundi">Burundi</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cameroon" title="Public holidays in Cameroon">Cameroon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cape_Verde" title="Public holidays in Cape Verde">Cape Verde (Cabo Verde)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Central_African_Republic" title="Public holidays in the Central African Republic">Central African Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Chad" title="Public holidays in Chad">Chad</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Comoros" title="Public holidays in the Comoros">Comoros</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Democratic_Republic_of_the_Congo" title="Public holidays in the Democratic Republic of the Congo">Democratic Republic of the Congo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_the_Congo" title="Public holidays in the Republic of the Congo">Republic of the Congo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Djibouti" title="Public holidays in Djibouti">Djibouti</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Equatorial_Guinea" title="Public holidays in Equatorial Guinea">Equatorial Guinea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Eritrea" title="Public holidays in Eritrea">Eritrea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Eswatini" title="Public holidays in Eswatini">Eswatini (Swaziland)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ethiopia" title="Public holidays in Ethiopia">Ethiopia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gabon" title="Public holidays in Gabon">Gabon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Gambia" title="Public holidays in the Gambia">The Gambia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ghana" title="Public holidays in Ghana">Ghana</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guinea" title="Public holidays in Guinea">Guinea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guinea-Bissau" title="Public holidays in Guinea-Bissau">Guinea-Bissau</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ivory_Coast" title="Public holidays in Ivory Coast">Ivory Coast (Côte d'Ivoire)</a></li> 
+             <li><a class="mw-selflink selflink">Kenya</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lesotho" title="Public holidays in Lesotho">Lesotho</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liberia" title="Public holidays in Liberia">Liberia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Libya" title="Public holidays in Libya">Libya</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Madagascar" title="Public holidays in Madagascar">Madagascar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malawi" title="Public holidays in Malawi">Malawi</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mali" title="Public holidays in Mali">Mali</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mauritania" title="Public holidays in Mauritania">Mauritania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mauritius" class="mw-redirect" title="Public holidays in Mauritius">Mauritius</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Morocco" title="Public holidays in Morocco">Morocco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mozambique" title="Public holidays in Mozambique">Mozambique</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Namibia" title="Public holidays in Namibia">Namibia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Niger" title="Public holidays in Niger">Niger</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nigeria" title="Public holidays in Nigeria">Nigeria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Rwanda" title="Public holidays in Rwanda">Rwanda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="Public holidays in São Tomé and Príncipe">São Tomé and Príncipe</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Senegal" title="Public holidays in Senegal">Senegal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Seychelles" title="Public holidays in Seychelles">Seychelles</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sierra_Leone" title="Public holidays in Sierra Leone">Sierra Leone</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Somalia" title="Public holidays in Somalia">Somalia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Africa" title="Public holidays in South Africa">South Africa</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Sudan" title="Public holidays in South Sudan">South Sudan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sudan" title="Public holidays in Sudan">Sudan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tanzania" title="Public holidays in Tanzania">Tanzania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Togo" title="Public holidays in Togo">Togo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tunisia" title="Public holidays in Tunisia">Tunisia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uganda" title="Public holidays in Uganda">Uganda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Zambia" title="Public holidays in Zambia">Zambia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Zimbabwe" title="Public holidays in Zimbabwe">Zimbabwe</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            States with limited
+            <br>recognition
+           </div></th>
+          <td class="navbox-list navbox-even hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_Sahrawi_Arab_Democratic_Republic" class="mw-redirect" title="Public holidays in the Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Somaliland" title="Public holidays in Somaliland">Somaliland</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            Dependencies and
+            <br>other territories
+           </div></th>
+          <td class="navbox-list navbox-odd hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div> 
+             <ul>
+              <li><a href="/wiki/Public_holidays_in_the_Canary_Islands" class="mw-redirect" title="Public holidays in the Canary Islands">Canary Islands</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Ceuta" class="mw-redirect" title="Public holidays in Ceuta">Ceuta</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Melilla" class="mw-redirect" title="Public holidays in Melilla">Melilla</a>&nbsp;&nbsp;<span style="font-size:85%;">(Spain)</span></li> 
+              <li><a href="/w/index.php?title=Public_holidays_in_Madeira&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Madeira (page does not exist)">Madeira</a>&nbsp;<span style="font-size:85%;">(Portugal)</span></li> 
+              <li><a href="/w/index.php?title=Public_holidays_in_Mayotte&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Mayotte (page does not exist)">Mayotte</a>&nbsp;/ <a href="/w/index.php?title=Public_holidays_in_R%C3%A9union&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Réunion (page does not exist)">Réunion</a>&nbsp;<span style="font-size:85%;">(France)</span></li> 
+              <li><a href="/wiki/Public_holidays_in_Saint_Helena" class="mw-redirect" title="Public holidays in Saint Helena">Saint Helena</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Ascension_Island" class="mw-redirect" title="Public holidays in Ascension Island">Ascension Island</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Tristan_da_Cunha" class="mw-redirect" title="Public holidays in Tristan da Cunha">Tristan da Cunha</a>&nbsp;<span style="font-size:85%;">(United Kingdom)</span></li> 
+              <li><a href="/wiki/Public_holidays_in_Western_Sahara" class="mw-redirect" title="Public holidays in Western Sahara">Western Sahara</a></li>
+             </ul> 
+            </div>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1389
+Cached time: 20210131005407
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.408 seconds
+Real time usage: 0.575 seconds
+Preprocessor visited node count: 2109/1000000
+Post‐expand include size: 126300/2097152 bytes
+Template argument size: 22797/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 44/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15173/5000000 bytes
+Lua time usage: 0.177/10.000 seconds
+Lua memory usage: 5125986/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  457.109      1 -total
+ 28.04%  128.196      1 Template:Culture_of_Kenya
+ 27.03%  123.563      1 Template:Culture_of_region
+ 24.46%  111.805      1 Template:Sidebar_with_collapsible_lists
+ 18.89%   86.363      6 Template:Navbox
+ 17.29%   79.019      1 Template:Reflist
+ 17.25%   78.849      1 Template:Kenya_topics
+ 16.35%   74.739      1 Template:Country_topics
+ 15.61%   71.370      3 Template:Cite_web
+ 15.35%   70.174      1 Template:More_citations_needed
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:35900764-0!canonical and timestamp 20210131005406 and revision id 1003071991. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Kenya&amp;oldid=1003071991">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Kenya&amp;oldid=1003071991</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Kenya" title="Category:Public holidays in Kenya">Public holidays in Kenya</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Kenyan_society" title="Category:Kenyan society">Kenyan society</a></li>
+       <li><a href="/wiki/Category:Kenya-related_lists" title="Category:Kenya-related lists">Kenya-related lists</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2021" title="Category:Articles needing additional references from January 2021">Articles needing additional references from January 2021</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Kenya" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Kenya" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Kenya" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Kenya" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Kenya">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Kenya&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Kenya&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Kenya" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Kenya" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Kenya&amp;oldid=1003071991" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Kenya&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Kenya&amp;id=1003071991&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257797" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Kenya&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Kenya&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Feiertage_in_Kenia" title="Feiertage in Kenia – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B0_%D0%9A%D0%B5%D0%BD%D1%96%D1%97" title="Свята Кенії – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257797#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 27 January 2021, at 07:58<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Kenya&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"0.575","ppvisitednodes":{"value":2109,"limit":1000000},"postexpandincludesize":{"value":126300,"limit":2097152},"templateargumentsize":{"value":22797,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":44,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15173,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  457.109      1 -total"," 28.04%  128.196      1 Template:Culture_of_Kenya"," 27.03%  123.563      1 Template:Culture_of_region"," 24.46%  111.805      1 Template:Sidebar_with_collapsible_lists"," 18.89%   86.363      6 Template:Navbox"," 17.29%   79.019      1 Template:Reflist"," 17.25%   78.849      1 Template:Kenya_topics"," 16.35%   74.739      1 Template:Country_topics"," 15.61%   71.370      3 Template:Cite_web"," 15.35%   70.174      1 Template:More_citations_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.177","limit":"10.000"},"limitreport-memusage":{"value":5125986,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1389","timestamp":"20210131005407","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Kenya","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Kenya","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7257797","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7257797","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-05-22T13:38:22Z","dateModified":"2021-01-27T07:58:07Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/49\/Flag_of_Kenya.svg","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1401"});});</script> 
+ </body>
+</html>

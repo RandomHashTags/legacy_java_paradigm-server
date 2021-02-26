@@ -37,7 +37,7 @@ public enum HumanDevelopmentIndex implements CountryRankingService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index";
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         final EventSource wikipedia = new EventSource("Wikipedia: List of countries by Human Development Index", url);
         final EventSources sources = new EventSources(wikipedia);
 

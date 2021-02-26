@@ -1,24 +1,30 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.country.LawController;
 import me.randomhashtags.worldlaws.country.ca.CanadaLaws;
 import me.randomhashtags.worldlaws.country.usa.USLaws;
-import me.randomhashtags.worldlaws.location.ICountry;
 
 import java.util.HashMap;
 
 public final class Laws implements DataValues {
 
-    private HashMap<String, ICountry> countries;
+    private HashMap<String, LawController> countries;
 
     public static void main(String[] args) {
         new Laws();
     }
 
     private Laws() {
-        countries = new HashMap<>();
+        //test();
+        load();
+    }
 
-        for(ICountry country : getCountries()) {
-            countries.put(country.getCountryBackendID().getValue(), country);
+    private void test() {
+    }
+    private void load() {
+        countries = new HashMap<>();
+        for(LawController country : getCountries()) {
+            countries.put(country.getCountry().getBackendID(), country);
         }
         LocalServer.start("Laws", WL_LAWS_PORT, new CompletionHandler() {
             @Override
@@ -35,8 +41,8 @@ public final class Laws implements DataValues {
         });
     }
 
-    private ICountry[] getCountries() {
-        return new ICountry[] {
+    private LawController[] getCountries() {
+        return new LawController[] {
                 CanadaLaws.INSTANCE,
                 USLaws.INSTANCE
         };

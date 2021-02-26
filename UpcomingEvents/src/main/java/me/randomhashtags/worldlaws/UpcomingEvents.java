@@ -2,35 +2,34 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.event.EventDate;
 import me.randomhashtags.worldlaws.event.entertainment.Movies;
-import me.randomhashtags.worldlaws.event.entertainment.MusicAlbums;
 import me.randomhashtags.worldlaws.event.entertainment.VideoGames;
+import me.randomhashtags.worldlaws.event.space.RocketLaunches;
 import me.randomhashtags.worldlaws.event.sports.UFC;
 import me.randomhashtags.worldlaws.happeningnow.StreamingEvents;
 import me.randomhashtags.worldlaws.location.WLCountry;
-import me.randomhashtags.worldlaws.location.CustomCountry;
+import org.apache.logging.log4j.Level;
 
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.*;
+import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.logging.Level;
-import java.util.stream.Stream;
 
 public final class UpcomingEvents implements DataValues {
 
-    private static final EventController[] CONTROLLERS = new EventController[] {
+    private static final List<EventController> CONTROLLERS = Arrays.asList(
             Movies.INSTANCE,
             //NASANeo.INSTANCE,
             //NFL.INSTANCE, // problem
-            MusicAlbums.INSTANCE,
-            //RocketLaunches.INSTANCE,
+            //MusicAlbums.INSTANCE,
+            RocketLaunches.INSTANCE,
             //SpaceX.INSTANCE,
             UFC.INSTANCE,
-            VideoGames.INSTANCE,
-    };
+            VideoGames.INSTANCE
+    );
 
-    private String eventsJSON;
-    private HashMap<CustomCountry, String> countries;
+    private String eventsJSON, weeklyEvents;
+    private HashMap<String, String> countries;
     private HashMap<EventController, String> jsons;
     private HashMap<String, String> dates;
 
@@ -45,10 +44,10 @@ public final class UpcomingEvents implements DataValues {
 
     private void test() {
         final long started = System.currentTimeMillis();
-        final Month month = Month.JANUARY;
-        final int day = 20, year = 2021;
+        final Month month = Month.FEBRUARY;
+        final int day = 2, year = 2021;
         final EventDate targetDate = new EventDate(month, day, year);
-        getEventsFromDate(targetDate, new CompletionHandler() {
+        RocketLaunches.INSTANCE.getEventsFromDate(targetDate, new CompletionHandler() {
             @Override
             public void handle(Object object) {
                 final String string = object.toString();
@@ -107,12 +106,12 @@ public final class UpcomingEvents implements DataValues {
             case "home":
                 final HashSet<String> list = new HashSet<>() {{
                     add("near_holidays");
-                    add("today_events");
+                    add("weekly_events");
                 }};
                 final int max = list.size();
                 final StringBuilder builder = new StringBuilder("{");
                 final AtomicInteger completed = new AtomicInteger(0);
-                for(String identifier : list) {
+                list.parallelStream().forEach(identifier -> {
                     getHomeValue(identifier, new CompletionHandler() {
                         @Override
                         public void handle(Object object) {
@@ -124,7 +123,7 @@ public final class UpcomingEvents implements DataValues {
                             }
                         }
                     });
-                }
+                });
                 break;
             case "date":
                 getEventsFromStringDate(values[1], handler);
@@ -151,19 +150,15 @@ public final class UpcomingEvents implements DataValues {
             case "near_holidays":
                 Holidays.INSTANCE.getNearHolidays(handler);
                 break;
-            case "today_events":
-                final LocalDate now = LocalDate.now();
-                final Month month = now.getMonth();
-                final int day = now.getDayOfMonth(), year = now.getYear();
-                final String dateString = month.getValue() + "-" + day + "-" + year;
-                getEventsFromStringDate(dateString, handler);
+            case "weekly_events":
+                getEventsFromThisWeek(handler);
                 break;
             default:
                 break;
         }
     }
 
-    private void getEvents(CustomCountry country, CompletionHandler handler) {
+    private void getEvents(String country, CompletionHandler handler) {
         if(countries.containsKey(country)) {
             handler.handle(countries.get(country));
         } else {
@@ -199,6 +194,62 @@ public final class UpcomingEvents implements DataValues {
         }
     }
 
+    private void getEventsFromThisWeek(CompletionHandler handler) {
+        if(weeklyEvents != null) {
+            handler.handle(weeklyEvents);
+        } else {
+            setupAutoUpdates();
+            refreshEventsFromThisWeek(handler);
+        }
+    }
+    private void setupAutoUpdates() {
+        final long threeHours = TimeUnit.HOURS.toMillis(3);
+        new Timer().scheduleAtFixedRate(new TimerTask() {
+            @Override
+            public void run() {
+                dates.clear();
+                refreshEventsFromThisWeek(null);
+            }
+        }, threeHours, threeHours);
+    }
+    private void refreshEventsFromThisWeek(CompletionHandler handler) {
+        final LocalDate now = LocalDate.now();
+        final StringBuilder builder = new StringBuilder("{");
+        final HashSet<String> dates = new HashSet<>() {{
+            add(getEventStringForDate(now));
+            add(getEventStringForDate(now.plusDays(1)));
+            add(getEventStringForDate(now.plusDays(2)));
+            add(getEventStringForDate(now.plusDays(3)));
+            add(getEventStringForDate(now.plusDays(4)));
+            add(getEventStringForDate(now.plusDays(5)));
+            add(getEventStringForDate(now.plusDays(6)));
+        }};
+
+        final int max = dates.size();
+        final AtomicInteger completed = new AtomicInteger(0);
+        for(String identifier : dates) {
+            final String eventDate = identifier.substring("events-".length());
+            getEventsFromStringDate(eventDate, new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    final int value = completed.addAndGet(1);
+                    final String id = "\"" + identifier + "\":" + object.toString();
+                    builder.append(value == 1 ? "" : ",").append(id);
+                    if(value == max) {
+                        builder.append("}");
+                        final String string = builder.toString();
+                        weeklyEvents = string;
+                        if(handler != null) {
+                            handler.handle(string);
+                        }
+                    }
+                }
+            });
+        }
+    }
+    private String getEventStringForDate(LocalDate date) {
+        return "events-" + date.getMonthValue() + "-" + date.getYear() + "-" + date.getDayOfMonth();
+    }
     private void getEventsFromStringDate(String targetDate, CompletionHandler handler) {
         if(dates.containsKey(targetDate)) {
             handler.handle(dates.get(targetDate));
@@ -206,7 +257,7 @@ public final class UpcomingEvents implements DataValues {
             final long started = System.currentTimeMillis();
             final String[] valueDates = targetDate.split("-");
             final Month month = Month.of(Integer.parseInt(valueDates[0]));
-            final int day = Integer.parseInt(valueDates[1]), year = Integer.parseInt(valueDates[2]);
+            final int day = Integer.parseInt(valueDates[2]), year = Integer.parseInt(valueDates[1]);
             getEventsFromDate(new EventDate(month, day, year), new CompletionHandler() {
                 @Override
                 public void handle(Object object) {
@@ -219,16 +270,21 @@ public final class UpcomingEvents implements DataValues {
         }
     }
     private void getEventsFromDate(EventDate date, CompletionHandler handler) {
-        final int max = CONTROLLERS.length;
-        final Stream<EventController> controllers = Arrays.asList(CONTROLLERS).parallelStream();
+        final int max = CONTROLLERS.size();
         final List<String> values = new ArrayList<>();
-        controllers.forEach(controller -> {
+        final AtomicInteger completed = new AtomicInteger(0);
+        CONTROLLERS.parallelStream().forEach(controller -> {
             controller.getEventsFromDate(date, new CompletionHandler() {
                 @Override
                 public void handle(Object object) {
-                    final String value = "\"" + controller.getType().name().toLowerCase() + "\":" + object.toString();
-                    values.add(value);
-                    if(values.size() == max) {
+                    final int completedValue = completed.addAndGet(1);
+                    final String objectString = object.toString();
+                    final boolean isEmpty = objectString.equals("[]");
+                    if(!isEmpty) {
+                        final String value = "\"" + controller.getType().name().toLowerCase() + "\":" + objectString;
+                        values.add(value);
+                    }
+                    if(completedValue == max) {
                         final StringBuilder builder = new StringBuilder("{");
                         boolean isFirst = true;
                         for(String string : values) {
@@ -254,12 +310,12 @@ public final class UpcomingEvents implements DataValues {
         });
     }
 
-    public List<EventController> getEventsFromCountry(@Nullable CustomCountry country) {
-        final List<EventController> set = Arrays.asList(CONTROLLERS);
-        if(country != null) {
+    public List<EventController> getEventsFromCountry(String countryBackendID) {
+        final List<EventController> set = new ArrayList<>(CONTROLLERS);
+        if(countryBackendID != null) {
             set.removeIf(event -> {
                 final WLCountry backendID  = event.getCountry();
-                return backendID == null || !backendID.getBackendID().equalsIgnoreCase(country.getBackendID());
+                return backendID == null || !backendID.getBackendID().equalsIgnoreCase(countryBackendID);
             });
         }
         return set;

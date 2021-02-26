@@ -1,0 +1,878 @@
+<table class="wikitable sortable"> 
+ <tbody>
+  <tr> 
+   <th>Map ref. </th> 
+   <th>Economic Region/<i>Autonomous Republic</i> </th> 
+   <th>Area (km<sup>2</sup>) </th> 
+   <th>Population </th>
+  </tr> 
+  <tr> 
+   <td align="center"><b>1</b> </td> 
+   <td align="left"><a href="/wiki/Absheron_Economic_Region" title="Absheron Economic Region">Absheron</a> </td> 
+   <td align="right">5,420 </td> 
+   <td align="right">2,613,300 </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>2</b> </td> 
+   <td align="left"><a href="/wiki/Ganja-Gazakh_Economic_Region" class="mw-redirect" title="Ganja-Gazakh Economic Region">Ganja-Qazakh</a> </td> 
+   <td align="right">12,480 </td> 
+   <td align="right">1,191,700 </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>3</b> </td> 
+   <td align="left"><a href="/wiki/Sheki-Zagatala_Economic_Region" class="mw-redirect" title="Sheki-Zagatala Economic Region">Shaki-Zaqatala</a> </td> 
+   <td align="right">8,969 </td> 
+   <td align="right">543,400 </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>4</b> </td> 
+   <td align="left"><a href="/wiki/Lankaran_Economic_Region" title="Lankaran Economic Region">Lankaran</a> </td> 
+   <td align="right">6,140 </td> 
+   <td align="right">926,500 </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>5</b> </td> 
+   <td align="left"><a href="/wiki/Guba-Khachmaz_economic_region" class="mw-redirect" title="Guba-Khachmaz economic region">Guba-Khachmaz</a> </td> 
+   <td align="right">6,960 </td> 
+   <td align="right">498,400 </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>6</b> </td> 
+   <td align="left"><a href="/wiki/Aran_economic_region" title="Aran economic region">Aran</a> </td> 
+   <td align="right">23,375 </td> 
+   <td align="right">1,893,036 </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>7</b> </td> 
+   <td align="left"><a href="/wiki/Upper_Karabakh_economic_region" title="Upper Karabakh economic region">Upper Karabakh</a> </td> 
+   <td align="right">7,253.5 </td> 
+   <td align="right">628,200 </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>8</b> </td> 
+   <td align="left"><a href="/wiki/Kalbajar-Lachin" title="Kalbajar-Lachin">Kalbajar-Lachin</a> </td> 
+   <td align="right">6,400 </td> 
+   <td align="right">231,300 </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>9</b> </td> 
+   <td align="left"><a href="/wiki/Mountainous_Shirvan_economic_region" title="Mountainous Shirvan economic region">Mountainous Shirvan</a> </td> 
+   <td align="right">6,060 </td> 
+   <td align="right">287,800 </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>10</b> </td> 
+   <td align="left"><i><a href="/wiki/Nakhchivan_Autonomous_Republic" title="Nakhchivan Autonomous Republic">Nakhchivan</a></i> </td> 
+   <td align="right">5,550 </td> 
+   <td align="right">414,900 </td>
+  </tr> 
+ </tbody>
+</table>
+<table class="wikitable sortable"> 
+ <tbody>
+  <tr> 
+   <th>Map ref. </th> 
+   <th>Administrative division </th> 
+   <th>Azerbaijani name </th> 
+   <th>Capital </th> 
+   <th>Area<sup id="cite_ref-azstat_3-0" class="reference"><a href="#cite_note-azstat-3">[3]</a></sup><br>(km<sup>2</sup>) </th> 
+   <th>Population<sup id="cite_ref-azstat_3-1" class="reference"><a href="#cite_note-azstat-3">[3]</a></sup><br>(2011&nbsp;est.) </th> 
+   <th>Region </th> 
+   <th>Notes </th>
+  </tr> 
+  <tr> 
+   <td align="center"><b>1</b> </td> 
+   <td align="left"><a href="/wiki/Absheron_District" title="Absheron District">Absheron District</a> </td> 
+   <td align="left">Abşeron </td> 
+   <td align="left"><a href="/wiki/X%C4%B1rdalan" title="Xırdalan">Xirdalan</a> </td> 
+   <td align="right">1,360 </td> 
+   <td align="right">192,900 </td> 
+   <td align="left">Absheron </td> 
+   <td align="left">Includes an <a href="/wiki/Exclave" class="mw-redirect" title="Exclave">exclave</a> in <a href="/wiki/Baku" title="Baku">Baku</a> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>2</b> </td> 
+   <td align="left"><a href="/wiki/Aghjabadi_District" title="Aghjabadi District">Aghjabadi District</a> </td> 
+   <td align="left">Ağcabədi </td> 
+   <td align="left"><a href="/wiki/A%C4%9Fcab%C9%99di" title="Ağcabədi">Aghjabadi</a> </td> 
+   <td align="right">1,760 </td> 
+   <td align="right">124,000 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>3</b> </td> 
+   <td align="left"><a href="/wiki/Agdam_District" title="Agdam District">Agdam District</a> </td> 
+   <td align="left">Ağdam </td> 
+   <td align="left"><a href="/wiki/Al%C4%B1b%C9%99yli,_Agdam" title="Alıbəyli, Agdam">Alibeyli</a> </td> 
+   <td align="right">1,150 </td> 
+   <td align="right">180,600 </td> 
+   <td align="left">Yukhari-Karabakh </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>4</b> </td> 
+   <td align="left"><a href="/wiki/Agdash_District" title="Agdash District">Agdash District</a> </td> 
+   <td align="left">Ağdaş </td> 
+   <td align="left"><a href="/wiki/A%C4%9Fda%C5%9F,_Azerbaijan" title="Ağdaş, Azerbaijan">Agdash</a> </td> 
+   <td align="right">1,050 </td> 
+   <td align="right">100,600 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>5</b> </td> 
+   <td align="left"><a href="/wiki/Agstafa_District" title="Agstafa District">Agstafa District</a> </td> 
+   <td align="left">Ağstafa </td> 
+   <td align="left"><a href="/wiki/A%C4%9Fstafa" title="Ağstafa">Agstafa</a> </td> 
+   <td align="right">1,500 </td> 
+   <td align="right">81,400 </td> 
+   <td align="left">Ganja-Qazakh </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>6</b> </td> 
+   <td align="left"><a href="/wiki/Agsu_District" title="Agsu District">Agsu District</a> </td> 
+   <td align="left">Ağsu </td> 
+   <td align="left"><a href="/wiki/Agsu_(city)" title="Agsu (city)">Agsu</a> </td> 
+   <td align="right">1,020 </td> 
+   <td align="right">72,100 </td> 
+   <td align="left">Daglig-Shirvan </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>7</b> </td> 
+   <td align="left"><a href="/wiki/Shirvan_(city)" class="mw-redirect" title="Shirvan (city)">Shirvan</a> (city) </td> 
+   <td align="left">Şirvan </td> 
+   <td align="left"> </td> 
+   <td align="right">30 </td> 
+   <td align="right">78,700 </td> 
+   <td align="left">Aran </td> 
+   <td align="left">Named Ali Bayramli (Əli Bayramlı) until April 24, 2008 </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>8</b> </td> 
+   <td align="left"><a href="/wiki/Astara_District" title="Astara District">Astara District</a> </td> 
+   <td align="left">Astara </td> 
+   <td align="left"><a href="/wiki/Astara,_Azerbaijan" title="Astara, Azerbaijan">Astara</a> </td> 
+   <td align="right">620 </td> 
+   <td align="right">98,300 </td> 
+   <td align="left">Lankaran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>9</b> </td> 
+   <td align="left"><a href="/wiki/Baku" title="Baku">Baku</a> (city) </td> 
+   <td align="left">Bakı </td> 
+   <td align="left"> </td> 
+   <td align="right">2,130 </td> 
+   <td align="right">2,092,400 </td> 
+   <td align="left">Absheron </td> 
+   <td align="left">Comprising 12 <i>rayonlar</i> it is the capital and largest city of Azerbaijan </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>10</b> </td> 
+   <td align="left"><a href="/wiki/Balakan_District" title="Balakan District">Balakan District</a> </td> 
+   <td align="left">Balakən </td> 
+   <td align="left"><a href="/wiki/Balak%C9%99n" class="mw-redirect" title="Balakən">Balakan</a> </td> 
+   <td align="right">920 </td> 
+   <td align="right">91,100 </td> 
+   <td align="left">Shaki-Zaqatala </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>11</b> </td> 
+   <td align="left"><a href="/wiki/Barda_District" title="Barda District">Barda District</a> </td> 
+   <td align="left">Bərdə </td> 
+   <td align="left"><a href="/wiki/Barda,_Azerbaijan" title="Barda, Azerbaijan">Barda</a> </td> 
+   <td align="right">960 </td> 
+   <td align="right">143,900 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>12</b> </td> 
+   <td align="left"><a href="/wiki/Beylagan_District" title="Beylagan District">Beylagan District</a> </td> 
+   <td align="left">Beyləqan </td> 
+   <td align="left"><a href="/wiki/Beylagan_(city)" title="Beylagan (city)">Beylagan</a> </td> 
+   <td align="right">1,130 </td> 
+   <td align="right">87,900 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>13</b> </td> 
+   <td align="left"><a href="/wiki/Bilasuvar_District" title="Bilasuvar District">Bilasuvar District</a> </td> 
+   <td align="left">Biləsuvar </td> 
+   <td align="left"><a href="/wiki/Bil%C9%99suvar" title="Biləsuvar">Bilasuvar</a> </td> 
+   <td align="right">1,400 </td> 
+   <td align="right">90,300 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>14</b> </td> 
+   <td align="left"><a href="/wiki/Jabrayil_District" title="Jabrayil District">Jabrayil District</a> </td> 
+   <td align="left">Cəbrayıl </td> 
+   <td align="left"><a href="/wiki/C%C9%99brayil" class="mw-redirect" title="Cəbrayil">Jabrayil</a> </td> 
+   <td align="right">1,050 </td> 
+   <td align="right">72,700 </td> 
+   <td align="left">Yukhari-Karabakh </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>15</b> </td> 
+   <td align="left"><a href="/wiki/Jalilabad_District_(Azerbaijan)" title="Jalilabad District (Azerbaijan)">Jalilabad District</a> </td> 
+   <td align="left">Cəlilabad </td> 
+   <td align="left"><a href="/wiki/C%C9%99lilabad" title="Cəlilabad">Jalilabad</a> </td> 
+   <td align="right">1,440 </td> 
+   <td align="right">196,500 </td> 
+   <td align="left">Lankaran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>16</b> </td> 
+   <td align="left"><a href="/wiki/Dashkasan_District" title="Dashkasan District">Dashkasan District</a> </td> 
+   <td align="left">Daşkəsən </td> 
+   <td align="left"><a href="/wiki/Da%C5%9Fk%C9%99s%C9%99n" title="Daşkəsən">Daşkəsən</a> </td> 
+   <td align="right">1,050 </td> 
+   <td align="right">33,200 </td> 
+   <td align="left">Ganja-Qazakh </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>17</b> </td> 
+   <td align="left"><a href="/wiki/Shabran_District" title="Shabran District">Shabran District</a> </td> 
+   <td align="left">Şabran </td> 
+   <td align="left"><a href="/wiki/%C5%9Eabran" title="Şabran">Shabran</a> </td> 
+   <td align="right">1,090 </td> 
+   <td align="right">53,000 </td> 
+   <td align="left">Quba-Khachmaz </td> 
+   <td align="left">Named Davachi (Dəvəçi) until 2010 </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>18</b> </td> 
+   <td align="left"><a href="/wiki/Fuzuli_District" title="Fuzuli District">Fuzuli District</a> </td> 
+   <td align="left">Füzuli </td> 
+   <td align="left"><a href="/wiki/F%C3%BCzuli_(city)" class="mw-redirect" title="Füzuli (city)">Füzuli</a> </td> 
+   <td align="right">1,390 </td> 
+   <td align="right">118,900 </td> 
+   <td align="left">Yukhari-Karabakh </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>19</b> </td> 
+   <td align="left"><a href="/wiki/Gadabay_District" title="Gadabay District">Gadabay District</a> </td> 
+   <td align="left">Gədəbəy </td> 
+   <td align="left"><a href="/wiki/G%C9%99d%C9%99b%C9%99y" title="Gədəbəy">Gadabay</a> </td> 
+   <td align="right">1,290 </td> 
+   <td align="right">95,000 </td> 
+   <td align="left">Ganja-Qazakh </td> 
+   <td align="left">Borders an exclave of <a href="/wiki/Armenia" title="Armenia">Armenia</a> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>20</b> </td> 
+   <td align="left"><a href="/wiki/Ganja,_Azerbaijan" title="Ganja, Azerbaijan">Ganja</a> (city) </td> 
+   <td align="left">Gəncə </td> 
+   <td align="left"> </td> 
+   <td align="right">110 </td> 
+   <td align="right">316,300 </td> 
+   <td align="left">Ganja-Qazakh </td> 
+   <td align="left">Comprising 2 <i>rayonlar</i> and Azerbaijan's second-largest city </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>21</b> </td> 
+   <td align="left"><a href="/wiki/Goranboy_District" title="Goranboy District">Goranboy District</a> </td> 
+   <td align="left">Goranboy </td> 
+   <td align="left"><a href="/wiki/Goranboy_(city)" title="Goranboy (city)">Goranboy</a> </td> 
+   <td align="right">1,760 </td> 
+   <td align="right">96,200 </td> 
+   <td align="left">Ganja-Qazakh </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>22</b> </td> 
+   <td align="left"><a href="/wiki/Goychay_District" title="Goychay District">Goychay District</a> </td> 
+   <td align="left">Göyçay </td> 
+   <td align="left"><a href="/wiki/Goychay_(city)" title="Goychay (city)">Goychay</a> </td> 
+   <td align="right">740 </td> 
+   <td align="right">111,100 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>23</b> </td> 
+   <td align="left"><a href="/wiki/Hajigabul_District" title="Hajigabul District">Hajigabul District</a> </td> 
+   <td align="left">Hacıqabul </td> 
+   <td align="left"><a href="/wiki/Hajiqabul" title="Hajiqabul">Hajiqabul</a> </td> 
+   <td align="right">1,640 </td> 
+   <td align="right">67,300 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>24</b> </td> 
+   <td align="left"><a href="/wiki/Imishli_District" title="Imishli District">Imishli District</a> </td> 
+   <td align="left">İmişli </td> 
+   <td align="left"><a href="/wiki/Imishli_(city)" title="Imishli (city)">Imishli</a> </td> 
+   <td align="right">1,820 </td> 
+   <td align="right">116,600 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>25</b> </td> 
+   <td align="left"><a href="/wiki/Ismailli_District" class="mw-redirect" title="Ismailli District">Ismailli District</a> </td> 
+   <td align="left">İsmayıllı </td> 
+   <td align="left"><a href="/wiki/%C4%B0smay%C4%B1ll%C4%B1" title="İsmayıllı">Ismailli</a> </td> 
+   <td align="right">2,060 </td> 
+   <td align="right">80,900 </td> 
+   <td align="left">Daglig-Shirvan </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>26</b> </td> 
+   <td align="left"><a href="/wiki/Kalbajar_District" title="Kalbajar District">Kalbajar District</a> </td> 
+   <td align="left">Kəlbəcər </td> 
+   <td align="left"><a href="/wiki/Kalbajar" title="Kalbajar">Kalbajar</a> </td> 
+   <td align="right">3,050 </td> 
+   <td align="right">83,200 </td> 
+   <td align="left">Kalbajar-Lachin </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>27</b> </td> 
+   <td align="left"><a href="/wiki/Kurdamir_District" title="Kurdamir District">Kurdamir District</a> </td> 
+   <td align="left">Kürdəmir </td> 
+   <td align="left"><a href="/wiki/K%C3%BCrd%C9%99mir" title="Kürdəmir">Kurdamir</a> </td> 
+   <td align="right">1,630 </td> 
+   <td align="right">105,700 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>28</b> </td> 
+   <td align="left"><a href="/wiki/Lachin_District" title="Lachin District">Lachin District</a> </td> 
+   <td align="left">Laçın </td> 
+   <td align="left"><a href="/wiki/Lachin" title="Lachin">Lachin</a> </td> 
+   <td align="right">1,840 </td> 
+   <td align="right">70,900 </td> 
+   <td align="left">Kalbajar-Lachin </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>29</b> </td> 
+   <td align="left"><a href="/wiki/Lankaran_District" title="Lankaran District">Lankaran District</a> </td> 
+   <td align="left">Lənkəran </td> 
+   <td align="left"><a href="/wiki/Lankaran" title="Lankaran">Lankaran</a> </td> 
+   <td align="right">1,540 </td> 
+   <td align="right">209,900 </td> 
+   <td align="left">Lankaran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>30</b> </td> 
+   <td align="left"><a href="/wiki/Lankaran" title="Lankaran">Lankaran</a> (city) </td> 
+   <td align="left">Lənkəran </td> 
+   <td align="left"> </td> 
+   <td align="right">70 </td> 
+   <td align="right">83,300 </td> 
+   <td align="left">Lankaran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>31</b> </td> 
+   <td align="left"><a href="/wiki/Lerik_District" title="Lerik District">Lerik District</a> </td> 
+   <td align="left">Lerik </td> 
+   <td align="left"><a href="/wiki/Lerik,_Azerbaijan" title="Lerik, Azerbaijan">Lerik</a> </td> 
+   <td align="right">1,080 </td> 
+   <td align="right">76,400 </td> 
+   <td align="left">Lankaran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>32</b> </td> 
+   <td align="left"><a href="/wiki/Masally_District" title="Masally District">Masally District</a> </td> 
+   <td align="left">Masallı </td> 
+   <td align="left"><a href="/wiki/Masall%C4%B1" title="Masallı">Masally</a> </td> 
+   <td align="right">720 </td> 
+   <td align="right">202,500 </td> 
+   <td align="left">Lankaran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>33</b> </td> 
+   <td align="left"><a href="/wiki/Mingachevir" title="Mingachevir">Mingachevir</a> (city) </td> 
+   <td align="left">Mingəçevir </td> 
+   <td align="left"> </td> 
+   <td align="right">130 </td> 
+   <td align="right">97,800 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>34</b> </td> 
+   <td align="left"><a href="/wiki/Naftalan,_Azerbaijan" title="Naftalan, Azerbaijan">Naftalan</a> (city) </td> 
+   <td align="left">Naftalan </td> 
+   <td align="left"> </td> 
+   <td align="right">30 </td> 
+   <td align="right">9,100 </td> 
+   <td align="left">Ganja-Qazakh </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>35</b> </td> 
+   <td align="left"><a href="/wiki/Neftchala_District" title="Neftchala District">Neftchala District</a> </td> 
+   <td align="left">Neftçala </td> 
+   <td align="left"><a href="/wiki/Neft%C3%A7ala" title="Neftçala">Neftchala</a> </td> 
+   <td align="right">1,450 </td> 
+   <td align="right">81,300 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>36</b> </td> 
+   <td align="left"><a href="/wiki/Oghuz_District" title="Oghuz District">Oghuz District</a> </td> 
+   <td align="left">Oğuz </td> 
+   <td align="left"><a href="/wiki/O%C4%9Fuz_(city)" title="Oğuz (city)">Oghuz</a> </td> 
+   <td align="right">1,220 </td> 
+   <td align="right">40,900 </td> 
+   <td align="left">Shaki-Zaqatala </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>37</b> </td> 
+   <td align="left"><a href="/wiki/Qabala_District" title="Qabala District">Qabala District</a> </td> 
+   <td align="left">Qəbələ </td> 
+   <td align="left"><a href="/wiki/Qabala" title="Qabala">Qabala</a> </td> 
+   <td align="right">1,550 </td> 
+   <td align="right">95,600 </td> 
+   <td align="left">Shaki-Zaqatala </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>38</b> </td> 
+   <td align="left"><a href="/wiki/Qakh_District" title="Qakh District">Qakh District</a> </td> 
+   <td align="left">Qax </td> 
+   <td align="left"><a href="/wiki/Qax_(city)" class="mw-redirect" title="Qax (city)">Qakh</a> </td> 
+   <td align="right">1,490 </td> 
+   <td align="right">53,900 </td> 
+   <td align="left">Shaki-Zaqatala </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>39</b> </td> 
+   <td align="left"><a href="/wiki/Qazakh_District" title="Qazakh District">Qazakh District</a> </td> 
+   <td align="left">Qazax </td> 
+   <td align="left"><a href="/wiki/Qazax" title="Qazax">Qazakh</a> </td> 
+   <td align="right">700 </td> 
+   <td align="right">90,800 </td> 
+   <td align="left">Ganja-Qazakh </td> 
+   <td align="left">Includes two exclaves in Armenia </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>40</b> </td> 
+   <td align="left"><a href="/wiki/Gobustan_District" title="Gobustan District">Gobustan District</a> </td> 
+   <td align="left">Qobustan </td> 
+   <td align="left"><a href="/wiki/Gobustan_(town)" title="Gobustan (town)">Gobustan</a> </td> 
+   <td align="right">1,370 </td> 
+   <td align="right">41,100 </td> 
+   <td align="left">Daglig-Shirvan </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>41</b> </td> 
+   <td align="left"><a href="/wiki/Quba_District_(Azerbaijan)" title="Quba District (Azerbaijan)">Quba District</a> </td> 
+   <td align="left">Quba </td> 
+   <td align="left"><a href="/wiki/Quba" title="Quba">Quba</a> </td> 
+   <td align="right">2,580 </td> 
+   <td align="right">155,600 </td> 
+   <td align="left">Quba-Khachmaz </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>42</b> </td> 
+   <td align="left"><a href="/wiki/Qubadli_District" title="Qubadli District">Qubadli District</a> </td> 
+   <td align="left">Qubadlı </td> 
+   <td align="left"><a href="/wiki/Qubadl%C4%B1" class="mw-redirect" title="Qubadlı">Qubadli</a> </td> 
+   <td align="right">800 </td> 
+   <td align="right">36,700 </td> 
+   <td align="left">Kalbajar-Lachin </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>43</b> </td> 
+   <td align="left"><a href="/wiki/Qusar_District" title="Qusar District">Qusar District</a> </td> 
+   <td align="left">Qusar </td> 
+   <td align="left"><a href="/wiki/Qusar_(city)" title="Qusar (city)">Qusar</a> </td> 
+   <td align="right">1,540 </td> 
+   <td align="right">89,300 </td> 
+   <td align="left">Quba-Khachmaz </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>44</b> </td> 
+   <td align="left"><a href="/wiki/Saatly_District" title="Saatly District">Saatly District</a> </td> 
+   <td align="left">Saatlı </td> 
+   <td align="left"><a href="/wiki/Saatl%C4%B1_(city)" title="Saatlı (city)">Saatly</a> </td> 
+   <td align="right">1,180 </td> 
+   <td align="right">95,100 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>45</b> </td> 
+   <td align="left"><a href="/wiki/Sabirabad_District" title="Sabirabad District">Sabirabad District</a> </td> 
+   <td align="left">Sabirabad </td> 
+   <td align="left"><a href="/wiki/Sabirabad_(city)" title="Sabirabad (city)">Sabirabad</a> </td> 
+   <td align="right">1,470 </td> 
+   <td align="right">155,400 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>46</b> </td> 
+   <td align="left"><a href="/wiki/Shaki_District" title="Shaki District">Shaki District</a> </td> 
+   <td align="left">Şəki </td> 
+   <td align="left"><a href="/wiki/Shaki,_Azerbaijan" title="Shaki, Azerbaijan">Shaki</a> </td> 
+   <td align="right">2,430 </td> 
+   <td align="right">173,500 </td> 
+   <td align="left">Shaki-Zaqatala </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>47</b> </td> 
+   <td align="left"><a href="/wiki/Shaki,_Azerbaijan" title="Shaki, Azerbaijan">Shaki</a> (city) </td> 
+   <td align="left">Şəki </td> 
+   <td align="left"> </td> 
+   <td align="right">9 </td> 
+   <td align="right">63,700 </td> 
+   <td align="left">Shaki-Zaqatala </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>48</b> </td> 
+   <td align="left"><a href="/wiki/Salyan_District_(Azerbaijan)" class="mw-redirect" title="Salyan District (Azerbaijan)">Salyan District</a> </td> 
+   <td align="left">Salyan </td> 
+   <td align="left"><a href="/wiki/Salyan,_Azerbaijan" title="Salyan, Azerbaijan">Salyan</a> </td> 
+   <td align="right">1,790 </td> 
+   <td align="right">124,900 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>49</b> </td> 
+   <td align="left"><a href="/wiki/Shamakhi_District" title="Shamakhi District">Shamakhi District</a> </td> 
+   <td align="left">Şamaxı </td> 
+   <td align="left"><a href="/wiki/%C5%9Eamax%C4%B1" class="mw-redirect" title="Şamaxı">Shamakhi</a> </td> 
+   <td align="right">1,610 </td> 
+   <td align="right">93,700 </td> 
+   <td align="left">Daglig-Shirvan </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>50</b> </td> 
+   <td align="left"><a href="/wiki/Shamkir_District" title="Shamkir District">Shamkir District</a> </td> 
+   <td align="left">Şəmkir </td> 
+   <td align="left"><a href="/wiki/%C5%9E%C9%99mkir" title="Şəmkir">Shamkir</a> </td> 
+   <td align="right">1,660 </td> 
+   <td align="right">196,100 </td> 
+   <td align="left">Ganja-Qazakh </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>51</b> </td> 
+   <td align="left"><a href="/wiki/Samukh_District" title="Samukh District">Samukh District</a> </td> 
+   <td align="left">Samux </td> 
+   <td align="left"><a href="/wiki/N%C9%99bia%C4%9Fal%C4%B1" class="mw-redirect" title="Nəbiağalı">Nebiagali</a> </td> 
+   <td align="right">1,450 </td> 
+   <td align="right">54,600 </td> 
+   <td align="left">Ganja-Qazakh </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>52</b> </td> 
+   <td align="left"><a href="/wiki/Siazan_District" title="Siazan District">Siazan District</a> </td> 
+   <td align="left">Siyəzən </td> 
+   <td align="left"><a href="/wiki/Siy%C9%99z%C9%99n" title="Siyəzən">Siazan</a> </td> 
+   <td align="right">700 </td> 
+   <td align="right">38,400 </td> 
+   <td align="left">Quba-Khachmaz </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>53</b> </td> 
+   <td align="left"><a href="/wiki/Sumqayit" class="mw-redirect" title="Sumqayit">Sumqayit</a> (city) </td> 
+   <td align="left">Sumqayıt </td> 
+   <td align="left"> </td> 
+   <td align="right">80 </td> 
+   <td align="right">314,800 </td> 
+   <td align="left">Absheron </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>54</b><br><b>55</b> </td> 
+   <td align="left"><a href="/wiki/Shusha_District" title="Shusha District">Shusha District</a> </td> 
+   <td align="left">Şuşa </td> 
+   <td align="left"><a href="/wiki/Shusha" title="Shusha">Shusha</a> </td> 
+   <td align="right">290 </td> 
+   <td align="right">32,800 </td> 
+   <td align="left">Yukhari-Karabakh </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>56</b> </td> 
+   <td align="left"><a href="/wiki/Tartar_District" title="Tartar District">Tartar District</a> </td> 
+   <td align="left">Tərtər </td> 
+   <td align="left"><a href="/wiki/Tartar_(city)" title="Tartar (city)">Tartar</a> </td> 
+   <td align="right">960 </td> 
+   <td align="right">98,400 </td> 
+   <td align="left">Yukhari-Karabakh </td> 
+   <td align="left">Parts controlled by <a href="/wiki/Nagorno-Karabakh_Republic" class="mw-redirect" title="Nagorno-Karabakh Republic">NKR</a> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>57</b> </td> 
+   <td align="left"><a href="/wiki/Tovuz_District" title="Tovuz District">Tovuz District</a> </td> 
+   <td align="left">Tovuz </td> 
+   <td align="left"><a href="/wiki/Tovuz,_Azerbaijan" title="Tovuz, Azerbaijan">Tovuz</a> </td> 
+   <td align="right">1,900 </td> 
+   <td align="right">160,700 </td> 
+   <td align="left">Ganja-Qazakh </td> 
+   <td align="left">Borders an exclave of Armenia </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>58</b> </td> 
+   <td align="left"><a href="/wiki/Ujar_District" title="Ujar District">Ujar District</a> </td> 
+   <td align="left">Ucar </td> 
+   <td align="left"><a href="/wiki/Ucar,_Azerbaijan" title="Ucar, Azerbaijan">Ujar</a> </td> 
+   <td align="right">850 </td> 
+   <td align="right">79,800 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>59</b> </td> 
+   <td align="left"><a href="/wiki/Khachmaz_District" title="Khachmaz District">Khachmaz District</a> </td> 
+   <td align="left">Xaçmaz </td> 
+   <td align="left"><a href="/wiki/Khachmaz_(city)" title="Khachmaz (city)">Khachmaz</a> </td> 
+   <td align="right">1,050 </td> 
+   <td align="right">162,100 </td> 
+   <td align="left">Quba-Khachmaz </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>60</b> </td> 
+   <td align="left"><a href="/wiki/Stepanakert" title="Stepanakert">Khankendi</a> (city) </td> 
+   <td align="left">Xankəndi </td> 
+   <td align="left"> </td> 
+   <td align="right">8 </td> 
+   <td align="right">55,200 </td> 
+   <td align="left">Yukhari-Karabakh </td> 
+   <td align="left">De facto capital of <a href="/wiki/Nagorno-Karabakh_Republic" class="mw-redirect" title="Nagorno-Karabakh Republic">NKR</a> named Stepanakert </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>61</b> </td> 
+   <td align="left"><a href="/wiki/Goygol_District" title="Goygol District">Goygol District</a> </td> 
+   <td align="left">Göygöl </td> 
+   <td align="left"><a href="/wiki/Goygol_(city)" title="Goygol (city)">Goygol</a> </td> 
+   <td align="right">1,030 </td> 
+   <td align="right">58,300 </td> 
+   <td align="left">Ganja-Qazakh </td> 
+   <td align="left">Formerly Khanlar </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>62</b> </td> 
+   <td align="left"><a href="/wiki/Khizi_District" title="Khizi District">Khizi District</a> </td> 
+   <td align="left">Xızı </td> 
+   <td align="left"><a href="/wiki/X%C4%B1z%C4%B1" title="Xızı">Khizi</a> </td> 
+   <td align="right">1,850 </td> 
+   <td align="right">14,700 </td> 
+   <td align="left">Absheron </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>63</b> </td> 
+   <td align="left"><a href="/wiki/Khojaly_District" title="Khojaly District">Khojaly District</a> </td> 
+   <td align="left">Xocalı </td> 
+   <td align="left"><a href="/wiki/Khojaly_(village)" class="mw-redirect" title="Khojaly (village)">Khojali</a> </td> 
+   <td align="right">940 </td> 
+   <td align="right">26,500 </td> 
+   <td align="left">Yukhari-Karabakh </td> 
+   <td align="left">De facto controlled by <a href="/wiki/Nagorno-Karabakh_Republic" class="mw-redirect" title="Nagorno-Karabakh Republic">NKR</a> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>64</b> </td> 
+   <td align="left"><a href="/wiki/Khojavend_District" title="Khojavend District">Khojavend District</a> </td> 
+   <td align="left">Xocavənd </td> 
+   <td align="left"><a href="/wiki/Khojavend_(town)" class="mw-redirect" title="Khojavend (town)">Khojavend</a> </td> 
+   <td align="right">1,460 </td> 
+   <td align="right">42,100 </td> 
+   <td align="left">Yukhari-Karabakh </td> 
+   <td align="left">Parts controlled by <a href="/wiki/Nagorno-Karabakh_Republic" class="mw-redirect" title="Nagorno-Karabakh Republic">NKR</a> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>65</b> </td> 
+   <td align="left"><a href="/wiki/Yardymli_District" title="Yardymli District">Yardymli District</a> </td> 
+   <td align="left">Yardımlı </td> 
+   <td align="left"><a href="/wiki/Yard%C4%B1ml%C4%B1" title="Yardımlı">Yardymli</a> </td> 
+   <td align="right">670 </td> 
+   <td align="right">59,600 </td> 
+   <td align="left">Lankaran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>66</b> </td> 
+   <td align="left"><a href="/wiki/Yevlakh_District" title="Yevlakh District">Yevlakh District</a> </td> 
+   <td align="left">Yevlax </td> 
+   <td align="left"><a href="/wiki/Yevlakh" title="Yevlakh">Yevlakh</a> </td> 
+   <td align="right">1,540 </td> 
+   <td align="right">119,600 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>67</b> </td> 
+   <td align="left"><a href="/wiki/Yevlakh" title="Yevlakh">Yevlakh</a> (city) </td> 
+   <td align="left">Yevlax </td> 
+   <td align="left"> </td> 
+   <td align="right">95 </td> 
+   <td align="right">59,036 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>68</b> </td> 
+   <td align="left"><a href="/wiki/Zangilan_District" title="Zangilan District">Zangilan District</a> </td> 
+   <td align="left">Zəngilan </td> 
+   <td align="left"><a href="/wiki/Z%C9%99ngilan" class="mw-redirect" title="Zəngilan">Zangilan</a> </td> 
+   <td align="right">710 </td> 
+   <td align="right">40,500 </td> 
+   <td align="left">Kalbajar-Lachin </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>69</b> </td> 
+   <td align="left"><a href="/wiki/Zaqatala_District" title="Zaqatala District">Zaqatala District</a> </td> 
+   <td align="left">Zaqatala </td> 
+   <td align="left"><a href="/wiki/Zaqatala_(city)" title="Zaqatala (city)">Zaqatala</a> </td> 
+   <td align="right">1,350 </td> 
+   <td align="right">120,300 </td> 
+   <td align="left">Shaki-Zaqatala </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>70</b> </td> 
+   <td align="left"><a href="/wiki/Zardab_District" title="Zardab District">Zardab District</a> </td> 
+   <td align="left">Zərdab </td> 
+   <td align="left"><a href="/wiki/Zardab_(city)" title="Zardab (city)">Zardab</a> </td> 
+   <td align="right">860 </td> 
+   <td align="right">54,000 </td> 
+   <td align="left">Aran </td> 
+   <td align="left"> </td>
+  </tr> 
+  <tr> 
+   <td align="left"> </td> 
+   <td align="left"> </td> 
+   <td align="left"> </td> 
+   <td align="right"><b>Total</b> </td> 
+   <td align="right">81,100 </td> 
+   <td align="right">8,700,600 </td> 
+   <td align="left"> </td> 
+   <td align="left"> </td>
+  </tr> 
+ </tbody>
+</table>
+<table class="wikitable sortable"> 
+ <tbody>
+  <tr> 
+   <th>Map ref. </th> 
+   <th>Administrative division </th> 
+   <th>Azerbaijani name </th> 
+   <th>Capital </th> 
+   <th>Area<sup id="cite_ref-azstat_3-2" class="reference"><a href="#cite_note-azstat-3">[3]</a></sup><br>(km<sup>2</sup>) </th> 
+   <th>Population<sup id="cite_ref-azstat_3-3" class="reference"><a href="#cite_note-azstat-3">[3]</a></sup><br>(2011&nbsp;est.) </th> 
+   <th>Notes </th>
+  </tr> 
+  <tr> 
+   <td align="center"><b>1</b> </td> 
+   <td align="left"><a href="/wiki/Babek_District" title="Babek District">Babek District</a> </td> 
+   <td align="left">Babək </td> 
+   <td align="left"><a href="/wiki/Babek_(city)" title="Babek (city)">Babek</a> </td> 
+   <td align="right">900 </td> 
+   <td align="right">65,100 </td> 
+   <td align="left">Formerly known as Nakhchivan; renamed after <a href="/wiki/Babak_Khorramdin" title="Babak Khorramdin">Babak Khorramdin</a> in 1991 </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>2</b> </td> 
+   <td align="left"><a href="/wiki/Julfa_District" title="Julfa District">Julfa District</a> </td> 
+   <td align="left">Culfa </td> 
+   <td align="left"><a href="/wiki/Julfa,_Azerbaijan_(city)" title="Julfa, Azerbaijan (city)">Julfa</a> </td> 
+   <td align="right">1,000 </td> 
+   <td align="right">42,600 </td> 
+   <td align="left">Also spelled Jugha or Dzhulfa. </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>3</b> </td> 
+   <td align="left"><a href="/wiki/Kangarli_District" title="Kangarli District">Kangarli District</a> </td> 
+   <td align="left">Kəngərli </td> 
+   <td align="left"><a href="/wiki/Q%C4%B1vraq" title="Qıvraq">Givraq</a> </td> 
+   <td align="right">680 </td> 
+   <td align="right">28,600 </td> 
+   <td align="left">Split from Babek in March 2004 </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>4</b> </td> 
+   <td align="left"><a href="/wiki/Nakhchivan_(city)" title="Nakhchivan (city)">Nakhchivan</a> (city) </td> 
+   <td align="left">Naxçıvan </td> 
+   <td align="left"> </td> 
+   <td align="right">130 </td> 
+   <td align="right">84,700 </td> 
+   <td align="left">Split from Nakhchivan (Babek Rayon) in 1991 </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>5</b> </td> 
+   <td align="left"><a href="/wiki/Ordubad_District" title="Ordubad District">Ordubad District</a> </td> 
+   <td align="left">Ordubad </td> 
+   <td align="left"><a href="/wiki/Ordubad" title="Ordubad">Ordubad</a> </td> 
+   <td align="right">970 </td> 
+   <td align="right">46,100 </td> 
+   <td align="left">Split from Julfa during <a href="/wiki/Sovietization" title="Sovietization">Sovietization</a><sup id="cite_ref-Hewsen_4-0" class="reference"><a href="#cite_note-Hewsen-4">[4]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>6</b> </td> 
+   <td align="left"><a href="/wiki/Sadarak_District" title="Sadarak District">Sadarak District</a> </td> 
+   <td align="left">Sədərək </td> 
+   <td align="left"><a href="/wiki/S%C9%99d%C9%99r%C9%99k" title="Sədərək">Sədərək</a> </td> 
+   <td align="right">150 </td> 
+   <td align="right">14,400 </td> 
+   <td align="left">Split from Sharur in 1990; includes the <a href="/wiki/Karki,_Azerbaijan" title="Karki, Azerbaijan">Karki</a> <a href="/wiki/Enclave_and_exclave" title="Enclave and exclave">exclave</a> in Armenia </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>7</b> </td> 
+   <td align="left"><a href="/wiki/Shahbuz_District" title="Shahbuz District">Shahbuz District</a> </td> 
+   <td align="left">Şahbuz </td> 
+   <td align="left"><a href="/wiki/%C5%9Eahbuz" title="Şahbuz">Shahbuz</a> </td> 
+   <td align="right">920 </td> 
+   <td align="right">23,200 </td> 
+   <td align="left">Split from Nakhchivan (Babek) during Sovietization<sup id="cite_ref-Hewsen_4-1" class="reference"><a href="#cite_note-Hewsen-4">[4]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td align="center"><b>8</b> </td> 
+   <td align="left"><a href="/wiki/Sharur_District" title="Sharur District">Sharur District</a> </td> 
+   <td align="left">Şərur </td> 
+   <td align="left"><a href="/wiki/%C5%9E%C9%99rur" title="Şərur">Sharur</a> </td> 
+   <td align="right">810 </td> 
+   <td align="right">105,400 </td> 
+   <td align="left">Formerly known as Bash-Norashen during its incorporation into the Soviet Union and Ilyich (after <a href="/wiki/Vladimir_Lenin" title="Vladimir Lenin">Vladimir <i>Ilyich</i> Lenin</a>) from the post-Sovietization period to 1990<sup id="cite_ref-Hewsen_4-2" class="reference"><a href="#cite_note-Hewsen-4">[4]</a></sup> </td>
+  </tr> 
+  <tr> 
+   <td align="left"> </td> 
+   <td align="left"> </td> 
+   <td align="left"> </td> 
+   <td align="right"><b>Total</b> </td> 
+   <td align="right">5,560 </td> 
+   <td align="right">410,100 </td> 
+   <td align="left"> </td>
+  </tr> 
+ </tbody>
+</table>

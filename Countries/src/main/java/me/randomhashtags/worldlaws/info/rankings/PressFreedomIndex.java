@@ -37,7 +37,7 @@ public enum PressFreedomIndex implements CountryRankingService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Press_Freedom_Index";
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         final EventSource wikipedia = new EventSource("Wikipedia: Press Freedom Index", url);
         final EventSources sources = new EventSources(wikipedia);
 

@@ -38,11 +38,12 @@ public enum LegalityPornography implements CountryLegalityService {
         }};
     }
 
+    @Override
     public void refresh(CompletionHandler handler) {
         loadStyles();
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Pornography_laws_by_region";
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements trs = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         final String title = getInfo().getTitle();
         trs.remove(0);
         final EventSource source = new EventSource("Wikipedia: Pornography laws by region", url);
@@ -55,7 +56,7 @@ public enum LegalityPornography implements CountryLegalityService {
 
             if(!saleString.equals("Unknown") && !possessionString.equals("Unknown") && !internetString.equals("Unknown")) {
                 final String country = tds.get(0).text().toLowerCase().split("\\(")[0].replace(" ", "");
-                final String notes = "null";
+                final String notes = null;
 
                 final String saleText = removeReferences(saleElement.text());
                 final CountryInfoValue saleValue = new CountryInfoValue("Sale", saleString, saleText);
@@ -68,7 +69,7 @@ public enum LegalityPornography implements CountryLegalityService {
 
                 final List<TextNode> textNodes = tds.get(4).textNodes();
                 final String penaltyText = textNodes.isEmpty() || textNodes.get(0).text().equals(" ") ? "Unknown" : textNodes.get(0).text();
-                final CountryInfoValue penaltyValue = new CountryInfoValue("Penalty", penaltyText, "");
+                final CountryInfoValue penaltyValue = new CountryInfoValue("Penalty", penaltyText, null);
 
                 final CountryInfoKey info = new CountryInfoKey(title, notes, yearOfData, sources, saleValue, possessionValue, internetValue, penaltyValue);
                 countries.put(country, info.toString());

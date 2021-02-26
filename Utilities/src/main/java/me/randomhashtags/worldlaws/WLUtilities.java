@@ -1,8 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.location.CustomCountry;
-import org.json.JSONObject;
-
 import java.time.LocalDate;
 import java.time.Month;
 
@@ -25,17 +22,6 @@ public final class WLUtilities {
             default: return null;
         }
     }
-    public static void getCustomCountry(String countryBackendID, CompletionHandler handler) {
-        TargetServer.COUNTRIES.sendResponse(RequestMethod.POST, countryBackendID, new CompletionHandler() {
-            @Override
-            public void handle(Object object) {
-                final JSONObject json = new JSONObject(object.toString());
-                final CustomCountry country = new CustomCountry(json);
-                handler.handleCustomCountry(country);
-            }
-        });
-    }
-
     public static int getTodayYear() {
         return LocalDate.now().getYear();
     }

@@ -1,0 +1,1000 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Bhutan - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBYxXQpAMNAAADGxLwkAAADK","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Bhutan","wgTitle":"Public holidays in Bhutan","wgCurRevisionId":1002747277,"wgRevisionId":1002747277,"wgArticleId":32548222,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles containing Dzongkha-language text","Articles containing Standard Tibetan-language text","Public holidays in Bhutan","Lists of public holidays by country","Festivals in Bhutan"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Bhutan","wgRelevantArticleId":32548222,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q4376341"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Bhutan"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Bhutan"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Bhutan rootpage-Public_holidays_in_Bhutan skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Bhutan</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p><b>Public holidays in Bhutan</b> consist of both <a href="/wiki/Public_holiday" title="Public holiday">national holidays</a> and local festivals or <i><a href="/wiki/Tshechu" title="Tshechu">tshechu</a></i>s. While national holidays are observed throughout <a href="/wiki/Bhutan" title="Bhutan">Bhutan</a>, tsechus are only observed in their areas.<sup id="cite_ref-RCSC_1-0" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup> Bhutan uses its own calendar,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> a variant of the <a href="/wiki/Lunisolar_calendar" title="Lunisolar calendar">lunisolar</a> <a href="/wiki/Tibetan_calendar" title="Tibetan calendar">Tibetan calendar</a>. Because it is a lunisolar calendar, dates of some national holidays and most tshechus change from year to year. For example, the new year, <a href="/wiki/Losar" title="Losar">Losar</a>, generally falls between February and March. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#National_holidays"><span class="tocnumber">1</span> <span class="toctext">National holidays</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Winter_solstice"><span class="tocnumber">1.1</span> <span class="toctext">Winter solstice</span></a></li> 
+          <li class="toclevel-2 tocsection-3"><a href="#Traditional_Day_of_Offering"><span class="tocnumber">1.2</span> <span class="toctext">Traditional Day of Offering</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#Losar"><span class="tocnumber">1.3</span> <span class="toctext">Losar</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#Birthday_of_King_Jigme_Khesar_Namgyel_Wangchuck"><span class="tocnumber">1.4</span> <span class="toctext">Birthday of King Jigme Khesar Namgyel Wangchuck</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#Zhabdrung_Kuchoe"><span class="tocnumber">1.5</span> <span class="toctext">Zhabdrung Kuchoe</span></a></li> 
+          <li class="toclevel-2 tocsection-7"><a href="#Birthday_of_King_Jigme_Dorji_Wangchuck"><span class="tocnumber">1.6</span> <span class="toctext">Birthday of King Jigme Dorji Wangchuck</span></a></li> 
+          <li class="toclevel-2 tocsection-8"><a href="#Coronation_of_King_Jigme_Singye_Wangchuck"><span class="tocnumber">1.7</span> <span class="toctext">Coronation of King Jigme Singye Wangchuck</span></a></li> 
+          <li class="toclevel-2 tocsection-9"><a href="#Parinirvana_of_Buddha"><span class="tocnumber">1.8</span> <span class="toctext">Parinirvana of Buddha</span></a></li> 
+          <li class="toclevel-2 tocsection-10"><a href="#Birthday_of_Guru_Rinpoche"><span class="tocnumber">1.9</span> <span class="toctext">Birthday of Guru Rinpoche</span></a></li> 
+          <li class="toclevel-2 tocsection-11"><a href="#First_Sermon_of_Buddha"><span class="tocnumber">1.10</span> <span class="toctext">First Sermon of Buddha</span></a></li> 
+          <li class="toclevel-2 tocsection-12"><a href="#Blessed_Rainy_Day"><span class="tocnumber">1.11</span> <span class="toctext">Blessed Rainy Day</span></a></li> 
+          <li class="toclevel-2 tocsection-13"><a href="#Dashain"><span class="tocnumber">1.12</span> <span class="toctext">Dashain</span></a></li> 
+          <li class="toclevel-2 tocsection-14"><a href="#Coronation_of_King_Jigme_Khesar_Namgyel_Wangchuck"><span class="tocnumber">1.13</span> <span class="toctext">Coronation of King Jigme Khesar Namgyel Wangchuck</span></a></li> 
+          <li class="toclevel-2 tocsection-15"><a href="#Birthday_of_King_Jigme_Singye_Wangchuck"><span class="tocnumber">1.14</span> <span class="toctext">Birthday of King Jigme Singye Wangchuck</span></a></li> 
+          <li class="toclevel-2 tocsection-16"><a href="#Lhabab_Duchen"><span class="tocnumber">1.15</span> <span class="toctext">Lhabab Duchen</span></a></li> 
+          <li class="toclevel-2 tocsection-17"><a href="#National_Day"><span class="tocnumber">1.16</span> <span class="toctext">National Day</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-18"><a href="#Tsechus"><span class="tocnumber">2</span> <span class="toctext">Tsechus</span></a></li> 
+        <li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="National_holidays">National holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=1" title="Edit section: National holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a href="/wiki/Bhutan" title="Bhutan">Bhutan</a> has sixteen <a href="/wiki/Public_holiday" title="Public holiday">public holidays</a>.<sup id="cite_ref-RCSC_1-1" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup> Bhutanese holidays are rooted in the <a href="/wiki/Drukpa_Lineage" title="Drukpa Lineage">Drukpa Lineage</a> of <a href="/wiki/Kagyu" title="Kagyu">Kagyu Buddhism</a>, the <a href="/wiki/House_of_Wangchuck" title="House of Wangchuck">House of Wangchuck</a> and the <a href="/wiki/Tibetan_calendar" title="Tibetan calendar">Tibetan calendar</a>. Even secular holidays, however, have a measure of religious overtone, as religious choreography and blessings mark these auspicious days.<sup id="cite_ref-Guide_3-0" class="reference"><a href="#cite_note-Guide-3">[3]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Winter_solstice">Winter solstice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=2" title="Edit section: Winter solstice">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Nyinlong or Nyilong (<a href="/wiki/Dzongkha_language" class="mw-redirect" title="Dzongkha language">Dzongkha</a>: <span lang="dz">ཉིན་ལོང་</span>, <a href="/wiki/Wylie_transliteration" title="Wylie transliteration">Wylie</a>: <i>nyin long</i> "return of the sun"),<sup id="cite_ref-Kuensel1_4-0" class="reference"><a href="#cite_note-Kuensel1-4">[4]</a></sup> the <a href="/wiki/Winter_solstice" title="Winter solstice">winter solstice</a> celebration, is a public holiday falling on 2 January every year.<sup id="cite_ref-RCSC_1-2" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup><sup id="cite_ref-Mark1_5-0" class="reference"><a href="#cite_note-Mark1-5">[5]</a></sup> Nyinlog is considered the most auspicious day of the year.<sup id="cite_ref-Kuensel1_4-1" class="reference"><a href="#cite_note-Kuensel1-4">[4]</a></sup> It is celebrated like new year among some western Bhutan, though more so in the central and eastern regions, where the shortest day of the year is marked with archery and feasting.<sup id="cite_ref-Mark1_5-1" class="reference"><a href="#cite_note-Mark1-5">[5]</a></sup> Farmers, on the other hand, may feel some chagrin as the solstice signals longer and longer work days ahead.<sup id="cite_ref-FW_6-0" class="reference"><a href="#cite_note-FW-6">[6]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Traditional_Day_of_Offering">Traditional Day of Offering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=3" title="Edit section: Traditional Day of Offering">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The Traditional Day of Offering<sup id="cite_ref-RCSC_1-3" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup> (<a href="/wiki/Dzongkha" title="Dzongkha">Dzongkha</a>: <i>buelwa phuewi nyim</i>) is a holiday usually falling in January or February, on the 1st day of the 12th month of the calendar.<sup id="cite_ref-Kuensel2_7-0" class="reference"><a href="#cite_note-Kuensel2-7">[7]</a></sup> The main purpose behind this holiday is to give thanks to <a href="/wiki/Ngawang_Namgyal" title="Ngawang Namgyal">Zhabdrung Ngawang Namgyal</a>, the founder of <a href="/wiki/Bhutan" title="Bhutan">Bhutan</a>.<sup id="cite_ref-BJ_8-0" class="reference"><a href="#cite_note-BJ-8">[8]</a></sup> It also focuses on charity, particularly feeding others, and recreation.<sup id="cite_ref-FW_6-1" class="reference"><a href="#cite_note-FW-6">[6]</a></sup> The day is celebrated with feasting and traditional sports, including <a href="/wiki/Archery" title="Archery">archery</a>, <a href="/wiki/Digor_(sports)" title="Digor (sports)">digor</a>, and <a href="/wiki/Khuru_(sport)" title="Khuru (sport)">khuru</a> (<a href="/wiki/Darts" title="Darts">darts</a>).<sup id="cite_ref-Kuensel2_7-1" class="reference"><a href="#cite_note-Kuensel2-7">[7]</a></sup> This holiday may have originally begun as a Bhutanese new year celebration.<sup id="cite_ref-Kuensel3_9-0" class="reference"><a href="#cite_note-Kuensel3-9">[9]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Losar">Losar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=4" title="Edit section: Losar">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p><a href="/wiki/Losar" title="Losar">Losar</a> (<a href="/wiki/Dzongkha" title="Dzongkha">Dzongkha</a> <span lang="dz" title="Dzongkha-language text">ལོ་གསར་</span>, <a href="/wiki/Wylie_transliteration" title="Wylie transliteration">Wylie</a>: <i>lo gsar</i>), the New Year, is celebrated between February and March, officially on the 1st month, 1st day of the calendar.<sup id="cite_ref-RCSC_1-4" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup> Festivities last 15 days, ahead of which people spend much time preparing food and alcohol and cleaning their homes of old and unused objects.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> In Bhutan, different communities celebrate Losar at slightly different times and refer to the holiday by particular local names.<sup id="cite_ref-Kuensel3_9-1" class="reference"><a href="#cite_note-Kuensel3-9">[9]</a></sup> The common Losar greeting is "<i>tashi delek</i>." </p> 
+      <h3><span class="mw-headline" id="Birthday_of_King_Jigme_Khesar_Namgyel_Wangchuck">Birthday of King Jigme Khesar Namgyel Wangchuck</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=5" title="Edit section: Birthday of King Jigme Khesar Namgyel Wangchuck">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>February 21–23 are holidays commemorating the birth anniversary of <a href="/wiki/Jigme_Khesar_Namgyel_Wangchuck" title="Jigme Khesar Namgyel Wangchuck">Jigme Khesar Namgyel Wangchuck</a> the 5th and current <a href="/wiki/Druk_Gyalpo" title="Druk Gyalpo">Druk Gyalpo</a>.<sup id="cite_ref-RCSC_1-5" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Zhabdrung_Kuchoe">Zhabdrung Kuchoe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=6" title="Edit section: Zhabdrung Kuchoe">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Shabdrung Kurchoe<sup id="cite_ref-RCSC_1-6" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup> marks the passing of Zhabdrung Ngawang Namgyal in 1651 at <a href="/wiki/Punakha_Dzong" title="Punakha Dzong">Punakha Dzong</a>. It generally falls in April or May (4th month, 10th day of the calendar). The holiday is a national day of mourning.<sup id="cite_ref-SS_12-0" class="reference"><a href="#cite_note-SS-12">[12]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Birthday_of_King_Jigme_Dorji_Wangchuck">Birthday of King Jigme Dorji Wangchuck</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=7" title="Edit section: Birthday of King Jigme Dorji Wangchuck">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>May 2 is the birth anniversary of <a href="/wiki/Jigme_Dorji_Wangchuck" title="Jigme Dorji Wangchuck">Jigme Dorji Wangchuck</a> the 3rd <a href="/wiki/Druk_Gyalpo" title="Druk Gyalpo">Druk Gyalpo</a>, who began Bhutan's first steps toward modernization (b. 1928, <a href="/wiki/Thruepang_Palace" title="Thruepang Palace">Thruepang Palace</a>, <a href="/wiki/Trongsa" title="Trongsa">Trongsa</a>).<sup id="cite_ref-RCSC_1-7" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup><sup id="cite_ref-SS_12-1" class="reference"><a href="#cite_note-SS-12">[12]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Coronation_of_King_Jigme_Singye_Wangchuck">Coronation of King Jigme Singye Wangchuck</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=8" title="Edit section: Coronation of King Jigme Singye Wangchuck">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>June 2 is the coronation day of the <a href="/wiki/Jigme_Singye_Wangchuck" title="Jigme Singye Wangchuck">Jigme Singye Wangchuck</a>, the 4th <a href="/wiki/Druk_Gyalpo" title="Druk Gyalpo">Druk Gyalpo</a> (1974).<sup id="cite_ref-RCSC_1-8" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup> It also doubles as Social Forestry Day, where children plant trees.<sup id="cite_ref-SS_12-2" class="reference"><a href="#cite_note-SS-12">[12]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Parinirvana_of_Buddha">Parinirvana of Buddha</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=9" title="Edit section: Parinirvana of Buddha">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>June 15 is <a href="/wiki/Parinirvana_Day" title="Parinirvana Day">Parinirvana Day</a>,<sup id="cite_ref-RCSC_1-9" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup> a public holiday commemorating the <a href="/wiki/Nirvana" title="Nirvana">nirvana</a> of <a href="/wiki/Gautama_Buddha" title="Gautama Buddha">Gautama Buddha</a>. </p> 
+      <h3><span class="mw-headline" id="Birthday_of_Guru_Rinpoche">Birthday of Guru Rinpoche</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=10" title="Edit section: Birthday of Guru Rinpoche">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>July 10 marks the birth anniversary of <a href="/wiki/Guru_Rinpoche" class="mw-redirect" title="Guru Rinpoche">Guru Rinpoche</a> (also known as Padmasambhava),<sup id="cite_ref-RCSC_1-10" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup> the saint credited with introducing Buddhism to Bhutan in the 8th century AD. </p> 
+      <h3><span class="mw-headline" id="First_Sermon_of_Buddha">First Sermon of Buddha</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=11" title="Edit section: First Sermon of Buddha">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>August 3 marks the first sermon of Gautama Buddha at <a href="/wiki/Sarnath" title="Sarnath">Sarnath</a>.<sup id="cite_ref-RCSC_1-11" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Blessed_Rainy_Day">Blessed Rainy Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=12" title="Edit section: Blessed Rainy Day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p><a href="/wiki/Blessed_Rainy_Day" title="Blessed Rainy Day">Blessed Rainy Day</a><sup id="cite_ref-RCSC_1-12" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup> (<a href="/wiki/Dzongkha" title="Dzongkha">Dzongkha</a>: <i>thruebab</i>) generally falls in September, and is held on an auspicious day during <a href="/wiki/Monsoon_season" class="mw-redirect" title="Monsoon season">monsoon season</a>. The traditional holiday has not always been a public holiday, but was rather recently reinstated to official status.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> The event is marked by feasting, drinking alcohol, playing traditional sports, and <a href="/wiki/Ritual_purification" title="Ritual purification">purification through washing</a>. In some parts of <a href="/wiki/Pemagatshel" class="mw-redirect" title="Pemagatshel">Pemagatshel</a>, the traditional celebrations are more intense than those of even <a href="/wiki/Losar" title="Losar">Losar</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Dashain">Dashain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=13" title="Edit section: Dashain">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p><a href="/wiki/Dashain" title="Dashain">Dashain</a>, the main <a href="/wiki/Nepal" title="Nepal">Nepalese</a> (and <a href="/wiki/Hindu" class="mw-redirect" title="Hindu">Hindu</a> festival, falls on October 6.<sup id="cite_ref-RCSC_1-13" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> During this holiday, houses are cleaned and replastered, gifts are exchanged, and families gather.<sup id="cite_ref-FW_6-2" class="reference"><a href="#cite_note-FW-6">[6]</a></sup> Dashain has been a public holiday in Bhutan.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Coronation_of_King_Jigme_Khesar_Namgyel_Wangchuck">Coronation of King Jigme Khesar Namgyel Wangchuck</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=14" title="Edit section: Coronation of King Jigme Khesar Namgyel Wangchuck">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>November 1 marks the coronation day of <a href="/wiki/Jigme_Khesar_Namgyel_Wangchuck" title="Jigme Khesar Namgyel Wangchuck">Jigme Khesar Namgyel Wangchuck</a>, the 5th and current <a href="/wiki/Druk_Gyalpo" title="Druk Gyalpo">Druk Gyalpo</a> (2008).<sup id="cite_ref-FW_6-3" class="reference"><a href="#cite_note-FW-6">[6]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Birthday_of_King_Jigme_Singye_Wangchuck">Birthday of King Jigme Singye Wangchuck</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=15" title="Edit section: Birthday of King Jigme Singye Wangchuck">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>November 11 marks the birth anniversary of <a href="/wiki/Jigme_Singye_Wangchuck" title="Jigme Singye Wangchuck">Jigme Singye Wangchuck</a>, the 4th <a href="/wiki/Druk_Gyalpo" title="Druk Gyalpo">Druk Gyalpo</a> (b. 1955, <a href="/wiki/Dechencholing_Palace" title="Dechencholing Palace">Dechencholing Palace</a>, <a href="/wiki/Thimphu" title="Thimphu">Thimphu</a>).<sup id="cite_ref-FW_6-4" class="reference"><a href="#cite_note-FW-6">[6]</a></sup> The holiday is also called <a href="/wiki/Constitution_of_Bhutan" title="Constitution of Bhutan">Constitution Day</a>; under this king and at his behest, the <a href="/wiki/Constitution_of_Bhutan" title="Constitution of Bhutan">Constitution of Bhutan</a> was enacted. </p> 
+      <h3><span class="mw-headline" id="Lhabab_Duchen">Lhabab Duchen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=16" title="Edit section: Lhabab Duchen">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p><a href="/wiki/Lhabab_Duchen" title="Lhabab Duchen">Lhabab Duchen</a> is a public holiday<sup id="cite_ref-RCSC_1-14" class="reference"><a href="#cite_note-RCSC-1">[1]</a></sup> generally falling in November (on the 9th month, 22nd day of the <a href="/wiki/Tibetan_calendar" title="Tibetan calendar">Tibetan calendar</a>). Lhabab Duchen marks <a href="/wiki/Gautama_Buddha" title="Gautama Buddha">Gautama Buddha</a>'s return to earth after attaining Nirvana. In the eastern regions of Bhutan, the holiday is a popular occasion for performing Lhasoel, which are religious offerings in the form of <i><a href="/wiki/Ara_(drink)" title="Ara (drink)">ara</a></i> (traditional wine), blessings, and supplications.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> </p> 
+      <h3><span class="mw-headline" id="National_Day">National Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=17" title="Edit section: National Day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The <a href="/wiki/National_Day" class="mw-redirect" title="National Day">National Day</a> of Bhutan is December 17. The date marks the coronation of <a href="/wiki/Ugyen_Wangchuck" title="Ugyen Wangchuck">Ugyen Wangchuck</a> as the first <a href="/wiki/Druk_Gyalpo" title="Druk Gyalpo">Druk Gyalpo</a> of modern Bhutan.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Celebrations are held at <a href="/wiki/Changlimithang_Stadium" title="Changlimithang Stadium">Changlimithang Stadium</a>, and include a public address by the Druk Gyalpo and a procession including a statue of Ugyen Wangchuck to honor the first Druk Gyalpo and the independent Bhutanese nation.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Tsechus">Tsechus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=18" title="Edit section: Tsechus">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: <a href="/wiki/Tsechu" class="mw-redirect" title="Tsechu">Tsechu</a>
+      </div> 
+      <div class="thumb tright"> 
+       <div class="thumbinner" style="width: 252px;"> 
+        <div class="thumbimage" style="width: 250px; height: 300px; overflow: hidden;"> 
+         <div style="position: relative; top: -300px; left: -335px; width: 1000px">
+          <div class="noresize">
+           <a href="/wiki/File:Paro_Tsechu.jpg" class="image"><img alt="Paro tsechu" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Paro_Tsechu.jpg/1000px-Paro_Tsechu.jpg" decoding="async" width="1000" height="750" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Paro_Tsechu.jpg/1500px-Paro_Tsechu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Paro_Tsechu.jpg/2000px-Paro_Tsechu.jpg 2x" data-file-width="2560" data-file-height="1920"></a>
+          </div>
+         </div> 
+        </div> 
+        <div class="thumbcaption"> 
+         <div class="magnify">
+          <a href="/wiki/File:Paro_Tsechu.jpg" title="File:Paro Tsechu.jpg"> </a>
+         </div><a href="/wiki/Paro,_Bhutan" title="Paro, Bhutan">Paro</a> <a href="/wiki/Tsechu" class="mw-redirect" title="Tsechu">tsechu</a> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a href="/wiki/File:Part_of_the_day_2_opening_session,_Paro_Tsechu.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Part_of_the_day_2_opening_session%2C_Paro_Tsechu.jpg/250px-Part_of_the_day_2_opening_session%2C_Paro_Tsechu.jpg" decoding="async" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Part_of_the_day_2_opening_session%2C_Paro_Tsechu.jpg/375px-Part_of_the_day_2_opening_session%2C_Paro_Tsechu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Part_of_the_day_2_opening_session%2C_Paro_Tsechu.jpg/500px-Part_of_the_day_2_opening_session%2C_Paro_Tsechu.jpg 2x" data-file-width="2560" data-file-height="1920"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Part_of_the_day_2_opening_session,_Paro_Tsechu.jpg" class="internal" title="Enlarge"></a>
+         </div>Second day opening session, <a href="/wiki/Paro,_Bhutan" title="Paro, Bhutan">Paro</a> <a href="/wiki/Tsechu" class="mw-redirect" title="Tsechu">tsechu</a>
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a href="/wiki/File:Dance_of_the_Lord_of_Death_(Paro,_Bhutan).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dance_of_the_Lord_of_Death_%28Paro%2C_Bhutan%29.jpg/250px-Dance_of_the_Lord_of_Death_%28Paro%2C_Bhutan%29.jpg" decoding="async" width="250" height="187" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dance_of_the_Lord_of_Death_%28Paro%2C_Bhutan%29.jpg/375px-Dance_of_the_Lord_of_Death_%28Paro%2C_Bhutan%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dance_of_the_Lord_of_Death_%28Paro%2C_Bhutan%29.jpg/500px-Dance_of_the_Lord_of_Death_%28Paro%2C_Bhutan%29.jpg 2x" data-file-width="800" data-file-height="599"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Dance_of_the_Lord_of_Death_(Paro,_Bhutan).jpg" class="internal" title="Enlarge"></a>
+         </div>Dance of the <a href="/wiki/Yama_(Buddhism_and_Chinese_mythology)" class="mw-redirect" title="Yama (Buddhism and Chinese mythology)">Lord of Death</a>, <a href="/wiki/Paro,_Bhutan" title="Paro, Bhutan">Paro</a>
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a href="/wiki/File:Tsechu_cham.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tsechu_cham.jpg/250px-Tsechu_cham.jpg" decoding="async" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tsechu_cham.jpg/375px-Tsechu_cham.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tsechu_cham.jpg/500px-Tsechu_cham.jpg 2x" data-file-width="2016" data-file-height="1512"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Tsechu_cham.jpg" class="internal" title="Enlarge"></a>
+         </div>Masked <a href="/wiki/Cham_(dance)" class="mw-redirect" title="Cham (dance)">cham</a> dancers, <a href="/wiki/Wangdue_Phodrang" title="Wangdue Phodrang">Wangdue Phodrang</a> <a href="/wiki/Tsechu" class="mw-redirect" title="Tsechu">tsechu</a>
+        </div>
+       </div>
+      </div> 
+      <p>Numerous <a href="/wiki/Tsechu" class="mw-redirect" title="Tsechu">tsechus</a>, or festivals, take place for up to five days each at different locales across <a href="/wiki/Bhutan" title="Bhutan">Bhutan</a>. These usually feature large-scale pageantry and costumes, allegorical dances, <a href="/wiki/Archery" title="Archery">archery</a>, and <a href="/wiki/Music_of_Bhutan" title="Music of Bhutan">music</a>.<sup id="cite_ref-Guide_3-1" class="reference"><a href="#cite_note-Guide-3">[3]</a></sup> These festivals are centuries-old traditions functioning not only as links to the past, but attract large numbers of tourists.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> </p>
+      <p>Below is a list of major tsechus in Bhutan, along with their 2011 dates. Dates in other years will vary. </p> 
+      <table class="wikitable sortable" style="width:50%;"> 
+       <caption>
+        Bhutan tsechu dates (2019)<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th scope="col" width="30%">Date </th> 
+         <th scope="col" width="35%">Tsechu </th> 
+         <th scope="col" width="35%">Location </th>
+        </tr> 
+        <tr> 
+         <td data-sort-value="01">January 2–04</td> 
+         <td>Trongsa Tsechu</td> 
+         <td><a href="/wiki/Trongsa_District" title="Trongsa District">Trongsa</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="01">January 2–04</td> 
+         <td>Lhuntse Tsechu</td> 
+         <td><a href="/wiki/Lhuntse_District" title="Lhuntse District">Lhuntse</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="01">January 2–04</td> 
+         <td>Pemagatshel Tsechu</td> 
+         <td><a href="/wiki/Pemagatshel_District" title="Pemagatshel District">Pemagatshel</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="01">January 9</td> 
+         <td>Shingkhar Metochodpa</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="01">January 9–13</td> 
+         <td>Nabji Lhakhang Drup</td> 
+         <td><a href="/wiki/Trongsa_District" title="Trongsa District">Trongsa</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="02">February 10–15</td> 
+         <td>Punakha Dromache &amp; Tshechu</td> 
+         <td><a href="/wiki/Punakha_District" title="Punakha District">Punakha</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="02">February 17–21</td> 
+         <td>Tangsibi Mani</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="02">February 18</td> 
+         <td>Chorten Kora</td> 
+         <td><a href="/wiki/Trashiyangtse_District" title="Trashiyangtse District">Trashiyangtse</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="02">February 18</td> 
+         <td>Tharpaling Thongdrol</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="02">February 19–21</td> 
+         <td>Buli Mani Chumey</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="02">February–March<br>(<i>1st month, 7th day</i>)</td> 
+         <td>Trashiyangtse Tsechu</td> 
+         <td><a href="/wiki/Trashiyangtse_District" title="Trashiyangtse District">Trashiyangtse</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="03">March 4</td> 
+         <td>Chorten Kora (2nd)</td> 
+         <td><a href="/wiki/Trashiyangtse_District" title="Trashiyangtse District">Trashiyangtse</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="03">March 13–15</td> 
+         <td>Gomkora</td> 
+         <td><a href="/wiki/Trashigang_District" title="Trashigang District">Trashigang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="03">March 13–15</td> 
+         <td>Talo Tsechu</td> 
+         <td>Talo, <a href="/wiki/Punakha_District" title="Punakha District">Punakha</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="03">March 13–16</td> 
+         <td>Zhemgang Tsechu</td> 
+         <td><a href="/wiki/Zhemgang_District" title="Zhemgang District">Zhemgang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="03">March 15–19</td> 
+         <td>Paro Tshechu</td> 
+         <td><a href="/wiki/Paro_District" title="Paro District">Paro</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="03">March 17–19</td> 
+         <td>Chhukha Tshechu</td> 
+         <td><a href="/wiki/Chukha_District" title="Chukha District">Chukha</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="04">April 1–03</td> 
+         <td>Gaden Chodpa</td> 
+         <td><a href="/wiki/Ura_Gewog" title="Ura Gewog">Ura</a>, <a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="05">May 12–14</td> 
+         <td>Domkhar Festival</td> 
+         <td><a href="/wiki/Chhume_Gewog" title="Chhume Gewog">Chhume</a>, <a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="05">May 14–18</td> 
+         <td>Ura Yakchoe</td> 
+         <td><a href="/wiki/Ura_Gewog" title="Ura Gewog">Ura</a>, <a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="06">June 19–21</td> 
+         <td>Padsel–Ling Kuchod</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="06">June</td> 
+         <td>Laya Bumkhosa Festival (Bongkor)</td> 
+         <td><a href="/wiki/Laya_Gewog" title="Laya Gewog">Laya</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="07">July 8–10</td> 
+         <td>Nimalung Tshechu</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="07">July 9–10<br><i>does not move</i></td> 
+         <td>Alpine</td> 
+         <td><a href="/wiki/Ha,_Bhutan" title="Ha, Bhutan">Ha</a>, <a href="/wiki/Haa_District" title="Haa District">Haa</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="07">July 10</td> 
+         <td>Kurjey Tshechu</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="07">July 29</td> 
+         <td>Gangte Kurim</td> 
+         <td><a href="/wiki/Gangte_Gewog" class="mw-redirect" title="Gangte Gewog">Gangte</a>, <a href="/wiki/Wangdue_Phodrang_District" title="Wangdue Phodrang District">Wangdue Phodrang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="10">October 1–05</td> 
+         <td>Thimphu Drupchen</td> 
+         <td><a href="/wiki/Thimphu_District" title="Thimphu District">Thimphu</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="10">October 4–06</td> 
+         <td>Wangdue Tsechu</td> 
+         <td><a href="/wiki/Wangdue_Phodrang" title="Wangdue Phodrang">Wangdue Phodrang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="10">October 4–06</td> 
+         <td>Gangte Drubchen &amp; Tsechu</td> 
+         <td><a href="/wiki/Gangte_Gewog" class="mw-redirect" title="Gangte Gewog">Gangte</a>, <a href="/wiki/Wangdue_Phodrang_District" title="Wangdue Phodrang District">Wangdue Phodrang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="10">October 6–08</td> 
+         <td>Tamshingphala Choepa</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="10">October 6–08</td> 
+         <td>Gasa Tsechu</td> 
+         <td><a href="/wiki/Gasa_District" title="Gasa District">District Gasa</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="10">October 6–08</td> 
+         <td>Thimphu Tshechu</td> 
+         <td><a href="/wiki/Thimphu_District" title="Thimphu District">Thimphu</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="10">October 10–12</td> 
+         <td>Thangbi Mani</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="11">November 1–05</td> 
+         <td>Shingkhar Rabney</td> 
+         <td><a href="/wiki/Ura_Gewog" title="Ura Gewog">Ura</a>, <a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="11">November 3–06</td> 
+         <td>Jakar Tsechu</td> 
+         <td><a href="/wiki/Jakar" title="Jakar">Jakar</a>, <a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="11">November 10–14</td> 
+         <td>Jambay Lakhang Drup</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="11">November 11–13</td> 
+         <td>Prakhar Duchoed</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="11">November 12<br><i>does not move</i></td> 
+         <td>Black Necked Crane Festival</td> 
+         <td><a href="/wiki/Gangte_Gewog" class="mw-redirect" title="Gangte Gewog">Gangte</a>, <a href="/wiki/Wangdue_Phodrang_District" title="Wangdue Phodrang District">Wangdue Phodrang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="11">November 22–25</td> 
+         <td>Sumdrang Kangsol</td> 
+         <td><a href="/wiki/Ura_Gewog" title="Ura Gewog">Ura</a>, <a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="12">December 2–05</td> 
+         <td>Trashigang Tsechu</td> 
+         <td><a href="/wiki/Trashigang_District" title="Trashigang District">Trashigang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="12">December 2–05</td> 
+         <td>Mongar Tsechu</td> 
+         <td><a href="/wiki/Mongar_District" title="Mongar District">Mongar</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="12">December 3–04</td> 
+         <td>Tang Namkha Rabney Tang</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="12">December 10</td> 
+         <td>Singye Cham, Jambay Lhakhang</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="12">December 10–12</td> 
+         <td>Nalakhar Tsechu</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr> 
+        <tr> 
+         <td data-sort-value="12">December 10–13</td> 
+         <td>Chojam Rabney Tang</td> 
+         <td><a href="/wiki/Bumthang_District" title="Bumthang District">Bumthang</a> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=19" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Dashain" title="Dashain">Dashain</a></li> 
+       <li><a href="/wiki/Lhabab_Duchen" title="Lhabab Duchen">Lhabab Duchen</a></li> 
+       <li><a href="/wiki/Losar" title="Losar">Losar</a></li> 
+       <li><a href="/wiki/Tsechu" class="mw-redirect" title="Tsechu">Tsechu</a></li> 
+       <li><a href="/wiki/Culture_of_Bhutan" title="Culture of Bhutan">Culture of Bhutan</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist columns references-column-width" style="column-width: 30em; list-style-type: decimal;"> 
+       <ol class="references"> 
+        <li id="cite_note-RCSC-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-RCSC_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RCSC_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-RCSC_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-RCSC_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-RCSC_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-RCSC_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-RCSC_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-RCSC_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-RCSC_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-RCSC_1-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-RCSC_1-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-RCSC_1-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-RCSC_1-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-RCSC_1-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-RCSC_1-14"><sup><i><b>o</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120328055612/http://www.rcsc.gov.bt/tmpfolder/CalendarOfEvent/holiday.htm">"Public Holidays for the year 2011"</a>. Royal Civil Service Commission, <a href="/wiki/Government_of_Bhutan" class="mw-redirect" title="Government of Bhutan">Government of Bhutan</a>. 2011-04-26. Archived from <a rel="nofollow" class="external text" href="http://www.rcsc.gov.bt/tmpfolder/CalendarOfEvent/holiday.htm">the original</a> on 2012-03-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Public+Holidays+for+the+year+2011&amp;rft.pub=Royal+Civil+Service+Commission%2C+Government+of+Bhutan&amp;rft.date=2011-04-26&amp;rft_id=http%3A%2F%2Fwww.rcsc.gov.bt%2Ftmpfolder%2FCalendarOfEvent%2Fholiday.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFHenning2010" class="citation web cs1">Henning, E. (2010-02-05). <a rel="nofollow" class="external text" href="http://www.kalacakra.org/calendar/bhut_art.htm">"Bhutanese Calendar"</a>. Kalacakra online<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bhutanese+Calendar&amp;rft.pub=Kalacakra+online&amp;rft.date=2010-02-05&amp;rft.aulast=Henning&amp;rft.aufirst=E.&amp;rft_id=http%3A%2F%2Fwww.kalacakra.org%2Fcalendar%2Fbhut_art.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-Guide-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Guide_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Guide_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=_EWuvGysPSIC"><i>Bhutan Foreign Policy and Government Guide</i></a>. World Foreign Policy and Government Library. <b>20</b>. International Business Publications. 2000. pp.&nbsp;46–47. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-7397-3719-8" title="Special:BookSources/0-7397-3719-8"><bdi>0-7397-3719-8</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Bhutan+Foreign+Policy+and+Government+Guide&amp;rft.series=World+Foreign+Policy+and+Government+Library&amp;rft.pages=46-47&amp;rft.pub=International+Business+Publications&amp;rft.date=2000&amp;rft.isbn=0-7397-3719-8&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D_EWuvGysPSIC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-Kuensel1-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kuensel1_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kuensel1_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFWangchuk2007" class="citation web cs1">Wangchuk, Rinzin (2007-12-27). <a rel="nofollow" class="external text" href="http://www.kuenselonline.com/modules.php?name=News&amp;file=print&amp;sid=7881">"Observing Ngenpa Guzom"</a>. <a href="/wiki/Kuensel" title="Kuensel">Kuensel</a> online<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Observing+Ngenpa+Guzom&amp;rft.pub=Kuensel+online&amp;rft.date=2007-12-27&amp;rft.aulast=Wangchuk&amp;rft.aufirst=Rinzin&amp;rft_id=http%3A%2F%2Fwww.kuenselonline.com%2Fmodules.php%3Fname%3DNews%26file%3Dprint%26sid%3D7881&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-Mark1-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mark1_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mark1_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.marktheday.com/nationholidaydates/btn_wintersolstice.aspx">"Winter Solstice Holiday Resource"</a>. MarktheDay.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Winter+Solstice+Holiday+Resource&amp;rft.pub=MarktheDay.com&amp;rft_id=http%3A%2F%2Fwww.marktheday.com%2Fnationholidaydates%2Fbtn_wintersolstice.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-FW-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-FW_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FW_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FW_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FW_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FW_6-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.kingdomofbhutan.com/visitor/festivals/holidays/holidays2_.html">"Holidays of Bhutan Fall/Winter"</a>. Far Flung Places &amp; Bhutan Tourism Corporation. 2011-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Holidays+of+Bhutan+Fall%2FWinter&amp;rft.pub=Far+Flung+Places+%26+Bhutan+Tourism+Corporation&amp;rft.date=2011-07-03&amp;rft_id=http%3A%2F%2Fwww.kingdomofbhutan.com%2Fvisitor%2Ffestivals%2Fholidays%2Fholidays2_.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-Kuensel2-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kuensel2_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kuensel2_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.kuenselonline.com/modules.php?name=News&amp;file=article&amp;sid=6488">"Traditional Day of Offering"</a>. <a href="/wiki/Kuensel" title="Kuensel">Kuensel</a> online. 2006-01-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Traditional+Day+of+Offering&amp;rft.pub=Kuensel+online&amp;rft.date=2006-01-29&amp;rft_id=http%3A%2F%2Fwww.kuenselonline.com%2Fmodules.php%3Fname%3DNews%26file%3Darticle%26sid%3D6488&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-BJ-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-BJ_8-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://bhutanjournals.com/history-culture-tradition/buddhism/traditional-day-of-offering/">"Traditional Day of Offering"</a>. Bhutan Journals online<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Traditional+Day+of+Offering&amp;rft.pub=Bhutan+Journals+online&amp;rft_id=http%3A%2F%2Fbhutanjournals.com%2Fhistory-culture-tradition%2Fbuddhism%2Ftraditional-day-of-offering%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-Kuensel3-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kuensel3_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kuensel3_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFNamgyel2010" class="citation web cs1">Namgyel, Tenzin (2010-01-17). <a rel="nofollow" class="external text" href="http://www.kuenselonline.com/modules.php?name=News&amp;file=article&amp;sid=14500">"The Real Losar?"</a>. <a href="/wiki/Kuensel" title="Kuensel">Kuensel</a> online<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Real+Losar%3F&amp;rft.pub=Kuensel+online&amp;rft.date=2010-01-17&amp;rft.aulast=Namgyel&amp;rft.aufirst=Tenzin&amp;rft_id=http%3A%2F%2Fwww.kuenselonline.com%2Fmodules.php%3Fname%3DNews%26file%3Darticle%26sid%3D14500&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFTshering2011" class="citation web cs1">Tshering, Dechen (2011-01-06). <a rel="nofollow" class="external text" href="http://www.kuenselonline.com/2011/?p=16517">"The Cooking Up"</a>. <a href="/wiki/Kuensel" title="Kuensel">Kuensel</a> online<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Cooking+Up&amp;rft.pub=Kuensel+online&amp;rft.date=2011-01-06&amp;rft.aulast=Tshering&amp;rft.aufirst=Dechen&amp;rft_id=http%3A%2F%2Fwww.kuenselonline.com%2F2011%2F%3Fp%3D16517&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFDahal2010" class="citation web cs1">Dahal, Rabi C (2010-02-12). <a rel="nofollow" class="external text" href="http://www.bhutanobserver.bt/our-cousins-in-losar-celebrations/">"Our Cousins in Losar Celebrations"</a>. <a href="/wiki/Bhutan_Observer" title="Bhutan Observer">Bhutan Observer</a> online<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Our+Cousins+in+Losar+Celebrations&amp;rft.pub=Bhutan+Observer+online&amp;rft.date=2010-02-12&amp;rft.aulast=Dahal&amp;rft.aufirst=Rabi+C&amp;rft_id=http%3A%2F%2Fwww.bhutanobserver.bt%2Four-cousins-in-losar-celebrations%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-SS-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-SS_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SS_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-SS_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.kingdomofbhutan.com/visitor/festivals/holidays/holidays_.html">"Holidays of Bhutan Spring/Summer"</a>. Far Flung Places &amp; Bhutan Tourism Corporation. 2011-07-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Holidays+of+Bhutan+Spring%2FSummer&amp;rft.pub=Far+Flung+Places+%26+Bhutan+Tourism+Corporation&amp;rft.date=2011-07-03&amp;rft_id=http%3A%2F%2Fwww.kingdomofbhutan.com%2Fvisitor%2Ffestivals%2Fholidays%2Fholidays_.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFPalden2010" class="citation web cs1">Palden, Karma (2010-10-24). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120403030535/http://www.bhutanobserver.bt/thruebab-brings-fields-alive/">"Thrubab Brings Fields Alive"</a>. <a href="/wiki/Bhutan_Observer" title="Bhutan Observer">Bhutan Observer</a> online. Archived from <a rel="nofollow" class="external text" href="http://www.bhutanobserver.bt/thruebab-brings-fields-alive/">the original</a> on 2012-04-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Thrubab+Brings+Fields+Alive&amp;rft.pub=Bhutan+Observer+online&amp;rft.date=2010-10-24&amp;rft.aulast=Palden&amp;rft.aufirst=Karma&amp;rft_id=http%3A%2F%2Fwww.bhutanobserver.bt%2Fthruebab-brings-fields-alive%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFNamgyal2010" class="citation web cs1">Namgyal, Gembo (2010-09-25). <a rel="nofollow" class="external text" href="http://www.bhutanobserver.bt/bathing-in-celestial-precipitation/">"Bathing in Celestial Precipitation"</a>. <a href="/wiki/Bhutan_Observer" title="Bhutan Observer">Bhutan Observer</a> online<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bathing+in+Celestial+Precipitation&amp;rft.pub=Bhutan+Observer+online&amp;rft.date=2010-09-25&amp;rft.aulast=Namgyal&amp;rft.aufirst=Gembo&amp;rft_id=http%3A%2F%2Fwww.bhutanobserver.bt%2Fbathing-in-celestial-precipitation%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFBhandari2010" class="citation web cs1">Bhandari, Achyut (2010-10-23). <a rel="nofollow" class="external text" href="http://www.bhutanobserver.bt/the-significance-of-dashain-festival/">"The Significance of Dashain Festival"</a>. <a href="/wiki/Bhutan_Observer" title="Bhutan Observer">Bhutan Observer</a> online<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Significance+of+Dashain+Festival&amp;rft.pub=Bhutan+Observer+online&amp;rft.date=2010-10-23&amp;rft.aulast=Bhandari&amp;rft.aufirst=Achyut&amp;rft_id=http%3A%2F%2Fwww.bhutanobserver.bt%2Fthe-significance-of-dashain-festival%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://raonline.ch/pages/bt/rel/btrel_festival00c.html">"Bhutan Festivals"</a>. RAOnline. 2011-06-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bhutan+Festivals&amp;rft.pub=RAOnline&amp;rft.date=2011-06-17&amp;rft_id=http%3A%2F%2Fraonline.ch%2Fpages%2Fbt%2Frel%2Fbtrel_festival00c.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFNamgyal2010" class="citation web cs1">Namgyal, Gyembo (2010-01-19). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110120121521/http://www.bhutanobserver.bt/it-is-lhasoel-time-in-the-east/">"It is Lhasoel Time in the East"</a>. <a href="/wiki/Bhutan_Observer" title="Bhutan Observer">Bhutan Observer</a> online. Archived from <a rel="nofollow" class="external text" href="http://www.bhutanobserver.bt/it-is-lhasoel-time-in-the-east/">the original</a> on 2011-01-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=It+is+Lhasoel+Time+in+the+East&amp;rft.pub=Bhutan+Observer+online&amp;rft.date=2010-01-19&amp;rft.aulast=Namgyal&amp;rft.aufirst=Gyembo&amp;rft_id=http%3A%2F%2Fwww.bhutanobserver.bt%2Fit-is-lhasoel-time-in-the-east%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110706162637/http://www.constitution.bt/TsaThrim%20Eng%20%28A5%29.pdf">"The Constitution of the Kingdom of Bhutan (Art. 1)"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/Government_of_Bhutan" class="mw-redirect" title="Government of Bhutan">Government of Bhutan</a>. 2008-07-18. Archived from <a rel="nofollow" class="external text" href="http://www.constitution.bt/TsaThrim%20Eng%20(A5).pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2011-07-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Constitution+of+the+Kingdom+of+Bhutan+%28Art.+1%29&amp;rft.pub=Government+of+Bhutan&amp;rft.date=2008-07-18&amp;rft_id=http%3A%2F%2Fwww.constitution.bt%2FTsaThrim%2520Eng%2520%28A5%29.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.bbs.com.bt/bbs/?p=2667">"National Day Celebrations"</a>. <a href="/wiki/Bhutan_Broadcasting_Service" title="Bhutan Broadcasting Service">Bhutan Broadcasting Service</a>. 2010-12-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=National+Day+Celebrations&amp;rft.pub=Bhutan+Broadcasting+Service&amp;rft.date=2010-12-17&amp;rft_id=http%3A%2F%2Fwww.bbs.com.bt%2Fbbs%2F%3Fp%3D2667&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFTenzin2009" class="citation web cs1">Tenzin, Ugyen (2009-12-19). <a rel="nofollow" class="external text" href="http://www.bhutanobserver.bt/december-17-the-essence/">"December 17, the Essence"</a>. <a href="/wiki/Bhutan_Observer" title="Bhutan Observer">Bhutan Observer</a> online<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=December+17%2C+the+Essence&amp;rft.pub=Bhutan+Observer+online&amp;rft.date=2009-12-19&amp;rft.aulast=Tenzin&amp;rft.aufirst=Ugyen&amp;rft_id=http%3A%2F%2Fwww.bhutanobserver.bt%2Fdecember-17-the-essence%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.mb.com.ph/node/293260/national-day-bhutan">"National Day of Bhutan"</a>. Manila Bulletin Publishing Corporation online. 2010-12-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=National+Day+of+Bhutan&amp;rft.pub=Manila+Bulletin+Publishing+Corporation+online&amp;rft.date=2010-12-16&amp;rft_id=http%3A%2F%2Fwww.mb.com.ph%2Fnode%2F293260%2Fnational-day-bhutan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFLorie,_JonathanSohanpaul,_Amy2006" class="citation book cs1">Lorie, Jonathan; Sohanpaul, Amy, eds. (2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=39JCQUe2T5kC"><i>The Traveler's Handbook: The Insider's Guide to World Travel</i></a>. Traveler's Handbook Series (9&nbsp;ed.). Globe Pequot. p.&nbsp;206. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-7627-4090-6" title="Special:BookSources/0-7627-4090-6"><bdi>0-7627-4090-6</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Traveler%27s+Handbook%3A+The+Insider%27s+Guide+to+World+Travel&amp;rft.series=Traveler%27s+Handbook+Series&amp;rft.pages=206&amp;rft.edition=9&amp;rft.pub=Globe+Pequot&amp;rft.date=2006&amp;rft.isbn=0-7627-4090-6&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D39JCQUe2T5kC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.vivaanadventure.com/festival-calendar-of-bhutan/">"Festival Dates"</a>. Vivaan Adventure Pvt Ltd<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-12-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Festival+Dates&amp;rft.pub=Vivaan+Adventure+Pvt+Ltd&amp;rft_id=https%3A%2F%2Fwww.vivaanadventure.com%2Ffestival-calendar-of-bhutan%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Bhutan" class="Z3988"></span></span> </li> 
+       </ol>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Bhutan_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Bhutan_topics" title="Template:Bhutan topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Bhutan_topics" title="Template talk:Bhutan topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Bhutan_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Bhutan_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Bhutan" title="Bhutan">Bhutan</a>&nbsp;<a href="/wiki/Index_of_Bhutan-related_articles" title="Index of Bhutan-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Bhutan" title="History of Bhutan">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Second_Battle_of_Simtokha_Dzong" title="Second Battle of Simtokha Dzong">Second Battle of Simtokha Dzong</a></li> 
+             <li><a href="/wiki/Bhutan_War" class="mw-redirect" title="Bhutan War">Bhutan War (Duar War)</a></li> 
+             <li><a href="/w/index.php?title=Independence_of_Bhutan&amp;action=edit&amp;redlink=1" class="new" title="Independence of Bhutan (page does not exist)">Independence</a></li> 
+             <li><a href="/wiki/Operation_All_Clear" title="Operation All Clear">Operation All Clear</a></li> 
+             <li><a href="/wiki/Military_history_of_Bhutan" title="Military history of Bhutan">Military history</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Emblem_of_Bhutan" title="Emblem of Bhutan"><img alt="Emblem of Bhutan.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Emblem_of_Bhutan.svg/110px-Emblem_of_Bhutan.svg.png" decoding="async" width="110" height="110" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Emblem_of_Bhutan.svg/165px-Emblem_of_Bhutan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Emblem_of_Bhutan.svg/220px-Emblem_of_Bhutan.svg.png 2x" data-file-width="660" data-file-height="660"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Bhutan" title="Geography of Bhutan">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Template:Borders_of_Bhutan" title="Template:Borders of Bhutan">Borders</a></li> 
+                 <li><a href="/wiki/Geography_of_Bhutan#Climate" title="Geography of Bhutan">Climate</a></li> 
+                 <li><a href="/wiki/List_of_ecoregions_in_Bhutan" title="List of ecoregions in Bhutan">Ecoregions</a></li> 
+                 <li><a href="/wiki/Environmental_issues_in_Bhutan" title="Environmental issues in Bhutan">Environment</a></li> 
+                 <li><a href="/wiki/Extreme_points_of_Bhutan" title="Extreme points of Bhutan">Extreme points</a></li> 
+                 <li><a href="/wiki/Glaciers_of_Bhutan" title="Glaciers of Bhutan">Glaciers</a></li> 
+                 <li><a href="/wiki/Lakes_of_Bhutan" title="Lakes of Bhutan">Lakes</a></li> 
+                 <li><a href="/wiki/Mountains_of_Bhutan" title="Mountains of Bhutan">Mountains</a></li> 
+                 <li><a href="/wiki/List_of_protected_areas_of_Bhutan" title="List of protected areas of Bhutan">Protected areas</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Bhutan" title="List of rivers of Bhutan">Rivers</a></li> 
+                 <li><a href="/wiki/Valleys_of_Bhutan" title="Valleys of Bhutan">Valleys</a></li> 
+                 <li><a href="/wiki/Wildlife_of_Bhutan" title="Wildlife of Bhutan">Wildlife</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Bhutan#Administrative_divisions" title="Bhutan">Subdivisions</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_cities_in_Bhutan" title="List of cities in Bhutan">Cities</a></li> 
+                 <li><a href="/wiki/Chiwogs_of_Bhutan" title="Chiwogs of Bhutan"><i>Chiwogs</i> <span style="font-size:85%;">(electoral precincts)</span></a></li> 
+                 <li><i><a href="/wiki/Dzongkhag" class="mw-redirect" title="Dzongkhag">Dzongkhags</a></i> (<a href="/wiki/Districts_of_Bhutan" title="Districts of Bhutan">districts</a>)</li> 
+                 <li><a href="/wiki/Dungkhag" title="Dungkhag"><i>Dungkhags</i> <span style="font-size:85%;">(subdistricts)</span></a></li> 
+                 <li><a href="/wiki/Gewogs_of_Bhutan" title="Gewogs of Bhutan"><i>Gewogs</i> <span style="font-size:85%;">(village groups)</span></a></li> 
+                 <li><a href="/wiki/List_of_villages_in_Bhutan" title="List of villages in Bhutan">Villages</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Bhutan" title="Politics of Bhutan">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Constitution_of_Bhutan" title="Constitution of Bhutan">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Bhutan" title="Elections in Bhutan">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Bhutan" title="Foreign relations of Bhutan">Foreign relations</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Bhutan" title="Human rights in Bhutan">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/LGBT_rights_in_Bhutan" title="LGBT rights in Bhutan">LGBT</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Druk_Gyalpo" title="Druk Gyalpo">King</a></li> 
+                 <li><a href="/wiki/Law_enforcement_in_Bhutan" title="Law enforcement in Bhutan">Law enforcement</a></li> 
+                 <li><a href="/wiki/Military_of_Bhutan" title="Military of Bhutan">Military</a></li> 
+                 <li><a href="/wiki/Parliament_of_Bhutan" title="Parliament of Bhutan">Parliament</a> 
+                  <ul>
+                   <li><a href="/wiki/National_Council_(Bhutan)" title="National Council (Bhutan)">National Council</a></li> 
+                   <li><a href="/wiki/National_Assembly_(Bhutan)" title="National Assembly (Bhutan)">National Assembly</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Bhutan" title="List of political parties in Bhutan">Political parties</a></li> 
+                 <li><a href="/wiki/List_of_Prime_Ministers_of_Bhutan" class="mw-redirect" title="List of Prime Ministers of Bhutan">Prime Minister</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Bhutan" title="Economy of Bhutan">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Agriculture_in_Bhutan" title="Agriculture in Bhutan">Agriculture</a></li> 
+                 <li><a href="/wiki/List_of_companies_of_Bhutan" title="List of companies of Bhutan">Companies</a></li> 
+                 <li><a href="/wiki/Energy_in_Bhutan" title="Energy in Bhutan">Energy</a></li> 
+                 <li><a href="/wiki/Bhutanese_ngultrum" title="Bhutanese ngultrum">Ngultrum <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Bhutan" title="Telecommunications in Bhutan">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Bhutan" title="Tourism in Bhutan">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Bhutan" title="Transport in Bhutan">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Culture_of_Bhutan" title="Culture of Bhutan">Culture</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Druk_tsendhen" title="Druk tsendhen">Anthem</a></li> 
+                 <li><a href="/wiki/Dzong_architecture" title="Dzong architecture">Architecture</a></li> 
+                 <li><a href="/wiki/Cinema_of_Bhutan" title="Cinema of Bhutan">Cinema</a></li> 
+                 <li><a href="/wiki/Bhutanese_cuisine" title="Bhutanese cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Emblem_of_Bhutan" title="Emblem of Bhutan">Emblem</a></li> 
+                 <li><a href="/wiki/Flag_of_Bhutan" title="Flag of Bhutan">Flag</a></li> 
+                 <li><a href="/wiki/Media_of_Bhutan" class="mw-redirect" title="Media of Bhutan">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Bhutan" title="Music of Bhutan">Music</a></li> 
+                 <li><a href="/wiki/National_symbols_of_Bhutan" title="National symbols of Bhutan">National symbols</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Sports_in_Bhutan" title="Sports in Bhutan">Sport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Demographics_of_Bhutan" title="Demographics of Bhutan">Demographics</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Crime_in_Bhutan" title="Crime in Bhutan">Crime</a></li> 
+                 <li><a href="/wiki/Education_in_Bhutan" title="Education in Bhutan">Education</a></li> 
+                 <li><a href="/wiki/Ethnic_groups_in_Bhutan" title="Ethnic groups in Bhutan">Ethnic groups</a></li> 
+                 <li><a href="/wiki/Health_in_Bhutan" title="Health in Bhutan">Health care</a></li> 
+                 <li><a href="/wiki/Languages_of_Bhutan" title="Languages of Bhutan">Languages</a></li> 
+                 <li><a href="/wiki/Religion_in_Bhutan" title="Religion in Bhutan">Religion</a></li> 
+                 <li><a href="/wiki/Women_in_Bhutan" title="Women in Bhutan">Women</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Bhutan" title="Outline of Bhutan">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Bhutan-related_articles" title="Index of Bhutan-related articles">Index</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Bibliography_of_Bhutan" title="Bibliography of Bhutan">Bibliography</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Bhutan" title="Category:Bhutan">Category</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Asia" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Asia_topic" title="Template:Asia topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Asia_topic" title="Template talk:Asia topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Asia_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Asia" style="font-size:114%;margin:0 4em">
+            Public holidays in Asia
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Afghanistan" title="Public holidays in Afghanistan">Afghanistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bahrain" title="Public holidays in Bahrain">Bahrain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bangladesh" title="Public holidays in Bangladesh">Bangladesh</a></li> 
+             <li><a class="mw-selflink selflink">Bhutan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Brunei" title="Public holidays in Brunei">Brunei</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cambodia" title="Public holidays in Cambodia">Cambodia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_China" title="Public holidays in China">China</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_East_Timor" class="mw-redirect" title="Public holidays in East Timor">East Timor (Timor-Leste)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_India" title="Public holidays in India">India</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Indonesia" title="Public holidays in Indonesia">Indonesia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iran" title="Public holidays in Iran">Iran</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iraq" title="Public holidays in Iraq">Iraq</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Israel" title="Public holidays in Israel">Israel</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Japan" title="Public holidays in Japan">Japan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jordan" title="Public holidays in Jordan">Jordan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Korea" title="Public holidays in North Korea">North Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Korea" title="Public holidays in South Korea">South Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kuwait" title="Public holidays in Kuwait">Kuwait</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kyrgyzstan" title="Public holidays in Kyrgyzstan">Kyrgyzstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Laos" title="Public holidays in Laos">Laos</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lebanon" title="Public holidays in Lebanon">Lebanon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malaysia" title="Public holidays in Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Maldives" title="Public holidays in the Maldives">Maldives</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mongolia" title="Public holidays in Mongolia">Mongolia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Myanmar" title="Public holidays in Myanmar">Myanmar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nepal" title="Public holidays in Nepal">Nepal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Oman" title="Public holidays in Oman">Oman</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Pakistan" title="Public holidays in Pakistan">Pakistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Philippines" title="Public holidays in the Philippines">Philippines</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Qatar" title="Public holidays in Qatar">Qatar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saudi_Arabia" title="Public holidays in Saudi Arabia">Saudi Arabia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Singapore" title="Public holidays in Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sri_Lanka" class="mw-redirect" title="Public holidays in Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Syria" title="Public holidays in Syria">Syria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tajikistan" title="Public holidays in Tajikistan">Tajikistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Thailand" title="Public holidays in Thailand">Thailand</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkmenistan" title="Public holidays in Turkmenistan">Turkmenistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Arab_Emirates" title="Public holidays in the United Arab Emirates">United Arab Emirates</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uzbekistan" title="Public holidays in Uzbekistan">Uzbekistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vietnam" title="Public holidays in Vietnam">Vietnam</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Yemen" title="Public holidays in Yemen">Yemen</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with<br>limited recognition</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_State_of_Palestine" title="Public holidays in the State of Palestine">Palestine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Taiwan" title="Public holidays in Taiwan">Taiwan</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a> and<br>other territories</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Public_holidays_in_the_British_Indian_Ocean_Territory&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in the British Indian Ocean Territory (page does not exist)">British Indian Ocean Territory</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Christmas_Island" title="Public holidays in Christmas Island">Christmas Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cocos_(Keeling)_Islands" title="Public holidays in the Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hong_Kong" title="Public holidays in Hong Kong">Hong Kong</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Macau" title="Public holidays in Macau">Macau</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+           <div> 
+            <ul>
+             <li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Book:Asia" title="Book:Asia">Book</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Asia" title="Category:Asia">Category</a></li> 
+             <li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> <a href="/wiki/Portal:Asia" title="Portal:Asia">Asia portal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1367
+Cached time: 20210130190656
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.928 seconds
+Real time usage: 1.107 seconds
+Preprocessor visited node count: 15360/1000000
+Post‐expand include size: 116172/2097152 bytes
+Template argument size: 13778/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 19/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 77128/5000000 bytes
+Lua time usage: 0.452/10.000 seconds
+Lua memory usage: 20985802/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  956.306      1 -total
+ 33.00%  315.569      6 Template:Navbox
+ 30.15%  288.349      1 Template:Reflist
+ 24.67%  235.950     21 Template:Cite_web
+ 24.37%  233.039      1 Template:Asia_topic
+ 19.28%  184.382     56 Template:Iso2country
+ 17.57%  168.040      1 Template:Lang-dz
+ 11.01%  105.315      1 Template:Bhutan_topics
+ 10.55%  100.873      1 Template:Country_topics
+  8.68%   83.016      1 Template:Short_description
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:32548222-0!canonical and timestamp 20210130190655 and revision id 1002747277. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Bhutan&amp;oldid=1002747277">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Bhutan&amp;oldid=1002747277</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Bhutan" title="Category:Public holidays in Bhutan">Public holidays in Bhutan</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Festivals_in_Bhutan" title="Category:Festivals in Bhutan">Festivals in Bhutan</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Dzongkha-language_text" title="Category:Articles containing Dzongkha-language text">Articles containing Dzongkha-language text</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Standard_Tibetan-language_text" title="Category:Articles containing Standard Tibetan-language text">Articles containing Standard Tibetan-language text</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Bhutan" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Bhutan" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Bhutan" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Bhutan" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Bhutan">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Bhutan" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Bhutan" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;oldid=1002747277" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Bhutan&amp;id=1002747277&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4376341" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Bhutan&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Bhutan&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Openbare_vakansiedae_in_Bhoetan" title="Openbare vakansiedae in Bhoetan – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%91%D1%83%D1%82%D0%B0%D0%BD%D0%B0" title="Праздники Бутана – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B0_%D0%91%D1%83%D1%82%D0%B0%D0%BD%D1%83" title="Свята Бутану – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/C%C3%A1c_ng%C3%A0y_l%E1%BB%85_t%E1%BA%A1i_Bhutan" title="Các ngày lễ tại Bhutan – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4376341#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 25 January 2021, at 21:47<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Bhutan&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.928","walltime":"1.107","ppvisitednodes":{"value":15360,"limit":1000000},"postexpandincludesize":{"value":116172,"limit":2097152},"templateargumentsize":{"value":13778,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":77128,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  956.306      1 -total"," 33.00%  315.569      6 Template:Navbox"," 30.15%  288.349      1 Template:Reflist"," 24.67%  235.950     21 Template:Cite_web"," 24.37%  233.039      1 Template:Asia_topic"," 19.28%  184.382     56 Template:Iso2country"," 17.57%  168.040      1 Template:Lang-dz"," 11.01%  105.315      1 Template:Bhutan_topics"," 10.55%  100.873      1 Template:Country_topics","  8.68%   83.016      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.452","limit":"10.000"},"limitreport-memusage":{"value":20985802,"limit":52428800}},"cachereport":{"origin":"mw1367","timestamp":"20210130190656","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Bhutan","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Bhutan","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4376341","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4376341","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-07-27T06:34:29Z","dateModified":"2021-01-25T21:47:04Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1366"});});</script> 
+ </body>
+</html>

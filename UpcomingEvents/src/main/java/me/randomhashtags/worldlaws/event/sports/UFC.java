@@ -6,28 +6,22 @@ import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.event.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.event.PreUpcomingEvent;
+import me.randomhashtags.worldlaws.PreUpcomingEvent;
 import me.randomhashtags.worldlaws.event.USAEventController;
-import me.randomhashtags.worldlaws.event.UpcomingEventType;
+import me.randomhashtags.worldlaws.UpcomingEventType;
+import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.time.Month;
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.logging.Level;
 
 public enum UFC implements USAEventController {
     INSTANCE;
 
     private String json;
-    private final HashMap<String, String> preEvents, events;
-
-    UFC() {
-        preEvents = new HashMap<>();
-        events = new HashMap<>();
-    }
+    private HashMap<String, String> preEvents, events;
 
     @Override
     public UpcomingEventType getType() {
@@ -54,11 +48,14 @@ public enum UFC implements USAEventController {
     }
 
     private void refreshUpcomingEvents(CompletionHandler handler) {
+        preEvents = new HashMap<>();
+        events = new HashMap<>();
         final long started = System.currentTimeMillis();
         final String wikipagePrefix = "https://en.wikipedia.org";
         final String url = wikipagePrefix + "/wiki/List_of_UFC_events";
         final Document doc = getDocument(url);
         if(doc != null) {
+            final UpcomingEventType type = getType();
             final Elements table = doc.select("table.sortable");
             final StringBuilder builder = new StringBuilder("[");
             final EventSource listOfEventsSource = new EventSource("Wikipedia: List of UFC events", url);
@@ -89,11 +86,11 @@ public enum UFC implements USAEventController {
                                 final String posterURL = !image.isEmpty() ? "https:" + image.attr("src") : null;
                                 final EventSource source = new EventSource("Wikipedia: " + event, wikipageURL);
                                 final EventSources sources = new EventSources(listOfEventsSource, source);
-                                final SportEvent ufc = new SportEvent(date, event, description, location, posterURL, venue, sources);
+                                final SportEvent ufc = new SportEvent(type, date, event, description, location, posterURL, venue, sources);
                                 final String identifier = getEventIdentifier(date, event);
                                 events.put(identifier, ufc.toJSON());
 
-                                final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(ufc.getType(), date, event, location, posterURL);
+                                final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(type, date, event, location, posterURL);
                                 final String string = preUpcomingEvent.toString();
                                 preEvents.put(identifier, string);
                                 builder.append(isFirst ? "" : ",").append(string);

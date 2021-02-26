@@ -10,7 +10,7 @@ import org.jsoup.select.Elements;
 
 import java.util.HashMap;
 
-public enum SystemOfGovernment implements CountryService {
+public enum SystemOfGovernment implements CountryValueService {
     INSTANCE;
 
     private HashMap<String, String> countries, styles, styleDescriptions;
@@ -53,7 +53,7 @@ public enum SystemOfGovernment implements CountryService {
         loadStyles();
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/List_of_countries_by_system_of_government";
-        final Elements tables = getDocumentElements(url, "div.mw-parser-output table.wikitable");
+        final Elements tables = getValueDocumentElements(url, "div.mw-parser-output table.wikitable");
         final String title = getInfo().getTitle();
         final EventSource source = new EventSource("Wikipedia: List of countries by system of government", url);
         final EventSources sources = new EventSources(source);

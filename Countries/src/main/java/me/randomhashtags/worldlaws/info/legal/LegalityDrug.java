@@ -17,18 +17,14 @@ public interface LegalityDrug extends CountryLegalityService {
     void setCountries(HashMap<String, String> countries);
     String getURL();
     String getSiteName();
-    default String getCultivationTitle() {
-        return "Cultivation";
-    }
-    default boolean doesRemoveLastElement() {
-        return false;
-    }
+    String getCultivationTitle();
+    boolean doesRemoveLastElement();
 
     @Override
     default void refresh(CompletionHandler handler) {
         final HashMap<String, String> countries = new HashMap<>();
         final String url = getURL(), title = getInfo().getTitle(), cultivationTitle = getCultivationTitle();
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements trs = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         if(doesRemoveLastElement()) {
             trs.remove(trs.size() - 1);

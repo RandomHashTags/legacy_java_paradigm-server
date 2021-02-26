@@ -1,27 +1,27 @@
 package me.randomhashtags.worldlaws.info.agriculture;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.CountryInfo;
 import me.randomhashtags.worldlaws.info.service.CountryService;
+import me.randomhashtags.worldlaws.location.CountryInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
-import java.util.logging.Level;
 
 public interface CountryProductionService extends CountryService {
     String getURL();
-    String getSuffix();
+    default String getSuffix() {
+        return " tonnes";
+    }
     void setCountries(HashMap<String, String> countries);
 
     @Override
     default void refresh(CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
         final CountryInfo info = getInfo();
         final String url = getURL();
         final EventSource source = new EventSource("Wikipedia", url);
         final EventSources sources = new EventSources(source);
-        final Elements tables = getDocumentElements(url, "div.mw-parser-output table.wikitable");
+        final Elements tables = getDocumentElements(FileType.RANKINGS_AGRICULTURE, url, "div.mw-parser-output table.wikitable");
         switch (info) {
             case AGRICULTURE_FOOD_APPLE_PRODUCTION:
                 tables.remove(tables.size()-1);
@@ -46,7 +46,6 @@ public interface CountryProductionService extends CountryService {
             loadTable(countries, table, maxWorldRank, title, suffix, sources);
         }
         setCountries(countries);
-        WLLogger.log(Level.INFO, info.name() + " - loaded " + getCountries().size() + " countries/territories (took " + (System.currentTimeMillis()-started) + "ms)");
         handler.handle(null);
     }
 

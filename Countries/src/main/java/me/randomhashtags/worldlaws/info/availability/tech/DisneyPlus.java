@@ -36,7 +36,7 @@ public enum DisneyPlus implements CountryAvailabilityService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Disney%2B";
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable").get(0).select("tbody tr");
+        final Elements trs = getAvailabilityDocumentElements(url, "div.mw-parser-output table.wikitable").get(0).select("tbody tr");
         trs.remove(0);
         final EventSource source = new EventSource("Wikipedia: Disney+", url);
         final EventSources sources = new EventSources(source);

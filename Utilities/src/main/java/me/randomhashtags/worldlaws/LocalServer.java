@@ -1,12 +1,13 @@
 package me.randomhashtags.worldlaws;
 
+import org.apache.logging.log4j.Level;
+
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.SocketException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import java.util.logging.Level;
 
 public final class LocalServer implements DataValues {
 

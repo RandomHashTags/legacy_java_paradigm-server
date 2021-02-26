@@ -1,0 +1,715 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Cambodia - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBbloApAMNUAAB6GDAwAAAAW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Cambodia","wgTitle":"Public holidays in Cambodia","wgCurRevisionId":998825107,"wgRevisionId":998825107,"wgArticleId":495041,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","Use mdy dates from January 2021","Articles with short description","Short description is different from Wikidata","Public holidays in Cambodia","Lists of public holidays by country"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Public_holidays_in_Cambodia","wgRelevantArticleId":495041,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1109002"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Cambodia"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Cambodia&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Cambodia&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Cambodia"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Cambodia rootpage-Public_holidays_in_Cambodia skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Cambodia</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p class="mw-empty-elt"> </p> 
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       For the Dead Kennedys song, see <a href="/wiki/Holiday_in_Cambodia" title="Holiday in Cambodia">Holiday in Cambodia</a>.
+      </div> 
+      <style data-mw-deduplicate="TemplateStyles:r1003042402">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%}.mw-parser-output .sidebar a{white-space:nowrap}.mw-parser-output .sidebar-wraplinks a{white-space:normal}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding-bottom:0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em 0}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding-top:0.2em;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding-top:0.4em;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.4em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding-top:0}.mw-parser-output .sidebar-image{padding:0.2em 0 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em}.mw-parser-output .sidebar-content{padding:0 0.1em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.4em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%}.mw-parser-output .sidebar-collapse .sidebar-navbar{padding-top:0.6em}.mw-parser-output .sidebar-collapse .mw-collapsible-toggle{margin-top:0.2em}.mw-parser-output .sidebar-list-title{text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none;margin-left:0!important;margin-right:0!important}}</style>
+      <table class="sidebar sidebar-collapse vertical-navbox nomobile hlist">
+       <tbody>
+        <tr>
+         <td class="sidebar-pretitle">Part of <a href="/wiki/Category:Cambodia" title="Category:Cambodia">a series</a> on the</td>
+        </tr>
+        <tr>
+         <th class="sidebar-title-with-pretitle" style="border-bottom: 1px solid #aaa"><span class="wraplinks"><a href="/wiki/Culture_of_Cambodia" title="Culture of Cambodia">Culture of Cambodia</a></span></th>
+        </tr>
+        <tr>
+         <td class="sidebar-image photo"><a href="/wiki/File:Flag_of_Cambodia.svg" class="image"><img alt="Flag of Cambodia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/100px-Flag_of_Cambodia.svg.png" decoding="async" width="100" height="64" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/150px-Flag_of_Cambodia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/200px-Flag_of_Cambodia.svg.png 2x" data-file-width="1000" data-file-height="640"></a></td>
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/History_of_Cambodia" title="History of Cambodia">History</a></th>
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Ethnic_groups_in_Cambodia" title="Ethnic groups in Cambodia">People</a></th>
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Languages_of_Cambodia" class="mw-redirect" title="Languages of Cambodia">Languages</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Traditions
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Khmer_clothing" class="mw-redirect" title="Khmer clothing">Costume</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Cuisine_of_Cambodia" class="mw-redirect" title="Cuisine of Cambodia">Cuisine</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Festivals
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a class="mw-selflink selflink">Public holidays</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Religion_in_Cambodia" title="Religion in Cambodia">Religion</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/Art_of_Cambodia" class="mw-redirect" title="Art of Cambodia">Art</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Khmer_sculpture" title="Khmer sculpture">Sculpture</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Literature_of_Cambodia" class="mw-redirect" title="Literature of Cambodia">Literature</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Music and performing arts
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Music_of_Cambodia" title="Music of Cambodia">Music</a></li> 
+             <li><a href="/wiki/Dance_in_Cambodia" title="Dance in Cambodia">Dance</a></li> 
+             <li><a href="/wiki/Theatre_of_Cambodia" title="Theatre of Cambodia">Theatre</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/Media_in_Cambodia" class="mw-redirect" title="Media in Cambodia">Media</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Television_in_Cambodia" class="mw-redirect" title="Television in Cambodia">Television</a></li> 
+             <li><a href="/wiki/Cinema_of_Cambodia" title="Cinema of Cambodia">Cinema</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Sport_in_Cambodia" title="Sport in Cambodia">Sport</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Monuments
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/List_of_World_Heritage_Sites_in_Cambodia" title="List of World Heritage Sites in Cambodia">World Heritage Sites</a></li> 
+             <li><a href="/wiki/Khmer_architecture" title="Khmer architecture">Architecture</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            <a href="/wiki/National_symbols_of_Cambodia" title="National symbols of Cambodia">Symbols</a>
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Flag_of_Cambodia" title="Flag of Cambodia">Flag</a></li> 
+             <li><a href="/wiki/Coat_of_arms_of_Cambodia" class="mw-redirect" title="Coat of arms of Cambodia">Coat of arms</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-below"> 
+          <ul>
+           <li class="mw-empty-elt"></li> 
+           <li><a href="/wiki/File:Flag_of_Cambodia.svg" class="image"><img alt="Flag of Cambodia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/16px-Flag_of_Cambodia.svg.png" decoding="async" width="16" height="10" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/24px-Flag_of_Cambodia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/32px-Flag_of_Cambodia.svg.png 2x" data-file-width="1000" data-file-height="640"></a>&nbsp;<a href="/wiki/Portal:Cambodia" title="Portal:Cambodia">Cambodia portal</a></li>
+          </ul></td>
+        </tr>
+        <tr>
+         <td class="sidebar-navbar"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+          <div class="navbar plainlinks hlist navbar-mini">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Culture_of_Cambodia" title="Template:Culture of Cambodia"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Culture_of_Cambodia" title="Template talk:Culture of Cambodia"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Culture_of_Cambodia&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>Cambodia has numerous public holidays, including memorial holidays and religious holidays of Buddhist origin. The Khmer traditional calendar, known as <i>Chhankitek</i>, is a lunisolar calendar although the word <i>Chhankitek</i> itself means lunar calendar.<sup id="cite_ref-cc_1-0" class="reference"><a href="#cite_note-cc-1">[1]</a></sup> While the calendar is based on the movement of the moon, calendar dates are also synchronized with the solar year to keep the seasons from drifting.<sup id="cite_ref-cc_1-1" class="reference"><a href="#cite_note-cc-1">[1]</a></sup> Therefore, some public holidays are subject to change every year based on the lunar calendar.<sup id="cite_ref-ibcc_2-0" class="reference"><a href="#cite_note-ibcc-2">[2]</a></sup> The government has announced plans to reduce public holidays by at least seven days beginning in 2020.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Public_holidays"><span class="tocnumber">1</span> <span class="toctext">Public holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Other_festivals"><span class="tocnumber">2</span> <span class="toctext">Other festivals</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Public_holidays">Public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Cambodia&amp;action=edit&amp;section=1" title="Edit section: Public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th width="20%" align="center">Name </th> 
+         <th width="10%" align="center">Date </th> 
+         <th width="70%" align="center">Remarks </th>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> </td> 
+         <td>January 1<sup id="cite_ref-ibcc_2-1" class="reference"><a href="#cite_note-ibcc-2">[2]</a></sup> </td> 
+         <td>Celebrates the beginning of the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian</a> New Year </td>
+        </tr> 
+        <tr> 
+         <td>Victory over Genocide Day </td> 
+         <td>January 7<sup id="cite_ref-ibcc_2-2" class="reference"><a href="#cite_note-ibcc-2">[2]</a></sup> </td> 
+         <td>Commemorates the end of the <a href="/wiki/Khmer_Rouge" title="Khmer Rouge">Khmer Rouge</a> regime in 1979<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/International_Women%27s_Day" title="International Women's Day">International Women's Day</a> </td> 
+         <td>March 8<sup id="cite_ref-ibcc_2-3" class="reference"><a href="#cite_note-ibcc-2">[2]</a></sup> </td> 
+         <td>Commemorates the history of women around the world </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Cambodian_New_Year" title="Cambodian New Year">Khmer New Year</a> </td> 
+         <td>April 13–16<sup id="cite_ref-ibcc_2-4" class="reference"><a href="#cite_note-ibcc-2">[2]</a></sup> </td> 
+         <td>The traditional Cambodian solar New Year lasts three days and is considered to be the most important festival on the calendar. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Vesak" title="Vesak">Visak Bochea</a><sup id="cite_ref-ibcc_2-5" class="reference"><a href="#cite_note-ibcc-2">[2]</a></sup> </td> 
+         <td>Moveable, April or May </td> 
+         <td>Buddhist observance commemorating the birth, enlightenment and passing of the <a href="/wiki/Gautama_Buddha" title="Gautama Buddha">Buddha</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a> </td> 
+         <td>May 1<sup id="cite_ref-ibcc_2-6" class="reference"><a href="#cite_note-ibcc-2">[2]</a></sup> </td> 
+         <td>Celebrates the economic and social achievements of workers </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Royal_Ploughing_Ceremony" title="Royal Ploughing Ceremony">Royal Ploughing Ceremony</a> </td> 
+         <td>Moveable, April or May </td> 
+         <td>Corresponds to the start of the planting season </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Norodom_Sihamoni" title="Norodom Sihamoni">King Norodom Sihamoni's Birthday</a> </td> 
+         <td>May 14<sup id="cite_ref-ibcc_2-7" class="reference"><a href="#cite_note-ibcc-2">[2]</a></sup> </td> 
+         <td>Celebrates the birthday of King <a href="/wiki/Norodom_Sihamoni" title="Norodom Sihamoni">Norodom Sihamoni</a> on May 14, 1953. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Norodom_Monineath" title="Norodom Monineath">Queen Mother's Birthday</a> </td> 
+         <td>June 18 </td> 
+         <td>Celebrates the birthday of Queen Mother <a href="/wiki/Norodom_Monineath" title="Norodom Monineath">Norodom Monineath</a> on June 18, 1936. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Constitution_Day" title="Constitution Day">Constitution Day</a> </td> 
+         <td>September 24<sup id="cite_ref-ibcc_2-8" class="reference"><a href="#cite_note-ibcc-2">[2]</a></sup> </td> 
+         <td>Commemorates the signing of the Cambodian constitution by King <a href="/wiki/Norodom_Sihanouk" title="Norodom Sihanouk">Norodom Sihanouk</a> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Pchum_Ben" title="Pchum Ben">Pchum Ben</a> </td> 
+         <td>3 days<sup id="cite_ref-ibcc_2-9" class="reference"><a href="#cite_note-ibcc-2">[2]</a></sup><br>Moveable, September or October </td> 
+         <td>This national holiday was established for Buddhists to pay their respects to deceased relatives by cooking meals for monks and making offerings to the "ghost" of deceased relatives. It is also known as "Ancestor's Day". </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Norodom_Sihanouk#Death" title="Norodom Sihanouk">Commemoration Day of the King's Father</a> </td> 
+         <td>October 15 </td> 
+         <td>Commemorates King Norodom Sihanouk, the founding father of independent Cambodia, who died on this day in 2012. </td>
+        </tr> 
+        <tr> 
+         <td>Coronation Day of King Sihamoni </td> 
+         <td>October 29<sup id="cite_ref-ibcc_2-10" class="reference"><a href="#cite_note-ibcc-2">[2]</a></sup> </td> 
+         <td>Commemorates the 2004 coronation of King Norodom Sihamoni </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Independence_Day_of_Cambodia" title="Independence Day of Cambodia">Independence Day</a> </td> 
+         <td>November 9<sup id="cite_ref-ibcc_2-11" class="reference"><a href="#cite_note-ibcc-2">[2]</a></sup> </td> 
+         <td>Celebrates Cambodia's independence from <a href="/wiki/France" title="France">France</a> in 1953 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Bon_Om_Touk" title="Bon Om Touk">Water Festival</a> </td> 
+         <td>3 days<sup id="cite_ref-ibcc_2-12" class="reference"><a href="#cite_note-ibcc-2">[2]</a></sup><br>Moveable, October or November </td> 
+         <td>Commemorate ancient Cambodian navy soldiers under King <a href="/wiki/Jayavarman_VII" title="Jayavarman VII">Jayavarman VII</a> during the <a href="/wiki/Khmer_Empire" title="Khmer Empire">Khmer Empire</a>. </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Other_festivals">Other festivals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Cambodia&amp;action=edit&amp;section=2" title="Edit section: Other festivals">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th width="20%" align="center">Name </th> 
+         <th width="10%" align="center">Date </th> 
+         <th width="70%" align="center">Remarks </th>
+        </tr> 
+        <tr> 
+         <td>Kite Flying Festival </td> 
+         <td>November or December </td> 
+         <td>Exactly one month after the Water Festival, the Festival of Kite Flying follows and brings together kite makers to demonstrate their talents in the full-moon night of Maksir, the first month of the Khmer lunar calendar, which usually falls in November or December. For Khmers, the festival means an occasion to pray for good weather, good harvest of crops, and a favorable situation free from destruction by floods or heavy rains. In Khmer folklore, the kite has always symbolized many things. A good number of locals hold the Festival of Kite Flying annually and wish for peace, freedom, and happiness for everyone.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>Silkworm Festival </td> 
+         <td>September </td> 
+         <td>The festival is held on a full-moon day in September every year. The traditions had been almost disappearing in the long civil war. And the traditions were revived by the hands of the experienced elderly women who slightly kept the memories. This is a festival to celebrate Cambodia's long history of silk textiles.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Chinese_New_Year_Festival" class="mw-redirect" title="Chinese New Year Festival">Chinese New Year Festival</a> </td> 
+         <td>January or February </td> 
+         <td>Chinese New Year, or Spring Festival, has been broadly celebrated in Cambodia thanks to the country's respect for cultural diversity and close relationship between the peoples of the two countries.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> It is often celebrated by Cambodian citizens regardless of ethnic background as it if commonly believed that the festival brings luck. Lion dance or "Mong Say" as referred by the locals is often seen throughout the country and many businesses close down as family go home to spend time with their families. </td>
+        </tr> 
+        <tr> 
+         <td>Hei Neak Ta </td> 
+         <td>January or February </td> 
+         <td>Known as the Hei Neak Ta, or Spirit Parade, the festival is held each year to mark the official end of the Chinese New Year celebrations in a uniquely Khmer manner. While the holiday is known as the Lantern festival in other parts of Asia, and is celebrated solely on the 15th day of the lunar calendar, festivities in Cambodia can go on for three to four days and often feature elaborate parades with a wide range of spirit mediums. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Mid_Autumn_Festival" class="mw-redirect" title="Mid Autumn Festival">Mid Autumn Festival</a> </td> 
+         <td>September or October </td> 
+         <td>More commonly called "Full Moon Festival" by locals (as Cambodia does not have an Autumn season). Cambodians organize "the traditional festival of prostrating the moon".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> In that early morning, people start preparing sacrifices to worship the moon, including fresh flowers, cassava soup, flat rice, and sugar cane juice. At night, people put the sacrifices into a tray, place on a big mat, and sit at ease waiting for the moon. When the moon rises up over the top of a branch, everyone whole-heartedly worships the moon, implores blessings. After the ritual of worshipping the moon, the old take flat rice to put into the mouth of children until they are entirely full in order to spray for perfection, and good things. Although this is a Chinese festival, many Cambodians celebrate this festival as it is believed that exchanging moon cake during this time is thought to bring luck and prosperity. Among Cambodians, this holiday is associated with Khmer beliefs of "Praying to the Moon" and the Buddhist legend of the rabbit. </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Qingming_Festival" title="Qingming Festival">Qingming Festival</a> </td> 
+         <td>April </td> 
+         <td>The Qingming Festival, also known as Tomb Sweeping Day (or "Chheng Meng among the Khmer locals), is a Chinese festival when people bring food and drinks to the graves of their ancestors. In Cambodia, this festival is largely associated with <a href="/wiki/Pchum_Ben" title="Pchum Ben">Pchum Ben</a> Festival and is mainly a chance for people to pray for happiness, success and promotion.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>Siem Reap Puppet Parade </td> 
+         <td>February </td> 
+         <td>A festival celebrated in Siem Reap that commemorates the artistic ability of the locals in the area. It shows a large display of giant puppets as well as showcasing traditional shadow puppet plays. It first began in 2007 and has since then gained widespread popularity.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Cambodia&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-cc-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-cc_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cc_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.cam-cc.org/calendar/chhankitek.php">"Khmer Calendar"</a>. <i>www.cam-cc.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.cam-cc.org&amp;rft.atitle=Khmer+Calendar&amp;rft_id=http%3A%2F%2Fwww.cam-cc.org%2Fcalendar%2Fchhankitek.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Cambodia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-ibcc-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-ibcc_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ibcc_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ibcc_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ibcc_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ibcc_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-ibcc_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-ibcc_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-ibcc_2-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-ibcc_2-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-ibcc_2-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-ibcc_2-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-ibcc_2-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-ibcc_2-12"><sup><i><b>m</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://ibccambodia.com/new/list-of-public-holidays-in-2021/">"List Of Public Holidays in 2021"</a>. <i>International Business Chamber Cambodia</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 5,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=International+Business+Chamber+Cambodia&amp;rft.atitle=List+Of+Public+Holidays+in+2021&amp;rft_id=https%3A%2F%2Fibccambodia.com%2Fnew%2Flist-of-public-holidays-in-2021%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Cambodia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.phnompenhpost.com/national/pm-holidays-may-be-cut-reforms-near">"PM: Holidays may be cut as 'reforms' near"</a>. <a href="/wiki/The_Phnom_Penh_Post" title="The Phnom Penh Post">The Phnom Penh Post</a>. March 28, 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=PM%3A+Holidays+may+be+cut+as+%27reforms%27+near&amp;rft.date=2019-03-28&amp;rft_id=https%3A%2F%2Fwww.phnompenhpost.com%2Fnational%2Fpm-holidays-may-be-cut-reforms-near&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Cambodia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://theowp.org/reports/when-peace-is-controversial-cambodia-celebrates-victory-over-genocide-day/">"When Peace Is Controversial: Cambodia Celebrates "Victory over Genocide Day<span class="cs1-kern-right">"</span>"</a>. <i>The Organization for World Peace</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 5,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Organization+for+World+Peace&amp;rft.atitle=When+Peace+Is+Controversial%3A+Cambodia+Celebrates+%22Victory+over+Genocide+Day%22&amp;rft_id=https%3A%2F%2Ftheowp.org%2Freports%2Fwhen-peace-is-controversial-cambodia-celebrates-victory-over-genocide-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Cambodia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150205032320/http://www.drachen.org/article/khmer-belief-kite-flying">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.drachen.org/article/khmer-belief-kite-flying">the original</a> on February 5, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">February 5,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.drachen.org%2Farticle%2Fkhmer-belief-kite-flying&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Cambodia" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://iktt.esprit-libre.org/en/2007/10/silkworm-festival.html">"Silkworm Festival – IKTT (Institute for Khmer Traditional Textiles), from SiemReap Cambodia"</a>. <i>iktt.esprit-libre.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iktt.esprit-libre.org&amp;rft.atitle=Silkworm+Festival+%E2%80%93+IKTT+%28Institute+for+Khmer+Traditional+Textiles%29%2C+from+SiemReap+Cambodia&amp;rft_id=http%3A%2F%2Fiktt.esprit-libre.org%2Fen%2F2007%2F10%2Fsilkworm-festival.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Cambodia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ecns.cn/2014/01-29/99302.shtml">"Chinese New Year 2nd largest celebration in Cambodia – Headlines, features, photo and videos from ecns.cn|china|news|chinanews|ecns|cns"</a>. <i>www.ecns.cn</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.ecns.cn&amp;rft.atitle=Chinese+New+Year+2nd+largest+celebration+in+Cambodia+%E2%80%93+Headlines%2C+features%2C+photo+and+videos+from+ecns.cn%26%23124%3Bchina%26%23124%3Bnews%26%23124%3Bchinanews%26%23124%3Becns%26%23124%3Bcns&amp;rft_id=http%3A%2F%2Fwww.ecns.cn%2F2014%2F01-29%2F99302.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Cambodia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150205034258/http://cinet.vn/userfiles/file/2013/cdttt20130/ttt2013_index1.html">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://cinet.vn/userfiles/file/2013/cdttt20130/ttt2013_index1.html">the original</a> on February 5, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">February 5,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fcinet.vn%2Fuserfiles%2Ffile%2F2013%2Fcdttt20130%2Fttt2013_index1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Cambodia" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.thecambodiaherald.com/cambodia/qingming-festival-852/">"Qingming Festival – The Cambodia Herald"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Qingming+Festival+%E2%80%93+The+Cambodia+Herald&amp;rft_id=https%3A%2F%2Fwww.thecambodiaherald.com%2Fcambodia%2Fqingming-festival-852%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Cambodia" class="Z3988"></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFMiles" class="citation web cs1">Miles, Craig. <a rel="nofollow" class="external text" href="https://www.phnompenhpost.com/siem-reap-insider/khmer-focus-giant-puppet-parade">"Khmer focus in giant puppet parade | Phnom Penh Post"</a>. <i>www.phnompenhpost.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.phnompenhpost.com&amp;rft.atitle=Khmer+focus+in+giant+puppet+parade+%26%23124%3B+Phnom+Penh+Post&amp;rft.aulast=Miles&amp;rft.aufirst=Craig&amp;rft_id=https%3A%2F%2Fwww.phnompenhpost.com%2Fsiem-reap-insider%2Fkhmer-focus-giant-puppet-parade&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Cambodia" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Cambodia&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.sokhawin.com/cambodia-public-holiday-2017/">Public Holiday Calendar for Civil Servant and Worker for 2017, Royal Government of Cambodia</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://www.evisa.gov.kh/Cambodia-Public-Holiday.aspx">2016 Public Holidays, Cambodian Ministry of Foreign Affairs and International Cooperation</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.embassyofcambodia.org.nz/publicholidays.htm">Public Holidays for 2015, Cambodian Embassy in Australia</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Asia" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Asia_topic" title="Template:Asia topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Asia_topic" title="Template talk:Asia topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Asia_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Asia" style="font-size:114%;margin:0 4em">
+            Public holidays in Asia
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Afghanistan" title="Public holidays in Afghanistan">Afghanistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bahrain" title="Public holidays in Bahrain">Bahrain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bangladesh" title="Public holidays in Bangladesh">Bangladesh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bhutan" title="Public holidays in Bhutan">Bhutan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Brunei" title="Public holidays in Brunei">Brunei</a></li> 
+             <li><a class="mw-selflink selflink">Cambodia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_China" title="Public holidays in China">China</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_East_Timor" class="mw-redirect" title="Public holidays in East Timor">East Timor (Timor-Leste)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_India" title="Public holidays in India">India</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Indonesia" title="Public holidays in Indonesia">Indonesia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iran" title="Public holidays in Iran">Iran</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iraq" title="Public holidays in Iraq">Iraq</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Israel" title="Public holidays in Israel">Israel</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Japan" title="Public holidays in Japan">Japan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jordan" title="Public holidays in Jordan">Jordan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Korea" title="Public holidays in North Korea">North Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Korea" title="Public holidays in South Korea">South Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kuwait" title="Public holidays in Kuwait">Kuwait</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kyrgyzstan" title="Public holidays in Kyrgyzstan">Kyrgyzstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Laos" title="Public holidays in Laos">Laos</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lebanon" title="Public holidays in Lebanon">Lebanon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malaysia" title="Public holidays in Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Maldives" title="Public holidays in the Maldives">Maldives</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mongolia" title="Public holidays in Mongolia">Mongolia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Myanmar" title="Public holidays in Myanmar">Myanmar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nepal" title="Public holidays in Nepal">Nepal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Oman" title="Public holidays in Oman">Oman</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Pakistan" title="Public holidays in Pakistan">Pakistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Philippines" title="Public holidays in the Philippines">Philippines</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Qatar" title="Public holidays in Qatar">Qatar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saudi_Arabia" title="Public holidays in Saudi Arabia">Saudi Arabia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Singapore" title="Public holidays in Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sri_Lanka" class="mw-redirect" title="Public holidays in Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Syria" title="Public holidays in Syria">Syria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tajikistan" title="Public holidays in Tajikistan">Tajikistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Thailand" title="Public holidays in Thailand">Thailand</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkmenistan" title="Public holidays in Turkmenistan">Turkmenistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Arab_Emirates" title="Public holidays in the United Arab Emirates">United Arab Emirates</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uzbekistan" title="Public holidays in Uzbekistan">Uzbekistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vietnam" title="Public holidays in Vietnam">Vietnam</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Yemen" title="Public holidays in Yemen">Yemen</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with<br>limited recognition</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_State_of_Palestine" title="Public holidays in the State of Palestine">Palestine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Taiwan" title="Public holidays in Taiwan">Taiwan</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a> and<br>other territories</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Public_holidays_in_the_British_Indian_Ocean_Territory&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in the British Indian Ocean Territory (page does not exist)">British Indian Ocean Territory</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Christmas_Island" title="Public holidays in Christmas Island">Christmas Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cocos_(Keeling)_Islands" title="Public holidays in the Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hong_Kong" title="Public holidays in Hong Kong">Hong Kong</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Macau" title="Public holidays in Macau">Macau</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+           <div> 
+            <ul>
+             <li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Book:Asia" title="Book:Asia">Book</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Asia" title="Category:Asia">Category</a></li> 
+             <li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> <a href="/wiki/Portal:Asia" title="Portal:Asia">Asia portal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20210130143024
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.658 seconds
+Real time usage: 1.140 seconds
+Preprocessor visited node count: 14537/1000000
+Post‐expand include size: 67817/2097152 bytes
+Template argument size: 9241/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 29/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 36311/5000000 bytes
+Lua time usage: 0.263/10.000 seconds
+Lua memory usage: 6776986/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1064.320      1 -total
+ 29.17%  310.440      1 Template:Culture_of_Cambodia
+ 26.54%  282.486      1 Template:Culture_of_region
+ 25.89%  275.537      1 Template:Asia_topic
+ 24.12%  256.766      1 Template:Sidebar_with_collapsible_lists
+ 22.57%  240.217      1 Template:Navbox
+ 22.35%  237.872      1 Template:Reflist
+ 17.95%  191.000     56 Template:Iso2country
+ 17.19%  182.947      9 Template:Cite_web
+ 11.33%  120.542      1 Template:Use_mdy_dates
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:495041-0!canonical and timestamp 20210130143023 and revision id 998825107. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Cambodia&amp;oldid=998825107">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Cambodia&amp;oldid=998825107</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Cambodia" title="Category:Public holidays in Cambodia">Public holidays in Cambodia</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li>
+       <li><a href="/wiki/Category:Use_mdy_dates_from_January_2021" title="Category:Use mdy dates from January 2021">Use mdy dates from January 2021</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Cambodia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Cambodia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Cambodia" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Cambodia" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Cambodia">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Cambodia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Cambodia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Cambodia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Cambodia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Cambodia&amp;oldid=998825107" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Cambodia&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Cambodia&amp;id=998825107&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1109002" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Cambodia&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Cambodia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%8F%E1%9E%B7%E1%9E%91%E1%9E%B7%E1%9E%93%E1%9E%88%E1%9E%94%E1%9F%8B%E1%9E%9F%E1%9F%86%E1%9E%9A%E1%9E%B6%E1%9E%80%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%85%E1%9E%B6%E1%9F%86%E1%9E%86%E1%9F%92%E1%9E%93%E1%9E%B6%E1%9F%86%E1%9F%A2%E1%9F%A0%E1%9F%A0%E1%9F%A8" title="ប្រតិទិនឈប់សំរាកប្រចាំឆ្នាំ២០០៨ – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9A%D0%B0%D0%BC%D0%B1%D0%BE%D0%B4%D0%B6%D0%B8" title="Праздники Камбоджи – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%AF%80%E6%97%A5" title="柬埔寨節日 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1109002#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 7 January 2021, at 05:57<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Cambodia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.658","walltime":"1.140","ppvisitednodes":{"value":14537,"limit":1000000},"postexpandincludesize":{"value":67817,"limit":2097152},"templateargumentsize":{"value":9241,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":29,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":36311,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1064.320      1 -total"," 29.17%  310.440      1 Template:Culture_of_Cambodia"," 26.54%  282.486      1 Template:Culture_of_region"," 25.89%  275.537      1 Template:Asia_topic"," 24.12%  256.766      1 Template:Sidebar_with_collapsible_lists"," 22.57%  240.217      1 Template:Navbox"," 22.35%  237.872      1 Template:Reflist"," 17.95%  191.000     56 Template:Iso2country"," 17.19%  182.947      9 Template:Cite_web"," 11.33%  120.542      1 Template:Use_mdy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.263","limit":"10.000"},"limitreport-memusage":{"value":6776986,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1264","timestamp":"20210130143024","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Cambodia","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Cambodia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1109002","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1109002","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-29T13:31:51Z","dateModified":"2021-01-07T05:57:17Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":113,"wgHostname":"mw1371"});});</script> 
+ </body>
+</html>

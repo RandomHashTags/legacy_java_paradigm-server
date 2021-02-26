@@ -1,0 +1,673 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Libya - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBcQ9ApAICwAABszPCIAAACE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Libya","wgTitle":"Public holidays in Libya","wgCurRevisionId":961983918,"wgRevisionId":961983918,"wgArticleId":23137894,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","All stub articles","Public holidays in Libya","Libya-related lists","Libyan culture","Lists of public holidays by country","Libya stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Public_holidays_in_Libya","wgRelevantArticleId":23137894,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q4376360"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Libya"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Libya&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Libya&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Libya"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Libya rootpage-Public_holidays_in_Libya skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Libya</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p>This is a list of public <a href="/wiki/Holiday" title="Holiday">holidays</a> in <a href="/wiki/Libya" title="Libya">Libya</a>. </p> 
+      <h2><span class="mw-headline" id="Public_holidays">Public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Libya&amp;action=edit&amp;section=1" title="Edit section: Public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date</th> 
+         <th>English name</th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr> 
+         <td>17 February</td> 
+         <td><a href="/wiki/Revolution_Day" title="Revolution Day">February 17th Revolution</a></td> 
+         <td>The <a href="/wiki/First_Battle_of_Benghazi" title="First Battle of Benghazi">start</a> of the <a href="/wiki/2011_Libyan_Revolution" class="mw-redirect" title="2011 Libyan Revolution">Libyan Revolution</a> on 17 February 2011. </td>
+        </tr> 
+        <tr> 
+         <td>1 May</td> 
+         <td><a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a></td> 
+         <td>Celebrates the achievements of workers. </td>
+        </tr> 
+        <tr> 
+         <td>16 September</td> 
+         <td><a href="/wiki/Martyrs%27_Day#Libya" title="Martyrs' Day">Martyrs' Day</a></td> 
+         <td>Remembers Libyans killed or exiled under <a href="/wiki/History_of_Libya_as_Italian_Colony" class="mw-redirect" title="History of Libya as Italian Colony">Italian rule</a> and those who are killed in the 17 of February revolution. </td>
+        </tr> 
+        <tr> 
+         <td>23 October</td> 
+         <td><a href="/wiki/Liberation_Day" title="Liberation Day">Liberation Day</a></td> 
+         <td>Day of Liberation from <a href="/wiki/History_of_Libya_under_Muammar_Gaddafi" title="History of Libya under Muammar Gaddafi">Gaddafi's Jamahiriya</a> declared on 23 October 2011. </td>
+        </tr> 
+        <tr> 
+         <td>24 December</td> 
+         <td><a href="/wiki/List_of_national_independence_days" title="List of national independence days">Independence Day</a></td> 
+         <td>Anniversary of <a href="/wiki/Kingdom_of_Libya" title="Kingdom of Libya">Libyan independence</a> in 1951. </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>In addition, the following <a href="/wiki/Muslim_holidays" class="mw-redirect" title="Muslim holidays">Muslim holidays</a>, which may take place according to the <a href="/wiki/Islamic_Calendar" class="mw-redirect" title="Islamic Calendar">Islamic Calendar</a> (<a href="/wiki/Hijri_year" title="Hijri year">Hijri year</a>), are observed as public holidays: </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date</th> 
+         <th>English name</th> 
+         <th>Local (<a href="/wiki/Arabic_Language" class="mw-redirect" title="Arabic Language">Arabic</a>) name</th> 
+         <th>Description </th>
+        </tr> 
+        <tr> 
+         <td>1st <i><a href="/wiki/Muharram" title="Muharram">Muharram</a></i></td> 
+         <td><a href="/wiki/Islamic_New_Year" title="Islamic New Year">Islamic New Year</a></td> 
+         <td>رأس السنة الهجرية</td> 
+         <td><a href="/wiki/Islamic_Calendar" class="mw-redirect" title="Islamic Calendar">Islamic</a> New Year (also known as: <i>Hijri New Year</i>). </td>
+        </tr> 
+        <tr> 
+         <td>12th <i><a href="/wiki/Rabi%27_al-awwal" class="mw-redirect" title="Rabi' al-awwal">Rabiul Awwal</a></i></td> 
+         <td><a href="/wiki/Mawlid" title="Mawlid">Birthday of the Prophet</a></td> 
+         <td>المولد النبوي</td> 
+         <td>Commemorates <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a>'s birthday, celebrated in most parts of the Muslim world. </td>
+        </tr> 
+        <tr> 
+         <td>1st, 2nd, 3rd <i><a href="/wiki/Shawwal" title="Shawwal">Shawwal</a></i></td> 
+         <td><a href="/wiki/Eid_ul-Fitr" class="mw-redirect" title="Eid ul-Fitr">Little Feast</a></td> 
+         <td>عيد الفطر</td> 
+         <td>Commemorates end of <a href="/wiki/Ramadan" title="Ramadan">Ramadan</a>. </td>
+        </tr> 
+        <tr> 
+         <td>9th <i><a href="/wiki/Dhu_al-Hijjah" title="Dhu al-Hijjah">Zulhijjah</a></i></td> 
+         <td><a href="/wiki/Day_of_Arafat" class="mw-redirect" title="Day of Arafat">Arafat Day</a></td> 
+         <td>يوم عرفة</td> 
+         <td>&nbsp; </td>
+        </tr> 
+        <tr> 
+         <td>10th, 11th, 12th <i><a href="/wiki/Dhu_al-Hijjah" title="Dhu al-Hijjah">Zulhijjah</a></i></td> 
+         <td><a href="/wiki/Eid_ul-Adha" class="mw-redirect" title="Eid ul-Adha">Feast of the Sacrifice</a></td> 
+         <td>عيد الأضحى</td> 
+         <td>Commemorates <a href="/wiki/Abraham" title="Abraham">Ibrahim</a>'s willingness to sacrifice his son. Also known as the <i>Big Feast</i> (celebrated from the 10th to 12th). </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Libya&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Day_of_Revenge" title="Day of Revenge">Day of Revenge</a>, historical</li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Libya&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Libya" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Libya_topics" title="Template:Libya topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Libya_topics" title="Template talk:Libya topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Libya_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Libya" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Libya" title="Libya">Libya</a>&nbsp;
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Libya" title="History of Libya">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Ancient_Libya" title="Ancient Libya">Ancient</a></li> 
+             <li><a href="/wiki/Libya_in_the_Roman_era" title="Libya in the Roman era">Roman</a></li> 
+             <li><a href="/wiki/History_of_Islamic_Tripolitania_and_Cyrenaica" title="History of Islamic Tripolitania and Cyrenaica">Islamic Tripolitania and Cyrenaica</a></li> 
+             <li><a href="/wiki/Spanish_Tripoli" title="Spanish Tripoli">Spanish Tripoli</a></li> 
+             <li><a href="/wiki/Hospitaller_Tripoli" title="Hospitaller Tripoli">Hospitaller Tripoli</a></li> 
+             <li><a href="/wiki/Ottoman_Tripolitania" title="Ottoman Tripolitania">Ottoman</a></li> 
+             <li><a href="/wiki/Italian_colonization_of_Libya" title="Italian colonization of Libya">Italian colony</a></li> 
+             <li><a href="/wiki/Italian_Libya" title="Italian Libya">Italian Libya</a></li> 
+             <li><a href="/wiki/Allied_administration_of_Libya" title="Allied administration of Libya">Allied occupation</a></li> 
+             <li><a href="/wiki/Kingdom_of_Libya" title="Kingdom of Libya">Kingdom</a></li> 
+             <li><a href="/wiki/History_of_Libya_under_Muammar_Gaddafi" title="History of Libya under Muammar Gaddafi">Libya under Gaddafi</a></li> 
+             <li><a href="/wiki/Libya" title="Libya">State of Libya</a></li> 
+             <li><a href="/wiki/Libyan_Crisis_(2011%E2%80%93present)" title="Libyan Crisis (2011–present)">Libyan Civil Wars</a> 
+              <ul>
+               <li><a href="/wiki/Libyan_Civil_War_(2011)" class="mw-redirect" title="Libyan Civil War (2011)">2011</a></li> 
+               <li><a href="/wiki/Libyan_Civil_War_(2014%E2%80%93present)" class="mw-redirect" title="Libyan Civil War (2014–present)">2014–present</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px;background:#f8f8f8;">
+           <div>
+            <a href="/wiki/File:Map_of_traditional_provinces_of_Libye-en.svg" class="image"><img alt="Map of traditional provinces of Libye-en.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Map_of_traditional_provinces_of_Libye-en.svg/80px-Map_of_traditional_provinces_of_Libye-en.svg.png" decoding="async" width="80" height="77" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Map_of_traditional_provinces_of_Libye-en.svg/120px-Map_of_traditional_provinces_of_Libye-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Map_of_traditional_provinces_of_Libye-en.svg/160px-Map_of_traditional_provinces_of_Libye-en.svg.png 2x" data-file-width="969" data-file-height="929"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Libya" title="Geography of Libya">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Template:Borders_of_Libya" title="Template:Borders of Libya">Borders</a></li> 
+                 <li><a href="/wiki/List_of_cities_in_Libya" title="List of cities in Libya">Cities</a></li> 
+                 <li><a href="/wiki/Geography_of_Libya#Climate_and_hydrology" title="Geography of Libya">Climate</a></li> 
+                 <li><a href="/wiki/Districts_of_Libya" title="Districts of Libya">Districts</a></li> 
+                 <li><a href="/wiki/List_of_ecoregions_in_Libya" title="List of ecoregions in Libya">Ecoregions</a></li> 
+                 <li><a href="/wiki/Libyan_Desert" title="Libyan Desert">Libyan Desert</a></li> 
+                 <li><a href="/wiki/Baladiyat_of_Libya" title="Baladiyat of Libya">Municipalities</a></li> 
+                 <li><a href="/wiki/Subdivisions_of_Libya" title="Subdivisions of Libya">Subdivisions</a></li> 
+                 <li><a href="/wiki/Wildlife_of_Libya" title="Wildlife of Libya">Wildlife</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Libya" title="Politics of Libya">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Libyan_interim_Constitutional_Declaration" title="Libyan interim Constitutional Declaration">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Libya" title="Elections in Libya">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Libya" title="Foreign relations of Libya">Foreign relations</a></li> 
+                 <li><a href="/wiki/Government_of_National_Accord" title="Government of National Accord">Government of National Accord</a></li> 
+                 <li><a href="/wiki/List_of_heads_of_government_of_Libya" title="List of heads of government of Libya">Head of government</a></li> 
+                 <li><a href="/wiki/List_of_heads_of_state_of_Libya" title="List of heads of state of Libya">Head of state</a></li> 
+                 <li><a href="/wiki/High_Council_of_State_(Libya)" title="High Council of State (Libya)">High Council of State</a></li> 
+                 <li><a href="/wiki/House_of_Representatives_(Libya)" title="House of Representatives (Libya)">House of Representatives</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Libya" title="Human rights in Libya">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/LGBT_rights_in_Libya" title="LGBT rights in Libya">LGBT</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Libyan_Armed_Forces" title="Libyan Armed Forces">Military</a></li> 
+                 <li><a href="/wiki/Presidential_Council_(Libya)" title="Presidential Council (Libya)">Presidential Council</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Libya" title="Economy of Libya">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Agriculture_in_Libya" title="Agriculture in Libya">Agriculture</a></li> 
+                 <li><a href="/wiki/Central_Bank_of_Libya" title="Central Bank of Libya">Central Bank</a></li> 
+                 <li><a href="/wiki/Communications_in_Libya" class="mw-redirect" title="Communications in Libya">Communications</a></li> 
+                 <li><a href="/wiki/List_of_companies_of_Libya" title="List of companies of Libya">Companies</a></li> 
+                 <li><a href="/wiki/Libyan_dinar" title="Libyan dinar">Dinar <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Energy_in_Libya" title="Energy in Libya">Energy</a></li> 
+                 <li><a href="/wiki/Great_Man-Made_River" title="Great Man-Made River">Great Man-Made River</a></li> 
+                 <li><a href="/wiki/National_Oil_Corporation" title="National Oil Corporation">National Oil Corporation</a></li> 
+                 <li><a href="/wiki/Oil_reserves_in_Libya" title="Oil reserves in Libya">Oil reserves</a></li> 
+                 <li><a href="/wiki/Tourism_in_Libya" title="Tourism in Libya">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Libya" title="Transport in Libya">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Culture_of_Libya" title="Culture of Libya">Culture</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Demographics_of_Libya" title="Demographics of Libya">Demographics</a></li> 
+                 <li><a href="/wiki/Education_in_Libya" title="Education in Libya">Education</a></li> 
+                 <li><a href="/wiki/Health_in_Libya" title="Health in Libya">Health</a></li> 
+                 <li><a href="/wiki/Libyan_Arabic" title="Libyan Arabic">Libyan Arabic</a></li> 
+                 <li><a href="/wiki/Libyan_literature" title="Libyan literature">Literature</a></li> 
+                 <li><a href="/wiki/Media_of_Libya" title="Media of Libya">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Libya" title="Music of Libya">Music</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Religion_in_Libya" title="Religion in Libya">Religion</a></li> 
+                 <li>Sports 
+                  <ul>
+                   <li><a href="/wiki/Football_in_Libya" title="Football in Libya">Football</a></li> 
+                   <li><a href="/wiki/Libya_at_the_Olympics" title="Libya at the Olympics">Olympics</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Women_in_Libya" title="Women in Libya">Women</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Libya" title="Outline of Libya">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Libya-related_articles" title="Index of Libya-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Libya" title="Category:Libya">Category</a></li> 
+             <li><a href="/wiki/Portal:Libya" title="Portal:Libya">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Africa" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Africa_topic" title="Template:Africa topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Africa_topic" title="Template talk:Africa topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Africa_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Africa" style="font-size:114%;margin:0 4em">
+            Public holidays in Africa
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Algeria" title="Public holidays in Algeria">Algeria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Angola" title="Public holidays in Angola">Angola</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Benin" title="Public holidays in Benin">Benin</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Botswana" title="Public holidays in Botswana">Botswana</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Burkina_Faso" title="Public holidays in Burkina Faso">Burkina Faso</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Burundi" title="Public holidays in Burundi">Burundi</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cameroon" title="Public holidays in Cameroon">Cameroon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cape_Verde" title="Public holidays in Cape Verde">Cape Verde (Cabo Verde)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Central_African_Republic" title="Public holidays in the Central African Republic">Central African Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Chad" title="Public holidays in Chad">Chad</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Comoros" title="Public holidays in the Comoros">Comoros</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Democratic_Republic_of_the_Congo" title="Public holidays in the Democratic Republic of the Congo">Democratic Republic of the Congo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_the_Congo" title="Public holidays in the Republic of the Congo">Republic of the Congo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Djibouti" title="Public holidays in Djibouti">Djibouti</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Equatorial_Guinea" title="Public holidays in Equatorial Guinea">Equatorial Guinea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Eritrea" title="Public holidays in Eritrea">Eritrea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Eswatini" title="Public holidays in Eswatini">Eswatini (Swaziland)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ethiopia" title="Public holidays in Ethiopia">Ethiopia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gabon" title="Public holidays in Gabon">Gabon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Gambia" title="Public holidays in the Gambia">The Gambia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ghana" title="Public holidays in Ghana">Ghana</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guinea" title="Public holidays in Guinea">Guinea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guinea-Bissau" title="Public holidays in Guinea-Bissau">Guinea-Bissau</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ivory_Coast" title="Public holidays in Ivory Coast">Ivory Coast (Côte d'Ivoire)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kenya" title="Public holidays in Kenya">Kenya</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lesotho" title="Public holidays in Lesotho">Lesotho</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liberia" title="Public holidays in Liberia">Liberia</a></li> 
+             <li><a class="mw-selflink selflink">Libya</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Madagascar" title="Public holidays in Madagascar">Madagascar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malawi" title="Public holidays in Malawi">Malawi</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mali" title="Public holidays in Mali">Mali</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mauritania" title="Public holidays in Mauritania">Mauritania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mauritius" class="mw-redirect" title="Public holidays in Mauritius">Mauritius</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Morocco" title="Public holidays in Morocco">Morocco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mozambique" title="Public holidays in Mozambique">Mozambique</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Namibia" title="Public holidays in Namibia">Namibia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Niger" title="Public holidays in Niger">Niger</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nigeria" title="Public holidays in Nigeria">Nigeria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Rwanda" title="Public holidays in Rwanda">Rwanda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="Public holidays in São Tomé and Príncipe">São Tomé and Príncipe</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Senegal" title="Public holidays in Senegal">Senegal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Seychelles" title="Public holidays in Seychelles">Seychelles</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sierra_Leone" title="Public holidays in Sierra Leone">Sierra Leone</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Somalia" title="Public holidays in Somalia">Somalia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Africa" title="Public holidays in South Africa">South Africa</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Sudan" title="Public holidays in South Sudan">South Sudan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sudan" title="Public holidays in Sudan">Sudan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tanzania" title="Public holidays in Tanzania">Tanzania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Togo" title="Public holidays in Togo">Togo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tunisia" title="Public holidays in Tunisia">Tunisia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uganda" title="Public holidays in Uganda">Uganda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Zambia" title="Public holidays in Zambia">Zambia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Zimbabwe" title="Public holidays in Zimbabwe">Zimbabwe</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            States with limited
+            <br>recognition
+           </div></th>
+          <td class="navbox-list navbox-even hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_Sahrawi_Arab_Democratic_Republic" class="mw-redirect" title="Public holidays in the Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Somaliland" title="Public holidays in Somaliland">Somaliland</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            Dependencies and
+            <br>other territories
+           </div></th>
+          <td class="navbox-list navbox-odd hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div> 
+             <ul>
+              <li><a href="/wiki/Public_holidays_in_the_Canary_Islands" class="mw-redirect" title="Public holidays in the Canary Islands">Canary Islands</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Ceuta" class="mw-redirect" title="Public holidays in Ceuta">Ceuta</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Melilla" class="mw-redirect" title="Public holidays in Melilla">Melilla</a>&nbsp;&nbsp;<span style="font-size:85%;">(Spain)</span></li> 
+              <li><a href="/w/index.php?title=Public_holidays_in_Madeira&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Madeira (page does not exist)">Madeira</a>&nbsp;<span style="font-size:85%;">(Portugal)</span></li> 
+              <li><a href="/w/index.php?title=Public_holidays_in_Mayotte&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Mayotte (page does not exist)">Mayotte</a>&nbsp;/ <a href="/w/index.php?title=Public_holidays_in_R%C3%A9union&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Réunion (page does not exist)">Réunion</a>&nbsp;<span style="font-size:85%;">(France)</span></li> 
+              <li><a href="/wiki/Public_holidays_in_Saint_Helena" class="mw-redirect" title="Public holidays in Saint Helena">Saint Helena</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Ascension_Island" class="mw-redirect" title="Public holidays in Ascension Island">Ascension Island</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Tristan_da_Cunha" class="mw-redirect" title="Public holidays in Tristan da Cunha">Tristan da Cunha</a>&nbsp;<span style="font-size:85%;">(United Kingdom)</span></li> 
+              <li><a href="/wiki/Public_holidays_in_Western_Sahara" class="mw-redirect" title="Public holidays in Western Sahara">Western Sahara</a></li>
+             </ul> 
+            </div>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <p><br> </p> 
+      <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+       <tbody>
+        <tr class="noresize">
+         <td><a href="/wiki/File:Flag_of_Libya.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/30px-Flag_of_Libya.svg.png" decoding="async" width="30" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/45px-Flag_of_Libya.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/60px-Flag_of_Libya.svg.png 2x" data-file-width="960" data-file-height="480"></a></td>
+         <td><i>This <a href="/wiki/Libya" title="Libya">Libya</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Libya&amp;action=edit">expanding it</a>.</i>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+          <div class="navbar plainlinks hlist navbar-mini" style="position: absolute; right: 15px; display: none;">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Libya-stub" title="Template:Libya-stub"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Libya-stub" title="Template talk:Libya-stub"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Libya-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> <!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20210108075703
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.244 seconds
+Real time usage: 0.471 seconds
+Preprocessor visited node count: 1245/1000000
+Post‐expand include size: 58128/2097152 bytes
+Template argument size: 6728/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 23/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3366/5000000 bytes
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 2122457/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  358.764      1 -total
+ 51.85%  186.010      6 Template:Navbox
+ 44.69%  160.325      1 Template:Libya_topics
+ 43.68%  156.701      1 Template:Country_topics
+ 32.47%  116.484      1 Template:Short_description
+ 23.18%   83.145      1 Template:Pagetype
+ 13.11%   47.049      1 Template:Africa_in_topic
+ 12.98%   46.555      1 Template:Bulleted_list
+  5.56%   19.959      2 Template:Nobold
+  5.10%   18.314      4 Template:Main_other
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:23137894-0!canonical and timestamp 20210108075702 and revision id 961983918. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Libya&amp;oldid=961983918">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Libya&amp;oldid=961983918</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Libya" title="Category:Public holidays in Libya">Public holidays in Libya</a></li>
+       <li><a href="/wiki/Category:Libya-related_lists" title="Category:Libya-related lists">Libya-related lists</a></li>
+       <li><a href="/wiki/Category:Libyan_culture" title="Category:Libyan culture">Libyan culture</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Libya_stubs" title="Category:Libya stubs">Libya stubs</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Libya" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Libya" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Libya" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Libya" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Libya">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Libya&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Libya&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Libya" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Libya" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Libya&amp;oldid=961983918" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Libya&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Libya&amp;id=961983918&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4376360" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Libya&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Libya&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B9%D8%B7%D9%84_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9_%D9%81%D9%8A_%D9%84%D9%8A%D8%A8%D9%8A%D8%A7" title="قائمة العطل الرسمية في ليبيا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Anexo:D%C3%ADas_festivos_en_Libia" title="Anexo:Días festivos en Libia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9B%D0%B8%D0%B2%D0%B8%D0%B8" title="Праздники Ливии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4376360#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 11 June 2020, at 13:03<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Libya&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.471","ppvisitednodes":{"value":1245,"limit":1000000},"postexpandincludesize":{"value":58128,"limit":2097152},"templateargumentsize":{"value":6728,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":23,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3366,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  358.764      1 -total"," 51.85%  186.010      6 Template:Navbox"," 44.69%  160.325      1 Template:Libya_topics"," 43.68%  156.701      1 Template:Country_topics"," 32.47%  116.484      1 Template:Short_description"," 23.18%   83.145      1 Template:Pagetype"," 13.11%   47.049      1 Template:Africa_in_topic"," 12.98%   46.555      1 Template:Bulleted_list","  5.56%   19.959      2 Template:Nobold","  5.10%   18.314      4 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.072","limit":"10.000"},"limitreport-memusage":{"value":2122457,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20210108075703","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Libya","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Libya","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4376360","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4376360","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-06-08T03:05:40Z","dateModified":"2020-06-11T13:03:16Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":143,"wgHostname":"mw1323"});});</script> 
+ </body>
+</html>

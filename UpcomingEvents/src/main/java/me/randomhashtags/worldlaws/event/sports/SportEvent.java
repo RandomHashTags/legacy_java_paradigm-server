@@ -1,16 +1,18 @@
 package me.randomhashtags.worldlaws.event.sports;
 
+import me.randomhashtags.worldlaws.UpcomingEventType;
 import me.randomhashtags.worldlaws.event.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.event.UpcomingEvent;
-import me.randomhashtags.worldlaws.event.UpcomingEventType;
 
 public final class SportEvent implements UpcomingEvent {
+    private final UpcomingEventType type;
     private final EventDate date;
     private final String event, description, venue, location, posterURL;
     private final EventSources sources;
 
-    public SportEvent(EventDate date, String event, String description, String location, String posterURL, String venue, EventSources sources) {
+    public SportEvent(UpcomingEventType type, EventDate date, String event, String description, String location, String posterURL, String venue, EventSources sources) {
+        this.type = type;
         this.event = event;
         this.date = date;
         this.description = description;
@@ -22,7 +24,7 @@ public final class SportEvent implements UpcomingEvent {
 
     @Override
     public UpcomingEventType getType() {
-        return UpcomingEventType.SPORT_UFC;
+        return type;
     }
     @Override
     public EventDate getDate() {
@@ -51,8 +53,7 @@ public final class SportEvent implements UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
-                "\"venue\":\"" + venue + "\"," +
-                "\"posterURL\":\"" + posterURL + "\"" +
+                "\"venue\":\"" + venue + "\"" +
                 "}";
     }
 }

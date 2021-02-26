@@ -35,7 +35,7 @@ public enum YouTubePremium implements CountryAvailabilityService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/YouTube_Premium";
-        final Elements lis = getDocumentElements(url, "div.mw-parser-output table.infobox", 0).select("tbody tr td div.NavFrame ul.NavContent li");
+        final Elements lis = getAvailabilityDocumentElements(url, "div.mw-parser-output table.infobox", 0).select("tbody tr td div.NavFrame ul.NavContent li");
         final EventSource source = new EventSource("Wikipedia: YouTube Premium", url);
         final EventSources sources = new EventSources(source);
         final String availability = getAvailability(true);

@@ -43,7 +43,8 @@ public final class UnitedStatesProjectPolitician {
 
     @Override
     public String toString() {
-        return "{\"name\":" + name.toString() + "," +
+        return "{" +
+                "\"name\":" + name.toString() + "," +
                 "\"birthday\":" + birthday.toString() + "," +
                 "\"terms\":" + terms.toString() + "," +
                 "\"urls\":" + urls.toString() +
@@ -94,7 +95,8 @@ public final class UnitedStatesProjectPolitician {
 
         @Override
         public String toString() {
-            return "{\"type\":\"" + type + "\"," +
+            return "{" +
+                    "\"type\":\"" + type + "\"," +
                     "\"start\":" + start.toString() + "," +
                     "\"end\":" + end.toString() + "," +
                     "\"state\":\"" + state + "\"," +

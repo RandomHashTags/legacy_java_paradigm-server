@@ -4,7 +4,6 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.info.service.CountryService;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -12,7 +11,7 @@ import java.util.HashMap;
 
 // https://aceproject.org/epic-en/CDTable?view=country&question=VR001
 // https://en.wikipedia.org/wiki/Voting_age
-public enum VotingAge implements CountryService {
+public enum VotingAge implements CountryValueService {
     INSTANCE;
 
     private HashMap<String, String> countries;
@@ -31,7 +30,7 @@ public enum VotingAge implements CountryService {
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://aceproject.org/epic-en/CDTable?view=country&question=VR001";
-        final Elements trs = getDocumentElements(url, "div.documentContent table.CDlisting tbody tr");
+        final Elements trs = getValueDocumentElements(url, "div.documentContent table.CDlisting tbody tr");
         trs.remove(0);
         trs.remove(0);
         final String title = getInfo().getTitle();
@@ -54,13 +53,13 @@ public enum VotingAge implements CountryService {
                     .replace("unitedkingdomofgreatbritainandnorthernireland", "unitedkingdom")
                     ;
             final int yearOfData = Integer.parseInt(tds.get(3).text().split("/")[0]);
-            final String text = removeReferences(tds.get(1).text().substring(3));
+            final String value = removeReferences(tds.get(1).text().substring(3));
             String valueDescription = tds.get(2).text();
             if(valueDescription.contains(" Source:")) {
                 valueDescription = valueDescription.split(" Source:")[0];
             }
-            final CountrySingleValue value = new CountrySingleValue(title, null, text, valueDescription, yearOfData, sources);
-            countries.put(country, value.toString());
+            final CountrySingleValue singleValue = new CountrySingleValue(title, null, value, valueDescription, yearOfData, sources);
+            countries.put(country, singleValue.toString());
         }
         handler.handle(null);
     }

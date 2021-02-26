@@ -35,11 +35,12 @@ public enum LegalityAbortion implements CountryLegalityService {
         }};
     }
 
+    @Override
     public void refresh(CompletionHandler handler) {
         loadStyles();
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Abortion_law";
-        final Elements trs = getDocumentElements(url, "div.mw-parser-output table.wikitable", 2).select("tbody tr");
+        final Elements trs = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable", 2).select("tbody tr");
         trs.removeIf(row -> row.select("td").size() == 0);
         final EventSource source = new EventSource("Wikipedia: Abortion law", url);
         final EventSources sources = new EventSources(source);

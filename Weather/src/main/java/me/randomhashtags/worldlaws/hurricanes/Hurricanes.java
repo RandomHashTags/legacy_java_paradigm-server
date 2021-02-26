@@ -31,7 +31,7 @@ public enum Hurricanes implements Jsoupable {
     public void refreshAtlanticSeason(int year, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final String url = "https://en.wikipedia.org/wiki/" + year + "_Atlantic_hurricane_season";
-        final Document doc = getDocument(url);
+        /*final Document doc = getDocument(url);
         if(doc != null) {
             final StringBuilder builder = new StringBuilder("[");
             final Elements elements = doc.getAllElements(), hurricanes = doc.select("h3");
@@ -116,6 +116,6 @@ public enum Hurricanes implements Jsoupable {
             if(handler != null) {
                 handler.handle(string);
             }
-        }
+        }*/
     }
 }

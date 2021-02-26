@@ -1,0 +1,814 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Lithuania - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBY1yQpAMNIAAvvZA@wAAACA","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Lithuania","wgTitle":"Public holidays in Lithuania","wgCurRevisionId":1001526152,"wgRevisionId":1001526152,"wgArticleId":771522,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Use mdy dates from December 2019","Public holidays in Lithuania","Lists of public holidays by country","Festivals in Lithuania","Lithuanian culture-related lists"],"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Lithuania","wgRelevantArticleId":771522,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q850340"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":
+"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Lithuania"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Lithuania&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Lithuania&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Lithuania"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Lithuania rootpage-Public_holidays_in_Lithuania skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Lithuania</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p> All official holidays in <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> are established by acts of <a href="/wiki/Seimas" title="Seimas">Seimas</a>. </p> 
+      <h2><span class="mw-headline" id="Public_holidays">Public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Lithuania&amp;action=edit&amp;section=1" title="Edit section: Public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The following are official <b>holidays in Lithuania</b>, that mean days off:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date</th> 
+         <th>English name</th> 
+         <th>Local name</th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr> 
+         <td>January 1</td> 
+         <td>New Year's Day</td> 
+         <td>Naujųjų metų diena</td> 
+         <td>&nbsp; </td>
+        </tr> 
+        <tr> 
+         <td>February 16</td> 
+         <td><a href="/wiki/Act_of_Independence_of_Lithuania" title="Act of Independence of Lithuania">the Day of Restoration of the State of Lithuania (1918)</a></td> 
+         <td>Lietuvos valstybės atkūrimo diena</td> 
+         <td>&nbsp; </td>
+        </tr> 
+        <tr> 
+         <td>March 11</td> 
+         <td><a href="/wiki/Act_of_the_Re-Establishment_of_the_State_of_Lithuania" title="Act of the Re-Establishment of the State of Lithuania">Day of Restoration of Independence of Lithuania</a> (from the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>, 1990)</td> 
+         <td>Lietuvos nepriklausomybės atkūrimo diena</td> 
+         <td>&nbsp; </td>
+        </tr> 
+        <tr> 
+         <td><i><a href="/wiki/Moveable_feast" title="Moveable feast">Moveable</a> Sunday</i></td> 
+         <td>Easter</td> 
+         <td>Šv. Velykos</td> 
+         <td>The first Sunday after the full moon that occurs on or soonest after March 21. Commemorates resurrection of Jesus </td>
+        </tr> 
+        <tr> 
+         <td>The day after <a href="/wiki/Easter_Sunday" class="mw-redirect" title="Easter Sunday">Easter Sunday</a></td> 
+         <td><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a></td> 
+         <td>Antroji šv. Velykų diena</td> 
+         <td>&nbsp; </td>
+        </tr> 
+        <tr> 
+         <td>May 1</td> 
+         <td><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">International Workers' Day</a></td> 
+         <td>Tarptautinė darbo diena</td> 
+         <td>&nbsp; </td>
+        </tr> 
+        <tr> 
+         <td>First Sunday in May</td> 
+         <td>Mother's Day</td> 
+         <td>Motinos diena</td> 
+         <td>&nbsp; </td>
+        </tr> 
+        <tr> 
+         <td>First Sunday in June</td> 
+         <td>Father's Day</td> 
+         <td>Tėvo diena</td> 
+         <td>&nbsp; </td>
+        </tr> 
+        <tr> 
+         <td>June 24</td> 
+         <td>St. John's Day [Christian name], Day of Dew [original pagan name]</td> 
+         <td>Rasos ir <a href="/wiki/Jonin%C4%97s" class="mw-redirect" title="Joninės">Joninių</a> diena</td> 
+         <td>Celebrated according to mostly pagan traditions. (aka: <a href="/wiki/Midsummer_Day" class="mw-redirect" title="Midsummer Day">Midsummer Day</a>, <a href="/wiki/Saint_Jonas_Day" class="mw-redirect" title="Saint Jonas Day">Saint Jonas Day</a>) </td>
+        </tr> 
+        <tr> 
+         <td>July 6</td> 
+         <td><a href="/wiki/Statehood_Day_(Lithuania)" title="Statehood Day (Lithuania)">Statehood Day</a></td> 
+         <td>Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) ir Tautiškos giesmės diena</td> 
+         <td>Commemorates coronation of the first king, <a href="/wiki/Mindaugas" title="Mindaugas">Mindaugas</a> and the <a href="/wiki/Tauti%C5%A1ka_giesm%C4%97" title="Tautiška giesmė">national anthem</a> of <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>. </td>
+        </tr> 
+        <tr> 
+         <td>August 15</td> 
+         <td><a href="/wiki/Assumption_of_Mary" title="Assumption of Mary">Assumption Day</a></td> 
+         <td>Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)</td> 
+         <td>&nbsp; </td>
+        </tr> 
+        <tr> 
+         <td>November 1</td> 
+         <td><a href="/wiki/All_Saints%27_Day" title="All Saints' Day">All Saints' Day</a></td> 
+         <td>Visų šventųjų diena</td> 
+         <td>&nbsp; </td>
+        </tr> 
+        <tr> 
+         <td>November 2</td> 
+         <td><a href="/wiki/All_Souls%27_Day" title="All Souls' Day">All Souls' Day</a></td> 
+         <td>Mirusiųjų atminimo (Vėlinių) diena</td> 
+         <td>&nbsp; </td>
+        </tr> 
+        <tr> 
+         <td>December 24</td> 
+         <td>Christmas Eve</td> 
+         <td>Šv. Kūčios</td> 
+         <td>&nbsp; </td>
+        </tr> 
+        <tr> 
+         <td>December 25 and 26</td> 
+         <td>Christmas</td> 
+         <td>Šv. Kalėdos</td> 
+         <td>Commemorates birth of Jesus </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Commemorative_Days">Commemorative Days</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Lithuania&amp;action=edit&amp;section=2" title="Edit section: Commemorative Days">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The list of other observances (atmintinos dienos) is set by law and includes a total of 71 days,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> not including the public holidays above.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Lithuania&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.infolex.lt/ta/368200:str123">"Lietuvos Respublikos darbo kodeksas 123 straipsnis"</a>. Infolex<span class="reference-accessdate">. Retrieved <span class="nowrap">October 2,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lietuvos+Respublikos+darbo+kodeksas+123+straipsnis&amp;rft.pub=Infolex&amp;rft_id=http%3A%2F%2Fwww.infolex.lt%2Fta%2F368200%3Astr123&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Lithuania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/VOozPryRGj">"Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 2,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lietuvos+Respublikos+darbo+kodekso+patvirtinimo%2C+%C4%AFsigaliojimo+ir+%C4%AFgyvendinimo+%C4%AFstatymas&amp;rft_id=https%3A%2F%2Fwww.e-tar.lt%2Fportal%2Flt%2FlegalAct%2Ff6d686707e7011e6b969d7ae07280e89%2FVOozPryRGj&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Lithuania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://calendarific.com/holidays/2020/LT">"Lithuania Public Holidays"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lithuania+Public+Holidays&amp;rft_id=https%3A%2F%2Fcalendarific.com%2Fholidays%2F2020%2FLT&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Lithuania" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.e-tar.lt/portal/lt/legalAct/TAR.D570962773F8/aIWssakJKi">"Lietuvos Respublikos atmintinų dienų įstatymas"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">September 4,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lietuvos+Respublikos+atmintin%C5%B3+dien%C5%B3+%C4%AFstatymas&amp;rft_id=https%3A%2F%2Fwww.e-tar.lt%2Fportal%2Flt%2FlegalAct%2FTAR.D570962773F8%2FaIWssakJKi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Lithuania" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Lithuania_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Lithuania_topics" title="Template:Lithuania topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Lithuania_topics" title="Template talk:Lithuania topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Lithuania_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Lithuania_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Lithuania" title="Lithuania">Lithuania</a>&nbsp;<a href="/wiki/Index_of_Lithuania-related_articles" title="Index of Lithuania-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Lithuania" title="History of Lithuania">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Early</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Balts" title="Balts">Balts</a></li> 
+                 <li><a href="/wiki/Lithuania_proper" title="Lithuania proper">Lithuania proper</a></li> 
+                 <li><a href="/wiki/Grand_Duchy_of_Lithuania" title="Grand Duchy of Lithuania">Grand Duchy</a> 
+                  <ul>
+                   <li><a href="/wiki/History_of_Lithuania_(1219%E2%80%9395)" title="History of Lithuania (1219–95)">1219–95</a></li> 
+                   <li><a href="/wiki/Duchy_of_Lithuania" title="Duchy of Lithuania">Duchy</a></li> 
+                   <li><a href="/wiki/Kingdom_of_Lithuania" title="Kingdom of Lithuania">Kingdom</a></li> 
+                   <li><a href="/wiki/Christianization_of_Lithuania" title="Christianization of Lithuania">Christianization</a></li> 
+                   <li><a href="/wiki/Polish%E2%80%93Lithuanian_Commonwealth" title="Polish–Lithuanian Commonwealth">Polish–Lithuanian Commonwealth</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Revival and<br>independence</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Lithuanian_press_ban" title="Lithuanian press ban">Press ban</a></li> 
+                 <li><a href="/wiki/Lithuanian_National_Revival" title="Lithuanian National Revival">National Revival</a> 
+                  <ul>
+                   <li><a href="/wiki/Great_Seimas_of_Vilnius" title="Great Seimas of Vilnius">Great Seimas of Vilnius</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Act_of_Independence_of_Lithuania" title="Act of Independence of Lithuania">Act of Independence</a></li> 
+                 <li><a href="/wiki/Lithuanian_Wars_of_Independence" title="Lithuanian Wars of Independence">Wars of Independence</a> 
+                  <ul>
+                   <li><a href="/wiki/Lithuanian%E2%80%93Soviet_War" title="Lithuanian–Soviet War">Lithuanian–Soviet War</a></li> 
+                   <li><a href="/wiki/Polish%E2%80%93Lithuanian_War" title="Polish–Lithuanian War">Polish–Lithuanian War</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/1919_Polish_coup_d%27%C3%A9tat_attempt_in_Lithuania" title="1919 Polish coup d'état attempt in Lithuania">1919 Polish coup d'état attempt</a></li> 
+                 <li><a href="/wiki/Lithuanian%E2%80%93Byelorussian_Soviet_Socialist_Republic" title="Lithuanian–Byelorussian Soviet Socialist Republic">First Soviet republic</a></li> 
+                 <li><a href="/wiki/1926_Lithuanian_coup_d%27%C3%A9tat" title="1926 Lithuanian coup d'état">1926 coup d'état</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">WWII and<br>occupations</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Occupation_of_the_Baltic_states" title="Occupation of the Baltic states">Occupation of the Baltic states</a> 
+                  <ul>
+                   <li><a href="/wiki/Soviet_occupation_of_the_Baltic_states_(1940)" title="Soviet occupation of the Baltic states (1940)">by the Soviet Union (1940)</a></li> 
+                   <li><a href="/wiki/German_occupation_of_Lithuania_during_World_War_II" title="German occupation of Lithuania during World War II">by Nazi Germany</a></li> 
+                   <li><a href="/wiki/Soviet_occupation_of_the_Baltic_states_(1944)" title="Soviet occupation of the Baltic states (1944)">by the Soviet Union (1944)</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/The_Holocaust_in_Lithuania" title="The Holocaust in Lithuania">Holocaust</a></li> 
+                 <li><a href="/wiki/Resistance_in_Lithuania_during_World_War_II" title="Resistance in Lithuania during World War II">Resistance</a></li> 
+                 <li><a href="/wiki/Lithuanian_Soviet_Socialist_Republic" title="Lithuanian Soviet Socialist Republic">Second Soviet republic</a></li> 
+                 <li><a href="/wiki/Baltic_states_under_Soviet_rule_(1944%E2%80%9391)" class="mw-redirect" title="Baltic states under Soviet rule (1944–91)">Baltic states under Soviet rule (1944–91)</a></li> 
+                 <li><a href="/wiki/Lithuanian_Diplomatic_Service" title="Lithuanian Diplomatic Service">Government-in-exile</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Restoration</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/S%C4%85j%C5%ABdis" title="Sąjūdis">Reform Movement (Sąjūdis)</a></li> 
+                 <li><a href="/wiki/Singing_Revolution#Lithuania" title="Singing Revolution">Singing Revolution</a></li> 
+                 <li><a href="/wiki/Baltic_Way" title="Baltic Way">Baltic Way</a></li> 
+                 <li><a href="/wiki/Act_of_the_Re-Establishment_of_the_State_of_Lithuania" title="Act of the Re-Establishment of the State of Lithuania">Act of Re-Establishment</a></li> 
+                 <li><a href="/wiki/January_Events_(Lithuania)" title="January Events (Lithuania)">January Events</a></li> 
+                 <li><a href="/wiki/1991_Soviet_coup_d%27%C3%A9tat_attempt" title="1991 Soviet coup d'état attempt">August Putsch</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Lithuania" title="Lithuania"><img alt="Lithuania" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Coat_of_arms_of_Lithuania.svg/80px-Coat_of_arms_of_Lithuania.svg.png" decoding="async" width="80" height="91" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Coat_of_arms_of_Lithuania.svg/120px-Coat_of_arms_of_Lithuania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Coat_of_arms_of_Lithuania.svg/160px-Coat_of_arms_of_Lithuania.svg.png 2x" data-file-width="528" data-file-height="600"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Lithuania" title="Geography of Lithuania">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_cities_in_Lithuania" title="List of cities in Lithuania">Cities</a> 
+                  <ul>
+                   <li><a href="/wiki/Vilnius" title="Vilnius">capital</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Geography_of_Lithuania#Climate" title="Geography of Lithuania">Climate</a></li> 
+                 <li><a href="/wiki/Extreme_points_of_Lithuania" class="mw-redirect" title="Extreme points of Lithuania">Extreme points</a></li> 
+                 <li><a href="/wiki/Flora_of_Lithuania" title="Flora of Lithuania">Flora</a></li> 
+                 <li><a href="/wiki/List_of_forests_in_Lithuania" class="mw-redirect" title="List of forests in Lithuania">Forests</a></li> 
+                 <li><a href="/wiki/List_of_lakes_of_Lithuania" title="List of lakes of Lithuania">Lakes</a></li> 
+                 <li><a href="/wiki/List_of_regional_parks_of_Lithuania" title="List of regional parks of Lithuania">Regional parks</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Lithuania" title="List of rivers of Lithuania">Rivers</a></li> 
+                 <li><a href="/wiki/List_of_towns_in_Lithuania" title="List of towns in Lithuania">Towns</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Lithuania" title="Politics of Lithuania">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Administrative_divisions_of_Lithuania" title="Administrative divisions of Lithuania">Administrative divisions</a> 
+                  <ul>
+                   <li><a href="/wiki/Counties_of_Lithuania" title="Counties of Lithuania">counties</a></li> 
+                   <li><a href="/wiki/Municipalities_of_Lithuania" title="Municipalities of Lithuania">municipalities</a></li> 
+                   <li><a href="/wiki/Elderships_of_Lithuania" title="Elderships of Lithuania">elderships</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Constitution_of_Lithuania" title="Constitution of Lithuania">Constitution</a> 
+                  <ul>
+                   <li><a href="/wiki/Constitutional_Court_of_Lithuania" title="Constitutional Court of Lithuania">Constitutional Court</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Elections_in_Lithuania" title="Elections in Lithuania">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Lithuania" title="Foreign relations of Lithuania">Foreign relations</a></li> 
+                 <li><a href="/wiki/Government_of_Lithuania" title="Government of Lithuania">Government</a> 
+                  <ul>
+                   <li><a href="/wiki/Prime_Minister_of_Lithuania" title="Prime Minister of Lithuania">Prime Minister</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Law_of_Lithuania" title="Law of Lithuania">Law</a> 
+                  <ul>
+                   <li><a href="/wiki/Law_enforcement_in_Lithuania" title="Law enforcement in Lithuania">Law enforcement</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Seimas" title="Seimas"><i>Seimas</i> <span style="font-size:85%;">parliament</span></a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_Speakers_of_the_Seimas" title="List of Speakers of the Seimas">Speaker</a></li> 
+                   <li><a href="/wiki/List_of_political_parties_in_Lithuania" title="List of political parties in Lithuania">Political parties</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/List_of_rulers_of_Lithuania#Republic_of_Lithuania_(1918–1940)" title="List of rulers of Lithuania">President</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Military_of_Lithuania" class="mw-redirect" title="Military of Lithuania">Military</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Lithuanian_Land_Force" class="mw-redirect" title="Lithuanian Land Force">Land Force</a></li> 
+                 <li><a href="/wiki/Lithuanian_Naval_Force" title="Lithuanian Naval Force">Naval Force</a></li> 
+                 <li><a href="/wiki/Lithuanian_Air_Force" title="Lithuanian Air Force">Air Force</a></li> 
+                 <li><a href="/wiki/Lithuanian_Special_Operations_Force" title="Lithuanian Special Operations Force">Special Operations Force</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Lithuania" title="Economy of Lithuania">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Agriculture_in_Lithuania" title="Agriculture in Lithuania">Agriculture</a></li> 
+                 <li><a href="/wiki/List_of_banks_in_Lithuania" title="List of banks in Lithuania">Banks</a> 
+                  <ul>
+                   <li><a href="/wiki/Bank_of_Lithuania" title="Bank of Lithuania">Central bank</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Energy_in_Lithuania" title="Energy in Lithuania">Energy</a></li> 
+                 <li><a href="/wiki/Lithuania_and_the_euro" title="Lithuania and the euro">Euro</a></li> 
+                 <li><a href="/wiki/Lithuanian_litas" title="Lithuanian litas">Litas <span style="font-size:85%;">(former currency)</span></a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Lithuania" title="Telecommunications in Lithuania">Telecommunications</a></li> 
+                 <li><a href="/wiki/Transport_in_Lithuania" title="Transport in Lithuania">Transport</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_airports_in_Lithuania" title="List of airports in Lithuania">airports</a></li> 
+                   <li><a href="/wiki/Lithuanian_Railways" title="Lithuanian Railways">rail</a></li> 
+                   <li><a href="/wiki/Transport_in_Lithuania#Lithuanian_road_system" title="Transport in Lithuania">roads</a></li> 
+                   <li><a href="/wiki/Port_of_Klaip%C4%97da" title="Port of Klaipėda">seaport</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Tourism_in_Lithuania" title="Tourism in Lithuania">Tourism</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Lithuanian_society" title="Category:Lithuanian society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Demographics_of_Lithuania" title="Demographics of Lithuania">Demographics</a></li> 
+                 <li><a href="/wiki/Education_in_Lithuania" title="Education in Lithuania">Education</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_universities_and_colleges_in_Lithuania" title="List of universities and colleges in Lithuania">universities</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Ethnic_minorities_in_Lithuania" title="Ethnic minorities in Lithuania">Ethnic minorities</a></li> 
+                 <li><a href="/wiki/Regions_of_Lithuania" class="mw-redirect" title="Regions of Lithuania">Ethnographic regions</a></li> 
+                 <li><a href="/wiki/Lithuanian_language" title="Lithuanian language">Language</a></li> 
+                 <li><a href="/wiki/Lithuanians" title="Lithuanians">Lithuanians</a></li> 
+                 <li><a href="/wiki/Religion_in_Lithuania" title="Religion in Lithuania">Religion</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Lithuania" title="Culture of Lithuania">Culture</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Lithuanian_calendar" title="Lithuanian calendar">Calendar</a></li> 
+                 <li><a href="/wiki/Cinema_of_Lithuania" title="Cinema of Lithuania">Cinema</a></li> 
+                 <li><a href="/wiki/Lithuanian_cuisine" title="Lithuanian cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/History_of_Lithuanian_culture" title="History of Lithuanian culture">Cultural history</a></li> 
+                 <li><a href="/wiki/Ethnographic_Lithuania" title="Ethnographic Lithuania">Ethnographic Lithuania</a></li> 
+                 <li><a href="/wiki/Lithuanian_literature" title="Lithuanian literature">Literature</a></li> 
+                 <li><a href="/wiki/Music_of_Lithuania" title="Music of Lithuania">Music</a></li> 
+                 <li><a href="/wiki/Lithuanian_design" title="Lithuanian design">Design</a></li> 
+                 <li><a href="/wiki/Lithuanian_mythology" title="Lithuanian mythology">Mythology</a></li> 
+                 <li><a href="/wiki/Name_of_Lithuania" title="Name of Lithuania">Name</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Sport_in_Lithuania" title="Sport in Lithuania">Sport</a></li> 
+                 <li><a href="/wiki/Symbols_of_Lithuania" class="mw-redirect" title="Symbols of Lithuania">Symbols</a> 
+                  <ul>
+                   <li><a href="/wiki/Tauti%C5%A1ka_giesm%C4%97" title="Tautiška giesmė">anthem</a></li> 
+                   <li><a href="/wiki/Coat_of_arms_of_Lithuania" title="Coat of arms of Lithuania">coat of arms</a></li> 
+                   <li><a href="/wiki/Flag_of_Lithuania" title="Flag of Lithuania">flag</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Lithuania" title="Outline of Lithuania">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Lithuania-related_articles" title="Index of Lithuania-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Lithuania" title="Category:Lithuania">Category</a></li> 
+             <li><a href="/wiki/Portal:Lithuania" title="Portal:Lithuania">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Europe" title="Template:Public holidays in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Europe" title="Template talk:Public holidays in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Europe" style="font-size:114%;margin:0 4em">
+            Public holidays in Europe
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Albania" title="Public holidays in Albania">Albania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Andorra" title="Public holidays in Andorra">Andorra</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Austria" title="Public holidays in Austria">Austria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belarus" title="Public holidays in Belarus">Belarus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belgium" title="Public holidays in Belgium">Belgium</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bosnia_and_Herzegovina" title="Public holidays in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bulgaria" title="Public holidays in Bulgaria">Bulgaria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Croatia" title="Public holidays in Croatia">Croatia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Czech_Republic" title="Public holidays in the Czech Republic">Czech Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Denmark" title="Public holidays in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Estonia" title="Public holidays in Estonia">Estonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Finland" title="Public holidays in Finland">Finland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_France" title="Public holidays in France">France</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Germany" title="Public holidays in Germany">Germany</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greece" title="Public holidays in Greece">Greece</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hungary" title="Public holidays in Hungary">Hungary</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iceland" title="Public holidays in Iceland">Iceland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Ireland" title="Public holidays in the Republic of Ireland">Ireland</a></li> 
+             <li class="mw-empty-elt"></li> 
+             <li><a href="/wiki/Public_holidays_in_Italy" title="Public holidays in Italy">Italy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Latvia" title="Public holidays in Latvia">Latvia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liechtenstein" title="Public holidays in Liechtenstein">Liechtenstein</a></li> 
+             <li><a class="mw-selflink selflink">Lithuania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Luxembourg" title="Public holidays in Luxembourg">Luxembourg</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malta" title="Public holidays in Malta">Malta</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Moldova" title="Public holidays in Moldova">Moldova</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Monaco" title="Public holidays in Monaco">Monaco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montenegro" title="Public holidays in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Netherlands" title="Public holidays in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Macedonia" title="Public holidays in North Macedonia">North Macedonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Norway" title="Public holidays in Norway">Norway</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Poland" title="Public holidays in Poland">Poland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Portugal" title="Public holidays in Portugal">Portugal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Romania" title="Public holidays in Romania">Romania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_San_Marino" class="mw-redirect" title="Public holidays in San Marino">San Marino</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Serbia" title="Public holidays in Serbia">Serbia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovakia" title="Public holidays in Slovakia">Slovakia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovenia" title="Public holidays in Slovenia">Slovenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Spain" title="Public holidays in Spain">Spain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sweden" title="Public holidays in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Switzerland" title="Public holidays in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ukraine" title="Public holidays in Ukraine">Ukraine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Kingdom" title="Public holidays in the United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vatican_City" title="Public holidays in Vatican City">Vatican City</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">States with limited<br>recognition</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kosovo" title="Public holidays in Kosovo">Kosovo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Transnistria" title="Public holidays in Transnistria">Transnistria</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies and<br>other entities</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_%C3%85land" title="Public holidays in Åland">Åland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Faroe_Islands" title="Public holidays in the Faroe Islands">Faroe Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gibraltar" title="Public holidays in Gibraltar">Gibraltar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guernsey" title="Public holidays in Guernsey">Guernsey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Isle_of_Man" title="Public holidays in the Isle of Man">Isle of Man</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jersey" title="Public holidays in Jersey">Jersey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Svalbard" title="Public holidays in Svalbard">Svalbard</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other entities</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_European_Union" title="Public holidays in the European Union">European Union</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1387
+Cached time: 20210130140257
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.452 seconds
+Real time usage: 0.579 seconds
+Preprocessor visited node count: 12085/1000000
+Post‐expand include size: 109588/2097152 bytes
+Template argument size: 17943/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 25/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 13985/5000000 bytes
+Lua time usage: 0.148/10.000 seconds
+Lua memory usage: 5810725/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  516.545      1 -total
+ 58.60%  302.699      7 Template:Navbox
+ 34.11%  176.173      1 Template:Public_holidays_in_Europe
+ 33.55%  173.311      1 Template:Europe_topic
+ 27.81%  143.633     49 Template:Iso2country
+ 25.79%  133.208      1 Template:Lithuania_topics
+ 25.14%  129.845      1 Template:Country_topics
+ 21.12%  109.102      1 Template:Reflist
+ 18.56%   95.847      4 Template:Cite_web
+ 13.23%   68.348      1 Template:Short_description
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:771522-0!canonical and timestamp 20210130140256 and revision id 1001526152. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Lithuania&amp;oldid=1001526152">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Lithuania&amp;oldid=1001526152</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Lithuania" title="Category:Public holidays in Lithuania">Public holidays in Lithuania</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Festivals_in_Lithuania" title="Category:Festivals in Lithuania">Festivals in Lithuania</a></li>
+       <li><a href="/wiki/Category:Lithuanian_culture-related_lists" title="Category:Lithuanian culture-related lists">Lithuanian culture-related lists</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Use_mdy_dates_from_December_2019" title="Category:Use mdy dates from December 2019">Use mdy dates from December 2019</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Lithuania" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Lithuania" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Lithuania" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Lithuania" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Lithuania">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Lithuania&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Lithuania&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Lithuania" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Lithuania" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Lithuania&amp;oldid=1001526152" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Lithuania&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Lithuania&amp;id=1001526152&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q850340" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Lithuania&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Lithuania&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Holidays_in_Lithuania" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Feiertage_in_Litauen" title="Feiertage in Litauen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A6%AC%ED%88%AC%EC%95%84%EB%8B%88%EC%95%84%EC%9D%98_%EA%B3%B5%ED%9C%B4%EC%9D%BC" title="리투아니아의 공휴일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9A%E1%83%98%E1%83%94%E1%83%A2%E1%83%A3%E1%83%95%E1%83%98%E1%83%A1_%E1%83%93%E1%83%A6%E1%83%94%E1%83%A1%E1%83%90%E1%83%A1%E1%83%AC%E1%83%90%E1%83%A3%E1%83%9A%E1%83%94%E1%83%91%E1%83%98" title="ლიეტუვის დღესასწაულები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Lietuvos_%C5%A1vent%C4%97s" title="Sąrašas:Lietuvos šventės – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9B%D0%B8%D1%82%D0%B2%D1%8B" title="Праздники Литвы – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q850340#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 20 January 2021, at 02:19<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Lithuania&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.452","walltime":"0.579","ppvisitednodes":{"value":12085,"limit":1000000},"postexpandincludesize":{"value":109588,"limit":2097152},"templateargumentsize":{"value":17943,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":25,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13985,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  516.545      1 -total"," 58.60%  302.699      7 Template:Navbox"," 34.11%  176.173      1 Template:Public_holidays_in_Europe"," 33.55%  173.311      1 Template:Europe_topic"," 27.81%  143.633     49 Template:Iso2country"," 25.79%  133.208      1 Template:Lithuania_topics"," 25.14%  129.845      1 Template:Country_topics"," 21.12%  109.102      1 Template:Reflist"," 18.56%   95.847      4 Template:Cite_web"," 13.23%   68.348      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.148","limit":"10.000"},"limitreport-memusage":{"value":5810725,"limit":52428800}},"cachereport":{"origin":"mw1387","timestamp":"20210130140257","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Lithuania","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Lithuania","sameAs":"http:\/\/www.wikidata.org\/entity\/Q850340","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q850340","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-02T09:28:05Z","dateModified":"2021-01-20T02:19:02Z","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":128,"wgHostname":"mw1368"});});</script> 
+ </body>
+</html>

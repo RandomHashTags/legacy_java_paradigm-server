@@ -1,0 +1,1512 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Culture of Tonga - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBcQ8wpAAEAAAC5zUW0AAABP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Culture_of_Tonga","wgTitle":"Culture of Tonga","wgCurRevisionId":999868831,"wgRevisionId":999868831,"wgArticleId":1949844,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles lacking in-text citations from September 2019","All articles lacking in-text citations","Articles needing additional references from August 2020","All articles needing additional references","All articles with vague or ambiguous time",
+"Vague or ambiguous time from September 2019","Articles to be expanded from May 2012","All articles to be expanded","Articles using small message boxes","Wikipedia articles needing clarification from April 2014","CS1: long volume value","Commons category link is on Wikidata","Tongan culture"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Culture_of_Tonga","wgRelevantArticleId":1949844,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Public_holidays_in_Tonga","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},
+"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Culture_of_Tonga#Public_Holidays","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q4405888"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/c9/Kailao.jpg"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Culture_of_Tonga#Public_Holidays"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Culture_of_Tonga&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Culture_of_Tonga&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Culture_of_Tonga#Public_Holidays"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Culture_of_Tonga rootpage-Culture_of_Tonga skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Culture of Tonga</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">&nbsp;&nbsp;(Redirected from <a href="/w/index.php?title=Public_holidays_in_Tonga&amp;redirect=no" class="mw-redirect" title="Public holidays in Tonga">Public holidays in Tonga</a>)</span>
+    </div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="box-More_footnotes plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48">
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article includes a list of general <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">references</a>, but it remains largely unverified because <b>it lacks sufficient corresponding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.<span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" class="mw-redirect" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small class="date-container"><i>(<span class="date">September 2019</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Culture_of_Tonga&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Culture+of+Tonga%22">"Culture of Tonga"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Culture+of+Tonga%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Culture+of+Tonga%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Culture+of+Tonga%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Culture+of+Tonga%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Culture+of+Tonga%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> <small class="date-container"><i>(<span class="date">August 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a href="/wiki/File:Kailao.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kailao.jpg/300px-Kailao.jpg" decoding="async" width="300" height="153" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kailao.jpg/450px-Kailao.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kailao.jpg/600px-Kailao.jpg 2x" data-file-width="766" data-file-height="390"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Kailao.jpg" class="internal" title="Enlarge"></a>
+         </div>Tonga College students performing a traditional <a href="/wiki/Kailao" title="Kailao">Kailao</a> dance.
+        </div>
+       </div>
+      </div> 
+      <style data-mw-deduplicate="TemplateStyles:r1003042402">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%}.mw-parser-output .sidebar a{white-space:nowrap}.mw-parser-output .sidebar-wraplinks a{white-space:normal}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding-bottom:0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em 0}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding-top:0.2em;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding-top:0.4em;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.4em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding-top:0}.mw-parser-output .sidebar-image{padding:0.2em 0 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em}.mw-parser-output .sidebar-content{padding:0 0.1em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.4em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%}.mw-parser-output .sidebar-collapse .sidebar-navbar{padding-top:0.6em}.mw-parser-output .sidebar-collapse .mw-collapsible-toggle{margin-top:0.2em}.mw-parser-output .sidebar-list-title{text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none;margin-left:0!important;margin-right:0!important}}</style>
+      <table class="sidebar sidebar-collapse vertical-navbox nomobile hlist">
+       <tbody>
+        <tr>
+         <td class="sidebar-pretitle">Part of <a href="/wiki/Category:Tonga" title="Category:Tonga">a series</a> on the</td>
+        </tr>
+        <tr>
+         <th class="sidebar-title-with-pretitle" style="border-bottom: 1px solid #aaa"><span class="wraplinks"><a class="mw-selflink selflink">Culture of Tonga</a></span></th>
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/History_of_Tonga" title="History of Tonga">History</a></th>
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Languages_of_Tonga" class="mw-redirect" title="Languages of Tonga">Languages</a></th>
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Religion_in_Tonga" title="Religion in Tonga">Religion</a></th>
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Literature_of_Tonga" class="mw-redirect" title="Literature of Tonga">Literature</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Music and performing arts
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Music_of_Tonga" title="Music of Tonga">Music</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <th class="sidebar-heading"> <a href="/wiki/Sport_in_Tonga" title="Sport in Tonga">Sport</a></th>
+        </tr>
+        <tr>
+         <td class="sidebar-content"> 
+          <div class="sidebar-list mw-collapsible mw-collapsed">
+           <div class="sidebar-list-title" style="text-align: center">
+            Symbols
+           </div>
+           <div class="sidebar-list-content mw-collapsible-content"> 
+            <ul>
+             <li><a href="/wiki/Flag_of_Tonga" title="Flag of Tonga">Flag</a></li> 
+             <li><a href="/wiki/Coat_of_arms_of_Tonga" title="Coat of arms of Tonga">Coat of arms</a></li>
+            </ul>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td class="sidebar-navbar"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+          <div class="navbar plainlinks hlist navbar-mini">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Culture_of_Tonga" title="Template:Culture of Tonga"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Culture_of_Tonga" title="Template talk:Culture of Tonga"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Culture_of_Tonga&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>The Tongan archipelago has been inhabited for perhaps 3000 years, since settlement in late <a href="/wiki/Lapita" class="mw-redirect" title="Lapita">Lapita</a> times. The <a href="/wiki/Culture" title="Culture">culture</a> of its inhabitants has surely changed greatly over this long time period. Before the arrival of European explorers in the late 17th and early 18th centuries, the Tongans were in frequent contact with their nearest Oceanic neighbors, <a href="/wiki/Fiji" title="Fiji">Fiji</a> and <a href="/wiki/Samoa" title="Samoa">Samoa</a>. In the 19th century, with the arrival of Western traders and missionaries, Tongan culture changed dramatically. Some old beliefs and habits were thrown away and others adopted. Some accommodations made in the 19th century and early 20th century are now being challenged by changing Western civilization. Hence <b>Tongan culture</b> is far from a unified or monolithic affair, and Tongans themselves may differ strongly as to what it is "Tongan" to do, or not do. </p>
+      <p>Contemporary Tongans often have strong ties to overseas lands. They may have been migrant workers in <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>, or have lived and traveled in New Zealand, <a href="/wiki/Australia" title="Australia">Australia</a>, or the <a href="/wiki/United_States" title="United States">United States</a>. Many Tongans now live overseas, in a Tongan <a href="/wiki/Diaspora" title="Diaspora">diaspora</a>, and send home remittances to family members (often aged) who prefer to remain in <a href="/wiki/Tonga" title="Tonga">Tonga</a>. Tongans themselves often have to operate in two different contexts, which they often call <i>anga fakatonga</i>, the traditional Tongan way, and <i>anga fakapālangi</i>, the Western way. A culturally adept Tongan learns both sets of rules and when to switch between them. </p>
+      <p>Any description of Tongan culture that limits itself to what Tongans see as <i>anga fakatonga</i> would give a seriously distorted view of what people actually do, in Tonga, or in diaspora, because accommodations are so often made to <i>anga fakapālangi</i>. The following account tries to give both the idealized and the on-the-ground versions of <i>Tongan culture</i>. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Livelihood"><span class="tocnumber">1</span> <span class="toctext">Livelihood</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Kinship"><span class="tocnumber">2</span> <span class="toctext">Kinship</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Life_passages"><span class="tocnumber">3</span> <span class="toctext">Life passages</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-4"><a href="#Male_circumcision"><span class="tocnumber">3.1</span> <span class="toctext">Male circumcision</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#First_menstruation_(Menarche)"><span class="tocnumber">3.2</span> <span class="toctext">First menstruation (Menarche)</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#Death"><span class="tocnumber">3.3</span> <span class="toctext">Death</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Crime"><span class="tocnumber">4</span> <span class="toctext">Crime</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#Art"><span class="tocnumber">5</span> <span class="toctext">Art</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-9"><a href="#Literature"><span class="tocnumber">5.1</span> <span class="toctext">Literature</span></a> 
+           <ul> 
+            <li class="toclevel-3 tocsection-10"><a href="#Modern_poetry_and_short_stories"><span class="tocnumber">5.1.1</span> <span class="toctext">Modern poetry and short stories</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-2 tocsection-11"><a href="#Traditional_women's_crafts"><span class="tocnumber">5.2</span> <span class="toctext">Traditional women's crafts</span></a> 
+           <ul> 
+            <li class="toclevel-3 tocsection-12"><a href="#Mat-weaving"><span class="tocnumber">5.2.1</span> <span class="toctext">Mat-weaving</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-2 tocsection-13"><a href="#Traditional_men's_crafts"><span class="tocnumber">5.3</span> <span class="toctext">Traditional men's crafts</span></a> 
+           <ul> 
+            <li class="toclevel-3 tocsection-14"><a href="#Wood_carving"><span class="tocnumber">5.3.1</span> <span class="toctext">Wood carving</span></a></li> 
+            <li class="toclevel-3 tocsection-15"><a href="#Canoe-building"><span class="tocnumber">5.3.2</span> <span class="toctext">Canoe-building</span></a></li> 
+            <li class="toclevel-3 tocsection-16"><a href="#Traditional_architecture"><span class="tocnumber">5.3.3</span> <span class="toctext">Traditional architecture</span></a></li> 
+            <li class="toclevel-3 tocsection-17"><a href="#Tattooing"><span class="tocnumber">5.3.4</span> <span class="toctext">Tattooing</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-2 tocsection-18"><a href="#Domestication_of_Western_arts_and_crafts"><span class="tocnumber">5.4</span> <span class="toctext">Domestication of Western arts and crafts</span></a> 
+           <ul> 
+            <li class="toclevel-3 tocsection-19"><a href="#Western_textile_arts"><span class="tocnumber">5.4.1</span> <span class="toctext">Western textile arts</span></a></li> 
+            <li class="toclevel-3 tocsection-20"><a href="#Painting"><span class="tocnumber">5.4.2</span> <span class="toctext">Painting</span></a></li> 
+            <li class="toclevel-3 tocsection-21"><a href="#Coral_and_tortoise-shell_jewelry"><span class="tocnumber">5.4.3</span> <span class="toctext">Coral and tortoise-shell jewelry</span></a></li> 
+           </ul> </li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-22"><a href="#Music_and_dance"><span class="tocnumber">6</span> <span class="toctext">Music and dance</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-23"><a href="#Church_music"><span class="tocnumber">6.1</span> <span class="toctext">Church music</span></a></li> 
+          <li class="toclevel-2 tocsection-24"><a href="#Traditional_music"><span class="tocnumber">6.2</span> <span class="toctext">Traditional music</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-25"><a href="#Cuisine"><span class="tocnumber">7</span> <span class="toctext">Cuisine</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-26"><a href="#Traditional_Tongan_dishes"><span class="tocnumber">7.1</span> <span class="toctext">Traditional Tongan dishes</span></a></li> 
+          <li class="toclevel-2 tocsection-27"><a href="#Kava"><span class="tocnumber">7.2</span> <span class="toctext">Kava</span></a></li> 
+          <li class="toclevel-2 tocsection-28"><a href="#Tongan_cuisine_and_health"><span class="tocnumber">7.3</span> <span class="toctext">Tongan cuisine and health</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-29"><a href="#Clothing"><span class="tocnumber">8</span> <span class="toctext">Clothing</span></a></li> 
+        <li class="toclevel-1 tocsection-30"><a href="#Sports"><span class="tocnumber">9</span> <span class="toctext">Sports</span></a></li> 
+        <li class="toclevel-1 tocsection-31"><a href="#Religion"><span class="tocnumber">10</span> <span class="toctext">Religion</span></a></li> 
+        <li class="toclevel-1 tocsection-32"><a href="#Public_Holidays"><span class="tocnumber">11</span> <span class="toctext">Public Holidays</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-33"><a href="#Festivals"><span class="tocnumber">11.1</span> <span class="toctext">Festivals</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-34"><a href="#See_also"><span class="tocnumber">12</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-35"><a href="#Notes"><span class="tocnumber">13</span> <span class="toctext">Notes</span></a></li> 
+        <li class="toclevel-1 tocsection-36"><a href="#References"><span class="tocnumber">14</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-37"><a href="#External_links"><span class="tocnumber">15</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Livelihood">Livelihood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=1" title="Edit section: Livelihood">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Traditionally, fishing and farming have accounted for the livelihood of a majority of Tongans. The main food crops include Sweet Potatoes, Bananas, Yucca, Taro and giant Taro to name a few. Cash crops include <a href="/wiki/Squash_(plant)" class="mw-redirect" title="Squash (plant)">squash</a> and <a href="/wiki/Pumpkins" class="mw-redirect" title="Pumpkins">pumpkins</a>, which have in recent years replaced <a href="/wiki/Bananas" class="mw-redirect" title="Bananas">bananas</a> and <a href="/wiki/Copra" title="Copra">copra</a> as the largest agricultural exports. <a href="/wiki/Vanilla" title="Vanilla">Vanilla</a> is another important cash crop.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Kinship">Kinship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=2" title="Edit section: Kinship">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Culture_of_Tonga&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small class="date-container"><i>(<span class="date">August 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>Men and women hold unique roles in Tongan society. A man usually holds the power and is considered the head of his household. However, a man has an obligation to care for his sister and her children. So in Tongan families one's maternal uncle, or Fa'etangata, is considered lower in ranking because of his obligation to take care of the needs of his sister and her children. In contrast, one's paternal aunt is the highest-ranking member and is referred to as mehekitanga or Fahu. Men hold power and women hold rank. In ancient Tonga one would inherit titles, land and people from their mother; after Christianity this was changed to mainly inheriting from one's father. Until recently it was Tapu (taboo) for any male that has passed puberty to be in the same room with his sister or girl cousins alone. This was done under the notion of respect or faka'apa'apa. The recent introduction of western ideas and culture has slowly made this taboo vary widely amongst Tongan families. At one time it was inappropriate for a brother and sister to even watch television together if the characters were to kiss or even flirt on screen. That is mostly relaxed in the modern age, but there are still families that will separate the boys and girls when watching TV or movies. The notion of faka'apa'apa is still strong but the meaning of it is slowly changing especially amongst the youth of the Tongan diaspora. Other key members of Tongan kinship are the 'Ulumotu'a or the oldest male in one's extended family on your father's side, they are usually called upon to be in charge of funerals and other family events. They do not outrank a Fahu but they have power to direct events. All of your maternal aunts are called your mothers, likewise your paternal uncles are your fathers. Your cousins on either side are called your brothers or sisters. Similarly if you are female, you are mother to your sister's children and if you are a male, your brother's children will refer to you as a father. </p> 
+      <h2><span class="mw-headline" id="Life_passages">Life passages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=3" title="Edit section: Life passages">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Culture_of_Tonga&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small class="date-container"><i>(<span class="date">August 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <h3><span class="mw-headline" id="Male_circumcision">Male circumcision</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=4" title="Edit section: Male circumcision">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In post-contact Tonga, newly pubescent males were kamu (<i>tefe</i>), or circumcised by cutting one slit in the foreskin, on the underside of the penis. This is a Christian practice of biblical context. Afterwards, the family held a feast for the new "man". <a href="/wiki/Circumcision" title="Circumcision">Circumcision</a> is still practiced, but it is now done informally. Sometimes it is done at home, with relatives present. More commonly a boy, or a group of boys, go to the hospital, where the operation is done under sanitary conditions. </p> 
+      <h3><span id="First_menstruation_.28Menarche.29"></span><span class="mw-headline" id="First_menstruation_(Menarche)">First menstruation (Menarche)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=5" title="Edit section: First menstruation (Menarche)">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In pre-contact Tonga, a girl's first menstruation was celebrated by a feast. This practice continued up until the mid-20th century, at which point it fell out of favor. </p> 
+      <h3><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=6" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: <a href="/wiki/Tongan_funerals" title="Tongan funerals">Tongan funerals</a>
+      </div> 
+      <p>Contemporary <a href="/wiki/Funerals" class="mw-redirect" title="Funerals">funerals</a> are large, well-attended occasions, even for Tongans who are not wealthy. Relatives gather, often traveling long distances to do so. Large amounts of <a href="/wiki/Food" title="Food">food</a> are contributed, then distributed to the crowds during and after the funeral. Funeral practices are a mix of introduced <a href="/wiki/Christianity" title="Christianity">Christian</a> rites and customs (such as a wake and a <a href="/wiki/Christian_burial" title="Christian burial">Christian burial</a>), and older indigenous customs that survive from pre-contact times. For instance, mourners wear black (a Western custom) but also wrap mats (<a href="/wiki/Ta%27ovala" class="mw-redirect" title="Ta'ovala">ta'ovala</a>) around their waist. The type and size of the mat proclaim the mourner's relationship to the deceased. </p>
+      <p>Tongan families do not necessarily compete to put on the largest, grandest funeral possible, but they do strive to show respect for the deceased by doing all that is customary. This can put great strain on the resources of the immediate family and even the extended family. Sometimes the funeral is called a <i>fakamasiva</i>, an occasion that leads to poverty. </p> 
+      <h2><span class="mw-headline" id="Crime">Crime</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=7" title="Edit section: Crime">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Culture_of_Tonga&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small class="date-container"><i>(<span class="date">August 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>Violent <a href="/wiki/Crime" title="Crime">crime</a> is limited, but increasing, and public perception associates this with returns of ethnic Tongans who have been raised overseas. A few notable cases involve young men raised since infancy in the US, whose family neglected to obtain citizenship for them and who were deported on involvement with the American justice system. At this moment<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (September 2019)">when?</span></a></i>]</sup> crime increases faster than the police force and are expected to remain a serious problem for the years to come. Increasing <a href="/wiki/Wealth" title="Wealth">wealth</a> has also increased the gap between the rich and the poor, leading to more and more <a href="/wiki/Burglaries" class="mw-redirect" title="Burglaries">burglaries</a>. </p>
+      <p>At this moment most <a href="/wiki/Prisons" class="mw-redirect" title="Prisons">prisons</a> in Tonga still abide with the old laissez-faire attitude. Usually having no fences, no iron bars and so forth, that makes it very easy for the inmates to escape. This system may be required to change, adapting for the influx of foreign born/raised <a href="/wiki/Criminals" class="mw-redirect" title="Criminals">criminals</a> who may treat such a system with contempt, alternatively a minimum/maximum security prison system may need to be developed placing escapists or repeat offenders into closed prisons, but for the moment the jailors can trust on the goodwill of the inmates. Some are glad to be in prison, not to be bothered by demanding family members. There is no social stigma on being in prison (although that may change now too), but then of course it also does not serve as a deterrent against crimes. </p>
+      <p>More troublesome are the youth offenders "schoolboys who want to have money to show off" and are apprehended in burglaries. As there are no juvenile prisons, they are to be locked up in the main prisons together with hardened criminals. For a while it was tried to confine them on <a href="/w/index.php?title=Tau_(Tongatapu)&amp;action=edit&amp;redlink=1" class="new" title="Tau (Tongatapu) (page does not exist)">Tau</a>, a small island offshore <a href="/wiki/Tongatapu" title="Tongatapu">Tongatapu</a> but that was not ideal either. </p>
+      <p>In the 1990s Chinese immigration caused resentment among the native Tongan population (especially those from <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a>, who bought a Tongan passport to get away before the Beijing takeover). Much violent crime nowadays is directed against these Chinese. </p>
+      <p>There is however a rise in violence among Tongans that have left Tonga. On March 7, 1987, a 15-year-old was fatally shot in the Disneyland parking lot. The incident began as an early morning confrontation between rival Samoan and Tongan gang members before escalating into a brawl. Another participant was convicted of second-degree murder, but the conviction was subsequently overturned by a state appellate court. </p> 
+      <h2><span class="mw-headline" id="Art">Art</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=8" title="Edit section: Art">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Culture_of_Tonga&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small class="date-container"><i>(<span class="date">August 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <h3><span class="mw-headline" id="Literature">Literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=9" title="Edit section: Literature">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <table class="box-Expand_section plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31"></a></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This section <b>needs expansion</b>. <small>You can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=">adding to it</a>.</small> <small class="date-container"><i>(<span class="date">May 2012</span>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: <a href="/wiki/Literature_of_Tonga" class="mw-redirect" title="Literature of Tonga">Literature of Tonga</a>
+      </div> 
+      <p><br> </p> 
+      <h4><span class="mw-headline" id="Modern_poetry_and_short_stories">Modern poetry and short stories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=10" title="Edit section: Modern poetry and short stories">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>The genre of short stories in Tonga is most associated with <a href="/wiki/%27Epeli_Hau%27ofa" class="mw-redirect" title="'Epeli Hau'ofa">'Epeli Hau'ofa</a>, whose most popular collection of stories, <i>Tales of the Tikong</i>, was published in 1973. <a href="/wiki/Konai_Helu_Thaman" title="Konai Helu Thaman">Konai Helu Thaman</a> was one of the country's earliest published poets.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p> 
+      <h3><span id="Traditional_women.27s_crafts"></span><span class="mw-headline" id="Traditional_women's_crafts">Traditional women's crafts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=11" title="Edit section: Traditional women's crafts">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Tapa.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Tapa.jpg/220px-Tapa.jpg" decoding="async" width="220" height="139" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Tapa.jpg/330px-Tapa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Tapa.jpg/440px-Tapa.jpg 2x" data-file-width="1280" data-file-height="806"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Tapa.jpg" class="internal" title="Enlarge"></a>
+         </div>Tongan <i>tapa</i>
+        </div>
+       </div>
+      </div> 
+      <p>In pre-contact Tonga, women did not do the cooking (cooking in an earth oven was hard, hot work, the province of men) or work in the fields. They raised children, gathered shellfish on the reef, and made <i>koloa</i>, barkcloth and mats, which were a traditional form of wealth exchanged at marriages and other ceremonial occasions. An industrious woman thus raised the social status of her household. Her family also slept soundly, on the piles of mats and barkcloth that were the traditional bedding. On sunny days, these were spread on the grass to air, which prolonged their life. </p>
+      <p>Among the typical <i>koloa</i> are: </p> 
+      <ul>
+       <li>Bark cloth, or <a href="/wiki/Tapa_cloth" title="Tapa cloth">tapa</a> (but it is called <i>ngatu</i> in Tonga).</li> 
+       <li><a href="/wiki/Mat" title="Mat">Mats</a>.</li> 
+       <li>Waist mats, called <a href="/wiki/Ta%27ovala" class="mw-redirect" title="Ta'ovala">taʻovala</a>.</li> 
+       <li>Waist girdles, called <a href="/wiki/Kiekie_(clothing)" title="Kiekie (clothing)">kiekie</a>.</li> 
+       <li>And any other type of traditional (dance) clothing.</li>
+      </ul> 
+      <h4><span class="mw-headline" id="Mat-weaving">Mat-weaving</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=12" title="Edit section: Mat-weaving">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>Woven mats serve a variety of purposes, from the ordinary to the ceremonial. Many woven mats are passed down from generation to generation, acquiring greater status with the passage of time. It is in fact a collection of these mats in the palace that forms the true crown jewels of Tonga. These royal mats are displayed only on high state occasions such as the death of a member of the royal family or the coronation of a monarch. </p> 
+      <h3><span id="Traditional_men.27s_crafts"></span><span class="mw-headline" id="Traditional_men's_crafts">Traditional men's crafts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=13" title="Edit section: Traditional men's crafts">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Tonga_war_club_1.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tonga_war_club_1.JPG/220px-Tonga_war_club_1.JPG" decoding="async" width="220" height="92" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tonga_war_club_1.JPG/330px-Tonga_war_club_1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tonga_war_club_1.JPG/440px-Tonga_war_club_1.JPG 2x" data-file-width="1179" data-file-height="492"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Tonga_war_club_1.JPG" class="internal" title="Enlarge"></a>
+         </div>Tongan war clubs like the one pictured above were presented as gifts to visiting Allied military personnel during <a href="/wiki/World_War_II" title="World War II">World War II</a>. They were also used for canoe paddles and for war dances, e.g. <a href="/wiki/Me%27etu%27upaki" class="mw-redirect" title="Me'etu'upaki">Me'etu'upaki</a>.
+        </div>
+       </div>
+      </div> 
+      <h4><span class="mw-headline" id="Wood_carving">Wood carving</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=14" title="Edit section: Wood carving">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:231px;">
+        <a href="/wiki/File:Neckrest_(kali)_LACMA_M.2008.66.15.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Neckrest_%28kali%29_LACMA_M.2008.66.15.jpg/229px-Neckrest_%28kali%29_LACMA_M.2008.66.15.jpg" decoding="async" width="229" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Neckrest_%28kali%29_LACMA_M.2008.66.15.jpg/344px-Neckrest_%28kali%29_LACMA_M.2008.66.15.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Neckrest_%28kali%29_LACMA_M.2008.66.15.jpg/458px-Neckrest_%28kali%29_LACMA_M.2008.66.15.jpg 2x" data-file-width="2100" data-file-height="1380"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Neckrest_(kali)_LACMA_M.2008.66.15.jpg" class="internal" title="Enlarge"></a>
+         </div>Kali, circa 1850, from the <a href="/wiki/LACMA" class="mw-redirect" title="LACMA">LACMA</a> collections
+        </div>
+       </div>
+      </div> 
+      <p>Before Western contact, many objects of daily use were made of carved <a href="/wiki/Wood" title="Wood">wood</a>: food bowls, head rests (<i>kali</i>), war clubs and <a href="/wiki/Spear" title="Spear">spears</a>, and <a href="/wiki/Cult" title="Cult">cult</a> images. Tongan craftsmen were skilled at inlaying pearl-shell and ivory in wood, and Tongan war clubs were treasured items in the neighboring archipelago of <a href="/wiki/Fiji" title="Fiji">Fiji</a>. </p> 
+      <h4><span class="mw-headline" id="Canoe-building">Canoe-building</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=15" title="Edit section: Canoe-building">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>Tongan craftsman were also adept at building <a href="/wiki/Canoes" class="mw-redirect" title="Canoes">canoes</a>. Many canoes for daily use were simple <i>pōpaos</i>, dug-out canoes, shaped from a single log with fire and adze and outfitted with a single outrigger. Due to a dearth of large trees suitable for building large war canoes, these canoes were often imported from Fiji. </p> 
+      <h4><span class="mw-headline" id="Traditional_architecture">Traditional architecture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=16" title="Edit section: Traditional architecture">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>The tradition Tongan <i><a href="/wiki/Architecture_of_Samoa" title="Architecture of Samoa">fale</a></i> consisted of a curved roof (branches lashed with <a href="/wiki/Sennit" title="Sennit">sennit</a> rope, or <i>kafa</i>, thatched with woven palm leaves) resting on pillars made of tree trunks. Woven screens filled in the area between the ground and the edge of the roof. The traditional design was extremely well adapted to surviving hurricanes. If the winds threatened to shred the walls and overturn the roof, the inhabitants could chop down the pillars, so that the roof fell directly onto the ground. Because the roof was curved, like a limpet shell, the wind tended to flow over it smoothly. The inhabitants could ride out the storm in relative safety. </p>
+      <p>There are many surviving examples of Tongan stone architecture, notably the <a href="/wiki/Ha%27amonga_%27a_Maui" class="mw-redirect" title="Ha'amonga 'a Maui">Haʻamonga ʻa Maui</a> and mound tombs (<a href="/wiki/Langi_(burial)" class="mw-redirect" title="Langi (burial)">langi</a>) near <a href="/wiki/Lapaha" class="mw-redirect" title="Lapaha">Lapaha</a>, <a href="/wiki/Tongatapu" title="Tongatapu">Tongatapu</a>. And so several on other islands. Archaeologists have dated them hundreds to a thousand years old. </p> 
+      <h4><span class="mw-headline" id="Tattooing">Tattooing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=17" title="Edit section: Tattooing">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>Tongan males were often heavily tattooed. In <a href="/wiki/Captain_Cook" class="mw-redirect" title="Captain Cook">Captain Cook</a>'s time only the <a href="/wiki/Tu%27i_Tonga" class="mw-redirect" title="Tu'i Tonga">Tuʻi Tonga</a> (king) was not: because he was too high ranked for anybody to touch him. Later it became the habit that a young Tuʻi Tonga went to <a href="/wiki/Samoa" title="Samoa">Samoa</a> to be tattooed there. </p>
+      <p>The practice of <a href="/w/index.php?title=Tatatau&amp;action=edit&amp;redlink=1" class="new" title="Tatatau (page does not exist)">Tātatau</a> disappeared under heavy missionary disapproval, but was never completely suppressed. It is still very common for men (less so, but still some for women), to be decorated with some small tattoos. Nevertheless, tattoos shows one's strength. <a href="/wiki/Tattoos" class="mw-redirect" title="Tattoos">Tattoos</a> also tell a story. </p> 
+      <h3><span class="mw-headline" id="Domestication_of_Western_arts_and_crafts">Domestication of Western arts and crafts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=18" title="Edit section: Domestication of Western arts and crafts">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <h4><span class="mw-headline" id="Western_textile_arts">Western textile arts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=19" title="Edit section: Western textile arts">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>Tonga has evolved its own version of Western-style clothing, consisting of a long <a href="/wiki/Tupenu" title="Tupenu">tupenu</a>, or sarong, for women, and a short tupenu for men. Women cover the tupenu with a <i>kofu</i>, or Western-style dress; men top the tupenu either with a T-shirt, a Western casual shirt, or on formal occasions, a dress shirt and a suit coat. Preachers in some Methodist sects still wear long <a href="/wiki/Frock_coat" title="Frock coat">frock coats</a>, a style that has not been current in the West for more than a hundred years. These coats must be tailored locally. </p>
+      <p>Tongan outfits are often assembled from used Western clothing (for the top) mixed with a length of cloth purchased locally for the tupenu. Used clothing can be found for sale at local markets, or can be purchased overseas and mailed home by relatives. </p>
+      <p>Some women have learned to sew and own sewing machines (often antique treadle machines). They do simple home-sewing of shirts, kofu, and school uniforms. </p>
+      <p>Nukuʻalofa, the capital, supports several tailoring shops. They tailor tupenu and suitcoats for Tongan men, and matching tupenu and kofu for Tongan women. The women's outfits may be decorated with simple blockprint patterns on the hems. </p>
+      <p>There is also some local production of knit jerseys by Tongans operating imported sergers. They produce on speculation and sell at the Nukuʻalofa market. </p>
+      <p>Women who attend the Wesleyan Methodist girls' school, Queen Sālote College, are taught several Western handicrafts, such as embroidery and crochet. They learn to make embroidered pillowcases and bed coverings or crocheted lace <a href="/wiki/Tablecloth" title="Tablecloth">tablecloths</a>, bedcovers, and lace trim. However, Western-style handicrafts such as these have not become widely popular outside the school setting. They require expensive imported materials that can only be purchased in major towns. Village women are much more likely to turn their efforts to weaving mats or beating barkcloth, which can be done with free local material. </p> 
+      <h4><span class="mw-headline" id="Painting">Painting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=20" title="Edit section: Painting">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>A few Tongan village churches are decorated with freehand murals or decorations done in house paint, which may mix crosses, flowers, and traditional barkcloth motifs. The practice is uncommon and the execution is always crude. </p> 
+      <h4><span class="mw-headline" id="Coral_and_tortoise-shell_jewelry">Coral and tortoise-shell jewelry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=21" title="Edit section: Coral and tortoise-shell jewelry">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>In the 1970s there was a small factory near Nukuʻalofa that made simple jewelry from coral and tortoise-shell for sale to Western tourists. It is not clear if this factory is still operating. The government may have protected sea-turtles and corals (as has been done in most other countries) and ended this line of manufacture. </p> 
+      <h2><span class="mw-headline" id="Music_and_dance">Music and dance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=22" title="Edit section: Music and dance">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Culture_of_Tonga&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small class="date-container"><i>(<span class="date">August 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: <a href="/wiki/Music_of_Tonga" title="Music of Tonga">Music of Tonga</a>
+      </div> 
+      <p>Scholars know relatively little about the music of Tonga as it existed before Tonga was encountered by European explorers. Early visitors, such as <a href="/wiki/Captain_Cook" class="mw-redirect" title="Captain Cook">Captain Cook</a> and the invaluable <a href="/wiki/William_Mariner_(writer)" title="William Mariner (writer)">William Mariner</a>, note only the singing and drumming during traditional dance performances. Scholars can assume the existence of the <a href="/wiki/Lali_(drum)" title="Lali (drum)">lali</a> or <a href="/wiki/Slit-gong" class="mw-redirect" title="Slit-gong">slit-gong</a>, and the <a href="/wiki/Nose_flute" title="Nose flute">nose flute</a>, as these survived to later times. Traditional songs, passed down over the generations, are still sung at chiefly ceremonies. Some ancient dances are still performed, such as <a href="/wiki/Ula_(dance)" title="Ula (dance)">ula</a>, <a href="/wiki/%27otuhaka" class="mw-redirect" title="'otuhaka">ʻotuhaka</a> and <a href="/wiki/Me%27etu%27upaki" class="mw-redirect" title="Me'etu'upaki">meʻetuʻupaki</a>. </p> 
+      <h3><span class="mw-headline" id="Church_music">Church music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=23" title="Edit section: Church music">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p><a href="/wiki/Methodists" class="mw-redirect" title="Methodists">Methodists</a> were known for their extensive use of hymns in their emotional services. True to their tradition, the early missionaries introduced hymn-singing to their congregations. These early hymns—still sung today in some of the Methodist sects, such as the <a href="/wiki/Free_Church_of_Tonga" title="Free Church of Tonga">Free Church of Tonga</a> and the <a href="/wiki/Church_of_Tonga" title="Church of Tonga">Church of Tonga</a> - have Tongan tunes and simple, short Tongan lyrics. There is a special <a href="/wiki/Tongan_music_notation" title="Tongan music notation">Tongan music notation</a> for these, and other, musics. </p> 
+      <h3><span class="mw-headline" id="Traditional_music">Traditional music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=24" title="Edit section: Traditional music">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Traditional music is preserved in the set pieces performed at royal and noble weddings and funerals, and in the song sung during the traditional ceremony of apology, the lou-ifi. <a href="/wiki/Radio_Tonga" title="Radio Tonga">Radio Tonga</a> begins each day's broadcast with a recording from Honourable Veʻehala, a nobleman and celebrated virtuoso of the nose flute. This music is not popular music; it is a cherished heirloom, preserved by specialists and taught as needed for special occasions. </p> 
+      <h2><span class="mw-headline" id="Cuisine">Cuisine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=25" title="Edit section: Cuisine">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Culture_of_Tonga&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small class="date-container"><i>(<span class="date">August 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       See also: <a href="/wiki/List_of_Oceanian_cuisines" class="mw-redirect" title="List of Oceanian cuisines">List of Oceanian cuisines</a>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a href="/wiki/File:Tupenu02.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/95/Tupenu02.JPG/200px-Tupenu02.JPG" decoding="async" width="200" height="189" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/95/Tupenu02.JPG/300px-Tupenu02.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/95/Tupenu02.JPG/400px-Tupenu02.JPG 2x" data-file-width="1008" data-file-height="952"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Tupenu02.JPG" class="internal" title="Enlarge"></a>
+         </div>Women cooking <i>topai</i> for mourners.
+        </div>
+       </div>
+      </div> 
+      <p>In former times, there was only one main meal, a midday meal cooked in an earth oven. Villagers would rise, eat some leftover food from the previous day's meal, and set out to work in the fields, <a href="/wiki/Fishing" title="Fishing">fishing</a>, gathering <a href="/wiki/Shellfish" title="Shellfish">shellfish</a>, etc. The results of the morning's work would be cooked by the men, and served to the assembled household. The remnants would be placed in a basket suspended from a tree. This food is served as an end-of-the-day snack as well as the next day's breakfast. Food past its prime was given to the pigs. </p>
+      <p>The diet consisted mainly of <a href="/wiki/Taro" title="Taro">taro</a>, <a href="/wiki/Oxalis_tuberosa" title="Oxalis tuberosa">yams</a>, <a href="/wiki/Bananas" class="mw-redirect" title="Bananas">bananas</a>, <a href="/wiki/Coconuts" class="mw-redirect" title="Coconuts">coconuts</a>, and <a href="/wiki/Fish" title="Fish">fish</a> baked in leaves; shellfish were usually served raw, as a <a href="/wiki/Relish" title="Relish">relish</a>. The liquid from the center of coconuts was commonly drunk, and the soft "spoon meat" of young coconuts much relished. Baked <a href="/wiki/Breadfruit" title="Breadfruit">breadfruit</a> was eaten in season. <a href="/wiki/Pigs" class="mw-redirect" title="Pigs">Pigs</a> were killed and cooked only on special occasions, such as <a href="/wiki/Weddings" class="mw-redirect" title="Weddings">weddings</a>, <a href="/wiki/Funerals" class="mw-redirect" title="Funerals">funerals</a>, <a href="/wiki/Feasts" class="mw-redirect" title="Feasts">feasts</a> honoring a visiting chief, and the like. Tongans also ate <a href="/wiki/Chickens" class="mw-redirect" title="Chickens">chickens</a>. </p>
+      <p>Food could be stored by feeding it to pigs. Pre-contact Tongans also built elevated storehouses for yams. Yams would keep only a few months. Hence a household's main security was generous distribution of food to relatives and neighbors, who were thus put under an obligation to share in their turn. </p>
+      <p>Many new foods were introduced in the 19th and early 20th centuries, following Western contacts and settlements. The <a href="/wiki/Cassava" title="Cassava">cassava</a> plant was one such introduction; it is called <i>manioke</i> in Tongan. While it lacks the prestige of the yam, it is an easy plant to grow and a common crop. Introduced <a href="/wiki/Watermelons" class="mw-redirect" title="Watermelons">watermelons</a> became popular. They were eaten either by themselves, or pulped and mixed with <a href="/wiki/Coconut_milk" title="Coconut milk">coconut milk</a>, forming a popular drink called <i><a href="/wiki/%27otai" title="'otai">'otai</a></i>. Other fruits, such as <a href="/wiki/Orange_(fruit)" title="Orange (fruit)">oranges</a>, <a href="/wiki/Lemon" title="Lemon">lemons</a>, and <a href="/wiki/Lime_(fruit)" title="Lime (fruit)">limes</a>, became popular. Tongans also adopted <a href="/wiki/Onion" title="Onion">onions</a>, <a href="/wiki/Scallion" title="Scallion">green onions</a>, <a href="/wiki/Cabbage" title="Cabbage">cabbage</a>, <a href="/wiki/Carrot" title="Carrot">carrots</a>, <a href="/wiki/Tomato" title="Tomato">tomatoes</a>, and other common vegetables. In the last few decades, Tongan farmers with access to large tracts of land have engaged in commercial farming of <a href="/wiki/Pumpkin" title="Pumpkin">pumpkins</a> and other easily shipped vegetables as cash crops. </p>
+      <p>Tongans now consume large quantities of imported <a href="/wiki/Flour" title="Flour">flour</a> and <a href="/wiki/Sugar" title="Sugar">sugar</a>. One dish that uses both is <i>topai</i> (doughboys), flour and water worked into a paste and dropped into a kettle of boiling water, then served with a <a href="/wiki/Syrup" title="Syrup">syrup</a> of sugar and coconut milk. Topai are a common funeral food, being easily prepared for hundreds of mourners. </p>
+      <p>There are now bakeries in the larger cities. The most popular loaves are soft, white, and bland. There are also local soft drink bottlers, who make various local varieties of <a href="/wiki/Soft_drink" title="Soft drink">soda</a>. A Tongan who might once have breakfasted on bits of cooked <a href="/wiki/Pork" title="Pork">pork</a> and yam from a hanging basket may now have <a href="/wiki/White_bread" title="White bread">white bread</a> and soda for breakfast. </p>
+      <p>Purchased prepared foods have also made great headway, even in remote villages. Canned <a href="/wiki/Cornbeef" class="mw-redirect" title="Cornbeef">cornbeef</a> is a great favorite. It is eaten straight from the can, or mixed with coconut milk and onions, wrapped in leaves, and baked in the earth oven. Tongans also eat canned fish, such as <a href="/wiki/Tuna" title="Tuna">tuna</a>. In villages or towns with refrigeration, cheap frozen "<a href="/wiki/Mutton_flaps" title="Mutton flaps">mutton flaps</a>" imported from New Zealand are popular. Tongans also eat the common South Pacific "ship's biscuit", hard plain <a href="/wiki/Cracker_(food)" title="Cracker (food)">crackers</a> once a shipboard staple. These crackers are called <i>mā pakupaku</i>. </p>
+      <p>Tongans no longer make an earth oven every day. Most daily cooking is done by women, who cook in battered pots over open fires in the village, in wood-burning stoves in some households, and on gas or electric ranges in some of the larger towns. The meal schedule has also changed, to more Westernized breakfast, light lunch, and heavy dinner. Tongans say that the old schedule is unworkable when household members have Western-style jobs, or attend schools at some distance from home; such family members cannot come home to eat, then have a doze after a heavy mid-day meal. </p>
+      <p>As well as drinking soda, Tongans now drink <a href="/wiki/Tea" title="Tea">tea</a> and <a href="/wiki/Coffee" title="Coffee">coffee</a>. Usually this is of the cheapest variety, and served with tinned <a href="/wiki/Condensed_milk" title="Condensed milk">condensed milk</a>. </p>
+      <p>Some men drink <a href="/wiki/Alcohol_(drug)" title="Alcohol (drug)">alcohol</a>. Sometimes this is imported Australian or New Zealand <a href="/wiki/Beer" title="Beer">beer</a>; more often it is home-brew, <i><a href="/wiki/Hopi" title="Hopi">hopi</a></i>, made with <a href="/wiki/Water" title="Water">water</a>, sugar or mashed <a href="/wiki/Fruit" title="Fruit">fruit</a>, and <a href="/wiki/Yeast" title="Yeast">yeast</a>. Imported drinks are sold only to Tongans who have liquor permits, which require a visit to a government office, and limit the amount of alcohol which can be purchased. There are no such formalities with <i>hopi</i>. Drinking is usually done secretively; a group of men gather and drink until they are drunk. Such gatherings sometimes result in drunken quarrels and assaults. </p> 
+      <h3><span class="mw-headline" id="Traditional_Tongan_dishes">Traditional Tongan dishes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=26" title="Edit section: Traditional Tongan dishes">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li><a href="/wiki/L%C5%AB" class="mw-redirect" title="Lū">Lū</a></li> 
+       <li><a href="/wiki/%27otai" title="'otai">'otai</a></li> 
+       <li><a href="/wiki/%27Ota_%27ika" title="'Ota 'ika">'ota ika</a></li> 
+       <li><a href="/w/index.php?title=Vai_siaine&amp;action=edit&amp;redlink=1" class="new" title="Vai siaine (page does not exist)">Vai siaine</a></li>
+      </ul> 
+      <h3><span class="mw-headline" id="Kava">Kava</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=27" title="Edit section: Kava">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       See also: <a href="/wiki/Kava_culture" title="Kava culture">Kava culture</a>
+      </div> 
+      <p>The drinking of <a href="/wiki/Kava" title="Kava">kava</a> by men at kava clubs is somewhat equal to drinking beers in the bar in western cultures. However formal kava drinking is an important and intrinsic part of Tonga culture. </p> 
+      <h3><span class="mw-headline" id="Tongan_cuisine_and_health">Tongan cuisine and health</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=28" title="Edit section: Tongan cuisine and health">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Tonga is notable for its high obesity rates with over 90% of the population being overweight. Consequently, many Tongan islanders have an increased risk of <a href="/wiki/Heart_disease" class="mw-redirect" title="Heart disease">heart disease</a>, <a href="/wiki/Diabetes" title="Diabetes">diabetes</a> and other obesity related diseases which place the nation's health service under considerable strain.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Much of this is related to the nation's cultural love of food and eating as well as the modern influx of cheap and high-fat content <a href="/wiki/Meat" title="Meat">meat</a>, with <a href="/wiki/Corned_beef" title="Corned beef">corned beef</a> and <a href="/wiki/Lamb_(meat)" class="mw-redirect" title="Lamb (meat)">lamb</a> belly remaining firm favourites in Tongan cuisine. Despite being a highly obese population, there is little stigma attached to being overweight as one might find in many Western civilizations. Like a great number of South Pacific cultures, large bodies are often revered,<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The reason for this is unclear. (April 2014)">why?</span></a></i>]</sup> though there is growing acknowledgment of the health risks involved. </p> 
+      <h2><span class="mw-headline" id="Clothing">Clothing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=29" title="Edit section: Clothing">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Culture_of_Tonga&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small class="date-container"><i>(<span class="date">August 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a href="/wiki/File:Tupenu01.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/10/Tupenu01.JPG/200px-Tupenu01.JPG" decoding="async" width="200" height="175" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/10/Tupenu01.JPG/300px-Tupenu01.JPG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/10/Tupenu01.JPG/400px-Tupenu01.JPG 2x" data-file-width="870" data-file-height="763"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Tupenu01.JPG" class="internal" title="Enlarge"></a>
+         </div>Children dressed in their best for a church festival. The boys are wearing <a href="/wiki/Tupenu" title="Tupenu">tupenu</a> and <a href="/wiki/Ta%27ovala" class="mw-redirect" title="Ta'ovala">ta'ovala</a>.
+        </div>
+       </div>
+      </div> 
+      <p>Tongan men wear a <a href="/wiki/Tupenu" title="Tupenu">tupenu</a>, a cloth that is similar to a <a href="/wiki/Sarong" title="Sarong">sarong</a>, which is wrapped around the waist. It should be long enough to cover the knees or the shins of the legs. In daily life, any <a href="/wiki/Shirt" title="Shirt">shirt</a> (T-shirt, jersey, woven shirt) will do to top the tupenu. Usually shirts are used clothing imported from overseas. Some men will go shirtless working on their plantations, but by law they are not allowed to go shirtless in public. </p>
+      <p>On formal occasions a <a href="/wiki/Ta%27ovala" class="mw-redirect" title="Ta'ovala">taʻovala</a>, a woven mat, is worn over the tupenu. It is wrapped around the waist and secured with a <a href="/wiki/Coir" title="Coir">kafa</a> rope. The tupenu may be smartly tailored and have a matching suit jacket. If a man cannot afford to have a suit tailored to fit him, he will buy a used Western <a href="/wiki/Jacket" title="Jacket">jacket</a>, or wear a threadbare jacket inherited from an older relative. </p>
+      <p>Women too wear a tupenu, but a long one which should reach to the ankles. They sometimes wear a shorter tupenu for working in the house or picking shellfish on the reef. The tupenu is usually topped with a <i><a href="/w/index.php?title=Kofu_(clothing)&amp;action=edit&amp;redlink=1" class="new" title="Kofu (clothing) (page does not exist)">kofu</a></i>, or dress. This may be sewn to order, or it may be an imported used dress. Sometimes women wear blouses or jerseys. </p>
+      <p>On formal occasions women too wear a taʻovala, or more often a <a href="/wiki/Kiekie_(clothing)" title="Kiekie (clothing)">kiekie</a>, a string skirt attached to a waistband. It is lighter and cooler than a mat. Kiekie are made from many different materials, from the traditional (pandanus leaves, as used in mats) to the innovative (unspooled magnetic tape from tape cassettes). </p>
+      <p>Huge taʻovala are worn at <a href="/wiki/Funerals" class="mw-redirect" title="Funerals">funerals</a>. </p>
+      <p>The largest Methodist church holds a yearly celebration for the women of the congregation. Churches hold special church services to which women wear white clothing. All the Methodist churches have adopted the Western custom of women wearing <a href="/wiki/Hat" title="Hat">hats</a> to church. Only women who have been admitted to the congregation can wear hats; those denied admittance (because they are still young, or because they are considered to be living immoral lives) are only "inquirers" and go hatless. </p>
+      <p>More and more Tongan men are abandoning the traditional tupenu for <a href="/wiki/Trousers" title="Trousers">trousers</a>, at least when it comes to working in the fields. Women can be innovative in terms of color and cut within the context of the traditional kofu/tupenu combination. </p> 
+      <h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=30" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Culture_of_Tonga&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small class="date-container"><i>(<span class="date">August 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:252px;">
+        <a href="/wiki/File:France_vs_Tonga_2011_RWC_(5).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/France_vs_Tonga_2011_RWC_%285%29.jpg/250px-France_vs_Tonga_2011_RWC_%285%29.jpg" decoding="async" width="250" height="108" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/France_vs_Tonga_2011_RWC_%285%29.jpg/375px-France_vs_Tonga_2011_RWC_%285%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/France_vs_Tonga_2011_RWC_%285%29.jpg/500px-France_vs_Tonga_2011_RWC_%285%29.jpg 2x" data-file-width="3516" data-file-height="1520"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:France_vs_Tonga_2011_RWC_(5).jpg" class="internal" title="Enlarge"></a>
+         </div>France vs. Tonga at the <a href="/wiki/2011_Rugby_World_Cup" title="2011 Rugby World Cup">2011 Rugby World Cup</a>.
+        </div>
+       </div>
+      </div> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: <a href="/wiki/Sport_in_Tonga" title="Sport in Tonga">Sport in Tonga</a>
+      </div> 
+      <p><a href="/wiki/Rugby_union" title="Rugby union">Rugby union</a> is the national sport in Tonga. The nation has a <a href="/wiki/Tonga_national_rugby_union_team" title="Tonga national rugby union team">national rugby union team</a>, which played in the <a href="/wiki/1987_Rugby_Union_World_Cup" class="mw-redirect" title="1987 Rugby Union World Cup">1987</a>, <a href="/wiki/1995_Rugby_Union_World_Cup" class="mw-redirect" title="1995 Rugby Union World Cup">1995</a>, <a href="/wiki/1999_Rugby_Union_World_Cup" class="mw-redirect" title="1999 Rugby Union World Cup">1999</a>, <a href="/wiki/2003_Rugby_Union_World_Cup" class="mw-redirect" title="2003 Rugby Union World Cup">2003</a>, 2007 <a href="/wiki/Rugby_World_Cup" title="Rugby World Cup">Rugby World Cup</a> and the 2015 competitions. Though Tongans are passionate rugby followers, the small population base means that internationally, Tongan rugby continually struggles. Often, young talent emigrate to countries which offer greater prospects of individual success such as <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a> and <a href="/wiki/Australia" title="Australia">Australia</a>. Some notable rugby union players of Tongan descent include <a href="/wiki/Jonah_Lomu" title="Jonah Lomu">Jonah Lomu</a> (played for the All Blacks) and <a href="/wiki/Toutai_Kefu" title="Toutai Kefu">Toutai Kefu</a> (plays for Australian Wallaby). </p>
+      <p><a href="/wiki/Rugby_league" title="Rugby league">Rugby league</a> is a popular sport enjoyed by Tongans. <a href="/wiki/Association_football" title="Association football">Football</a> has a following, while <a href="/wiki/Judo" title="Judo">judo</a>, <a href="/wiki/Surfing" title="Surfing">surfing</a>, <a href="/wiki/Volleyball" title="Volleyball">volleyball</a>, and <a href="/wiki/Cricket" title="Cricket">cricket</a> have gained popularity in recent years. </p> 
+      <h2><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=31" title="Edit section: Religion">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Culture_of_Tonga&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small class="date-container"><i>(<span class="date">August 2020</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a href="/wiki/File:Saione.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Saione.jpg/200px-Saione.jpg" decoding="async" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Saione.jpg/300px-Saione.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Saione.jpg/400px-Saione.jpg 2x" data-file-width="1280" data-file-height="960"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Saione.jpg" class="internal" title="Enlarge"></a>
+         </div>A church in <a href="/wiki/Kolomotu%27a" class="mw-redirect" title="Kolomotu'a">Kolomotu'a</a>, Tonga.
+        </div>
+       </div>
+      </div> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main articles: <a href="/wiki/Religion_in_Tonga" title="Religion in Tonga">Religion in Tonga</a>, <a href="/wiki/Tongan_religion" title="Tongan religion">Tongan religion</a>, and <a href="/wiki/The_Mormon_Church" class="mw-redirect" title="The Mormon Church">The Mormon Church</a>
+      </div> 
+      <p>The king and the majority of the royal family are members of the <a href="/wiki/Free_Wesleyan_Church" class="mw-redirect" title="Free Wesleyan Church">Free Wesleyan Church</a> (<a href="/wiki/Methodist" class="mw-redirect" title="Methodist">Methodist</a>) which claims some 40,000 adherents in the country. There are four other Methodist denominations in the country, as well as a number of (much smaller) <a href="/wiki/Pentecostalism" title="Pentecostalism">Pentecostal</a> and <a href="/w/index.php?title=Evangelicalist&amp;action=edit&amp;redlink=1" class="new" title="Evangelicalist (page does not exist)">Evangelicalist</a> congregations. <a href="/wiki/Roman_Catholic_Church" class="mw-redirect" title="Roman Catholic Church">Roman Catholic Church</a> and each have a strong presence in the country as well. There is a small <a href="/wiki/Seventh-day_Adventist_Church" title="Seventh-day Adventist Church">Seventh-day Adventist Church</a> group, an <a href="/wiki/Anglicanism" title="Anglicanism">Anglican</a> church, and a few adherents of the <a href="/wiki/Bah%C3%A1%27%C3%AD_Faith_in_Tonga" class="mw-redirect" title="Bahá'í Faith in Tonga">Bahá'í Faith in Tonga</a>. There are even some Tongan <a href="/wiki/Islam" title="Islam">Muslims</a>. </p>
+      <p>Tongans are ardent churchgoers. Methodist services usually follow a call and response structure. Singing in the church is often done <a href="/wiki/A_cappella" title="A cappella">a cappella</a>. Although church attends primarily to the spiritual needs of the population, it also functions as the primary social hub. As consequence people who go to a church of another denomination are absolutely not <a href="/wiki/Shunning" title="Shunning">shunned</a>. </p>
+      <p>Sunday in Tonga is celebrated as a day for rest and worship; strict <a href="/wiki/Sabbath_in_Christianity" title="Sabbath in Christianity">Sabbatarianism</a> is enshrined in the constitution. No trade is allowed on Sunday, except essential services, after special approval by the minister of police. Lawbreakers risk a fine or imprisonment. </p> 
+      <h2><span class="mw-headline" id="Public_Holidays">Public Holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=32" title="Edit section: Public Holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Some Tongan holidays are based upon the Christian faith, which include <a href="/wiki/Easter" title="Easter">Easter</a> with its preceding Friday and following Monday and both <a href="/wiki/Christmas" title="Christmas">Christmas</a> days (but not Pentecost, Ascuncion, etc.). Tonga also celebrates <a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> on January 1 and <a href="/wiki/Anzac_Day" title="Anzac Day">Anzac Day</a> on April 25. Tonga's unique holidays are: Emancipation day on June 4, Crownprince's birthday on July 12, the King's official birth- and coronation day on August (which is celebrated with the consumption of African cuisine),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> National Tonga day on November 4 (formerly known as Constitution day) and King <a href="/wiki/George_Tupou_I" title="George Tupou I">George Tupou I</a>'s installation as <a href="/wiki/Tu%27i_Kanokupolu" class="mw-redirect" title="Tu'i Kanokupolu">Tuʻi Kanokupolu</a> on December 4, often misnamed as his birthday. Since the promulgation of new holidays on December 6, 2006,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> May 4 and July 4 are no longer public holidays. </p> 
+      <h3><span class="mw-headline" id="Festivals">Festivals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=33" title="Edit section: Festivals">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Popular Tongan festivals included (new scheme still to be established since the change of public holidays): </p> 
+      <ul>
+       <li>Heilala Festival Week (around 8 July)</li> 
+       <li><a href="/wiki/Vava%27u" class="mw-redirect" title="Vava'u">Vavaʻu</a> Festival Week (around 8 May)</li> 
+       <li><a href="/wiki/Ha%27apai" class="mw-redirect" title="Ha'apai">Haʻapai</a> Tourism Festival (around 8 June)</li> 
+       <li>Royal Agricultural and Industrial Show (triennial, August - September)</li> 
+       <li><a href="/wiki/%27Eua" class="mw-redirect" title="'Eua">ʻEua</a> Tourism Festival (around 8 May)</li>
+      </ul> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=34" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/List_of_museums_in_Tonga" title="List of museums in Tonga">List of museums in Tonga</a></li> 
+       <li><a href="/wiki/Outline_of_Tonga" title="Outline of Tonga">Outline of Tonga</a></li> 
+       <li><a href="/wiki/Demographics_of_Tonga" title="Demographics of Tonga">Demographics of Tonga</a></li> 
+       <li><a href="/wiki/Makafeke" title="Makafeke">Makafeke</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=35" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.abc.net.au/ra/carvingout/issues/squash.htm">Issues&nbsp;: Cash cropping squah pumpkins in Tonga</a></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vanuatu.usp.ac.fj/paclangunit/English_South_Pacific.htm">"English in the South Pacific"</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081206173414/http://www.vanuatu.usp.ac.fj/paclangunit/English_South_Pacific.htm">Archived</a> 2008-12-06 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, John Lynch and France Mugler, University of the South Pacific</span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://212.187.153.30/health/story/0,,1836069,00.html#article_continue">Trouble in paradise</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071124011701/http://212.187.153.30/health/story/0%2C%2C1836069%2C00.html">Archived</a> November 24, 2007, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, published on <a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a>, 3 August 2006.</span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">however his real birthday is 4 May, and the coronation is schedulated for 2008</span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pmo.gov.to/artman/publish/article_238.shtml">New Public Holiday Dates and Christmas break for the Public Service</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070930203807/http://www.pmo.gov.to/artman/publish/article_238.shtml">Archived</a> September 30, 2007, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=36" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFBiersack1990" class="citation conference cs1">Biersack, Aletta (1990). "Blood and Garland: Duality in Tongan history". In P. Herda; J. Terrell; N. Gunson (eds.). <i>Tongan Culture and History</i>. THA Conference 1989. Canberra: Department of Pacific &amp; Asian History, RSPacS, ANU.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=conference&amp;rft.atitle=Blood+and+Garland%3A+Duality+in+Tongan+history&amp;rft.btitle=Tongan+Culture+and+History&amp;rft.place=Canberra&amp;rft.pub=Department+of+Pacific+%26+Asian+History%2C+RSPacS%2C+ANU&amp;rft.date=1990&amp;rft.aulast=Biersack&amp;rft.aufirst=Aletta&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACulture+of+Tonga" class="Z3988"></span></li> 
+       <li>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFBott1983" class="citation book cs1">Bott, Elizabeth (1983). <i>Tongan Society at the Time of Captain Cook's Visits: Discussions with Her Majesty Queen Salote Tupou</i>. Honolulu: Univ Of Hawaii Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-8248-0864-8" title="Special:BookSources/978-0-8248-0864-8"><bdi>978-0-8248-0864-8</bdi></a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/234297388">234297388</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Tongan+Society+at+the+Time+of+Captain+Cook%27s+Visits%3A+Discussions+with+Her+Majesty+Queen+Salote+Tupou&amp;rft.place=Honolulu&amp;rft.pub=Univ+Of+Hawaii+Press&amp;rft.date=1983&amp;rft_id=info%3Aoclcnum%2F234297388&amp;rft.isbn=978-0-8248-0864-8&amp;rft.aulast=Bott&amp;rft.aufirst=Elizabeth&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACulture+of+Tonga" class="Z3988"></span></li> 
+       <li>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFCampbellCoxonHelu2005" class="citation book cs1">Campbell, Ian Christopher; Coxon, Eve; Helu, 'I. Futa (2005). <i>Polynesian Paradox: Essays in Honour of Professor 'I. Futa Helu</i>. Suva, Fiji: Institute of Pacific Studies. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-982-02-0371-6" title="Special:BookSources/978-982-02-0371-6"><bdi>978-982-02-0371-6</bdi></a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/67900438">67900438</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Polynesian+Paradox%3A+Essays+in+Honour+of+Professor+%27I.+Futa+Helu&amp;rft.place=Suva%2C+Fiji&amp;rft.pub=Institute+of+Pacific+Studies&amp;rft.date=2005&amp;rft_id=info%3Aoclcnum%2F67900438&amp;rft.isbn=978-982-02-0371-6&amp;rft.aulast=Campbell&amp;rft.aufirst=Ian+Christopher&amp;rft.au=Coxon%2C+Eve&amp;rft.au=Helu%2C+%27I.+Futa&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACulture+of+Tonga" class="Z3988"></span></li> 
+       <li>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFGifford1929" class="citation journal cs1"><a href="/wiki/Edward_Winslow_Gifford" title="Edward Winslow Gifford">Gifford, E. W.</a> (1929). <a rel="nofollow" class="external text" href="http://hbs.bishopmuseum.org/pubs-online/bpbm-bulletins.html">"Tongan Society"</a>. <i>Bernice P. Bishop Museum Bulletin</i>. Honolulu. <b>61</b>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/11757195">11757195</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bernice+P.+Bishop+Museum+Bulletin&amp;rft.atitle=Tongan+Society&amp;rft.volume=61&amp;rft.date=1929&amp;rft_id=info%3Aoclcnum%2F11757195&amp;rft.aulast=Gifford&amp;rft.aufirst=E.+W.&amp;rft_id=http%3A%2F%2Fhbs.bishopmuseum.org%2Fpubs-online%2Fbpbm-bulletins.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACulture+of+Tonga" class="Z3988"></span></li> 
+       <li>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFHelu1999" class="citation book cs1"><a href="/wiki/Futa_Helu" title="Futa Helu">Helu, 'I. Futa</a> (1999). <i>Critical essays: cultural perspectives from the South Seas</i>. Canberra: Journal of Pacific History, Australian National University. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-9595477-9-5" title="Special:BookSources/978-0-9595477-9-5"><bdi>978-0-9595477-9-5</bdi></a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/42008847">42008847</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Critical+essays%3A+cultural+perspectives+from+the+South+Seas&amp;rft.place=Canberra&amp;rft.pub=Journal+of+Pacific+History%2C+Australian+National+University&amp;rft.date=1999&amp;rft_id=info%3Aoclcnum%2F42008847&amp;rft.isbn=978-0-9595477-9-5&amp;rft.aulast=Helu&amp;rft.aufirst=%27I.+Futa&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACulture+of+Tonga" class="Z3988"></span></li> 
+       <li>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFKaeppler1971" class="citation book cs1"><a href="/wiki/Adrienne_L._Kaeppler" title="Adrienne L. Kaeppler">Kaeppler, Adrienne Lois</a> (1971). <i>Rank in Tonga</i>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/49214460">49214460</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Rank+in+Tonga&amp;rft.date=1971&amp;rft_id=info%3Aoclcnum%2F49214460&amp;rft.aulast=Kaeppler&amp;rft.aufirst=Adrienne+Lois&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACulture+of+Tonga" class="Z3988"></span></li> 
+       <li><a href="/wiki/Gerd_Koch" title="Gerd Koch">Koch, Gerd</a>, <i>Suedsee-Gestern und Heute: Der Kulturwandel bei den Tonganern und der Versuch einer Deutung dieser Entwicklung</i> (Pacific - yesterday and to-day: acculturation with the Tongans and an attempt at an interpretation of this development) was published in 1955 as Volume 7 of Research into the history of culture, edited by Dr Nabil Georg Eckart, Professor of Kant University, Brunswick, and Dr Herman Trimborn, Professor of Bonn University. Translation to English by P.E. Klarwill, Wellington, NZ published by Albert Limback Verlag, Brunswick with the assistance of the German Research Association (1958).</li> 
+       <li>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFMulliss2009" class="citation book cs1">Mulliss, David (2009). <a rel="nofollow" class="external text" href="http://www.touchoftonga.com/book.html"><i>The Friendly Islands: 1616 to 1900</i></a>. Warwick, Queensland, Australia: Touch of Tonga<span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Friendly+Islands%3A+1616+to+1900&amp;rft.place=Warwick%2C+Queensland%2C+Australia&amp;rft.pub=Touch+of+Tonga&amp;rft.date=2009&amp;rft.aulast=Mulliss&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Fwww.touchoftonga.com%2Fbook.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACulture+of+Tonga" class="Z3988"></span></li> 
+       <li>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFWood-Ellem1999" class="citation book cs1"><a href="/wiki/Elizabeth_Wood-Ellem" title="Elizabeth Wood-Ellem">Wood-Ellem, Elizabeth</a> (1999). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060923084453/http://www.auckland.ac.nz/uoa/aup/book/queen-salote-of-tonga.cfm"><i>Queen Sālote of Tonga: the story of an era, 1900-1965</i></a>. Auckland, N.Z.: Auckland University Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-86940-205-1" title="Special:BookSources/978-1-86940-205-1"><bdi>978-1-86940-205-1</bdi></a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/262293605">262293605</a>. Archived from <a rel="nofollow" class="external text" href="http://www.auckland.ac.nz/uoa/aup/book/queen-salote-of-tonga.cfm">the original</a> on 2006-09-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-04-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Queen+S%C4%81lote+of+Tonga%3A+the+story+of+an+era%2C+1900-1965&amp;rft.place=Auckland%2C+N.Z.&amp;rft.pub=Auckland+University+Press&amp;rft.date=1999&amp;rft_id=info%3Aoclcnum%2F262293605&amp;rft.isbn=978-1-86940-205-1&amp;rft.aulast=Wood-Ellem&amp;rft.aufirst=Elizabeth&amp;rft_id=http%3A%2F%2Fwww.auckland.ac.nz%2Fuoa%2Faup%2Fbook%2Fqueen-salote-of-tonga.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACulture+of+Tonga" class="Z3988"></span></li> 
+       <li>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFYoung-Leslie2007" class="citation journal cs1">Young-Leslie, Heather E. (2007). <a rel="nofollow" class="external text" href="https://www.academia.edu/2179284">"...Like a Mat Being Woven"</a>. <i>Pacific Arts</i>. NS 3-5: 115–127<span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pacific+Arts&amp;rft.atitle=...Like+a+Mat+Being+Woven&amp;rft.volume=NS+3-5&amp;rft.pages=115-127&amp;rft.date=2007&amp;rft.aulast=Young-Leslie&amp;rft.aufirst=Heather+E.&amp;rft_id=https%3A%2F%2Fwww.academia.edu%2F2179284&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACulture+of+Tonga" class="Z3988"></span></li>
+      </ul> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit&amp;section=37" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Culture_of_Tonga" class="extiw" title="commons:Category:Culture of Tonga"><span style="">Culture of Tonga</span></a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111007133115/http://www.tongaholiday.com/">Tonga Visitors Bureau, Ministry of Tourism, Kingdom of Tonga</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Culture_of_Oceania" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Oceania_topic" title="Template:Oceania topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Oceania_topic" title="Template talk:Oceania topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Oceania_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Culture_of_Oceania" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Culture_of_Oceania" class="mw-redirect" title="Culture of Oceania">Culture of Oceania </a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Culture_of_Australia" title="Culture of Australia">Australia</a></li> 
+             <li><a href="/wiki/Culture_of_the_Federated_States_of_Micronesia" class="mw-redirect" title="Culture of the Federated States of Micronesia">Federated States of Micronesia</a></li> 
+             <li><a href="/wiki/Culture_of_Fiji" title="Culture of Fiji">Fiji</a></li> 
+             <li><a href="/wiki/Culture_of_Kiribati" title="Culture of Kiribati">Kiribati</a></li> 
+             <li><a href="/wiki/Culture_of_the_Marshall_Islands" class="mw-redirect" title="Culture of the Marshall Islands">Marshall Islands</a></li> 
+             <li><a href="/wiki/Culture_of_Nauru" title="Culture of Nauru">Nauru</a></li> 
+             <li><a href="/wiki/Culture_of_New_Zealand" title="Culture of New Zealand">New Zealand</a></li> 
+             <li><a href="/wiki/Culture_of_Palau" class="mw-redirect" title="Culture of Palau">Palau</a></li> 
+             <li><a href="/wiki/Culture_of_Papua_New_Guinea" title="Culture of Papua New Guinea">Papua New Guinea</a></li> 
+             <li><a href="/wiki/Culture_of_Samoa" class="mw-redirect" title="Culture of Samoa">Samoa</a></li> 
+             <li><a href="/wiki/Culture_of_Solomon_Islands" title="Culture of Solomon Islands">Solomon Islands</a></li> 
+             <li><a class="mw-selflink selflink">Tonga</a></li> 
+             <li><a href="/wiki/Culture_of_Tuvalu" class="mw-redirect" title="Culture of Tuvalu">Tuvalu</a></li> 
+             <li><a href="/wiki/Culture_of_Vanuatu" title="Culture of Vanuatu">Vanuatu</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Associated states<br>of New Zealand</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Culture_of_the_Cook_Islands" title="Culture of the Cook Islands">Cook Islands</a></li> 
+             <li><a href="/wiki/Culture_of_Niue" class="mw-redirect" title="Culture of Niue">Niue</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies<br>and other territories</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Culture_of_American_Samoa" class="mw-redirect" title="Culture of American Samoa">American Samoa</a></li> 
+             <li><a href="/wiki/Culture_of_Christmas_Island" class="mw-redirect" title="Culture of Christmas Island">Christmas Island</a></li> 
+             <li><a href="/wiki/Culture_of_the_Cocos_(Keeling)_Islands" title="Culture of the Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+             <li><a href="/wiki/Culture_of_Easter_Island" class="mw-redirect" title="Culture of Easter Island">Easter Island</a></li> 
+             <li><a href="/wiki/Culture_of_French_Polynesia" class="mw-redirect" title="Culture of French Polynesia">French Polynesia</a></li> 
+             <li><a href="/wiki/Culture_of_Guam" title="Culture of Guam">Guam</a></li> 
+             <li><a href="/wiki/Culture_of_Hawaii" class="mw-redirect" title="Culture of Hawaii">Hawaii</a></li> 
+             <li><a href="/wiki/Culture_of_New_Caledonia" class="mw-redirect" title="Culture of New Caledonia">New Caledonia</a></li> 
+             <li><a href="/wiki/Culture_of_Norfolk_Island" class="mw-redirect" title="Culture of Norfolk Island">Norfolk Island</a></li> 
+             <li><a href="/wiki/Culture_of_the_Northern_Mariana_Islands" class="mw-redirect" title="Culture of the Northern Mariana Islands">Northern Mariana Islands</a></li> 
+             <li><a href="/wiki/Culture_of_the_Pitcairn_Islands" class="mw-redirect" title="Culture of the Pitcairn Islands">Pitcairn Islands</a></li> 
+             <li><a href="/wiki/Culture_of_Tokelau" class="mw-redirect" title="Culture of Tokelau">Tokelau</a></li> 
+             <li><a href="/wiki/Culture_of_Wallis_and_Futuna" title="Culture of Wallis and Futuna">Wallis and Futuna</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Culture_of_indigenous_Oceania" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Culture_of_Oceania" title="Template:Culture of Oceania"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Culture_of_Oceania" title="Template talk:Culture of Oceania"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Culture_of_Oceania&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Culture_of_indigenous_Oceania" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/List_of_indigenous_peoples#Oceania" title="List of indigenous peoples">Culture of indigenous Oceania</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div id="List_of_resources_about_traditional_arts_and_culture_of_Oceania">
+            List of resources about traditional arts and culture of Oceania
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Oceanic_art" class="mw-redirect" title="Oceanic art">Art</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Easter_Island#Ahu" title="Easter Island">Ahu</a></li> 
+             <li><a href="/wiki/Indigenous_Australian_art" title="Indigenous Australian art">Australia</a></li> 
+             <li><a href="/wiki/Austronesian_peoples#Arts" title="Austronesian peoples">Austronesia</a></li> 
+             <li><a href="/wiki/Cook_Islands" title="Cook Islands">Cook Islands</a></li> 
+             <li><a href="/wiki/Hawaiian_art" title="Hawaiian art">Hawaiʻi</a></li> 
+             <li><a href="/wiki/Kapa" title="Kapa">kapa (Hawaiʻi)</a></li> 
+             <li><a href="/wiki/Lei_(garland)" title="Lei (garland)">Lei</a></li> 
+             <li><a href="/wiki/Magimagi" title="Magimagi">magimagi</a></li> 
+             <li><a href="/wiki/Moai" title="Moai">moai</a></li> 
+             <li><a href="/wiki/New_Zealand_art" title="New Zealand art">New Zealand</a> 
+              <ul>
+               <li><a href="/wiki/Category:M%C4%81ori_art" title="Category:Māori art">Māori</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Nguzu_nguzu" title="Nguzu nguzu">nguzu nguzu</a></li> 
+             <li><a href="/wiki/Oceanian_art" title="Oceanian art">Oceania</a></li> 
+             <li><a href="/wiki/Papua_New_Guinean_art" title="Papua New Guinean art">Papua New Guinea</a></li> 
+             <li><a href="/wiki/Reimiro" title="Reimiro">reimiro</a></li> 
+             <li><a href="/wiki/T%C4%81_moko" title="Tā moko">tā moko</a></li> 
+             <li><a href="/wiki/Tabua" title="Tabua">tabua</a></li> 
+             <li><a href="/wiki/Ta%CA%BBovala" title="Taʻovala">taʻovala</a></li> 
+             <li><a href="/wiki/Tapa_cloth" title="Tapa cloth">tapa ["masi" (Fiji), "ngatu" (Tonga), "siapo" (Sāmoa), " ʻuha" (Rotuma)]</a></li> 
+             <li><a href="/wiki/Tattoo" title="Tattoo">tattoo</a></li> 
+             <li><a href="/wiki/T%C4%93fui" title="Tēfui">tēfui</a></li> 
+             <li><a href="/wiki/Tivaevae" title="Tivaevae">tivaevae</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Broad culture</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Areca_nut" title="Areca nut">areca nut</a></li> 
+             <li><a href="/wiki/Kava" title="Kava">kava, " ʻawa" (Hawaii)</a>, <a href="/wiki/Kava" title="Kava">"yaqona" (Fiji), or "sakau" (Pohnpei)</a></li> 
+             <li><a href="/wiki/Kava_culture" title="Kava culture">Kava culture</a></li> 
+             <li><a href="/wiki/Lapita_culture" title="Lapita culture">Lapita</a></li> 
+             <li><a href="/wiki/M%C4%81ori_culture" title="Māori culture">Māori</a></li> 
+             <li><a href="/wiki/Polynesian_culture" title="Polynesian culture">Polynesia</a></li> 
+             <li><a href="/wiki/Polynesian_navigation" title="Polynesian navigation">Polynesian navigation</a></li> 
+             <li><a href="/wiki/Samoa_%27ava_ceremony" class="mw-redirect" title="Samoa 'ava ceremony">Sāmoa 'ava ceremony</a></li> 
+             <li><a href="/wiki/History_of_wood_carving#Aboriginal" title="History of wood carving">wood carving</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Geo-specific, <br>general</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Indigenous_Australians#Culture" title="Indigenous Australians">Australia</a> 
+              <ul>
+               <li><a href="/wiki/Australian_Aboriginal_astronomy" title="Australian Aboriginal astronomy">Australian Aboriginal astronomy</a>)</li>
+              </ul></li> 
+             <li><a href="/wiki/Austronesian_peoples#Culture" title="Austronesian peoples">Austronesia</a></li> 
+             <li><a href="/wiki/Caroline_Islands#People_and_culture" title="Caroline Islands">Caroline Islands</a>, <i>-<a href="/wiki/Pwo" title="Pwo">Pwo</a></i></li> 
+             <li><a href="/wiki/Moriori#Revival_of_culture" title="Moriori">Chatham Islands</a></li> 
+             <li><a href="/wiki/Cook_Islands#Culture" title="Cook Islands">Cook Islands</a></li> 
+             <li><a href="/wiki/Easter_Island#Culture" title="Easter Island">Easter Island</a></li> 
+             <li><a href="/wiki/Culture_of_Fiji" title="Culture of Fiji">Fiji</a> 
+              <ul>
+               <li><i><a href="/wiki/Lau_Islands#Culture_and_economy" title="Lau Islands">Lau Islands</a></i></li> 
+               <li><i><a href="/wiki/Fijian_traditions_and_ceremonies" title="Fijian traditions and ceremonies">traditions and ceremonies</a></i></li>
+              </ul></li> 
+             <li><a href="/wiki/Guam#Culture" title="Guam">Guam</a></li> 
+             <li><a href="/wiki/Culture_of_Hawaii" class="mw-redirect" title="Culture of Hawaii">Hawaiʻi</a> 
+              <ul>
+               <li><i><a href="/wiki/Lomilomi_massage" title="Lomilomi massage">Lomilomi massage</a></i></li>
+              </ul></li> 
+             <li><a href="/wiki/Culture_of_Kiribati" title="Culture of Kiribati">Kiribati</a></li> 
+             <li><a href="/wiki/Culture_of_the_Marquesas_Islands" title="Culture of the Marquesas Islands">French Polynesia's Marquesas Islands</a></li> 
+             <li><a href="/wiki/Marshallese_culture" title="Marshallese culture">Marshall Islands</a> 
+              <ul>
+               <li><i><a href="/wiki/Marshall_Islands_stick_chart" title="Marshall Islands stick chart">Stick charts of</a></i></li>
+              </ul></li> 
+             <li><a href="/wiki/Federated_States_of_Micronesia#Culture" title="Federated States of Micronesia">Federated States of Micronesia</a></li> 
+             <li><a href="/wiki/Culture_of_Nauru" title="Culture of Nauru">Nauru</a></li> 
+             <li><a href="/wiki/New_Caledonia#Culture" title="New Caledonia">New Caledonia</a></li> 
+             <li><a href="/wiki/Culture_of_New_Zealand" title="Culture of New Zealand">New Zealand</a> 
+              <ul>
+               <li><a href="/wiki/M%C4%81ori_culture" title="Māori culture">Māori</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Niue#Culture" title="Niue">Niue</a></li> 
+             <li><a href="/wiki/Norfolk_Island#Culture" title="Norfolk Island">Norfolk Island</a></li> 
+             <li><a href="/wiki/Palau#Culture" title="Palau">Palau</a></li> 
+             <li><a href="/wiki/Culture_of_Papua_New_Guinea" title="Culture of Papua New Guinea">Papua New Guinea</a></li> 
+             <li><a href="/wiki/Pitcairn_Islands#Culture_and_religion" title="Pitcairn Islands">Pitcairn Islands</a></li> 
+             <li><a href="/wiki/Samoan_culture" title="Samoan culture">Sāmoa</a></li> 
+             <li><a href="/wiki/Culture_of_the_Solomon_Islands" class="mw-redirect" title="Culture of the Solomon Islands">Solomon Islands</a></li> 
+             <li><a class="mw-selflink selflink">Tonga</a></li> 
+             <li><a href="/wiki/Torres_Strait_Islanders#Culture" title="Torres Strait Islanders">Torres Strait Islands</a></li> 
+             <li><a href="/wiki/Tuvalu#Culture" title="Tuvalu">Tuvalu</a></li> 
+             <li><a href="/wiki/Culture_of_Vanuatu" title="Culture of Vanuatu">Vanuatu</a></li> 
+             <li><a href="/wiki/Wallis_and_Futuna#Culture" title="Wallis and Futuna">Wallis and Futuna</a></li> 
+             <li><a href="/wiki/Yap#Culture" title="Yap">Yap</a> 
+              <ul>
+               <li><i><a href="/wiki/Yap#Navigation_(sailing)" title="Yap">navigation</a></i></li> 
+               <li><i><a href="/wiki/Weriyeng" title="Weriyeng">Weriyeng navigation school</a></i></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Canoes</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Aboriginal_dugout_canoe" title="Aboriginal dugout canoe">Aboriginal dugout</a></li> 
+             <li><a href="/wiki/Alingano_Maisu" title="Alingano Maisu">Alingano Maisu</a></li> 
+             <li><a href="/wiki/Balangay" title="Balangay">Bangka</a></li> 
+             <li><a href="/wiki/Drua" title="Drua">Drua</a></li> 
+             <li><a href="/wiki/Dugout_(boat)#Pacific_Islands" class="mw-redirect" title="Dugout (boat)">Dugout (boat)</a></li> 
+             <li><a href="/wiki/Hawaiiloa" class="mw-redirect" title="Hawaiiloa">Hawaiʻiloa</a></li> 
+             <li><a href="/wiki/H%C5%8Dk%C5%ABle%CA%BBa" title="Hōkūleʻa">Hōkūleʻa</a></li> 
+             <li><a href="/wiki/Kaep" title="Kaep">Kaep</a></li> 
+             <li><a href="/wiki/Karakoa" title="Karakoa">Karakoa</a></li> 
+             <li><a href="/wiki/Malia_(canoe)" title="Malia (canoe)">Malia (Hawaiian)</a></li> 
+             <li><a href="/wiki/M%C4%81ori_migration_canoes" title="Māori migration canoes">Māori migration</a></li> 
+             <li><a href="/wiki/Outrigger_canoe" class="mw-redirect" title="Outrigger canoe">Outrigger</a></li> 
+             <li><a href="/wiki/Paraw" title="Paraw">Paraw</a></li> 
+             <li><a href="/wiki/Canoe_sailing#Polynesian_sailing_canoes" title="Canoe sailing">Polynesian sailing</a></li> 
+             <li><a href="/wiki/Proa" title="Proa">Proa</a></li> 
+             <li><a href="/wiki/Vinta" title="Vinta">Vinta</a></li> 
+             <li><a href="/wiki/Waka_(canoe)" title="Waka (canoe)">Waka</a> 
+              <ul>
+               <li><a href="/wiki/List_of_M%C4%81ori_waka" title="List of Māori waka">list</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Walap" title="Walap">Walap</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dance</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%27Aparima" title="'Aparima">'Aparima</a></li> 
+             <li><a href="/wiki/Cibi" title="Cibi">cibi</a></li> 
+             <li><a href="/wiki/Fara_(Rotuman_festivity)" title="Fara (Rotuman festivity)">fara</a></li> 
+             <li><a href="/wiki/Fire_performance" title="Fire performance">fire dancing</a></li> 
+             <li><a href="/wiki/Firewalking" title="Firewalking">firewalking</a></li> 
+             <li><a href="/wiki/Haka" title="Haka">haka</a></li> 
+             <li><a href="/wiki/Hivinau" title="Hivinau">hivinau</a></li> 
+             <li><a href="/wiki/Hula" title="Hula">hula</a></li> 
+             <li><a href="/wiki/Kailao" title="Kailao">kailao</a></li> 
+             <li><a href="/wiki/Kapa_haka" title="Kapa haka">kapa haka</a></li> 
+             <li><a href="/wiki/Dance_in_Kiribati" title="Dance in Kiribati">Kiribati</a></li> 
+             <li><a href="/wiki/Meke" title="Meke">meke</a></li> 
+             <li><a href="/wiki/%27ote%27a" title="'ote'a">'ote'a</a></li> 
+             <li><a href="/wiki/Pa%27o%27a" title="Pa'o'a">pa'o'a</a></li> 
+             <li><a href="/wiki/Poi_(performance_art)" title="Poi (performance art)">poi</a></li> 
+             <li><a href="/wiki/Dance_in_Rotuma" title="Dance in Rotuma">Rotuma</a></li> 
+             <li><a href="/wiki/Samoan_culture#Dance" title="Samoan culture">siva</a></li> 
+             <li><a href="/wiki/Category:Dances_of_Tahiti" title="Category:Dances of Tahiti">Tahiti</a></li> 
+             <li><a href="/wiki/Tamure" title="Tamure">tāmūrē</a></li> 
+             <li><a href="/wiki/Tautoga" title="Tautoga">tautoga</a></li> 
+             <li><a href="/wiki/Category:Dances_of_Tonga" title="Category:Dances of Tonga">Tonga</a></li> 
+             <li><a href="/wiki/%27upa%27upa" title="'upa'upa">'upa'upa</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Festivals</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li>Australia 
+              <ul>
+               <li><a href="/wiki/Garma_Festival_of_Traditional_Cultures" title="Garma Festival of Traditional Cultures">Garma Festival</a></li>
+              </ul></li> 
+             <li>Hawaiʻi 
+              <ul>
+               <li><a href="/wiki/Aloha_Festivals" title="Aloha Festivals">Aloha Festivals</a></li> 
+               <li><a href="/wiki/Merrie_Monarch_Festival" title="Merrie Monarch Festival">Merrie Monarch Festival</a></li> 
+               <li><a href="/wiki/World_Invitational_Hula_Festival" title="World Invitational Hula Festival">World Invitational Hula Festival</a></li>
+              </ul></li> 
+             <li><a href="/wiki/List_of_festivals_in_Fiji" title="List of festivals in Fiji">Fiji</a></li> 
+             <li>New Zealand 
+              <ul>
+               <li><a href="/wiki/Pasifika_Festival" title="Pasifika Festival">Pasifika Festival</a></li> 
+               <li><a href="/wiki/Te_Matatini" title="Te Matatini">Te Matatini</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Pacific_Community" title="Pacific Community">Pacific Community</a> 
+              <ul>
+               <li><a href="/wiki/Festival_of_Pacific_Arts" title="Festival of Pacific Arts">Festival of Pacific Arts</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Category:Festivals_in_Papua_New_Guinea" title="Category:Festivals in Papua New Guinea">Papua New Guinea</a></li> 
+             <li>United States 
+              <ul>
+               <li><a href="/w/index.php?title=PIFA_San_Diego&amp;action=edit&amp;redlink=1" class="new" title="PIFA San Diego (page does not exist)">PIFA San Diego</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Oceanic_languages" title="Oceanic languages">Languages</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">by area</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="col" class="navbox-title" colspan="2">
+                   <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+                   <div class="navbar plainlinks hlist navbar-mini">
+                    <ul>
+                     <li class="nv-view"><a href="/wiki/Template:Oceania_topic" title="Template:Oceania topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+                     <li class="nv-talk"><a href="/wiki/Template_talk:Oceania_topic" title="Template talk:Oceania topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+                     <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Oceania_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+                    </ul>
+                   </div>
+                   <div id="Languages_of_Oceania" style="font-size:114%;margin:0 4em">
+                    <a href="/wiki/Languages_of_Oceania" title="Languages of Oceania">Languages of Oceania </a>
+                   </div></th>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+                  <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Languages_of_Australia" title="Languages of Australia">Australia</a></li> 
+                     <li><a href="/wiki/Languages_of_the_Federated_States_of_Micronesia" class="mw-redirect" title="Languages of the Federated States of Micronesia">Federated States of Micronesia</a></li> 
+                     <li><a href="/wiki/Languages_of_Fiji" title="Languages of Fiji">Fiji</a></li> 
+                     <li><a href="/wiki/Languages_of_Kiribati" class="mw-redirect" title="Languages of Kiribati">Kiribati</a></li> 
+                     <li><a href="/wiki/Languages_of_the_Marshall_Islands" class="mw-redirect" title="Languages of the Marshall Islands">Marshall Islands</a></li> 
+                     <li><a href="/wiki/Languages_of_Nauru" class="mw-redirect" title="Languages of Nauru">Nauru</a></li> 
+                     <li><a href="/wiki/Languages_of_New_Zealand" title="Languages of New Zealand">New Zealand</a></li> 
+                     <li><a href="/wiki/Languages_of_Palau" class="mw-redirect" title="Languages of Palau">Palau</a></li> 
+                     <li><a href="/wiki/Languages_of_Papua_New_Guinea" title="Languages of Papua New Guinea">Papua New Guinea</a></li> 
+                     <li><a href="/wiki/Languages_of_Samoa" class="mw-redirect" title="Languages of Samoa">Samoa</a></li> 
+                     <li><a href="/wiki/Languages_of_Solomon_Islands" class="mw-redirect" title="Languages of Solomon Islands">Solomon Islands</a></li> 
+                     <li><a href="/wiki/Languages_of_Tonga" class="mw-redirect" title="Languages of Tonga">Tonga</a></li> 
+                     <li><a href="/wiki/Languages_of_Tuvalu" class="mw-redirect" title="Languages of Tuvalu">Tuvalu</a></li> 
+                     <li><a href="/wiki/Languages_of_Vanuatu" title="Languages of Vanuatu">Vanuatu</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Associated states<br>of New Zealand</th>
+                  <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Languages_of_the_Cook_Islands" class="mw-redirect" title="Languages of the Cook Islands">Cook Islands</a></li> 
+                     <li><a href="/wiki/Languages_of_Niue" class="mw-redirect" title="Languages of Niue">Niue</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Dependencies<br>and other territories</th>
+                  <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Languages_of_American_Samoa" class="mw-redirect" title="Languages of American Samoa">American Samoa</a></li> 
+                     <li><a href="/wiki/Languages_of_Christmas_Island" class="mw-redirect" title="Languages of Christmas Island">Christmas Island</a></li> 
+                     <li><a href="/wiki/Languages_of_the_Cocos_(Keeling)_Islands" class="mw-redirect" title="Languages of the Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+                     <li><a href="/wiki/Languages_of_Easter_Island" class="mw-redirect" title="Languages of Easter Island">Easter Island</a></li> 
+                     <li><a href="/wiki/Languages_of_French_Polynesia" class="mw-redirect" title="Languages of French Polynesia">French Polynesia</a></li> 
+                     <li><a href="/wiki/Languages_of_Guam" class="mw-redirect" title="Languages of Guam">Guam</a></li> 
+                     <li><a href="/wiki/Languages_of_Hawaii" class="mw-redirect" title="Languages of Hawaii">Hawaii</a></li> 
+                     <li><a href="/wiki/Languages_of_New_Caledonia" title="Languages of New Caledonia">New Caledonia</a></li> 
+                     <li><a href="/wiki/Languages_of_Norfolk_Island" title="Languages of Norfolk Island">Norfolk Island</a></li> 
+                     <li><a href="/wiki/Languages_of_the_Northern_Mariana_Islands" class="mw-redirect" title="Languages of the Northern Mariana Islands">Northern Mariana Islands</a></li> 
+                     <li><a href="/wiki/Languages_of_the_Pitcairn_Islands" class="mw-redirect" title="Languages of the Pitcairn Islands">Pitcairn Islands</a></li> 
+                     <li><a href="/wiki/Languages_of_Tokelau" title="Languages of Tokelau">Tokelau</a></li> 
+                     <li><a href="/wiki/Languages_of_Wallis_and_Futuna" class="mw-redirect" title="Languages of Wallis and Futuna">Wallis and Futuna</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">by category</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em">
+                <a href="/wiki/Category:Languages_of_Oceania" title="Category:Languages of Oceania">Languages of Oceania</a>
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Literature</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+               <div class="navbar plainlinks hlist navbar-mini">
+                <ul>
+                 <li class="nv-view"><a href="/wiki/Template:Oceania_topic" title="Template:Oceania topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+                 <li class="nv-talk"><a href="/wiki/Template_talk:Oceania_topic" title="Template talk:Oceania topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+                 <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Oceania_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+                </ul>
+               </div>
+               <div id="Literature_of_Oceania" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/Literature_of_Oceania" class="mw-redirect" title="Literature of Oceania">Literature of Oceania </a>
+               </div></th>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+              <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Literature_of_Australia" class="mw-redirect" title="Literature of Australia">Australia</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_the_Federated_States_of_Micronesia&amp;action=edit&amp;redlink=1" class="new" title="Literature of the Federated States of Micronesia (page does not exist)">Federated States of Micronesia</a></li> 
+                 <li><a href="/wiki/Literature_of_Fiji" class="mw-redirect" title="Literature of Fiji">Fiji</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_Kiribati&amp;action=edit&amp;redlink=1" class="new" title="Literature of Kiribati (page does not exist)">Kiribati</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_the_Marshall_Islands&amp;action=edit&amp;redlink=1" class="new" title="Literature of the Marshall Islands (page does not exist)">Marshall Islands</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_Nauru&amp;action=edit&amp;redlink=1" class="new" title="Literature of Nauru (page does not exist)">Nauru</a></li> 
+                 <li><a href="/wiki/Literature_of_New_Zealand" class="mw-redirect" title="Literature of New Zealand">New Zealand</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_Palau&amp;action=edit&amp;redlink=1" class="new" title="Literature of Palau (page does not exist)">Palau</a></li> 
+                 <li><a href="/wiki/Literature_of_Papua_New_Guinea" class="mw-redirect" title="Literature of Papua New Guinea">Papua New Guinea</a></li> 
+                 <li><a href="/wiki/Literature_of_Samoa" class="mw-redirect" title="Literature of Samoa">Samoa</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_Solomon_Islands&amp;action=edit&amp;redlink=1" class="new" title="Literature of Solomon Islands (page does not exist)">Solomon Islands</a></li> 
+                 <li><a href="/wiki/Literature_of_Tonga" class="mw-redirect" title="Literature of Tonga">Tonga</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_Tuvalu&amp;action=edit&amp;redlink=1" class="new" title="Literature of Tuvalu (page does not exist)">Tuvalu</a></li> 
+                 <li><a href="/wiki/Literature_of_Vanuatu" title="Literature of Vanuatu">Vanuatu</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Associated states<br>of New Zealand</th>
+              <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Literature_of_the_Cook_Islands" class="mw-redirect" title="Literature of the Cook Islands">Cook Islands</a></li> 
+                 <li><a href="/wiki/Literature_of_Niue" class="mw-redirect" title="Literature of Niue">Niue</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Dependencies<br>and other territories</th>
+              <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/w/index.php?title=Literature_of_American_Samoa&amp;action=edit&amp;redlink=1" class="new" title="Literature of American Samoa (page does not exist)">American Samoa</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_Christmas_Island&amp;action=edit&amp;redlink=1" class="new" title="Literature of Christmas Island (page does not exist)">Christmas Island</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_the_Cocos_(Keeling)_Islands&amp;action=edit&amp;redlink=1" class="new" title="Literature of the Cocos (Keeling) Islands (page does not exist)">Cocos (Keeling) Islands</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_Easter_Island&amp;action=edit&amp;redlink=1" class="new" title="Literature of Easter Island (page does not exist)">Easter Island</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_French_Polynesia&amp;action=edit&amp;redlink=1" class="new" title="Literature of French Polynesia (page does not exist)">French Polynesia</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_Guam&amp;action=edit&amp;redlink=1" class="new" title="Literature of Guam (page does not exist)">Guam</a></li> 
+                 <li><a href="/wiki/Literature_of_Hawaii" class="mw-redirect" title="Literature of Hawaii">Hawaii</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_New_Caledonia&amp;action=edit&amp;redlink=1" class="new" title="Literature of New Caledonia (page does not exist)">New Caledonia</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_Norfolk_Island&amp;action=edit&amp;redlink=1" class="new" title="Literature of Norfolk Island (page does not exist)">Norfolk Island</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_the_Northern_Mariana_Islands&amp;action=edit&amp;redlink=1" class="new" title="Literature of the Northern Mariana Islands (page does not exist)">Northern Mariana Islands</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_the_Pitcairn_Islands&amp;action=edit&amp;redlink=1" class="new" title="Literature of the Pitcairn Islands (page does not exist)">Pitcairn Islands</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_Tokelau&amp;action=edit&amp;redlink=1" class="new" title="Literature of Tokelau (page does not exist)">Tokelau</a></li> 
+                 <li><a href="/w/index.php?title=Literature_of_Wallis_and_Futuna&amp;action=edit&amp;redlink=1" class="new" title="Literature of Wallis and Futuna (page does not exist)">Wallis and Futuna</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Music</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Music_of_the_Austral_Islands" title="Music of the Austral Islands">Austral Islands (French Polynesia)</a></li> 
+             <li><a href="/wiki/Indigenous_music_of_Australia" title="Indigenous music of Australia">Australia</a></li> 
+             <li><a href="/wiki/Austronesian_peoples#Music" title="Austronesian peoples">Austronesia</a></li> 
+             <li><a href="/wiki/Music_of_the_Cook_Islands" title="Music of the Cook Islands">Cook Islands</a></li> 
+             <li><a href="/wiki/Music_of_Easter_Island" title="Music of Easter Island">Easter Island</a></li> 
+             <li><a href="/wiki/Music_of_Fiji" title="Music of Fiji">Fiji</a></li> 
+             <li><a href="/wiki/Music_of_Guam" title="Music of Guam">Guam</a></li> 
+             <li><a href="/wiki/Music_of_Hawaii" title="Music of Hawaii">Hawaiʻi</a></li> 
+             <li><a href="/wiki/Music_of_Kiribati" title="Music of Kiribati">Kiribati</a></li> 
+             <li><a href="/wiki/Lali_(drum)" title="Lali (drum)">Lali</a></li> 
+             <li><a href="/wiki/Music_of_Melanesia" title="Music of Melanesia">Melanesia</a></li> 
+             <li><a href="/wiki/Music_of_Micronesia" class="mw-redirect" title="Music of Micronesia">Micronesia</a></li> 
+             <li><a href="/wiki/Music_of_the_Federated_States_of_Micronesia" title="Music of the Federated States of Micronesia">Federated States of Micronesia</a></li> 
+             <li><a href="/wiki/Music_of_Nauru" title="Music of Nauru">Nauru</a></li> 
+             <li><a href="/wiki/Music_of_New_Caledonia" title="Music of New Caledonia">New Caledonia</a></li> 
+             <li><a href="/wiki/Music_of_New_Zealand" title="Music of New Zealand">New Zealand</a> 
+              <ul>
+               <li><a href="/wiki/M%C4%81ori_music" title="Māori music">Māori</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Music_of_Niue" title="Music of Niue">Niue</a></li> 
+             <li><a href="/wiki/Music_of_the_Northern_Mariana_Islands" title="Music of the Northern Mariana Islands">Northern Mariana Islands</a></li> 
+             <li><a href="/wiki/Music_of_Palau" title="Music of Palau">Palau</a></li> 
+             <li><a href="/wiki/Music_of_Papua_New_Guinea" title="Music of Papua New Guinea">Papua New Guinea</a></li> 
+             <li><a href="/wiki/Music_of_Polynesia" title="Music of Polynesia">Polynesia</a></li> 
+             <li><a href="/wiki/Music_of_Samoa" title="Music of Samoa">Sāmoa</a></li> 
+             <li><a href="/wiki/Slit_drum" title="Slit drum">Slit drum</a></li> 
+             <li><a href="/wiki/Music_of_Solomon_Islands" title="Music of Solomon Islands">Solomon Islands</a></li> 
+             <li><a href="/wiki/Music_of_Tahiti" title="Music of Tahiti">Tahiti</a></li> 
+             <li><a href="/wiki/Music_of_Tokelau" title="Music of Tokelau">Tokelau</a></li> 
+             <li><a href="/wiki/Music_of_Tonga" title="Music of Tonga">Tonga</a></li> 
+             <li><a href="/wiki/Music_of_Tuvalu" title="Music of Tuvalu">Tuvalu</a></li> 
+             <li><a href="/wiki/Music_of_Vanuatu" title="Music of Vanuatu">Vanuatu</a></li> 
+             <li><a href="/wiki/Music_of_Polynesia" title="Music of Polynesia">Wallis and Futuna</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Mythology</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Australian_Aboriginal_mythology" class="mw-redirect" title="Australian Aboriginal mythology">Australian Aboriginal</a></li> 
+             <li><a href="/wiki/Category:Fijian_mythology" title="Category:Fijian mythology">Fijian</a></li> 
+             <li><a href="/wiki/Hawaiian_mythology" class="mw-redirect" title="Hawaiian mythology">Hawaiian</a></li> 
+             <li><a href="/wiki/Mangarevan_mythology" class="mw-redirect" title="Mangarevan mythology">Mangarevan</a></li> 
+             <li><a href="/wiki/Tahiti_and_Society_Islands_mythology" title="Tahiti and Society Islands mythology">Maohi</a></li> 
+             <li><a href="/wiki/M%C4%81ori_mythology" title="Māori mythology">Māori</a></li> 
+             <li><a href="/wiki/Melanesian_mythology" title="Melanesian mythology">Melanesian</a></li> 
+             <li><a href="/wiki/Menehune" title="Menehune">Menehune</a></li> 
+             <li><a href="/wiki/Micronesian_mythology" title="Micronesian mythology">Micronesian</a></li> 
+             <li><a href="/wiki/Category:Oceanian_legendary_creatures" title="Category:Oceanian legendary creatures">Oceanian legendary creatures</a></li> 
+             <li><a href="/wiki/Polynesian_mythology" class="mw-redirect" title="Polynesian mythology">Polynesian</a></li> 
+             <li><a href="/wiki/Rapa_Nui_mythology" title="Rapa Nui mythology">Rapa Nui</a></li> 
+             <li><a href="/wiki/Samoan_mythology" title="Samoan mythology">Samoan</a></li> 
+             <li><a href="/wiki/Tuvaluan_mythology" title="Tuvaluan mythology">Tuvaluan</a></li> 
+             <li><a href="/wiki/Category:Vanuatu_mythology" title="Category:Vanuatu mythology">Vanuatuan</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Research</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Asian_American_and_Pacific_Islander_Policy_Research_Consortium" title="Asian American and Pacific Islander Policy Research Consortium">Asian American and Pacific Islander Policy Research Consortium</a></li> 
+             <li><a href="/wiki/Australian_Institute_of_Aboriginal_and_Torres_Strait_Islander_Studies" title="Australian Institute of Aboriginal and Torres Strait Islander Studies">Australian Institute of Aboriginal and Torres Strait Islander Studies</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">People</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Indigenous_Australians" title="Indigenous Australians">Indigneous Australian</a></li> 
+             <li><a href="/wiki/Austronesian_peoples" title="Austronesian peoples">Austronesian</a></li> 
+             <li><a href="/wiki/Sama-Bajau" title="Sama-Bajau">Sama-Bajau</a></li> 
+             <li><a href="/wiki/Chamorro_people" title="Chamorro people">Chamorro</a></li> 
+             <li><a href="/wiki/Moriori" title="Moriori">Chatham Islander (Moriori <em>or</em> Rekohu)</a></li> 
+             <li><a href="/wiki/Fijians" title="Fijians">Fijian (iTaukei)</a></li> 
+             <li><a href="/wiki/Ilocano_people" title="Ilocano people">Ilocano</a></li> 
+             <li><a href="/wiki/Igorot" class="mw-redirect" title="Igorot">Igorot</a></li> 
+             <li><a href="/wiki/Ivatan_people" title="Ivatan people">Ivatans</a></li> 
+             <li><a href="/wiki/Lumad" title="Lumad">Lumad</a></li> 
+             <li><a href="/wiki/Native_Hawaiians" title="Native Hawaiians">Hawaiian (kānaka maoli)</a></li> 
+             <li><a href="/wiki/M%C4%81ori_people" title="Māori people">Māori</a></li> 
+             <li><a href="/wiki/Demographics_of_the_Marshall_Islands" title="Demographics of the Marshall Islands">Marshallese</a></li> 
+             <li><a href="/wiki/Melanesians" title="Melanesians">Melanesian</a></li> 
+             <li><a href="/wiki/Negrito" title="Negrito">Negrito</a></li> 
+             <li><a href="/wiki/Norfolk_Island#Settlement_by_Pitcairn_Islanders" title="Norfolk Island">Norfolk Islander</a></li> 
+             <li><a href="/wiki/Polynesians" title="Polynesians">Polynesian</a></li> 
+             <li><a href="/wiki/Maohi" title="Maohi">Indigenous Polynesian (Mā’ohi)</a></li> 
+             <li><a href="/wiki/Rapa_Nui_people" title="Rapa Nui people">Rapa Nui</a></li> 
+             <li><a href="/wiki/Rotumans" title="Rotumans">Rotuman</a></li> 
+             <li><a href="/wiki/Ryukyuan_people" title="Ryukyuan people">Ryukyuan</a></li> 
+             <li><a href="/wiki/Samoans" title="Samoans">Samoan (Tagata Māo‘i)</a></li> 
+             <li><a href="/wiki/Tagalog_people" title="Tagalog people">Tagalog</a></li> 
+             <li><a href="/wiki/Tahitians" title="Tahitians">Tahitian</a></li> 
+             <li><a href="/wiki/Taiwanese_aborigines" class="mw-redirect" title="Taiwanese aborigines">Taiwanese aborigines</a></li> 
+             <li><a href="/wiki/Demographics_of_Tonga" title="Demographics of Tonga">Tongan</a></li> 
+             <li><a href="/wiki/Torres_Strait_Islanders" title="Torres Strait Islanders">Torres Strait Islander</a></li> 
+             <li><a href="/wiki/Visayans" title="Visayans">Visayans</a></li> 
+             <li><a href="/wiki/Yami_people" title="Yami people">Yami</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Religion</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+               <div class="navbar plainlinks hlist navbar-mini">
+                <ul>
+                 <li class="nv-view"><a href="/wiki/Template:Oceania_topic" title="Template:Oceania topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+                 <li class="nv-talk"><a href="/wiki/Template_talk:Oceania_topic" title="Template talk:Oceania topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+                 <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Oceania_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+                </ul>
+               </div>
+               <div id="Religion_in_Oceania" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/Religion_in_Oceania" title="Religion in Oceania">Religion in Oceania </a>
+               </div></th>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+              <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Religion_in_Australia" title="Religion in Australia">Australia</a></li> 
+                 <li><a href="/wiki/Religion_in_the_Federated_States_of_Micronesia" title="Religion in the Federated States of Micronesia">Federated States of Micronesia</a></li> 
+                 <li><a href="/wiki/Religion_in_Fiji" title="Religion in Fiji">Fiji</a></li> 
+                 <li><a href="/wiki/Religion_in_Kiribati" title="Religion in Kiribati">Kiribati</a></li> 
+                 <li><a href="/wiki/Religion_in_the_Marshall_Islands" title="Religion in the Marshall Islands">Marshall Islands</a></li> 
+                 <li><a href="/wiki/Religion_in_Nauru" title="Religion in Nauru">Nauru</a></li> 
+                 <li><a href="/wiki/Religion_in_New_Zealand" title="Religion in New Zealand">New Zealand</a></li> 
+                 <li><a href="/wiki/Religion_in_Palau" title="Religion in Palau">Palau</a></li> 
+                 <li><a href="/wiki/Religion_in_Papua_New_Guinea" title="Religion in Papua New Guinea">Papua New Guinea</a></li> 
+                 <li><a href="/wiki/Religion_in_Samoa" title="Religion in Samoa">Samoa</a></li> 
+                 <li><a href="/wiki/Religion_in_Solomon_Islands" title="Religion in Solomon Islands">Solomon Islands</a></li> 
+                 <li><a href="/wiki/Religion_in_Tonga" title="Religion in Tonga">Tonga</a></li> 
+                 <li><a href="/wiki/Religion_in_Tuvalu" title="Religion in Tuvalu">Tuvalu</a></li> 
+                 <li><a href="/wiki/Religion_in_Vanuatu" title="Religion in Vanuatu">Vanuatu</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Associated states<br>of New Zealand</th>
+              <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/w/index.php?title=Religion_in_the_Cook_Islands&amp;action=edit&amp;redlink=1" class="new" title="Religion in the Cook Islands (page does not exist)">Cook Islands</a></li> 
+                 <li><a href="/w/index.php?title=Religion_in_Niue&amp;action=edit&amp;redlink=1" class="new" title="Religion in Niue (page does not exist)">Niue</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Dependencies<br>and other territories</th>
+              <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Religion_in_American_Samoa" class="mw-redirect" title="Religion in American Samoa">American Samoa</a></li> 
+                 <li><a href="/wiki/Religion_in_Christmas_Island" class="mw-redirect" title="Religion in Christmas Island">Christmas Island</a></li> 
+                 <li><a href="/w/index.php?title=Religion_in_the_Cocos_(Keeling)_Islands&amp;action=edit&amp;redlink=1" class="new" title="Religion in the Cocos (Keeling) Islands (page does not exist)">Cocos (Keeling) Islands</a></li> 
+                 <li><a href="/w/index.php?title=Religion_in_Easter_Island&amp;action=edit&amp;redlink=1" class="new" title="Religion in Easter Island (page does not exist)">Easter Island</a></li> 
+                 <li><a href="/wiki/Religion_in_French_Polynesia" class="mw-redirect" title="Religion in French Polynesia">French Polynesia</a></li> 
+                 <li><a href="/wiki/Religion_in_Guam" class="mw-redirect" title="Religion in Guam">Guam</a></li> 
+                 <li><a href="/wiki/Religion_in_Hawaii" class="mw-redirect" title="Religion in Hawaii">Hawaii</a></li> 
+                 <li><a href="/wiki/Religion_in_New_Caledonia" class="mw-redirect" title="Religion in New Caledonia">New Caledonia</a></li> 
+                 <li><a href="/w/index.php?title=Religion_in_Norfolk_Island&amp;action=edit&amp;redlink=1" class="new" title="Religion in Norfolk Island (page does not exist)">Norfolk Island</a></li> 
+                 <li><a href="/wiki/Religion_in_the_Northern_Mariana_Islands" class="mw-redirect" title="Religion in the Northern Mariana Islands">Northern Mariana Islands</a></li> 
+                 <li><a href="/wiki/Religion_in_the_Pitcairn_Islands" class="mw-redirect" title="Religion in the Pitcairn Islands">Pitcairn Islands</a></li> 
+                 <li><a href="/wiki/Religion_in_Tokelau" title="Religion in Tokelau">Tokelau</a></li> 
+                 <li><a href="/w/index.php?title=Religion_in_Wallis_and_Futuna&amp;action=edit&amp;redlink=1" class="new" title="Religion in Wallis and Futuna (page does not exist)">Wallis and Futuna</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div>
+            Not included: Oceanian: <a href="/wiki/List_of_Oceanian_films" title="List of Oceanian films">cinema</a>, (indigenous) currency, dress, folkore, <a href="/wiki/Oceanic_cuisine" title="Oceanic cuisine">cuisine</a>. Also see <a href="/wiki/Category:Oceanian_culture" title="Category:Oceanian culture">Category:Oceanian culture</a>.
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1351
+Cached time: 20210130144733
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.744 seconds
+Real time usage: 0.998 seconds
+Preprocessor visited node count: 4040/1000000
+Post‐expand include size: 220574/2097152 bytes
+Template argument size: 4179/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 34/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 28810/5000000 bytes
+Lua time usage: 0.328/10.000 seconds
+Lua memory usage: 6269248/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  750.607      1 -total
+ 17.17%  128.896     12 Template:Ambox
+ 15.23%  114.309      1 Template:Cite_conference
+ 13.81%  103.658      1 Template:Culture_of_Tonga
+ 13.79%  103.534      6 Template:Navbox
+ 13.25%   99.461      1 Template:Culture_of_region
+ 12.70%   95.361      1 Template:Sidebar_with_collapsible_lists
+ 11.99%   90.001      1 Template:More_footnotes
+  8.76%   65.719      1 Template:Commons_category
+  8.23%   61.780      1 Template:Sister_project
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:1949844-0!canonical and timestamp 20210130144732 and revision id 999868831. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Culture_of_Tonga&amp;oldid=999868831#Public_Holidays">https://en.wikipedia.org/w/index.php?title=Culture_of_Tonga&amp;oldid=999868831#Public_Holidays</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Tongan_culture" title="Category:Tongan culture">Tongan culture</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_September_2019" title="Category:Articles lacking in-text citations from September 2019">Articles lacking in-text citations from September 2019</a></li>
+       <li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2020" title="Category:Articles needing additional references from August 2020">Articles needing additional references from August 2020</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">All articles with vague or ambiguous time</a></li>
+       <li><a href="/wiki/Category:Vague_or_ambiguous_time_from_September_2019" title="Category:Vague or ambiguous time from September 2019">Vague or ambiguous time from September 2019</a></li>
+       <li><a href="/wiki/Category:Articles_to_be_expanded_from_May_2012" title="Category:Articles to be expanded from May 2012">Articles to be expanded from May 2012</a></li>
+       <li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li>
+       <li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_April_2014" title="Category:Wikipedia articles needing clarification from April 2014">Wikipedia articles needing clarification from April 2014</a></li>
+       <li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li>
+       <li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Culture+of+Tonga" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Culture+of+Tonga" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Culture_of_Tonga" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Culture_of_Tonga" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Culture_of_Tonga">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Culture_of_Tonga&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Culture_of_Tonga&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Culture_of_Tonga" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Culture_of_Tonga" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Culture_of_Tonga&amp;oldid=999868831" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Culture_of_Tonga&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Culture_of_Tonga&amp;id=999868831&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4405888" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Culture_of_Tonga&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Culture_of_Tonga&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Culture_of_Tonga" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Cultura_de_Tonga" title="Cultura de Tonga – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Tongos_kult%C5%ABra" title="Tongos kultūra – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Tongan_kulttuuri" title="Tongan kulttuuri – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4405888#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 12 January 2021, at 10:28<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Culture_of_Tonga&amp;mobileaction=toggle_view_mobile#Public_Holidays" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.744","walltime":"0.998","ppvisitednodes":{"value":4040,"limit":1000000},"postexpandincludesize":{"value":220574,"limit":2097152},"templateargumentsize":{"value":4179,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":34,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":28810,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  750.607      1 -total"," 17.17%  128.896     12 Template:Ambox"," 15.23%  114.309      1 Template:Cite_conference"," 13.81%  103.658      1 Template:Culture_of_Tonga"," 13.79%  103.534      6 Template:Navbox"," 13.25%   99.461      1 Template:Culture_of_region"," 12.70%   95.361      1 Template:Sidebar_with_collapsible_lists"," 11.99%   90.001      1 Template:More_footnotes","  8.76%   65.719      1 Template:Commons_category","  8.23%   61.780      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.328","limit":"10.000"},"limitreport-memusage":{"value":6269248,"limit":52428800}},"cachereport":{"origin":"mw1351","timestamp":"20210130144733","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Culture of Tonga","url":"https:\/\/en.wikipedia.org\/wiki\/Culture_of_Tonga#Public_Holidays","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4405888","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4405888","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-27T16:28:25Z","dateModified":"2021-01-12T10:28:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c9\/Kailao.jpg","headline":"pattern of human activity and symbolism associated with Tonga and its people"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135,"wgHostname":"mw1269"});});</script> 
+ </body>
+</html>

@@ -1,0 +1,650 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Ukraine - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBWAnZ50ihPou0BS@7DQeQAAAAs","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Ukraine","wgTitle":"Public holidays in Ukraine","wgCurRevisionId":999983538,"wgRevisionId":999983538,"wgArticleId":18012089,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 uses Ukrainian-language script (uk)","CS1 Ukrainian-language sources (uk)","Articles with Ukrainian-language sources (uk)","Webarchive template wayback links","Articles with short description","Short description is different from Wikidata","All stub articles",
+"Public holidays in Ukraine","Lists of public holidays by country","Ukraine-related lists","Ukrainian culture","Observances in Ukraine","Ukraine stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Ukraine","wgRelevantArticleId":18012089,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage"
+,"wgWikibaseItemId":"Q258210"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ukrflagblue.jpg/1200px-Ukrflagblue.jpg"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Ukraine"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Ukraine&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Ukraine&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Ukraine"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Ukraine rootpage-Public_holidays_in_Ukraine skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Ukraine</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Ukrflagblue.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ukrflagblue.jpg/220px-Ukrflagblue.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ukrflagblue.jpg/330px-Ukrflagblue.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ukrflagblue.jpg/440px-Ukrflagblue.jpg 2x" data-file-width="3864" data-file-height="2584"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Ukrflagblue.jpg" class="internal" title="Enlarge"></a>
+         </div>Flag of Ukraine
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Hnizdovsky_Easter.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Hnizdovsky_Easter.gif/220px-Hnizdovsky_Easter.gif" decoding="async" width="220" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Hnizdovsky_Easter.gif/330px-Hnizdovsky_Easter.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Hnizdovsky_Easter.gif/440px-Hnizdovsky_Easter.gif 2x" data-file-width="800" data-file-height="512"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Hnizdovsky_Easter.gif" class="internal" title="Enlarge"></a>
+         </div>Easter postcard (by <a href="/wiki/Jacques_Hnizdovsky" title="Jacques Hnizdovsky">Jacques Hnizdovsky</a>)
+        </div>
+       </div>
+      </div> 
+      <p><b><a href="/wiki/Public_holiday" title="Public holiday">Public holidays</a> in <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></b> </p>
+      <p>The following are <a href="/wiki/Public_holiday" title="Public holiday">public holidays</a> in <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Holidays_established_by_law"><span class="tocnumber">1</span> <span class="toctext">Holidays established by law</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Holidays_celebrated_by_the_uniformed_organizations"><span class="tocnumber">2</span> <span class="toctext">Holidays celebrated by the uniformed organizations</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Other_national_holidays"><span class="tocnumber">3</span> <span class="toctext">Other national holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Holidays_established_by_law">Holidays established by law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Ukraine&amp;action=edit&amp;section=1" title="Edit section: Holidays established by law">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date</th> 
+         <th>English name</th> 
+         <th>Ukrainian name</th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr> 
+         <td><b>January 1</b></td> 
+         <td><a href="/wiki/New_Year" title="New Year">New Year</a></td> 
+         <td>Новий Рік</td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><b>January 7</b><sup id="cite_ref-RFE28886838_2-0" class="reference"><a href="#cite_note-RFE28886838-2">[2]</a></sup></td> 
+         <td>(<a href="/wiki/Julian_calendar" title="Julian calendar">Julian</a>) <a href="/wiki/Christmas_in_Ukraine" title="Christmas in Ukraine">Christmas</a></td> 
+         <td>Різдво</td> 
+         <td>Religious holiday </td>
+        </tr> 
+        <tr> 
+         <td><b>March 8</b><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td> 
+         <td><a href="/wiki/International_Women%27s_Day" title="International Women's Day">International Women's Day</a></td> 
+         <td>Міжнародний жіночий день</td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><i><a href="/wiki/Moveable_feast" title="Moveable feast">moveable</a></i></td> 
+         <td>(Julian) <a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a></td> 
+         <td>Великдень</td> 
+         <td>Religious holiday </td>
+        </tr> 
+        <tr> 
+         <td><i><a href="/wiki/Moveable_feast" title="Moveable feast">moveable</a></i> <b>Easter + 49 days</b></td> 
+         <td>(Julian) <a href="/wiki/Pentecost_Monday" class="mw-redirect" title="Pentecost Monday">Pentecost Monday</a></td> 
+         <td>Трійця</td> 
+         <td>Religious holiday </td>
+        </tr> 
+        <tr> 
+         <td><b>May 1</b><sup id="cite_ref-BBCU42008437c_4-0" class="reference"><a href="#cite_note-BBCU42008437c-4">[4]</a></sup></td> 
+         <td><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">International Workers' Day</a></td> 
+         <td>День праці</td> 
+         <td>Until 2018, May 2 was also a public holiday<sup id="cite_ref-BBCU42008437c_4-1" class="reference"><a href="#cite_note-BBCU42008437c-4">[4]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><b>May 9</b></td> 
+         <td><a href="/wiki/Victory_Day_over_Nazism_in_World_War_II" title="Victory Day over Nazism in World War II">Victory Day over Nazism in World War II</a></td> 
+         <td>День перемоги над нацизмом у Другій світовій війні</td> 
+         <td>To commemorate the end of <a href="/wiki/World_War_II" title="World War II">World War II</a> and the Allied victory over <a href="/wiki/Nazi_Germany" title="Nazi Germany">Nazi Germany</a> </td>
+        </tr> 
+        <tr> 
+         <td><b>June 28</b></td> 
+         <td><a href="/wiki/Constitution_Day_(Ukraine)" title="Constitution Day (Ukraine)">Constitution Day</a></td> 
+         <td>День Конституції</td> 
+         <td>To commemorate Ukraine's Constitution of 1996 </td>
+        </tr> 
+        <tr> 
+         <td><b>August 24</b></td> 
+         <td><a href="/wiki/Independence_Day_of_Ukraine" title="Independence Day of Ukraine">Independence Day</a></td> 
+         <td>День Незалежності</td> 
+         <td>From the <a href="/wiki/USSR" class="mw-redirect" title="USSR">USSR</a> in 1991 </td>
+        </tr> 
+        <tr> 
+         <td><b>October 14</b><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td> 
+         <td><a href="/wiki/Defender_of_Ukraine_Day" title="Defender of Ukraine Day">Defender of Ukraine Day</a></td> 
+         <td>День захисника України</td> 
+         <td>Public holiday since 2015<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><b>December 25</b><sup id="cite_ref-RFE28886838_2-1" class="reference"><a href="#cite_note-RFE28886838-2">[2]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </td> 
+         <td>(<a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian</a> and <a href="/wiki/Revised_Julian_calendar" title="Revised Julian calendar">Revised Julian</a>) Christmas </td> 
+         <td>Різдво </td> 
+         <td>Religious holiday since 2017 </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>Religious holidays are observed according to the <a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a> (but here the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian</a> date of Christmas is written). </p>
+      <p>When a public holiday falls on a <a href="/wiki/Weekend" class="mw-redirect" title="Weekend">weekend</a> (e.g. Saturday or Sunday), the following working day (e.g. Monday) turns into an official day off too. </p>
+      <p>If only one or only two working days are between a public holiday and another day off then the <a href="/wiki/Cabinet_of_Ministers_of_Ukraine" class="mw-redirect" title="Cabinet of Ministers of Ukraine">Cabinet of Ministers of Ukraine</a> usually releases a recommendation to avoid this gap by moving these working days onto a certain Saturday (that is to have uninterrupted vacations, but to compensate this by work on another day which would be a day off). Usually such recommendations only concern those employees whose weekly days off are Saturday and Sunday. </p> 
+      <h2><span class="mw-headline" id="Holidays_celebrated_by_the_uniformed_organizations">Holidays celebrated by the uniformed organizations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Ukraine&amp;action=edit&amp;section=2" title="Edit section: Holidays celebrated by the uniformed organizations">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li>March 26 - National Guard Day</li> 
+       <li>April 30 - Border Guards Day</li> 
+       <li>May 18 - Reservists' Day</li> 
+       <li>May 23 – Naval Infantry Day</li> 
+       <li>July 4 - Police Day</li> 
+       <li>July 8 – Air and Air Defence Forces Day</li> 
+       <li>First Sunday in July – <a href="/wiki/Navy_Day_(Ukraine)" title="Navy Day (Ukraine)">Navy Day</a>;<sup id="cite_ref-pndfsj_8-0" class="reference"><a href="#cite_note-pndfsj-8">[8]</a></sup> From 1997 till 2011 this day was celebrated on August 1<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></li> 
+       <li>August 8 – Signal Corps Day</li> 
+       <li>September 7 – <a href="/wiki/Chief_directorate_of_intelligence_of_the_Ministry_of_Defence_of_Ukraine" class="mw-redirect" title="Chief directorate of intelligence of the Ministry of Defence of Ukraine">Military Intelligence</a> Forces Day</li> 
+       <li>September 9 – <a href="/wiki/Armored_Force_(Ukraine)" class="mw-redirect" title="Armored Force (Ukraine)">Armoured Forces</a> Day</li> 
+       <li>September 14 – Mobilized Servicemen Day</li> 
+       <li>October 29 – Finance Officers Day</li> 
+       <li>November 3 – <a href="/wiki/Rocket_Forces_and_Artillery_(Ukraine)" title="Rocket Forces and Artillery (Ukraine)">Rocket Forces and Artillery</a> Day</li> 
+       <li>November 3 – Corps of Engineers Day</li> 
+       <li>November 21 – <a href="/wiki/Ukrainian_Air_Assault_Forces" title="Ukrainian Air Assault Forces">Air Assault Forces</a> Day<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li> 
+       <li>December 6 – <a href="/wiki/Armed_Forces_Day" title="Armed Forces Day">Armed Forces Day</a>; festive fireworks and salutes take place in various cities in Ukraine<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> The holiday was established in 1993 by the <a href="/wiki/Verkhovna_Rada" title="Verkhovna Rada">Verkhovna Rada</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li> 
+       <li>December 12 – <a href="/wiki/Ukrainian_Ground_Forces" title="Ukrainian Ground Forces">Ground Forces</a> Day</li> 
+       <li>December 23 – Operational Servicemen Day</li>
+      </ul> 
+      <h2><span class="mw-headline" id="Other_national_holidays">Other national holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Ukraine&amp;action=edit&amp;section=3" title="Edit section: Other national holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li>January 22 - <a href="/wiki/Day_of_Unity_of_Ukraine" class="mw-redirect" title="Day of Unity of Ukraine">Ukrainian Unity Day</a>, marking both the 1918 <a href="/wiki/Fourth_Universal_of_the_Ukrainian_Central_Council" title="Fourth Universal of the Ukrainian Central Council">Fourth Universal of the Ukrainian Central Council</a> and the 1919 <a href="/wiki/Act_Zluky" title="Act Zluky">Unification Act</a></li> 
+       <li>August 23 - <a href="/wiki/Day_of_the_National_Flag_(Ukraine)" title="Day of the National Flag (Ukraine)">Flag Day</a></li> 
+       <li>August 29 - Day of Remembrance of the Defenders of Ukraine,<sup id="cite_ref-3089706remembrance_16-0" class="reference"><a href="#cite_note-3089706remembrance-16">[16]</a></sup> 29 August 2014 was the day of great Ukrainian casualties during the <a href="/wiki/Battle_of_Ilovaisk" title="Battle of Ilovaisk">Battle of Ilovaisk</a><sup id="cite_ref-3089706remembrance_16-1" class="reference"><a href="#cite_note-3089706remembrance-16">[16]</a></sup></li> 
+       <li>October 28 - <a href="/wiki/Liberation_Day_(Ukraine)" title="Liberation Day (Ukraine)">Liberation from Fascism Day</a></li> 
+       <li>November 21 - Dignity and Freedom Day, the anniversaries of both the first <a href="/wiki/Euromaidan" title="Euromaidan">Euromaidan</a> protest day in 2013 and the victory of the 2004 <a href="/wiki/Orange_Revolution" title="Orange Revolution">Orange Revolution</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Ukraine&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Christmas_in_Ukraine" title="Christmas in Ukraine">Christmas in Ukraine</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Ukraine&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://ukurier.gov.ua/uk/news/v-ukrayini-zyavivsya-she-odin-vihidnij-14-zhovtnya/">"В Україні з'явився ще один вихідний: 14 жовтня – День захисника України"</a>. <i>Урядовий Кур’єр</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-11-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=%D0%A3%D1%80%D1%8F%D0%B4%D0%BE%D0%B2%D0%B8%D0%B9+%D0%9A%D1%83%D1%80%E2%80%99%D1%94%D1%80&amp;rft.atitle=%D0%92+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96+%D0%B7%27%D1%8F%D0%B2%D0%B8%D0%B2%D1%81%D1%8F+%D1%89%D0%B5+%D0%BE%D0%B4%D0%B8%D0%BD+%D0%B2%D0%B8%D1%85%D1%96%D0%B4%D0%BD%D0%B8%D0%B9%3A+14+%D0%B6%D0%BE%D0%B2%D1%82%D0%BD%D1%8F+%E2%80%93+%D0%94%D0%B5%D0%BD%D1%8C+%D0%B7%D0%B0%D1%85%D0%B8%D1%81%D0%BD%D0%B8%D0%BA%D0%B0+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8&amp;rft_id=http%3A%2F%2Fukurier.gov.ua%2Fuk%2Fnews%2Fv-ukrayini-zyavivsya-she-odin-vihidnij-14-zhovtnya%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Ukraine" class="Z3988"></span></span> </li> 
+         <li id="cite_note-RFE28886838-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-RFE28886838_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RFE28886838_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.rferl.org/a/ukraine-poroshenko-december-25-public-holiday/28886838.html">Poroshenko Signs Law Declaring December 25 Public Holiday</a>, <a href="/wiki/Radio_Free_Europe/Radio_Liberty" title="Radio Free Europe/Radio Liberty">Radio Free Europe/Radio Liberty</a> (29 November 2017)</span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.rferl.org/a/ukraine-international-womens-day-rights-march-kyiv/29087163.html">Women Demand Equal Rights In Kyiv March</a>, <a href="/wiki/RFE/RL" class="mw-redirect" title="RFE/RL">RFE/RL</a> (March 08, 2018)</span> </li> 
+         <li id="cite_note-BBCU42008437c-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBCU42008437c_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBCU42008437c_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.bbc.com/ukrainian/news-42008437"><bdi lang="uk">Рада зробила 25 грудня вихідним днем</bdi></a>. <i>BBC Україна</i> (in Ukrainian). 2017-11-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-11-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&amp;rft.atitle=%D0%A0%D0%B0%D0%B4%D0%B0+%D0%B7%D1%80%D0%BE%D0%B1%D0%B8%D0%BB%D0%B0+25+%D0%B3%D1%80%D1%83%D0%B4%D0%BD%D1%8F+%D0%B2%D0%B8%D1%85%D1%96%D0%B4%D0%BD%D0%B8%D0%BC+%D0%B4%D0%BD%D0%B5%D0%BC&amp;rft.date=2017-11-16&amp;rft_id=http%3A%2F%2Fwww.bbc.com%2Fukrainian%2Fnews-42008437&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Ukraine" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.ukurier.gov.ua/uk/news/v-ukrayini-zyavivsya-she-odin-vihidnij-14-zhovtnya/">[1]</a></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://112.international/society/four-feasts-marked-in-ukraine-on-same-day-october-14-33104.html">Ukraine celebrates Day of Defender and three more holidays</a>, <a href="/wiki/112_Ukraine" title="112 Ukraine">112 Ukraine</a> (14 October 2018)</span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://m.digitaljournal.com/news/world/ukraine-seeks-distance-from-moscow-with-new-christmas-holiday/article/507753">"Ukraine seeks distance from Moscow with new Christmas holiday"</a>. <i>m.digitaljournal.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-11-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=m.digitaljournal.com&amp;rft.atitle=Ukraine+seeks+distance+from+Moscow+with+new+Christmas+holiday&amp;rft_id=http%3A%2F%2Fm.digitaljournal.com%2Fnews%2Fworld%2Fukraine-seeks-distance-from-moscow-with-new-christmas-holiday%2Farticle%2F507753&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Ukraine" class="Z3988"></span><br><span class="languageicon">(in Ukrainian)</span>
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.bbc.com/ukrainian/news-42008437">"Рада зробила 25 грудня вихідним днем"</a>. <i>BBC Україна</i>. 2017-11-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-11-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0&amp;rft.atitle=%D0%A0%D0%B0%D0%B4%D0%B0+%D0%B7%D1%80%D0%BE%D0%B1%D0%B8%D0%BB%D0%B0+25+%D0%B3%D1%80%D1%83%D0%B4%D0%BD%D1%8F+%D0%B2%D0%B8%D1%85%D1%96%D0%B4%D0%BD%D0%B8%D0%BC+%D0%B4%D0%BD%D0%B5%D0%BC&amp;rft.date=2017-11-16&amp;rft_id=http%3A%2F%2Fwww.bbc.com%2Fukrainian%2Fnews-42008437&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Ukraine" class="Z3988"></span></span> </li> 
+         <li id="cite_note-pndfsj-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-pndfsj_8-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://en.interfax.com.ua/news/general/271853.html">Ukrainian Navy to celebrate its holiday on first Sunday of July – decree</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150716175200/http://en.interfax.com.ua/news/general/271853.html">Archived</a> 2015-07-16 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, <a href="/wiki/Interfax-Ukraine" title="Interfax-Ukraine">Interfax-Ukraine</a> (12 June 2015)</span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFReif2001" class="citation book cs1"><a href="/w/index.php?title=Joe_Reif&amp;action=edit&amp;redlink=1" class="new" title="Joe Reif (page does not exist)">Reif, Joe</a> (2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=3NJt5Un2AEAC&amp;q=Ukrainian+%22Navy+day%22&amp;pg=PA781"><i>The Global Road Warrior: 100 Country Handbook for the International Business Traveler</i></a> (3&nbsp;ed.). <a href="/w/index.php?title=World_Trade_Press&amp;action=edit&amp;redlink=1" class="new" title="World Trade Press (page does not exist)">World Trade Press</a>. p.&nbsp;781. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/1-885073-86-0" title="Special:BookSources/1-885073-86-0"><bdi>1-885073-86-0</bdi></a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160204213432/https://books.google.com/books?id=3NJt5Un2AEAC&amp;pg=PA781&amp;dq=Ukrainian+%22Navy+day%22&amp;hl=nl&amp;sa=X&amp;ei=46oIT6PvJcKAOojRxZsB&amp;ved=0CEMQ6AEwAg#v=onepage&amp;q=Ukrainian%20%22Navy%20day%22&amp;f=false">Archived</a> from the original on 2016-02-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Global+Road+Warrior%3A+100+Country+Handbook+for+the+International+Business+Traveler&amp;rft.pages=781&amp;rft.edition=3&amp;rft.pub=World+Trade+Press&amp;rft.date=2001&amp;rft.isbn=1-885073-86-0&amp;rft.aulast=Reif&amp;rft.aufirst=Joe&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D3NJt5Un2AEAC%26q%3DUkrainian%2B%2522Navy%2Bday%2522%26pg%3DPA781&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Ukraine" class="Z3988"></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=AsQzDd41doAC&amp;q=Ukrainian+Navy++August+1%2C+1992&amp;pg=PA250"><i>Ukraine Intelligence &amp; Security Activities and Operations Handbook</i></a>. <a href="/w/index.php?title=International_Business_Publications,_USA&amp;action=edit&amp;redlink=1" class="new" title="International Business Publications, USA (page does not exist)">International Business Publications, USA</a>. 2009. p.&nbsp;250. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-7397-1661-8" title="Special:BookSources/978-0-7397-1661-8"><bdi>978-0-7397-1661-8</bdi></a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160511133159/https://books.google.com/books?id=AsQzDd41doAC&amp;pg=PA250&amp;lpg=PA250&amp;dq=Ukrainian+Navy++August+1,+1992&amp;source=bl&amp;ots=yJuER86KK2&amp;sig=bCgBoY4nj2wTJXZMp0piUt8MwuQ&amp;hl=nl&amp;sa=X&amp;ei=O68IT9fTGY3m-gaxoPXGCw&amp;sqi=2&amp;ved=0CEUQ6AEwBA#v=onepage&amp;q=Ukrainian%20Navy%20%20August%201%2C%201992&amp;f=false">Archived</a> from the original on 2016-05-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ukraine+Intelligence+%26+Security+Activities+and+Operations+Handbook&amp;rft.pages=250&amp;rft.pub=International+Business+Publications%2C+USA&amp;rft.date=2009&amp;rft.isbn=978-0-7397-1661-8&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DAsQzDd41doAC%26q%3DUkrainian%2BNavy%2B%2BAugust%2B1%252C%2B1992%26pg%3DPA250&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Ukraine" class="Z3988"></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.pravda.com.ua/news/2017/11/8/7161138/">"День десантників вирішили перенести"</a>. <i>Українська правда</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180113232044/http://www.pravda.com.ua/news/2017/11/8/7161138/">Archived</a> from the original on 13 January 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">27 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0+%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&amp;rft.atitle=%D0%94%D0%B5%D0%BD%D1%8C+%D0%B4%D0%B5%D1%81%D0%B0%D0%BD%D1%82%D0%BD%D0%B8%D0%BA%D1%96%D0%B2+%D0%B2%D0%B8%D1%80%D1%96%D1%88%D0%B8%D0%BB%D0%B8+%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%B5%D1%81%D1%82%D0%B8&amp;rft_id=http%3A%2F%2Fwww.pravda.com.ua%2Fnews%2F2017%2F11%2F8%2F7161138%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Ukraine" class="Z3988"></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.president.gov.ua/documents/3802017-23058">"Указ Президента України №380/2017 від 21 листопада 2017 року "Про День Десантно-штурмових військ Збройних Сил України<span class="cs1-kern-right">"</span>"</a>. <i>president.gov.ua</i>. Адміністрація Президента України. 2017-11-21. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171201032136/http://www.president.gov.ua/documents/3802017-23058">Archived</a> from the original on 2017-12-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=president.gov.ua&amp;rft.atitle=%D0%A3%D0%BA%D0%B0%D0%B7+%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8+%E2%84%96380%2F2017+%D0%B2%D1%96%D0%B4+21+%D0%BB%D0%B8%D1%81%D1%82%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0+2017+%D1%80%D0%BE%D0%BA%D1%83+%22%D0%9F%D1%80%D0%BE+%D0%94%D0%B5%D0%BD%D1%8C+%D0%94%D0%B5%D1%81%D0%B0%D0%BD%D1%82%D0%BD%D0%BE-%D1%88%D1%82%D1%83%D1%80%D0%BC%D0%BE%D0%B2%D0%B8%D1%85+%D0%B2%D1%96%D0%B9%D1%81%D1%8C%D0%BA+%D0%97%D0%B1%D1%80%D0%BE%D0%B9%D0%BD%D0%B8%D1%85+%D0%A1%D0%B8%D0%BB+%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8%22&amp;rft.date=2017-11-21&amp;rft_id=http%3A%2F%2Fwww.president.gov.ua%2Fdocuments%2F3802017-23058&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Ukraine" class="Z3988"></span></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.unian.info/war/2254451-poroshenko-469-ukrainian-paratroopers-killed-in-donbas-amid-war.html">"Poroshenko: 469 Ukrainian paratroopers killed in Donbas amid war"</a>. <i>UNIAN</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171201042554/https://www.unian.info/war/2254451-poroshenko-469-ukrainian-paratroopers-killed-in-donbas-amid-war.html">Archived</a> from the original on 2017-12-01<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=UNIAN&amp;rft.atitle=Poroshenko%3A+469+Ukrainian+paratroopers+killed+in+Donbas+amid+war&amp;rft_id=https%3A%2F%2Fwww.unian.info%2Fwar%2F2254451-poroshenko-469-ukrainian-paratroopers-killed-in-donbas-amid-war.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Ukraine" class="Z3988"></span></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unian.net/eng/news/news-350150.html">Festive fireworks and salutes to take place in 9 cities on Sunday</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20101224211520/http://www.unian.net/eng/news/news-350150.html">Archived</a> 2010-12-24 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, <a href="/wiki/UNIAN" class="mw-redirect" title="UNIAN">UNIAN</a> (December 3, 2009)</span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.unian.info/m/society/2282449-ukraine-marks-armed-forces-day-video.html">Ukraine marks Armed Forces Day (Video)</a>, <a href="/wiki/UNIAN" class="mw-redirect" title="UNIAN">UNIAN</a> (06 December 2017)</span> </li> 
+         <li id="cite_note-3089706remembrance-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-3089706remembrance_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-3089706remembrance_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.ukrinform.net/rubric-society/3089706-day-of-remembrance-of-ukraines-defenders-marked-today.html">Day of Remembrance of Ukraine’s Defenders marked today</a>, <a href="/wiki/Ukrinform" title="Ukrinform">Ukrinform</a> (29 August 2020)</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Ukraine&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Ukraine&amp;#124;link=Ukraine_Public_holidays_in_Ukraine" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Ukraine" title="Template:Public holidays in Ukraine"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Ukraine" title="Template talk:Public holidays in Ukraine"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Ukraine&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23x15px&amp;#124;border_&amp;#124;alt=Ukraine&amp;#124;link=Ukraine_Public_holidays_in_Ukraine" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><a href="/wiki/Ukraine" title="Ukraine"><img alt="Ukraine" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800"></a></span> <a class="mw-selflink selflink">Public holidays in Ukraine</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> (1 Jan)</li> 
+             <li>(<a href="/wiki/Julian_calendar" title="Julian calendar">Julian</a>) <a href="/wiki/Christmas_in_Ukraine" title="Christmas in Ukraine">Christmas</a> (7 Jan)</li> 
+             <li><a href="/wiki/International_Women%27s_Day" title="International Women's Day">International Women's Day</a> (8 Mar)</li> 
+             <li><a href="/wiki/Easter" title="Easter">Orthodox Easter</a> (moveable)</li> 
+             <li><a href="/wiki/Pentecost" title="Pentecost">Orthodox Pentecost</a> (moveable)</li> 
+             <li><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">Labour Day</a> (1 May)</li> 
+             <li><a href="/wiki/Victory_Day_over_Nazism_in_World_War_II" title="Victory Day over Nazism in World War II">Victory Day over Nazism</a> (9 May)</li> 
+             <li><a href="/wiki/Constitution_Day_(Ukraine)" title="Constitution Day (Ukraine)">Constitution Day</a> (28 June)</li> 
+             <li><a href="/wiki/Independence_Day_of_Ukraine" title="Independence Day of Ukraine">Independence Day</a> (24 Aug)</li> 
+             <li><a href="/wiki/Defender_of_Ukraine_Day" title="Defender of Ukraine Day">Defender of Ukraine Day</a> (14 Oct)</li> 
+             <li>(<a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian</a> and <a href="/wiki/Revised_Julian_calendar" title="Revised Julian calendar">Revised Julian</a>) <a href="/wiki/Christmas" title="Christmas">Christmas</a> (25 Dec)</li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Europe" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Europe" title="Template:Public holidays in Europe"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Europe" title="Template talk:Public holidays in Europe"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Europe&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Europe" style="font-size:114%;margin:0 4em">
+            Public holidays in Europe
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Albania" title="Public holidays in Albania">Albania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Andorra" title="Public holidays in Andorra">Andorra</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Austria" title="Public holidays in Austria">Austria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belarus" title="Public holidays in Belarus">Belarus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Belgium" title="Public holidays in Belgium">Belgium</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bosnia_and_Herzegovina" title="Public holidays in Bosnia and Herzegovina">Bosnia and Herzegovina</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bulgaria" title="Public holidays in Bulgaria">Bulgaria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Croatia" title="Public holidays in Croatia">Croatia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Czech_Republic" title="Public holidays in the Czech Republic">Czech Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Denmark" title="Public holidays in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Estonia" title="Public holidays in Estonia">Estonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Finland" title="Public holidays in Finland">Finland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_France" title="Public holidays in France">France</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Germany" title="Public holidays in Germany">Germany</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Greece" title="Public holidays in Greece">Greece</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hungary" title="Public holidays in Hungary">Hungary</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iceland" title="Public holidays in Iceland">Iceland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Ireland" title="Public holidays in the Republic of Ireland">Ireland</a></li> 
+             <li class="mw-empty-elt"></li> 
+             <li><a href="/wiki/Public_holidays_in_Italy" title="Public holidays in Italy">Italy</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Latvia" title="Public holidays in Latvia">Latvia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liechtenstein" title="Public holidays in Liechtenstein">Liechtenstein</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lithuania" title="Public holidays in Lithuania">Lithuania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Luxembourg" title="Public holidays in Luxembourg">Luxembourg</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malta" title="Public holidays in Malta">Malta</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Moldova" title="Public holidays in Moldova">Moldova</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Monaco" title="Public holidays in Monaco">Monaco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Montenegro" title="Public holidays in Montenegro">Montenegro</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Netherlands" title="Public holidays in the Netherlands">Netherlands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Macedonia" title="Public holidays in North Macedonia">North Macedonia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Norway" title="Public holidays in Norway">Norway</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Poland" title="Public holidays in Poland">Poland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Portugal" title="Public holidays in Portugal">Portugal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Romania" title="Public holidays in Romania">Romania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_San_Marino" class="mw-redirect" title="Public holidays in San Marino">San Marino</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Serbia" title="Public holidays in Serbia">Serbia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovakia" title="Public holidays in Slovakia">Slovakia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Slovenia" title="Public holidays in Slovenia">Slovenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Spain" title="Public holidays in Spain">Spain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sweden" title="Public holidays in Sweden">Sweden</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Switzerland" title="Public holidays in Switzerland">Switzerland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a class="mw-selflink selflink">Ukraine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Kingdom" title="Public holidays in the United Kingdom">United Kingdom</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vatican_City" title="Public holidays in Vatican City">Vatican City</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">States with limited<br>recognition</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kosovo" title="Public holidays in Kosovo">Kosovo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Transnistria" title="Public holidays in Transnistria">Transnistria</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Dependencies and<br>other entities</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_%C3%85land" title="Public holidays in Åland">Åland</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Faroe_Islands" title="Public holidays in the Faroe Islands">Faroe Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gibraltar" title="Public holidays in Gibraltar">Gibraltar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guernsey" title="Public holidays in Guernsey">Guernsey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Isle_of_Man" title="Public holidays in the Isle of Man">Isle of Man</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jersey" title="Public holidays in Jersey">Jersey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Svalbard" title="Public holidays in Svalbard">Svalbard</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other entities</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_European_Union" title="Public holidays in the European Union">European Union</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <p><br> </p> 
+      <table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+       <tbody>
+        <tr class="noresize">
+         <td><a href="/wiki/File:Outline_of_Ukraine.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Outline_of_Ukraine.svg/30px-Outline_of_Ukraine.svg.png" decoding="async" width="30" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Outline_of_Ukraine.svg/45px-Outline_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Outline_of_Ukraine.svg/60px-Outline_of_Ukraine.svg.png 2x" data-file-width="1187" data-file-height="798"></a></td>
+         <td><i>This article relating to <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Ukraine&amp;action=edit">expanding it</a>.</i>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+          <div class="navbar plainlinks hlist navbar-mini" style="position: absolute; right: 15px; display: none;">
+           <ul>
+            <li class="nv-view"><a href="/wiki/Template:Ukraine-stub" title="Template:Ukraine-stub"><abbr title="View this template">v</abbr></a></li>
+            <li class="nv-talk"><a href="/wiki/Template_talk:Ukraine-stub" title="Template talk:Ukraine-stub"><abbr title="Discuss this template">t</abbr></a></li>
+            <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Ukraine-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+           </ul>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> <!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20210130155159
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.752 seconds
+Real time usage: 1.180 seconds
+Preprocessor visited node count: 11717/1000000
+Post‐expand include size: 69181/2097152 bytes
+Template argument size: 7016/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 38744/5000000 bytes
+Lua time usage: 0.355/10.000 seconds
+Lua memory usage: 22221436/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1013.109      1 -total
+ 41.41%  419.579      1 Template:Reflist
+ 33.15%  335.876      2 Template:Navbox
+ 27.08%  274.358      1 Template:Public_holidays_in_Europe
+ 26.46%  268.038      1 Template:Europe_topic
+ 21.26%  215.375     49 Template:Iso2country
+ 18.04%  182.793      1 Template:In_lang
+ 14.29%  144.816      4 Template:Cite_news
+ 13.80%  139.793      1 Template:Short_description
+  9.66%   97.897      1 Template:Public_holidays_in_Ukraine
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:18012089-0!canonical and timestamp 20210130155157 and revision id 999983538. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Ukraine&amp;oldid=999983538">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Ukraine&amp;oldid=999983538</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Ukraine" title="Category:Public holidays in Ukraine">Public holidays in Ukraine</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Ukraine-related_lists" title="Category:Ukraine-related lists">Ukraine-related lists</a></li>
+       <li><a href="/wiki/Category:Ukrainian_culture" title="Category:Ukrainian culture">Ukrainian culture</a></li>
+       <li><a href="/wiki/Category:Observances_in_Ukraine" title="Category:Observances in Ukraine">Observances in Ukraine</a></li>
+       <li><a href="/wiki/Category:Ukraine_stubs" title="Category:Ukraine stubs">Ukraine stubs</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_uses_Ukrainian-language_script_(uk)" title="Category:CS1 uses Ukrainian-language script (uk)">CS1 uses Ukrainian-language script (uk)</a></li>
+       <li><a href="/wiki/Category:CS1_Ukrainian-language_sources_(uk)" title="Category:CS1 Ukrainian-language sources (uk)">CS1 Ukrainian-language sources (uk)</a></li>
+       <li><a href="/wiki/Category:Articles_with_Ukrainian-language_sources_(uk)" title="Category:Articles with Ukrainian-language sources (uk)">Articles with Ukrainian-language sources (uk)</a></li>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Ukraine" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Ukraine" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Ukraine" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Ukraine" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Ukraine">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Ukraine&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Ukraine&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Ukraine" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Ukraine" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Ukraine&amp;oldid=999983538" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Ukraine&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Ukraine&amp;id=999983538&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q258210" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Ukraine&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Ukraine&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Holidays_in_Ukraine" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D8%B9%D8%B7%D9%84_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9_%D9%81%D9%8A_%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7" title="قائمة العطل الرسمية في أوكرانيا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D1%8B_%D0%A3%D0%BA%D1%80%D0%B0%D1%96%D0%BD%D1%8B" title="Святы Украіны – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%A1%D1%8C%D0%B2%D1%8F%D1%82%D1%8B_%D0%8E%D0%BA%D1%80%D0%B0%D1%96%D0%BD%D1%8B" title="Сьвяты Ўкраіны – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%88%D6%82%D5%AF%D6%80%D5%A1%D5%AB%D5%B6%D5%A1%D5%B5%D5%AB_%D5%BF%D5%B8%D5%B6%D5%A5%D6%80" title="Ուկրաինայի տոներ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Ukrainos_%C5%A1vent%C4%97s" title="Sąrašas:Ukrainos šventės – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Feriados_p%C3%BAblicos_da_Ucr%C3%A2nia" title="Feriados públicos da Ucrânia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%94%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8_%D0%BF%D1%80%D0%B0%D0%B7%D0%BD%D0%B8%D1%86%D0%B8_%D1%83_%D0%A3%D0%BA%D1%80%D0%B0%D1%98%D0%B8%D0%BD%D0%B8" title="Државни празници у Украјини – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Helgdagar_i_Ukraina" title="Helgdagar i Ukraina – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%A2%E0%B8%B9%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%99" title="วันหยุดในประเทศยูเครน – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D0%BE%D0%B1%D0%BE%D1%87%D1%96_%D0%B4%D0%BD%D1%96_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96" title="Неробочі дні в Україні – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q258210#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 12 January 2021, at 23:07<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Ukraine&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.752","walltime":"1.180","ppvisitednodes":{"value":11717,"limit":1000000},"postexpandincludesize":{"value":69181,"limit":2097152},"templateargumentsize":{"value":7016,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":38744,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1013.109      1 -total"," 41.41%  419.579      1 Template:Reflist"," 33.15%  335.876      2 Template:Navbox"," 27.08%  274.358      1 Template:Public_holidays_in_Europe"," 26.46%  268.038      1 Template:Europe_topic"," 21.26%  215.375     49 Template:Iso2country"," 18.04%  182.793      1 Template:In_lang"," 14.29%  144.816      4 Template:Cite_news"," 13.80%  139.793      1 Template:Short_description","  9.66%   97.897      1 Template:Public_holidays_in_Ukraine"]},"scribunto":{"limitreport-timeusage":{"value":"0.355","limit":"10.000"},"limitreport-memusage":{"value":22221436,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20210130155159","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Ukraine","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Ukraine","sameAs":"http:\/\/www.wikidata.org\/entity\/Q258210","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q258210","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-06-18T22:45:37Z","dateModified":"2021-01-12T23:07:21Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3a\/Ukrflagblue.jpg","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1461,"wgHostname":"mw1266"});});</script> 
+ </body>
+</html>

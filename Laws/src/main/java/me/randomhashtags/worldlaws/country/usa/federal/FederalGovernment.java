@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.country.usa.federal;
 
-import me.randomhashtags.worldlaws.law.StateIndex;
-import me.randomhashtags.worldlaws.law.StateReference;
-import me.randomhashtags.worldlaws.law.State;
-import me.randomhashtags.worldlaws.law.StateStatute;
+import me.randomhashtags.worldlaws.country.StateIndex;
+import me.randomhashtags.worldlaws.country.StateReference;
+import me.randomhashtags.worldlaws.country.State;
+import me.randomhashtags.worldlaws.country.StateStatute;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
@@ -22,9 +22,9 @@ public enum FederalGovernment implements State {
             "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title%index%-section%section%&num=0&edition=prelim"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
+    private final String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
     private StringBuilder indexesJSON;
-    private HashMap<String, String> tableOfChaptersJSON, statutesJSON, statutes;
+    private final HashMap<String, String> tableOfChaptersJSON, statutesJSON, statutes;
 
     FederalGovernment(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
         this.indexesURL = indexesURL;

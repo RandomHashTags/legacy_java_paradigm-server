@@ -1,0 +1,793 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Botswana - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBXbfPfjdK8NYp@MjCNJfwAAANE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Botswana","wgTitle":"Public holidays in Botswana","wgCurRevisionId":999294583,"wgRevisionId":999294583,"wgArticleId":6929379,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: Julian–Gregorian uncertainty","Articles with short description","Short description is different from Wikidata","Use British English from May 2014","Use dmy dates from May 2014","Infobox holiday with missing field","Moveable holidays (2015 date missing)",
+"Infobox holiday (other)","Public holidays in Botswana","Lists of public holidays by country","Botswana culture","Botswana society"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Botswana","wgRelevantArticleId":6929379,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":
+"Q7257765"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1200px-Flag_of_Botswana.svg.png"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Botswana"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Botswana&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Botswana&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Botswana"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Botswana rootpage-Public_holidays_in_Botswana skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Botswana</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p class="mw-empty-elt"> </p> 
+      <table class="infobox vevent" style="width:22em">
+       <tbody>
+        <tr>
+         <th colspan="2" class="hd" style="text-align:center;font-size:125%;font-weight:bold;background-color: #ddccff">Public holidays in Botswana</th>
+        </tr>
+        <tr>
+         <td colspan="2" style="text-align:center"><a href="/wiki/File:Flag_of_Botswana.svg" class="image"><img alt="Flag of Botswana.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/250px-Flag_of_Botswana.svg.png" decoding="async" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/375px-Flag_of_Botswana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/500px-Flag_of_Botswana.svg.png 2x" data-file-width="1200" data-file-height="800"></a></td>
+        </tr>
+        <tr>
+         <th scope="row">Observed&nbsp;by</th>
+         <td><a href="/wiki/Tswana_people" title="Tswana people">Batswana</a></td>
+        </tr>
+        <tr>
+         <th scope="row">Type</th>
+         <td>National</td>
+        </tr>
+        <tr>
+         <th scope="row">Frequency</th>
+         <td>Annual</td>
+        </tr>
+       </tbody>
+      </table>
+      <p><a href="/wiki/Public_holidays" class="mw-redirect" title="Public holidays">Public holidays</a> in <a href="/wiki/Botswana" title="Botswana">Botswana</a> are largely controlled by government sector employers who are given paid time off. The government holiday schedule mainly benefits employees of government and government regulated businesses. At the discretion of the employer, other non-federal holidays such as <a href="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</a> are common additions to the list of paid holidays. </p>
+      <p>Major <a href="/wiki/Christianity" title="Christianity">Christian</a> holidays such as <a href="/wiki/Christmas" title="Christmas">Christmas</a> and <a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> are officially observed, leave is permitted for other religious holidays as well. For example, some school children and employees take days off for <a href="/wiki/Muslim_holidays" class="mw-redirect" title="Muslim holidays">Muslim holidays</a>, <a href="/wiki/List_of_Hindu_festivals" title="List of Hindu festivals">Hindu holidays</a>, or <a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Eastern Orthodox</a> observances according to the <a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a>. While not normally taken off work, <a href="/wiki/Valentine%27s_Day" title="Valentine's Day">Valentine's Day</a>, <a href="/wiki/Halloween" title="Halloween">Halloween</a>, <a href="/wiki/Mother%27s_Day" title="Mother's Day">Mother's Day</a>, and <a href="/wiki/Father%27s_Day" title="Father's Day">Father's Day</a> are traditionally observed by the <a href="/wiki/Tswana_people" title="Tswana people">Batswana</a>. <span data-ve-clipboard-key="0.5989953683402354-3"> </span> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Public_holidays"><span class="tocnumber">1</span> <span class="toctext">Public holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Nationwide_public_holidays_in_Botswana"><span class="tocnumber">2</span> <span class="toctext">Nationwide public holidays in Botswana</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Holidays_with_religious_and_cultural_significance"><span class="tocnumber">3</span> <span class="toctext">Holidays with religious and cultural significance</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-4"><a href="#Christian_holidays"><span class="tocnumber">3.1</span> <span class="toctext">Christian holidays</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Public_holidays">Public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Botswana&amp;action=edit&amp;section=1" title="Edit section: Public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>A public holiday (also known as "stats" or "general" or "statutory" holiday) in Botswana is legislated through the parliament of Botswana.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Most workers, public and private, are entitled to take the day off with regular pay. However, some employers may require employees to work on such a holiday, but the employee must either receive a day off in lieu of the holiday or must be paid at a premium rate – usually 1½ (known as "time and a half") or twice (known as "double time") the regular pay for their time worked that day, in addition to the holiday pay.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Nationwide_public_holidays_in_Botswana">Nationwide public holidays in Botswana</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Botswana&amp;action=edit&amp;section=2" title="Edit section: Nationwide public holidays in Botswana">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table style="background: #f9f9f9; border: 1px #AAA solid; border-collapse: collapse; font-size: 95%; float: center;" class="wikitable"> 
+       <caption> 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th style="width:12%;">Date </th> 
+         <th style="width:15%;">Name </th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr valign="top"> 
+         <td>1 January </td> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> </td> 
+         <td>Celebrates the first day of every year in the Eastern calendar. </td>
+        </tr> 
+        <tr valign="top"> 
+         <td>April </td> 
+         <td><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> </td> 
+         <td>Commemorates the <a href="/wiki/Crucifixion_of_Jesus" title="Crucifixion of Jesus">crucifixion of Jesus</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[a]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>April or May<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[b]</a></sup> </td> 
+         <td><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a> </td> 
+         <td>Celebrates the <a href="/wiki/Resurrection_of_Jesus" title="Resurrection of Jesus">resurrection of</a> <a href="/wiki/Jesus" title="Jesus">Jesus Christ</a> from the dead.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[c]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[3]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>1 May </td> 
+         <td><a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a> </td> 
+         <td>Celebrate the achievements of <a href="/wiki/Worker" class="mw-redirect" title="Worker">workers</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[4]</a></sup><sup id="cite_ref-jam_8-0" class="reference"><a href="#cite_note-jam-8">[5]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>May or June<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[d]</a></sup> </td> 
+         <td><a href="/wiki/Ascension_of_Jesus" title="Ascension of Jesus">Ascension Day</a> </td> 
+         <td>Commemorates the bodily <a href="/wiki/Ascension_of_Jesus" title="Ascension of Jesus">Ascension of Jesus</a> into heaven.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[6]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[7]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>1 July </td> 
+         <td><a href="/wiki/Seretse_Khama" title="Seretse Khama">Sir Seretse Khama Day</a> </td> 
+         <td>Celebrate birth of the first president.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[8]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>July (Tuesday 3rd Monday) </td> 
+         <td><a href="/wiki/Presidents%27_Day_(Botswana)" title="Presidents' Day (Botswana)">Presidents' Day</a> </td> 
+         <td>A one-day holiday held on the third Monday of July.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[9]</a></sup> </td>
+        </tr> 
+        <tr valign="top"> 
+         <td>30 September </td> 
+         <td><a href="/wiki/Botswana_Day" class="mw-redirect" title="Botswana Day">Botswana Day</a> </td> 
+         <td>The date celebrates Botswana's Declaration of Independence from the United Kingdom on September 30, 1960.1966.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[10]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>1 October </td> 
+         <td>Botswana Day Holiday </td> 
+         <td>Celebrates economic and social achievements of workers. </td>
+        </tr> 
+        <tr valign="top"> 
+         <td>25 December </td> 
+         <td><a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a> </td> 
+         <td>Celebrates the <a href="/wiki/Nativity_of_Jesus" title="Nativity of Jesus">Nativity of Jesus</a>. </td>
+        </tr> 
+        <tr> 
+         <td>26 December </td> 
+         <td><a href="/wiki/Boxing_Day" title="Boxing Day">Boxing Day</a> </td> 
+         <td>Celebrated on the day following <a href="/wiki/Christmas_Day" class="mw-redirect" title="Christmas Day">Christmas Day</a>, when servants and <a href="/wiki/Tradesmen" class="mw-redirect" title="Tradesmen">tradesmen</a> would traditionally receive gifts known as a "Christmas box" from their masters, employers or customers.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[11]</a></sup> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Holidays_with_religious_and_cultural_significance">Holidays with religious and cultural significance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Botswana&amp;action=edit&amp;section=3" title="Edit section: Holidays with religious and cultural significance">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The religious and cultural holidays in Botswana are characterized by a diversity of religious beliefs and practices. </p> 
+      <h3><span class="mw-headline" id="Christian_holidays">Christian holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Botswana&amp;action=edit&amp;section=4" title="Edit section: Christian holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Some private businesses and certain other institutions are closed on Good Friday. The financial market and stock market is closed on Good Friday. Most retail stores remain open although some might close early. Public schools and most universities are closed on Good Friday, either as a holiday of its own, or part of spring break. The postal service operates, and banks regulated by the federal government do not close for Good Friday. </p>
+      <p>Many companies, including banks, malls, shopping centers and most private retail stores that normally open on Sundays are closed on <a href="/wiki/Easter" title="Easter">Easter</a>. </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:174px;">
+        <a href="/wiki/File:Box_of_Valentine_Chocolates.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Box_of_Valentine_Chocolates.JPG/172px-Box_of_Valentine_Chocolates.JPG" decoding="async" width="172" height="144" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Box_of_Valentine_Chocolates.JPG/258px-Box_of_Valentine_Chocolates.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Box_of_Valentine_Chocolates.JPG/344px-Box_of_Valentine_Chocolates.JPG 2x" data-file-width="4742" data-file-height="3977"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Box_of_Valentine_Chocolates.JPG" class="internal" title="Enlarge"></a>
+         </div>Box of Valentine chocolates, typically sold around Valentine's Day
+        </div>
+       </div>
+      </div> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date </th> 
+         <th>Name </th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr> 
+         <td>14 February </td> 
+         <td><a href="/wiki/Valentine%27s_Day" title="Valentine's Day">Valentine's Day</a> </td> 
+         <td>St. Valentine's Day, or simply Valentine's Day is named after one or more early Christian martyrs named Saint Valentine, and was established by Pope Gelasius I in 496 AD. Modern traditional celebration of love and romance, including the exchange of cards, <a href="/wiki/Candy" title="Candy">candy</a>, flowers, and other gifts. </td>
+        </tr> 
+        <tr> 
+         <td>February or March, <a href="/wiki/Moveable_feast" title="Moveable feast">date varies</a> </td> 
+         <td><a href="/wiki/Ash_Wednesday" title="Ash Wednesday">Ash Wednesday</a> </td> 
+         <td>Closes with <a href="/wiki/Ash_Wednesday" title="Ash Wednesday">Ash Wednesday</a> (40 days before <a href="/wiki/Easter" title="Easter">Easter</a>, not counting Sundays), which starts the penitential season of <a href="/wiki/Lent" title="Lent">Lent</a> in the <a href="/wiki/Western_Christianity" title="Western Christianity">Western Christian</a> calendar. </td>
+        </tr> 
+        <tr> 
+         <td>Sunday before Easter </td> 
+         <td><a href="/wiki/Palm_Sunday" title="Palm Sunday">Palm Sunday</a> </td> 
+         <td>Celebration to commemorate the entry of <a href="/wiki/Jesus" title="Jesus">Jesus</a> into Jerusalem. </td>
+        </tr> 
+        <tr> 
+         <td>The Friday before <a href="/wiki/Easter#Eastern_Christianity" title="Easter">(Eastern) Easter</a> </td> 
+         <td><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> </td> 
+         <td>Friday of Holy Week, when Western Christians commemorate the <a href="/wiki/Crucifixion" title="Crucifixion">crucifixion</a> and death of <a href="/wiki/Jesus" title="Jesus">Jesus</a>. Federal banks and post offices that are located in buildings that close for Good Friday and Easter will also be closed. Many public and private schools, colleges, universities and private-sector businesses; and the Botswana Stock Exchange and financial markets are closed on Good Friday. </td>
+        </tr> 
+        <tr> 
+         <td>Sunday following the <a href="/wiki/Paschal_Full_Moon" class="mw-redirect" title="Paschal Full Moon">Paschal Full Moon</a>, date varies from 22 March to 25 April, inclusive (see <a href="/wiki/Computus" title="Computus">Computus</a>), </td> 
+         <td><a href="/wiki/Easter#Western_Christianity" title="Easter">Easter</a> </td> 
+         <td>Celebration of the <a href="/wiki/Resurrection_of_Jesus" title="Resurrection of Jesus">resurrection of Jesus</a> in most Western Christian churches. Many of the Batswana decorate hard-boiled eggs and give <a href="/wiki/Easter_Basket" class="mw-redirect" title="Easter Basket">baskets</a> of candy, fruit, toys and so on, especially to children; but gifts of age-appropriate Easter baskets for the elderly, the infirm and the needy are increasingly popular. Not a federal holiday due to the fact that it always falls on a Sunday, which is a non-working day for federal and state employees. Many companies that are normally open on Sunday close for Easter. </td>
+        </tr> 
+        <tr> 
+         <td>31 October </td> 
+         <td><a href="/wiki/Halloween" title="Halloween">Halloween</a> </td> 
+         <td>Originally the end of the Celtic harvest season, it now celebrates the Eve of <a href="/wiki/All_Saint%27s_Day" class="mw-redirect" title="All Saint's Day">All Saint's Day</a>. Decorations include <a href="/wiki/Jack-o%27-lantern" title="Jack-o'-lantern">jack o'lanterns</a>. Costume parties and candy such as <a href="/wiki/Candy_corn" title="Candy corn">candy corn</a> are also part of the holiday. Kids go "<a href="/wiki/Trick-or-treat" class="mw-redirect" title="Trick-or-treat">trick-or-treating</a>" to neighbors who give them candy. </td>
+        </tr> 
+        <tr> 
+         <td>24 December </td> 
+         <td><a href="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</a> </td> 
+         <td>Day before <a href="/wiki/Christmas" title="Christmas">Christmas</a>. Virtually every business closes early, though a few remain open 24 hours. </td>
+        </tr> 
+        <tr> 
+         <td>25 December </td> 
+         <td><a href="/wiki/Christmas" title="Christmas">Christmas</a> </td> 
+         <td>Christmas celebrates the birth of Jesus Christ. It is a Federal Holiday. </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Botswana&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style>
+      <div role="navigation" aria-label="Portals" class="noprint portal plainlist tright"> 
+       <ul> 
+        <li><span><a href="/wiki/File:Calendar_icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/22px-Calendar_icon.svg.png" decoding="async" width="22" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/33px-Calendar_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/44px-Calendar_icon.svg.png 2x" data-file-width="720" data-file-height="920"></a></span><span><a href="/wiki/Portal:Holidays" title="Portal:Holidays">Holidays portal</a></span></li>
+       </ul>
+      </div> 
+      <ul>
+       <li><a href="/wiki/Easter_controversy" title="Easter controversy">Easter controversy</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Botswana&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: lower-alpha;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"> Non-federally regulated employers must give either Good Friday or Easter Monday as a statutory holiday, though some give both days.</span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Date varies because of <a href="/wiki/Western_Christianity" title="Western Christianity">Western</a> and <a href="/wiki/Eastern_Christianity" title="Eastern Christianity">Eastern Christianity</a>.</span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"> Non-federally regulated employers must give either Good Friday or Easter Monday as a statutory holiday, though some give both days.</span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Date varies because of <a href="/wiki/Western_Christianity" title="Western Christianity">Western</a> and <a href="/wiki/Eastern_Christianity" title="Eastern Christianity">Eastern Christianity</a>.</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Botswana_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Botswana_topics" title="Template:Botswana topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Botswana_topics" title="Template talk:Botswana topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Botswana_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Botswana_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Botswana" title="Botswana">Botswana</a>&nbsp;<a href="/wiki/Index_of_Botswana-related_articles" class="mw-redirect" title="Index of Botswana-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Botswana" title="History of Botswana">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Bantu_expansion" title="Bantu expansion">Bantu expansion</a></li> 
+             <li><a href="/wiki/Cape_Colony" title="Cape Colony">Cape Colony</a></li> 
+             <li><a href="/wiki/Stellaland" title="Stellaland">United States of Stellaland</a></li> 
+             <li><a href="/wiki/Bechuanaland_Protectorate" title="Bechuanaland Protectorate">Bechuanaland Protectorate</a></li> 
+             <li><a href="/wiki/History_of_Gaborone" title="History of Gaborone">History of Gaborone</a></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Coat_of_arms_of_Botswana" title="Coat of arms of Botswana"><img alt="Coat of arms of Botswana" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_Botswana.svg/110px-Coat_of_arms_of_Botswana.svg.png" decoding="async" width="110" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_Botswana.svg/165px-Coat_of_arms_of_Botswana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_Botswana.svg/220px-Coat_of_arms_of_Botswana.svg.png 2x" data-file-width="588" data-file-height="454"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Botswana" title="Geography of Botswana">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_cities_in_Botswana" title="List of cities in Botswana">Cities</a></li> 
+                 <li><a href="/wiki/Districts_of_Botswana" title="Districts of Botswana">Districts</a></li> 
+                 <li><a href="/wiki/List_of_reservoirs_and_dams_in_Botswana" class="mw-redirect" title="List of reservoirs and dams in Botswana">Reservoirs and dams</a></li> 
+                 <li><a href="/wiki/List_of_rivers_of_Botswana" title="List of rivers of Botswana">Rivers</a></li> 
+                 <li><a href="/wiki/Wildlife_of_Botswana" title="Wildlife of Botswana">Wildlife</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Botswana" title="Politics of Botswana">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Constitution_of_Botswana" title="Constitution of Botswana">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_Botswana" title="Elections in Botswana">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Botswana" title="Foreign relations of Botswana">Foreign relations</a></li> 
+                 <li><a href="/wiki/Human_rights_in_Botswana" title="Human rights in Botswana">Human rights</a> 
+                  <ul>
+                   <li><a href="/wiki/LGBT_rights_in_Botswana" title="LGBT rights in Botswana">LGBT</a></li> 
+                   <li><a href="/wiki/Human_trafficking_in_Botswana" title="Human trafficking in Botswana">Human trafficking</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Botswana_Defence_Force" title="Botswana Defence Force">Military</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Botswana" title="List of political parties in Botswana">Political parties</a></li> 
+                 <li><a href="/wiki/President_of_Botswana" title="President of Botswana">President</a></li> 
+                 <li><a href="/wiki/Vice-President_of_Botswana" title="Vice-President of Botswana">Vice-President</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Botswana" title="Economy of Botswana">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_companies_of_Botswana" title="List of companies of Botswana">Companies</a></li> 
+                 <li><a href="/wiki/Energy_in_Botswana" title="Energy in Botswana">Energy</a></li> 
+                 <li><a href="/wiki/Mining_industry_of_Botswana" title="Mining industry of Botswana">Mining</a></li> 
+                 <li><a href="/wiki/Botswana_pula" title="Botswana pula">Pula <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Botswana" title="Telecommunications in Botswana">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Botswana" title="Tourism in Botswana">Tourism</a></li> 
+                 <li><a href="/wiki/Trade_unions_in_Botswana" title="Trade unions in Botswana">Trade unions</a></li> 
+                 <li><a href="/wiki/Transport_in_Botswana" title="Transport in Botswana">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Culture_of_Botswana" title="Culture of Botswana">Culture</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Botswana_cuisine" title="Botswana cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Flag_of_Botswana" title="Flag of Botswana">Flag</a></li> 
+                 <li><a href="/wiki/Media_of_Botswana" class="mw-redirect" title="Media of Botswana">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Botswana" title="Music of Botswana">Music</a></li> 
+                 <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                 <li><a href="/wiki/Sport_in_Botswana" title="Sport in Botswana">Sport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Demographics_of_Botswana" title="Demographics of Botswana">Demographics</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Child_marriage_in_Botswana" title="Child marriage in Botswana">Child marriage</a></li> 
+                 <li><a href="/wiki/Education_in_Botswana" title="Education in Botswana">Education</a></li> 
+                 <li><a href="/wiki/Ethnic_groups_in_Botswana" title="Ethnic groups in Botswana">Ethnic groups</a></li> 
+                 <li><a href="/wiki/Health_in_Botswana" title="Health in Botswana">Health</a></li> 
+                 <li><a href="/wiki/Human_trafficking_in_Botswana" title="Human trafficking in Botswana">Human trafficking</a></li> 
+                 <li><a href="/wiki/Tswana_people" title="Tswana people">People</a></li> 
+                 <li><a href="/wiki/Polygamy_in_Botswana" title="Polygamy in Botswana">Polygamy</a></li> 
+                 <li><a href="/wiki/Prostitution_in_Botswana" title="Prostitution in Botswana">Prostitution</a></li> 
+                 <li><a href="/wiki/Religion_in_Botswana" title="Religion in Botswana">Religion</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Botswana" title="Outline of Botswana">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Botswana-related_articles" class="mw-redirect" title="Index of Botswana-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Botswana" title="Category:Botswana">Category</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Africa" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Africa_topic" title="Template:Africa topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Africa_topic" title="Template talk:Africa topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Africa_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Africa" style="font-size:114%;margin:0 4em">
+            Public holidays in Africa
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Algeria" title="Public holidays in Algeria">Algeria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Angola" title="Public holidays in Angola">Angola</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Benin" title="Public holidays in Benin">Benin</a></li> 
+             <li><a class="mw-selflink selflink">Botswana</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Burkina_Faso" title="Public holidays in Burkina Faso">Burkina Faso</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Burundi" title="Public holidays in Burundi">Burundi</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cameroon" title="Public holidays in Cameroon">Cameroon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cape_Verde" title="Public holidays in Cape Verde">Cape Verde (Cabo Verde)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Central_African_Republic" title="Public holidays in the Central African Republic">Central African Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Chad" title="Public holidays in Chad">Chad</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Comoros" title="Public holidays in the Comoros">Comoros</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Democratic_Republic_of_the_Congo" title="Public holidays in the Democratic Republic of the Congo">Democratic Republic of the Congo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_the_Congo" title="Public holidays in the Republic of the Congo">Republic of the Congo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Djibouti" title="Public holidays in Djibouti">Djibouti</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Equatorial_Guinea" title="Public holidays in Equatorial Guinea">Equatorial Guinea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Eritrea" title="Public holidays in Eritrea">Eritrea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Eswatini" title="Public holidays in Eswatini">Eswatini (Swaziland)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ethiopia" title="Public holidays in Ethiopia">Ethiopia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Gabon" title="Public holidays in Gabon">Gabon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Gambia" title="Public holidays in the Gambia">The Gambia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ghana" title="Public holidays in Ghana">Ghana</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guinea" title="Public holidays in Guinea">Guinea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Guinea-Bissau" title="Public holidays in Guinea-Bissau">Guinea-Bissau</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Ivory_Coast" title="Public holidays in Ivory Coast">Ivory Coast (Côte d'Ivoire)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kenya" title="Public holidays in Kenya">Kenya</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lesotho" title="Public holidays in Lesotho">Lesotho</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Liberia" title="Public holidays in Liberia">Liberia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Libya" title="Public holidays in Libya">Libya</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Madagascar" title="Public holidays in Madagascar">Madagascar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malawi" title="Public holidays in Malawi">Malawi</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mali" title="Public holidays in Mali">Mali</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mauritania" title="Public holidays in Mauritania">Mauritania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mauritius" class="mw-redirect" title="Public holidays in Mauritius">Mauritius</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Morocco" title="Public holidays in Morocco">Morocco</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mozambique" title="Public holidays in Mozambique">Mozambique</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Namibia" title="Public holidays in Namibia">Namibia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Niger" title="Public holidays in Niger">Niger</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nigeria" title="Public holidays in Nigeria">Nigeria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Rwanda" title="Public holidays in Rwanda">Rwanda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" title="Public holidays in São Tomé and Príncipe">São Tomé and Príncipe</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Senegal" title="Public holidays in Senegal">Senegal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Seychelles" title="Public holidays in Seychelles">Seychelles</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sierra_Leone" title="Public holidays in Sierra Leone">Sierra Leone</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Somalia" title="Public holidays in Somalia">Somalia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Africa" title="Public holidays in South Africa">South Africa</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Sudan" title="Public holidays in South Sudan">South Sudan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sudan" title="Public holidays in Sudan">Sudan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tanzania" title="Public holidays in Tanzania">Tanzania</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Togo" title="Public holidays in Togo">Togo</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tunisia" title="Public holidays in Tunisia">Tunisia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uganda" title="Public holidays in Uganda">Uganda</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Zambia" title="Public holidays in Zambia">Zambia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Zimbabwe" title="Public holidays in Zimbabwe">Zimbabwe</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            States with limited
+            <br>recognition
+           </div></th>
+          <td class="navbox-list navbox-even hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_the_Sahrawi_Arab_Democratic_Republic" class="mw-redirect" title="Public holidays in the Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Somaliland" title="Public holidays in Somaliland">Somaliland</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            Dependencies and
+            <br>other territories
+           </div></th>
+          <td class="navbox-list navbox-odd hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div> 
+             <ul>
+              <li><a href="/wiki/Public_holidays_in_the_Canary_Islands" class="mw-redirect" title="Public holidays in the Canary Islands">Canary Islands</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Ceuta" class="mw-redirect" title="Public holidays in Ceuta">Ceuta</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Melilla" class="mw-redirect" title="Public holidays in Melilla">Melilla</a>&nbsp;&nbsp;<span style="font-size:85%;">(Spain)</span></li> 
+              <li><a href="/w/index.php?title=Public_holidays_in_Madeira&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Madeira (page does not exist)">Madeira</a>&nbsp;<span style="font-size:85%;">(Portugal)</span></li> 
+              <li><a href="/w/index.php?title=Public_holidays_in_Mayotte&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Mayotte (page does not exist)">Mayotte</a>&nbsp;/ <a href="/w/index.php?title=Public_holidays_in_R%C3%A9union&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in Réunion (page does not exist)">Réunion</a>&nbsp;<span style="font-size:85%;">(France)</span></li> 
+              <li><a href="/wiki/Public_holidays_in_Saint_Helena" class="mw-redirect" title="Public holidays in Saint Helena">Saint Helena</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Ascension_Island" class="mw-redirect" title="Public holidays in Ascension Island">Ascension Island</a>&nbsp;/ <a href="/wiki/Public_holidays_in_Tristan_da_Cunha" class="mw-redirect" title="Public holidays in Tristan da Cunha">Tristan da Cunha</a>&nbsp;<span style="font-size:85%;">(United Kingdom)</span></li> 
+              <li><a href="/wiki/Public_holidays_in_Western_Sahara" class="mw-redirect" title="Public holidays in Western Sahara">Western Sahara</a></li>
+             </ul> 
+            </div>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Botswana&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ilo.org/dyn/travail/docs/1766/Public%20Holidays%20Act.pdf">"Botswana Public Holiday Act"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Botswana+Public+Holiday+Act&amp;rft_id=http%3A%2F%2Fwww.ilo.org%2Fdyn%2Ftravail%2Fdocs%2F1766%2FPublic%2520Holidays%2520Act.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Botswana" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.bse.co.bw/holidays.php">"BSE - Public Holidays and None Trading days"</a>. <i>www.bse.co.bw</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.bse.co.bw&amp;rft.atitle=BSE+-+Public+Holidays+and+None+Trading+days&amp;rft_id=http%3A%2F%2Fwww.bse.co.bw%2Fholidays.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Botswana" class="Z3988"></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFVicki_K._Black2004" class="citation book cs1">Vicki K. Black (1 July 2004). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=GZsHDG1-4X0C&amp;q=Many+congregations+today+continue+to+have+Easter+egg+hunts+for+the+children+after+the+services+on+Easter+Day.&amp;pg=PT109"><i>The Church Standard, Volume 74</i></a>. Church Publishing, Inc. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780819225757" title="Special:BookSources/9780819225757"><bdi>9780819225757</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 April</span> 2012</span>. <q>In parts of Europe, the eggs were dyed red and were then cracked together when people exchanged Easter greetings. Many congregations today continue to have Easter egg hunts for the children after the services on Easter Day.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Church+Standard%2C+Volume+74&amp;rft.pub=Church+Publishing%2C+Inc.&amp;rft.date=2004-07-01&amp;rft.isbn=9780819225757&amp;rft.au=Vicki+K.+Black&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DGZsHDG1-4X0C%26q%3DMany%2Bcongregations%2Btoday%2Bcontinue%2Bto%2Bhave%2BEaster%2Begg%2Bhunts%2Bfor%2Bthe%2Bchildren%2Bafter%2Bthe%2Bservices%2Bon%2BEaster%2BDay.%26pg%3DPT109&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Botswana" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFMarsh" class="citation web cs1">Marsh, James H. <a rel="nofollow" class="external text" href="http://www.thecanadianencyclopedia.com/en/article/origins-of-labour-day-feature/">"Origins of Labour Day"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Origins+of+Labour+Day&amp;rft.aulast=Marsh&amp;rft.aufirst=James+H.&amp;rft_id=http%3A%2F%2Fwww.thecanadianencyclopedia.com%2Fen%2Farticle%2Forigins-of-labour-day-feature%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Botswana" class="Z3988"></span></span> </li> 
+         <li id="cite_note-jam-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-jam_8-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090910163817/http://www.jis.gov.jm/special_sections/labourDay2008/history.htm">"History of Labour Day"</a>. <i>National Labour Day 2008</i>. Jamaica Information Service. Archived from <a rel="nofollow" class="external text" href="http://www.jis.gov.jm/special_sections/labourDay2008/history.htm">the original</a> on 10 September 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Labour+Day+2008&amp;rft.atitle=History+of+Labour+Day&amp;rft_id=http%3A%2F%2Fwww.jis.gov.jm%2Fspecial_sections%2FlabourDay2008%2Fhistory.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Botswana" class="Z3988"></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.goarch.org/special/listen_learn_share/ascension/index_html">"Feast of the Ascension of Our Lord and Savior Jesus Christ"</a>. Greek Orthodox Archdiocese of America. 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">14 May</span> 2015</span>. <q>The Feast of the Ascension of our Lord God and Savior Jesus Christ is celebrated each year on the fortieth day after the Great and Holy Feast of Pascha (Easter). Since the date of Pascha changes each year, the date of the Feast of the Ascension changes. The Feast is always celebrated on a Thursday.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Feast+of+the+Ascension+of+Our+Lord+and+Savior+Jesus+Christ&amp;rft.pub=Greek+Orthodox+Archdiocese+of+America&amp;rft.date=2015&amp;rft_id=http%3A%2F%2Fwww.goarch.org%2Fspecial%2Flisten_learn_share%2Fascension%2Findex_html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Botswana" class="Z3988"></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.churchofengland.org/prayer-worship/worship/texts/the-calendar/common-worship-rules/rulesyear.aspx">"Rules to Order the Christian Year"</a>. <a href="/wiki/Church_of_England" title="Church of England">Church of England</a>. 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">14 May</span> 2015</span>. <q>Rogation Days are the three days before Ascension Day, when prayer is offered for God's blessing on the fruits of the earth and on human labour. The nine days after Ascension Day until Pentecost are days of prayer and preparation to celebrate the outpouring of the Spirit.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rules+to+Order+the+Christian+Year&amp;rft.pub=Church+of+England&amp;rft.date=2015&amp;rft_id=https%3A%2F%2Fwww.churchofengland.org%2Fprayer-worship%2Fworship%2Ftexts%2Fthe-calendar%2Fcommon-worship-rules%2Frulesyear.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Botswana" class="Z3988"></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.mmegi.bw/index.php?sid=6&amp;aid=8&amp;dir=2007/July/Wednesday11">"Mmegi Online&nbsp;:: A glimpse of Seretse Khama's legacy"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mmegi+Online+%3A%3A+A+glimpse+of+Seretse+Khama%27s+legacy&amp;rft_id=http%3A%2F%2Fwww.mmegi.bw%2Findex.php%3Fsid%3D6%26aid%3D8%26dir%3D2007%2FJuly%2FWednesday11&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Botswana" class="Z3988"></span></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://aglobalworld.com/holidays-around-the-world/botswana-presidents-day/">"Botswana Presidents Day"</a>. <i>aglobalworld.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=aglobalworld.com&amp;rft.atitle=Botswana+Presidents+Day&amp;rft_id=http%3A%2F%2Faglobalworld.com%2Fholidays-around-the-world%2Fbotswana-presidents-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Botswana" class="Z3988"></span></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/world-africa-13041658">"Botswana profile - Timeline"</a>. <i>BBC News</i>. 5 August 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">30 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Botswana+profile+-+Timeline&amp;rft.date=2016-08-05&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-africa-13041658&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Botswana" class="Z3988"></span></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREF(pseud.)1838" class="citation book cs1">(pseud.), Peter Parley (1 January 1838). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=UVcEAAAAQAAJ"><i>Tales About Christmas</i></a>. Thomas Tegg and Son.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Tales+About+Christmas&amp;rft.pub=Thomas+Tegg+and+Son&amp;rft.date=1838-01-01&amp;rft.aulast=%28pseud.%29&amp;rft.aufirst=Peter+Parley&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DUVcEAAAAQAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Botswana" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Botswana&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><b>Calculating</b> </p> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://aa.usno.navy.mil/data/docs/easter.php">Dates for Easter 1583–9999</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.staff.science.uu.nl/~gent0113/easter/eastercalculator.htm">A Perpetual Easter and Passover Calculator</a> Julian and Gregorian Easter for any year plus other info</li>
+      </ul> <!-- 
+NewPP limit report
+Parsed by mw1409
+Cached time: 20210130194650
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.452 seconds
+Real time usage: 0.607 seconds
+Preprocessor visited node count: 3610/1000000
+Post‐expand include size: 77543/2097152 bytes
+Template argument size: 7437/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 26/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 38366/5000000 bytes
+Lua time usage: 0.173/10.000 seconds
+Lua memory usage: 5109058/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  527.595      1 -total
+ 26.16%  138.007      2 Template:Reflist
+ 25.00%  131.897      6 Template:Navbox
+ 23.11%  121.934      1 Template:Botswana_topics
+ 22.28%  117.562      1 Template:Country_topics
+ 19.64%  103.600      8 Template:Cite_web
+ 16.91%   89.207      1 Template:Infobox_holiday
+ 12.13%   64.021      1 Template:Short_description
+ 10.87%   57.372      1 Template:Infobox
+  7.17%   37.834      1 Template:Pagetype
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:6929379-0!canonical and timestamp 20210130194649 and revision id 999294583. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Botswana&amp;oldid=999294583">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Botswana&amp;oldid=999294583</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Botswana" title="Category:Public holidays in Botswana">Public holidays in Botswana</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Botswana_culture" title="Category:Botswana culture">Botswana culture</a></li>
+       <li><a href="/wiki/Category:Botswana_society" title="Category:Botswana society">Botswana society</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1:_Julian%E2%80%93Gregorian_uncertainty" title="Category:CS1: Julian–Gregorian uncertainty">CS1: Julian–Gregorian uncertainty</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Use_British_English_from_May_2014" title="Category:Use British English from May 2014">Use British English from May 2014</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_May_2014" title="Category:Use dmy dates from May 2014">Use dmy dates from May 2014</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_with_missing_field" title="Category:Infobox holiday with missing field">Infobox holiday with missing field</a></li>
+       <li><a href="/wiki/Category:Moveable_holidays_(2015_date_missing)" title="Category:Moveable holidays (2015 date missing)">Moveable holidays (2015 date missing)</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_(other)" title="Category:Infobox holiday (other)">Infobox holiday (other)</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Botswana" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Botswana" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Botswana" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Botswana" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Botswana">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Botswana&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Botswana&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Botswana" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Botswana" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Botswana&amp;oldid=999294583" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Botswana&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Botswana&amp;id=999294583&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257765" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Botswana&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Botswana&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B0_%D0%91%D0%BE%D1%82%D1%81%D0%B2%D0%B0%D0%BD%D0%B8" title="Свята Ботсвани – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7257765#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 9 January 2021, at 13:09<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Botswana&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.452","walltime":"0.607","ppvisitednodes":{"value":3610,"limit":1000000},"postexpandincludesize":{"value":77543,"limit":2097152},"templateargumentsize":{"value":7437,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":26,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":38366,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  527.595      1 -total"," 26.16%  138.007      2 Template:Reflist"," 25.00%  131.897      6 Template:Navbox"," 23.11%  121.934      1 Template:Botswana_topics"," 22.28%  117.562      1 Template:Country_topics"," 19.64%  103.600      8 Template:Cite_web"," 16.91%   89.207      1 Template:Infobox_holiday"," 12.13%   64.021      1 Template:Short_description"," 10.87%   57.372      1 Template:Infobox","  7.17%   37.834      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.173","limit":"10.000"},"limitreport-memusage":{"value":5109058,"limit":52428800}},"cachereport":{"origin":"mw1409","timestamp":"20210130194650","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Botswana","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Botswana","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7257765","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7257765","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-09-10T14:39:12Z","dateModified":"2021-01-09T13:09:30Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fa\/Flag_of_Botswana.svg","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135,"wgHostname":"mw1411"});});</script> 
+ </body>
+</html>

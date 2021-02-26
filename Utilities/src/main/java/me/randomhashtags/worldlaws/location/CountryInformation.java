@@ -5,18 +5,12 @@ import java.util.Map;
 
 public final class CountryInformation {
 
-    private final HashMap<CountryInfo, String> info;
     private String json;
 
     public CountryInformation(HashMap<CountryInfo, String> info) {
-        this.info = info == null ? new HashMap<>() : info;
-        updateJSON();
+        updateJSON(info == null ? new HashMap<>() : info);
     }
-
-    public HashMap<CountryInfo, String> getInfo() {
-        return info;
-    }
-    private void updateJSON() {
+    private void updateJSON(HashMap<CountryInfo, String> info) {
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
         for(Map.Entry<CountryInfo, String> entry : info.entrySet()) {

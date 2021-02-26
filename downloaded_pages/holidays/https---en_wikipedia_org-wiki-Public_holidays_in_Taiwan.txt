@@ -1,0 +1,802 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in Taiwan - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBXD0gpAAEIAACc7fDEAAAAL","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_Taiwan","wgTitle":"Public holidays in Taiwan","wgCurRevisionId":1002327971,"wgRevisionId":1002327971,"wgArticleId":843485,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description is different from Wikidata","Use mdy dates from June 2013","Articles needing additional references from December 2009","All articles needing additional references",
+"Articles containing Chinese-language text","Articles containing Zhuang-language text","Public holidays in Taiwan","Lists of public holidays by country","Observances in Taiwan"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_Taiwan","wgRelevantArticleId":843485,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,
+"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q716502"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Taipei_101_New_Year_Firework_%E5%8F%B0%E5%8C%97101%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB_-_panoramio.jpg/1200px-Taipei_101_New_Year_Firework_%E5%8F%B0%E5%8C%97101%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB_-_panoramio.jpg"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_Taiwan"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Taiwan&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_Taiwan&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_Taiwan"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_Taiwan rootpage-Public_holidays_in_Taiwan skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in Taiwan</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p class="mw-empty-elt"> </p> 
+      <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Taiwan&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Public+holidays+in+Taiwan%22">"Public holidays in Taiwan"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Public+holidays+in+Taiwan%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Public+holidays+in+Taiwan%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Public+holidays+in+Taiwan%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Public+holidays+in+Taiwan%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Public+holidays+in+Taiwan%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> <small class="date-container"><i>(<span class="date">December 2009</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Taipei_101_New_Year_Firework_%E5%8F%B0%E5%8C%97101%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB_-_panoramio.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Taipei_101_New_Year_Firework_%E5%8F%B0%E5%8C%97101%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB_-_panoramio.jpg/220px-Taipei_101_New_Year_Firework_%E5%8F%B0%E5%8C%97101%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB_-_panoramio.jpg" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Taipei_101_New_Year_Firework_%E5%8F%B0%E5%8C%97101%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB_-_panoramio.jpg/330px-Taipei_101_New_Year_Firework_%E5%8F%B0%E5%8C%97101%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB_-_panoramio.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Taipei_101_New_Year_Firework_%E5%8F%B0%E5%8C%97101%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB_-_panoramio.jpg/440px-Taipei_101_New_Year_Firework_%E5%8F%B0%E5%8C%97101%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB_-_panoramio.jpg 2x" data-file-width="2448" data-file-height="3264"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Taipei_101_New_Year_Firework_%E5%8F%B0%E5%8C%97101%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB_-_panoramio.jpg" class="internal" title="Enlarge"></a>
+         </div>New Year's Fireworks in Taipei, Taiwan.
+        </div>
+       </div>
+      </div> 
+      <p>The following are considered <b><a href="/wiki/Holiday" title="Holiday">holidays</a> in <a href="/wiki/Taiwan" title="Taiwan">Taiwan</a></b>. Some are official holidays, some are not: </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Table_of_Taiwan_holidays"><span class="tocnumber">1</span> <span class="toctext">Table of Taiwan holidays</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Public_holidays"><span class="tocnumber">1.1</span> <span class="toctext">Public holidays</span></a></li> 
+          <li class="toclevel-2 tocsection-3"><a href="#Unofficial_holidays"><span class="tocnumber">1.2</span> <span class="toctext">Unofficial holidays</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Table_of_Taiwan_holidays">Table of Taiwan holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Taiwan&amp;action=edit&amp;section=1" title="Edit section: Table of Taiwan holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Public_holidays">Public holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Taiwan&amp;action=edit&amp;section=2" title="Edit section: Public holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <table class="wikitable sortable"> 
+       <tbody>
+        <tr> 
+         <th>2021 <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian</a> Date(s) Observed </th> 
+         <th>Type of calendar followed </th> 
+         <th>Date on calendar </th> 
+         <th>English Name </th> 
+         <th>Chinese Name </th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr> 
+         <td>January 1 </td> 
+         <td><a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a> </td> 
+         <td>January 1 </td> 
+         <td>Founding of the Republic of China (also <a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a>) </td> 
+         <td>中華民國開國紀念日 / 元旦 </td> 
+         <td>Commemorates the establishment of the <a href="/wiki/Provisional_Government_of_the_Republic_of_China_(1912)" title="Provisional Government of the Republic of China (1912)">Provisional Government</a> in <a href="/wiki/Nanking" class="mw-redirect" title="Nanking">Nanking</a>. </td>
+        </tr> 
+        <tr> 
+         <td>February 11 </td> 
+         <td><a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td> 
+         <td>Last day (29th/30th day) of the 12th month </td> 
+         <td><a href="/wiki/Chinese_New_Year#Preceding_days" title="Chinese New Year">Chinese New Year's Eve</a> </td> 
+         <td>農曆除夕 </td> 
+         <td>Eve of the Chinese New Year. </td>
+        </tr> 
+        <tr> 
+         <td>February 12-16 </td> 
+         <td><a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td> 
+         <td>First 3 working days of the 1st month </td> 
+         <td><a href="/wiki/Chinese_New_Year" title="Chinese New Year">Spring Festival</a> </td> 
+         <td>春節 </td> 
+         <td>Chinese New Year. </td>
+        </tr> 
+        <tr> 
+         <td>February 28 - March 1 </td> 
+         <td><a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a> </td> 
+         <td>February 28 </td> 
+         <td><a href="/wiki/Peace_Memorial_Day" class="mw-redirect" title="Peace Memorial Day">Peace Memorial Day</a> </td> 
+         <td><a href="https://zh.wikipedia.org/wiki/228%E5%92%8C%E5%B9%B3%E7%B4%80%E5%BF%B5%E6%97%A5" class="extiw" title="zh:228和平紀念日">228和平紀念日</a> </td> 
+         <td>Commemorates the <a href="/wiki/February_28_Incident" class="mw-redirect" title="February 28 Incident">February 28 Incident</a> in 1947. </td>
+        </tr> 
+        <tr> 
+         <td>April 4-5 </td> 
+         <td><a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a> </td> 
+         <td>April 4 </td> 
+         <td><a href="/wiki/Children%27s_Day#Taiwan" title="Children's Day">Children's Day</a> </td> 
+         <td>兒童節 </td> 
+         <td>To make known the human rights of children and to stop the problems of children. </td>
+        </tr> 
+        <tr> 
+         <td>April 5 </td> 
+         <td><a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a> </td> 
+         <td>15th day after the <a href="/wiki/Spring_equinox_(Northern_Hemisphere)" class="mw-redirect" title="Spring equinox (Northern Hemisphere)">Spring Equinox</a> </td> 
+         <td><a href="/wiki/Qingming_Festival" title="Qingming Festival">Tomb Sweeping Day</a> </td> 
+         <td>淸明節 </td> 
+         <td>To remember and honor ancestors at grave sites </td>
+        </tr> 
+        <tr> 
+         <td>June 14 </td> 
+         <td><a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td> 
+         <td>5th day of the 5th month </td> 
+         <td><a href="/wiki/Dragon_Boat_Festival" title="Dragon Boat Festival">Dragon Boat Festival</a> </td> 
+         <td>端午節 </td> 
+         <td>Commemorates the death of the patriot <a href="/wiki/Qu_Yuan" title="Qu Yuan">Qu Yuan</a>. </td>
+        </tr> 
+        <tr> 
+         <td>September 21 </td> 
+         <td><a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td> 
+         <td>15th day of the 8th month </td> 
+         <td><a href="/wiki/Mid-Autumn_Festival" title="Mid-Autumn Festival">Mid-Autumn Festival</a> </td> 
+         <td>中秋節 </td> 
+         <td>Gathering the family together to celebrate the end of the harvest season </td>
+        </tr> 
+        <tr> 
+         <td>October 10-11 </td> 
+         <td><a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a> </td> 
+         <td>October 10 </td> 
+         <td><a href="/wiki/National_Day_of_the_Republic_of_China" title="National Day of the Republic of China">National Day</a>/Double Tenth Day </td> 
+         <td>國慶日 / 雙十節 </td> 
+         <td>Commemorates the <a href="/wiki/Wuchang_Uprising" title="Wuchang Uprising">Wuchang Uprising</a> of 1911, which began the <a href="/wiki/Xinhai_Revolution" class="mw-redirect" title="Xinhai Revolution">Xinhai Revolution</a> that led to the abolition of monarchy and establishment of a republican form of government. </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h3><span class="mw-headline" id="Unofficial_holidays">Unofficial holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Taiwan&amp;action=edit&amp;section=3" title="Edit section: Unofficial holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The following holidays are also observed on Taiwan, but are not official holidays observed by civil servants of the central government. Some sectors of the workforce may have time off on some of the following holidays such as Labor Day, Armed Forces Day, and Teachers' Day. </p> 
+      <table class="wikitable"> 
+       <caption>
+        Gregorian calendar 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th style="width:20%">Date </th> 
+         <th style="width:20%">English Name </th> 
+         <th style="width:20%">Local Name </th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr> 
+         <td>February 3, 4 or 5 </td> 
+         <td>Farmer's Day </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">農民節</span> </td> 
+         <td><a href="/wiki/Lichun" title="Lichun">Lichun</a>, the beginning of spring </td>
+        </tr> 
+        <tr> 
+         <td>March 12 </td> 
+         <td><a href="/wiki/Arbor_Day#Taiwan" title="Arbor Day">Arbor Day</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">國父逝世紀念日</span> </td> 
+         <td><a href="/wiki/Sun_Yat-sen" title="Sun Yat-sen">Sun Yat-sen</a>'s passing on 12 March 1925 </td>
+        </tr> 
+        <tr> 
+         <td>March 29 </td> 
+         <td><a href="/wiki/Youth_Day#Taiwan" title="Youth Day">Youth Day</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">靑年節</span> </td> 
+         <td>Commemorates revolutionary <a href="/wiki/Huanghuagang_Uprising" class="mw-redirect" title="Huanghuagang Uprising">Tenth Uprising</a> in 1911 </td>
+        </tr> 
+        <tr> 
+         <td>May 1 </td> 
+         <td><a href="/wiki/International_Workers%27_Day#Taiwan" title="International Workers' Day">Labor Day</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">勞動節</span> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>May 4 </td> 
+         <td>Literary Day </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">文藝節</span> </td> 
+         <td>Commemorates <a href="/wiki/May_Fourth_Movement" title="May Fourth Movement">May Fourth Movement</a> </td>
+        </tr> 
+        <tr> 
+         <td>May (second Sunday) </td> 
+         <td><a href="/wiki/Mother%27s_Day" title="Mother's Day">Mother's Day</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">母親節</span> </td> 
+         <td><a href="/wiki/Buddha%27s_birthday" class="mw-redirect" title="Buddha's birthday">Buddha's birthday</a> was changed to fit the date of Mother's Day.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>June 3 </td> 
+         <td>Opium Suppression Movement Day </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">禁菸節</span> </td> 
+         <td>Commemorates burning of <a href="/wiki/Opium" title="Opium">opium</a> in the <a href="/wiki/First_Opium_War" title="First Opium War">First Opium War</a> of 1839 </td>
+        </tr> 
+        <tr> 
+         <td>August 8 </td> 
+         <td><a href="/wiki/Father%27s_Day" title="Father's Day">Father's Day</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">父親節</span> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>September 1 </td> 
+         <td>Journalist' Day </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">記者節</span> </td> 
+         <td>Commemorates the promulgation of the Protection of Journalists and Public Opinion Organizations law in 1933<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>September 3 </td> 
+         <td><a href="/wiki/Armed_Forces_Day#Taiwan_/_Republic_of_China_(ROC)" title="Armed Forces Day">Armed Forces Day</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">軍人節</span> </td> 
+         <td>Honors the <a href="/wiki/Republic_of_China_Armed_Forces" title="Republic of China Armed Forces">Republic of China Armed Forces</a>, also <a href="/wiki/Victory_over_Japan_Day" title="Victory over Japan Day">Victory over Japan Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>September 28 </td> 
+         <td><a href="/wiki/Teachers%27_Day" class="mw-redirect" title="Teachers' Day">Teachers' Day</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">孔子誕辰紀念日</span> </td> 
+         <td><a href="/wiki/Confucius" title="Confucius">Confucius</a>' Birthday </td>
+        </tr> 
+        <tr> 
+         <td>October 21 </td> 
+         <td><a href="/wiki/Overseas_Chinese" title="Overseas Chinese">Overseas Chinese</a> Day </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">華僑節</span> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>October 25 </td> 
+         <td><a href="/wiki/Retrocession_Day" title="Retrocession Day">Taiwan Retrocession Day</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">臺灣光復節</span> </td> 
+         <td>The <a href="/wiki/Republic_of_China_(1912%E2%80%931949)" title="Republic of China (1912–1949)">Republic of China</a> took control of <a href="/wiki/Japanese_Taiwan" class="mw-redirect" title="Japanese Taiwan">Japanese Taiwan</a> on 25 October 1945 and claimed that Taiwan had since returned to the Republic of China. However, the said claim is <a href="/wiki/Retrocession_Day#Controversy" title="Retrocession Day">in dispute</a>. </td>
+        </tr> 
+        <tr> 
+         <td>November 12 </td> 
+         <td><a href="/wiki/Sun_Yat-sen" title="Sun Yat-sen">Sun Yat-sen</a>'s Birthday </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">國父誕辰紀念日</span> </td> 
+         <td>Also Doctors' Day and Cultural Renaissance Day </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Winter_solstice" title="Winter solstice">Winter solstice</a> </td> 
+         <td><a href="/wiki/Dongzhi_Festival" title="Dongzhi Festival">Dongzhi Festival</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">冬至</span> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>December 25 </td> 
+         <td><a href="/wiki/Constitution_of_the_Republic_of_China" title="Constitution of the Republic of China">Constitution</a> Day </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">行憲紀念日</span> </td> 
+         <td>Coincides with <a href="/wiki/Christmas" title="Christmas">Christmas</a>, and anniversary of the 1947 ROC Constitution </td>
+        </tr> 
+        <tr> 
+         <td> </td> 
+         <td>Aboriginal Festivals </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">原住民族歲時祭儀</span> </td> 
+         <td>Dates to be published by the Council of Indigenous Peoples, varies according to tribes </td>
+        </tr>
+       </tbody>
+      </table> 
+      <table class="wikitable"> 
+       <caption>
+        Lunar calendar 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th style="width:20%">Date </th> 
+         <th style="width:20%">English Name </th> 
+         <th style="width:20%">Local Name </th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr> 
+         <td>15th day of 1st lunar month </td> 
+         <td><a href="/wiki/Lantern_Festival" title="Lantern Festival">Lantern Festival</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">元宵節</span> </td> 
+         <td>Based on <a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td>
+        </tr> 
+        <tr> 
+         <td>15th day of 1st lunar month </td> 
+         <td>Tourism Day </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">觀光節</span> </td> 
+         <td>Based on <a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td>
+        </tr> 
+        <tr> 
+         <td>2nd day of 2nd lunar month </td> 
+         <td><a href="/wiki/Tu_Di_Gong" class="mw-redirect" title="Tu Di Gong">Earth God</a>'s Birthday </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">土地公誕辰</span> </td> 
+         <td>Based on <a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td>
+        </tr> 
+        <tr> 
+         <td>19th day of 2nd lunar month </td> 
+         <td><a href="/wiki/Kuan_Yin" class="mw-redirect" title="Kuan Yin">Kuan Yin</a>'s Birthday </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">觀音誕辰</span> </td> 
+         <td>Based on <a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td>
+        </tr> 
+        <tr> 
+         <td>15th day of 3rd lunar month </td> 
+         <td>God of Medicine's Birthday </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">保生大帝誕辰</span> </td> 
+         <td>Based on <a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td>
+        </tr> 
+        <tr> 
+         <td>23rd day of 3rd lunar month </td> 
+         <td><a href="/wiki/Matsu_(goddess)" class="mw-redirect" title="Matsu (goddess)">Matsu</a>'s Birthday </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">媽祖誕辰</span> </td> 
+         <td>Based on <a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td>
+        </tr> 
+        <tr> 
+         <td>8th day of 4th lunar month </td> 
+         <td><a href="/wiki/Buddha%27s_Birthday" title="Buddha's Birthday">Buddha's Birthday</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">佛誕日</span> </td> 
+         <td>Based on <a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td>
+        </tr> 
+        <tr> 
+         <td>13th day of 5th lunar month </td> 
+         <td><a href="/wiki/Kuan_Kung" class="mw-redirect" title="Kuan Kung">Kuan Kung</a>'s Birthday </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">關公誕辰</span> </td> 
+         <td>Based on <a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td>
+        </tr> 
+        <tr> 
+         <td>13th day of 5th lunar month </td> 
+         <td><a href="/wiki/City_God_(China)" title="City God (China)">Cheng Huang</a>'s Birthday </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">城隍爺誕辰</span> </td> 
+         <td>Based on <a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td>
+        </tr> 
+        <tr> 
+         <td>7th day of 7th lunar month </td> 
+         <td><a href="/wiki/Qixi_Festival" title="Qixi Festival">Qixi Festival</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">七夕</span> </td> 
+         <td>Based on <a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td>
+        </tr> 
+        <tr> 
+         <td>15th day of 7th lunar month </td> 
+         <td><a href="/wiki/Ghost_Festival" title="Ghost Festival">Ghost Festival</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">中元節</span> </td> 
+         <td>Based on <a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td>
+        </tr> 
+        <tr> 
+         <td>9th day of 9th lunar month </td> 
+         <td><a href="/wiki/Double_Ninth_Festival" title="Double Ninth Festival">Double Ninth Festival</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">重陽節</span> </td> 
+         <td>Based on <a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td>
+        </tr> 
+        <tr> 
+         <td>15th day of 10th lunar month </td> 
+         <td><a href="/w/index.php?title=Saisiat_Festival&amp;action=edit&amp;redlink=1" class="new" title="Saisiat Festival (page does not exist)">Saisiat Festival</a> </td> 
+         <td><span lang="zh-TW" title="Chinese-language text">賽夏節</span> </td> 
+         <td>Pas-taai Festival of the <a href="/wiki/Saisiat" class="mw-redirect" title="Saisiat">Saisiat</a> tribe </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>Before 1949, a number of public holidays were celebrated by certain ethnic minorities in regions within the ROC, which were decided by local governments and entities. Since 1949, these holidays continued to be celebrated by ethnic groups as such in Taiwan Area only. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date</th> 
+         <th>English name</th> 
+         <th>Local name</th> 
+         <th>Chinese name</th> 
+         <th>Ethnic Groups </th>
+        </tr> 
+        <tr> 
+         <td>1st day of Tibetan year</td> 
+         <td><a href="/wiki/Losar" title="Losar">Losar</a></td> 
+         <td>ལོ་གསར</td> 
+         <td>藏曆新年</td> 
+         <td>Tibetan community in Taiwan </td>
+        </tr> 
+        <tr> 
+         <td>30.6 of <a href="/wiki/Tibetan_calendar" title="Tibetan calendar">Tibetan calendar</a></td> 
+         <td><a href="/wiki/Sho_Dun_Festival" title="Sho Dun Festival">Sho Dun</a></td> 
+         <td>༄༅། ཞོ་སྟོན།</td> 
+         <td>雪頓節</td> 
+         <td>Tibetan community in Taiwan </td>
+        </tr> 
+        <tr> 
+         <td>1.10 of <a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic calendar</a></td> 
+         <td><a href="/wiki/Eid_ul-Fitr" class="mw-redirect" title="Eid ul-Fitr">Eid ul-Fitr</a></td> 
+         <td>عيد الفطر</td> 
+         <td>開齋節</td> 
+         <td>Muslim community in Taiwan, not only Uyghur people, but also Filipino Muslim, Malay and Indonesian immigrants </td>
+        </tr> 
+        <tr> 
+         <td>10.12 of <a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic calendar</a></td> 
+         <td><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a></td> 
+         <td>عيد الأضحى</td> 
+         <td>爾德節</td> 
+         <td>Muslim community in Taiwan, not only Uyghur people, but also Filipino Muslim, Malay and Indonesian immigrants </td>
+        </tr> 
+        <tr> 
+         <td>3rd day of the 3rd Lunisolar month</td> 
+         <td><a href="/wiki/Zhuang_customs_and_culture#Festivals" title="Zhuang customs and culture">Sam Nyied Sam</a></td> 
+         <td><i lang="za" title="Zhuang-language text">Sam Nyied Sam</i></td> 
+         <td><span lang="zh" title="Chinese-language text">三月三</span></td> 
+         <td><a href="/wiki/Zhuang_people" title="Zhuang people">Zhuang</a> community in Taiwan </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Taiwan&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Traditional_Chinese_holidays" class="mw-redirect" title="Traditional Chinese holidays">Traditional Chinese holidays</a></li> 
+       <li><a href="/wiki/Public_holidays_in_China" title="Public holidays in China">Public holidays in China</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Taiwan&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="mw-references-wrap">
+       <ol class="references"> 
+        <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFCamaron_Kao2012" class="citation cs2">Camaron Kao (May 14, 2012), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130616030705/http://www.chinapost.com.tw/taiwan/national/national-news/2012/05/14/341025/Thousands-of.htm">"Thousands of believers mark Buddha's birthday"</a>, <i><a href="/wiki/China_Post" title="China Post">China Post</a></i>, archived from <a rel="nofollow" class="external text" href="http://www.chinapost.com.tw/taiwan/national/national-news/2012/05/14/341025/Thousands-of.htm">the original</a> on June 16, 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=China+Post&amp;rft.atitle=Thousands+of+believers+mark+Buddha%27s+birthday&amp;rft.date=2012-05-14&amp;rft.au=Camaron+Kao&amp;rft_id=http%3A%2F%2Fwww.chinapost.com.tw%2Ftaiwan%2Fnational%2Fnational-news%2F2012%2F05%2F14%2F341025%2FThousands-of.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Taiwan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFKo_Shu-Ling2011" class="citation cs2">Ko Shu-Ling (May 9, 2011), <a rel="nofollow" class="external text" href="http://www.taipeitimes.com/News/front/archives/2011/05/09/2003502765">"Sakyamuni Buddha birthday celebrated"</a>, <i>Taipei Times</i>, <q>The legislature approved a proposal in 1999 to designate the birthday of Sakyamuni Buddha — which falls on the eighth day of the fourth month of the lunar calendar — a national holiday and to celebrate the special occasion concurrently with International Mother’s Day, which is celebrated on the second Sunday of May.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Taipei+Times&amp;rft.atitle=Sakyamuni+Buddha+birthday+celebrated&amp;rft.date=2011-05-09&amp;rft.au=Ko+Shu-Ling&amp;rft_id=http%3A%2F%2Fwww.taipeitimes.com%2FNews%2Ffront%2Farchives%2F2011%2F05%2F09%2F2003502765&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+Taiwan" class="Z3988"></span></span> </li> 
+        <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://100news.udn.com/roc100app/newsEn.jsp?by=G8">A Retrospective of Major News Media Events for the Republic of China’s Centennial</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110603110713/http://100news.udn.com/roc100app/newsEn.jsp?by=G8">Archived</a> 3 June 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, <i>United Daily News</i> Online</span> </li> 
+       </ol>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_Taiwan&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20091009021955/http://www.gio.gov.tw/info/festival_c/index_e.htm">Holidays and Festivals in Taiwan</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150923214144/http://www.dgpa.gov.tw/mp10.html">Official Work Calendar in Taiwan by the Directorate-General of Personnel Administration (DGPA)</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Asia" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Asia_topic" title="Template:Asia topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Asia_topic" title="Template talk:Asia topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Asia_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Asia" style="font-size:114%;margin:0 4em">
+            Public holidays in Asia
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Afghanistan" title="Public holidays in Afghanistan">Afghanistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bahrain" title="Public holidays in Bahrain">Bahrain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bangladesh" title="Public holidays in Bangladesh">Bangladesh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bhutan" title="Public holidays in Bhutan">Bhutan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Brunei" title="Public holidays in Brunei">Brunei</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cambodia" title="Public holidays in Cambodia">Cambodia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_China" title="Public holidays in China">China</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_East_Timor" class="mw-redirect" title="Public holidays in East Timor">East Timor (Timor-Leste)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_India" title="Public holidays in India">India</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Indonesia" title="Public holidays in Indonesia">Indonesia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iran" title="Public holidays in Iran">Iran</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iraq" title="Public holidays in Iraq">Iraq</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Israel" title="Public holidays in Israel">Israel</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Japan" title="Public holidays in Japan">Japan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jordan" title="Public holidays in Jordan">Jordan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Korea" title="Public holidays in North Korea">North Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Korea" title="Public holidays in South Korea">South Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kuwait" title="Public holidays in Kuwait">Kuwait</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kyrgyzstan" title="Public holidays in Kyrgyzstan">Kyrgyzstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Laos" title="Public holidays in Laos">Laos</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lebanon" title="Public holidays in Lebanon">Lebanon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malaysia" title="Public holidays in Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Maldives" title="Public holidays in the Maldives">Maldives</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mongolia" title="Public holidays in Mongolia">Mongolia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Myanmar" title="Public holidays in Myanmar">Myanmar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nepal" title="Public holidays in Nepal">Nepal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Oman" title="Public holidays in Oman">Oman</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Pakistan" title="Public holidays in Pakistan">Pakistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Philippines" title="Public holidays in the Philippines">Philippines</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Qatar" title="Public holidays in Qatar">Qatar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saudi_Arabia" title="Public holidays in Saudi Arabia">Saudi Arabia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Singapore" title="Public holidays in Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sri_Lanka" class="mw-redirect" title="Public holidays in Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Syria" title="Public holidays in Syria">Syria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tajikistan" title="Public holidays in Tajikistan">Tajikistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Thailand" title="Public holidays in Thailand">Thailand</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkmenistan" title="Public holidays in Turkmenistan">Turkmenistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Arab_Emirates" title="Public holidays in the United Arab Emirates">United Arab Emirates</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uzbekistan" title="Public holidays in Uzbekistan">Uzbekistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vietnam" title="Public holidays in Vietnam">Vietnam</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Yemen" title="Public holidays in Yemen">Yemen</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with<br>limited recognition</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_State_of_Palestine" title="Public holidays in the State of Palestine">Palestine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a class="mw-selflink selflink">Taiwan</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a> and<br>other territories</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Public_holidays_in_the_British_Indian_Ocean_Territory&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in the British Indian Ocean Territory (page does not exist)">British Indian Ocean Territory</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Christmas_Island" title="Public holidays in Christmas Island">Christmas Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cocos_(Keeling)_Islands" title="Public holidays in the Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hong_Kong" title="Public holidays in Hong Kong">Hong Kong</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Macau" title="Public holidays in Macau">Macau</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+           <div> 
+            <ul>
+             <li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Book:Asia" title="Book:Asia">Book</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Asia" title="Category:Asia">Category</a></li> 
+             <li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> <a href="/wiki/Portal:Asia" title="Portal:Asia">Asia portal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20210130140330
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.672 seconds
+Real time usage: 0.822 seconds
+Preprocessor visited node count: 13983/1000000
+Post‐expand include size: 55870/2097152 bytes
+Template argument size: 7432/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8244/5000000 bytes
+Lua time usage: 0.346/10.000 seconds
+Lua memory usage: 16806903/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  735.059      1 -total
+ 34.28%  251.954      1 Template:Asia_topic
+ 32.93%  242.088      1 Template:Navbox
+ 27.13%  199.401     32 Template:Lang
+ 24.49%  180.032     56 Template:Iso2country
+ 10.59%   77.821      1 Template:Short_description
+ 10.43%   76.631      2 Template:Citation
+  9.88%   72.622      1 Template:More_citations_needed
+  9.23%   67.825      1 Template:Ambox
+  9.09%   66.837     56 Template:Iso2country/data
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:843485-0!canonical and timestamp 20210130140329 and revision id 1002327971. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Taiwan&amp;oldid=1002327971">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_Taiwan&amp;oldid=1002327971</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_Taiwan" title="Category:Public holidays in Taiwan">Public holidays in Taiwan</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+       <li><a href="/wiki/Category:Observances_in_Taiwan" title="Category:Observances in Taiwan">Observances in Taiwan</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Use_mdy_dates_from_June_2013" title="Category:Use mdy dates from June 2013">Use mdy dates from June 2013</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2009" title="Category:Articles needing additional references from December 2009">Articles needing additional references from December 2009</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Chinese-language_text" title="Category:Articles containing Chinese-language text">Articles containing Chinese-language text</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Zhuang-language_text" title="Category:Articles containing Zhuang-language text">Articles containing Zhuang-language text</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+Taiwan" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+Taiwan" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_Taiwan" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_Taiwan" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_Taiwan">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_Taiwan&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_Taiwan&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_Taiwan" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_Taiwan" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_Taiwan&amp;oldid=1002327971" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_Taiwan&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_Taiwan&amp;id=1002327971&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q716502" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_Taiwan&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_Taiwan&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Feiertage_in_der_Republik_China_(Taiwan)" title="Feiertage in der Republik China (Taiwan) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Fiestas_de_Taiw%C3%A1n" title="Fiestas de Taiwán – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A4%91%ED%99%94%EB%AF%BC%EA%B5%AD%EC%9D%98_%EA%B3%B5%ED%9C%B4%EC%9D%BC" title="중화민국의 공휴일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/S%C4%85ra%C5%A1as:Taivano_%C5%A1vent%C4%97s" title="Sąrašas:Taivano šventės – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE%E3%81%AE%E7%A5%9D%E7%A5%AD%E6%97%A5" title="台湾の祝祭日 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8" title="Праздники Китайской Республики – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B0_%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8E" title="Свята Тайваню – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%AF%80%E6%97%A5" title="臺灣節日 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AF%80%E6%97%A5%E8%88%87%E6%AD%B2%E6%99%82%E5%88%97%E8%A1%A8" title="中華民國節日與歲時列表 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q716502#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 23 January 2021, at 22:31<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_Taiwan&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.672","walltime":"0.822","ppvisitednodes":{"value":13983,"limit":1000000},"postexpandincludesize":{"value":55870,"limit":2097152},"templateargumentsize":{"value":7432,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8244,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  735.059      1 -total"," 34.28%  251.954      1 Template:Asia_topic"," 32.93%  242.088      1 Template:Navbox"," 27.13%  199.401     32 Template:Lang"," 24.49%  180.032     56 Template:Iso2country"," 10.59%   77.821      1 Template:Short_description"," 10.43%   76.631      2 Template:Citation","  9.88%   72.622      1 Template:More_citations_needed","  9.23%   67.825      1 Template:Ambox","  9.09%   66.837     56 Template:Iso2country/data"]},"scribunto":{"limitreport-timeusage":{"value":"0.346","limit":"10.000"},"limitreport-memusage":{"value":16806903,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20210130140330","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in Taiwan","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_Taiwan","sameAs":"http:\/\/www.wikidata.org\/entity\/Q716502","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q716502","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-19T23:10:50Z","dateModified":"2021-01-23T22:31:12Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/ad\/Taipei_101_New_Year_Firework_%E5%8F%B0%E5%8C%97101%E8%B7%A8%E5%B9%B4%E7%85%99%E7%81%AB_-_panoramio.jpg","headline":"Wikimedia list article"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":132,"wgHostname":"mw1271"});});</script> 
+ </body>
+</html>

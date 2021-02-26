@@ -1,0 +1,756 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Culture of Mauritius - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBbBrApAMOIAAa5oCEYAAADB","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Culture_of_Mauritius","wgTitle":"Culture of Mauritius","wgCurRevisionId":1000425024,"wgRevisionId":1000425024,"wgArticleId":541344,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with unsourced statements","Articles with unsourced statements from June 2008","Articles with unsourced statements from October 2007","Articles with unsourced statements from June 2007","Articles with unsourced statements from May 2007",
+"Articles with unsourced statements from March 2014","CS1 maint: multiple names: authors list","Mauritian culture"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Culture_of_Mauritius","wgRelevantArticleId":541344,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Public_holidays_in_Mauritius","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Culture_of_Mauritius#Public_holidays_and_festivals",
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q3007457"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Culture_of_Mauritius#Public_holidays_and_festivals"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Culture_of_Mauritius&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Culture_of_Mauritius&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Culture_of_Mauritius#Public_holidays_and_festivals"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Culture_of_Mauritius rootpage-Culture_of_Mauritius skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Culture of Mauritius</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">&nbsp;&nbsp;(Redirected from <a href="/w/index.php?title=Public_holidays_in_Mauritius&amp;redirect=no" class="mw-redirect" title="Public holidays in Mauritius">Public holidays in Mauritius</a>)</span>
+    </div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p>The <b>culture of <a href="/wiki/Mauritius" title="Mauritius">Mauritius</a></b> involves the blending of several cultures from its history, as well as individual culture arising indigenously. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Public_holidays_and_festivals"><span class="tocnumber">1</span> <span class="toctext">Public holidays and festivals</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Cuisine"><span class="tocnumber">2</span> <span class="toctext">Cuisine</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Literature"><span class="tocnumber">3</span> <span class="toctext">Literature</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Sport"><span class="tocnumber">4</span> <span class="toctext">Sport</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Public_holidays_and_festivals">Public holidays and festivals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Mauritius&amp;action=edit&amp;section=1" title="Edit section: Public holidays and festivals">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The number and diversity of public holidays and festivals indicate the rich heritage of the island's people and its ethnic diversity. </p>
+      <p><b>Public Holidays on the same dates:</b> </p> 
+      <ul>
+       <li><a href="/wiki/New_Years" class="mw-redirect" title="New Years">New Years</a> – <i>1 and 2 January</i></li> 
+       <li>Abolition of <a href="/wiki/Slavery" title="Slavery">Slavery</a> – <i>1 February</i></li> 
+       <li>National day (Independence Day) – <i>12 March</i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li> 
+       <li>Labour Day - <i>1 May</i></li> 
+       <li><a href="/wiki/Indian_Arrival_Day" title="Indian Arrival Day">Arrival of indentured Labourers</a> – <i>2 November</i><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li> 
+       <li><a href="/wiki/Christmas" title="Christmas">Christmas</a> – <i>25 December</i></li>
+      </ul> 
+      <p><b>Public Holidays with different dates:</b><sup id="cite_ref-wom_3-0" class="reference"><a href="#cite_note-wom-3">[3]</a></sup> </p>
+      <p>The festivals listed below are not celebrated on the same date every year. Therefore, only the months when they are likely to be celebrated is given. </p> 
+      <ul>
+       <li><a href="/wiki/Chinese_New_Year" title="Chinese New Year">Chinese Spring Festival</a> (between January and February)</li>
+      </ul> 
+      <p>The Spring Festival, which is the Chinese New Year, is celebrated in January/February, depending on the adjustment of lunar days. Red, the symbol of happiness, is the dominant colour. Food is piled up to ensure abundance during the year and the traditional wax cake is distributed to relatives and friends. Firecrackers are lit to ward off evil spirits. </p> 
+      <ul>
+       <li><a href="/wiki/Thaipusam" title="Thaipusam">Thaipoosam Cavadee</a> (February) <b>Hindu Festival</b><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li>
+      </ul> 
+      <p>Cavadee is celebrated in January/February, more precisely by the <a href="/wiki/Tamils" title="Tamils">Tamil</a> community in Mauritius. Along with the fire-walking and sword-climbing ceremonies, Cavadee is among the most spectacular Tamil events. The body pierced with needles and the tongue and cheeks with skewers, the devotee, trance-like and in penance, walks in procession to the temple bearing the "Cavadee", a wooden arch covered with flowers with a pot of milk at each end of its base which he or she places before the deity. </p> 
+      <ul>
+       <li><a href="/wiki/Maha_Shivaratri" title="Maha Shivaratri">Maha Shivratree</a> (Between February and March) <b>Hindu Festival</b></li>
+      </ul> 
+      <p>Maha Shivaratree is celebrated in honour of Hindu god <a href="/wiki/Shiva" title="Shiva">Siva</a> (February). Hindu devotees, clad in spotless white, carry the "Kanwar" - wooden arches covered with flowers – on pilgrimage to Grand Bassin, to fetch holy water from the lake. The whole scene is reminiscent of the great rituals on the banks of the Holy <a href="/wiki/Ganges" title="Ganges">Ganges</a> in India. </p> 
+      <ul>
+       <li><a href="/wiki/Ugadi" title="Ugadi">Ugadi</a> (March) <b>Hindu Festival</b></li>
+      </ul> 
+      <p>Ugadi is the Telugu New Year. </p> 
+      <ul>
+       <li><a href="/wiki/Ratha-Yatra" class="mw-redirect" title="Ratha-Yatra">Ratha-Yatra</a> (July) <b>Hindu Festival</b></li>
+      </ul> 
+      <p>The chariot festival is any public procession in a chariot. </p> 
+      <ul>
+       <li><a href="/wiki/Assumption_of_the_Blessed_Virgin_Mary" class="mw-redirect" title="Assumption of the Blessed Virgin Mary">Assumption of the Blessed Virgin Mary</a> – <i>15 August</i></li>
+      </ul> 
+      <p>The 15 August becomes a public holiday in even years, for example, 2006, 2008 and 2010. During odd years (2005, 2007, 2009), it is not a public holiday; instead, 1 November will be a public holiday, in commemoration of <a href="/wiki/All_Saints%27_Day" title="All Saints' Day">All Saints' Day</a>. The decision to alternate between the two dates was a government decision to avoid increasing the number of unworked days after <a href="/wiki/Abolitionism_in_the_United_Kingdom" title="Abolitionism in the United Kingdom">abolition of slavery</a> (1 February) and Arrival of Indentured Labourers (2 November) were declared public holidays in the early 2000s. </p> 
+      <ul>
+       <li><a href="/wiki/Ganesh_Chaturthi" title="Ganesh Chaturthi">Ganesh Chaturthi</a> (Between August and September) <b>Hindu Festival</b></li>
+      </ul> 
+      <p>Ganesh Chaturthi is celebrated by the Marathi community in Mauritius on the 4th day of the lunar month of the Hindu calendar. It marks the birthday of <a href="/wiki/Ganesha" title="Ganesha">Ganesha</a>, the God of wisdom and remover of all obstacles according to Hindu mythology. </p> 
+      <ul>
+       <li><a href="/wiki/Diwali" title="Diwali">Diwali</a> (Between October and November) <b> Hindu Festival</b></li>
+      </ul> 
+      <p>Diwali is the most jovial of all Hindu festivals. Celebrated in October/November it marks the victory of righteousness over evil in the Hindu mythology. Traditionally, clay oil lamps were placed in front of every home turning the island into a fairyland of flickering lights; these have now been replaced mostly by decorative electric lights. </p> 
+      <ul>
+       <li><a href="/wiki/Eid_ul-Fitr" class="mw-redirect" title="Eid ul-Fitr">Eid ul-Fitr</a> (Any time of year because Islam is based on a lunar calendar) <b>Muslim Festival</b></li>
+      </ul> 
+      <p>The exact date of this festival is subject to confirmation as its celebration depends on the visibility of the moon. Eid-ul-Fitr is celebrated to mark the end of <a href="/wiki/Ramadan" title="Ramadan">Ramadan</a>, the Muslim holy month of fasting. It is a day of thanksgiving and rejoicing for Muslims. Special prayers are offered at mosques during that morning. </p> 
+      <h2><span class="mw-headline" id="Cuisine">Cuisine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Mauritius&amp;action=edit&amp;section=2" title="Edit section: Cuisine">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The <a href="/wiki/Cuisine" title="Cuisine">cuisine</a> of Mauritius is a blend of <a href="/wiki/Creole_cuisine" class="mw-redirect" title="Creole cuisine">Creole</a>, French, <a href="/wiki/Chinese_cuisine" title="Chinese cuisine">Chinese</a>, <a href="/wiki/European_cuisine" title="European cuisine">European</a> and <a href="/wiki/Indian_cuisine" title="Indian cuisine">Indian</a> influences. It is common for a combination of cuisines to form part of the same meal. </p>
+      <p>Mauritius has had strong ties with French culture throughout its history and was left with a very French "Savoir Vivre". Even today, the popularity of French dishes like the <a href="/wiki/Bouillon_(broth)" class="mw-redirect" title="Bouillon (broth)">bouillon</a>, <a href="/wiki/Tuna_salad" title="Tuna salad">tuna salad</a>, <a href="/wiki/Daube" title="Daube">daube</a>, civet de lièvre or <a href="/wiki/Coq_au_vin" title="Coq au vin">coq au vin</a> served with good wine show the prevalence of French culture in Mauritius. As years passed by, some have been adapted to the more exotic ingredients of the island to confer some unique flavour. </p>
+      <p>During the 19th century, after the abolition of slavery, Indian workers who migrated to Mauritius brought their cuisine with them. Those indentured labourers came from different parts of India, each with their own culinary tradition, depending on the region. Traces of both Northern and Southern Indian cuisine can be found in Mauritius. Some common preparations are <a href="/wiki/Curry" title="Curry">curry</a>, <a href="/wiki/Chutney" title="Chutney">chutney</a>, <i>rouille Poisson sale</i> (<a href="/wiki/Tomato_paste" title="Tomato paste">tomato paste</a> that is very popular with <a href="/wiki/Fish" title="Fish">fish</a>) and <a href="/wiki/Pickled_cucumber" title="Pickled cucumber">pickles</a>, most of which use local ingredients. The Mauritian versions of those dishes have a local flavour and differ, at times considerably, from the original Indian recipes. </p>
+      <p>The end of the 19th century saw the arrival of Chinese migrants, who came mostly from the south-eastern part of China. They are largely credited with making <a href="/wiki/Rice" title="Rice">rice</a>, the <a href="/wiki/Staple_diet" class="mw-redirect" title="Staple diet">staple diet</a> of the island, and making <a href="/wiki/Noodles" class="mw-redirect" title="Noodles">noodles</a>, both steamed and fried, popular. Chinese appetizers such as <i>taken</i> (local version of the <a href="/wiki/Spring_roll" title="Spring roll">spring roll</a> with a flour batter replacing the traditional rolled wrapping), crispy chicken and crispy squid have become part of the Mauritian folklore. Furthermore, Chinese and other Asian restaurants are present all around the island, and offer a variety of <a href="/wiki/Chicken" title="Chicken">chicken</a>, <a href="/wiki/Squid" title="Squid">squid</a>, <a href="/wiki/Beef" title="Beef">beef</a>, <a href="/wiki/Mutton" class="mw-redirect" title="Mutton">mutton</a> and <a href="/wiki/Fish" title="Fish">fish</a> dishes, most typically prepared in <a href="/wiki/Douchi" title="Douchi">black bean</a> sauce or <a href="/wiki/Oyster_sauce" title="Oyster sauce">oyster sauce</a>. Mauritian families often consider dinner at an Asian restaurant as a treat. </p>
+      <p>Along the years, each of the country's communities has adapted and mixed each other's cuisine to their liking. </p>
+      <p>The production of <a href="/wiki/Rum" title="Rum">rum</a> is common throughout the island.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2008)">citation needed</span></a></i>]</sup> <a href="/wiki/Sugar_cane" class="mw-redirect" title="Sugar cane">Sugar cane</a> was first introduced on the island when the Dutch colonised it in 1638. Even then, the propensity of making rum out of sugar cane was strongly recognised. Sugar cane was mainly cultivated for the production of "<a href="/wiki/Arrack_(drink)" class="mw-redirect" title="Arrack (drink)">arrack</a>", a precursor to rum. Only much later, after almost 60 years, the first proper sugar was produced.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2007)">citation needed</span></a></i>]</sup> </p>
+      <p>However, it was during the French and English administration that sugar production was fully exploited, which considerably contributed to the economic development of the island.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2007)">citation needed</span></a></i>]</sup> It was Pierre Charles François Harel who in 1850 initially proposed the concept of a local distillation of rum in Mauritius. In part due to his efforts, Mauritius today houses three distilleries (Grays, Medine and St Aubin) and is in the process of opening an additional three.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2007)">citation needed</span></a></i>]</sup> </p>
+      <p>While not as famed as its Caribbean counterparts from <a href="/wiki/Cuba" title="Cuba">Cuba</a>, <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a> or <a href="/wiki/Barbados" title="Barbados">Barbados</a>, Mauritian rum is slowly gaining exposure on the international stage and is considered by local stakeholders as an area of potential growth. </p> 
+      <h2><span class="mw-headline" id="Literature">Literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Mauritius&amp;action=edit&amp;section=3" title="Edit section: Literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: <a href="/wiki/Mauritian_literature" title="Mauritian literature">Mauritian literature</a>
+      </div> 
+      <p>While <i>kreol morisien</i> (<a href="/wiki/Mauritian_Creole" title="Mauritian Creole">Mauritian Creole</a>) is the most spoken language on in Mauritius, most of the literature is written in <a href="/wiki/French_language" title="French language">French</a>, although many authors write in <a href="/wiki/English_language" title="English language">English</a>, <a href="/wiki/Bhojpuri" class="mw-redirect" title="Bhojpuri">Bhojpuri</a>, and Morisien (<a href="/wiki/Mauritian_Creole" title="Mauritian Creole">Mauritian Creole</a>), and others such as <a href="/wiki/Abhimanyu_Unnuth" title="Abhimanyu Unnuth">Abhimanyu Unnuth</a> in <a href="/wiki/Hindi" title="Hindi">Hindi</a>. Mauritius's renowned playwright <a href="/wiki/Dev_Virahsawmy" title="Dev Virahsawmy">Dev Virahsawmy</a> writes exclusively in Morisyen. </p>
+      <p>Important authors include <a href="/wiki/Malcolm_de_Chazal" title="Malcolm de Chazal">Malcolm de Chazal</a>, <a href="/wiki/Ananda_Devi" title="Ananda Devi">Ananda Devi</a>, Raymond Chasle, <a href="/w/index.php?title=Loys_Masson&amp;action=edit&amp;redlink=1" class="new" title="Loys Masson (page does not exist)">Loys Masson</a>, <a href="/wiki/Marcel_Cabon" title="Marcel Cabon">Marcel Cabon</a>, and <a href="/wiki/Edouard_Maunick" class="mw-redirect" title="Edouard Maunick">Edouard Maunick</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2007)">citation needed</span></a></i>]</sup> <a href="/wiki/Lindsey_Collen" title="Lindsey Collen">Lindsey Collen</a> has been able to carve out a meeting of imaginaries in the unique social setup of this multi-faceted country. Other younger writers like Shenaz Patel, <a href="/w/index.php?title=Amal_Sewtohul&amp;action=edit&amp;redlink=1" class="new" title="Amal Sewtohul (page does not exist)">Amal Sewtohul</a>, Natacha Appanah, Alain Gordon-Gentil and Carl de Souza explore the issues of ethnicity, superstition and politics in the novel. Poet and critic <a href="/wiki/Khal_Torabully" title="Khal Torabully">Khal Torabully</a> has put forward the concept of "coolitude," a poetics that results from the blend of Indian and Mauritian cultural diversity. Other poets include Hassam Wachill, Edouard Maunick, Sedley Assone, Yusuf Kadel and Umar Timol. </p>
+      <p>The island plays host to the covetable Le Prince Maurice Prize, a literary award celebrating and recognizing 'writers of the heart'. The award is designed to highlight the literary love story in all its forms rather than for pure Romantic Fiction. In keeping with the island's literary culture the prize alternates on a yearly basis between English-speaking and French-speaking writers. </p> 
+      <h2><span class="mw-headline" id="Sport">Sport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Mauritius&amp;action=edit&amp;section=4" title="Edit section: Sport">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       See also: <a href="/wiki/Mauritius_national_football_team" title="Mauritius national football team">Mauritius national football team</a> and <a href="/wiki/Mauritius_national_rugby_union_team" title="Mauritius national rugby union team">Mauritius national rugby union team</a>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a href="/wiki/File:Horse_racing_in_Mauritius_2.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Horse_racing_in_Mauritius_2.JPG/200px-Horse_racing_in_Mauritius_2.JPG" decoding="async" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Horse_racing_in_Mauritius_2.JPG/300px-Horse_racing_in_Mauritius_2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Horse_racing_in_Mauritius_2.JPG/400px-Horse_racing_in_Mauritius_2.JPG 2x" data-file-width="2048" data-file-height="1536"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Horse_racing_in_Mauritius_2.JPG" class="internal" title="Enlarge"></a>
+         </div>Maiden 2006 Parade. <a href="/wiki/Horse_racing" title="Horse racing">Horse racing</a> is one of the most popular sports on the island.
+        </div>
+       </div>
+      </div> 
+      <p>Due to lack of funding and a local culture that values academic achievement over any other form of activity<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2014)">citation needed</span></a></i>]</sup>, Mauritius' national sports teams have been very unsuccessful at a competitive level. However recently, <a href="/wiki/Rugby_union" title="Rugby union">rugby union</a> has rapidly increased in popularity in the small island nation. <a href="/wiki/Association_football" title="Association football">Football</a> is also popular. Both national teams have very low world rankings for their particular sports.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2008)">citation needed</span></a></i>]</sup> </p>
+      <p>At the <a href="/wiki/2008_Summer_Olympics" title="2008 Summer Olympics">2008 Summer Olympics</a>, Mauritius had won its first Olympic medal. Bruno Julie a boxer has won the bronze medal. </p>
+      <p>However, Mauritius is quite competitive at the regional level (inter-Ile) in the Indian Ocean. Mauritius collected some golds, silver and bronze medals in the Jeux des Iles de l'Océan Indien (JIOI).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The second and the fifth edition were hosted by Mauritius in 1985 and 2003 respectively. Mauritius also organised the JIOI in 2019 where the Mauritian athletes dominated the games and won numerous gold medals and the competition. </p>
+      <p>As in countries like <a href="/wiki/Malaysia" title="Malaysia">Malaysia</a>, <a href="/wiki/Association_football" title="Association football">football</a> is hugely popular among males, especially England's <a href="/wiki/Premier_League" title="Premier League">Premier League</a>. The most followed clubs are <a href="/wiki/Liverpool_F.C." title="Liverpool F.C.">Liverpool F.C.</a>, <a href="/wiki/Manchester_United_F.C." title="Manchester United F.C.">Manchester United</a> and <a href="/wiki/Arsenal_F.C." title="Arsenal F.C.">Arsenal F.C.</a>. Owing to their recent successes, <a href="/wiki/FC_Barcelona" title="FC Barcelona">FC Barcelona</a> have gained significant support. </p>
+      <p>The national sport, however, remains <a href="/wiki/Horse_racing" title="Horse racing">horse racing</a>, which is part and parcel of the island's cultural heritage. Horse racing in Mauritius dates back to 1812, when the <a href="/wiki/Champ_de_Mars_Racecourse" title="Champ de Mars Racecourse">Champ de Mars Racecourse</a> was inaugurated, making it the oldest racecourse in the Southern Hemisphere. Races are widely followed, both in terms of attendance at the Champ de Mars and television audiences. Mauritians of all ages like to discuss races, share tips and place bets. </p>
+      <p>At an amateur and recreational level there is a growing culture of participation in sport, with Trail Running, Cycling, Mountain Biking and Water Sports becoming increasingly accessible and popular.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Mauritius&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Drugs_in_Mauritius" title="Drugs in Mauritius">Drugs in Mauritius</a></li> 
+       <li><a href="/wiki/Music_of_Mauritius" title="Music of Mauritius">Music of Mauritius</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Mauritius&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/mauritius/independence-and-republic-day">"Independence and Republic Day in Mauritius in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Independence+and+Republic+Day+in+Mauritius+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fmauritius%2Findependence-and-republic-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACulture+of+Mauritius" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/mauritius/arrival-of-indentured-labourers">"Arrival of Indentured Labourers in Mauritius in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Arrival+of+Indentured+Labourers+in+Mauritius+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fmauritius%2Farrival-of-indentured-labourers&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACulture+of+Mauritius" class="Z3988"></span></span> </li> 
+         <li id="cite_note-wom-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-wom_3-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFMacdonald" class="citation book cs1">Macdonald, Fiona; et&nbsp;al. "Mauritius". <i>Peoples of Africa</i>. pp.&nbsp;340–341.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Mauritius&amp;rft.btitle=Peoples+of+Africa&amp;rft.pages=340-341&amp;rft.aulast=Macdonald&amp;rft.aufirst=Fiona&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACulture+of+Mauritius" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/mauritius/thaipoosam-cavadee">"Thaipoosam Cavadee in Mauritius in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 14,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Thaipoosam+Cavadee+in+Mauritius+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fmauritius%2Fthaipoosam-cavadee&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACulture+of+Mauritius" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="https://fr.wikipedia.org/wiki/Jeux_des_%C3%AEles_de_l%27oc%C3%A9an_Indien" class="extiw" title="fr:Jeux des îles de l'océan Indien">fr: Jeux des îles de l'océan Indien</a></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.active.mu">http://www.active.mu</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120223225046/http://active.mu/">Archived</a> 2012-02-23 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Mauritius&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFMacdonaldMarshall_Cavendish_Corporation,_Elizabeth_Paren,_Kevin_Shillington,_Gillian_Stacey,_Philip_Steele2001" class="citation book cs1">Macdonald, Fiona; Marshall Cavendish Corporation, Elizabeth Paren, Kevin Shillington, Gillian Stacey, <a href="/wiki/Philip_Steele" title="Philip Steele">Philip Steele</a> (2001). "Mauritius". <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/peoplesofafrica0000mars"><i>Peoples of Africa</i></a></span>. US: Marshall Cavendish. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-7614-7158-5" title="Special:BookSources/978-0-7614-7158-5"><bdi>978-0-7614-7158-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Mauritius&amp;rft.btitle=Peoples+of+Africa&amp;rft.place=US&amp;rft.pub=Marshall+Cavendish&amp;rft.date=2001&amp;rft.isbn=978-0-7614-7158-5&amp;rft.aulast=Macdonald&amp;rft.aufirst=Fiona&amp;rft.au=Marshall+Cavendish+Corporation%2C+Elizabeth+Paren%2C+Kevin+Shillington%2C+Gillian+Stacey%2C+Philip+Steele&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fpeoplesofafrica0000mars&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACulture+of+Mauritius" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: multiple names: authors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">link</a>)</span></li>
+      </ul> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Culture_of_Mauritius&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050209222948/http://www.masa.mu/">Mauritius Society of Authors</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.restaurants.mu">Mauritius Restaurants Guide</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.lehman.cuny.edu/ile.en.ile/indien/paroles.html">île en île&nbsp;– Literature of the Indian Ocean</a>, biographies, bibliographies, excerpts and links.</li> 
+       <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080405015708/http://www.mauritianmuslim.co.uk/Islam%20in%20mauritius.shtml">Islam in Mauritius</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.island-of-mauritius.com/mauritius_festivals.html">Festivals in Mauritius</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.eglise.mu">Local network of churches</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://mauritiusattractions.com/national-holidays-and-festivals-i-39.html">Mauritius National Holidays and Festivals</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131013173253/http://mauritius-conference-centre.com/">Trianon Conference Centre, Mauritius</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.mauritiuscuisine.com">Free recipes of Mauritius</a></li> 
+       <li><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193"></a> <a href="https://en.wikivoyage.org/wiki/Mauritius#Q3007457" class="extiw" title="voy:Mauritius">Mauritius</a> travel guide from Wikivoyage</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Mauritius_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Mauritius_topics" title="Template:Mauritius topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Mauritius_topics" title="Template talk:Mauritius topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Mauritius_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Mauritius_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Mauritius" title="Mauritius">Mauritius</a>&nbsp;<a href="/wiki/Index_of_Mauritius-related_articles" title="Index of Mauritius-related articles">articles</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div id="*_History_*_Geography_*_Wildlife"> 
+            <ul>
+             <li><a href="/wiki/History_of_Mauritius" title="History of Mauritius">History</a></li> 
+             <li><a href="/wiki/Geography_of_Mauritius" title="Geography of Mauritius">Geography</a></li> 
+             <li><a href="/wiki/Wildlife_of_Mauritius" title="Wildlife of Mauritius">Wildlife</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Subdivisions</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Outer_islands_of_Mauritius" class="mw-redirect" title="Outer islands of Mauritius">Outer islands</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Agal%C3%A9ga" title="Agaléga">Agaléga</a></li> 
+                     <li><a href="/wiki/St._Brandon" title="St. Brandon">Cargados Carajos <span style="font-size:85%;">(St. Brandon)</span></a></li> 
+                     <li><a href="/wiki/Rodrigues" title="Rodrigues">Rodrigues</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Islets_of_Mauritius" title="Islets of Mauritius">Islets of Mauritius</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Fishing_bank" class="mw-redirect" title="Fishing bank">Fishing banks</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Hawkins_Bank" title="Hawkins Bank">Hawkins</a></li> 
+                     <li><a href="/wiki/Nazareth_Bank" title="Nazareth Bank">Nazareth</a></li> 
+                     <li><a href="/wiki/Saya_de_Malha_Bank" title="Saya de Malha Bank">Saya de Malha</a></li> 
+                     <li><a href="/wiki/Soudan_Banks" title="Soudan Banks">Soudan</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Districts_of_Mauritius" title="Districts of Mauritius">Districts</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Flacq_District" title="Flacq District">Flacq</a></li> 
+                 <li><a href="/wiki/Grand_Port_District" title="Grand Port District">Grand Port</a></li> 
+                 <li><a href="/wiki/Moka_District" title="Moka District">Moka</a></li> 
+                 <li><a href="/wiki/Pamplemousses_District" title="Pamplemousses District">Pamplemousses</a></li> 
+                 <li><a href="/wiki/Plaines_Wilhems_District" title="Plaines Wilhems District">Plaines Wilhems</a></li> 
+                 <li><a href="/wiki/Port_Louis_District" title="Port Louis District">Port Louis</a></li> 
+                 <li><a href="/wiki/Rivi%C3%A8re_du_Rempart_District" title="Rivière du Rempart District">Rivière du Rempart</a></li> 
+                 <li><a href="/wiki/Rivi%C3%A8re_Noire_District" title="Rivière Noire District">Rivière Noire</a></li> 
+                 <li><a href="/wiki/Savanne_District" title="Savanne District">Savanne</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Claims</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Chagos_Archipelago" title="Chagos Archipelago">Chagos Archipelago</a></li> 
+                 <li><a href="/wiki/Tromelin_Island" title="Tromelin Island">Tromelin</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+          <td class="noviewer navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/Coat_of_arms_of_Mauritius" title="Coat of arms of Mauritius"><img alt="Coat of arms of Mauritius (Original version).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Mauritius_%28Original_version%29.svg/100px-Coat_of_arms_of_Mauritius_%28Original_version%29.svg.png" decoding="async" width="100" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Mauritius_%28Original_version%29.svg/150px-Coat_of_arms_of_Mauritius_%28Original_version%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Coat_of_arms_of_Mauritius_%28Original_version%29.svg/200px-Coat_of_arms_of_Mauritius_%28Original_version%29.svg.png 2x" data-file-width="420" data-file-height="392"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Mauritius" title="Politics of Mauritius">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Cabinet_of_Mauritius" title="Cabinet of Mauritius">Cabinet</a></li> 
+                 <li><a href="/wiki/Elections_in_Mauritius" title="Elections in Mauritius">Elections</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_Mauritius" title="Foreign relations of Mauritius">Foreign relations</a></li> 
+                 <li><a href="/wiki/Government_of_Mauritius" title="Government of Mauritius">Government</a></li> 
+                 <li><a href="/wiki/Military_of_Mauritius" class="mw-redirect" title="Military of Mauritius">Military</a></li> 
+                 <li><a href="/wiki/National_Assembly_of_Mauritius" class="mw-redirect" title="National Assembly of Mauritius">National Assembly</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_Mauritius" title="List of political parties in Mauritius">Political parties</a></li> 
+                 <li><a href="/wiki/Supreme_Court_of_Mauritius" title="Supreme Court of Mauritius">Supreme Court</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Mauritius" title="Economy of Mauritius">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_companies_of_Mauritius" title="List of companies of Mauritius">Companies</a></li> 
+                 <li><a href="/wiki/Mineral_industry_of_Mauritius" title="Mineral industry of Mauritius">Minerals</a></li> 
+                 <li><a href="/wiki/Mauritian_rupee" title="Mauritian rupee">Rupee <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Telecommunications_in_Mauritius" title="Telecommunications in Mauritius">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_Mauritius" title="Tourism in Mauritius">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_Mauritius" title="Transport in Mauritius">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Mauritian_society" title="Category:Mauritian society">Society</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Demographics_of_Mauritius" title="Demographics of Mauritius">Demographics</a> 
+                  <ul>
+                   <li><a href="/wiki/Mauritian_Creole_people" class="mw-redirect" title="Mauritian Creole people">Creole</a></li> 
+                   <li><a href="/wiki/White_Mauritians" class="mw-redirect" title="White Mauritians">White Mauritian</a></li> 
+                   <li><a href="/wiki/Indo-Mauritian" class="mw-redirect" title="Indo-Mauritian">Indo-Mauritian</a></li> 
+                   <li><a href="/wiki/Sino-Mauritian" class="mw-redirect" title="Sino-Mauritian">Sino-Mauritian</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Education_in_Mauritius" title="Education in Mauritius">Education</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a class="mw-selflink selflink">Culture</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Mauritian_creole" class="mw-redirect" title="Mauritian creole">Creole language</a></li> 
+                 <li><a href="/wiki/Mauritians" title="Mauritians">Mauritians</a></li> 
+                 <li><a href="/wiki/Media_of_Mauritius" class="mw-redirect" title="Media of Mauritius">Media</a></li> 
+                 <li><a href="/wiki/Music_of_Mauritius" title="Music of Mauritius">Music</a></li> 
+                 <li><a href="/wiki/Religion_in_Mauritius" title="Religion in Mauritius">Religion</a></li> 
+                 <li><a href="/wiki/Sport_in_Mauritius" class="mw-redirect" title="Sport in Mauritius">Sport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Mauritius" title="Outline of Mauritius">Outline</a></span></li>
+              <li>
+               <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><span class="nobold"><a href="/wiki/Index_of_Mauritius-related_articles" title="Index of Mauritius-related articles">Index</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:Mauritius" title="Category:Mauritius">Category</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Culture_of_Africa" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Africa_topic" title="Template:Africa topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Africa_topic" title="Template talk:Africa topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Africa_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Culture_of_Africa" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Culture_of_Africa" title="Culture of Africa">Culture of Africa </a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Sovereign states</th>
+          <td class="navbox-list navbox-odd hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Culture_of_Algeria" title="Culture of Algeria">Algeria</a></li> 
+             <li><a href="/wiki/Culture_of_Angola" title="Culture of Angola">Angola</a></li> 
+             <li><a href="/wiki/Culture_of_Benin" class="mw-redirect" title="Culture of Benin">Benin</a></li> 
+             <li><a href="/wiki/Culture_of_Botswana" title="Culture of Botswana">Botswana</a></li> 
+             <li><a href="/wiki/Culture_of_Burkina_Faso" title="Culture of Burkina Faso">Burkina Faso</a></li> 
+             <li><a href="/wiki/Culture_of_Burundi" title="Culture of Burundi">Burundi</a></li> 
+             <li><a href="/wiki/Culture_of_Cameroon" title="Culture of Cameroon">Cameroon</a></li> 
+             <li><a href="/wiki/Culture_of_Cape_Verde" title="Culture of Cape Verde">Cape Verde (Cabo Verde)</a></li> 
+             <li><a href="/wiki/Culture_of_the_Central_African_Republic" class="mw-redirect" title="Culture of the Central African Republic">Central African Republic</a></li> 
+             <li><a href="/wiki/Culture_of_Chad" class="mw-redirect" title="Culture of Chad">Chad</a></li> 
+             <li><a href="/wiki/Culture_of_the_Comoros" class="mw-redirect" title="Culture of the Comoros">Comoros</a></li> 
+             <li><a href="/wiki/Culture_of_the_Democratic_Republic_of_the_Congo" title="Culture of the Democratic Republic of the Congo">Democratic Republic of the Congo</a></li> 
+             <li><a href="/wiki/Culture_of_the_Republic_of_the_Congo" title="Culture of the Republic of the Congo">Republic of the Congo</a></li> 
+             <li><a href="/wiki/Culture_of_Djibouti" title="Culture of Djibouti">Djibouti</a></li> 
+             <li><a href="/wiki/Culture_of_Egypt" title="Culture of Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Culture_of_Equatorial_Guinea" title="Culture of Equatorial Guinea">Equatorial Guinea</a></li> 
+             <li><a href="/wiki/Culture_of_Eritrea" title="Culture of Eritrea">Eritrea</a></li> 
+             <li><a href="/wiki/Culture_of_Eswatini" title="Culture of Eswatini">Eswatini (Swaziland)</a></li> 
+             <li><a href="/wiki/Culture_of_Ethiopia" title="Culture of Ethiopia">Ethiopia</a></li> 
+             <li><a href="/wiki/Culture_of_Gabon" title="Culture of Gabon">Gabon</a></li> 
+             <li><a href="/wiki/Culture_of_the_Gambia" class="mw-redirect" title="Culture of the Gambia">The Gambia</a></li> 
+             <li><a href="/wiki/Culture_of_Ghana" title="Culture of Ghana">Ghana</a></li> 
+             <li><a href="/wiki/Culture_of_Guinea" class="mw-redirect" title="Culture of Guinea">Guinea</a></li> 
+             <li><a href="/wiki/Culture_of_Guinea-Bissau" class="mw-redirect" title="Culture of Guinea-Bissau">Guinea-Bissau</a></li> 
+             <li><a href="/wiki/Culture_of_Ivory_Coast" title="Culture of Ivory Coast">Ivory Coast (Côte d'Ivoire)</a></li> 
+             <li><a href="/wiki/Culture_of_Kenya" title="Culture of Kenya">Kenya</a></li> 
+             <li><a href="/wiki/Culture_of_Lesotho" class="mw-redirect" title="Culture of Lesotho">Lesotho</a></li> 
+             <li><a href="/wiki/Culture_of_Liberia" title="Culture of Liberia">Liberia</a></li> 
+             <li><a href="/wiki/Culture_of_Libya" title="Culture of Libya">Libya</a></li> 
+             <li><a href="/wiki/Culture_of_Madagascar" title="Culture of Madagascar">Madagascar</a></li> 
+             <li><a href="/wiki/Culture_of_Malawi" class="mw-redirect" title="Culture of Malawi">Malawi</a></li> 
+             <li><a href="/wiki/Culture_of_Mali" title="Culture of Mali">Mali</a></li> 
+             <li><a href="/wiki/Culture_of_Mauritania" class="mw-redirect" title="Culture of Mauritania">Mauritania</a></li> 
+             <li><a class="mw-selflink selflink">Mauritius</a></li> 
+             <li><a href="/wiki/Culture_of_Morocco" title="Culture of Morocco">Morocco</a></li> 
+             <li><a href="/wiki/Culture_of_Mozambique" title="Culture of Mozambique">Mozambique</a></li> 
+             <li><a href="/wiki/Culture_of_Namibia" title="Culture of Namibia">Namibia</a></li> 
+             <li><a href="/wiki/Culture_of_Niger" title="Culture of Niger">Niger</a></li> 
+             <li><a href="/wiki/Culture_of_Nigeria" title="Culture of Nigeria">Nigeria</a></li> 
+             <li><a href="/wiki/Culture_of_Rwanda" title="Culture of Rwanda">Rwanda</a></li> 
+             <li><a href="/wiki/Culture_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe" class="mw-redirect" title="Culture of São Tomé and Príncipe">São Tomé and Príncipe</a></li> 
+             <li><a href="/wiki/Culture_of_Senegal" class="mw-redirect" title="Culture of Senegal">Senegal</a></li> 
+             <li><a href="/wiki/Culture_of_Seychelles" class="mw-redirect" title="Culture of Seychelles">Seychelles</a></li> 
+             <li><a href="/wiki/Culture_of_Sierra_Leone" class="mw-redirect" title="Culture of Sierra Leone">Sierra Leone</a></li> 
+             <li><a href="/wiki/Culture_of_Somalia" title="Culture of Somalia">Somalia</a></li> 
+             <li><a href="/wiki/Culture_of_South_Africa" title="Culture of South Africa">South Africa</a></li> 
+             <li><a href="/wiki/Culture_of_South_Sudan" title="Culture of South Sudan">South Sudan</a></li> 
+             <li><a href="/wiki/Culture_of_Sudan" class="mw-redirect" title="Culture of Sudan">Sudan</a></li> 
+             <li><a href="/wiki/Culture_of_Tanzania" title="Culture of Tanzania">Tanzania</a></li> 
+             <li><a href="/wiki/Culture_of_Togo" title="Culture of Togo">Togo</a></li> 
+             <li><a href="/wiki/Culture_of_Tunisia" title="Culture of Tunisia">Tunisia</a></li> 
+             <li><a href="/wiki/Culture_of_Uganda" title="Culture of Uganda">Uganda</a></li> 
+             <li><a href="/wiki/Culture_of_Zambia" class="mw-redirect" title="Culture of Zambia">Zambia</a></li> 
+             <li><a href="/wiki/Culture_of_Zimbabwe" title="Culture of Zimbabwe">Zimbabwe</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            States with limited
+            <br>recognition
+           </div></th>
+          <td class="navbox-list navbox-even hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Culture_of_the_Sahrawi_Arab_Democratic_Republic" class="mw-redirect" title="Culture of the Sahrawi Arab Democratic Republic">Sahrawi Arab Democratic Republic</a></li> 
+             <li><a href="/wiki/Culture_of_Somaliland" class="mw-redirect" title="Culture of Somaliland">Somaliland</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">
+           <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+            Dependencies and
+            <br>other territories
+           </div></th>
+          <td class="navbox-list navbox-odd hlist wraplinks" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div> 
+             <ul>
+              <li><a href="/wiki/Culture_of_the_Canary_Islands" class="mw-redirect" title="Culture of the Canary Islands">Canary Islands</a>&nbsp;/ <a href="/wiki/Culture_of_Ceuta" class="mw-redirect" title="Culture of Ceuta">Ceuta</a>&nbsp;/ <a href="/wiki/Culture_of_Melilla" class="mw-redirect" title="Culture of Melilla">Melilla</a>&nbsp;&nbsp;<span style="font-size:85%;">(Spain)</span></li> 
+              <li><a href="/wiki/Culture_of_Madeira" class="mw-redirect" title="Culture of Madeira">Madeira</a>&nbsp;<span style="font-size:85%;">(Portugal)</span></li> 
+              <li><a href="/wiki/Culture_of_Mayotte" title="Culture of Mayotte">Mayotte</a>&nbsp;/ <a href="/wiki/Culture_of_R%C3%A9union" class="mw-redirect" title="Culture of Réunion">Réunion</a>&nbsp;<span style="font-size:85%;">(France)</span></li> 
+              <li><a href="/wiki/Culture_of_Saint_Helena" class="mw-redirect" title="Culture of Saint Helena">Saint Helena</a>&nbsp;/ <a href="/wiki/Culture_of_Ascension_Island" class="mw-redirect" title="Culture of Ascension Island">Ascension Island</a>&nbsp;/ <a href="/wiki/Culture_of_Tristan_da_Cunha" class="mw-redirect" title="Culture of Tristan da Cunha">Tristan da Cunha</a>&nbsp;<span style="font-size:85%;">(United Kingdom)</span></li> 
+              <li><a href="/wiki/Culture_of_Western_Sahara" title="Culture of Western Sahara">Western Sahara</a></li>
+             </ul> 
+            </div>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1391
+Cached time: 20210130155104
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.428 seconds
+Real time usage: 0.565 seconds
+Preprocessor visited node count: 2635/1000000
+Post‐expand include size: 86744/2097152 bytes
+Template argument size: 10984/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 26/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16775/5000000 bytes
+Lua time usage: 0.202/10.000 seconds
+Lua memory usage: 4331967/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  483.991      1 -total
+ 29.53%  142.916      1 Template:Reflist
+ 29.20%  141.348      7 Template:Citation_needed
+ 25.82%  124.957      7 Template:Navbox
+ 22.58%  109.308      1 Template:Mauritius_topics
+ 21.62%  104.625      1 Template:Country_topics
+ 21.11%  102.155      3 Template:Cite_web
+ 20.42%   98.827      7 Template:Fix
+ 11.12%   53.835     14 Template:Category_handler
+  7.76%   37.561      7 Template:Delink
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:541344-0!canonical and timestamp 20210130155104 and revision id 1000425024. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Culture_of_Mauritius&amp;oldid=1000425024#Public_holidays_and_festivals">https://en.wikipedia.org/w/index.php?title=Culture_of_Mauritius&amp;oldid=1000425024#Public_holidays_and_festivals</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Mauritian_culture" title="Category:Mauritian culture">Mauritian culture</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2008" title="Category:Articles with unsourced statements from June 2008">Articles with unsourced statements from June 2008</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2007" title="Category:Articles with unsourced statements from October 2007">Articles with unsourced statements from October 2007</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2007" title="Category:Articles with unsourced statements from June 2007">Articles with unsourced statements from June 2007</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2007" title="Category:Articles with unsourced statements from May 2007">Articles with unsourced statements from May 2007</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2014" title="Category:Articles with unsourced statements from March 2014">Articles with unsourced statements from March 2014</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">CS1 maint: multiple names: authors list</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Culture+of+Mauritius" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Culture+of+Mauritius" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Culture_of_Mauritius" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Culture_of_Mauritius" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Culture_of_Mauritius">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Culture_of_Mauritius&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Culture_of_Mauritius&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Culture_of_Mauritius" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Culture_of_Mauritius" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Culture_of_Mauritius&amp;oldid=1000425024" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Culture_of_Mauritius&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Culture_of_Mauritius&amp;id=1000425024&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3007457" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Culture_of_Mauritius&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Culture_of_Mauritius&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Culture_of_Mauritius" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Cultura_de_Mauricio" title="Cultura de Mauricio – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Culture_mauricienne" title="Culture mauricienne – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Cultura_de_Maur%C3%ADcio" title="Cultura de Maurício – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B0_%D0%9C%D0%B0%D1%83%D1%80%D0%B8%D1%86%D0%B8%D1%98%D1%83%D1%81%D0%B0" title="Култура Маурицијуса – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Kultura_Mauricijusa" title="Kultura Mauricijusa – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%AF%9B%E9%87%8C%E6%B1%82%E6%96%AF%E6%96%87%E5%8C%96" title="毛里求斯文化 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3007457#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 15 January 2021, at 01:43<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Culture_of_Mauritius&amp;mobileaction=toggle_view_mobile#Public_holidays_and_festivals" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.428","walltime":"0.565","ppvisitednodes":{"value":2635,"limit":1000000},"postexpandincludesize":{"value":86744,"limit":2097152},"templateargumentsize":{"value":10984,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":26,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16775,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  483.991      1 -total"," 29.53%  142.916      1 Template:Reflist"," 29.20%  141.348      7 Template:Citation_needed"," 25.82%  124.957      7 Template:Navbox"," 22.58%  109.308      1 Template:Mauritius_topics"," 21.62%  104.625      1 Template:Country_topics"," 21.11%  102.155      3 Template:Cite_web"," 20.42%   98.827      7 Template:Fix"," 11.12%   53.835     14 Template:Category_handler","  7.76%   37.561      7 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.202","limit":"10.000"},"limitreport-memusage":{"value":4331967,"limit":52428800}},"cachereport":{"origin":"mw1391","timestamp":"20210130155104","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Culture of Mauritius","url":"https:\/\/en.wikipedia.org\/wiki\/Culture_of_Mauritius#Public_holidays_and_festivals","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3007457","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3007457","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-21T09:32:19Z","dateModified":"2021-01-15T01:43:08Z","headline":"pattern of human activity and symbolism associated with Mauritius and its people"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":142,"wgHostname":"mw1384"});});</script> 
+ </body>
+</html>

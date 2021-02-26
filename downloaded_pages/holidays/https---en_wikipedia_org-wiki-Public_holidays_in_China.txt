@@ -1,0 +1,2099 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Public holidays in China - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"YBVynwpAMNcAAaaDl7MAAACI","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Public_holidays_in_China","wgTitle":"Public holidays in China","wgCurRevisionId":1000938037,"wgRevisionId":1000938037,"wgArticleId":843459,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 uses Chinese-language script (zh)","CS1 Chinese-language sources (zh)","Articles with short description","Short description is different from Wikidata","Articles containing Chinese-language text","Articles containing simplified Chinese-language text",
+"Articles containing Zhuang-language text","Public holidays in China","People's Republic of China culture","Lists of public holidays by country"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Public_holidays_in_China","wgRelevantArticleId":843459,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgPopupsConflictsWithRefTooltipsGadget":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage",
+"wgWikibaseItemId":"Q140044"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.36.0-wmf.27"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/f/f6/National_Day_decorations_-_Beihai_Park.JPG"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Public_holidays_in_China"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Public_holidays_in_China&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Public_holidays_in_China&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Public_holidays_in_China"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Public_holidays_in_China rootpage-Public_holidays_in_China skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading" lang="en">Public holidays in China</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div role="note" class="hatnote navigation-not-searchable">
+       For other uses, see <a href="/wiki/Public_holidays_in_China_(disambiguation)" class="mw-redirect mw-disambig" title="Public holidays in China (disambiguation)">Public holidays in China (disambiguation)</a>.
+      </div> 
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Wikipedia list article
+      </div> 
+      <p>There are currently seven official <b><a href="/wiki/Public_holiday" title="Public holiday">public holidays</a> in <a href="/wiki/Mainland_China" title="Mainland China">mainland China</a></b>. Each year's holidays are announced about three weeks before the start of the year by the General Office of the <a href="/wiki/State_Council_of_the_People%27s_Republic_of_China" title="State Council of the People's Republic of China">State Council</a>. A notable feature of mainland Chinese holidays is that weekends are usually swapped with the weekdays next to the actual holiday to create a longer holiday period. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date</th> 
+         <th>Length (without weekends)</th> 
+         <th>English name</th> 
+         <th>Chinese name (Simplified)</th> 
+         <th>Pinyin</th> 
+         <th>2014<sup id="cite_ref-sc2011_1-0" class="reference"><a href="#cite_note-sc2011-1">[1]</a></sup></th> 
+         <th>2015</th> 
+         <th>2016</th> 
+         <th>2017</th> 
+         <th>2018<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></th> 
+         <th>2019</th> 
+         <th>2020 <sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </th>
+        </tr> 
+        <tr> 
+         <td>1 January</td> 
+         <td>1 day</td> 
+         <td><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a></td> 
+         <td><span lang="zh"><a href="https://en.wiktionary.org/wiki/%E5%85%83%E6%97%A6" class="extiw" title="wikt:元旦">元旦</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Yuándàn</i></td> 
+         <td>1 January</td> 
+         <td>1 January<sup id="cite_ref-Reference3a_4-0" class="reference"><a href="#cite_note-Reference3a-4">[a]</a></sup></td> 
+         <td>1 January<sup id="cite_ref-ReferenceA_5-0" class="reference"><a href="#cite_note-ReferenceA-5">[b]</a></sup></td> 
+         <td>1 January<sup id="cite_ref-Reference3m_6-0" class="reference"><a href="#cite_note-Reference3m-6">[c]</a></sup></td> 
+         <td>1 January<sup id="cite_ref-ReferenceA_5-1" class="reference"><a href="#cite_note-ReferenceA-5">[b]</a></sup></td> 
+         <td>1 January<sup id="cite_ref-Reference3b_7-0" class="reference"><a href="#cite_note-Reference3b-7">[d]</a></sup></td> 
+         <td>1 January </td>
+        </tr> 
+        <tr> 
+         <td>1st day of 1st Lunisolar month</td> 
+         <td>3 days (Chinese New Year's Eve, 1st and 2nd days of 1st Lunisolar month)</td> 
+         <td><a href="/wiki/Chinese_New_Year" title="Chinese New Year">Spring Festival</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[e]</a></sup> (aka Lunar New Year)</td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E6%98%A5%E8%8A%82" class="extiw" title="wikt:春节">春节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Chūnjié</i></td> 
+         <td>31 January<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[f]</a></sup></td> 
+         <td>19 February<sup id="cite_ref-Reference7ab1_10-0" class="reference"><a href="#cite_note-Reference7ab1-10">[g]</a></sup></td> 
+         <td>8 February<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[h]</a></sup></td> 
+         <td>28 January<sup id="cite_ref-Reference7ab1_10-1" class="reference"><a href="#cite_note-Reference7ab1-10">[g]</a></sup></td> 
+         <td>16 February<sup id="cite_ref-Reference7ab1_10-2" class="reference"><a href="#cite_note-Reference7ab1-10">[g]</a></sup></td> 
+         <td>5 February<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[i]</a></sup></td> 
+         <td>25 January </td>
+        </tr> 
+        <tr> 
+         <td>5th <a href="/wiki/Solar_term" title="Solar term">solar term</a> (4 April, 5 April or 6 April)</td> 
+         <td>1 day</td> 
+         <td><a href="/wiki/Qingming_Festival" title="Qingming Festival">Tomb-Sweeping Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E6%B8%85%E6%98%8E%E8%8A%82" class="extiw" title="wikt:清明节">清明节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Qīngmíng jié</i></td> 
+         <td>5 April<sup id="cite_ref-Reference3m_6-1" class="reference"><a href="#cite_note-Reference3m-6">[c]</a></sup></td> 
+         <td>5 April<sup id="cite_ref-Reference3m_6-2" class="reference"><a href="#cite_note-Reference3m-6">[c]</a></sup></td> 
+         <td>4 April<sup id="cite_ref-ReferenceA_5-2" class="reference"><a href="#cite_note-ReferenceA-5">[b]</a></sup></td> 
+         <td>4 April<sup id="cite_ref-Reference3b_7-1" class="reference"><a href="#cite_note-Reference3b-7">[d]</a></sup></td> 
+         <td>5 April<sup id="cite_ref-Reference3a_4-1" class="reference"><a href="#cite_note-Reference3a-4">[a]</a></sup></td> 
+         <td>5 April<sup id="cite_ref-ReferenceA_5-3" class="reference"><a href="#cite_note-ReferenceA-5">[b]</a></sup></td> 
+         <td>4 April </td>
+        </tr> 
+        <tr> 
+         <td>1 May</td> 
+         <td>1 day</td> 
+         <td><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">Labour Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%8A%B3%E5%8A%A8%E8%8A%82" class="extiw" title="wikt:劳动节">劳动节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Láodòng jié</i></td> 
+         <td>1 May<sup id="cite_ref-Reference3a_4-2" class="reference"><a href="#cite_note-Reference3a-4">[a]</a></sup></td> 
+         <td>1 May<sup id="cite_ref-ReferenceA_5-4" class="reference"><a href="#cite_note-ReferenceA-5">[b]</a></sup></td> 
+         <td>1 May<sup id="cite_ref-Reference3m_6-3" class="reference"><a href="#cite_note-Reference3m-6">[c]</a></sup></td> 
+         <td>1 May<sup id="cite_ref-ReferenceA_5-5" class="reference"><a href="#cite_note-ReferenceA-5">[b]</a></sup></td> 
+         <td>1 May<sup id="cite_ref-Reference3b_7-2" class="reference"><a href="#cite_note-Reference3b-7">[d]</a></sup></td> 
+         <td>1 May<sup id="cite_ref-Reference4_13-0" class="reference"><a href="#cite_note-Reference4-13">[j]</a></sup></td> 
+         <td>1 May </td>
+        </tr> 
+        <tr> 
+         <td>5th day of 5th Lunisolar month</td> 
+         <td>1 day</td> 
+         <td><a href="/wiki/Duanwu_Festival" class="mw-redirect" title="Duanwu Festival">Dragon Boat Festival</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E7%AB%AF%E5%8D%88%E8%8A%82" class="extiw" title="wikt:端午节">端午节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Duānwǔ jié</i></td> 
+         <td>2 June<sup id="cite_ref-ReferenceA_5-6" class="reference"><a href="#cite_note-ReferenceA-5">[b]</a></sup></td> 
+         <td>20 June<sup id="cite_ref-Reference3m_6-4" class="reference"><a href="#cite_note-Reference3m-6">[c]</a></sup></td> 
+         <td>9 June<sup id="cite_ref-Reference3a_4-3" class="reference"><a href="#cite_note-Reference3a-4">[a]</a></sup></td> 
+         <td>30 May<sup id="cite_ref-Reference3b_7-3" class="reference"><a href="#cite_note-Reference3b-7">[d]</a></sup></td> 
+         <td>18 June<sup id="cite_ref-ReferenceA_5-7" class="reference"><a href="#cite_note-ReferenceA-5">[b]</a></sup></td> 
+         <td>7 June<sup id="cite_ref-ReferenceA_5-8" class="reference"><a href="#cite_note-ReferenceA-5">[b]</a></sup></td> 
+         <td>25 June </td>
+        </tr> 
+        <tr> 
+         <td>15th day of 8th Lunisolar month</td> 
+         <td>1 day</td> 
+         <td><a href="/wiki/Mid-Autumn_Festival" title="Mid-Autumn Festival">Mid-Autumn Festival</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E4%B8%AD%E7%A7%8B%E8%8A%82" class="extiw" title="wikt:中秋节">中秋节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Zhōngqiū jié</i></td> 
+         <td>8 September<sup id="cite_ref-ReferenceA_5-9" class="reference"><a href="#cite_note-ReferenceA-5">[b]</a></sup></td> 
+         <td>27 September<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[k]</a></sup></td> 
+         <td>15 September<sup id="cite_ref-Reference3a_4-4" class="reference"><a href="#cite_note-Reference3a-4">[a]</a></sup></td> 
+         <td>4 October<sup id="cite_ref-ReferenceB_15-0" class="reference"><a href="#cite_note-ReferenceB-15">[l]</a></sup></td> 
+         <td>24 September<sup id="cite_ref-ReferenceA_5-10" class="reference"><a href="#cite_note-ReferenceA-5">[b]</a></sup></td> 
+         <td>13 September<sup id="cite_ref-ReferenceA_5-11" class="reference"><a href="#cite_note-ReferenceA-5">[b]</a></sup></td> 
+         <td>1 October </td>
+        </tr> 
+        <tr> 
+         <td>1 October</td> 
+         <td>3 days (1, 2, 3 October)</td> 
+         <td><a href="/wiki/National_Day_of_the_People%27s_Republic_of_China" title="National Day of the People's Republic of China">National Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%9B%BD%E5%BA%86%E8%8A%82" class="extiw" title="wikt:国庆节">国庆节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Guóqìng jié</i></td> 
+         <td>1 October<sup id="cite_ref-Reference7abn_16-0" class="reference"><a href="#cite_note-Reference7abn-16">[m]</a></sup></td> 
+         <td>1 October<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[n]</a></sup></td> 
+         <td>1 October<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[o]</a></sup></td> 
+         <td>1 October<sup id="cite_ref-ReferenceB_15-1" class="reference"><a href="#cite_note-ReferenceB-15">[l]</a></sup></td> 
+         <td>1 October<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[p]</a></sup></td> 
+         <td>1 October<sup id="cite_ref-Reference7abn_16-1" class="reference"><a href="#cite_note-Reference7abn-16">[m]</a></sup></td> 
+         <td>1 October </td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:National_Day_decorations_-_Beihai_Park.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/National_Day_decorations_-_Beihai_Park.JPG/220px-National_Day_decorations_-_Beihai_Park.JPG" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/National_Day_decorations_-_Beihai_Park.JPG/330px-National_Day_decorations_-_Beihai_Park.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/National_Day_decorations_-_Beihai_Park.JPG/440px-National_Day_decorations_-_Beihai_Park.JPG 2x" data-file-width="640" data-file-height="480"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:National_Day_decorations_-_Beihai_Park.JPG" class="internal" title="Enlarge"></a>
+         </div>Chinese National Day in 2004 at <a href="/wiki/Beihai_Park" title="Beihai Park">Beihai Park</a>, <a href="/wiki/Beijing" title="Beijing">Beijing</a>.
+        </div>
+       </div>
+      </div> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#The_original_version_(released_on_23_December_1949)"><span class="tocnumber">1.1</span> <span class="toctext">The original version (released on 23 December 1949)</span></a></li> 
+          <li class="toclevel-2 tocsection-3"><a href="#The_first_revised_version_(revised_on_18_September_1999)"><span class="tocnumber">1.2</span> <span class="toctext">The first revised version (revised on 18 September 1999)</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#The_second_revised_version_(revised_on_14_December_2007)"><span class="tocnumber">1.3</span> <span class="toctext">The second revised version (revised on 14 December 2007)</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#The_third_revised_version_(revised_on_11_December_2013)"><span class="tocnumber">1.4</span> <span class="toctext">The third revised version (revised on 11 December 2013)</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#The_fourth_revised_version_(revised_on_16_December_2014)"><span class="tocnumber">1.5</span> <span class="toctext">The fourth revised version (revised on 16 December 2014)</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Overview"><span class="tocnumber">2</span> <span class="toctext">Overview</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-8"><a href="#Weekend_shifting_scheme_(since_2014)"><span class="tocnumber">2.1</span> <span class="toctext">Weekend shifting scheme (since 2014)</span></a> 
+           <ul> 
+            <li class="toclevel-3 tocsection-9"><a href="#Spring_Festival"><span class="tocnumber">2.1.1</span> <span class="toctext">Spring Festival</span></a></li> 
+            <li class="toclevel-3 tocsection-10"><a href="#National_Day_(not_near_Mid-Autumn_Festival)"><span class="tocnumber">2.1.2</span> <span class="toctext">National Day (not near Mid-Autumn Festival)</span></a></li> 
+            <li class="toclevel-3 tocsection-11"><a href="#New_Year,_Tomb-Sweeping_Day,_Labour_Day,_Dragon_Boat_Festival_and_Mid-Autumn_Festival_(not_near_National_Day)"><span class="tocnumber">2.1.3</span> <span class="toctext">New Year, Tomb-Sweeping Day, Labour Day, Dragon Boat Festival and Mid-Autumn Festival (not near National Day)</span></a></li> 
+           </ul> </li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-12"><a href="#Additional_holidays_for_specific_social_groups"><span class="tocnumber">3</span> <span class="toctext">Additional holidays for specific social groups</span></a></li> 
+        <li class="toclevel-1 tocsection-13"><a href="#Traditional_holiday_scheme"><span class="tocnumber">4</span> <span class="toctext">Traditional holiday scheme</span></a></li> 
+        <li class="toclevel-1 tocsection-14"><a href="#Ethnic_Minorities_Holidays"><span class="tocnumber">5</span> <span class="toctext">Ethnic Minorities Holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-15"><a href="#Novel_holidays"><span class="tocnumber">6</span> <span class="toctext">Novel holidays</span></a></li> 
+        <li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-17"><a href="#Notes"><span class="tocnumber">8</span> <span class="toctext">Notes</span></a></li> 
+        <li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Festivals in China have been around since the Qin Dynasty around 221-206 BC. During the more prosperous <a href="/wiki/Tang_Dynasty" class="mw-redirect" title="Tang Dynasty">Tang Dynasty</a> from AD 618–907, festivals involved less sacrifice and mystery to more entertainment.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[4]</a></sup> Culminating to the modern era Between the 1920s until around the 1970s, the Chinese began observing two sets of holidays, which were the traditional and what became "official", celebrating the accomplishments of the communist regime.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[5]</a></sup> There was then a major reform in 2008, abolishing the <a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a> <a href="/wiki/Golden_Week_(China)" title="Golden Week (China)">Golden Week</a> and adding three traditional Chinese holidays (<a href="/wiki/Qingming_Festival" title="Qingming Festival">Qingming Festival</a>, <a href="/wiki/Duanwu_Festival" class="mw-redirect" title="Duanwu Festival">Duanwu Festival</a>, and <a href="/wiki/Mid-Autumn_Festival" title="Mid-Autumn Festival">Mid-Autumn Festival</a>).<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[6]</a></sup> From at least 2000 until this reform, the Spring Festival public holiday began on New Year's Day itself. From 2008 to 2013 it was shifted back by one day to begin on Chinese New Year's Eve. In 2014, New Year's Eve became a working day again, which provoked hostile discussion by <a href="/wiki/Netizens" class="mw-redirect" title="Netizens">netizens</a> and academics.<sup id="cite_ref-wsj2013_23-0" class="reference"><a href="#cite_note-wsj2013-23">[7]</a></sup><sup id="cite_ref-reuters2013_24-0" class="reference"><a href="#cite_note-reuters2013-24">[8]</a></sup> However, since 2015, Chinese New Year's Eve is usually swapped with nearby weekends so that people need not work on Chinese New Year's Eve. </p> 
+      <h3><span id="The_original_version_.28released_on_23_December_1949.29"></span><span class="mw-headline" id="The_original_version_(released_on_23_December_1949)">The original version (released on 23 December 1949)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=2" title="Edit section: The original version (released on 23 December 1949)">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li>New Year: 1 day (1 January)</li> 
+       <li>Spring Festival: 3 days (1st, 2nd and 3rd days of 1st Lunisolar month)</li> 
+       <li>Labour Day: 1 day (1 May)</li> 
+       <li>National Day: 2 days (1 and 2 October)</li>
+      </ul> 
+      <p>Total: 7 days </p> 
+      <h3><span id="The_first_revised_version_.28revised_on_18_September_1999.29"></span><span class="mw-headline" id="The_first_revised_version_(revised_on_18_September_1999)">The first revised version (revised on 18 September 1999)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=3" title="Edit section: The first revised version (revised on 18 September 1999)">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li>New Year: 1 day (1 January)</li> 
+       <li>Spring Festival: 3 days (1st, 2nd and 3rd days of 1st Lunisolar month)</li> 
+       <li><b>Labour Day: 3 days (1, 2 and 3 May)</b></li> 
+       <li><b>National Day: 3 days (1,2 and 3 October)</b></li>
+      </ul> 
+      <p><b>Total: 10 days</b> </p> 
+      <h3><span id="The_second_revised_version_.28revised_on_14_December_2007.29"></span><span class="mw-headline" id="The_second_revised_version_(revised_on_14_December_2007)">The second revised version (revised on 14 December 2007)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=4" title="Edit section: The second revised version (revised on 14 December 2007)">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li>New Year: 1 day (1 January)</li> 
+       <li><b>Spring Festival: 3 days (Chinese New Year's Eve, 1st and 2nd days of 1st Lunisolar month)</b></li> 
+       <li><b>Tomb-Sweeping Day: 1 day (5th solar term (4 April, 5 April or 6 April))</b></li> 
+       <li><b>Labour Day: 1 day (1 May)</b></li> 
+       <li><b>Dragon Boat Festival: 1 day (5th day of 5th Lunisolar month)</b></li> 
+       <li><b>Mid-Autumn Festival: 1 day (15th day of 8th Lunisolar month)</b></li> 
+       <li>National Day: 3 days (1, 2 and 3 October)</li>
+      </ul> 
+      <p><b>Total: 11 days</b> </p> 
+      <h3><span id="The_third_revised_version_.28revised_on_11_December_2013.29"></span><span class="mw-headline" id="The_third_revised_version_(revised_on_11_December_2013)">The third revised version (revised on 11 December 2013)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=5" title="Edit section: The third revised version (revised on 11 December 2013)">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li>New Year: 1 day (1 January)</li> 
+       <li><b>Spring Festival: 3 days (1st, 2nd and 3rd days of 1st Lunisolar month)</b></li> 
+       <li>Tomb-Sweeping Day: 1 day (5th solar term (4 April, 5 April or 6 April))</li> 
+       <li>Labour Day: 1 day (1 May)</li> 
+       <li>Dragon Boat Festival: 1 day (5th day of 5th Lunisolar month)</li> 
+       <li>Mid-Autumn Festival: 1 day (15th day of 8th Lunisolar month)</li> 
+       <li>National Day: 3 days (1, 2 and 3 October)</li>
+      </ul> 
+      <p>Total: 11 days </p> 
+      <h3><span id="The_fourth_revised_version_.28revised_on_16_December_2014.29"></span><span class="mw-headline" id="The_fourth_revised_version_(revised_on_16_December_2014)">The fourth revised version (revised on 16 December 2014)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=6" title="Edit section: The fourth revised version (revised on 16 December 2014)">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li>New Year: 1 day (1 January)</li> 
+       <li><b>Spring Festival: 3 days (Chinese New Year's Eve, 1st and 2nd days of 1st Lunisolar month)</b></li> 
+       <li><b>Tomb-Sweeping Day: 1 day (5th solar term (4 April, 5 April or 6 April))</b></li> 
+       <li><b>Labour Day: 1 day (1 May)</b></li> 
+       <li><b>Dragon Boat Festival: 1 day (5th day of 5th Lunisolar month)</b></li> 
+       <li><b>Mid-Autumn Festival: 1 day (15th day of 8th Lunisolar month)</b></li> 
+       <li>National Day: 3 days (1, 2 and 3 October)</li>
+      </ul> 
+      <p><b>Total: 11 days</b> </p> 
+      <h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=7" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Holidays in China are complicated and are one of the least predictable among developed nations. In all these holidays, if the holiday lands on a weekend, the days will be reimbursed after the weekend. </p>
+      <p>The Chinese New Year and National Day holidays are three days long. The week-long holidays on May (Labor) Day and National Day began in 2000, as a measure to increase and encourage holiday spending. The resulting seven-day or eight-day (if Mid-Autumn Festival is near National Day) holidays are called "<a href="/wiki/Golden_Week_(China)" title="Golden Week (China)">Golden Weeks</a>" (<span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E9%BB%84%E9%87%91" class="extiw" title="wikt:黄金">黄金</a><a href="https://en.wiktionary.org/wiki/%E5%91%A8" class="extiw" title="wikt:周">周</a></span>), and have become peak seasons for travel and tourism. In 2008, the Labor Day holiday was shortened to three days to reduce travel rushes to just twice a year, and instead, three traditional Chinese holidays were added. </p>
+      <p>Generally, if there is a three-day or four-day (if Mid-Autumn Festival is near National Day) holiday, the government will declare it to be a seven-day or eight-day holiday. However, citizens are required to work during a nearby weekend. Businesses and schools would then treat the affected Saturdays and Sundays as the weekdays that the weekend has been swapped with. Schedules are released late in the year prior and might change during the year. </p>
+      <p>The following is a graphical schematic of how the weekend shifting works. </p> 
+      <table class="wikitable collapsible collapsed" style="font-size: 94%; margin-right:auto"> 
+       <tbody>
+        <tr> 
+         <th>Example </th>
+        </tr> 
+        <tr> 
+         <td> 
+          <table width="100%" cellspacing="1" cellpadding="0" style="text-align: center;"> 
+           <caption>
+            <b>New Year's Day Holiday, 2010</b> 
+           </caption> 
+           <tbody>
+            <tr style="background-color: #999;"> 
+             <td colspan="4">Dec </td> 
+             <td colspan="7">Jan </td>
+            </tr> 
+            <tr style="background-color: #ccc"> 
+             <td width="9%">28 </td> 
+             <td width="9%">29 </td> 
+             <td width="9%">30 </td> 
+             <td width="9%">31 </td> 
+             <td width="9%">1 </td> 
+             <td width="9%">2 </td> 
+             <td width="9%">3 </td> 
+             <td width="9%">4 </td> 
+             <td width="9%">5 </td> 
+             <td width="9%">6 </td> 
+             <td width="9%">7 </td>
+            </tr> 
+            <tr> 
+             <td>M</td> 
+             <td>T</td> 
+             <td>W</td> 
+             <td>T</td> 
+             <td>F</td> 
+             <td>S</td> 
+             <td>S</td> 
+             <td>M</td> 
+             <td>T</td> 
+             <td>W</td> 
+             <td>T </td>
+            </tr> 
+            <tr> 
+             <td colspan="5" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="2" style="background-color: #ccf;">Weekend </td> 
+             <td colspan="4" style="background-color: #fcc;">Weekdays </td>
+            </tr> 
+            <tr> 
+             <td colspan="11">becomes </td>
+            </tr> 
+            <tr> 
+             <td colspan="4" style="background-color: #fcc;">Weekdays </td> 
+             <td style="background-color: #cfd;"><b>Holiday</b> </td> 
+             <td colspan="2" style="background-color: #ccf;">Weekend </td> 
+             <td colspan="4" style="background-color: #fcc;">Weekdays </td>
+            </tr>
+           </tbody>
+          </table> <p><br> </p> 
+          <table width="100%" cellspacing="1" cellpadding="0" style="text-align: center;"> 
+           <caption>
+            <b>Chinese New Year Holiday, 2010</b> 
+           </caption> 
+           <tbody>
+            <tr style="background-color: #999;"> 
+             <td colspan="11">Feb </td>
+            </tr> 
+            <tr style="background-color: #ccc"> 
+             <td width="9%">12 </td> 
+             <td width="9%">13 </td> 
+             <td width="9%">14 </td> 
+             <td width="9%">15 </td> 
+             <td width="9%">16 </td> 
+             <td width="9%">17 </td> 
+             <td width="9%">18 </td> 
+             <td width="9%">19 </td> 
+             <td width="9%">20 </td> 
+             <td width="9%">21 </td> 
+             <td width="9%">22 </td>
+            </tr> 
+            <tr> 
+             <td>F</td> 
+             <td>S</td> 
+             <td>S</td> 
+             <td>M</td> 
+             <td>T</td> 
+             <td>W</td> 
+             <td>T</td> 
+             <td>F</td> 
+             <td>S</td> 
+             <td>S</td> 
+             <td>M </td>
+            </tr> 
+            <tr> 
+             <td colspan="1" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="2" style="background-color: #ccf;">Weekend </td> 
+             <td colspan="5" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="2" style="background-color: #ccf;">Weekend </td> 
+             <td colspan="1" style="background-color: #fcc;">Weekdays </td>
+            </tr> 
+            <tr> 
+             <td colspan="11">becomes </td>
+            </tr> 
+            <tr> 
+             <td colspan="1" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="3" style="background-color: #cfd;"><b>Holiday</b> </td> 
+             <td colspan="2" style="background-color: #ccf;"><b>Moved Weekend</b> </td> 
+             <td colspan="2" style="background-color: #ccf;"><b>Moved Weekend</b> </td> 
+             <td colspan="2" style="background-color: #fcc;">Moved Weekdays </td> 
+             <td colspan="1" style="background-color: #fcc;">Weekdays </td>
+            </tr>
+           </tbody>
+          </table> <p><br> </p> 
+          <table width="100%" cellspacing="1" cellpadding="0" style="text-align: center;"> 
+           <caption>
+            <b>Qingming Holiday, 2010</b> 
+           </caption> 
+           <tbody>
+            <tr style="background-color: #199;"> 
+             <td colspan="2">Mar </td> 
+             <td colspan="9">Apr </td>
+            </tr> 
+            <tr style="background-color: #ccc"> 
+             <td width="9%">30 </td> 
+             <td width="9%">31 </td> 
+             <td width="9%">1 </td> 
+             <td width="9%">2 </td> 
+             <td width="9%">3 </td> 
+             <td width="9%">4 </td> 
+             <td width="9%">5 </td> 
+             <td width="9%">6 </td> 
+             <td width="9%">7 </td> 
+             <td width="9%">8 </td> 
+             <td width="9%">9 </td>
+            </tr> 
+            <tr> 
+             <td>T</td> 
+             <td>W</td> 
+             <td>T</td> 
+             <td>F</td> 
+             <td>S</td> 
+             <td>S</td> 
+             <td>M</td> 
+             <td>T</td> 
+             <td>W</td> 
+             <td>T</td> 
+             <td>F </td>
+            </tr> 
+            <tr> 
+             <td colspan="4" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="2" style="background-color: #ccf;">Weekend </td> 
+             <td colspan="5" style="background-color: #fcc;">Weekdays </td>
+            </tr> 
+            <tr> 
+             <td colspan="11">becomes </td>
+            </tr> 
+            <tr> 
+             <td colspan="4" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="2" style="background-color: #ccf;">Weekend </td> 
+             <td style="background-color: #cfd;"><b>Holiday</b> </td> 
+             <td colspan="4" style="background-color: #fcc;">Weekdays </td>
+            </tr>
+           </tbody>
+          </table> <p><br> </p> 
+          <table width="100%" cellspacing="1" cellpadding="0" style="text-align: center;"> 
+           <caption>
+            <b>Labor Day Holiday, 2010</b> 
+           </caption> 
+           <tbody>
+            <tr style="background-color: #999;"> 
+             <td colspan="4">Apr </td> 
+             <td colspan="7">May </td>
+            </tr> 
+            <tr style="background-color: #ccc"> 
+             <td width="9%">27 </td> 
+             <td width="9%">28 </td> 
+             <td width="9%">29 </td> 
+             <td width="9%">30 </td> 
+             <td width="9%">1 </td> 
+             <td width="9%">2 </td> 
+             <td width="9%">3 </td> 
+             <td width="9%">4 </td> 
+             <td width="9%">5 </td> 
+             <td width="9%">6 </td> 
+             <td width="9%">7 </td>
+            </tr> 
+            <tr> 
+             <td>T</td> 
+             <td>W</td> 
+             <td>T</td> 
+             <td>F</td> 
+             <td>S</td> 
+             <td>S</td> 
+             <td>M</td> 
+             <td>T</td> 
+             <td>W</td> 
+             <td>T</td> 
+             <td>F </td>
+            </tr> 
+            <tr> 
+             <td colspan="4" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="2" style="background-color: #ccf;">Weekend </td> 
+             <td colspan="5" style="background-color: #fcc;">Weekdays </td>
+            </tr> 
+            <tr> 
+             <td colspan="11">becomes </td>
+            </tr> 
+            <tr> 
+             <td colspan="4" style="background-color: #fcc;">Weekdays </td> 
+             <td style="background-color: #cfd;"><b>Holiday</b> </td> 
+             <td colspan="2" style="background-color: #ccf;"><b>Long Weekend</b> </td> 
+             <td colspan="4" style="background-color: #fcc;">Weekdays </td>
+            </tr>
+           </tbody>
+          </table> <p><br> </p> 
+          <table width="100%" cellspacing="1" cellpadding="0" style="text-align: center;"> 
+           <caption>
+            <b>Dragon Boat Festival Holiday, 2010</b> 
+           </caption> 
+           <tbody>
+            <tr style="background-color: #999;"> 
+             <td colspan="11">Jun </td>
+            </tr> 
+            <tr style="background-color: #ccc"> 
+             <td width="9%">10 </td> 
+             <td width="9%">11 </td> 
+             <td width="9%">12 </td> 
+             <td width="9%">13 </td> 
+             <td width="9%">14 </td> 
+             <td width="9%">15 </td> 
+             <td width="9%">16 </td> 
+             <td width="9%">17 </td> 
+             <td width="9%">18 </td> 
+             <td width="9%">19 </td> 
+             <td width="9%">20 </td>
+            </tr> 
+            <tr> 
+             <td>T</td> 
+             <td>F</td> 
+             <td>S</td> 
+             <td>S</td> 
+             <td>M</td> 
+             <td>T</td> 
+             <td>W</td> 
+             <td>T</td> 
+             <td>F</td> 
+             <td>S</td> 
+             <td>S </td>
+            </tr> 
+            <tr> 
+             <td colspan="2" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="2" style="background-color: #ccf;">Weekend </td> 
+             <td colspan="5" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="2" style="background-color: #ccf;">Weekend </td>
+            </tr> 
+            <tr> 
+             <td colspan="11">becomes </td>
+            </tr> 
+            <tr> 
+             <td colspan="2" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="2" style="background-color: #fcc;">Moved Weekdays </td> 
+             <td colspan="2" style="background-color: #ccf;"><b>Moved Weekend</b> </td> 
+             <td style="background-color: #cfd;"><b>Holiday</b> </td> 
+             <td colspan="2" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="2" style="background-color: #ccf;">Weekend </td>
+            </tr>
+           </tbody>
+          </table> <p><br> </p> 
+          <table width="100%" cellspacing="1" cellpadding="0" style="text-align: center;"> 
+           <caption>
+            <b>Mid-Autumn Festival Holiday and National Day Holiday, 2010</b> 
+           </caption> 
+           <tbody>
+            <tr style="background-color: #999;"> 
+             <td colspan="14">Sept </td> 
+             <td colspan="11">Oct </td>
+            </tr> 
+            <tr style="background-color: #ccc"> 
+             <td width="3%">17 </td> 
+             <td width="3%">18 </td> 
+             <td width="3%">19 </td> 
+             <td width="3%">20 </td> 
+             <td width="3%">21 </td> 
+             <td width="3%">22 </td> 
+             <td width="3%">23 </td> 
+             <td width="3%">24 </td> 
+             <td width="3%">25 </td> 
+             <td width="3%">26 </td> 
+             <td width="3%">27 </td> 
+             <td width="3%">28 </td> 
+             <td width="3%">29 </td> 
+             <td width="3%">30 </td> 
+             <td width="3%">1 </td> 
+             <td width="3%">2 </td> 
+             <td width="3%">3 </td> 
+             <td width="3%">4 </td> 
+             <td width="3%">5 </td> 
+             <td width="3%">6 </td> 
+             <td width="3%">7 </td> 
+             <td width="3%">8 </td> 
+             <td width="3%">9 </td> 
+             <td width="3%">10 </td> 
+             <td width="3%">11 </td>
+            </tr> 
+            <tr> 
+             <td>F</td> 
+             <td>S</td> 
+             <td>S</td> 
+             <td>M</td> 
+             <td>T</td> 
+             <td>W</td> 
+             <td>T</td> 
+             <td>F</td> 
+             <td>S</td> 
+             <td>S</td> 
+             <td>M</td> 
+             <td>T</td> 
+             <td>W</td> 
+             <td>T</td> 
+             <td>F</td> 
+             <td>S</td> 
+             <td>S</td> 
+             <td>M</td> 
+             <td>T</td> 
+             <td>W</td> 
+             <td>T</td> 
+             <td>F</td> 
+             <td>S</td> 
+             <td>S</td> 
+             <td>M </td>
+            </tr> 
+            <tr> 
+             <td colspan="1" style="background-color: #fcc;">Weekday </td> 
+             <td colspan="2" style="background-color: #ccf;">Weekend </td> 
+             <td colspan="5" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="2" style="background-color: #ccf;">Weekend </td> 
+             <td colspan="5" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="2" style="background-color: #ccf;">Weekend </td> 
+             <td colspan="5" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="2" style="background-color: #ccf;">Weekend </td> 
+             <td colspan="1" style="background-color: #fcc;">Weekday </td>
+            </tr> 
+            <tr> 
+             <td colspan="25">becomes </td>
+            </tr> 
+            <tr> 
+             <td colspan="1" style="background-color: #fcc;">Weekday </td> 
+             <td colspan="1" style="background-color: #ccf;">Weekend </td> 
+             <td colspan="1" style="background-color: #fcc;">Moved Weekday </td> 
+             <td colspan="2" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="1" style="background-color: #cfd;"><b>Holiday</b> </td> 
+             <td colspan="2" style="background-color: #ccf;"><b>Moved Weekend</b> </td> 
+             <td colspan="2" style="background-color: #fcc;">Moved Weekdays </td> 
+             <td colspan="4" style="background-color: #fcc;">Weekdays </td> 
+             <td colspan="3" style="background-color: #cfd;"><b>Holiday</b> </td> 
+             <td colspan="2" style="background-color: #ccf;"><b>Moved Weekend</b> </td> 
+             <td colspan="2" style="background-color: #ccf;"><b>Moved Weekend</b> </td> 
+             <td colspan="1" style="background-color: #fcc;">Weekday </td> 
+             <td colspan="1" style="background-color: #fcc;">Moved Weekday </td> 
+             <td colspan="1" style="background-color: #ccf;">Weekend </td> 
+             <td colspan="1" style="background-color: #fcc;">Weekday </td>
+            </tr>
+           </tbody>
+          </table> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h3><span id="Weekend_shifting_scheme_.28since_2014.29"></span><span class="mw-headline" id="Weekend_shifting_scheme_(since_2014)">Weekend shifting scheme (since 2014)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=8" title="Edit section: Weekend shifting scheme (since 2014)">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <h4><span class="mw-headline" id="Spring_Festival">Spring Festival</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=9" title="Edit section: Spring Festival">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>Shift the Saturdays and Sundays nearby to make a 7-day holiday. People may need to work for 6 or 7 continuous days before or after the holiday. </p> 
+      <h4><span id="National_Day_.28not_near_Mid-Autumn_Festival.29"></span><span class="mw-headline" id="National_Day_(not_near_Mid-Autumn_Festival)">National Day (not near Mid-Autumn Festival)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=10" title="Edit section: National Day (not near Mid-Autumn Festival)">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>Shift the Saturdays and Sundays nearby to make a 7-day holiday. The holiday is from 1 to 7 October. People may need to work for 6 or 7 continuous days before or after the holiday. </p> 
+      <h4><span id="New_Year.2C_Tomb-Sweeping_Day.2C_Labour_Day.2C_Dragon_Boat_Festival_and_Mid-Autumn_Festival_.28not_near_National_Day.29"></span><span class="mw-headline" id="New_Year,_Tomb-Sweeping_Day,_Labour_Day,_Dragon_Boat_Festival_and_Mid-Autumn_Festival_(not_near_National_Day)">New Year, Tomb-Sweeping Day, Labour Day, Dragon Boat Festival and Mid-Autumn Festival (not near National Day)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=11" title="Edit section: New Year, Tomb-Sweeping Day, Labour Day, Dragon Boat Festival and Mid-Autumn Festival (not near National Day)">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <ul>
+       <li>Wednesday: No weekend shifting. The holiday is only 1 day long. This is to prevent people from working for 7 continuous days since 2014. Sometimes shift the Sundays nearby to make a 4-day holiday. People may need to work for 6 continuous days after the holiday.</li> 
+       <li>Tuesday or Thursday: Shift the Saturdays and Sundays nearby to make a 3-day holiday. People may need to work for 6 continuous days before or after the holiday.</li> 
+       <li>Saturday or Sunday: The public holiday is transferred to Monday.</li>
+      </ul> 
+      <h2><span class="mw-headline" id="Additional_holidays_for_specific_social_groups">Additional holidays for specific social groups</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=12" title="Edit section: Additional holidays for specific social groups">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>In addition to these holidays, applicable to the whole population, there are four official public holidays applicable to specific sections of the population: </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date</th> 
+         <th>English name</th> 
+         <th>Chinese name</th> 
+         <th>Pinyin</th> 
+         <th>Applicable to </th>
+        </tr> 
+        <tr> 
+         <td>8 March</td> 
+         <td><a href="/wiki/International_Women%27s_Day" title="International Women's Day">International Women's Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%9B%BD%E9%99%85" class="extiw" title="wikt:国际">国际</a><a href="https://en.wiktionary.org/wiki/%E5%A6%87%E5%A5%B3" class="extiw" title="wikt:妇女">妇女</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Guójì fùnǚ jié</i></td> 
+         <td>Women (half-day) </td>
+        </tr> 
+        <tr> 
+         <td>4 May</td> 
+         <td><a href="/wiki/Youth_Day" title="Youth Day">Youth Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E9%9D%92%E5%B9%B4" class="extiw" title="wikt:青年">青年</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Qīngnián jié</i></td> 
+         <td>Youth from the age of 14 to 28 (half-day) </td>
+        </tr> 
+        <tr> 
+         <td>1 June</td> 
+         <td><a href="/wiki/Children%27s_Day" title="Children's Day">Children's Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%85%AD" class="extiw" title="wikt:六">六</a><a href="https://en.wiktionary.org/wiki/%E4%B8%80" class="extiw" title="wikt:一">一</a><a href="https://en.wiktionary.org/wiki/%E5%84%BF%E7%AB%A5" class="extiw" title="wikt:儿童">儿童</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Liùyī értóng jié</i></td> 
+         <td>Children below the age of 14 (1 day) </td>
+        </tr> 
+        <tr> 
+         <td>1 August</td> 
+         <td>Army Day</td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%BB%BA%E5%86%9B" class="extiw" title="wikt:建军">建军</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Jiàn jūn jié</i></td> 
+         <td>Military personnel in active service (half-day) </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>The closeness of Labor Day and Youth Day resulted in an unexpectedly long break for schools in 2008 - the Youth Day half-holiday entitlement had been largely forgotten because it has been subsumed into the Golden Week. </p> 
+      <h2><span class="mw-headline" id="Traditional_holiday_scheme">Traditional holiday scheme</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=13" title="Edit section: Traditional holiday scheme">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: <a href="/wiki/List_of_observances_set_by_the_Chinese_calendar" title="List of observances set by the Chinese calendar">List of observances set by the Chinese calendar</a>
+      </div> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       See also: <a href="/wiki/Public_holidays_in_Taiwan" title="Public holidays in Taiwan">Public holidays in Taiwan</a>
+      </div> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date</th> 
+         <th>English name</th> 
+         <th>Local name</th> 
+         <th>Pinyin</th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr> 
+         <td>1 January</td> 
+         <td><a href="/wiki/New_Year" title="New Year">New Year</a></td> 
+         <td><span lang="zh"><a href="https://en.wiktionary.org/wiki/%E5%85%83%E6%97%A6" class="extiw" title="wikt:元旦">元旦</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Yuándàn</i></td> 
+         <td>Also the day of the establishment of the <a href="/wiki/Republic_of_China_(1912%E2%80%931949)" title="Republic of China (1912–1949)">first Chinese Republic</a> </td>
+        </tr> 
+        <tr> 
+         <td>1st day of 1st Lunisolar month</td> 
+         <td>Spring Festival (<a href="/wiki/Chinese_New_Year" title="Chinese New Year">Chinese New Year</a>)</td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E6%98%A5%E8%8A%82" class="extiw" title="wikt:春节">春节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Chūnjié</i></td> 
+         <td>Based on <a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a>. Holidays last <i>seamlessly</i>, two full weeks, up to the Lantern Festival (see below). </td>
+        </tr> 
+        <tr> 
+         <td>15th day of 1st Lunisolar month</td> 
+         <td><a href="/wiki/Lantern_Festival" title="Lantern Festival">Lantern Festival</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%85%83%E5%AE%B5" class="extiw" title="wikt:元宵">元宵</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Yuánxiāo jié</i></td> 
+         <td>Based on Chinese calendar </td>
+        </tr> 
+        <tr> 
+         <td>2nd day of 2nd Lunisolar month</td> 
+         <td><a href="/wiki/Zhonghe_Festival" class="mw-redirect" title="Zhonghe Festival">Zhonghe Festival</a> (Dragon Raising its Head)</td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E4%B8%AD%E5%92%8C" class="extiw" title="wikt:中和">中和</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Zhōng hé jié</i></td> 
+         <td>Based on <a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese calendar</a> </td>
+        </tr> 
+        <tr> 
+         <td>8 March</td> 
+         <td><a href="/wiki/International_Women%27s_Day" title="International Women's Day">International Women's Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%9B%BD%E9%99%85" class="extiw" title="wikt:国际">国际</a><a href="https://en.wiktionary.org/wiki/%E5%A6%87%E5%A5%B3" class="extiw" title="wikt:妇女">妇女</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Guójì fùnǚ jié</i></td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>12 March</td> 
+         <td><a href="/wiki/Arbor_Day" title="Arbor Day">Arbor Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E6%A4%8D%E6%A0%91" class="extiw" title="wikt:植树">植树</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Zhíshù jié</i></td> 
+         <td>Also known as National Tree Planting Day (<span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%85%A8%E6%B0%91" class="extiw" title="wikt:全民">全民</a><a href="https://en.wiktionary.org/wiki/%E4%B9%89%E5%8A%A1" class="extiw" title="wikt:义务">义务</a><a href="https://en.wiktionary.org/wiki/%E6%A4%8D%E6%A0%91" class="extiw" title="wikt:植树">植树</a><a href="https://en.wiktionary.org/wiki/%E6%97%A5" class="extiw" title="wikt:日">日</a></span>; <i><span lang="zh-Latn-pinyin">Quánmín yìwù zhíshù rì</span></i>) </td>
+        </tr> 
+        <tr> 
+         <td>5th Solar Term (usually 4–6 April)</td> 
+         <td><a href="/wiki/Qingming_Festival" title="Qingming Festival">Qingming Festival</a> (Chinese Memorial Day)</td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E6%B8%85%E6%98%8E" class="extiw" title="wikt:清明">清明</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Qīngmíng jié</i></td> 
+         <td>Based on the <a href="/wiki/Qingming_(solar_term)" title="Qingming (solar term)">Qingming</a> <a href="/wiki/Solar_term" title="Solar term">solar term</a>. </td>
+        </tr> 
+        <tr> 
+         <td>1 May</td> 
+         <td><a href="/wiki/Labour_Day" title="Labour Day">Labour Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%8A%B3%E5%8A%A8%E8%8A%82" class="extiw" title="wikt:劳动节">劳动节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Láodòng jié</i></td> 
+         <td><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">International Workers' Day</a> </td>
+        </tr> 
+        <tr> 
+         <td>4 May</td> 
+         <td>Youth Day</td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E9%9D%92%E5%B9%B4" class="extiw" title="wikt:青年">青年</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Qīngnián jié</i></td> 
+         <td>Commemorating the 1919 <a href="/wiki/May_Fourth_Movement" title="May Fourth Movement">May Fourth Movement</a> </td>
+        </tr> 
+        <tr> 
+         <td>1 June</td> 
+         <td><a href="/wiki/Children%27s_Day" title="Children's Day">Children's Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%85%AD" class="extiw" title="wikt:六">六</a><a href="https://en.wiktionary.org/wiki/%E4%B8%80" class="extiw" title="wikt:一">一</a><a href="https://en.wiktionary.org/wiki/%E5%84%BF%E7%AB%A5" class="extiw" title="wikt:儿童">儿童</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Liùyī értóng jié</i></td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>5th day of 5th Lunisolar month</td> 
+         <td><a href="/wiki/Dragon_Boat_Festival" title="Dragon Boat Festival">Dragon Boat Festival</a> (<a href="/wiki/Duanwujie" class="mw-redirect" title="Duanwujie">Duanwujie</a>)</td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E7%AB%AF%E5%8D%88" class="extiw" title="wikt:端午">端午</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Duānwǔ jié</i></td> 
+         <td>Based on Chinese calendar </td>
+        </tr> 
+        <tr> 
+         <td>1 July</td> 
+         <td><a href="/wiki/Chinese_Communist_Party" title="Chinese Communist Party">Chinese Communist Party</a> Founding Day</td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%BB%BA%E5%85%9A" class="extiw" title="wikt:建党">建党</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Jiàndǎng jié</i></td> 
+         <td>Formation of 1st National Congress in July 1921 </td>
+        </tr> 
+        <tr> 
+         <td>11 July</td> 
+         <td><a href="/wiki/China_National_Maritime_Day" title="China National Maritime Day">China National Maritime Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E4%B8%AD%E5%9B%BD" class="extiw" title="wikt:中国">中国</a><a href="https://en.wiktionary.org/wiki/%E8%88%AA%E6%B5%B7" class="extiw" title="wikt:航海">航海</a><a href="https://en.wiktionary.org/wiki/%E6%97%A5" class="extiw" title="wikt:日">日</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Zhōngguó hánghǎi rì</i></td> 
+         <td>The anniversary of <a href="/wiki/Zheng_He" title="Zheng He">Zheng He</a>'s <a href="/wiki/Ming_treasure_voyages" title="Ming treasure voyages">first voyage</a> </td>
+        </tr> 
+        <tr> 
+         <td>1 August</td> 
+         <td><a href="/wiki/People%27s_Liberation_Army" title="People's Liberation Army">People's Liberation Army</a> <a href="/wiki/PLA_Day" title="PLA Day">(PLA) Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%BB%BA%E5%86%9B" class="extiw" title="wikt:建军">建军</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Jiànjūn jié</i></td> 
+         <td>Anniversary of the <a href="/wiki/Nanchang_Uprising" class="mw-redirect" title="Nanchang Uprising">Nanchang Uprising</a> on 1 August 1927 </td>
+        </tr> 
+        <tr> 
+         <td>7th day of 7th Lunisolar month</td> 
+         <td><a href="/wiki/Qi_Xi" class="mw-redirect" title="Qi Xi">Double Seven Festival</a></td> 
+         <td><span lang="zh"><a href="https://en.wiktionary.org/wiki/%E4%B8%83%E5%A4%95" class="extiw" title="wikt:七夕">七夕</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Qīxī</i></td> 
+         <td>The Chinese Valentine's Day, based on Chinese calendar </td>
+        </tr> 
+        <tr> 
+         <td>15th day of 7th Lunisolar month</td> 
+         <td>Spirit Festival (<a href="/wiki/Ghost_Festival" title="Ghost Festival">Ghost Festival</a>)</td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E4%B8%AD%E5%85%83" class="extiw" title="wikt:中元">中元</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Zhōng yuán jié</i></td> 
+         <td>Based on Chinese calendar </td>
+        </tr> 
+        <tr> 
+         <td>15th day of 8th Lunisolar month</td> 
+         <td><a href="/wiki/Mid-Autumn_Festival" title="Mid-Autumn Festival">Mid-Autumn Festival</a> (Moon Festival)</td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E4%B8%AD%E7%A7%8B" class="extiw" title="wikt:中秋">中秋</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Zhōngqiū jié</i></td> 
+         <td>Based on Chinese calendar </td>
+        </tr> 
+        <tr> 
+         <td>3 September</td> 
+         <td><a href="/wiki/Victory_over_Japan_Day" title="Victory over Japan Day">Victory over Japan Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E4%B8%AD%E5%9B%BD" class="extiw" title="wikt:中国">中国</a><a href="https://en.wiktionary.org/wiki/%E4%BA%BA%E6%B0%91" class="extiw" title="wikt:人民">人民</a><a href="https://en.wiktionary.org/wiki/%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89" class="extiw" title="wikt:抗日战争">抗日战争</a><a href="https://en.wiktionary.org/wiki/%E8%83%9C%E5%88%A9" class="extiw" title="wikt:胜利">胜利</a><a href="https://en.wiktionary.org/wiki/%E7%BA%AA%E5%BF%B5%E6%97%A5" class="extiw" title="wikt:纪念日">纪念日</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Zhōngguó Rénmín Kàngrì Zhànzhēng Shènglì jìniàn rì</i></td> 
+         <td>Honoring the <a href="/wiki/Allies_(World_War_II)" class="mw-redirect" title="Allies (World War II)">Allied</a> victory over <a href="/wiki/Imperial_Japan" class="mw-redirect" title="Imperial Japan">Japan</a> and the end of the <a href="/wiki/World_War_II" title="World War II">Second World War</a> in the Pacific (new holiday established 2014) </td>
+        </tr> 
+        <tr> 
+         <td>30 September</td> 
+         <td><a href="/wiki/National_Memorial_Day_(China)" class="mw-redirect" title="National Memorial Day (China)">National Memorial Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E7%83%88%E5%A3%AB" class="extiw" title="wikt:烈士">烈士</a><a href="https://en.wiktionary.org/wiki/%E7%BA%AA%E5%BF%B5%E6%97%A5" class="extiw" title="wikt:纪念日">纪念日</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Lièshì jìniàn rì</i></td> 
+         <td>Honoring all the fallen of the country right before National Day, new holiday established in 2014 </td>
+        </tr> 
+        <tr> 
+         <td>1 October</td> 
+         <td><a href="/wiki/National_Day_of_the_People%27s_Republic_of_China" title="National Day of the People's Republic of China">National Day</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%9B%BD%E5%BA%86" class="extiw" title="wikt:国庆">国庆</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Guóqìng jié</i></td> 
+         <td>Founding of PRC on 1 October 1949 </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Double_Ten_Day" class="mw-redirect" title="Double Ten Day">10 October</a></td> 
+         <td><a href="/wiki/Wuchang_Uprising" title="Wuchang Uprising">Wuchang Uprising</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E6%AD%A6%E6%98%8C" class="extiw" title="wikt:武昌">武昌</a><a href="https://en.wiktionary.org/wiki/%E8%B5%B7%E4%B9%89" class="extiw" title="wikt:起义">起义</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Wǔchāng Qǐyì</i></td> 
+         <td>Commemoration of the anti-monarch uprising against the Qing which began the <a href="/wiki/1911_Revolution" title="1911 Revolution">Xinhai Revolution</a> </td>
+        </tr> 
+        <tr> 
+         <td>9th day of 9th Lunisolar month</td> 
+         <td><a href="/wiki/Double_Ninth_Festival" title="Double Ninth Festival">Chongyang Festival</a></td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E9%87%8D%E9%98%B3" class="extiw" title="wikt:重阳">重阳</a><a href="https://en.wiktionary.org/wiki/%E8%8A%82" class="extiw" title="wikt:节">节</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Chóngyáng jié</i></td> 
+         <td>Based on Chinese calendar. </td>
+        </tr> 
+        <tr> 
+         <td>13 December</td> 
+         <td><a href="/wiki/Nanking_Massacre" class="mw-redirect" title="Nanking Massacre">Nanking Massacre</a> Memorial Day</td> 
+         <td><span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80" class="extiw" title="wikt:南京大屠杀">南京大屠杀</a><a href="https://en.wiktionary.org/wiki/%E6%AD%BB%E9%9A%BE" class="extiw" title="wikt:死难">死难</a><a href="https://en.wiktionary.org/wiki/%E8%80%85" class="extiw" title="wikt:者">者</a><a href="https://en.wiktionary.org/wiki/%E5%9B%BD%E5%AE%B6" class="extiw" title="wikt:国家">国家</a><a href="https://en.wiktionary.org/wiki/%E5%85%AC%E7%A5%AD" class="extiw" title="wikt:公祭">公祭</a><a href="https://en.wiktionary.org/wiki/%E6%97%A5" class="extiw" title="wikt:日">日</a></span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Nánjīng dà túshā sǐnàn zhě guójiā gōngjì rì</i></td> 
+         <td>New holiday established in 2014 to honor the thousands of Chinese lives lost during the events of the <a href="/wiki/Nanjing_Massacre" title="Nanjing Massacre">1937 Nanking Massacre</a>. </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Ethnic_Minorities_Holidays">Ethnic Minorities Holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=14" title="Edit section: Ethnic Minorities Holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>There are public holidays celebrated by certain ethnic minorities in certain regions, which are decided by local governments. The following are holidays at the <a href="/wiki/Chinese_provinces" class="mw-redirect" title="Chinese provinces">provincial</a> level. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date</th> 
+         <th>English name</th> 
+         <th>Local name</th> 
+         <th>Chinese name</th> 
+         <th>Pinyin</th> 
+         <th>Ethnic Groups</th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr> 
+         <td>1st day of Tibetan year</td> 
+         <td><a href="/wiki/Losar" title="Losar">Losar</a></td> 
+         <td><style data-mw-deduplicate="TemplateStyles:r969447422">.mw-parser-output .uchen{font-family:"BabelStone Tibetan Slim",Jomolhari,"Noto Sans Tibetan","Microsoft Himalaya",Kailash,"DDC Uchen","TCRC Youtso Unicode","Tibetan Machine Uni","Qomolangma-Uchen Sarchen","Qomolangma-Uchen Sarchung","Qomolangma-Uchen Suring","Qomolangma-Uchen Sutung","Qomolangma-Title","Qomolangma-Subtitle","DDC Rinzin","Qomolangma-Woodblock","Qomolangma-Dunhuang"}.mw-parser-output .ume{font-family:"Qomolangma-Betsu","Qomolangma-Chuyig","Qomolangma-Drutsa","Qomolangma-Edict","Qomolangma-Tsumachu","Qomolangma-Tsuring","Qomolangma-Tsutong","TibetanSambhotaYigchung","TibetanTsugRing","TibetanYigchung"}</style><span class="uchen" style="font-size:1.25em; vertical-align:middle; word-wrap:break-word;">ལོ་གསར</span></td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">洛萨/藏历新年</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Luò sà / zànglì xīnnián</i></td> 
+         <td>Tibetan</td> 
+         <td>7 days in <a href="/wiki/Tibet_Autonomous_Region" title="Tibet Autonomous Region">Tibet</a> </td>
+        </tr> 
+        <tr> 
+         <td>30.6 of <a href="/wiki/Tibetan_calendar" title="Tibetan calendar">Tibetan calendar</a></td> 
+         <td><a href="/wiki/Sho_Dun_Festival" title="Sho Dun Festival">Sho Dun</a></td> 
+         <td>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r969447422"><span class="uchen" style="font-size:1.25em; vertical-align:middle; word-wrap:break-word;">༄༅། ཞོ་སྟོན།</span></td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">雪顿节</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Xuě dùn jié</i></td> 
+         <td>Tibetan</td> 
+         <td>1 day in Tibet </td>
+        </tr> 
+        <tr> 
+         <td>1.10 of <a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic calendar</a></td> 
+         <td><a href="/wiki/Eid_ul-Fitr" class="mw-redirect" title="Eid ul-Fitr">Eid ul-Fitr</a></td> 
+         <td></td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">开斋节/肉孜节</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Kāizhāi jié / ròu zī jié</i></td> 
+         <td><a href="/wiki/Hui_people" title="Hui people">Hui</a>, <a href="/wiki/Uyghurs" title="Uyghurs">Uyghur</a> and other Muslims</td> 
+         <td>2 days in <a href="/wiki/Ningxia" title="Ningxia">Ningxia</a>; 1 day in <a href="/wiki/Xinjiang" title="Xinjiang">Xinjiang</a> </td>
+        </tr> 
+        <tr> 
+         <td>10.12 of <a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic calendar</a></td> 
+         <td><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a></td> 
+         <td></td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">古尔邦节</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Gǔ'ěrbāng jié</i></td> 
+         <td><a href="/wiki/Hui_people" title="Hui people">Hui</a>, <a href="/wiki/Uyghurs" title="Uyghurs">Uyghur</a> and other Muslims</td> 
+         <td>2 days in Ningxia; 3 days in Xinjiang </td>
+        </tr> 
+        <tr> 
+         <td>3rd day of the 3rd Lunisolar month</td> 
+         <td><a href="/wiki/Zhuang_customs_and_culture#Festivals" title="Zhuang customs and culture">Sam Nyied Sam</a></td> 
+         <td><i lang="za" title="Zhuang-language text">Sam Nyied Sam</i></td> 
+         <td><span lang="zh" title="Chinese-language text">三月三</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Sān Yuè Sān</i></td> 
+         <td><a href="/wiki/Zhuang_people" title="Zhuang people">Zhuang</a></td> 
+         <td>3 days in <a href="/wiki/Guangxi" title="Guangxi">Guangxi</a> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>The following are traditional holidays at the prefectural level, and there are more at lower level divisions, i.e. county-level. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Date</th> 
+         <th>Celebrating Location</th> 
+         <th>English name</th> 
+         <th>Chinese name</th> 
+         <th>Pinyin</th> 
+         <th>Ethnic Groups</th> 
+         <th>Remarks </th>
+        </tr> 
+        <tr> 
+         <td>6th day of the 6th Lunisolar month</td> 
+         <td><a href="/wiki/Qiannan_Buyei_and_Miao_Autonomous_Prefecture" title="Qiannan Buyei and Miao Autonomous Prefecture">Qiannan</a> and <a href="/wiki/Qianxinan_Buyei_and_Miao_Autonomous_Prefecture" title="Qianxinan Buyei and Miao Autonomous Prefecture">Qianxinan</a></td> 
+         <td>Liuyueliu</td> 
+         <td><span lang="zh" title="Chinese-language text">六月六</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Liù Yuè Liù</i></td> 
+         <td><a href="/wiki/Bouyei_people" title="Bouyei people">Bouyei</a></td> 
+         <td>1 day in <a href="/wiki/Qiannan_Buyei_and_Miao_Autonomous_Prefecture" title="Qiannan Buyei and Miao Autonomous Prefecture">Qiannan</a> and <a href="/wiki/Qianxinan_Buyei_and_Miao_Autonomous_Prefecture" title="Qianxinan Buyei and Miao Autonomous Prefecture">Qianxinan</a> </td>
+        </tr> 
+        <tr> 
+         <td>8th day of the 8th Lunisolar month</td> 
+         <td><a href="/wiki/Qiannan_Buyei_and_Miao_Autonomous_Prefecture" title="Qiannan Buyei and Miao Autonomous Prefecture">Qiannan</a> and <a href="/wiki/Qianxinan_Buyei_and_Miao_Autonomous_Prefecture" title="Qianxinan Buyei and Miao Autonomous Prefecture">Qianxinan</a></td> 
+         <td>Bayueba</td> 
+         <td><span lang="zh" title="Chinese-language text">八月八</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Bā Yuè Bā</i></td> 
+         <td><a href="/wiki/Miao_people" title="Miao people">Miao</a></td> 
+         <td>1 day in <a href="/wiki/Qiannan_Buyei_and_Miao_Autonomous_Prefecture" title="Qiannan Buyei and Miao Autonomous Prefecture">Qiannan</a> and <a href="/wiki/Qianxinan_Buyei_and_Miao_Autonomous_Prefecture" title="Qianxinan Buyei and Miao Autonomous Prefecture">Qianxinan</a> </td>
+        </tr> 
+        <tr> 
+         <td>10th day of the 9th Lunisolar month</td> 
+         <td><a href="/wiki/Dehong_Dai_and_Jingpo_Autonomous_Prefecture" title="Dehong Dai and Jingpo Autonomous Prefecture">Dehong</a></td> 
+         <td></td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">阿露窝罗节</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Ā Lù Wō Luó jié</i></td> 
+         <td><a href="/wiki/Achang_people" title="Achang people">Achang</a></td> 
+         <td>2 days in <a href="/wiki/Dehong_Dai_and_Jingpo_Autonomous_Prefecture" title="Dehong Dai and Jingpo Autonomous Prefecture">Dehong</a> </td>
+        </tr> 
+        <tr> 
+         <td>1st day of Tibetan year</td> 
+         <td><a href="/wiki/D%C3%AAq%C3%AAn_Tibetan_Autonomous_Prefecture" class="mw-redirect" title="Dêqên Tibetan Autonomous Prefecture">Dêqên</a>, <a href="/wiki/Garz%C3%AA_Tibetan_Autonomous_Prefecture" title="Garzê Tibetan Autonomous Prefecture">Garzê</a>, <a href="/wiki/Gannan_Tibetan_Autonomous_Prefecture" title="Gannan Tibetan Autonomous Prefecture">Gannan</a> and <a href="/wiki/Ngawa_Tibetan_and_Qiang_Autonomous_Prefecture" title="Ngawa Tibetan and Qiang Autonomous Prefecture">Ngawa</a></td> 
+         <td><a href="/wiki/Losar" title="Losar">Losar</a></td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">藏历年</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Luò sà / zànglì</i> xīnnián</td> 
+         <td>Tibetan</td> 
+         <td>3 days in <a href="/wiki/D%C3%AAq%C3%AAn_Tibetan_Autonomous_Prefecture" class="mw-redirect" title="Dêqên Tibetan Autonomous Prefecture">Dêqên</a>, <a href="/wiki/Garz%C3%AA_Tibetan_Autonomous_Prefecture" title="Garzê Tibetan Autonomous Prefecture">Garzê</a>, <a href="/wiki/Gannan_Tibetan_Autonomous_Prefecture" title="Gannan Tibetan Autonomous Prefecture">Gannan</a> and <a href="/wiki/Ngawa_Tibetan_and_Qiang_Autonomous_Prefecture" title="Ngawa Tibetan and Qiang Autonomous Prefecture">Ngawa</a> </td>
+        </tr> 
+        <tr> 
+         <td>24th day of the 6th Lunisolar month</td> 
+         <td><a href="/wiki/Honghe_Hani_and_Yi_Autonomous_Prefecture" title="Honghe Hani and Yi Autonomous Prefecture">Honghe</a></td> 
+         <td></td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">矻扎扎节</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Kū Zhā Zhā jié</i></td> 
+         <td><a href="/wiki/Hani_people" title="Hani people">Hani</a></td> 
+         <td>2 days in <a href="/wiki/Honghe_Hani_and_Yi_Autonomous_Prefecture" title="Honghe Hani and Yi Autonomous Prefecture">Honghe</a> </td>
+        </tr> 
+        <tr> 
+         <td>24th day of the 6th Lunisolar month</td> 
+         <td><a href="/wiki/Chuxiong_Yi_Autonomous_Prefecture" title="Chuxiong Yi Autonomous Prefecture">Chuxiong</a>, <a href="/wiki/Liangshan_Yi_Autonomous_Prefecture" title="Liangshan Yi Autonomous Prefecture">Liangshan</a> and <a href="/wiki/Honghe_Hani_and_Yi_Autonomous_Prefecture" title="Honghe Hani and Yi Autonomous Prefecture">Honghe</a></td> 
+         <td>Fire Festival</td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">火把节</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Huǒ Bǎ jié</i></td> 
+         <td><a href="/wiki/Yi_People" class="mw-redirect" title="Yi People">Yi</a></td> 
+         <td>5 days in <a href="/wiki/Chuxiong_Yi_Autonomous_Prefecture" title="Chuxiong Yi Autonomous Prefecture">Chuxiong</a>, <a href="/wiki/Liangshan_Yi_Autonomous_Prefecture" title="Liangshan Yi Autonomous Prefecture">Liangshan</a> and 3 days in <a href="/wiki/Honghe_Hani_and_Yi_Autonomous_Prefecture" title="Honghe Hani and Yi Autonomous Prefecture">Honghe</a> </td>
+        </tr> 
+        <tr> 
+         <td>20 September</td> 
+         <td><a href="/wiki/Nujiang_Lisu_Autonomous_Prefecture" title="Nujiang Lisu Autonomous Prefecture">Nujiang</a></td> 
+         <td></td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">阔时节</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Kuò Shí jié</i></td> 
+         <td><a href="/wiki/Lisu_people" title="Lisu people">Lisu</a></td> 
+         <td>3 days in <a href="/wiki/Nujiang_Lisu_Autonomous_Prefecture" title="Nujiang Lisu Autonomous Prefecture">Nujiang</a> </td>
+        </tr> 
+        <tr> 
+         <td>15th day of the 1st Lunisolar month</td> 
+         <td><a href="/wiki/Dehong_Dai_and_Jingpo_Autonomous_Prefecture" title="Dehong Dai and Jingpo Autonomous Prefecture">Dehong</a></td> 
+         <td><a href="/wiki/Manau_(dance)" title="Manau (dance)">Manau Festival</a></td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">目瑙纵歌节</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Mùnǎo Zónggē jié</i></td> 
+         <td><a href="/wiki/Jingpo_people" title="Jingpo people">Jingpo</a></td> 
+         <td>2 days in <a href="/wiki/Dehong_Dai_and_Jingpo_Autonomous_Prefecture" title="Dehong Dai and Jingpo Autonomous Prefecture">Dehong</a> </td>
+        </tr> 
+        <tr> 
+         <td>5th day of the 5th Lunisolar month</td> 
+         <td><a href="/wiki/Wenshan_Zhuang_and_Miao_Autonomous_Prefecture" title="Wenshan Zhuang and Miao Autonomous Prefecture">Wenshan</a></td> 
+         <td></td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">闹兜阳</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Nào Dōuyáng</i></td> 
+         <td><a href="/wiki/Miao_people" title="Miao people">Miao</a></td> 
+         <td>3 days in <a href="/wiki/Wenshan_Zhuang_and_Miao_Autonomous_Prefecture" title="Wenshan Zhuang and Miao Autonomous Prefecture">Wenshan</a>, often celebrated together with <a href="/wiki/Dragon_Boat_Festival" title="Dragon Boat Festival">Dragon Boat Festival</a> </td>
+        </tr> 
+        <tr> 
+         <td>13 April</td> 
+         <td><a href="/wiki/Dehong_Dai_and_Jingpo_Autonomous_Prefecture" title="Dehong Dai and Jingpo Autonomous Prefecture">Dehong</a> and <a href="/wiki/Xishuangbanna_Dai_Autonomous_Prefecture" title="Xishuangbanna Dai Autonomous Prefecture">Xishuangbanna</a></td> 
+         <td><a href="/wiki/Water-Sprinkling_Festival" title="Water-Sprinkling Festival">Water-Sprinkling Festival</a> or <a href="/wiki/Songkran_(Thailand)" title="Songkran (Thailand)">Songkran</a></td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">泼水节</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Pō Shuǐ jié</i></td> 
+         <td><a href="/wiki/Dai_people" title="Dai people">Dai</a></td> 
+         <td>2 days in <a href="/wiki/Dehong_Dai_and_Jingpo_Autonomous_Prefecture" title="Dehong Dai and Jingpo Autonomous Prefecture">Dehong</a> and <a href="/wiki/Xishuangbanna_Dai_Autonomous_Prefecture" title="Xishuangbanna Dai Autonomous Prefecture">Xishuangbanna</a> </td>
+        </tr> 
+        <tr> 
+         <td>1st day of the 10th Lunisolar month</td> 
+         <td><a href="/wiki/Ngawa_Tibetan_and_Qiang_Autonomous_Prefecture" title="Ngawa Tibetan and Qiang Autonomous Prefecture">Ngawa</a></td> 
+         <td>Qiang New Year</td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">羌历年</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Qiānglì Nián</i></td> 
+         <td><a href="/wiki/Qiang_people" title="Qiang people">Qiang</a></td> 
+         <td>5 days in <a href="/wiki/Ngawa_Tibetan_and_Qiang_Autonomous_Prefecture" title="Ngawa Tibetan and Qiang Autonomous Prefecture">Ngawa</a> </td>
+        </tr> 
+        <tr> 
+         <td>15th to 22nd day of the 3rd Lunisolar month</td> 
+         <td><a href="/wiki/Dali_Bai_Autonomous_Prefecture" title="Dali Bai Autonomous Prefecture">Dali</a></td> 
+         <td></td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">三月街</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Sān Yuè Jiē</i></td> 
+         <td><a href="/wiki/Bai_people" title="Bai people">Bai</a></td> 
+         <td>7 days in <a href="/wiki/Dali_Bai_Autonomous_Prefecture" title="Dali Bai Autonomous Prefecture">Dali</a> </td>
+        </tr> 
+        <tr> 
+         <td>3rd day of the 3rd Lunisolar month</td> 
+         <td><a href="/wiki/Wenshan_Zhuang_and_Miao_Autonomous_Prefecture" title="Wenshan Zhuang and Miao Autonomous Prefecture">Wenshan</a></td> 
+         <td><a href="/wiki/Zhuang_customs_and_culture#Festivals" title="Zhuang customs and culture">Sam Nyied Sam</a></td> 
+         <td><span lang="zh" title="Chinese-language text">三月三</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Sān Yuè Sān</i></td> 
+         <td><a href="/wiki/Zhuang_people" title="Zhuang people">Zhuang</a></td> 
+         <td>3 days in <a href="/wiki/Wenshan_Zhuang_and_Miao_Autonomous_Prefecture" title="Wenshan Zhuang and Miao Autonomous Prefecture">Wenshan</a> </td>
+        </tr> 
+        <tr> 
+         <td>1st day of the Yi Calendar, often falls in the 10th Lunisolar month</td> 
+         <td><a href="/wiki/Chuxiong_Yi_Autonomous_Prefecture" title="Chuxiong Yi Autonomous Prefecture">Chuxiong</a> and <a href="/wiki/Liangshan_Yi_Autonomous_Prefecture" title="Liangshan Yi Autonomous Prefecture">Liangshan</a></td> 
+         <td>Yi New Year</td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">彝族年</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Yízú Nián</i></td> 
+         <td><a href="/wiki/Yi_people" title="Yi people">Yi</a></td> 
+         <td>5 days in <a href="/wiki/Chuxiong_Yi_Autonomous_Prefecture" title="Chuxiong Yi Autonomous Prefecture">Chuxiong</a> and <a href="/wiki/Liangshan_Yi_Autonomous_Prefecture" title="Liangshan Yi Autonomous Prefecture">Liangshan</a> </td>
+        </tr> 
+        <tr> 
+         <td>1.10 of <a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic calendar</a></td> 
+         <td><a href="/wiki/Linxia_Hui_Autonomous_Prefecture" title="Linxia Hui Autonomous Prefecture">Linxia</a></td> 
+         <td><a href="/wiki/Eid_ul-Fitr" class="mw-redirect" title="Eid ul-Fitr">Eid ul-Fitr</a></td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">开斋节</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Kāizhāi jié</i></td> 
+         <td><a href="/wiki/Hui_people" title="Hui people">Hui</a></td> 
+         <td>3 days in <a href="/wiki/Linxia_Hui_Autonomous_Prefecture" title="Linxia Hui Autonomous Prefecture">Linxia</a> </td>
+        </tr> 
+        <tr> 
+         <td>10.12 of <a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic calendar</a></td> 
+         <td><a href="/wiki/Linxia_Hui_Autonomous_Prefecture" title="Linxia Hui Autonomous Prefecture">Linxia</a></td> 
+         <td><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a> or Kurban Festival</td> 
+         <td><span lang="zh-Hans" title="Chinese-language text">古尔邦节</span></td> 
+         <td><i lang="zh-Latn-pinyin" title="Chinese-language text">Gǔ'ěrbāng jié</i></td> 
+         <td><a href="/wiki/Hui_people" title="Hui people">Hui</a></td> 
+         <td>3 days in <a href="/wiki/Linxia_Hui_Autonomous_Prefecture" title="Linxia Hui Autonomous Prefecture">Linxia</a> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>In addition, the following Autonomous Prefectures celebrates their founding date (<a href="/wiki/Simplified_Chinese_characters" title="Simplified Chinese characters">Chinese</a>: <span lang="zh-Hans"><a href="https://en.wiktionary.org/wiki/%E5%B7%9E" class="extiw" title="wikt:州">州</a><a href="https://en.wiktionary.org/wiki/%E5%BA%86" class="extiw" title="wikt:庆">庆</a><a href="https://en.wiktionary.org/wiki/%E7%BA%AA%E5%BF%B5%E6%97%A5" class="extiw" title="wikt:纪念日">纪念日</a></span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>: <i><span lang="zh-Latn-pinyin">Zhōuqìng JìNiàn Rì</span></i> or <span lang="zh-Hans">州庆日</span>; <i><span lang="zh-Latn-pinyin">Zhōuqìng Rì</span></i>). Generally government takes 1 day off to all people working in such prefectures. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Celebrating Location</th> 
+         <th>Date </th>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Chuxiong_Yi_Autonomous_Prefecture" title="Chuxiong Yi Autonomous Prefecture">Chuxiong</a></td> 
+         <td>15 April </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Dali_Bai_Autonomous_Prefecture" title="Dali Bai Autonomous Prefecture">Dali</a></td> 
+         <td>22 November </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Dehong_Dai_and_Jingpo_Autonomous_Prefecture" title="Dehong Dai and Jingpo Autonomous Prefecture">Dehong</a></td> 
+         <td>23 July </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/D%C3%AAq%C3%AAn_Tibetan_Autonomous_Prefecture" class="mw-redirect" title="Dêqên Tibetan Autonomous Prefecture">Dêqên</a></td> 
+         <td>13 September </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Enshi_Tujia_and_Miao_Autonomous_Prefecture" title="Enshi Tujia and Miao Autonomous Prefecture">Enshi</a></td> 
+         <td>19 August </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Gannan_Tibetan_Autonomous_Prefecture" title="Gannan Tibetan Autonomous Prefecture">Gannan</a></td> 
+         <td>1 October </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Garz%C3%AA_Tibetan_Autonomous_Prefecture" title="Garzê Tibetan Autonomous Prefecture">Garzê</a></td> 
+         <td>24 November </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Liangshan_Yi_Autonomous_Prefecture" title="Liangshan Yi Autonomous Prefecture">Liangshan</a></td> 
+         <td>1 October </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Linxia_Hui_Autonomous_Prefecture" title="Linxia Hui Autonomous Prefecture">Linxia</a></td> 
+         <td>19 November </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Ngawa_Tibetan_and_Qiang_Autonomous_Prefecture" title="Ngawa Tibetan and Qiang Autonomous Prefecture">Ngawa</a></td> 
+         <td>2 January </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Nujiang_Lisu_Autonomous_Prefecture" title="Nujiang Lisu Autonomous Prefecture">Nujiang</a></td> 
+         <td>23 August </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Qiandongnan_Miao_and_Dong_Autonomous_Prefecture" title="Qiandongnan Miao and Dong Autonomous Prefecture">Qiandongnan</a></td> 
+         <td>23 July </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Qiannan_Buyei_and_Miao_Autonomous_Prefecture" title="Qiannan Buyei and Miao Autonomous Prefecture">Qiannan</a></td> 
+         <td>8 August </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Qianxinan_Buyei_and_Miao_Autonomous_Prefecture" title="Qianxinan Buyei and Miao Autonomous Prefecture">Qianxinan</a></td> 
+         <td>1 May </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Wenshan_Zhuang_and_Miao_Autonomous_Prefecture" title="Wenshan Zhuang and Miao Autonomous Prefecture">Wenshan</a></td> 
+         <td>1 April </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Xiangxi_Tujia_and_Miao_Autonomous_Prefecture" title="Xiangxi Tujia and Miao Autonomous Prefecture">Xiangxi</a></td> 
+         <td>20 September </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Xishuangbanna_Dai_Autonomous_Prefecture" title="Xishuangbanna Dai Autonomous Prefecture">Xishuangbanna</a></td> 
+         <td>23 January </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Yanbian_Korean_Autonomous_Prefecture" title="Yanbian Korean Autonomous Prefecture">Yanbian</a></td> 
+         <td>3 September </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Novel_holidays">Novel holidays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=15" title="Edit section: Novel holidays">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Some Chinese young adults have begun to celebrate 11 November as <a href="/wiki/Singles_Day" class="mw-redirect" title="Singles Day">Singles Day</a> (<a href="/wiki/Simplified_Chinese_characters" title="Simplified Chinese characters">Chinese</a>: <span lang="zh-Hans">光棍节</span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>: <i><span lang="zh-Latn-pinyin">guāng gùn jié</span></i>) because of the many ones (1s) and many singles in the date.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[9]</a></sup> </p>
+      <p><a href="/wiki/Serfs_Emancipation_Day" title="Serfs Emancipation Day">Serfs Emancipation Day</a> (March 28) was established in Tibet in 2009. </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/List_of_annual_events_in_China" title="List of annual events in China">List of annual events in China</a></li> 
+       <li><a href="/wiki/Traditional_Chinese_holidays" class="mw-redirect" title="Traditional Chinese holidays">Traditional Chinese holidays</a></li> 
+       <li><a href="/wiki/Public_holidays_in_Hong_Kong" title="Public holidays in Hong Kong">Public holidays in Hong Kong</a></li> 
+       <li><a href="/wiki/Public_holidays_in_Taiwan" title="Public holidays in Taiwan">Public holidays in Taiwan</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=17" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist" style="list-style-type: lower-alpha;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-Reference3a-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Reference3a_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Reference3a_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Reference3a_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Reference3a_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Reference3a_4-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">The holiday is from Thursday to Saturday. The Sunday after the holiday is a working day. This is officially counted as a three-day holiday.</span> </li> 
+         <li id="cite_note-ReferenceA-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ReferenceA_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ReferenceA_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ReferenceA_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-ReferenceA_5-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-ReferenceA_5-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-ReferenceA_5-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-ReferenceA_5-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-ReferenceA_5-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-ReferenceA_5-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-ReferenceA_5-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text">The authorities combine it with the weekend to make a 3-day holiday.</span> </li> 
+         <li id="cite_note-Reference3m-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Reference3m_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Reference3m_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Reference3m_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Reference3m_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Reference3m_6-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">The date of the festival falls on a weekend, so the public holiday has been transferred to Monday.</span> </li> 
+         <li id="cite_note-Reference3b-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Reference3b_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Reference3b_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Reference3b_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Reference3b_7-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">The holiday is from Sunday to Tuesday. The Saturday before the holiday is a working day. This is officially counted as a three-day holiday.</span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">The authorities always refer to "Chinese New Year" as 'Spring Festival' since they recognize the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a>.</span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">The holiday is from 1st day to 7th day of 1st Lunisolar month. The Sunday before the holiday and the Saturday after the holiday are working days. This is officially counted as a seven-day holiday.</span> </li> 
+         <li id="cite_note-Reference7ab1-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Reference7ab1_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Reference7ab1_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Reference7ab1_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">The holiday is from New Year's Eve to 6th day of 1st Lunisolar month. The Sunday before the holiday and the Saturday after the holiday are working days. This is officially counted as a seven-day holiday.</span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">The holiday is from New Year's Eve to 6th day of 1st Lunisolar month. The Saturday before the holiday and the Sunday after the holiday are working days. This is officially counted as a seven-day holiday.</span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">The holiday is from New Year's Eve to 6th day of 1st Lunisolar month. The Saturday and Sunday before the holiday are working days. This is officially counted as a seven-day holiday.</span> </li> 
+         <li id="cite_note-Reference4-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Reference4_13-0">^</a></b></span> <span class="reference-text">The holiday is from Wednesday to Saturday. The Sundays before and after the holiday are working days. This is officially counted as a four-day holiday.</span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">The traditional date of the festival falls on a Sunday near National Day, so the public holiday has been transferred into the holiday of National Day.</span> </li> 
+         <li id="cite_note-ReferenceB-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceB_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceB_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">The holiday containing National Day and Mid-Autumn Festival is from 1 October to 8 October. The Saturday before the holiday is a working day. This is officially counted as an eight-day holiday.</span> </li> 
+         <li id="cite_note-Reference7abn-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Reference7abn_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Reference7abn_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">The holiday is from 1 October to 7. The Sunday before the holiday and the Saturday after the holiday are working days. This is officially counted as a seven-day holiday.</span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">The holiday is from 1 October to 7 October. The Saturday after the holiday is a working day. This is officially counted as a seven-day holiday.</span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">The holiday is from 1 October to 7. The Saturday and Sunday after the holiday are working days. This is officially counted as a seven-day holiday.</span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">The holiday is from 1 October to 7 October. The Saturday and Sunday before the holiday are working days. This is officially counted as a seven-day holiday.</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist columns references-column-width" style="column-width: 30em; list-style-type: decimal;"> 
+       <ol class="references"> 
+        <li id="cite_note-sc2011-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc2011_1-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gov.cn/zwgk/2013-12/11/content_2546204.htm"><bdi lang="zh">国务院办公厅关于2014年 部分节假日安排的通知</bdi></a> (in Chinese). General Office of the State Council of the People's Republic of China. 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8A%9E%E5%85%AC%E5%8E%85%E5%85%B3%E4%BA%8E2014%E5%B9%B4+%E9%83%A8%E5%88%86%E8%8A%82%E5%81%87%E6%97%A5%E5%AE%89%E6%8E%92%E7%9A%84%E9%80%9A%E7%9F%A5&amp;rft.pub=General+Office+of+the+State+Council+of+the+People%27s+Republic+of+China&amp;rft.date=2013&amp;rft_id=http%3A%2F%2Fwww.gov.cn%2Fzwgk%2F2013-12%2F11%2Fcontent_2546204.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+China" class="Z3988"></span> Issued 11 December 2013.</span> </li> 
+        <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="2" class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gov.cn/zhengce/content/2017-11/30/content_5243579.htm">"General Office of the State Council on 2018 Some holiday arrangements notice"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-04-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=General+Office+of+the+State+Council+on+2018+Some+holiday+arrangements+notice&amp;rft_id=http%3A%2F%2Fwww.gov.cn%2Fzhengce%2Fcontent%2F2017-11%2F30%2Fcontent_5243579.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+China" class="Z3988"></span></span> </li> 
+        <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.chinesecalendaronline.com/holidays/">"Chinese Holidays 2020"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chinese+Holidays+2020&amp;rft_id=https%3A%2F%2Fwww.chinesecalendaronline.com%2Fholidays%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+China" class="Z3988"></span></span> </li> 
+        <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.china.org.cn/english/features/Festivals/78131.htm">"Traditional Chibese Festivals"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Traditional+Chibese+Festivals&amp;rft_id=http%3A%2F%2Fwww.china.org.cn%2Fenglish%2Ffeatures%2FFestivals%2F78131.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+China" class="Z3988"></span></span> </li> 
+        <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://people.wku.edu/haiwang.yuan/China/holiday.html">"Chinese Festivals"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chinese+Festivals&amp;rft_id=http%3A%2F%2Fpeople.wku.edu%2Fhaiwang.yuan%2FChina%2Fholiday.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+China" class="Z3988"></span></span> </li> 
+        <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Xinhuanet.com "<a rel="nofollow" class="external text" href="http://news.xinhuanet.com/english/2008-04/03/content_7913320.htm">Xinhuanet.com</a>." <i>How will people spend China's 1st Qingming Festival holiday?.</i> Retrieved on 2008-04-04.</span> </li> 
+        <li id="cite_note-wsj2013-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-wsj2013_23-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFHite2013" class="citation web cs1">Hite, Brittany (2013). <a rel="nofollow" class="external text" href="https://blogs.wsj.com/chinarealtime/2013/12/12/chinas-2014-holiday-schedule-still-complicated/">"China's 2014 Holiday Schedule: Still Complicated"</a>. <i>China Realtime</i>. Wall Street Journal<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=China+Realtime&amp;rft.atitle=China%E2%80%99s+2014+Holiday+Schedule%3A+Still+Complicated&amp;rft.date=2013&amp;rft.aulast=Hite&amp;rft.aufirst=Brittany&amp;rft_id=https%3A%2F%2Fblogs.wsj.com%2Fchinarealtime%2F2013%2F12%2F12%2Fchinas-2014-holiday-schedule-still-complicated%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+China" class="Z3988"></span></span> </li> 
+        <li id="cite_note-reuters2013-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-reuters2013_24-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFReuters_Shanghai2013" class="citation web cs1">Reuters Shanghai (2013-12-12). <a rel="nofollow" class="external text" href="http://uk.reuters.com/article/2013/12/12/uk-china-holiday-idUKBRE9BB08620131212">"China's revised 2014 holiday schedule sparks public ire"</a>. <i>Reuters</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Reuters&amp;rft.atitle=China%27s+revised+2014+holiday+schedule+sparks+public+ire&amp;rft.date=2013-12-12&amp;rft.au=Reuters+Shanghai&amp;rft_id=http%3A%2F%2Fuk.reuters.com%2Farticle%2F2013%2F12%2F12%2Fuk-china-holiday-idUKBRE9BB08620131212&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+China" class="Z3988"></span></span> </li> 
+        <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://thinkingchinese.com/a-holiday-invasion-why-are-chinese-enthusiastically-adopting-new-festive-events">"Thinking Chinese - A holiday invasion – Why are Chinese enthusiastically adopting new festive events?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 29,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Thinking+Chinese+-+A+holiday+invasion+%E2%80%93+Why+are+Chinese+enthusiastically+adopting+new+festive+events%3F&amp;rft_id=http%3A%2F%2Fthinkingchinese.com%2Fa-holiday-invasion-why-are-chinese-enthusiastically-adopting-new-festive-events&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+China" class="Z3988"></span></span> </li> 
+       </ol>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li>
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080509210405/http://news.xinhuanet.com/ziliao/2003-01/18/content_695315.htm">"Chinese Holidays"</a> (in Chinese). Xinhua. Archived from <a rel="nofollow" class="external text" href="http://news.xinhuanet.com/ziliao/2003-01/18/content_695315.htm">the original</a> on 2008-05-09.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chinese+Holidays&amp;rft.pub=Xinhua&amp;rft_id=http%3A%2F%2Fnews.xinhuanet.com%2Fziliao%2F2003-01%2F18%2Fcontent_695315.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APublic+holidays+in+China" class="Z3988"></span></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="China_articles" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:China_topics" title="Template:China topics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:China_topics" title="Template talk:China topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:China_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="China_articles" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/China" title="China">China</a>&nbsp;articles
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_China" title="History of China">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Timeline_of_Chinese_history" title="Timeline of Chinese history">Timeline</a></li> 
+                 <li><a href="/wiki/Ancient_China" class="mw-redirect" title="Ancient China">Ancient China</a> (<a href="/wiki/Outline_of_ancient_China" title="Outline of ancient China">outline</a>) <span style="font-size:85%;">(2070–221 BCE)</span></li> 
+                 <li><a href="/wiki/Imperial_China" class="mw-redirect" title="Imperial China">Imperial China</a> (<a href="/wiki/Political_systems_of_Imperial_China" title="Political systems of Imperial China">political systems</a>) <span style="font-size:85%;">(221 BC – 1912 AD)</span></li> 
+                 <li><a href="/wiki/Modern_China" class="mw-redirect" title="Modern China">Modern China</a> <span style="font-size:85%;">(1912 AD – present)</span></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Republic_of_China_(1912%E2%80%931949)" title="Republic of China (1912–1949)">Republic <span style="font-size:85%;">(1912–1949)</span></a></li> 
+                 <li><a href="/wiki/History_of_the_People%27s_Republic_of_China" title="History of the People's Republic of China">People's Republic <span style="font-size:85%;">(1949–present)</span></a> 
+                  <ul>
+                   <li><a href="/wiki/History_of_the_People%27s_Republic_of_China_(1949%E2%80%931976)" title="History of the People's Republic of China (1949–1976)">1949–1976</a></li> 
+                   <li><a href="/wiki/History_of_the_People%27s_Republic_of_China_(1976%E2%80%931989)" title="History of the People's Republic of China (1976–1989)">1976–1989</a></li> 
+                   <li><a href="/wiki/History_of_the_People%27s_Republic_of_China_(1989%E2%80%932002)" title="History of the People's Republic of China (1989–2002)">1989–2002</a></li> 
+                   <li><a href="/wiki/History_of_the_People%27s_Republic_of_China_(2002%E2%80%93present)" title="History of the People's Republic of China (2002–present)">2002–present</a></li> 
+                   <li><a href="/wiki/List_of_years_in_the_People%27s_Republic_of_China" title="List of years in the People's Republic of China">Chronology</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Hundred_Days%27_Reform" title="Hundred Days' Reform">Hundred Days' Reform</a></li> 
+                 <li><a href="/wiki/1911_Revolution" title="1911 Revolution">1911 Revolution</a></li> 
+                 <li><a href="/wiki/China_during_World_War_I" title="China during World War I">World War I</a></li> 
+                 <li><a href="/wiki/Kuomintang" title="Kuomintang">Kuomintang</a></li> 
+                 <li><a href="/wiki/New_Culture_Movement" title="New Culture Movement">New Culture Movement</a></li> 
+                 <li><a href="/wiki/Second_Sino-Japanese_War" title="Second Sino-Japanese War">Second Sino-Japanese War</a></li> 
+                 <li><a href="/wiki/Chinese_Communist_Revolution" title="Chinese Communist Revolution">War of Liberation</a></li> 
+                 <li><a href="/wiki/Korean_War" title="Korean War">Korean War</a></li> 
+                 <li><a href="/wiki/Sino-Soviet_split" title="Sino-Soviet split">Sino-Soviet split</a></li> 
+                 <li><a href="/wiki/Cultural_Revolution" title="Cultural Revolution">Cultural Revolution</a></li> 
+                 <li><a href="/wiki/Chinese_economic_reform" title="Chinese economic reform">Reform and opening</a></li> 
+                 <li><a href="/wiki/Sino-Vietnamese_War" title="Sino-Vietnamese War">Sino-Vietnamese War</a></li> 
+                 <li><a href="/wiki/1989_Tiananmen_Square_protests" title="1989 Tiananmen Square protests">1989 Protests</a></li> 
+                 <li><a href="/wiki/Chinese_space_program" title="Chinese space program">Chinese space program</a></li> 
+                 <li><a href="/wiki/One_country,_two_systems" title="One country, two systems">One country, two systems</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_China" title="Geography of China">Geography</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Borders_of_China" title="Borders of China">Borders</a></li> 
+                 <li><a href="/wiki/Extreme_points_of_China" class="mw-redirect" title="Extreme points of China">Extreme points</a></li> 
+                 <li><a href="/wiki/Geology_of_China" title="Geology of China">Geology</a></li> 
+                 <li><a href="/wiki/Natural_disasters_in_China" title="Natural disasters in China">Natural disasters</a></li> 
+                 <li><a href="/wiki/List_of_regions_of_China" title="List of regions of China">Regions</a> 
+                  <ul>
+                   <li><a href="/wiki/East_China" title="East China">East</a></li> 
+                   <li><a href="/wiki/Northeast_China" title="Northeast China">Northeast</a></li> 
+                   <li><a href="/wiki/North_China" title="North China">North</a></li> 
+                   <li><a href="/wiki/South_Central_China" title="South Central China">South Central</a> 
+                    <ul>
+                     <li><a href="/wiki/Central_China" title="Central China">Central</a></li> 
+                     <li><a href="/wiki/South_China" title="South China">South</a></li>
+                    </ul></li> 
+                   <li><a href="/wiki/Western_China" title="Western China">Western</a> 
+                    <ul>
+                     <li><a href="/wiki/Northwest_China" title="Northwest China">Northwest</a></li> 
+                     <li><a href="/wiki/Southwest_China" title="Southwest China">Southwest</a></li>
+                    </ul></li>
+                  </ul></li>
+                </ul> 
+               </div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="text-align:center;;width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Terrain</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Category:Bays_of_China" title="Category:Bays of China">Bays</a></li> 
+                     <li><a href="/wiki/Category:Canyons_and_gorges_of_China" title="Category:Canyons and gorges of China">Canyons</a></li> 
+                     <li><a href="/wiki/Category:Caves_of_China" title="Category:Caves of China">Caves</a></li> 
+                     <li><a href="/wiki/Category:Deserts_of_China" title="Category:Deserts of China">Deserts</a></li> 
+                     <li><a href="/wiki/Category:Grasslands_of_China" title="Category:Grasslands of China">Grasslands</a></li> 
+                     <li><a href="/wiki/Category:Hills_of_China" title="Category:Hills of China">Hills</a></li> 
+                     <li><a href="/wiki/List_of_islands_of_China" title="List of islands of China">Islands</a></li> 
+                     <li><a href="/wiki/Category:Mountains_of_China" title="Category:Mountains of China">Mountains</a> 
+                      <ul>
+                       <li><a href="/wiki/Category:Mountain_ranges_of_China" title="Category:Mountain ranges of China">ranges</a></li> 
+                       <li><a href="/wiki/Category:Mountain_passes_of_China" title="Category:Mountain passes of China">passes</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Category:Peninsulas_of_China" title="Category:Peninsulas of China">Peninsulas</a></li> 
+                     <li><a href="/wiki/Northeast_China_Plain" title="Northeast China Plain">Northeast</a>&nbsp;/ <a href="/wiki/North_China_Plain" title="North China Plain">North</a>&nbsp;/ <a href="/wiki/Central_Plain_(China)" class="mw-redirect" title="Central Plain (China)">Central Plains</a></li> 
+                     <li><a href="/wiki/Category:Valleys_of_China" title="Category:Valleys of China">Valleys</a></li> 
+                     <li><a href="/wiki/List_of_volcanoes_in_China" title="List of volcanoes in China">Volcanoes</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="text-align:center;;width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Water</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Category:Canals_in_China" title="Category:Canals in China">Canals</a></li> 
+                     <li><a href="/wiki/List_of_lakes_of_China" title="List of lakes of China">Lakes</a></li> 
+                     <li><a href="/wiki/List_of_rivers_of_China" title="List of rivers of China">Rivers</a></li> 
+                     <li><a href="/wiki/Category:Waterfalls_of_China" title="Category:Waterfalls of China">Waterfalls</a></li> 
+                     <li><a href="/wiki/Category:Wetlands_of_China" title="Category:Wetlands of China">Wetlands</a></li> 
+                     <li><a href="/wiki/Water_resources_of_China" title="Water resources of China">Water resources</a></li> 
+                     <li>Seas 
+                      <ul>
+                       <li><a href="/wiki/Bohai_Sea" title="Bohai Sea">Bohai</a></li> 
+                       <li><a href="/wiki/Yellow_Sea" title="Yellow Sea">Yellow</a></li> 
+                       <li><a href="/wiki/East_China_Sea" title="East China Sea">East China</a></li> 
+                       <li><a href="/wiki/South_China_Sea" title="South China Sea">South China</a></li>
+                      </ul></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="text-align:center;;width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Ecosystem</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/List_of_protected_areas_of_China" title="List of protected areas of China">Protected areas</a></li> 
+                     <li><a href="/wiki/List_of_national_parks_of_China" title="List of national parks of China">National parks</a></li> 
+                     <li><a href="/wiki/Category:Nature_reserves_in_China" title="Category:Nature reserves in China">Nature reserves</a></li> 
+                     <li><a href="/wiki/List_of_UNESCO_Biosphere_Reserves_in_China" class="mw-redirect" title="List of UNESCO Biosphere Reserves in China">UNESCO Biosphere Reserves</a></li> 
+                     <li><a href="/wiki/Wildlife_of_China" title="Wildlife of China">Wildlife</a> 
+                      <ul>
+                       <li><a href="/wiki/Fauna_of_China" class="mw-redirect" title="Fauna of China">Fauna</a></li> 
+                       <li><a href="/wiki/Flora_of_China" title="Flora of China">Flora</a></li>
+                      </ul></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Administrative_divisions_of_China" title="Administrative divisions of China">Subdivisions</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Baselines_of_the_Chinese_territorial_sea" title="Baselines of the Chinese territorial sea">Baseline islands</a></li> 
+                 <li><a href="/wiki/Category:Border_crossings_of_China" title="Category:Border crossings of China">Border crossings</a></li> 
+                 <li><a href="/wiki/List_of_cities_in_China" title="List of cities in China">Cities</a></li> 
+                 <li><a href="/wiki/Administrative_divisions_of_China" title="Administrative divisions of China">Province-level subdivisions</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_China" title="Politics of China">Politics</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th id="Law" scope="row" class="navbox-group" style="text-align:center;;width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Law_of_China" class="mw-redirect" title="Law of China">Law</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Judicial_system_of_China" title="Judicial system of China">Judicial system</a></li> 
+                     <li><a href="/wiki/Human_rights_in_China" title="Human rights in China">Human rights</a> 
+                      <ul>
+                       <li><a href="/wiki/Homosexuality_in_China" title="Homosexuality in China">LGBT</a></li> 
+                       <li><a href="/wiki/Human_rights_in_Tibet" title="Human rights in Tibet">Tibet</a></li> 
+                       <li><a href="/wiki/Human_rights_in_Macau" title="Human rights in Macau">Macao</a></li> 
+                       <li><a href="/wiki/Human_rights_in_Hong_Kong" title="Human rights in Hong Kong">Hong Kong</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Law_enforcement_in_China" title="Law enforcement in China">Law enforcement</a></li> 
+                     <li><a href="/wiki/Naming_laws_in_China" title="Naming laws in China">Naming laws</a></li> 
+                     <li><a href="/wiki/Nationality_law_of_China" class="mw-redirect" title="Nationality law of China">Nationality law</a></li> 
+                     <li><a href="/wiki/Penal_system_in_China" title="Penal system in China">Penal system</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Government_of_China" title="Government of China">Government</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Civil_Service_of_the_People%27s_Republic_of_China" title="Civil Service of the People's Republic of China">Civil service</a></li> 
+                 <li><a href="/wiki/Constitution_of_the_People%27s_Republic_of_China" title="Constitution of the People's Republic of China">Constitution</a></li> 
+                 <li><a href="/wiki/Elections_in_China" title="Elections in China">Elections</a></li> 
+                 <li><a href="/wiki/Environmental_policy_in_China" title="Environmental policy in China">Environmental policy</a></li> 
+                 <li><a href="/wiki/Foreign_relations_of_China" title="Foreign relations of China">Foreign relations</a></li> 
+                 <li><a href="/wiki/National_People%27s_Congress" title="National People's Congress">National People's Congress</a> 
+                  <ul>
+                   <li><a href="/wiki/Standing_Committee_of_the_National_People%27s_Congress" title="Standing Committee of the National People's Congress">Standing Committee</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/National_security_of_China" title="National security of China">National security</a></li> 
+                 <li><a href="/wiki/List_of_political_parties_in_China" title="List of political parties in China">Political parties and movements</a> 
+                  <ul>
+                   <li><a href="/wiki/Communist_Party_of_China" class="mw-redirect" title="Communist Party of China">Communist Party</a> 
+                    <ul>
+                     <li><a href="/wiki/General_Secretary_of_the_Communist_Party_of_China" class="mw-redirect" title="General Secretary of the Communist Party of China">General Secretary</a></li> 
+                     <li><a href="/wiki/Politburo_of_the_Communist_Party_of_China" class="mw-redirect" title="Politburo of the Communist Party of China">Politburo</a></li>
+                    </ul></li> 
+                   <li><a href="/wiki/United_Front_(China)" title="United Front (China)">Democratic Parties</a></li> 
+                   <li><a href="/wiki/Chinese_skepticism_of_democracy" class="mw-redirect" title="Chinese skepticism of democracy">Anti-democratisation</a></li> 
+                   <li><a href="/wiki/Chinese_democracy_movement" class="mw-redirect" title="Chinese democracy movement">Pro-democratisation</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/President_of_the_People%27s_Republic_of_China" title="President of the People's Republic of China">President</a> 
+                  <ul>
+                   <li><a href="/wiki/Vice_President_of_the_People%27s_Republic_of_China" title="Vice President of the People's Republic of China">Vice President</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/State_Council_of_the_People%27s_Republic_of_China" title="State Council of the People's Republic of China">State Council</a> 
+                  <ul>
+                   <li><a href="/wiki/Premier_of_the_People%27s_Republic_of_China" title="Premier of the People's Republic of China">Premier</a></li> 
+                   <li><a href="/wiki/Vice_Premier_of_the_People%27s_Republic_of_China" title="Vice Premier of the People's Republic of China">Vice Premier</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Military_of_China" class="mw-redirect" title="Military of China">Military</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Central_Military_Commission_(China)" title="Central Military Commission (China)">Central Military Commission</a></li> 
+                 <li><a href="/wiki/People%27s_Liberation_Army" title="People's Liberation Army">People's Liberation Army</a> 
+                  <ul>
+                   <li><a href="/wiki/People%27s_Liberation_Army_Ground_Force" title="People's Liberation Army Ground Force">Ground</a></li> 
+                   <li><a href="/wiki/People%27s_Liberation_Army_Navy" title="People's Liberation Army Navy">Navy</a></li> 
+                   <li><a href="/wiki/People%27s_Liberation_Army_Air_Force" title="People's Liberation Army Air Force">Air</a></li> 
+                   <li><a href="/wiki/People%27s_Liberation_Army_Rocket_Force" title="People's Liberation Army Rocket Force">Rocket</a></li> 
+                   <li><a href="/wiki/People%27s_Liberation_Army_Strategic_Support_Force" title="People's Liberation Army Strategic Support Force">Strategic Support</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/People%27s_Armed_Police" title="People's Armed Police">People's Armed Police</a> 
+                  <ul>
+                   <li><a href="/wiki/China_Coast_Guard" title="China Coast Guard">Coast Guard</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Militia_(China)" title="Militia (China)">Militia</a> 
+                  <ul>
+                   <li><a href="/wiki/People%E2%80%99s_Armed_Forces_Maritime_Militia" class="mw-redirect" title="People’s Armed Forces Maritime Militia">Maritime Militia</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_China" title="Economy of China">Economy</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Agriculture_in_China" title="Agriculture in China">Agriculture</a></li> 
+                 <li><a href="/wiki/Banking_in_China" title="Banking in China">Banking</a> 
+                  <ul>
+                   <li><a href="/wiki/People%27s_Bank_of_China" title="People's Bank of China">Central bank</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Economic_history_of_China_(1949%E2%80%93present)" title="Economic history of China (1949–present)">Economic history</a></li> 
+                 <li><a href="/wiki/Energy_policy_of_China" title="Energy policy of China">Energy</a></li> 
+                 <li><a href="/wiki/Chinese_financial_system" class="mw-redirect" title="Chinese financial system">Finance system</a></li> 
+                 <li><a href="/wiki/Foreign_aid_to_China" title="Foreign aid to China">Foreign aid received</a></li> 
+                 <li><a href="/wiki/Chinese_foreign_aid" title="Chinese foreign aid">Foreign aid program</a></li> 
+                 <li><a href="/wiki/Historical_GDP_of_China" title="Historical GDP of China">Historical GDP</a></li> 
+                 <li><a href="/wiki/Poverty_in_China" title="Poverty in China">Poverty</a></li> 
+                 <li><a href="/wiki/Chinese_economic_reform" title="Chinese economic reform">Reform</a></li> 
+                 <li><a href="/wiki/Renminbi" title="Renminbi">Renminbi <span style="font-size:85%;">(currency)</span></a></li> 
+                 <li><a href="/wiki/Science_and_technology_in_China" title="Science and technology in China">Science and technology</a> 
+                  <ul>
+                   <li><a href="/wiki/Technological_and_industrial_history_of_China" title="Technological and industrial history of China">history</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Special_Economic_Zones_of_China" class="mw-redirect" title="Special Economic Zones of China">Special Economic Zones (SEZs)</a></li> 
+                 <li><a href="/wiki/Standard_of_living_in_China" title="Standard of living in China">Standard of living</a></li> 
+                 <li><a href="/wiki/Telecommunications_in_China" title="Telecommunications in China">Telecommunications</a></li> 
+                 <li><a href="/wiki/Tourism_in_China" title="Tourism in China">Tourism</a></li> 
+                 <li><a href="/wiki/Transport_in_China" title="Transport in China">Transport</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Culture_of_China" class="mw-redirect" title="Culture of China">Culture</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Category:Archaeology_of_China" title="Category:Archaeology of China">Archaeology</a></li> 
+                 <li><a href="/wiki/Archives_in_China" title="Archives in China">Archives</a></li> 
+                 <li><a href="/wiki/Chinese_art" title="Chinese art">Art</a></li> 
+                 <li><a href="/wiki/Cinema_of_China" title="Cinema of China">Cinema</a></li> 
+                 <li><a href="/wiki/Chinese_cuisine" title="Chinese cuisine">Cuisine</a></li> 
+                 <li><a href="/wiki/Dance_in_China" title="Dance in China">Dance</a></li> 
+                 <li><a href="/wiki/Category:Gardens_in_China" title="Category:Gardens in China">Gardens</a></li> 
+                 <li><a href="/wiki/Libraries_in_China" title="Libraries in China">Libraries</a></li> 
+                 <li><a href="/wiki/Chinese_martial_arts" title="Chinese martial arts">Martial arts</a></li> 
+                 <li><a href="/wiki/Media_of_China" class="mw-redirect" title="Media of China">Media</a></li> 
+                 <li><a href="/wiki/Music_of_China" title="Music of China">Music</a></li> 
+                 <li><a href="/wiki/Category:Parks_in_China" title="Category:Parks in China">Parks</a></li> 
+                 <li><a href="/wiki/Chinese_philosophy" title="Chinese philosophy">Philosophy</a></li> 
+                 <li><a href="/wiki/Religion_in_China" title="Religion in China">Religion</a></li> 
+                 <li><a href="/wiki/Smoking_in_China" title="Smoking in China">Smoking</a></li> 
+                 <li><a href="/wiki/Sport_in_China" title="Sport in China">Sports</a></li> 
+                 <li><a href="/wiki/Chinese_tea_culture" title="Chinese tea culture">Tea culture</a></li> 
+                 <li><a href="/wiki/Tourism_in_China" title="Tourism in China">Tourism</a></li> 
+                 <li><a href="/wiki/Chinese_variety_art" title="Chinese variety art">Variety arts</a></li> 
+                 <li><a href="/wiki/Major_Historical_and_Cultural_Site_Protected_at_the_National_Level" title="Major Historical and Cultural Site Protected at the National Level">Historical and Cultural Site</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_World_Heritage_Sites_in_China" title="List of World Heritage Sites in China">World Heritage Sites</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Chinese_literature" title="Chinese literature">Literature</a></li>
+                </ul> 
+               </div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th id="Society" scope="row" class="navbox-group" style="text-align:center;;width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;">Society</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/March_of_the_Volunteers" title="March of the Volunteers">Anthem</a></li> 
+                     <li><a href="/wiki/Chinese_Dream" title="Chinese Dream">Chinese Dream</a></li> 
+                     <li><a href="/wiki/Corruption_in_China" title="Corruption in China">Corruption</a></li> 
+                     <li><a href="/wiki/Crime_in_China" title="Crime in China">Crime</a></li> 
+                     <li><a href="/wiki/National_Emblem_of_the_People%27s_Republic_of_China" title="National Emblem of the People's Republic of China">Emblem</a></li> 
+                     <li><a href="/wiki/Education_in_China" title="Education in China">Education</a></li> 
+                     <li><a href="/wiki/Ethnic_issues_in_China" title="Ethnic issues in China">Ethnic issues</a></li> 
+                     <li><a href="/wiki/Flag_of_China" title="Flag of China">Flag</a></li> 
+                     <li>"<a href="/wiki/China%27s_Generation_Y" class="mw-redirect" title="China's Generation Y">Generation Y</a>"</li> 
+                     <li><a href="/wiki/Harmonious_Socialist_Society" class="mw-redirect" title="Harmonious Socialist Society">Harmonious Socialist Society</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_China" title="HIV/AIDS in China">HIV/AIDS</a></li> 
+                     <li><a href="/wiki/Chinese_intellectualism" title="Chinese intellectualism">Intellectualism</a></li> 
+                     <li><a href="/wiki/Languages_of_China" title="Languages of China">Languages</a></li> 
+                     <li><a href="/wiki/Population_history_of_China" title="Population history of China">Population history</a></li> 
+                     <li><a href="/wiki/Poverty_in_China" title="Poverty in China">Poverty</a></li> 
+                     <li><a href="/wiki/Prostitution_in_China" title="Prostitution in China">Prostitution</a></li> 
+                     <li><a href="/wiki/Health_in_China" title="Health in China">Public health</a> 
+                      <ul>
+                       <li><a href="/wiki/Food_safety_in_China" title="Food safety in China">food safety</a> 
+                        <ul>
+                         <li><a href="/wiki/Food_safety_incidents_in_China" title="Food safety incidents in China">incidents</a></li>
+                        </ul></li>
+                      </ul></li> 
+                     <li><a class="mw-selflink selflink">Public holidays</a></li> 
+                     <li><a href="/wiki/Rural_society_in_China" title="Rural society in China">Rural life</a></li> 
+                     <li><a href="/wiki/Sex_trafficking_in_China" title="Sex trafficking in China">Sex trafficking</a></li> 
+                     <li><a href="/wiki/Sexuality_in_China" title="Sexuality in China">Sexuality</a></li> 
+                     <li><a href="/wiki/Socialism_with_Chinese_characteristics" title="Socialism with Chinese characteristics">Socialism with Chinese characteristics</a></li> 
+                     <li><a href="/wiki/Social_issues_in_China" title="Social issues in China">Social issues</a></li> 
+                     <li><a href="/wiki/Chinese_social_relations" title="Chinese social relations">Social relations</a></li> 
+                     <li><a href="/wiki/Chinese_social_structure" class="mw-redirect" title="Chinese social structure">Social structure</a></li> 
+                     <li><a href="/wiki/Social_welfare_in_China" title="Social welfare in China">Social welfare</a></li> 
+                     <li><a href="/wiki/Suicide_in_China" title="Suicide in China">Suicide</a></li> 
+                     <li><a href="/wiki/Terrorism_in_China" title="Terrorism in China">Terrorism</a></li> 
+                     <li><a href="/wiki/Time_in_China" title="Time in China">Time zones</a></li> 
+                     <li><a href="/wiki/Urban_society_in_China" title="Urban society in China">Urban life</a></li> 
+                     <li><a href="/wiki/Water_supply_and_sanitation_in_China" title="Water supply and sanitation in China">Water supply and sanitation</a></li> 
+                     <li><a href="/wiki/Women_in_China" title="Women in China">Women</a></li> 
+                     <li><a href="/wiki/Xiaokang" class="mw-redirect" title="Xiaokang"><i>Xiaokang</i> <span style="font-size:85%;">(middle-class)</span></a></li> 
+                     <li><a href="/wiki/Primary_stage_of_socialism" title="Primary stage of socialism">Primary stage of socialism</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Demographics_of_China" title="Demographics of China">Demographics</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Chinese_emigration" title="Chinese emigration">Emigration</a></li> 
+                 <li><a href="/wiki/List_of_ethnic_groups_in_China" title="List of ethnic groups in China">Ethnic groups</a></li> 
+                 <li><a href="/wiki/Migration_in_China" title="Migration in China">Internal migration</a></li> 
+                 <li><a href="/wiki/National_Bureau_of_Statistics_of_China" title="National Bureau of Statistics of China">Statistics</a></li> 
+                 <li><a href="/wiki/Urbanization_in_China" title="Urbanization in China">Urbanization</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+           <div>
+            <div style="margin-bottom:-0.4em;">
+             <ul>
+              <li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_China" title="Outline of China">Outline</a></span></li>
+             </ul>
+            </div> 
+            <ul>
+             <li><a href="/wiki/Category:China" title="Category:China">Category</a></li> 
+             <li><a href="/wiki/Portal:China" title="Portal:China">Portal</a></li>
+            </ul>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Public_holidays_in_Asia" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Asia_topic" title="Template:Asia topic"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Asia_topic" title="Template talk:Asia topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Asia_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Public_holidays_in_Asia" style="font-size:114%;margin:0 4em">
+            Public holidays in Asia
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign states</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Afghanistan" title="Public holidays in Afghanistan">Afghanistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Armenia" title="Public holidays in Armenia">Armenia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Azerbaijan" title="Public holidays in Azerbaijan">Azerbaijan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bahrain" title="Public holidays in Bahrain">Bahrain</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bangladesh" title="Public holidays in Bangladesh">Bangladesh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Bhutan" title="Public holidays in Bhutan">Bhutan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Brunei" title="Public holidays in Brunei">Brunei</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cambodia" title="Public holidays in Cambodia">Cambodia</a></li> 
+             <li><a class="mw-selflink selflink">China</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Cyprus" title="Public holidays in Cyprus">Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_East_Timor" class="mw-redirect" title="Public holidays in East Timor">East Timor (Timor-Leste)</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Egypt" title="Public holidays in Egypt">Egypt</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Georgia_(country)" title="Public holidays in Georgia (country)">Georgia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_India" title="Public holidays in India">India</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Indonesia" title="Public holidays in Indonesia">Indonesia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iran" title="Public holidays in Iran">Iran</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Iraq" title="Public holidays in Iraq">Iraq</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Israel" title="Public holidays in Israel">Israel</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Japan" title="Public holidays in Japan">Japan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Jordan" title="Public holidays in Jordan">Jordan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kazakhstan" title="Public holidays in Kazakhstan">Kazakhstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_North_Korea" title="Public holidays in North Korea">North Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Korea" title="Public holidays in South Korea">South Korea</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kuwait" title="Public holidays in Kuwait">Kuwait</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Kyrgyzstan" title="Public holidays in Kyrgyzstan">Kyrgyzstan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Laos" title="Public holidays in Laos">Laos</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Lebanon" title="Public holidays in Lebanon">Lebanon</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Malaysia" title="Public holidays in Malaysia">Malaysia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Maldives" title="Public holidays in the Maldives">Maldives</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Mongolia" title="Public holidays in Mongolia">Mongolia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Myanmar" title="Public holidays in Myanmar">Myanmar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Nepal" title="Public holidays in Nepal">Nepal</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Oman" title="Public holidays in Oman">Oman</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Pakistan" title="Public holidays in Pakistan">Pakistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Philippines" title="Public holidays in the Philippines">Philippines</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Qatar" title="Public holidays in Qatar">Qatar</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Russia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Saudi_Arabia" title="Public holidays in Saudi Arabia">Saudi Arabia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Singapore" title="Public holidays in Singapore">Singapore</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Sri_Lanka" class="mw-redirect" title="Public holidays in Sri Lanka">Sri Lanka</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Syria" title="Public holidays in Syria">Syria</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Tajikistan" title="Public holidays in Tajikistan">Tajikistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Thailand" title="Public holidays in Thailand">Thailand</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Turkey</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Turkmenistan" title="Public holidays in Turkmenistan">Turkmenistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_United_Arab_Emirates" title="Public holidays in the United Arab Emirates">United Arab Emirates</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Uzbekistan" title="Public holidays in Uzbekistan">Uzbekistan</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Vietnam" title="Public holidays in Vietnam">Vietnam</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Yemen" title="Public holidays in Yemen">Yemen</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_states_with_limited_recognition" title="List of states with limited recognition">States with<br>limited recognition</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Public_holidays_in_Abkhazia" title="Public holidays in Abkhazia">Abkhazia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Republic_of_Artsakh" title="Public holidays in the Republic of Artsakh">Artsakh</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Northern_Cyprus" title="Public holidays in Northern Cyprus">Northern Cyprus</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_State_of_Palestine" title="Public holidays in the State of Palestine">Palestine</a></li> 
+             <li><a href="/wiki/Public_holidays_in_South_Ossetia" title="Public holidays in South Ossetia">South Ossetia</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Taiwan" title="Public holidays in Taiwan">Taiwan</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a> and<br>other territories</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Public_holidays_in_the_British_Indian_Ocean_Territory&amp;action=edit&amp;redlink=1" class="new" title="Public holidays in the British Indian Ocean Territory (page does not exist)">British Indian Ocean Territory</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Christmas_Island" title="Public holidays in Christmas Island">Christmas Island</a></li> 
+             <li><a href="/wiki/Public_holidays_in_the_Cocos_(Keeling)_Islands" title="Public holidays in the Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Hong_Kong" title="Public holidays in Hong Kong">Hong Kong</a></li> 
+             <li><a href="/wiki/Public_holidays_in_Macau" title="Public holidays in Macau">Macau</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2" style="font-weight:bold;">
+           <div> 
+            <ul>
+             <li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Book:Asia" title="Book:Asia">Book</a></li> 
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"> <a href="/wiki/Category:Asia" title="Category:Asia">Category</a></li> 
+             <li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28"> <a href="/wiki/Portal:Asia" title="Portal:Asia">Asia portal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=China&amp;#124;link=China_Public_holidays_in_China" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_China" title="Template:Public holidays in China"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_China" title="Template talk:Public holidays in China"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_China&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23x15px&amp;#124;border_&amp;#124;alt=China&amp;#124;link=China_Public_holidays_in_China" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span> <a class="mw-selflink selflink">Public holidays in China</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Golden_Week_(China)" title="Golden Week (China)">Golden weeks</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Chinese_New_Year" title="Chinese New Year">Spring Festival</a></li> 
+             <li><a href="/wiki/National_Day_of_the_People%27s_Republic_of_China" title="National Day of the People's Republic of China">National Day</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other holidays</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a></li> 
+             <li><a href="/wiki/Qingming_Festival" title="Qingming Festival">Qingming Festival</a></li> 
+             <li><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">Workers' Day</a></li> 
+             <li><a href="/wiki/Duanwu_Festival" class="mw-redirect" title="Duanwu Festival">Duanwu Festival</a></li> 
+             <li><a href="/wiki/Mid-Autumn_Festival" title="Mid-Autumn Festival">Mid-Autumn Festival</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div>
+            Sometimes if Mid-Autumn Festival is near National Day, Mid-Autumn Festival may be in the golden week.
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em">
+       <ul style="margin:0.1em 0 0">
+        <li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Flag_of_the_People%27s_Republic_of_China.svg" class="image"><img alt="Flag of the People's Republic of China.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/24px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="24" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/36px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/48px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a></span><a href="/wiki/Portal:China" title="Portal:China">China portal</a></span></li>
+        <li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Social_sciences.svg" class="image"><img alt="Social sciences.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Social_sciences.svg/24px-Social_sciences.svg.png" decoding="async" width="24" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Social_sciences.svg/36px-Social_sciences.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Social_sciences.svg/48px-Social_sciences.svg.png 2x" data-file-width="139" data-file-height="122"></a></span><a href="/wiki/Portal:Society" title="Portal:Society">Society portal</a></span></li>
+        <li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Calendar_icon.svg" class="image"><img alt="Calendar icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/16px-Calendar_icon.svg.png" decoding="async" width="16" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/25px-Calendar_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/33px-Calendar_icon.svg.png 2x" data-file-width="720" data-file-height="920"></a></span><a href="/wiki/Portal:Holidays" title="Portal:Holidays">Holidays portal</a></span></li>
+       </ul>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1275
+Cached time: 20210130140208
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.060 seconds
+Real time usage: 1.268 seconds
+Preprocessor visited node count: 20228/1000000
+Post‐expand include size: 207918/2097152 bytes
+Template argument size: 37511/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 24/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 42287/5000000 bytes
+Lua time usage: 0.449/10.000 seconds
+Lua memory usage: 15201045/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1069.885      1 -total
+ 34.05%  364.278     11 Template:Navbox
+ 27.23%  291.348     77 Template:Lang
+ 20.84%  222.986      1 Template:Asia_topic
+ 16.34%  174.789     56 Template:Iso2country
+ 14.82%  158.539      2 Template:Reflist
+ 12.26%  131.191      9 Template:Cite_web
+ 11.74%  125.593      1 Template:China_topics
+ 11.45%  122.453      1 Template:Country_topics
+  6.35%   67.954     56 Template:Iso2country/data
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:843459-0!canonical and timestamp 20210130140207 and revision id 1000938037. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Public_holidays_in_China&amp;oldid=1000938037">https://en.wikipedia.org/w/index.php?title=Public_holidays_in_China&amp;oldid=1000938037</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_China" title="Category:Public holidays in China">Public holidays in China</a></li>
+       <li><a href="/wiki/Category:People%27s_Republic_of_China_culture" title="Category:People's Republic of China culture">People's Republic of China culture</a></li>
+       <li><a href="/wiki/Category:Lists_of_public_holidays_by_country" title="Category:Lists of public holidays by country">Lists of public holidays by country</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_uses_Chinese-language_script_(zh)" title="Category:CS1 uses Chinese-language script (zh)">CS1 uses Chinese-language script (zh)</a></li>
+       <li><a href="/wiki/Category:CS1_Chinese-language_sources_(zh)" title="Category:CS1 Chinese-language sources (zh)">CS1 Chinese-language sources (zh)</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Chinese-language_text" title="Category:Articles containing Chinese-language text">Articles containing Chinese-language text</a></li>
+       <li><a href="/wiki/Category:Articles_containing_simplified_Chinese-language_text" title="Category:Articles containing simplified Chinese-language text">Articles containing simplified Chinese-language text</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Zhuang-language_text" title="Category:Articles containing Zhuang-language text">Articles containing Zhuang-language text</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Public+holidays+in+China" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Public+holidays+in+China" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Public_holidays_in_China" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Public_holidays_in_China" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Public_holidays_in_China">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Public_holidays_in_China&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Public_holidays_in_China&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Public_holidays_in_China" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Public_holidays_in_China" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Public_holidays_in_China&amp;oldid=1000938037" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Public_holidays_in_China&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Public_holidays_in_China&amp;id=1000938037&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q140044" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Public_holidays_in_China&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Public_holidays_in_China&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Holidays_in_China" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C3%87in_bayramlar%C4%B1" title="Çin bayramları – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/F%C3%AAte_chinoise" title="Fête chinoise – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A4%91%ED%99%94%EC%9D%B8%EB%AF%BC%EA%B3%B5%ED%99%94%EA%B5%AD%EC%9D%98_%EA%B3%B5%ED%9C%B4%EC%9D%BC" title="중화인민공화국의 공휴일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD#祝祭日" title="中華人民共和国 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Feriados_na_China" title="Feriados na China – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8" title="Праздники Китайской Народной Республики – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/%C3%87in%27deki_resm%C3%AE_tatiller" title="Çin'deki resmî tatiller – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B0_%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D1%97_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D0%B8" title="Свята Китайської Народної Республіки – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%8A%82%E6%97%A5%E4%B8%8E%E5%85%AC%E4%BC%97%E5%81%87%E6%9C%9F" title="中华人民共和国节日与公众假期 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q140044#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 17 January 2021, at 13:00<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Public_holidays_in_China&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+   <div style="clear: both;"></div> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.060","walltime":"1.268","ppvisitednodes":{"value":20228,"limit":1000000},"postexpandincludesize":{"value":207918,"limit":2097152},"templateargumentsize":{"value":37511,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":24,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":42287,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1069.885      1 -total"," 34.05%  364.278     11 Template:Navbox"," 27.23%  291.348     77 Template:Lang"," 20.84%  222.986      1 Template:Asia_topic"," 16.34%  174.789     56 Template:Iso2country"," 14.82%  158.539      2 Template:Reflist"," 12.26%  131.191      9 Template:Cite_web"," 11.74%  125.593      1 Template:China_topics"," 11.45%  122.453      1 Template:Country_topics","  6.35%   67.954     56 Template:Iso2country/data"]},"scribunto":{"limitreport-timeusage":{"value":"0.449","limit":"10.000"},"limitreport-memusage":{"value":15201045,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20210130140208","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Public holidays in China","url":"https:\/\/en.wikipedia.org\/wiki\/Public_holidays_in_China","sameAs":"http:\/\/www.wikidata.org\/entity\/Q140044","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q140044","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-19T23:04:45Z","dateModified":"2021-01-17T13:00:40Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f6\/National_Day_decorations_-_Beihai_Park.JPG","headline":"There are currently seven official public holidays in China"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":128,"wgHostname":"mw1373"});});</script> 
+ </body>
+</html>

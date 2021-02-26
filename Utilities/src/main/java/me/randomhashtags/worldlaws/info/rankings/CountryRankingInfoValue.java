@@ -71,7 +71,7 @@ public final class CountryRankingInfoValue {
             builder.append(isFirst ? "" : ",").append(value.toString());
             isFirst = false;
         }
-        this.otherValues = builder.append("]").toString();
+        otherValues = builder.append("]").toString();
     }
     public EventSources getSources() {
         return sources;
@@ -88,8 +88,8 @@ public final class CountryRankingInfoValue {
                 "\"valueType\":\"" + valueType.name() + "\"," +
                 "\"isEstimate\":" + isEstimate + "," +
                 "\"description\":\"" + description + "\"," +
-                "\"suffix\":\"" + suffix + "\"," +
-                "\"otherValues\":" + otherValues + "," +
+                (suffix != null ? "\"suffix\":\"" + suffix + "\"," : "") +
+                (otherValues != null ? "\"otherValues\":" + otherValues + "," : "") +
                 "\"sources\":" + sources.toString() +
                 "}";
     }

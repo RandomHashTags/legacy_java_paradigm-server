@@ -4,13 +4,13 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.location.CountryInfo;
+import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import java.util.logging.Level;
 
 public enum TravelBriefing implements CountryService {
     INSTANCE;
@@ -54,7 +54,7 @@ public enum TravelBriefing implements CountryService {
                     final String country = json.getString("name").toLowerCase().replace(" ", ""), url = json.getString("url");
                     urls.put(country, url);
                 }
-                WLLogger.log(Level.INFO, "TravelBriefing - loaded urls (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.log(Level.INFO, getInfo().name() + " - loaded urls (took " + (System.currentTimeMillis()-started) + "ms)");
                 handler.handle(null);
             }
         });
@@ -66,7 +66,7 @@ public enum TravelBriefing implements CountryService {
         } else if(urls.containsKey(countryBackendID)) {
             loadCountry(countryBackendID, urls.get(countryBackendID), handler);
         } else {
-            WLLogger.log(Level.WARNING, "TravelBriefing - missing for country \"" + countryBackendID + "\"!");
+            WLLogger.log(Level.WARN, getInfo().name() + " - missing for country \"" + countryBackendID + "\"!");
             handler.handle("null");
         }
     }
@@ -81,12 +81,15 @@ public enum TravelBriefing implements CountryService {
                 json.remove("timezone");
                 json.remove("electricity");
                 json.remove("water");
+                if(json.getJSONArray("vaccinations").isEmpty()) {
+                    json.remove("vaccinations");
+                }
                 json.getJSONObject("currency").remove("compare");
                 final List<String> neighbors = getNeighbors(json.getJSONArray("neighbors"));
                 json.put("neighbors", neighbors);
                 final String string = json.toString();
                 countries.put(country, string);
-                WLLogger.log(Level.INFO, "TravelBriefing - loaded country \"" + country + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + country + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                 handler.handle(string);
             }
         });

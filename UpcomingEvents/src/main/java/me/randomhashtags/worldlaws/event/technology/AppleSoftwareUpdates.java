@@ -3,10 +3,9 @@ package me.randomhashtags.worldlaws.event.technology;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.WLLogger;
+import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
-
-import java.util.logging.Level;
 
 public enum AppleSoftwareUpdates implements Jsoupable {
     INSTANCE;

@@ -28,10 +28,11 @@ public enum LegalityBitcoin implements CountryLegalityService {
         return countries;
     }
 
+    @Override
     public void refresh(CompletionHandler handler) {
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory";
-        final Elements tables = getDocumentElements(url, "div.mw-parser-output table.wikitable");
+        final Elements tables = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable");
         final String title = getInfo().getTitle();
         final EventSource source = new EventSource("Wikipedia: Legality of bitcoin by country or territory", url);
         final EventSources sources = new EventSources(source);

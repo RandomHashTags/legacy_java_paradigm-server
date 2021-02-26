@@ -1,0 +1,644 @@
+<table class="wikitable sortable mw-collapsible mw-collapsed" border="1" style="font-size:90%; border-spacing: 0; margin: 1em auto;"> 
+ <caption>
+  <span class="nowrap">Regions in Metropolitan France between 1982 and 2015</span> 
+ </caption> 
+ <tbody>
+  <tr> 
+   <th>Flag<sup id="cite_ref-These_flags_are_not_official_3-0" class="reference"><a href="#cite_note-These_flags_are_not_official-3">[3]</a></sup> </th> 
+   <th>Region </th> 
+   <th>French name </th> 
+   <th>Other local name(s) </th> 
+   <th>Capital </th> 
+   <th><a href="/wiki/INSEE" class="mw-redirect" title="INSEE">INSEE</a> No.<sup id="cite_ref-INSEE_1-1" class="reference"><a href="#cite_note-INSEE-1">[1]</a></sup> </th> 
+   <th><a href="/wiki/Placename_etymology" class="mw-redirect" title="Placename etymology">Derivation or etymology</a> </th>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Alsace.svg" class="image" title="Flag of Alsace"><img alt="Flag of Alsace" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Alsace.svg/50px-Flag_of_Alsace.svg.png" decoding="async" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Alsace.svg/75px-Flag_of_Alsace.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Alsace.svg/100px-Flag_of_Alsace.svg.png 2x" data-file-width="900" data-file-height="600"></a> </td> 
+   <td><a href="/wiki/Alsace" title="Alsace">Alsace</a> </td> 
+   <td><a href="https://fr.wikipedia.org/wiki/Alsace" class="extiw" title="fr:Alsace">Alsace</a> </td> 
+   <td><a href="/wiki/Alsatian_language" class="mw-redirect" title="Alsatian language">Alsatian</a>: <i>Elsàss</i><br><a href="/wiki/German_language" title="German language">German</a>: <i lang="de">Elsass</i> </td> 
+   <td><a href="/wiki/Strasbourg" title="Strasbourg">Strasbourg</a> </td> 
+   <td align="center">42 </td> 
+   <td>Formerly a <a href="/wiki/D%C3%A9capole" title="Décapole">coalition of free cities</a> in <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a>, attached to <a href="/wiki/Kingdom_of_France" title="Kingdom of France">Kingdom of France</a> in 1648; annexed by Germany from <a href="/wiki/Franco-Prussian_war" class="mw-redirect" title="Franco-Prussian war">Franco-Prussian war</a> to the end of <a href="/wiki/World_War_I" title="World War I">World War I</a> and briefly during <a href="/wiki/World_War_II" title="World War II">World War II</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Aquitaine.svg" class="image" title="Flag of Aquitaine"><img alt="Flag of Aquitaine" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Aquitaine.svg/50px-Flag_of_Aquitaine.svg.png" decoding="async" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Aquitaine.svg/75px-Flag_of_Aquitaine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Aquitaine.svg/100px-Flag_of_Aquitaine.svg.png 2x" data-file-width="1000" data-file-height="600"></a> </td> 
+   <td><a href="/wiki/Aquitaine" title="Aquitaine">Aquitaine</a> </td> 
+   <td><a href="https://fr.wikipedia.org/wiki/Aquitaine_(ancienne_r%C3%A9gion)" class="extiw" title="fr:Aquitaine (ancienne région)">Aquitaine</a> </td> 
+   <td><a href="/wiki/Occitan_language" title="Occitan language">Occitan</a>: <i lang="oc">Aquitània</i><br><a href="/wiki/Basque_language" title="Basque language">Basque</a>: <i lang="eu">Akitania</i><br><a href="/wiki/Saintongeais" class="mw-redirect" title="Saintongeais">Saintongeais</a>&nbsp;: <i>Aguiéne</i> </td> 
+   <td><a href="/wiki/Bordeaux" title="Bordeaux">Bordeaux</a> </td> 
+   <td align="center">72 </td> 
+   <td><a href="/wiki/Guyenne" title="Guyenne">Guyenne</a> and <a href="/wiki/Gascony" title="Gascony">Gascony</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Auvergne.svg" class="image" title="Flag of Auvergne"><img alt="Flag of Auvergne" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Auvergne.svg/50px-Flag_of_Auvergne.svg.png" decoding="async" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Auvergne.svg/75px-Flag_of_Auvergne.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Auvergne.svg/100px-Flag_of_Auvergne.svg.png 2x" data-file-width="500" data-file-height="300"></a> </td> 
+   <td><a href="/wiki/Auvergne" title="Auvergne">Auvergne</a> </td> 
+   <td><a href="https://fr.wikipedia.org/wiki/Auvergne" class="extiw" title="fr:Auvergne">Auvergne</a> </td> 
+   <td><a href="/wiki/Occitan_language" title="Occitan language">Occitan</a>: <i lang="oc">Auvèrnhe / Auvèrnha</i> </td> 
+   <td><a href="/wiki/Clermont-Ferrand" title="Clermont-Ferrand">Clermont-Ferrand</a> </td> 
+   <td align="center">83 </td> 
+   <td>Former <a href="/wiki/Auvergne_(province)" class="mw-redirect" title="Auvergne (province)">province of Auvergne</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Brittany_(Gwenn_ha_du).svg" class="image" title="Flag of Brittany"><img alt="Flag of Brittany" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Brittany_%28Gwenn_ha_du%29.svg/50px-Flag_of_Brittany_%28Gwenn_ha_du%29.svg.png" decoding="async" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Brittany_%28Gwenn_ha_du%29.svg/75px-Flag_of_Brittany_%28Gwenn_ha_du%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Brittany_%28Gwenn_ha_du%29.svg/100px-Flag_of_Brittany_%28Gwenn_ha_du%29.svg.png 2x" data-file-width="1350" data-file-height="900"></a> </td> 
+   <td><a href="/wiki/Brittany_(administrative_region)" title="Brittany (administrative region)">Brittany</a> </td> 
+   <td><i><a href="https://fr.wikipedia.org/wiki/R%C3%A9gion_Bretagne" class="extiw" title="fr:Région Bretagne">Bretagne</a></i> </td> 
+   <td><a href="/wiki/Breton_language" title="Breton language">Breton</a>: <i lang="br">Breizh</i><br><a href="/wiki/Gallo_language" title="Gallo language">Gallo</a>: <i>Bertaèyn</i> </td> 
+   <td><a href="/wiki/Rennes" title="Rennes">Rennes</a> </td> 
+   <td align="center">53 </td> 
+   <td><a href="/wiki/Duchy_of_Brittany" title="Duchy of Brittany">Duchy of Brittany</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Bourgogne.svg" class="image" title="Flag of Burgundy"><img alt="Flag of Burgundy" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_Bourgogne.svg/50px-Flag_of_Bourgogne.svg.png" decoding="async" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_Bourgogne.svg/75px-Flag_of_Bourgogne.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_Bourgogne.svg/100px-Flag_of_Bourgogne.svg.png 2x" data-file-width="1000" data-file-height="600"></a> </td> 
+   <td><a href="/wiki/Burgundy" title="Burgundy">Burgundy</a> </td> 
+   <td><i><a href="https://fr.wikipedia.org/wiki/Bourgogne_(ancienne_r%C3%A9gion_administrative)" class="extiw" title="fr:Bourgogne (ancienne région administrative)">Bourgogne</a></i> </td> 
+   <td><a href="/wiki/Burgundian_language_(O%C3%AFl)" title="Burgundian language (Oïl)">Burgundian</a>: <i>Bregogne</i>&nbsp;/ <i>Borgoégne</i><br><a href="/wiki/Francoproven%C3%A7al_language" class="mw-redirect" title="Francoprovençal language">Francoprovençal</a>: <i lang="frp" title="Arpitan-language text">Borgogne</i> </td> 
+   <td><a href="/wiki/Dijon" title="Dijon">Dijon</a> </td> 
+   <td align="center">26 </td> 
+   <td><a href="/wiki/Duchy_of_Burgundy" title="Duchy of Burgundy">Duchy of Burgundy</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Centre-Val_de_Loire.svg" class="image" title="Flag of Centre-Val de Loire"><img alt="Flag of Centre-Val de Loire" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Centre-Val_de_Loire.svg/50px-Flag_of_Centre-Val_de_Loire.svg.png" decoding="async" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Centre-Val_de_Loire.svg/75px-Flag_of_Centre-Val_de_Loire.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Centre-Val_de_Loire.svg/100px-Flag_of_Centre-Val_de_Loire.svg.png 2x" data-file-width="600" data-file-height="360"></a> </td> 
+   <td><a href="/wiki/Centre-Val_de_Loire" title="Centre-Val de Loire">Centre-Val de Loire</a><sup id="cite_ref-ReferenceA_4-0" class="reference"><a href="#cite_note-ReferenceA-4">[4]</a></sup> </td> 
+   <td><i><a href="https://fr.wikipedia.org/wiki/Centre-Val_de_Loire" class="extiw" title="fr:Centre-Val de Loire">Centre-Val de Loire</a></i> </td> 
+   <td> </td> 
+   <td><a href="/wiki/Orl%C3%A9ans" title="Orléans">Orléans</a> </td> 
+   <td align="center">24 </td> 
+   <td>Located in <a href="/wiki/Geography_of_France" title="Geography of France">north-central France</a>; straddles the middle of the <a href="/wiki/Loire_Valley" title="Loire Valley">Loire Valley</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Champagne-Ardenne.svg" class="image" title="Flag of Champagne-Ardenne"><img alt="Flag of Champagne-Ardenne" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Champagne-Ardenne.svg/50px-Flag_of_Champagne-Ardenne.svg.png" decoding="async" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Champagne-Ardenne.svg/75px-Flag_of_Champagne-Ardenne.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Champagne-Ardenne.svg/100px-Flag_of_Champagne-Ardenne.svg.png 2x" data-file-width="360" data-file-height="216"></a> </td> 
+   <td><a href="/wiki/Champagne-Ardenne" title="Champagne-Ardenne">Champagne-Ardenne</a> </td> 
+   <td><i><a href="https://fr.wikipedia.org/wiki/Champagne-Ardenne" class="extiw" title="fr:Champagne-Ardenne">Champagne-Ardenne</a></i> </td> 
+   <td> </td> 
+   <td><a href="/wiki/Ch%C3%A2lons-en-Champagne" title="Châlons-en-Champagne">Châlons-en-<br>Champagne</a> </td> 
+   <td align="center">21 </td> 
+   <td>Former <a href="/wiki/Province_of_Champagne" class="mw-redirect" title="Province of Champagne">province of Champagne</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Franche-Comt%C3%A9.svg" class="image" title="Flag of Franche-Comté"><img alt="Flag of Franche-Comté" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Franche-Comt%C3%A9.svg/50px-Franche-Comt%C3%A9.svg.png" decoding="async" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Franche-Comt%C3%A9.svg/75px-Franche-Comt%C3%A9.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Franche-Comt%C3%A9.svg/100px-Franche-Comt%C3%A9.svg.png 2x" data-file-width="330" data-file-height="216"></a> </td> 
+   <td><a href="/wiki/Franche-Comt%C3%A9" title="Franche-Comté">Franche-Comté</a> </td> 
+   <td><i><a href="https://fr.wikipedia.org/wiki/Franche-Comt%C3%A9" class="extiw" title="fr:Franche-Comté">Franche-Comté</a></i> </td> 
+   <td><a href="/wiki/Frainc-Comtou_dialect" class="mw-redirect" title="Frainc-Comtou dialect">Franc-Comtois</a>: <i>Fràntche-Comté</i><br><a href="/wiki/Francoproven%C3%A7al_language" class="mw-redirect" title="Francoprovençal language">Francoprovençal</a>: <i lang="frp" title="Arpitan-language text">Franche-Comtât</i> </td> 
+   <td><a href="/wiki/Besan%C3%A7on" title="Besançon">Besançon</a> </td> 
+   <td align="center">43 </td> 
+   <td><a href="/wiki/Free_County_of_Burgundy" class="mw-redirect" title="Free County of Burgundy">Free County of Burgundy</a> (<i>Franche-Comté</i>) </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Proposed_flag_of_%C3%8Ele-de-France.svg" class="image" title="Flag of Île-de-France"><img alt="Flag of Île-de-France" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Proposed_flag_of_%C3%8Ele-de-France.svg/50px-Proposed_flag_of_%C3%8Ele-de-France.svg.png" decoding="async" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Proposed_flag_of_%C3%8Ele-de-France.svg/75px-Proposed_flag_of_%C3%8Ele-de-France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Proposed_flag_of_%C3%8Ele-de-France.svg/100px-Proposed_flag_of_%C3%8Ele-de-France.svg.png 2x" data-file-width="360" data-file-height="216"></a> </td> 
+   <td><a href="/wiki/%C3%8Ele-de-France" title="Île-de-France">Île-de-France</a> </td> 
+   <td><a href="https://fr.wikipedia.org/wiki/%C3%8Ele-de-France" class="extiw" title="fr:Île-de-France">Île-de-France</a> </td> 
+   <td> </td> 
+   <td><a href="/wiki/Paris" title="Paris">Paris</a> </td> 
+   <td align="center">11 </td> 
+   <td><a href="/wiki/%C3%8Ele-de-France" title="Île-de-France">Province of Île-de-France</a> and parts of the former <a href="/wiki/Champagne_(province)" title="Champagne (province)">province of Champagne</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Languedoc-Roussillon.svg" class="image" title="Flag of Languedoc-Roussillon"><img alt="Flag of Languedoc-Roussillon" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_Languedoc-Roussillon.svg/50px-Flag_of_Languedoc-Roussillon.svg.png" decoding="async" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_Languedoc-Roussillon.svg/75px-Flag_of_Languedoc-Roussillon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_Languedoc-Roussillon.svg/100px-Flag_of_Languedoc-Roussillon.svg.png 2x" data-file-width="750" data-file-height="500"></a> </td> 
+   <td><a href="/wiki/Languedoc-Roussillon" title="Languedoc-Roussillon">Languedoc-Roussillon</a> </td> 
+   <td><a href="https://fr.wikipedia.org/wiki/Languedoc-Roussillon" class="extiw" title="fr:Languedoc-Roussillon">Languedoc-Roussillon</a> </td> 
+   <td><a href="/wiki/Occitan_language" title="Occitan language">Occitan</a>: <i lang="oc">Lengadòc-Rosselhon</i><br><a href="/wiki/Catalan_language" title="Catalan language">Catalan</a>: <i lang="ca">Llenguadoc-Rosselló</i> </td> 
+   <td><a href="/wiki/Montpellier" title="Montpellier">Montpellier</a> </td> 
+   <td align="center">91 </td> 
+   <td>Former provinces of <a href="/wiki/Languedoc" title="Languedoc">Languedoc</a> and <a href="/wiki/Roussillon" title="Roussillon">Roussillon</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Limousin.svg" class="image" title="Flag of Limousin"><img alt="Flag of Limousin" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Limousin.svg/50px-Flag_of_Limousin.svg.png" decoding="async" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Limousin.svg/75px-Flag_of_Limousin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Limousin.svg/100px-Flag_of_Limousin.svg.png 2x" data-file-width="600" data-file-height="400"></a> </td> 
+   <td><a href="/wiki/Limousin" title="Limousin">Limousin</a> </td> 
+   <td><a href="https://fr.wikipedia.org/wiki/Limousin" class="extiw" title="fr:Limousin">Limousin</a> </td> 
+   <td><a href="/wiki/Occitan_language" title="Occitan language">Occitan</a>: <i lang="oc">Lemosin</i> </td> 
+   <td><a href="/wiki/Limoges" title="Limoges">Limoges</a> </td> 
+   <td align="center">74 </td> 
+   <td>Former <a href="/wiki/Limousin_(province)" class="mw-redirect" title="Limousin (province)">province of Limousin</a> and parts of <a href="/wiki/Marches#France" class="mw-redirect" title="Marches">Marche</a>, <a href="/wiki/Berry_(province)" class="mw-redirect" title="Berry (province)">Berry</a>, <a href="/wiki/Auvergne_(province)" class="mw-redirect" title="Auvergne (province)">Auvergne</a>, <a href="/wiki/Poitou" title="Poitou">Poitou</a> and <a href="/wiki/Angoumois" title="Angoumois">Angoumois</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Lorraine.svg" class="image" title="Flag of Lorraine"><img alt="Flag of Lorraine" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Lorraine.svg/50px-Flag_of_Lorraine.svg.png" decoding="async" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Lorraine.svg/75px-Flag_of_Lorraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Lorraine.svg/100px-Flag_of_Lorraine.svg.png 2x" data-file-width="360" data-file-height="216"></a> </td> 
+   <td><a href="/wiki/Lorraine" title="Lorraine">Lorraine</a> </td> 
+   <td><a href="https://fr.wikipedia.org/wiki/Lorraine_(ancienne_r%C3%A9gion_administrative)" class="extiw" title="fr:Lorraine (ancienne région administrative)">Lorraine</a> </td> 
+   <td><a href="/wiki/German_language" title="German language">German</a>: <i lang="de">Lothringen</i><br><a href="/wiki/Lorraine_Franconian" title="Lorraine Franconian">Lorraine Franconian</a>: <i>Lottringe</i> </td> 
+   <td><a href="/wiki/Metz" title="Metz">Metz</a> </td> 
+   <td align="center">41 </td> 
+   <td>Named for <a href="/wiki/Charlemagne" title="Charlemagne">Charlemagne</a>'s son <a href="/wiki/Lothair_I" title="Lothair I">Lothair I</a>, the kingdom of <a href="/wiki/Lotharingia" title="Lotharingia">Lotharingia</a> is etymologically the source for the name <a href="/wiki/Lorraine_(duchy)" class="mw-redirect" title="Lorraine (duchy)">Lorraine (duchy)</a>, Lothringen (German), Lottringe (<a href="/wiki/Lorraine_Franconian" title="Lorraine Franconian">Lorraine Franconian</a>) </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Basse-Normandie.svg" class="image" title="Flag of Lower Normandy"><img alt="Flag of Lower Normandy" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Basse-Normandie.svg/50px-Flag_of_Basse-Normandie.svg.png" decoding="async" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Basse-Normandie.svg/75px-Flag_of_Basse-Normandie.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Basse-Normandie.svg/100px-Flag_of_Basse-Normandie.svg.png 2x" data-file-width="500" data-file-height="300"></a> </td> 
+   <td><a href="/wiki/Lower_Normandy" title="Lower Normandy">Lower Normandy</a> </td> 
+   <td><i><a href="https://fr.wikipedia.org/wiki/Basse-Normandie" class="extiw" title="fr:Basse-Normandie">Basse-Normandie</a></i> </td> 
+   <td><a href="/wiki/Norman_language" title="Norman language">Norman</a>: <i>Basse-Normaundie</i> </td> 
+   <td><a href="/wiki/Caen" title="Caen">Caen</a> </td> 
+   <td align="center">25 </td> 
+   <td>Western half of former province of <a href="/wiki/Normandy" title="Normandy">Normandy</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Midi-Pyr%C3%A9n%C3%A9es.svg" class="image" title="Flag of Midi-Pyrénées"><img alt="Flag of Midi-Pyrénées" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Flag_of_Midi-Pyr%C3%A9n%C3%A9es.svg/50px-Flag_of_Midi-Pyr%C3%A9n%C3%A9es.svg.png" decoding="async" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Flag_of_Midi-Pyr%C3%A9n%C3%A9es.svg/75px-Flag_of_Midi-Pyr%C3%A9n%C3%A9es.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Flag_of_Midi-Pyr%C3%A9n%C3%A9es.svg/100px-Flag_of_Midi-Pyr%C3%A9n%C3%A9es.svg.png 2x" data-file-width="600" data-file-height="400"></a> </td> 
+   <td><a href="/wiki/Midi-Pyr%C3%A9n%C3%A9es" title="Midi-Pyrénées">Midi-Pyrénées</a> </td> 
+   <td><a href="https://fr.wikipedia.org/wiki/Midi-Pyr%C3%A9n%C3%A9es" class="extiw" title="fr:Midi-Pyrénées">Midi-Pyrénées</a> </td> 
+   <td><a href="/wiki/Occitan_language" title="Occitan language">Occitan</a>: <i lang="oc">Miègjorn-Pirenèus</i><br><a href="/wiki/Occitan_language" title="Occitan language">Occitan</a>: <i lang="oc">Mieidia-Pirenèus</i> </td> 
+   <td><a href="/wiki/Toulouse" title="Toulouse">Toulouse</a> </td> 
+   <td align="center">73 </td> 
+   <td>None; created for <a href="/wiki/Toulouse" title="Toulouse">Toulouse</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Generic_flag_of_Nord-Pas-de-Calais.svg" class="image" title="Flag of Nord-Pas-de-Calais"><img alt="Flag of Nord-Pas-de-Calais" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Generic_flag_of_Nord-Pas-de-Calais.svg/50px-Generic_flag_of_Nord-Pas-de-Calais.svg.png" decoding="async" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Generic_flag_of_Nord-Pas-de-Calais.svg/75px-Generic_flag_of_Nord-Pas-de-Calais.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Generic_flag_of_Nord-Pas-de-Calais.svg/100px-Generic_flag_of_Nord-Pas-de-Calais.svg.png 2x" data-file-width="500" data-file-height="300"></a> </td> 
+   <td><a href="/wiki/Nord-Pas-de-Calais" title="Nord-Pas-de-Calais">Nord-Pas-de-Calais</a> </td> 
+   <td><a href="https://fr.wikipedia.org/wiki/Nord-Pas-de-Calais" class="extiw" title="fr:Nord-Pas-de-Calais">Nord-Pas-de-Calais</a> </td> 
+   <td> </td> 
+   <td><a href="/wiki/Lille" title="Lille">Lille</a> </td> 
+   <td align="center">31 </td> 
+   <td><a href="/wiki/Nord_(French_department)" title="Nord (French department)">Nord</a> and <a href="/wiki/Pas-de-Calais" title="Pas-de-Calais">Pas-de-Calais</a> departments </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Unofficial_flag_of_Pays-de-la-Loire.svg" class="image" title="Flag of Pays-de-la-Loire"><img alt="Flag of Pays-de-la-Loire" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Unofficial_flag_of_Pays-de-la-Loire.svg/50px-Unofficial_flag_of_Pays-de-la-Loire.svg.png" decoding="async" width="50" height="29" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Unofficial_flag_of_Pays-de-la-Loire.svg/75px-Unofficial_flag_of_Pays-de-la-Loire.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Unofficial_flag_of_Pays-de-la-Loire.svg/100px-Unofficial_flag_of_Pays-de-la-Loire.svg.png 2x" data-file-width="720" data-file-height="420"></a> </td> 
+   <td><a href="/wiki/Pays_de_la_Loire" title="Pays de la Loire">Pays de la Loire</a> </td> 
+   <td><a href="https://fr.wikipedia.org/wiki/Pays_de_la_Loire" class="extiw" title="fr:Pays de la Loire">Pays de la Loire</a> </td> 
+   <td><a href="/wiki/Breton_language" title="Breton language">Breton</a>: <i lang="br">Broioù al Liger</i> </td> 
+   <td><a href="/wiki/Nantes" title="Nantes">Nantes</a> </td> 
+   <td align="center">52 </td> 
+   <td>None; created for <a href="/wiki/Nantes" title="Nantes">Nantes</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Picardie.svg" class="image" title="Flag of Picardie (Picardy)"><img alt="Flag of Picardie (Picardy)" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Picardie.svg/50px-Flag_of_Picardie.svg.png" decoding="async" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Picardie.svg/75px-Flag_of_Picardie.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Picardie.svg/100px-Flag_of_Picardie.svg.png 2x" data-file-width="500" data-file-height="300"></a> </td> 
+   <td><a href="/wiki/Picardy" title="Picardy">Picardy</a> </td> 
+   <td><i><a href="https://fr.wikipedia.org/wiki/Picardie_(ancienne_r%C3%A9gion_administrative)" class="extiw" title="fr:Picardie (ancienne région administrative)">Picardie</a></i> </td> 
+   <td> </td> 
+   <td><a href="/wiki/Amiens" title="Amiens">Amiens</a> </td> 
+   <td align="center">22 </td> 
+   <td>Former province of Picardy </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Poitou-Charentes_flag.svg" class="image" title="Flag of Poitou-Charentes"><img alt="Flag of Poitou-Charentes" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Poitou-Charentes_flag.svg/50px-Poitou-Charentes_flag.svg.png" decoding="async" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Poitou-Charentes_flag.svg/75px-Poitou-Charentes_flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Poitou-Charentes_flag.svg/100px-Poitou-Charentes_flag.svg.png 2x" data-file-width="360" data-file-height="216"></a> </td> 
+   <td><a href="/wiki/Poitou-Charentes" title="Poitou-Charentes">Poitou-Charentes</a> </td> 
+   <td><a href="https://fr.wikipedia.org/wiki/Poitou-Charentes" class="extiw" title="fr:Poitou-Charentes">Poitou-Charentes</a> </td> 
+   <td><a href="/wiki/Occitan_language" title="Occitan language">Occitan</a>: <i lang="oc">Peitau-Charantas</i><br><a href="/wiki/Poitevin_dialect" title="Poitevin dialect">Poitevin</a> and <a href="/wiki/Saintongeais" class="mw-redirect" title="Saintongeais">Saintongeais</a>&nbsp;: <i>Poetou-Chérentes</i> </td> 
+   <td><a href="/wiki/Poitiers" title="Poitiers">Poitiers</a> </td> 
+   <td align="center">54 </td> 
+   <td>Former provinces of <a href="/wiki/Angoumois" title="Angoumois">Angoumois</a>, <a href="/wiki/Aunis" title="Aunis">Aunis</a>, <a href="/wiki/Poitou" title="Poitou">Poitou</a> and <a href="/wiki/Saintonge" title="Saintonge">Saintonge</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg" class="image" title="Flag of Provence-Alpes-Côte d'Azur"><img alt="Flag of Provence-Alpes-Côte d'Azur" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg/50px-Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg.png" decoding="async" width="50" height="33" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg/75px-Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg/100px-Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg.png 2x" data-file-width="1125" data-file-height="750"></a> </td> 
+   <td><a href="/wiki/Provence-Alpes-C%C3%B4te_d%27Azur" title="Provence-Alpes-Côte d'Azur">Provence-Alpes-Côte d'Azur</a> (PACA) </td> 
+   <td><a href="https://fr.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur" class="extiw" title="fr:Provence-Alpes-Côte d'Azur">Provence-Alpes-Côte d'Azur</a> (PACA) </td> 
+   <td style="white-space:nowrap;"><a href="/wiki/Proven%C3%A7al_dialect" title="Provençal dialect">Provençal</a>: <i>Provença-Aups-Còsta d'Azur</i><br>(<i>Prouvènço-Aup-Costo d'Azur</i>) </td> 
+   <td><a href="/wiki/Marseille" title="Marseille">Marseille</a> </td> 
+   <td align="center">93 </td> 
+   <td>Former province of <a href="/wiki/Provence" title="Provence">Provence</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Flag_of_Rh%C3%B4ne-Alpes.svg" class="image" title="Flag of Rhône-Alpes"><img alt="Flag of Rhône-Alpes" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Rh%C3%B4ne-Alpes.svg/50px-Flag_of_Rh%C3%B4ne-Alpes.svg.png" decoding="async" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Rh%C3%B4ne-Alpes.svg/75px-Flag_of_Rh%C3%B4ne-Alpes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Rh%C3%B4ne-Alpes.svg/100px-Flag_of_Rh%C3%B4ne-Alpes.svg.png 2x" data-file-width="625" data-file-height="375"></a> </td> 
+   <td><a href="/wiki/Rh%C3%B4ne-Alpes" title="Rhône-Alpes">Rhône-Alpes</a> </td> 
+   <td><i><a href="https://fr.wikipedia.org/wiki/Rh%C3%B4ne-Alpes" class="extiw" title="fr:Rhône-Alpes">Rhône-Alpes</a></i> </td> 
+   <td><a href="/wiki/Francoproven%C3%A7al_language" class="mw-redirect" title="Francoprovençal language">Francoprovençal</a>: <i lang="frp" title="Arpitan-language text">Rôno-Arpes</i><br><a href="/wiki/Occitan_language" title="Occitan language">Occitan</a>: <i lang="oc">Ròse Aups</i> </td> 
+   <td><a href="/wiki/Lyon" title="Lyon">Lyon</a> </td> 
+   <td align="center">82 </td> 
+   <td>Created for <a href="/wiki/Lyon" title="Lyon">Lyon</a> from <a href="/wiki/Dauphin%C3%A9" title="Dauphiné">Dauphiné</a> and <a href="/wiki/Lyonnais" title="Lyonnais">Lyonnais</a> provinces and <a href="/wiki/Savoy" title="Savoy">Savoy</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/File:Haute-Normandie_flag.svg" class="image" title="Flag of Haute-Normandie"><img alt="Flag of Haute-Normandie" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Haute-Normandie_flag.svg/50px-Haute-Normandie_flag.svg.png" decoding="async" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Haute-Normandie_flag.svg/75px-Haute-Normandie_flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Haute-Normandie_flag.svg/100px-Haute-Normandie_flag.svg.png 2x" data-file-width="500" data-file-height="300"></a> </td> 
+   <td><a href="/wiki/Upper_Normandy" title="Upper Normandy">Upper Normandy</a> </td> 
+   <td><i><a href="https://fr.wikipedia.org/wiki/Haute-Normandie" class="extiw" title="fr:Haute-Normandie">Haute-Normandie</a></i> </td> 
+   <td><a href="/wiki/Norman_language" title="Norman language">Norman</a>: <i>Ĥâote-Normaundie</i> </td> 
+   <td><a href="/wiki/Rouen" title="Rouen">Rouen</a> </td> 
+   <td align="center">23 </td> 
+   <td>Eastern half of former province of <a href="/wiki/Normandy" title="Normandy">Normandy</a> </td>
+  </tr>
+ </tbody>
+</table>
+<table class="wikitable sortable"> 
+ <tbody>
+  <tr> 
+   <th colspan="2">Former region </th> 
+   <th>New region (interim name) </th> 
+   <th>New region (final name) </th>
+  </tr> 
+  <tr> 
+   <td rowspan="2" style="background: #00CED1; width:15px;"> </td> 
+   <td><a href="/wiki/Burgundy" title="Burgundy">Burgundy</a> </td> 
+   <td rowspan="2">Bourgogne-Franche-Comté </td> 
+   <td rowspan="2"><a href="/wiki/Bourgogne-Franche-Comt%C3%A9" title="Bourgogne-Franche-Comté">Bourgogne-Franche-Comté</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Franche-Comt%C3%A9" title="Franche-Comté">Franche-Comté</a> </td>
+  </tr> 
+  <tr> 
+   <td rowspan="3" style="background: #DEB887"> </td> 
+   <td><a href="/wiki/Aquitaine" title="Aquitaine">Aquitaine</a> </td> 
+   <td rowspan="3">Aquitaine-Limousin-Poitou-Charentes </td> 
+   <td rowspan="3"><a href="/wiki/Nouvelle-Aquitaine" title="Nouvelle-Aquitaine">Nouvelle-Aquitaine</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Limousin" title="Limousin">Limousin</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Poitou-Charentes" title="Poitou-Charentes">Poitou-Charentes</a> </td>
+  </tr> 
+  <tr> 
+   <td rowspan="2" style="background: #b22222"> </td> 
+   <td><a href="/wiki/Lower_Normandy" title="Lower Normandy">Lower Normandy</a> </td> 
+   <td rowspan="2">Normandy </td> 
+   <td rowspan="2"><a href="/wiki/Normandy" title="Normandy">Normandy</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Upper_Normandy" title="Upper Normandy">Upper Normandy</a> </td>
+  </tr> 
+  <tr> 
+   <td rowspan="3" style="background: #86aae0"> </td> 
+   <td><a href="/wiki/Alsace" title="Alsace">Alsace</a> </td> 
+   <td rowspan="3">Alsace-Champagne-Ardenne-Lorraine </td> 
+   <td rowspan="3"><a href="/wiki/Grand_Est" title="Grand Est">Grand Est</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Champagne-Ardenne" title="Champagne-Ardenne">Champagne-Ardenne</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Lorraine" title="Lorraine">Lorraine</a> </td>
+  </tr> 
+  <tr> 
+   <td rowspan="2" style="background: #228b22"> </td> 
+   <td><a href="/wiki/Languedoc-Roussillon" title="Languedoc-Roussillon">Languedoc-Roussillon</a> </td> 
+   <td rowspan="2">Languedoc-Roussillon-Midi-Pyrénées </td> 
+   <td rowspan="2"><a href="/wiki/Occitanie" title="Occitanie">Occitanie</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Midi-Pyr%C3%A9n%C3%A9es" title="Midi-Pyrénées">Midi-Pyrénées</a> </td>
+  </tr> 
+  <tr> 
+   <td rowspan="2" style="background: #db7093"> </td> 
+   <td><a href="/wiki/Nord-Pas-de-Calais" title="Nord-Pas-de-Calais">Nord-Pas-de-Calais</a> </td> 
+   <td rowspan="2">Nord-Pas-de-Calais-Picardie </td> 
+   <td rowspan="2"><a href="/wiki/Hauts-de-France" title="Hauts-de-France">Hauts-de-France</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Picardy" title="Picardy">Picardy</a> </td>
+  </tr> 
+  <tr> 
+   <td rowspan="2&quot;&quot;" style="background: #008B8B"> </td> 
+   <td><a href="/wiki/Auvergne" title="Auvergne">Auvergne</a> </td> 
+   <td rowspan="2">Auvergne-Rhône-Alpes </td> 
+   <td rowspan="2"><a href="/wiki/Auvergne-Rh%C3%B4ne-Alpes" title="Auvergne-Rhône-Alpes">Auvergne-Rhône-Alpes</a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/Rh%C3%B4ne-Alpes" title="Rhône-Alpes">Rhône-Alpes</a> </td>
+  </tr>
+ </tbody>
+</table>
+<table class="wikitable"> 
+ <tbody>
+  <tr> 
+   <td style="background: #ff7f50; width:15px;"> </td> 
+   <td><a href="/wiki/Brittany_(administrative_region)" title="Brittany (administrative region)">Brittany</a> </td>
+  </tr> 
+  <tr> 
+   <td style="background: #FFD700"> </td> 
+   <td><a href="/wiki/Centre-Val_de_Loire" title="Centre-Val de Loire">Centre-Val de Loire</a> </td>
+  </tr> 
+  <tr> 
+   <td style="background: #a9a9a9"> </td> 
+   <td><a href="/wiki/Corsica" title="Corsica">Corsica</a> </td>
+  </tr> 
+  <tr> 
+   <td> </td> 
+   <td><a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a> </td>
+  </tr> 
+  <tr> 
+   <td> </td> 
+   <td><a href="/wiki/Guadeloupe" title="Guadeloupe">Guadeloupe</a> </td>
+  </tr> 
+  <tr> 
+   <td style="background: #ba55d3; width:15px;"> </td> 
+   <td><a href="/wiki/%C3%8Ele-de-France" title="Île-de-France">Île-de-France</a> </td>
+  </tr> 
+  <tr> 
+   <td> </td> 
+   <td><a href="/wiki/Martinique" title="Martinique">Martinique</a> </td>
+  </tr> 
+  <tr> 
+   <td> </td> 
+   <td><a href="/wiki/Mayotte" title="Mayotte">Mayotte</a> </td>
+  </tr> 
+  <tr> 
+   <td style="background: #d38d5f"> </td> 
+   <td><a href="/wiki/Pays_de_la_Loire" title="Pays de la Loire">Pays de la Loire</a> </td>
+  </tr> 
+  <tr> 
+   <td style="background: #32cd32"> </td> 
+   <td><a href="/wiki/Provence-Alpes-C%C3%B4te_d%27Azur" title="Provence-Alpes-Côte d'Azur">Provence-Alpes-Côte d'Azur</a> </td>
+  </tr> 
+  <tr> 
+   <td> </td> 
+   <td><a href="/wiki/R%C3%A9union" title="Réunion">Réunion</a> </td>
+  </tr>
+ </tbody>
+</table>
+<table class="wikitable sortable mw-collapsible" border="1" style="font-size:90%"> 
+ <caption> 
+ </caption> 
+ <tbody>
+  <tr> 
+   <th>Type </th> 
+   <th>Region </th> 
+   <th class="unsortable">Other local name(s) </th> 
+   <th>Capital </th> 
+   <th>Area (km<sup>2</sup>) </th> 
+   <th>Seats <p>in <a href="/wiki/Regional_council_(France)" title="Regional council (France)">Regional council</a> </p> </th> 
+   <th><a href="/wiki/INSEE" class="mw-redirect" title="INSEE">INSEE</a> No.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </th> 
+   <th class="unsortable">Former regions (until 2016) </th> 
+   <th><small><a href="/wiki/List_of_current_presidents_of_the_regional_councils_of_France_and_the_Corsican_Assembly" title="List of current presidents of the regional councils of France and the Corsican Assembly">President of the corresponding territorial collectivity's legislature</a></small> </th> 
+   <th class="unsortable">Location </th>
+  </tr> 
+  <tr> 
+   <td bgcolor="lightgray"><a href="/wiki/Metropolitan_France" title="Metropolitan France">Metropolitan region</a> </td> 
+   <td><a href="/wiki/Auvergne-Rh%C3%B4ne-Alpes" title="Auvergne-Rhône-Alpes">Auvergne-Rhône-Alpes</a><br>(Auvergne-Rhône-Alps) </td> 
+   <td><a href="/wiki/Occitan_language" title="Occitan language">Occitan</a>: <i lang="oc">Auvèrnhe-Ròse-Aups</i><br> <a href="/wiki/Francoproven%C3%A7al_language" class="mw-redirect" title="Francoprovençal language">Francoprovençal</a>: <i lang="frp" title="Arpitan-language text">Ôvèrgne-Rôno-Arpes</i> </td> 
+   <td><a href="/wiki/Lyon" title="Lyon">Lyon</a> </td> 
+   <td align="right">69,711 </td> 
+   <td>204 </td> 
+   <td align="center">84 </td> 
+   <td><a href="/wiki/Auvergne" title="Auvergne">Auvergne</a><br><a href="/wiki/Rh%C3%B4ne-Alpes" title="Rhône-Alpes">Rhône-Alpes</a> </td> 
+   <td><a href="/wiki/Laurent_Wauquiez" title="Laurent Wauquiez">Laurent Wauquiez</a> (<a href="/wiki/The_Republicans_(France)" title="The Republicans (France)">LR</a>) </td> 
+   <td><a href="/wiki/File:Auvergne-Rh%C3%B4ne-Alpes_in_France_2016.svg" class="image"><img alt="Auvergne-Rhône-Alpes in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Auvergne-Rh%C3%B4ne-Alpes_in_France_2016.svg/105px-Auvergne-Rh%C3%B4ne-Alpes_in_France_2016.svg.png" decoding="async" width="105" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Auvergne-Rh%C3%B4ne-Alpes_in_France_2016.svg/158px-Auvergne-Rh%C3%B4ne-Alpes_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Auvergne-Rh%C3%B4ne-Alpes_in_France_2016.svg/210px-Auvergne-Rh%C3%B4ne-Alpes_in_France_2016.svg.png 2x" data-file-width="2000" data-file-height="1922"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="lightgray">Metropolitan region </td> 
+   <td><a href="/wiki/Bourgogne-Franche-Comt%C3%A9" title="Bourgogne-Franche-Comté">Bourgogne-Franche-Comté</a><br>(Burgundy-Free County) </td> 
+   <td><a href="/wiki/Francoproven%C3%A7al_language" class="mw-redirect" title="Francoprovençal language">Francoprovençal</a>: <i lang="frp" title="Arpitan-language text">Borgogne-Franche-Comtât</i> </td> 
+   <td><a href="/wiki/Dijon" title="Dijon">Dijon</a> </td> 
+   <td align="right">47,784 </td> 
+   <td>100 </td> 
+   <td align="center">27 </td> 
+   <td><a href="/wiki/Burgundy" title="Burgundy">Burgundy</a><br><a href="/wiki/Franche-Comt%C3%A9" title="Franche-Comté">Franche-Comté</a> </td> 
+   <td><a href="/wiki/Marie-Guite_Dufay" title="Marie-Guite Dufay">Marie-Guite Dufay</a> (<a href="/wiki/Socialist_Party_(France)" title="Socialist Party (France)">PS</a>) </td> 
+   <td><a href="/wiki/File:Bourgogne-Franche-Comt%C3%A9_in_France_2016.svg" class="image"><img alt="Bourgogne-Franche-Comté in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bourgogne-Franche-Comt%C3%A9_in_France_2016.svg/105px-Bourgogne-Franche-Comt%C3%A9_in_France_2016.svg.png" decoding="async" width="105" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bourgogne-Franche-Comt%C3%A9_in_France_2016.svg/158px-Bourgogne-Franche-Comt%C3%A9_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bourgogne-Franche-Comt%C3%A9_in_France_2016.svg/210px-Bourgogne-Franche-Comt%C3%A9_in_France_2016.svg.png 2x" data-file-width="2000" data-file-height="1922"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="lightgray">Metropolitan region </td> 
+   <td><a href="/wiki/Brittany_(administrative_region)" title="Brittany (administrative region)">Bretagne</a><br>(Brittany) </td> 
+   <td><a href="/wiki/Breton_language" title="Breton language">Breton</a>: <i lang="br">Breizh</i><br><a href="/wiki/Gallo_language" title="Gallo language">Gallo</a>: <i>Bertaèyn</i> </td> 
+   <td><a href="/wiki/Rennes" title="Rennes">Rennes</a> </td> 
+   <td align="right">27,208 </td> 
+   <td>83 </td> 
+   <td align="center">53 </td> 
+   <td><i>unchanged</i> </td> 
+   <td><a href="/wiki/Lo%C3%AFg_Chesnais-Girard" title="Loïg Chesnais-Girard">Loïg Chesnais-Girard</a> (<a href="/wiki/Socialist_Party_(France)" title="Socialist Party (France)">PS</a>) </td> 
+   <td><a href="/wiki/File:Brittany_in_France_2016.svg" class="image"><img alt="Brittany in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Brittany_in_France_2016.svg/105px-Brittany_in_France_2016.svg.png" decoding="async" width="105" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Brittany_in_France_2016.svg/158px-Brittany_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Brittany_in_France_2016.svg/210px-Brittany_in_France_2016.svg.png 2x" data-file-width="2000" data-file-height="1922"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="lightgray">Metropolitan region </td> 
+   <td><a href="/wiki/Centre-Val_de_Loire" title="Centre-Val de Loire">Centre-Val de Loire</a><sup id="cite_ref-ReferenceA_4-1" class="reference"><a href="#cite_note-ReferenceA-4">[4]</a></sup><br>(Centre-Loire Valley) </td> 
+   <td> </td> 
+   <td><a href="/wiki/Orl%C3%A9ans" title="Orléans">Orléans</a> </td> 
+   <td align="right">39,151 </td> 
+   <td>77 </td> 
+   <td align="center">24 </td> 
+   <td><a href="/wiki/Centre_(French_region)" class="mw-redirect" title="Centre (French region)">Centre</a> </td> 
+   <td><a href="/wiki/Fran%C3%A7ois_Bonneau" title="François Bonneau">François Bonneau</a> (<a href="/wiki/Socialist_Party_(France)" title="Socialist Party (France)">PS</a>) </td> 
+   <td><a href="/wiki/File:Centre-Val_de_Loire_in_France_2016.svg" class="image"><img alt="Centre-Val de Loire in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Centre-Val_de_Loire_in_France_2016.svg/105px-Centre-Val_de_Loire_in_France_2016.svg.png" decoding="async" width="105" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Centre-Val_de_Loire_in_France_2016.svg/158px-Centre-Val_de_Loire_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Centre-Val_de_Loire_in_France_2016.svg/210px-Centre-Val_de_Loire_in_France_2016.svg.png 2x" data-file-width="2000" data-file-height="1922"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="lightgray">Metropolitan region </td> 
+   <td><a href="/wiki/Corsica" title="Corsica">Corse</a><br>(Corsica) </td> 
+   <td><a href="/wiki/Corsican_language" title="Corsican language">Corsican</a>: <i lang="co">Corsica</i> </td> 
+   <td><a href="/wiki/Ajaccio" title="Ajaccio">Ajaccio</a> </td> 
+   <td align="right">8,680 </td> 
+   <td>63 </td> 
+   <td align="center">94 </td> 
+   <td><i>unchanged</i> </td> 
+   <td><a href="/wiki/Jean-Guy_Talamoni" title="Jean-Guy Talamoni">Jean-Guy Talamoni</a> (CL) </td> 
+   <td><a href="/wiki/File:Corsica_in_France_2016.svg" class="image"><img alt="Corsica in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Corsica_in_France_2016.svg/105px-Corsica_in_France_2016.svg.png" decoding="async" width="105" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Corsica_in_France_2016.svg/158px-Corsica_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Corsica_in_France_2016.svg/210px-Corsica_in_France_2016.svg.png 2x" data-file-width="2000" data-file-height="1922"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="lightgray">Metropolitan region </td> 
+   <td><a href="/wiki/Grand_Est" title="Grand Est">Grand Est</a><br>(Great East) </td> 
+   <td><a href="/wiki/German_language" title="German language">German</a>: <i lang="de">Großer Osten</i> </td> 
+   <td><a href="/wiki/Strasbourg" title="Strasbourg">Strasbourg</a> </td> 
+   <td align="right">57,441 </td> 
+   <td>169 </td> 
+   <td align="center">44 </td> 
+   <td><a href="/wiki/Alsace" title="Alsace">Alsace</a><br><a href="/wiki/Champagne-Ardenne" title="Champagne-Ardenne">Champagne-Ardenne</a><br><a href="/wiki/Lorraine" title="Lorraine">Lorraine</a> </td> 
+   <td><a href="/wiki/Jean_Rottner" title="Jean Rottner">Jean Rottner</a> (<a href="/wiki/The_Republicans_(France)" title="The Republicans (France)">LR</a>) </td> 
+   <td><a href="/wiki/File:Grand_Est_in_France_2016.svg" class="image"><img alt="Grand Est in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grand_Est_in_France_2016.svg/105px-Grand_Est_in_France_2016.svg.png" decoding="async" width="105" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grand_Est_in_France_2016.svg/158px-Grand_Est_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Grand_Est_in_France_2016.svg/210px-Grand_Est_in_France_2016.svg.png 2x" data-file-width="2000" data-file-height="1922"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="lightgray">Metropolitan region </td> 
+   <td><a href="/wiki/Hauts-de-France" title="Hauts-de-France">Hauts-de-France</a><br>(Upper France) </td> 
+   <td> </td> 
+   <td><a href="/wiki/Lille" title="Lille">Lille</a> </td> 
+   <td align="right">31,806 </td> 
+   <td>170 </td> 
+   <td align="center">32 </td> 
+   <td><a href="/wiki/Nord-Pas-de-Calais" title="Nord-Pas-de-Calais">Nord-Pas-de-Calais</a><br><a href="/wiki/Picardy" title="Picardy">Picardy</a> </td> 
+   <td><a href="/wiki/Xavier_Bertrand" title="Xavier Bertrand">Xavier Bertrand</a> (<a href="/wiki/The_Republicans_(France)" title="The Republicans (France)">LR</a>) </td> 
+   <td><a href="/wiki/File:Hauts-de-France_in_France_2016.svg" class="image"><img alt="Hauts-de-France in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hauts-de-France_in_France_2016.svg/105px-Hauts-de-France_in_France_2016.svg.png" decoding="async" width="105" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hauts-de-France_in_France_2016.svg/158px-Hauts-de-France_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Hauts-de-France_in_France_2016.svg/210px-Hauts-de-France_in_France_2016.svg.png 2x" data-file-width="2000" data-file-height="1922"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="lightgray">Metropolitan region </td> 
+   <td><a href="/wiki/%C3%8Ele-de-France" title="Île-de-France">Île-de-France</a><br>(Island of France) </td> 
+   <td> </td> 
+   <td><a href="/wiki/Paris" title="Paris">Paris</a> </td> 
+   <td align="right">12,011 </td> 
+   <td>209 </td> 
+   <td align="center">11 </td> 
+   <td><i>unchanged</i> </td> 
+   <td><a href="/wiki/Val%C3%A9rie_P%C3%A9cresse" title="Valérie Pécresse">Valérie Pécresse</a> (<a href="/wiki/The_Republicans_(France)" title="The Republicans (France)">LR</a>) </td> 
+   <td><a href="/wiki/File:%C3%8Ele-de-France_in_France_2016.svg" class="image"><img alt="Île-de-France in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%C3%8Ele-de-France_in_France_2016.svg/105px-%C3%8Ele-de-France_in_France_2016.svg.png" decoding="async" width="105" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%C3%8Ele-de-France_in_France_2016.svg/158px-%C3%8Ele-de-France_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%C3%8Ele-de-France_in_France_2016.svg/210px-%C3%8Ele-de-France_in_France_2016.svg.png 2x" data-file-width="2000" data-file-height="1922"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="lightgray">Metropolitan region </td> 
+   <td><a href="/wiki/Normandy" title="Normandy">Normandie</a><br>(Normandy) </td> 
+   <td><a href="/wiki/Norman_language" title="Norman language">Norman</a>: <i>Normaundie</i> </td> 
+   <td><a href="/wiki/Rouen" title="Rouen">Rouen</a> </td> 
+   <td align="right">29,907 </td> 
+   <td>102 </td> 
+   <td align="center">28 </td> 
+   <td><a href="/wiki/Upper_Normandy" title="Upper Normandy">Upper Normandy</a><br><a href="/wiki/Lower_Normandy" title="Lower Normandy">Lower Normandy</a> </td> 
+   <td><a href="/wiki/Herv%C3%A9_Morin" title="Hervé Morin">Hervé Morin</a> (<a href="/wiki/The_Centrists" title="The Centrists">LC</a>) </td> 
+   <td><a href="/wiki/File:Normandy_in_France_2016.svg" class="image"><img alt="Normandy in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Normandy_in_France_2016.svg/105px-Normandy_in_France_2016.svg.png" decoding="async" width="105" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Normandy_in_France_2016.svg/158px-Normandy_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Normandy_in_France_2016.svg/210px-Normandy_in_France_2016.svg.png 2x" data-file-width="2000" data-file-height="1922"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="lightgray">Metropolitan region </td> 
+   <td><a href="/wiki/Nouvelle-Aquitaine" title="Nouvelle-Aquitaine">Nouvelle-Aquitaine</a><br>(New Aquitaine) </td> 
+   <td><a href="/wiki/Occitan_language" title="Occitan language">Occitan</a>: <i lang="oc">Nòva Aquitània / Nava Aquitània / Novela Aquitània</i><br><a href="/wiki/Basque_language" title="Basque language">Basque</a>: <i lang="eu">Akitania Berria</i><br> </td> 
+   <td><a href="/wiki/Bordeaux" title="Bordeaux">Bordeaux</a> </td> 
+   <td align="right">84,036 </td> 
+   <td>183 </td> 
+   <td align="center">75 </td> 
+   <td><a href="/wiki/Aquitaine" title="Aquitaine">Aquitaine</a><br><a href="/wiki/Limousin" title="Limousin">Limousin</a><br><a href="/wiki/Poitou-Charentes" title="Poitou-Charentes">Poitou-Charentes</a> </td> 
+   <td><a href="/wiki/Alain_Rousset" title="Alain Rousset">Alain Rousset</a> (<a href="/wiki/Socialist_Party_(France)" title="Socialist Party (France)">PS</a>) </td> 
+   <td><a href="/wiki/File:Nouvelle-Aquitaine_in_France_2016.svg" class="image"><img alt="Nouvelle-Aquitaine in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nouvelle-Aquitaine_in_France_2016.svg/105px-Nouvelle-Aquitaine_in_France_2016.svg.png" decoding="async" width="105" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nouvelle-Aquitaine_in_France_2016.svg/158px-Nouvelle-Aquitaine_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nouvelle-Aquitaine_in_France_2016.svg/210px-Nouvelle-Aquitaine_in_France_2016.svg.png 2x" data-file-width="2000" data-file-height="1922"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="lightgray">Metropolitan region </td> 
+   <td><a href="/wiki/Occitanie" title="Occitanie">Occitanie</a> <p>(Occitania) </p> </td> 
+   <td><a href="/wiki/Occitan_language" title="Occitan language">Occitan</a>: <i lang="oc">Occitània</i><br><a href="/wiki/Catalan_language" title="Catalan language">Catalan</a>: <i lang="ca">Occitània</i> </td> 
+   <td><a href="/wiki/Toulouse" title="Toulouse">Toulouse</a> </td> 
+   <td align="right">72,724 </td> 
+   <td>158 </td> 
+   <td align="center">76 </td> 
+   <td><a href="/wiki/Languedoc-Roussillon" title="Languedoc-Roussillon">Languedoc-Roussillon</a><br><a href="/wiki/Midi-Pyr%C3%A9n%C3%A9es" title="Midi-Pyrénées">Midi-Pyrénées</a> </td> 
+   <td><a href="/wiki/Carole_Delga" title="Carole Delga">Carole Delga</a> (<a href="/wiki/Socialist_Party_(France)" title="Socialist Party (France)">PS</a>) </td> 
+   <td><a href="/wiki/File:Occitanie_in_France_2016.svg" class="image"><img alt="Occitanie in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Occitanie_in_France_2016.svg/105px-Occitanie_in_France_2016.svg.png" decoding="async" width="105" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Occitanie_in_France_2016.svg/158px-Occitanie_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Occitanie_in_France_2016.svg/210px-Occitanie_in_France_2016.svg.png 2x" data-file-width="2000" data-file-height="1922"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="lightgray">Metropolitan region </td> 
+   <td><a href="/wiki/Pays_de_la_Loire" title="Pays de la Loire">Pays de la Loire</a><br>(Loire Countries) </td> 
+   <td><a href="/wiki/Breton_language" title="Breton language">Breton</a>: <i lang="br">Broioù al Liger</i> </td> 
+   <td><a href="/wiki/Nantes" title="Nantes">Nantes</a> </td> 
+   <td align="right">32,082 </td> 
+   <td>93 </td> 
+   <td align="center">52 </td> 
+   <td><i>unchanged</i> </td> 
+   <td><a href="/wiki/Christelle_Moran%C3%A7ais" title="Christelle Morançais">Christelle Morançais</a> (<a href="/wiki/The_Republicans_(France)" title="The Republicans (France)">LR</a>) </td> 
+   <td><a href="/wiki/File:Pays_de_la_Loire_in_France_2016.svg" class="image"><img alt="Pays de la Loire in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pays_de_la_Loire_in_France_2016.svg/105px-Pays_de_la_Loire_in_France_2016.svg.png" decoding="async" width="105" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pays_de_la_Loire_in_France_2016.svg/158px-Pays_de_la_Loire_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pays_de_la_Loire_in_France_2016.svg/210px-Pays_de_la_Loire_in_France_2016.svg.png 2x" data-file-width="2000" data-file-height="1922"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="lightgray">Metropolitan region </td> 
+   <td><a href="/wiki/Provence-Alpes-C%C3%B4te_d%27Azur" title="Provence-Alpes-Côte d'Azur">Provence-Alpes-Côte d'Azur</a><br>(Provence-Alps-Azure Coast) </td> 
+   <td><a href="/wiki/Proven%C3%A7al_dialect" title="Provençal dialect">Provençal</a>: <i>Provença-Aups-Còsta d'Azur</i><br>(<i>Prouvènço-Aup-Costo d'Azur</i>) </td> 
+   <td><a href="/wiki/Marseille" title="Marseille">Marseille</a> </td> 
+   <td align="right">31,400 </td> 
+   <td>123 </td> 
+   <td align="center">93 </td> 
+   <td><i>unchanged</i> </td> 
+   <td><a href="/wiki/Renaud_Muselier" title="Renaud Muselier">Renaud Muselier</a> (<a href="/wiki/The_Republicans_(France)" title="The Republicans (France)">LR</a>) </td> 
+   <td><a href="/wiki/File:Provence-Alpes-C%C3%B4te_d%27Azur_in_France_2016.svg" class="image"><img alt="Provence-Alpes-Côte d'Azur in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Provence-Alpes-C%C3%B4te_d%27Azur_in_France_2016.svg/105px-Provence-Alpes-C%C3%B4te_d%27Azur_in_France_2016.svg.png" decoding="async" width="105" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Provence-Alpes-C%C3%B4te_d%27Azur_in_France_2016.svg/158px-Provence-Alpes-C%C3%B4te_d%27Azur_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Provence-Alpes-C%C3%B4te_d%27Azur_in_France_2016.svg/210px-Provence-Alpes-C%C3%B4te_d%27Azur_in_France_2016.svg.png 2x" data-file-width="2000" data-file-height="1922"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="cyan"><a href="/wiki/Overseas_region" class="mw-redirect" title="Overseas region">Overseas region</a> </td> 
+   <td><a href="/wiki/Guadeloupe" title="Guadeloupe">Guadeloupe</a> </td> 
+   <td><a href="/wiki/Antillean_Creole" title="Antillean Creole">Antillean Creole</a>: <i>Gwadloup</i> </td> 
+   <td><a href="/wiki/Basse-Terre" title="Basse-Terre">Basse-Terre</a> </td> 
+   <td align="right">1,628 </td> 
+   <td>41 </td> 
+   <td align="center">01 </td> 
+   <td><i>unchanged</i> </td> 
+   <td><a href="/wiki/Ary_Chalus" title="Ary Chalus">Ary Chalus</a> (<a href="/wiki/United_Guadeloupe,_Socialism_and_Realities" class="mw-redirect" title="United Guadeloupe, Socialism and Realities">GUSR</a>) </td> 
+   <td><a href="/wiki/File:Guadeloupe_in_France_2016.svg" class="image"><img alt="Guadeloupe in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Guadeloupe_in_France_2016.svg/105px-Guadeloupe_in_France_2016.svg.png" decoding="async" width="105" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Guadeloupe_in_France_2016.svg/158px-Guadeloupe_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Guadeloupe_in_France_2016.svg/210px-Guadeloupe_in_France_2016.svg.png 2x" data-file-width="771" data-file-height="434"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="cyan">Overseas region </td> 
+   <td><a href="/wiki/French_Guiana" title="French Guiana">Guyane</a><br>(French Guiana) </td> 
+   <td> </td> 
+   <td><a href="/wiki/Cayenne" title="Cayenne">Cayenne</a> </td> 
+   <td align="right">83,534 </td> 
+   <td>51 </td> 
+   <td align="center">03 </td> 
+   <td><i>unchanged</i> </td> 
+   <td><a href="/wiki/Rodolphe_Alexandre" title="Rodolphe Alexandre">Rodolphe Alexandre</a> (<a href="/wiki/Guianese_Socialist_Party" title="Guianese Socialist Party">PSG</a>) </td> 
+   <td><a href="/wiki/File:French_Guiana_in_France_2016.svg" class="image"><img alt="French Guiana in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/French_Guiana_in_France_2016.svg/105px-French_Guiana_in_France_2016.svg.png" decoding="async" width="105" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/French_Guiana_in_France_2016.svg/158px-French_Guiana_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/French_Guiana_in_France_2016.svg/210px-French_Guiana_in_France_2016.svg.png 2x" data-file-width="977" data-file-height="550"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="cyan">Overseas region </td> 
+   <td><a href="/wiki/R%C3%A9union" title="Réunion">La Réunion</a><br>(Réunion) </td> 
+   <td><a href="/wiki/Reunion_Creole" class="mw-redirect" title="Reunion Creole">Reunion Creole</a>: <i>La Rényon</i> </td> 
+   <td><a href="/wiki/Saint-Denis,_R%C3%A9union" title="Saint-Denis, Réunion">Saint-Denis</a> </td> 
+   <td align="right">2,504 </td> 
+   <td>45 </td> 
+   <td align="center">04 </td> 
+   <td><i>unchanged</i> </td> 
+   <td><a href="/wiki/Didier_Robert" title="Didier Robert">Didier Robert</a> (<a href="/wiki/The_Republicans_(France)" title="The Republicans (France)">LR</a>) </td> 
+   <td><a href="/wiki/File:D%C3%A9partement_974_in_France_2016.svg" class="image"><img alt="Département 974 in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/D%C3%A9partement_974_in_France_2016.svg/105px-D%C3%A9partement_974_in_France_2016.svg.png" decoding="async" width="105" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/D%C3%A9partement_974_in_France_2016.svg/158px-D%C3%A9partement_974_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/D%C3%A9partement_974_in_France_2016.svg/210px-D%C3%A9partement_974_in_France_2016.svg.png 2x" data-file-width="1783" data-file-height="1003"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="cyan">Overseas region </td> 
+   <td><a href="/wiki/Martinique" title="Martinique">Martinique</a> </td> 
+   <td><a href="/wiki/Antillean_Creole" title="Antillean Creole">Antillean Creole</a>: <i>Matinik</i> </td> 
+   <td><a href="/wiki/Fort-de-France" title="Fort-de-France">Fort-de-France</a> </td> 
+   <td align="right">1,128 </td> 
+   <td>51 </td> 
+   <td align="center">02 </td> 
+   <td><i>unchanged</i> </td> 
+   <td><a href="/wiki/Claude_Lise" title="Claude Lise">Claude Lise</a> (RDM) </td> 
+   <td><a href="/wiki/File:Martinique_in_France_2016.svg" class="image"><img alt="Martinique in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Martinique_in_France_2016.svg/105px-Martinique_in_France_2016.svg.png" decoding="async" width="105" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Martinique_in_France_2016.svg/158px-Martinique_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Martinique_in_France_2016.svg/210px-Martinique_in_France_2016.svg.png 2x" data-file-width="771" data-file-height="434"></a> </td>
+  </tr> 
+  <tr> 
+   <td bgcolor="cyan">Overseas region </td> 
+   <td><a href="/wiki/Mayotte" title="Mayotte">Mayotte</a> </td> 
+   <td><a href="/wiki/Shimaore_dialect" class="mw-redirect" title="Shimaore dialect">Shimaore</a>: <i>Maore</i><br><a href="/wiki/Malagasy_language" title="Malagasy language">Malagasy</a>: <i>Mahori</i> </td> 
+   <td><a href="/wiki/Mamoudzou" title="Mamoudzou">Mamoudzou</a> </td> 
+   <td align="right">374 </td> 
+   <td>26 </td> 
+   <td align="center">06 </td> 
+   <td><i>unchanged</i> </td> 
+   <td><a href="/wiki/Soibahadine_Ibrahim_Ramadani" title="Soibahadine Ibrahim Ramadani">Soibahadine Ibrahim Ramadani</a> (LR) </td> 
+   <td><a href="/wiki/File:Mayotte_in_France_2016.svg" class="image"><img alt="Mayotte in France 2016.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mayotte_in_France_2016.svg/105px-Mayotte_in_France_2016.svg.png" decoding="async" width="105" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mayotte_in_France_2016.svg/158px-Mayotte_in_France_2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mayotte_in_France_2016.svg/210px-Mayotte_in_France_2016.svg.png 2x" data-file-width="1880" data-file-height="1057"></a> </td>
+  </tr> 
+  <tr> 
+   <th> </th> 
+   <th> </th> 
+   <th> </th> 
+   <th> </th> 
+   <th><big>632,734</big> </th> 
+   <th><big>1,910</big> </th> 
+   <th> </th> 
+   <th> </th> 
+   <th> </th> 
+   <th> </th>
+  </tr>
+ </tbody>
+</table>
+<table class="wikitable centre" style="text-align:center"> 
+ <tbody>
+  <tr> 
+   <th rowspan="2">Elections </th> 
+   <th colspan="3">Presidencies </th> 
+   <th rowspan="2">Map </th>
+  </tr> 
+  <tr> 
+   <td><style data-mw-deduplicate="TemplateStyles:r981673959">.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}</style>
+    <div class="legend">
+     <span class="legend-color" style="background-color:red; color:black;">&nbsp;</span>&nbsp;Left
+    </div> </td> 
+   <td>
+    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959">
+    <div class="legend">
+     <span class="legend-color" style="background-color:#007FCC; color:black;">&nbsp;</span>&nbsp;Right
+    </div> </td> 
+   <td>
+    <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r981673959">
+    <div class="legend">
+     <span class="legend-color" style="background-color:orange; color:black;">&nbsp;</span>&nbsp;Other
+    </div> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/1986_French_regional_elections" title="1986 French regional elections">1986</a> </td> 
+   <td>5 </td> 
+   <td><b>21</b> </td> 
+   <td>– </td> 
+   <td><a href="/wiki/File:French_regional_elections_1986.svg" class="image"><img alt="French regional elections 1986.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/French_regional_elections_1986.svg/100px-French_regional_elections_1986.svg.png" decoding="async" width="100" height="108" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/French_regional_elections_1986.svg/150px-French_regional_elections_1986.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/French_regional_elections_1986.svg/200px-French_regional_elections_1986.svg.png 2x" data-file-width="542" data-file-height="584"></a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/1992_French_regional_elections" title="1992 French regional elections">1992</a> </td> 
+   <td>4 </td> 
+   <td><b>21</b> </td> 
+   <td>1 </td> 
+   <td><a href="/wiki/File:French_regional_elections_1992.svg" class="image"><img alt="French regional elections 1992.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/French_regional_elections_1992.svg/100px-French_regional_elections_1992.svg.png" decoding="async" width="100" height="108" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/French_regional_elections_1992.svg/150px-French_regional_elections_1992.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/French_regional_elections_1992.svg/200px-French_regional_elections_1992.svg.png 2x" data-file-width="542" data-file-height="584"></a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/1998_French_regional_elections" title="1998 French regional elections">1998</a> </td> 
+   <td>10 </td> 
+   <td><b>15</b> </td> 
+   <td>1 </td> 
+   <td><a href="/wiki/File:French_regional_elections_1998.svg" class="image"><img alt="French regional elections 1998.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/French_regional_elections_1998.svg/100px-French_regional_elections_1998.svg.png" decoding="async" width="100" height="108" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/French_regional_elections_1998.svg/150px-French_regional_elections_1998.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/French_regional_elections_1998.svg/200px-French_regional_elections_1998.svg.png 2x" data-file-width="542" data-file-height="584"></a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/2004_French_regional_elections" title="2004 French regional elections">2004</a> </td> 
+   <td><b>23</b> </td> 
+   <td>2 </td> 
+   <td>1 </td> 
+   <td><a href="/wiki/File:French_regional_elections_2004.svg" class="image"><img alt="French regional elections 2004.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/French_regional_elections_2004.svg/100px-French_regional_elections_2004.svg.png" decoding="async" width="100" height="108" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/French_regional_elections_2004.svg/150px-French_regional_elections_2004.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/French_regional_elections_2004.svg/200px-French_regional_elections_2004.svg.png 2x" data-file-width="542" data-file-height="584"></a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/2010_French_regional_elections" title="2010 French regional elections">2010</a> </td> 
+   <td><b>23</b> </td> 
+   <td>3 </td> 
+   <td>– </td> 
+   <td><a href="/wiki/File:French_regional_elections_2010.svg" class="image"><img alt="French regional elections 2010.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/French_regional_elections_2010.svg/100px-French_regional_elections_2010.svg.png" decoding="async" width="100" height="108" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/French_regional_elections_2010.svg/150px-French_regional_elections_2010.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/French_regional_elections_2010.svg/200px-French_regional_elections_2010.svg.png 2x" data-file-width="542" data-file-height="584"></a> </td>
+  </tr> 
+  <tr> 
+   <td><a href="/wiki/2015_French_regional_elections" title="2015 French regional elections">2015</a> </td> 
+   <td>7 </td> 
+   <td><b>8</b> </td> 
+   <td>2 </td> 
+   <td><a href="/wiki/File:French_regional_elections_2015_2nd_Round.svg" class="image"><img alt="French regional elections 2015 2nd Round.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/French_regional_elections_2015_2nd_Round.svg/100px-French_regional_elections_2015_2nd_Round.svg.png" decoding="async" width="100" height="108" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/French_regional_elections_2015_2nd_Round.svg/150px-French_regional_elections_2015_2nd_Round.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/French_regional_elections_2015_2nd_Round.svg/200px-French_regional_elections_2015_2nd_Round.svg.png 2x" data-file-width="542" data-file-height="584"></a> </td>
+  </tr>
+ </tbody>
+</table>

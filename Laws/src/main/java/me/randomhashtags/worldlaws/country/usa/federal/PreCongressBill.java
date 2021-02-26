@@ -45,7 +45,8 @@ public final class PreCongressBill {
 
     @Override
     public String toString() {
-        return "{\"status\":\"" + status.name() + "\"," +
+        return "{" +
+                "\"status\":\"" + status.name() + "\"," +
                 "\"chamber\":\"" + chamber.name() + "\"," +
                 "\"id\":\"" + id + "\"," +
                 "\"title\":\"" + title + "\"," +
