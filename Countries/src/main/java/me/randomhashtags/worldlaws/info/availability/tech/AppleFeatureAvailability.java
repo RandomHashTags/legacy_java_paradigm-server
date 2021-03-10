@@ -8,7 +8,7 @@ import org.jsoup.select.Elements;
 
 public interface AppleFeatureAvailability extends CountryService {
 
-    Elements SECTIONS = Jsoupable.getStaticDocumentElements(FileType.AVAILABILITIES, "https://www.apple.com/ios/feature-availability", "body.page-overview main.main section.section");
+    Elements SECTIONS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES_AVAILABILITIES, "https://www.apple.com/ios/feature-availability", true, "body.page-overview main.main section.section");
 
     default Element getSectionElement(String sectionID) {
         final Elements elements = new Elements(SECTIONS);

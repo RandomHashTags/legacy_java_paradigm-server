@@ -1,8 +1,11 @@
 package me.randomhashtags.worldlaws.info.availability;
 
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.ServerObject;
+import org.json.JSONObject;
 
-public final class CountryAvailability {
+public final class CountryAvailability implements ServerObject {
+    public String country;
     private final String title, category;
     private final boolean value;
 
@@ -11,6 +14,12 @@ public final class CountryAvailability {
         this.value = value;
         this.category = category.name();
     }
+    public CountryAvailability(JSONObject json) {
+        country = json.getString("country");
+        title = null;
+        value = true;
+        category = null;
+    }
 
     @Override
     public String toString() {
@@ -18,6 +27,13 @@ public final class CountryAvailability {
                 "\"title\":\"" + title + "\"," +
                 "\"value\":" + value + "," +
                 "\"category\":\"" + category + "\"" +
+                "}";
+    }
+
+    @Override
+    public String toServerJSON() {
+        return "{" +
+                "\"country\":\"" + country + "\"" +
                 "}";
     }
 }

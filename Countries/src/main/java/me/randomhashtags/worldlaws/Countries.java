@@ -1,15 +1,20 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.info.*;
+import me.randomhashtags.worldlaws.info.CountryInfoKeys;
+import me.randomhashtags.worldlaws.info.CountryValues;
+import me.randomhashtags.worldlaws.info.NationalCapitals;
 import me.randomhashtags.worldlaws.info.agriculture.ProductionFoods;
 import me.randomhashtags.worldlaws.info.availability.tech.*;
-import me.randomhashtags.worldlaws.info.legal.*;
+import me.randomhashtags.worldlaws.info.legal.CountryLegalities;
+import me.randomhashtags.worldlaws.info.legal.LegalityDrugs;
 import me.randomhashtags.worldlaws.info.list.Flyover;
-import me.randomhashtags.worldlaws.info.rankings.*;
+import me.randomhashtags.worldlaws.info.rankings.CountryRankingServices;
+import me.randomhashtags.worldlaws.info.rankings.CountryRankings;
 import me.randomhashtags.worldlaws.info.service.*;
 import me.randomhashtags.worldlaws.location.CountryInfo;
 import me.randomhashtags.worldlaws.location.CustomCountry;
 import org.apache.logging.log4j.Level;
+import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -21,7 +26,7 @@ import java.util.stream.Collectors;
 
 // https://en.wikipedia.org/wiki/List_of_sovereign_states
 // https://en.wikipedia.org/wiki/Lists_by_country
-public final class Countries implements DataValues, Jsoupable, RestAPI {
+public final class Countries implements DataValues, Jsoupable, Jsonable, RestAPI {
 
     private String homeJSON;
     private HashMap<String, CustomCountry> countriesMap;
@@ -31,17 +36,22 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
     }
 
     private void init() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     private void test() {
-        Wikipedia.INSTANCE.getValue("andorra", new CompletionHandler() {
-            @Override
-            public void handle(Object object) {
-                WLLogger.log(Level.INFO, "Countries;test;Wikipedia;object=" + object.toString());
-            }
-        });
+        final String[] values = {
+                "Norway",
+        };
+        for(String string : values) {
+            Wikipedia.INSTANCE.getValue(string, new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    WLLogger.log(Level.INFO, "Countries;test;string=" + string + ";object=" + object);
+                }
+            });
+        }
     }
 
     private void testBandwidth() {
@@ -126,33 +136,13 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
         services.addAll(Arrays.asList(ProductionFoods.values()));
 
         services.addAll(Arrays.asList(
-                NationalAnimals.INSTANCE,
                 NationalCapitals.INSTANCE
         ));
 
-        services.addAll(Arrays.asList(
-                AgeStructure.INSTANCE,
-                BloodTypeDistribution.INSTANCE,
-                HealthCareSystem.INSTANCE,
-                MilitaryEnlistmentAge.INSTANCE,
-                MinimumAnnualLeave.INSTANCE,
-                MinimumDrivingAge.INSTANCE,
-                SystemOfGovernment.INSTANCE,
-                TrafficSide.INSTANCE,
-                VotingAge.INSTANCE
-        ));
+        services.addAll(Arrays.asList(CountryInfoKeys.values()));
+        services.addAll(Arrays.asList(CountryValues.values()));
 
-        services.addAll(Arrays.asList(
-                LegalityAbortion.INSTANCE,
-                LegalityBitcoin.INSTANCE,
-                LegalityCannabis.INSTANCE,
-                LegalityDrinkingAge.INSTANCE,
-                LegalityIncest.INSTANCE,
-                LegalityMaritalRape.INSTANCE,
-                LegalityPornography.INSTANCE,
-                LegalityProstitution.INSTANCE,
-                LegalitySmokingAge.INSTANCE
-        ));
+        services.addAll(Arrays.asList(CountryLegalities.values()));
         services.addAll(Arrays.asList(LegalityDrugs.values()));
 
         services.addAll(Arrays.asList(
@@ -161,42 +151,7 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
                 Wikipedia.INSTANCE
         ));
 
-        services.addAll(Arrays.asList(
-                AdultHIVRate.INSTANCE,
-                CannabisUse.INSTANCE,
-                CivilianFirearms.INSTANCE,
-                ClimateChangePerformanceIndex.INSTANCE,
-                CO2Emissions.INSTANCE,
-                CorruptionPerceptionIndex.INSTANCE,
-                DemocracyIndex.INSTANCE,
-                EconomicFreedomIndex.INSTANCE,
-                EducationIndex.INSTANCE,
-                ElectricityConsumption.INSTANCE,
-                FragileStateIndex.INSTANCE,
-                FreedomRankings.INSTANCE,
-                GlobalPeaceIndex.INSTANCE,
-                GlobalTerrorismIndex.INSTANCE,
-                HomicideRate.INSTANCE,
-                HumanDevelopmentIndex.INSTANCE,
-                IncarcerationRate.INSTANCE,
-                InfantMortalityRate.INSTANCE,
-                InflationRate.INSTANCE,
-                LegatumProsperityIndex.INSTANCE,
-                LifeExpectancy.INSTANCE,
-                MaternalMortalityRate.INSTANCE,
-                MinimumWage.INSTANCE,
-                NaturalDisasterRisk.INSTANCE,
-                ObesityRate.INSTANCE,
-                Population.INSTANCE,
-                PressFreedomIndex.INSTANCE,
-                QualityOfLifeIndex.INSTANCE,
-                QualityOfNationalityIndex.INSTANCE,
-                SocialProgressIndex.INSTANCE,
-                SuicideRate.INSTANCE,
-                UnemploymentRate.INSTANCE,
-                WorldGivingIndex.INSTANCE,
-                WorldHappinessReport.INSTANCE
-        ));
+        services.addAll(Arrays.asList(CountryRankings.values()));
 
         CountryServices.SERVICES.addAll(services);
     }
@@ -218,52 +173,68 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
     }
 
     private void loadCountries() {
+        final long started = System.currentTimeMillis();
         countriesMap = new HashMap<>();
-        final Elements table = getDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/List_of_sovereign_states", "table.sortable tbody tr");
-        for(int i = 1; i <= 2; i++) {
-            table.remove(0);
-        }
-        table.removeIf(row -> row.select("td").get(0).select("b a[href]").size() == 0);
-        for(Element row : table) {
-            final Elements tds = row.select("td");
-            final Element nameElement = tds.get(0).select("b a[href]").get(0);
-            final String tag = nameElement.text();
-            final String targetURL;
-            switch (tag) {
-                case "Micronesia":
-                    targetURL = "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia";
-                    break;
-                case "Netherlands":
-                    targetURL = "https://en.wikipedia.org/wiki/Netherlands";
-                    break;
-                default:
-                    targetURL = "https://en.wikipedia.org" + nameElement.attr("href");
-                    break;
+        getJSONArray(FileType.COUNTRIES, "_List of sovereign states", new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+                final Elements table = getDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/List_of_sovereign_states", "table.sortable tbody tr");
+                for(int i = 1; i <= 2; i++) {
+                    table.remove(0);
+                }
+                table.removeIf(row -> row.select("td").get(0).select("b a[href]").size() == 0);
+                final StringBuilder builder = new StringBuilder("[");
+                boolean isFirst = true;
+                for(Element row : table) {
+                    final Elements tds = row.select("td");
+                    final Element nameElement = tds.get(0).select("b a[href]").get(0);
+                    final String tag = nameElement.text();
+                    final String targetURL;
+                    switch (tag) {
+                        case "Micronesia":
+                            targetURL = "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia";
+                            break;
+                        case "Netherlands":
+                            targetURL = "https://en.wikipedia.org/wiki/Netherlands";
+                            break;
+                        default:
+                            targetURL = "https://en.wikipedia.org" + nameElement.attr("href");
+                            break;
+                    }
+                    builder.append(isFirst ? "" : ",").append("{\"tag\":\"").append(tag).append("\",\"url\":\"").append(targetURL).append("\"}");
+                    isFirst = false;
+                }
+                builder.append("]");
+                handler.handle(builder.toString());
             }
-            new Thread(() -> createCountry(tag, targetURL)).start();
-        }
-        checkForMissingValues();
+
+            @Override
+            public void handleJSONArray(JSONArray array) {
+                for(Object obj : array) {
+                    final JSONObject json = (JSONObject) obj;
+                    final String tag = json.getString("tag"), url = json.getString("url");
+                    createCountry(tag, url);
+                }
+                WLLogger.log(Level.INFO, "Countries - loaded countries (took " + (System.currentTimeMillis()-started) + "ms)");
+                checkForMissingValues();
+            }
+        });
     }
 
     private void checkForMissingValues() {
-        new Timer().schedule(new TimerTask() {
-            @Override
-            public void run() {
-                final StringBuilder builder = new StringBuilder();
-                boolean isFirst = true;
-                for(Map.Entry<String, CustomCountry> entry : countriesMap.entrySet()) {
-                    final CustomCountry country = entry.getValue();
-                    if(country.getFlagEmoji() == null) {
-                        builder.append(isFirst ? "" : ", ").append("(").append(country.getShortName()).append(", ").append(country.getName()).append(")");
-                        isFirst = false;
-                    }
-                }
-                final String string = builder.toString();
-                if(!string.isEmpty()) {
-                    WLLogger.log(Level.WARN, "Countries - missing emoji flag for countries: " + string);
-                }
+        final StringBuilder builder = new StringBuilder();
+        boolean isFirst = true;
+        for(Map.Entry<String, CustomCountry> entry : countriesMap.entrySet()) {
+            final CustomCountry country = entry.getValue();
+            if(country.getFlagEmoji() == null) {
+                builder.append(isFirst ? "" : ", ").append("(").append(country.getShortName()).append(", ").append(country.getName()).append(")");
+                isFirst = false;
             }
-        }, 5*1000);
+        }
+        final String string = builder.toString();
+        if(!string.isEmpty()) {
+            WLLogger.log(Level.WARN, "Countries - missing emoji flag for countries: " + string);
+        }
     }
 
     private void getResponse(String value, CompletionHandler handler) {
@@ -309,12 +280,24 @@ public final class Countries implements DataValues, Jsoupable, RestAPI {
     }
 
     private void createCountry(String tag, String url) {
-        final Document doc = getDocument(FileType.COUNTRIES, url, true);
-        if(doc != null) {
-            final CustomCountry country = new CustomCountry(tag, doc);
-            final String backendID = country.getBackendID();
-            countriesMap.put(backendID, country);
-        }
+        final FileType type = FileType.COUNTRIES;
+        getJSONObject(type, tag, new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+                final Document doc = getDocument(type, url, false);
+                if(doc != null) {
+                    final CustomCountry country = new CustomCountry(tag, doc);
+                    handler.handle(country.toServerJSON());
+                }
+            }
+
+            @Override
+            public void handleJSONObject(JSONObject object) {
+                final CustomCountry country = new CustomCountry(object);
+                final String backendID = country.getBackendID();
+                countriesMap.put(backendID, country);
+            }
+        });
     }
 
     private void getHomeJSON(CompletionHandler handler) {

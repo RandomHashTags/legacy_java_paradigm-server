@@ -5,6 +5,8 @@ import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import org.apache.logging.log4j.Level;
+import org.json.JSONArray;
+import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -16,11 +18,15 @@ public enum TerritoryDetails implements CountryService {
     INSTANCE;
 
     private final HashMap<String, String> territories;
-    private final Elements elements;
+    private Elements elements;
 
     TerritoryDetails() {
         territories = new HashMap<>();
-        elements = getDocumentElements(FileType.COUNTRIES_SUBDIVISIONS, "https://en.wikipedia.org/wiki/List_of_administrative_divisions_by_country", "div.mw-parser-output table.wikitable tbody tr");
+    }
+
+    @Override
+    public FileType getFileType() {
+        return FileType.COUNTRIES_SUBDIVISIONS;
     }
 
     @Override
@@ -42,12 +48,35 @@ public enum TerritoryDetails implements CountryService {
         if(territories.containsKey(countryBackendID)) {
             handler.handle(territories.get(countryBackendID));
         } else {
-            loadTerritories(country, handler);
+            final long started = System.currentTimeMillis();
+            final String shortName = country.getShortName();
+            getJSONArray(getFileType(), shortName, new CompletionHandler() {
+                @Override
+                public void load(CompletionHandler handler) {
+                    loadCountryTerritories(country, handler);
+                }
+
+                @Override
+                public void handleJSONArray(JSONArray array) {
+                    final StringBuilder builder = new StringBuilder("[");
+                    boolean isFirst = true;
+                    for(Object obj : array) {
+                        final JSONObject json = (JSONObject) obj;
+                        final Territory territory = createTerritory(json);
+                        builder.append(isFirst ? "" : ",").append(territory.toJSON());
+                        isFirst = false;
+                    }
+                    builder.append("]");
+                    final String string = builder.toString();
+                    territories.put(countryBackendID, string);
+                    WLLogger.log(Level.INFO,  getInfo().name() + " - loaded \"" + countryBackendID + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                    handler.handle(string);
+                }
+            });
         }
     }
 
-    private void loadTerritories(WLCountry country, CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
+    private void loadCountryTerritories(WLCountry country, CompletionHandler handler) {
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         final String wikipageURL = getURL(country);
@@ -68,11 +97,58 @@ public enum TerritoryDetails implements CountryService {
             }
         }
         builder.append("]");
-        final String string = builder.toString(), countryBackendID = country.getBackendID();
-        territories.put(countryBackendID, string);
-        WLLogger.log(Level.INFO,  getInfo().name() + " - loaded \"" + countryBackendID + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-        handler.handle(string);
+        handler.handle(builder.toString());
     }
+    private Elements getElements() {
+        if(elements == null) {
+            elements = getDocumentElements(FileType.COUNTRIES_SUBDIVISIONS, "https://en.wikipedia.org/wiki/List_of_administrative_divisions_by_country", "div.mw-parser-output table.wikitable tbody tr");
+        }
+        return elements;
+    }
+    private void getTerritoryURL(WLCountry country, CompletionHandler handler) {
+        switch (country) {
+            case ARTSAKH:
+                handler.handle("https://en.wikipedia.org/wiki/Administrative_divisions_of_the_Republic_of_Artsakh");
+                break;
+            case IRELAND:
+                handler.handle("https://en.wikipedia.org/wiki/Provinces_of_Ireland");
+                break;
+            case UNITED_STATES:
+                handler.handle("https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States");
+                break;
+            default:
+                final String countryShortName = country.getShortName();
+                getJSONObject(FileType.COUNTRIES_SUBDIVISIONS, "_Territories", new CompletionHandler() {
+                    @Override
+                    public void load(CompletionHandler handler) {
+                        final Elements elements = getElements();
+                        final StringBuilder builder = new StringBuilder("{");
+                        boolean isFirst = true;
+                        for(Element element : elements) {
+                            final Elements tds = element.select("td");
+                            if(!tds.isEmpty()) {
+                                final Elements hrefs = tds.get(0).select("a[href]");
+                                if(!hrefs.isEmpty()) {
+                                    final String targetCountry = hrefs.get(0).text(), url = "https://en.wikipedia.org" + tds.get(1).selectFirst("a").attr("href");
+                                    builder.append(isFirst ? "" : ",").append("\"").append(targetCountry).append("\":\"").append(url).append("\"");
+                                    isFirst = false;
+                                }
+                            }
+                        }
+                        builder.append("}");
+                        handler.handle(builder.toString());
+                    }
+
+                    @Override
+                    public void handleJSONObject(JSONObject object) {
+                        final String targetURL = object.has(countryShortName) ? object.getString(countryShortName) : null;
+                        handler.handle(targetURL);
+                    }
+                });
+                break;
+        }
+    }
+
     public String getURL(WLCountry country) {
         switch (country) {
             case ARTSAKH:
@@ -83,7 +159,7 @@ public enum TerritoryDetails implements CountryService {
                 return "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States";
             default:
                 final String countryBackendID = country.getBackendID();
-                final Stream<Element> stream = elements.stream().filter(element -> {
+                final Stream<Element> stream = getElements().stream().filter(element -> {
                     final Elements tds = element.select("td");
                     if(!tds.isEmpty()) {
                         final Elements hrefs = tds.get(0).select("a[href]");
@@ -105,6 +181,10 @@ public enum TerritoryDetails implements CountryService {
         }
     }
 
+    private Territory createTerritory(JSONObject json) {
+        final String name = json.getString("name"), flagURL = json.has("flagURL") ? json.getString("flagURL") : null;
+        return createTerritory(name, flagURL);
+    }
     private Territory createTerritory(String name, String flagURL) {
         return new Territory() {
             @Override

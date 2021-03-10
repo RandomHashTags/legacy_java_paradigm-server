@@ -32,7 +32,7 @@ public enum XboxLive implements CountryAvailabilityService {
         // https://www.xbox.com/en-us/Shell/ChangeLocale?rtc=1
         // https://en.wikipedia.org/wiki/Xbox_Live
         countries = new HashMap<>();
-        final String value = getAvailability(true);
+        final String value = getAvailability(true).toString();
         final String[] array = {
                 "argentina",
                 "australia",

@@ -63,7 +63,7 @@ public enum USLaws implements LawController {
     }
 
     private String getLawResponse(String[] values, int length) {
-        final USState usstate = USState.valueOf(values[0].toUpperCase());
+        final USStateEnum usstate = USStateEnum.valueOf(values[0].toUpperCase());
         final State state = usstate.getState();
         switch (length) {
             case 1:

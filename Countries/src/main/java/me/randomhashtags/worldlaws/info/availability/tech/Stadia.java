@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.info.availability.tech;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.info.availability.CountryAvailability;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilityCategory;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilityService;
 import me.randomhashtags.worldlaws.location.CountryInfo;
@@ -32,7 +33,7 @@ public enum Stadia implements CountryAvailabilityService {
         // https://support.google.com/stadia/answer/9566513?hl=en
         // https://en.wikipedia.org/wiki/Google_Stadia
         countries = new HashMap<>();
-        final String value = getAvailability(true);
+        final String value = getAvailability(true).toString();
         final String[] array = {
                 "austria",
                 "belgium",

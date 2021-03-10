@@ -1,8 +1,6 @@
 package me.randomhashtags.worldlaws.info.legal;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.EventSource;
-import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.info.CountryInfoKey;
 import me.randomhashtags.worldlaws.info.CountryInfoValue;
 import org.jsoup.nodes.Element;
@@ -16,29 +14,35 @@ public interface LegalityDrug extends CountryLegalityService {
 
     void setCountries(HashMap<String, String> countries);
     String getURL();
-    String getSiteName();
     String getCultivationTitle();
     boolean doesRemoveLastElement();
 
     @Override
-    default void refresh(CompletionHandler handler) {
-        final HashMap<String, String> countries = new HashMap<>();
-        final String url = getURL(), title = getInfo().getTitle(), cultivationTitle = getCultivationTitle();
+    default int getYearOfData() {
+        return WLUtilities.getTodayYear();
+    }
+
+    @Override
+    default String loadData() {
+        final String url = getURL(), cultivationTitle = getCultivationTitle();
         final Elements trs = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         if(doesRemoveLastElement()) {
             trs.remove(trs.size() - 1);
         }
-        final EventSource source = new EventSource(getSiteName(), url);
-        final EventSources sources = new EventSources(source);
+
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().split("\\(")[0].replace(" ", "").replace(",", "");
-            final CountryInfoKey info = getInfoKey(title, tds, sources, cultivationTitle);
-            countries.put(country, info.toString());
+            final CountryInfoKey info = getInfoKey(tds, cultivationTitle);
+            info.country = country;
+            builder.append(isFirst ? "" : ",").append(info.toServerJSON());
+            isFirst = false;
         }
-        setCountries(countries);
-        handler.handle(null);
+        builder.append("]");
+        return builder.toString();
     }
 
     private HashMap<String, String> getStyles() {
@@ -50,7 +54,7 @@ public interface LegalityDrug extends CountryLegalityService {
         return STYLES;
     }
 
-    private CountryInfoKey getInfoKey(String title, Elements tds, EventSources sources, String cultivationTitle) {
+    private CountryInfoKey getInfoKey(Elements tds, String cultivationTitle) {
         final Element possessionElement = tds.get(1), saleElement = tds.get(2), transportElement = tds.get(3), cultivationElement = tds.get(4);
         final String possessionText = possessionElement.text();
         final String saleText = saleElement.text();
@@ -63,7 +67,7 @@ public interface LegalityDrug extends CountryLegalityService {
         final CountryInfoValue transport = new CountryInfoValue("Transport", getValue(transportElement), transportText);
         final CountryInfoValue cultivation = new CountryInfoValue(cultivationTitle, getValue(cultivationElement), cultivationText);
 
-        return new CountryInfoKey(title, notes, -1, sources, possession, sale, transport, cultivation);
+        return new CountryInfoKey(notes, -1, possession, sale, transport, cultivation);
     }
     private String getValue(Element element) {
         final String style = element.attr("style");

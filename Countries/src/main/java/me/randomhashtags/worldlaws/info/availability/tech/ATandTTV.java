@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.info.availability.tech;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.info.availability.CountryAvailability;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilityCategory;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilityService;
 import me.randomhashtags.worldlaws.location.CountryInfo;
@@ -31,8 +32,13 @@ public enum ATandTTV implements CountryAvailabilityService {
     public void refresh(CompletionHandler handler) {
         // https://en.wikipedia.org/wiki/AT%26T_TV
         countries = new HashMap<>();
-        final String value = getAvailability(true);
-        countries.put("unitedstates", value);
+        final String value = getAvailability(true).toString();
+        final String[] values = {
+                "unitedstates"
+        };
+        for(String country : values) {
+            countries.put(country, value);
+        }
         handler.handle(null);
     }
 }

@@ -62,9 +62,10 @@ public final class StateStatute {
 
     @Override
     public String toString() {
-        return "{\"reference\":" + reference.toString() + "," +
+        return "{" +
+                "\"reference\":" + reference.toString() + "," +
                 "\"topic\":\"" + topic + "\"," +
-                "\"description\":\"" + (description != null ? LocalServer.fixEscapeValues(description) : "") + "\"," +
+                (description != null ? "\"description\":\"" + LocalServer.fixEscapeValues(description) + "\"," : "") +
                 "\"subdivisions\":" + getSubdivisionsJSON() +
                 "}";
     }

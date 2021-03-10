@@ -60,14 +60,7 @@ public interface Jsoupable {
 
     default String removeReferences(String string) {
         if(string != null && !string.isEmpty()) {
-            for(String split : string.split("\\[")) {
-                if(split.contains("]")) {
-                    final String value = split.split("]")[0], valueLowercased = value.toLowerCase();
-                    if(value.matches("[0-9]+") || value.matches("[a-zA-Z]") || valueLowercased.equals("citation needed") || valueLowercased.startsWith("note ") || valueLowercased.startsWith("law ") || valueLowercased.startsWith("year missing") || valueLowercased.startsWith("update")) {
-                        string = string.replace("[" + value + "]", "");
-                    }
-                }
-            }
+            string = string.replaceAll("\\[.*?]", "");
         }
         return string;
     }
@@ -82,15 +75,21 @@ public interface Jsoupable {
         return getStaticDocument(type, url, download);
     }
     default Elements getDocumentElements(FileType type, String url, String targetElements) {
-        return Jsoupable.getStaticDocumentElements(type, url, targetElements, -1);
+        return Jsoupable.getStaticDocumentElements(type, url, false, targetElements, -1);
     }
     default Elements getDocumentElements(FileType type, String url, String targetElements, int index) {
-        return Jsoupable.getStaticDocumentElements(type, url, targetElements, index);
+        return Jsoupable.getStaticDocumentElements(type, url, false, targetElements, index);
     }
-    static Elements getStaticDocumentElements(FileType type, String url, String targetElements) {
-        return getStaticDocumentElements(type, url, targetElements, -1);
+    default Elements getDocumentElements(FileType type, String url, boolean download, String targetElements) {
+        return Jsoupable.getStaticDocumentElements(type, url, download, targetElements, -1);
     }
-    static Elements getStaticDocumentElements(FileType type, String url, String targetElements, int index) {
+    default Elements getDocumentElements(FileType type, String url, boolean download, String targetElements, int index) {
+        return Jsoupable.getStaticDocumentElements(type, url, download, targetElements, index);
+    }
+    static Elements getStaticDocumentElements(FileType type, String url, boolean download, String targetElements) {
+        return getStaticDocumentElements(type, url, download, targetElements, -1);
+    }
+    static Elements getStaticDocumentElements(FileType type, String url, boolean download, String targetElements, int index) {
         try {
             final Document local = getLocalDocument(type, url);
             final boolean isList = targetElements.endsWith(" li"), isTR = targetElements.endsWith(" tr");
@@ -106,23 +105,25 @@ public interface Jsoupable {
                         : local.getAllElements();
             }
             final boolean hasIndex = index != -1;
-            final Document doc = Jsoup.connect(url).get();
+            final Document doc = requestDocument(url);
             final Elements elements = doc.select(targetElements);
-            final String html;
             Element element = hasIndex ? elements.get(index) : null;
-            if(!hasIndex) {
-                final String outerHtml = elements.outerHtml();
-                final String prefix = isList ? "<ul>\n"
-                        : isTR ? "<table>\n<tbody>\n"
-                        : "";
-                final String suffix = isList ? "\n</ul>"
-                        : isTR ? "\n</tbody>\n</table>"
-                        : "";
-                html = prefix + outerHtml + suffix;
-            } else {
-                html = element.outerHtml();
+            if(download) {
+                final String html;
+                if(!hasIndex) {
+                    final String outerHtml = elements.outerHtml();
+                    final String prefix = isList ? "<ul>\n"
+                            : isTR ? "<table>\n<tbody>\n"
+                            : "";
+                    final String suffix = isList ? "\n</ul>"
+                            : isTR ? "\n</tbody>\n</table>"
+                            : "";
+                    html = prefix + outerHtml + suffix;
+                } else {
+                    html = element.outerHtml();
+                }
+                createDocument(type, url, html);
             }
-            createDocument(type, url, html);
             return hasIndex ? element.getAllElements() : elements;
         } catch (Exception e) {
             WLLogger.log(Level.WARN, "Jsoupable - getStaticDocumentElements(" + url + ") - error getting document elements! (" + e.getLocalizedMessage() + ")");
@@ -131,21 +132,23 @@ public interface Jsoupable {
     }
     static Document getStaticDocument(FileType type, String url, boolean download) {
         try {
+            final Document local = getLocalDocument(type, url);
+            if(local != null) {
+                return local;
+            }
+            final Document doc = requestDocument(url);
             if(download) {
-                final Document local = getLocalDocument(type, url);
-                if(local != null) {
-                    return local;
-                }
-                final Document doc = Jsoup.connect(url).get();
                 final String html = doc.html();
                 createDocument(type, url, html);
-                return doc;
-            } else {
-                return Jsoup.connect(url).get();
             }
+            return doc;
         } catch (Exception e) {
             WLLogger.log(Level.WARN, "Jsoupable - getStaticDocument(" + url + ") - download=" + download + " - error getting document!");
             return null;
         }
+    }
+    private static Document requestDocument(String url) throws Exception {
+        WLLogger.log(Level.INFO, "Jsoupable - making request to \"" + url + "\"");
+        return Jsoup.connect(url).get();
     }
 }

@@ -11,8 +11,8 @@ public final class CountryRankingInfoValueOther {
     public CountryRankingInfoValueOther(Number value, NumberType valueType, String description, String suffix) {
         this.value = value;
         this.valueType = valueType;
-        this.description = description;
-        this.suffix = suffix;
+        this.description = LocalServer.fixEscapeValues(description);
+        this.suffix = LocalServer.fixEscapeValues(suffix);
     }
 
     public Number getValue() {
@@ -33,8 +33,8 @@ public final class CountryRankingInfoValueOther {
         return "{" +
                 "\"value\":" + getValue() + "," +
                 "\"valueType\":\"" + valueType.name() + "\"," +
-                (suffix != null ? "\"suffix\":\"" + LocalServer.fixEscapeValues(suffix) + "\"," : "") +
-                "\"description\":\"" + LocalServer.fixEscapeValues(description) + "\"" +
+                (suffix != null ? "\"suffix\":\"" + suffix + "\"," : "") +
+                "\"description\":\"" + description + "\"" +
                 "}";
     }
 }

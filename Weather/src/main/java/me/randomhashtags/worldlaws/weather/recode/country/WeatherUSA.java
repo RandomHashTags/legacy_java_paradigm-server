@@ -229,6 +229,19 @@ public enum WeatherUSA implements NewWeatherController {
         }
     }
 
+    private void getZones(String latitude, String longitude, CompletionHandler handler) {
+        final String url = "https://api.weather.gov/points/" + latitude + "," + longitude;
+        requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
+            @Override
+            public void handleJSONObject(JSONObject object) {
+                final JSONObject properties = object.getJSONObject("properties");
+                final String forecastZone = properties.getString("forecastZone").split("/zones/")[1];
+                final String countyZone = properties.getString("county").split("/zones/")[1];
+                final String string = "[\"" + forecastZone + "\",\"" + countyZone + "\"]";
+                handler.handle(string);
+            }
+        });
+    }
     private void getZone(String zoneID, CompletionHandler handler) {
         if(zones == null) {
             zones = new HashMap<>();

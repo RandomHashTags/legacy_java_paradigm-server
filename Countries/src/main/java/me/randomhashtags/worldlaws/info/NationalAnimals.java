@@ -52,7 +52,7 @@ public enum NationalAnimals implements CountryNationalService {
             } else {
                 final String country = firstElement.select("a").get(0).text().toLowerCase().replace(" ", "");
                 final CountryInfoValue animal = getAnimal(tds.get(1), tds.get(3).selectFirst("img"));
-                final CountryInfoKey key = new CountryInfoKey(title, null, yearOfData, sources, animal);
+                final CountryInfoKey key = new CountryInfoKey(null, yearOfData, animal);
                 if(!hasRowspan) {
                     countries.put(country, key.toString());
                 } else {

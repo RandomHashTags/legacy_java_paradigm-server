@@ -29,28 +29,10 @@ public enum UFC implements USAEventController {
     }
 
     @Override
-    public void getUpcomingEvents(CompletionHandler handler) {
-        if(json == null) {
-            refreshUpcomingEvents(handler);
-        } else {
-            handler.handle(json);
-        }
-    }
-
-    @Override
-    public HashMap<String, String> getPreEvents() {
-        return preEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getEvents() {
-        return events;
-    }
-
-    private void refreshUpcomingEvents(CompletionHandler handler) {
+    public void refresh(CompletionHandler handler) {
+        final long started = System.currentTimeMillis();
         preEvents = new HashMap<>();
         events = new HashMap<>();
-        final long started = System.currentTimeMillis();
         final String wikipagePrefix = "https://en.wikipedia.org";
         final String url = wikipagePrefix + "/wiki/List_of_UFC_events";
         final Document doc = getDocument(url);
@@ -90,7 +72,7 @@ public enum UFC implements USAEventController {
                                 final String identifier = getEventIdentifier(date, event);
                                 events.put(identifier, ufc.toJSON());
 
-                                final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(type, date, event, location, posterURL);
+                                final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(event, location, posterURL);
                                 final String string = preUpcomingEvent.toString();
                                 preEvents.put(identifier, string);
                                 builder.append(isFirst ? "" : ",").append(string);
@@ -106,5 +88,20 @@ public enum UFC implements USAEventController {
             WLLogger.log(Level.INFO, "UFC - refreshed upcoming events (took " + (System.currentTimeMillis()-started) + "ms)");
             handler.handle(json);
         }
+    }
+
+    @Override
+    public String getCache() {
+        return json;
+    }
+
+    @Override
+    public HashMap<String, String> getPreEvents() {
+        return preEvents;
+    }
+
+    @Override
+    public HashMap<String, String> getEvents() {
+        return events;
     }
 }

@@ -31,7 +31,7 @@ public enum DAZN implements CountryAvailabilityService {
     public void refresh(CompletionHandler handler) {
         // https://www.dazn.com/en-DE/help/articles/where-is-dazn-available
         countries = new HashMap<>();
-        final String value = getAvailability(true);
+        final String value = getAvailability(true).toString();
         final String[] array = {
                 "austria",
                 "brazil",

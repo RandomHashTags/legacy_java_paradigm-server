@@ -9,6 +9,6 @@ public interface CountryNationalService extends CountryService {
         return getNationalDocumentElements(url, targetElements, -1);
     }
     default Elements getNationalDocumentElements(String url, String targetElements, int index) {
-        return getDocumentElements(FileType.NATIONAL, url, targetElements, index);
+        return getDocumentElements(FileType.COUNTRIES_NATIONAL, url, targetElements, index);
     }
 }

@@ -56,6 +56,10 @@ public interface RestAPI {
     }
 
     default void request(String targetURL, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query, CompletionHandler handler) {
+        final boolean isLocal = targetURL.startsWith("http://localhost");
+        if(!isLocal) {
+            WLLogger.log(Level.INFO, "RestAPI - making request to \"" + targetURL + "\"");
+        }
         HttpURLConnection connection = null;
         try {
             final StringBuilder target = new StringBuilder(targetURL);
@@ -114,7 +118,7 @@ public interface RestAPI {
                 handler.handle(null);
             }
         } catch (Exception e) {
-            if(!targetURL.startsWith("http://localhost")) {
+            if(!isLocal) {
                 WLLogger.log(Level.ERROR, "[REST API] - \"(" + e.getStackTrace()[0].getClassName() + ") " + e.getMessage() + "\" with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
             }
             handler.handle(null);

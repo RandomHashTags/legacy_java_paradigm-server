@@ -60,11 +60,13 @@ public enum StreamingEvents implements EventController, DataValues {
         new Timer().scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
-                update(null);
+                refresh(null);
             }
         }, THIRTY_MIN, THIRTY_MIN);
     }
-    private void update(@Nullable CompletionHandler handler) {
+
+    @Override
+    public void refresh(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final boolean isTwitch = this == TWITCH;
         requestJSONObject(url, RequestMethod.GET, headers, query, new CompletionHandler() {
@@ -98,20 +100,14 @@ public enum StreamingEvents implements EventController, DataValues {
         });
     }
 
+    @Override
+    public String getCache() {
+        return json;
+    }
 
     @Override
     public UpcomingEventType getType() {
         return type;
-    }
-
-    @Override
-    public void getUpcomingEvents(CompletionHandler handler) {
-        if(json != null) {
-            handler.handle(json);
-        } else {
-            json = "[]";
-            update(handler);
-        }
     }
 
     @Override

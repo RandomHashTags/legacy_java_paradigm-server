@@ -3,13 +3,13 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.event.EventDate;
 import me.randomhashtags.worldlaws.location.WLCountry;
 import org.apache.logging.log4j.Level;
-import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.*;
+import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Stream;
 
@@ -24,7 +24,7 @@ public enum Holidays implements Jsoupable {
     Holidays() {
         countryJSON = new HashMap<>();
         countryHolidays = new HashMap<>();
-        list = getDocumentElements(FileType.HOLIDAYS, "https://en.wikipedia.org/wiki/List_of_holidays_by_country", "div.mw-body div.mw-body-content div.mw-content-ltr div.mw-parser-output div.div-col ul li a[href]");
+        list = getDocumentElements(FileType.UPCOMING_EVENTS_HOLIDAYS, "https://en.wikipedia.org/wiki/List_of_holidays_by_country", "div.mw-body div.mw-body-content div.mw-content-ltr div.mw-parser-output div.div-col ul li a[href]");
     }
 
     public void getResponse(String value, CompletionHandler handler) {
@@ -78,9 +78,8 @@ public enum Holidays implements Jsoupable {
                     final LocalDate date = LocalDate.now();
                     final Month todayMonth = date.getMonth();
                     final int todayDay = date.getDayOfMonth(), monthDays = todayMonth.maxLength(), nextMonthValue = todayMonth.getValue()+1;
-                    boolean isFirstCountry = true;
-
-                    for(Map.Entry<String, Set<Holiday>> map : countryHolidays.entrySet()) {
+                    final AtomicBoolean isFirstCountry = new AtomicBoolean(true);
+                    countryHolidays.entrySet().stream().parallel().forEach(map -> {
                         final String country = map.getKey();
                         final Set<Holiday> holidays = map.getValue();
                         holidays.removeIf(holiday -> {
@@ -99,10 +98,10 @@ public enum Holidays implements Jsoupable {
                                 isFirstArray = false;
                             }
                             array.append("]");
-                            builder.append(isFirstCountry ? "" : ",").append("\"").append(country).append("\":").append(array.toString());
-                            isFirstCountry = false;
+                            builder.append(isFirstCountry.get() ? "" : ",").append("\"").append(country).append("\":").append(array.toString());
+                            isFirstCountry.set(false);
                         }
-                    }
+                    });
                     builder.append("}");
                     nearHolidays = builder.toString();
                     WLLogger.log(Level.INFO, "Holidays - updated near holidays (took " + (System.currentTimeMillis()-started) + "ms)");
@@ -144,9 +143,8 @@ public enum Holidays implements Jsoupable {
         }
     }
     private void getHolidays(String country, String url, CompletionHandler handler) {
-        final Document doc = getDocument(FileType.HOLIDAYS, url, true);
+        final Elements table = getDocumentElements(FileType.UPCOMING_EVENTS_HOLIDAYS, url, "table.wikitable tbody tr");
         final StringBuilder builder = new StringBuilder("[");
-        final Elements table = doc.select("table.wikitable tbody tr");
         boolean isFirst = true;
         final HashSet<String> names = new HashSet<>();
         final HashSet<Holiday> holidays = new HashSet<>();

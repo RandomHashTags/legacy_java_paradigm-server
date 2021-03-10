@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Level;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Node;
@@ -14,24 +15,23 @@ import org.jsoup.select.Elements;
 import java.util.*;
 import java.util.stream.Stream;
 
-public final class CustomCountry implements Jsoupable {
+public final class CustomCountry implements Jsoupable, ServerObject {
 
-    private static final Elements TIMEZONE_ELEMENTS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/List_of_time_zones_by_country", "table.wikitable tbody tr");
-    private static final Elements FLAG_ELEMENTS = Jsoupable.getStaticDocument(FileType.COUNTRIES, "https://emojipedia.org/flags/", true).select("ul.emoji-list li a[href]");
-    private static final Elements ISO_ALPHA_2_ELEMENTS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2", "div.mw-parser-output table.wikitable", 2).select("tbody tr");
-
-    static {
-        ISO_ALPHA_2_ELEMENTS.remove(0);
-    }
+    private static Elements TIMEZONE_ELEMENTS, FLAG_ELEMENTS, ISO_ALPHA_2_ELEMENTS;
 
     private final String tag, shortName, name;
-    private String flagURL, flagEmoji, isoAlpha2;
+    private String flagURL, flagEmoji;
     private CountryDaylightSavingsTime daylightSavingsTime;
-    private Set<UTCOffset> timezones;
-    private boolean hasTerritories;
+    private HashSet<UTCOffset> timezones;
     private String information;
 
     public CustomCountry(String tag, Document page) {
+        if(TIMEZONE_ELEMENTS == null) {
+            TIMEZONE_ELEMENTS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/List_of_time_zones_by_country", true, "table.wikitable tbody tr");
+            FLAG_ELEMENTS = Jsoupable.getStaticDocument(FileType.COUNTRIES, "https://emojipedia.org/flags/", true).select("ul.emoji-list li a[href]");
+            ISO_ALPHA_2_ELEMENTS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2", true, "div.mw-parser-output table.wikitable", 2).select("tbody tr");
+            ISO_ALPHA_2_ELEMENTS.remove(0);
+        }
         this.tag = tag;
         final Elements infobox = page.select("table.infobox tbody tr");
 
@@ -55,6 +55,30 @@ public final class CustomCountry implements Jsoupable {
         setupTimeZones();
         setupFlagURL();
     }
+    public CustomCountry(JSONObject json) {
+        tag = json.getString("tag");
+        shortName = json.getString("shortName");
+        name = json.getString("name");
+        flagURL = json.getString("flagURL");
+        flagEmoji = json.getString("flagEmoji");
+        timezones = new HashSet<>();
+        for(Object obj : json.getJSONArray("timezones")) {
+            final JSONObject jsonObject = (JSONObject) obj;
+            final int hour = jsonObject.has("hour") ? jsonObject.getInt("hour") : 0;
+            final int minute = jsonObject.has("minute") ? jsonObject.getInt("minute") : 0;
+            final String regions = jsonObject.getString("regions");
+            final UTCOffset offset = new UTCOffset(hour, minute, regions);
+            timezones.add(offset);
+        }
+        if(json.has("daylightSavingsTime")) {
+            final JSONObject dstJson = json.getJSONObject("daylightSavingsTime");
+            final int startMonth = dstJson.getInt("startMonth");
+            final int startDay = dstJson.getInt("startDay");
+            final int endMonth = dstJson.getInt("endMonth");
+            final int endDay = dstJson.getInt("endDay");
+            daylightSavingsTime = new CountryDaylightSavingsTime(startMonth, startDay, endMonth, endDay);
+        }
+    }
 
     public String getBackendID() {
         return shortName.toLowerCase().replace(" ", "");
@@ -70,9 +94,6 @@ public final class CustomCountry implements Jsoupable {
     }
     public String getFlagEmoji() {
         return flagEmoji;
-    }
-    public String getISOAlpha2() {
-        return isoAlpha2;
     }
 
     private void setupFlagEmoji() {
@@ -179,7 +200,7 @@ public final class CustomCountry implements Jsoupable {
         });
         final Optional<Element> firstElement = elements.findFirst();
         if(firstElement.isPresent()) {
-            isoAlpha2 = firstElement.get().select("td").get(0).text();
+            final String isoAlpha2 = firstElement.get().select("td").get(0).text();
             flagURL = "https://raw.githubusercontent.com/stsrki/country-flags/master/png1000px/" + isoAlpha2.toLowerCase() + ".png";
         }
     }
@@ -195,8 +216,7 @@ public final class CustomCountry implements Jsoupable {
                 final HashSet<CountryService> services = new HashSet<>(CountryServices.SERVICES);
                 final List<CountryResource> resources = new ArrayList<>();
 
-                hasTerritories = country.hasTerritories();
-                if(hasTerritories) {
+                if(country.hasTerritories()) {
                     final TerritoryDetails details = TerritoryDetails.INSTANCE;
                     services.add(details);
                     resources.add(new CountryResource("Territories", details.getURL(country)));
@@ -288,7 +308,19 @@ public final class CustomCountry implements Jsoupable {
                 (!name.equals(shortName) ? "\"shortName\":\"" + shortName + "\"," : "") +
                 "\"flagURL\":\"" + flagURL + "\"," +
                 "\"flagEmoji\":\"" + flagEmoji + "\"," +
-                (hasTerritories ? "\"hasTerritories\":true," : "") +
+                (daylightSavingsTime != null ? "\"daylightSavingsTime\":" + daylightSavingsTime.toString() + "," : "") +
+                "\"timezones\":" + timezones.toString() +
+                "}";
+    }
+
+    @Override
+    public String toServerJSON() {
+        return "{" +
+                "\"tag\":\"" + tag + "\"," +
+                "\"name\":\"" + name + "\"," +
+                "\"shortName\":\"" + shortName + "\"," +
+                "\"flagURL\":\"" + flagURL + "\"," +
+                "\"flagEmoji\":\"" + flagEmoji + "\"," +
                 (daylightSavingsTime != null ? "\"daylightSavingsTime\":" + daylightSavingsTime.toString() + "," : "") +
                 "\"timezones\":" + timezones.toString() +
                 "}";

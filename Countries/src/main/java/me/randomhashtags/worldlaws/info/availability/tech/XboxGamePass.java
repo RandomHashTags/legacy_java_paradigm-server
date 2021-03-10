@@ -31,7 +31,7 @@ public enum XboxGamePass implements CountryAvailabilityService {
     public void refresh(CompletionHandler handler) {
         // https://en.wikipedia.org/wiki/Xbox_Game_Pass
         countries = new HashMap<>();
-        final String value = getAvailability(true);
+        final String value = getAvailability(true).toString();
         final String[] array = {
                 "argentina",
                 "australia",

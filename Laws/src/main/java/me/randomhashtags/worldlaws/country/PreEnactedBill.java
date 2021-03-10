@@ -31,7 +31,8 @@ public final class PreEnactedBill {
 
     @Override
     public String toString() {
-        return "{\"chamber\":\"" + chamber.getName() + "\"," +
+        return "{" +
+                "\"chamber\":\"" + chamber.getName() + "\"," +
                 "\"id\":\"" + id + "\"," +
                 "\"title\":\"" + title + "\"," +
                 "\"date\":\"" + date.toString() + "\"" +

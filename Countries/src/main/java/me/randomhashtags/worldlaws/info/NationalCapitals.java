@@ -39,7 +39,9 @@ public enum NationalCapitals implements CountryNationalService {
             final String country = tds.get(1).text().toLowerCase().split("\\[")[0].split("\\(")[0].replace(" ", "");
             if(!country.isEmpty()) {
                 final String text = tds.size() > 2 ? tds.get(2).text() : null;
-                final CountrySingleValue value = new CountrySingleValue(title, null, tds.get(0).text(), text, -1, sources);
+                final CountrySingleValue value = new CountrySingleValue(null, tds.get(0).text(), text, -1);
+                value.setTitle(title);
+                value.setSources(sources);
                 countries.put(country, value.toString());
             }
         }

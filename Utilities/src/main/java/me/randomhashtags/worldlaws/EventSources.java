@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public final class EventSources {
-    private List<EventSource> sources;
+    private final List<EventSource> sources;
 
     public EventSources(EventSource...sources) {
         this.sources = new ArrayList<>();

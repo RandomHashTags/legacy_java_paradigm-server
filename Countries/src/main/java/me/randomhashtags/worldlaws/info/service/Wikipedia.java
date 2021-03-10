@@ -1,18 +1,28 @@
 package me.randomhashtags.worldlaws.info.service;
 
 import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.info.WikipediaPicture;
 import me.randomhashtags.worldlaws.location.CountryInfo;
 import org.apache.logging.log4j.Level;
+import org.json.JSONArray;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
+import java.util.Optional;
 
 public enum Wikipedia implements CountryService {
     INSTANCE;
 
     private HashMap<String, String> countries;
+    private Elements featuredPicturesElements, nationalAnimalsElements;
+
+    @Override
+    public FileType getFileType() {
+        return FileType.COUNTRIES_SERVICES_WIKIPEDIA;
+    }
 
     @Override
     public CountryInfo getInfo() {
@@ -33,48 +43,247 @@ public enum Wikipedia implements CountryService {
         if(countries == null) {
             countries = new HashMap<>();
         }
-        if(countries .containsKey(tag)) {
-            final String value = countries.get(tag);
-            handler.handle(value);
+        if(countries.containsKey(tag)) {
+            handler.handle(countries.get(tag));
         } else {
             final long started = System.currentTimeMillis();
-            final String url = "https://en.wikipedia.org/wiki/" + tag.replace(" ", "_");
-            final Document document;
-            try {
-                document = Jsoupable.getLocalDocument(FileType.COUNTRIES, url);
-            } catch (Exception e) {
-                e.printStackTrace();
-                handler.handle(null);
-                return;
-            }
-            final Elements paragraphs = document.select("div.mw-parser-output table.infobox + p");
-            final Element firstParagraphElement = paragraphs.get(0);
-            String firstParagraph = removeReferences(firstParagraphElement.text());
-            final String[] split = firstParagraph.split(" ");
-            if(split[1].startsWith("(")) {
-                final String value = " (" + firstParagraph.split("\\(")[1].split("\\)")[0] + ")";
-                firstParagraph = firstParagraph.replace(value, "");
-            }
-            if(firstParagraph.contains(" listen)")) {
-                final String key = firstParagraph.split(" listen\\)")[0].split("\\(")[1];
-                firstParagraph = firstParagraph.replace(" (" + key + " listen)", "");
-            }
-            while (firstParagraph.contains("(listen)")) {
-                final String[] values = firstParagraph.split("\\(listen\\)");
-                final String prefix = values[0].split("\\(")[1];
-                final String suffix = values[1].split("\\)")[0];
-                final String value = " (" + prefix + "(listen)" + suffix + ")";
-                firstParagraph = firstParagraph.replace(value, "");
-            }
-            final String paragraph = LocalServer.fixEscapeValues(firstParagraph);
-            final String string =
-                    "{" +
-                    "\"paragraph\":\"" + paragraph + "\"," +
-                    "\"url\":\"" + url + "\"" +
-                    "}";
-            countries.put(tag, string);
-            WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + tag + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-            handler.handle(string);
+            getJSONObject(FileType.COUNTRIES_SERVICES_WIKIPEDIA, tag, new CompletionHandler() {
+                @Override
+                public void load(CompletionHandler handler) {
+                    loadWikipedia(tag, handler);
+                }
+
+                @Override
+                public void handleJSONObject(JSONObject object) {
+                    WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + tag + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                    final String string = object.toString();
+                    countries.put(tag, string);
+                    handler.handle(string);
+                }
+            });
         }
+    }
+
+    private void loadWikipedia(String tag, CompletionHandler handler) {
+        getJSONObject(FileType.COUNTRIES_SERVICES_WIKIPEDIA, tag, new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+                final String url = "https://en.wikipedia.org/wiki/" + tag.replace(" ", "_");
+                final Document document;
+                try {
+                    document = getDocument(getFileType(), url);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                    handler.handle(null);
+                    return;
+                }
+                final Elements infoboxParagraphs = document.select("div.mw-parser-output table.infobox + p");
+                final Elements metadataParagraphs = document.select("div.mw-parser-output table.metadata + p");
+                final Element element = !infoboxParagraphs.isEmpty() ? infoboxParagraphs.get(0) : !metadataParagraphs.isEmpty() ? metadataParagraphs.get(0) : null;
+                if(element == null) {
+                    WLLogger.log(Level.WARN, "Wikipedia - missing paragraph for country \"" + tag + "\"!");
+                    handler.handle(null);
+                } else {
+                    String firstParagraph = removeReferences(element.text()).replace("(listen)", "").replace("(listen to all)", "");
+                    firstParagraph = firstParagraph.replaceAll(" \\(.*?:.*?\\)", "");
+                    final String paragraph = LocalServer.fixEscapeValues(firstParagraph);
+                    getPictures(tag, new CompletionHandler() {
+                        @Override
+                        public void handle(Object object) {
+                            final String string =
+                                    "{" +
+                                    "\"pictures\":" + object.toString() + "," +
+                                    "\"paragraph\":\"" + paragraph + "\"," +
+                                    "\"url\":\"" + url + "\"" +
+                                    "}";
+                            handler.handle(string);
+                        }
+                    });
+                }
+            }
+
+            @Override
+            public void handleJSONObject(JSONObject object) {
+                handler.handle(object.toString());
+            }
+        });
+    }
+
+    private void getPictures(String tag, CompletionHandler handler) {
+        final StringBuilder builder = new StringBuilder("{");
+        getNationalAnimals(tag, new CompletionHandler() {
+            @Override
+            public void handle(Object nationalAnimalsObj) {
+                getFeaturedPictures(tag, new CompletionHandler() {
+                    @Override
+                    public void handle(Object featuredObj) {
+                        final String string =
+                                (nationalAnimalsObj != null ? "\"nationalAnimal\":" + nationalAnimalsObj.toString() + (featuredObj != null ? "," : "") : "") +
+                                (featuredObj != null ? "\"featured\":" + featuredObj.toString() : "");
+                        builder.append(string);
+                        builder.append("}");
+                        handler.handle(builder.toString());
+                    }
+                });
+            }
+        });
+    }
+
+    private void getFeaturedPictures(String tag, CompletionHandler handler) {
+        getJSONArray(FileType.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES, tag, new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+                final String country = tag.toLowerCase();
+                final Elements featuredElements = getFeaturedPicturesElements();
+                final Optional<Element> target = new Elements(featuredElements).parallelStream().filter(element -> {
+                    return element.text().toLowerCase().endsWith(country);
+                }).findFirst();
+                if(target.isPresent()) {
+                    final StringBuilder builder = new StringBuilder("[");
+                    final String prefix = "https://commons.wikimedia.org", url = prefix + target.get().attr("href");
+                    final Elements pictures = getDocumentElements(FileType.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES, url, "div.mw-body div.mw-body-content div.mw-content-ltr div.mw-category-generated div ul.gallery li.gallerybox div div.thumb div a.image");
+                    boolean isFirst = true;
+                    int added = 0;
+                    for(Element picture : pictures) {
+                        if(added == 12) {
+                            break;
+                        } else {
+                            final String href = picture.attr("href");
+                            if(!href.isEmpty()) {
+                                final Element img = picture.selectFirst("img");
+                                final String imageTitle = img.attr("alt").replace(" ", "_");
+                                String pictureURL = img.attr("src").replace("/thumb/", "/");
+                                final String[] values = pictureURL.split("/");
+                                pictureURL = pictureURL.substring(0, pictureURL.length() - values[values.length-1].length() - 1);
+                                if(!prefix.equals(pictureURL)) {
+                                    /*final String mediaURL = prefix + "/wiki/File:" + imageTitle;
+                                    final Elements descriptions = getDocumentElements(FileType.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES_MEDIA, mediaURL, "td.description");
+                                    if(!descriptions.isEmpty()) {
+                                        final Elements elements = descriptions.get(0).getAllElements(), descriptionElements = elements.select("div.description");
+                                        final String text = (descriptionElements.isEmpty() ? elements : descriptionElements).textNodes().get(0).text();
+                                    }*/
+                                    final WikipediaPicture wikipediaPicture = new WikipediaPicture(imageTitle, null, pictureURL, "https://commons.wikimedia.org" + href);
+                                    builder.append(isFirst ? "" : ",").append(wikipediaPicture.toString());
+                                    isFirst = false;
+                                    added += 1;
+                                }
+                            }
+                        }
+                    }
+                    builder.append("]");
+                    handler.handle(builder.toString());
+                } else {
+                    handler.handle(null);
+                }
+            }
+
+            @Override
+            public void handleJSONArray(JSONArray array) {
+                handler.handle(array.toString());
+            }
+        });
+    }
+    private Elements getFeaturedPicturesElements() {
+        if(featuredPicturesElements == null) {
+            featuredPicturesElements = getDocumentElements(FileType.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES, "https://commons.wikimedia.org/wiki/Category:Featured_pictures_by_country", "div.mw-body div.mw-body-content div.mw-content-ltr div.mw-category-generated div div.mw-content-ltr div.mw-category div.mw-category-group ul li a");
+        }
+        return featuredPicturesElements;
+    }
+    private Elements getNationalAnimalsElements() {
+        if(nationalAnimalsElements == null) {
+            nationalAnimalsElements = getDocumentElements(FileType.COUNTRIES_SERVICES_WIKIPEDIA, "https://en.wikipedia.org/wiki/List_of_national_animals", "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        }
+        return nationalAnimalsElements;
+    }
+
+    private void getNationalAnimals(String tag, CompletionHandler animalHandler) {
+        getJSONObject(FileType.COUNTRIES_SERVICES_WIKIPEDIA, "_National Animals", new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+                final Elements nationalAnimalsElements = getNationalAnimalsElements();
+                final Elements trs = new Elements(nationalAnimalsElements);
+                trs.removeIf(row -> row.select("td").isEmpty());
+                /*final Optional<Element> element = trs.parallelStream().filter(tr -> {
+                    final Elements tds = tr.select("td");
+                    if(!tds.isEmpty()) {
+                        final Element firstElement = tds.get(0);
+                        final String country = firstElement.select("a").get(0).text();
+                        return tag.equalsIgnoreCase(country);
+                    }
+                    return false;
+                }).findFirst();*/
+
+                final String prefix = "https://en.wikipedia.org";
+                final StringBuilder builder = new StringBuilder("{");
+                boolean isFirst = true;
+                for(int index = 0; index < trs.size(); index++) {
+                    final Element realElement = trs.get(index);
+                    final Elements tds = realElement.select("td");
+                    final Element firstElement = tds.get(0);
+                    final int rowspan = firstElement.hasAttr("rowspan") ? Integer.parseInt(firstElement.attr("rowspan")) : 0;
+                    final String country = firstElement.selectFirst("a").text();
+                    final StringBuilder animalBuilder = new StringBuilder("\"" + country + "\":[");
+
+                    final Element ahref = tds.get(3).selectFirst("a.image");
+                    final Element firstImage = ahref.selectFirst("img");
+                    final WikipediaPicture animal = getNationalAnimal(tds.get(1), firstImage, prefix + ahref.attr("href"));
+                    animalBuilder.append(animal.toString());
+
+                    if(rowspan != 0) {
+                        final int nationalAnimalIndex = nationalAnimalsElements.indexOf(realElement);
+                        for(int i = 1; i < rowspan; i++) {
+                            final Element targetElement = nationalAnimalsElements.get(nationalAnimalIndex+i);
+                            final Elements targetElementTDs = targetElement.select("td");
+                            final Element targetHref = targetElementTDs.get(2).selectFirst("a.image");
+                            final WikipediaPicture value = getNationalAnimal(targetElementTDs.get(0), targetHref.selectFirst("img"), prefix + targetHref.attr("href"));
+                            animalBuilder.append(",").append(value.toString());
+                        }
+                        index += rowspan-1;
+                    }
+                    animalBuilder.append("]");
+
+                    builder.append(isFirst ? "" : ",").append(animalBuilder.toString());
+                    isFirst = false;
+                }
+                builder.append("}");
+                handler.handle(builder.toString());
+            }
+
+            @Override
+            public void handleJSONObject(JSONObject object) {
+                final JSONArray array = object.has(tag) ? object.getJSONArray(tag) : null;
+                if(array != null) {
+                    animalHandler.handle(array.toString());
+                } else {
+                    WLLogger.log(Level.WARN, "Wikipedia - missing National Animals for country \"" + tag + "\"!");
+                    animalHandler.handle(null);
+                }
+            }
+        });
+    }
+    private WikipediaPicture getNationalAnimal(Element nameElement, Element thumbnailElement, String url) {
+        final String text = nameElement.text();
+        final boolean hasParenthesis = text.contains(" (");
+        final String name = hasParenthesis ? text.split(" \\(")[0] : text;
+        final String[] titleValues = hasParenthesis ? text.split("\\(")[1].split("\\)")[0].split(" ") : null;
+        String title = null;
+        if(hasParenthesis) {
+            title = "";
+            boolean isFirst = true;
+            for(String value : titleValues) {
+                if(!value.isEmpty()) {
+                    final String string = value.equalsIgnoreCase("of") ? value : value.substring(0, 1).toUpperCase() + value.substring(1).toLowerCase();
+                    title = title.concat(isFirst ? "" : " ").concat(string);
+                    isFirst = false;
+                }
+            }
+            if(title.isEmpty()) {
+                title = null;
+            }
+        }
+        final String href = "https:" + thumbnailElement.attr("src");
+        final String[] values = href.split("/");
+        final String suffix = "/" + values[values.length-1], imageURL = href.replace("thumb/", "").split(suffix)[0];
+        return new WikipediaPicture(name, title, imageURL, url);
     }
 }

@@ -11,6 +11,7 @@ public enum ProductionFoods implements CountryProductionService {
     CHERRY,
     COCONUT,
     CUCUMBER,
+    EGGPLANT,
     GARLIC,
     GRAPE,
     PAPAYA,
@@ -22,33 +23,30 @@ public enum ProductionFoods implements CountryProductionService {
     TOMATO,
     ;
 
-    private final CountryInfo info;
-    private final String url;
     private HashMap<String, String> countries;
 
-    ProductionFoods() {
-        final String name = name();
-        info = CountryInfo.valueOf("AGRICULTURE_FOOD_" + name + "_PRODUCTION");
-        url = "https://en.wikipedia.org/wiki/List_of_countries_by_" + name.toLowerCase() + "_production";
+    @Override
+    public CountryInfo getInfo() {
+        return CountryInfo.valueOf("AGRICULTURE_FOOD_" + name() + "_PRODUCTION");
     }
 
     @Override
     public String getURL() {
-        return url;
+        return "https://en.wikipedia.org/wiki/List_of_countries_by_" + name().toLowerCase() + "_production";
     }
 
     @Override
-    public void setCountries(HashMap<String, String> countries) {
-        this.countries = countries;
-    }
-
-    @Override
-    public CountryInfo getInfo() {
-        return info;
+    public String getSuffix() {
+        return " tonnes";
     }
 
     @Override
     public HashMap<String, String> getCountries() {
         return countries;
+    }
+
+    @Override
+    public void setCountries(HashMap<String, String> countries) {
+        this.countries = countries;
     }
 }

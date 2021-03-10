@@ -17,19 +17,20 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 public final class UpcomingEvents implements DataValues {
 
-    private static final List<EventController> CONTROLLERS = Arrays.asList(
-            Movies.INSTANCE,
-            //NASANeo.INSTANCE,
-            //NFL.INSTANCE, // problem
-            //MusicAlbums.INSTANCE,
-            RocketLaunches.INSTANCE,
-            //SpaceX.INSTANCE,
-            UFC.INSTANCE,
-            VideoGames.INSTANCE
-    );
+    private static final HashSet<EventController> CONTROLLERS = new HashSet<>() {{
+        addAll(Arrays.asList(
+                Movies.INSTANCE,
+                //NASANeo.INSTANCE,
+                //NFL.INSTANCE, // problem
+                //MusicAlbums.INSTANCE,
+                RocketLaunches.INSTANCE,
+                //SpaceX.INSTANCE,
+                UFC.INSTANCE,
+                VideoGames.INSTANCE
+        ));
+    }};
 
     private String eventsJSON, weeklyEvents;
-    private HashMap<String, String> countries;
     private HashMap<EventController, String> jsons;
     private HashMap<String, String> dates;
 
@@ -38,26 +39,22 @@ public final class UpcomingEvents implements DataValues {
     }
 
     UpcomingEvents() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     private void test() {
+        dates = new HashMap<>();
         final long started = System.currentTimeMillis();
-        final Month month = Month.FEBRUARY;
-        final int day = 2, year = 2021;
-        final EventDate targetDate = new EventDate(month, day, year);
-        RocketLaunches.INSTANCE.getEventsFromDate(targetDate, new CompletionHandler() {
+        loadUpcomingEvents(new CompletionHandler() {
             @Override
             public void handle(Object object) {
-                final String string = object.toString();
-                WLLogger.log(Level.INFO, "UpcomingEvents;test;" + string + ";(took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.log(Level.INFO, "UpcomingEvents;test;loadUpcomingEvents;took " + (System.currentTimeMillis()-started) + "ms");
             }
         });
     }
 
     private void load() {
-        countries = new HashMap<>();
         jsons = new HashMap<>();
         dates = new HashMap<>();
 
@@ -158,15 +155,15 @@ public final class UpcomingEvents implements DataValues {
         }
     }
 
-    private void getEvents(String country, CompletionHandler handler) {
+    /*private void getEvents(String country, CompletionHandler handler) {
         if(countries.containsKey(country)) {
             handler.handle(countries.get(country));
         } else {
-            final List<EventController> events = getEventsFromCountry(country);
-            final int max = events.size();
+            final List<EventController> controllers = getEventsFromCountry(country);
+            final int max = controllers.size();
             final AtomicInteger completed = new AtomicInteger(0);
             final StringBuilder builder = new StringBuilder("[");
-            events.parallelStream().forEach(controller -> {
+            controllers.parallelStream().forEach(controller -> {
                 controller.getUpcomingEvents(new CompletionHandler() {
                     @Override
                     public void handle(Object object) {
@@ -185,7 +182,7 @@ public final class UpcomingEvents implements DataValues {
                 });
             });
         }
-    }
+    }*/
     public void getEvents(EventController controller, CompletionHandler handler) {
         if(jsons.containsKey(controller)) {
             handler.handle(jsons.get(controller));
@@ -198,8 +195,13 @@ public final class UpcomingEvents implements DataValues {
         if(weeklyEvents != null) {
             handler.handle(weeklyEvents);
         } else {
+            loadUpcomingEvents(new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    refreshEventsFromThisWeek(handler);
+                }
+            });
             setupAutoUpdates();
-            refreshEventsFromThisWeek(handler);
         }
     }
     private void setupAutoUpdates() {
@@ -208,9 +210,32 @@ public final class UpcomingEvents implements DataValues {
             @Override
             public void run() {
                 dates.clear();
-                refreshEventsFromThisWeek(null);
+                loadUpcomingEvents(new CompletionHandler() {
+                    @Override
+                    public void handle(Object object) {
+                        refreshEventsFromThisWeek(null);
+                    }
+                });
             }
         }, threeHours, threeHours);
+    }
+    private void loadUpcomingEvents(CompletionHandler handler) { // TODO: fix this dog shit wonky java braindead dog water computational headache
+        final HashSet<EventController> CONTROLLERS = new HashSet<>();
+        CONTROLLERS.add(UFC.INSTANCE);
+        CONTROLLERS.add(VideoGames.INSTANCE);
+        final int max = CONTROLLERS.size();
+        final AtomicInteger completed = new AtomicInteger(0);
+        CONTROLLERS.parallelStream().forEach(controller -> {
+            controller.getUpcomingEvents(new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    final int value = completed.addAndGet(1);
+                    if(value == max) {
+                        handler.handle(null);
+                    }
+                }
+            });
+        });
     }
     private void refreshEventsFromThisWeek(CompletionHandler handler) {
         final LocalDate now = LocalDate.now();
@@ -272,12 +297,12 @@ public final class UpcomingEvents implements DataValues {
     private void getEventsFromDate(EventDate date, CompletionHandler handler) {
         final int max = CONTROLLERS.size();
         final List<String> values = new ArrayList<>();
-        final AtomicInteger completed = new AtomicInteger(0);
-        CONTROLLERS.parallelStream().forEach(controller -> {
+        int completed = 0;
+        for(EventController controller : CONTROLLERS) {
             controller.getEventsFromDate(date, new CompletionHandler() {
                 @Override
                 public void handle(Object object) {
-                    final int completedValue = completed.addAndGet(1);
+                    final int completedValue = completed + 1;
                     final String objectString = object.toString();
                     final boolean isEmpty = objectString.equals("[]");
                     if(!isEmpty) {
@@ -296,7 +321,7 @@ public final class UpcomingEvents implements DataValues {
                     }
                 }
             });
-        });
+        };
     }
 
     private void refreshEvents(EventController controller, CompletionHandler handler) {

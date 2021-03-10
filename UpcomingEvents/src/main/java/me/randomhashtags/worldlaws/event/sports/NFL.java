@@ -21,25 +21,7 @@ public enum NFL implements USAEventController {
     }
 
     @Override
-    public void getUpcomingEvents(CompletionHandler handler) {
-        if(json != null) {
-            handler.handle(json);
-        } else {
-            refreshSchedule(handler);
-        }
-    }
-
-    @Override
-    public HashMap<String, String> getPreEvents() {
-        return null;
-    }
-
-    @Override
-    public HashMap<String, String> getEvents() {
-        return null;
-    }
-
-    private void refreshSchedule(CompletionHandler handler) {
+    public void refresh(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final String url = "https://www.nfl.com/schedules/";
         final Document doc = getDocument(url);
@@ -50,5 +32,20 @@ public enum NFL implements USAEventController {
             WLLogger.log(Level.INFO, "NFL - refreshed schedule (took " + (System.currentTimeMillis()-started) + "ms)");
             handler.handle(json);
         }
+    }
+
+    @Override
+    public String getCache() {
+        return json;
+    }
+
+    @Override
+    public HashMap<String, String> getPreEvents() {
+        return null;
+    }
+
+    @Override
+    public HashMap<String, String> getEvents() {
+        return null;
     }
 }

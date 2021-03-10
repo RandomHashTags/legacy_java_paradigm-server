@@ -16,6 +16,7 @@ import java.util.TimerTask;
 public enum SpaceX implements USAEventController {
     INSTANCE;
 
+    private Timer autoUpdateTimer;
     private String json;
     private boolean isFirst;
     private HashMap<String, String> launchpads, preEvents, events;
@@ -26,19 +27,23 @@ public enum SpaceX implements USAEventController {
     }
 
     @Override
-    public void getUpcomingEvents(CompletionHandler handler) {
-        if(json != null) {
-            handler.handle(json);
-        } else {
+    public void refresh(CompletionHandler handler) {
+        if(autoUpdateTimer == null) {
             final long EVERY_HOUR = 1000*60*60;
-            new Timer().scheduleAtFixedRate(new TimerTask() {
+            autoUpdateTimer = new Timer();
+            autoUpdateTimer.scheduleAtFixedRate(new TimerTask() {
                 @Override
                 public void run() {
                     refreshUpcomingLaunches(null);
                 }
             }, EVERY_HOUR, EVERY_HOUR);
-            refreshUpcomingLaunches(handler);
         }
+        refreshUpcomingLaunches(handler);
+    }
+
+    @Override
+    public String getCache() {
+        return json;
     }
 
     @Override
@@ -59,7 +64,6 @@ public enum SpaceX implements USAEventController {
         requestJSONArray(url, RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONArray(JSONArray array) {
-                final UpcomingEventType type = getType();
                 final StringBuilder builder = new StringBuilder("[");
                 final EventSource source = new EventSource("SpaceX GitHub", "https://github.com/r-spacex/SpaceX-API");
                 final EventSources sources = new EventSources(source);
@@ -81,7 +85,7 @@ public enum SpaceX implements USAEventController {
                             final String identifier = getEventIdentifier(date, title);
                             events.put(identifier, event.toJSON());
 
-                            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(type, date, title, location, event.getImageURL());
+                            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(title, location, event.getImageURL());
                             final String string = preUpcomingEvent.toString();
                             preEvents.put(identifier, string);
                             builder.append(isFirst ? "" : ",").append(preUpcomingEvent.toString());

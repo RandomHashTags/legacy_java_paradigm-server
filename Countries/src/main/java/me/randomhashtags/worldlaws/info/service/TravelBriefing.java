@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.info.service;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.location.CountryInfo;
@@ -46,7 +47,18 @@ public enum TravelBriefing implements CountryService {
         final long started = System.currentTimeMillis();
         urls = new HashMap<>();
         countries = new HashMap<>();
-        requestJSONArray("https://travelbriefing.org/countries.json", RequestMethod.GET, new CompletionHandler() {
+
+        getJSONArray(FileType.COUNTRIES_SERVICES_TRAVEL_BRIEFING, "Countries", new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+                requestJSONArray("https://travelbriefing.org/countries.json", RequestMethod.GET, new CompletionHandler() {
+                    @Override
+                    public void handleJSONArray(JSONArray array) {
+                        handler.handle(array.toString());
+                    }
+                });
+            }
+
             @Override
             public void handleJSONArray(JSONArray array) {
                 for(Object obj : array) {
@@ -73,22 +85,32 @@ public enum TravelBriefing implements CountryService {
 
     private void loadCountry(String country, String url, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
-        requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
+
+        getJSONObject(FileType.COUNTRIES_SERVICES_TRAVEL_BRIEFING, country, new CompletionHandler() {
             @Override
-            public void handleJSONObject(JSONObject json) {
-                final String iso2 = json.getJSONObject("names").getString("iso2").toLowerCase();
-                json.remove("names");
-                json.remove("timezone");
-                json.remove("electricity");
-                json.remove("water");
-                if(json.getJSONArray("vaccinations").isEmpty()) {
-                    json.remove("vaccinations");
-                }
-                json.getJSONObject("currency").remove("compare");
-                final List<String> neighbors = getNeighbors(json.getJSONArray("neighbors"));
-                json.put("neighbors", neighbors);
-                final String string = json.toString();
-                countries.put(country, string);
+            public void load(CompletionHandler handler) {
+                requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
+                    @Override
+                    public void handleJSONObject(JSONObject json) {
+                        json.remove("names");
+                        json.remove("timezone");
+                        json.remove("electricity");
+                        json.remove("water");
+                        if(json.getJSONArray("vaccinations").isEmpty()) {
+                            json.remove("vaccinations");
+                        }
+                        json.getJSONObject("currency").remove("compare");
+                        final List<String> neighbors = getNeighbors(json.getJSONArray("neighbors"));
+                        json.put("neighbors", neighbors);
+                        final String string = json.toString();
+                        handler.handle(string);
+                    }
+                });
+            }
+
+            @Override
+            public void handleJSONObject(JSONObject object) {
+                final String string = object.toString();
                 WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + country + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                 handler.handle(string);
             }

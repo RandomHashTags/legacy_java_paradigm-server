@@ -241,6 +241,18 @@ public enum WLCountry {
     public String getBackendID() {
         return name().toLowerCase().replace("_", "").replace("'", "");
     }
+    public String getShortName() {
+        final String name = name().toLowerCase();
+        final StringBuilder shortName = new StringBuilder();
+        boolean isFirst = true;
+        for(String value : name.split("_")) {
+            final boolean shouldBeLowercase = value.equals("and") || value.equals("of") || value.equals("the");
+            final String string = shouldBeLowercase ? value : value.substring(0, 1).toUpperCase() + value.substring(1);
+            shortName.append(isFirst ? "" : " ").append(string);
+            isFirst = false;
+        }
+        return shortName.toString();
+    }
     public String[] getAliases() {
         return aliases;
     }

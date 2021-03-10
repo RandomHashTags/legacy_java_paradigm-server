@@ -90,7 +90,7 @@ public enum NewUFC implements NewUSAEventController {
                 final EventSource source = new EventSource("Wikipedia: ???", url);
                 final EventSources sources = new EventSources(source, getSource());
 
-                final EventDate date = preUpcomingEvent.getDate();
+                final EventDate date = new EventDate(null, -1, -1);// preUpcomingEvent.getDate();
                 final String description = wikidoc.select("div.mw-parser-output p").get(0).text();
                 final Elements infobox = wikidoc.select("table.infobox tbody tr");
                 final String title = preUpcomingEvent.getTitle();

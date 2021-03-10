@@ -31,7 +31,7 @@ public enum ESPNPlus implements CountryAvailabilityService {
     public void refresh(CompletionHandler handler) {
         // https://en.wikipedia.org/wiki/ESPN%2B
         countries = new HashMap<>();
-        final String value = getAvailability(true);
+        final String value = getAvailability(true).toString();
         final String[] array = {
                 "unitedstates",
         };

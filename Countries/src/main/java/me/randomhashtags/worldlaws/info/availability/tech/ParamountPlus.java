@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.info.availability.tech;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.info.availability.CountryAvailability;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilityCategory;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilityService;
 import me.randomhashtags.worldlaws.location.CountryInfo;
@@ -29,10 +30,10 @@ public enum ParamountPlus implements CountryAvailabilityService {
 
     @Override
     public void refresh(CompletionHandler handler) {
-        // https://en.wikipedia.org/wiki/CBS_All_Access
+        // https://en.wikipedia.org/wiki/Paramount%2B
         // https://help.cbs.com/s/article/I-m-traveling-out-of-the-country-Can-I-watch-CBSN
         countries = new HashMap<>();
-        final String value = getAvailability(true);
+        final String value = getAvailability(true).toString();
         final String[] array = {
                 "australia",
                 "canada",

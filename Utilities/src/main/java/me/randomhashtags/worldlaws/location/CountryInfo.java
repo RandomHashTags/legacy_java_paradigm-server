@@ -11,6 +11,7 @@ public enum CountryInfo {
     AGRICULTURE_FOOD_COCONUT_PRODUCTION("Coconut Production"),
     AGRICULTURE_FOOD_COFFEE_PRODUCTION("Coffee Production"),
     AGRICULTURE_FOOD_CUCUMBER_PRODUCTION("Cucumber Production"),
+    AGRICULTURE_FOOD_EGGPLANT_PRODUCTION("Eggplant Production"),
     AGRICULTURE_FOOD_GARLIC_PRODUCTION("Garlic Production"),
     AGRICULTURE_FOOD_GRAPE_PRODUCTION("Grape Production"),
     AGRICULTURE_FOOD_PAPAYA_PRODUCTION("Papaya Production"),
@@ -69,7 +70,9 @@ public enum CountryInfo {
 
     INFO_AGE_STRUCTURE("Age Structure"),
     INFO_BLOOD_TYPE_DISTRIBUTION("Blood Type Distribution"),
+    INFO_MEDIAN_AGE("Estimated Median Age"),
     INFO_MINIMUM_ANNUAL_LEAVE("Minimum Annual Leave"),
+    INFO_MINIMUM_WAGE("Minimum Wage"),
 
     LEGALITY_ABORTION("Abortion"),
     LEGALITY_BITCOIN("Bitcoin"),
@@ -117,7 +120,6 @@ public enum CountryInfo {
     RANKING_LEGATUM_PROSPERITY_INDEX("Legatum Prosperity Index"),
     RANKING_LIFE_EXPECTANCY("Life Expectancy"),
     RANKING_MATERNAL_MORTALITY_RATE("Maternal Mortality Rate"),
-    RANKING_MINIMUM_WAGE("Minimum Wage"),
     RANKING_NATURAL_DISASTER_RISK("Natural Disaster Risk"),
     RANKING_OBESITY_RATE("Obesity Rate"),
     RANKING_POPULATION("Population"),

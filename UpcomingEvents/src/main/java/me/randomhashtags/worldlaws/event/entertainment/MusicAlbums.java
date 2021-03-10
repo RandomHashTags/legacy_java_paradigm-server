@@ -38,13 +38,15 @@ public enum MusicAlbums implements EventController {
     }
 
     @Override
-    public void getUpcomingEvents(CompletionHandler handler) {
+    public void refresh(CompletionHandler handler) {
         final int year = WLUtilities.getTodayYear();
-        if(years.containsKey(year)) {
-            handler.handle(years.get(year));
-        } else {
-            refresh(year, handler);
-        }
+        refresh(year, handler);
+    }
+
+    @Override
+    public String getCache() {
+        final int year = WLUtilities.getTodayYear();
+        return years.getOrDefault(year, null);
     }
 
     @Override
@@ -63,7 +65,6 @@ public enum MusicAlbums implements EventController {
         final String url = "https://en.wikipedia.org/wiki/List_of_" + year + "_albums";
         final Document doc = getDocument(url);
         if(doc != null) {
-            final UpcomingEventType type = getType();
             final StringBuilder builder = new StringBuilder("[");
             final Elements headers = doc.select("h3");
             final Elements tables = doc.select("h3 + table.wikitable");
@@ -119,7 +120,7 @@ public enum MusicAlbums implements EventController {
                         final MusicAlbumEvent event = new MusicAlbumEvent(releaseDate, artist, album, albumImageURL, description, sources);
                         final String identifier = getEventIdentifier(releaseDate, album);
                         events.put(identifier, event.toJSON());
-                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(type, releaseDate, album, artist, albumImageURL);
+                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(album, artist, albumImageURL);
                         final String string = preUpcomingEvent.toString();
                         preEvents.put(identifier, string);
                         builder.append(isFirst.get() ? "" : ",").append(string);

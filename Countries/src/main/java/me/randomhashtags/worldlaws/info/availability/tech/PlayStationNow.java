@@ -32,7 +32,7 @@ public enum PlayStationNow implements CountryAvailabilityService {
         // https://en.wikipedia.org/wiki/PlayStation_Now
         // https://www.playstation.com/en-us/support/subscriptions/playstation-now-support/
         countries = new HashMap<>();
-        final String value = getAvailability(true);
+        final String value = getAvailability(true).toString();
         final String[] array = {
                 "austria",
                 "belgium",

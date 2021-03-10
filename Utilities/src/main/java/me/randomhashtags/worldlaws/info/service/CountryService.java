@@ -1,9 +1,6 @@
 package me.randomhashtags.worldlaws.info.service;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.Jsoupable;
-import me.randomhashtags.worldlaws.RestAPI;
-import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.location.CountryInfo;
 import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Element;
@@ -13,7 +10,10 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 
-public interface CountryService extends RestAPI, Jsoupable {
+public interface CountryService extends RestAPI, Jsoupable, Jsonable {
+    default FileType getFileType() {
+        return FileType.COUNTRIES_SERVICES;
+    }
     CountryInfo getInfo();
     HashMap<String, String> getCountries();
 

@@ -8,29 +8,25 @@ import org.apache.logging.log4j.Level;
 
 import java.util.HashMap;
 
-public enum DebtCurrent implements CountryRankingService {
+public enum DebtCurrent {
     INSTANCE;
 
     private final ICountryDebt[] COUNTRIES = new ICountryDebt[] {
             DebtUS.INSTANCE
     };
 
-    @Override
     public CountryInfo getInfo() {
         return CountryInfo.RANKING_DEBT_CURRENT;
     }
 
-    @Override
     public HashMap<String, String> getCountries() {
         return null;
     }
 
-    @Override
     public String getRankedJSON() {
         return null;
     }
 
-    @Override
     public void getValue(String country, CompletionHandler handler) {
         final ICountryDebt debt = valueOfCountryBackendID(country);
         if(debt != null) {
@@ -41,7 +37,6 @@ public enum DebtCurrent implements CountryRankingService {
         }
     }
 
-    @Override
     public void refresh(CompletionHandler handler) {
 
     }

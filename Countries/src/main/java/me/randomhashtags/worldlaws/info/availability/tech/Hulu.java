@@ -31,8 +31,13 @@ public enum Hulu implements CountryAvailabilityService {
     public void refresh(CompletionHandler handler) {
         // https://en.wikipedia.org/wiki/Hulu#International_availability
         countries = new HashMap<>();
-        final String value = getAvailability(true);
-        countries.put("unitedstates", value);
+        final String value = getAvailability(true).toString();
+        final String[] values = {
+                "unitedstates"
+        };
+        for(String country : values) {
+            countries.put(country, value);
+        }
         handler.handle(null);
     }
 }

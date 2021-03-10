@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.info.availability.tech;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.info.availability.CountryAvailability;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilityCategory;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilityService;
 import me.randomhashtags.worldlaws.location.CountryInfo;
@@ -31,7 +32,7 @@ public enum NvidiaGeforceNOW implements CountryAvailabilityService {
     public void refresh(CompletionHandler handler) {
         // https://nvidia.custhelp.com/app/answers/detail/a_id/5023
         countries = new HashMap<>();
-        final String value = getAvailability(true);
+        final String value = getAvailability(true).toString();
         final String[] array = {
                 "albania",
                 "andorra",

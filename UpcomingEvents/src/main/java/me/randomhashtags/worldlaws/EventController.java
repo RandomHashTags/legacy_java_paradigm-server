@@ -64,7 +64,21 @@ public interface EventController extends RestAPI, Jsoupable {
     }
 
     UpcomingEventType getType();
-    void getUpcomingEvents(@NotNull CompletionHandler handler);
+    default void getUpcomingEvents(@NotNull CompletionHandler handler) {
+        final String cache = getCache();
+        if(cache != null) {
+            handler.handle(cache);
+        } else {
+            refresh(new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    handler.handle(getCache());
+                }
+            });
+        }
+    }
+    void refresh(CompletionHandler handler);
+    String getCache();
     HashMap<String, String> getPreEvents();
     HashMap<String, String> getEvents();
     default String getUpcomingEvent(String identifier) {

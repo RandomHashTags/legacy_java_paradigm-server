@@ -41,19 +41,20 @@ public enum Movies implements EventController {
     }
 
     @Override
-    public void getUpcomingEvents(CompletionHandler handler) {
-        if(json != null) {
-            handler.handle(json);
-        } else {
-            final int year = WLUtilities.getTodayYear();
-            final WLCountry usa = WLCountry.UNITED_STATES;
-            refreshReleasedFilms(usa, year, new CompletionHandler() {
-                @Override
-                public void handle(Object object) {
-                    handler.handle(countriesJSON.get(usa));
-                }
-            });
-        }
+    public void refresh(CompletionHandler handler) {
+        final int year = WLUtilities.getTodayYear();
+        final WLCountry usa = WLCountry.UNITED_STATES;
+        refreshReleasedFilms(usa, year, new CompletionHandler() {
+            @Override
+            public void handle(Object object) {
+                handler.handle(countriesJSON.get(usa));
+            }
+        });
+    }
+
+    @Override
+    public String getCache() {
+        return json;
     }
 
     @Override
@@ -81,7 +82,6 @@ public enum Movies implements EventController {
         json = builder.toString();
     }
     private void addMoviesJSON(WLCountry country, HashSet<MovieEvent> movies) {
-        final UpcomingEventType type = getType();
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         for(MovieEvent event : movies) {
@@ -90,7 +90,7 @@ public enum Movies implements EventController {
             final String identifier = getEventIdentifier(date, title);
             events.put(identifier, event.toJSON());
 
-            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(type, date, title, event.getProductionCompany(), event.getImageURL());
+            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(title, event.getProductionCompany(), event.getImageURL());
             final String string = preUpcomingEvent.toString();
             preEvents.put(identifier, string);
             builder.append(isFirst ? "" : ",").append(string);

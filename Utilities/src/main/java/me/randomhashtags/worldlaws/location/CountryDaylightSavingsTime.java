@@ -12,6 +12,12 @@ public final class CountryDaylightSavingsTime {
         this.endMonth = hasDate ? endDate.getMonthValue() : -1;
         this.endDay = hasDate ? endDate.getDayOfMonth() : -1;
     }
+    public CountryDaylightSavingsTime(int startMonth, int startDay, int endMonth, int endDay) {
+        this.startMonth = startMonth;
+        this.startDay = startDay;
+        this.endMonth = endMonth;
+        this.endDay = endDay;
+    }
 
     @Override
     public String toString() {

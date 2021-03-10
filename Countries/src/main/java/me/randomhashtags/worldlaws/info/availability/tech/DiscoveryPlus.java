@@ -31,7 +31,7 @@ public enum DiscoveryPlus implements CountryAvailabilityService {
     public void refresh(CompletionHandler handler) {
         // https://www.discoveryplus.com
         countries = new HashMap<>();
-        final String value = getAvailability(true);
+        final String value = getAvailability(true).toString();
         final String[] array = {
                 "denmark",
                 "finland",

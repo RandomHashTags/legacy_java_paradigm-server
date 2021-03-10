@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.info;
 
 import me.randomhashtags.worldlaws.LocalServer;
+import org.json.JSONObject;
 
 public class CountryInfoValue {
     private final String title, value, description;
@@ -9,6 +10,11 @@ public class CountryInfoValue {
         this.title = LocalServer.fixEscapeValues(title);
         this.value = LocalServer.fixEscapeValues(value);
         this.description = LocalServer.fixEscapeValues(description);
+    }
+    public CountryInfoValue(JSONObject json) {
+        title = LocalServer.fixEscapeValues(json.getString("title"));
+        value = LocalServer.fixEscapeValues(json.getString("value"));
+        description = LocalServer.fixEscapeValues(json.has("description") ? json.getString("description") : null);
     }
 
     @Override

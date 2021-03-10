@@ -21,7 +21,7 @@ public enum DaylightSavingsTime {
     private LocalDateTime startDate, endDate;
 
     DaylightSavingsTime() {
-        ELEMENTS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/Daylight_saving_time_by_country", "table.wikitable tbody tr");
+        ELEMENTS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/Daylight_saving_time_by_country", true, "table.wikitable tbody tr");
         ELEMENTS.remove(0);
         ELEMENTS.removeIf(row -> row.select("td").get(3).text().equals("–"));
         observations = new HashMap<>();
@@ -36,7 +36,13 @@ public enum DaylightSavingsTime {
         country = country.toLowerCase();
         final boolean observed = isObserved(country);
         if(observed) {
-            isDaylightSavingsTime(country, offset);
+            try {
+                isDaylightSavingsTime(country, offset);
+            } catch (Exception e) {
+                e.printStackTrace();
+                resetVariables();
+                return null;
+            }
             final CountryDaylightSavingsTime dst = new CountryDaylightSavingsTime(startDate, endDate);
             resetVariables();
             return dst;

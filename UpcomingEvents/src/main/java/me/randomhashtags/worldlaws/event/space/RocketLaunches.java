@@ -23,35 +23,7 @@ public enum RocketLaunches implements EventController {
     }
 
     @Override
-    public void getUpcomingEvents(CompletionHandler handler) {
-        if(jsonPreUpcomingEvents != null) {
-            handler.handle(jsonPreUpcomingEvents);
-        } else {
-            refresh(new CompletionHandler() {
-                @Override
-                public void handle(Object object) {
-                    handler.handle(jsonPreUpcomingEvents);
-                }
-            });
-        }
-    }
-
-    @Override
-    public HashMap<String, String> getPreEvents() {
-        return preEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getEvents() {
-        return events;
-    }
-
-    @Override
-    public WLCountry getCountry() {
-        return null;
-    }
-
-    private void refresh(CompletionHandler handler) {
+    public void refresh(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         preEvents = new HashMap<>();
         events = new HashMap<>();
@@ -59,7 +31,6 @@ public enum RocketLaunches implements EventController {
             @Override
             public void handleJSONObject(JSONObject json) {
                 if(json != null) {
-                    final UpcomingEventType type = getType();
                     final StringBuilder builder = new StringBuilder("[");
                     boolean isFirst = true;
 
@@ -89,7 +60,7 @@ public enum RocketLaunches implements EventController {
                         final String identifier = getEventIdentifier(date, name);
                         events.put(identifier, launch.toJSON());
 
-                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(type, date, name, location, rocketImageURL);
+                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(name, location, rocketImageURL);
                         final String string = preUpcomingEvent.toString();
                         preEvents.put(identifier, string);
                         builder.append(isFirst ? "" : ",").append(string);
@@ -103,5 +74,25 @@ public enum RocketLaunches implements EventController {
                 }
             }
         });
+    }
+
+    @Override
+    public String getCache() {
+        return jsonPreUpcomingEvents;
+    }
+
+    @Override
+    public HashMap<String, String> getPreEvents() {
+        return preEvents;
+    }
+
+    @Override
+    public HashMap<String, String> getEvents() {
+        return events;
+    }
+
+    @Override
+    public WLCountry getCountry() {
+        return null;
     }
 }

@@ -21,6 +21,11 @@ public enum ProductionFoodArtichoke implements CountryProductionService {
     }
 
     @Override
+    public String getSuffix() {
+        return " tonnes";
+    }
+
+    @Override
     public HashMap<String, String> getCountries() {
         return countries;
     }

@@ -27,14 +27,20 @@ public enum NASANeo implements USAEventController {
     }
 
     @Override
-    public void getUpcomingEvents(CompletionHandler handler) {
+    public void refresh(CompletionHandler handler) {
+        final LocalDate today = LocalDate.now();
+        final int year = today.getYear(), month = today.getMonthValue(), day = today.getDayOfMonth();
+        refreshNeo(year, month, day, handler);
+    }
+
+    @Override
+    public String getCache() {
         final LocalDate today = LocalDate.now();
         final int year = today.getYear(), month = today.getMonthValue(), day = today.getDayOfMonth();
         if(years.containsKey(year) && years.get(year).containsKey(month) && years.get(year).get(month).containsKey(day)) {
-            handler.handle(years.get(year).get(month).get(day));
-        } else {
-            refreshNeo(year, month, day, handler);
+            return years.get(year).get(month).get(day);
         }
+        return null;
     }
 
     @Override
@@ -55,7 +61,6 @@ public enum NASANeo implements USAEventController {
         requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject jsonobject) {
-                final UpcomingEventType type = getType();
                 final String dateString = year + "-" + month + "-" + (day < 10 ? "0" + day : "" + day);
                 final JSONArray nearEarthObjects = jsonobject.getJSONObject("near_earth_objects").getJSONArray(dateString);
                 final StringBuilder builder = new StringBuilder("[");
@@ -78,7 +83,7 @@ public enum NASANeo implements USAEventController {
                     final String identifier = getEventIdentifier(neoDate, neoTitle);
                     events.put(identifier, neo.toJSON());
 
-                    final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(type, neoDate, neoTitle, "Near Earth Object description???", null);
+                    final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(neoTitle, "Near Earth Object description???", null);
                     final String string = preUpcomingEvent.toString();
                     preEvents.put(identifier, string);
                     builder.append(isFirst ? "" : ",").append(string);

@@ -33,29 +33,30 @@ public enum VideoGames implements EventController {
     }
 
     @Override
-    public void getUpcomingEvents(CompletionHandler handler) {
-        if(json != null) {
-            handler.handle(json);
-        } else {
-            final int thisYear = WLUtilities.getTodayYear();
-            final long time = System.currentTimeMillis();
-            MAX_COMPLETED_HANDLERS = 0;
-            preEvents = new HashMap<>();
-            events = new HashMap<>();
-            refreshUpcomingVideoGames(thisYear, new CompletionHandler() {
-                @Override
-                public void handle(Object object) {
-                    refreshUpcomingVideoGames(thisYear+1, new CompletionHandler() {
-                        @Override
-                        public void handle(Object object) {
-                            updateJSON();
-                            WLLogger.log(Level.INFO, "Video Games - refreshed year " + thisYear + "-" + (thisYear+1) + " releases (took " + (System.currentTimeMillis()-time) + "ms)");
-                            handler.handle(json);
-                        }
-                    });
-                }
-            });
-        }
+    public void refresh(CompletionHandler handler) {
+        final int thisYear = WLUtilities.getTodayYear();
+        final long time = System.currentTimeMillis();
+        MAX_COMPLETED_HANDLERS = 0;
+        preEvents = new HashMap<>();
+        events = new HashMap<>();
+        refreshUpcomingVideoGames(thisYear, new CompletionHandler() {
+            @Override
+            public void handle(Object object) {
+                refreshUpcomingVideoGames(thisYear+1, new CompletionHandler() {
+                    @Override
+                    public void handle(Object object) {
+                        updateJSON();
+                        WLLogger.log(Level.INFO, "Video Games - refreshed year " + thisYear + "-" + (thisYear+1) + " releases (took " + (System.currentTimeMillis()-time) + "ms)");
+                        handler.handle(json);
+                    }
+                });
+            }
+        });
+    }
+
+    @Override
+    public String getCache() {
+        return json;
     }
 
     @Override
@@ -230,10 +231,9 @@ public enum VideoGames implements EventController {
         return MAX_COMPLETED_HANDLERS;
     }
     private synchronized void addVideoGame(VideoGameEvent event) {
-        final UpcomingEventType type = getType();
         final EventDate date = event.getDate();
         final String title = event.getTitle();
-        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(type, date, title, event.getPlatforms(), event.getImageURL());
+        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(title, event.getPlatforms(), event.getImageURL());
         final String identifier = getEventIdentifier(date, title), string = preUpcomingEvent.toString();
         preEvents.put(identifier, string);
         VIDEO_GAMES.add(preUpcomingEvent);

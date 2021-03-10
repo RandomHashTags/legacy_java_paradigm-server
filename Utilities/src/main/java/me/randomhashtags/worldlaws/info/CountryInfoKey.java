@@ -2,23 +2,45 @@ package me.randomhashtags.worldlaws.info;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.ServerObject;
+import org.json.JSONObject;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public final class CountryInfoKey {
-    private final String title, notes;
-    private final int yearOfData;
-    private final EventSources sources;
+public final class CountryInfoKey implements ServerObject {
+    public String country;
+    private String title;
+    private final String notes;
+    private int yearOfData;
+    private EventSources sources;
     private final List<CountryInfoValue> values;
 
-    public CountryInfoKey(String title, String notes, int yearOfData, EventSources sources, CountryInfoValue...values) {
-        this.title = LocalServer.fixEscapeValues(title);
+    public CountryInfoKey(String notes, int yearOfData, CountryInfoValue...values) {
         this.notes = LocalServer.fixEscapeValues(notes);
         this.yearOfData = yearOfData;
-        this.sources = sources;
         this.values = new ArrayList<>(Arrays.asList(values));
+    }
+    public CountryInfoKey(JSONObject json) {
+        notes = LocalServer.fixEscapeValues(json.has("notes") ? json.getString("notes") : null);
+        yearOfData = json.has("yearOfData") ? json.getInt("yearOfData") : -1;
+        values = new ArrayList<>();
+        for(Object obj : json.getJSONArray("values")) {
+            final JSONObject valueJSON = (JSONObject) obj;
+            final CountryInfoValue value = new CountryInfoValue(valueJSON);
+            values.add(value);
+        }
+    }
+
+    public void setTitle(String title) {
+        this.title = LocalServer.fixEscapeValues(title);
+    }
+    public void setYearOfData(int yearOfData) {
+        this.yearOfData = yearOfData;
+    }
+    public void setSources(EventSources sources) {
+        this.sources = sources;
     }
 
     public void addValue(CountryInfoValue value) {
@@ -44,6 +66,16 @@ public final class CountryInfoKey {
                 (notes != null && !notes.isEmpty() ? "\"notes\":\"" + notes + "\"," : "") +
                 (yearOfData != -1 ? "\"yearOfData\":" + yearOfData + "," : "") +
                 "\"sources\":" + sources.toString() + "," +
+                "\"values\":" + getValuesJSON() +
+                "}";
+    }
+
+    @Override
+    public String toServerJSON() {
+        return "{" +
+                "\"country\":\"" + country + "\"," +
+                (notes != null && !notes.isEmpty() ? "\"notes\":\"" + notes + "\"," : "") +
+                (yearOfData != -1 ? "\"yearOfData\":" + yearOfData + "," : "") +
                 "\"values\":" + getValuesJSON() +
                 "}";
     }

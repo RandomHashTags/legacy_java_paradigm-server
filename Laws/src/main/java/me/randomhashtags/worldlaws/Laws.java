@@ -10,6 +10,11 @@ public final class Laws implements DataValues {
 
     private HashMap<String, LawController> countries;
 
+    private final LawController[] CONTROLLERS = new LawController[] {
+            CanadaLaws.INSTANCE,
+            USLaws.INSTANCE
+    };
+
     public static void main(String[] args) {
         new Laws();
     }
@@ -23,7 +28,7 @@ public final class Laws implements DataValues {
     }
     private void load() {
         countries = new HashMap<>();
-        for(LawController country : getCountries()) {
+        for(LawController country : CONTROLLERS) {
             countries.put(country.getCountry().getBackendID(), country);
         }
         LocalServer.start("Laws", WL_LAWS_PORT, new CompletionHandler() {
@@ -39,13 +44,6 @@ public final class Laws implements DataValues {
                 });
             }
         });
-    }
-
-    private LawController[] getCountries() {
-        return new LawController[] {
-                CanadaLaws.INSTANCE,
-                USLaws.INSTANCE
-        };
     }
 
     private void getResponse(String target, CompletionHandler handler) {

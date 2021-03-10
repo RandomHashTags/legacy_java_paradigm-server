@@ -21,7 +21,8 @@ public final class StateChapter implements StateLegal {
 
     @Override
     public String toString() {
-        return "{\"chapter\":\"" + chapter + "\"," +
+        return "{" +
+                "\"chapter\":\"" + chapter + "\"," +
                 "\"title\":\"" + title + "\"" +
                 "}";
     }
