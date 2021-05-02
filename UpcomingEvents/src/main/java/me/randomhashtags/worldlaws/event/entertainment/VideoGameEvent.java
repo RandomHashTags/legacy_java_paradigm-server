@@ -1,20 +1,16 @@
 package me.randomhashtags.worldlaws.event.entertainment;
 
-import me.randomhashtags.worldlaws.UpcomingEventType;
-import me.randomhashtags.worldlaws.event.EventDate;
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.event.UpcomingEvent;
 
-import java.util.List;
-
 public final class VideoGameEvent implements UpcomingEvent {
     private final EventDate releaseDate;
-    private final String title, description, coverArtURL;
-    private final List<String> platforms;
+    private final String title, description, coverArtURL, platforms;
     private final EventSources sources;
 
-    public VideoGameEvent(EventDate releaseDate, String title, String description, String coverArtURL, List<String> platforms, EventSources sources) {
-        this.releaseDate = releaseDate;
+    public VideoGameEvent(String title, String description, String coverArtURL, String platforms, EventSources sources) {
+        this.releaseDate = null;
         this.title = title;
         this.description = description;
         this.coverArtURL = coverArtURL;
@@ -22,10 +18,6 @@ public final class VideoGameEvent implements UpcomingEvent {
         this.sources = sources;
     }
 
-    @Override
-    public UpcomingEventType getType() {
-        return UpcomingEventType.VIDEO_GAME;
-    }
     @Override
     public EventDate getDate() {
         return releaseDate;
@@ -51,25 +43,10 @@ public final class VideoGameEvent implements UpcomingEvent {
         return sources;
     }
 
-    private String getPlatformsJSON(boolean quotationMarks) {
-        final StringBuilder builder = new StringBuilder(quotationMarks ? "[" : "");
-        boolean isFirst = true;
-        for(String platform : platforms) {
-            builder.append(isFirst ? "" : ",").append(quotationMarks ? "\"" : " ").append(platform).append(quotationMarks ? "\"" : "");
-            isFirst = false;
-        }
-        builder.append(quotationMarks ? "]" : "");
-        return builder.toString();
-    }
-
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
-                "\"platforms\":" + getPlatformsJSON(true) +
+                "\"platforms\":" + platforms +
                 "}";
-    }
-
-    public String getPlatforms() {
-        return getPlatformsJSON(false);
     }
 }

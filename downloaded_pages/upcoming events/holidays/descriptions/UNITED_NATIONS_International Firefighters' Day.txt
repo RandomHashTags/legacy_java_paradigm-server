@@ -1,0 +1,591 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>International Firefighters' Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"f2b80afb-e9d5-48d2-9cac-ca60bed4abef","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"International_Firefighters'_Day","wgTitle":"International Firefighters' Day","wgCurRevisionId":979326513,"wgRevisionId":979326513,"wgArticleId":4563184,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with style issues from August 2009","All articles with style issues","Fire service awards and honors","Firefighting","International observances","May observances"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"International_Firefighters'_Day","wgRelevantArticleId":4563184,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q3320262"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready",
+"jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/2a/IFFD_ribbon.jpg"> 
+  <meta property="og:title" content="International Firefighters' Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/International_Firefighters%27_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=International_Firefighters%27_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=International_Firefighters%27_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/International_Firefighters%27_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-International_Firefighters_Day rootpage-International_Firefighters_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">International Firefighters' Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="box-Tone plainlinks metadata ambox ambox-style ambox-Tone" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48">
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article's <b>tone or style may not reflect the <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">encyclopedic tone</a> used on Wikipedia</b>.<span class="hide-when-compact"> See Wikipedia's <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">guide to writing better articles</a> for suggestions.</span> <small class="date-container"><i>(<span class="date">August 2009</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:147px;">
+        <a href="/wiki/File:IFFD_ribbon.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/2/2a/IFFD_ribbon.jpg" decoding="async" width="145" height="145" class="thumbimage" data-file-width="145" data-file-height="145"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:IFFD_ribbon.jpg" class="internal" title="Enlarge"></a>
+         </div>A red-blue ribbon - symbol of the IFFD
+        </div>
+       </div>
+      </div> 
+      <p><b>International Firefighters' Day</b> (<b>IFFD</b>) is <a href="/wiki/List_of_minor_secular_observances#May" title="List of minor secular observances">observed</a> on <a href="/wiki/May_4" title="May 4">May 4</a>. It was instituted after a proposal was <a href="/wiki/Email" title="Email">emailed</a> out across the world on January 4, 1999 due to the deaths of five <a href="/wiki/Firefighter" title="Firefighter">firefighters</a> in tragic circumstances in a <a href="/wiki/Bushfires_in_Australia" title="Bushfires in Australia">bushfire in Australia</a>. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#The_incident"><span class="tocnumber">1</span> <span class="toctext">The incident</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Red/Blue_Ribbon"><span class="tocnumber">2</span> <span class="toctext">Red/Blue Ribbon</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#St._Florian"><span class="tocnumber">3</span> <span class="toctext">St. Florian</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#The_need_for_training"><span class="tocnumber">4</span> <span class="toctext">The need for training</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Statistics"><span class="tocnumber">5</span> <span class="toctext">Statistics</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#The_Fire_Service"><span class="tocnumber">6</span> <span class="toctext">The Fire Service</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="The_incident">The incident</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Firefighters%27_Day&amp;action=edit&amp;section=1" title="Edit section: The incident">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>On December 2, 1998, a tragic event shook the Linton Community, Australia and the world. Firefighters in Linton, Australia, a populated region in Victoria, were fighting a large bush fire and called for mutual aid. This urgent mutual aid call brought the Geelong West Fire Brigade to the scene, not knowing the despair and tragedy that was in store. Garry Vredeveldt, Chris Evans, Stuart Davidson, Jason Thomas, and Matthew Armstrong all loaded into company’s truck. They were part of a strike team and were being sent to help extinguish the flames. As the five headed into the hot zone, the wind suddenly switched direction, engulfing the truck in flames and killing all five members. This unfortunate incident is what inspired JJ Edmondson to bring about an international holiday, called International Firefighters' Day, to support the lives lost and dedicated fire fighters who risk their lives every day to save life and property. </p> 
+      <h2><span id="Red.2FBlue_Ribbon"></span><span class="mw-headline" id="Red/Blue_Ribbon">Red/Blue Ribbon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Firefighters%27_Day&amp;action=edit&amp;section=2" title="Edit section: Red/Blue Ribbon">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>One of the most significant symbols of International Firefighters' Day is the red and blue ribbon. This ribbon is cut precisely five centimeters long and one centimeter wide, with the two separate colors conjoined at the top. JJ Edmondson chose red and blue because the red stood for the element of fire whereas the blue would represent the element of water. Coincidentally, red and blue are also the colors recognized world-wide to signify emergency services; therefore, red and blue being the best choice of color to recognize an international holiday. The ribbon is traditionally worn on the lapel-otherwise known as the fold of fabric on a shirt- but is not limited to that certain spot. Some people may also put it on their cars visors, hats, hang them in windows or off of car mirrors, or even hang them from trees in their front lawn. The places this ribbon can be placed are plentiful- just be creative! The red and blue ribbon is a simple but yet effective way to show support for International Firefighters' Day. </p> 
+      <h2><span class="mw-headline" id="St._Florian">St. Florian</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Firefighters%27_Day&amp;action=edit&amp;section=3" title="Edit section: St. Florian">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a href="/wiki/Saint_Florian" title="Saint Florian">Saint Florian</a>, the patron saint of firefighters, is also another symbolic element to International Firefighters' Day. St. Florian was a patron from Noricum, Rome in 300 AD, who was said to be one of the first commanding fire fighters of an actual battalion. As legend states, St. Florian saved an entire village engulfed in flames using just a single bucket of water. Legend also states, because of this act St. Florian is known as the protector of those who have come in danger of fire. The duties St. Florian performed for his province are the same duties that fire fighters around the world perform every day—with the same dedication and braveries. On May 4, St. Florian is globally recognized and honored and is also known as the day of St. Florian. Therefore, International Firefighters' Day was chosen to be honored on May 4 in honor of the saint. </p> 
+      <h2><span class="mw-headline" id="The_need_for_training">The need for training</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Firefighters%27_Day&amp;action=edit&amp;section=4" title="Edit section: The need for training">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a href="/wiki/Fire_prevention" title="Fire prevention">Fire prevention</a> and the need for more intensive and thorough training is one of the main aspects of International Firefighters' Day. Firefighters and their agencies around the world are constantly stressing fire prevention: in schools, to the community, at public events, at assemblies and even to their own families. The safest way to keep fire fighters alive and home to their families is training. In many paid fire departments, there is a mandatory amount of required training for each individual to complete within each shift. Unfortunately, it is not the amount you train but how you train. Therefore, training needs to be as intense and realistic as it can be. This ideal is one that International Firefighters' Day stresses. That the need for proper training is one that needs to be met, and therefore IFFD is an opportunity to do exactly this. </p> 
+      <h2><span class="mw-headline" id="Statistics">Statistics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Firefighters%27_Day&amp;action=edit&amp;section=5" title="Edit section: Statistics">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>In 2009, 90 lines of duty deaths were recorded amongst fire fighters in the <a href="/wiki/United_States_of_America" class="mw-redirect" title="United States of America">United States of America</a>; 47 being volunteers, 36 being careers, and 7 being a part of a wild land agency. In 2009, 16 firefighters passed in trying to fight wild land fires- which is how the five men from Linton died. Not only fire-fighters die because of fires. In 2009, a total of 3,010 civilians died as fire as the cause. There was also a calculated 1.3 million fires that occurred in 2009 which resulted in $12.5 billion in direct property loss. In 2009, there were a total of 78,792 wildfires which burnt down an estimate of 5,921,786 acres (23,964.62&nbsp;km<sup>2</sup>). Although most would believe in line of duty deaths would be the number one cause of deaths to fire-fighters, heart attack is the most common. Even though International Firefighters' Day stresses those who died in the line of duty, it is also to remember the others who gave their time as well. </p> 
+      <h2><span class="mw-headline" id="The_Fire_Service">The Fire Service</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Firefighters%27_Day&amp;action=edit&amp;section=6" title="Edit section: The Fire Service">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Although International Firefighters' Day originated from the deaths of five wild land fire fighters, they are not the only aspect of the service recognized. On IFFD, every person in the emergency service career gets recognized; Hazardous Materials Specialists, Fire Prevention Specialists, paid firefighters, volunteer fire fighters, wild land fire fighters, heavy equipment operators/mechanics, <a href="/wiki/Emergency_Medical_Technicians" class="mw-redirect" title="Emergency Medical Technicians">Emergency Medical Technicians</a>, and many more. Some of these jobs may seem insignificant; however, without all sectors of the emergency department services working together one would not hold up without the other; therefore, resulting in International Firefighters' Day to be a time to celebrate everyone who serves in the emergency services. </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Firefighters%27_Day&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Firefighting" title="Firefighting">Firefighting</a></li> 
+       <li><a href="/wiki/Women_in_firefighting" title="Women in firefighting">Women in firefighting</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Firefighters%27_Day&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li>Diamantes, David. Fire Prevention: Inspection and Code Enforcement. 3rd ed. Cliffton Park, NY: Thomson Delmar Learning, 2007. Print</li> 
+       <li>Facts About Wind and Wildfires. The Weather Channel Interactive, Inc, 2010. Web. 15 October 2010.</li> 
+       <li>International Firefighters’ Day. IFFD.NET, 2006. Web. 15 October 2010.</li> 
+       <li>Klinoff, Robert. Introduction to Fire Protection. 3rd ed. Cliffton Park, NY: Delmar Cengage Learning, 2007. Print.</li> 
+       <li>The Origins of International Firefighters’ Day. Newcastle Events, 2010. Web. 15 October 2010.</li> 
+       <li>United States. U.S. Fire Administration. Fire Statistics. Sept 2010. U.S. Fire Administration. Web. 15 October 2010.</li>
+      </ul> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Firefighters%27_Day&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.firefightersday.org/">IFFD site</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Firefighting" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2" style="background: #CE2029; color: white;"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Firefighting" title="Template:Firefighting"><abbr title="View this template" style="background: #CE2029; color: white;;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Firefighting" title="Template talk:Firefighting"><abbr title="Discuss this template" style="background: #CE2029; color: white;;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Firefighting&amp;action=edit"><abbr title="Edit this template" style="background: #CE2029; color: white;;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Firefighting" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Firefighting" title="Firefighting"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">Firefighting</span></a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background: #CE2029; color: white;;width:1%;background: #e5575f;"><a href="/wiki/Firefighter" title="Firefighter"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">Personnel and organization</span></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Fire_captain" title="Fire captain">Fire captain</a></li> 
+             <li><a href="/wiki/Fire_chief" title="Fire chief">Fire chief</a></li> 
+             <li><a href="/wiki/Fire_marshal" title="Fire marshal">Fire marshal</a></li> 
+             <li><a href="/wiki/Fire_police" title="Fire police">Fire police</a></li> 
+             <li><a href="/wiki/Handcrew" title="Handcrew">Handcrew</a></li> 
+             <li><a href="/wiki/Station_officer" title="Station officer">Station officer</a></li> 
+             <li><a href="/wiki/Volunteer_fire_department" title="Volunteer fire department">Volunteer fire department</a></li> 
+             <li><a href="/wiki/Women_in_firefighting" title="Women in firefighting">Women in firefighting</a></li> 
+             <li><a href="/wiki/Fire_department_ranks_by_country" title="Fire department ranks by country">Fire department ranks by country</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background: #CE2029; color: white;;width:1%;background: #e5575f;">Facilities</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Fire_department" title="Fire department">Fire department</a> 
+              <ul>
+               <li><a href="/wiki/List_of_fire_departments" title="List of fire departments">List of fire departments</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Fire_lookout_tower" title="Fire lookout tower">Fire lookout tower</a></li> 
+             <li><a href="/wiki/Fire_station" title="Fire station">Fire station</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background: #CE2029; color: white;;width:1%;background: #e5575f;"><a href="/wiki/Firefighting_apparatus" title="Firefighting apparatus"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">Apparatus</span></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Airport_crash_tender" title="Airport crash tender">Airport crash tender</a></li> 
+             <li><a href="/wiki/Fire_bike" title="Fire bike">Fire bike</a></li> 
+             <li><a href="/wiki/Fire_chief%27s_vehicle" class="mw-redirect" title="Fire chief's vehicle">Fire chief's vehicle</a></li> 
+             <li><a href="/wiki/Fire_engine" title="Fire engine">Fire engine</a></li> 
+             <li><a href="/wiki/Firefighting_apparatus" title="Firefighting apparatus">Firefighting apparatus</a></li> 
+             <li><a href="/wiki/Hazardous_materials_apparatus" title="Hazardous materials apparatus">Hazardous materials apparatus</a></li> 
+             <li><a href="/wiki/Light_and_air_unit" title="Light and air unit">Light and air unit</a></li> 
+             <li><a href="/wiki/Quint_(fire_apparatus)" title="Quint (fire apparatus)">Quint</a></li> 
+             <li><a href="/wiki/Rescue_vehicle" title="Rescue vehicle">Rescue vehicle</a></li> 
+             <li><a href="/wiki/Water_tender" title="Water tender">Water tender</a></li> 
+             <li><a href="/wiki/Wildland_fire_engine" title="Wildland fire engine">Wildland fire engine</a></li> 
+             <li><a href="/wiki/Wildland_water_tender" title="Wildland water tender">Wildland water tender</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background: #CE2029; color: white;;width:1%;background: #e5575f;"><a href="/wiki/Glossary_of_firefighting_equipment" title="Glossary of firefighting equipment"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">Equipment</span></a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Bunker_gear" title="Bunker gear">Bunker gear</a></li> 
+             <li><a href="/wiki/Escape_chair" title="Escape chair">Escape chair</a></li> 
+             <li><a href="/wiki/Fire_extinguisher" title="Fire extinguisher">Fire extinguisher</a></li> 
+             <li><a href="/wiki/Fire_hose" title="Fire hose">Fire hose</a></li> 
+             <li><a href="/wiki/Fire_hydrant" title="Fire hydrant">Fire hydrant</a></li> 
+             <li><a href="/wiki/Fire_retardant" title="Fire retardant">Fire retardant</a></li> 
+             <li><a href="/wiki/Fire_shelter" title="Fire shelter">Fire shelter</a></li> 
+             <li><a href="/wiki/Fireman%27s_pole" title="Fireman's pole">Fireman's pole</a></li> 
+             <li><a href="/wiki/Fireman%27s_switch" title="Fireman's switch">Fireman's switch</a></li> 
+             <li><a href="/wiki/Flame_retardant" title="Flame retardant">Flame retardant</a></li> 
+             <li><a href="/wiki/Fog_nozzle" title="Fog nozzle">Fog nozzle</a></li> 
+             <li><a href="/wiki/Halligan_bar" title="Halligan bar">Halligan bar</a></li> 
+             <li><a href="/wiki/Hard_suction_hose" title="Hard suction hose">Hard suction hose</a></li> 
+             <li><a href="/wiki/Hazmat_suit" title="Hazmat suit">Hazmat suit</a></li> 
+             <li><a href="/wiki/Heat_detector" title="Heat detector">Heat detector</a></li> 
+             <li><a href="/wiki/Hose_bridge" title="Hose bridge">Hose bridge</a></li> 
+             <li><a href="/wiki/Hydraulic_rescue_tools" title="Hydraulic rescue tools">Hydraulic rescue tools</a> ("Jaws of life")</li> 
+             <li><a href="/wiki/Nomex" title="Nomex">Nomex</a></li> 
+             <li><a href="/wiki/PASS_device" title="PASS device">PASS device</a></li> 
+             <li><a href="/wiki/Rotary_saw" title="Rotary saw">Rotary saw</a></li> 
+             <li><a href="/wiki/Fire_proximity_suit" title="Fire proximity suit">Fire proximity suit</a></li> 
+             <li><a href="/wiki/Self-contained_breathing_apparatus" title="Self-contained breathing apparatus">Self-contained breathing apparatus</a></li> 
+             <li><a href="/wiki/Siren_(alarm)" title="Siren (alarm)">Siren</a></li> 
+             <li><a href="/wiki/Smoke_detector" title="Smoke detector">Smoke detector</a></li> 
+             <li><a href="/wiki/Thermal_imaging_camera" title="Thermal imaging camera">Thermal imaging camera</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background: #CE2029; color: white;;width:1%;background: #e5575f;"><a href="/wiki/Glossary_of_firefighting_equipment" title="Glossary of firefighting equipment"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">Terminology</span></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Backdraft" title="Backdraft">Backdraft</a></li> 
+             <li><a href="/wiki/Dead_man_zone" title="Dead man zone">Dead man zone</a></li> 
+             <li><a href="/wiki/Deluge_gun" title="Deluge gun">Deluge gun</a></li> 
+             <li><a href="/wiki/Door_breaching" title="Door breaching">Door breaching</a></li> 
+             <li><a href="/wiki/Draft_(water)" title="Draft (water)">Draft</a></li> 
+             <li><a href="/wiki/Fire_class" title="Fire class">Fire class</a></li> 
+             <li><a href="/wiki/Fire_control" title="Fire control">Fire control</a></li> 
+             <li><a href="/wiki/Fire_safety" title="Fire safety">Fire safety</a></li> 
+             <li><a href="/wiki/Fire_triangle" title="Fire triangle">Fire triangle</a></li> 
+             <li><a href="/wiki/Fireman%27s_carry" title="Fireman's carry">Fireman's carry</a></li> 
+             <li><a href="/wiki/Firewall_(construction)" title="Firewall (construction)">Firewall</a></li> 
+             <li><a href="/wiki/Flash_fire" title="Flash fire">Flash fire</a></li> 
+             <li><a href="/wiki/Gaseous_fire_suppression" title="Gaseous fire suppression">Gaseous fire suppression</a></li> 
+             <li><a href="/wiki/Stop,_drop_and_roll" title="Stop, drop and roll">Stop, drop and roll</a></li> 
+             <li><a href="/wiki/Structure_fire" title="Structure fire">Structure fire</a> (<a href="/wiki/Barn_fire" title="Barn fire">barn fire</a>)</li> 
+             <li><a href="/wiki/Two-in,_two-out" title="Two-in, two-out">Two-in, two-out</a></li> 
+             <li><a href="/wiki/Ventilation_(firefighting)" title="Ventilation (firefighting)">Ventilation</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background: #CE2029; color: white;;width:1%;background: #e5575f;">Miscellaneous</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Fire_camp" title="Fire camp">Fire camp</a></li> 
+             <li><a href="/wiki/Fire_engine_red" title="Fire engine red">Fire engine red</a></li> 
+             <li><a href="/wiki/Fire_photography" title="Fire photography">Fire photography</a></li> 
+             <li><a href="/wiki/Fire_protection_engineering" title="Fire protection engineering">Fire protection engineering</a></li> 
+             <li><a href="/wiki/Firefighting_foam" title="Firefighting foam">Firefighting foam</a></li> 
+             <li><a href="/wiki/Geography_of_firefighting" title="Geography of firefighting">Geography of firefighting</a></li> 
+             <li><a href="/wiki/History_of_firefighting" title="History of firefighting">History of firefighting</a></li> 
+             <li><a href="/wiki/International_Association_of_Fire_Fighters" title="International Association of Fire Fighters">International Association of Fire Fighters</a></li> 
+             <li><a class="mw-selflink selflink">International Firefighters' Day</a></li> 
+             <li><a href="/wiki/List_of_firefighting_films" title="List of firefighting films">List of firefighting films</a></li> 
+             <li><a href="/wiki/Muster_(event)" title="Muster (event)">Muster</a></li> 
+             <li><a href="/wiki/Saint_Florian" title="Saint Florian">Saint Florian</a></li> 
+             <li><a href="/wiki/World_Firefighters_Games" title="World Firefighters Games">World Firefighters Games</a></li> 
+             <li><a href="/wiki/World_Police_and_Fire_Games" title="World Police and Fire Games">World Police and Fire Games</a></li> 
+             <li><a href="/wiki/Candidate_Physical_Ability_Test" title="Candidate Physical Ability Test">Candidate Physical Ability Test</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background: #CE2029; color: white;;width:1%;background: #e5575f;"><a href="/wiki/Wildfires" class="mw-redirect" title="Wildfires"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">Wildfires</span></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;background: #ea797f; color: white;">General</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Wildfire_suppression" title="Wildfire suppression">Wildfire suppression</a></li> 
+                 <li><a href="/wiki/Wildfire_emergency_management" title="Wildfire emergency management">Wildfire emergency management</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;background: #ea797f; color: white;">Equipment <br>and tactics</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Aerial_firefighting" title="Aerial firefighting">Aerial firefighting</a></li> 
+                 <li><a href="/wiki/Controlled_burn" title="Controlled burn">Controlled burn</a></li> 
+                 <li><a href="/wiki/Driptorch" title="Driptorch">Driptorch</a></li> 
+                 <li><a href="/wiki/Fire_hose" title="Fire hose">Fire hose</a></li> 
+                 <li><a href="/wiki/Fire_lookout_tower" title="Fire lookout tower">Fire lookout tower</a></li> 
+                 <li><a href="/wiki/Fire_retardant" title="Fire retardant">Fire retardant</a></li> 
+                 <li><a href="/wiki/Fire_retardant_gel" title="Fire retardant gel">Fire retardant gel</a></li> 
+                 <li><a href="/wiki/Fire_trail" title="Fire trail">Fire trail</a></li> 
+                 <li><a href="/wiki/Firebreak" title="Firebreak">Firebreak</a></li> 
+                 <li><a href="/wiki/Firefighting_apparatus" title="Firefighting apparatus">Firefighting apparatus</a></li> 
+                 <li><a href="/wiki/Firefighting_foam" title="Firefighting foam">Firefighting foam</a></li> 
+                 <li><a href="/wiki/Helicopter_bucket" title="Helicopter bucket">Helicopter bucket</a></li> 
+                 <li><a href="/wiki/Hose_pack" title="Hose pack">Hose pack</a></li> 
+                 <li><a href="/wiki/Modular_Airborne_FireFighting_System" title="Modular Airborne FireFighting System">Modular Airborne FireFighting System</a></li> 
+                 <li><a href="/wiki/Pulaski_(tool)" title="Pulaski (tool)">Pulaski</a></li> 
+                 <li><a href="/wiki/Wildland_fire_engine" title="Wildland fire engine">Wildland fire engine</a></li> 
+                 <li><a href="/wiki/Wildland_water_tender" title="Wildland water tender">Wildland water tender</a></li> 
+                 <li><a href="/wiki/Wildfire_suppression_equipment_and_personnel" title="Wildfire suppression equipment and personnel">Wildfire suppression equipment and personnel</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;background: #ea797f; color: white;">Personnel</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Firefighting_apparatus#Crew_assignment" title="Firefighting apparatus">Engine crew</a></li> 
+                 <li><a href="/wiki/Fire_lookout" title="Fire lookout">Fire lookout</a></li> 
+                 <li><a href="/wiki/Handcrew" title="Handcrew">Handcrew</a></li> 
+                 <li><a href="/wiki/Helitack" title="Helitack">Helitack</a></li> 
+                 <li><a href="/wiki/Interagency_hotshot_crew" class="mw-redirect" title="Interagency hotshot crew">Interagency hotshot crew</a></li> 
+                 <li><a href="/wiki/Smokejumper" title="Smokejumper">Smokejumper</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;background: #ea797f; color: white;">By location</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Bushfires_in_Australia" title="Bushfires in Australia">Australia</a></li> 
+                 <li><a href="/wiki/Wildfires_in_the_United_States" title="Wildfires in the United States">United States</a>, <a href="/wiki/History_of_wildfire_suppression_in_the_United_States" title="History of wildfire suppression in the United States">History in the U.S.</a> (<a href="/wiki/List_of_California_wildfires" title="List of California wildfires">California</a>, <a href="/wiki/List_of_Washington_wildfires" title="List of Washington wildfires">Washington</a>)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;background: #ea797f; color: white;">Lists</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Glossary_of_wildfire_terms" title="Glossary of wildfire terms">Glossary of wildfire terms</a></li> 
+                 <li><a href="/wiki/List_of_wildfires" title="List of wildfires">List of wildfires</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="background: #CE2029; color: white;">
+           <div> 
+            <ul>
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Category:Firefighting" title="Category:Firefighting"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;"><b>Category</b></span></a></li> 
+             <li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"> <a href="https://commons.wikimedia.org/wiki/Category:Firefighting" class="extiw" title="commons:Category:Firefighting"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;"><b>Commons</b></span></a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1395
+Cached time: 20210402180947
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.175 seconds
+Real time usage: 0.237 seconds
+Preprocessor visited node count: 406/1000000
+Post‐expand include size: 39053/2097152 bytes
+Template argument size: 674/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1022/5000000 bytes
+Lua time usage: 0.071/10.000 seconds
+Lua memory usage: 2936216/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  176.600      1 -total
+ 40.11%   70.827      1 Template:Fire_fighting
+ 39.63%   69.991      1 Template:Tone
+ 37.19%   65.672      2 Template:Navbox
+ 20.07%   35.446      1 Template:Convert
+ 14.50%   25.611      1 Template:Ambox
+  9.60%   16.952      1 Template:DMCA
+  7.77%   13.714      1 Template:Dated_maintenance_category
+  5.82%   10.270      2 Template:Icon
+  5.59%    9.865      1 Template:FULLROOTPAGENAME
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:4563184-0!canonical and timestamp 20210402180946 and revision id 979326513. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=International_Firefighters%27_Day&amp;oldid=979326513">https://en.wikipedia.org/w/index.php?title=International_Firefighters%27_Day&amp;oldid=979326513</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Fire_service_awards_and_honors" title="Category:Fire service awards and honors">Fire service awards and honors</a></li>
+       <li><a href="/wiki/Category:Firefighting" title="Category:Firefighting">Firefighting</a></li>
+       <li><a href="/wiki/Category:International_observances" title="Category:International observances">International observances</a></li>
+       <li><a href="/wiki/Category:May_observances" title="Category:May observances">May observances</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_style_issues_from_August_2009" title="Category:Wikipedia articles with style issues from August 2009">Wikipedia articles with style issues from August 2009</a></li>
+       <li><a href="/wiki/Category:All_articles_with_style_issues" title="Category:All articles with style issues">All articles with style issues</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=International+Firefighters%27+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=International+Firefighters%27+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/International_Firefighters%27_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:International_Firefighters%27_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/International_Firefighters%27_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=International_Firefighters%27_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=International_Firefighters%27_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/International_Firefighters%27_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/International_Firefighters%27_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=International_Firefighters%27_Day&amp;oldid=979326513" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=International_Firefighters%27_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=International_Firefighters%27_Day&amp;id=979326513&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3320262" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=International_Firefighters%27_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=International_Firefighters%27_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D9%85_%D8%B1%D8%AC%D8%A7%D9%84_%D8%A7%D9%84%D8%A5%D8%B7%D9%81%D8%A7%D8%A1_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A" title="يوم رجال الإطفاء العالمي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_des_pompiers" title="Journée internationale des pompiers – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C_%EC%86%8C%EB%B0%A9%EA%B4%80%EC%9D%98_%EB%82%A0" title="국제 소방관의 날 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Mi%C4%99dzynarodowy_Dzie%C5%84_Stra%C5%BCaka" title="Międzynarodowy Dzień Strażaka – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Dia_Internacional_do_Bombeiro" title="Dia Internacional do Bombeiro – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ziua_Interna%C8%9Bional%C4%83_a_Pompierilor" title="Ziua Internațională a Pompierilor – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%DA%95%DB%86%DA%98%DB%8C_%D9%86%D8%A7%D9%88%D9%86%DB%95%D8%AA%DB%95%D9%88%DB%95%DB%8C%DB%8C%DB%8C_%D8%A6%D8%A7%DA%AF%D8%B1%DA%A9%D9%88%DA%98%DB%8E%D9%86%DB%95%DA%A9%D8%A7%D9%86" title="ڕۆژی ناونەتەوەییی ئاگرکوژێنەکان – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9C%D0%B5%D1%92%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8_%D0%B4%D0%B0%D0%BD_%D0%B2%D0%B0%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D1%81%D0%B0%D1%86%D0%B0" title="Међународни дан ватрогасаца – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%80%E0%AE%AF%E0%AE%A3%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%AA%E0%AE%9F%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%A9%E0%AE%B0%E0%AF%8D_%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D" title="பன்னாட்டுத் தீயணைக்கும் படையினர் நாள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3320262#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 20 September 2020, at 03:54<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=International_Firefighters%27_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.175","walltime":"0.237","ppvisitednodes":{"value":406,"limit":1000000},"postexpandincludesize":{"value":39053,"limit":2097152},"templateargumentsize":{"value":674,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1022,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  176.600      1 -total"," 40.11%   70.827      1 Template:Fire_fighting"," 39.63%   69.991      1 Template:Tone"," 37.19%   65.672      2 Template:Navbox"," 20.07%   35.446      1 Template:Convert"," 14.50%   25.611      1 Template:Ambox","  9.60%   16.952      1 Template:DMCA","  7.77%   13.714      1 Template:Dated_maintenance_category","  5.82%   10.270      2 Template:Icon","  5.59%    9.865      1 Template:FULLROOTPAGENAME"]},"scribunto":{"limitreport-timeusage":{"value":"0.071","limit":"10.000"},"limitreport-memusage":{"value":2936216,"limit":52428800}},"cachereport":{"origin":"mw1395","timestamp":"20210402180947","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"International Firefighters' Day","url":"https:\/\/en.wikipedia.org\/wiki\/International_Firefighters%27_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3320262","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3320262","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-03-30T02:56:56Z","dateModified":"2020-09-20T03:54:22Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2a\/IFFD_ribbon.jpg","headline":"International Firefighters' Day (IFFD) is observed on May 4. It was instituted after a proposal was emailed out across the world on January 4, 1999 due to the deaths of five firefighters in tragic circumstances in a bushfire in Australia."}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":141,"wgHostname":"mw1268"});});</script> 
+ </body>
+</html>

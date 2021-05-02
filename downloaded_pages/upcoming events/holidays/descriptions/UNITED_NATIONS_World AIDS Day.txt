@@ -1,0 +1,1175 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>World AIDS Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"df514a30-aaf3-4931-a203-eabaeeca5bb7","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"World_AIDS_Day","wgTitle":"World AIDS Day","wgCurRevisionId":1015445921,"wgRevisionId":1015445921,"wgArticleId":153614,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: bot: original URL status unknown","Use dmy dates from November 2020","Articles with short description","Short description is different from Wikidata","Infobox holiday with missing field","Infobox holiday fixed day (2)",
+"Articles containing potentially dated statements from 2017","All articles containing potentially dated statements","All articles with unsourced statements","Articles with unsourced statements from November 2020","Commons category link is on Wikidata","HIV/AIDS activism","December observances","Health awareness days","History of HIV/AIDS","Recurring events established in 1988","United Nations days","World Health Organization"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"World_AIDS_Day","wgRelevantArticleId":153614,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":
+!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q192373"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin",
+"mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Ribbon.svg/1200px-Red_Ribbon.svg.png"> 
+  <meta property="og:title" content="World AIDS Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/World_AIDS_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=World_AIDS_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=World_AIDS_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/World_AIDS_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-World_AIDS_Day rootpage-World_AIDS_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">World AIDS Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p class="mw-empty-elt"> </p> 
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       International day
+      </div> 
+      <table class="infobox vevent">
+       <tbody>
+        <tr>
+         <th colspan="2" class="infobox-above hd" style="background-color: #ddccff">World AIDS Day</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image"><a href="/wiki/File:Red_Ribbon.svg" class="image"><img alt="Red Ribbon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Ribbon.svg/150px-Red_Ribbon.svg.png" decoding="async" width="150" height="224" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Ribbon.svg/225px-Red_Ribbon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Ribbon.svg/300px-Red_Ribbon.svg.png 2x" data-file-width="744" data-file-height="1112"></a>
+          <div class="infobox-caption" style="caption">
+           The <a href="/wiki/Red_ribbon" title="Red ribbon">red ribbon</a> is the global symbol for solidarity with HIV-positive people and those living with AIDS.
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Observed&nbsp;by</th>
+         <td class="infobox-data">All <a href="/wiki/Member_states_of_the_United_Nations" title="Member states of the United Nations">UN Member States</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Date</th>
+         <td class="infobox-data"><a href="/wiki/1_December" class="mw-redirect" title="1 December">1 December</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Frequency</th>
+         <td class="infobox-data">Annual</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">First&nbsp;time</th>
+         <td class="infobox-data">1988<span class="noprint">; 33&nbsp;years ago</span><span style="display:none">&nbsp;(<span class="bday dtstart published updated">1988</span>)</span></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>World AIDS Day</b>, designated on 1 December every year since 1988,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> is an <a href="/wiki/List_of_minor_secular_observances#December" title="List of minor secular observances">international day</a> dedicated to <a href="/wiki/Raising_awareness" class="mw-redirect" title="Raising awareness">raising awareness</a> of the <a href="/wiki/AIDS_pandemic" class="mw-redirect" title="AIDS pandemic">AIDS pandemic</a> caused by the spread of <a href="/wiki/HIV" title="HIV">HIV</a> infection and mourning those who have died of the disease. The acquired immunodeficiency syndrome (AIDS) is a life-threatening condition caused by the human immunodeficiency virus (HIV). The HIV virus attacks the immune system of the patient and reduces its resistance to other diseases.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Government and health officials, non-governmental organizations, and individuals around the world observe the day, often with education on <a href="/wiki/AIDS_prevention" class="mw-redirect" title="AIDS prevention">AIDS prevention</a> and control. </p>
+      <p>World AIDS Day is one of the eleven official <a href="/wiki/Global_health" title="Global health">global public health</a> campaigns marked by the <a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization</a> (WHO), along with <a href="/wiki/World_Health_Day" title="World Health Day">World Health Day</a>, <a href="/wiki/World_Blood_Donor_Day" title="World Blood Donor Day">World Blood Donor Day</a>, <a href="/wiki/World_Immunization_Week" title="World Immunization Week">World Immunization Week</a>, <a href="/wiki/World_Tuberculosis_Day" title="World Tuberculosis Day">World Tuberculosis Day</a>, <a href="/wiki/World_No_Tobacco_Day" title="World No Tobacco Day">World No Tobacco Day</a>, <a href="/wiki/World_Malaria_Day" title="World Malaria Day">World Malaria Day</a>, <a href="/wiki/World_Hepatitis_Day" title="World Hepatitis Day">World Hepatitis Day</a>, <a href="/wiki/Antimicrobial_resistance#Global_action_plans_and_awareness" title="Antimicrobial resistance">World Antimicrobial Awareness Week</a>, <a href="/wiki/World_Patient_Safety_Day" title="World Patient Safety Day">World Patient Safety Day</a> and <a href="/wiki/World_Chagas_Disease_Day" title="World Chagas Disease Day">World Chagas Disease Day</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p>
+      <p>As of 2017<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=World_AIDS_Day&amp;action=edit">[update]</a></sup>, AIDS has killed between 28.9&nbsp;million and 41.5&nbsp;million people worldwide, and an estimated 36.7&nbsp;million people are living with HIV,<sup id="cite_ref-UNAIDS2017_4-0" class="reference"><a href="#cite_note-UNAIDS2017-4">[4]</a></sup> making it one of the most important global <a href="/wiki/Public_health" title="Public health">public health</a> issues in <a href="/wiki/Recorded_history" title="Recorded history">recorded history</a>. Thanks to recent improved access to <a href="/wiki/Antiretroviral_drug" class="mw-redirect" title="Antiretroviral drug">antiretroviral treatment</a> in many regions of the world, the death rate from AIDS epidemic has decreased since its peak in 2005 (1&nbsp;million in 2016, compared to 1.9&nbsp;million in 2005).<sup id="cite_ref-UNAIDS2017_4-1" class="reference"><a href="#cite_note-UNAIDS2017-4">[4]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Themes"><span class="tocnumber">2</span> <span class="toctext">Themes</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-3"><a href="#World_AIDS_Day_Themes"><span class="tocnumber">2.1</span> <span class="toctext">World AIDS Day Themes</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-7"><a href="#US_Presidential_Proclamations_for_World_AIDS_Day"><span class="tocnumber">5.1</span> <span class="toctext">US Presidential Proclamations for World AIDS Day</span></a></li> 
+         </ul> </li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_AIDS_Day&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:210px;">
+        <a href="/wiki/File:AidsRusStamp1993.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/AidsRusStamp1993.jpg/208px-AidsRusStamp1993.jpg" decoding="async" width="208" height="285" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/AidsRusStamp1993.jpg/312px-AidsRusStamp1993.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/AidsRusStamp1993.jpg/416px-AidsRusStamp1993.jpg 2x" data-file-width="1093" data-file-height="1500"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:AidsRusStamp1993.jpg" class="internal" title="Enlarge"></a>
+         </div>Russian stamp, 1993
+        </div>
+       </div>
+      </div> 
+      <p>World AIDS Day was first conceived in August 1987 by James W. Bunn and Thomas Netter, two public information officers for the Global Programme on AIDS at the <a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization</a> in Geneva, Switzerland.<sup id="cite_ref-NPR_5-0" class="reference"><a href="#cite_note-NPR-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Bunn and Netter took their idea to Dr. Jonathan Mann, Director of the Global Programme on AIDS (now known as <a href="/wiki/UNAIDS" class="mw-redirect" title="UNAIDS">UNAIDS</a>). Mann liked the concept, approved it, and agreed with the recommendation that the first observance of World AIDS Day should be on 1 December 1988.<sup id="cite_ref-newsworks_7-0" class="reference"><a href="#cite_note-newsworks-7">[7]</a></sup> Bunn, a former television broadcast journalist from San Francisco, had recommended the date of 1 December that believing it would maximize coverage of World AIDS Day by western news media, sufficiently long following the US elections but before the Christmas holidays.<sup id="cite_ref-newsworks_7-1" class="reference"><a href="#cite_note-newsworks-7">[7]</a></sup> </p>
+      <p>In its first two years, the theme of World AIDS Day focused on children and young people. While the choice of this theme was criticized at the time by some for ignoring the fact that people of all ages may become infected with HIV, the theme helped alleviate some of the stigma surrounding the disease and boost recognition of the problem as a family disease.<sup id="cite_ref-Speicher_8-0" class="reference"><a href="#cite_note-Speicher-8">[8]</a></sup> </p>
+      <p>The <a href="/wiki/Joint_United_Nations_Programme_on_HIV/AIDS" title="Joint United Nations Programme on HIV/AIDS">Joint United Nations Programme on HIV/AIDS</a> (UNAIDS) became operational in 1996, and it took over the planning and promotion of World AIDS Day.<sup id="cite_ref-Speicher_8-1" class="reference"><a href="#cite_note-Speicher-8">[8]</a></sup> Rather than focus on a single day, UNAIDS created the World AIDS Campaign in 1997 to focus on year-round communications, prevention and education.<sup id="cite_ref-Speicher_8-2" class="reference"><a href="#cite_note-Speicher-8">[8]</a></sup><sup id="cite_ref-Soest_9-0" class="reference"><a href="#cite_note-Soest-9">[9]</a></sup> In 2004, the World AIDS Campaign became an independent organization.<sup id="cite_ref-Speicher_8-3" class="reference"><a href="#cite_note-Speicher-8">[8]</a></sup><sup id="cite_ref-Soest_9-1" class="reference"><a href="#cite_note-Soest-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p>
+      <p>Each year, Popes <a href="/wiki/John_Paul_II" class="mw-redirect" title="John Paul II">John Paul II</a> and <a href="/wiki/Benedict_XVI" class="mw-redirect" title="Benedict XVI">Benedict XVI</a> have released a greeting message for patients and doctors on World AIDS Day.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> </p>
+      <p>In 2016, a collection of HIV and AIDS-related <a href="/wiki/NGOs" class="mw-redirect" title="NGOs">NGOs</a> (including Panagea Global AIDS and The AIDS and Rights Alliance for Southern Africa) started a campaign to rename World AIDS Day to World HIV Day. They claim the change will emphasize social justice issues, and the advancement of treatments like <a href="/wiki/PrEP" class="mw-redirect" title="PrEP">PrEP</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> </p>
+      <p>In the USA, the <a href="/wiki/White_House" title="White House">White House</a> began marking World AIDS Day with the iconic display of a 28 foot (8.5&nbsp;m) AIDS Ribbon on the building's North Portico in 2007.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> White House aide Steven M. Levine, then serving in President <a href="/wiki/George_W._Bush" title="George W. Bush">George W. Bush</a>'s administration, proposed the display to symbolize the United States' commitment to combat the world AIDS epidemic through its landmark <a href="/wiki/President%27s_Emergency_Plan_for_AIDS_Relief" title="President's Emergency Plan for AIDS Relief">PEPFAR</a> program.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> The <a href="/wiki/White_House" title="White House">White House</a> display, now an annual tradition across four presidential administrations, quickly garnered attention, as it was the banner, sign or symbol to prominently hang from the White House since the <a href="/wiki/Abraham_Lincoln" title="Abraham Lincoln">Abraham Lincoln</a> administration.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> </p>
+      <p>Since 1993, the President of the United States has made an official <a href="/wiki/List_of_observances_in_the_United_States_by_presidential_proclamation" title="List of observances in the United States by presidential proclamation">proclamation</a> for World AIDS Day (see section <a href="#US_Presidential_Proclamations_for_World_AIDS_Day">#US Presidential Proclamations for World AIDS Day</a> for copies of those proclamations). On 30 November 2017, President <a href="/wiki/Donald_Trump" title="Donald Trump">Donald Trump</a> proclaimed World AIDS Day for 1 December.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Themes">Themes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_AIDS_Day&amp;action=edit&amp;section=2" title="Edit section: Themes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>All the World AIDS Day campaigns focus on a specific theme, chosen following consultations with <a href="/wiki/UNAIDS" class="mw-redirect" title="UNAIDS">UNAIDS</a>, <a href="/wiki/WHO" class="mw-redirect" title="WHO">WHO</a>, and a large number of grassroots, national and international agencies involved in the prevention and treatment of HIV/AIDS. As of 2008, each year's theme is chosen by the Global Steering Committee of the World AIDS Campaign (WAC).<sup id="cite_ref-Speicher_8-4" class="reference"><a href="#cite_note-Speicher-8">[8]</a></sup> </p>
+      <p>For each World AIDS Day from 2005 through 2010, the theme was "Stop AIDS. Keep the Promise", designed to encourage political leaders to keep their commitment to achieving universal access to HIV/AIDS prevention, treatment, care, and support by the year 2010.<sup id="cite_ref-Speicher_8-5" class="reference"><a href="#cite_note-Speicher-8">[8]</a></sup> </p>
+      <p>As of 2012, the multi-year theme for World AIDS Day is "Getting to Zero: Zero new HIV infections. Zero deaths from AIDS-related illness. Zero discrimination."<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> The US Federal theme for the year 2014 was "Focus, Partner, Achieve: An AIDS-Free Generation".<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> </p>
+      <p>The themes are not limited to a single day but are used year-round in international efforts to highlight HIV/AIDS awareness within the context of other major global events including the <a href="/wiki/Group_of_Eight" title="Group of Eight">G8 Summit</a>, as well as local campaigns like the Student Stop AIDS Campaign in the UK.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2020)">citation needed</span></a></i>]</sup> </p> 
+      <h3><span class="mw-headline" id="World_AIDS_Day_Themes">World AIDS Day Themes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_AIDS_Day&amp;action=edit&amp;section=3" title="Edit section: World AIDS Day Themes">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a href="/wiki/File:WHredribbonNorthPortico.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WHredribbonNorthPortico.jpg/200px-WHredribbonNorthPortico.jpg" decoding="async" width="200" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WHredribbonNorthPortico.jpg/300px-WHredribbonNorthPortico.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WHredribbonNorthPortico.jpg/400px-WHredribbonNorthPortico.jpg 2x" data-file-width="515" data-file-height="772"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:WHredribbonNorthPortico.jpg" class="internal" title="Enlarge"></a>
+         </div>A large <a href="/wiki/Red_ribbon" title="Red ribbon">red ribbon</a> hangs between columns in the north portico of the <a href="/wiki/White_House" title="White House">White House</a> for World AIDS Day, 30 November 2007
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a href="/wiki/File:Condom_on_Obelisk,_Buenos_Aires.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Condom_on_Obelisk%2C_Buenos_Aires.jpg/200px-Condom_on_Obelisk%2C_Buenos_Aires.jpg" decoding="async" width="200" height="270" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Condom_on_Obelisk%2C_Buenos_Aires.jpg/300px-Condom_on_Obelisk%2C_Buenos_Aires.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Condom_on_Obelisk%2C_Buenos_Aires.jpg/400px-Condom_on_Obelisk%2C_Buenos_Aires.jpg 2x" data-file-width="1704" data-file-height="2304"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Condom_on_Obelisk,_Buenos_Aires.jpg" class="internal" title="Enlarge"></a>
+         </div>A 67 m long <a href="/wiki/Condom" title="Condom">condom</a> sculpture on the <a href="/wiki/Obelisco_de_Buenos_Aires" title="Obelisco de Buenos Aires">Obelisk of Buenos Aires</a>, <a href="/wiki/Argentina" title="Argentina">Argentina</a>, part of an awareness campaign for the 2005 World AIDS Day
+        </div>
+       </div>
+      </div> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>No </th> 
+         <th>Year </th> 
+         <th>Theme<sup id="cite_ref-MDOT_27-0" class="reference"><a href="#cite_note-MDOT-27">[27]</a></sup> </th> 
+         <th>Aspect of Note </th>
+        </tr> 
+        <tr> 
+         <td>1 </td> 
+         <td style="text-align:center;">1988 </td> 
+         <td style="width:428px;">Communication<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> </td> 
+         <td>The first year celebrated and the first time with UN recognition. </td>
+        </tr> 
+        <tr> 
+         <td>2 </td> 
+         <td style="text-align:center;">1989 </td> 
+         <td style="width:428px;">Youth </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>3 </td> 
+         <td style="text-align:center;">1990 </td> 
+         <td style="width:428px;">Women and AIDS </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>4 </td> 
+         <td style="text-align:center;">1991 </td> 
+         <td style="width:428px;">Sharing the Challenge </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>5 </td> 
+         <td style="text-align:center;">1992 </td> 
+         <td style="width:428px;">Community Commitment </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>6 </td> 
+         <td style="text-align:center;">1993 </td> 
+         <td style="width:428px;">Time to Act </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>7 </td> 
+         <td style="text-align:center;">1994 </td> 
+         <td style="width:428px;">AIDS and the Family </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>8 </td> 
+         <td style="text-align:center;">1995 </td> 
+         <td style="width:428px;">Shared Rights, Shared Responsibilities </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>9 </td> 
+         <td style="text-align:center;">1996 </td> 
+         <td style="width:428px;">One World. One Hope. </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>10 </td> 
+         <td style="text-align:center;">1997 </td> 
+         <td style="width:428px;">Children Living in a World with AIDS </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>11 </td> 
+         <td style="text-align:center;">1998 </td> 
+         <td style="width:428px;">Force for Change: World AIDS Campaign With Young People </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>12 </td> 
+         <td style="text-align:center;">1999 </td> 
+         <td style="width:428px;">Listen, Learn, Live: World AIDS Campaign with Children &amp; Young People </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>13 </td> 
+         <td style="text-align:center;">2000 </td> 
+         <td style="width:428px;">AIDS: Men Make a Difference </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>14 </td> 
+         <td style="text-align:center;">2001 </td> 
+         <td style="width:428px;">I Care. Do You? </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>15 </td> 
+         <td style="text-align:center;">2002 </td> 
+         <td style="width:428px;">Stigma and Discrimination </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>16 </td> 
+         <td style="text-align:center;">2003 </td> 
+         <td style="width:428px;">Stigma and Discrimination </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>17 </td> 
+         <td style="text-align:center;">2004 </td> 
+         <td style="width:428px;">Women, Girls, HIV and AIDS </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>18 </td> 
+         <td style="text-align:center;">2005 </td> 
+         <td style="width:428px;">Stop AIDS. Keep the Promise </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>19 </td> 
+         <td style="text-align:center;">2006 </td> 
+         <td style="width:428px;">Stop AIDS. Keep the Promise&nbsp;– Accountability </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>20 </td> 
+         <td style="text-align:center;">2007 </td> 
+         <td style="width:428px;">Stop AIDS. Keep the Promise&nbsp;– Leadership </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>21 </td> 
+         <td style="text-align:center;">2008 </td> 
+         <td style="width:428px;">Stop AIDS. Keep the Promise&nbsp;– Lead&nbsp;– Empower&nbsp;– Deliver<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>22 </td> 
+         <td style="text-align:center;">2009 </td> 
+         <td style="width:428px;">Universal Access and Human Rights<sup id="cite_ref-avert_30-0" class="reference"><a href="#cite_note-avert-30">[30]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>23 </td> 
+         <td style="text-align:center;">2010 </td> 
+         <td style="width:428px;">Universal Access and Human Rights<sup id="cite_ref-avert_30-1" class="reference"><a href="#cite_note-avert-30">[30]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>24 </td> 
+         <td style="text-align:center;">2011 </td> 
+         <td style="width:428px;">Getting to Zero<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>25 </td> 
+         <td style="text-align:center;">2012 </td> 
+         <td style="width:428px;">Together We Will End AIDS<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>26 </td> 
+         <td style="text-align:center;">2013 </td> 
+         <td style="width:428px;">Zero Discrimination<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> </td> 
+         <td>Via this day's "Zero Discrimination" campaign, <a href="/wiki/UNAIDS" class="mw-redirect" title="UNAIDS">UNAIDS</a> launched the first UN "<a href="/wiki/Zero_Discrimination_Day" title="Zero Discrimination Day">Zero Discrimination Day</a>" held on 1 March 2014 <sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>27 </td> 
+         <td style="text-align:center;">2014 </td> 
+         <td style="width:428px;">Close the Gap<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>28 </td> 
+         <td style="text-align:center;">2015 </td> 
+         <td style="width:428px;">On the Fast Track to End AIDS<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>29 </td> 
+         <td style="text-align:center;">2016 </td> 
+         <td style="width:428px;">Hands up for #HIVprevention<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>30 </td> 
+         <td style="text-align:center;">2017 </td> 
+         <td style="width:428px;">My Health, My Right<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>31 </td> 
+         <td style="text-align:center;">2018 </td> 
+         <td style="width:428px;">Know your Status<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>32 </td> 
+         <td style="text-align:center;">2019 </td> 
+         <td style="width:428px;">Communities Make the Difference<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[40]</a></sup> </td> 
+         <td>
+          <table role="presentation" class="mbox-small-left plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+           <tbody>
+            <tr> 
+             <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/40px-Wikimedia-logo.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/60px-Wikimedia-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/80px-Wikimedia-logo.svg.png 2x" data-file-width="1024" data-file-height="1024"></td> 
+             <td class="mbox-text plainlist">Wikispore has a related page: <i><b><a href="https://wikispore.wmflabs.org/wiki/Event:World_AIDS_Day_2019" class="extiw" title="wikispore:Event:World AIDS Day 2019">Event:World AIDS Day 2019</a></b></i></td>
+            </tr> 
+           </tbody>
+          </table> </td>
+        </tr> 
+        <tr> 
+         <td>33 </td> 
+         <td style="text-align:center;">2020 </td> 
+         <td style="width:428px;">Global Solidarity Shared Responsibility<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup> </td> 
+         <td>Described as "like no other", due to <a href="/wiki/COVID-19" title="COVID-19">COVID-19</a>.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_AIDS_Day&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/AIDS_Awareness_Week" title="AIDS Awareness Week">AIDS Awareness Week</a></li> 
+       <li><a href="/wiki/List_of_LGBT_awareness_periods" title="List of LGBT awareness periods">List of LGBTIQ+ awareness periods</a></li> 
+       <li><a href="/wiki/National_AIDS_Testing_Day" class="mw-redirect" title="National AIDS Testing Day">National AIDS Testing Day</a> (United States)</li> 
+       <li><a href="/wiki/Epidemiology_of_HIV/AIDS" title="Epidemiology of HIV/AIDS">Epidemiology of HIV/AIDS</a></li> 
+       <li><a href="/wiki/World_Health_Day" title="World Health Day">World Health Day</a></li> 
+       <li><a href="/wiki/Day_Without_Art" title="Day Without Art">Day Without Art</a></li> 
+       <li><a href="/wiki/HIV.gov" title="HIV.gov">HIV.gov</a></li> 
+       <li><a href="/wiki/World_AIDS_Vaccine_Day" title="World AIDS Vaccine Day">World AIDS Vaccine Day</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_AIDS_Day&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.worldaidsday.org/about/">"About World Aids Day"</a>. <i>worldaidsday.org</i>. National Aids Trust<span class="reference-accessdate">. Retrieved <span class="nowrap">4 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=worldaidsday.org&amp;rft.atitle=About+World+Aids+Day&amp;rft_id=http%3A%2F%2Fwww.worldaidsday.org%2Fabout%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ndtv.com/education/world-aids-day-2020-date-december-1-history-theme-importance-significance">"World AIDS Day 2020: Date, History, Current Theme, Importance, Significance"</a>. <i>NDTV.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 December</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NDTV.com&amp;rft.atitle=World+AIDS+Day+2020%3A+Date%2C+History%2C+Current+Theme%2C+Importance%2C+Significance&amp;rft_id=https%3A%2F%2Fwww.ndtv.com%2Feducation%2Fworld-aids-day-2020-date-december-1-history-theme-importance-significance&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">World Health Organization, <a rel="nofollow" class="external text" href="https://www.who.int/campaigns">WHO campaigns.</a></span> </li> 
+         <li id="cite_note-UNAIDS2017-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-UNAIDS2017_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UNAIDS2017_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unaids.org/en/resources/fact-sheet">Fact sheet – Latest statistics on the status of the AIDS epidemic</a> UNAIDS. Accessed 30 November 2017.</span> </li> 
+         <li id="cite_note-NPR-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-NPR_5-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFBlock2011" class="citation news cs1">Block, Melissa (1 December 2011). <a rel="nofollow" class="external text" href="https://www.npr.org/2011/12/01/143017936/how-world-aids-day-began">"How World AIDS Day Began"</a>. <i><a href="/wiki/All_Things_Considered" title="All Things Considered">All Things Considered</a></i>. <a href="/wiki/NPR" title="NPR">NPR</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200801205834/https://www.npr.org/2011/12/01/143017936/how-world-aids-day-began">Archived</a> from the original on 1 August 2020.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=All+Things+Considered&amp;rft.atitle=How+World+AIDS+Day+Began&amp;rft.date=2011-12-01&amp;rft.aulast=Block&amp;rft.aufirst=Melissa&amp;rft_id=https%3A%2F%2Fwww.npr.org%2F2011%2F12%2F01%2F143017936%2Fhow-world-aids-day-began&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">U.S. Centers for Disease Control and Prevention, International News, "World AIDS Day Co-Founder Looks Back 20 Years Later", CDC HIV/Hepatitis/STD/TB Prevention News Update, 12 December 2007</span> </li> 
+         <li id="cite_note-newsworks-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-newsworks_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-newsworks_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFWalter2011" class="citation news cs1">Walter, Eric (30 November 2011). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131205142908/http://www.newsworks.org/index.php/local//speak-easy/30571-inventors-of-world-aids-day-james-bunn-and-thomas-netter">"Inventors of World AIDS Day: James Bunn and Thomas Netter"</a>. <a href="/wiki/WHYY-FM" title="WHYY-FM">WHYY-FM</a>. Archived from <a rel="nofollow" class="external text" href="https://whyy.org/articles/inventors-of-world-aids-day-james-bunn-and-thomas-netter/">the original</a> on 5 December 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Inventors+of+World+AIDS+Day%3A+James+Bunn+and+Thomas+Netter&amp;rft.date=2011-11-30&amp;rft.aulast=Walter&amp;rft.aufirst=Eric&amp;rft_id=https%3A%2F%2Fwhyy.org%2Farticles%2Finventors-of-world-aids-day-james-bunn-and-thomas-netter%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Speicher-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Speicher_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Speicher_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Speicher_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Speicher_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Speicher_8-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Speicher_8-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFSpeicher,_Sara2008" class="citation web cs1">Speicher, Sara (19 November 2008). <a rel="nofollow" class="external text" href="http://www.medicalnewstoday.com/articles/130044.php">"World AIDS Day Marks 20th Anniversary Of Solidarity"</a>. <i>Medical News Today</i>. Medicalnewstoday.com<span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Medical+News+Today&amp;rft.atitle=World+AIDS+Day+Marks+20th+Anniversary+Of+Solidarity.&amp;rft.date=2008-11-19&amp;rft.au=Speicher%2C+Sara&amp;rft_id=http%3A%2F%2Fwww.medicalnewstoday.com%2Farticles%2F130044.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Soest-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Soest_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Soest_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20091204035959/http://www.unaids.org/en/KnowledgeCentre/Resources/FeatureStories/archive/2006/20061020_Interview_Marcel_van_Soest.asp">"van Soest, Marcel. "Accountability: Main Message on World AIDS Day." Joint United Nations Programme on HIV/AIDS. 20 Oct 2006"</a>. Unaids.org. 20 October 2006. Archived from <a rel="nofollow" class="external text" href="http://www.unaids.org/en/KnowledgeCentre/Resources/FeatureStories/archive/2006/20061020_Interview_Marcel_van_Soest.asp">the original</a> on 4 December 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=van+Soest%2C+Marcel.+%22Accountability%3A+Main+Message+on+World+AIDS+Day.%22+Joint+United+Nations+Programme+on+HIV%2FAIDS.+20+Oct+2006&amp;rft.pub=Unaids.org&amp;rft.date=2006-10-20&amp;rft_id=http%3A%2F%2Fwww.unaids.org%2Fen%2FKnowledgeCentre%2FResources%2FFeatureStories%2Farchive%2F2006%2F20061020_Interview_Marcel_van_Soest.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFJacksonMagheriniUkabialaGehler2007" class="citation book cs1">Jackson, Peter; Magherini, Federigo; Ukabiala, Jullyette; et&nbsp;al., eds. (2007). "Report of the Secretary-General on the work of the Organization". <a rel="nofollow" class="external text" href="https://www.unmultimedia.org/searchers/yearbook/page.jsp?volume=2005&amp;page=35"><i>Yearbook of the United Nations, 2005</i></a>. <b>59</b>. Geneva, Switzerland: United Nations Publications. p.&nbsp;22. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-92-1-100967-5" title="Special:BookSources/978-92-1-100967-5"><bdi>978-92-1-100967-5</bdi></a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0082-8521">0082-8521</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Report+of+the+Secretary-General+on+the+work+of+the+Organization&amp;rft.btitle=Yearbook+of+the+United+Nations%2C+2005&amp;rft.place=Geneva%2C+Switzerland&amp;rft.pages=22&amp;rft.pub=United+Nations+Publications&amp;rft.date=2007&amp;rft.issn=0082-8521&amp;rft.isbn=978-92-1-100967-5&amp;rft_id=https%3A%2F%2Fwww.unmultimedia.org%2Fsearchers%2Fyearbook%2Fpage.jsp%3Fvolume%3D2005%26page%3D35&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.vatican.va/holy_father/john_paul_ii/letters/1988/documents/hf_jp-ii_let_19881128_aids_it.html">"First World AIDS Day in 1988"</a>. Vatican.va<span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=First+World+AIDS+Day+in+1988&amp;rft.pub=Vatican.va&amp;rft_id=https%3A%2F%2Fwww.vatican.va%2Fholy_father%2Fjohn_paul_ii%2Fletters%2F1988%2Fdocuments%2Fhf_jp-ii_let_19881128_aids_it.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.healthpastoral.org/text.php?cid=267&amp;sec=4&amp;docid=21&amp;lang=en">Message for the World AIDS Day</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304103134/http://www.healthpastoral.org/text.php?cid=267&amp;sec=4&amp;docid=21&amp;lang=en">Archived</a> 4 March 2016 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFGheddo" class="citation web cs1">Gheddo, Piero. <a rel="nofollow" class="external text" href="http://www.asianews.it/index.php?l=en&amp;art=4758">"Pope: "I feel near to people with AIDS and their families<span class="cs1-kern-right">"</span>"</a>. Asianews.it<span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pope%3A+%22I+feel+near+to+people+with+AIDS+and+their+families%22&amp;rft.pub=Asianews.it&amp;rft.aulast=Gheddo&amp;rft.aufirst=Piero&amp;rft_id=http%3A%2F%2Fwww.asianews.it%2Findex.php%3Fl%3Den%26art%3D4758&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://docs.google.com/viewer?a=v&amp;q=cache:65e95Hr5YywJ:data.unaids.org/pub/PressStatement/2006/World%2520AIDS%2520Day%2520-%2520CI%2520Statement%25202006%2520-%2520Eng.pdf+aids+day+pope+2006&amp;hl=en&amp;gl=ca&amp;sig=AHIEtbT8DSFpREHZcQo4yw6rDo64M8Xw8w">Message of Caritas Internationalis On Occasion of World AIDS Day 2006</a></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFPullella" class="citation news cs1">Pullella, Philip. <a rel="nofollow" class="external text" href="http://blogs.reuters.com/faithworld/2007/11/30/pope-skirts-condoms-issue-in-world-aids-day-statement/">"Pope skirts condoms issue in World AIDS Day statement"</a>. <i>Faithworld</i>. <a href="/wiki/Reuters" title="Reuters">Reuters</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Faithworld&amp;rft.atitle=Pope+skirts+condoms+issue+in+World+AIDS+Day+statement&amp;rft.aulast=Pullella&amp;rft.aufirst=Philip&amp;rft_id=http%3A%2F%2Fblogs.reuters.com%2Ffaithworld%2F2007%2F11%2F30%2Fpope-skirts-condoms-issue-in-world-aids-day-statement%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFTeasdale2016" class="citation pressrelease cs1">Teasdale, Ana (30 November 2016). <a rel="nofollow" class="external text" href="https://www.prweb.com/releases/2016/12/prweb13888541.htm">"The World Has Changed: The HIV Response Must Change Too On World HIV Day"</a> (Press release). World HIV Day. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20201201013530/https://www.prweb.com/releases/2016/12/prweb13888541.htm">Archived</a> from the original on 1 December 2020 – via PRWeb.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+World+Has+Changed%3A+The+HIV+Response+Must+Change+Too+On+World+HIV+Day&amp;rft.pub=World+HIV+Day&amp;rft.date=2016-11-30&amp;rft.aulast=Teasdale&amp;rft.aufirst=Ana&amp;rft_id=https%3A%2F%2Fwww.prweb.com%2Freleases%2F2016%2F12%2Fprweb13888541.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFParker2007" class="citation news cs1">Parker, Jennifer (30 November 2007). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130729222802/https://abcnews.go.com/blogs/politics/2007/11/the-2-story-tal/">"Two-Story AIDS Ribbon at White House"</a>. <i><a href="/wiki/ABC_News" title="ABC News">ABC News</a></i>. Archived from <a rel="nofollow" class="external text" href="https://abcnews.go.com/blogs/politics/2007/11/the-2-story-tal/">the original</a> on 29 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">1 December</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ABC+News&amp;rft.atitle=Two-Story+AIDS+Ribbon+at+White+House&amp;rft.date=2007-11-30&amp;rft.aulast=Parker&amp;rft.aufirst=Jennifer&amp;rft_id=https%3A%2F%2Fabcnews.go.com%2Fblogs%2Fpolitics%2F2007%2F11%2Fthe-2-story-tal%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation cs1"><span class="cs1-ws-icon" title="s:Proclamation 8207"><a class="external text" href="https://en.wikisource.org/wiki/Proclamation_8207"><i>Proclamation 8207: World AIDS Day, 2007</i>&nbsp;</a></span>. 29 November 2007 – via <a href="/wiki/Wikisource" title="Wikisource">Wikisource</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Proclamation+8207%3A+World+AIDS+Day%2C+2007&amp;rft.date=2007-11-29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFBurger2014" class="citation magazine cs1">Burger, Timothy J. (July–August 2014). <a rel="nofollow" class="external text" href="https://www.politico.com/magazine/story/2014/06/inside-george-w-bushs-closet-108016">"Inside George W. Bush's Closet"</a>. <i><a href="/wiki/Politico_Magazine" class="mw-redirect" title="Politico Magazine">Politico Magazine</a></i>. Vol.&nbsp;1 no.&nbsp;4. pp.&nbsp;28–36. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200527184747/https://www.politico.com/magazine/story/2014/06/inside-george-w-bushs-closet-108016">Archived</a> from the original on 27 May 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">2 December</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Politico+Magazine&amp;rft.atitle=Inside+George+W.+Bush%27s+Closet&amp;rft.volume=1&amp;rft.issue=4&amp;rft.pages=28-36&amp;rft.date=2014-07%2F2014-08&amp;rft.aulast=Burger&amp;rft.aufirst=Timothy+J.&amp;rft_id=https%3A%2F%2Fwww.politico.com%2Fmagazine%2Fstory%2F2014%2F06%2Finside-george-w-bushs-closet-108016&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.cbsnews.com/news/white-house-hangs-red-ribbon-for-world-aids-day/">"White House hangs red ribbon for World AIDS Day"</a>. <i><a href="/wiki/CBS_News" title="CBS News">CBS News</a></i>. 1 December 2017. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20201109023624/https://www.cbsnews.com/news/white-house-hangs-red-ribbon-for-world-aids-day/">Archived</a> from the original on 9 November 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">2 December</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CBS+News&amp;rft.atitle=White+House+hangs+red+ribbon+for+World+AIDS+Day&amp;rft.date=2017-12-01&amp;rft_id=https%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fwhite-house-hangs-red-ribbon-for-world-aids-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://obamawhitehouse.archives.gov/blog/2012/12/01/white-house-honors-world-aids-day-2012">"The White House Honors World AIDS Day 2012"</a>. <i><a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">whitehouse.gov</a></i>. 1 December 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">2 December</span> 2017</span> – via <a href="/wiki/NARA" class="mw-redirect" title="NARA">National Archives</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=The+White+House+Honors+World+AIDS+Day+2012&amp;rft.date=2012-12-01&amp;rft_id=https%3A%2F%2Fobamawhitehouse.archives.gov%2Fblog%2F2012%2F12%2F01%2Fwhite-house-honors-world-aids-day-2012&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://georgewbush-whitehouse.archives.gov/news/releases/2007/11/images/20071130_d-0117-6-772v.html">"A red ribbon adorns the North Portico of the White House Friday, Nov. 30, 2007, in recognition of World AIDS Day and the commitment by President George W. Bush and his administration to fighting and preventing HIV/AIDS in America and the world. White House photo by Eric Draper"</a>. <i><a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">whitehouse.gov</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 December</span> 2017</span> – via <a href="/wiki/NARA" class="mw-redirect" title="NARA">National Archives</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=A+red+ribbon+adorns+the+North+Portico+of+the+White+House+Friday%2C+Nov.+30%2C+2007%2C+in+recognition+of+World+AIDS+Day+and+the+commitment+by+President+George+W.+Bush+and+his+administration+to+fighting+and+preventing+HIV%2FAIDS+in+America+and+the+world.+White+House+photo+by+Eric+Draper&amp;rft_id=https%3A%2F%2Fgeorgewbush-whitehouse.archives.gov%2Fnews%2Freleases%2F2007%2F11%2Fimages%2F20071130_d-0117-6-772v.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFOffice_of_the_Press_Secretary2017" class="citation news cs1"><a href="/wiki/White_House_Office_of_the_Press_Secretary" title="White House Office of the Press Secretary">Office of the Press Secretary</a> (30 November 2017). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171130213005/https://www.whitehouse.gov/the-press-office/2017/11/30/president-donald-j-trump-proclaims-december-1-2017-world-aids-day">"President Donald J. Trump Proclaims December 1, 2017, as World AIDS Day"</a>. <i><a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">whitehouse.gov</a></i>. <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a>: <a href="/wiki/White_House" title="White House">White House</a>. Archived from <a rel="nofollow" class="external text" href="https://www.whitehouse.gov/the-press-office/2017/11/30/president-donald-j-trump-proclaims-december-1-2017-world-aids-day">the original</a> on 30 November 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">1 December</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=President+Donald+J.+Trump+Proclaims+December+1%2C+2017%2C+as+World+AIDS+Day&amp;rft.date=2017-11-30&amp;rft.au=Office+of+the+Press+Secretary&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2Fthe-press-office%2F2017%2F11%2F30%2Fpresident-donald-j-trump-proclaims-december-1-2017-world-aids-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFWong2017" class="citation news cs1">Wong, Curtis M. (30 November 2017). <a rel="nofollow" class="external text" href="https://www.huffingtonpost.com/entry/trump-world-aids-day_us_5a2073ace4b0a02abe8fc6b3">"Trump Excludes LGBTQ People From World AIDS Day Proclamation"</a>. <i><a href="/wiki/HuffPost" title="HuffPost">HuffPost</a></i>. <a href="/wiki/New_York_City" title="New York City">New York City</a>: <a href="/wiki/Oath_Inc." class="mw-redirect" title="Oath Inc.">Oath Inc.</a><span class="reference-accessdate"> Retrieved <span class="nowrap">1 December</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=HuffPost&amp;rft.atitle=Trump+Excludes+LGBTQ+People+From+World+AIDS+Day+Proclamation&amp;rft.date=2017-11-30&amp;rft.aulast=Wong&amp;rft.aufirst=Curtis+M.&amp;rft_id=https%3A%2F%2Fwww.huffingtonpost.com%2Fentry%2Ftrump-world-aids-day_us_5a2073ace4b0a02abe8fc6b3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">World Health Organization, <a rel="nofollow" class="external text" href="https://www.who.int/mediacentre/news/notes/2012/aids_20121129/en/">World Aids Day 2012: Closing in on global HIV targets.</a> Accessed 8 April 2014</span> </li> 
+         <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ibtimes.co.in/world-aids-day-2014-history-significance-theme-top-10-must-read-facts-virus-615663">"Aids Day 2014"</a>. ibtimes<span class="reference-accessdate">. Retrieved <span class="nowrap">1 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aids+Day+2014&amp;rft.pub=ibtimes&amp;rft_id=http%3A%2F%2Fwww.ibtimes.co.in%2Fworld-aids-day-2014-history-significance-theme-top-10-must-read-facts-virus-615663&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-MDOT-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-MDOT_27-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161201154038/http://www.health.state.mn.us/divs/idepc/diseases/hiv/worldaidsday/index.html">"World AIDS Day"</a>. Archived from the original on 1 December 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">7 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=World+AIDS+Day&amp;rft_id=http%3A%2F%2Fwww.health.state.mn.us%2Fdivs%2Fidepc%2Fdiseases%2Fhiv%2Fworldaidsday%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: bot: original URL status unknown (<a href="/wiki/Category:CS1_maint:_bot:_original_URL_status_unknown" title="Category:CS1 maint: bot: original URL status unknown">link</a>)</span>, Minnesota Department of Health</span> </li> 
+         <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.cdc.gov/mmwr/preview/mmwrhtml/00055700.htm#:~:text=of%20e-mail.-,World%20AIDS%20Day%20--%20December%201,%201998,Day,%20December%201,%201998.">"World AIDS Day – December 1, 1998"</a>. <i>www.cdc.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.cdc.gov&amp;rft.atitle=World+AIDS+Day+%E2%80%93+December+1%2C+1998&amp;rft_id=https%3A%2F%2Fwww.cdc.gov%2Fmmwr%2Fpreview%2Fmmwrhtml%2F00055700.htm%23%3A~%3Atext%3Dof%2520e-mail.-%2CWorld%2520AIDS%2520Day%2520--%2520December%25201%2C%25201998%2CDay%2C%2520December%25201%2C%25201998.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090325222544/http://www.unaids.org/en/KnowledgeCentre/Resources/FeatureStories/archive/2008/WAD_2008_Statements.asp">"Dr. Peter Piot, "2008 World AIDS Day statements", Joint United Nations Programme on HIV/AIDS (UNAIDS), 30 November 2008"</a>. UNAIDS. 30 November 2008. Archived from <a rel="nofollow" class="external text" href="http://www.unaids.org/en/KnowledgeCentre/Resources/FeatureStories/archive/2008/WAD_2008_Statements.asp">the original</a> on 25 March 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dr.+Peter+Piot%2C+%222008+World+AIDS+Day+statements%22%2C+Joint+United+Nations+Programme+on+HIV%2FAIDS+%28UNAIDS%29%2C+30+November+2008&amp;rft.pub=UNAIDS&amp;rft.date=2008-11-30&amp;rft_id=http%3A%2F%2Fwww.unaids.org%2Fen%2FKnowledgeCentre%2FResources%2FFeatureStories%2Farchive%2F2008%2FWAD_2008_Statements.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-avert-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-avert_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-avert_30-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.avert.org/world-aids-day.htm">World AIDS Day</a> avert.org</span> </li> 
+         <li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.worldaidscampaign.org/world-aids-day/world-aids-day-2011/">World AIDS Day 2011</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150701093011/http://www.worldaidscampaign.org/world-aids-day/world-aids-day-2011/">Archived</a> 1 July 2015 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <a href="/w/index.php?title=World_AIDS_Campaign&amp;action=edit&amp;redlink=1" class="new" title="World AIDS Campaign (page does not exist)">World AIDS Campaign</a></span> </li> 
+         <li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unaids.org/en/resources/campaigns/unaidsaids2012">World AIDS Day 2012</a> <a href="/wiki/UNAids" class="mw-redirect" title="UNAids">UNAids</a></span> </li> 
+         <li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unaids.org/en/resources/campaigns/worldaidsday2013">World AIDS Day 2013</a> <a href="/wiki/UNAids" class="mw-redirect" title="UNAids">UNAids</a></span> </li> 
+         <li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.who.int/gender-equity-rights/news/zero-discrimination-day/en/">"Gender, equity and human rights"</a>. <i>www.who.int</i>. <a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization</a> (WHO)<span class="reference-accessdate">. Retrieved <span class="nowrap">4 January</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.who.int&amp;rft.atitle=Gender%2C+equity+and+human+rights&amp;rft_id=https%3A%2F%2Fwww.who.int%2Fgender-equity-rights%2Fnews%2Fzero-discrimination-day%2Fen%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unaids.org/en/resources/campaigns/WAD2014">World AIDS Day 2014</a> <a href="/wiki/UNAids" class="mw-redirect" title="UNAids">UNAids</a></span> </li> 
+         <li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unaids.org/wad2015/">World AIDS Day 2015</a> <a href="/wiki/UNAids" class="mw-redirect" title="UNAids">UNAids</a></span> </li> 
+         <li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unaids.org/en/resources/campaigns/WAD2016">World AIDS Day 2016</a> <a href="/wiki/UNAids" class="mw-redirect" title="UNAids">UNAids</a></span> </li> 
+         <li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2017/november/20171106_myhealth-myright">UNAIDS launches 2017 World AIDS Day campaign-right to health</a> <a href="/wiki/UNAids" class="mw-redirect" title="UNAids">UNAids</a></span> </li> 
+         <li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://knowyourstatus.unaids.org/">Know your HIV status</a> <a href="/wiki/UNAids" class="mw-redirect" title="UNAids">UNAids</a></span> </li> 
+         <li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.unaids.org/en/resources/campaigns/WAD_2019">Communities make the difference</a> <a href="/wiki/UNAids" class="mw-redirect" title="UNAids">UNAids</a></span> </li> 
+         <li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFJessi_Lewis2020" class="citation web cs1">Jessi Lewis (1 December 2020). <a rel="nofollow" class="external text" href="https://www.starobserver.com.au/news/world-aids-day-2020/198718">"World AIDS Day 2020"</a>. <i>www.starobserver.com.au</i>. <a href="/wiki/Sydney_Star_Observer" class="mw-redirect" title="Sydney Star Observer">Sydney Star Observer</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 January</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.starobserver.com.au&amp;rft.atitle=World+AIDS+Day+2020&amp;rft.date=2020-12-01&amp;rft.au=Jessi+Lewis&amp;rft_id=https%3A%2F%2Fwww.starobserver.com.au%2Fnews%2Fworld-aids-day-2020%2F198718&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.unaids.org/en/resources/presscentre/pressreleaseandstatementarchive/2020/november/world-aids-day-2020-message-from-executive-director-winnie-byanyima">"Press Statement - World AIDS Day 2020 message from UNAIDS Executive Director Winnie Byanyima"</a>. <i>www.unaids.org</i>. <a href="/wiki/UNAIDS" class="mw-redirect" title="UNAIDS">UNAIDS</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 January</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.unaids.org&amp;rft.atitle=Press+Statement+-+World+AIDS+Day+2020+message+from+UNAIDS+Executive+Director+Winnie+Byanyima&amp;rft_id=https%3A%2F%2Fwww.unaids.org%2Fen%2Fresources%2Fpresscentre%2Fpressreleaseandstatementarchive%2F2020%2Fnovember%2Fworld-aids-day-2020-message-from-executive-director-winnie-byanyima&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+AIDS+Day" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_AIDS_Day&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:World_AIDS_Day" class="extiw" title="commons:Category:World AIDS Day"><span style="">World AIDS Day</span></a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/40px-Wikinews-logo.svg.png" decoding="async" width="40" height="22" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/60px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/80px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415"></td> 
+         <td class="mbox-text plainlist">Wikinews has related news: 
+          <div>
+           <ul>
+            <li><a href="https://en.wikinews.org/wiki/World_AIDS_Day_events_held_around_the_globe" class="extiw" title="wikinews:World AIDS Day events held around the globe"> World AIDS Day events held around the globe</a></li>
+           </ul>
+          </div></td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.worldaidsday.org/">World AIDS Day – UK site</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150714101100/http://www.worldaidscampaign.org/">The World AIDS Campaign</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.emro.who.int/world-aids-campaigns/world-aids-campaigns-2012/overview.html">World AIDS Day Campaign – WHO Eastern Mediterranean Region</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://digital2.library.ucla.edu/Search.do?descCvPk=23325">World Aids Day posters from the AIDS Posters Collection – UCLA Library</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.ilo.org/global/topics/hiv-aids/lang--en/index.htm">The ILO's Getting to Zero at the workplace campaign</a></li>
+      </ul> 
+      <h3><span class="mw-headline" id="US_Presidential_Proclamations_for_World_AIDS_Day">US Presidential Proclamations for World AIDS Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_AIDS_Day&amp;action=edit&amp;section=7" title="Edit section: US Presidential Proclamations for World AIDS Day">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <style data-mw-deduplicate="TemplateStyles:r998391716">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style>
+      <div class="div-col" style="column-width: 22em;"> 
+       <ul>
+        <li><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" decoding="async" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a> <a href="https://en.wikisource.org/wiki/Proclamation_9680" class="extiw" title="s:Proclamation 9680"> 2017 Proclamation</a></li>
+       </ul> 
+       <ul>
+        <li><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" decoding="async" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a> <a href="https://en.wikisource.org/wiki/Proclamation_9548" class="extiw" title="s:Proclamation 9548"> 2016 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="https://obamawhitehouse.archives.gov/the-press-office/2015/11/30/presidential-proclamation-world-aids-day-2015">2015 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="https://m.whitehouse.gov/the-press-office/2014/11/29/presidential-proclamation-world-aids-day-2014">2014 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="https://m.whitehouse.gov/the-press-office/2013/11/27/world-aids-day-2013">2013 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="https://obamawhitehouse.archives.gov/the-press-office/2012/11/29/presidential-proclamation-world-aids-day-2012">2012 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="https://obamawhitehouse.archives.gov/the-press-office/2011/12/01/presidential-proclamation-world-aids-day-2011">2011 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="https://obamawhitehouse.archives.gov/the-press-office/2010/11/30/presidential-proclamation-world-aids-day">2010 Proclamation</a></li> 
+        <li><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" decoding="async" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a> <a href="https://en.wikisource.org/wiki/Proclamation_8459" class="extiw" title="s:Proclamation 8459"> 2009 Proclamation</a></li> 
+        <li><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" decoding="async" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a> <a href="https://en.wikisource.org/wiki/Proclamation_8325" class="extiw" title="s:Proclamation 8325"> 2008 Proclamation</a></li> 
+        <li><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" decoding="async" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a> <a href="https://en.wikisource.org/wiki/Proclamation_8207" class="extiw" title="s:Proclamation 8207"> 2007 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="http://2006-2009.pepfar.gov/press/77186.htm">2006 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="http://www.presidency.ucsb.edu/ws/?pid=65258">2005 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="http://www.gpo.gov/fdsys/pkg/WCPD-2004-12-06/pdf/WCPD-2004-12-06-Pg2891.pdf">2004 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="http://2001-2009.state.gov/s/gac/rl/rm/26768.htm">2003 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="http://2001-2009.state.gov/g/oes/rls/rm/2002/15626.htm">2002 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="http://www.gpo.gov/fdsys/pkg/STATUTE-115/pdf/STATUTE-115-Pg2873.pdf">2001 Proclamation</a></li> 
+        <li><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" decoding="async" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a> <a href="https://en.wikisource.org/wiki/Proclamation_7382" class="extiw" title="s:Proclamation 7382"> 2000 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="https://clinton4.nara.gov/WH/New/html/aidsday.html">1999 Proclamation</a></li> 
+        <li><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" decoding="async" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a> <a href="https://en.wikisource.org/wiki/Proclamation_7153" class="extiw" title="s:Proclamation 7153"> 1998 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="http://www.gpo.gov/fdsys/pkg/WCPD-1997-12-08/pdf/WCPD-1997-12-08-Pg1941.pdf">1997 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="http://www.gpo.gov/fdsys/pkg/WCPD-1996-12-02/pdf/WCPD-1996-12-02-Pg2439.pdf">1996 Proclamation</a></li> 
+        <li><a rel="nofollow" class="external text" href="http://www.gpo.gov/fdsys/pkg/WCPD-1995-12-04/pdf/WCPD-1995-12-04-Pg2091.pdf">1995 Proclamation</a></li> 
+        <li><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" decoding="async" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a> <a href="https://en.wikisource.org/wiki/Proclamation_6759" class="extiw" title="s:Proclamation 6759"> 1994 Proclamation</a></li> 
+        <li><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" decoding="async" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a> <a href="https://en.wikisource.org/wiki/Proclamation_6632" class="extiw" title="s:Proclamation 6632"> 1993 Proclamation</a></li>
+       </ul> 
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="HIV/AIDS_topics" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:HIV_and_AIDS" title="Template:HIV and AIDS"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:HIV_and_AIDS" title="Template talk:HIV and AIDS"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:HIV_and_AIDS&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="HIV/AIDS_topics" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/HIV" title="HIV">HIV</a>/<a href="/wiki/HIV/AIDS" title="HIV/AIDS">AIDS</a> topics
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="HIV/AIDS" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/HIV/AIDS" title="HIV/AIDS">HIV/AIDS</a>
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">HIV</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/HIV" title="HIV">HIV</a> 
+                      <ul>
+                       <li><a href="/wiki/Lentivirus" title="Lentivirus">Lentivirus</a></li> 
+                       <li><a href="/wiki/Structure_and_genome_of_HIV" title="Structure and genome of HIV">structure and genome</a></li> 
+                       <li><a href="/wiki/Subtypes_of_HIV" title="Subtypes of HIV">subtypes</a></li> 
+                       <li><a href="/wiki/CDC_classification_system_for_HIV_infection" title="CDC classification system for HIV infection">CDC classification</a></li> 
+                       <li><a href="/wiki/HIV_disease_progression_rates" title="HIV disease progression rates">disease progression rates</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/HIV/AIDS" title="HIV/AIDS">HIV/AIDS</a> 
+                      <ul>
+                       <li><a href="/wiki/Diagnosis_of_HIV/AIDS" title="Diagnosis of HIV/AIDS">diagnosis</a></li> 
+                       <li><a href="/wiki/Management_of_HIV/AIDS" title="Management of HIV/AIDS">management</a></li> 
+                       <li><a href="/wiki/Pathophysiology_of_HIV/AIDS" title="Pathophysiology of HIV/AIDS">pathophysiology</a></li> 
+                       <li><a href="/wiki/Prevention_of_HIV/AIDS" title="Prevention of HIV/AIDS">prevention</a></li> 
+                       <li><a href="/wiki/HIV/AIDS_research" title="HIV/AIDS research">research</a></li> 
+                       <li><a href="/wiki/HIV_vaccine" class="mw-redirect" title="HIV vaccine">vaccination</a></li> 
+                       <li><a href="/wiki/Pre-exposure_prophylaxis" title="Pre-exposure prophylaxis">PrEP</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/WHO_disease_staging_system_for_HIV_infection_and_disease" title="WHO disease staging system for HIV infection and disease">WHO disease staging system for HIV infection and disease</a> 
+                      <ul>
+                       <li><a href="/wiki/WHO_Disease_Staging_System_for_HIV_Infection_and_Disease_in_Children" title="WHO Disease Staging System for HIV Infection and Disease in Children">Children</a></li> 
+                       <li><a href="/wiki/WHO_Disease_Staging_System_for_HIV_Infection_and_Disease_in_Adults_and_Adolescents" title="WHO Disease Staging System for HIV Infection and Disease in Adults and Adolescents">Teens / Adults</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/List_of_countries_by_HIV/AIDS_adult_prevalence_rate" title="List of countries by HIV/AIDS adult prevalence rate">Countries by AIDS prevalence rate</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Conditions</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Signs_and_symptoms_of_HIV/AIDS" title="Signs and symptoms of HIV/AIDS">Signs and symptoms</a></li> 
+                     <li><a href="/wiki/AIDS-defining_clinical_condition" title="AIDS-defining clinical condition">AIDS-defining clinical condition</a></li> 
+                     <li><a href="/wiki/Diffuse_infiltrative_lymphocytosis_syndrome" title="Diffuse infiltrative lymphocytosis syndrome">Diffuse infiltrative lymphocytosis syndrome</a></li> 
+                     <li><a href="/wiki/HIV-associated_lipodystrophy" title="HIV-associated lipodystrophy">Lipodystrophy</a></li> 
+                     <li><a href="/wiki/HIV-associated_nephropathy" title="HIV-associated nephropathy">Nephropathy</a></li> 
+                     <li><a href="/wiki/HIV-associated_neurocognitive_disorder" title="HIV-associated neurocognitive disorder">Neurocognitive disorders</a></li> 
+                     <li><a href="/wiki/HIV-associated_pruritus" title="HIV-associated pruritus">Pruritus</a></li> 
+                     <li><a href="/wiki/HIV_superinfection" title="HIV superinfection">Superinfection</a></li> 
+                     <li><a href="/wiki/Tuberculosis" title="Tuberculosis">Tuberculosis co-infection</a></li> 
+                     <li><a href="/wiki/HIV_Drug_Resistance_Database" title="HIV Drug Resistance Database">HIV Drug Resistance Database</a></li> 
+                     <li><a href="/wiki/Innate_resistance_to_HIV" title="Innate resistance to HIV">Innate resistance to HIV</a></li> 
+                     <li><a href="/wiki/Serostatus" title="Serostatus">Serostatus</a></li> 
+                     <li><a href="/wiki/HIV-positive_people" title="HIV-positive people">HIV-positive people</a></li> 
+                     <li><a href="/wiki/Nutritional_challenges_of_HIV/AIDS" title="Nutritional challenges of HIV/AIDS">Nutrition</a></li> 
+                     <li><a href="/wiki/HIV_and_pregnancy" title="HIV and pregnancy">Pregnancy</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">History</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/History_of_HIV/AIDS" title="History of HIV/AIDS">History</a></li> 
+                     <li><a href="/wiki/Epidemiology_of_HIV/AIDS" title="Epidemiology of HIV/AIDS">Epidemiology</a> 
+                      <ul>
+                       <li><a href="/wiki/Multiple_sex_partners" title="Multiple sex partners">Multiple sex partners</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Timeline_of_HIV/AIDS" title="Timeline of HIV/AIDS">Timeline</a></li> 
+                     <li><a href="/wiki/World_AIDS_Museum_and_Educational_Center" title="World AIDS Museum and Educational Center">AIDS Museum</a></li> 
+                     <li><a href="/wiki/Timothy_Ray_Brown" title="Timothy Ray Brown">Timothy Ray Brown</a></li> 
+                     <li><a href="/wiki/Women_and_HIV/AIDS" title="Women and HIV/AIDS">Women and HIV/AIDS</a></li> 
+                     <li><a href="/wiki/HIV_and_men_who_have_sex_with_men" title="HIV and men who have sex with men">HIV and homosexual men</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Social</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/AIDS_orphan" title="AIDS orphan">AIDS orphan</a></li> 
+                     <li><a href="/wiki/Religion_and_HIV/AIDS" title="Religion and HIV/AIDS">Religion</a> 
+                      <ul>
+                       <li><a href="/wiki/Catholic_Church_and_HIV/AIDS" title="Catholic Church and HIV/AIDS">Catholic Church and HIV/AIDS</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Circumcision_and_HIV" title="Circumcision and HIV">Circumcision and HIV</a></li> 
+                     <li><a href="/wiki/Criminal_transmission_of_HIV" title="Criminal transmission of HIV">Criminal transmission</a></li> 
+                     <li><a href="/wiki/Discrimination_against_people_with_HIV/AIDS" title="Discrimination against people with HIV/AIDS">Discrimination against people</a></li> 
+                     <li><a href="/wiki/Economic_impact_of_HIV/AIDS" title="Economic impact of HIV/AIDS">Economic impact</a> 
+                      <ul>
+                       <li><a href="/wiki/Cost_of_HIV_treatment" title="Cost of HIV treatment">Cost of treatment</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/HIV-affected_community" title="HIV-affected community">HIV-affected community</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_activism" title="HIV/AIDS activism">HIV/AIDS activism</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_denialism" title="HIV/AIDS denialism">HIV/AIDS denialism</a></li> 
+                     <li><a href="/wiki/Red_ribbon" title="Red ribbon">Red ribbon</a></li> 
+                     <li><a href="/wiki/Safe_sex" title="Safe sex">Safe sex</a></li> 
+                     <li><a href="/wiki/Sex_education" title="Sex education">Sex education</a></li> 
+                     <li><a href="/wiki/List_of_HIV-positive_people" title="List of HIV-positive people">List of HIV-positive people</a></li> 
+                     <li><a href="/wiki/People_With_AIDS" title="People With AIDS">People With AIDS Self-Empowerment Movement</a></li> 
+                     <li><a href="/wiki/Sexually_transmitted_infections_in_the_pornography_industry" title="Sexually transmitted infections in the pornography industry">HIV/AIDS in the porn industry</a></li> 
+                     <li><a href="/wiki/HIV.gov" title="HIV.gov">HIV.gov</a></li> 
+                     <li><a href="/wiki/NAMES_Project_AIDS_Memorial_Quilt" title="NAMES Project AIDS Memorial Quilt">AIDS Memorial Quilt</a></li> 
+                     <li><a href="/wiki/Product_Red" title="Product Red">Product Red</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Culture</th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/Discredited_HIV/AIDS_origins_theories" title="Discredited HIV/AIDS origins theories">Discredited HIV/AIDS origins theories</a></li> 
+                     <li><a href="/wiki/European_and_Developing_Countries_Clinical_Trials_Partnership" title="European and Developing Countries Clinical Trials Partnership">European and Developing Countries Clinical Trials Partnership</a></li> 
+                     <li><a href="/wiki/International_AIDS_Conference" class="mw-redirect" title="International AIDS Conference">International AIDS Conference</a></li> 
+                     <li><a href="/wiki/International_AIDS_Society" title="International AIDS Society">International AIDS Society</a></li> 
+                     <li><a href="/wiki/Joint_United_Nations_Programme_on_HIV/AIDS" title="Joint United Nations Programme on HIV/AIDS">Joint United Nations Programme on HIV/AIDS (UNAIDS)</a></li> 
+                     <li><a href="/wiki/Media_portrayal_of_HIV/AIDS" title="Media portrayal of HIV/AIDS">Media portrayal of HIV/AIDS</a></li> 
+                     <li><a href="/wiki/Misconceptions_about_HIV/AIDS" title="Misconceptions about HIV/AIDS">Misconceptions about HIV/AIDS</a></li> 
+                     <li><a href="/wiki/President%27s_Emergency_Plan_for_AIDS_Relief" title="President's Emergency Plan for AIDS Relief">President's Emergency Plan for AIDS Relief (PEPFAR)</a></li> 
+                     <li><a href="/wiki/Sing_campaign" title="Sing campaign">The SING Campaign</a></li> 
+                     <li><a href="/wiki/Solidays" title="Solidays">Solidays</a></li> 
+                     <li><a href="/wiki/Treatment_Action_Campaign" title="Treatment Action Campaign">Treatment Action Campaign</a></li> 
+                     <li><a href="/wiki/The_Global_Fund_to_Fight_AIDS,_Tuberculosis_and_Malaria" title="The Global Fund to Fight AIDS, Tuberculosis and Malaria">The Global Fund</a></li> 
+                     <li><a class="mw-selflink selflink">World AIDS Day</a></li> 
+                     <li><a href="/wiki/Youth_Against_AIDS" title="Youth Against AIDS">YAA/Youthforce</a></li> 
+                     <li><a href="/wiki/Free_Me_(Sia_song)" title="Free Me (Sia song)">"Free Me"</a></li> 
+                     <li><a href="/wiki/Larry_Kramer" title="Larry Kramer">Larry Kramer</a> 
+                      <ul>
+                       <li><a href="/wiki/Gay_Men%27s_Health_Crisis" class="mw-redirect" title="Gay Men's Health Crisis">Gay Men's Health Crisis</a></li> 
+                       <li><a href="/wiki/ACT_UP" title="ACT UP">ACT UP</a></li> 
+                       <li><a href="/wiki/Reports_from_the_Holocaust" title="Reports from the Holocaust">Reports from the Holocaust</a></li>
+                      </ul></li> 
+                     <li><a href="/wiki/Silence%3DDeath_Project" title="Silence=Death Project">Silence=Death Project</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="col" class="navbox-title" colspan="2">
+               <div id="HIV/AIDS_pandemic_by_region_/_country" style="font-size:114%;margin:0 4em">
+                <a href="/wiki/Epidemiology_of_HIV/AIDS" title="Epidemiology of HIV/AIDS">HIV/AIDS pandemic</a> by region / country
+               </div></th>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/HIV/AIDS_in_Africa" title="HIV/AIDS in Africa">Africa</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/HIV/AIDS_in_Angola" title="HIV/AIDS in Angola">Angola</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Benin" title="HIV/AIDS in Benin">Benin</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Botswana" title="HIV/AIDS in Botswana">Botswana</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_the_Democratic_Republic_of_the_Congo" title="HIV/AIDS in the Democratic Republic of the Congo">Democratic Republic of the Congo</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Egypt" title="HIV/AIDS in Egypt">Egypt</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Eswatini" title="HIV/AIDS in Eswatini">Eswatini</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Ethiopia" title="HIV/AIDS in Ethiopia">Ethiopia</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Ghana" title="HIV/AIDS in Ghana">Ghana</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Guinea" title="HIV/AIDS in Guinea">Guinea</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Ivory_Coast" title="HIV/AIDS in Ivory Coast">Côte d'Ivoire (Ivory Coast)</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Kenya" title="HIV/AIDS in Kenya">Kenya</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Lesotho" title="HIV/AIDS in Lesotho">Lesotho</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Madagascar" title="HIV/AIDS in Madagascar">Madagascar</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Malawi" title="HIV/AIDS in Malawi">Malawi</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Mali" title="HIV/AIDS in Mali">Mali</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Mozambique" title="HIV/AIDS in Mozambique">Mozambique</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Namibia" title="HIV/AIDS in Namibia">Namibia</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Niger" title="HIV/AIDS in Niger">Niger</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Nigeria" title="HIV/AIDS in Nigeria">Nigeria</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Rwanda" title="HIV/AIDS in Rwanda">Rwanda</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Senegal" title="HIV/AIDS in Senegal">Senegal</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Tanzania" title="HIV/AIDS in Tanzania">Tanzania</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_South_Africa" title="HIV/AIDS in South Africa">South Africa</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Uganda" title="HIV/AIDS in Uganda">Uganda</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Zambia" title="HIV/AIDS in Zambia">Zambia</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Zimbabwe" title="HIV/AIDS in Zimbabwe">Zimbabwe</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/HIV/AIDS_in_North_America" title="HIV/AIDS in North America">North America</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"></div>
+                   <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                    <tbody>
+                     <tr>
+                      <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/HIV/AIDS_in_Canada" title="HIV/AIDS in Canada">Canada</a></li> 
+                         <li><a href="/wiki/HIV/AIDS_in_Mexico" title="HIV/AIDS in Mexico">Mexico</a></li> 
+                         <li><a href="/wiki/HIV/AIDS_in_El_Salvador" title="HIV/AIDS in El Salvador">El Salvador</a></li> 
+                         <li><a href="/wiki/HIV/AIDS_in_Guatemala" title="HIV/AIDS in Guatemala">Guatemala</a></li> 
+                         <li><a href="/wiki/HIV/AIDS_in_Honduras" title="HIV/AIDS in Honduras">Honduras</a></li> 
+                         <li><a href="/wiki/HIV/AIDS_in_Nicaragua" title="HIV/AIDS in Nicaragua">Nicaragua</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/HIV/AIDS_in_the_United_States" title="HIV/AIDS in the United States">United States</a></th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/HIV/AIDS_in_New_York_City" title="HIV/AIDS in New York City">New York City</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/HIV/AIDS_in_the_Caribbean" title="HIV/AIDS in the Caribbean">Caribbean</a></th>
+                      <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/HIV/AIDS_in_Haiti" title="HIV/AIDS in Haiti">Haiti</a></li> 
+                         <li><a href="/wiki/HIV/AIDS_in_Jamaica" title="HIV/AIDS in Jamaica">Jamaica</a></li> 
+                         <li><a href="/wiki/HIV/AIDS_in_the_Dominican_Republic" title="HIV/AIDS in the Dominican Republic">Dominican Republic</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <div></div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/HIV/AIDS_in_Latin_America" title="HIV/AIDS in Latin America">South America</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/HIV/AIDS_in_Bolivia" title="HIV/AIDS in Bolivia">Bolivia</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Brazil" title="HIV/AIDS in Brazil">Brazil</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Colombia" title="HIV/AIDS in Colombia">Colombia</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Guyana" title="HIV/AIDS in Guyana">Guyana</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Peru" title="HIV/AIDS in Peru">Peru</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/HIV/AIDS_in_Asia" title="HIV/AIDS in Asia">Asia</a></th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/HIV/AIDS_in_Afghanistan" class="mw-redirect" title="HIV/AIDS in Afghanistan">Afghanistan</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Armenia" title="HIV/AIDS in Armenia">Armenia</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Azerbaijan" class="mw-redirect" title="HIV/AIDS in Azerbaijan">Azerbaijan</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Bahrain" class="mw-redirect" title="HIV/AIDS in Bahrain">Bahrain</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Bangladesh" title="HIV/AIDS in Bangladesh">Bangladesh</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Bhutan" title="HIV/AIDS in Bhutan">Bhutan</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Cambodia" title="HIV/AIDS in Cambodia">Cambodia</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_China" title="HIV/AIDS in China">China (PRC)</a> (<a href="/wiki/HIV/AIDS_in_Yunnan" title="HIV/AIDS in Yunnan">Yunnan</a>)</li> 
+                     <li><a href="/wiki/HIV/AIDS_in_East_Timor" title="HIV/AIDS in East Timor">East Timor</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_India" title="HIV/AIDS in India">India</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Indonesia" title="HIV/AIDS in Indonesia">Indonesia</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Iran" class="mw-redirect" title="HIV/AIDS in Iran">Iran</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Iraq" title="HIV/AIDS in Iraq">Iraq</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Japan" title="HIV/AIDS in Japan">Japan</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Jordan" title="HIV/AIDS in Jordan">Jordan</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_North_Korea" class="mw-redirect" title="HIV/AIDS in North Korea">North Korea</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Laos" title="HIV/AIDS in Laos">Laos</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Malaysia" title="HIV/AIDS in Malaysia">Malaysia</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Myanmar" title="HIV/AIDS in Myanmar">Myanmar (Burma)</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Nepal" title="HIV/AIDS in Nepal">Nepal</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Pakistan" title="HIV/AIDS in Pakistan">Pakistan</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_the_Philippines" title="HIV/AIDS in the Philippines">Philippines</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Saudi_Arabia" class="mw-redirect" title="HIV/AIDS in Saudi Arabia">Saudi Arabia</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Sri_Lanka" class="mw-redirect" title="HIV/AIDS in Sri Lanka">Sri Lanka</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Taiwan" title="HIV/AIDS in Taiwan">Taiwan (ROC)</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Thailand" title="HIV/AIDS in Thailand">Thailand</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_the_United_Arab_Emirates" title="HIV/AIDS in the United Arab Emirates">United Arab Emirates</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Turkey" class="mw-redirect" title="HIV/AIDS in Turkey">Turkey</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Vietnam" title="HIV/AIDS in Vietnam">Vietnam</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/HIV/AIDS_in_Europe" title="HIV/AIDS in Europe">Europe</a></th>
+                  <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/HIV/AIDS_in_the_United_Kingdom" title="HIV/AIDS in the United Kingdom">United Kingdom</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Russia" title="HIV/AIDS in Russia">Russia</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Ukraine" title="HIV/AIDS in Ukraine">Ukraine</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <th scope="row" class="navbox-group" style="width:1%">Oceania</th>
+                  <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"> 
+                    <ul>
+                     <li><a href="/wiki/HIV/AIDS_in_Australia" title="HIV/AIDS in Australia">Australia</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_New_Zealand" title="HIV/AIDS in New Zealand">New Zealand</a></li> 
+                     <li><a href="/wiki/HIV/AIDS_in_Papua_New_Guinea" title="HIV/AIDS in Papua New Guinea">Papua New Guinea</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                 <tr>
+                  <td class="navbox-abovebelow" colspan="2">
+                   <div> 
+                    <ul>
+                     <li><a href="/wiki/List_of_countries_by_HIV/AIDS_adult_prevalence_rate" title="List of countries by HIV/AIDS adult prevalence rate">List of countries by HIV/AIDS adult prevalence rate</a></li> 
+                     <li><a href="/wiki/List_of_HIV/AIDS_cases_and_deaths_registered_by_region" title="List of HIV/AIDS cases and deaths registered by region">List of HIV/AIDS cases and deaths registered by region</a></li>
+                    </ul> 
+                   </div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1353
+Cached time: 20210423074517
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.936 seconds
+Real time usage: 1.273 seconds
+Preprocessor visited node count: 4372/1000000
+Post‐expand include size: 124824/2097152 bytes
+Template argument size: 3635/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 94048/5000000 bytes
+Lua time usage: 0.386/10.000 seconds
+Lua memory usage: 8841846/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1098.697      1 -total
+ 38.46%  422.527      1 Template:Reflist
+ 18.13%  199.184     14 Template:Cite_web
+  9.86%  108.364      1 Template:Infobox_holiday
+  9.14%  100.405      1 Template:HIV/AIDS
+  7.90%   86.780      1 Template:Short_description
+  7.87%   86.416      3 Template:Sister_project
+  7.74%   85.027      1 Template:Navbox_with_collapsible_groups
+  7.36%   80.917      3 Template:Side_box
+  7.31%   80.348      1 Template:Cn
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:153614-0!canonical and timestamp 20210423074516 and revision id 1015445921. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=World_AIDS_Day&amp;oldid=1015445921">https://en.wikipedia.org/w/index.php?title=World_AIDS_Day&amp;oldid=1015445921</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:HIV/AIDS_activism" title="Category:HIV/AIDS activism">HIV/AIDS activism</a></li>
+       <li><a href="/wiki/Category:December_observances" title="Category:December observances">December observances</a></li>
+       <li><a href="/wiki/Category:Health_awareness_days" title="Category:Health awareness days">Health awareness days</a></li>
+       <li><a href="/wiki/Category:History_of_HIV/AIDS" title="Category:History of HIV/AIDS">History of HIV/AIDS</a></li>
+       <li><a href="/wiki/Category:Recurring_events_established_in_1988" title="Category:Recurring events established in 1988">Recurring events established in 1988</a></li>
+       <li><a href="/wiki/Category:United_Nations_days" title="Category:United Nations days">United Nations days</a></li>
+       <li><a href="/wiki/Category:World_Health_Organization" title="Category:World Health Organization">World Health Organization</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_bot:_original_URL_status_unknown" title="Category:CS1 maint: bot: original URL status unknown">CS1 maint: bot: original URL status unknown</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_November_2020" title="Category:Use dmy dates from November 2020">Use dmy dates from November 2020</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_with_missing_field" title="Category:Infobox holiday with missing field">Infobox holiday with missing field</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_fixed_day_(2)" title="Category:Infobox holiday fixed day (2)">Infobox holiday fixed day (2)</a></li>
+       <li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2017" title="Category:Articles containing potentially dated statements from 2017">Articles containing potentially dated statements from 2017</a></li>
+       <li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2020" title="Category:Articles with unsourced statements from November 2020">Articles with unsourced statements from November 2020</a></li>
+       <li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=World+AIDS+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=World+AIDS+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/World_AIDS_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:World_AIDS_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/World_AIDS_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=World_AIDS_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=World_AIDS_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/World_AIDS_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/World_AIDS_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=World_AIDS_Day&amp;oldid=1015445921" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=World_AIDS_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=World_AIDS_Day&amp;id=1015445921&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q192373" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=World_AIDS_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=World_AIDS_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:World_AIDS_Day" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Welt-AIDS-Tag" title="Welt-AIDS-Tag – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%A5%D9%8A%D8%AF%D8%B2_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A" title="يوم الإيدز العالمي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC_%E0%A6%8F%E0%A6%87%E0%A6%A1%E0%A7%8D%E2%80%8C%E0%A6%9B_%E0%A6%A6%E0%A6%BF%E0%A7%B1%E0%A6%B8" title="বিশ্ব এইড্‌ছ দিৱস – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/D%C3%ADa_Mundial_de_la_Llucha_escontra%27l_Sida" title="Día Mundial de la Llucha escontra'l Sida – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C3%9Cm%C3%BCmd%C3%BCnya_Q%C4%B0%C3%87S_G%C3%BCn%C3%BC" title="Ümümdünya QİÇS Günü – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-ban"><a href="https://ban.wikipedia.org/wiki/Rahina_AIDS_Sajagat" title="Rahina AIDS Sajagat – Balinese" lang="ban" hreflang="ban" class="interlanguage-link-target">Basa Bali</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC_%E0%A6%8F%E0%A6%87%E0%A6%A1%E0%A6%B8_%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8" title="বিশ্ব এইডস দিবস – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%AC%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%B5_%E0%A4%8F%E0%A4%A1%E0%A5%8D%E0%A4%B8_%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8" title="बिस्व एड्स दिवस – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%B5%D0%BD_%D0%B4%D0%B5%D0%BD_%D0%B7%D0%B0_%D0%B1%D0%BE%D1%80%D0%B1%D0%B0_%D1%81%D1%8A%D1%81_%D0%A1%D0%9F%D0%98%D0%9D" title="Световен ден за борба със СПИН – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Memorial_Internacional_de_la_Sida" title="Memorial Internacional de la Sida – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Sv%C4%9Btov%C3%BD_den_boje_proti_AIDS" title="Světový den boje proti AIDS – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Aids-dag" title="Aids-dag – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Welt-AIDS-Tag" title="Welt-AIDS-Tag – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/%C3%9Clemaailmne_AIDSi_vastu_v%C3%B5itlemise_p%C3%A4ev" title="Ülemaailmne AIDSi vastu võitlemise päev – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_de_la_Lucha_contra_el_Sida" title="Día Mundial de la Lucha contra el Sida – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D8%AC%D9%87%D8%A7%D9%86%DB%8C_%D8%A7%DB%8C%D8%AF%D8%B2" title="روز جهانی ایدز – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_de_lutte_contre_le_sida" title="Journée mondiale de lutte contre le sida – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/D%C3%ADa_Mundial_da_Loita_contra_a_SIDA" title="Día Mundial da Loita contra a SIDA – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%84%B8%EA%B3%84_%EC%97%90%EC%9D%B4%EC%A6%88%EC%9D%98_%EB%82%A0" title="세계 에이즈의 날 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%81%D4%BB%D4%B1%D5%80-%D5%AB_%D5%A4%D5%A5%D5%B4_%D5%BA%D5%A1%D5%B5%D6%84%D5%A1%D6%80%D5%AB_%D5%B0%D5%A1%D5%B4%D5%A1%D5%B7%D5%AD%D5%A1%D6%80%D5%B0%D5%A1%D5%B5%D5%AB%D5%B6_%D6%85%D6%80" title="ՁԻԱՀ-ի դեմ պայքարի համաշխարհային օր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5_%E0%A4%8F%E0%A4%A1%E0%A5%8D%E0%A4%B8_%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8" title="विश्व एड्स दिवस – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hari_AIDS_Sedunia" title="Hari AIDS Sedunia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Giornata_mondiale_contro_l%27AIDS" title="Giornata mondiale contro l'AIDS – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%9D_%D7%94%D7%90%D7%99%D7%99%D7%93%D7%A1_%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%99" title="יום האיידס העולמי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Dina_AIDS_Sadonya" title="Dina AIDS Sadonya – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B2%BF%E0%B2%B6%E0%B3%8D%E0%B2%B5_%E0%B2%8E%E0%B2%A1%E0%B3%8D%E0%B2%B8%E0%B3%8D_%E0%B2%A6%E0%B2%BF%E0%B2%A8" title="ವಿಶ್ವ ಎಡ್ಸ್ ದಿನ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A8%E1%83%98%E1%83%93%E1%83%A1%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%A1%E1%83%9D%E1%83%A4%E1%83%9A%E1%83%98%E1%83%9D_%E1%83%93%E1%83%A6%E1%83%94" title="შიდსის მსოფლიო დღე – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Siku_ya_Ukimwi_duniani" title="Siku ya Ukimwi duniani – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%91%D2%AF%D1%82%D0%BA%D2%AF%D0%BB_%D0%B4%D2%AF%D0%B9%D0%BD%D3%A9%D0%BB%D2%AF%D0%BA_%D0%A1%D0%9F%D0%98%D0%94_%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD_%D0%BA%D2%AF%D1%80%D3%A9%D1%88%D2%AF%D2%AF_%D0%BA%D2%AF%D0%BD%D2%AF" title="Бүткүл дүйнөлүк СПИД менен күрөшүү күнү – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Dies_Mundi_SCDI" title="Dies Mundi SCDI – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B2%E0%B5%8B%E0%B4%95_%E0%B4%8E%E0%B4%AF%E0%B4%BF%E0%B4%A1%E0%B5%8D%E0%B4%B8%E0%B5%8D_%E0%B4%A6%E0%B4%BF%E0%B4%A8%E0%B4%82" title="ലോക എയിഡ്സ് ദിനം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A4%A4%E0%A4%BF%E0%A4%95_%E0%A4%8F%E0%A4%A1%E0%A5%8D%E0%A4%B8_%E0%A4%A6%E0%A4%BF%E0%A4%A8" title="जागतिक एड्स दिन – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Hari_AIDS_Sedunia" title="Hari AIDS Sedunia – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%80%E1%80%99%E1%80%B9%E1%80%98%E1%80%AC%E1%80%B7%E1%80%81%E1%80%AF%E1%80%81%E1%80%B6%E1%80%A1%E1%80%AC%E1%80%B8%E1%80%80%E1%80%BB%E1%80%86%E1%80%84%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BE%E1%80%AF_%E1%80%80%E1%80%B0%E1%80%B8%E1%80%85%E1%80%80%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%AC%E1%80%82%E1%80%AB%E1%80%90%E1%80%AD%E1%80%AF%E1%80%80%E1%80%BA%E1%80%96%E1%80%BB%E1%80%80%E1%80%BA%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7" title="ကမ္ဘာ့ခုခံအားကျဆင်းမှု ကူးစက်ရောဂါတိုက်ဖျက်ရေးနေ့ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Wereldaidsdag" title="Wereldaidsdag – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5_%E0%A4%8F%E0%A4%A1%E0%A5%8D%E0%A4%B8_%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8" title="विश्व एड्स दिवस – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E3%82%A8%E3%82%A4%E3%82%BA%E3%83%87%E3%83%BC" title="世界エイズデー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Aids-dagen" title="Aids-dagen – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Aids-dagen" title="Aids-dagen – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%AC%E0%AC%BF%E0%AC%B6%E0%AD%8D%E0%AD%B1_%E0%AC%8F%E0%AC%A1%E0%AD%8D%E2%80%8C%E0%AC%B8_%E0%AC%A6%E0%AC%BF%E0%AC%AC%E0%AC%B8" title="ବିଶ୍ୱ ଏଡ୍‌ସ ଦିବସ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/%C5%9Awiatowy_Dzie%C5%84_AIDS" title="Światowy Dzień AIDS – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Dia_Mundial_de_Combate_%C3%A0_AIDS" title="Dia Mundial de Combate à AIDS – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ziua_mondial%C4%83_de_combatere_a_SIDA" title="Ziua mondială de combatere a SIDA – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B1%D0%BE%D1%80%D1%8C%D0%B1%D1%8B_%D1%81%D0%BE_%D0%A1%D0%9F%D0%98%D0%94%D0%BE%D0%BC" title="Всемирный день борьбы со СПИДом – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Dita_Bot%C3%ABrore_kund%C3%ABr_AIDS" title="Dita Botërore kundër AIDS – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%BD%E0%B7%9D%E0%B6%9A_%E0%B6%92%E0%B6%A9%E0%B7%8A%E0%B7%83%E0%B7%8A_%E0%B6%AF%E0%B7%92%E0%B6%B1%E0%B6%BA" title="ලෝක ඒඩ්ස් දිනය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8_%D0%B4%D0%B0%D0%BD_%D0%B1%D0%BE%D1%80%D0%B1%D0%B5_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D1%81%D0%B8%D0%B4%D0%B5" title="Светски дан борбе против сиде – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Maailman_AIDS-p%C3%A4iv%C3%A4" title="Maailman AIDS-päivä – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/V%C3%A4rldsaidsdagen" title="Världsaidsdagen – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Pandaigdigang_Araw_ng_AIDS" title="Pandaigdigang Araw ng AIDS – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%B2%E0%AE%95_%E0%AE%8E%E0%AE%AF%E0%AE%BF%E0%AE%9F%E0%AF%8D%E0%AE%9A%E0%AF%81_%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D" title="உலக எயிட்சு நாள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%AA%E0%B0%82%E0%B0%9A_%E0%B0%8E%E0%B0%AF%E0%B0%BF%E0%B0%A1%E0%B1%8D%E0%B0%B8%E0%B1%8D_%E0%B0%A6%E0%B0%BF%E0%B0%A8%E0%B1%8B%E0%B0%A4%E0%B1%8D%E0%B0%B8%E0%B0%B5%E0%B0%82" title="ప్రపంచ ఎయిడ్స్ దినోత్సవం – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%94%E0%B8%AA%E0%B9%8C%E0%B9%82%E0%B8%A5%E0%B8%81" title="วันเอดส์โลก – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/D%C3%BCnya_AIDS_G%C3%BCn%C3%BC" title="Dünya AIDS Günü – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%96%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B1%D0%BE%D1%80%D0%BE%D1%82%D1%8C%D0%B1%D0%B8_%D0%B7%D1%96_%D0%A1%D0%9D%D0%86%D0%94%D0%BE%D0%BC" title="Всесвітній день боротьби зі СНІДом – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B9%D8%A7%D9%84%D9%85%DB%8C_%DB%8C%D9%88%D9%85_%D8%A7%DB%8C%DA%88%D8%B2" title="عالمی یوم ایڈز – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ng%C3%A0y_th%E1%BA%BF_gi%E1%BB%9Bi_ph%C3%B2ng_ch%E1%BB%91ng_b%E1%BB%87nh_AIDS" title="Ngày thế giới phòng chống bệnh AIDS – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%89%BE%E6%BB%8B%E7%97%85%E6%97%A5" title="世界艾滋病日 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E6%84%9B%E6%BB%8B%E7%97%85%E6%97%A5" title="世界愛滋病日 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%89%BE%E6%BB%8B%E7%97%85%E6%97%A5" title="世界艾滋病日 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q192373#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 1 April 2021, at 14:49<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=World_AIDS_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.936","walltime":"1.273","ppvisitednodes":{"value":4372,"limit":1000000},"postexpandincludesize":{"value":124824,"limit":2097152},"templateargumentsize":{"value":3635,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":94048,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1098.697      1 -total"," 38.46%  422.527      1 Template:Reflist"," 18.13%  199.184     14 Template:Cite_web","  9.86%  108.364      1 Template:Infobox_holiday","  9.14%  100.405      1 Template:HIV/AIDS","  7.90%   86.780      1 Template:Short_description","  7.87%   86.416      3 Template:Sister_project","  7.74%   85.027      1 Template:Navbox_with_collapsible_groups","  7.36%   80.917      3 Template:Side_box","  7.31%   80.348      1 Template:Cn"]},"scribunto":{"limitreport-timeusage":{"value":"0.386","limit":"10.000"},"limitreport-memusage":{"value":8841846,"limit":52428800}},"cachereport":{"origin":"mw1353","timestamp":"20210423074517","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"World AIDS Day","url":"https:\/\/en.wikipedia.org\/wiki\/World_AIDS_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q192373","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q192373","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-12-01T14:13:23Z","dateModified":"2021-04-01T14:49:29Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/64\/Red_Ribbon.svg","headline":"world day"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":172,"wgHostname":"mw1263"});});</script> 
+ </body>
+</html>

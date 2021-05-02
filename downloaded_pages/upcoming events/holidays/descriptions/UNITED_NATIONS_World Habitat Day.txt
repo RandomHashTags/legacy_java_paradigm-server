@@ -1,0 +1,605 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>World Habitat Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"356cefa5-5fa5-418d-9cae-0f1af7b4db51","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"World_Habitat_Day","wgTitle":"World Habitat Day","wgCurRevisionId":995795924,"wgRevisionId":995795924,"wgArticleId":23495255,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Holidays and observances by scheduling (nth weekday of the month)","All stub articles","Human habitats","Human settlement","Monday observances","October observances","United Nations days","United Nations Human Settlements Programme","United Nations stubs"],"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"World_Habitat_Day","wgRelevantArticleId":23495255,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q620418"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
+"skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:title" content="World Habitat Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/World_Habitat_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=World_Habitat_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=World_Habitat_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/World_Habitat_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-World_Habitat_Day rootpage-World_Habitat_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">World Habitat Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p><b>World Habitat Day</b> is marked on the first Monday of October each year,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> and is recognized by the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> to reflect on the state of <a href="/wiki/Town" title="Town">towns</a> and <a href="/wiki/City" title="City">cities</a>, and on the basic right of all to adequate <a href="/wiki/Shelter_(building)" title="Shelter (building)">shelter</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The day is also intended to remind the world that everyone has the power and the responsibility to shape the future of towns and cities.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> World Habitat Day was first celebrated in 1986 in <a href="/wiki/Nairobi" title="Nairobi">Nairobi</a>, <a href="/wiki/Kenya" title="Kenya">Kenya</a>, and the theme chosen for that year was "Shelter is My Right". <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p>
+      <p><a href="/wiki/The_United_Nations_General_Assembly" class="mw-redirect" title="The United Nations General Assembly">The United Nations General Assembly</a> decided that this should be an annual event and the first Monday of October was chosen. The day is celebrated in many countries around the world and various activities are organized to examine the problems of rapid <a href="/wiki/Urbanisation" class="mw-redirect" title="Urbanisation">urbanisation</a> and its impact on the environment and human <a href="/wiki/Poverty" title="Poverty">poverty</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p>
+      <p>Annual themes for World Habitat Day have been diverse and have included "Shelter for the Homeless", "Our Neighbourhood", "Safer Cities," "Women in Urban Government," Cities without Slums" and "Water and Sanitation for Cities." <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </p>
+      <p>UN Habitat makes plain the need to plan cities in order to avoid the chaotic development of <a href="/wiki/Urban_sprawl" title="Urban sprawl">urban sprawl</a> and all the associated problems that are created as a result. </p>
+      <p>Cities are engines of growth. Many people from <a href="/wiki/Rural_areas" class="mw-redirect" title="Rural areas">rural areas</a> globally long to move to cities to realize their dreams of a better life. Often this dream is not realized, but people continue to flock to cities for no other reason than a vague promise of a better future and prosperity.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </p>
+      <p>A well-planned city can bring just that. Cities can be centres for economic activities and urban challenges can be addressed and opportunities can continue to be afforded to both current and future residents.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Those who are successful succeed in getting jobs or starting their own businesses, which in turn creates more <a href="/wiki/Employment" title="Employment">employment</a> opportunities. </p>
+      <p>On the other hand, cities can also become a setting in which <a href="/wiki/Social_exclusion" title="Social exclusion">marginalisation</a>, <a href="/wiki/Social_inequality" title="Social inequality">inequality</a> and <a href="/wiki/Social_exclusion" title="Social exclusion">social exclusion</a> can abound. Access to adequate housing is an important factor in ensuring this is avoided.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p>
+      <p>Another major issue is the ever-increasing risk posed by natural disasters as the climate crisis continues to develop. This risk is particularly significant in the <a href="/wiki/Caribbean" title="Caribbean">Caribbean Region</a> and <a href="/wiki/Central_America" title="Central America">Central America</a>, where countries such as <a href="/wiki/Haiti" title="Haiti">Haiti</a>, <a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a>, <a href="/wiki/Honduras" title="Honduras">Honduras</a>, <a href="/wiki/El_Salvador" title="El Salvador">El Salvador</a> and <a href="/wiki/Bolivia" title="Bolivia">Bolivia</a> have higher levels of poverty and where their cities are exceptionally vulnerable due to their population density and diversity. </p>
+      <p>High levels of population density, coupled with poor building techniques have given rise to <a href="/wiki/Shanty_towns" class="mw-redirect" title="Shanty towns">shanty towns</a> that have no proper infrastructure,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> community organization or <a href="/wiki/Security_of_tenure" title="Security of tenure">security of tenure</a>. In the event of a disaster of any kind, a complete breakdown can result in a chaotic situation and enormous loss of life. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Habitat_Scroll_of_Honour"><span class="tocnumber">1</span> <span class="toctext">Habitat Scroll of Honour</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Previous_World_Habitat_Days"><span class="tocnumber">2</span> <span class="toctext">Previous World Habitat Days</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Habitat_Scroll_of_Honour">Habitat Scroll of Honour</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Habitat_Day&amp;action=edit&amp;section=1" title="Edit section: Habitat Scroll of Honour">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The <a href="/wiki/UN-Habitat_Scroll_of_Honour_Award" title="UN-Habitat Scroll of Honour Award">UN-Habitat Scroll of Honour Award</a> was launched by the <a href="/wiki/United_Nations_Human_Settlements_Programme" title="United Nations Human Settlements Programme">United Nations Human Settlements Programme</a> (UN-Habitat) in 1989.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> It is currently the most prestigious human settlements award in the world. Its aim is to acknowledge initiatives which have made outstanding contributions in various fields such as shelter provision, highlighting the plight of the homeless, leadership in post conflict reconstruction and developing and improving human settlements and the quality of urban life. </p>
+      <p>The award, a plaque engraved with the name of the winner and their achievement, is presented to the winners during the Global Observance of the World Habitat Day. </p> 
+      <h2><span class="mw-headline" id="Previous_World_Habitat_Days">Previous World Habitat Days</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Habitat_Day&amp;action=edit&amp;section=2" title="Edit section: Previous World Habitat Days">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Year </th> 
+         <th>Theme </th> 
+         <th>Global Observance venue </th> 
+         <th>Chief Guest </th>
+        </tr> 
+        <tr> 
+         <td><b>2020</b> </td> 
+         <td><i>Housing For All: A Better Urban Future</i> <sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </td> 
+         <td><a href="/wiki/Surabaya" title="Surabaya">Surabaya</a>, <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><b>2019</b> </td> 
+         <td><i>Frontier Technologies as an Innovative Tool to Transform Waste to Wealth</i> <sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> <sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> <sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> <sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> </td> 
+         <td><a href="/wiki/Mexico_City,_Mexico" class="mw-redirect" title="Mexico City, Mexico">Mexico City, Mexico</a> </td> 
+         <td><a href="/wiki/Martha_Delgado_Peralta" title="Martha Delgado Peralta">Martha Delgado Peralta</a>, Undersecretary for Multilateral Affairs and Human Rights, and UN-Habitat Assembly President </td>
+        </tr> 
+        <tr> 
+         <td><b>2018</b> </td> 
+         <td><i>Municipal Solid Waste Management</i><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> </td> 
+         <td><a href="/wiki/United_Nations_Office_at_Nairobi" title="United Nations Office at Nairobi">United Nations Office at Nairobi</a>, <a href="/wiki/Kenya" title="Kenya">Kenya</a> </td> 
+         <td><a href="/wiki/Uhuru_Kenyatta" title="Uhuru Kenyatta">Uhuru Kenyatta</a>, President of Kenya </td>
+        </tr> 
+        <tr> 
+         <td><b>2017</b> </td> 
+         <td><i>Housing Policies: Affordable Housing</i><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> </td> 
+         <td>none </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><b>2016</b> </td> 
+         <td><i>Housing at the Centre</i><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> </td> 
+         <td>none </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><b>2015</b> </td> 
+         <td><i>Public Spaces for All</i> </td> 
+         <td>none </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><b>2014</b> </td> 
+         <td><i>Voices from Slums</i> </td> 
+         <td>none </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><b>2013</b> </td> 
+         <td><i>Urban Mobility</i> </td> 
+         <td>none </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><b>2012</b> </td> 
+         <td><i>Changing Cities, Building Opportunities</i> <sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> </td> 
+         <td><a href="/wiki/Islamabad,_Pakistan" class="mw-redirect" title="Islamabad, Pakistan">Islamabad, Pakistan</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><b>2011</b> </td> 
+         <td><i>Cities and Climate Change</i> </td> 
+         <td><a href="/wiki/Aguascalientes,_Aguascalientes" class="mw-redirect" title="Aguascalientes, Aguascalientes">Aguascalientes, Mexico</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><b>2010</b> </td> 
+         <td><i>Better City, Better Life</i> </td> 
+         <td><a href="/wiki/Shanghai,_China" class="mw-redirect" title="Shanghai, China">Shanghai, China</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><b>2009</b> </td> 
+         <td><i>Planning our urban future</i> </td> 
+         <td><a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a>, <a href="/wiki/United_States_of_America" class="mw-redirect" title="United States of America">United States of America</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td><b>2008</b> </td> 
+         <td><i>Harmonious Cities</i> </td> 
+         <td><a href="/wiki/Luanda,_Angola" class="mw-redirect" title="Luanda, Angola">Luanda, Angola</a> </td> 
+         <td><a href="/wiki/Jos%C3%A9_Eduardo_dos_Santos" title="José Eduardo dos Santos">José Eduardo dos Santos</a> - President of Angola </td>
+        </tr> 
+        <tr> 
+         <td><b>2007</b> </td> 
+         <td><i>A safe city is a just city</i> </td> 
+         <td><a href="/wiki/The_Hague" title="The Hague">The Hague</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a> </td> 
+         <td><a href="/wiki/Wim_Deetman" title="Wim Deetman">Wim Deetman</a>, Mayor of The Hague and chairman of UCLG </td>
+        </tr> 
+        <tr> 
+         <td><b>2006</b> </td> 
+         <td><i>Cities, magnets of hope</i> </td> 
+         <td><a href="/wiki/Monterrey,_Mexico" class="mw-redirect" title="Monterrey, Mexico">Monterrey, Mexico</a> </td> 
+         <td><a href="/wiki/Beatriz_Zavala" title="Beatriz Zavala">Beatriz Zavala Peniche</a>, Secretary of Social Development, (SEDESOL) on "Rescue of Public Spaces Programme" </td>
+        </tr> 
+        <tr> 
+         <td><b>2005</b> </td> 
+         <td><i>The Millennium Development Goals and the City</i> </td> 
+         <td><a href="/wiki/Jakarta" title="Jakarta">Jakarta</a>, <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a> </td> 
+         <td>President <a href="/wiki/Susilo_Bambang_Yudhoyono" title="Susilo Bambang Yudhoyono">Susilo Bambang Yudhoyono</a> </td>
+        </tr> 
+        <tr> 
+         <td><b>2004</b> </td> 
+         <td><i>Cities - Engines of Rural Development</i> </td> 
+         <td><a href="/wiki/Nairobi" title="Nairobi">Nairobi</a>, <a href="/wiki/Kenya" title="Kenya">Kenya</a> </td> 
+         <td>President <a href="/wiki/Mwai_Kibaki" title="Mwai Kibaki">Mwai Kibaki</a> of Kenya </td>
+        </tr> 
+        <tr> 
+         <td><b>2003</b> </td> 
+         <td><i>Water and Sanitation for Cities</i> </td> 
+         <td><a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a> </td> 
+         <td><a href="/wiki/C%C3%A9sar_Maia" class="mw-redirect" title="César Maia">César Maia</a>, Mayor of Rio de Janeiro </td>
+        </tr> 
+        <tr> 
+         <td><b>2002</b> </td> 
+         <td><i>City-to-City Cooperation</i> </td> 
+         <td><a href="/wiki/Brussels" title="Brussels">Brussels</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a> </td> 
+         <td><a href="/wiki/Prince_Philippe,_Duke_of_Brabant" class="mw-redirect" title="Prince Philippe, Duke of Brabant">H.R.H. Prince Philippe</a> </td>
+        </tr> 
+        <tr> 
+         <td><b>2001</b> </td> 
+         <td><i>Cities without Slums</i> </td> 
+         <td><a href="/wiki/Fukuoka" title="Fukuoka">Fukuoka</a>, <a href="/wiki/Japan" title="Japan">Japan</a> </td> 
+         <td><a href="/wiki/Wataru_As%C5%8D" title="Wataru Asō">Wataru Asō</a>, Governor of Fukuoka Prefecture </td>
+        </tr> 
+        <tr> 
+         <td><b>2000</b> </td> 
+         <td><i>Women in Urban Governance</i> </td> 
+         <td><a href="/wiki/Jamaica" title="Jamaica">Jamaica</a> </td> 
+         <td><a href="/wiki/Seymour_Mullings" title="Seymour Mullings">Seymour Mullings</a>, Deputy Prime Minister and Minister of Land and Environment </td>
+        </tr> 
+        <tr> 
+         <td><b>1999</b> </td> 
+         <td><i>Cities for All</i> </td> 
+         <td><a href="/wiki/Dalian" title="Dalian">Dalian</a>, <a href="/wiki/China" title="China">China</a> </td> 
+         <td><a href="/wiki/Yu_Zhengsheng" title="Yu Zhengsheng">Yu Zhengsheng</a>, Minister of Construction, China </td>
+        </tr> 
+        <tr> 
+         <td><b>1998</b> </td> 
+         <td><i>Safer Cities</i> </td> 
+         <td><a href="/wiki/Dubai" title="Dubai">Dubai</a>, <a href="/wiki/United_Arab_Emirates" title="United Arab Emirates">United Arab Emirates</a> </td> 
+         <td><a href="/wiki/Qasim_Sultan_Al_Banna" title="Qasim Sultan Al Banna">Qasim Sultan Al Banna</a>, Director General, Dubai Municipality UAE </td>
+        </tr> 
+        <tr> 
+         <td><b>1997</b> </td> 
+         <td><i>Future Cities</i> </td> 
+         <td><a href="/wiki/Bonn" title="Bonn">Bonn</a>, <a href="/wiki/Germany" title="Germany">Germany</a> </td> 
+         <td><a href="/wiki/Klaus_Topfer" class="mw-redirect" title="Klaus Topfer">Klaus Topfer</a>, Federal Minister for Regional Planning, Building and Urban Development, Germany </td>
+        </tr> 
+        <tr> 
+         <td><b>1996</b> </td> 
+         <td><i>Urbanization, Citizenship and Human Solidarity</i> </td> 
+         <td><a href="/wiki/Budapest" title="Budapest">Budapest</a>, <a href="/wiki/Hungary" title="Hungary">Hungary</a> </td> 
+         <td>Minister of the Interior, Hungary </td>
+        </tr> 
+        <tr> 
+         <td><b>1995</b> </td> 
+         <td><i>Our Neighbourhood</i> </td> 
+         <td><a href="/wiki/Curitiba" title="Curitiba">Curitiba</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a> </td> 
+         <td>Mayor of Curitiba </td>
+        </tr> 
+        <tr> 
+         <td><b>1994</b> </td> 
+         <td><i>Home and the Family</i> </td> 
+         <td><a href="/wiki/Dakar" title="Dakar">Dakar</a>, <a href="/wiki/Senegal" title="Senegal">Senegal</a> </td> 
+         <td><a href="/wiki/Abdou_Diouf" title="Abdou Diouf">Abdou Diouf</a>, President of Senegal </td>
+        </tr> 
+        <tr> 
+         <td><b>1993</b> </td> 
+         <td><i>Women and Shelter Development</i> </td> 
+         <td><a href="/wiki/New_York_City" title="New York City">New York City</a>, <a href="/wiki/United_States_of_America" class="mw-redirect" title="United States of America">United States of America</a> </td> 
+         <td><a href="/wiki/Boutros_Boutros-Ghali" title="Boutros Boutros-Ghali">Boutros Boutros-Ghali</a>, Secretary-General of the United Nations </td>
+        </tr> 
+        <tr> 
+         <td><b>1992</b> </td> 
+         <td><i>Shelter and Sustainable Development</i> </td> 
+         <td><a href="/wiki/New_York_City" title="New York City">New York City</a>, <a href="/wiki/United_States_of_America" class="mw-redirect" title="United States of America">United States of America</a> </td> 
+         <td><a href="/wiki/Boutros_Boutros-Ghali" title="Boutros Boutros-Ghali">Boutros Boutros-Ghali</a>, Secretary-General of the United Nations </td>
+        </tr> 
+        <tr> 
+         <td><b>1991</b> </td> 
+         <td><i>Shelter and the Living Environment</i> </td> 
+         <td><a href="/wiki/Hiroshima" title="Hiroshima">Hiroshima</a>, <a href="/wiki/Japan" title="Japan">Japan</a> </td> 
+         <td>Mayor of Hiroshima </td>
+        </tr> 
+        <tr> 
+         <td><b>1990</b> </td> 
+         <td><i>Shelter and Urbanization</i> </td> 
+         <td><a href="/wiki/London" title="London">London</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> </td> 
+         <td><a href="/wiki/Geoffrey_Howe" title="Geoffrey Howe">Sir Geoffrey Howe</a> </td>
+        </tr> 
+        <tr> 
+         <td><b>1989</b> </td> 
+         <td><i>Shelter, Health and the Family</i> </td> 
+         <td><a href="/wiki/Jakarta" title="Jakarta">Jakarta</a>, <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a> </td> 
+         <td><a href="/wiki/Suharto" title="Suharto">Suharto</a>, President of Indonesia </td>
+        </tr> 
+        <tr> 
+         <td><b>1988</b> </td> 
+         <td><i>Shelter and Community</i> </td> 
+         <td><a href="/wiki/London" title="London">London</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> </td> 
+         <td><a href="/wiki/Robert_Runcie" title="Robert Runcie">Robert Runcie</a>, Archbishop of Canterbury </td>
+        </tr> 
+        <tr> 
+         <td><b>1987</b> </td> 
+         <td><i>Shelter for the Homeless</i> </td> 
+         <td><a href="/wiki/New_York_City" title="New York City">New York City</a>, <a href="/wiki/United_States_of_America" class="mw-redirect" title="United States of America">United States of America</a> </td> 
+         <td><a href="/wiki/Javier_P%C3%A9rez_de_Cu%C3%A9llar" title="Javier Pérez de Cuéllar">Javier Pérez de Cuéllar</a>, Secretary-General of the United Nations </td>
+        </tr> 
+        <tr> 
+         <td><b>1986</b> </td> 
+         <td><i>Shelter is my Right</i> </td> 
+         <td><a href="/wiki/Nairobi" title="Nairobi">Nairobi</a>, <a href="/wiki/Kenya" title="Kenya">Kenya</a> </td> 
+         <td> </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Habitat_Day&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/World_Habitat_Awards" title="World Habitat Awards">World Habitat Awards</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Habitat_Day&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://currentaffairs.gktoday.in/october-7-world-habitat-day-102019172292.html/">"October 7: World Habitat Day"</a>. <i>currentaffairs.gktoday.in /</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=currentaffairs.gktoday.in+%2F&amp;rft.atitle=October+7%3A+World+Habitat+Day&amp;rft_id=https%3A%2F%2Fcurrentaffairs.gktoday.in%2Foctober-7-world-habitat-day-102019172292.html%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.thesouthafrican.com/lifestyle/world-habitat-day-2019-towns-and-cities/">"World Habitat Day 2019 reflects on the state of our towns and cities"</a>. <i>www.thesouthafrican.com/</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.thesouthafrican.com%2F&amp;rft.atitle=World+Habitat+Day+2019+reflects+on+the+state+of+our+towns+and+cities&amp;rft_id=https%3A%2F%2Fwww.thesouthafrican.com%2Flifestyle%2Fworld-habitat-day-2019-towns-and-cities%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.awarenessdays.com/awareness-days-calendar/world-habitat-day-2019//">"World Habitat Day 2019"</a>. <i>www.awarenessdays.com/</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.awarenessdays.com%2F&amp;rft.atitle=World+Habitat+Day+2019&amp;rft_id=https%3A%2F%2Fwww.awarenessdays.com%2Fawareness-days-calendar%2Fworld-habitat-day-2019%2F%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.timeanddate.com/holidays/un/world-habitat-day/">"World Habitat Day"</a>. <i>www.timeanddate.com /</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.timeanddate.com+%2F&amp;rft.atitle=World+Habitat+Day&amp;rft_id=https%3A%2F%2Fwww.timeanddate.com%2Fholidays%2Fun%2Fworld-habitat-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://practicalaction.org/news-media/2019/10/08/can-frontier-technologies-help-solve-the-critical-issues-for-the-urban-poor/">"Can 'Frontier Technologies' Help Solve The Critical Issues For The Urban Poor?"</a>. <i>practicalaction.org /</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=practicalaction.org+%2F&amp;rft.atitle=Can+%E2%80%98Frontier+Technologies%E2%80%99+Help+Solve+The+Critical+Issues+For+The+Urban+Poor%3F&amp;rft_id=https%3A%2F%2Fpracticalaction.org%2Fnews-media%2F2019%2F10%2F08%2Fcan-frontier-technologies-help-solve-the-critical-issues-for-the-urban-poor%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.noticebard.com/call-for-innovative-solutions-transform-waste-to-wealth-un-habitat/">"Call for Innovative Solutions to Transform Waste to Wealth @ UN Habitat: Submit by Sept 6"</a>. <i>www.noticebard.com/</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.noticebard.com%2F&amp;rft.atitle=Call+for+Innovative+Solutions+to+Transform+Waste+to+Wealth+%40+UN+Habitat%3A+Submit+by+Sept+6&amp;rft_id=https%3A%2F%2Fwww.noticebard.com%2Fcall-for-innovative-solutions-transform-waste-to-wealth-un-habitat%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://reliefweb.int/report/kenya/using-urban-planning-improve-sanitation-post-refugee-camp-settlements">"Using urban planning to improve sanitation in post refugee camp settlements"</a>. <i>reliefweb.int/</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=reliefweb.int%2F&amp;rft.atitle=Using+urban+planning+to+improve+sanitation+in+post+refugee+camp+settlements&amp;rft_id=https%3A%2F%2Freliefweb.int%2Freport%2Fkenya%2Fusing-urban-planning-improve-sanitation-post-refugee-camp-settlements&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.globalnewlightofmyanmar.com/world-habitat-day-frontier-technologies-as-an-innovative-tool-to-transform-waste-to-wealth/">"World Habitat Day Frontier Technologies as an Innovative Tool to Transform Waste to Wealth"</a>. <i>www.globalnewlightofmyanmar.com/</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.globalnewlightofmyanmar.com%2F&amp;rft.atitle=World+Habitat+Day+Frontier+Technologies+as+an+Innovative+Tool+to+Transform+Waste+to+Wealth&amp;rft_id=https%3A%2F%2Fwww.globalnewlightofmyanmar.com%2Fworld-habitat-day-frontier-technologies-as-an-innovative-tool-to-transform-waste-to-wealth%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://moderndiplomacy.eu/2019/10/09/turning-waste-into-wealth-world-habitat-day-focus-on-cleaning-up-cities/">"Turning waste into wealth: World Habitat Day focus on cleaning up cities"</a>. <i>moderndiplomacy.eu /</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=moderndiplomacy.eu+%2F&amp;rft.atitle=Turning+waste+into+wealth%3A+World+Habitat+Day+focus+on+cleaning+up+cities&amp;rft_id=https%3A%2F%2Fmoderndiplomacy.eu%2F2019%2F10%2F09%2Fturning-waste-into-wealth-world-habitat-day-focus-on-cleaning-up-cities%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://accommodationtimes.com/india-fully-committed-to-early-achievement-of-sdgs-puri/">"India Fully Committed To Early Achievement Of SDGs: Puri"</a>. <i>accommodationtimes.com/</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=accommodationtimes.com%2F&amp;rft.atitle=India+Fully+Committed+To+Early+Achievement+Of+SDGs%3A+Puri&amp;rft_id=https%3A%2F%2Faccommodationtimes.com%2Findia-fully-committed-to-early-achievement-of-sdgs-puri%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.vanguardngr.com/2019/11/world-habitat-day-nigerian-towns-need-regeneration-to-remain-sustainable-%e2%80%95-aliyu/">"World Habitat Day: Nigerian towns need regeneration to remain sustainable ― Aliyu"</a>. <i>www.vanguardngr.com/</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.vanguardngr.com%2F&amp;rft.atitle=World+Habitat+Day%3A+Nigerian+towns+need+regeneration+to+remain+sustainable+%E2%80%95+Aliyu&amp;rft_id=https%3A%2F%2Fwww.vanguardngr.com%2F2019%2F11%2Fworld-habitat-day-nigerian-towns-need-regeneration-to-remain-sustainable-%25e2%2580%2595-aliyu%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://newsd.in/world-habitat-day-2019-date-theme-significance-of-the-day/">"World Habitat Day 2019: Date, theme, significance of the day"</a>. <i>newsd.in /</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=newsd.in+%2F&amp;rft.atitle=World+Habitat+Day+2019%3A+Date%2C+theme%2C+significance+of+the+day&amp;rft_id=https%3A%2F%2Fnewsd.in%2Fworld-habitat-day-2019-date-theme-significance-of-the-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://urbanoctober.unhabitat.org/whd">"World Habitat Day"</a>. <i>urbanoctober.unhabitat.org/</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-09-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=urbanoctober.unhabitat.org%2F&amp;rft.atitle=World+Habitat+Day&amp;rft_id=https%3A%2F%2Furbanoctober.unhabitat.org%2Fwhd&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://europeansting.com/2019/10/08/turning-waste-into-wealth-world-habitat-day-focus-on-cleaning-up-cities/">"Turning waste into wealth: World Habitat Day focus on cleaning up cities"</a>. <i>europeansting.com/</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=europeansting.com%2F&amp;rft.atitle=Turning+waste+into+wealth%3A+World+Habitat+Day+focus+on+cleaning+up+cities&amp;rft_id=https%3A%2F%2Feuropeansting.com%2F2019%2F10%2F08%2Fturning-waste-into-wealth-world-habitat-day-focus-on-cleaning-up-cities%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.independent.ng/technology-crucial-to-sustainable-devt-of-settlements-fashola/">"Technology Crucial To Sustainable Dev't Of Settlements – Fashola"</a>. <i>www.independent.ng/</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.independent.ng%2F&amp;rft.atitle=Technology+Crucial+To+Sustainable+Dev%E2%80%99t+Of+Settlements+%E2%80%93+Fashola&amp;rft_id=https%3A%2F%2Fwww.independent.ng%2Ftechnology-crucial-to-sustainable-devt-of-settlements-fashola%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://aecnewstoday.com/2019/myanmar-morning-news-for-october-7/">"Myanmar morning news for October 7"</a>. <i>aecnewstoday.com /</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=aecnewstoday.com+%2F&amp;rft.atitle=Myanmar+morning+news+for+October+7&amp;rft_id=https%3A%2F%2Faecnewstoday.com%2F2019%2Fmyanmar-morning-news-for-october-7%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.mwanampotevu.co.tz/2019/08/un-habitats-call-for-innovative.html/">"UN-Habitat's Call for Innovative Solutions to Transform Waste to Wealth"</a>. <i>www.mwanampotevu.co.tz/</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.mwanampotevu.co.tz%2F&amp;rft.atitle=UN-Habitat%E2%80%99s+Call+for+Innovative+Solutions+to+Transform+Waste+to+Wealth&amp;rft_id=https%3A%2F%2Fwww.mwanampotevu.co.tz%2F2019%2F08%2Fun-habitats-call-for-innovative.html%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://guardian.ng/property/global-focus-shifts-to-technologies-as-experts-assess-habitats/">"Global focus shifts to technologies as experts assess habitats"</a>. <i>guardian.ng/</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=guardian.ng%2F&amp;rft.atitle=Global+focus+shifts+to+technologies+as+experts+assess+habitats&amp;rft_id=https%3A%2F%2Fguardian.ng%2Fproperty%2Fglobal-focus-shifts-to-technologies-as-experts-assess-habitats%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.uclg.org/en/media/events/world-habitat-day-2017/">"World Habitat Day 2017"</a>. <i>www.uclg.org /</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.uclg.org+%2F&amp;rft.atitle=World+Habitat+Day+2017&amp;rft_id=https%3A%2F%2Fwww.uclg.org%2Fen%2Fmedia%2Fevents%2Fworld-habitat-day-2017%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.worldurbancampaign.org/world-habitat-day-2016-message-secretary-general/">"World Habitat Day 2016 - Message From The Secretary General"</a>. <i>www.worldurbancampaign.org /</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.worldurbancampaign.org+%2F&amp;rft.atitle=World+Habitat+Day+2016+-+Message+From+The+Secretary+General&amp;rft_id=https%3A%2F%2Fwww.worldurbancampaign.org%2Fworld-habitat-day-2016-message-secretary-general%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://tribune.com.pk/story/445581/world-habitat-day-emphasis-laid-on-better-planned-cities">"World Habitat Day: Emphasis laid on better planned cities"</a>. <i>tribune.com.pk/</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-06-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=tribune.com.pk%2F&amp;rft.atitle=World+Habitat+Day%3A+Emphasis+laid+on+better+planned+cities&amp;rft_id=https%3A%2F%2Ftribune.com.pk%2Fstory%2F445581%2Fworld-habitat-day-emphasis-laid-on-better-planned-cities&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Habitat+Day" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Habitat_Day&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://unhabitat.org/get-involved">UN-Habitat Urban October website</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://urbanoctober.unhabitat.org/sites/default/files/2020-03/Press%20Release%20-%20Indonesian%20city%20of%20Surabaya%20to%20host%20World%20Habitat%20Day%202020.pdf">Indonesian city of Surabaya to host the Global Observance of World Habitat Day 2020</a></li>
+      </ul> 
+      <p><br> </p> 
+      <style data-mw-deduplicate="TemplateStyles:r1012311289">.mw-parser-output .asbox{position:relative;overflow:hidden}.mw-parser-output .asbox table{background:transparent}.mw-parser-output .asbox p{margin:0}.mw-parser-output .asbox p+p{margin-top:0.25em}.mw-parser-output .asbox-body{font-style:italic}.mw-parser-output .asbox-note{font-size:smaller}.mw-parser-output .asbox .navbar{position:absolute;top:-0.75em;right:1em;display:none}</style>
+      <div role="note" class="metadata plainlinks asbox stub">
+       <table role="presentation">
+        <tbody>
+         <tr class="noresize">
+          <td><a href="/wiki/File:Flag_of_the_United_Nations.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/30px-Flag_of_the_United_Nations.svg.png" decoding="async" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/45px-Flag_of_the_United_Nations.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/60px-Flag_of_the_United_Nations.svg.png 2x" data-file-width="1200" data-file-height="800"></a></td>
+          <td><p class="asbox-body">This <a href="/wiki/United_Nations" title="United Nations">United Nations</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=World_Habitat_Day&amp;action=edit">expanding it</a>.</p></td>
+         </tr>
+        </tbody>
+       </table>
+       <style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+       <div class="navbar plainlinks hlist navbar-mini">
+        <ul>
+         <li class="nv-view"><a href="/wiki/Template:UN-stub" title="Template:UN-stub"><abbr title="View this template">v</abbr></a></li>
+         <li class="nv-talk"><a href="/wiki/Template_talk:UN-stub" title="Template talk:UN-stub"><abbr title="Discuss this template">t</abbr></a></li>
+         <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:UN-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+        </ul>
+       </div>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1315
+Cached time: 20210422184903
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.431 seconds
+Real time usage: 0.496 seconds
+Preprocessor visited node count: 913/1000000
+Post‐expand include size: 34494/2097152 bytes
+Template argument size: 81/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 66192/5000000 bytes
+Lua time usage: 0.238/10.000 seconds
+Lua memory usage: 3970196/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  385.033      1 -total
+ 83.64%  322.044      1 Template:Reflist
+ 66.45%  255.869     21 Template:Cite_web
+ 16.33%   62.871      1 Template:UN-stub
+ 14.40%   55.448      1 Template:Asbox
+  1.94%    7.454      1 Template:Main_other
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:23495255-0!canonical and timestamp 20210422184902 and revision id 995795924. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=World_Habitat_Day&amp;oldid=995795924">https://en.wikipedia.org/w/index.php?title=World_Habitat_Day&amp;oldid=995795924</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Human_habitats" title="Category:Human habitats">Human habitats</a></li>
+       <li><a href="/wiki/Category:Human_settlement" title="Category:Human settlement">Human settlement</a></li>
+       <li><a href="/wiki/Category:Monday_observances" title="Category:Monday observances">Monday observances</a></li>
+       <li><a href="/wiki/Category:October_observances" title="Category:October observances">October observances</a></li>
+       <li><a href="/wiki/Category:United_Nations_days" title="Category:United Nations days">United Nations days</a></li>
+       <li><a href="/wiki/Category:United_Nations_Human_Settlements_Programme" title="Category:United Nations Human Settlements Programme">United Nations Human Settlements Programme</a></li>
+       <li><a href="/wiki/Category:United_Nations_stubs" title="Category:United Nations stubs">United Nations stubs</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Holidays_and_observances_by_scheduling_(nth_weekday_of_the_month)" title="Category:Holidays and observances by scheduling (nth weekday of the month)">Holidays and observances by scheduling (nth weekday of the month)</a></li>
+       <li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=World+Habitat+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=World+Habitat+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/World_Habitat_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:World_Habitat_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/World_Habitat_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=World_Habitat_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=World_Habitat_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/World_Habitat_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/World_Habitat_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=World_Habitat_Day&amp;oldid=995795924" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=World_Habitat_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=World_Habitat_Day&amp;id=995795924&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q620418" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=World_Habitat_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=World_Habitat_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A_%D9%84%D9%84%D8%A5%D8%B3%D9%83%D8%A7%D9%86" title="اليوم العالمي للإسكان – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/D%C3%ADa_Mundial_del_H%C3%A1bitat" title="Día Mundial del Hábitat – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_del_H%C3%A1bitat" title="Día Mundial del Hábitat – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D8%AC%D9%87%D8%A7%D9%86%DB%8C_%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C" title="روز جهانی معماری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%84%B8%EA%B3%84_%EC%A3%BC%EA%B1%B0%EC%9D%98_%EB%82%A0" title="세계 주거의 날 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5_%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B5%E0%A4%BE%E0%A4%B8_%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8" title="विश्व पर्यावास दिवस – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B2%E0%B5%8B%E0%B4%95_%E0%B4%86%E0%B4%B5%E0%B4%BE%E0%B4%B8%E0%B4%A6%E0%B4%BF%E0%B4%A8%E0%B4%82" title="ലോക ആവാസദിനം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Die_Mundial_de_l_Habitat" title="Die Mundial de l Habitat – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Dia_Mundial_do_Habitat" title="Dia Mundial do Habitat – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%A5%D0%B0%D0%B1%D0%B8%D1%82%D0%B0%D1%82" title="Всемирный день Хабитат – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%B2%E0%AE%95_%E0%AE%B5%E0%AE%9A%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%9F_%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D" title="உலக வசிப்பிட நாள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%96%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%A5%D0%B0%D0%B1%D1%96%D1%82%D0%B0%D1%82" title="Всесвітній день Хабітат – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ng%C3%A0y_M%C3%B4i_tr%C6%B0%E1%BB%9Dng_s%E1%BB%91ng_Th%E1%BA%BF_gi%E1%BB%9Bi" title="Ngày Môi trường sống Thế giới – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q620418#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 22 December 2020, at 23:00<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=World_Habitat_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.431","walltime":"0.496","ppvisitednodes":{"value":913,"limit":1000000},"postexpandincludesize":{"value":34494,"limit":2097152},"templateargumentsize":{"value":81,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":66192,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  385.033      1 -total"," 83.64%  322.044      1 Template:Reflist"," 66.45%  255.869     21 Template:Cite_web"," 16.33%   62.871      1 Template:UN-stub"," 14.40%   55.448      1 Template:Asbox","  1.94%    7.454      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.238","limit":"10.000"},"limitreport-memusage":{"value":3970196,"limit":52428800}},"cachereport":{"origin":"mw1315","timestamp":"20210422184903","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"World Habitat Day","url":"https:\/\/en.wikipedia.org\/wiki\/World_Habitat_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q620418","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q620418","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-07-05T04:12:45Z","dateModified":"2020-12-22T23:00:29Z"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":147,"wgHostname":"mw1365"});});</script> 
+ </body>
+</html>

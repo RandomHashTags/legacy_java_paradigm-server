@@ -1,8 +1,9 @@
 package me.randomhashtags.worldlaws.people;
 
+import me.randomhashtags.worldlaws.ServerObject;
 import me.randomhashtags.worldlaws.law.LegislationType;
 
-public interface Politician extends Person {
+public interface Politician extends Person, ServerObject {
     String getGovernedTerritory();
     String getDistrict();
     PoliticalParty getCurrentParty();
@@ -12,13 +13,31 @@ public interface Politician extends Person {
     String getSignedLegislationJSON(LegislationType type, int administration);
 
     default String toJSON() {
-        return "{\"name\":" + getName().toString() + "," +
+        final HumanName name = getName();
+        final String imageURL = getImageURL(), district = getDistrict(), website = getWebsite();
+        return "{" +
+                (name != null ? "\"name\":" + name.toString() + "," : "") +
                 "\"governedTerritory\":\"" + getGovernedTerritory() + "\"," +
-                "\"district\":\"" + getDistrict() + "\"," +
+                (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"," : "") +
+                (district != null ? "\"district\":\"" + getDistrict() + "\"," : "") +
+                (website != null ? "\"website\":\"" + website + "\"," : "") +
                 "\"party\":\"" + getCurrentParty().getName() + "\"," +
-                "\"imageURL\":\"" + getImageURL() + "\"," +
-                "\"url\":\"" + getURL() + "\"," +
-                "\"website\":\"" + getWebsite() + "\"" +
+                "\"url\":\"" + getURL() + "\"" +
+                "}";
+    }
+
+    @Override
+    default String toServerJSON() {
+        final HumanName name = getName();
+        final String imageURL = getImageURL(), district = getDistrict(), website = getWebsite();
+        return "{" +
+                (name != null ? "\"name\":" + name.toString() + "," : "") +
+                "\"governedTerritory\":\"" + getGovernedTerritory() + "\"," +
+                (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"," : "") +
+                (district != null ? "\"district\":\"" + getDistrict() + "\"," : "") +
+                (website != null ? "\"website\":\"" + getWebsite() + "\"," : "") +
+                "\"party\":\"" + getCurrentParty().getName() + "\"," +
+                "\"url\":\"" + getURL() + "\"" +
                 "}";
     }
 }

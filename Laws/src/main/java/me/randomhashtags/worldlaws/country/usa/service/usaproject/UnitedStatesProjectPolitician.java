@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.country.usa.service.usaproject;
 
-import me.randomhashtags.worldlaws.event.EventDate;
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.people.HumanName;
 import me.randomhashtags.worldlaws.people.PoliticalParty;
 import org.json.JSONArray;
@@ -17,7 +17,7 @@ public final class UnitedStatesProjectPolitician {
     public UnitedStatesProjectPolitician(JSONObject json) {
         final JSONObject nameJSON = json.getJSONObject("name");
         final String firstName = nameJSON.getString("first");
-        final String middleName = nameJSON.has("middle") ? nameJSON.getString("middle") : "";
+        final String middleName = nameJSON.has("middle") ? nameJSON.getString("middle") : null;
         final String lastName = nameJSON.getString("last");
         name = new HumanName(firstName, middleName, lastName);
 

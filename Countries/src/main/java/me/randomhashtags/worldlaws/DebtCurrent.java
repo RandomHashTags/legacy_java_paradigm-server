@@ -16,7 +16,7 @@ public enum DebtCurrent {
     };
 
     public CountryInfo getInfo() {
-        return CountryInfo.RANKING_DEBT_CURRENT;
+        return null;
     }
 
     public HashMap<String, String> getCountries() {

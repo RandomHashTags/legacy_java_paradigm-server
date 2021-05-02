@@ -33,10 +33,10 @@ public final class WeatherAlertTime {
     @Override
     public String toString() {
         return "{" +
+                (ends != 0 ? "\"ends\":" + ends + "," : "") +
                 "\"sent\":" + sent + "," +
                 "\"effective\":" + effective + "," +
-                "\"expires\":" + expires + "," +
-                "\"ends\":" + ends +
+                "\"expires\":" + expires +
                 "}";
     }
 }

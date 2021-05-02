@@ -15,6 +15,9 @@ public final class EventSources {
     public List<EventSource> getSources() {
         return sources;
     }
+    public void addSources(EventSources sources) {
+        this.sources.addAll(sources.getSources());
+    }
     public void addSource(@NotNull EventSource source) {
         sources.add(source);
     }

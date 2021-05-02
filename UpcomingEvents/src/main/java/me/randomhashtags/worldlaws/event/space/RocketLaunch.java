@@ -2,8 +2,7 @@ package me.randomhashtags.worldlaws.event.space;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
-import me.randomhashtags.worldlaws.UpcomingEventType;
-import me.randomhashtags.worldlaws.event.EventDate;
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.event.UpcomingEvent;
 
 public final class RocketLaunch implements UpcomingEvent {
@@ -14,8 +13,8 @@ public final class RocketLaunch implements UpcomingEvent {
     private final RocketLaunchMission mission;
     private final EventSources sources;
 
-    RocketLaunch(EventDate date, String name, String status, String location, boolean exactDay, boolean exactTime, int probability, String rocketImageURL, RocketLaunchMission mission, String windowStart, String windowEnd, EventSources sources) {
-        this.date = date;
+    RocketLaunch(String name, String status, String location, boolean exactDay, boolean exactTime, int probability, String rocketImageURL, RocketLaunchMission mission, String windowStart, String windowEnd, EventSources sources) {
+        this.date = null;
         this.name = LocalServer.fixEscapeValues(name);
         this.status = status;
         this.location = location;
@@ -27,11 +26,6 @@ public final class RocketLaunch implements UpcomingEvent {
         this.windowStart = LocalServer.fixEscapeValues(windowStart);
         this.windowEnd = LocalServer.fixEscapeValues(windowEnd);
         this.sources = sources;
-    }
-
-    @Override
-    public UpcomingEventType getType() {
-        return UpcomingEventType.SPACE_ROCKET_LAUNCH;
     }
 
     @Override

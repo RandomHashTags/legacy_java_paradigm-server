@@ -3,7 +3,10 @@ package me.randomhashtags.worldlaws;
 import java.time.LocalDate;
 import java.time.Month;
 
-public final class WLUtilities {
+public abstract class WLUtilities {
+    public static long PROXY_UPDATE_INTERVAL = 1000*60*10;
+    public static long WEATHER_ALERTS_UPDATE_INTERVAL = 1000*60*10;
+
     public static Month getMonthFromPrefix(String prefix) {
         prefix = prefix.substring(0, 3);
         switch (prefix.toLowerCase()) {

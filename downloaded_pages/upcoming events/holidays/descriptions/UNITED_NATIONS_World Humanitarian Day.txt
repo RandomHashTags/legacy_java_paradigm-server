@@ -1,0 +1,384 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>World Humanitarian Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b990440e-e28a-4bd4-aacf-78856116f2d6","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"World_Humanitarian_Day","wgTitle":"World Humanitarian Day","wgCurRevisionId":973781036,"wgRevisionId":973781036,"wgArticleId":22444430,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with style issues from May 2009","All articles with style issues","Infobox holiday with missing field","Infobox holiday fixed day (2)","August observances","United Nations days","International observances"],"wgPageContentLanguage":"en","wgPageContentModel":
+"wikitext","wgRelevantPageName":"World_Humanitarian_Day","wgRelevantArticleId":22444430,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q2723440"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
+"skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:title" content="World Humanitarian Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/World_Humanitarian_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=World_Humanitarian_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=World_Humanitarian_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/World_Humanitarian_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-World_Humanitarian_Day rootpage-World_Humanitarian_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">World Humanitarian Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="box-Essay-like plainlinks metadata ambox ambox-style ambox-essay-like" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48">
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article <b>is written like a <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_publisher_of_original_thought" title="Wikipedia:What Wikipedia is not">personal reflection, personal essay, or argumentative essay</a></b> that states a Wikipedia editor's personal feelings or presents an original argument about a topic.<span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=World_Humanitarian_Day&amp;action=edit">help improve it</a> by rewriting it in an <a href="/wiki/Wikipedia:Writing_better_articles#Information_style_and_tone" title="Wikipedia:Writing better articles">encyclopedic style</a>.</span> <small class="date-container"><i>(<span class="date">May 2009</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <table class="infobox vevent">
+       <tbody>
+        <tr>
+         <th colspan="2" class="infobox-above hd" style="background-color: transparent">World Humanitarian Day</th>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Also called</th>
+         <td class="infobox-data">WHD</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Observed&nbsp;by</th>
+         <td class="infobox-data"><a href="/wiki/UN_Members" class="mw-redirect" title="UN Members">UN Members</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Begins</th>
+         <td class="infobox-data">19 August</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Ends</th>
+         <td class="infobox-data">19 August</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Date</th>
+         <td class="infobox-data"><a href="/wiki/19_August" class="mw-redirect" title="19 August">19 August</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Next&nbsp;time</th>
+         <td class="infobox-data">19 August 2021<span style="display:none">&nbsp;(<span class="dtstart">2021-08-19</span>)</span></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Frequency</th>
+         <td class="infobox-data">Annual</td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>World Humanitarian Day</b> is an <a href="/wiki/List_of_minor_secular_observances#August" title="List of minor secular observances">international day</a> dedicated to recognize humanitarian personnel and those who have lost their lives working for <a href="/wiki/Humanitarian_aid" title="Humanitarian aid">humanitarian causes</a>. It was designated by the <a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">United Nations General Assembly</a> as part of a Swedish-sponsored GA Resolution A/63/L.49 on the Strengthening of the Coordination of Emergency Assistance of the United Nations,<sup id="cite_ref-UN_A-63-L.49_1-0" class="reference"><a href="#cite_note-UN_A-63-L.49-1">[1]</a></sup> and set as 19 August. It marks the day on which the then Special Representative of the <a href="/wiki/Secretary-General_of_the_United_Nations" title="Secretary-General of the United Nations">Secretary-General</a> to Iraq, <a href="/wiki/S%C3%A9rgio_Vieira_de_Mello" title="Sérgio Vieira de Mello">Sérgio Vieira de Mello</a> and 21 of his colleagues were killed in <a href="/wiki/Canal_Hotel_bombing" title="Canal Hotel bombing">the bombing of the UN Headquarters in Baghdad</a>. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Commemoration"><span class="tocnumber">2</span> <span class="toctext">Commemoration</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Humanitarian_Day&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The designation of 19 August as World Humanitarian Day is the outcome of the relentless efforts of the Sérgio Vieira de Mello Foundation and his family working closely with the Ambassadors of France, Switzerland, Japan and Brazil in both Geneva and New York to table and steer the draft Resolution through the General Assembly. The Foundation conveyed its deep gratitude to the <a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">United Nations General Assembly</a> and all Member States for the worthy gesture of recognition that has ensured that the tragic loss of Vieira de Mello and his 21 colleagues and all humanitarian personnel who have made the ultimate sacrifices in relieving the suffering of victims of <a href="/wiki/Humanitarian_crisis" title="Humanitarian crisis">humanitarian crises</a> have not been in vain. </p>
+      <p>A national of Brazil, <a href="/wiki/S%C3%A9rgio_Vieira_de_Mello" title="Sérgio Vieira de Mello">Sérgio Vieira de Mello</a> dedicated a lifetime spanning over thirty years in the United Nations, serving in some of the most challenging humanitarian situations in the world to reach the voiceless victims of armed conflict, alleviate their suffering and draw attention to their plight. His death together with 21 colleagues on 19 August 2003 in Baghdad, deprived the victims of armed conflict worldwide of a unique humanitarian leader of unmatched courage, drive and empathy who championed their cause fearlessly and etched their plight on the world map. The tragic event also robbed the humanitarian community of an outstanding humanitarian leader and intellectual whose thinking, philosophy, dynamism and courage inspired all and remains a timeless legacy for coming generations to emulate. </p>
+      <p>Mindful of this legacy, in 2006 the Vieira de Mello family and a group of close friends founded the Sergio Vieira de Mello Foundation dedicated to continue his unfinished mission of encouraging dialogue between communities and relieving the plight of victims of humanitarian crises. The Foundation is dedicated to supporting initiatives and efforts to promote dialogue for peaceful <a href="/wiki/Truth_and_reconciliation_commission" class="mw-redirect" title="Truth and reconciliation commission">reconciliation</a> and <a href="/wiki/Plurinationalism" title="Plurinationalism">co-existence</a> between peoples and communities divided by conflict through an annual Sergio Vieira Mello Award, an Annual Sergio Vieira Mello Memorial Lecture, a Sergio Vieira de Mello Fellowship and advocating for the security and independence of humanitarian actors, wherever they may be operating and whomever they may be operating for. The Foundation views the World Humanitarian Day as a befitting tribute to all humanitarian personnel who have made the ultimate sacrifices to make the world a better place for all victims of humanitarian crises and an encouragement to all their serving colleagues to aspire to even greater heights in accomplishing that laudable goal. </p> 
+      <h2><span class="mw-headline" id="Commemoration">Commemoration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Humanitarian_Day&amp;action=edit&amp;section=2" title="Edit section: Commemoration">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The Sérgio Vieira de Mello Foundation is committed to working closely with all Governments, the <a href="/wiki/United_Nations" title="United Nations">United Nations</a>, <a href="/wiki/International_organization" title="International organization">International Organizations</a> and <a href="/wiki/Non-governmental_organization" title="Non-governmental organization">Non-Governmental Organizations</a> to give the Word Humanitarian Day a meaningful observance every year. The UN <a href="/wiki/Office_for_the_Coordination_of_Humanitarian_Affairs" class="mw-redirect" title="Office for the Coordination of Humanitarian Affairs">Office for the Coordination of Humanitarian Affairs</a> is leading efforts to plan and guide the observance of the Day that will be commemorated world wide by Governments, the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> and <a href="/wiki/International_organization" title="International organization">International Humanitarian Organizations</a> and <a href="/wiki/Non-governmental_organization" title="Non-governmental organization">NGOs</a>. </p>
+      <p>World Humanitarian Day was commemorated for the first time on 19 August 2009. Subsequent years have focused on a particular theme. In 2010, the focus was on the actual work and achievements of humanitarian workers in the field, with the theme, “<a rel="nofollow" class="external text" href="http://www.sergiovdmfoundation.org/wcms/index.php?option=com_content&amp;view=article&amp;id=106&amp;Itemid=161&amp;lang=en">We are Humanitarian Workers</a>.” The 2011 campaign, "<a rel="nofollow" class="external text" href="https://www.un.org/en/events/humanitarianday/2011/observance_2011.shtml">People Helping People</a>" was about inspiring the spirit of aid work in everyone. The 2012 campaign, “<a rel="nofollow" class="external text" href="https://www.un.org/en/events/humanitarianday/2012/observance_2012.shtml">I Was Here</a>” was about making your mark by doing something good, somewhere, for someone else. The campaign had a social reach of more than 1 billion people around the world. It was supported by the American singer <a href="/wiki/Beyonc%C3%A9_Knowles" class="mw-redirect" title="Beyoncé Knowles">Beyoncé</a>, whose music video for the song “<a href="/wiki/I_Was_Here_(song)" title="I Was Here (song)">I Was Here</a>” has been viewed more than 50 million times. </p>
+      <p>In 2013, the UN and its partners will launch a ground-breaking project called “The World Needs More…”. In collaboration with global advertising firm Leo Burnett, the campaign aims to turn words into aid for people affected by humanitarian crises. Private sector companies and philanthropists are being encouraged to sponsor a word that they believe the world could use more of, e.g. “action”. People can then ‘unlock’ money pledged by sponsors by ‘sharing’ these words through social media, SMS and through the campaign website at <a rel="nofollow" class="external text" href="http://www.worldhumanitarianday.org">www.worldhumanitarianday.org</a>. Events to mark World Humanitarian Day and launch the campaign will be held in more than 50 countries around the world. </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Humanitarian_Day&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Humanitarianism" title="Humanitarianism">Humanitarianism</a></li> 
+       <li><a href="/wiki/S%C3%A9rgio_Vieira_de_Mello" title="Sérgio Vieira de Mello">Sérgio Vieira de Mello</a></li> 
+       <li><a href="/wiki/Canal_Hotel_bombing" title="Canal Hotel bombing">Canal Hotel bombing</a></li> 
+       <li><a href="/wiki/Office_for_the_Coordination_of_Humanitarian_Affairs" class="mw-redirect" title="Office for the Coordination of Humanitarian Affairs">Office for the Coordination of Humanitarian Affairs</a></li> 
+       <li><a href="/wiki/International_Day_of_Peace" title="International Day of Peace">International Day of Peace</a></li> 
+       <li><a href="/wiki/International_Human_Solidarity_Day" title="International Human Solidarity Day">International Human Solidarity Day</a></li> 
+       <li><a href="/wiki/Human_Rights_Day" title="Human Rights Day">Human Rights Day</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Humanitarian_Day&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="mw-references-wrap">
+       <ol class="references"> 
+        <li id="cite_note-UN_A-63-L.49-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-UN_A-63-L.49_1-0">^</a></b></span> <span class="reference-text"><a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">United Nations General Assembly</a> Session 63 <i>Resolution</i> <i>A-63-L.49</i>.<a rel="nofollow" class="external text" href="http://www.un.org/ga/search/view_doc.asp?symbol=A/63/L.49"> <i>World Humanitarian Day</i> <b>A/63/L.49</b></a> 11 December 2008. Retrieved 2008-12-11.</span> </li> 
+       </ol>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Humanitarian_Day&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.WorldHumanitarianDay.org/">World Humanitarian Day</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.sergiovdmfoundation.org">The Sergio Vieira de Mello Foundation</a></li> 
+       <li>OCHA <a rel="nofollow" class="external text" href="http://www.unocha.org/top-stories/all-stories/world-humanitarian-day-2012">World Humanitarian Day 2012</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://www.un.org/ga/">The General Assembly of the United Nations</a></li>
+      </ul> <!-- 
+NewPP limit report
+Parsed by mw1372
+Cached time: 20210425003037
+Cache expiry: 86400
+Dynamic content: true
+Complications: []
+CPU time usage: 0.179 seconds
+Real time usage: 0.264 seconds
+Preprocessor visited node count: 2105/1000000
+Post‐expand include size: 10474/2097152 bytes
+Template argument size: 1208/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 638/5000000 bytes
+Lua time usage: 0.031/10.000 seconds
+Lua memory usage: 1387439/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  238.789      1 -total
+ 49.72%  118.729      1 Template:Infobox_holiday
+ 40.39%   96.440      1 Template:Essay-like
+ 32.69%   78.065      1 Template:Infobox
+ 14.65%   34.980      1 Template:Ambox
+ 14.48%   34.587      1 Template:DMCA
+ 11.58%   27.643      1 Template:Dated_maintenance_category
+ 10.43%   24.912      1 Template:Start-date
+  8.92%   21.297      1 Template:UN_document
+  7.83%   18.693      4 Template:Infobox_holiday/date
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:22444430-0!canonical and timestamp 20210425003037 and revision id 973781036. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=World_Humanitarian_Day&amp;oldid=973781036">https://en.wikipedia.org/w/index.php?title=World_Humanitarian_Day&amp;oldid=973781036</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:August_observances" title="Category:August observances">August observances</a></li>
+       <li><a href="/wiki/Category:United_Nations_days" title="Category:United Nations days">United Nations days</a></li>
+       <li><a href="/wiki/Category:International_observances" title="Category:International observances">International observances</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_style_issues_from_May_2009" title="Category:Wikipedia articles with style issues from May 2009">Wikipedia articles with style issues from May 2009</a></li>
+       <li><a href="/wiki/Category:All_articles_with_style_issues" title="Category:All articles with style issues">All articles with style issues</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_with_missing_field" title="Category:Infobox holiday with missing field">Infobox holiday with missing field</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_fixed_day_(2)" title="Category:Infobox holiday fixed day (2)">Infobox holiday fixed day (2)</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=World+Humanitarian+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=World+Humanitarian+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/World_Humanitarian_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:World_Humanitarian_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/World_Humanitarian_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=World_Humanitarian_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=World_Humanitarian_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/World_Humanitarian_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/World_Humanitarian_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=World_Humanitarian_Day&amp;oldid=973781036" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=World_Humanitarian_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=World_Humanitarian_Day&amp;id=973781036&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2723440" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=World_Humanitarian_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=World_Humanitarian_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A_%D9%84%D9%84%D8%B9%D9%85%D9%84_%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A" title="اليوم العالمي للعمل الإنساني – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C3%9Cmumd%C3%BCnya_Humanitar_Yard%C4%B1m_G%C3%BCn%C3%BC" title="Ümumdünya Humanitar Yardım Günü – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Dia_Mundial_de_l%27Assist%C3%A8ncia_Humanit%C3%A0ria" title="Dia Mundial de l'Assistència Humanitària – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Welttag_der_humanit%C3%A4ren_Hilfe" title="Welttag der humanitären Hilfe – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_de_la_Asistencia_Humanitaria" title="Día Mundial de la Asistencia Humanitaria – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_de_l%27aide_humanitaire" title="Journée mondiale de l'aide humanitaire – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/L%C3%A1_Domhanda_na_Daonn%C3%BAlachta" title="Lá Domhanda na Daonnúlachta – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%B5%E0%AA%BF%E0%AA%B6%E0%AB%8D%E0%AA%B5_%E0%AA%AE%E0%AA%BE%E0%AA%A8%E0%AA%B5%E0%AA%A4%E0%AA%BE_%E0%AA%A6%E0%AA%BF%E0%AA%B5%E0%AA%B8" title="વિશ્વ માનવતા દિવસ – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Giornata_mondiale_dell%27aiuto_umanitario" title="Giornata mondiale dell'aiuto umanitario – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%99%D7%95%D7%9D_%D7%94%D7%94%D7%95%D7%9E%D7%A0%D7%99%D7%98%D7%A8%D7%99_%D7%94%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99" title="היום ההומניטרי הבינלאומי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Dies_mundi_humanitaria" title="Dies mundi humanitaria – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Pasaulin%C4%97_humanitarini%C5%B3_darbuotoj%C5%B3_diena" title="Pasaulinė humanitarinių darbuotojų diena – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/%C5%9Awiatowy_Dzie%C5%84_Pomocy_Humanitarnej" title="Światowy Dzień Pomocy Humanitarnej – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Dia_Mundial_Humanit%C3%A1rio" title="Dia Mundial Humanitário – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B3%D1%83%D0%BC%D0%B0%D0%BD%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%B8" title="Всемирный день гуманитарной помощи – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%B2%E0%AE%95_%E0%AE%AE%E0%AE%A9%E0%AE%BF%E0%AE%A4%E0%AE%A8%E0%AF%87%E0%AE%AF_%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D" title="உலக மனிதநேய நாள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%AA%E0%B0%82%E0%B0%9A_%E0%B0%AE%E0%B0%BE%E0%B0%A8%E0%B0%B5%E0%B0%A4%E0%B0%BE_%E0%B0%A6%E0%B0%BF%E0%B0%A8%E0%B1%8B%E0%B0%A4%E0%B1%8D%E0%B0%B8%E0%B0%B5%E0%B0%82" title="ప్రపంచ మానవతా దినోత్సవం – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/D%C3%BCnya_%C4%B0nsani_Yard%C4%B1m_G%C3%BCn%C3%BC" title="Dünya İnsani Yardım Günü – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D9%86%D8%B3%D8%A7%D9%86_%D8%AF%D9%88%D8%B3%D8%AA%DB%8C_%DA%A9%D8%A7_%D8%B9%D8%A7%D9%84%D9%85%DB%8C_%D8%AF%D9%86" title="انسان دوستی کا عالمی دن – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ng%C3%A0y_Nh%C3%A2n_%C4%91%E1%BA%A1o_Th%E1%BA%BF_gi%E1%BB%9Bi" title="Ngày Nhân đạo Thế giới – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2723440#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 19 August 2020, at 05:05<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=World_Humanitarian_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.179","walltime":"0.264","ppvisitednodes":{"value":2105,"limit":1000000},"postexpandincludesize":{"value":10474,"limit":2097152},"templateargumentsize":{"value":1208,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":638,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  238.789      1 -total"," 49.72%  118.729      1 Template:Infobox_holiday"," 40.39%   96.440      1 Template:Essay-like"," 32.69%   78.065      1 Template:Infobox"," 14.65%   34.980      1 Template:Ambox"," 14.48%   34.587      1 Template:DMCA"," 11.58%   27.643      1 Template:Dated_maintenance_category"," 10.43%   24.912      1 Template:Start-date","  8.92%   21.297      1 Template:UN_document","  7.83%   18.693      4 Template:Infobox_holiday/date"]},"scribunto":{"limitreport-timeusage":{"value":"0.031","limit":"10.000"},"limitreport-memusage":{"value":1387439,"limit":52428800}},"cachereport":{"origin":"mw1372","timestamp":"20210425003037","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"World Humanitarian Day","url":"https:\/\/en.wikipedia.org\/wiki\/World_Humanitarian_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2723440","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2723440","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-04-16T20:54:33Z","dateModified":"2020-08-19T05:05:25Z"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":136,"wgHostname":"mw1399"});});</script> 
+ </body>
+</html>

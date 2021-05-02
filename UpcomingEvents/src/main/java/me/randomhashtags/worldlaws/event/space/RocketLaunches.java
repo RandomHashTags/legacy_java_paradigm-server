@@ -1,11 +1,8 @@
 package me.randomhashtags.worldlaws.event.space;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.event.EventDate;
-import me.randomhashtags.worldlaws.PreUpcomingEvent;
-import me.randomhashtags.worldlaws.UpcomingEventType;
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.location.WLCountry;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -14,8 +11,7 @@ import java.util.HashMap;
 public enum RocketLaunches implements EventController {
     INSTANCE;
 
-    private String jsonPreUpcomingEvents;
-    private HashMap<String, String> preEvents, events;
+    private HashMap<String, String> upcomingEvents, preUpcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -23,17 +19,34 @@ public enum RocketLaunches implements EventController {
     }
 
     @Override
-    public void refresh(CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
-        preEvents = new HashMap<>();
-        events = new HashMap<>();
+    public WLCountry getCountry() {
+        return null;
+    }
+
+    @Override
+    public HashMap<String, NewPreUpcomingEvent> getPreEventURLs() {
+        return null;
+    }
+
+    @Override
+    public HashMap<String, String> getPreUpcomingEvents() {
+        return preUpcomingEvents;
+    }
+
+    @Override
+    public HashMap<String, String> getUpcomingEvents() {
+        return upcomingEvents;
+    }
+
+    @Override
+    public void load(CompletionHandler handler) {
+        upcomingEvents = new HashMap<>();
+        preUpcomingEvents = new HashMap<>();
+
         requestJSONObject("https://ll.thespacedevs.com/2.0.0/launch/upcoming/?format=json&limit=50&mode=detailed&offset=0", RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
                 if(json != null) {
-                    final StringBuilder builder = new StringBuilder("[");
-                    boolean isFirst = true;
-
                     final JSONArray launches = json.getJSONArray("results");
                     final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
                     for(Object obj : launches) {
@@ -56,43 +69,23 @@ public enum RocketLaunches implements EventController {
                         }
 
                         final EventDate date = new EventDate(windowStart);
-                        final RocketLaunch launch = new RocketLaunch(date, name, status, location, exactDay, exactTime, probability, rocketImageURL, mission, windowStart, windowEnd, sources);
-                        final String identifier = getEventIdentifier(date, name);
-                        events.put(identifier, launch.toJSON());
-
-                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(name, location, rocketImageURL);
-                        final String string = preUpcomingEvent.toString();
-                        preEvents.put(identifier, string);
-                        builder.append(isFirst ? "" : ",").append(string);
-                        isFirst = false;
+                        final String dateString = date.getMonth().getValue() + "-" + date.getYear() + "-" + date.getDay();
+                        final String id = dateString + "." + name.replace(" ", "").replace("/", "-");
+                        final RocketLaunch launch = new RocketLaunch(name, status, location, exactDay, exactTime, probability, rocketImageURL, mission, windowStart, windowEnd, sources);
+                        final String string = launch.toJSON();
+                        upcomingEvents.put(id, string);
+                        final String preUpcomingEventString = new PreUpcomingEvent(id, name, location, rocketImageURL).toString();
+                        preUpcomingEvents.put(id, preUpcomingEventString);
                     }
-                    builder.append("]");
-                    final String string = builder.toString();
-                    jsonPreUpcomingEvents = string;
-                    WLLogger.log(Level.INFO, "RocketLaunches - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handle(string);
+                    handler.handle(null);
                 }
             }
         });
     }
 
     @Override
-    public String getCache() {
-        return jsonPreUpcomingEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getPreEvents() {
-        return preEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getEvents() {
-        return events;
-    }
-
-    @Override
-    public WLCountry getCountry() {
-        return null;
+    public void getUpcomingEvent(String id, CompletionHandler handler) {
+        final String value = upcomingEvents.getOrDefault(id, "{}");
+        handler.handle(value);
     }
 }

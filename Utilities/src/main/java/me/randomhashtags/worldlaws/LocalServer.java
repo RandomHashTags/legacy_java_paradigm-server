@@ -109,6 +109,9 @@ public final class LocalServer implements DataValues {
                 .replace("\"", "\\u0022")
                 : null;
     }
+    public static String removeWikipediaTranslations(String input) {
+        return input.replaceAll(" \\(.*?:.*?\\)", "");
+    }
 
     public static String toCorrectCapitalization(String input, String...excludedWords) {
         final String lowercase = input.toLowerCase();
@@ -132,7 +135,7 @@ public final class LocalServer implements DataValues {
         }
         return builder.toString();
     }
-    public String toCorrectCapitalization(String input, boolean onlyFirstWordIsCapitalized, String...excluded) {
+    public static String toCorrectCapitalization(String input, boolean onlyFirstWordIsCapitalized, String...excluded) {
         if(onlyFirstWordIsCapitalized) {
             String words = input.toLowerCase().replace("_", " ");
             for(String string : excluded) {
@@ -140,7 +143,7 @@ public final class LocalServer implements DataValues {
             }
             return words.substring(0, 1).toUpperCase() + words.substring(1);
         } else {
-            return toCorrectCapitalization(input);
+            return toCorrectCapitalization(input, excluded);
         }
     }
 }

@@ -12,7 +12,7 @@ import java.time.Year;
 import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public enum Earthquakes implements RestAPI, TerritoryAbbreviations {
+public enum Earthquakes implements RestAPI {
     INSTANCE;
 
     private final String yearsJSON;
@@ -210,7 +210,7 @@ public enum Earthquakes implements RestAPI, TerritoryAbbreviations {
                 }
                 final HashSet<Earthquake> allEarthquakes = new HashSet<>();
                 final HashMap<String, String> territoryMap = new HashMap<>();
-                final HashMap<String, String> usaAbbreviations = getAmericanTerritories();
+                final HashMap<String, String> usaAbbreviations = TerritoryAbbreviations.getAmericanTerritories();
                 for(Map.Entry<String, HashSet<Earthquake>> set : earthquakes.entrySet()) {
                     final String key = set.getKey();
                     final String territory = usaAbbreviations.getOrDefault(key, key).toLowerCase().replace(" ", "");

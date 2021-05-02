@@ -2,15 +2,8 @@ package me.randomhashtags.worldlaws.hurricanes;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Jsoupable;
-import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.event.EventDate;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
 
-import java.time.Month;
 import java.util.*;
-import java.util.logging.Level;
 
 public enum Hurricanes implements Jsoupable {
     INSTANCE;

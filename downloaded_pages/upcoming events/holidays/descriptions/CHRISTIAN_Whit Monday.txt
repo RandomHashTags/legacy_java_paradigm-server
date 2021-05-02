@@ -1,0 +1,662 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Whit Monday - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"63d3b8f5-79d0-44c0-8007-30092ce5b78d","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Whit_Monday","wgTitle":"Whit Monday","wgCurRevisionId":1016686691,"wgRevisionId":1016686691,"wgArticleId":501814,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description matches Wikidata","Articles needing additional references from May 2018","All articles needing additional references","Infobox holiday with missing field","Infobox holiday (other)",
+"Articles containing German-language text","Pentecost","Public holidays in Denmark","Public holidays in Germany","Public holidays in Norway","Holidays based on the date of Easter","May observances","June observances","Monday observances"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Whit_Monday","wgRelevantArticleId":501814,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,
+"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q2512993"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Andrej_Rubl%C3%ABv_001.jpg/1200px-Andrej_Rubl%C3%ABv_001.jpg"> 
+  <meta property="og:title" content="Whit Monday - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Whit_Monday"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Whit_Monday&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Whit_Monday&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Whit_Monday"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Whit_Monday rootpage-Whit_Monday skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">Whit Monday</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Holiday celebrated the day after Pentecost
+      </div> 
+      <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Whit_Monday&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Whit+Monday%22">"Whit Monday"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Whit+Monday%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Whit+Monday%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Whit+Monday%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Whit+Monday%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Whit+Monday%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> <small class="date-container"><i>(<span class="date">May 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <table class="infobox vevent">
+       <tbody>
+        <tr>
+         <th colspan="2" class="infobox-above hd" style="background-color: lavender">Whit Monday</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image"><a href="/wiki/File:Andrej_Rubl%C3%ABv_001.jpg" class="image"><img alt="Andrej Rublëv 001.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Andrej_Rubl%C3%ABv_001.jpg/240px-Andrej_Rubl%C3%ABv_001.jpg" decoding="async" width="240" height="296" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Andrej_Rubl%C3%ABv_001.jpg/360px-Andrej_Rubl%C3%ABv_001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Andrej_Rubl%C3%ABv_001.jpg/480px-Andrej_Rubl%C3%ABv_001.jpg 2x" data-file-width="2024" data-file-height="2497"></a>
+          <div class="infobox-caption" style="caption">
+           Medieval <a href="/wiki/Russian_icon" class="mw-redirect" title="Russian icon">Russian icon</a> of the <a href="/wiki/Old_Testament" title="Old Testament">Old Testament</a> <a href="/wiki/Trinity" title="Trinity">Trinity</a> by <a href="/wiki/Andrei_Rublev" title="Andrei Rublev">Andrei Rublev</a>, used as the icon of the <a href="/wiki/Festival" title="Festival">feast</a> for Whit Monday.
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Also called</th>
+         <td class="infobox-data">Pentecost Monday (Western), Monday of the Holy Spirit (Eastern)</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Observed&nbsp;by</th>
+         <td class="infobox-data">Many <a href="/wiki/European_countries" class="mw-redirect" title="European countries">European countries</a> and some former colonies</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Type</th>
+         <td class="infobox-data">Christian, Public</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Begins</th>
+         <td class="infobox-data">1st Monday After <a href="/wiki/Whit_Sunday" class="mw-redirect" title="Whit Sunday">Whit Sunday</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Date</th>
+         <td class="infobox-data">Easter + 50 days</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2020&nbsp;date</th>
+         <td class="infobox-data">
+          <div class="plainlist">
+           <ul>
+            <li>June 1 (Western)</li>
+            <li>June 8 (Eastern)</li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2021&nbsp;date</th>
+         <td class="infobox-data">
+          <div class="plainlist">
+           <ul>
+            <li>May 24 (Western)</li>
+            <li>June 21 (Eastern)</li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2022&nbsp;date</th>
+         <td class="infobox-data">
+          <div class="plainlist">
+           <ul>
+            <li>June 6 (Western)</li>
+            <li>June 13 (Eastern)</li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2023&nbsp;date</th>
+         <td class="infobox-data">
+          <div class="plainlist">
+           <ul>
+            <li>May 29 (Western)</li>
+            <li>June 5 (Eastern)</li>
+           </ul>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Frequency</th>
+         <td class="infobox-data">annual</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Related&nbsp;to</th>
+         <td class="infobox-data"><a href="/wiki/Whit_Sunday" class="mw-redirect" title="Whit Sunday">Whit Sunday</a>, <a href="/wiki/Whit_Tuesday" title="Whit Tuesday">Whit Tuesday</a>, <a href="/wiki/Whit_Friday" title="Whit Friday">Whit Friday</a>, <a href="/wiki/Trinity_Sunday" title="Trinity Sunday">Trinity Sunday</a></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Whit Monday</b> or <b>Pentecost Monday</b> (also known as <b>Monday of the Holy Spirit</b>) is the <a href="/wiki/Holiday" title="Holiday">holiday</a> celebrated the day after <a href="/wiki/Pentecost" title="Pentecost">Pentecost</a>, a <a href="/wiki/Moveable_feast" title="Moveable feast">moveable feast</a> in the <a href="/wiki/Christian_calendar" class="mw-redirect" title="Christian calendar">Christian calendar</a>. It is moveable because it is determined by the date of <a href="/wiki/Easter" title="Easter">Easter</a>. In the <a href="/wiki/Catholic_Church" title="Catholic Church">Catholic Church</a>, it is the <b>Memorial of the Blessed Virgin Mary, Mother of the Church</b> Marking the resumption of Ordinary Time. </p>
+      <p>Whit Monday gets its English name from "<a href="/wiki/Whitsunday" class="mw-redirect" title="Whitsunday">Whitsunday</a>", an English name for Pentecost, one of the three <a href="/wiki/Baptism" title="Baptism">baptismal</a> seasons. The origin of the name "Whit Sunday" is generally attributed to the white garments formerly worn by those newly baptized on this feast.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Observance"><span class="tocnumber">1</span> <span class="toctext">Observance</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Observance_in_Eastern_Orthodoxy"><span class="tocnumber">1.1</span> <span class="toctext">Observance in Eastern Orthodoxy</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Dates"><span class="tocnumber">2</span> <span class="toctext">Dates</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Observance">Observance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Whit_Monday&amp;action=edit&amp;section=1" title="Edit section: Observance">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The Monday after Pentecost is a <a href="/wiki/Public_holiday" title="Public holiday">public holiday</a> in <a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a>, <a href="/wiki/Anguilla" title="Anguilla">Anguilla</a>, <a href="/wiki/Austria" title="Austria">Austria</a>, <a href="/wiki/Bahamas" class="mw-redirect" title="Bahamas">The Bahamas</a>, <a href="/wiki/Barbados" title="Barbados">Barbados</a>, <a href="/wiki/Belgium" title="Belgium">Belgium</a>, <a href="/wiki/British_Virgin_Islands" title="British Virgin Islands">The British Virgin Islands</a>, <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>, <a href="/wiki/Denmark" title="Denmark">Denmark</a>, <a href="/wiki/Dominica" title="Dominica">Dominica</a>, <a href="/wiki/France" title="France">France</a>, <a href="/wiki/Germany" title="Germany">Germany</a>, <a href="/wiki/Greece" title="Greece">Greece</a>, <a href="/wiki/Grenada" title="Grenada">Grenada</a>, <a href="/wiki/Hungary" title="Hungary">Hungary</a>, <a href="/wiki/Iceland" title="Iceland">Iceland</a>, <a href="/wiki/Ireland" title="Ireland">Ireland</a>, <a href="/wiki/Ivory_Coast" title="Ivory Coast">Ivory Coast</a>, <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a>, <a href="/wiki/Monaco" title="Monaco">Monaco</a>, <a href="/wiki/Montserrat" title="Montserrat">Montserrat</a>, <a href="/wiki/Netherlands" title="Netherlands">The Netherlands</a>, <a href="/wiki/Norway" title="Norway">Norway</a>, <a href="/wiki/Romania" title="Romania">Romania</a>, <a href="/wiki/Saint_Lucia" title="Saint Lucia">Saint Lucia</a>, <a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">Saint Kitts and Nevis</a>, <a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a>, <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>, <a href="/wiki/Togo" title="Togo">Togo</a> and <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a>. In many of these countries, Whit Monday is known as "the second day of Pentecost" or "the second Whitsun". </p>
+      <p>In France, it became a work day for many workers from 2005 to 2007. This was to raise extra funds following the government's lack of preparation for a summertime heat wave, which led to a shortage of proper health care for the elderly.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It continues to be a "worked public holiday" in France.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> In <a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a>, Whit Monday is considered to be a "favorite holiday", much like Christmas in many other countries. In Germany, Whit Monday (<a href="/wiki/German_language" title="German language">German</a>: <i lang="de">Pfingstmontag</i>) is a <a href="/wiki/Holy_Day_of_Obligation" class="mw-redirect" title="Holy Day of Obligation">Holy Day of Obligation</a> for <a href="/wiki/Roman_Catholic_Church" class="mw-redirect" title="Roman Catholic Church">Roman Catholics</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> In <a href="/wiki/South_Tyrol" title="South Tyrol">South Tyrol</a>, it replaces the holiday of the local patron saint celebrated elsewhere in Italy. </p>
+      <p>Until 1973, Whit Monday was a <a href="/wiki/Public_holidays_in_the_Republic_of_Ireland" title="Public holidays in the Republic of Ireland">public holiday in Ireland</a> (also called a bank holiday). It was a <a href="/wiki/Bank_holiday" title="Bank holiday">bank holiday</a> in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> until 1967. It was formally replaced by the fixed <a href="/wiki/Spring_Bank_Holiday" class="mw-redirect" title="Spring Bank Holiday">Spring Bank Holiday</a> on the last Monday in May in 1971.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> It was also a public holiday in various former British colonies, especially in the Pacific. It remains a public holiday in some of the countries of the <a href="/wiki/Commonwealth_Caribbean" title="Commonwealth Caribbean">Commonwealth Caribbean</a>. In <a href="/wiki/Sweden" title="Sweden">Sweden</a>, Whit Monday was a public holiday until 2004; it was replaced by the <a href="/wiki/National_Day_of_Sweden" title="National Day of Sweden">National Day of Sweden</a> in 2005.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p>
+      <p>Although Whit Monday is a civil holiday in many countries, it was not a Catholic religious holiday any more than the other weekdays that follow <a href="/wiki/Pentecost" title="Pentecost">Pentecost</a> Sunday. Until the <a href="/wiki/Mysterii_Paschalis" title="Mysterii Paschalis">1969 revision</a> of the <a href="/wiki/General_Roman_Calendar" title="General Roman Calendar">General Roman Calendar</a>, they were part of the <a href="/wiki/Octave_(liturgical)" class="mw-redirect" title="Octave (liturgical)">octave</a> of Pentecost, which was added in the 7th century.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> The Monday after Pentecost is now the first day of the resumption of <a href="/wiki/Ordinary_Time" title="Ordinary Time">Ordinary Time</a>. While the details differ from diocese to diocese, the most widespread practice in Germany (where the holiday remains an obligation) was to have a compulsory <a href="/wiki/Votive_Mass" title="Votive Mass">votive Mass</a> of the Holy Spirit outranking even <a href="/wiki/Solemnities" class="mw-redirect" title="Solemnities">solemnities</a> (these would be local solemnities in that case). </p>
+      <p>However, in February 2018, <a href="/wiki/Pope_Francis" title="Pope Francis">Pope Francis</a> declared that henceforth, Whit Monday will be the fixed date for the celebration of a new feast, officially known as the “Memorial of <a href="/wiki/Mary,_the_mother_of_Jesus" class="mw-redirect" title="Mary, the mother of Jesus">Mary</a>, <a href="/wiki/Mother_of_the_Church" title="Mother of the Church">Mother of the Church</a>” to be celebrated throughout the universal Church.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </p> 
+      <div style="clear:both;"></div> 
+      <table border="1" cellspacing="0" cellpadding="6" style="float:right; margin-left:15px;"> 
+       <caption style="padding-left: 1.5em;" align="center">
+        <b>Dates for Whit Monday, 2018–2033</b> 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th><b>Year</b></th> 
+         <th><b><a href="/wiki/Western_Christianity" title="Western Christianity">Western</a></b></th> 
+         <th><b><a href="/wiki/Eastern_Christianity" title="Eastern Christianity">Eastern</a></b> </th>
+        </tr> 
+        <tr> 
+         <th scope="row">2018 </th> 
+         <td>May 21 </td> 
+         <td>May 28 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2019 </th> 
+         <td>June 10 </td> 
+         <td>June 17 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2020 </th> 
+         <td>June 1 </td> 
+         <td>June 8 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2021 </th> 
+         <td>May 24 </td> 
+         <td>June 21 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2022 </th> 
+         <td>June 6 </td> 
+         <td>June 13 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2023 </th> 
+         <td>May 29 </td> 
+         <td>June 5 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2024 </th> 
+         <td>May 20 </td> 
+         <td>June 24 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2025 </th> 
+         <td>June 9 </td> 
+         <td>June 9 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2026 </th> 
+         <td>May 25 </td> 
+         <td>June 1 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2027 </th> 
+         <td>May 17 </td> 
+         <td>June 21 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2028 </th> 
+         <td>June 5 </td> 
+         <td>June 5 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2029 </th> 
+         <td>May 21 </td> 
+         <td>May 28 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2030 </th> 
+         <td>June 10 </td> 
+         <td>June 17 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2031 </th> 
+         <td>June 2 </td> 
+         <td>June 2 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2032 </th> 
+         <td>May 17 </td> 
+         <td>June 21 </td>
+        </tr> 
+        <tr> 
+         <th scope="row">2033 </th> 
+         <td>June 6 </td> 
+         <td>June 13 </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h3><span class="mw-headline" id="Observance_in_Eastern_Orthodoxy">Observance in Eastern Orthodoxy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Whit_Monday&amp;action=edit&amp;section=2" title="Edit section: Observance in Eastern Orthodoxy">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In the <a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Eastern Orthodox Church</a> Whit Monday is known as "Monday of the Holy Spirit" or "Day of the Holy Spirit" and is the first day of the <a href="/wiki/Afterfeast" title="Afterfeast">afterfeast</a> of Pentecost, being dedicated specifically to the honor of <a href="/wiki/God_in_Christianity" title="God in Christianity">God</a> the <a href="/wiki/Holy_Spirit" title="Holy Spirit">Holy Spirit</a> and particularly in commemoration of his descent upon the apostles at Pentecost. The day following is known as Third Day of the Trinity.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> In the services on the Monday of the Holy Spirit many of the same hymns are sung as on the day of Pentecost itself. During the <a href="/wiki/Divine_Liturgy" title="Divine Liturgy">Divine Liturgy</a> the Deacon intones the same <a href="/wiki/Introit" title="Introit">introit</a> as on the day of Pentecost, and the <a href="/wiki/Dismissal_(liturgy)" title="Dismissal (liturgy)">dismissal</a> is the same as on the day of Pentecost. Special <a href="/wiki/Canon_(hymnography)" title="Canon (hymnography)">canons</a> to the Holy Spirit are chanted at <a href="/wiki/Compline" title="Compline">Compline</a> and <a href="/wiki/Matins" title="Matins">Matins</a>. </p> 
+      <h2><span class="mw-headline" id="Dates">Dates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Whit_Monday&amp;action=edit&amp;section=3" title="Edit section: Dates">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The table on the right provides columns giving the dates on which Whit Monday is observed in both <a href="/wiki/Western_Christianity" title="Western Christianity">Western</a> and <a href="/wiki/Eastern_Christianity" title="Eastern Christianity">Eastern Christianity</a>. The <a href="/wiki/Eastern_Orthodox" class="mw-redirect" title="Eastern Orthodox">Eastern Orthodox</a> and <a href="/wiki/Oriental_Orthodox" class="mw-redirect" title="Oriental Orthodox">Oriental Orthodox</a> churches calculate <a href="/wiki/Easter" title="Easter">Pascha</a> (Easter) differently from the West (see <a href="/wiki/Computus" class="mw-redirect" title="Computus">Computus</a>), and so the date of Whit Monday will be different most years. </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Whit_Monday&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Azores_Day" title="Azores Day">Azores Day</a></li> 
+       <li><a href="/wiki/File:P_christianity.svg" class="image"><img alt="P christianity.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/31px-P_christianity.svg.png" decoding="async" width="31" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/47px-P_christianity.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/62px-P_christianity.svg.png 2x" data-file-width="400" data-file-height="360"></a>&nbsp;<a href="/wiki/Portal:Christianity" title="Portal:Christianity">Christianity portal</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Whit_Monday&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist reflist-columns references-column-width" style="column-width: 30em;"> 
+       <ol class="references"> 
+        <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFCampion1870" class="citation book cs1"><a href="/wiki/William_Magan_Campion" class="mw-redirect" title="William Magan Campion">Campion, William Magan</a> (1870). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=D8QCAAAAQAAJ&amp;q=Whitsunday+baptized&amp;pg=PA125"><i>The Prayer book interleaved with historical illustrations and explanatory notes arranged parallel to the text</i></a>. <b>5</b>. p.&nbsp;125<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-06-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Prayer+book+interleaved+with+historical+illustrations+and+explanatory+notes+arranged+parallel+to+the+text&amp;rft.pages=125&amp;rft.date=1870&amp;rft.aulast=Campion&amp;rft.aufirst=William+Magan&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DD8QCAAAAQAAJ%26q%3DWhitsunday%2Bbaptized%26pg%3DPA125&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhit+Monday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.timeanddate.com/news/holidays/france-solidarity-day.html">Solidarity Day in France</a> Retrieved 2009-04-17.</span> </li> 
+        <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"> 
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120503210415/http://service-public.fr/actualites/00790.html">"Quels sont les jours fériés en 2014&nbsp;?"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.service-public.fr/actualites/00790.html">the original</a> on 2012-05-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-06-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Quels+sont+les+jours+f%C3%A9ri%C3%A9s+en+2014+%3F&amp;rft_id=http%3A%2F%2Fwww.service-public.fr%2Factualites%2F00790.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhit+Monday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Deutsche Bischofskonferenz, 1995-10-05, <a rel="nofollow" class="external text" href="http://www.drs.de/fileadmin/Rechtsdoku/4/4/2/95_23_15.pdf">Feiertagregelung</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090325150400/http://www.drs.de/fileadmin/Rechtsdoku/4/4/2/95_23_15.pdf">Archived</a> 2009-03-25 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Retrieved 2008-05-12.</span> </li> 
+        <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.timeanddate.com/holidays/uk/spring-bank-holiday">Spring Bank Holiday in the United Kingdom</a>. Retrieved 2009-04-17.</span> </li> 
+        <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.riksdagen.se/sv/Dokument-Lagar/Lagar/Svenskforfattningssamling/Lag-1989253-om-allmanna-hel_sfs-1989-253/">Sveriges riksdag – Svensk författningssamling 1989:253 – "Lag (1989:253) om allmänna helgdagar".</a></span> </li> 
+        <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><i>Calendarium Romanum</i> (Libreria Editrice Vaticana, 1969), p. 56</span> </li> 
+        <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.vaticannews.va/en/pope/news/2018-03/pope-institutes-new-celebration-of-mary--mother-of-church.html">http://www.vaticannews.va/en/pope/news/2018-03/pope-institutes-new-celebration-of-mary--mother-of-church.html</a></span> </li> 
+        <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ocafs.oca.org/FeastSaintsViewer.asp?SID=4&amp;ID=1&amp;FSID=47">OCA – Feasts and Saints</a>. Retrieved 2011-06-06.</span> </li> 
+       </ol>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Whit_Monday&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://ocafs.oca.org/FeastSaintsViewer.asp?SID=4&amp;ID=1&amp;FSID=46">Trinity Week—Day of the Holy Spirit</a> Orthodox <a href="/wiki/Icon" title="Icon">icon</a> and <a href="/wiki/Synaxarion" class="mw-redirect" title="Synaxarion">synaxarion</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Pentecost" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2" style="background:#D1E231;"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Pentecost" title="Template:Pentecost"><abbr title="View this template" style="background:#D1E231;;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Pentecost" title="Template talk:Pentecost"><abbr title="Discuss this template" style="background:#D1E231;;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Pentecost&amp;action=edit"><abbr title="Edit this template" style="background:#D1E231;;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Pentecost" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Pentecost" title="Pentecost">Pentecost</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#D1E231;;width:1%">Church calendar</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Whitsun" title="Whitsun">Whitsun</a></li> 
+             <li><a class="mw-selflink selflink">Whit Monday</a></li> 
+             <li><a href="/wiki/Whit_Tuesday" title="Whit Tuesday">Whit Tuesday</a></li> 
+             <li><a href="/wiki/Trinity_Sunday" title="Trinity Sunday">Trinity Sunday</a></li> 
+             <li><a href="/wiki/Corpus_Christi_(feast)" class="mw-redirect" title="Corpus Christi (feast)">Corpus Christi</a></li> 
+             <li><a href="/wiki/Liturgical_year#Ordinary_Time,_Time_after_Pentecost,_Time_after_Trinity,_or_Kingdomtide" title="Liturgical year">Ordinary Time, Time after Pentecost, Time after Trinity</a></li>
+            </ul> 
+           </div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th id="Eastern_Orthodoxy" scope="row" class="navbox-group" style="width:1%;background:#D1E231">Eastern Orthodoxy</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Mid-Pentecost" title="Mid-Pentecost">Mid-Pentecost</a></li> 
+                 <li><a href="/wiki/Apostles%27_Fast" title="Apostles' Fast">Apostles' Fast</a></li> 
+                 <li><a href="/wiki/Pentecostarion" title="Pentecostarion">Pentecostarion</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#D1E231;;width:1%">Traditions</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Pinkster" title="Pinkster">Pinkster</a></li> 
+             <li><a href="/wiki/Whit_Friday" title="Whit Friday">Whit Friday</a></li> 
+             <li><a href="/wiki/Wakes_week" title="Wakes week">Wakes week</a></li> 
+             <li><a href="/wiki/Parish_ale#Description" title="Parish ale">Whit ale</a></li> 
+             <li><a href="/wiki/Morris_dance#History_in_England" title="Morris dance">Morris dance</a></li> 
+             <li><a href="/wiki/Ducasse_de_Mons" title="Ducasse de Mons">Ducasse de Mons</a></li> 
+             <li><a href="/wiki/Rosalia_(festival)" title="Rosalia (festival)">Rosalia</a></li> 
+             <li><a href="/wiki/Baby_jumping" title="Baby jumping">Baby jumping</a></li> 
+             <li><a href="/wiki/Mavka" title="Mavka">Mavka spirits</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#D1E231;;width:1%">Music</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;background:#D1E231">Noted works</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Messe_de_la_Pentec%C3%B4te" title="Messe de la Pentecôte">Messe de la Pentecôte</a></li> 
+                 <li><a href="/wiki/Orgelb%C3%BCchlein#Pentecost_BWV_631–634" title="Orgelbüchlein">Orgelbüchlein § Pentecost BWV 631–634</a></li> 
+                 <li><a href="/wiki/Church_cantata#Pentecost" title="Church cantata">Church cantata § Pentecost</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%;background:#D1E231"><a href="/wiki/List_of_hymns_for_Pentecost" title="List of hymns for Pentecost">Hymns</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Breathe_on_Me,_Breath_of_God" title="Breathe on Me, Breath of God">Breathe on Me, Breath of God</a></li> 
+                 <li><a href="/wiki/Come_Down,_O_Love_Divine" title="Come Down, O Love Divine">Come Down, O Love Divine</a></li> 
+                 <li><a href="/wiki/Der_Geist_des_Herrn_erf%C3%BCllt_das_All" title="Der Geist des Herrn erfüllt das All">Der Geist des Herrn erfüllt das All</a> (The Spirit of the Lord fills the Universe)</li> 
+                 <li><a href="/wiki/Komm,_Gott_Sch%C3%B6pfer,_Heiliger_Geist" title="Komm, Gott Schöpfer, Heiliger Geist">Komm, Gott Schöpfer, Heiliger Geist</a> (Come, God Creator, Holy Spirit)</li> 
+                 <li><a href="/wiki/Komm,_Heilger_Geist,_der_Leben_schafft" title="Komm, Heilger Geist, der Leben schafft">Komm, Heilger Geist, der Leben schafft</a> (Come, Holy Spirit, creating life)</li> 
+                 <li><a href="/wiki/Komm,_Heiliger_Geist,_Herre_Gott" title="Komm, Heiliger Geist, Herre Gott">Komm, Heiliger Geist, Herre Gott</a> (Come, Holy Spirit, God and Lord)</li> 
+                 <li><a href="/wiki/Komm,_Sch%C3%B6pfer_Geist,_kehr_bei_uns_ein" title="Komm, Schöpfer Geist, kehr bei uns ein">Komm, Schöpfer Geist, kehr bei uns ein</a> (Come, Creator Spirit, visit us)</li> 
+                 <li><a href="/wiki/Nun_bitten_wir_den_Heiligen_Geist" title="Nun bitten wir den Heiligen Geist">Nun bitten wir den Heiligen Geist</a> (We now implore the Holy Ghost)</li> 
+                 <li><a href="/wiki/Nunc_sancte_nobis_spiritus" title="Nunc sancte nobis spiritus">Nunc sancte nobis spiritus</a> (Come, Holy Ghost, Who Ever One)</li> 
+                 <li><a href="/wiki/Veni_Creator_Spiritus" title="Veni Creator Spiritus">Veni Creator Spiritus</a> (Come Creator Spirit)</li> 
+                 <li><a href="/wiki/Veni_Sancte_Spiritus" title="Veni Sancte Spiritus">Veni Sancte Spiritus</a> (Come, Holy Spirit)</li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="background:#D1E231;">
+           <div> 
+            <ul>
+             <li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" title="Category" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185"> <a href="/wiki/Category:Pentecost" title="Category:Pentecost">Category</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1338
+Cached time: 20210426035310
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.271 seconds
+Real time usage: 1.847 seconds
+Preprocessor visited node count: 3395/1000000
+Post‐expand include size: 42405/2097152 bytes
+Template argument size: 2524/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11253/5000000 bytes
+Lua time usage: 0.773/10.000 seconds
+Lua memory usage: 24664374/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1756.645      1 -total
+ 19.97%  350.783      1 Template:Infobox_holiday
+ 18.42%  323.488      1 Template:Reflist
+ 17.86%  313.719      1 Template:Lang-de
+ 15.48%  271.894      1 Template:Infobox
+ 13.93%  244.786     40 Template:Moveable_date
+ 12.63%  221.827      1 Template:Cite_book
+ 12.37%  217.322      1 Template:Ref_improve
+ 11.47%  201.503      1 Template:Short_description
+ 11.03%  193.776      1 Template:Ambox
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:501814-0!canonical and timestamp 20210426035310 and revision id 1016686691. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Whit_Monday&amp;oldid=1016686691">https://en.wikipedia.org/w/index.php?title=Whit_Monday&amp;oldid=1016686691</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Pentecost" title="Category:Pentecost">Pentecost</a></li>
+       <li><a href="/wiki/Category:Public_holidays_in_Denmark" title="Category:Public holidays in Denmark">Public holidays in Denmark</a></li>
+       <li><a href="/wiki/Category:Public_holidays_in_Germany" title="Category:Public holidays in Germany">Public holidays in Germany</a></li>
+       <li><a href="/wiki/Category:Public_holidays_in_Norway" title="Category:Public holidays in Norway">Public holidays in Norway</a></li>
+       <li><a href="/wiki/Category:Holidays_based_on_the_date_of_Easter" title="Category:Holidays based on the date of Easter">Holidays based on the date of Easter</a></li>
+       <li><a href="/wiki/Category:May_observances" title="Category:May observances">May observances</a></li>
+       <li><a href="/wiki/Category:June_observances" title="Category:June observances">June observances</a></li>
+       <li><a href="/wiki/Category:Monday_observances" title="Category:Monday observances">Monday observances</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2018" title="Category:Articles needing additional references from May 2018">Articles needing additional references from May 2018</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_with_missing_field" title="Category:Infobox holiday with missing field">Infobox holiday with missing field</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_(other)" title="Category:Infobox holiday (other)">Infobox holiday (other)</a></li>
+       <li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Whit+Monday" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Whit+Monday" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Whit_Monday" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Whit_Monday" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Whit_Monday">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Whit_Monday&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Whit_Monday&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Whit_Monday" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Whit_Monday" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Whit_Monday&amp;oldid=1016686691" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Whit_Monday&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Whit_Monday&amp;id=1016686691&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2512993" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Whit_Monday&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Whit_Monday&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Holy_Spirit_Day" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Pfingstmontag" title="Pfingstmontag – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%94%D0%B7%D0%B5%D0%BD%D1%8C_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%B0_%D0%94%D1%83%D1%85%D0%B0" title="Дзень Святога Духа – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Anden_pinsedag" title="Anden pinsedag – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Pfingstmontag" title="Pfingstmontag – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Pinkstermoandei" title="Pinkstermoandei – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Luan_Cinc%C3%ADse" title="Luan Cincíse – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Luned%C3%AC_di_Pentecoste" title="Lunedì di Pentecoste – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/P%C3%BCnk%C3%B6sdh%C3%A9tf%C5%91" title="Pünkösdhétfő – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Andre_pinsedag" title="Andre pinsedag – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D1%83%D1%85%D0%BE%D0%B2_%D0%B4%D0%B5%D0%BD%D1%8C" title="Духов день – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Binko%C5%A1tni_ponedeljek" title="Binkoštni ponedeljek – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%94%D1%83%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B8_%D0%BF%D0%BE%D0%BD%D0%B5%D0%B4%D0%B5%D1%99%D0%B0%D0%BA" title="Духовски понедељак – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Annandag_pingst" title="Annandag pingst – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%94%D1%83%D1%85%D0%B0" title="День Святого Духа – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2512993#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 8 April 2021, at 15:08<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Whit_Monday&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.271","walltime":"1.847","ppvisitednodes":{"value":3395,"limit":1000000},"postexpandincludesize":{"value":42405,"limit":2097152},"templateargumentsize":{"value":2524,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11253,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1756.645      1 -total"," 19.97%  350.783      1 Template:Infobox_holiday"," 18.42%  323.488      1 Template:Reflist"," 17.86%  313.719      1 Template:Lang-de"," 15.48%  271.894      1 Template:Infobox"," 13.93%  244.786     40 Template:Moveable_date"," 12.63%  221.827      1 Template:Cite_book"," 12.37%  217.322      1 Template:Ref_improve"," 11.47%  201.503      1 Template:Short_description"," 11.03%  193.776      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.773","limit":"10.000"},"limitreport-memusage":{"value":24664374,"limit":52428800},"limitreport-logs":"table#1 {\n}\n"},"cachereport":{"origin":"mw1338","timestamp":"20210426035310","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Whit Monday","url":"https:\/\/en.wikipedia.org\/wiki\/Whit_Monday","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2512993","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2512993","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-03T13:50:14Z","dateModified":"2021-04-08T15:08:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/17\/Andrej_Rubl%C3%ABv_001.jpg","headline":"holiday celebrated the day after Pentecost"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":155,"wgHostname":"mw1330"});});</script> 
+ </body>
+</html>

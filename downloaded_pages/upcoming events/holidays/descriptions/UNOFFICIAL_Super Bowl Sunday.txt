@@ -1,0 +1,1122 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Super Bowl Sunday - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e282a706-5b10-4e3c-9594-6a5c2db7b0c4","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Super_Bowl_Sunday","wgTitle":"Super Bowl Sunday","wgCurRevisionId":1016023937,"wgRevisionId":1016023937,"wgArticleId":33544057,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from January 2019","Infobox holiday with missing field","Infobox holiday (other)","Super Bowl culture","1967 establishments in the United States","Annual events in the United States","Sunday events","January observances","Recurring events established in 1967",
+"Unofficial observances","Eating parties","February observances"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Super_Bowl_Sunday","wgRelevantArticleId":33544057,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q7642195"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Super_Bowl_Sunday_Military.jpg/1200px-Super_Bowl_Sunday_Military.jpg"> 
+  <meta property="og:title" content="Super Bowl Sunday - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Super_Bowl_Sunday"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Super_Bowl_Sunday&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Super_Bowl_Sunday&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Super_Bowl_Sunday"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Super_Bowl_Sunday rootpage-Super_Bowl_Sunday skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">Super Bowl Sunday</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p class="mw-empty-elt"> </p> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       This article is about the holiday. For the song by Maps &amp; Atlases, see <a href="/wiki/Super_Bowl_Sunday_(song)" class="mw-redirect" title="Super Bowl Sunday (song)">Super Bowl Sunday (song)</a>. For the episode of <i>This Is Us</i>, see <a href="/wiki/Super_Bowl_Sunday_(This_Is_Us)" title="Super Bowl Sunday (This Is Us)">Super Bowl Sunday (This Is Us)</a>.
+      </div> 
+      <table class="infobox vevent">
+       <tbody>
+        <tr>
+         <th colspan="2" class="infobox-above hd" style="background-color: lightsalmon">Super Sunday</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image"><a href="/wiki/File:Super_Bowl_Sunday_Military.jpg" class="image"><img alt="Super Bowl Sunday Military.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Super_Bowl_Sunday_Military.jpg/300px-Super_Bowl_Sunday_Military.jpg" decoding="async" width="300" height="185" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Super_Bowl_Sunday_Military.jpg/450px-Super_Bowl_Sunday_Military.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Super_Bowl_Sunday_Military.jpg/600px-Super_Bowl_Sunday_Military.jpg 2x" data-file-width="3000" data-file-height="1850"></a>
+          <div class="infobox-caption" style="caption">
+           <a href="/wiki/United_States_Air_Force" title="United States Air Force">United States Air Force</a> Super Bowl Party.
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Official name</th>
+         <td class="infobox-data">Super Sunday</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Also called</th>
+         <td class="infobox-data">Super Bowl Sunday</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Observed&nbsp;by</th>
+         <td class="infobox-data"><a href="/wiki/United_States" title="United States">United States</a>, <a href="/wiki/Canada" title="Canada">Canada</a>, and internationally</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Begins</th>
+         <td class="infobox-data">1967</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Date</th>
+         <td class="infobox-data">First Sunday in February</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2020&nbsp;date</th>
+         <td class="infobox-data">February 2 <span style="display:none">&nbsp;(<span class="dtstart">2020-02-02</span>)</span></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2021&nbsp;date</th>
+         <td class="infobox-data">February 7 <span style="display:none">&nbsp;(<span class="dtstart">2021-02-07</span>)</span></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2022&nbsp;date</th>
+         <td class="infobox-data">February 13</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2023&nbsp;date</th>
+         <td class="infobox-data">February 12</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Frequency</th>
+         <td class="infobox-data">annual</td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Super Bowl Sunday</b> is the day on which the <a href="/wiki/Super_Bowl" title="Super Bowl">Super Bowl</a>, the <a href="/wiki/National_Football_League" title="National Football League">National Football League</a> (NFL)'s annual championship game, is played. It is currently observed on the first Sunday in February, although in 2022 will be moved to the second Sunday, and is sometimes referred to as an unofficial national holiday. The 55th annual event, <a href="/wiki/Super_Bowl_LV" title="Super Bowl LV">Super Bowl LV</a>, occurred on February 7, 2021. Festivities for Super Sunday typically involve groups of people gathering to watch the game. Both "Super Sunday" and "Super Bowl Sunday" are registered <a href="/wiki/Trademark" title="Trademark">trademarks</a> of the National Football League.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> On Guam, it is known as Super Bowl Monday, due to the time zone, the game airs live Monday morning.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Festivities">Festivities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Super_Bowl_Sunday&amp;action=edit&amp;section=1" title="Edit section: Festivities">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Although not an <a href="/wiki/Public_holidays_in_the_United_States" title="Public holidays in the United States">official holiday</a>, Super Sunday in an occasion when many families and friends gather together to watch the game, including those who are not normally football fans.<sup id="cite_ref-tftu_3-0" class="reference"><a href="#cite_note-tftu-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Although <a href="/wiki/Sports_bar" class="mw-redirect" title="Sports bar">sports bars</a> have historically been busy on Super Sunday in the past, it is becoming more common for people to watch the game from home. This is due in part to the increasing size of home televisions in the United States and Canada as well as the attempts of budget conscious consumers to save money.<sup id="cite_ref-twsj02_5-0" class="reference"><a href="#cite_note-twsj02-5">[5]</a></sup><sup id="cite_ref-twsj01_6-0" class="reference"><a href="#cite_note-twsj01-6">[6]</a></sup> </p>
+      <p>Because watching the Super Bowl is so popular, stores are often empty during the game, particularly in the regions represented by the two teams playing in the Super Bowl,<sup id="cite_ref-tn_7-0" class="reference"><a href="#cite_note-tn-7">[7]</a></sup> and water usage drops, with significant rises in use during halftime and after the game, as fans use the bathroom.<sup id="cite_ref-calder20120209_8-0" class="reference"><a href="#cite_note-calder20120209-8">[8]</a></sup> Additionally, churches sometimes cancel afternoon or evening services on Super Sunday, hold football-themed charity drives, or deliver sermons designed to appeal to male members of the congregation.<sup id="cite_ref-tva_9-0" class="reference"><a href="#cite_note-tva-9">[9]</a></sup><sup id="cite_ref-dp_10-0" class="reference"><a href="#cite_note-dp-10">[10]</a></sup><sup id="cite_ref-hs_11-0" class="reference"><a href="#cite_note-hs-11">[11]</a></sup> </p>
+      <p>NFL executives have called for a three-day weekend in order to allow fans to celebrate the event, and there is thought to be a loss of <a href="/wiki/Productivity" title="Productivity">productivity</a> in the American work force on Monday after the event.<sup id="cite_ref-LAT_12-0" class="reference"><a href="#cite_note-LAT-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> The television network carrying the game (either <a href="/wiki/NFL_on_CBS" title="NFL on CBS">CBS</a>, <a href="/wiki/Fox_NFL" class="mw-redirect" title="Fox NFL">Fox</a>, or <a href="/wiki/NBC_Sunday_Night_Football" title="NBC Sunday Night Football">NBC</a>) will usually devote the entire day's programming schedule to the game, with extended pregame shows, <a href="/wiki/NFL_Films" title="NFL Films">NFL Films</a> retrospectives of the previous season, and special versions of the <a href="/wiki/Sunday_morning_talk_show" title="Sunday morning talk show">Sunday morning talk shows</a> in the morning and afternoon hours leading into the game. Competing networks, due to the severe loss of viewers to the Super Bowl festivities and a gentlemen's agreement not to compete against the game (<a href="/wiki/Media_cross-ownership_in_the_United_States" title="Media cross-ownership in the United States">most cable and broadcast networks are owned by a limited number of companies</a>, <a href="/wiki/NFL_on_television" class="mw-redirect" title="NFL on television">most of which hold NFL rights</a>), generally resort to low-cost <a href="/wiki/Super_Bowl_counterprogramming" title="Super Bowl counterprogramming">counterprogramming</a> measures like the <i><a href="/wiki/Puppy_Bowl" title="Puppy Bowl">Puppy Bowl</a>.</i><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Food">Food</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Super_Bowl_Sunday&amp;action=edit&amp;section=2" title="Edit section: Food">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Rams_and_Patriots_cakes.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rams_and_Patriots_cakes.jpg/220px-Rams_and_Patriots_cakes.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rams_and_Patriots_cakes.jpg/330px-Rams_and_Patriots_cakes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rams_and_Patriots_cakes.jpg/440px-Rams_and_Patriots_cakes.jpg 2x" data-file-width="3733" data-file-height="2799"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Rams_and_Patriots_cakes.jpg" class="internal" title="Enlarge"></a>
+         </div>Cakes bearing the logos of the <a href="/wiki/Los_Angeles_Rams" title="Los Angeles Rams">Los Angeles Rams</a> and <a href="/wiki/New_England_Patriots" title="New England Patriots">New England Patriots</a> ahead of <a href="/wiki/Super_Bowl_LIII" title="Super Bowl LIII">Super Bowl LIII</a>
+        </div>
+       </div>
+      </div> 
+      <p>Large amounts of food and alcohol are consumed on Super Sunday.<sup id="cite_ref-LAT_12-1" class="reference"><a href="#cite_note-LAT-12">[12]</a></sup><sup id="cite_ref-si_15-0" class="reference"><a href="#cite_note-si-15">[15]</a></sup><sup id="cite_ref-wgn_16-0" class="reference"><a href="#cite_note-wgn-16">[16]</a></sup> The event is the second-largest food consumption event in the United States, behind only <a href="/wiki/Thanksgiving_dinner" title="Thanksgiving dinner">Thanksgiving dinner</a>,<sup id="cite_ref-tac_17-0" class="reference"><a href="#cite_note-tac-17">[17]</a></sup> and some police departments have noticed a dramatic increase in <a href="/wiki/Drunk_driving" title="Drunk driving">drunk driving</a> on Super Sunday.<sup id="cite_ref-wgn_16-1" class="reference"><a href="#cite_note-wgn-16">[16]</a></sup> </p>
+      <p>Super Sunday food is usually served <a href="/wiki/Buffet" title="Buffet">buffet</a> style, rather than as a sit-down meal. Foods traditionally eaten on Super Sunday include <a href="/wiki/Buffalo_wing" title="Buffalo wing">buffalo wings</a>, <a href="/wiki/Chili_con_carne" title="Chili con carne">chili</a>, <a href="/wiki/Pork_ribs" title="Pork ribs">baby back ribs</a>, <a href="/wiki/Dip_(food)" class="mw-redirect" title="Dip (food)">dipping sauces</a>, <a href="/wiki/Pizza" title="Pizza">pizza</a>, and <a href="/wiki/Potato_chip" title="Potato chip">potato chips</a>.<sup id="cite_ref-tac_17-1" class="reference"><a href="#cite_note-tac-17">[17]</a></sup><sup id="cite_ref-ttl_18-0" class="reference"><a href="#cite_note-ttl-18">[18]</a></sup> Many <a href="/wiki/Pizza_delivery" title="Pizza delivery">pizza delivery</a> businesses see their order numbers double as roughly 60 percent of the take out ordered on Super Sunday is pizza. Roughly 28&nbsp;million pounds (13,000&nbsp;t) of chips, 1.25 billion chicken wings, and 8&nbsp;million pounds (3,600&nbsp;t) of <a href="/wiki/Guacamole" title="Guacamole">guacamole</a> are consumed during Super Sunday.<sup id="cite_ref-ttl_18-1" class="reference"><a href="#cite_note-ttl-18">[18]</a></sup><sup id="cite_ref-wpde_19-0" class="reference"><a href="#cite_note-wpde-19">[19]</a></sup> </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Super_Bowl_Sunday&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist reflist-columns references-column-width" style="column-width: 30em;"> 
+       <ol class="references"> 
+        <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ipbrief.net/2014/01/27/the-super-trademark-bowl/">The Super – Trademark – Bowl</a>. <a href="/wiki/American_University" title="American University">American University</a></span> </li> 
+        <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFStaff" class="citation web cs1">Staff, Daily Post. <a rel="nofollow" class="external text" href="https://www.postguam.com/news/local/gdoe-employees-working-on-super-bowl-monday/article_74980c5e-25dc-11e9-903f-bb17338dd154.html">"GDOE employees working on Super Bowl Monday"</a>. <i>The Guam Daily Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 16,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Guam+Daily+Post&amp;rft.atitle=GDOE+employees+working+on+Super+Bowl+Monday&amp;rft.aulast=Staff&amp;rft.aufirst=Daily+Post&amp;rft_id=https%3A%2F%2Fwww.postguam.com%2Fnews%2Flocal%2Fgdoe-employees-working-on-super-bowl-monday%2Farticle_74980c5e-25dc-11e9-903f-bb17338dd154.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-tftu-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-tftu_3-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFStellino2010" class="citation news cs1">Stellino, Vito (February 6, 2010). <a rel="nofollow" class="external text" href="http://jacksonville.com/sports/football/jaguars/2010-02-06/story/super_bowl_sunday_feels_like_a_holiday">"Super Sunday feels like a holiday"</a>. <i>The Florida Times Union</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Florida+Times+Union&amp;rft.atitle=Super+Sunday+feels+like+a+holiday&amp;rft.date=2010-02-06&amp;rft.aulast=Stellino&amp;rft.aufirst=Vito&amp;rft_id=http%3A%2F%2Fjacksonville.com%2Fsports%2Ffootball%2Fjaguars%2F2010-02-06%2Fstory%2Fsuper_bowl_sunday_feels_like_a_holiday&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFGay2016" class="citation news cs1">Gay, Jason (February 4, 2016). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/should-the-super-bowl-be-a-holiday-1454612826?tesla=y">"Should the Super Bowl Be a Holiday?"</a>. <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 13,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=Should+the+Super+Bowl+Be+a+Holiday%3F&amp;rft.date=2016-02-04&amp;rft.aulast=Gay&amp;rft.aufirst=Jason&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fshould-the-super-bowl-be-a-holiday-1454612826%3Ftesla%3Dy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-twsj02-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-twsj02_5-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFJargon2011" class="citation news cs1">Jargon, Julie (February 3, 2011). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB10001424052748704680604576110050697188540">"Sports Bars Play Super Bowl Defense"</a>. <i>The Wall Street Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=Sports+Bars+Play+Super+Bowl+Defense&amp;rft.date=2011-02-03&amp;rft.aulast=Jargon&amp;rft.aufirst=Julie&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2FSB10001424052748704680604576110050697188540&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-twsj01-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-twsj01_6-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFHalls2011" class="citation news cs1">Halls, Sarah (February 5, 2011). <a rel="nofollow" class="external text" href="https://www.wsj.com/articles/SB10001424052748704709304576124013128512114">"Where to Watch the Super Bowl in Europe"</a>. <i>The Wall Street Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.atitle=Where+to+Watch+the+Super+Bowl+in+Europe&amp;rft.date=2011-02-05&amp;rft.aulast=Halls&amp;rft.aufirst=Sarah&amp;rft_id=https%3A%2F%2Fwww.wsj.com%2Farticles%2FSB10001424052748704709304576124013128512114&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-tn-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-tn_7-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFBollier2011" class="citation news cs1">Bollier, Jeff (February 6, 2011). <a rel="nofollow" class="external text" href="http://www.thenorthwestern.com/article/20110206/OSH0101/102060328/Oshkosh-shuts-down-for-Super-Bowl">"Oshkosh shuts down for Packers, Super Bowl"</a>. <i>The Northwestern</i>. Oshkosh, Wisconsin<span class="reference-accessdate">. Retrieved <span class="nowrap">February 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Northwestern&amp;rft.atitle=Oshkosh+shuts+down+for+Packers%2C+Super+Bowl&amp;rft.date=2011-02-06&amp;rft.aulast=Bollier&amp;rft.aufirst=Jeff&amp;rft_id=http%3A%2F%2Fwww.thenorthwestern.com%2Farticle%2F20110206%2FOSH0101%2F102060328%2FOshkosh-shuts-down-for-Super-Bowl&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-calder20120209-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-calder20120209_8-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFCalder2012" class="citation news cs1">Calder, Rich (February 9, 2012). <a rel="nofollow" class="external text" href="https://nypost.com/2012/02/09/toilet-bowl-xlvi/">"Toilet Bowl XLVI"</a>. <i><a href="/wiki/New_York_Post" title="New York Post">New York Post</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 1,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+York+Post&amp;rft.atitle=Toilet+Bowl+XLVI&amp;rft.date=2012-02-09&amp;rft.aulast=Calder&amp;rft.aufirst=Rich&amp;rft_id=https%3A%2F%2Fnypost.com%2F2012%2F02%2F09%2Ftoilet-bowl-xlvi%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-tva-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-tva_9-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.victoriaadvocate.com/news/2011/feb/03/bc-wi-super-bowl-sunday-services/?sports&amp;nfl">"Some churches cancel Super Sunday services"</a>. <i>The Victoria Advocate</i>. Victoria, Texas. Associated Press. February 3, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">February 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Victoria+Advocate&amp;rft.atitle=Some+churches+cancel+Super+Sunday+services&amp;rft.date=2011-02-03&amp;rft_id=http%3A%2F%2Fwww.victoriaadvocate.com%2Fnews%2F2011%2Ffeb%2F03%2Fbc-wi-super-bowl-sunday-services%2F%3Fsports%26nfl&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-dp-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-dp_10-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFDraper2011" class="citation news cs1">Draper, Electa (February 5, 2011). <a rel="nofollow" class="external text" href="http://www.denverpost.com/ci_17299496">"Some preachers use Super Bowl to put focus on harm of pornography"</a>. <i>Dever Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dever+Post&amp;rft.atitle=Some+preachers+use+Super+Bowl+to+put+focus+on+harm+of+pornography&amp;rft.date=2011-02-05&amp;rft.aulast=Draper&amp;rft.aufirst=Electa&amp;rft_id=http%3A%2F%2Fwww.denverpost.com%2Fci_17299496&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-hs-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-hs_11-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFKloosterman2011" class="citation news cs1">Kloosterman, Stephen (February 6, 2011). <a rel="nofollow" class="external text" href="http://www.hollandsentinel.com/newsnow/x549731920/Churches-see-Super-Bowl-as-a-time-to-connect-with-worshippers">"Churches see Super Bowl as a time to connect with worshippers"</a>. <i>Holland Sentinel</i>. Holland, Michigan<span class="reference-accessdate">. Retrieved <span class="nowrap">February 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Holland+Sentinel&amp;rft.atitle=Churches+see+Super+Bowl+as+a+time+to+connect+with+worshippers&amp;rft.date=2011-02-06&amp;rft.aulast=Kloosterman&amp;rft.aufirst=Stephen&amp;rft_id=http%3A%2F%2Fwww.hollandsentinel.com%2Fnewsnow%2Fx549731920%2FChurches-see-Super-Bowl-as-a-time-to-connect-with-worshippers&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-LAT-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-LAT_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LAT_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFFlint2011" class="citation news cs1">Flint, Joe (February 4, 2011). <a rel="nofollow" class="external text" href="http://latimesblogs.latimes.com/entertainmentnewsbuzz/2011/02/nfl-has-made-super-bowl-sunday-into-a-holiday-is-a-three-day-weekend-the-next-step.html">"NFL has made Super Bowl Sunday into a holiday, is a three-day weekend the next step?"</a>. <i>Los Angeles Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=NFL+has+made+Super+Bowl+Sunday+into+a+holiday%2C+is+a+three-day+weekend+the+next+step%3F&amp;rft.date=2011-02-04&amp;rft.aulast=Flint&amp;rft.aufirst=Joe&amp;rft_id=http%3A%2F%2Flatimesblogs.latimes.com%2Fentertainmentnewsbuzz%2F2011%2F02%2Fnfl-has-made-super-bowl-sunday-into-a-holiday-is-a-three-day-weekend-the-next-step.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFRiccobono2015" class="citation news cs1">Riccobono, Anthony (February 1, 2015). <a rel="nofollow" class="external text" href="http://www.ibtimes.com/should-monday-after-super-bowl-be-national-holiday-1798312">"Should The Monday After The Super Bowl Be A National Holiday?"</a>. <i><a href="/wiki/International_Business_Times" title="International Business Times">International Business Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 13,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Business+Times&amp;rft.atitle=Should+The+Monday+After+The+Super+Bowl+Be+A+National+Holiday%3F&amp;rft.date=2015-02-01&amp;rft.aulast=Riccobono&amp;rft.aufirst=Anthony&amp;rft_id=http%3A%2F%2Fwww.ibtimes.com%2Fshould-monday-after-super-bowl-be-national-holiday-1798312&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFRyzik2008" class="citation news cs1">Ryzik, Melena (February 2, 2008). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2008/02/02/arts/television/02bark.html">"Just Fine as Tackles, but They Can't Pass"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 1,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Just+Fine+as+Tackles%2C+but+They+Can%E2%80%99t+Pass&amp;rft.date=2008-02-02&amp;rft.aulast=Ryzik&amp;rft.aufirst=Melena&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2008%2F02%2F02%2Farts%2Ftelevision%2F02bark.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-si-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-si_15-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFDeford2009" class="citation news cs1">Deford, Frank (January 28, 2009). <a rel="nofollow" class="external text" href="http://sportsillustrated.cnn.com/2009/writers/frank_deford/01/28/SuperBowl/">"Super Bowl Sunday is a holiday"</a>. <i>CNN</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNN&amp;rft.atitle=Super+Bowl+Sunday+is+a+holiday&amp;rft.date=2009-01-28&amp;rft.aulast=Deford&amp;rft.aufirst=Frank&amp;rft_id=http%3A%2F%2Fsportsillustrated.cnn.com%2F2009%2Fwriters%2Ffrank_deford%2F01%2F28%2FSuperBowl%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-wgn-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-wgn_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wgn_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFZellermayer2011" class="citation news cs1">Zellermayer, J (February 6, 2011). <a rel="nofollow" class="external text" href="http://www.wgntv.com/wgntv-drunk-driving-crackdown-super-feb6,0,3426624.story">"Super Bowl Sunday drunk driving crackdown"</a>. <a href="/wiki/WGN-TV" title="WGN-TV">WGN-TV</a>. <a href="/wiki/Associated_Press" title="Associated Press">Associated Press</a><span class="reference-accessdate">. Retrieved <span class="nowrap">February 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Super+Bowl+Sunday+drunk+driving+crackdown&amp;rft.date=2011-02-06&amp;rft.aulast=Zellermayer&amp;rft.aufirst=J&amp;rft_id=http%3A%2F%2Fwww.wgntv.com%2Fwgntv-drunk-driving-crackdown-super-feb6%2C0%2C3426624.story&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-tac-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-tac_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tac_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFCorwin2011" class="citation news cs1">Corwin, Tom (February 5, 2011). <a rel="nofollow" class="external text" href="http://chronicle.augusta.com/news/metro/2011-02-05/super-bowl-party-food-need-not-send-diets-crashing">"Super Bowl party food need not send diets crashing"</a>. <i>The Augusta Chronicle</i>. Augusta, Georgia<span class="reference-accessdate">. Retrieved <span class="nowrap">February 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Augusta+Chronicle&amp;rft.atitle=Super+Bowl+party+food+need+not+send+diets+crashing&amp;rft.date=2011-02-05&amp;rft.aulast=Corwin&amp;rft.aufirst=Tom&amp;rft_id=http%3A%2F%2Fchronicle.augusta.com%2Fnews%2Fmetro%2F2011-02-05%2Fsuper-bowl-party-food-need-not-send-diets-crashing&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-ttl-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-ttl_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ttl_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFLynott2011" class="citation news cs1">Lynott, Jerry (February 1, 2011). <a rel="nofollow" class="external text" href="http://www.timesleader.com/news/Score_super_snacks_01-31-2011.html">"Score super snacks"</a>. <i>The Times Leader</i>. Wilkes-Barre, Pennsylvania<span class="reference-accessdate">. Retrieved <span class="nowrap">February 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Times+Leader&amp;rft.atitle=Score+super+snacks&amp;rft.date=2011-02-01&amp;rft.aulast=Lynott&amp;rft.aufirst=Jerry&amp;rft_id=http%3A%2F%2Fwww.timesleader.com%2Fnews%2FScore_super_snacks_01-31-2011.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+        <li id="cite_note-wpde-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-wpde_19-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFEdge2011" class="citation news cs1">Edge, Lisa (February 4, 2011). <a rel="nofollow" class="external text" href="http://www.carolinalive.com/news/story.aspx?id=577049">"Super Sunday means big business for food industry"</a>. <i>WPDE</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 6,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=WPDE&amp;rft.atitle=Super+Sunday+means+big+business+for+food+industry&amp;rft.date=2011-02-04&amp;rft.aulast=Edge&amp;rft.aufirst=Lisa&amp;rft_id=http%3A%2F%2Fwww.carolinalive.com%2Fnews%2Fstory.aspx%3Fid%3D577049&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASuper+Bowl+Sunday" class="Z3988"></span></span> </li> 
+       </ol>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Super_Bowl" style="padding:3px">
+       <table class="nowraplinks mw-collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Super_Bowl" title="Template:Super Bowl"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Super_Bowl" title="Template talk:Super Bowl"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Super_Bowl&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Super_Bowl" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Super_Bowl" title="Super Bowl">Super Bowl</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2">
+           <div id="*_NFL_**_NFC_***_Championship_**_AFC_***_Championship_*_Football"> 
+            <ul>
+             <li><a href="/wiki/National_Football_League" title="National Football League">NFL</a> 
+              <ul>
+               <li><a href="/wiki/National_Football_Conference" title="National Football Conference">NFC</a> 
+                <ul>
+                 <li><a href="/wiki/NFC_Championship_Game" title="NFC Championship Game">Championship</a></li>
+                </ul></li> 
+               <li><a href="/wiki/American_Football_Conference" title="American Football Conference">AFC</a> 
+                <ul>
+                 <li><a href="/wiki/AFC_Championship_Game" title="AFC Championship Game">Championship</a></li>
+                </ul></li>
+              </ul></li> 
+             <li><a href="/wiki/American_football" title="American football">Football</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Games</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">1960s</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Super_Bowl_I" title="Super Bowl I">I (1967)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_II" title="Super Bowl II">II (1968)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_III" title="Super Bowl III">III (1969)</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">1970s</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Super_Bowl_IV" title="Super Bowl IV">IV (1970)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_V" title="Super Bowl V">V (1971)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_VI" title="Super Bowl VI">VI (1972)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_VII" title="Super Bowl VII">VII (1973)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_VIII" title="Super Bowl VIII">VIII (1974)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_IX" title="Super Bowl IX">IX (1975)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_X" title="Super Bowl X">X (1976)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XI" title="Super Bowl XI">XI (1977)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XII" title="Super Bowl XII">XII (1978)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XIII" title="Super Bowl XIII">XIII (1979)</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">1980s</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Super_Bowl_XIV" title="Super Bowl XIV">XIV (1980)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XV" title="Super Bowl XV">XV (1981)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XVI" title="Super Bowl XVI">XVI (1982)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XVII" title="Super Bowl XVII">XVII (1983)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XVIII" title="Super Bowl XVIII">XVIII (1984)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XIX" title="Super Bowl XIX">XIX (1985)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XX" title="Super Bowl XX">XX (1986)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXI" title="Super Bowl XXI">XXI (1987)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXII" title="Super Bowl XXII">XXII (1988)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXIII" title="Super Bowl XXIII">XXIII (1989)</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">1990s</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Super_Bowl_XXIV" title="Super Bowl XXIV">XXIV (1990)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXV" title="Super Bowl XXV">XXV (1991)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXVI" title="Super Bowl XXVI">XXVI (1992)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXVII" title="Super Bowl XXVII">XXVII (1993)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXVIII" title="Super Bowl XXVIII">XXVIII (1994)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXIX" title="Super Bowl XXIX">XXIX (1995)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXX" title="Super Bowl XXX">XXX (1996)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXXI" title="Super Bowl XXXI">XXXI (1997)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXXII" title="Super Bowl XXXII">XXXII (1998)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXXIII" title="Super Bowl XXXIII">XXXIII (1999)</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">2000s</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Super_Bowl_XXXIV" title="Super Bowl XXXIV">XXXIV (2000)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXXV" title="Super Bowl XXXV">XXXV (2001)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXXVI" title="Super Bowl XXXVI">XXXVI (2002)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXXVII" title="Super Bowl XXXVII">XXXVII (2003)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXXVIII" title="Super Bowl XXXVIII">XXXVIII (2004)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XXXIX" title="Super Bowl XXXIX">XXXIX (2005)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XL" title="Super Bowl XL">XL (2006)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XLI" title="Super Bowl XLI">XLI (2007)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XLII" title="Super Bowl XLII">XLII (2008)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XLIII" title="Super Bowl XLIII">XLIII (2009)</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">2010s</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Super_Bowl_XLIV" title="Super Bowl XLIV">XLIV (2010)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XLV" title="Super Bowl XLV">XLV (2011)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XLVI" title="Super Bowl XLVI">XLVI (2012)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XLVII" title="Super Bowl XLVII">XLVII (2013)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XLVIII" title="Super Bowl XLVIII">XLVIII (2014)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_XLIX" title="Super Bowl XLIX">XLIX (2015)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_50" title="Super Bowl 50">50 (2016)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_LI" title="Super Bowl LI">LI (2017)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_LII" title="Super Bowl LII">LII (2018)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_LIII" title="Super Bowl LIII">LIII (2019)</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">2020s</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Super_Bowl_LIV" title="Super Bowl LIV">LIV (2020)</a></li> 
+                 <li><a href="/wiki/Super_Bowl_LV" title="Super Bowl LV">LV (2021)</a></li> 
+                 <li><i><a href="/wiki/Super_Bowl_LVI" title="Super Bowl LVI">LVI (2022)</a></i></li> 
+                 <li><i><a href="/wiki/Super_Bowl_LVII" title="Super Bowl LVII">LVII (2023)</a></i></li> 
+                 <li><i><a href="/wiki/Super_Bowl_LVIII" title="Super Bowl LVIII">LVIII (2024)</a></i></li> 
+                 <li><i><a href="/wiki/Super_Bowl_LIX" title="Super Bowl LIX">LIX (2025)</a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Related</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">People</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_Super_Bowl_champions" title="List of Super Bowl champions">Champions</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_NFL_champions_(1920%E2%80%931969)" title="List of NFL champions (1920–1969)">Pre-Super Bowl NFL champions</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/List_of_Super_Bowl_head_coaches" title="List of Super Bowl head coaches">Head coaches</a></li> 
+                 <li><a href="/wiki/List_of_Super_Bowl_starting_quarterbacks" title="List of Super Bowl starting quarterbacks">Quarterbacks</a></li> 
+                 <li><a href="/wiki/List_of_Super_Bowl_officials" title="List of Super Bowl officials">Officials</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Awards, trophies, records</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Super_Bowl_ring" title="Super Bowl ring">Super Bowl ring</a></li> 
+                 <li><a href="/wiki/Vince_Lombardi_Trophy" title="Vince Lombardi Trophy">Vince Lombardi Trophy</a></li> 
+                 <li><a href="/wiki/Super_Bowl_Most_Valuable_Player_Award" title="Super Bowl Most Valuable Player Award">Most Valuable Players</a> 
+                  <ul>
+                   <li><a href="/wiki/Super_Bowl_Most_Valuable_Player_Award" title="Super Bowl Most Valuable Player Award">Pete Rozelle Trophy</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/List_of_Super_Bowl_records" title="List of Super Bowl records">Records</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Broadcast and<wbr>​ production</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_national_anthem_performers_at_the_Super_Bowl" title="List of national anthem performers at the Super Bowl">National anthem</a></li> 
+                 <li><a href="/wiki/List_of_Super_Bowl_halftime_shows" title="List of Super Bowl halftime shows">Halftime</a></li> 
+                 <li><a href="/wiki/Super_Bowl_commercials" title="Super Bowl commercials">Commercials</a> 
+                  <ul>
+                   <li><a href="/wiki/Super_Bowl_Ad_Meter" title="Super Bowl Ad Meter"><i>USA Today</i> Ad Meter</a></li> 
+                   <li><a href="/wiki/List_of_Super_Bowl_commercials" title="List of Super Bowl commercials">List</a></li>
+                  </ul></li> 
+                 <li>Broadcast 
+                  <ul>
+                   <li><a href="/wiki/List_of_Super_Bowl_broadcasters" title="List of Super Bowl broadcasters">Network broadcasters</a></li> 
+                   <li><a href="/wiki/Super_Bowl_counterprogramming" title="Super Bowl counterprogramming">Counterprogramming</a></li> 
+                   <li><a href="/wiki/List_of_Super_Bowl_lead-out_programs" title="List of Super Bowl lead-out programs">Lead-out programming</a></li> 
+                   <li><a href="/wiki/Super_Bowl_television_ratings" title="Super Bowl television ratings">Television ratings</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="2">
+           <div> 
+            <ul>
+             <li><a href="/wiki/Super_Bowl_Experience" title="Super Bowl Experience">Super Bowl Experience</a></li> 
+             <li><a class="mw-selflink selflink">Super Bowl Sunday</a></li> 
+             <li><a href="/wiki/Super_Bowl_curse" title="Super Bowl curse">Curse</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=United_States&amp;#124;link=United_States_Holidays,_observances,_and_celebrations_in_the_United_States" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_the_United_States" title="Template:Public holidays in the United States"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_the_United_States" title="Template talk:Public holidays in the United States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_the_United_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23x15px&amp;#124;border_&amp;#124;alt=United_States&amp;#124;link=United_States_Holidays,_observances,_and_celebrations_in_the_United_States" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650"></a></span> Holidays, observances, and celebrations in the United States
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">January</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Martin_Luther_King_Jr._Day" title="Martin Luther King Jr. Day">Martin Luther King Jr. Day</a></b> (NJ, federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Eugenio_Mar%C3%ADa_de_Hostos" title="Eugenio María de Hostos">Birthday of Eugenio María de Hostos</a> (PR)</li> 
+             <li><a href="/wiki/Confederate_Memorial_Day" title="Confederate Memorial Day">Confederate Heroes Day</a> (TX)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Eve of Three Kings' Day</a> (PR, religious)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Feast of Epiphany / Feast of Theophany</a> (religious)</li> 
+             <li><a href="/wiki/Fred_Korematsu_Day" title="Fred Korematsu Day">Fred Korematsu Day</a> (CA, FL, HI, VA)</li> 
+             <li><a href="/wiki/Idaho_Human_Rights_Day" title="Idaho Human Rights Day">Idaho Human Rights Day</a> (ID)</li> 
+             <li><a href="/wiki/United_States_presidential_inauguration" title="United States presidential inauguration">Inauguration Day</a> (federal quadrennial)</li> 
+             <li><a href="/wiki/Kansas_Day" title="Kansas Day">Kansas Day</a> (KS)</li> 
+             <li><a href="/wiki/Makar_Sankranti" title="Makar Sankranti">Makar Sankranti / Pongal</a> (religious)</li> 
+             <li><a href="/wiki/Robert_E._Lee_Day" title="Robert E. Lee Day">Robert E. Lee Day</a> (FL)</li> 
+             <li><a href="/wiki/Stephen_Foster_Memorial_Day" title="Stephen Foster Memorial Day">Stephen Foster Memorial Day</a> (36)</li> 
+             <li><a href="/wiki/The_Eighth_(United_States)" title="The Eighth (United States)">The Eighth</a> (LA)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Three Kings' Day</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/World_Religion_Day" title="World Religion Day">World Religion Day</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">January–February</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a class="mw-selflink selflink">Super Bowl Sunday</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Chinese_New_Year" title="Chinese New Year">Chinese New Year</a> / <a href="/wiki/Lunar_New_Year" title="Lunar New Year">Lunar New Year</a> (NY, cultural, religious)</li> 
+             <li><a href="/wiki/Vasant_Panchami" title="Vasant Panchami">Vasant Panchami</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">February<br><a href="/wiki/American_Heart_Month" title="American Heart Month">American Heart Month</a><br><a href="/wiki/Black_History_Month" title="Black History Month">Black History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Washington%27s_Birthday" title="Washington's Birthday">Washington's Birthday / Presidents' Day</a></b> (NJ, federal)</li> 
+             <li><b><a href="/wiki/Valentine%27s_Day" title="Valentine's Day">Valentine's Day</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Luis_Mu%C3%B1oz_Mar%C3%ADn" title="Luis Muñoz Marín">Birthday of Luis Muñoz Marín</a> (PR)</li> 
+             <li><a href="/wiki/Candlemas" title="Candlemas">Candlemas</a> (religious)</li> 
+             <li><a href="/wiki/Darwin_Day" title="Darwin Day">Charles Darwin Day / Darwin Day</a> (CA, DE)</li> 
+             <li><a href="/wiki/Day_of_Remembrance_(Japanese_Americans)" title="Day of Remembrance (Japanese Americans)">Day of Remembrance</a> (CA, OR, WA, cultural)</li> 
+             <li><a href="/wiki/Georgia_Day" title="Georgia Day">Georgia Day</a> (GA)</li> 
+             <li><a href="/wiki/Groundhog_Day" title="Groundhog Day">Groundhog Day</a></li> 
+             <li><a href="/wiki/Imbolc" title="Imbolc">Imbolc</a> (religious)</li> 
+             <li><a href="/wiki/Lincoln%27s_Birthday" title="Lincoln's Birthday">Lincoln's Birthday</a> (CA, CT, IL, IN, MO, NY, WV)</li> 
+             <li><a href="/wiki/National_Girls_and_Women_in_Sports_Day" title="National Girls and Women in Sports Day">National Girls and Women in Sports Day</a></li> 
+             <li><a href="/wiki/National_Freedom_Day" title="National Freedom Day">National Freedom Day</a> (36)</li> 
+             <li><a href="/wiki/Parinirvana_Day" title="Parinirvana Day">Nirvana Day</a> (religious)</li> 
+             <li><a href="/wiki/Presentation_of_Jesus_at_the_Temple" title="Presentation of Jesus at the Temple">Presentation of Our Lord to the Temple</a> (religious)</li> 
+             <li><a href="/wiki/Promised_Reformer_Day" title="Promised Reformer Day">Promised Reformer Day</a> (religious)</li> 
+             <li><a href="/wiki/Ronald_Reagan_Day" title="Ronald Reagan Day">Ronald Reagan Day</a> (CA)</li> 
+             <li><a href="/wiki/Rosa_Parks_Day" title="Rosa Parks Day">Rosa Parks Day</a> (CA, MO)</li> 
+             <li><a href="/wiki/Saviours%27_Day" title="Saviours' Day">Saviours' Day</a> (religious)</li> 
+             <li><a href="/wiki/Susan_B._Anthony_Day" title="Susan B. Anthony Day">Susan B. Anthony Day</a> (CA, FL, NY, WI, WV, proposed federal)</li> 
+             <li><a href="/wiki/Tu_BiShvat" title="Tu BiShvat">Tu B’shvat</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">February–March</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b> <a href="/wiki/Mardi_Gras" title="Mardi Gras">Mardi Gras</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Ash_Wednesday" title="Ash Wednesday">Ash Wednesday</a> (PR, religious)</li> 
+             <li><a href="/wiki/Carnival" title="Carnival">Carnival</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/Clean_Monday" title="Clean Monday">Clean Monday</a> (religious)</li> 
+             <li><a href="/wiki/Courir_de_Mardi_Gras" title="Courir de Mardi Gras">Courir de Mardi Gras</a> (religious)</li> 
+             <li><a href="/wiki/Ayy%C3%A1m-i-H%C3%A1" title="Ayyám-i-Há">Intercalary Days</a> (religious)</li> 
+             <li><a href="/wiki/Maha_Shivaratri" title="Maha Shivaratri">Mahashivaratri</a> (religious)</li> 
+             <li><a href="/wiki/Purim" title="Purim">Purim</a> (religious)</li> 
+             <li><a href="/wiki/Shrove_Tuesday" title="Shrove Tuesday">Shrove Tuesday</a> (religious)</li> 
+             <li><a href="/wiki/Super_Tuesday" title="Super Tuesday">Super Tuesday</a></li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">March<br><a href="/wiki/Irish-American_Heritage_Month" title="Irish-American Heritage Month">Irish-American Heritage Month</a><br><a href="/wiki/National_Colon_Cancer_Awareness_Month" title="National Colon Cancer Awareness Month">Colon Cancer Awareness Month</a><br><a href="/wiki/Women%27s_History_Month" title="Women's History Month">Women's History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Saint_Patrick%27s_Day" title="Saint Patrick's Day">Saint Patrick's Day</a></b> (religious)</li> 
+             <li><b><a href="/wiki/Spring_break" title="Spring break">Spring break</a></b> (week)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Annunciation" title="Annunciation">Annunciation of the Virgin Mary / Annunciation of the Theotokos</a> (religious)</li> 
+             <li><a href="/wiki/Casimir_Pulaski_Day" title="Casimir Pulaski Day">Casimir Pulaski Day</a> (IL)</li> 
+             <li><a href="/wiki/Cesar_Chavez_Day" title="Cesar Chavez Day">Cesar Chavez Day</a> (CA, CO, TX, proposed federal)</li> 
+             <li><a href="/wiki/Emancipation_Day#Puerto_Rico" title="Emancipation Day">Emancipation Day in Puerto Rico</a> (PR, cultural)</li> 
+             <li><a href="/wiki/Evacuation_Day_(Massachusetts)" title="Evacuation Day (Massachusetts)">Evacuation Day</a> (Suffolk County, MA)</li> 
+             <li><a href="/wiki/Harriet_Tubman_Day" title="Harriet Tubman Day">Harriet Tubman Day</a> (NY)</li> 
+             <li><a href="/wiki/Hola_Mohalla" title="Hola Mohalla">Hola Mohalla</a> (religious)</li> 
+             <li><a href="/wiki/Holi" title="Holi">Holi</a> (NY, religious)</li> 
+             <li><a href="/wiki/L._Ron_Hubbard" title="L. Ron Hubbard">L. Ron Hubbard’s Birthday</a> (religious)</li> 
+             <li><a href="/wiki/Isra_and_Mi%27raj#Modern_Muslim_observance" title="Isra and Mi'raj">Lailat al-Mi'raj</a> (religious)</li> 
+             <li><a href="/wiki/Liberation_and_Freedom_Day" title="Liberation and Freedom Day">Liberation and Freedom Day</a> (Charlottesville, VA, cultural)</li> 
+             <li><a href="/wiki/Mardi_Gras_in_the_United_States" title="Mardi Gras in the United States">Mardi Gras</a> (AL (in two counties), LA)</li> 
+             <li><a href="/wiki/Maryland_Day" title="Maryland Day">Maryland Day</a> (MD)</li> 
+             <li><a href="/wiki/National_Poison_Prevention_Week" title="National Poison Prevention Week">National Poison Prevention Week</a> (week)</li> 
+             <li><a href="/wiki/Nowruz" title="Nowruz">Nowruz</a> (cultural, religious)</li> 
+             <li><a href="/wiki/%C4%92ostre" title="Ēostre">Ostara</a> (religious)</li> 
+             <li><a href="/wiki/Prince_K%C5%ABhi%C5%8D_Day" title="Prince Kūhiō Day">Prince Jonah Kūhiō Kalanianaʻole Day</a> (HI)</li> 
+             <li><a href="/wiki/Promised_Messiah_Day" title="Promised Messiah Day">Promised Messiah Day</a> (religious)</li> 
+             <li><a href="/wiki/Saint_Joseph%27s_Day" title="Saint Joseph's Day">Saint Joseph's Day</a> (religious)</li> 
+             <li><a href="/wiki/Seward%27s_Day" title="Seward's Day">Seward's Day</a> (AK)</li> 
+             <li><a href="/wiki/Texas_Independence_Day" title="Texas Independence Day">Texas Independence Day</a> (TX)</li> 
+             <li><a href="/wiki/Town_meeting#Vermont" title="Town meeting">Town Meeting Day</a> (VT)</li> 
+             <li><a href="/wiki/Transfer_Day" title="Transfer Day">Transfer Day</a> (VI)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">March–April</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Easter" title="Easter">Easter</a></b> (religious)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> (CT, NC, PR, NJ, VI, religious)</li> 
+             <li><a href="/wiki/Hanuman_Jayanti" title="Hanuman Jayanti">Hanuman Jayanti</a> (religious)</li> 
+             <li><a href="/wiki/Maundy_Thursday" title="Maundy Thursday">Holy Thursday</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/Holy_Week" title="Holy Week">Holy Week</a> (PR, religious, week)</li> 
+             <li><a href="/wiki/Lazarus_Saturday" title="Lazarus Saturday">Lazarus Saturday</a> (religious)</li> 
+             <li><a href="/wiki/Mahavir_Janma_Kalyanak" title="Mahavir Janma Kalyanak">Mahavir Janma Kalyanak</a> (religious)</li> 
+             <li><a href="/wiki/Mesha_Sankranti" title="Mesha Sankranti">Mesha Sankranti / Hindu New Year</a> (religious)</li> 
+             <li><a href="/wiki/Palm_Sunday" title="Palm Sunday">Palm Sunday</a> (PR, religious)</li> 
+             <li><a href="/wiki/Passover" title="Passover">Passover</a> (religious)</li> 
+             <li><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday / Bright Monday</a> (VI religious)</li> 
+             <li><a href="/wiki/Rama_Navami" title="Rama Navami">Ramnavami</a> (religious)</li> 
+             <li><a href="/wiki/Ugadi" title="Ugadi">Chandramana Yugadi / Souramana Yugadi</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">April<br><a href="/wiki/Confederate_History_Month" title="Confederate History Month">Confederate History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/420_(cannabis_culture)" title="420 (cannabis culture)">420</a></li> 
+            <li><a href="/wiki/April_Fools%27_Day" title="April Fools' Day">April Fools' Day</a></li> 
+            <li><a href="/wiki/Arbor_Day" title="Arbor Day">Arbor Day</a></li> 
+            <li><a href="/wiki/Jos%C3%A9_de_Diego" title="José de Diego">Birthday of José de Diego</a> (PR)</li> 
+            <li><a href="/wiki/Confederate_Memorial_Day" title="Confederate Memorial Day">Confederate Memorial Day</a> (AL, MS)</li> 
+            <li><a href="/wiki/Days_of_Remembrance_of_the_Victims_of_the_Holocaust" title="Days of Remembrance of the Victims of the Holocaust">Days of Remembrance of the Victims of the Holocaust</a> (week)</li> 
+            <li><a href="/wiki/Earth_Day" title="Earth Day">Earth Day</a></li> 
+            <li><a href="/wiki/Emancipation_Day" title="Emancipation Day">Emancipation Day</a> (cultural)</li> 
+            <li><a href="/wiki/Jefferson%27s_Birthday" title="Jefferson's Birthday">Thomas Jefferson's Birthday</a> (AL)</li> 
+            <li><a href="/wiki/Lag_BaOmer" title="Lag BaOmer">Lag B’Omer</a> (religious)</li> 
+            <li><a href="/wiki/Great_Lent" title="Great Lent">Last Friday of Great Lent</a> (religious)</li> 
+            <li><a href="/wiki/Laylat_al-Qadr" class="mw-redirect" title="Laylat al-Qadr">Laylat al-Qadr</a> (religious)</li> 
+            <li><a href="/wiki/Pascua_Florida" title="Pascua Florida">Pascua Florida</a> (FL)</li> 
+            <li><a href="/wiki/Patriots%27_Day" title="Patriots' Day">Patriots' Day</a> (MA, ME)</li> 
+            <li><a href="/wiki/Ridv%C3%A1n" title="Ridván">Ridván</a> (religious)</li> 
+            <li><a href="/wiki/San_Jacinto_Day" title="San Jacinto Day">San Jacinto Day</a> (TX)</li> 
+            <li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li> 
+            <li><a href="/wiki/Walpurgis_Night" title="Walpurgis Night">Walpurgis Night</a> (religious)</li> 
+            <li><a href="/wiki/Independence_Day_(Israel)" title="Independence Day (Israel)">Yom Ha'atzmaut</a> (cultural, religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">May<br><a href="/wiki/Asian_Pacific_American_Heritage_Month" title="Asian Pacific American Heritage Month">Asian Pacific American Heritage Month</a><br><a href="/wiki/Jewish_American_Heritage_Month" title="Jewish American Heritage Month">Jewish American Heritage Month</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Memorial_Day" title="Memorial Day">Memorial Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother's Day (United States)">Mother's Day</a></b> (36)</li> 
+              <li><b><a href="/wiki/Cinco_de_Mayo" title="Cinco de Mayo">Cinco de Mayo</a></b></li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Bah%C3%A1%CA%BC%C3%AD_Holy_Days" title="Baháʼí Holy Days">Ascension of Baháʼu'lláh</a> (religious)</li> 
+             <li><a href="/wiki/Ascension_Day" class="mw-redirect" title="Ascension Day">Ascension of Our Lord</a> (religious)</li> 
+             <li><a href="/wiki/Caliphate_Day" title="Caliphate Day">Caliphate Day</a> (religious)</li> 
+             <li><a href="/wiki/Bah%C3%A1%CA%BC%C3%AD_Holy_Days" title="Baháʼí Holy Days">Declaration of the Bab</a> (religious)</li> 
+             <li><a href="/wiki/Harvey_Milk_Day" title="Harvey Milk Day">Harvey Milk Day</a> (CA)</li> 
+             <li><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">International Workers' Day</a> / <a href="/wiki/May_Day" title="May Day">May Day</a> (CA, unofficial, proposed state)</li> 
+             <li><a href="/wiki/Law_Day_(United_States)" title="Law Day (United States)">Law Day</a> (36)</li> 
+             <li><a href="/wiki/Loyalty_Day" title="Loyalty Day">Loyalty Day</a> (36)</li> 
+             <li><a href="/wiki/Malcolm_X_Day" title="Malcolm X Day">Malcolm X Day</a> (CA, IL, proposed federal)</li> 
+             <li><a href="/wiki/Military_Spouse_Day" title="Military Spouse Day">Military Spouse Day</a></li> 
+             <li><a href="/wiki/National_Day_of_Prayer" title="National Day of Prayer">National Day of Prayer</a> (36)</li> 
+             <li><a href="/wiki/National_Day_of_Reason" title="National Day of Reason">National Day of Reason</a></li> 
+             <li><a href="/wiki/National_Defense_Transportation_Day" title="National Defense Transportation Day">National Defense Transportation Day</a> (36)</li> 
+             <li><a href="/wiki/United_States_National_Maritime_Day" title="United States National Maritime Day">National Maritime Day</a> (36)</li> 
+             <li><a href="/wiki/Mufaddal_Saifuddin" title="Mufaddal Saifuddin">Milad Syedna Mufaddal Saifuddin</a> (religious)</li> 
+             <li><a href="/wiki/Peace_Officers_Memorial_Day" title="Peace Officers Memorial Day">Peace Officers Memorial Day</a> (36)</li> 
+             <li><a href="/wiki/Pentecost" title="Pentecost">Pentecost</a> (religious)</li> 
+             <li><a href="/wiki/Shavuot" title="Shavuot">Shavuot</a> (religious)</li> 
+             <li><a href="/wiki/Truman_Day" title="Truman Day">Truman Day</a> (MO)</li> 
+             <li><a href="/wiki/Vesak" title="Vesak">Vesak</a> / <a href="/wiki/Buddha%27s_Birthday" title="Buddha's Birthday">Buddha's Birthday</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">June<br><a href="/wiki/Gay_and_Lesbian_Pride_Month" class="mw-redirect" title="Gay and Lesbian Pride Month">Lesbian, Gay, Bisexual and<br> Transgender Pride Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Father%27s_Day_(United_States)" title="Father's Day (United States)">Father's Day</a></b> (36)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Bunker_Hill_Day" class="mw-redirect" title="Bunker Hill Day">Bunker Hill Day</a> (Suffolk County, MA)</li> 
+             <li><a href="/wiki/Carolina_Day" class="mw-redirect" title="Carolina Day">Carolina Day</a> (SC)</li> 
+             <li><a href="/wiki/Apostles%27_Fast" title="Apostles' Fast">Fast of the Holy Apostles</a> (religious)</li> 
+             <li><a href="/wiki/Flag_Day_(United_States)" title="Flag Day (United States)">Flag Day</a> (36, proposed federal)</li> 
+             <li><a href="/wiki/Helen_Keller_Day" title="Helen Keller Day">Helen Keller Day</a> (PA)</li> 
+             <li><a href="/wiki/Honor_America_Days" title="Honor America Days">Honor America Days</a> (3 weeks)</li> 
+             <li><a href="/wiki/Jefferson_Davis_Day" class="mw-redirect" title="Jefferson Davis Day">Jefferson Davis Day</a> (AL, FL)</li> 
+             <li><a href="/wiki/Juneteenth" title="Juneteenth">Juneteenth</a> (TX, MA, cultural, proposed federal)</li> 
+             <li><a href="/wiki/Kamehameha_Day" class="mw-redirect" title="Kamehameha Day">Kamehameha Day</a> (HI)</li> 
+             <li><a href="/wiki/Midsummer" title="Midsummer">Litha</a> (religious)</li> 
+             <li><a href="/wiki/Guru_Arjan" title="Guru Arjan">Martyrdom of Guru Arjan Dev Sahib</a> (religious)</li> 
+             <li><a href="/wiki/Odunde_Festival" title="Odunde Festival">Odunde Festival</a> (Philadelphia, PA, cultural)</li> 
+             <li><a href="/wiki/Senior_Week" title="Senior Week">Senior Week</a> (week)</li> 
+             <li><a href="/wiki/Nativity_of_Saint_John_the_Baptist#Celebration" title="Nativity of Saint John the Baptist">Saint John's Day</a> (PR, religious)</li> 
+             <li><a href="/wiki/West_Virginia_Day" title="West Virginia Day">West Virginia Day</a> (WV)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">July</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Independence_Day_(United_States)" title="Independence Day (United States)">Independence Day</a></b> (federal)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Asalha_Puja" title="Asalha Puja">Asalha Puja Day</a> (religious)</li> 
+             <li><a href="/wiki/Luis_Mu%C3%B1oz_Rivera" title="Luis Muñoz Rivera">Birthday of Don Luis Muñoz Rivera</a> (PR)</li> 
+             <li><a href="/wiki/Jos%C3%A9_Celso_Barbosa" title="José Celso Barbosa">Birthday of Dr. José Celso Barbosa</a> (PR)</li> 
+             <li><a href="/wiki/Emancipation_Day#United_States_Virgin_Islands" title="Emancipation Day">Emancipation Day in the U.S. Virgin Islands</a> (VI, cultural)</li> 
+             <li><a href="/wiki/Guru_Purnima" title="Guru Purnima">Guru Purnima</a> (religious)</li> 
+             <li><a href="/wiki/Khordad_Sal" title="Khordad Sal">Khordad Sal</a> (religious)</li> 
+             <li><a href="/wiki/Sovereignty_Restoration_Day" title="Sovereignty Restoration Day">Lā Hoʻihoʻi Ea</a> (HI, unofficial, cultural)</li> 
+             <li><a href="/wiki/Execution_of_the_B%C3%A1b" title="Execution of the Báb">Martyrdom of the Báb</a> (religious)</li> 
+             <li><a href="/wiki/Parents%27_Day" title="Parents' Day">Parents' Day</a> (36)</li> 
+             <li><a href="/wiki/Pioneer_Day" title="Pioneer Day">Pioneer Day</a> (UT)</li> 
+             <li><a href="/wiki/Puerto_Rico_Constitution_Day" title="Puerto Rico Constitution Day">Puerto Rico Constitution Day</a> (PR)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">July–August</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Summer_vacation" title="Summer vacation">Summer vacation</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Tisha_B%27Av" title="Tisha B'Av">Tisha B'Av</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">August</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a> (AZ)</li> 
+            <li><a href="/wiki/Barack_Obama_Day" title="Barack Obama Day">Barack Obama Day in Illinois</a> (IL)</li> 
+            <li><a href="/wiki/Bennington_Battle_Day" title="Bennington Battle Day">Bennington Battle Day</a> (VT)</li> 
+            <li><a href="/wiki/Dormition_of_the_Mother_of_God#Dormition_versus_Assumption" title="Dormition of the Mother of God">Dormition of the Theotokos</a> (religious)</li> 
+            <li><a href="/wiki/Eid_al-Ghadir" title="Eid al-Ghadir">Eid-e-Ghadeer</a> (religious)</li> 
+            <li><a href="/wiki/Dormition_of_the_Mother_of_God#Dormition_fast" title="Dormition of the Mother of God">Fast in Honor of the Holy Mother of Lord Jesus</a> (religious)</li> 
+            <li><a href="/wiki/Assumption_of_Mary#Feasts" title="Assumption of Mary">Feast of the Assumption of the Blessed Virgin Mary</a> (religious)</li> 
+            <li><a href="/wiki/Statehood_Day_(Hawaii)" title="Statehood Day (Hawaii)">Hawaii Admission Day / Statehood Day</a> (HI)</li> 
+            <li><a href="/wiki/Krishna_Janmashtami" title="Krishna Janmashtami">Krishna Janmashtami</a> (religious)</li> 
+            <li><a href="/wiki/Lammas" title="Lammas">Lammas</a> (religious)</li> 
+            <li><a href="/wiki/Lyndon_Baines_Johnson_Day" title="Lyndon Baines Johnson Day">Lyndon Baines Johnson Day</a> (TX)</li> 
+            <li><a href="/wiki/Naga_Panchami" title="Naga Panchami">Naga Panchami</a> (religious)</li> 
+            <li><a href="/wiki/National_Aviation_Day" title="National Aviation Day">National Aviation Day</a> (36)</li> 
+            <li><a href="/wiki/Paryushana" title="Paryushana">Paryushana</a> (religious)</li> 
+            <li><a href="/wiki/Raksha_Bandhan" title="Raksha Bandhan">Raksha Bandhan</a> (religious)</li> 
+            <li><a href="/wiki/Feast_of_the_Transfiguration" title="Feast of the Transfiguration">Transfiguration of the Lord</a> (religious)</li> 
+            <li><a href="/wiki/Victory_Day_(United_States)" title="Victory Day (United States)">Victory Day</a> (RI)</li> 
+            <li><a href="/wiki/Women%27s_Equality_Day" title="Women's Equality Day">Women's Equality Day</a> (36)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">September<br><a href="/wiki/National_Prostate_Cancer_Awareness_Month" class="mw-redirect" title="National Prostate Cancer Awareness Month">Prostate Cancer Awareness Month</a><br><a href="/wiki/National_Childhood_Cancer_Awareness_Month" title="National Childhood Cancer Awareness Month">Childhood Cancer Awareness Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Labor_Day" title="Labor Day">Labor Day</a></b> (federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Brazilian_Day" title="Brazilian Day">Brazilian Day</a> (NY, cultural)</li> 
+             <li><a href="/wiki/California_Admission_Day" class="mw-redirect" title="California Admission Day">California Admission Day</a> (CA)</li> 
+             <li><a href="/wiki/Carl_Garner_Federal_Lands_Cleanup_Day" title="Carl Garner Federal Lands Cleanup Day">Carl Garner Federal Lands Cleanup Day</a> (36)</li> 
+             <li><a href="/wiki/Constitution_Day_(United_States)" title="Constitution Day (United States)">Constitution Day</a> (36)</li> 
+             <li><a href="/wiki/Constitution_Week" title="Constitution Week">Constitution Week</a> (week)</li> 
+             <li><a href="/wiki/Defenders_Day" title="Defenders Day">Defenders Day</a> (MD)</li> 
+             <li><a href="/wiki/Elevation_of_the_Holy_Cross" title="Elevation of the Holy Cross">Elevation of the Holy Cross</a> (religious)</li> 
+             <li><a href="/wiki/Feast_of_San_Gennaro" title="Feast of San Gennaro">Feast of San Gennaro</a> (NY, cultural, religious)</li> 
+             <li><a href="/wiki/Ganesh_Chaturthi" title="Ganesh Chaturthi">Ganesh Chaturthi</a> (religious)</li> 
+             <li><a href="/wiki/Gold_Star_Mother%27s_Day" class="mw-redirect" title="Gold Star Mother's Day">Gold Star Mother's Day</a> (36)</li> 
+             <li><a href="/wiki/Sakya_Trizin_Ngawang_Kunga" title="Sakya Trizin Ngawang Kunga">His Holiness Sakya Trizin’s Birthday</a> (religious)</li> 
+             <li><a href="/wiki/September_equinox" title="September equinox">Mabon</a> (religious)</li> 
+             <li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a> (36)</li> 
+             <li><a href="/wiki/National_Payroll_Week" title="National Payroll Week">National Payroll Week</a> (week)</li> 
+             <li><a href="/wiki/Nativity_of_Mary" title="Nativity of Mary">Nativity of Mary / Nativity of the Theotokos</a> (religious)</li> 
+             <li><a href="/wiki/Native_American_Day" title="Native American Day">Native American Day</a> (proposed federal)</li> 
+             <li><a href="/wiki/Patriot_Day" title="Patriot Day">Patriot Day</a> (36)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">September–October<br><a href="/wiki/National_Hispanic_Heritage_Month" title="National Hispanic Heritage Month">Hispanic Heritage Month</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Arba%27een" class="mw-redirect" title="Arba'een">Chehlum Imam Hussain</a> (religious)</li> 
+            <li><a href="/wiki/Oktoberfest_celebrations" title="Oktoberfest celebrations">Oktoberfest</a></li> 
+            <li><a href="/wiki/Pitri_Paksha" class="mw-redirect" title="Pitri Paksha">Pitri Paksha</a> (religious)</li> 
+            <li><a href="/wiki/Rosh_Hashanah" title="Rosh Hashanah">Rosh Hashanah / Feast of Trumpets</a> (TX, NY, religious)</li> 
+            <li><a href="/wiki/Shemini_Atzeret" title="Shemini Atzeret">Shemini Atzeret</a> (religious)</li> 
+            <li><a href="/wiki/Simchat_Torah" title="Simchat Torah">Simchat Torah</a> (eligious)</li> 
+            <li><a href="/wiki/Vijayadashami" title="Vijayadashami">Vijaya Dashami</a> (religious)</li> 
+            <li><a href="/wiki/Yom_Kippur" title="Yom Kippur">Yom Kippur / Day of Atonement</a> (TX, NY, religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">October<br><a href="/wiki/National_Breast_Cancer_Awareness_Month" class="mw-redirect" title="National Breast Cancer Awareness Month">Breast Cancer Awareness Month</a><br><a href="/wiki/National_Disability_Employment_Awareness_Month" title="National Disability Employment Awareness Month">Disability Employment Awareness Month</a><br> <a href="/wiki/Italian-American_Heritage_and_Culture_Month" title="Italian-American Heritage and Culture Month">Italian-American Heritage and Culture Month</a> <br> <a href="/wiki/Filipino_American_History_Month" title="Filipino American History Month">Filipino American History Month</a><br><a href="/wiki/LGBT_History_Month" title="LGBT History Month">LGBT History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Columbus_Day" title="Columbus Day">Columbus Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Halloween" title="Halloween">Halloween</a></b></li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Alaska_Day" title="Alaska Day">Alaska Day</a> (AK)</li> 
+             <li><a href="/wiki/Child_Health_Day" title="Child Health Day">Child Health Day</a> (36)</li> 
+             <li><a href="/wiki/General_Pulaski_Memorial_Day" title="General Pulaski Memorial Day">General Pulaski Memorial Day</a></li> 
+             <li><a href="/wiki/German-American_Day" title="German-American Day">German-American Day</a></li> 
+             <li><a href="/wiki/Indigenous_Peoples%27_Day" title="Indigenous Peoples' Day">Indigenous Peoples' Day</a> (VT)</li> 
+             <li><a href="/wiki/International_Day_of_Non-Violence" title="International Day of Non-Violence">International Day of Non-Violence</a></li> 
+             <li><a href="/wiki/Leif_Erikson_Day" title="Leif Erikson Day">Leif Erikson Day</a> (36)</li> 
+             <li><a href="/wiki/Missouri_Day" title="Missouri Day">Missouri Day</a> (MO)</li> 
+             <li><a href="/wiki/Nanomonestotse" title="Nanomonestotse">Nanomonestotse</a> (cultural)</li> 
+             <li><a href="/wiki/National_School_Lunch_Week" class="mw-redirect" title="National School Lunch Week">National School Lunch Week</a> (week)</li> 
+             <li><a href="/wiki/Native_American_Day" title="Native American Day">Native American Day in South Dakota</a> (SD)</li> 
+             <li><a href="/wiki/Nevada_Day" title="Nevada Day">Nevada Day</a> (NV)</li> 
+             <li><a href="/wiki/Spirit_Day" title="Spirit Day">Spirit Day</a> (cultural)</li> 
+             <li><a href="/wiki/Sweetest_Day" title="Sweetest Day">Sweetest Day</a></li> 
+             <li><a href="/wiki/Sukkot" title="Sukkot">Sukkot / Feast of Tabernacles</a> (religious)</li> 
+             <li><a href="/wiki/Virgin_Islands%E2%80%93Puerto_Rico_Friendship_Day" title="Virgin Islands–Puerto Rico Friendship Day">Virgin Islands–Puerto Rico Friendship Day</a> (PR, VI)</li> 
+             <li><a href="/wiki/White_Cane_Safety_Day" title="White Cane Safety Day">White Cane Safety Day</a> (36)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">October–November</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Twin_Holy_Birthdays" title="Twin Holy Birthdays">Birth of the Báb</a> (religious)</li> 
+            <li><a href="/wiki/Birth_of_Bah%C3%A1%CA%BCu%27ll%C3%A1h" title="Birth of Baháʼu'lláh">Birth of Baháʼu'lláh</a> (religious)</li> 
+            <li><a href="/wiki/Day_of_the_Dead" title="Day of the Dead">Day of the Dead</a> (VI)</li> 
+            <li><a href="/wiki/Diwali" title="Diwali">Diwali</a> (NY, religious)</li> 
+            <li><a href="/wiki/Mawlid" title="Mawlid">Mawlid al-Nabi</a> (religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">November<br> <a href="/wiki/Native_American_Indian_Heritage_Month" title="Native American Indian Heritage Month">Native American Indian Heritage Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Veterans_Day" title="Veterans Day">Veterans Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Thanksgiving_(United_States)" title="Thanksgiving (United States)">Thanksgiving</a></b> (federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/%CA%BBAbdu%27l-Bah%C3%A1" title="ʻAbdu'l-Bahá">Ascension of ‘Abdu’l Baha</a> (religious)</li> 
+             <li><a href="/wiki/All_Saints%27_Day" title="All Saints' Day">All Saints' Day</a> (religious)</li> 
+             <li><a href="/wiki/Nativity_Fast" title="Nativity Fast">Beginning of the Nativity Fast</a> (religious)</li> 
+             <li><a href="/wiki/Beltane" title="Beltane">Beltane</a> / <a href="/wiki/Samhain" title="Samhain">Samhain</a> (religious)</li> 
+             <li><a href="/wiki/Barack_Obama_Day" title="Barack Obama Day">Barack Obama Day in Alabama</a> (Perry County, AL)</li> 
+             <li><a href="/wiki/D._Hamilton_Jackson" title="D. Hamilton Jackson">D. Hamilton Jackson Day</a> (VI)</li> 
+             <li><a href="/wiki/Black_Friday_(shopping)" title="Black Friday (shopping)">Day after Thanksgiving</a> (24)</li> 
+             <li><a href="/wiki/Day_of_the_Covenant_(Bah%C3%A1%CA%BC%C3%AD)" title="Day of the Covenant (Baháʼí)">Day of the Covenant</a> (religious)</li> 
+             <li><a href="/wiki/Discovery_of_Puerto_Rico" class="mw-redirect" title="Discovery of Puerto Rico">Discovery of Puerto Rico Day</a> (PR)</li> 
+             <li><a href="/wiki/Election_Day_(United_States)" title="Election Day (United States)">Election Day</a> (CA, DE, HI, KY, MT, NJ, NY, OH, PR, VA, WV, proposed federal)</li> 
+             <li><a href="/wiki/Family_Day" title="Family Day">Family Day</a> (NV)</li> 
+             <li><a href="/wiki/Guru_Nanak_Gurpurab" title="Guru Nanak Gurpurab">Guru Nanak Gurpurab</a> (religious)</li> 
+             <li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> (religious)</li> 
+             <li><a href="/wiki/Independence_Day_(Hawaii)" title="Independence Day (Hawaii)">Lā Kūʻokoʻa</a> (HI, unofficial, cultural)</li> 
+             <li><a href="/wiki/Guru_Tegh_Bahadur" title="Guru Tegh Bahadur">Martyrdom of Guru Tegh Bahadur</a> (religious)</li> 
+             <li><a href="/wiki/Native_American_Heritage_Day" title="Native American Heritage Day">Native American Heritage Day</a> (MD, WA, cultural)</li> 
+             <li><a href="/wiki/Presentation_of_Mary" title="Presentation of Mary">Presentation of the Theotokos to the Temple</a> (religious)</li> 
+             <li><a href="/wiki/Unthanksgiving_Day" title="Unthanksgiving Day">Unthanksgiving Day</a> (cultural)</li> 
+             <li><a href="/wiki/Mohammed_Burhanuddin" title="Mohammed Burhanuddin">Urus Mubarak of Syedna Mohammed Burhanuddin</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">December</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Christmas" title="Christmas">Christmas</a></b> (religious, federal)</li> 
+             <li><b><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">New Year's Eve</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Advent_Sunday" title="Advent Sunday">Advent Sunday</a> (religious)</li> 
+             <li><a href="/wiki/Alabama_Day" title="Alabama Day">Alabama Day</a> (AL)</li> 
+             <li><a href="/wiki/Guru_Gobind_Singh" title="Guru Gobind Singh">Birthday of Guru Gobind Singh Sahib</a> (religious)</li> 
+             <li><a href="/wiki/Bodhi_Day" title="Bodhi Day">Bodhi Day</a> (religious)</li> 
+             <li><a href="/wiki/Chalica" title="Chalica">Chalica</a> (religious)</li> 
+             <li><a href="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</a> (KY, NC, SC, PR, VI)</li> 
+             <li><a href="/wiki/Boxing_Day" title="Boxing Day">Day after Christmas</a> (KY, NC, SC, TX, VI)</li> 
+             <li><a href="/wiki/Festivus" title="Festivus">Festivus</a></li> 
+             <li><a href="/wiki/HumanLight" title="HumanLight">HumanLight</a></li> 
+             <li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> (religious, week)</li> 
+             <li><a href="/wiki/Immaculate_Conception" title="Immaculate Conception">Immaculate Conception</a> (religious)</li> 
+             <li><a href="/wiki/Indiana_Day" title="Indiana Day">Indiana Day</a> (IN)</li> 
+             <li><a href="/wiki/Kwanzaa" title="Kwanzaa">Kwanzaa</a> (cultural, week)</li> 
+             <li><a href="/wiki/Mohammed_Burhanuddin" title="Mohammed Burhanuddin">Milad Syedna Mohammed Burhanuddin</a> (religious)</li> 
+             <li><a href="/wiki/National_Pearl_Harbor_Remembrance_Day" title="National Pearl Harbor Remembrance Day">National Pearl Harbor Remembrance Day</a> (36)</li> 
+             <li><a href="/wiki/Nativity_of_Jesus" title="Nativity of Jesus">Nativity of Jesus</a> (religious)</li> 
+             <li><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">Old Year's Night</a> (VI)</li> 
+             <li><a href="/wiki/Pan_American_Aviation_Day" title="Pan American Aviation Day">Pan American Aviation Day</a> (36)</li> 
+             <li><a href="/wiki/Sivaya_Subramuniyaswami" title="Sivaya Subramuniyaswami">Pancha Ganapati</a> (religious, week)</li> 
+             <li><a href="/wiki/Rosa_Parks_Day" title="Rosa Parks Day">Rosa Parks Day</a> (OH, OR)</li> 
+             <li><a href="/wiki/Solemnity_of_Mary,_Mother_of_God" title="Solemnity of Mary, Mother of God">Solemnity of Mary, Mother of God</a> (religious)</li> 
+             <li><a href="/wiki/Wright_Brothers_Day" title="Wright Brothers Day">Wright Brothers Day</a> (36)</li> 
+             <li><a href="/wiki/Yule" title="Yule">Yule</a> (religious)</li> 
+             <li><a href="/wiki/Zartosht_No-Diso" title="Zartosht No-Diso">Zartosht No-Diso</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Varies (year round)</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a> (NY, religious)</li> 
+            <li><a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a> (NY, religious)</li> 
+            <li><a href="/wiki/Islamic_New_Year" title="Islamic New Year">Islamic New Year</a> (religious)</li> 
+            <li><a href="/wiki/Day_of_Arafah" title="Day of Arafah">Yawm al-Arafa</a> (religious)</li> 
+            <li><a href="/wiki/Hajj" title="Hajj">Hajj</a> (religious)</li> 
+            <li><a href="/wiki/Navaratri" title="Navaratri">Navaratri</a> (religious, four times a year)</li> 
+            <li><a href="/wiki/Bon_Festival" title="Bon Festival">Obon</a> (religious)</li> 
+            <li><a href="/wiki/Onam" title="Onam">Onam</a> (religious)</li> 
+            <li><a href="/wiki/Ramadan" title="Ramadan">Ramadan</a> (religious, month)</li> 
+            <li><a href="/wiki/Ghost_Festival" title="Ghost Festival">Ghost Festival</a> (religious)</li> 
+            <li><a href="/wiki/Ashura" title="Ashura">Yawm Aashura</a> (religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="font-size:90%;">
+           <div>
+            Legend: 
+            <p>(federal) = federal holidays, (abbreviation) = state/territorial holidays, (religious) = religious holidays, (cultural) = holiday related to a specific <a href="/wiki/Race_and_ethnicity_in_the_United_States_Census" title="Race and ethnicity in the United States Census">racial/ethnic group</a> or <a href="/wiki/Sexual_minority" title="Sexual minority">sexual minority</a>, (week) = week-long holidays, (month) = month-long holidays, (36) = <a href="/wiki/Title_36_of_the_United_States_Code" title="Title 36 of the United States Code">Title 36 Observances and Ceremonies</a><br> <b>Bold</b> indicates major holidays commonly celebrated in the United States, which often represent the major celebrations of the month.<br> </p> See also: <a href="/wiki/Lists_of_holidays" title="Lists of holidays">Lists of holidays</a>, <a href="/wiki/Hallmark_holiday" title="Hallmark holiday">Hallmark holidays</a>, public holidays in the <a href="/wiki/Public_holidays_in_the_United_States" title="Public holidays in the United States">United States</a>, <a href="/wiki/State_holidays_in_New_Jersey" title="State holidays in New Jersey">New Jersey</a>, <a href="/wiki/New_York_State_government_holidays" title="New York State government holidays">New York</a>, <a href="/wiki/Public_holidays_in_Puerto_Rico" title="Public holidays in Puerto Rico">Puerto Rico</a> and the <a href="/wiki/Public_holidays_in_the_United_States_Virgin_Islands" title="Public holidays in the United States Virgin Islands">United States Virgin Islands</a>.
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20210422165714
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.653 seconds
+Real time usage: 0.842 seconds
+Preprocessor visited node count: 3512/1000000
+Post‐expand include size: 142043/2097152 bytes
+Template argument size: 3224/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 60546/5000000 bytes
+Lua time usage: 0.264/10.000 seconds
+Lua memory usage: 8428459/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  671.645      1 -total
+ 36.74%  246.751      1 Template:Reflist
+ 19.14%  128.579      4 Template:Navbox
+ 16.70%  112.179      1 Template:Cite_web
+ 15.77%  105.906      1 Template:Infobox_holiday
+ 12.93%   86.838     17 Template:Cite_news
+ 11.33%   76.105      1 Template:U.S._Holidays
+ 10.99%   73.800      1 Template:Infobox
+ 10.28%   69.027      1 Template:Super_Bowl
+  9.90%   66.517      1 Template:Use_mdy_dates
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:33544057-0!canonical and timestamp 20210422165713 and revision id 1016023937. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Super_Bowl_Sunday&amp;oldid=1016023937">https://en.wikipedia.org/w/index.php?title=Super_Bowl_Sunday&amp;oldid=1016023937</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Super_Bowl_culture" title="Category:Super Bowl culture">Super Bowl culture</a></li>
+       <li><a href="/wiki/Category:1967_establishments_in_the_United_States" title="Category:1967 establishments in the United States">1967 establishments in the United States</a></li>
+       <li><a href="/wiki/Category:Annual_events_in_the_United_States" title="Category:Annual events in the United States">Annual events in the United States</a></li>
+       <li><a href="/wiki/Category:Sunday_events" title="Category:Sunday events">Sunday events</a></li>
+       <li><a href="/wiki/Category:January_observances" title="Category:January observances">January observances</a></li>
+       <li><a href="/wiki/Category:Recurring_events_established_in_1967" title="Category:Recurring events established in 1967">Recurring events established in 1967</a></li>
+       <li><a href="/wiki/Category:Unofficial_observances" title="Category:Unofficial observances">Unofficial observances</a></li>
+       <li><a href="/wiki/Category:Eating_parties" title="Category:Eating parties">Eating parties</a></li>
+       <li><a href="/wiki/Category:February_observances" title="Category:February observances">February observances</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Use_mdy_dates_from_January_2019" title="Category:Use mdy dates from January 2019">Use mdy dates from January 2019</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_with_missing_field" title="Category:Infobox holiday with missing field">Infobox holiday with missing field</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_(other)" title="Category:Infobox holiday (other)">Infobox holiday (other)</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Super+Bowl+Sunday" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Super+Bowl+Sunday" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Super_Bowl_Sunday" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Super_Bowl_Sunday" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Super_Bowl_Sunday">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Super_Bowl_Sunday&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Super_Bowl_Sunday&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Super_Bowl_Sunday" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Super_Bowl_Sunday" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Super_Bowl_Sunday&amp;oldid=1016023937" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Super_Bowl_Sunday&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Super_Bowl_Sunday&amp;id=1016023937&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7642195" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Super_Bowl_Sunday&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Super_Bowl_Sunday&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%88%D8%A8%D8%B1_%D8%A8%D9%88%D9%84_%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%A3%D8%AD%D8%AF" title="سوبر بول يوم الأحد – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%8C%D0%B5_%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B1%D0%BE%D1%83%D0%BB%D0%B0" title="Воскресенье Супербоула – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7642195#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 5 April 2021, at 00:13<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Super_Bowl_Sunday&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.653","walltime":"0.842","ppvisitednodes":{"value":3512,"limit":1000000},"postexpandincludesize":{"value":142043,"limit":2097152},"templateargumentsize":{"value":3224,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":60546,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  671.645      1 -total"," 36.74%  246.751      1 Template:Reflist"," 19.14%  128.579      4 Template:Navbox"," 16.70%  112.179      1 Template:Cite_web"," 15.77%  105.906      1 Template:Infobox_holiday"," 12.93%   86.838     17 Template:Cite_news"," 11.33%   76.105      1 Template:U.S._Holidays"," 10.99%   73.800      1 Template:Infobox"," 10.28%   69.027      1 Template:Super_Bowl","  9.90%   66.517      1 Template:Use_mdy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.264","limit":"10.000"},"limitreport-memusage":{"value":8428459,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20210422165714","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Super Bowl Sunday","url":"https:\/\/en.wikipedia.org\/wiki\/Super_Bowl_Sunday","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7642195","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7642195","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-02-25T15:51:15Z","dateModified":"2021-04-05T00:13:56Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9f\/Super_Bowl_Sunday_Military.jpg"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":171,"wgHostname":"mw1269"});});</script> 
+ </body>
+</html>

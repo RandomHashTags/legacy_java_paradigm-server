@@ -14,15 +14,13 @@ public interface DataValues {
     int WL_LAWS_PORT = getPort(3);
     int WL_NEWS_PORT = getPort(4);
     int WL_TECHNOLOGY_PORT = getPort(5);
-    int WL_STATUS_PORT = getPort(6);
-    int WL_UPCOMING_EVENTS_PORT = getPort(7);
-    int WL_WEATHER_PORT = getPort(8);
+    int WL_UPCOMING_EVENTS_PORT = getPort(6);
+    int WL_WEATHER_PORT = getPort(7);
 
     String WL_COUNTRIES_SERVER_IP = getLocalIP(WL_COUNTRIES_PORT);
     String WL_FEEDBACK_SERVER_IP = getLocalIP(WL_FEEDBACK_PORT);
     String WL_LAWS_SERVER_IP = getLocalIP(WL_LAWS_PORT);
     String WL_NEWS_SERVER_IP = getLocalIP(WL_NEWS_PORT);
-    String WL_STATUS_SERVER_IP = getLocalIP(WL_STATUS_PORT);
     String WL_TECHNOLOGY_SERVER_IP = getLocalIP(WL_TECHNOLOGY_PORT);
     String WL_UPCOMING_EVENTS_SERVER_IP = getLocalIP(WL_UPCOMING_EVENTS_PORT);
     String WL_WEATHER_SERVER_IP = getLocalIP(WL_WEATHER_PORT);

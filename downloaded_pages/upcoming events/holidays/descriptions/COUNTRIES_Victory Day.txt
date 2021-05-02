@@ -1,0 +1,684 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Victory Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"3830434b-cfdf-4be3-88a6-258aaa8c6a14","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Victory_Day","wgTitle":"Victory Day","wgCurRevisionId":1019411283,"wgRevisionId":1019411283,"wgArticleId":2640046,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Chinese-language sources (zh)","CS1 Croatian-language sources (hr)","Use dmy dates from July 2019","All articles with unsourced statements","Articles with unsourced statements from November 2020","Victory days","Types of national holidays","Lists of observances"],"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Victory_Day","wgRelevantArticleId":2640046,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1030786"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
+"skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ve_Day_Celebrations_in_London%2C_England%2C_UK%2C_8_May_1945_D24587.jpg/1200px-Ve_Day_Celebrations_in_London%2C_England%2C_UK%2C_8_May_1945_D24587.jpg"> 
+  <meta property="og:title" content="Victory Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Victory_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Victory_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Victory_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Victory_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Victory_Day rootpage-Victory_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">Victory Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p class="mw-empty-elt"> </p> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       This article is about the type of commemoration days. For the Russian song, see <a href="/wiki/Den_Pobedy" title="Den Pobedy">Den Pobedy</a>. For the 1988 album by Tom Cochrane and Red Rider, see <a href="/wiki/Victory_Day_(album)" title="Victory Day (album)">Victory Day (album)</a>. For the related Victory parades, see <a href="/wiki/Victory_parade" title="Victory parade">Victory parade</a>. For the military term, see <a href="/wiki/Military_designation_of_days_and_hours" title="Military designation of days and hours">Military designation of days and hours</a>.
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Ve_Day_Celebrations_in_London,_England,_UK,_8_May_1945_D24587.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ve_Day_Celebrations_in_London%2C_England%2C_UK%2C_8_May_1945_D24587.jpg/220px-Ve_Day_Celebrations_in_London%2C_England%2C_UK%2C_8_May_1945_D24587.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ve_Day_Celebrations_in_London%2C_England%2C_UK%2C_8_May_1945_D24587.jpg/330px-Ve_Day_Celebrations_in_London%2C_England%2C_UK%2C_8_May_1945_D24587.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ve_Day_Celebrations_in_London%2C_England%2C_UK%2C_8_May_1945_D24587.jpg/440px-Ve_Day_Celebrations_in_London%2C_England%2C_UK%2C_8_May_1945_D24587.jpg 2x" data-file-width="1280" data-file-height="958"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Ve_Day_Celebrations_in_London,_England,_UK,_8_May_1945_D24587.jpg" class="internal" title="Enlarge"></a>
+         </div>People gathered in <a href="/wiki/Whitehall" title="Whitehall">Whitehall</a> to hear <a href="/wiki/Winston_Churchill" title="Winston Churchill">Winston Churchill</a>'s victory speech and celebrate <a href="/wiki/Victory_in_Europe_Day" title="Victory in Europe Day">Victory in Europe</a>, 8 May 1945
+        </div>
+       </div>
+      </div> 
+      <p><b>Victory Day</b> is a name of different <a href="/wiki/Public_holiday" title="Public holiday">public holidays</a> in various countries to commemorate victories in important battles or wars in the countries' history. </p> 
+      <h2><span class="mw-headline" id="List">List</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Victory_Day&amp;action=edit&amp;section=1" title="Edit section: List">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable sortable"> 
+       <tbody>
+        <tr> 
+         <th> 
+          <ul>
+           <li>State</li>
+          </ul> </th> 
+         <th>Holiday </th> 
+         <th>Date </th> 
+         <th>Observed </th> 
+         <th class="unsortable">Ref. </th>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/23px-Flag_of_Afghanistan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/35px-Flag_of_Afghanistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/45px-Flag_of_Afghanistan.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a> </td> 
+         <td><a href="/wiki/Mujahideen_Victory_Day" title="Mujahideen Victory Day">Mujahideen Victory Day</a> </td> 
+         <td><span data-sort-value="000000002021-04-28-0000" style="white-space:nowrap">28 April</span> </td> 
+         <td><span data-sort-value="000000001992-01-01-0000" style="white-space:nowrap">1992</span>–present </td> 
+         <td><sup id="cite_ref-Afghanistan_1-0" class="reference"><a href="#cite_note-Afghanistan-1">[1]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/35px-Flag_of_Algeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/45px-Flag_of_Algeria.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Algeria" title="Algeria">Algeria</a> </td> 
+         <td><a href="/w/index.php?title=Victory_Day_of_Algeria&amp;action=edit&amp;redlink=1" class="new" title="Victory Day of Algeria (page does not exist)">Victory Day of Algeria</a><span class="noprint" style="font-size:85%; font-style: normal;">&nbsp;[<a href="https://ar.wikipedia.org/wiki/%D8%B9%D9%8A%D8%AF_%D8%A7%D9%84%D9%86%D8%B5%D8%B1_(%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1)" class="extiw" title="ar:عيد النصر (الجزائر)">ar</a>]</span> </td> 
+         <td><span data-sort-value="000000002021-03-19-0000" style="white-space:nowrap">19 March</span> </td> 
+         <td><span data-sort-value="000000001962-01-01-0000" style="white-space:nowrap">1962</span>–present </td> 
+         <td><sup id="cite_ref-Algeria_2-0" class="reference"><a href="#cite_note-Algeria-2">[2]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/23px-Flag_of_Azerbaijan.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/35px-Flag_of_Azerbaijan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/46px-Flag_of_Azerbaijan.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Azerbaijan" title="Azerbaijan">Azerbaijan</a> </td> 
+         <td><a href="/wiki/Victory_Day_(Azerbaijan)" title="Victory Day (Azerbaijan)">Victory Day</a> </td> 
+         <td><span data-sort-value="000000002021-11-08-0000" style="white-space:nowrap">8 November</span> </td> 
+         <td>2020-present </td> 
+         <td><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/35px-Flag_of_Bangladesh.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/46px-Flag_of_Bangladesh.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a> </td> 
+         <td><a href="/wiki/Victory_Day_of_Bangladesh" class="mw-redirect" title="Victory Day of Bangladesh">Victory Day of Bangladesh</a> </td> 
+         <td><span data-sort-value="000000002021-12-16-0000" style="white-space:nowrap">16 December</span> </td> 
+         <td><span data-sort-value="000000001971-01-01-0000" style="white-space:nowrap">1971</span>–present </td> 
+         <td><sup id="cite_ref-Bangladesh_4-0" class="reference"><a href="#cite_note-Bangladesh-4">[4]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/35px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/46px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450">&nbsp;</span><a href="/wiki/Belarus" title="Belarus">Belarus</a> </td> 
+         <td><a href="/wiki/Victory_Day_(9_May)" title="Victory Day (9 May)">Victory Day</a> </td> 
+         <td><span data-sort-value="000000002021-05-09-0000" style="white-space:nowrap">9 May</span> </td> 
+         <td> </td> 
+         <td><sup id="cite_ref-Belarus_5-0" class="reference"><a href="#cite_note-Belarus-5">[5]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/China" title="China">China</a> </td> 
+         <td><a href="/wiki/Victory_over_Japan_Day" title="Victory over Japan Day">Victory over Japan Day</a> </td> 
+         <td><span data-sort-value="000000002021-09-03-0000" style="white-space:nowrap">3 September</span> </td> 
+         <td><span data-sort-value="000000002015-01-01-0000" style="white-space:nowrap">2015</span> </td> 
+         <td><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/46px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Croatia" title="Croatia">Croatia</a> </td> 
+         <td><a href="/wiki/Victory_Day_(Croatia)" title="Victory Day (Croatia)">Victory and Homeland Thanksgiving Day</a> </td> 
+         <td><span data-sort-value="000000002021-08-05-0000" style="white-space:nowrap">5 August</span> </td> 
+         <td><span data-sort-value="000000002003-01-01-0000" style="white-space:nowrap">2003</span>–present </td> 
+         <td><sup id="cite_ref-Croatia_8-0" class="reference"><a href="#cite_note-Croatia-8">[8]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td rowspan="2"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/35px-Flag_of_Estonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/46px-Flag_of_Estonia.svg.png 2x" data-file-width="990" data-file-height="630">&nbsp;</span><a href="/wiki/Estonia" title="Estonia">Estonia</a> </td> 
+         <td><a href="/wiki/V%C3%B5idup%C3%BCha" title="Võidupüha">Võidupüha</a> </td> 
+         <td><span data-sort-value="000000002021-06-23-0000" style="white-space:nowrap">23 June</span> </td> 
+         <td><span data-sort-value="000000001934-01-01-0000" style="white-space:nowrap">1934</span>–1939 </td> 
+         <td><sup id="cite_ref-Estonia_9-0" class="reference"><a href="#cite_note-Estonia-9">[9]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/V%C3%B5idup%C3%BCha" title="Võidupüha">Võidupüha</a> </td> 
+         <td><span data-sort-value="000000002021-06-23-0000" style="white-space:nowrap">23 June</span> </td> 
+         <td><span data-sort-value="000000001992-01-01-0000" style="white-space:nowrap">1992</span>–present </td> 
+         <td><sup id="cite_ref-Estonia_9-1" class="reference"><a href="#cite_note-Estonia-9">[9]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/41px-Flag_of_Israel.svg.png 2x" data-file-width="1100" data-file-height="800">&nbsp;</span><a href="/wiki/Israel" title="Israel">Israel</a> </td> 
+         <td><a href="/wiki/Victory_in_Europe_Day_(Israel)" title="Victory in Europe Day (Israel)">Victory in Europe Day</a> </td> 
+         <td><span data-sort-value="000000002021-05-09-0000" style="white-space:nowrap">9 May</span> </td> 
+         <td><span data-sort-value="000000002018-01-01-0000" style="white-space:nowrap">2018</span>–present </td> 
+         <td><sup id="cite_ref-Israel_10-0" class="reference"><a href="#cite_note-Israel-10">[10]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/35px-Flag_of_Kazakhstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/46px-Flag_of_Kazakhstan.svg.png 2x" data-file-width="1000" data-file-height="500">&nbsp;</span><a href="/wiki/Kazakhstan" title="Kazakhstan">Kazakhstan</a> </td> 
+         <td><a href="/wiki/Victory_Day_(9_May)" title="Victory Day (9 May)">Victory Day</a> </td> 
+         <td><span data-sort-value="000000002021-05-09-0000" style="white-space:nowrap">9 May</span> </td> 
+         <td> </td> 
+         <td><sup id="cite_ref-Kazakhstan_11-0" class="reference"><a href="#cite_note-Kazakhstan-11">[11]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/23px-Flag_of_Moldova.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/35px-Flag_of_Moldova.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/46px-Flag_of_Moldova.svg.png 2x" data-file-width="1800" data-file-height="900">&nbsp;</span><a href="/wiki/Moldova" title="Moldova">Moldova</a> </td> 
+         <td><a href="/wiki/Victory_Day_(9_May)" title="Victory Day (9 May)">Victory Day</a> </td> 
+         <td><span data-sort-value="000000002021-05-09-0000" style="white-space:nowrap">9 May</span> </td> 
+         <td> </td> 
+         <td><sup id="cite_ref-Moldova_12-0" class="reference"><a href="#cite_note-Moldova-12">[12]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/23px-Flag_of_Mozambique.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/35px-Flag_of_Mozambique.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/45px-Flag_of_Mozambique.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Mozambique" title="Mozambique">Mozambique</a> </td> 
+         <td><a href="/wiki/Lusaka_Ceasefire_Agreement" title="Lusaka Ceasefire Agreement">Lusaka Peace Agreement Day</a> </td> 
+         <td><span data-sort-value="000000002021-09-07-0000" style="white-space:nowrap">7 September</span> </td> 
+         <td><span data-sort-value="000000001975-01-01-0000" style="white-space:nowrap">1975</span>–present </td> 
+         <td><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/35px-Flag_of_North_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/46px-Flag_of_North_Korea.svg.png 2x" data-file-width="1600" data-file-height="800">&nbsp;</span><a href="/wiki/North_Korea" title="North Korea">North Korea</a> </td> 
+         <td><a href="/wiki/Day_of_Victory_in_the_Great_Fatherland_Liberation_War" title="Day of Victory in the Great Fatherland Liberation War">Day of Victory in the Great Fatherland Liberation War</a> </td> 
+         <td><span data-sort-value="000000002021-07-27-0000" style="white-space:nowrap">27 July</span> </td> 
+         <td> </td> 
+         <td><sup id="cite_ref-North_Korea_14-0" class="reference"><a href="#cite_note-North_Korea-14">[14]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td rowspan="2"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800">&nbsp;</span><a href="/wiki/Poland" title="Poland">Poland</a> </td> 
+         <td><a href="/wiki/Victory_Day_(9_May)" title="Victory Day (9 May)">Victory Day</a> </td> 
+         <td><span data-sort-value="000000002021-05-09-0000" style="white-space:nowrap">9 May</span> </td> 
+         <td><span data-sort-value="000000001945-01-01-0000" style="white-space:nowrap">1945</span>–2014 </td> 
+         <td><sup id="cite_ref-Poland_15-0" class="reference"><a href="#cite_note-Poland-15">[15]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Victory_in_Europe_Day" title="Victory in Europe Day">Victory in Europe Day</a> </td> 
+         <td><span data-sort-value="000000002021-05-08-0000" style="white-space:nowrap">8 May</span> </td> 
+         <td><span data-sort-value="000000002015-01-01-0000" style="white-space:nowrap">2015</span>–present </td> 
+         <td><sup id="cite_ref-Poland_15-1" class="reference"><a href="#cite_note-Poland-15">[15]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Russia" title="Russia">Russia</a> </td> 
+         <td><a href="/wiki/Victory_Day_(9_May)" title="Victory Day (9 May)">Victory Day</a> </td> 
+         <td><span data-sort-value="000000002021-05-09-0000" style="white-space:nowrap">9 May</span> </td> 
+         <td><span data-sort-value="000000001995-01-01-0000" style="white-space:nowrap">1995</span>–present </td> 
+         <td><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2020)">citation needed</span></a></i>]</sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/23px-Flag_of_the_Soviet_Union.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/35px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/46px-Flag_of_the_Soviet_Union.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a> </td> 
+         <td><a href="/wiki/Victory_Day_(9_May)" title="Victory Day (9 May)">Victory Day</a> </td> 
+         <td><span data-sort-value="000000002021-05-09-0000" style="white-space:nowrap">9 May</span> </td> 
+         <td><span data-sort-value="000000001945-01-01-0000" style="white-space:nowrap">1945</span>–1991 </td> 
+         <td><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2020)">citation needed</span></a></i>]</sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/35px-Flag_of_Algeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/45px-Flag_of_Algeria.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Algeria" title="Algeria">Algeria</a> </td> 
+         <td><a href="/wiki/Victory_Day_(9_May)" title="Victory Day (9 May)">Victory Day</a> </td> 
+         <td>9 May </td> 
+         <td>1945-present </td> 
+         <td><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2020)">citation needed</span></a></i>]</sup> </td>
+        </tr> 
+        <tr> 
+         <td rowspan="2"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/35px-Flag_of_Sri_Lanka.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/46px-Flag_of_Sri_Lanka.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a> </td> 
+         <td><a href="/wiki/Remembrance_Day_(Sri_Lanka)" title="Remembrance Day (Sri Lanka)">Victory Day</a> </td> 
+         <td><span data-sort-value="000000002021-05-18-0000" style="white-space:nowrap">18 May</span> </td> 
+         <td><span data-sort-value="000000002010-01-01-0000" style="white-space:nowrap">2010</span>–2014 </td> 
+         <td><sup id="cite_ref-Sri_Lanka_16-0" class="reference"><a href="#cite_note-Sri_Lanka-16">[16]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Remembrance_Day_(Sri_Lanka)" title="Remembrance Day (Sri Lanka)">Remembrance Day</a> </td> 
+         <td><span data-sort-value="000000002021-05-18-0000" style="white-space:nowrap">18 May</span> </td> 
+         <td><span data-sort-value="000000002015-01-01-0000" style="white-space:nowrap">2015</span>–present </td> 
+         <td><sup id="cite_ref-Sri_Lanka_16-1" class="reference"><a href="#cite_note-Sri_Lanka-16">[16]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a> </td> 
+         <td><a href="/wiki/Victory_Day_(Turkey)" title="Victory Day (Turkey)">Victory Day</a> </td> 
+         <td><span data-sort-value="000000002021-08-30-0000" style="white-space:nowrap">30 August</span> </td> 
+         <td><span data-sort-value="000000001926-01-01-0000" style="white-space:nowrap">1926</span>–present </td> 
+         <td><sup id="cite_ref-Turkey_17-0" class="reference"><a href="#cite_note-Turkey-17">[17]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td rowspan="2"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> </td> 
+         <td><a href="/wiki/Victory_Day_(9_May)" title="Victory Day (9 May)">Victory Day</a> </td> 
+         <td><span data-sort-value="000000002021-05-09-0000" style="white-space:nowrap">9 May</span> </td> 
+         <td><span data-sort-value="000000001991-01-01-0000" style="white-space:nowrap">1991</span>–2015 </td> 
+         <td><sup id="cite_ref-Ukraine_18-0" class="reference"><a href="#cite_note-Ukraine-18">[18]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/Victory_Day_over_Nazism_in_World_War_II" title="Victory Day over Nazism in World War II">Victory Day over Nazism in World War II</a> </td> 
+         <td><span data-sort-value="000000002021-05-09-0000" style="white-space:nowrap">9 May</span> </td> 
+         <td><span data-sort-value="000000002016-01-01-0000" style="white-space:nowrap">2016</span>–present </td> 
+         <td><sup id="cite_ref-Ukraine_18-1" class="reference"><a href="#cite_note-Ukraine-18">[18]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/35px-Flag_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/45px-Flag_of_Vietnam.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Vietnam" title="Vietnam">Vietnam</a> </td> 
+         <td><a href="/wiki/Reunification_Day" title="Reunification Day">Victory Day</a> </td> 
+         <td><span data-sort-value="000000002021-04-30-0000" style="white-space:nowrap">30 April</span> </td> 
+         <td><span data-sort-value="000000001976-01-01-0000" style="white-space:nowrap">1976</span>–present </td> 
+         <td><sup id="cite_ref-Ukraine_18-2" class="reference"><a href="#cite_note-Ukraine-18">[18]</a></sup> </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Victory_Day&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style>
+      <div role="navigation" aria-label="Portals" class="noprint portal plainlist tright"> 
+       <ul> 
+        <li><span><a href="/wiki/File:Calendar_icon.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/22px-Calendar_icon.svg.png" decoding="async" width="22" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/33px-Calendar_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/44px-Calendar_icon.svg.png 2x" data-file-width="720" data-file-height="920"></a></span><span><a href="/wiki/Portal:Holidays" title="Portal:Holidays">Holidays portal</a></span></li>
+       </ul>
+      </div> 
+      <ul>
+       <li>11 November: <a href="/wiki/Remembrance_Day" title="Remembrance Day">Remembrance Day</a>, <a href="/wiki/Veterans_Day" title="Veterans Day">Veterans Day</a>, <a href="/wiki/Armistice_Day" title="Armistice Day">Armistice Day</a></li> 
+       <li><a href="/wiki/Liberation_Day" title="Liberation Day">Liberation Day</a>: List of dates on which countries were liberated from occupiers</li> 
+       <li><a href="/wiki/National_Day" class="mw-redirect" title="National Day">National Day</a>: A day marking the founding of a nation which can be related to a key victory</li> 
+       <li class="mw-empty-elt"></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Victory_Day&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-Afghanistan-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Afghanistan_1-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190731003422/http://www.afghanistantimes.af/27th-mujahideen-victory-day-marked-in-kabul-peace-depends-on-afghan-nation/">"27th Mujahideen Victory Day Marked in Kabul; "Peace depends on Afghan nation<span class="cs1-kern-right">"</span>"</a>. Kabul: Afghanistan Times. 29 April 2019. Archived from <a rel="nofollow" class="external text" href="http://www.afghanistantimes.af/27th-mujahideen-victory-day-marked-in-kabul-peace-depends-on-afghan-nation/">the original</a> on 31 July 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=27th+Mujahideen+Victory+Day+Marked+in+Kabul%3B+%22Peace+depends+on+Afghan+nation%22&amp;rft.place=Kabul&amp;rft.pub=Afghanistan+Times&amp;rft.date=2019-04-29&amp;rft_id=http%3A%2F%2Fwww.afghanistantimes.af%2F27th-mujahideen-victory-day-marked-in-kabul-peace-depends-on-afghan-nation%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Algeria-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Algeria_2-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.m-moudjahidine.dz/">"Victory Day in Algeria"</a>. Algeria: <a href="/w/index.php?title=Ministry_of_Mujahideen&amp;action=edit&amp;redlink=1" class="new" title="Ministry of Mujahideen (page does not exist)">Ministry of Mujahideen</a>. 3 February 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">3 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Victory+Day+in+Algeria&amp;rft.place=Algeria&amp;rft.pub=Ministry+of+Mujahideen&amp;rft.date=2021-02-03&amp;rft_id=https%3A%2F%2Fwww.m-moudjahidine.dz%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://azertag.az/xeber/Azerbaycan_Respublikasi_Prezidentinin_Administrasiyasinin_melumati-1657235?__cf_chl_jschl_tk__=f0ab39cbadfff47699a893921b8278737864a437-1606993015-0-AU3hbaIVYgMZNFQZw5mSR8E2HkdILyvdS4ZyrljX09Uym1Uq0NV2xCXyhLyWTKRRYjdFsJkPIUKqyBUcVRjcFCukTfOH05LYgf1HuPfOXX6Y3-6E4SItRogcYm27hYj5HIXKtPfSa4hY1MT3kb1EuyJAirYjIwvuL3BGL_WZW1G1tzhJfZknzL_wzJLyYUC3ggPSeEa72EqT55mqcH7w6xB15lsjvTaFVd7RrvwLlGCpzx-0kg_W4phCTEUdl6__z63cb9AMhFpEd8cOy8Eii4PXNgRJoXuaHj6r9HI4550UzlLjp3X19TgpJHUOq5Dp0pvNI1aV-GXAbgzaqVlWyJyF5OYDHrsY8SXZu5V-B3kZPME_c_HZMWRLhp12z7DhhILTQ5VplFARsxy8LkkCGmjloS8zyeE41SHyTTAoLk1V#.X8i5Ew7yTdU.twitter">https://azertag.az/xeber/Azerbaycan_Respublikasi_Prezidentinin_Administrasiyasinin_melumati-1657235?__cf_chl_jschl_tk__=f0ab39cbadfff47699a893921b8278737864a437-1606993015-0-AU3hbaIVYgMZNFQZw5mSR8E2HkdILyvdS4ZyrljX09Uym1Uq0NV2xCXyhLyWTKRRYjdFsJkPIUKqyBUcVRjcFCukTfOH05LYgf1HuPfOXX6Y3-6E4SItRogcYm27hYj5HIXKtPfSa4hY1MT3kb1EuyJAirYjIwvuL3BGL_WZW1G1tzhJfZknzL_wzJLyYUC3ggPSeEa72EqT55mqcH7w6xB15lsjvTaFVd7RrvwLlGCpzx-0kg_W4phCTEUdl6__z63cb9AMhFpEd8cOy8Eii4PXNgRJoXuaHj6r9HI4550UzlLjp3X19TgpJHUOq5Dp0pvNI1aV-GXAbgzaqVlWyJyF5OYDHrsY8SXZu5V-B3kZPME_c_HZMWRLhp12z7DhhILTQ5VplFARsxy8LkkCGmjloS8zyeE41SHyTTAoLk1V#.X8i5Ew7yTdU.twitter</a></span> </li> 
+         <li id="cite_note-Bangladesh-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bangladesh_4-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.thedailystar.net/country/news/bangladesh-pm-sheikh-hasina-pays-tributes-martyrs-of-liberation-war-48th-victory-day-1674358">"V-Day Observed: Memories of martyrs shine on"</a>. <i>The Daily Star</i>. Dhaka. 17 December 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Daily+Star&amp;rft.atitle=V-Day+Observed%3A+Memories+of+martyrs+shine+on&amp;rft.date=2018-12-17&amp;rft_id=https%3A%2F%2Fwww.thedailystar.net%2Fcountry%2Fnews%2Fbangladesh-pm-sheikh-hasina-pays-tributes-martyrs-of-liberation-war-48th-victory-day-1674358&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Belarus-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Belarus_5-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.belarus.by/en/about-belarus/national-holidays">"Belarus official holidays"</a>. Belarus<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Belarus+official+holidays&amp;rft.pub=Belarus&amp;rft_id=https%3A%2F%2Fwww.belarus.by%2Fen%2Fabout-belarus%2Fnational-holidays&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFLi2014" class="citation news cs1">Li, Jing (3 September 2014). <a rel="nofollow" class="external text" href="https://www.scmp.com/news/china/article/1584034/month-commemorations-chinas-1945-victory-over-japan-begins">"Month of commemorations of China's 1945 victory over Japan begins"</a>. SCMP<span class="reference-accessdate">. Retrieved <span class="nowrap">8 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Month+of+commemorations+of+China%27s+1945+victory+over+Japan+begins&amp;rft.date=2014-09-03&amp;rft.aulast=Li&amp;rft.aufirst=Jing&amp;rft_id=https%3A%2F%2Fwww.scmp.com%2Fnews%2Fchina%2Farticle%2F1584034%2Fmonth-commemorations-chinas-1945-victory-over-japan-begins&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gov.cn/zhengce/content/2015-05/13/content_9742.htm">"国务院关于中国人民抗日战争暨世界反法西斯战争胜利70周年纪念日调休放假的通知"</a> (in Chinese). State Council of the People's Republic of China. 13 May 2015. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200521052320/http://www.gov.cn/zhengce/content/2015-05/13/content_9742.htm">Archived</a> from the original on 21 May 2020.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%85%B3%E4%BA%8E%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%8A%97%E6%97%A5%E6%88%98%E4%BA%89%E6%9A%A8%E4%B8%96%E7%95%8C%E5%8F%8D%E6%B3%95%E8%A5%BF%E6%96%AF%E6%88%98%E4%BA%89%E8%83%9C%E5%88%A970%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E6%97%A5%E8%B0%83%E4%BC%91%E6%94%BE%E5%81%87%E7%9A%84%E9%80%9A%E7%9F%A5&amp;rft.pub=State+Council+of+the+People%27s+Republic+of+China&amp;rft.date=2015-05-13&amp;rft_id=http%3A%2F%2Fwww.gov.cn%2Fzhengce%2Fcontent%2F2015-05%2F13%2Fcontent_9742.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Croatia-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Croatia_8-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://narodne-novine.nn.hr/clanci/sluzbeni/2002_11_136_2194.html">"Law on Holidays, Remembrances and Non-working Days in the Republic of Croatia"</a> (in Croatian). Narodne novine. 21 November 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Law+on+Holidays%2C+Remembrances+and+Non-working+Days+in+the+Republic+of+Croatia&amp;rft.pub=Narodne+novine&amp;rft.date=2002-11-21&amp;rft_id=https%3A%2F%2Fnarodne-novine.nn.hr%2Fclanci%2Fsluzbeni%2F2002_11_136_2194.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Estonia-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Estonia_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Estonia_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://estonianworld.com/security/estonia-celebrates-victory-day/">"Estonia celebrates Victory Day"</a>. Estonian World. 23 June 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Estonia+celebrates+Victory+Day&amp;rft.pub=Estonian+World&amp;rft.date=2016-06-23&amp;rft_id=https%3A%2F%2Festonianworld.com%2Fsecurity%2Festonia-celebrates-victory-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Israel-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Israel_10-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190502121129/https://main.knesset.gov.il/EN/News/PressReleases/Pages/Pr13547_pg.aspx">"Knesset passes bill declaring Victory in Europe Day a national holiday"</a>. The Knesset. 27 July 2017. Archived from <a rel="nofollow" class="external text" href="https://main.knesset.gov.il/EN/News/PressReleases/Pages/Pr13547_pg.aspx">the original</a> on 2 May 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Knesset+passes+bill+declaring+Victory+in+Europe+Day+a+national+holiday&amp;rft.pub=The+Knesset&amp;rft.date=2017-07-27&amp;rft_id=https%3A%2F%2Fmain.knesset.gov.il%2FEN%2FNews%2FPressReleases%2FPages%2FPr13547_pg.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Kazakhstan-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kazakhstan_11-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://egov.kz/cms/en/articles/holidays-calend">"Holidays and weekends in the Republic of Kazakhstan in 2019"</a>. Government of Kazakhstan<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Holidays+and+weekends+in+the+Republic+of+Kazakhstan+in+2019&amp;rft.pub=Government+of+Kazakhstan&amp;rft_id=https%3A%2F%2Fegov.kz%2Fcms%2Fen%2Farticles%2Fholidays-calend&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Moldova-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Moldova_12-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://md.usembassy.gov/holiday-calendar/">"Holiday Calendar 2019"</a>. US Embassy in Moldova<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Holiday+Calendar+2019&amp;rft.pub=US+Embassy+in+Moldova&amp;rft_id=https%3A%2F%2Fmd.usembassy.gov%2Fholiday-calendar%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/mozambique/mozambique-victory-day">"Victory Day in Mozambique in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 January</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Victory+Day+in+Mozambique+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fmozambique%2Fmozambique-victory-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-North_Korea-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-North_Korea_14-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFPersio2017" class="citation web cs1">Persio, Sofia Lotto (27 July 2017). <a rel="nofollow" class="external text" href="https://www.newsweek.com/north-korea-celebrates-victory-korean-war-armistice-day-americas-forgotten-war-642578">"North Korea Celebrates Victory on Korean War Armistice Day, America's 'Forgotten War<span class="cs1-kern-right">'</span>"</a>. Newsweek<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=North+Korea+Celebrates+Victory+on+Korean+War+Armistice+Day%2C+America%27s+%27Forgotten+War%27&amp;rft.pub=Newsweek&amp;rft.date=2017-07-27&amp;rft.aulast=Persio&amp;rft.aufirst=Sofia+Lotto&amp;rft_id=https%3A%2F%2Fwww.newsweek.com%2Fnorth-korea-celebrates-victory-korean-war-armistice-day-americas-forgotten-war-642578&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Poland-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Poland_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Poland_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190731004559/http://archiwum.thenews.pl/1/9/Artykul/206096">"Poland celebrates National Victory Day"</a>. Radio Poland. 8 May 2015. Archived from <a rel="nofollow" class="external text" href="http://archiwum.thenews.pl/1/9/Artykul/206096">the original</a> on 31 July 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Poland+celebrates+National+Victory+Day&amp;rft.pub=Radio+Poland&amp;rft.date=2015-05-08&amp;rft_id=http%3A%2F%2Farchiwum.thenews.pl%2F1%2F9%2FArtykul%2F206096&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Sri_Lanka-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sri_Lanka_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sri_Lanka_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/world-asia-32805544">"Sri Lanka shift on civil war anniversary"</a>. BBC. 19 May 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sri+Lanka+shift+on+civil+war+anniversary&amp;rft.pub=BBC&amp;rft.date=2015-05-19&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-asia-32805544&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Turkey-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Turkey_17-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.hurriyetdailynews.com/turkey-marks-victory-day-as-erdogan-vows-resistance-against-increasing-threats-136318">"Turkey marks Victory Day as Erdoğan vows resistance against 'increasing threats<span class="cs1-kern-right">'</span>"</a>. Ankara: Hurriyet Daily News. 30 August 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Turkey+marks+Victory+Day+as+Erdo%C4%9Fan+vows+resistance+against+%27increasing+threats%27&amp;rft.place=Ankara&amp;rft.pub=Hurriyet+Daily+News&amp;rft.date=2018-08-30&amp;rft_id=http%3A%2F%2Fwww.hurriyetdailynews.com%2Fturkey-marks-victory-day-as-erdogan-vows-resistance-against-increasing-threats-136318&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Ukraine-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ukraine_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ukraine_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Ukraine_18-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190731005004/https://www.unian.info/society/1339982-ukraine-celebrates-day-of-victory-over-nazism-in-world-war-ii.html">"Ukraine celebrates Day of Victory over Nazism in World War II"</a>. UNIAN. 9 May 2016. Archived from <a rel="nofollow" class="external text" href="https://www.unian.info/society/1339982-ukraine-celebrates-day-of-victory-over-nazism-in-world-war-ii.html">the original</a> on 31 July 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ukraine+celebrates+Day+of+Victory+over+Nazism+in+World+War+II&amp;rft.pub=UNIAN&amp;rft.date=2016-05-09&amp;rft_id=https%3A%2F%2Fwww.unian.info%2Fsociety%2F1339982-ukraine-celebrates-day-of-victory-over-nazism-in-world-war-ii.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVictory+Day" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="20x20px&amp;#124;link=&amp;#124;alt=_Public_holidays_in_Russia" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Russia" title="Template:Public holidays in Russia"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Russia" title="Template talk:Public holidays in Russia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Russia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="20x20px&amp;#124;link=&amp;#124;alt=_Public_holidays_in_Russia" style="font-size:114%;margin:0 4em">
+            <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png" decoding="async" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/30px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/40px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600"> <a href="/wiki/Public_holidays_in_Russia" title="Public holidays in Russia">Public holidays in Russia</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> (1 Jan)</li> 
+             <li><a href="/wiki/Christmas_in_Russia" title="Christmas in Russia">Christmas</a> (7 Jan)</li> 
+             <li><a href="/wiki/Defender_of_the_Fatherland_Day" title="Defender of the Fatherland Day">Defender of the Fatherland Day</a> (23 Feb)</li> 
+             <li><a href="/wiki/International_Women%27s_Day" title="International Women's Day">International Women's Day</a> (8 Mar)</li> 
+             <li><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">International Workers' Day</a> (1 May)</li> 
+             <li><a href="/wiki/Victory_Day_(9_May)" title="Victory Day (9 May)">Victory Day</a> (9 May)</li> 
+             <li><a href="/wiki/Russia_Day" title="Russia Day">Russia Day</a> (12 Jun)</li> 
+             <li><a href="/wiki/Unity_Day_(Russia)" title="Unity Day (Russia)">Unity Day</a> (4 Nov)</li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Turkey&amp;#124;link=Turkey_Public_holidays_in_Turkey" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2" style="background-color: #ddf;">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_Turkey" title="Template:Public holidays in Turkey"><abbr title="View this template" style=";background-color: #ddf;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_Turkey" title="Template talk:Public holidays in Turkey"><abbr title="Discuss this template" style=";background-color: #ddf;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_Turkey&amp;action=edit"><abbr title="Edit this template" style=";background-color: #ddf;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23x15px&amp;#124;border_&amp;#124;alt=Turkey&amp;#124;link=Turkey_Public_holidays_in_Turkey" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><a href="/wiki/Turkey" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800"></a></span> <a href="/wiki/Public_holidays_in_Turkey" title="Public holidays in Turkey">Public holidays in Turkey</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Current</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> (1 January)</li> 
+             <li><a href="/wiki/National_Sovereignty_and_Children%27s_Day" title="National Sovereignty and Children's Day">National Sovereignty and Children's Day</a> (23 April)</li> 
+             <li><a href="/wiki/Labour_Day" title="Labour Day">Labour and Solidarity Day</a> (1 May)</li> 
+             <li><a href="/wiki/Commemoration_of_Atat%C3%BCrk,_Youth_and_Sports_Day" title="Commemoration of Atatürk, Youth and Sports Day">Commemoration of Atatürk, Youth and Sports Day</a> (19 May)</li> 
+             <li><a href="/wiki/Democracy_and_National_Unity_Day" title="Democracy and National Unity Day">Democracy and National Unity Day</a> (15 July)</li> 
+             <li><a href="/wiki/Victory_Day_(Turkey)" title="Victory Day (Turkey)">Victory Day</a> (30 August)</li> 
+             <li><a href="/wiki/Republic_Day_(Turkey)" title="Republic Day (Turkey)">Republic Day</a> (29 October)</li> 
+             <li><a href="/wiki/Ramazan_Bayram%C4%B1" class="mw-redirect" title="Ramazan Bayramı">Ramadan Feast</a> (variable)</li> 
+             <li><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Sacrifice Feast</a> (variable)</li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Former</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Freedom_and_Constitution_Day" title="Freedom and Constitution Day">Freedom and Constitution Day</a> (27 May)</li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Bangladesh&amp;#124;link=Bangladesh_Public_holidays_in_Bangladesh" style="padding:3px">
+       <table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Bangladesh_Holidays" title="Template:Bangladesh Holidays"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Bangladesh_Holidays" title="Template talk:Bangladesh Holidays"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Bangladesh_Holidays&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23x15px&amp;#124;border_&amp;#124;alt=Bangladesh&amp;#124;link=Bangladesh_Public_holidays_in_Bangladesh" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><a href="/wiki/Bangladesh" title="Bangladesh"><img alt="Bangladesh" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/35px-Flag_of_Bangladesh.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/46px-Flag_of_Bangladesh.svg.png 2x" data-file-width="1000" data-file-height="600"></a></span> <a href="/wiki/Public_holidays_in_Bangladesh" title="Public holidays in Bangladesh">Public holidays in Bangladesh</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">National</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Sheikh_Mujibur_Rahman" title="Sheikh Mujibur Rahman">Father of the Nation</a>'s birth anniversary</li> 
+             <li><a href="/wiki/Assassination_of_Sheikh_Mujibur_Rahman" title="Assassination of Sheikh Mujibur Rahman">Father of the Nation</a>'s death anniversary</li> 
+             <li><a href="/wiki/Independence_Day_(Bangladesh)" title="Independence Day (Bangladesh)">Independence Day</a></li> 
+             <li><a href="/wiki/Language_Movement_Day" title="Language Movement Day">Language Martyrs' Day</a></li> 
+             <li><a href="/wiki/Victory_day_of_Bangladesh" title="Victory day of Bangladesh">Victory Day</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">International</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/May_Day" title="May Day">May Day</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Religious</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Buddha_Purnima" class="mw-redirect" title="Buddha Purnima">Buddho Purnima</a></li> 
+             <li><a href="/wiki/Christmas" title="Christmas">Christmas</a></li> 
+             <li><a href="/wiki/Durga_Puja" title="Durga Puja">Durga Puja</a></li> 
+             <li><a href="/wiki/Mawlid" title="Mawlid">Eid-e-Miladun-Nabi</a> (Birth of the Prophet)</li> 
+             <li><a href="/wiki/Eid_ul-Fitr" class="mw-redirect" title="Eid ul-Fitr">Eid ul-Fitr</a> (Festival of Fastbreaking)</li> 
+             <li><a href="/wiki/Eid_ul-Adha" class="mw-redirect" title="Eid ul-Adha">Eid ul-Adha</a> (Festival of Sacrifice)</li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Cultural</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Pahela_Baishakh" title="Pahela Baishakh">Pahela Baishakh</a> (Bangla New Year's Day)</li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1288
+Cached time: 20210423052239
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.829 seconds
+Real time usage: 1.138 seconds
+Preprocessor visited node count: 3787/1000000
+Post‐expand include size: 74591/2097152 bytes
+Template argument size: 5078/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 60437/5000000 bytes
+Lua time usage: 0.373/10.000 seconds
+Lua memory usage: 6829931/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  999.535      1 -total
+ 27.97%  279.524      1 Template:Reflist
+ 21.98%  219.653     16 Template:Cite_web
+ 15.85%  158.468     21 Template:Flag
+ 11.10%  110.924      3 Template:Citation_needed
+  9.44%   94.392      3 Template:Fix
+  8.75%   87.423      3 Template:Navbox
+  8.67%   86.632     43 Template:Dts
+  7.61%   76.065      1 Template:Use_dmy_dates
+  6.20%   61.986      1 Template:About
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:2640046-0!canonical and timestamp 20210423052458 and revision id 1019411283. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Victory_Day&amp;oldid=1019411283">https://en.wikipedia.org/w/index.php?title=Victory_Day&amp;oldid=1019411283</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Victory_days" title="Category:Victory days">Victory days</a></li>
+       <li><a href="/wiki/Category:Types_of_national_holidays" title="Category:Types of national holidays">Types of national holidays</a></li>
+       <li><a href="/wiki/Category:Lists_of_observances" title="Category:Lists of observances">Lists of observances</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_Chinese-language_sources_(zh)" title="Category:CS1 Chinese-language sources (zh)">CS1 Chinese-language sources (zh)</a></li>
+       <li><a href="/wiki/Category:CS1_Croatian-language_sources_(hr)" title="Category:CS1 Croatian-language sources (hr)">CS1 Croatian-language sources (hr)</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_July_2019" title="Category:Use dmy dates from July 2019">Use dmy dates from July 2019</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2020" title="Category:Articles with unsourced statements from November 2020">Articles with unsourced statements from November 2020</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Victory+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Victory+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Victory_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Victory_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Victory_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Victory_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Victory_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Victory_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Victory_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Victory_Day&amp;oldid=1019411283" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Victory_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Victory_Day&amp;id=1019411283&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1030786" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Victory_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Victory_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Den_v%C3%ADt%C4%9Bzstv%C3%AD" title="Den vítězství – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%8A%B9%EB%A6%AC%EC%9D%98_%EB%82%A0" title="승리의 날 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hari_Kemenangan" title="Hari Kemenangan – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Giornata_della_vittoria" title="Giornata della vittoria – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%9D_%D7%94%D7%A0%D7%99%D7%A6%D7%97%D7%95%D7%9F" title="יום הניצחון – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Gy%C5%91zelem_napja" title="Győzelem napja – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Dzie%C5%84_Zwyci%C4%99stwa" title="Dzień Zwycięstwa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Victory_Day" title="Victory Day – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2" title="วันชัย – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ng%C3%A0y_chi%E1%BA%BFn_th%E1%BA%AFng" title="Ngày chiến thắng – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%8B%9D%E5%88%A9%E6%97%A5" title="勝利日 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1030786#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 23 April 2021, at 05:22<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Victory_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.829","walltime":"1.138","ppvisitednodes":{"value":3787,"limit":1000000},"postexpandincludesize":{"value":74591,"limit":2097152},"templateargumentsize":{"value":5078,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":60437,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  999.535      1 -total"," 27.97%  279.524      1 Template:Reflist"," 21.98%  219.653     16 Template:Cite_web"," 15.85%  158.468     21 Template:Flag"," 11.10%  110.924      3 Template:Citation_needed","  9.44%   94.392      3 Template:Fix","  8.75%   87.423      3 Template:Navbox","  8.67%   86.632     43 Template:Dts","  7.61%   76.065      1 Template:Use_dmy_dates","  6.20%   61.986      1 Template:About"]},"scribunto":{"limitreport-timeusage":{"value":"0.373","limit":"10.000"},"limitreport-memusage":{"value":6829931,"limit":52428800}},"cachereport":{"origin":"mw1288","timestamp":"20210423052239","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Victory Day","url":"https:\/\/en.wikipedia.org\/wiki\/Victory_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1030786","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1030786","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-08T10:42:36Z","dateModified":"2021-04-23T05:22:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f6\/Ve_Day_Celebrations_in_London%2C_England%2C_UK%2C_8_May_1945_D24587.jpg","headline":"Wikimedia disambiguation page"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":168,"wgHostname":"mw1352"});});</script> 
+ </body>
+</html>

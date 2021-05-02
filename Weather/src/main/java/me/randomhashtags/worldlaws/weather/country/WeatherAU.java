@@ -11,13 +11,8 @@ import java.util.HashMap;
 public enum WeatherAU implements WeatherController {
     INSTANCE;
 
-    private String alertEvents;
-    private HashMap<String, String> eventAlerts;
-    private HashMap<String, HashMap<String, String>> territoryEventAlerts;
-    private HashMap<String, String> territoryAlerts;
-
     @Override
-    public WLCountry getCountryBackendID() {
+    public WLCountry getCountry() {
         return WLCountry.AUSTRALIA;
     }
 
@@ -27,27 +22,27 @@ public enum WeatherAU implements WeatherController {
     }
 
     @Override
-    public String getAlertEvents() {
-        return alertEvents;
+    public String getEvents() {
+        return null;
     }
 
     @Override
-    public HashMap<String, String> getEventAlerts() {
-        return eventAlerts;
-    }
-    @Override
-    public HashMap<String, HashMap<String, String>> getTerritoryEventAlerts() {
-        return territoryEventAlerts;
-    }
-    @Override
-    public HashMap<String, String> getTerritoryAlerts() {
-        return territoryAlerts;
+    public HashMap<String, String> getEventPreAlerts() {
+        return null;
     }
 
     @Override
-    public void refreshAlerts(CompletionHandler handler) {
-        eventAlerts = new HashMap<>();
-        territoryAlerts = new HashMap<>();
+    public HashMap<String, String> getTerritoryEvents() {
+        return null;
+    }
+
+    @Override
+    public HashMap<String, HashMap<String, String>> getTerritoryPreAlerts() {
+        return null;
+    }
+
+    @Override
+    public void refresh(CompletionHandler handler) {
         final String url = "https://weather.news.com.au";
         final Document doc = getDocument(url);
         if(doc != null) {
@@ -55,5 +50,18 @@ public enum WeatherAU implements WeatherController {
             final String string = builder.append("]").toString();
             handler.handle(string);
         }
+    }
+
+    @Override
+    public void getZones(String[] zones, CompletionHandler handler) {
+    }
+
+    @Override
+    public void getZone(String zoneID, CompletionHandler handler) {
+    }
+
+    @Override
+    public void getAlert(String id, CompletionHandler handler) {
+
     }
 }

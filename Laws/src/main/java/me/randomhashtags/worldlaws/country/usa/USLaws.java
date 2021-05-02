@@ -47,7 +47,7 @@ public enum USLaws implements LawController {
         final USCongress congress = USCongress.getCongress(version);
         switch (values[1]) {
             case "enactedbills":
-                handler.handle(congress.getEnactedBills());
+                congress.getEnactedBills(handler);
                 break;
             case "bill":
                 congress.getBill(USChamber.valueOf(values[2].toUpperCase()), values[3], handler);
@@ -57,7 +57,7 @@ public enum USLaws implements LawController {
                 break;
             default:
                 final BillStatus status = BillStatus.valueOf(values[1].toUpperCase());
-                handler.handle(congress.getBillsByStatus(status));
+                congress.getBillsByStatus(status, handler);
                 break;
         }
     }

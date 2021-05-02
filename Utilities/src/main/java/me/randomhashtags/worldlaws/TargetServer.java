@@ -2,9 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import org.apache.logging.log4j.Level;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Optional;
+import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public enum TargetServer implements DataValues, RestAPI {
@@ -21,6 +19,7 @@ public enum TargetServer implements DataValues, RestAPI {
     STATUS(null, null),
     ;
 
+    private HashMap<String, String> homeResponses;
     private static final String WHATS_NEW_RESPONSE;
 
     static {
@@ -49,7 +48,7 @@ public enum TargetServer implements DataValues, RestAPI {
         return port;
     }
 
-    public void sendResponse(RequestMethod method, String request, CompletionHandler handler) {
+    public void sendResponse(RequestMethod method, String request, HashSet<String> query, CompletionHandler handler) {
         final HashMap<String, String> headers = new HashMap<>();
         headers.put("Content-Type", "application/json");
         headers.put("Charset", DataValues.ENCODING.name());
@@ -61,32 +60,8 @@ public enum TargetServer implements DataValues, RestAPI {
                 handler.handle("0");
                 break;
             case HOME:
-                final HashMap<TargetServer, String> urls = new HashMap<>() {{
-                    put(COUNTRIES, "home");
-                    put(UPCOMING_EVENTS, "home");
-                    put(WEATHER, "home");
-                }};
-                final int max = urls.size();
-                final StringBuilder builder = new StringBuilder("{");
-                final AtomicInteger completed = new AtomicInteger(0), addedValues = new AtomicInteger(0);
-                urls.keySet().parallelStream().forEach(server -> {
-                    final String url = urls.get(server), serverBackendID = server.getBackendID();
-                    final String targetURL = server.ipAddress + "/" + serverBackendID + "/" + url;
-                    request(targetURL, method, headers, null, new CompletionHandler() {
-                        @Override
-                        public void handle(Object object) {
-                            final int value = completed.addAndGet(1);
-                            if(object != null) {
-                                final boolean isFirst = addedValues.addAndGet(1) == 1;
-                                builder.append(isFirst ? "" : ",").append("\"").append(server.name().toLowerCase()).append("\":").append(object);
-                            }
-                            if(value == max) {
-                                builder.append("}");
-                                handler.handle(builder.toString());
-                            }
-                        }
-                    });
-                });
+                final String targetHomeResponse = "[" + (query.contains("withCountries") ? "withCountries" : "") + "]";
+                getHomeResponse(method, headers, targetHomeResponse, handler);
                 break;
             default:
                 final String url = ipAddress + "/" + request;
@@ -96,6 +71,88 @@ public enum TargetServer implements DataValues, RestAPI {
                     WLLogger.log(Level.WARN, "TargetServer - failed to sendResponse to \"" + url + "\"!");
                 }
                 break;
+        }
+    }
+
+    private void getHomeResponse(RequestMethod method, HashMap<String, String> headers, String targetHomeResponse, CompletionHandler handler) {
+        if(homeResponses != null) {
+            handler.handle(homeResponses.getOrDefault(targetHomeResponse, "{}"));
+        } else {
+            homeResponses = new HashMap<>();
+            updateHomeResponse(false, method, headers, new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    handler.handle(homeResponses.get(targetHomeResponse));
+                }
+            });
+        }
+    }
+    private void updateHomeResponse(boolean isUpdate, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
+        final long started = System.currentTimeMillis();
+        if(!isUpdate) {
+            final long interval = WLUtilities.PROXY_UPDATE_INTERVAL;
+            new Timer().scheduleAtFixedRate(new TimerTask() {
+                @Override
+                public void run() {
+                    final long started = System.currentTimeMillis();
+                    updateHomeResponse(true, method, headers, new CompletionHandler() {
+                        @Override
+                        public void handle(Object object) {
+                            WLLogger.log(Level.INFO, "Proxy - TargetServer - updated Home Responses (took " + (System.currentTimeMillis()-started) + "ms)");
+                        }
+                    });
+                }
+            }, interval, interval);
+        }
+
+        final HashMap<TargetServer, String> urls = new HashMap<>() {{
+            put(COUNTRIES, "home");
+            put(UPCOMING_EVENTS, "home");
+            put(WEATHER, "home");
+        }};
+        final int max = urls.size();
+        final HashMap<String, Object> values = new HashMap<>();
+        final AtomicInteger completed = new AtomicInteger(0);
+        urls.keySet().parallelStream().forEach(server -> {
+            final String url = urls.get(server), serverBackendID = server.getBackendID();
+            final String targetURL = server.ipAddress + "/" + serverBackendID + "/" + url;
+            final String serverName = server.name().toLowerCase();
+            request(targetURL, method, headers, null, new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    final int value = completed.addAndGet(1);
+                    if(object != null) {
+                        values.put(serverName, object);
+                    }
+                    if(value == max) {
+                        loadHomeResponses(values);
+                        WLLogger.log(Level.INFO, "TargetServer - updated home responses (took " + (System.currentTimeMillis()-started) + "ms)");
+                        if(handler != null) {
+                            handler.handle(null);
+                        }
+                    }
+                }
+            });
+        });
+    }
+
+    private void loadHomeResponses(HashMap<String, Object> hashmap) {
+        final HashMap<String, StringBuilder> builders = new HashMap<>();
+        final String[] keys = { "[]", "[withCountries]" };
+        final Set<Map.Entry<String, Object>> set = hashmap.entrySet();
+        for(String queryKey : keys) {
+            builders.put(queryKey, new StringBuilder("{"));
+            for(Map.Entry<String, Object> map : set) {
+                final String serverName = map.getKey();
+                final Object keyValue = map.getValue();
+                final boolean isFirst = builders.get(queryKey).toString().equals("{");
+                if(!queryKey.equals("[]") || !serverName.equals("countries")) {
+                    builders.get(queryKey).append(isFirst ? "" : ",").append("\"").append(serverName).append("\":").append(keyValue);
+                }
+            }
+            builders.get(queryKey).append("}");
+            final String string = builders.get(queryKey).toString();
+            homeResponses.put(queryKey, string);
         }
     }
 

@@ -1,8 +1,7 @@
 package me.randomhashtags.worldlaws.location;
 
-import me.randomhashtags.worldlaws.FileType;
-import me.randomhashtags.worldlaws.Jsoupable;
-import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.*;
+import org.json.JSONObject;
 import org.jsoup.select.Elements;
 
 import java.time.*;
@@ -12,24 +11,52 @@ import java.util.TimeZone;
 import static java.time.temporal.TemporalAdjusters.firstInMonth;
 import static java.time.temporal.TemporalAdjusters.lastInMonth;
 
-public enum DaylightSavingsTime {
+public enum DaylightSavingsTime implements Jsonable { // TODO: update to jsonable
     INSTANCE;
 
-    private final Elements ELEMENTS;
+    private JSONObject json;
+
+    private Elements ELEMENTS;
     private final HashMap<String, String> observations;
 
     private LocalDateTime startDate, endDate;
 
     DaylightSavingsTime() {
-        ELEMENTS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/Daylight_saving_time_by_country", true, "table.wikitable tbody tr");
-        ELEMENTS.remove(0);
-        ELEMENTS.removeIf(row -> row.select("td").get(3).text().equals("–"));
         observations = new HashMap<>();
         resetVariables();
     }
     private void resetVariables() {
         startDate = null;
         endDate = null;
+    }
+
+    private Elements getElements() {
+        if(ELEMENTS == null) {
+            ELEMENTS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/Daylight_saving_time_by_country", true, "table.wikitable tbody tr");
+            ELEMENTS.remove(0);
+            ELEMENTS.removeIf(row -> row.select("td").get(3).text().equals("–"));
+        }
+        return ELEMENTS;
+    }
+
+    private void getJSONObject(CompletionHandler handler) {
+        getJSONObject(FileType.COUNTRIES, "Daylight Savings Time", new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+
+            }
+
+            @Override
+            public void handleJSONObject(JSONObject json) {
+                DaylightSavingsTime.INSTANCE.json = json;
+                handler.handleJSONObject(json);
+            }
+        });
+    }
+
+    private void loadDaylightSavingsTimes() {
+        final String url = "https://en.wikipedia.org/wiki/Daylight_saving_time_by_country";
+
     }
 
     public CountryDaylightSavingsTime getFrom(String country, UTCOffset offset) {
@@ -54,7 +81,7 @@ public enum DaylightSavingsTime {
         if(observations.containsKey(country)) {
             return true;
         } else {
-            final Elements table = new Elements(ELEMENTS);
+            final Elements table = new Elements(getElements());
             table.removeIf(row -> !row.select("td").get(0).text().toLowerCase().equalsIgnoreCase(country));
             final boolean isObserved = !table.isEmpty();
             if(isObserved) {

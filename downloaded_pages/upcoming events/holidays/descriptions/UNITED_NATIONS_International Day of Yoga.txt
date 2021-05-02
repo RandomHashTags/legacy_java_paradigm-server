@@ -1,0 +1,1131 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>International Day of Yoga - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"932c7993-d742-4b22-b2a0-ec93b4f29acc","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"International_Day_of_Yoga","wgTitle":"International Day of Yoga","wgCurRevisionId":1011549369,"wgRevisionId":1011549369,"wgArticleId":44270128,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","EngvarB from July 2015","Use dmy dates from June 2020","Infobox holiday fixed day (2)","Commons category link is on Wikidata","United Nations days","Recurring events established in 2014","June observances","Health awareness days",
+"International observances","United Nations observances","Yoga events"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"International_Day_of_Yoga","wgRelevantArticleId":44270128,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q18621241"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface"
+,"ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/International_Day_of_Yoga_%2827553005513%29.jpg/1200px-International_Day_of_Yoga_%2827553005513%29.jpg"> 
+  <meta property="og:title" content="International Day of Yoga - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/International_Day_of_Yoga"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=International_Day_of_Yoga&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=International_Day_of_Yoga&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/International_Day_of_Yoga"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-International_Day_of_Yoga rootpage-International_Day_of_Yoga skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">International Day of Yoga</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p class="mw-empty-elt"> </p> 
+      <table class="infobox vevent">
+       <tbody>
+        <tr>
+         <th colspan="2" class="infobox-above hd" style="background-color: #ddccff">International Day of Yoga</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image"><a href="/wiki/File:International_Day_of_Yoga_(27553005513).jpg" class="image"><img alt="International Day of Yoga (27553005513).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/International_Day_of_Yoga_%2827553005513%29.jpg/240px-International_Day_of_Yoga_%2827553005513%29.jpg" decoding="async" width="240" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/International_Day_of_Yoga_%2827553005513%29.jpg/360px-International_Day_of_Yoga_%2827553005513%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/International_Day_of_Yoga_%2827553005513%29.jpg/480px-International_Day_of_Yoga_%2827553005513%29.jpg 2x" data-file-width="2200" data-file-height="1464"></a>
+          <div class="infobox-caption" style="caption">
+           India's prime minister <a href="/wiki/Narendra_Modi" title="Narendra Modi">Narendra Modi</a> greeting International Day of Yoga participants at <a href="/wiki/Chandigarh" title="Chandigarh">Chandigarh</a>, 2016
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Also called</th>
+         <td class="infobox-data">Yoga Day</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Observed&nbsp;by</th>
+         <td class="infobox-data">Worldwide</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Type</th>
+         <td class="infobox-data">International</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Significance</th>
+         <td class="infobox-data summary">Official United Nations promotion of global health, harmony and peace</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Celebrations</th>
+         <td class="infobox-data">Yoga</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Date</th>
+         <td class="infobox-data"><a href="/wiki/21_June" class="mw-redirect" title="21 June">21 June</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Next&nbsp;time</th>
+         <td class="infobox-data">21 June 2021<span style="display:none">&nbsp;(<span class="dtstart">2021-06-21</span>)</span></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Frequency</th>
+         <td class="infobox-data">Annual</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">First&nbsp;time</th>
+         <td class="infobox-data">21 June 2015</td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <div id="mwe_player_0" class="PopUpMediaTransform" style="width:220px;" videopayload="<div class=&quot;mediaContainer&quot; style=&quot;width:640px&quot;><video id=&quot;mwe_player_1&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm/640px--Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:640px;height:360px&quot; class=&quot;kskin&quot; data-durationhint=&quot;599.015&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_(Abridged_version).webm&quot; data-mwprovider=&quot;wikimediacommons&quot;><source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm.360p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM (360P)&quot; data-shorttitle=&quot;WebM 360P&quot; data-transcodekey=&quot;360p.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;572880&quot; data-framerate=&quot;25&quot;/><source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm.360p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;VP9 (360P)&quot; data-shorttitle=&quot;VP9 360P&quot; data-transcodekey=&quot;360p.vp9.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;691496&quot; data-framerate=&quot;25&quot;/><source src=&quot;//upload.wikimedia.org/wikipedia/commons/c/cf/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Original WebM file, 640 × 360 (842 kbps)&quot; data-shorttitle=&quot;WebM source&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;842136&quot; data-framerate=&quot;25&quot;/><source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm.120p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Lowest bandwidth VP9 (120P)&quot; data-shorttitle=&quot;VP9 120P&quot; data-transcodekey=&quot;120p.vp9.webm&quot; data-width=&quot;214&quot; data-height=&quot;120&quot; data-bandwidth=&quot;226960&quot; data-framerate=&quot;25&quot;/><source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Low bandwidth WebM (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;284&quot; data-height=&quot;160&quot; data-bandwidth=&quot;222472&quot; data-framerate=&quot;25&quot;/><source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm.180p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Low bandwidth VP9 (180P)&quot; data-shorttitle=&quot;VP9 180P&quot; data-transcodekey=&quot;180p.vp9.webm&quot; data-width=&quot;320&quot; data-height=&quot;180&quot; data-bandwidth=&quot;310056&quot; data-framerate=&quot;25&quot;/><source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Small WebM (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;322648&quot; data-framerate=&quot;25&quot;/><source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/c/cf/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm.240p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Small VP9 (240P)&quot; data-shorttitle=&quot;VP9 240P&quot; data-transcodekey=&quot;240p.vp9.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;419144&quot; data-framerate=&quot;25&quot;/></video></div>">
+         <img alt="File:Yoga for the world Celebrating the International Day of Yoga (Abridged version).webm" style="width:220px;height:124px" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm/220px--Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm.jpg"><a href="//upload.wikimedia.org/wikipedia/commons/c/cf/Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_%28Abridged_version%29.webm" title="Play media" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a>
+        </div> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Yoga_for_the_world_Celebrating_the_International_Day_of_Yoga_(Abridged_version).webm" class="internal" title="Enlarge"></a>
+         </div>International Yoga day at a glance
+        </div>
+       </div>
+      </div> 
+      <p>The <b>International Day of Yoga</b> has been <a href="/wiki/List_of_International_Days_of_Yoga" title="List of International Days of Yoga">celebrated annually on 21 June</a> since 2015, following its inception in the <a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">United Nations General Assembly</a> in 2014.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <a href="/wiki/Yoga" title="Yoga">Yoga</a> is a <a href="/wiki/Yoga_as_exercise" title="Yoga as exercise">physical</a>, <a href="/wiki/Mind" title="Mind">mental</a> and <a href="/wiki/Spiritual_practice" title="Spiritual practice">spiritual practice</a> which originated in <a href="/wiki/India" title="India">India</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The <a href="/wiki/Indian_Prime_Minister" class="mw-redirect" title="Indian Prime Minister">Indian Prime Minister</a>, <a href="/wiki/Narendra_Modi" title="Narendra Modi">Narendra Modi</a>, in his UN address suggested the date of 21 June, as it is the <a href="/wiki/Summer_solstice" title="Summer solstice">longest day of the year</a> in the <a href="/wiki/Northern_Hemisphere" title="Northern Hemisphere">Northern Hemisphere</a> and shares a special significance in many parts of the world.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Origin"><span class="tocnumber">1</span> <span class="toctext">Origin</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#UN_Declaration"><span class="tocnumber">2</span> <span class="toctext">UN Declaration</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#In_practice"><span class="tocnumber">3</span> <span class="toctext">In practice</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Reception"><span class="tocnumber">4</span> <span class="toctext">Reception</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Origin">Origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Day_of_Yoga&amp;action=edit&amp;section=1" title="Edit section: Origin">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The idea of an International Day of Yoga was first proposed by the current Prime Minister of India, <a href="/wiki/Narendra_Modi" title="Narendra Modi">Narendra Modi</a>, during his speech at the <a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">United Nations General Assembly</a> (UNGA), on 27 September 2014.<sup id="cite_ref-BBC_4-0" class="reference"><a href="#cite_note-BBC-4">[4]</a></sup> He stated:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p> 
+      <style data-mw-deduplicate="TemplateStyles:r996844942">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style>
+      <blockquote class="templatequote">
+       <p>Yoga is an invaluable gift of India's ancient tradition. It embodies unity of mind and body; thought and action; restraint and fulfillment; harmony between <a href="/wiki/Man_and_nature" class="mw-redirect" title="Man and nature">man and nature</a>; a holistic approach to health and well-being. It is not about exercise but to discover the sense of oneness with yourself, the world and the nature. By changing our lifestyle and creating consciousness, it can help in well being. Let us work towards adopting an International Yoga Day.</p>
+       <div class="templatequotecite">
+        — <cite>Narendra Modi, <a href="/wiki/UN_General_Assembly" class="mw-redirect" title="UN General Assembly">UN General Assembly</a></cite>
+       </div>
+      </blockquote> 
+      <p>Following this initial proposal, the UNGA held informal consultations on the draft resolution, entitled "International Day of Yoga", on 14 October 2014. The consultations were convened by the delegation of India.<sup id="cite_ref-economictimes_6-0" class="reference"><a href="#cite_note-economictimes-6">[6]</a></sup> In 2015 <a href="/wiki/Reserve_Bank_of_India" title="Reserve Bank of India">Reserve Bank of India</a> issued a 10 rupees commemorative coin to mark the International Day of Yoga.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> In April 2017, UN Postal Administration (UNPA) issued 10 stamps on Asanas on a single sheet to mark International Day of Yoga.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </p> 
+      <h2><span class="mw-headline" id="UN_Declaration">UN Declaration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Day_of_Yoga&amp;action=edit&amp;section=2" title="Edit section: UN Declaration">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>On 11 December 2014, India's Permanent Representative <a href="/wiki/Asoke_Kumar_Mukerji" title="Asoke Kumar Mukerji">Asoke Mukherji</a> introduced the draft resolution in the United Nations General Assembly. The draft text received broad support from 177 Member States who sponsored the text, which was adopted without a vote. This initiative found support from many global leaders. A total of 177 nations co-sponsored the resolution, which is the highest number of co-sponsors ever for any UNGA resolution of such nature.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </p>
+      <p>When proposing 21 June as the date, Modi said that the date was the longest day of the year in the mass northern hemisphere (shortest in the southern hemisphere), having special significance in many parts of the world. From the perspective of yoga, the summer solstice marks the transition to <a href="/wiki/Dakshinayana" title="Dakshinayana">Dakshinayana</a>. The second <sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> full moon after summer solstice is known as <a href="/wiki/Guru_Poornima" class="mw-redirect" title="Guru Poornima">Guru Poornima</a>. <a href="/wiki/Shiva" title="Shiva">Shiva</a>, the first yogi (Adi Yogi), is said to have begun imparting the knowledge of yoga to the rest of mankind on this day, and became the first guru (Adi Guru).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </p>
+      <p>Following the adoption of the UN resolution, several leaders of the spiritual movement in India voiced their support for the initiative. The founder of <a href="/wiki/Isha_Foundation" title="Isha Foundation">Isha Foundation</a>, <a href="/wiki/Sadhguru" class="mw-redirect" title="Sadhguru">Sadhguru</a>, stated, "this could be a kind of a foundation stone to make scientific approach to the inner well-being of the human being, a worldwide thing... It's a tremendous step for the world."<sup id="cite_ref-Youtube_12-0" class="reference"><a href="#cite_note-Youtube-12">[12]</a></sup> The founder of <a href="/wiki/Art_of_Living_Foundation" title="Art of Living Foundation">Art of Living</a>, <a href="/wiki/Ravi_Shankar_(spiritual_leader)" title="Ravi Shankar (spiritual leader)">Ravi Shankar</a>, lauded the efforts of Modi, saying, "It is very difficult for any philosophy, religion or culture to survive without state patronage. Yoga has existed so far almost like an orphan. Now, official recognition by the UN would further spread the benefit of yoga to the entire world."<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </p> 
+      <h2><span class="mw-headline" id="In_practice">In practice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Day_of_Yoga&amp;action=edit&amp;section=3" title="Edit section: In practice">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: <a href="/wiki/List_of_International_Days_of_Yoga" title="List of International Days of Yoga">List of International Days of Yoga</a>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Indian_Navy_personnel_perform_yoga_on_board_INS_Jalashwa_in_2015.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Indian_Navy_personnel_perform_yoga_on_board_INS_Jalashwa_in_2015.jpg/220px-Indian_Navy_personnel_perform_yoga_on_board_INS_Jalashwa_in_2015.jpg" decoding="async" width="220" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Indian_Navy_personnel_perform_yoga_on_board_INS_Jalashwa_in_2015.jpg/330px-Indian_Navy_personnel_perform_yoga_on_board_INS_Jalashwa_in_2015.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Indian_Navy_personnel_perform_yoga_on_board_INS_Jalashwa_in_2015.jpg/440px-Indian_Navy_personnel_perform_yoga_on_board_INS_Jalashwa_in_2015.jpg 2x" data-file-width="700" data-file-height="532"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Indian_Navy_personnel_perform_yoga_on_board_INS_Jalashwa_in_2015.jpg" class="internal" title="Enlarge"></a>
+         </div>International Yoga Day on board <a href="/wiki/INS_Jalashwa" class="mw-redirect" title="INS Jalashwa">INS <i>Jalashwa</i></a>
+        </div>
+       </div>
+      </div> 
+      <p>The first International Day of Yoga was observed around the world on 21 June 2015. The <a href="/wiki/Ministry_of_Ayurveda,_Yoga_and_Naturopathy,_Unani,_Siddha_and_Homoeopathy" class="mw-redirect" title="Ministry of Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homoeopathy">Ministry of AYUSH</a> made the necessary arrangements in India. 35,985 people, including PM Modi and dignitaries from 84 nations, performed 21 <a href="/wiki/Asana" title="Asana">asanas</a> (yoga postures) for 35 minutes at <a href="/wiki/Rajpath" title="Rajpath">Rajpath</a> in New Delhi, becoming the largest yoga class ever held, and with the largest number—84—of participating nations.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-world_record_1_15-0" class="reference"><a href="#cite_note-world_record_1-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> <a href="/wiki/List_of_International_Days_of_Yoga" title="List of International Days of Yoga">Similar days have been held</a> in cities in India and around the world each year since then.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-newsgraph.net_22-0" class="reference"><a href="#cite_note-newsgraph.net-22">[22]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Day_of_Yoga&amp;action=edit&amp;section=4" title="Edit section: Reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>An <a href="/wiki/Associated_Press" title="Associated Press">Associated Press</a> report in 2015 noted that the first "International Yoga Day"<sup id="cite_ref-AP_2015_23-0" class="reference"><a href="#cite_note-AP_2015-23">[23]</a></sup> involved "millions of yoga enthusiasts" who "stretched and twisted", as well as Modi and members of his cabinet. It stated that the main road in Delhi had become an exercise area for the occasion, and reported that while Modi was speaking of "peace and harmony",<sup id="cite_ref-AP_2015_23-1" class="reference"><a href="#cite_note-AP_2015-23">[23]</a></sup> some people in India thought the promotion of yoga was a partisan <a href="/wiki/Hindu" class="mw-redirect" title="Hindu">Hindu</a> operation. It reported that a sequence of <a href="/wiki/Surya_Namaskar" title="Surya Namaskar">Surya Namaskar</a> (sun salutations) was dropped because Muslims objected to the implication that the sun was the Hindu god of the sun, <a href="/wiki/Surya" title="Surya">Surya</a>; the chanting of the Hindu sacred syllable "<a href="/wiki/Om" title="Om">Om</a>" was also dropped. Others considered that the money spent on the event might have been better spent on cleaning Delhi's streets.<sup id="cite_ref-AP_2015_23-2" class="reference"><a href="#cite_note-AP_2015-23">[23]</a></sup> </p>
+      <p>The <i><a href="/wiki/Christian_Science_Monitor" class="mw-redirect" title="Christian Science Monitor">Christian Science Monitor</a></i> wrote in 2016 that the 2014 United Nations resolution had been "wildly popular"<sup id="cite_ref-CSM_2016_24-0" class="reference"><a href="#cite_note-CSM_2016-24">[24]</a></sup> but noted that yoga had a "<a href="/wiki/Meditation" title="Meditation">meditative</a> component"<sup id="cite_ref-CSM_2016_24-1" class="reference"><a href="#cite_note-CSM_2016-24">[24]</a></sup> and had become known as not only <a href="/wiki/Yoga_as_exercise" title="Yoga as exercise">a form of physical exercise</a> but also a mental and spiritual practice. It gave as evidence the 2015 sermon by <a href="/wiki/Pope_Francis" title="Pope Francis">Pope Francis</a> cautioning <a href="/wiki/Roman_Catholics" class="mw-redirect" title="Roman Catholics">Roman Catholics</a> about the idea that yoga could be a path to God; it noted, too, that Modi had replied to the charge that the Day was intended to promote Hinduism with the words "Yoga is not about the other life. Therefore, it is not a religious practice".<sup id="cite_ref-CSM_2016_24-2" class="reference"><a href="#cite_note-CSM_2016-24">[24]</a></sup> </p>
+      <p><i><a href="/wiki/The_Week" title="The Week">The Week</a></i> stated in 2015 that the government of India's purpose in holding International Days of Yoga was to have yoga recognised around the world as "India's cultural property",<sup id="cite_ref-TW_2015_25-0" class="reference"><a href="#cite_note-TW_2015-25">[25]</a></sup> citing India's minister of yoga, Shripad Yesso Naik as stating "We're trying to establish to the world that it's ours."<sup id="cite_ref-TW_2015_25-1" class="reference"><a href="#cite_note-TW_2015-25">[25]</a></sup> <i>The Week</i> wrote that this was not likely to succeed, not least because many types of yoga were already being practised in the Western world.<sup id="cite_ref-TW_2015_25-2" class="reference"><a href="#cite_note-TW_2015-25">[25]</a></sup> The article noted that <a href="/wiki/Evangelical_Christian" class="mw-redirect" title="Evangelical Christian">Christian evangelicals</a> agreed with the Indian government that yoga was "primarily a Hindu spiritual practice",<sup id="cite_ref-TW_2015_25-3" class="reference"><a href="#cite_note-TW_2015-25">[25]</a></sup> but quoted the scholar of religion Ann Gleig as saying that most Western yoga was markedly changed by being in the West, and was devoid of religious content; the "ironically"<sup id="cite_ref-TW_2015_25-4" class="reference"><a href="#cite_note-TW_2015-25">[25]</a></sup> agreeing views of strongly religious Hindus and Christians were "historically flawed".<sup id="cite_ref-TW_2015_25-5" class="reference"><a href="#cite_note-TW_2015-25">[25]</a></sup> </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Day_of_Yoga&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Yoga" title="Yoga">Yoga</a></li> 
+       <li><a href="/wiki/List_of_International_Days_of_Yoga" title="List of International Days of Yoga">List of International Days of Yoga</a></li> 
+       <li><a href="/wiki/World_Tai_Chi_and_Qigong_Day" title="World Tai Chi and Qigong Day">World Tai Chi and Qigong Day</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Day_of_Yoga&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unic.org.in/display.php?E=13712&amp;K=Yoga">UN Declared 21 June as International Day of Yoga</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160709170015/http://www.unic.org.in/display.php?E=13712&amp;K=Yoga">Archived</a> 9 July 2016 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.mea.gov.in/in-focus-article.htm?25096/Yoga+Its+Origin+History+and+Development">"Yoga: Its Origin, History and Development"</a>. <i>www.mea.gov.in</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.mea.gov.in&amp;rft.atitle=Yoga%3A+Its+Origin%2C+History+and+Development&amp;rft_id=http%3A%2F%2Fwww.mea.gov.in%2Fin-focus-article.htm%3F25096%2FYoga%2BIts%2BOrigin%2BHistory%2Band%2BDevelopment&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://timesofindia.indiatimes.com/india/un-declares-june-21-as-international-day-of-yoga/articleshow/45480636.cms">"UN declares June 21 as 'International Day of Yoga<span class="cs1-kern-right">'</span>"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UN+declares+June+21+as+%27International+Day+of+Yoga%27&amp;rft_id=http%3A%2F%2Ftimesofindia.indiatimes.com%2Findia%2Fun-declares-june-21-as-international-day-of-yoga%2Farticleshow%2F45480636.cms&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-BBC-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-BBC_4-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/world-asia-india-29373722">"India's Modi calls for reform in speech to UN"</a>. <a href="/wiki/BBC" title="BBC">BBC</a>. 27 September 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">13 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=India%27s+Modi+calls+for+reform+in+speech+to+UN&amp;rft.pub=BBC&amp;rft.date=2014-09-27&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-asia-india-29373722&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unic.org.in/display.php?E=13712&amp;K=Yoga">Modi calls for Yoga Day in UN General Assembly</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160709170015/http://www.unic.org.in/display.php?E=13712&amp;K=Yoga">Archived</a> 9 July 2016 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
+         <li id="cite_note-economictimes-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-economictimes_6-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://articles.economictimes.indiatimes.com/2014-10-10/news/54867994_1_international-day-consultations-prime-minister-narendra-modi">"UN General Assembly to hold informal consultations on International Day of Yoga"</a>. <a href="/wiki/The_Economic_Times" title="The Economic Times">The Economic Times</a>. 10 October 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">13 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UN+General+Assembly+to+hold+informal+consultations+on+International+Day+of+Yoga&amp;rft.pub=The+Economic+Times&amp;rft.date=2014-10-10&amp;rft_id=http%3A%2F%2Farticles.economictimes.indiatimes.com%2F2014-10-10%2Fnews%2F54867994_1_international-day-consultations-prime-minister-narendra-modi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">10 rupees coin of 2015 – International Day of Yoga, <a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=L4oay3-JcU8&amp;t=2s">https://www.youtube.com/watch?v=L4oay3-JcU8&amp;t=2s</a></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.business-standard.com/article/news-ians/un-to-issue-10-stamps-of-asanas-on-international-yoga-day-117041900182_1.html">https://www.business-standard.com/article/news-ians/un-to-issue-10-stamps-of-asanas-on-international-yoga-day-117041900182_1.html</a></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.hcilondon.in/International_Day_of_Yoga.html">"United Nations General Assembly adopts Resolution on International Day of Yoga with a record number of 177 country co-sponsors"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=United+Nations+General+Assembly+adopts+Resolution+on+International+Day+of+Yoga+with+a+record+number+of+177+country+co-sponsors&amp;rft_id=https%3A%2F%2Fwww.hcilondon.in%2FInternational_Day_of_Yoga.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.indianastrology.com/festival/2018/guru-purnima-17">"Guru Purnima 2018"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Guru+Purnima+2018&amp;rft_id=http%3A%2F%2Fwww.indianastrology.com%2Ffestival%2F2018%2Fguru-purnima-17&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFSadhguru2012" class="citation news cs1"><a href="/wiki/Sadhguru" class="mw-redirect" title="Sadhguru">Sadhguru, J</a> (3 July 2012). <a rel="nofollow" class="external text" href="http://timesofindia.indiatimes.com/edit-page/The-first-Guru-is-born/articleshow/14613783.cms">"The first Guru is born"</a>. <a href="/wiki/Times_of_India" class="mw-redirect" title="Times of India">Times of India</a>. Times News Service<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+first+Guru+is+born&amp;rft.date=2012-07-03&amp;rft.aulast=Sadhguru&amp;rft.aufirst=J&amp;rft_id=http%3A%2F%2Ftimesofindia.indiatimes.com%2Fedit-page%2FThe-first-Guru-is-born%2Farticleshow%2F14613783.cms&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Youtube-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Youtube_12-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation audio-visual cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=GH5dXYEfG1s&amp;t=4m16s"><i>International Day of Yoga: A Historic Event</i></a>. YouTube. 21 May 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=International+Day+of+Yoga%3A+A+Historic+Event&amp;rft.pub=YouTube&amp;rft.date=2015-05-21&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGH5dXYEfG1s%26t%3D4m16s&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://srisriravishankar.org/entry/un-declaration-june-21-world-yoga-day/">"Sri Sri Ravi Shankar Speaks on International Yoga Day"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sri+Sri+Ravi+Shankar+Speaks+on+International+Yoga+Day&amp;rft_id=http%3A%2F%2Fsrisriravishankar.org%2Fentry%2Fun-declaration-june-21-world-yoga-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://newsroom24x7.com/2015/06/21/massive-turnout-on-international-day-of-yoga-in-india/">"Massive turnout for Yoga day"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Massive+turnout+for+Yoga+day&amp;rft_id=http%3A%2F%2Fnewsroom24x7.com%2F2015%2F06%2F21%2Fmassive-turnout-on-international-day-of-yoga-in-india%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-world_record_1-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-world_record_1_15-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.guinnessworldrecords.com/world-records/largest-yoga-class">"Largest yoga class"</a>. Guinness world record. 21 June 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">22 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Largest+yoga+class&amp;rft.pub=Guinness+world+record&amp;rft.date=2015-06-21&amp;rft_id=http%3A%2F%2Fwww.guinnessworldrecords.com%2Fworld-records%2Flargest-yoga-class&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.ndtv.com/cheat-sheet/sushma-swaraj-addresses-the-united-nations-in-new-york-on-international-yogaday-highlights-773899">"PM Modi Leads Yoga Session, India Sets Guinness Records: 10 Developments"</a>. NDTV<span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=PM+Modi+Leads+Yoga+Session%2C+India+Sets+Guinness+Records%3A+10+Developments&amp;rft_id=http%3A%2F%2Fwww.ndtv.com%2Fcheat-sheet%2Fsushma-swaraj-addresses-the-united-nations-in-new-york-on-international-yogaday-highlights-773899&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.ndtv.com/india-news/pm-modi-to-attend-international-yoga-day-at-chandigarh-1408754">"PM Modi To Attend International Yoga Day At Chandigarh"</a>. <a href="/wiki/NDTV" title="NDTV">NDTV</a>. 22 May 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">13 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PM+Modi+To+Attend+International+Yoga+Day+At+Chandigarh&amp;rft.pub=NDTV&amp;rft.date=2016-05-22&amp;rft_id=http%3A%2F%2Fwww.ndtv.com%2Findia-news%2Fpm-modi-to-attend-international-yoga-day-at-chandigarh-1408754&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFShylaja_Varma2017" class="citation web cs1">Shylaja Varma (21 June 2017). <a rel="nofollow" class="external text" href="https://www.ndtv.com/india-news/international-yoga-day-2017-pm-narendra-modi-yogi-adityanath-to-lead-international-yoga-day-event-in-1714867">"International Yoga Day 2017: Rainy Start To Yoga Day, PM Narendra Modi Leads Asanas In Lucknow – Highlights"</a>. <i>Ndtv.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ndtv.com&amp;rft.atitle=International+Yoga+Day+2017%3A+Rainy+Start+To+Yoga+Day%2C+PM+Narendra+Modi+Leads+Asanas+In+Lucknow+%E2%80%93+Highlights&amp;rft.date=2017-06-21&amp;rft.au=Shylaja+Varma&amp;rft_id=https%3A%2F%2Fwww.ndtv.com%2Findia-news%2Finternational-yoga-day-2017-pm-narendra-modi-yogi-adityanath-to-lead-international-yoga-day-event-in-1714867&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.zenyogastrap.com/international-yoga-day-2017-look-at-celebrations-around-world">"International Yoga Day 2017: A Look at the Celebrations Around the World"</a>. <i>Zenyogastrap.com</i>. 7 June 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Zenyogastrap.com&amp;rft.atitle=International+Yoga+Day+2017%3A+A+Look+at+the+Celebrations+Around+the+World&amp;rft.date=2016-06-07&amp;rft_id=https%3A%2F%2Fwww.zenyogastrap.com%2Finternational-yoga-day-2017-look-at-celebrations-around-world&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.firstpost.com/world/international-yoga-day-record-10000-people-participate-in-event-in-chinas-largest-ever-congregation-3743997.html">"International Yoga Day: Record 10,000 people participate in event in China's largest ever congregation"</a>. <i>Firstpost.com</i>. 25 June 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">12 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Firstpost.com&amp;rft.atitle=International+Yoga+Day%3A+Record+10%2C000+people+participate+in+event+in+China%27s+largest+ever+congregation&amp;rft.date=2017-06-25&amp;rft_id=https%3A%2F%2Fwww.firstpost.com%2Fworld%2Finternational-yoga-day-record-10000-people-participate-in-event-in-chinas-largest-ever-congregation-3743997.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.thehindu.com/news/national/live-updates-international-yoga-day-observed-across-the-world/article24215787.ece">"International Yoga Day | Rajasthan records biggest yoga gathering"</a>. <i>The Hindu</i>. 21 June 2018. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&nbsp;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0971-751X">0971-751X</a><span class="reference-accessdate">. Retrieved <span class="nowrap">15 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Hindu&amp;rft.atitle=International+Yoga+Day+%7C+Rajasthan+records+biggest+yoga+gathering&amp;rft.date=2018-06-21&amp;rft.issn=0971-751X&amp;rft_id=https%3A%2F%2Fwww.thehindu.com%2Fnews%2Fnational%2Flive-updates-international-yoga-day-observed-across-the-world%2Farticle24215787.ece&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-newsgraph.net-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-newsgraph.net_22-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.newsgraph.net/detail/1099-5th-International-Day-Of-Yoga-Day-in-Chandigarh.html">"International Yoga Day 2019: 5th International Yoga Day Celebrations in Chandigarh"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=International+Yoga+Day+2019%3A+5th+International+Yoga+Day+Celebrations+in+Chandigarh&amp;rft_id=https%3A%2F%2Fwww.newsgraph.net%2Fdetail%2F1099-5th-International-Day-Of-Yoga-Day-in-Chandigarh.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-AP_2015-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-AP_2015_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AP_2015_23-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AP_2015_23-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFAssociated_Press2015" class="citation news cs1"><a href="/wiki/Associated_Press" title="Associated Press">Associated Press</a> (21 June 2015). <a rel="nofollow" class="external text" href="https://www.theguardian.com/lifeandstyle/2015/jun/21/yoga-fans-world-first-international-yoga-day">"Yoga fans around world take to their mats for first International Yoga Day"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Yoga+fans+around+world+take+to+their+mats+for+first+International+Yoga+Day&amp;rft.date=2015-06-21&amp;rft.au=Associated+Press&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2015%2Fjun%2F21%2Fyoga-fans-world-first-international-yoga-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-CSM_2016-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-CSM_2016_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CSM_2016_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CSM_2016_24-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFMcCarthy2016" class="citation news cs1">McCarthy, Simone (21 June 2016). <a rel="nofollow" class="external text" href="https://www.csmonitor.com/World/Global-News/2016/0621/Why-is-the-United-Nations-promoting-yoga">"Why is the United Nations promoting yoga?"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Why+is+the+United+Nations+promoting+yoga%3F&amp;rft.date=2016-06-21&amp;rft.aulast=McCarthy&amp;rft.aufirst=Simone&amp;rft_id=https%3A%2F%2Fwww.csmonitor.com%2FWorld%2FGlobal-News%2F2016%2F0621%2FWhy-is-the-United-Nations-promoting-yoga&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+         <li id="cite_note-TW_2015-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-TW_2015_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TW_2015_25-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-TW_2015_25-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-TW_2015_25-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-TW_2015_25-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-TW_2015_25-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFThe_Week_Staff2015" class="citation web cs1"><i>The Week</i> Staff (7 February 2015). <a rel="nofollow" class="external text" href="https://theweek.com/articles/537675/does-yoga-belong-india">"Does yoga belong to India?"</a>. <i><a href="/wiki/The_Week" title="The Week">The Week</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Week&amp;rft.atitle=Does+yoga+belong+to+India%3F&amp;rft.date=2015-02-07&amp;rft.au=%27%27The+Week%27%27+Staff&amp;rft_id=https%3A%2F%2Ftheweek.com%2Farticles%2F537675%2Fdoes-yoga-belong-india&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Yoga" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Day_of_Yoga&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:International_Yoga_Day" class="extiw" title="commons:Category:International Yoga Day"><span style="">International Yoga Day</span></a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://yoga.ayush.gov.in/">Ministry of Ayush – International Day of Yoga</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.un.org/en/events/yogaday/">International Day of Yoga</a>, on <i>UN.org</i></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Yoga_as_exercise" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Yoga_as_exercise" title="Template:Yoga as exercise"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Yoga_as_exercise" title="Template talk:Yoga as exercise"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Yoga_as_exercise&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Yoga_as_exercise" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Yoga_as_exercise" title="Yoga as exercise">Yoga as exercise</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Topics</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Asana" title="Asana">Asanas</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_asanas" title="List of asanas">List of asanas</a></li> 
+                 <li><a href="/wiki/Standing_asanas" title="Standing asanas">Standing asanas</a></li> 
+                 <li><a href="/wiki/Downward_Dog_Pose" title="Downward Dog Pose">Downward dog</a></li> 
+                 <li><a href="/wiki/Lotus_position" title="Lotus position">Lotus position</a></li> 
+                 <li><a href="/wiki/Meditative_postures" title="Meditative postures">Meditation seats</a></li> 
+                 <li><a href="/wiki/Surya_Namaskar" title="Surya Namaskar">Salute to the Sun</a></li> 
+                 <li><a href="/wiki/Virabhadrasana" title="Virabhadrasana">Warrior</a></li> 
+                 <li>Accompaniments 
+                  <ul>
+                   <li><a href="/wiki/Drishti_(yoga)" title="Drishti (yoga)">Drishti</a></li> 
+                   <li><a href="/wiki/Pranayama" title="Pranayama">Pranayama</a></li> 
+                   <li><a href="/wiki/Viny%C4%81sa" title="Vinyāsa">Vinyāsa</a></li> 
+                   <li><a href="/wiki/Hasta_Vinyasas" title="Hasta Vinyasas">Hasta Vinyasas</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Yoga_teacher_training" title="Yoga teacher training">Teacher training</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li>Standards 
+                  <ul>
+                   <li><a href="/wiki/Yoga_Alliance" title="Yoga Alliance">Yoga Alliance</a></li> 
+                   <li><a href="/wiki/British_Wheel_of_Yoga" title="British Wheel of Yoga">British Wheel of Yoga</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Yoga_for_therapeutic_purposes" class="mw-redirect" title="Yoga for therapeutic purposes">Therapy</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Yoga_using_props" title="Yoga using props">Yoga using props</a></li> 
+                 <li>1982&nbsp;<a href="/wiki/Chair_Yoga" title="Chair Yoga">Chair Yoga</a></li> 
+                 <li>2002&nbsp;<a href="/wiki/Trauma-sensitive_yoga" title="Trauma-sensitive yoga">Trauma-sensitive yoga</a></li> 
+                 <li>2007&nbsp;<a href="/wiki/Restorative_Yoga" title="Restorative Yoga">Restorative Yoga</a></li> 
+                 <li>2008&nbsp;<a href="/wiki/Yoga_nidra" title="Yoga nidra">Yoga nidra</a></li> 
+                 <li><a href="/wiki/Richard_Miller_(psychologist)" title="Richard Miller (psychologist)">International Association of Yoga Therapists • Richard Miller</a></li> 
+                 <li><a href="/wiki/Janice_Gates" title="Janice Gates">Janice Gates</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Events</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Competitive_yoga" title="Competitive yoga">Competitive yoga</a></li> 
+                 <li><a class="mw-selflink selflink">International Day of Yoga</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Journals</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><i><a href="/wiki/Asana_Journal" title="Asana Journal">Asana Journal</a></i></li> 
+                 <li><i><a href="/wiki/Yoga_Journal" title="Yoga Journal">Yoga Journal</a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Yoga_using_props" title="Yoga using props">Props</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Yoga_brick" title="Yoga brick">Yoga brick</a></li> 
+                 <li><a href="/wiki/Yoga_mat" title="Yoga mat">Yoga mat</a></li> 
+                 <li><a href="/wiki/Yoga_pants" title="Yoga pants">Yoga pants</a> 
+                  <ul>
+                   <li><a href="/wiki/Lululemon_Athletica" title="Lululemon Athletica">Lululemon</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+          <td class="noviewer navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Ardha-Chandrasana_Yoga-Asana_Nina-Mel.jpg" class="image"><img alt="Ardha-Chandrasana Yoga-Asana Nina-Mel.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ardha-Chandrasana_Yoga-Asana_Nina-Mel.jpg/80px-Ardha-Chandrasana_Yoga-Asana_Nina-Mel.jpg" decoding="async" width="80" height="77" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ardha-Chandrasana_Yoga-Asana_Nina-Mel.jpg/120px-Ardha-Chandrasana_Yoga-Asana_Nina-Mel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ardha-Chandrasana_Yoga-Asana_Nina-Mel.jpg/160px-Ardha-Chandrasana_Yoga-Asana_Nina-Mel.jpg 2x" data-file-width="578" data-file-height="557"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">History</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Early</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Early_modern_yoga" title="Early modern yoga">Early modern yoga</a> 
+                  <ul>
+                   <li><a href="/wiki/Swami_Vivekananda" title="Swami Vivekananda">Vivekananda</a></li> 
+                   <li>1896&nbsp;<i><a href="/wiki/Raja_Yoga_(book)" title="Raja Yoga (book)">Raja Yoga</a></i></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Harmonic_Gymnastics" class="mw-redirect" title="Harmonic Gymnastics">Harmonial gymnastics/yoga</a> 
+                  <ul>
+                   <li><a href="/wiki/Marguerite_Agniel" title="Marguerite Agniel">Marguerite Agniel</a></li> 
+                   <li><a href="/wiki/Mary_Bagot_Stack" title="Mary Bagot Stack">Mary Bagot Stack</a></li> 
+                   <li><a href="/wiki/Genevieve_Stebbins" title="Genevieve Stebbins">Genevieve Stebbins</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Physical_culture" title="Physical culture">Physical culture/yoga</a> 
+                  <ul>
+                   <li><a href="/wiki/Bishnu_Charan_Ghosh" title="Bishnu Charan Ghosh">B. C. Ghosh</a></li> 
+                   <li><a href="/wiki/K._V._Iyer" title="K. V. Iyer">K. V. Iyer</a></li> 
+                   <li><a href="/wiki/Seetharaman_Sundaram" title="Seetharaman Sundaram">Seetharaman Sundaram</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Paramahansa_Yogananda" title="Paramahansa Yogananda">Paramahansa Yogananda</a> 
+                  <ul>
+                   <li><i><a href="/wiki/Autobiography_of_a_Yogi" title="Autobiography of a Yogi">Autobiography of a Yogi</a></i></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Aspects</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Hot_yoga" title="Hot yoga">Hot yoga</a></li> 
+                 <li><a href="/wiki/Science_of_yoga" title="Science of yoga">Science of yoga</a></li> 
+                 <li><a href="/wiki/Sexual_abuse_by_yoga_gurus" title="Sexual abuse by yoga gurus">Sexual abuse by yoga gurus</a> 
+                  <ul>
+                   <li><a href="/wiki/Matthew_Remski" title="Matthew Remski">Matthew Remski</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Yoga_for_children" title="Yoga for children">Yoga for children</a></li> 
+                 <li><a href="/wiki/Yoga_for_women" title="Yoga for women">Yoga for women</a> 
+                  <ul>
+                   <li><a href="/wiki/Geeta_Iyengar" title="Geeta Iyengar">Geeta Iyengar</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Yoga_tourism" title="Yoga tourism">Yoga tourism</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_yoga_hybrids" title="List of yoga hybrids">Hybrids</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li>1938&nbsp;<a href="/wiki/Naked_yoga" title="Naked yoga">Naked yoga</a></li> 
+                 <li>1990&nbsp;<a href="/wiki/Mindful_Yoga" title="Mindful Yoga">Mindful Yoga</a> 
+                  <ul>
+                   <li><a href="/wiki/Frank_Jude_Boccio" title="Frank Jude Boccio">Frank Jude Boccio</a></li> 
+                   <li><a href="/wiki/Anne_Cushman" title="Anne Cushman">Anne Cushman</a></li> 
+                   <li><a href="/wiki/Janice_Gates" title="Janice Gates">Janice Gates</a></li> 
+                   <li><a href="/wiki/Jon_Kabat-Zinn" title="Jon Kabat-Zinn">Jon Kabat-Zinn</a></li> 
+                   <li><a href="/wiki/Cyndi_Lee" title="Cyndi Lee">Cyndi Lee</a></li> 
+                   <li><a href="/wiki/Phillip_Moffitt" title="Phillip Moffitt">Phillip Moffitt</a></li>
+                  </ul></li> 
+                 <li>2003&nbsp;<a href="/wiki/AcroYoga" class="mw-redirect" title="AcroYoga">AcroYoga</a></li> 
+                 <li><a href="/wiki/Doga_(yoga)" title="Doga (yoga)">Doga</a></li> 
+                 <li>2013&nbsp;<a href="/wiki/Paddle_board_yoga" class="mw-redirect" title="Paddle board yoga">Paddle board yoga</a></li> 
+                 <li>2014&nbsp;<a href="/wiki/Aerial_yoga" title="Aerial yoga">Aerial yoga</a></li> 
+                 <li><a href="/wiki/Beer_yoga" title="Beer yoga">Beer yoga</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">By country</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Yoga_in_America" class="mw-redirect" title="Yoga in America">America</a> 
+                  <ul>
+                   <li>1961 <i><a href="/wiki/Richard_Hittleman" title="Richard Hittleman">Yoga for Health</a></i></li> 
+                   <li>1970 <i><a href="/wiki/Lilias,_Yoga_and_You" title="Lilias, Yoga and You">Lilias, Yoga and You</a></i></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Yoga_in_Britain" title="Yoga in Britain">Britain</a> 
+                  <ul>
+                   <li>1976 <a href="/wiki/Lyn_Marshall" title="Lyn Marshall">Lyn Marshall</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Yoga_in_Germany" title="Yoga in Germany">Germany</a></li> 
+                 <li><a href="/wiki/Postural_yoga_in_India" title="Postural yoga in India">India</a></li> 
+                 <li><a href="/wiki/Yoga_in_Italy" title="Yoga in Italy">Italy</a></li> 
+                 <li><a href="/wiki/Yoga_in_Russia" title="Yoga in Russia">Russia</a></li> 
+                 <li><a href="/wiki/Yoga_in_Sweden" title="Yoga in Sweden">Sweden</a> 
+                  <ul>
+                   <li>2015 <a href="/wiki/Rachel_Brathen" title="Rachel Brathen">Rachel Brathen</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Books</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li>1996&nbsp;<i><a href="/wiki/Norman_Sjoman" title="Norman Sjoman">Yoga Tradition of the Mysore Palace</a></i></li> 
+                 <li>2004&nbsp;<i><a href="/wiki/Joseph_Alter" title="Joseph Alter">Yoga in Modern India</a></i></li> 
+                 <li><i><a href="/wiki/A_History_of_Modern_Yoga" title="A History of Modern Yoga">A History of Modern Yoga</a></i></li> 
+                 <li>2005&nbsp;<i><a href="/wiki/Positioning_Yoga" title="Positioning Yoga">Positioning Yoga</a></i></li> 
+                 <li>2010&nbsp;<i><a href="/wiki/Yoga_Body" title="Yoga Body">Yoga Body</a></i></li> 
+                 <li><i><a href="/wiki/The_Subtle_Body" title="The Subtle Body">The Subtle Body</a></i></li> 
+                 <li>2015&nbsp;<i><a href="/wiki/Selling_Yoga" title="Selling Yoga">Selling Yoga</a></i></li> 
+                 <li>2016&nbsp;<i><a href="/wiki/The_Path_of_Modern_Yoga" title="The Path of Modern Yoga">The Path of Modern Yoga</a></i></li> 
+                 <li>2017&nbsp;<i><a href="/wiki/Roots_of_Yoga" title="Roots of Yoga">Roots of Yoga</a></i></li> 
+                 <li>2019&nbsp;<i><a href="/wiki/Yoga_in_Britain:_Stretching_Spirituality_and_Educating_Yogis" title="Yoga in Britain: Stretching Spirituality and Educating Yogis">Yoga in Britain</a></i></li> 
+                 <li>2020&nbsp;<i><a href="/wiki/The_Story_of_Yoga" title="The Story of Yoga">The Story of Yoga</a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Films</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li>2006&nbsp;<i><a href="/wiki/Guru_(2006_film)" title="Guru (2006 film)">Guru</a></i></li> 
+                 <li>2009&nbsp;<i><a href="/wiki/Enlighten_Up!" title="Enlighten Up!">Enlighten Up!</a></i></li> 
+                 <li>2012&nbsp;<i><a href="/wiki/Breath_of_the_Gods" title="Breath of the Gods">Breath of the Gods</a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_yoga_schools" title="List of yoga schools">Schools</a><br>(Gurus)</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li>1918&nbsp;<a href="/wiki/The_Yoga_Institute" title="The Yoga Institute">The Yoga Institute</a> 
+              <ul>
+               <li><a href="/wiki/Shri_Yogendra" title="Shri Yogendra">Shri Yogendra</a></li> 
+               <li><a href="/wiki/Hansa_Yogendra" title="Hansa Yogendra">Hansa Yogendra</a></li>
+              </ul></li> 
+             <li>1924&nbsp;<a href="/wiki/Kaivalyadhama_Health_and_Yoga_Research_Center" title="Kaivalyadhama Health and Yoga Research Center">Kaivalyadhama</a> 
+              <ul>
+               <li><a href="/wiki/Swami_Kuvalayananda" title="Swami Kuvalayananda">Swami Kuvalayananda</a></li>
+              </ul></li> 
+             <li>1934&nbsp;<a href="/wiki/Viniyoga" class="mw-redirect" title="Viniyoga">Viniyoga</a> 
+              <ul>
+               <li><a href="/wiki/Tirumalai_Krishnamacharya" title="Tirumalai Krishnamacharya">Tirumalai Krishnamacharya</a></li> 
+               <li><i><a href="/wiki/Yoga_Makaranda" title="Yoga Makaranda">Yoga Makaranda</a></i></li> 
+               <li><a href="/wiki/T._K._V._Desikachar" title="T. K. V. Desikachar">T. K. V. Desikachar</a></li> 
+               <li><a href="/wiki/A._G._Mohan" title="A. G. Mohan">A. G. Mohan</a></li> 
+               <li><a href="/wiki/Indra_Devi" title="Indra Devi">Indra Devi</a></li> 
+               <li><a href="/wiki/Srivatsa_Ramaswami" title="Srivatsa Ramaswami">Srivatsa Ramaswami</a></li> 
+               <li><a href="/wiki/Vanda_Scaravelli" title="Vanda Scaravelli">Vanda Scaravelli</a></li>
+              </ul></li> 
+             <li>c.&nbsp;1948&nbsp;<a href="/wiki/Ashtanga_vinyasa_yoga" title="Ashtanga vinyasa yoga">Ashtanga Vinyasa Yoga</a> 
+              <ul>
+               <li><a href="/wiki/K._Pattabhi_Jois" title="K. Pattabhi Jois">K. Pattabhi Jois</a></li> 
+               <li><a href="/wiki/Mysore_style" title="Mysore style">Mysore style</a></li> 
+               <li><a href="/wiki/Tim_Miller_(yoga_teacher)" title="Tim Miller (yoga teacher)">Tim Miller</a></li> 
+               <li><a href="/wiki/Kino_MacGregor" title="Kino MacGregor">Kino MacGregor</a></li> 
+               <li><a href="/wiki/Larry_Schultz" title="Larry Schultz">Larry Schultz</a></li>
+              </ul></li> 
+             <li>1959&nbsp;<a href="/wiki/Sivananda_yoga" title="Sivananda yoga">Sivananda Yoga</a> 
+              <ul>
+               <li><a href="/wiki/Sivananda_Saraswati" title="Sivananda Saraswati">Sivananda Saraswati</a></li> 
+               <li><a href="/wiki/Vishnudevananda_Saraswati" title="Vishnudevananda Saraswati">Vishnudevananda Saraswati</a></li> 
+               <li><i><a href="/wiki/Complete_Illustrated_Book_of_Yoga" title="Complete Illustrated Book of Yoga">Complete Illustrated Book of Yoga</a></i></li>
+              </ul></li> 
+             <li>1963&nbsp;<a href="/wiki/Bihar_School_of_Yoga" title="Bihar School of Yoga">Bihar School of Yoga</a> 
+              <ul>
+               <li><a href="/wiki/Satyananda_Saraswati" title="Satyananda Saraswati">Satyananda Saraswati</a></li>
+              </ul></li> 
+             <li>1965&nbsp;<a href="/wiki/Ananda_Yoga" title="Ananda Yoga">Ananda Yoga</a> 
+              <ul>
+               <li><a href="/wiki/Kriyananda" title="Kriyananda">Kriyananda</a></li>
+              </ul></li> 
+             <li>1966&nbsp;<a href="/wiki/Integral_Yoga_(Satchidananda)" title="Integral Yoga (Satchidananda)">Integral Yoga</a> 
+              <ul>
+               <li><a href="/wiki/Satchidananda_Saraswati" class="mw-redirect" title="Satchidananda Saraswati">Satchidananda Saraswati</a></li>
+              </ul></li> 
+             <li>1966&nbsp;<a href="/wiki/Kripalu_Center" title="Kripalu Center">Kripalu Yoga</a> 
+              <ul>
+               <li><a href="/wiki/Amrit_Desai" title="Amrit Desai">Amrit Desai</a></li> 
+               <li><a href="/wiki/Stephen_Cope" title="Stephen Cope">Stephen Cope</a></li>
+              </ul></li> 
+             <li>1971&nbsp;<a href="/wiki/Himalayan_Institute_of_Yoga_Science_and_Philosophy" title="Himalayan Institute of Yoga Science and Philosophy">Himalayan Institute</a> 
+              <ul>
+               <li><a href="/wiki/Swami_Rama" title="Swami Rama">Swami Rama</a></li>
+              </ul></li> 
+             <li>1973&nbsp;<a href="/wiki/Bikram_Yoga" title="Bikram Yoga">Bikram Yoga</a> 
+              <ul>
+               <li><a href="/wiki/Bikram_Choudhury" title="Bikram Choudhury">Bikram Choudhury</a></li>
+              </ul></li> 
+             <li>1975&nbsp;<a href="/wiki/Iyengar_Yoga" title="Iyengar Yoga">Iyengar Yoga</a> 
+              <ul>
+               <li><a href="/wiki/B._K._S._Iyengar" title="B. K. S. Iyengar">B. K. S. Iyengar</a></li> 
+               <li><i><a href="/wiki/Light_on_Yoga" title="Light on Yoga">Light on Yoga</a></i></li> 
+               <li><i><a href="/wiki/Yoga_the_Iyengar_Way" title="Yoga the Iyengar Way">Yoga the Iyengar Way</a></i></li>
+              </ul></li> 
+             <li>1975&nbsp;<a href="/wiki/Dharma_Mittra" title="Dharma Mittra">Dharma Mittra</a></li> 
+             <li>c.&nbsp;1975&nbsp;<a href="/wiki/Yin_Yoga" title="Yin Yoga">Yin Yoga</a> 
+              <ul>
+               <li><a href="/wiki/Paulie_Zink" title="Paulie Zink">Paulie Zink</a></li> 
+               <li><a href="/wiki/Paul_Grilley" title="Paul Grilley">Paul Grilley</a></li> 
+               <li><a href="/wiki/Sarah_Powers" title="Sarah Powers">Sarah Powers</a></li>
+              </ul></li> 
+             <li>1982&nbsp;<a href="/wiki/Forrest_Yoga" title="Forrest Yoga">Forrest Yoga</a></li> 
+             <li>1984&nbsp;<a href="/wiki/Jivamukti_Yoga" title="Jivamukti Yoga">Jivamukti Yoga</a> 
+              <ul>
+               <li><a href="/wiki/Sharon_Gannon" title="Sharon Gannon">Sharon Gannon</a></li>
+              </ul></li> 
+             <li>1995&nbsp;<a href="/wiki/Power_Yoga" title="Power Yoga">Power Yoga</a> 
+              <ul>
+               <li><a href="/wiki/Beryl_Bender_Birch" title="Beryl Bender Birch">Beryl Bender Birch</a></li> 
+               <li><a href="/wiki/Bryan_Kest" title="Bryan Kest">Bryan Kest</a></li>
+              </ul></li> 
+             <li>1997&nbsp;<a href="/wiki/Anusara_School_of_Hatha_Yoga" title="Anusara School of Hatha Yoga">Anusara Yoga</a> 
+              <ul>
+               <li><a href="/wiki/John_Friend_(yogi)" title="John Friend (yogi)">John Friend</a></li>
+              </ul></li> 
+             <li>2006&nbsp;<a href="/wiki/Core_Strength_Vinyasa_Yoga" title="Core Strength Vinyasa Yoga">Core Strength Vinyasa Yoga (Sadie Nardini)</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Related</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Yoga" title="Yoga">Yoga</a></li> 
+             <li><a href="/wiki/Hatha_yoga" title="Hatha yoga">Hatha yoga</a></li> 
+             <li><a href="/wiki/Modern_yoga" title="Modern yoga">Modern yoga</a></li> 
+             <li><a href="/wiki/Post-lineage_yoga" title="Post-lineage yoga">Post-lineage yoga</a></li> 
+             <li><a href="/wiki/Template:Asanas" title="Template:Asanas">Asanas (template)</a></li> 
+             <li><a href="/wiki/List_of_Indian_asana_yoga_gurus" title="List of Indian asana yoga gurus">List of Indian asana yoga gurus</a></li> 
+             <li><a href="/wiki/List_of_yoga_schools" title="List of yoga schools">List of yoga schools</a></li> 
+             <li><a href="/wiki/Template:Yoga_scholars" title="Template:Yoga scholars">Yoga scholars (template)</a></li> 
+             <li><a href="/wiki/Category:Yoga_teachers" title="Category:Yoga teachers">Yoga teachers (category)</a></li> 
+             <li><a href="/wiki/Template:Yoginis" title="Template:Yoginis">Yoginis (template)</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Yoga" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Yoga" title="Template:Yoga"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Yoga" title="Template talk:Yoga"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Yoga&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Yoga" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Yoga" title="Yoga">Yoga</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Subtle_body" title="Subtle body">Subtle body</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Three_Bodies_Doctrine" title="Three Bodies Doctrine">Three bodies</a></li> 
+             <li><a href="/wiki/Kosha" title="Kosha">Five sheaths</a></li> 
+             <li><a href="/wiki/Chakra" title="Chakra">Chakra</a></li> 
+             <li><a href="/wiki/Nadi_(yoga)" title="Nadi (yoga)">Nadi</a> 
+              <ul>
+               <li><a href="/wiki/Sushumna" class="mw-redirect" title="Sushumna">Sushumna</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Prana" title="Prana">Prana</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hinduism" title="Hinduism">Hinduism</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Three_Yogas" title="Three Yogas">Three Yogas</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Karma_yoga" title="Karma yoga">Karma yoga</a></li> 
+                 <li><a href="/wiki/Bhakti_yoga" title="Bhakti yoga">Bhakti yoga</a></li> 
+                 <li><a href="/wiki/Jnana_yoga" title="Jnana yoga">Jnana yoga</a></li> 
+                 <li><a href="/wiki/R%C4%81ja_yoga" title="Rāja yoga">Rāja yoga</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Yoga" title="Yoga">Classical yoga</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Yoga_(philosophy)" title="Yoga (philosophy)">Yoga (philosophy)</a></li> 
+                 <li><i><a href="/wiki/Bhagavad_Gita" title="Bhagavad Gita">Bhagavad Gita</a></i></li> 
+                 <li><i><a href="/wiki/Yoga_Vasistha" title="Yoga Vasistha">Yoga Vasistha</a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Concepts</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><i><a href="/wiki/Yoga_Sutras_of_Patanjali" title="Yoga Sutras of Patanjali">Yoga Sutras of Patanjali</a></i></li> 
+                 <li><a href="/wiki/Ashtanga_(eight_limbs_of_yoga)" title="Ashtanga (eight limbs of yoga)">Eight limbs</a> 
+                  <ul>
+                   <li><a href="/wiki/Yamas" title="Yamas">Yama</a></li> 
+                   <li><a href="/wiki/Niyama" title="Niyama">Niyama</a></li> 
+                   <li><a href="/wiki/Asana" title="Asana">Asana</a></li> 
+                   <li><a href="/wiki/Pranayama" title="Pranayama">Pranayama</a></li> 
+                   <li><a href="/wiki/Pratyahara" title="Pratyahara">Pratyahara</a></li> 
+                   <li><a href="/wiki/Dh%C4%81ra%E1%B9%87%C4%81" title="Dhāraṇā">Dhāraṇā</a></li> 
+                   <li><a href="/wiki/Dhyana_in_Hinduism" class="mw-redirect" title="Dhyana in Hinduism">Dhyana</a></li> 
+                   <li><a href="/wiki/Samadhi" title="Samadhi">Samadhi</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Kriy%C4%81" title="Kriyā">Kriyas</a></li> 
+                 <li><a href="/wiki/Mudra#Yogic_mudrās" title="Mudra">Mudras</a> 
+                  <ul>
+                   <li><a href="/wiki/Mula_Bandha" title="Mula Bandha">Mula Bandha</a></li> 
+                   <li><a href="/wiki/Mahamudra" title="Mahamudra">Mahamudra</a></li> 
+                   <li><a href="/wiki/Viparita_Karani" title="Viparita Karani">Viparita Karani</a></li> 
+                   <li><a href="/wiki/Khecar%C4%AB_mudr%C4%81" title="Khecarī mudrā">Khechari mudra</a></li> 
+                   <li><a href="/wiki/Vajroli_mudra" title="Vajroli mudra">Vajroli mudra</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Shatkarma" title="Shatkarma">Shatkarmas</a> 
+                  <ul>
+                   <li><a href="/wiki/Neti_(Hatha_Yoga)" title="Neti (Hatha Yoga)">Neti</a></li> 
+                   <li><a href="/wiki/Dhauti" title="Dhauti">Dhauti</a></li> 
+                   <li><a href="/wiki/Nauli" title="Nauli">Nauli</a></li> 
+                   <li><a href="/wiki/Basti_(hatha_yoga)" title="Basti (hatha yoga)">Basti</a></li> 
+                   <li><a href="/wiki/Kapalabhati" title="Kapalabhati">Kapalabhati</a></li> 
+                   <li><a href="/wiki/Tr%C4%81%E1%B9%ADaka" title="Trāṭaka">Trataka</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mantra" title="Mantra">Mantra Yoga</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Pranava_yoga" title="Pranava yoga">Pranava yoga</a></li> 
+                 <li><a href="/wiki/N%C4%81da_yoga" title="Nāda yoga">Nada yoga</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Tantra" title="Tantra">Tantra</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Yogi" title="Yogi">Yogi</a></li> 
+                 <li><a href="/wiki/Yogini" title="Yogini">Yogini</a></li> 
+                 <li><a href="/wiki/Siddhi" title="Siddhi">Siddhi</a></li> 
+                 <li><a href="/wiki/Shaiva_Siddhanta" title="Shaiva Siddhanta">Shaiva Siddhanta</a></li> 
+                 <li><a href="/wiki/Kundalini" title="Kundalini">Kundalini</a></li> 
+                 <li><a href="/wiki/Chakra" title="Chakra">Chakra</a></li> 
+                 <li><a href="/wiki/Subtle_body" title="Subtle body">Subtle body</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hatha_yoga" title="Hatha yoga">Hatha yoga</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><i><a href="/wiki/Amaraugha_Prabodha" title="Amaraugha Prabodha">Amaraugha Prabodha</a></i></li> 
+                 <li><i><a href="/wiki/Amritasiddhi" title="Amritasiddhi">Amritasiddhi</a></i></li> 
+                 <li><i><a href="/wiki/Bahr_al-Hayat" title="Bahr al-Hayat">Bahr al-Hayat</a></i></li> 
+                 <li><i><a href="/wiki/Ha%E1%B9%ADh%C4%81bhy%C4%81sapaddhati" title="Haṭhābhyāsapaddhati">Hathabhyasapaddhati</a></i></li> 
+                 <li><i><a href="/wiki/Ha%E1%B9%ADha_Ratn%C4%81val%C4%AB" title="Haṭha Ratnāvalī">Hatha Ratnavali</a></i></li> 
+                 <li><i><a href="/wiki/Hatha_Yoga_Pradipika" title="Hatha Yoga Pradipika">Hatha Yoga Pradipika</a></i></li> 
+                 <li><i><a href="/wiki/Hatha_Yoga:_The_Report_of_a_Personal_Experience" title="Hatha Yoga: The Report of a Personal Experience">Hatha Yoga: The Report of a Personal Experience</a></i></li> 
+                 <li><i><a href="/wiki/Gheranda_Samhita" title="Gheranda Samhita">Gheranda Samhita</a></i></li> 
+                 <li><i><a href="/wiki/Joga_Prad%C4%ABpik%C4%81" title="Joga Pradīpikā">Joga Pradipika</a></i></li> 
+                 <li><i><a href="/wiki/Shiva_Samhita" title="Shiva Samhita">Shiva Samhita</a></i></li> 
+                 <li><i><a href="/wiki/Sritattvanidhi" title="Sritattvanidhi">Sritattvanidhi</a></i></li> 
+                 <li><i><a href="/wiki/Vasishtha_Samhita" title="Vasishtha Samhita">Vasishtha Samhita</a></i></li> 
+                 <li><i><a href="/wiki/Vimanarcanakalpa" title="Vimanarcanakalpa">Vimanarcanakalpa</a></i></li> 
+                 <li><i><a href="/wiki/Yogasopana_Purvacatuska" title="Yogasopana Purvacatuska">Yogasopana Purvacatuska</a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Related</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Lotus_position" title="Lotus position">Lotus position</a></li> 
+                 <li><i><a href="/wiki/Roots_of_Yoga" title="Roots of Yoga">Roots of Yoga</a></i></li> 
+                 <li><a href="/wiki/Shinshin-t%C5%8Ditsu-d%C5%8D" title="Shinshin-tōitsu-dō">Shinshin-toitsu-do</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Buddhism" title="Buddhism">Buddhism</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Theravada" title="Theravada">Theravada</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Samatha" title="Samatha">Samatha</a></li> 
+                 <li><a href="/wiki/Samadhi_(Buddhism)" class="mw-redirect" title="Samadhi (Buddhism)">Samadhi (Buddhism)</a></li> 
+                 <li><a href="/wiki/Vipassan%C4%81" title="Vipassanā">Vipassana</a></li> 
+                 <li><a href="/wiki/Anapanasati" title="Anapanasati">Anapanasati</a></li> 
+                 <li><i><a href="/wiki/Visuddhimagga" title="Visuddhimagga">Visuddhimagga</a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mahayana" title="Mahayana">Mahayana</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Yogachara" title="Yogachara">Yogachara</a></li> 
+                 <li><a href="/wiki/Zazen" title="Zazen">Zazen</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Vajrayana" title="Vajrayana">Vajrayana</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Tantra" title="Tantra">Indian Buddhist Tantra</a> 
+                  <ul>
+                   <li><a href="/wiki/Anuttarayoga_Tantra" class="mw-redirect" title="Anuttarayoga Tantra">Anuttarayoga Tantra</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Tibetan_Buddhism" title="Tibetan Buddhism">Tibetan Buddhism</a> 
+                  <ul>
+                   <li><a href="/wiki/Trul_khor" title="Trul khor">Trul khor</a></li> 
+                   <li><a href="/wiki/Six_Dharmas_of_Naropa" title="Six Dharmas of Naropa">Six Yogas of Naropa</a></li> 
+                   <li><a href="/wiki/Tummo" title="Tummo">Tummo</a></li> 
+                   <li><a href="/wiki/Dream_yoga" title="Dream yoga">Dream yoga</a></li> 
+                   <li><a href="/wiki/Luminous_mind" title="Luminous mind">Luminous mind</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Chinese_Buddhism" title="Chinese Buddhism">China</a> 
+                  <ul>
+                   <li><a href="/wiki/Chinese_Esoteric_Buddhism" title="Chinese Esoteric Buddhism">Tangmi</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Buddhism_in_Japan" title="Buddhism in Japan">Japan</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Shingon_Buddhism" title="Shingon Buddhism">Shingon Buddhism</a></li> 
+                 <li><a href="/wiki/Tendai" title="Tendai">Tendai</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Yoga_as_exercise" title="Yoga as exercise">Yoga as<br>exercise</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Asana" title="Asana">Asana</a> 
+              <ul>
+               <li><a href="/wiki/Downward_Dog_Pose" title="Downward Dog Pose">Downward dog</a></li> 
+               <li><a href="/wiki/List_of_asanas" title="List of asanas">List</a></li>
+              </ul></li> 
+             <li><a class="mw-selflink selflink">International Day of Yoga</a></li> 
+             <li><i><a href="/wiki/Light_on_Yoga" title="Light on Yoga">Light on Yoga</a></i></li> 
+             <li><a href="/wiki/Mindful_Yoga" title="Mindful Yoga">Mindful Yoga</a></li> 
+             <li><a href="/wiki/Surya_Namask%C4%81r" class="mw-redirect" title="Surya Namaskār">Surya Namaskar</a></li> 
+             <li><a href="/wiki/Viny%C4%81sa" title="Vinyāsa">Vinyasa</a></li> 
+             <li><a href="/wiki/Yoga_as_therapy" title="Yoga as therapy">Yoga for therapeutic purposes</a> 
+              <ul>
+               <li><a href="/wiki/Trauma-sensitive_yoga" title="Trauma-sensitive yoga">Trauma-sensitive yoga</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Yoga_for_women" title="Yoga for women">Yoga for women</a></li> 
+             <li><a href="/wiki/Yoga_mat" title="Yoga mat">Yoga mat</a></li> 
+             <li><a href="/wiki/Yoga_pants" title="Yoga pants">Yoga pants</a></li> 
+             <li><i><a href="/wiki/Asana_Journal" title="Asana Journal">Asana Journal</a></i></li> 
+             <li><i><a href="/wiki/Yoga_Journal" title="Yoga Journal">Yoga Journal</a></i></li> 
+             <li><a href="/wiki/List_of_Indian_asana_yoga_gurus" title="List of Indian asana yoga gurus">List of Indian asana yoga gurus</a></li> 
+             <li><a href="/wiki/List_of_yoga_schools" title="List of yoga schools">List of yoga schools</a></li> 
+             <li><a href="/wiki/Template:Yoga_scholars" title="Template:Yoga scholars">Yoga scholars (template)</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1286
+Cached time: 20210422104411
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.650 seconds
+Real time usage: 0.876 seconds
+Preprocessor visited node count: 3422/1000000
+Post‐expand include size: 118583/2097152 bytes
+Template argument size: 2317/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 70782/5000000 bytes
+Lua time usage: 0.256/10.000 seconds
+Lua memory usage: 6185068/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  708.247      1 -total
+ 38.43%  272.184      1 Template:Reflist
+ 22.62%  160.187     15 Template:Cite_web
+ 12.83%   90.855      1 Template:Infobox_holiday
+ 11.28%   79.879      6 Template:Navbox
+ 10.72%   75.944      1 Template:Commons_category
+ 10.52%   74.530      1 Template:EngvarB
+  9.47%   67.062      1 Template:Modern_yoga
+  9.24%   65.453      1 Template:Infobox
+  8.64%   61.188      1 Template:Sister_project
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:44270128-0!canonical and timestamp 20210422104410 and revision id 1011549369. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=International_Day_of_Yoga&amp;oldid=1011549369">https://en.wikipedia.org/w/index.php?title=International_Day_of_Yoga&amp;oldid=1011549369</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:United_Nations_days" title="Category:United Nations days">United Nations days</a></li>
+       <li><a href="/wiki/Category:Recurring_events_established_in_2014" title="Category:Recurring events established in 2014">Recurring events established in 2014</a></li>
+       <li><a href="/wiki/Category:June_observances" title="Category:June observances">June observances</a></li>
+       <li><a href="/wiki/Category:Health_awareness_days" title="Category:Health awareness days">Health awareness days</a></li>
+       <li><a href="/wiki/Category:International_observances" title="Category:International observances">International observances</a></li>
+       <li><a href="/wiki/Category:United_Nations_observances" title="Category:United Nations observances">United Nations observances</a></li>
+       <li><a href="/wiki/Category:Yoga_events" title="Category:Yoga events">Yoga events</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:EngvarB_from_July_2015" title="Category:EngvarB from July 2015">EngvarB from July 2015</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_June_2020" title="Category:Use dmy dates from June 2020">Use dmy dates from June 2020</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_fixed_day_(2)" title="Category:Infobox holiday fixed day (2)">Infobox holiday fixed day (2)</a></li>
+       <li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=International+Day+of+Yoga" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=International+Day+of+Yoga" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/International_Day_of_Yoga" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:International_Day_of_Yoga" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/International_Day_of_Yoga">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=International_Day_of_Yoga&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=International_Day_of_Yoga&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/International_Day_of_Yoga" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/International_Day_of_Yoga" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=International_Day_of_Yoga&amp;oldid=1011549369" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=International_Day_of_Yoga&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=International_Day_of_Yoga&amp;id=1011549369&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18621241" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=International_Day_of_Yoga&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=International_Day_of_Yoga&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:International_Yoga_Day" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A_%D9%84%D9%84%D9%8A%D9%88%D8%BA%D8%A7" title="اليوم العالمي لليوغا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95_%E0%A6%AF%E0%A7%8B%E0%A6%97_%E0%A6%A6%E0%A6%BF%E0%A7%B1%E0%A6%B8" title="আন্তৰ্জাতিক যোগ দিৱস – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/D%C3%ADa_Internacional_del_Yoga" title="Día Internacional del Yoga – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95_%E0%A6%AF%E0%A7%8B%E0%A6%97_%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8" title="আন্তর্জাতিক যোগ দিবস – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Devezh_Etrebroadel_ar_Yoga" title="Devezh Etrebroadel ar Yoga – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Weltyogatag" title="Weltyogatag – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_del_Yoga" title="Día Internacional del Yoga – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Internacia_Tago_de_Jogo" title="Internacia Tago de Jogo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D8%AC%D9%87%D8%A7%D9%86%DB%8C_%DB%8C%D9%88%DA%AF%D8%A7" title="روز جهانی یوگا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C_%EC%9A%94%EA%B0%80%EC%9D%98_%EB%82%A0" title="국제 요가의 날 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%AF%E0%A5%8B%E0%A4%97_%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8" title="अंतर्राष्ट्रीय योग दिवस – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%9D_%D7%94%D7%99%D7%95%D7%92%D7%94_%D7%94%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99" title="יום היוגה הבינלאומי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%82%E0%B2%A4%E0%B2%B0%E0%B2%BE%E0%B2%B7%E0%B3%8D%E0%B2%9F%E0%B3%8D%E0%B2%B0%E0%B3%80%E0%B2%AF_%E0%B2%AF%E0%B3%8B%E0%B2%97_%E0%B2%A6%E0%B2%BF%E0%B2%A8" title="ಅಂತರಾಷ್ಟ್ರೀಯ ಯೋಗ ದಿನ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-ks"><a href="https://ks.wikipedia.org/wiki/%D8%A8%D9%8E%DB%8C%D9%86_%D8%A7%D9%84%D8%A7%D9%8E%D9%82%D9%88%D9%B2%D9%85%DB%8C_%DB%8C%D9%88%DA%AF%D8%A7_%D8%AF%DB%84%DB%81" title="بَین الاَقوٲمی یوگا دۄہ – Kashmiri" lang="ks" hreflang="ks" class="interlanguage-link-target">कॉशुर / کٲشُر</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Tarptautin%C4%97_jogos_diena" title="Tarptautinė jogos diena – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Dia_Internasional_de_Ioga" title="Dia Internasional de Ioga – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li>
+       <li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF_%E0%A4%AF%E0%A5%8B%E0%A4%97_%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8" title="अन्तर्राष्ट्रिय योग दिवस – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B4%BE%E0%B4%B0%E0%B4%BE%E0%B4%B7%E0%B5%8D%E0%B4%9F%E0%B5%8D%E0%B4%B0_%E0%B4%AF%E0%B5%8B%E0%B4%97_%E0%B4%A6%E0%B4%BF%E0%B4%A8%E0%B4%82" title="അന്താരാഷ്ട്ര യോഗ ദിനം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%86%E0%A4%82%E0%A4%A4%E0%A4%B0%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%AF%E0%A5%8B%E0%A4%97_%E0%A4%A6%E0%A4%BF%E0%A4%A8" title="आंतरराष्ट्रीय योग दिन – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%95%E1%80%BC%E1%80%8A%E1%80%BA%E1%80%95%E1%80%BC%E1%80%8A%E1%80%BA%E1%80%86%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%9B%E1%80%AC_%E1%80%9A%E1%80%B1%E1%80%AC%E1%80%82%E1%80%94%E1%80%B1%E1%80%B7" title="အပြည်ပြည်ဆိုင်ရာ ယောဂနေ့ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF_%E0%A4%AF%E0%A5%8B%E0%A4%97_%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8" title="अन्तर्राष्ट्रिय योग दिवस – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E3%83%A8%E3%83%BC%E3%82%AC%E3%81%AE%E6%97%A5" title="国際ヨーガの日 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%86%E0%AC%A8%E0%AD%8D%E0%AC%A4%E0%AC%B0%E0%AD%8D%E0%AC%9C%E0%AC%BE%E0%AC%A4%E0%AC%BF%E0%AC%95_%E0%AC%AF%E0%AD%8B%E0%AC%97_%E0%AC%A6%E0%AC%BF%E0%AC%AC%E0%AC%B8" title="ଆନ୍ତର୍ଜାତିକ ଯୋଗ ଦିବସ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A9%8C%E0%A8%AE%E0%A8%BE%E0%A8%82%E0%A8%A4%E0%A8%B0%E0%A9%80_%E0%A8%AF%E0%A9%8B%E0%A8%97_%E0%A8%A6%E0%A8%BF%E0%A8%B5%E0%A8%B8" title="ਕੌਮਾਂਤਰੀ ਯੋਗ ਦਿਵਸ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Mi%C4%99dzynarodowy_Dzie%C5%84_Jogi" title="Międzynarodowy Dzień Jogi – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Dia_Internacional_do_Ioga" title="Dia Internacional do Ioga – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B9%D0%BE%D0%B3%D0%B8" title="Международный день йоги – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8%E0%A4%83" title="अन्ताराष्ट्रीययोगदिवसः – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kansainv%C3%A4linen_joogap%C3%A4iv%C3%A4" title="Kansainvälinen joogapäivä – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Internationella_Yogadagen" title="Internationella Yogadagen – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%AF%E0%AF%8B%E0%AE%95%E0%AE%BE_%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D" title="பன்னாட்டு யோகா நாள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%AA%E0%B0%82%E0%B0%9A_%E0%B0%AF%E0%B1%8B%E0%B0%97_%E0%B0%A6%E0%B0%BF%E0%B0%A8%E0%B1%8B%E0%B0%A4%E0%B1%8D%E0%B0%B8%E0%B0%B5%E0%B0%82" title="ప్రపంచ యోగ దినోత్సవం – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B9%D0%BE%D0%B3%D0%B8" title="Міжнародний день йоги – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A8%DB%8C%D9%86_%D8%A7%D9%84%D8%A7%D9%82%D9%88%D8%A7%D9%85%DB%8C_%DB%8C%D9%88%D9%85_%DB%8C%D9%88%DA%AF%D8%A7" title="بین الاقوامی یوم یوگا – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ng%C3%A0y_Qu%E1%BB%91c_t%E1%BA%BF_Yoga" title="Ngày Quốc tế Yoga – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18621241#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 11 March 2021, at 14:12<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=International_Day_of_Yoga&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.650","walltime":"0.876","ppvisitednodes":{"value":3422,"limit":1000000},"postexpandincludesize":{"value":118583,"limit":2097152},"templateargumentsize":{"value":2317,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":70782,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  708.247      1 -total"," 38.43%  272.184      1 Template:Reflist"," 22.62%  160.187     15 Template:Cite_web"," 12.83%   90.855      1 Template:Infobox_holiday"," 11.28%   79.879      6 Template:Navbox"," 10.72%   75.944      1 Template:Commons_category"," 10.52%   74.530      1 Template:EngvarB","  9.47%   67.062      1 Template:Modern_yoga","  9.24%   65.453      1 Template:Infobox","  8.64%   61.188      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.256","limit":"10.000"},"limitreport-memusage":{"value":6185068,"limit":52428800}},"cachereport":{"origin":"mw1286","timestamp":"20210422104411","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"International Day of Yoga","url":"https:\/\/en.wikipedia.org\/wiki\/International_Day_of_Yoga","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18621241","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18621241","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2014-11-01T11:31:10Z","dateModified":"2021-03-11T14:12:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/97\/International_Day_of_Yoga_%2827553005513%29.jpg","headline":"21 June, official international day celebrating  yoga"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":150,"wgHostname":"mw1393"});});</script> 
+ </body>
+</html>

@@ -12,14 +12,14 @@ public enum BillStatus {
     VETO_ACTIONS("veto"),
     ;
 
+    private final String backendID;
+
     BillStatus() {
         backendID = name().toLowerCase();
     }
     BillStatus(String backendID) {
         this.backendID = backendID;
     }
-
-    private String backendID;
 
     public String getBackendID() {
         return backendID;

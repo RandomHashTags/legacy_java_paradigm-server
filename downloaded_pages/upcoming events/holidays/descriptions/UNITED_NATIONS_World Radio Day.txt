@@ -1,0 +1,531 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>World Radio Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"24883467-7aae-4eb8-902a-e058ee3250ed","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"World_Radio_Day","wgTitle":"World Radio Day","wgCurRevisionId":1007480865,"wgRevisionId":1007480865,"wgArticleId":33400973,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: discouraged parameter","CS1 Italian-language sources (it)","CS1 Catalan-language sources (ca)","Use dmy dates from June 2020","NPOV disputes from June 2018","All NPOV disputes","Articles with a promotional tone from June 2018","All articles with a promotional tone",
+"Articles with multiple maintenance issues","All articles with unsourced statements","Articles with unsourced statements from January 2012","United Nations days","February observances","UNESCO","Radio organizations"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"World_Radio_Day","wgRelevantArticleId":33400973,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":
+"interlanguage","wgWikibaseItemId":"Q1359258"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:title" content="World Radio Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/World_Radio_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=World_Radio_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=World_Radio_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/World_Radio_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-World_Radio_Day rootpage-World_Radio_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">World Radio Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p class="mw-empty-elt"> </p> 
+      <table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40">
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           <div class="mw-collapsible" style="width:95%; margin: 0.2em 0;">
+            <b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=World_Radio_Day&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:World_Radio_Day" title="Talk:World Radio Day">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small> 
+            <div class="mw-collapsible-content" style="margin-top: 0.3em;"> 
+             <table class="box-POV plainlinks metadata ambox ambox-content ambox-POV" role="presentation">
+              <tbody>
+               <tr>
+                <td class="mbox-image">
+                 <div style="width:52px">
+                  <img alt="Unbalanced scales.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png" decoding="async" width="45" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/68px-Unbalanced_scales.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/90px-Unbalanced_scales.svg.png 2x" data-file-width="400" data-file-height="354">
+                 </div></td>
+                <td class="mbox-text">
+                 <div class="mbox-text-span">
+                  The <b><a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutrality</a> of this article is <a href="/wiki/Wikipedia:NPOV_dispute" title="Wikipedia:NPOV dispute">disputed</a></b>.<span class="hide-when-compact"> Relevant discussion may be found on the <a href="/wiki/Talk:World_Radio_Day##" title="Talk:World Radio Day">talk page</a>. Please do not remove this message until <a href="/wiki/Template:POV#When_to_remove" title="Template:POV">conditions to do so are met</a>.</span> <small class="date-container"><i>(<span class="date">June 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+                 </div></td>
+               </tr>
+              </tbody>
+             </table> 
+             <table class="box-Advert plainlinks metadata ambox ambox-content ambox-Advert" role="presentation">
+              <tbody>
+               <tr>
+                <td class="mbox-image">
+                 <div style="width:52px">
+                  <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40">
+                 </div></td>
+                <td class="mbox-text">
+                 <div class="mbox-text-span">
+                  This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=World_Radio_Day&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links#Advertising_and_conflicts_of_interest" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span> <small class="date-container"><i>(<span class="date">June 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+                 </div></td>
+               </tr>
+              </tbody>
+             </table> 
+            </div> 
+           </div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>World Radio Day</b> (in French, Le jour mondial de la radio) is an <a href="/wiki/List_of_minor_secular_observances#February" title="List of minor secular observances">international day</a> celebrated on 13 February each year. The Day was decided by <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> on 3 November 2011 during its 36th conference. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#The_first_World_Radio_Day"><span class="tocnumber">2</span> <span class="toctext">The first World Radio Day</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#World_Radio_Day_2014"><span class="tocnumber">3</span> <span class="toctext">World Radio Day 2014</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#World_Radio_Day_2015"><span class="tocnumber">4</span> <span class="toctext">World Radio Day 2015</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#World_Radio_Day_2016"><span class="tocnumber">5</span> <span class="toctext">World Radio Day 2016</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#World_Radio_Day_2017"><span class="tocnumber">6</span> <span class="toctext">World Radio Day 2017</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#World_Radio_Day_2018"><span class="tocnumber">7</span> <span class="toctext">World Radio Day 2018</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#World_Radio_Day_2019"><span class="tocnumber">8</span> <span class="toctext">World Radio Day 2019</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#World_Radio_Day_2020"><span class="tocnumber">9</span> <span class="toctext">World Radio Day 2020</span></a></li> 
+        <li class="toclevel-1 tocsection-10"><a href="#World_Radio_Day_2021"><span class="tocnumber">10</span> <span class="toctext">World Radio Day 2021</span></a></li> 
+        <li class="toclevel-1 tocsection-11"><a href="#International_Committee_of_Radio_(World_Radio_Day_Committee)"><span class="tocnumber">11</span> <span class="toctext">International Committee of Radio (World Radio Day Committee)</span></a></li> 
+        <li class="toclevel-1 tocsection-12"><a href="#United_Nations_info"><span class="tocnumber">12</span> <span class="toctext">United Nations info</span></a></li> 
+        <li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">13</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">14</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Radio_Day&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Following a request from the <a href="/wiki/Academia_Espa%C3%B1ola_de_la_Radio" title="Academia Española de la Radio">Spanish Radio Academy</a> on 20 September 2010, Spain proposed that the UNESCO Executive Board include an agenda item on the proclamation of a World Radio Day. UNESCO's Executive Board the agenda item in its provisional agenda for the proclamation of a "World Radio Day" on 29 September 2011. UNESCO carried out a wide consultation in 2011 with diverse stakeholders, such as broadcasting associations, UN agencies, funds and programmes, relevant NGOs, foundations and bilateral development agencies, as well as UNESCO Permanent Delegations and National Commissions for UNESCO.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Among the answers, 91% were in favour of the project, including official support from the <a href="/wiki/Arab_States_Broadcasting_Union" title="Arab States Broadcasting Union">Arab States Broadcasting Union</a> (ASBU), the <a href="/wiki/Asia-Pacific_Broadcasting_Union" title="Asia-Pacific Broadcasting Union">Asia-Pacific Broadcasting Union</a> (ABU), the <a href="/wiki/African_Union_of_Broadcasting" title="African Union of Broadcasting">African Union of Broadcasting</a> (AUB), the <a href="/wiki/Caribbean_Broadcasting_Union" title="Caribbean Broadcasting Union">Caribbean Broadcasting Union</a> (CBU), the <a href="/wiki/European_Broadcasting_Union" title="European Broadcasting Union">European Broadcasting Union</a> (EBU), the International Association of Broadcasting (IAB), the <a href="/wiki/North_American_Broadcasters_Association" title="North American Broadcasters Association">North American Broadcasters Association</a> (NABA), the Organización de Telecomunicaciones Ibeoramericanas (OTI), <a href="/wiki/BBC_News" title="BBC News">BBC</a>, URTI, <a href="/wiki/Vatican_Radio" title="Vatican Radio">Vatican Radio</a>, etc. The results of this consultation are available in UNESCO's document 187 EX/13.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p>
+      <p>The Board recommended to the UNESCO 36th session of the General Conference that it proclaim a World Radio Day at its 36th session, and that this day be celebrated by UNESCO on 13 February, the anniversary of the day that the United Nations established the <a href="/wiki/United_Nations_Radio" title="United Nations Radio">United Nations Radio</a> in 1946. It also invited all United Nations Member States, organizations of the United Nations system and other international and regional organizations, professional associations and broadcasting unions, as well as <a href="/wiki/Civil_society" title="Civil society">civil society</a>, including non-governmental organizations and individuals, to duly celebrate World Radio Day, in the way that each considers most adequate. The board further requested that UNESCO's Director-General bring the resolution to the attention of the Secretary-General of the United Nations, so that World Radio Day could be endorsed by the General Assembly and celebrated by the whole system. The matter was subsequently treated by UNESCO's General Conference, which adopted resolution contained in the file 36 C/63. World Radio Day was thus unanimously proclaimed by all Member States of UNESCO in November 2011. </p>
+      <p><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p>
+      <p>In December 2012, The General Assembly of the UN endorsed the proclamation of World Radio Day, which thereby became a day to be celebrated by all UN agencies, funds and programmes and their partners. File A/RES/67/124. Various radio industry bodies around the world are supporting the initiative by encouraging stations in developed countries to assist those in the developing world.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> At UNESCO, the consultation, proclamation and celebrations were handled by Mirta Lourenco, Chief of the Sector for Media Development. </p> 
+      <h2><span class="mw-headline" id="The_first_World_Radio_Day">The first World Radio Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Radio_Day&amp;action=edit&amp;section=2" title="Edit section: The first World Radio Day">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:201px;">
+        <a href="/wiki/File:World_Radio_Day.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/2/2e/World_Radio_Day.png" decoding="async" width="199" height="199" class="thumbimage" data-file-width="199" data-file-height="199"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:World_Radio_Day.png" class="internal" title="Enlarge"></a>
+         </div>Logo of the first World Radio Day
+        </div>
+       </div>
+      </div> 
+      <p>In honour of the first World Radio Day in 2012, <a href="/wiki/Lifeline_Energy" title="Lifeline Energy">Lifeline Energy</a>, FrontlineSMS, <a href="/wiki/SOAS,_University_of_London" class="mw-redirect" title="SOAS, University of London">SOAS Radio</a> and Empowerhouse hosted a seminar in London. A variety of practitioners, academics and tools providers joined at the School of Oriental and African Studies to explore ways in which radio reaches even the most remote and vulnerable communities.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Speakers included Guy Berger (Director for Freedom of Expression and Media Development at UNESCO), Dr Chege Githiora (Chairman of the Centre of African Studies at SOAS), Birgitte Jallov (Empowerhouse/ <a href="/wiki/Panos_Network" title="Panos Network">Panos London</a>), Amy O'Donnell (FrontlineSMS:Radio), Carlos Chirinos (SOAS Radio), and Linje Manyozo (LSE). The panel was moderated by <a href="/wiki/Lucy_Dur%C3%A1n" title="Lucy Durán">Lucy Durán</a> (SOAS, <a href="/wiki/BBC_Radio_3" title="BBC Radio 3">BBC Radio 3</a>, <a href="/wiki/Human_Planet" title="Human Planet">Human Planet</a>).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2012)">citation needed</span></a></i>]</sup> At the <a href="/wiki/University_of_Pisa" title="University of Pisa">University of Pisa</a> in Italy, a public event was held on 13 February 2012 to commemorate World Radio Day. The event was organized by Italradio and the Faculty of Engineering and Telecommunication and focused on the cost and ease of use of radio as a source of information. Pisa was chosen as the first Italian city to host an intercontinental radio station built by Marconi in the early years of 20th century.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </p>
+      <p>In 2012, in <a href="/wiki/Barcelona" title="Barcelona">Barcelona</a>, Spain, a public event organised by College of Telecommunications Engineers of Catalunya (COETTC) was held on 21 February 2012 to commemorate World Radio Day. The event was organised with the help of the <a href="/wiki/Government_of_Catalonia" class="mw-redirect" title="Government of Catalonia">Government of Catalonia</a>. There were panellists from radio stations and personalities from the world of radio broadcasting in attendance. The main event was a panel discussion entitled "For a more global and competitive radio".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> In Switzerland, the European Broadcasting Union organised a Digital Radio Week. This was a series of technical events starting on 13 February 2012, with the participation of the main radio standardisation organisations: DRM Consortium, WorldDMB, <a href="/wiki/RadioDNS" title="RadioDNS">RadioDNS</a>. There was also a local digital radio transmission in DAB+ demonstrating the democratization of transmission for smaller structures, using CRC mmbTools open software defined radio tools.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </p>
+      <p>Bangladesh NGOs Network for Radio and Communication (BNNRC) promotes the observance of World Radio Day on 13 February in collaboration with public service Broadcasting, Commercial broadcasting &amp; Community Broadcasting at local and national level. The World Radio Day Observation National Committee was established in Bangladesh for this purpose.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> </p> 
+      <h2><span class="mw-headline" id="World_Radio_Day_2014">World Radio Day 2014</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Radio_Day&amp;action=edit&amp;section=3" title="Edit section: World Radio Day 2014">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a rel="nofollow" class="external text" href="http://www.unesco.org/new/en/unesco/events/prizes-and-celebrations/celebrations/international-days/world-radio-day-2014/">World Radio Day 2014</a> had the theme <b><a href="/wiki/Gender_Equality" class="mw-redirect" title="Gender Equality">Gender Equality</a> and Women's Empowerment in Radio</b> proposed by <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a>. Its sub-themes included: </p> 
+      <ul>
+       <li>Sensitizing radio station owners, executives, journalists, and governments to develop gender-related policies and strategies for radio</li> 
+       <li>Eliminating stereotypes and promoting multidimensional portrayal in radio</li> 
+       <li>Building radio skills for youth radio production, with a focus on girls as producers, hosts, reporters</li> 
+       <li>Promoting the safety of women radio journalists</li>
+      </ul> 
+      <p>The <a rel="nofollow" class="external text" href="http://www.unesco.org/new/en/unesco/events/prizes-and-celebrations/celebrations/international-days/world-radio-day-2014/">multilingual event website</a> offered <a rel="nofollow" class="external text" href="http://www.unesco.org/new/en/unesco/events/prizes-and-celebrations/celebrations/international-days/world-radio-day-2014/messages/">several copyright-free audio/video messages</a> for rebroadcasting and diffusion, as well as an <a rel="nofollow" class="external text" href="https://worldradioday.crowdmap.com/">interactive map</a> for submitting events related to the celebration of the day. Thematic infographics can be found in <a rel="nofollow" class="external text" href="http://visual.ly/gender-equality-radio">English</a>, <a rel="nofollow" class="external text" href="http://visual.ly/l%C3%A9galit%C3%A9-des-genres-dans-la-radio">French</a> and <a rel="nofollow" class="external text" href="http://visual.ly/la-igualdad-de-g%C3%A9nero-en-la-radio">Spanish</a>. </p> 
+      <h2><span class="mw-headline" id="World_Radio_Day_2015">World Radio Day 2015</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Radio_Day&amp;action=edit&amp;section=4" title="Edit section: World Radio Day 2015">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a rel="nofollow" class="external text" href="http://www.diamundialradio.org/q=en">World Radio Day 2015</a> was held on 13 February 2015 around the theme of <b>Youth and Radio</b>, with the goal of increasing the participation of young people in radio. The sub-themes of the Day were: </p> 
+      <ul>
+       <li>Showcasing the multiple uses of radio as a medium</li> 
+       <li>Highlighting the contribution of young people as creators of radio content and improving their participation</li> 
+       <li>Building awareness of the security and safety risks faced by young international freelancers and fixers, especially in humanitarian and disaster zones</li>
+      </ul> 
+      <h2><span class="mw-headline" id="World_Radio_Day_2016">World Radio Day 2016</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Radio_Day&amp;action=edit&amp;section=5" title="Edit section: World Radio Day 2016">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a rel="nofollow" class="external text" href="http://www.diamundialradio.org/2016">World Radio Day 2016</a> was held on 13 February 2016 around the theme of <b>Radio in Times of Emergency and Disaster</b>, with the goal of building partnerships with the humanitarian and emergency sector, as well as the community at large. The sub-themes of the Day were: </p> 
+      <ul>
+       <li>Securing freedom of expression and journalists' safety</li> 
+       <li>Using radio to empower survivors and vulnerable people, whose right to privacy is to be respected</li> 
+       <li>Radio's social impact, providing access to information, and protecting information rights.</li> 
+       <li>Saving lives through radio</li> 
+       <li>The immediate accessibility of radio frequencies when saving lives</li>
+      </ul> 
+      <p>More than 320 events were held in more than 80 countries around the world to mark the Day,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> with 19 radio stations from around the world coming to UNESCO Headquarters to broadcast live. </p> 
+      <h2><span class="mw-headline" id="World_Radio_Day_2017">World Radio Day 2017</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Radio_Day&amp;action=edit&amp;section=6" title="Edit section: World Radio Day 2017">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a rel="nofollow" class="external text" href="http://www.diamundialradio.org">World Radio Day 2017</a> was held on 13 February 2017 around the theme of "<b>Radio is You"</b>, with the goal of celebrating how audiences interact with radio. The theme was designed to encourage radio stations to be the best they can, by having audience engagement policies, ethical committees, public editors, self review programmes and by ensuring their community radio networks were strong. A record number of countries, took part in World Radio Day 2017, with more than 500 events worldwide. </p> 
+      <ul>
+       <li>The theme "Radio is You" was chosen to ensure that audiences' views and diversity were respected</li> 
+       <li>The theme looked at the ways that audiences engage with radio, both on-air and in the planning and policy phases</li>
+      </ul> 
+      <h2><span class="mw-headline" id="World_Radio_Day_2018">World Radio Day 2018</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Radio_Day&amp;action=edit&amp;section=7" title="Edit section: World Radio Day 2018">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:WRD2018.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WRD2018.png/220px-WRD2018.png" decoding="async" width="220" height="81" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WRD2018.png/330px-WRD2018.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WRD2018.png/440px-WRD2018.png 2x" data-file-width="851" data-file-height="315"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:WRD2018.png" class="internal" title="Enlarge"></a>
+         </div>Radio and Sports
+        </div>
+       </div>
+      </div> 
+      <p><a rel="nofollow" class="external text" href="http://www.diamundialradio.org">World Radio Day 2018</a> was held on 13 February 2018 around the theme of "<b>Radio and Sports</b>" to celebrate momentous sporting events. World Radio Day 2018 celebrated traditional sports that connect people to their cultural heritage, the grassroots sports that play important roles in communities, and the ways in which sports challenges gender stereotypes and provides positive role models for young people around the world. The theme for 2018 focused on the alliance of sport and radio as a force for civic participation and development, as well as for celebrating humanity in its diversity. World Radio day 2018 celebrated radio's critical function in shaping this alliance, by providing a platform for radio stations, and listeners alike, to construct their programs and conversations around Radio and Sports. The sub-themes were: </p> 
+      <ul>
+       <li>Building and uniting communities</li> 
+       <li>Participation and inclusion</li> 
+       <li>Goodwill and inspiring humanity</li> 
+       <li class="mw-empty-elt"></li> 
+       <li>How radio impacts our lives</li>
+      </ul> 
+      <h2><span class="mw-headline" id="World_Radio_Day_2019">World Radio Day 2019</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Radio_Day&amp;action=edit&amp;section=8" title="Edit section: World Radio Day 2019">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a rel="nofollow" class="external text" href="http://www.diamundialradio.org">World Radio Day 2019</a> was held on Wednesday 13 February around the theme of "<b>Dialogue, Tolerance and Peace.</b>" </p>
+      <p>More events were held in more than 80 countries around the world to mark the Day,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> with radio stations from around the world coming to UNESCO Headquarters in Paris to gain hands-in experience of radio production, as we celebrate the impact of radio in the pursuit of a more peaceful and tolerant world. </p> 
+      <h2><span class="mw-headline" id="World_Radio_Day_2020">World Radio Day 2020</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Radio_Day&amp;action=edit&amp;section=9" title="Edit section: World Radio Day 2020">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><a rel="nofollow" class="external text" href="http://www.diamundialradio.org">World Radio Day 2020</a> will be held on Thursday 13 February around the theme of "<b>Radio and diversity.</b>" UNESCO and UN calls on radio stations to uphold diversity, both in their newsroom and on the airwaves. </p>
+      <p>This edition of World Radio Day is divided into three main sub-themes: </p> 
+      <ul>
+       <li>Advocating for <a href="/wiki/Pluralism_(political_philosophy)" title="Pluralism (political philosophy)">pluralism</a> in radio, including a mix of public, private and community broadcasters;</li> 
+       <li>Encouraging representation in the newsroom, with teams representing diverse society groups;</li> 
+       <li>Promoting a <a href="/wiki/Diversity_(politics)" title="Diversity (politics)">diversity</a> of editorial content and programme types reflecting the variety of the audiences.</li>
+      </ul> 
+      <p>In the world, radio remains the most widely consumed medium. This unique ability to reach out the widest audience means radio can shape a society's experience of diversity, stand as an arena for all voices to speak out, be represented and heard. Radio stations should serve diverse communities, offering a wide variety of programs, viewpoints and content, and reflect the diversity of audiences in their organizations and operations. Technological advances are also participating to diversity the radio sector: DAB+, DRM, IP streaming. </p> 
+      <h2><span class="mw-headline" id="World_Radio_Day_2021">World Radio Day 2021</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Radio_Day&amp;action=edit&amp;section=10" title="Edit section: World Radio Day 2021">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>During this day UNESCO invites stations to celebrate the 10th anniversary of this event and more than a century of radio. </p>
+      <p>This edition of the WRD focuses on three sub-themes: </p> 
+      <ul>
+       <li>EVOLUTION. The world is changing, radio is evolving. This sub-theme refers to the resilience of radio, to its sustainability;</li> 
+       <li>INNOVATION. The world is changing, radio is adapting and innovating. Radio has had to adapt to new technologies to remain the medium of mobility par excellence, accessible to all and everywhere</li> 
+       <li>CONNECT. The world is changing, radio connects. This sub-theme highlights the services provided by radio to our society / Natural disasters, socioeconomic crises, epidemics, etc ... This day will include 6 hours in two different programs and Off sequences all broadcast live on Youtube, Facebook and Twitch.</li>
+      </ul> 
+      <p>To mark this event on Saturday, the BBC World Service has some special content to be broadcast over the weekend.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> </p> 
+      <h2><span id="International_Committee_of_Radio_.28World_Radio_Day_Committee.29"></span><span class="mw-headline" id="International_Committee_of_Radio_(World_Radio_Day_Committee)">International Committee of Radio (World Radio Day Committee)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Radio_Day&amp;action=edit&amp;section=11" title="Edit section: International Committee of Radio (World Radio Day Committee)">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>This committee was born in 2012 after the proclamation of the UNESCO's World Radio Day. The idea came from the president of the <a rel="nofollow" class="external text" href="https://www.itu.int/en/wrd15/Pages/spanish-radio-academy.aspx">Spanish Radio Academy, Jorge Alvarez</a>. This committee consists the most important radio broadcast organisations: ITU-International Telecommunication Union, <a href="/wiki/Spanish_Radio_Academy" title="Spanish Radio Academy">Spanish Radio Academy</a>, IAB-International Association of Broadcasting, ABU-Asia-Pacific Broadcasting Union, ASBU-Arab States Broadcasting Union, EBU/UER-European Broadcasting Union, AER-Association of European Radios, AMARC-World Association of Community Radio Broadcasters, AIBD-Asia Pacific Institute for Broadcasting Development, BNNRC-Bangladesh NGOs Network for Radio and Communication, URTI-International Radio and Television Union and AUB/UAR-The African Union of Broadcasting. The Founding Act was signed on March 12, 2012.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> </p>
+      <p>Radio stations around the world are invited to promote the official interactive platform wrd13.com of the international WRD Committee by proposing to their listeners to deposit audio messages on it, in any language, which they will be able to download for broadcasting all day long on 13 February.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> </p> 
+      <h2><span class="mw-headline" id="United_Nations_info">United Nations info</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Radio_Day&amp;action=edit&amp;section=12" title="Edit section: United Nations info">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The celebration of World Radio Day corresponds to the date of creation of the United Nations Radio (UN Radio), on 13 February 1946.<a rel="nofollow" class="external text" href="http://www.un.org/en/events/radioday/index.shtml">Informative Website of this celebration</a> </p>
+      <p><a rel="nofollow" class="external text" href="http://webtv.un.org/watch/stephane-dujarric-dpi-on-world-radio-day-2014/3608104201001">Stephane Dujarric (DPI) on World Radio Day 2014</a> 13 February 2014 - "UN Radio has won a well deserved "International Academy Award 2014" on 13 February on the World Radio Day. The Award was presented by the Government of Spain and the Spanish Academy Awards which spearheaded the establishment of World Radio Day by UNESCO. The Award is presented every year on World Radio Day to the personalities and media houses whose work have made a huge difference worldwide and this year the academy presented the first ever international Academy Award which UN Radio happen to be the first recipient." </p>
+      <p>World Radio Day 2014 - interview with Stephane Dujarric </p>
+      <p>4 February 2014 - In honour of World Radio Day 2014, Elena Vapnitchnaia, Chief of the Russian UN Radio sits with Stephane Dujarric, Director of the News and Media Division in the UN Department of Public Information, to discuss the past and future of UN Radio. </p>
+      <p>Resolutions adopted by the General Assembly of the United Nations: Sixty-seventh session,18 December 2012: </p>
+      <p><i>"Endorses the resolution adopted by the General Conference of the United Nations Educational, Scientific and Cultural Organization at its thirty-sixth session, proclaiming 13 February, the day United Nations Radio was established in 1946, as World Radio Day"</i> <sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Radio_Day&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://news.jagatgururampalji.org/world-radio-day/">"World Radio Day 2021: History, Theme, Invention, True Bhakti | SA News"</a>. <i>S A NEWS</i>. 13 February 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">13 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=S+A+NEWS&amp;rft.atitle=World+Radio+Day+2021%3A+History%2C+Theme%2C+Invention%2C+True+Bhakti+%7C+SA+News&amp;rft.date=2021-02-13&amp;rft_id=https%3A%2F%2Fnews.jagatgururampalji.org%2Fworld-radio-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Radio+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://unesdoc.unesco.org/images/0021/002112/211271e.pdf">"UNESCO Session 187EX/13"</a> <span class="cs1-format">(PDF)</span>. <i>UNESCO</i>. UNESCO. 26 August 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">28 May</span> 2012</span>. <q>The Director-General submits for the approval of the Executive Board, the feasibility study for the proclamation of a World Radio Day...</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UNESCO&amp;rft.atitle=UNESCO+Session+187EX%2F13&amp;rft.date=2011-08-26&amp;rft_id=http%3A%2F%2Funesdoc.unesco.org%2Fimages%2F0021%2F002112%2F211271e.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Radio+Day" class="Z3988"></span> <span class="cs1-maint citation-comment">CS1 maint: discouraged parameter (<a href="/wiki/Category:CS1_maint:_discouraged_parameter" title="Category:CS1 maint: discouraged parameter">link</a>)</span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFUNESCO2011" class="citation news cs1">UNESCO (10 July 2011). <a rel="nofollow" class="external text" href="http://www.unesco.org/new/en/communication-and-information/resources/news-and-in-focus-articles/all-news/news/13_february_proposed_as_world_radio_day/">"13 February proposed as World Radio Day | United Nations Educational, Scientific and Cultural Organization"</a>. <i>UNESCO</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 May</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=UNESCO&amp;rft.atitle=13+February+proposed+as+World+Radio+Day+%7C+United+Nations+Educational%2C+Scientific+and+Cultural+Organization&amp;rft.date=2011-07-10&amp;rft.au=UNESCO&amp;rft_id=http%3A%2F%2Fwww.unesco.org%2Fnew%2Fen%2Fcommunication-and-information%2Fresources%2Fnews-and-in-focus-articles%2Fall-news%2Fnews%2F13_february_proposed_as_world_radio_day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Radio+Day" class="Z3988"></span> <span class="cs1-maint citation-comment">CS1 maint: discouraged parameter (<a href="/wiki/Category:CS1_maint:_discouraged_parameter" title="Category:CS1 maint: discouraged parameter">link</a>)</span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">File 36 C/63, UNESCO's General Conference Resolution <a rel="nofollow" class="external free" href="http://unesdoc.unesco.org/images/0021/002131/213174e.pdf">http://unesdoc.unesco.org/images/0021/002131/213174e.pdf</a></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Proclamation, Resolution 63 <a rel="nofollow" class="external free" href="http://unesdoc.unesco.org/images/0021/002150/215084e.pdf">http://unesdoc.unesco.org/images/0021/002150/215084e.pdf</a></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">UN General Assembly file <a rel="nofollow" class="external free" href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/67/124">http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/67/124</a></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.radioinfo.com.au/news/10664/">"World Radio Day: What will you be doing?"</a>. Radio Info. 15 January 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">28 May</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=World+Radio+Day%3A+What+will+you+be+doing%3F&amp;rft.pub=Radio+Info&amp;rft.date=2012-01-15&amp;rft_id=http%3A%2F%2Fwww.radioinfo.com.au%2Fnews%2F10664%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Radio+Day" class="Z3988"></span> <span class="cs1-maint citation-comment">CS1 maint: discouraged parameter (<a href="/wiki/Category:CS1_maint:_discouraged_parameter" title="Category:CS1 maint: discouraged parameter">link</a>)</span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFhttps://plus.google.com/+UNESCO2020" class="citation web cs1"><a rel="nofollow" class="external free" href="https://plus.google.com/+UNESCO">https://plus.google.com/+UNESCO</a> (8 June 2020). <a rel="nofollow" class="external text" href="https://en.unesco.org/commemorations/worldradioday">"World Radio Day"</a>. <i>UNESCO</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UNESCO&amp;rft.atitle=World+Radio+Day&amp;rft.date=2020-06-08&amp;rft.au=https%3A%2F%2Fplus.google.com%2F%2BUNESCO&amp;rft_id=https%3A%2F%2Fen.unesco.org%2Fcommemorations%2Fworldradioday&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Radio+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://portale.italradio.org/index.php?name=News&amp;file=article&amp;sid=2332">"A Pisa la Prima Giornata Mondiale della Radio&nbsp;:: Italradio &nbsp;:: ....perché c'è sempre una radio che trasmette in italiano"</a>. <i>Italradio</i> (in Italian). Italradio. 22 January 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">28 May</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Italradio&amp;rft.atitle=A+Pisa+la+Prima+Giornata+Mondiale+della+Radio+%3A%3A+Italradio+%3A%3A+....perch%C3%A9+c%27%C3%A8+sempre+una+radio+che+trasmette+in+italiano.&amp;rft.date=2012-01-22&amp;rft_id=http%3A%2F%2Fportale.italradio.org%2Findex.php%3Fname%3DNews%26file%3Darticle%26sid%3D2332&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Radio+Day" class="Z3988"></span> <span class="cs1-maint citation-comment">CS1 maint: discouraged parameter (<a href="/wiki/Category:CS1_maint:_discouraged_parameter" title="Category:CS1 maint: discouraged parameter">link</a>)</span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.coettc.com/docs/noticias/PROGRAMA%20DIA%20MUNDIAL%20RADIO%20_2_.pdf">"Jornada Fia Mundial de la Radio"</a> <span class="cs1-format">(PDF)</span>. <i>PIMEC</i> (in Catalan). PIMEC<span class="reference-accessdate">. Retrieved <span class="nowrap">28 May</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PIMEC&amp;rft.atitle=Jornada+Fia+Mundial+de+la+Radio&amp;rft_id=http%3A%2F%2Fwww.coettc.com%2Fdocs%2Fnoticias%2FPROGRAMA%2520DIA%2520MUNDIAL%2520RADIO%2520_2_.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Radio+Day" class="Z3988"></span> <span class="cs1-maint citation-comment">CS1 maint: discouraged parameter (<a href="/wiki/Category:CS1_maint:_discouraged_parameter" title="Category:CS1 maint: discouraged parameter">link</a>)</span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://tech.ebu.ch/events/digital-radio-summit12">"Digital Radio Summit during Radio Week 2012"</a>. EBU<span class="reference-accessdate">. Retrieved <span class="nowrap">8 February</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Digital+Radio+Summit+during+Radio+Week+2012&amp;rft.pub=EBU&amp;rft_id=http%3A%2F%2Ftech.ebu.ch%2Fevents%2Fdigital-radio-summit12&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Radio+Day" class="Z3988"></span> <span class="cs1-maint citation-comment">CS1 maint: discouraged parameter (<a href="/wiki/Category:CS1_maint:_discouraged_parameter" title="Category:CS1 maint: discouraged parameter">link</a>)</span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://bnnrc.net/bangladesh-is-going-to-observe-7th-world-radio-day-sport-and-radio-13-february-2018/">"Bangladesh is going to observe 7th World Radio Day: Sport and Radio 13 FEBRUARY, 2018 – Bangladesh NGOs Network for Radio &amp; Communication"</a>. <i>bnnrc.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 September</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=bnnrc.net&amp;rft.atitle=Bangladesh+is+going+to+observe+7th+World+Radio+Day%3A+Sport+and+Radio+13+FEBRUARY%2C+2018+%E2%80%93+Bangladesh+NGOs+Network+for+Radio+%26+Communication&amp;rft_id=https%3A%2F%2Fbnnrc.net%2Fbangladesh-is-going-to-observe-7th-world-radio-day-sport-and-radio-13-february-2018%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Radio+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.diamundialradio.org/?q=en/content/photo-gallery-worldwide-celebrations">"Photo Gallery: Worldwide Celebrations - World Radio Day 2015"</a>. UNESCO<span class="reference-accessdate">. Retrieved <span class="nowrap">9 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Photo+Gallery%3A+Worldwide+Celebrations+-+World+Radio+Day+2015&amp;rft.pub=UNESCO&amp;rft_id=http%3A%2F%2Fwww.diamundialradio.org%2F%3Fq%3Den%2Fcontent%2Fphoto-gallery-worldwide-celebrations&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Radio+Day" class="Z3988"></span> <span class="cs1-maint citation-comment">CS1 maint: discouraged parameter (<a href="/wiki/Category:CS1_maint:_discouraged_parameter" title="Category:CS1 maint: discouraged parameter">link</a>)</span></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://en.unesco.org/feedback/journee-mondiale-radio-world-radio-day">"Speed Workshops 1-10 - World Radio Day 2019"</a>. UNESCO<span class="reference-accessdate">. Retrieved <span class="nowrap">13 February</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Speed+Workshops+1-10+-+World+Radio+Day+2019&amp;rft.pub=UNESCO&amp;rft_id=https%3A%2F%2Fen.unesco.org%2Ffeedback%2Fjournee-mondiale-radio-world-radio-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Radio+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/mediacentre/2021/world-radio-day">"World Radio Day 2021 on BBC World Service"</a>. <i>bbc.co.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=bbc.co.uk&amp;rft.atitle=World+Radio+Day+2021+on+BBC+World+Service&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fmediacentre%2F2021%2Fworld-radio-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Radio+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.academiadelaradio.es/wrd/">"International Radio Committee"</a>. <i>www.academiadelaradio.es</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.academiadelaradio.es&amp;rft.atitle=International+Radio+Committee&amp;rft_id=http%3A%2F%2Fwww.academiadelaradio.es%2Fwrd%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Radio+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFNations" class="citation web cs1">Nations, United. <a rel="nofollow" class="external text" href="https://www.un.org/en/observances/radio-day">"World Radio Day"</a>. <i>United Nations</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=United+Nations&amp;rft.atitle=World+Radio+Day&amp;rft.aulast=Nations&amp;rft.aufirst=United&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fen%2Fobservances%2Fradio-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Radio+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.radioworld.com/news-and-business/world-radio-day-organizers-raise-u-s-profile">Radio World magazine</a> article about the origin of World Radio Day, 27 September 2019</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Radio_Day&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://en.unesco.org/commemorations/worldradioday/">Unesco's website for World Radio Day</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.urti.org/">International Radio and Television Union</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.ebu.ch/">European Broadcast Union</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.academiadelaradio.es/">Academia Española de la Radio</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.radioacademy.us/">Academy of Radio Arts &amp; Sciences</a></li>
+      </ul> <!-- 
+NewPP limit report
+Parsed by mw1339
+Cached time: 20210414025743
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.397 seconds
+Real time usage: 0.487 seconds
+Preprocessor visited node count: 1163/1000000
+Post‐expand include size: 51106/2097152 bytes
+Template argument size: 7118/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 45741/5000000 bytes
+Lua time usage: 0.195/10.000 seconds
+Lua memory usage: 4919317/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  414.025      1 -total
+ 52.99%  219.392      1 Template:Reflist
+ 40.11%  166.046     13 Template:Cite_web
+ 25.74%  106.554      3 Template:Ambox
+ 19.82%   82.065      1 Template:Multiple_issues
+ 14.20%   58.803      1 Template:Use_dmy_dates
+  8.83%   36.567      1 Template:Citation_needed
+  8.02%   33.210      1 Template:POV
+  7.18%   29.746      1 Template:Fix
+  5.04%   20.868      1 Template:DMCA
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:33400973-0!canonical and timestamp 20210414025742 and revision id 1007480865. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=World_Radio_Day&amp;oldid=1007480865">https://en.wikipedia.org/w/index.php?title=World_Radio_Day&amp;oldid=1007480865</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:United_Nations_days" title="Category:United Nations days">United Nations days</a></li>
+       <li><a href="/wiki/Category:February_observances" title="Category:February observances">February observances</a></li>
+       <li><a href="/wiki/Category:UNESCO" title="Category:UNESCO">UNESCO</a></li>
+       <li><a href="/wiki/Category:Radio_organizations" title="Category:Radio organizations">Radio organizations</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_maint:_discouraged_parameter" title="Category:CS1 maint: discouraged parameter">CS1 maint: discouraged parameter</a></li>
+       <li><a href="/wiki/Category:CS1_Italian-language_sources_(it)" title="Category:CS1 Italian-language sources (it)">CS1 Italian-language sources (it)</a></li>
+       <li><a href="/wiki/Category:CS1_Catalan-language_sources_(ca)" title="Category:CS1 Catalan-language sources (ca)">CS1 Catalan-language sources (ca)</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_June_2020" title="Category:Use dmy dates from June 2020">Use dmy dates from June 2020</a></li>
+       <li><a href="/wiki/Category:NPOV_disputes_from_June_2018" title="Category:NPOV disputes from June 2018">NPOV disputes from June 2018</a></li>
+       <li><a href="/wiki/Category:All_NPOV_disputes" title="Category:All NPOV disputes">All NPOV disputes</a></li>
+       <li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_June_2018" title="Category:Articles with a promotional tone from June 2018">Articles with a promotional tone from June 2018</a></li>
+       <li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li>
+       <li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2012" title="Category:Articles with unsourced statements from January 2012">Articles with unsourced statements from January 2012</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=World+Radio+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=World+Radio+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/World_Radio_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:World_Radio_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/World_Radio_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=World_Radio_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=World_Radio_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/World_Radio_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/World_Radio_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=World_Radio_Day&amp;oldid=1007480865" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=World_Radio_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=World_Radio_Day&amp;id=1007480865&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1359258" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=World_Radio_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=World_Radio_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:World_Radio_Day" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A_%D9%84%D9%84%D8%A5%D8%B0%D8%A7%D8%B9%D8%A9" title="اليوم العالمي للإذاعة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/D%C3%ADa_Mundial_de_la_Radio" title="Día Mundial de la Radio – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Beyn%C9%99lxalq_Radio_G%C3%BCn%C3%BC" title="Beynəlxalq Radio Günü – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC_%E0%A6%AC%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%B0_%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8" title="বিশ্ব বেতার দিবস – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Dia_mundial_de_la_R%C3%A0dio" title="Dia mundial de la Ràdio – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Welttag_des_Radios" title="Welttag des Radios – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_de_la_Radio" title="Día Mundial de la Radio – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D8%AC%D9%87%D8%A7%D9%86%DB%8C_%D8%B1%D8%A7%D8%AF%DB%8C%D9%88" title="روز جهانی رادیو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_de_la_radio" title="Journée mondiale de la radio – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/L%C3%A1_Domhanda_Raidi%C3%B3" title="Lá Domhanda Raidió – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8C%D5%A1%D5%A4%D5%AB%D5%B8%D5%B5%D5%AB_%D5%B0%D5%A1%D5%B4%D5%A1%D5%B7%D5%AD%D5%A1%D6%80%D5%B0%D5%A1%D5%B5%D5%AB%D5%B6_%D6%85%D6%80" title="Ռադիոյի համաշխարհային օր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5_%E0%A4%B0%E0%A5%87%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A5%8B_%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8" title="विश्व रेडियो दिवस – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%9D_%D7%94%D7%A8%D7%93%D7%99%D7%95_%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%99" title="יום הרדיו העולמי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Dies_mundialis_radiophoniae" title="Dies mundialis radiophoniae – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8_%D0%B4%D0%B5%D0%BD_%D0%BD%D0%B0_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D1%82%D0%BE" title="Светски ден на радиото – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B2%E0%B5%8B%E0%B4%95_%E0%B4%B1%E0%B5%87%E0%B4%A1%E0%B4%BF%E0%B4%AF%E0%B5%8B_%E0%B4%A6%E0%B4%BF%E0%B4%A8%E0%B4%82" title="ലോക റേഡിയോ ദിനം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Verdens_radiodag" title="Verdens radiodag – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/%C5%9Awiatowy_Dzie%C5%84_Radia" title="Światowy Dzień Radia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE" title="Всемирный день радио – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Dita_Bot%C3%ABrore_e_Radios" title="Dita Botërore e Radios – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%B2%E0%AE%95_%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AF%8A%E0%AE%B2%E0%AE%BF_%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D" title="உலக வானொலி நாள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%AA%E0%B0%82%E0%B0%9A_%E0%B0%B0%E0%B1%87%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B1%8B_%E0%B0%A6%E0%B0%BF%E0%B0%A8%E0%B1%8B%E0%B0%A4%E0%B1%8D%E0%B0%B8%E0%B0%B5%E0%B0%82" title="ప్రపంచ రేడియో దినోత్సవం – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A0%D3%AF%D0%B7%D0%B8_%D2%B7%D0%B0%D2%B3%D0%BE%D0%BD%D0%B8%D0%B8_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE" title="Рӯзи ҷаҳонии радио – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%96%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D1%80%D0%B0%D0%B4%D1%96%D0%BE" title="Всесвітній день радіо – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B9%D8%A7%D9%84%D9%85%DB%8C_%DB%8C%D9%88%D9%85_%D8%B1%DB%8C%DA%88%DB%8C%D9%88" title="عالمی یوم ریڈیو – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ng%C3%A0y_Ph%C3%A1t_thanh_Th%E1%BA%BF_gi%E1%BB%9Bi" title="Ngày Phát thanh Thế giới – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1359258#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 18 February 2021, at 10:14<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=World_Radio_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.397","walltime":"0.487","ppvisitednodes":{"value":1163,"limit":1000000},"postexpandincludesize":{"value":51106,"limit":2097152},"templateargumentsize":{"value":7118,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":45741,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  414.025      1 -total"," 52.99%  219.392      1 Template:Reflist"," 40.11%  166.046     13 Template:Cite_web"," 25.74%  106.554      3 Template:Ambox"," 19.82%   82.065      1 Template:Multiple_issues"," 14.20%   58.803      1 Template:Use_dmy_dates","  8.83%   36.567      1 Template:Citation_needed","  8.02%   33.210      1 Template:POV","  7.18%   29.746      1 Template:Fix","  5.04%   20.868      1 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.195","limit":"10.000"},"limitreport-memusage":{"value":4919317,"limit":52428800}},"cachereport":{"origin":"mw1339","timestamp":"20210414025743","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"World Radio Day","url":"https:\/\/en.wikipedia.org\/wiki\/World_Radio_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1359258","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1359258","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-10-13T20:02:08Z","dateModified":"2021-02-18T10:14:49Z","headline":"world day"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":147,"wgHostname":"mw1368"});});</script> 
+ </body>
+</html>

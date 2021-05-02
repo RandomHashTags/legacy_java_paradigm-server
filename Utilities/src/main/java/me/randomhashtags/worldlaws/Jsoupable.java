@@ -12,17 +12,16 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 
 public interface Jsoupable {
-    String FILE_SEPARATOR = File.separator;
 
     private static String fixURL(String url) {
         return url.replace("/", "-").replace(".", "_").replace(":", "-");
     }
     private static String getFolder(FileType type) {
-        final String folderName = type.getFolderName();
-        return "downloaded_pages" + (folderName != null ? FILE_SEPARATOR + folderName : "");
+        return FolderUtils.getFolder(type);
     }
     public static Document getLocalDocument(FileType type, String url) throws Exception {
-        final String currentPath = System.getProperty("user.dir") + FILE_SEPARATOR;
+        final String fileSeparator = File.separator;
+        final String currentPath = System.getProperty("user.dir") + fileSeparator;
 
         final String folder = currentPath + getFolder(type);
         final File folderFile = new File(folder);
@@ -30,7 +29,7 @@ public interface Jsoupable {
             Files.createDirectory(folderFile.toPath());
         }
 
-        final String directory = folder + FILE_SEPARATOR + fixURL(url) + ".txt";
+        final String directory = folder + fileSeparator + fixURL(url) + ".txt";
         final File file = new File(directory);
         if(file.exists()) {
             /*final Path path = file.toPath();
@@ -44,10 +43,11 @@ public interface Jsoupable {
         return null;
     }
     private static void createDocument(FileType type, String url, String html) throws Exception {
-        final String currentPath = System.getProperty("user.dir") + FILE_SEPARATOR;
+        final String fileSeparator = File.separator;
+        final String currentPath = System.getProperty("user.dir") + fileSeparator;
 
         final String folder = currentPath + getFolder(type);
-        final String directory = folder + FILE_SEPARATOR + fixURL(url) + ".txt";
+        final String directory = folder + fileSeparator + fixURL(url) + ".txt";
         final File file = new File(directory);
         if(!file.exists()) {
             final Path path = file.toPath();
@@ -66,13 +66,16 @@ public interface Jsoupable {
     }
 
     default Document getDocument(String url) {
-        return getDocument(null, url, false);
+        return getDocument(FileType.OTHER, url, false);
     }
     default Document getDocument(FileType type, String url) {
         return getDocument(type, url, false);
     }
     default Document getDocument(FileType type, String url, boolean download) {
         return getStaticDocument(type, url, download);
+    }
+    default Document getDocument(FileType type, String fileName, String url, boolean download) {
+        return getStaticDocument(type, fileName, url, download);
     }
     default Elements getDocumentElements(FileType type, String url, String targetElements) {
         return Jsoupable.getStaticDocumentElements(type, url, false, targetElements, -1);
@@ -83,15 +86,24 @@ public interface Jsoupable {
     default Elements getDocumentElements(FileType type, String url, boolean download, String targetElements) {
         return Jsoupable.getStaticDocumentElements(type, url, download, targetElements, -1);
     }
+    default Elements getDocumentElements(FileType type, String fileName, String url, boolean download, String targetElements) {
+        return Jsoupable.getStaticDocumentElements(type, fileName, url, download, targetElements, -1);
+    }
     default Elements getDocumentElements(FileType type, String url, boolean download, String targetElements, int index) {
         return Jsoupable.getStaticDocumentElements(type, url, download, targetElements, index);
+    }
+    default Elements getDocumentElements(FileType type, String fileName, String url, boolean download, String targetElements, int index) {
+        return Jsoupable.getStaticDocumentElements(type, fileName, url, download, targetElements, index);
     }
     static Elements getStaticDocumentElements(FileType type, String url, boolean download, String targetElements) {
         return getStaticDocumentElements(type, url, download, targetElements, -1);
     }
     static Elements getStaticDocumentElements(FileType type, String url, boolean download, String targetElements, int index) {
+        return getStaticDocumentElements(type, null, url, download, targetElements, index);
+    }
+    static Elements getStaticDocumentElements(FileType type, String fileName, String url, boolean download, String targetElements, int index) {
         try {
-            final Document local = getLocalDocument(type, url);
+            final Document local = getLocalDocument(type, fileName != null ? fileName : url);
             final boolean isList = targetElements.endsWith(" li"), isTR = targetElements.endsWith(" tr");
             if(local != null) {
                 final boolean isUL = targetElements.endsWith(" ul");
@@ -122,28 +134,31 @@ public interface Jsoupable {
                 } else {
                     html = element.outerHtml();
                 }
-                createDocument(type, url, html);
+                createDocument(type, fileName != null ? fileName : url, html);
             }
             return hasIndex ? element.getAllElements() : elements;
         } catch (Exception e) {
-            WLLogger.log(Level.WARN, "Jsoupable - getStaticDocumentElements(" + url + ") - error getting document elements! (" + e.getLocalizedMessage() + ")");
+            WLLogger.log(Level.WARN, "Jsoupable - fileName=\"" + fileName + "\", getStaticDocumentElements(" + url + ") - error getting document elements! (" + e.getLocalizedMessage() + ")");
             return null;
         }
     }
     static Document getStaticDocument(FileType type, String url, boolean download) {
+        return getStaticDocument(type, null, url, download);
+    }
+    static Document getStaticDocument(FileType type, String fileName, String url, boolean download) {
         try {
-            final Document local = getLocalDocument(type, url);
+            final Document local = getLocalDocument(type, fileName != null ? fileName : url);
             if(local != null) {
                 return local;
             }
             final Document doc = requestDocument(url);
             if(download) {
                 final String html = doc.html();
-                createDocument(type, url, html);
+                createDocument(type, fileName != null ? fileName : url, html);
             }
             return doc;
         } catch (Exception e) {
-            WLLogger.log(Level.WARN, "Jsoupable - getStaticDocument(" + url + ") - download=" + download + " - error getting document!");
+            WLLogger.log(Level.WARN, "Jsoupable - fileName=\"" + fileName + "\", getStaticDocument(" + url + ") - download=" + download + " - error getting document! (" + e.getLocalizedMessage() + ")");
             return null;
         }
     }

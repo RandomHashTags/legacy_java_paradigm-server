@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
 import me.randomhashtags.worldlaws.earthquakes.recode.NewEarthquakes;
 import me.randomhashtags.worldlaws.hurricanes.Hurricanes;
-import me.randomhashtags.worldlaws.weather.country.WeatherUS;
+import me.randomhashtags.worldlaws.weather.country.WeatherUSA;
 import org.apache.logging.log4j.Level;
 
 import java.util.HashSet;
@@ -16,25 +16,19 @@ public final class Weather implements DataValues {
     }
 
     private void init() {
-        //test();
-        load();
+        test();
+        //loadServer();
     }
 
     private void test() {
-        WeatherUS.INSTANCE.getAlertEvents(new CompletionHandler() {
+        WeatherUSA.INSTANCE.refresh(new CompletionHandler() {
             @Override
             public void handle(Object object) {
-                WLLogger.log(Level.INFO, "Weather;test;WeatherUS.getAlertEvents;object=" + object);
+                loadServer();
             }
         });
-        /*WeatherAlerts.INSTANCE.getResponse("all", new CompletionHandler() {
-            @Override
-            public void handle(Object object) {
-                WLLogger.log(Level.INFO, "Weather;test;WeatherAlerts.getResponse(all);object=" + object.toString());
-            }
-        });*/
     }
-    private void load() {
+    private void loadServer() {
         LocalServer.start("Weather", WL_WEATHER_PORT, new CompletionHandler() {
             @Override
             public void handleClient(WLClient client) {
@@ -78,16 +72,23 @@ public final class Weather implements DataValues {
             add("earthquakes/recent");
         }};
         final int max = requests.size();
-        final StringBuilder builder = new StringBuilder("{");
         final AtomicInteger completed = new AtomicInteger(0);
+        final HashSet<String> values = new HashSet<>();
         requests.parallelStream().forEach(request -> {
             final String key = request.split("/")[0];
             getResponse(request, new CompletionHandler() {
                 @Override
                 public void handle(Object object) {
-                    builder.append(completed.get() == 0 ? "" : ",").append("\"").append(key).append("\":").append(object.toString());
-                    final int value = completed.addAndGet(1);
-                    if(value == max) {
+                    final String string = "\"" + key + "\":" + object.toString();
+                    values.add(string);
+                    final int completedHandlers = completed.addAndGet(1);
+                    if(completedHandlers == max) {
+                        final StringBuilder builder = new StringBuilder("{");
+                        boolean isFirst = true;
+                        for(String value : values) {
+                            builder.append(isFirst ? "" : ",").append(value);
+                            isFirst = false;
+                        }
                         builder.append("}");
                         handler.handle(builder.toString());
                     }

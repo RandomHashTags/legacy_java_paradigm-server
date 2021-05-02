@@ -2,8 +2,7 @@ package me.randomhashtags.worldlaws.event.entertainment;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
-import me.randomhashtags.worldlaws.UpcomingEventType;
-import me.randomhashtags.worldlaws.event.EventDate;
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.event.UpcomingEvent;
 
 public final class MusicAlbumEvent implements UpcomingEvent {
@@ -11,8 +10,8 @@ public final class MusicAlbumEvent implements UpcomingEvent {
     private final String artist, album, albumImageURL, description;
     private final EventSources sources;
 
-    public MusicAlbumEvent(EventDate releaseDate, String artist, String album, String albumImageURL, String description, EventSources sources) {
-        this.releaseDate = releaseDate;
+    public MusicAlbumEvent(String artist, String album, String albumImageURL, String description, EventSources sources) {
+        this.releaseDate = null;
         this.artist = LocalServer.fixEscapeValues(artist);
         this.album = LocalServer.fixEscapeValues(album);
         this.albumImageURL = albumImageURL;
@@ -20,10 +19,6 @@ public final class MusicAlbumEvent implements UpcomingEvent {
         this.sources = sources;
     }
 
-    @Override
-    public UpcomingEventType getType() {
-        return UpcomingEventType.MUSIC_ALBUM;
-    }
     @Override
     public EventDate getDate() {
         return releaseDate;

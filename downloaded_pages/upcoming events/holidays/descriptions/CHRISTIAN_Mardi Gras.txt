@@ -1,0 +1,1276 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Mardi Gras - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"eeb0ebf7-aad1-42db-b607-ce46751cc508","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mardi_Gras","wgTitle":"Mardi Gras","wgCurRevisionId":1019998258,"wgRevisionId":1019998258,"wgArticleId":38482,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","CS1 German-language sources (de)","Webarchive template wayback links","Articles with short description","Short description matches Wikidata","Wikipedia indefinitely move-protected pages","Wikipedia indefinitely semi-protected pages","Use dmy dates from March 2018",
+"Infobox holiday (other)","Articles containing French-language text","All articles with failed verification","Articles with failed verification from February 2014","Commons category link from Wikidata","Mardi Gras","Tuesday observances","February observances","March observances","Holidays based on the date of Easter","Catholic Church in the United States","Clothing-optional events"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Mardi_Gras","wgRelevantArticleId":38482,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},
+"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q35105"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/KosmicFrenchmenPurpleFaceMardiGras2009.JPG/1200px-KosmicFrenchmenPurpleFaceMardiGras2009.JPG"> 
+  <meta property="og:title" content="Mardi Gras - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Mardi_Gras"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Mardi_Gras"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mardi_Gras rootpage-Mardi_Gras skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+    <div id="mw-indicator-pp-default" class="mw-indicator">
+     <a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512"></a>
+    </div> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">Mardi Gras</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Holiday on the day before Ash Wednesday
+      </div> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       This article is about the carnival holiday. For other uses, see <a href="/wiki/Mardi_Gras_(disambiguation)" class="mw-disambig" title="Mardi Gras (disambiguation)">Mardi Gras (disambiguation)</a>.
+      </div> 
+      <p class="mw-empty-elt"> </p> 
+      <table class="infobox vevent">
+       <tbody>
+        <tr>
+         <th colspan="2" class="infobox-above hd" style="background-color: transparent">Mardi Gras</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image"><a href="/wiki/File:KosmicFrenchmenPurpleFaceMardiGras2009.JPG" class="image"><img alt="KosmicFrenchmenPurpleFaceMardiGras2009.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/KosmicFrenchmenPurpleFaceMardiGras2009.JPG/240px-KosmicFrenchmenPurpleFaceMardiGras2009.JPG" decoding="async" width="240" height="180" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/KosmicFrenchmenPurpleFaceMardiGras2009.JPG/360px-KosmicFrenchmenPurpleFaceMardiGras2009.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/KosmicFrenchmenPurpleFaceMardiGras2009.JPG/480px-KosmicFrenchmenPurpleFaceMardiGras2009.JPG 2x" data-file-width="2816" data-file-height="2112"></a>
+          <div class="infobox-caption" style="caption">
+           <a href="/wiki/Mardi_Gras_in_New_Orleans" title="Mardi Gras in New Orleans">Celebrations</a> in <a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a>, <a href="/wiki/Louisiana" title="Louisiana">Louisiana</a>, <a href="/wiki/U.S." class="mw-redirect" title="U.S.">U.S.</a>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Also called</th>
+         <td class="infobox-data">Fat Tuesday, Shrove Tuesday, Pancake Tuesday</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Type</th>
+         <td class="infobox-data">Christian, Cultural</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Significance</th>
+         <td class="infobox-data summary">Celebration period before fasting season of <a href="/wiki/Lent" title="Lent">Lent</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Celebrations</th>
+         <td class="infobox-data">Parades, parties</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Date</th>
+         <td class="infobox-data">Day before <a href="/wiki/Ash_Wednesday" title="Ash Wednesday">Ash Wednesday</a>, 47 days before <a href="/wiki/Easter" title="Easter">Easter</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2020&nbsp;date</th>
+         <td class="infobox-data">February 25</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2021&nbsp;date</th>
+         <td class="infobox-data">February 16</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2022&nbsp;date</th>
+         <td class="infobox-data">March 1</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2023&nbsp;date</th>
+         <td class="infobox-data">February 21</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Frequency</th>
+         <td class="infobox-data">Annual</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Related&nbsp;to</th>
+         <td class="infobox-data"><a href="/wiki/Shrove_Tuesday" title="Shrove Tuesday">Shrove Tuesday</a>, <a href="/wiki/Carnival" title="Carnival">Carnival</a>, <a href="/wiki/Shrove_Monday" title="Shrove Monday">Shrove Monday</a>, <a href="/wiki/Shrovetide" title="Shrovetide">Shrovetide</a>, <a href="/wiki/Ash_Wednesday" title="Ash Wednesday">Ash Wednesday</a>, <a href="/wiki/Lent" title="Lent">Lent</a>, <a href="/wiki/U%C5%BEgav%C4%97n%C4%97s" title="Užgavėnės">Užgavėnės</a>, <a href="/wiki/Maslenitsa" title="Maslenitsa">Maslenitsa</a>,</td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Mardi Gras</b> (<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'m' in 'my'">m</span><span title="/ɑːr/: 'ar' in 'far'">ɑːr</span><span title="'d' in 'dye'">d</span><span title="/i/: 'y' in 'happy'">i</span></span><span class="wrap"> </span><span style="border-bottom:1px dotted"><span title="/ˌ/: secondary stress follows">ˌ</span><span title="/ɡ/: 'g' in 'guy'">ɡ</span><span title="'r' in 'rye'">r</span><span title="/ɑː/: 'a' in 'father'">ɑː</span></span>/</a></span></span>), or <b>Fat Tuesday</b>, refers to events of the <a href="/wiki/Carnival" title="Carnival">Carnival</a> celebration, beginning on or after the Christian feasts of the <a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Epiphany</a> (Three Kings Day) and culminating on the day before <a href="/wiki/Ash_Wednesday" title="Ash Wednesday">Ash Wednesday</a>, which is known as <a href="/wiki/Shrove_Tuesday" title="Shrove Tuesday">Shrove Tuesday</a>. <i lang="fr" title="French-language text">Mardi Gras</i> is <a href="/wiki/French_language" title="French language">French</a> for "Fat Tuesday", reflecting the practice of the last night of eating rich, fatty foods before the ritual <a href="/wiki/Lenten_sacrifice" title="Lenten sacrifice">Lenten sacrifices</a> and <a href="/wiki/Fasting" title="Fasting">fasting</a> of the <a href="/wiki/Lent" title="Lent">Lenten</a> season. </p>
+      <p>Related popular practices are associated with <a href="/wiki/Shrovetide" title="Shrovetide">Shrovetide</a> celebrations before the fasting and religious obligations associated with the <a href="/wiki/Penitential" title="Penitential">penitential</a> season of Lent. In countries such as the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, Mardi Gras is also known as Shrove Tuesday, which is derived from the word <i>shrive</i>, meaning "to administer the sacrament of <a href="/wiki/Confession_(religion)" title="Confession (religion)">confession</a> to; to absolve".<sup id="cite_ref-Melitta_Weiss_Adamson,_Francine_Segan_2008_1-0" class="reference"><a href="#cite_note-Melitta_Weiss_Adamson,_Francine_Segan_2008-1">[1]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Traditions"><span class="tocnumber">2</span> <span class="toctext">Traditions</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-3"><a href="#Czech_Republic"><span class="tocnumber">2.1</span> <span class="toctext">Czech Republic</span></a></li> 
+          <li class="toclevel-2 tocsection-4"><a href="#Germany"><span class="tocnumber">2.2</span> <span class="toctext">Germany</span></a></li> 
+          <li class="toclevel-2 tocsection-5"><a href="#Italy"><span class="tocnumber">2.3</span> <span class="toctext">Italy</span></a></li> 
+          <li class="toclevel-2 tocsection-6"><a href="#Sweden"><span class="tocnumber">2.4</span> <span class="toctext">Sweden</span></a></li> 
+          <li class="toclevel-2 tocsection-7"><a href="#United_States"><span class="tocnumber">2.5</span> <span class="toctext">United States</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-8"><a href="#Costumes"><span class="tocnumber">3</span> <span class="toctext">Costumes</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-9"><a href="#Exposure_by_women"><span class="tocnumber">3.1</span> <span class="toctext">Exposure by women</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span></h2> 
+      <p>Some think Mardi Gras may be linked<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> with the ancient Roman <a href="/wiki/Paganism" title="Paganism">pagan</a> celebrations of spring and fertility such as <a href="/wiki/Saturnalia" title="Saturnalia">Saturnalia</a>, which dates back to 133–31 <a href="/wiki/Anno_Domini" title="Anno Domini">BC</a>. This celebration honored the god of agriculture, Saturn. It was observed in mid-December, before the sowing of winter crops. It was a week-long festival when work and business came to a halt. Schools and courts of law closed, and the normal social patterns were suspended. On the <a href="/wiki/Julian_calendar" title="Julian calendar">Julian calendar</a>, which the Romans adopted in 45 BC,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> the winter solstice fell on December 25. Hence, the celebration gradually became associated with Christmas.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Traditions">Traditions</span></h2> 
+      <p>The festival season varies from city to city, as some traditions, such as the one in <a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a>, <a href="/wiki/Louisiana" title="Louisiana">Louisiana</a>, consider Mardi Gras to stretch the entire period from <a href="/wiki/Twelfth_Night_(holiday)" title="Twelfth Night (holiday)">Twelfth Night</a> (the last night of Christmas which begins <a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Epiphany</a>) to Ash Wednesday.<sup id="cite_ref-carnivalterminology_5-0" class="reference"><a href="#cite_note-carnivalterminology-5">[5]</a></sup><sup id="cite_ref-Wild/Dufour/Cowan_(seas/New_Orl.)_6-0" class="reference"><a href="#cite_note-Wild/Dufour/Cowan_(seas/New_Orl.)-6">[6]</a></sup> Others treat the final three-day period before Ash Wednesday as the Mardi Gras.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> In <a href="/wiki/Mardi_Gras_in_Mobile" class="mw-redirect" title="Mardi Gras in Mobile">Mobile</a>, <a href="/wiki/Alabama" title="Alabama">Alabama</a>, Mardi Gras–associated social events begin in November, followed by <a href="/wiki/Mystic_society" title="Mystic society">mystic society</a> balls on <a href="/wiki/Thanksgiving" title="Thanksgiving">Thanksgiving</a>,<sup id="cite_ref-carnivalterminology_5-1" class="reference"><a href="#cite_note-carnivalterminology-5">[5]</a></sup><sup id="cite_ref-MCA_8-0" class="reference"><a href="#cite_note-MCA-8">[8]</a></sup> then New Year's Eve, followed by parades and balls in January and February, celebrating up to midnight before <a href="/wiki/Ash_Wednesday" title="Ash Wednesday">Ash Wednesday</a>. In earlier times, parades were held on New Year's Day.<sup id="cite_ref-carnivalterminology_5-2" class="reference"><a href="#cite_note-carnivalterminology-5">[5]</a></sup> Carnival is an important celebration in <a href="/wiki/Anglican" class="mw-redirect" title="Anglican">Anglican</a> and <a href="/wiki/Catholic" class="mw-redirect" title="Catholic">Catholic</a> European nations.<sup id="cite_ref-Melitta_Weiss_Adamson,_Francine_Segan_2008_1-1" class="reference"><a href="#cite_note-Melitta_Weiss_Adamson,_Francine_Segan_2008-1">[1]</a></sup> </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:MardiGrasDakar.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/MardiGrasDakar.JPG/220px-MardiGrasDakar.JPG" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/MardiGrasDakar.JPG/330px-MardiGrasDakar.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/MardiGrasDakar.JPG/440px-MardiGrasDakar.JPG 2x" data-file-width="2048" data-file-height="1536"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:MardiGrasDakar.JPG" class="internal" title="Enlarge"></a>
+         </div>Mardi Gras in <a href="/wiki/Dakar" title="Dakar">Dakar</a>, Senegal
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Marseille-carnival-sun-and-moon.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Marseille-carnival-sun-and-moon.jpg/220px-Marseille-carnival-sun-and-moon.jpg" decoding="async" width="220" height="176" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Marseille-carnival-sun-and-moon.jpg/330px-Marseille-carnival-sun-and-moon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Marseille-carnival-sun-and-moon.jpg/440px-Marseille-carnival-sun-and-moon.jpg 2x" data-file-width="2461" data-file-height="1968"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Marseille-carnival-sun-and-moon.jpg" class="internal" title="Enlarge"></a>
+         </div>Mardi Gras in <a href="/wiki/Marseille" title="Marseille">Marseille</a>, France
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Binche_-_Les_Gilles.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Binche_-_Les_Gilles.jpg/220px-Binche_-_Les_Gilles.jpg" decoding="async" width="220" height="157" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Binche_-_Les_Gilles.jpg/330px-Binche_-_Les_Gilles.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Binche_-_Les_Gilles.jpg/440px-Binche_-_Les_Gilles.jpg 2x" data-file-width="4056" data-file-height="2902"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Binche_-_Les_Gilles.jpg" class="internal" title="Enlarge"></a>
+         </div>Mardi Gras in <a href="/wiki/Binche" title="Binche">Binche</a>, Belgium
+        </div>
+       </div>
+      </div> 
+      <h3><span class="mw-headline" id="Czech_Republic">Czech Republic</span></h3> 
+      <p>In the Czech Republic it is a folk tradition to celebrate Mardi Gras, which is called Masopust (meat-fast i.e. beginning of fast there). There are celebration in many places including Prague<sup id="cite_ref-Masopust_9-0" class="reference"><a href="#cite_note-Masopust-9">[9]</a></sup> but the tradition also prevails in the villages such as <a href="/wiki/Star%C3%A9_Hamry" title="Staré Hamry">Staré Hamry</a>, whose the door-to-door processions there made it to the <a href="/wiki/UNESCO_World_Intangible_Cultural_Heritage_List" class="mw-redirect" title="UNESCO World Intangible Cultural Heritage List">UNESCO World Intangible Cultural Heritage List</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Germany">Germany</span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main articles: <a href="/wiki/Carnival_in_Germany,_Switzerland_and_Austria" title="Carnival in Germany, Switzerland and Austria">Karneval, Fasching</a> and <a href="/wiki/Swabian%E2%80%93Alemannic_Fastnacht" class="mw-redirect" title="Swabian–Alemannic Fastnacht">Fastnacht</a>
+      </div> 
+      <p>The celebration on the same day in <a href="/wiki/Germany" title="Germany">Germany</a> knows many different terms, such as <i>Schmutziger Donnerstag</i> or <i>Fetter Donnerstag</i> (Fat Thursday), <i>Unsinniger Donnerstag</i>, <i>Weiberfastnacht</i>, <i>Greesentag</i> and others, and are often only one part of the whole carnival events during one or even two weeks before Ash Wednesday be called <a href="/wiki/Carnival_in_Germany,_Switzerland_and_Austria" title="Carnival in Germany, Switzerland and Austria">Karneval, Fasching</a>, or <a href="/wiki/Swabian%E2%80%93Alemannic_Fastnacht" class="mw-redirect" title="Swabian–Alemannic Fastnacht">Fastnacht</a> among others, depending on the region. In <a href="/wiki/Standard_German" title="Standard German">standard German</a>, <i>schmutzig</i> means "dirty", but in the Alemannic dialects <i>schmotzig</i> means "lard" (<a href="/wiki/Schmalz" class="mw-redirect" title="Schmalz">Schmalz</a>), or "fat";<sup id="cite_ref-Schmotzig_11-0" class="reference"><a href="#cite_note-Schmotzig-11">[11]</a></sup> "Greasy Thursday", as remaining winter stores of lard and butter used to be consumed at that time, before the fasting began. <i>Fastnacht</i> means "Eve of the Fast", but all three terms cover the whole carnival season. The traditional start of the carnival season is on 11 November at 11:11 am (11/11 11:11). </p> 
+      <h3><span class="mw-headline" id="Italy">Italy</span></h3> 
+      <p>In <a href="/wiki/Italy" title="Italy">Italy</a> Mardi Gras is called Martedì Grasso (Fat Tuesday). It's the main day of <a href="/wiki/Carnival" title="Carnival">Carnival</a> along with the Thursday before, called Giovedí Grasso (Fat Thursday), which ratifies the start of the celebrations. The most famous <a href="/wiki/Carnivals" class="mw-redirect" title="Carnivals">Carnivals</a> in northern Italy are in Venice, Viareggio and Ivrea, while in the southern part of Italy the Sardinian <a href="/wiki/Sartiglia" class="mw-redirect" title="Sartiglia">Sartiglia</a> and the intriguing apotropaic masks, especially the mamuthones, issohadores, s'urtzu (and so on), are more popular, belonging to a very ancient tradition. Ivrea has the characteristic "<a href="/wiki/Battle_of_the_Oranges" title="Battle of the Oranges">Battle of Oranges</a>" that finds its roots in medieval times. The Italian version of the festival is spelled Carnevale.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Sweden">Sweden</span></h3> 
+      <p>In <a href="/wiki/Sweden" title="Sweden">Sweden</a> the celebration is called Fettisdagen, when fastlagsbulle is eaten, more commonly called <a href="/wiki/Semla" title="Semla">Semla</a>. The name comes from the words "fett" (fat) and "tisdag" (Tuesday). Originally, this was the only day one should eat <a href="/wiki/Fastlagsbulle" class="mw-redirect" title="Fastlagsbulle">fastlagsbullar</a>.<sup id="cite_ref-semla_13-0" class="reference"><a href="#cite_note-semla-13">[13]</a></sup> </p> 
+      <h3><span class="mw-headline" id="United_States">United States</span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       See also: <a href="/wiki/Mardi_Gras_in_the_United_States" title="Mardi Gras in the United States">Mardi Gras in the United States</a>, <a href="/wiki/Mardi_Gras_in_Mobile" class="mw-redirect" title="Mardi Gras in Mobile">Mardi Gras in Mobile</a>, and <a href="/wiki/Mardi_Gras_in_New_Orleans" title="Mardi Gras in New Orleans">Mardi Gras in New Orleans</a>
+      </div> 
+      <p>While not observed nationally throughout the United States, a number of traditionally ethnic French cities and regions in the country have notable celebrations. Mardi Gras arrived in North America as a <a href="/wiki/French_Catholic" class="mw-redirect" title="French Catholic">French Catholic</a> tradition with the Le Moyne brothers,<sup id="cite_ref-MGtime_14-0" class="reference"><a href="#cite_note-MGtime-14">[14]</a></sup> <a href="/wiki/Pierre_Le_Moyne_d%27Iberville" title="Pierre Le Moyne d'Iberville">Pierre Le Moyne d'Iberville</a> and <a href="/wiki/Jean-Baptiste_Le_Moyne_de_Bienville" title="Jean-Baptiste Le Moyne de Bienville">Jean-Baptiste Le Moyne de Bienville</a>, in the late 17th century, when <a href="/wiki/King_Louis_XIV" class="mw-redirect" title="King Louis XIV">King Louis XIV</a> sent the pair to defend France's claim on the territory of <i><a href="/wiki/Louisiana_(New_France)" title="Louisiana (New France)">Louisiane</a></i>, which included what are now the U.S. states of <a href="/wiki/Alabama" title="Alabama">Alabama</a>, <a href="/wiki/Mississippi" title="Mississippi">Mississippi</a>, <a href="/wiki/Louisiana" title="Louisiana">Louisiana</a> and part of eastern <a href="/wiki/Texas" title="Texas">Texas</a>.<sup id="cite_ref-MGtime_14-1" class="reference"><a href="#cite_note-MGtime-14">[14]</a></sup> </p>
+      <p>The expedition, led by Iberville, entered the mouth of the <a href="/wiki/Mississippi_River" title="Mississippi River">Mississippi River</a> on the evening of 2 March 1699 (new style), <a href="/wiki/Lundi_Gras" title="Lundi Gras">Lundi Gras</a>. They did not yet know it was the river explored and claimed for France by <a href="/wiki/Ren%C3%A9-Robert_Cavelier,_Sieur_de_La_Salle" title="René-Robert Cavelier, Sieur de La Salle">René-Robert Cavelier, Sieur de La Salle</a> in 1683. The party proceeded upstream to a place on the east bank about 60 miles (100&nbsp;km) downriver from where <a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a> is today, and made camp. This was on 3 March 1699, Mardi Gras, so in honour of this holiday, Iberville named the spot <i>Point du Mardi Gras</i> (French: "Mardi Gras Point") and called the nearby tributary Bayou Mardi Gras.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> <a href="/wiki/Jean-Baptiste_Le_Moyne_de_Bienville" title="Jean-Baptiste Le Moyne de Bienville">Bienville</a> went on to found the settlement of <a href="/wiki/Mobile,_Alabama" title="Mobile, Alabama">Mobile, Alabama</a> in 1702 as the first capital of French Louisiana.<sup id="cite_ref-TLhist_16-0" class="reference"><a href="#cite_note-TLhist-16">[16]</a></sup> In 1703 French settlers in Mobile established the <a href="/wiki/Mardi_Gras_in_Mobile" class="mw-redirect" title="Mardi Gras in Mobile">first organised Mardi Gras</a> celebration tradition in what was to become the United States.<sup id="cite_ref-MGtime_14-2" class="reference"><a href="#cite_note-MGtime-14">[14]</a></sup><sup id="cite_ref-MoMtime_17-0" class="reference"><a href="#cite_note-MoMtime-17">[17]</a></sup><sup id="cite_ref-LOCgras_18-0" class="reference"><a href="#cite_note-LOCgras-18">[18]</a></sup><sup id="cite_ref-MBAYgras_19-0" class="reference"><a href="#cite_note-MBAYgras-19">[19]</a></sup> The first informal <a href="/wiki/Mystic_society" title="Mystic society">mystic society</a>, or <a href="/wiki/Krewe" title="Krewe">krewe</a>, was formed in Mobile in 1711, the <i>Boeuf Gras Society</i>.<sup id="cite_ref-MoMtime_17-1" class="reference"><a href="#cite_note-MoMtime-17">[17]</a></sup> By 1720, <a href="/wiki/Biloxi,_Mississippi" title="Biloxi, Mississippi">Biloxi</a> had been made capital of Louisiana. The French Mardi Gras customs had accompanied the colonists who settled there.<sup id="cite_ref-MGtime_14-3" class="reference"><a href="#cite_note-MGtime-14">[14]</a></sup> </p> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Mobile_Mardi_Gras_2010_48.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mobile_Mardi_Gras_2010_48.jpg/220px-Mobile_Mardi_Gras_2010_48.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mobile_Mardi_Gras_2010_48.jpg/330px-Mobile_Mardi_Gras_2010_48.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mobile_Mardi_Gras_2010_48.jpg/440px-Mobile_Mardi_Gras_2010_48.jpg 2x" data-file-width="1024" data-file-height="683"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Mobile_Mardi_Gras_2010_48.jpg" class="internal" title="Enlarge"></a>
+         </div>Knights of Revelry parade down Royal Street in Mobile during the 2010 Mardi Gras season.
+        </div>
+       </div>
+      </div> 
+      <p>In 1723, the capital of Louisiana was moved to <a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a>, founded in 1718.<sup id="cite_ref-TLhist_16-1" class="reference"><a href="#cite_note-TLhist-16">[16]</a></sup> The first Mardi Gras parade held in New Orleans is recorded to have taken place in 1837. The tradition in New Orleans expanded to the point that it became synonymous with the city in popular perception, and embraced by residents of New Orleans beyond those of French or Catholic heritage. Mardi Gras celebrations are part of the basis of the slogan <i><a href="/wiki/Laissez_les_bons_temps_rouler" title="Laissez les bons temps rouler">Laissez les bons temps rouler</a></i> ("Let the good times roll").<sup id="cite_ref-MGtime_14-4" class="reference"><a href="#cite_note-MGtime-14">[14]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (February 2014)">failed verification</span></a></i>]</sup> On Mardi Gras Day, the Tuesday before Ash Wednesday, the last parades of the season wrap up and the celebrations come to a close with the Meeting of the Courts (known locally as the Rex Ball). Other cities along the Gulf Coast with early French colonial heritage, from <a href="/wiki/Pensacola,_Florida" title="Pensacola, Florida">Pensacola, Florida</a>; <a href="/wiki/Galveston,_Texas" title="Galveston, Texas">Galveston, Texas</a>; to <a href="/wiki/Lake_Charles,_Louisiana" title="Lake Charles, Louisiana">Lake Charles</a> and <a href="/wiki/Lafayette,_Louisiana" title="Lafayette, Louisiana">Lafayette, Louisiana</a>; and north to <a href="/wiki/Natchez,_Mississippi" title="Natchez, Mississippi">Natchez, Mississippi</a> and <a href="/wiki/Alexandria,_Louisiana" title="Alexandria, Louisiana">Alexandria, Louisiana</a>, have active Mardi Gras celebrations. </p>
+      <p>Galveston's first recorded Mardi Gras celebration, in 1867, included a masked ball at Turner Hall (Sealy at 21st St.) and a theatrical performance from Shakespeare's "King Henry IV" featuring Alvan Reed (a justice of the peace weighing in at 350 pounds!) as Falstaff. The first year that Mardi Gras was celebrated on a grand scale in Galveston was 1871 with the emergence of two rival Mardi Gras societies, or "Krewes" called the Knights of Momus (known only by the initials "K.O.M.") and the Knights of Myth, both of which devised night parades, masked balls, exquisite costumes and elaborate invitations. The Knights of Momus, led by some prominent Galvestonians, decorated horse-drawn wagons for a torch lit night parade. Boasting such themes as "The Crusades," "Peter the Great," and "Ancient France," the procession through downtown Galveston culminated at Turner Hall with a presentation of tableaux and a grand gala. </p>
+      <p>In the rural <a href="/wiki/Acadiana" title="Acadiana">Acadiana</a> area, many <a href="/wiki/Cajuns" title="Cajuns">Cajuns</a> celebrate with the <i><a href="/wiki/Courir_de_Mardi_Gras" title="Courir de Mardi Gras">Courir de Mardi Gras</a></i>, a tradition that dates to medieval celebrations in France.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> </p>
+      <p><a href="/wiki/Greater_St._Louis" title="Greater St. Louis">St. Louis</a>, <a href="/wiki/Missouri" title="Missouri">Missouri</a>, founded in 1764 by French fur traders, claims to host the second largest Mardi Gras celebration in the United States.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> The celebration is held in the historic French neighborhood, <a href="/wiki/Soulard,_St._Louis" title="Soulard, St. Louis">Soulard</a>, and attracts hundreds of thousands of people from around the country.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> Although founded in the 1760s, the St. Louis Mardi Gras festivities only date to the 1980s.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> The city's celebration begins with "12th night," held on Epiphany, and ends on Fat Tuesday. The season is peppered with various parades celebrating the city's rich French Catholic heritage.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> </p> 
+      <div style="clear:both;"></div> 
+      <h2><span class="mw-headline" id="Costumes">Costumes</span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Mardi_Gras_Pirates_New_Orleans_Louisiana_WPA.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mardi_Gras_Pirates_New_Orleans_Louisiana_WPA.jpg/220px-Mardi_Gras_Pirates_New_Orleans_Louisiana_WPA.jpg" decoding="async" width="220" height="170" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mardi_Gras_Pirates_New_Orleans_Louisiana_WPA.jpg/330px-Mardi_Gras_Pirates_New_Orleans_Louisiana_WPA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mardi_Gras_Pirates_New_Orleans_Louisiana_WPA.jpg/440px-Mardi_Gras_Pirates_New_Orleans_Louisiana_WPA.jpg 2x" data-file-width="991" data-file-height="767"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Mardi_Gras_Pirates_New_Orleans_Louisiana_WPA.jpg" class="internal" title="Enlarge"></a>
+         </div>Mardi Gras in New Orleans in 1937
+        </div>
+       </div>
+      </div> 
+      <p>Mardi Gras, as a celebration of life before the more-somber occasion of Ash Wednesday, nearly always involves the use of masks and costumes by its participants, and the most popular celebratory colors are purple, green, and gold. In New Orleans, for example, these often take the shape of fairies, animals, people from myths, or various Medieval costumes<sup id="cite_ref-Gabbert1999_25-0" class="reference"><a href="#cite_note-Gabbert1999-25">[25]</a></sup> as well as clowns and Indians (<a href="/wiki/Native_Americans_in_the_United_States" title="Native Americans in the United States">Native Americans</a>).<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> However, many costumes today are simply elaborate creations of colored feathers and capes. Unlike <a href="/wiki/Halloween" title="Halloween">Halloween</a> costumery, Mardi Gras costumes are not usually associated with such things as zombies, mummies, bats, blood, and the like, though death may be a theme in some. The Venice tradition has brought golden masks into the usual round of costumes.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> </p> 
+      <h3><span class="mw-headline" id="Exposure_by_women">Exposure by women</span></h3> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:172px;">
+        <a href="/wiki/File:MardiGras2009CoffeeCustomers.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/MardiGras2009CoffeeCustomers.JPG/170px-MardiGras2009CoffeeCustomers.JPG" decoding="async" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/MardiGras2009CoffeeCustomers.JPG/255px-MardiGras2009CoffeeCustomers.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/MardiGras2009CoffeeCustomers.JPG/340px-MardiGras2009CoffeeCustomers.JPG 2x" data-file-width="2112" data-file-height="2816"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:MardiGras2009CoffeeCustomers.JPG" class="internal" title="Enlarge"></a>
+         </div>A topless woman at a coffee house, Mardi Gras Day in New Orleans, 2009
+        </div>
+       </div>
+      </div> 
+      <p>Women exposing their breasts during Mardi Gras in <a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a>, US, has been documented since 1889, when the <i>Times-Democrat</i> decried the "degree of immodesty exhibited by nearly all female masqueraders seen on the streets." The practice was mostly limited to tourists in the upper Bourbon Street area.<sup id="cite_ref-sparks_28-0" class="reference"><a href="#cite_note-sparks-28">[28]</a></sup><sup id="cite_ref-shrum_29-0" class="reference"><a href="#cite_note-shrum-29">[29]</a></sup> In the crowded streets of the French Quarter, generally avoided by locals on Mardi Gras Day, <a href="/wiki/Exhibitionism" title="Exhibitionism">flashers</a> on balconies cause crowds to form on the streets. </p>
+      <p>In the last decades of the 20th century, the rise in producing commercial <a href="/wiki/Videotape" title="Videotape">videotapes</a> catering to <a href="/wiki/Voyeurism" title="Voyeurism">voyeurs</a> helped encourage a tradition of women baring their breasts in exchange for beads and trinkets. Social scientists studying "ritual disrobement" found, at Mardi Gras 1991, 1,200 instances of body-baring in exchange for beads or other favors.<sup id="cite_ref-shrum_29-1" class="reference"><a href="#cite_note-shrum-29">[29]</a></sup> </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span></h2> 
+      <ul>
+       <li><a href="/wiki/Carnaval_de_Ponce" title="Carnaval de Ponce">Carnaval de Ponce</a></li> 
+       <li><a href="/wiki/Fat_Thursday" title="Fat Thursday">Fat Thursday</a>, a similar traditional Christian feast associated with the celebration of Carnival.</li> 
+       <li><a href="/wiki/Maslenitsa" title="Maslenitsa">Maslenitsa</a></li> 
+       <li><a href="/wiki/Shrove_Tuesday" title="Shrove Tuesday">Shrove Tuesday</a></li> 
+       <li><a href="/wiki/Sydney_Gay_and_Lesbian_Mardi_Gras" title="Sydney Gay and Lesbian Mardi Gras">Sydney Gay and Lesbian Mardi Gras</a></li> 
+       <li><a href="/wiki/Soulard,_St._Louis" title="Soulard, St. Louis">Soulard</a></li> 
+       <li><a href="/wiki/Tsiknopempti" title="Tsiknopempti">Tsiknopempti</a></li> 
+       <li><a href="/wiki/U%C5%BEgav%C4%97n%C4%97s" title="Užgavėnės">Užgavėnės</a></li>
+      </ul> 
+      <div style="clear:both;"></div> 
+      <h2><span class="mw-headline" id="References">References</span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist reflist-columns references-column-width" style="column-width: 30em;"> 
+       <ol class="references"> 
+        <li id="cite_note-Melitta_Weiss_Adamson,_Francine_Segan_2008-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Melitta_Weiss_Adamson,_Francine_Segan_2008_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Melitta_Weiss_Adamson,_Francine_Segan_2008_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFMelitta_Weiss_Adamson,_Francine_Segan2008" class="citation book cs1">Melitta Weiss Adamson, Francine Segan (2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=PPDIx6WWuOQC&amp;q=Anglican+Mardi+Gras&amp;pg=PA354"><i>Entertaining from Ancient Rome to the Super Bowl</i></a>. <a href="/wiki/ABC-CLIO" class="mw-redirect" title="ABC-CLIO">ABC-CLIO</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780313086892" title="Special:BookSources/9780313086892"><bdi>9780313086892</bdi></a>. <q>In Anglican countries, Mardis Gras is known as <i>Shrove Tuesday</i>—from <i>shrive</i> meaning "confess"—or <i>Pancake Day</i>—after the breakfast food that symbolizes one final hearty meal of eggs, butter, milk and sugar before the fast. On Ash Wednesday, the morning after Mardi Gras, repentant Christians return to church to receive upon the forehead the sign of the cross in ashes.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Entertaining+from+Ancient+Rome+to+the+Super+Bowl&amp;rft.pub=ABC-CLIO&amp;rft.date=2008&amp;rft.isbn=9780313086892&amp;rft.au=Melitta+Weiss+Adamson%2C+Francine+Segan&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DPPDIx6WWuOQC%26q%3DAnglican%2BMardi%2BGras%26pg%3DPA354&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.history.com/news/9-things-you-may-not-know-about-mardi-gras">"9 Things You May Not Know About Mardi Gras"</a>. History<span class="reference-accessdate">. Retrieved <span class="nowrap">8 January</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=9+Things+You+May+Not+Know+About+Mardi+Gras&amp;rft.pub=History&amp;rft_id=https%3A%2F%2Fwww.history.com%2Fnews%2F9-things-you-may-not-know-about-mardi-gras&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.history.com/this-day-in-history/new-years-day">"The Julian calendar takes effect for the first time on New Year's Day"</a>. <i>History.com</i>. 21 July 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">17 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=The+Julian+calendar+takes+effect+for+the+first+time+on+New+Year%E2%80%99s+Day&amp;rft.date=2010-07-21&amp;rft_id=https%3A%2F%2Fwww.history.com%2Fthis-day-in-history%2Fnew-years-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.history.com/topics/ancient-rome/saturnalia">"Saturnalia"</a>. <i>History.com</i>. 5 December 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">17 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=History.com&amp;rft.atitle=Saturnalia&amp;rft.date=2017-12-05&amp;rft_id=https%3A%2F%2Fwww.history.com%2Ftopics%2Fancient-rome%2Fsaturnalia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-carnivalterminology-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-carnivalterminology_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-carnivalterminology_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-carnivalterminology_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071209165238/http://www.mobile.org/vis_mardigras_terms.php">"Mardi Gras Terminology"</a>. <i>Mobile Bay Convention &amp; Visitors Bureau</i>. Archived from <a rel="nofollow" class="external text" href="http://www.mobile.org/vis_mardigras_terms.php">the original</a> on 9 December 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">18 November</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Mobile+Bay+Convention+%26+Visitors+Bureau&amp;rft.atitle=Mardi+Gras+Terminology&amp;rft_id=http%3A%2F%2Fwww.mobile.org%2Fvis_mardigras_terms.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-Wild/Dufour/Cowan_(seas/New_Orl.)-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wild/Dufour/Cowan_(seas/New_Orl.)_6-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFWildsCharles_L._DufourWalter_G._Cowan1996" class="citation book cs1">Wilds, John; Charles L. Dufour; Walter G. Cowan (1996). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=CyI14B5pua8C&amp;q=mardi+gras+season+from+twelfth+night+to+ash+wednesday+new+orleans&amp;pg=PA157"><i>Louisiana, Yesterday and Today: A Historical Guide to the State</i></a>. Baton Rouge: LSU Press. p.&nbsp;157. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0807118931" title="Special:BookSources/978-0807118931"><bdi>978-0807118931</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Louisiana%2C+Yesterday+and+Today%3A+A+Historical+Guide+to+the+State&amp;rft.place=Baton+Rouge&amp;rft.pages=157&amp;rft.pub=LSU+Press&amp;rft.date=1996&amp;rft.isbn=978-0807118931&amp;rft.aulast=Wilds&amp;rft.aufirst=John&amp;rft.au=Charles+L.+Dufour&amp;rft.au=Walter+G.+Cowan&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DCyI14B5pua8C%26q%3Dmardi%2Bgras%2Bseason%2Bfrom%2Btwelfth%2Bnight%2Bto%2Bash%2Bwednesday%2Bnew%2Borleans%26pg%3DPA157&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFBratcher2010" class="citation web cs1">Bratcher, Dennis (7 January 2010). <a rel="nofollow" class="external text" href="http://www.crivoice.org/cylent.html">"The Season of Lent"</a>. <i>Christian Resource Institute</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Christian+Resource+Institute&amp;rft.atitle=The+Season+of+Lent&amp;rft.date=2010-01-07&amp;rft.aulast=Bratcher&amp;rft.aufirst=Dennis&amp;rft_id=http%3A%2F%2Fwww.crivoice.org%2Fcylent.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-MCA-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-MCA_8-0">^</a></b></span> <span class="reference-text">"Mobile Carnival Association, 1927", MardiGrasDigest.com, 2006, webpage: <a rel="nofollow" class="external text" href="http://www.mardigrasdigest.com/Bureau/Mobile/mobile_carnival_association.htm">mardigrasdigest-Mobile</a> 
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060307233517/http://www.mardigrasdigest.com/Bureau/Mobile/mobile_carnival_association.htm">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.mardigrasdigest.com/Bureau/Mobile/mobile_carnival_association.htm">the original</a> on 7 March 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">12 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.mardigrasdigest.com%2FBureau%2FMobile%2Fmobile_carnival_association.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span></span> </li> 
+        <li id="cite_note-Masopust-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Masopust_9-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=p3IqY-QsJgc">"Mardi Gras in Bohemia-Prague"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 January</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mardi+Gras+in+Bohemia-Prague&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dp3IqY-QsJgc&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.masopusthamry.cz/">"Staročeský masopust Hamry"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Staro%C4%8Desk%C3%BD+masopust+Hamry&amp;rft_id=http%3A%2F%2Fwww.masopusthamry.cz%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-Schmotzig-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Schmotzig_11-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.rontaler.ch/20330/woher-hat-der-schmutzige-donnerstag-seinen-namen">"Woher hat der Schmutzige Donnerstag seinen Namen?"</a>. <i>Regionalzeitung Rontaler AG</i> (in German). 17 February 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">7 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Regionalzeitung+Rontaler+AG&amp;rft.atitle=Woher+hat+der+Schmutzige+Donnerstag+seinen+Namen%3F&amp;rft.date=2013-02-17&amp;rft_id=http%3A%2F%2Fwww.rontaler.ch%2F20330%2Fwoher-hat-der-schmutzige-donnerstag-seinen-namen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFKillinger2005" class="citation book cs1">Killinger, Charles L. (2005). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/culturecustomsof00char"><i>Culture and Customs of Italy</i></a></span>. Greenwood Publishing Group. p.&nbsp;<a rel="nofollow" class="external text" href="https://archive.org/details/culturecustomsof00char/page/94">94</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0313324895" title="Special:BookSources/978-0313324895"><bdi>978-0313324895</bdi></a>. <q>mardi gras in italy.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Culture+and+Customs+of+Italy&amp;rft.pages=94&amp;rft.pub=Greenwood+Publishing+Group&amp;rft.date=2005&amp;rft.isbn=978-0313324895&amp;rft.aulast=Killinger&amp;rft.aufirst=Charles+L.&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fculturecustomsof00char&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-semla-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-semla_13-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110606090150/http://www.sweden.se/eng/Home/Lifestyle/Traditions/Reading/Swedish-semla-more-than-just-a-bun/">"Swedish semla: more than just a bun"</a>. <i>Sweden.se</i>. Archived from <a rel="nofollow" class="external text" href="http://www.sweden.se/eng/Home/Lifestyle/Traditions/Reading/Swedish-semla-more-than-just-a-bun/">the original</a> on June 6, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">February 22,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sweden.se&amp;rft.atitle=Swedish+semla%3A+more+than+just+a+bun&amp;rft_id=http%3A%2F%2Fwww.sweden.se%2Feng%2FHome%2FLifestyle%2FTraditions%2FReading%2FSwedish-semla-more-than-just-a-bun%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-MGtime-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-MGtime_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MGtime_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-MGtime_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-MGtime_14-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-MGtime_14-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"> "New Orleans &amp; Mardi Gras History Timeline " (event list), Mardi Gras Digest, 2005, webpage: <a rel="nofollow" class="external text" href="http://www.mardigrasdigest.com/html/mardi_gras_history__timeline.htm">MG-time</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20101124195528/http://www.mardigrasdigest.com/html/mardi_gras_history__timeline.htm">Archived</a> 24 November 2010 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span> </li> 
+        <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.history.com/news/9-things-you-may-not-know-about-mardi-gras">"9 Things You May Not Know About Mardi Gras"</a>. <i>History.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=History.com&amp;rft.atitle=9+Things+You+May+Not+Know+About+Mardi+Gras&amp;rft_id=http%3A%2F%2Fwww.history.com%2Fnews%2F9-things-you-may-not-know-about-mardi-gras&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-TLhist-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-TLhist_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TLhist_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"> "Timeline 18th Century:" (events), Timelines of History, 2007, webpage: <a rel="nofollow" class="external text" href="http://timelines.ws/1700_1724.HTML">TLine-1700-1724</a>: on "1702–1711" of Mobile.</span> </li> 
+        <li id="cite_note-MoMtime-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-MoMtime_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MoMtime_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.museumofmobile.com/timeline.php">"Carnival/Mobile Mardi Gras Timeline"</a>. <i>Museum of Mobile</i>. Museum of Mobile<span class="reference-accessdate">. Retrieved <span class="nowrap">18 July</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Museum+of+Mobile&amp;rft.atitle=Carnival%2FMobile+Mardi+Gras+Timeline&amp;rft_id=http%3A%2F%2Fwww.museumofmobile.com%2Ftimeline.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-LOCgras-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-LOCgras_18-0">^</a></b></span> <span class="reference-text"> "Mardi Gras in Mobile" (history), <a href="/wiki/Jeff_Sessions" title="Jeff Sessions">Jeff Sessions</a>, Senator, <a href="/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a>, 2006, webpage: <a rel="nofollow" class="external text" href="http://lcweb2.loc.gov/cocoon/legacies/AL/200002665.html">LibCongress-2665</a>.</span> </li> 
+        <li id="cite_note-MBAYgras-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-MBAYgras_19-0">^</a></b></span> <span class="reference-text"> "Mardi Gras" (history), Mobile Bay Convention &amp; Visitors Bureau, 2007, webpage: <a rel="nofollow" class="external text" href="http://www.mobile.org/ab_mardigras.php/ab_mardigras_history.php">MGmobile</a>.</span> </li> 
+        <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFBarry_Jean_Ancelet1989" class="citation book cs1"><a href="/wiki/Barry_Jean_Ancelet" title="Barry Jean Ancelet">Barry Jean Ancelet</a> (1989). <a rel="nofollow" class="external text" href="https://archive.org/details/capitainevoyaget00ance"><i>Capitaine, voyage ton flag&nbsp;: The Traditional Cajun Country Mardi Gras</i></a>. Center for Louisiana Studies, University of Southwestern Louisiana. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/0-940984-46-6" title="Special:BookSources/0-940984-46-6"><bdi>0-940984-46-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Capitaine%2C+voyage+ton+flag+%3A+The+Traditional+Cajun+Country+Mardi+Gras&amp;rft.pub=Center+for+Louisiana+Studies%2C+University+of+Southwestern+Louisiana&amp;rft.date=1989&amp;rft.isbn=0-940984-46-6&amp;rft.au=Barry+Jean+Ancelet&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fcapitainevoyaget00ance&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFGeiling" class="citation news cs1">Geiling, Natasha. <a rel="nofollow" class="external text" href="https://www.smithsonianmag.com/travel/best-places-celebrate-mardi-gras-outside-new-orleans-180954286/">"Best Places to Celebrate Mardi Gras Outside of New Orleans"</a>. <i>Smithsonian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Smithsonian&amp;rft.atitle=Best+Places+to+Celebrate+Mardi+Gras+Outside+of+New+Orleans&amp;rft.aulast=Geiling&amp;rft.aufirst=Natasha&amp;rft_id=https%3A%2F%2Fwww.smithsonianmag.com%2Ftravel%2Fbest-places-celebrate-mardi-gras-outside-new-orleans-180954286%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFHouser" class="citation news cs1">Houser, Dave G. <a rel="nofollow" class="external text" href="http://www.chicagotribune.com/lifestyles/travel/ct-mardi-gras-celebrations-not-in-new-orleans-20170131-story.html">"7 big Mardi Gras celebrations (not in New Orleans)"</a>. <i>chicagotribune.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=chicagotribune.com&amp;rft.atitle=7+big+Mardi+Gras+celebrations+%28not+in+New+Orleans%29&amp;rft.aulast=Houser&amp;rft.aufirst=Dave+G.&amp;rft_id=http%3A%2F%2Fwww.chicagotribune.com%2Flifestyles%2Ftravel%2Fct-mardi-gras-celebrations-not-in-new-orleans-20170131-story.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.allaboutmardigras.com/Features/soulardhistory.html">"Mardi Gras in St. Louis' Soulard Neighborhood"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mardi+Gras+in+St.+Louis%27+Soulard+Neighborhood&amp;rft_id=http%3A%2F%2Fwww.allaboutmardigras.com%2FFeatures%2Fsoulardhistory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://stlmardigras.org/events/12th-night">"12th Night | Soulard Mardi Gras 2018"</a>. <i>stlmardigras.org</i>. St. Louis, MO<span class="reference-accessdate">. Retrieved <span class="nowrap">11 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=stlmardigras.org&amp;rft.atitle=12th+Night+%7C+Soulard+Mardi+Gras+2018&amp;rft_id=http%3A%2F%2Fstlmardigras.org%2Fevents%2F12th-night&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-Gabbert1999-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gabbert1999_25-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFLisa_Gabbert1999" class="citation book cs1">Lisa Gabbert (1999). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=4T2D0H8KJDAC&amp;pg=PA4"><i>Mardi Gras: A City's Masked Parade</i></a>. The Rosen Publishing Group. p.&nbsp;4. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-8239-5337-0" title="Special:BookSources/978-0-8239-5337-0"><bdi>978-0-8239-5337-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mardi+Gras%3A+A+City%27s+Masked+Parade&amp;rft.pages=4&amp;rft.pub=The+Rosen+Publishing+Group&amp;rft.date=1999&amp;rft.isbn=978-0-8239-5337-0&amp;rft.au=Lisa+Gabbert&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D4T2D0H8KJDAC%26pg%3DPA4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation book cs1"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=QJzd111SBGwC&amp;pg=PT6"><i>A Mardi Gras Dictionary</i></a>. Pelican Publishing. p.&nbsp;6. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-4556-0836-2" title="Special:BookSources/978-1-4556-0836-2"><bdi>978-1-4556-0836-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Mardi+Gras+Dictionary&amp;rft.pages=6&amp;rft.pub=Pelican+Publishing&amp;rft.isbn=978-1-4556-0836-2&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DQJzd111SBGwC%26pg%3DPT6&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFJ.C._Brown2008" class="citation book cs1">J.C. Brown (2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=lWfQPQAACAAJ"><i>Carnival Masks of Venice: A Photographic Essay</i></a>. AAPPL Artists &amp; Photographers Press, Limited. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-904332-83-1" title="Special:BookSources/978-1-904332-83-1"><bdi>978-1-904332-83-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Carnival+Masks+of+Venice%3A+A+Photographic+Essay&amp;rft.pub=AAPPL+Artists+%26+Photographers+Press%2C+Limited&amp;rft.date=2008&amp;rft.isbn=978-1-904332-83-1&amp;rft.au=J.C.+Brown&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DlWfQPQAACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMardi+Gras" class="Z3988"></span></span> </li> 
+        <li id="cite_note-sparks-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-sparks_28-0">^</a></b></span> <span class="reference-text">Sparks, R. <a rel="nofollow" class="external text" href="http://nuevomundo.revues.org/document3941.html">“American Sodom: New Orleans Faces Its Critics and an Uncertain Future”</a>. <i>La Louisiane à la dérive</i>. <a rel="nofollow" class="external text" href="http://nuevomundo.revues.org/sommaire2899.html#rub3927">The École des Hautes Études en Sciences Sociales Coloquio</a>. 16 December 2005.</span> </li> 
+        <li id="cite_note-shrum-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-shrum_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-shrum_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Shrum, W. and J. Kilburn. <a rel="nofollow" class="external text" href="https://www.jstor.org/stable/2580408">"Ritual Disrobement at Mardi Gras: Ceremonial Exchange and Moral Order"</a>. <i>Social Forces</i>, Vol. 75, No. 2. (Dec. 1996), pp. 423–458.</span> </li> 
+       </ol>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Mardi_Gras" class="extiw" title="commons:Category:Mardi Gras"><span style="">Mardi Gras</span></a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://worldmusic.about.com/od/northamerican/p/CajunMardiGras.htm">Traditional Cajun Mardi Gras Celebrations</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.encyclopediaofalabama.org/face/Article.jsp?id=h-1437">Mardi Gras in Mobile, Encyclopedia of Alabama</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://www.theguardian.com/travel/gallery/2009/jan/21/mardi-gras-carnival-festivals-guide">Where to Celebrate Mardi Gras Around the World</a> – slideshow by <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i></li> 
+       <li><a rel="nofollow" class="external text" href="http://libmma.contentdm.oclc.org/cdm/search/collection/p15324coll12/searchterm/mardi%20gras/order/nosort">Fashion plates featuring historic Mardi Gras costumes</a> from the Metropolitan Museum of Art Libraries</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Carnival_around_the_world" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="3" style="background-color:gold"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Carnival_around_the_world" title="Template:Carnival around the world"><abbr title="View this template" style="background-color:gold;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Carnival_around_the_world" title="Template talk:Carnival around the world"><abbr title="Discuss this template" style="background-color:gold;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Carnival_around_the_world&amp;action=edit"><abbr title="Edit this template" style="background-color:gold;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Carnival_around_the_world" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Carnival" title="Carnival">Carnival</a> around the world
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background-color:gold;width:1%">Asia</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li>Indonesia 
+              <ul>
+               <li><a href="/wiki/Solo_Batik_Carnival" title="Solo Batik Carnival">Solo</a></li> 
+               <li><a href="/wiki/Jember_Fashion_Carnaval" title="Jember Fashion Carnaval">Jember</a></li> 
+               <li><a href="/wiki/Jakarnaval" title="Jakarnaval">Jakarta</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+          <td class="noviewer navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px">
+           <div>
+            <a href="/wiki/File:Lingelbach_Karneval_in_Rom_001c.jpg" class="image"><img alt="Lingelbach Karneval in Rom 001c.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lingelbach_Karneval_in_Rom_001c.jpg/200px-Lingelbach_Karneval_in_Rom_001c.jpg" decoding="async" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lingelbach_Karneval_in_Rom_001c.jpg/300px-Lingelbach_Karneval_in_Rom_001c.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lingelbach_Karneval_in_Rom_001c.jpg/400px-Lingelbach_Karneval_in_Rom_001c.jpg 2x" data-file-width="3264" data-file-height="2448"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background-color:gold;width:1%">Europe</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Carnival_in_Germany,_Switzerland_and_Austria" title="Carnival in Germany, Switzerland and Austria">Austria</a></li> 
+             <li>Belgium 
+              <ul>
+               <li><a href="/wiki/Carnival_of_Aalst" title="Carnival of Aalst">Aalst</a></li> 
+               <li><a href="/wiki/Carnival_of_Binche" title="Carnival of Binche">Binche</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Rijeka_Carnival" title="Rijeka Carnival">Croatia</a></li> 
+             <li><a href="/wiki/Carnival_in_Denmark" class="mw-redirect" title="Carnival in Denmark">Denmark</a></li> 
+             <li><a href="/wiki/Notting_Hill_Carnival" title="Notting Hill Carnival">England</a></li> 
+             <li>France 
+              <ul>
+               <li><a href="/wiki/Nice_Carnival" title="Nice Carnival">Nice</a></li> 
+               <li><a href="/wiki/Paris_Carnival" title="Paris Carnival">Paris</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Maslenitsa" title="Maslenitsa">Belarus, Russia, Ukraine</a></li> 
+             <li><a href="/wiki/Carnival_in_Germany,_Switzerland_and_Austria" title="Carnival in Germany, Switzerland and Austria">Germany</a> 
+              <ul>
+               <li><a href="/wiki/Cologne_Carnival" title="Cologne Carnival">Cologne</a></li> 
+               <li><a href="/wiki/Mainz_carnival" title="Mainz carnival">Mainz</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Patras_Carnival" title="Patras Carnival">Greece</a></li> 
+             <li><a href="/wiki/Bus%C3%B3j%C3%A1r%C3%A1s" title="Busójárás">Hungary</a></li> 
+             <li><a href="/wiki/Carnival_in_Italy" title="Carnival in Italy">Italy</a> 
+              <ul>
+               <li><a href="/wiki/Carnival_of_Venice" title="Carnival of Venice">Venice</a></li> 
+               <li><a href="/wiki/Carnival_of_Viareggio" title="Carnival of Viareggio">Viareggio</a></li> 
+               <li><a href="/wiki/Battle_of_the_Oranges" title="Battle of the Oranges">Ivrea</a></li>
+              </ul></li> 
+             <li><a href="/wiki/U%C5%BEgav%C4%97n%C4%97s" title="Užgavėnės">Lithuania</a></li> 
+             <li><a href="/wiki/Maltese_Carnival" title="Maltese Carnival">Malta</a></li> 
+             <li><a href="/wiki/Carnival_in_the_Netherlands" title="Carnival in the Netherlands">Netherlands</a></li> 
+             <li>Portugal 
+              <ul>
+               <li><a href="/wiki/Carnival_of_Madeira" title="Carnival of Madeira">Madeira</a></li> 
+               <li><a href="/wiki/Carnival_of_Ovar" title="Carnival of Ovar">Ovar</a></li>
+              </ul></li> 
+             <li>Spain 
+              <ul>
+               <li><a href="/wiki/Carnival_of_C%C3%A1diz" title="Carnival of Cádiz">Cádiz</a></li> 
+               <li><a href="/wiki/Carnival_of_Las_Palmas" title="Carnival of Las Palmas">Las Palmas</a></li> 
+               <li><a href="/wiki/Carnival_of_Santa_Cruz_de_Tenerife" title="Carnival of Santa Cruz de Tenerife">Santa Cruz</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Carnival_in_Germany,_Switzerland_and_Austria" title="Carnival in Germany, Switzerland and Austria">Switzerland</a> 
+              <ul>
+               <li><a href="/wiki/Carnival_of_Basel" title="Carnival of Basel">Basel</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Baklahorani" title="Baklahorani">Turkey</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background-color:gold;width:1%">North America</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li>Canada 
+              <ul>
+               <li><a href="/wiki/Winterlude" title="Winterlude">Ottawa</a></li> 
+               <li><a href="/wiki/Quebec_Winter_Carnival" title="Quebec Winter Carnival">Quebec City</a></li> 
+               <li><a href="/wiki/Caribana" title="Caribana">Toronto</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Carnival_in_Mexico" title="Carnival in Mexico">México</a></li> 
+             <li><a href="/wiki/Mardi_Gras_in_the_United_States" title="Mardi Gras in the United States">United States</a> 
+              <ul>
+               <li><a href="/wiki/Mardi_Gras_in_Mobile,_Alabama" title="Mardi Gras in Mobile, Alabama">Mobile</a></li> 
+               <li><a href="/wiki/Mardi_Gras_in_New_Orleans" title="Mardi Gras in New Orleans">New Orleans</a></li> 
+               <li><a href="/wiki/Labor_Day_Carnival" title="Labor Day Carnival">New York City</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background-color:gold;width:1%">Caribbean</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Antigua_Carnival" title="Antigua Carnival">Antigua</a></li> 
+             <li><a href="/wiki/Junkanoo" title="Junkanoo">Bahamas</a></li> 
+             <li><a href="/wiki/Crop_Over" title="Crop Over">Barbados</a></li> 
+             <li><a href="/wiki/Batabano" title="Batabano">Cayman Islands</a></li> 
+             <li><a href="/wiki/Carnival_of_Santiago_de_Cuba" title="Carnival of Santiago de Cuba">Cuba</a></li> 
+             <li><a href="/wiki/Chant%C3%A9_mas" title="Chanté mas">Dominica</a></li> 
+             <li><a href="/wiki/Carnival_in_the_Dominican_Republic" title="Carnival in the Dominican Republic">Dominican Republic</a></li> 
+             <li><a href="/wiki/Haitian_Carnival" title="Haitian Carnival">Haiti</a></li> 
+             <li><a href="/wiki/Culturama" title="Culturama">Nevis</a></li> 
+             <li>Puerto Rico (<a href="/wiki/Carnaval_de_Ponce" title="Carnaval de Ponce">Ponce</a>)</li> 
+             <li><a href="/wiki/Trinidad_and_Tobago_Carnival" title="Trinidad and Tobago Carnival">Trinidad and Tobago</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background-color:gold;width:1%">South America</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li>Argentina 
+              <ul>
+               <li><a href="/wiki/Buenos_Aires_Carnival" title="Buenos Aires Carnival">Buenos Aires</a></li> 
+               <li><a href="/wiki/Murga" title="Murga">Murga</a></li>
+              </ul></li> 
+             <li>Bolivia 
+              <ul>
+               <li><a href="/wiki/Carnaval_de_Oruro" title="Carnaval de Oruro">Oruro</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Brazilian_Carnival" title="Brazilian Carnival">Brazil</a> 
+              <ul>
+               <li><a href="/wiki/Bahian_Carnival" title="Bahian Carnival">Bahia</a></li> 
+               <li><a href="/wiki/Rio_Carnival" title="Rio Carnival">Rio</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Carnival_in_Colombia" title="Carnival in Colombia">Colombia</a> 
+              <ul>
+               <li><a href="/wiki/Barranquilla%27s_Carnival" title="Barranquilla's Carnival">Barranquilla</a></li> 
+               <li><a href="/wiki/Carnaval_de_Negros_y_Blancos" class="mw-redirect" title="Carnaval de Negros y Blancos">Negros y Blancos</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Carnival_in_French_Guiana" title="Carnival in French Guiana">French Guiana</a> 
+              <ul>
+               <li><a href="/wiki/Carnival_of_Cayenne" title="Carnival of Cayenne">Cayenne</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Mashramani" title="Mashramani">Guyana</a></li> 
+             <li><a href="/wiki/Uruguayan_Carnival" title="Uruguayan Carnival">Uruguay</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background-color:gold;width:1%">Oceania</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Carnival_of_Australia" class="mw-redirect" title="Carnival of Australia">Australia</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow hlist" colspan="3" style="background-color:gold">
+           <div> 
+            <ul>
+             <li><a href="/wiki/File:046CupolaSPietro.jpg" class="image"><img alt="046CupolaSPietro.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/16px-046CupolaSPietro.jpg" decoding="async" width="16" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/24px-046CupolaSPietro.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/046CupolaSPietro.jpg/32px-046CupolaSPietro.jpg 2x" data-file-width="800" data-file-height="600"></a>&nbsp;<a href="/wiki/Portal:Catholicism" class="mw-redirect" title="Portal:Catholicism">Catholicism portal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=United_States&amp;#124;link=United_States_Holidays,_observances,_and_celebrations_in_the_United_States" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_the_United_States" title="Template:Public holidays in the United States"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_the_United_States" title="Template talk:Public holidays in the United States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_the_United_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23x15px&amp;#124;border_&amp;#124;alt=United_States&amp;#124;link=United_States_Holidays,_observances,_and_celebrations_in_the_United_States" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650"></a></span> Holidays, observances, and celebrations in the United States
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">January</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Martin_Luther_King_Jr._Day" title="Martin Luther King Jr. Day">Martin Luther King Jr. Day</a></b> (NJ, federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Eugenio_Mar%C3%ADa_de_Hostos" title="Eugenio María de Hostos">Birthday of Eugenio María de Hostos</a> (PR)</li> 
+             <li><a href="/wiki/Confederate_Memorial_Day" title="Confederate Memorial Day">Confederate Heroes Day</a> (TX)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Eve of Three Kings' Day</a> (PR, religious)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Feast of Epiphany / Feast of Theophany</a> (religious)</li> 
+             <li><a href="/wiki/Fred_Korematsu_Day" title="Fred Korematsu Day">Fred Korematsu Day</a> (CA, FL, HI, VA)</li> 
+             <li><a href="/wiki/Idaho_Human_Rights_Day" title="Idaho Human Rights Day">Idaho Human Rights Day</a> (ID)</li> 
+             <li><a href="/wiki/United_States_presidential_inauguration" title="United States presidential inauguration">Inauguration Day</a> (federal quadrennial)</li> 
+             <li><a href="/wiki/Kansas_Day" title="Kansas Day">Kansas Day</a> (KS)</li> 
+             <li><a href="/wiki/Makar_Sankranti" title="Makar Sankranti">Makar Sankranti / Pongal</a> (religious)</li> 
+             <li><a href="/wiki/Robert_E._Lee_Day" title="Robert E. Lee Day">Robert E. Lee Day</a> (FL)</li> 
+             <li><a href="/wiki/Stephen_Foster_Memorial_Day" title="Stephen Foster Memorial Day">Stephen Foster Memorial Day</a> (36)</li> 
+             <li><a href="/wiki/The_Eighth_(United_States)" title="The Eighth (United States)">The Eighth</a> (LA)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Three Kings' Day</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/World_Religion_Day" title="World Religion Day">World Religion Day</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">January–February</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Super_Bowl_Sunday" title="Super Bowl Sunday">Super Bowl Sunday</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Chinese_New_Year" title="Chinese New Year">Chinese New Year</a> / <a href="/wiki/Lunar_New_Year" title="Lunar New Year">Lunar New Year</a> (NY, cultural, religious)</li> 
+             <li><a href="/wiki/Vasant_Panchami" title="Vasant Panchami">Vasant Panchami</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">February<br><a href="/wiki/American_Heart_Month" title="American Heart Month">American Heart Month</a><br><a href="/wiki/Black_History_Month" title="Black History Month">Black History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Washington%27s_Birthday" title="Washington's Birthday">Washington's Birthday / Presidents' Day</a></b> (NJ, federal)</li> 
+             <li><b><a href="/wiki/Valentine%27s_Day" title="Valentine's Day">Valentine's Day</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Luis_Mu%C3%B1oz_Mar%C3%ADn" title="Luis Muñoz Marín">Birthday of Luis Muñoz Marín</a> (PR)</li> 
+             <li><a href="/wiki/Candlemas" title="Candlemas">Candlemas</a> (religious)</li> 
+             <li><a href="/wiki/Darwin_Day" title="Darwin Day">Charles Darwin Day / Darwin Day</a> (CA, DE)</li> 
+             <li><a href="/wiki/Day_of_Remembrance_(Japanese_Americans)" title="Day of Remembrance (Japanese Americans)">Day of Remembrance</a> (CA, OR, WA, cultural)</li> 
+             <li><a href="/wiki/Georgia_Day" title="Georgia Day">Georgia Day</a> (GA)</li> 
+             <li><a href="/wiki/Groundhog_Day" title="Groundhog Day">Groundhog Day</a></li> 
+             <li><a href="/wiki/Imbolc" title="Imbolc">Imbolc</a> (religious)</li> 
+             <li><a href="/wiki/Lincoln%27s_Birthday" title="Lincoln's Birthday">Lincoln's Birthday</a> (CA, CT, IL, IN, MO, NY, WV)</li> 
+             <li><a href="/wiki/National_Girls_and_Women_in_Sports_Day" title="National Girls and Women in Sports Day">National Girls and Women in Sports Day</a></li> 
+             <li><a href="/wiki/National_Freedom_Day" title="National Freedom Day">National Freedom Day</a> (36)</li> 
+             <li><a href="/wiki/Parinirvana_Day" title="Parinirvana Day">Nirvana Day</a> (religious)</li> 
+             <li><a href="/wiki/Presentation_of_Jesus_at_the_Temple" title="Presentation of Jesus at the Temple">Presentation of Our Lord to the Temple</a> (religious)</li> 
+             <li><a href="/wiki/Promised_Reformer_Day" title="Promised Reformer Day">Promised Reformer Day</a> (religious)</li> 
+             <li><a href="/wiki/Ronald_Reagan_Day" title="Ronald Reagan Day">Ronald Reagan Day</a> (CA)</li> 
+             <li><a href="/wiki/Rosa_Parks_Day" title="Rosa Parks Day">Rosa Parks Day</a> (CA, MO)</li> 
+             <li><a href="/wiki/Saviours%27_Day" title="Saviours' Day">Saviours' Day</a> (religious)</li> 
+             <li><a href="/wiki/Susan_B._Anthony_Day" title="Susan B. Anthony Day">Susan B. Anthony Day</a> (CA, FL, NY, WI, WV, proposed federal)</li> 
+             <li><a href="/wiki/Tu_BiShvat" title="Tu BiShvat">Tu B’shvat</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">February–March</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b> <a class="mw-selflink selflink">Mardi Gras</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Ash_Wednesday" title="Ash Wednesday">Ash Wednesday</a> (PR, religious)</li> 
+             <li><a href="/wiki/Carnival" title="Carnival">Carnival</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/Clean_Monday" title="Clean Monday">Clean Monday</a> (religious)</li> 
+             <li><a href="/wiki/Courir_de_Mardi_Gras" title="Courir de Mardi Gras">Courir de Mardi Gras</a> (religious)</li> 
+             <li><a href="/wiki/Ayy%C3%A1m-i-H%C3%A1" title="Ayyám-i-Há">Intercalary Days</a> (religious)</li> 
+             <li><a href="/wiki/Maha_Shivaratri" title="Maha Shivaratri">Mahashivaratri</a> (religious)</li> 
+             <li><a href="/wiki/Purim" title="Purim">Purim</a> (religious)</li> 
+             <li><a href="/wiki/Shrove_Tuesday" title="Shrove Tuesday">Shrove Tuesday</a> (religious)</li> 
+             <li><a href="/wiki/Super_Tuesday" title="Super Tuesday">Super Tuesday</a></li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">March<br><a href="/wiki/Irish-American_Heritage_Month" title="Irish-American Heritage Month">Irish-American Heritage Month</a><br><a href="/wiki/National_Colon_Cancer_Awareness_Month" title="National Colon Cancer Awareness Month">Colon Cancer Awareness Month</a><br><a href="/wiki/Women%27s_History_Month" title="Women's History Month">Women's History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Saint_Patrick%27s_Day" title="Saint Patrick's Day">Saint Patrick's Day</a></b> (religious)</li> 
+             <li><b><a href="/wiki/Spring_break" title="Spring break">Spring break</a></b> (week)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Annunciation" title="Annunciation">Annunciation of the Virgin Mary / Annunciation of the Theotokos</a> (religious)</li> 
+             <li><a href="/wiki/Casimir_Pulaski_Day" title="Casimir Pulaski Day">Casimir Pulaski Day</a> (IL)</li> 
+             <li><a href="/wiki/Cesar_Chavez_Day" title="Cesar Chavez Day">Cesar Chavez Day</a> (CA, CO, TX, proposed federal)</li> 
+             <li><a href="/wiki/Emancipation_Day#Puerto_Rico" title="Emancipation Day">Emancipation Day in Puerto Rico</a> (PR, cultural)</li> 
+             <li><a href="/wiki/Evacuation_Day_(Massachusetts)" title="Evacuation Day (Massachusetts)">Evacuation Day</a> (Suffolk County, MA)</li> 
+             <li><a href="/wiki/Harriet_Tubman_Day" title="Harriet Tubman Day">Harriet Tubman Day</a> (NY)</li> 
+             <li><a href="/wiki/Hola_Mohalla" title="Hola Mohalla">Hola Mohalla</a> (religious)</li> 
+             <li><a href="/wiki/Holi" title="Holi">Holi</a> (NY, religious)</li> 
+             <li><a href="/wiki/L._Ron_Hubbard" title="L. Ron Hubbard">L. Ron Hubbard’s Birthday</a> (religious)</li> 
+             <li><a href="/wiki/Isra_and_Mi%27raj#Modern_Muslim_observance" title="Isra and Mi'raj">Lailat al-Mi'raj</a> (religious)</li> 
+             <li><a href="/wiki/Liberation_and_Freedom_Day" title="Liberation and Freedom Day">Liberation and Freedom Day</a> (Charlottesville, VA, cultural)</li> 
+             <li><a href="/wiki/Mardi_Gras_in_the_United_States" title="Mardi Gras in the United States">Mardi Gras</a> (AL (in two counties), LA)</li> 
+             <li><a href="/wiki/Maryland_Day" title="Maryland Day">Maryland Day</a> (MD)</li> 
+             <li><a href="/wiki/National_Poison_Prevention_Week" title="National Poison Prevention Week">National Poison Prevention Week</a> (week)</li> 
+             <li><a href="/wiki/Nowruz" title="Nowruz">Nowruz</a> (cultural, religious)</li> 
+             <li><a href="/wiki/%C4%92ostre" title="Ēostre">Ostara</a> (religious)</li> 
+             <li><a href="/wiki/Prince_K%C5%ABhi%C5%8D_Day" title="Prince Kūhiō Day">Prince Jonah Kūhiō Kalanianaʻole Day</a> (HI)</li> 
+             <li><a href="/wiki/Promised_Messiah_Day" title="Promised Messiah Day">Promised Messiah Day</a> (religious)</li> 
+             <li><a href="/wiki/Saint_Joseph%27s_Day" title="Saint Joseph's Day">Saint Joseph's Day</a> (religious)</li> 
+             <li><a href="/wiki/Seward%27s_Day" title="Seward's Day">Seward's Day</a> (AK)</li> 
+             <li><a href="/wiki/Texas_Independence_Day" title="Texas Independence Day">Texas Independence Day</a> (TX)</li> 
+             <li><a href="/wiki/Town_meeting#Vermont" title="Town meeting">Town Meeting Day</a> (VT)</li> 
+             <li><a href="/wiki/Transfer_Day" title="Transfer Day">Transfer Day</a> (VI)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">March–April</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Easter" title="Easter">Easter</a></b> (religious)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> (CT, NC, PR, NJ, VI, religious)</li> 
+             <li><a href="/wiki/Hanuman_Jayanti" title="Hanuman Jayanti">Hanuman Jayanti</a> (religious)</li> 
+             <li><a href="/wiki/Maundy_Thursday" title="Maundy Thursday">Holy Thursday</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/Holy_Week" title="Holy Week">Holy Week</a> (PR, religious, week)</li> 
+             <li><a href="/wiki/Lazarus_Saturday" title="Lazarus Saturday">Lazarus Saturday</a> (religious)</li> 
+             <li><a href="/wiki/Mahavir_Janma_Kalyanak" title="Mahavir Janma Kalyanak">Mahavir Janma Kalyanak</a> (religious)</li> 
+             <li><a href="/wiki/Mesha_Sankranti" title="Mesha Sankranti">Mesha Sankranti / Hindu New Year</a> (religious)</li> 
+             <li><a href="/wiki/Palm_Sunday" title="Palm Sunday">Palm Sunday</a> (PR, religious)</li> 
+             <li><a href="/wiki/Passover" title="Passover">Passover</a> (religious)</li> 
+             <li><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday / Bright Monday</a> (VI religious)</li> 
+             <li><a href="/wiki/Rama_Navami" title="Rama Navami">Ramnavami</a> (religious)</li> 
+             <li><a href="/wiki/Ugadi" title="Ugadi">Chandramana Yugadi / Souramana Yugadi</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">April<br><a href="/wiki/Confederate_History_Month" title="Confederate History Month">Confederate History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/420_(cannabis_culture)" title="420 (cannabis culture)">420</a></li> 
+            <li><a href="/wiki/April_Fools%27_Day" title="April Fools' Day">April Fools' Day</a></li> 
+            <li><a href="/wiki/Arbor_Day" title="Arbor Day">Arbor Day</a></li> 
+            <li><a href="/wiki/Jos%C3%A9_de_Diego" title="José de Diego">Birthday of José de Diego</a> (PR)</li> 
+            <li><a href="/wiki/Confederate_Memorial_Day" title="Confederate Memorial Day">Confederate Memorial Day</a> (AL, MS)</li> 
+            <li><a href="/wiki/Days_of_Remembrance_of_the_Victims_of_the_Holocaust" title="Days of Remembrance of the Victims of the Holocaust">Days of Remembrance of the Victims of the Holocaust</a> (week)</li> 
+            <li><a href="/wiki/Earth_Day" title="Earth Day">Earth Day</a></li> 
+            <li><a href="/wiki/Emancipation_Day" title="Emancipation Day">Emancipation Day</a> (cultural)</li> 
+            <li><a href="/wiki/Jefferson%27s_Birthday" title="Jefferson's Birthday">Thomas Jefferson's Birthday</a> (AL)</li> 
+            <li><a href="/wiki/Lag_BaOmer" title="Lag BaOmer">Lag B’Omer</a> (religious)</li> 
+            <li><a href="/wiki/Great_Lent" title="Great Lent">Last Friday of Great Lent</a> (religious)</li> 
+            <li><a href="/wiki/Laylat_al-Qadr" class="mw-redirect" title="Laylat al-Qadr">Laylat al-Qadr</a> (religious)</li> 
+            <li><a href="/wiki/Pascua_Florida" title="Pascua Florida">Pascua Florida</a> (FL)</li> 
+            <li><a href="/wiki/Patriots%27_Day" title="Patriots' Day">Patriots' Day</a> (MA, ME)</li> 
+            <li><a href="/wiki/Ridv%C3%A1n" title="Ridván">Ridván</a> (religious)</li> 
+            <li><a href="/wiki/San_Jacinto_Day" title="San Jacinto Day">San Jacinto Day</a> (TX)</li> 
+            <li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li> 
+            <li><a href="/wiki/Walpurgis_Night" title="Walpurgis Night">Walpurgis Night</a> (religious)</li> 
+            <li><a href="/wiki/Independence_Day_(Israel)" title="Independence Day (Israel)">Yom Ha'atzmaut</a> (cultural, religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">May<br><a href="/wiki/Asian_Pacific_American_Heritage_Month" title="Asian Pacific American Heritage Month">Asian Pacific American Heritage Month</a><br><a href="/wiki/Jewish_American_Heritage_Month" title="Jewish American Heritage Month">Jewish American Heritage Month</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Memorial_Day" title="Memorial Day">Memorial Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother's Day (United States)">Mother's Day</a></b> (36)</li> 
+              <li><b><a href="/wiki/Cinco_de_Mayo" title="Cinco de Mayo">Cinco de Mayo</a></b></li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Bah%C3%A1%CA%BC%C3%AD_Holy_Days" title="Baháʼí Holy Days">Ascension of Baháʼu'lláh</a> (religious)</li> 
+             <li><a href="/wiki/Ascension_Day" class="mw-redirect" title="Ascension Day">Ascension of Our Lord</a> (religious)</li> 
+             <li><a href="/wiki/Caliphate_Day" title="Caliphate Day">Caliphate Day</a> (religious)</li> 
+             <li><a href="/wiki/Bah%C3%A1%CA%BC%C3%AD_Holy_Days" title="Baháʼí Holy Days">Declaration of the Bab</a> (religious)</li> 
+             <li><a href="/wiki/Harvey_Milk_Day" title="Harvey Milk Day">Harvey Milk Day</a> (CA)</li> 
+             <li><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">International Workers' Day</a> / <a href="/wiki/May_Day" title="May Day">May Day</a> (CA, unofficial, proposed state)</li> 
+             <li><a href="/wiki/Law_Day_(United_States)" title="Law Day (United States)">Law Day</a> (36)</li> 
+             <li><a href="/wiki/Loyalty_Day" title="Loyalty Day">Loyalty Day</a> (36)</li> 
+             <li><a href="/wiki/Malcolm_X_Day" title="Malcolm X Day">Malcolm X Day</a> (CA, IL, proposed federal)</li> 
+             <li><a href="/wiki/Military_Spouse_Day" title="Military Spouse Day">Military Spouse Day</a></li> 
+             <li><a href="/wiki/National_Day_of_Prayer" title="National Day of Prayer">National Day of Prayer</a> (36)</li> 
+             <li><a href="/wiki/National_Day_of_Reason" title="National Day of Reason">National Day of Reason</a></li> 
+             <li><a href="/wiki/National_Defense_Transportation_Day" title="National Defense Transportation Day">National Defense Transportation Day</a> (36)</li> 
+             <li><a href="/wiki/United_States_National_Maritime_Day" title="United States National Maritime Day">National Maritime Day</a> (36)</li> 
+             <li><a href="/wiki/Mufaddal_Saifuddin" title="Mufaddal Saifuddin">Milad Syedna Mufaddal Saifuddin</a> (religious)</li> 
+             <li><a href="/wiki/Peace_Officers_Memorial_Day" title="Peace Officers Memorial Day">Peace Officers Memorial Day</a> (36)</li> 
+             <li><a href="/wiki/Pentecost" title="Pentecost">Pentecost</a> (religious)</li> 
+             <li><a href="/wiki/Shavuot" title="Shavuot">Shavuot</a> (religious)</li> 
+             <li><a href="/wiki/Truman_Day" title="Truman Day">Truman Day</a> (MO)</li> 
+             <li><a href="/wiki/Vesak" title="Vesak">Vesak</a> / <a href="/wiki/Buddha%27s_Birthday" title="Buddha's Birthday">Buddha's Birthday</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">June<br><a href="/wiki/Gay_and_Lesbian_Pride_Month" class="mw-redirect" title="Gay and Lesbian Pride Month">Lesbian, Gay, Bisexual and<br> Transgender Pride Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Father%27s_Day_(United_States)" title="Father's Day (United States)">Father's Day</a></b> (36)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Bunker_Hill_Day" class="mw-redirect" title="Bunker Hill Day">Bunker Hill Day</a> (Suffolk County, MA)</li> 
+             <li><a href="/wiki/Carolina_Day" class="mw-redirect" title="Carolina Day">Carolina Day</a> (SC)</li> 
+             <li><a href="/wiki/Apostles%27_Fast" title="Apostles' Fast">Fast of the Holy Apostles</a> (religious)</li> 
+             <li><a href="/wiki/Flag_Day_(United_States)" title="Flag Day (United States)">Flag Day</a> (36, proposed federal)</li> 
+             <li><a href="/wiki/Helen_Keller_Day" title="Helen Keller Day">Helen Keller Day</a> (PA)</li> 
+             <li><a href="/wiki/Honor_America_Days" title="Honor America Days">Honor America Days</a> (3 weeks)</li> 
+             <li><a href="/wiki/Jefferson_Davis_Day" class="mw-redirect" title="Jefferson Davis Day">Jefferson Davis Day</a> (AL, FL)</li> 
+             <li><a href="/wiki/Juneteenth" title="Juneteenth">Juneteenth</a> (TX, MA, cultural, proposed federal)</li> 
+             <li><a href="/wiki/Kamehameha_Day" class="mw-redirect" title="Kamehameha Day">Kamehameha Day</a> (HI)</li> 
+             <li><a href="/wiki/Midsummer" title="Midsummer">Litha</a> (religious)</li> 
+             <li><a href="/wiki/Guru_Arjan" title="Guru Arjan">Martyrdom of Guru Arjan Dev Sahib</a> (religious)</li> 
+             <li><a href="/wiki/Odunde_Festival" title="Odunde Festival">Odunde Festival</a> (Philadelphia, PA, cultural)</li> 
+             <li><a href="/wiki/Senior_Week" title="Senior Week">Senior Week</a> (week)</li> 
+             <li><a href="/wiki/Nativity_of_Saint_John_the_Baptist#Celebration" title="Nativity of Saint John the Baptist">Saint John's Day</a> (PR, religious)</li> 
+             <li><a href="/wiki/West_Virginia_Day" title="West Virginia Day">West Virginia Day</a> (WV)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">July</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Independence_Day_(United_States)" title="Independence Day (United States)">Independence Day</a></b> (federal)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Asalha_Puja" title="Asalha Puja">Asalha Puja Day</a> (religious)</li> 
+             <li><a href="/wiki/Luis_Mu%C3%B1oz_Rivera" title="Luis Muñoz Rivera">Birthday of Don Luis Muñoz Rivera</a> (PR)</li> 
+             <li><a href="/wiki/Jos%C3%A9_Celso_Barbosa" title="José Celso Barbosa">Birthday of Dr. José Celso Barbosa</a> (PR)</li> 
+             <li><a href="/wiki/Emancipation_Day#United_States_Virgin_Islands" title="Emancipation Day">Emancipation Day in the U.S. Virgin Islands</a> (VI, cultural)</li> 
+             <li><a href="/wiki/Guru_Purnima" title="Guru Purnima">Guru Purnima</a> (religious)</li> 
+             <li><a href="/wiki/Khordad_Sal" title="Khordad Sal">Khordad Sal</a> (religious)</li> 
+             <li><a href="/wiki/Sovereignty_Restoration_Day" title="Sovereignty Restoration Day">Lā Hoʻihoʻi Ea</a> (HI, unofficial, cultural)</li> 
+             <li><a href="/wiki/Execution_of_the_B%C3%A1b" title="Execution of the Báb">Martyrdom of the Báb</a> (religious)</li> 
+             <li><a href="/wiki/Parents%27_Day" title="Parents' Day">Parents' Day</a> (36)</li> 
+             <li><a href="/wiki/Pioneer_Day" title="Pioneer Day">Pioneer Day</a> (UT)</li> 
+             <li><a href="/wiki/Puerto_Rico_Constitution_Day" title="Puerto Rico Constitution Day">Puerto Rico Constitution Day</a> (PR)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">July–August</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Summer_vacation" title="Summer vacation">Summer vacation</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Tisha_B%27Av" title="Tisha B'Av">Tisha B'Av</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">August</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a> (AZ)</li> 
+            <li><a href="/wiki/Barack_Obama_Day" title="Barack Obama Day">Barack Obama Day in Illinois</a> (IL)</li> 
+            <li><a href="/wiki/Bennington_Battle_Day" title="Bennington Battle Day">Bennington Battle Day</a> (VT)</li> 
+            <li><a href="/wiki/Dormition_of_the_Mother_of_God#Dormition_versus_Assumption" title="Dormition of the Mother of God">Dormition of the Theotokos</a> (religious)</li> 
+            <li><a href="/wiki/Eid_al-Ghadir" title="Eid al-Ghadir">Eid-e-Ghadeer</a> (religious)</li> 
+            <li><a href="/wiki/Dormition_of_the_Mother_of_God#Dormition_fast" title="Dormition of the Mother of God">Fast in Honor of the Holy Mother of Lord Jesus</a> (religious)</li> 
+            <li><a href="/wiki/Assumption_of_Mary#Feasts" title="Assumption of Mary">Feast of the Assumption of the Blessed Virgin Mary</a> (religious)</li> 
+            <li><a href="/wiki/Statehood_Day_(Hawaii)" title="Statehood Day (Hawaii)">Hawaii Admission Day / Statehood Day</a> (HI)</li> 
+            <li><a href="/wiki/Krishna_Janmashtami" title="Krishna Janmashtami">Krishna Janmashtami</a> (religious)</li> 
+            <li><a href="/wiki/Lammas" title="Lammas">Lammas</a> (religious)</li> 
+            <li><a href="/wiki/Lyndon_Baines_Johnson_Day" title="Lyndon Baines Johnson Day">Lyndon Baines Johnson Day</a> (TX)</li> 
+            <li><a href="/wiki/Naga_Panchami" title="Naga Panchami">Naga Panchami</a> (religious)</li> 
+            <li><a href="/wiki/National_Aviation_Day" title="National Aviation Day">National Aviation Day</a> (36)</li> 
+            <li><a href="/wiki/Paryushana" title="Paryushana">Paryushana</a> (religious)</li> 
+            <li><a href="/wiki/Raksha_Bandhan" title="Raksha Bandhan">Raksha Bandhan</a> (religious)</li> 
+            <li><a href="/wiki/Feast_of_the_Transfiguration" title="Feast of the Transfiguration">Transfiguration of the Lord</a> (religious)</li> 
+            <li><a href="/wiki/Victory_Day_(United_States)" title="Victory Day (United States)">Victory Day</a> (RI)</li> 
+            <li><a href="/wiki/Women%27s_Equality_Day" title="Women's Equality Day">Women's Equality Day</a> (36)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">September<br><a href="/wiki/National_Prostate_Cancer_Awareness_Month" class="mw-redirect" title="National Prostate Cancer Awareness Month">Prostate Cancer Awareness Month</a><br><a href="/wiki/National_Childhood_Cancer_Awareness_Month" title="National Childhood Cancer Awareness Month">Childhood Cancer Awareness Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Labor_Day" title="Labor Day">Labor Day</a></b> (federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Brazilian_Day" title="Brazilian Day">Brazilian Day</a> (NY, cultural)</li> 
+             <li><a href="/wiki/California_Admission_Day" class="mw-redirect" title="California Admission Day">California Admission Day</a> (CA)</li> 
+             <li><a href="/wiki/Carl_Garner_Federal_Lands_Cleanup_Day" title="Carl Garner Federal Lands Cleanup Day">Carl Garner Federal Lands Cleanup Day</a> (36)</li> 
+             <li><a href="/wiki/Constitution_Day_(United_States)" title="Constitution Day (United States)">Constitution Day</a> (36)</li> 
+             <li><a href="/wiki/Constitution_Week" title="Constitution Week">Constitution Week</a> (week)</li> 
+             <li><a href="/wiki/Defenders_Day" title="Defenders Day">Defenders Day</a> (MD)</li> 
+             <li><a href="/wiki/Elevation_of_the_Holy_Cross" title="Elevation of the Holy Cross">Elevation of the Holy Cross</a> (religious)</li> 
+             <li><a href="/wiki/Feast_of_San_Gennaro" title="Feast of San Gennaro">Feast of San Gennaro</a> (NY, cultural, religious)</li> 
+             <li><a href="/wiki/Ganesh_Chaturthi" title="Ganesh Chaturthi">Ganesh Chaturthi</a> (religious)</li> 
+             <li><a href="/wiki/Gold_Star_Mother%27s_Day" class="mw-redirect" title="Gold Star Mother's Day">Gold Star Mother's Day</a> (36)</li> 
+             <li><a href="/wiki/Sakya_Trizin_Ngawang_Kunga" title="Sakya Trizin Ngawang Kunga">His Holiness Sakya Trizin’s Birthday</a> (religious)</li> 
+             <li><a href="/wiki/September_equinox" title="September equinox">Mabon</a> (religious)</li> 
+             <li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a> (36)</li> 
+             <li><a href="/wiki/National_Payroll_Week" title="National Payroll Week">National Payroll Week</a> (week)</li> 
+             <li><a href="/wiki/Nativity_of_Mary" title="Nativity of Mary">Nativity of Mary / Nativity of the Theotokos</a> (religious)</li> 
+             <li><a href="/wiki/Native_American_Day" title="Native American Day">Native American Day</a> (proposed federal)</li> 
+             <li><a href="/wiki/Patriot_Day" title="Patriot Day">Patriot Day</a> (36)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">September–October<br><a href="/wiki/National_Hispanic_Heritage_Month" title="National Hispanic Heritage Month">Hispanic Heritage Month</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Arba%27een" class="mw-redirect" title="Arba'een">Chehlum Imam Hussain</a> (religious)</li> 
+            <li><a href="/wiki/Oktoberfest_celebrations" title="Oktoberfest celebrations">Oktoberfest</a></li> 
+            <li><a href="/wiki/Pitri_Paksha" class="mw-redirect" title="Pitri Paksha">Pitri Paksha</a> (religious)</li> 
+            <li><a href="/wiki/Rosh_Hashanah" title="Rosh Hashanah">Rosh Hashanah / Feast of Trumpets</a> (TX, NY, religious)</li> 
+            <li><a href="/wiki/Shemini_Atzeret" title="Shemini Atzeret">Shemini Atzeret</a> (religious)</li> 
+            <li><a href="/wiki/Simchat_Torah" title="Simchat Torah">Simchat Torah</a> (eligious)</li> 
+            <li><a href="/wiki/Vijayadashami" title="Vijayadashami">Vijaya Dashami</a> (religious)</li> 
+            <li><a href="/wiki/Yom_Kippur" title="Yom Kippur">Yom Kippur / Day of Atonement</a> (TX, NY, religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">October<br><a href="/wiki/National_Breast_Cancer_Awareness_Month" class="mw-redirect" title="National Breast Cancer Awareness Month">Breast Cancer Awareness Month</a><br><a href="/wiki/National_Disability_Employment_Awareness_Month" title="National Disability Employment Awareness Month">Disability Employment Awareness Month</a><br> <a href="/wiki/Italian-American_Heritage_and_Culture_Month" title="Italian-American Heritage and Culture Month">Italian-American Heritage and Culture Month</a> <br> <a href="/wiki/Filipino_American_History_Month" title="Filipino American History Month">Filipino American History Month</a><br><a href="/wiki/LGBT_History_Month" title="LGBT History Month">LGBT History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Columbus_Day" title="Columbus Day">Columbus Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Halloween" title="Halloween">Halloween</a></b></li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Alaska_Day" title="Alaska Day">Alaska Day</a> (AK)</li> 
+             <li><a href="/wiki/Child_Health_Day" title="Child Health Day">Child Health Day</a> (36)</li> 
+             <li><a href="/wiki/General_Pulaski_Memorial_Day" title="General Pulaski Memorial Day">General Pulaski Memorial Day</a></li> 
+             <li><a href="/wiki/German-American_Day" title="German-American Day">German-American Day</a></li> 
+             <li><a href="/wiki/Indigenous_Peoples%27_Day" title="Indigenous Peoples' Day">Indigenous Peoples' Day</a> (VT)</li> 
+             <li><a href="/wiki/International_Day_of_Non-Violence" title="International Day of Non-Violence">International Day of Non-Violence</a></li> 
+             <li><a href="/wiki/Leif_Erikson_Day" title="Leif Erikson Day">Leif Erikson Day</a> (36)</li> 
+             <li><a href="/wiki/Missouri_Day" title="Missouri Day">Missouri Day</a> (MO)</li> 
+             <li><a href="/wiki/Nanomonestotse" title="Nanomonestotse">Nanomonestotse</a> (cultural)</li> 
+             <li><a href="/wiki/National_School_Lunch_Week" class="mw-redirect" title="National School Lunch Week">National School Lunch Week</a> (week)</li> 
+             <li><a href="/wiki/Native_American_Day" title="Native American Day">Native American Day in South Dakota</a> (SD)</li> 
+             <li><a href="/wiki/Nevada_Day" title="Nevada Day">Nevada Day</a> (NV)</li> 
+             <li><a href="/wiki/Spirit_Day" title="Spirit Day">Spirit Day</a> (cultural)</li> 
+             <li><a href="/wiki/Sweetest_Day" title="Sweetest Day">Sweetest Day</a></li> 
+             <li><a href="/wiki/Sukkot" title="Sukkot">Sukkot / Feast of Tabernacles</a> (religious)</li> 
+             <li><a href="/wiki/Virgin_Islands%E2%80%93Puerto_Rico_Friendship_Day" title="Virgin Islands–Puerto Rico Friendship Day">Virgin Islands–Puerto Rico Friendship Day</a> (PR, VI)</li> 
+             <li><a href="/wiki/White_Cane_Safety_Day" title="White Cane Safety Day">White Cane Safety Day</a> (36)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">October–November</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Twin_Holy_Birthdays" title="Twin Holy Birthdays">Birth of the Báb</a> (religious)</li> 
+            <li><a href="/wiki/Birth_of_Bah%C3%A1%CA%BCu%27ll%C3%A1h" title="Birth of Baháʼu'lláh">Birth of Baháʼu'lláh</a> (religious)</li> 
+            <li><a href="/wiki/Day_of_the_Dead" title="Day of the Dead">Day of the Dead</a> (VI)</li> 
+            <li><a href="/wiki/Diwali" title="Diwali">Diwali</a> (NY, religious)</li> 
+            <li><a href="/wiki/Mawlid" title="Mawlid">Mawlid al-Nabi</a> (religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">November<br> <a href="/wiki/Native_American_Indian_Heritage_Month" title="Native American Indian Heritage Month">Native American Indian Heritage Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Veterans_Day" title="Veterans Day">Veterans Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Thanksgiving_(United_States)" title="Thanksgiving (United States)">Thanksgiving</a></b> (federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/%CA%BBAbdu%27l-Bah%C3%A1" title="ʻAbdu'l-Bahá">Ascension of ‘Abdu’l Baha</a> (religious)</li> 
+             <li><a href="/wiki/All_Saints%27_Day" title="All Saints' Day">All Saints' Day</a> (religious)</li> 
+             <li><a href="/wiki/Nativity_Fast" title="Nativity Fast">Beginning of the Nativity Fast</a> (religious)</li> 
+             <li><a href="/wiki/Beltane" title="Beltane">Beltane</a> / <a href="/wiki/Samhain" title="Samhain">Samhain</a> (religious)</li> 
+             <li><a href="/wiki/Barack_Obama_Day" title="Barack Obama Day">Barack Obama Day in Alabama</a> (Perry County, AL)</li> 
+             <li><a href="/wiki/D._Hamilton_Jackson" title="D. Hamilton Jackson">D. Hamilton Jackson Day</a> (VI)</li> 
+             <li><a href="/wiki/Black_Friday_(shopping)" title="Black Friday (shopping)">Day after Thanksgiving</a> (24)</li> 
+             <li><a href="/wiki/Day_of_the_Covenant_(Bah%C3%A1%CA%BC%C3%AD)" title="Day of the Covenant (Baháʼí)">Day of the Covenant</a> (religious)</li> 
+             <li><a href="/wiki/Discovery_of_Puerto_Rico" class="mw-redirect" title="Discovery of Puerto Rico">Discovery of Puerto Rico Day</a> (PR)</li> 
+             <li><a href="/wiki/Election_Day_(United_States)" title="Election Day (United States)">Election Day</a> (CA, DE, HI, KY, MT, NJ, NY, OH, PR, VA, WV, proposed federal)</li> 
+             <li><a href="/wiki/Family_Day" title="Family Day">Family Day</a> (NV)</li> 
+             <li><a href="/wiki/Guru_Nanak_Gurpurab" title="Guru Nanak Gurpurab">Guru Nanak Gurpurab</a> (religious)</li> 
+             <li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> (religious)</li> 
+             <li><a href="/wiki/Independence_Day_(Hawaii)" title="Independence Day (Hawaii)">Lā Kūʻokoʻa</a> (HI, unofficial, cultural)</li> 
+             <li><a href="/wiki/Guru_Tegh_Bahadur" title="Guru Tegh Bahadur">Martyrdom of Guru Tegh Bahadur</a> (religious)</li> 
+             <li><a href="/wiki/Native_American_Heritage_Day" title="Native American Heritage Day">Native American Heritage Day</a> (MD, WA, cultural)</li> 
+             <li><a href="/wiki/Presentation_of_Mary" title="Presentation of Mary">Presentation of the Theotokos to the Temple</a> (religious)</li> 
+             <li><a href="/wiki/Unthanksgiving_Day" title="Unthanksgiving Day">Unthanksgiving Day</a> (cultural)</li> 
+             <li><a href="/wiki/Mohammed_Burhanuddin" title="Mohammed Burhanuddin">Urus Mubarak of Syedna Mohammed Burhanuddin</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">December</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Christmas" title="Christmas">Christmas</a></b> (religious, federal)</li> 
+             <li><b><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">New Year's Eve</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Advent_Sunday" title="Advent Sunday">Advent Sunday</a> (religious)</li> 
+             <li><a href="/wiki/Alabama_Day" title="Alabama Day">Alabama Day</a> (AL)</li> 
+             <li><a href="/wiki/Guru_Gobind_Singh" title="Guru Gobind Singh">Birthday of Guru Gobind Singh Sahib</a> (religious)</li> 
+             <li><a href="/wiki/Bodhi_Day" title="Bodhi Day">Bodhi Day</a> (religious)</li> 
+             <li><a href="/wiki/Chalica" title="Chalica">Chalica</a> (religious)</li> 
+             <li><a href="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</a> (KY, NC, SC, PR, VI)</li> 
+             <li><a href="/wiki/Boxing_Day" title="Boxing Day">Day after Christmas</a> (KY, NC, SC, TX, VI)</li> 
+             <li><a href="/wiki/Festivus" title="Festivus">Festivus</a></li> 
+             <li><a href="/wiki/HumanLight" title="HumanLight">HumanLight</a></li> 
+             <li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> (religious, week)</li> 
+             <li><a href="/wiki/Immaculate_Conception" title="Immaculate Conception">Immaculate Conception</a> (religious)</li> 
+             <li><a href="/wiki/Indiana_Day" title="Indiana Day">Indiana Day</a> (IN)</li> 
+             <li><a href="/wiki/Kwanzaa" title="Kwanzaa">Kwanzaa</a> (cultural, week)</li> 
+             <li><a href="/wiki/Mohammed_Burhanuddin" title="Mohammed Burhanuddin">Milad Syedna Mohammed Burhanuddin</a> (religious)</li> 
+             <li><a href="/wiki/National_Pearl_Harbor_Remembrance_Day" title="National Pearl Harbor Remembrance Day">National Pearl Harbor Remembrance Day</a> (36)</li> 
+             <li><a href="/wiki/Nativity_of_Jesus" title="Nativity of Jesus">Nativity of Jesus</a> (religious)</li> 
+             <li><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">Old Year's Night</a> (VI)</li> 
+             <li><a href="/wiki/Pan_American_Aviation_Day" title="Pan American Aviation Day">Pan American Aviation Day</a> (36)</li> 
+             <li><a href="/wiki/Sivaya_Subramuniyaswami" title="Sivaya Subramuniyaswami">Pancha Ganapati</a> (religious, week)</li> 
+             <li><a href="/wiki/Rosa_Parks_Day" title="Rosa Parks Day">Rosa Parks Day</a> (OH, OR)</li> 
+             <li><a href="/wiki/Solemnity_of_Mary,_Mother_of_God" title="Solemnity of Mary, Mother of God">Solemnity of Mary, Mother of God</a> (religious)</li> 
+             <li><a href="/wiki/Wright_Brothers_Day" title="Wright Brothers Day">Wright Brothers Day</a> (36)</li> 
+             <li><a href="/wiki/Yule" title="Yule">Yule</a> (religious)</li> 
+             <li><a href="/wiki/Zartosht_No-Diso" title="Zartosht No-Diso">Zartosht No-Diso</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Varies (year round)</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a> (NY, religious)</li> 
+            <li><a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a> (NY, religious)</li> 
+            <li><a href="/wiki/Islamic_New_Year" title="Islamic New Year">Islamic New Year</a> (religious)</li> 
+            <li><a href="/wiki/Day_of_Arafah" title="Day of Arafah">Yawm al-Arafa</a> (religious)</li> 
+            <li><a href="/wiki/Hajj" title="Hajj">Hajj</a> (religious)</li> 
+            <li><a href="/wiki/Navaratri" title="Navaratri">Navaratri</a> (religious, four times a year)</li> 
+            <li><a href="/wiki/Bon_Festival" title="Bon Festival">Obon</a> (religious)</li> 
+            <li><a href="/wiki/Onam" title="Onam">Onam</a> (religious)</li> 
+            <li><a href="/wiki/Ramadan" title="Ramadan">Ramadan</a> (religious, month)</li> 
+            <li><a href="/wiki/Ghost_Festival" title="Ghost Festival">Ghost Festival</a> (religious)</li> 
+            <li><a href="/wiki/Ashura" title="Ashura">Yawm Aashura</a> (religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="font-size:90%;">
+           <div>
+            Legend: 
+            <p>(federal) = federal holidays, (abbreviation) = state/territorial holidays, (religious) = religious holidays, (cultural) = holiday related to a specific <a href="/wiki/Race_and_ethnicity_in_the_United_States_Census" title="Race and ethnicity in the United States Census">racial/ethnic group</a> or <a href="/wiki/Sexual_minority" title="Sexual minority">sexual minority</a>, (week) = week-long holidays, (month) = month-long holidays, (36) = <a href="/wiki/Title_36_of_the_United_States_Code" title="Title 36 of the United States Code">Title 36 Observances and Ceremonies</a><br> <b>Bold</b> indicates major holidays commonly celebrated in the United States, which often represent the major celebrations of the month.<br> </p> See also: <a href="/wiki/Lists_of_holidays" title="Lists of holidays">Lists of holidays</a>, <a href="/wiki/Hallmark_holiday" title="Hallmark holiday">Hallmark holidays</a>, public holidays in the <a href="/wiki/Public_holidays_in_the_United_States" title="Public holidays in the United States">United States</a>, <a href="/wiki/State_holidays_in_New_Jersey" title="State holidays in New Jersey">New Jersey</a>, <a href="/wiki/New_York_State_government_holidays" title="New York State government holidays">New York</a>, <a href="/wiki/Public_holidays_in_Puerto_Rico" title="Public holidays in Puerto Rico">Puerto Rico</a> and the <a href="/wiki/Public_holidays_in_the_United_States_Virgin_Islands" title="Public holidays in the United States Virgin Islands">United States Virgin Islands</a>.
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1374
+Cached time: 20210426161852
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.151 seconds
+Real time usage: 1.578 seconds
+Preprocessor visited node count: 4005/1000000
+Post‐expand include size: 136379/2097152 bytes
+Template argument size: 4912/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 79915/5000000 bytes
+Lua time usage: 0.565/10.000 seconds
+Lua memory usage: 23695177/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1370.912      1 -total
+ 24.71%  338.733      1 Template:Reflist
+ 12.86%  176.257      1 Template:Lang
+ 11.27%  154.525      1 Template:Infobox_holiday
+ 11.10%  152.108      7 Template:Cite_book
+  8.94%  122.512      2 Template:Navbox
+  8.57%  117.546      1 Template:Short_description
+  8.56%  117.347      1 Template:Infobox
+  5.52%   75.621      1 Template:Commons_category
+  5.31%   72.744      4 Template:Infobox_holiday/date
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:38482-0!canonical and timestamp 20210426161856 and revision id 1019998258. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mardi_Gras&amp;oldid=1019998258">https://en.wikipedia.org/w/index.php?title=Mardi_Gras&amp;oldid=1019998258</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Mardi_Gras" title="Category:Mardi Gras">Mardi Gras</a></li>
+       <li><a href="/wiki/Category:Tuesday_observances" title="Category:Tuesday observances">Tuesday observances</a></li>
+       <li><a href="/wiki/Category:February_observances" title="Category:February observances">February observances</a></li>
+       <li><a href="/wiki/Category:March_observances" title="Category:March observances">March observances</a></li>
+       <li><a href="/wiki/Category:Holidays_based_on_the_date_of_Easter" title="Category:Holidays based on the date of Easter">Holidays based on the date of Easter</a></li>
+       <li><a href="/wiki/Category:Catholic_Church_in_the_United_States" title="Category:Catholic Church in the United States">Catholic Church in the United States</a></li>
+       <li><a href="/wiki/Category:Clothing-optional_events" title="Category:Clothing-optional events">Clothing-optional events</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li>
+       <li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li>
+       <li><a href="/wiki/Category:Wikipedia_indefinitely_move-protected_pages" title="Category:Wikipedia indefinitely move-protected pages">Wikipedia indefinitely move-protected pages</a></li>
+       <li><a href="/wiki/Category:Wikipedia_indefinitely_semi-protected_pages" title="Category:Wikipedia indefinitely semi-protected pages">Wikipedia indefinitely semi-protected pages</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_March_2018" title="Category:Use dmy dates from March 2018">Use dmy dates from March 2018</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_(other)" title="Category:Infobox holiday (other)">Infobox holiday (other)</a></li>
+       <li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li>
+       <li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li>
+       <li><a href="/wiki/Category:Articles_with_failed_verification_from_February_2014" title="Category:Articles with failed verification from February 2014">Articles with failed verification from February 2014</a></li>
+       <li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mardi+Gras" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mardi+Gras" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Mardi_Gras" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Mardi_Gras" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Mardi_Gras">Read</a></li>
+        <li id="ca-viewsource"><a href="/w/index.php?title=Mardi_Gras&amp;action=edit" title="This page is protected.
+You can view its source [e]" accesskey="e">View source</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Mardi_Gras&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mardi_Gras" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mardi_Gras" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Mardi_Gras&amp;oldid=1019998258" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Mardi_Gras&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mardi_Gras&amp;id=1019998258&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q35105" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Mardi_Gras&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Mardi_Gras&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Mardi_Gras" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D8%AF%D9%8A_%D8%AC%D8%B1%D8%A7" title="ماردي جرا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Meurlarjez" title="Meurlarjez – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Dimarts_de_Carnaval" title="Dimarts de Carnaval – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Mardi_Gras" title="Mardi Gras – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Mardi_Gras" title="Mardi Gras – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Mardi_Gras" title="Mardi Gras – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9B%CE%B9%CF%80%CE%B1%CF%81%CE%AE_%CE%A4%CF%81%CE%AF%CF%84%CE%B7" title="Λιπαρή Τρίτη – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Martes_de_Carnaval" title="Martes de Carnaval – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Astearte_inautea" title="Astearte inautea – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D8%AF%DB%8C_%DA%AF%D8%B1%D8%A7" title="ماردی گرا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Mardi_gras" title="Mardi gras – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Mardi_Gras" title="Mardi Gras – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li>
+       <li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/M%C3%A1irt_na_hInide" title="Máirt na hInide – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A7%88%EB%A5%B4%EB%94%94_%EA%B7%B8%EB%9D%BC" title="마르디 그라 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A5%80_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE" title="मार्दी ग्रा – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Mardi_Gras" title="Mardi Gras – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Sprengidagur" title="Sprengidagur – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Marted%C3%AC_grasso" title="Martedì grasso – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%93%D7%99_%D7%92%D7%A8%D7%90" title="מרדי גרא – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Mardi_Gras" title="Mardi Gras – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AE%E0%B2%B0%E0%B3%8D%E0%B2%A1%E0%B2%BF_%E0%B2%97%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%B8%E0%B3%8D%E2%80%8C%E2%80%8C" title="ಮರ್ಡಿ ಗ್ರಾಸ್‌‌ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%90%E1%83%A0%E1%83%93%E1%83%98_%E1%83%92%E1%83%A0%E1%83%90" title="მარდი გრა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/H%C3%BAshagy%C3%B3kedd" title="Húshagyókedd – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Mardi_Gras" title="Mardi Gras – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Mardi_Gras_(feest)" title="Mardi Gras (feest) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B0%E3%83%A9" title="マルディグラ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-nap"><a href="https://nap.wikipedia.org/wiki/Urdemo_juorno_%27e_Carnevale" title="Urdemo juorno 'e Carnevale – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a></li>
+       <li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/Mardi-gras" title="Mardi-gras – Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target">Nouormand</a></li>
+       <li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Dimars_gras" title="Dimars gras – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Mardi_Gras" title="Mardi Gras – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B4%D0%B8_%D0%93%D1%80%D0%B0" title="Марди Гра – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Mardi_Gras" title="Mardi Gras – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B4%D0%B8_%D0%93%D1%80%D0%B0%D1%81" title="Марди Грас – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Mardi_Gras" title="Mardi Gras – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%9F%E0%AE%BF_%E0%AE%95%E0%AE%BF%E0%AE%B1%E0%AE%BE%E0%AE%B8%E0%AF%8D" title="மார்டி கிறாஸ் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%B4%E0%B8%81%E0%B8%A3%E0%B8%B2" title="มาร์ดิกรา – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Mardi_Gras" title="Mardi Gras – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B4%D1%96_%D0%93%D1%80%D0%B0" title="Марді Гра – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Marti_graso" title="Marti graso – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Mardi_Gras" title="Mardi Gras – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Cr%C3%A5s_m%C3%A5rdi" title="Crås mårdi – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%87%BA%E6%82%94%E6%98%9F%E6%9C%9F%E4%BA%8C" title="懺悔星期二 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q35105#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 26 April 2021, at 16:18<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mardi_Gras&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.151","walltime":"1.578","ppvisitednodes":{"value":4005,"limit":1000000},"postexpandincludesize":{"value":136379,"limit":2097152},"templateargumentsize":{"value":4912,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":79915,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1370.912      1 -total"," 24.71%  338.733      1 Template:Reflist"," 12.86%  176.257      1 Template:Lang"," 11.27%  154.525      1 Template:Infobox_holiday"," 11.10%  152.108      7 Template:Cite_book","  8.94%  122.512      2 Template:Navbox","  8.57%  117.546      1 Template:Short_description","  8.56%  117.347      1 Template:Infobox","  5.52%   75.621      1 Template:Commons_category","  5.31%   72.744      4 Template:Infobox_holiday/date"]},"scribunto":{"limitreport-timeusage":{"value":"0.565","limit":"10.000"},"limitreport-memusage":{"value":23695177,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1374","timestamp":"20210426161852","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Mardi Gras","url":"https:\/\/en.wikipedia.org\/wiki\/Mardi_Gras","sameAs":"http:\/\/www.wikidata.org\/entity\/Q35105","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q35105","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-02-09T22:36:27Z","dateModified":"2021-04-26T16:18:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3d\/KosmicFrenchmenPurpleFaceMardiGras2009.JPG","headline":"holiday on the day before Ash Wednesday"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":197,"wgHostname":"mw1333"});});</script> 
+ </body>
+</html>

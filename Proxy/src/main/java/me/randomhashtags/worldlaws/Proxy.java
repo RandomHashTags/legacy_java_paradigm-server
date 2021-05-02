@@ -85,13 +85,13 @@ public final class Proxy implements RestAPI {
 
 
     private void getResponse(String value, CompletionHandler handler) {
-        final String[] values = value.split("/");
+        /*final String[] values = value.split("/");
         final String key = values[0];
         final TargetServer server = TargetServer.valueOfBackendID(key);
         if(server != null) {
             final int length = key.length();
             final String target = value.length() == length ? "" : value.substring(length+1);
             server.sendResponse(RequestMethod.POST, target, handler);
-        }
+        }*/
     }
 }

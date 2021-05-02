@@ -2,54 +2,147 @@ package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.weather.WeatherEvent;
+import me.randomhashtags.worldlaws.weather.WeatherPreAlert;
 import org.apache.logging.log4j.Level;
 
-import java.util.HashMap;
-import java.util.Timer;
-import java.util.TimerTask;
+import java.util.*;
 
-public interface WeatherController extends RestAPI, Jsoupable {
-    WLCountry getCountryBackendID();
+public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
+    WLCountry getCountry();
     EventSource getSource();
-    String getAlertEvents();
-    default void getAlertEvents(CompletionHandler handler) {
-        final String alertEvents = getAlertEvents();
-        if(alertEvents != null) {
-            handler.handle(alertEvents);
-        } else {
-            refreshAlerts(handler);
-        }
-    }
-    HashMap<String, String> getEventAlerts();
-    HashMap<String, HashMap<String, String>> getTerritoryEventAlerts();
-    HashMap<String, String> getTerritoryAlerts();
+    String getEvents();
 
-    default void startAutoUpdates(long interval, CompletionHandler handler, CompletionHandler autoUpdateHandler) {
-        final String id = getCountryBackendID().getBackendID(), className = getClass().getSimpleName();
+    HashMap<String, String> getEventPreAlerts();
+    HashMap<String, String> getTerritoryEvents();
+    HashMap<String, HashMap<String, String>> getTerritoryPreAlerts();
+
+    void refresh(CompletionHandler handler);
+
+    default void startAutoUpdates(CompletionHandler handler, CompletionHandler autoUpdateHandler) {
+        final long interval = WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL;
+        final String className = getClass().getSimpleName();
         new Timer().scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
-                refreshAlerts(getTest(className, id, System.currentTimeMillis(), autoUpdateHandler));
+                refresh(getTest(className, System.currentTimeMillis(), autoUpdateHandler));
             }
         }, interval, interval);
-        refreshAlerts(getTest(className, id, System.currentTimeMillis(), handler));
+        refresh(getTest(className, System.currentTimeMillis(), handler));
     }
-    void refreshAlerts(CompletionHandler handler);
 
-    default void getEventAlerts(String event, CompletionHandler handler) {
-        final HashMap<String, String> eventAlerts = getEventAlerts();
-        final String value = eventAlerts != null ? eventAlerts.getOrDefault(event, "[]") : "[]";
-        handler.handle(value);
+    default void getEvents(CompletionHandler handler) {
+        final String events = getEvents();
+        if(events != null) {
+            handler.handle(events);
+        } else {
+            refresh(new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    handler.handle(getEvents());
+                }
+            });
+        }
     }
-    default void getTerritoryEventAlerts(String territory, String event, CompletionHandler handler) {
-        final HashMap<String, HashMap<String, String>> territoryEventAlerts = getTerritoryEventAlerts();
-        final String value = territoryEventAlerts != null && territoryEventAlerts.containsKey(territory) ? territoryEventAlerts.get(territory).getOrDefault(event, "[]") : "[]";
-        handler.handle(value);
+    default void putEventPreAlerts(HashMap<String, String> eventPreAlerts, HashMap<String, HashSet<WeatherPreAlert>> hashmap) {
+        for(Map.Entry<String, HashSet<WeatherPreAlert>> map : hashmap.entrySet()) {
+            final String event = map.getKey();
+            final HashSet<WeatherPreAlert> preAlerts = map.getValue();
+            final StringBuilder builder = new StringBuilder("[");
+            boolean isFirst = true;
+            for(WeatherPreAlert preAlert : preAlerts) {
+                builder.append(isFirst ? "" : ",").append(preAlert.toString());
+                isFirst = false;
+            }
+            final String string = builder.append("]").toString();
+            eventPreAlerts.put(event.toLowerCase().replace(" ", ""), string);
+        }
     }
-    default void getTerritoryAlerts(String territory, CompletionHandler handler) {
-        final HashMap<String, String> territoryAlerts = getTerritoryAlerts();
-        final String value = territoryAlerts != null ? territoryAlerts.getOrDefault(territory, "[]") : "[]";
-        handler.handle(value);
+    default void getPreAlerts(String event, CompletionHandler handler) {
+        final HashMap<String, String> eventPreAlerts = getEventPreAlerts();
+        if(eventPreAlerts.containsKey(event)) {
+            handler.handle(eventPreAlerts.get(event));
+        }
+    }
+    default void putTerritoryEvents(HashMap<String, String> territoryEvents, HashMap<String, HashSet<WeatherEvent>> hashmap) {
+        boolean isFirst = true;
+        for(Map.Entry<String, HashSet<WeatherEvent>> map : hashmap.entrySet()) {
+            final String territory = map.getKey();
+            final HashSet<WeatherEvent> events = map.getValue();
+            final StringBuilder builder = new StringBuilder("[");
+            for(WeatherEvent newWeatherEvent : events) {
+                builder.append(isFirst ? "" : ",").append(newWeatherEvent.toString());
+                isFirst = false;
+            }
+            builder.append("]");
+            territoryEvents.put(territory.toLowerCase().replace(" ", ""), builder.toString());
+        }
+    }
+    default void putTerritoryPreAlerts(HashMap<String, HashMap<String, String>> territoryPreAlerts, HashMap<String, HashMap<String, HashSet<WeatherPreAlert>>> hashmap) {
+        for(Map.Entry<String, HashMap<String, HashSet<WeatherPreAlert>>> map : hashmap.entrySet()) {
+            final String territory = map.getKey();
+            final HashMap<String, HashSet<WeatherPreAlert>> eventsMap = map.getValue();
+            final HashMap<String, String> preAlertsMap = new HashMap<>();
+            for(Map.Entry<String, HashSet<WeatherPreAlert>> eventMap : eventsMap.entrySet()) {
+                final String event = eventMap.getKey();
+                final HashSet<WeatherPreAlert> preAlerts = eventMap.getValue();
+                final StringBuilder builder = new StringBuilder("[");
+                boolean isFirst = true;
+                for(WeatherPreAlert preAlert : preAlerts) {
+                    builder.append(isFirst ? "" : ",").append(preAlert.toString());
+                    isFirst = false;
+                }
+                final String string = builder.append("]").toString();
+                preAlertsMap.put(event, string);
+            }
+            territoryPreAlerts.put(territory.toLowerCase().replace(" ", ""), preAlertsMap);
+        }
+    }
+    default String getEventsJSON(HashMap<String, Integer> hashmap) {
+        final StringBuilder builder = new StringBuilder("{");
+        final HashMap<Integer, HashSet<String>> defcons = new HashMap<>();
+        for(Map.Entry<String, Integer> map : hashmap.entrySet()) {
+            final String event = map.getKey();
+            final int defcon = map.getValue();
+            if(!defcons.containsKey(defcon)) {
+                defcons.put(defcon, new HashSet<>());
+            }
+            defcons.get(defcon).add(event);
+        }
+
+        boolean isFirstDefcon = true;
+        for(Map.Entry<Integer, HashSet<String>> map : defcons.entrySet()) {
+            final int defcon = map.getKey();
+            final HashSet<String> events = map.getValue();
+            final StringBuilder eventBuilder = new StringBuilder("[");
+            boolean isFirstEvent = true;
+            for(String event : events) {
+                eventBuilder.append(isFirstEvent ? "" : ",").append("\"").append(event).append("\"");
+                isFirstEvent = false;
+            }
+            eventBuilder.append("]");
+            builder.append(isFirstDefcon ? "" : ",").append("\"").append(defcon).append("\":").append(eventBuilder.toString());
+            isFirstDefcon = false;
+        }
+        builder.append("}");
+        return builder.toString();
+    }
+
+    void getZones(String[] zones, CompletionHandler handler);
+    void getZone(String zoneID, CompletionHandler handler);
+    void getAlert(String id, CompletionHandler handler);
+
+    default void getTerritoryEvents(String territory, CompletionHandler handler) {
+        final HashMap<String, String> territoryEvents = getTerritoryEvents();
+        if(territoryEvents.containsKey(territory)) {
+            handler.handle(territoryEvents.get(territory));
+        }
+    }
+    default void getTerritoryPreAlerts(String territory, String event, CompletionHandler handler) {
+        final HashMap<String, HashMap<String, String>> territoryPreAlerts = getTerritoryPreAlerts();
+        if(territoryPreAlerts.containsKey(territory) && territoryPreAlerts.get(territory).containsKey(event)) {
+            handler.handle(territoryPreAlerts.get(territory).get(event));
+        }
     }
 
     default int getSeverityDEFCON(String severity) {
@@ -62,11 +155,11 @@ public interface WeatherController extends RestAPI, Jsoupable {
         }
     }
 
-    private static CompletionHandler getTest(String className, String id, long started, CompletionHandler handler) {
+    private static CompletionHandler getTest(String className, long started, CompletionHandler handler) {
         return new CompletionHandler() {
             @Override
             public void handle(Object object) {
-                WLLogger.log(Level.INFO, className +  " - refreshed alerts for country \"" + id + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.log(Level.INFO, className +  " - refreshed alerts for country (took " + (System.currentTimeMillis()-started) + "ms)");
                 if(handler != null) {
                     handler.handle(object);
                 }

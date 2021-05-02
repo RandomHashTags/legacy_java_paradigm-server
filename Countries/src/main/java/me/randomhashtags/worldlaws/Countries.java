@@ -41,17 +41,21 @@ public final class Countries implements DataValues, Jsoupable, Jsonable, RestAPI
     }
 
     private void test() {
+        loadCountries();
+        /*
         final String[] values = {
-                "Norway",
+                "Afghanistan",
+                "United States",
+                "Russia"
         };
         for(String string : values) {
-            Wikipedia.INSTANCE.getValue(string, new CompletionHandler() {
+            CIAServices.INSTANCE.getValue(string, new CompletionHandler() {
                 @Override
                 public void handle(Object object) {
                     WLLogger.log(Level.INFO, "Countries;test;string=" + string + ";object=" + object);
                 }
             });
-        }
+        }*/
     }
 
     private void testBandwidth() {
@@ -213,7 +217,7 @@ public final class Countries implements DataValues, Jsoupable, Jsonable, RestAPI
                 for(Object obj : array) {
                     final JSONObject json = (JSONObject) obj;
                     final String tag = json.getString("tag"), url = json.getString("url");
-                    createCountry(tag, url);
+                    createNewCountry(tag, url);
                 }
                 WLLogger.log(Level.INFO, "Countries - loaded countries (took " + (System.currentTimeMillis()-started) + "ms)");
                 checkForMissingValues();
@@ -298,6 +302,51 @@ public final class Countries implements DataValues, Jsoupable, Jsonable, RestAPI
                 countriesMap.put(backendID, country);
             }
         });
+    }
+    private void createNewCountry(String tag, String url) {
+        final FileType type = FileType.COUNTRIES;
+        final String fileName = "_Countries";
+        getJSONObject(type, fileName, new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+                loadCountry(type, tag, url, new CompletionHandler() {
+                    @Override
+                    public void handle(Object object) {
+                        final String string = "{\"" + tag + "\":" + object.toString() + "}";
+                        handler.handle(string);
+                    }
+                });
+            }
+
+            @Override
+            public void handleJSONObject(JSONObject json) {
+                if(json.has(tag)) {
+                    final JSONObject countryJSON = json.getJSONObject(tag);
+                    final CustomCountry country = new CustomCountry(countryJSON);
+                    countriesMap.put(country.getBackendID(), country);
+                } else {
+                    loadCountry(type, tag, url, new CompletionHandler() {
+                        @Override
+                        public void handle(Object object) {
+                            final JSONObject countryJSON = new JSONObject(object.toString());
+                            final CustomCountry country = new CustomCountry(countryJSON);
+                            countriesMap.put(country.getBackendID(), country);
+                            json.put(tag, countryJSON);
+                            setFileJSONObject(type, fileName, json);
+                        }
+                    });
+                }
+            }
+        });
+    }
+    private void loadCountry(FileType type, String tag, String url, CompletionHandler handler) {
+        final Document doc = getDocument(type, url, false);
+        String string = null;
+        if(doc != null) {
+            final CustomCountry country = new CustomCountry(tag, doc);
+            string = country.toServerJSON();
+        }
+        handler.handle(string);
     }
 
     private void getHomeJSON(CompletionHandler handler) {

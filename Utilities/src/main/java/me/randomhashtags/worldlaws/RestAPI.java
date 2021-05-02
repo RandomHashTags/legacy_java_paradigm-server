@@ -10,12 +10,15 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 public interface RestAPI {
     HashMap<String, String> CONTENT_HEADERS = new HashMap<>() {{
         put("Content-Type", "application/json");
     }};
+    HashMap<String, HashSet<CompletionHandler>> PENDING_SAME_REQUESTS = new HashMap<>();
 
     default void requestJSONArray(String url, RequestMethod method, CompletionHandler handler) {
         requestJSONArray(url, method, CONTENT_HEADERS, handler);
@@ -57,26 +60,34 @@ public interface RestAPI {
 
     default void request(String targetURL, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query, CompletionHandler handler) {
         final boolean isLocal = targetURL.startsWith("http://localhost");
+
+        final StringBuilder target = new StringBuilder(targetURL);
+        int i = 0;
+        if(query != null) {
+            target.append("?");
+            for(Map.Entry<String, String> entry : query.entrySet()) {
+                final String key = entry.getKey(), value = entry.getValue();
+                if(i != 0) {
+                    target.append("&");
+                }
+                target.append(key).append("=").append(value);
+                i++;
+            }
+        }
+        targetURL = target.toString();
+
         if(!isLocal) {
             WLLogger.log(Level.INFO, "RestAPI - making request to \"" + targetURL + "\"");
+            if(PENDING_SAME_REQUESTS.containsKey(targetURL)) {
+                PENDING_SAME_REQUESTS.get(targetURL).add(handler);
+                return;
+            } else {
+                PENDING_SAME_REQUESTS.put(targetURL, new HashSet<>());
+            }
         }
         HttpURLConnection connection = null;
         try {
-            final StringBuilder target = new StringBuilder(targetURL);
-            int i = 0;
-            if (query != null) {
-                target.append("?");
-                for (Map.Entry<String, String> entry : query.entrySet()) {
-                    final String key = entry.getKey(), value = entry.getValue();
-                    if (i != 0) {
-                        target.append("&");
-                    }
-                    target.append(key).append("=").append(value);
-                    i++;
-                }
-            }
-            final String targeturl = target.toString();
-            final URL url = new URL(targeturl);
+            final URL url = new URL(targetURL);
             connection = (HttpURLConnection) url.openConnection();
             connection.setConnectTimeout(10_000);
             connection.setRequestMethod(method.getName());
@@ -105,7 +116,7 @@ public interface RestAPI {
             } else {
                 final StringBuilder builder = new StringBuilder("RestAPI ERROR!");
                 builder.append("\nDiagnoses = responseCode=").append(responseCode);
-                builder.append("\ntargeturl=").append(targeturl);
+                builder.append("\ntargeturl=").append(targetURL);
                 builder.append("\nheaderFields=").append(connection.getHeaderFields().toString());
                 try {
                     final String string = connection.getRequestProperties().toString();
@@ -116,10 +127,18 @@ public interface RestAPI {
                 builder.append("\nerrorStream=").append(connection.getErrorStream());
                 WLLogger.log(Level.WARN, builder.toString());
                 handler.handle(null);
+
+                final HashSet<CompletionHandler> sameRequests = PENDING_SAME_REQUESTS.get(targetURL);
+                if(sameRequests.size() > 0) {
+                    for(CompletionHandler pendingHandler : sameRequests) {
+                        pendingHandler.handle(null);
+                    }
+                }
+                PENDING_SAME_REQUESTS.remove(targetURL);
             }
         } catch (Exception e) {
             if(!isLocal) {
-                WLLogger.log(Level.ERROR, "[REST API] - \"(" + e.getStackTrace()[0].getClassName() + ") " + e.getMessage() + "\" with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
+                WLLogger.log(Level.ERROR, "[REST API] - \"(" + e.getStackTrace()[0].getClassName() + ") " + e.getMessage() + " with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
             }
             handler.handle(null);
         } finally {

@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.info.service;
 
+import me.randomhashtags.worldlaws.ServerObject;
 import org.apache.logging.log4j.Level;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
@@ -16,11 +17,6 @@ public enum CIAServices implements CountryService {
     INSTANCE;
 
     private HashMap<String, String> countries;
-
-    @Override
-    public FileType getFileType() {
-        return FileType.COUNTRIES_SERVICES_CIA;
-    }
 
     @Override
     public CountryInfo getInfo() {
@@ -46,56 +42,98 @@ public enum CIAServices implements CountryService {
             handler.handle(countries.get(shortName));
         } else {
             final FileType fileType = getFileType();
-            getJSONObject(fileType, shortName, new CompletionHandler() {
+            final String fileName = "CIA";
+            getJSONObject(fileType, fileName, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
-                    String summaryURL = null, travelFactsURL = null;
-
-                    final String prefix = "https://www.cia.gov/";
-                    final String url = prefix + "the-world-factbook/countries/" + shortName.toLowerCase().replace(" ", "-") + "/";
-                    final Elements elements = getDocumentElements(fileType, url, "div.thee-link-container a");
-                    for(Element element : elements) {
-                        final String href = element.attr("href");
-                        if(href.endsWith("-summary.pdf")) {
-                            summaryURL = prefix + href.substring(1);
-                        } else if(href.endsWith("-travel-facts.pdf")) {
-                            travelFactsURL = prefix + href.substring(1);
+                    loadCIAValues(started, fileType, shortName, new CompletionHandler() {
+                        @Override
+                        public void handle(Object object) {
+                            final String string = "{\"" + shortName + "\":" + object.toString() + "}";
+                            handler.handle(string);
                         }
-                    }
-                    final CIAValues values = new CIAValues(summaryURL, travelFactsURL);
-                    final String string = values.toString();
-                    handler.handle(string);
+                    });
                 }
 
                 @Override
-                public void handleJSONObject(JSONObject object) {
-                    final CIAValues values = new CIAValues(object);
-                    final String string = values.toString();
-                    countries.put(shortName, string);
-                    WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + shortName + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handle(string);
+                public void handleJSONObject(JSONObject json) {
+                    if(json.has(shortName)) {
+                        final String string = new CIAValues(json.getJSONObject(shortName)).toString();
+                        countries.put(shortName, string);
+                        handler.handle(string);
+                    } else {
+                        loadCIAValues(started, fileType, shortName, new CompletionHandler() {
+                            @Override
+                            public void handle(Object object) {
+                                final JSONObject ciaJSON = new JSONObject(object.toString());
+                                final CIAValues values = new CIAValues(ciaJSON);
+                                final String string = values.toString();
+                                countries.put(shortName, string);
+                                json.put(shortName, ciaJSON);
+                                setFileJSONObject(fileType, fileName, json);
+                                handler.handle(string);
+                            }
+                        });
+                    }
                 }
             });
         }
     }
+    private void loadCIAValues(long started, FileType fileType, String shortName, CompletionHandler handler) {
+        String summaryURL = null, travelFactsURL = null, key = null;
 
-    private final class CIAValues {
-        private final String summaryURL, travelFactsURL;
+        final String prefix = "https://www.cia.gov/";
+        final String url = prefix + "the-world-factbook/countries/" + shortName.toLowerCase().replace(" ", "-") + "/";
+        final Elements elements = getDocumentElements(fileType, url, "div.thee-link-container a");
+        for(Element element : elements) {
+            final String href = element.attr("href");
+            if(href.endsWith("-summary.pdf")) {
+                final String text = href.split("/static/")[1];
+                final String[] values = text.split("/");
+                summaryURL = values[0];
+                key = values[1].split("-")[0];
+            } else if(href.endsWith("-travel-facts.pdf")) {
+                final String text = href.split("/static/")[1];
+                final String[] values = text.split("/");
+                travelFactsURL = values[0];
+                key = values[1].split("-")[0];
+            }
+        }
+        final CIAValues values = new CIAValues(key, summaryURL, travelFactsURL);
+        final String string = values.toServerJSON();
+        WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + shortName + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+        handler.handle(string);
+    }
 
-        private CIAValues(String summaryURL, String travelFactsURL) {
+    private final class CIAValues implements ServerObject {
+        private final String key, summaryURL, travelFactsURL;
+
+        private CIAValues(String key, String summaryURL, String travelFactsURL) {
+            this.key = key;
             this.summaryURL = summaryURL;
             this.travelFactsURL = travelFactsURL;
         }
         private CIAValues(JSONObject json) {
-            summaryURL = json.getString("summaryURL");
-            travelFactsURL = json.getString("travelFactsURL");
+            this.key = json.getString("key");
+            this.summaryURL = json.getString("summary");
+            this.travelFactsURL = json.getString("travelFacts");
         }
 
         @Override
         public String toString() {
+            final String prefix = "https://www.cia.gov/the-world-factbook/static/";
             return "{" +
-                    "\"summaryURL\":\"" + summaryURL + "\"," +
-                    "\"travelFactsURL\":\"" + travelFactsURL + "\"" +
+                    "\"summaryURL\":\"" + prefix + summaryURL + "/" + key + "-summary.pdf\"," +
+                    "\"travelFactsURL\":\"" + prefix + travelFactsURL + "/" + key + "-travel-facts.pdf\"" +
+                    "}";
+        }
+
+        @Override
+        public String toServerJSON() {
+            return "{" +
+                    "\"key\":\"" + key + "\"," +
+                    "\"summary\":\"" + summaryURL + "\"," +
+                    "\"travelFacts\":\"" + travelFactsURL + "\"" +
                     "}";
         }
     }

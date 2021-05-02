@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.event.space.nasa;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.event.*;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -12,14 +11,7 @@ import java.util.HashMap;
 public enum NASANeo implements USAEventController {
     INSTANCE;
 
-    private HashMap<Integer, HashMap<Integer, HashMap<Integer, String>>> years;
-    private final HashMap<String, String> preEvents, events;
-
-    NASANeo() {
-        years = new HashMap<>();
-        preEvents = new HashMap<>();
-        events = new HashMap<>();
-    }
+    private HashMap<String, String> upcomingEvents, preUpcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -27,44 +19,39 @@ public enum NASANeo implements USAEventController {
     }
 
     @Override
-    public void refresh(CompletionHandler handler) {
+    public HashMap<String, NewPreUpcomingEvent> getPreEventURLs() {
+        return null;
+    }
+
+    @Override
+    public HashMap<String, String> getPreUpcomingEvents() {
+        return preUpcomingEvents;
+    }
+
+    @Override
+    public HashMap<String, String> getUpcomingEvents() {
+        return upcomingEvents;
+    }
+
+    @Override
+    public void load(CompletionHandler handler) {
+        preUpcomingEvents = new HashMap<>();
+        upcomingEvents = new HashMap<>();
+
         final LocalDate today = LocalDate.now();
         final int year = today.getYear(), month = today.getMonthValue(), day = today.getDayOfMonth();
         refreshNeo(year, month, day, handler);
     }
 
-    @Override
-    public String getCache() {
-        final LocalDate today = LocalDate.now();
-        final int year = today.getYear(), month = today.getMonthValue(), day = today.getDayOfMonth();
-        if(years.containsKey(year) && years.get(year).containsKey(month) && years.get(year).get(month).containsKey(day)) {
-            return years.get(year).get(month).get(day);
-        }
-        return null;
-    }
-
-    @Override
-    public HashMap<String, String> getPreEvents() {
-        return preEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getEvents() {
-        return events;
-    }
-
     private void refreshNeo(int year, int month, int day, CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
         final String API_KEY = "***REMOVED***";
         final String date = year + "-" + month + "-" + day;
         final String url = "https://api.nasa.gov/neo/rest/v1/feed?start_date=" + date + "&end_date=" + date + "&detailed=true&api_key=" + API_KEY;
         requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject jsonobject) {
-                final String dateString = year + "-" + month + "-" + (day < 10 ? "0" + day : "" + day);
-                final JSONArray nearEarthObjects = jsonobject.getJSONObject("near_earth_objects").getJSONArray(dateString);
-                final StringBuilder builder = new StringBuilder("[");
-                boolean isFirst = true;
+                final String formattedDateString = year + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : "" + day);
+                final JSONArray nearEarthObjects = jsonobject.getJSONObject("near_earth_objects").getJSONArray(formattedDateString);
                 for(Object obj : nearEarthObjects) {
                     final JSONObject json = (JSONObject) obj;
                     final String name = json.getString("name");
@@ -77,31 +64,21 @@ public enum NASANeo implements USAEventController {
                     final long closeApproachEpoch = closeApproach.getLong("epoch_date_close_approach");
                     final String relativeVelocity = closeApproach.getJSONObject("relative_velocity").getString("kilometers_per_hour");
 
+                    final String id = (month + "-" + year + "-" + day) + "." + name.replace(" ", "");
                     final NearEarthObject neo = new NearEarthObject(name, closeApproachEpoch, isPotentiallyHazardousAsteroid, estimatedDiameterMin, estimatedDiameterMax, relativeVelocity);
-                    final EventDate neoDate = neo.getDate();
-                    final String neoTitle = neo.getTitle();
-                    final String identifier = getEventIdentifier(neoDate, neoTitle);
-                    events.put(identifier, neo.toJSON());
-
-                    final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(neoTitle, "Near Earth Object description???", null);
-                    final String string = preUpcomingEvent.toString();
-                    preEvents.put(identifier, string);
-                    builder.append(isFirst ? "" : ",").append(string);
-                    isFirst = false;
+                    upcomingEvents.put(id, neo.toJSON());
+                    final String preUpcomingEventString = new PreUpcomingEvent(id, name, "NEO: " + name, null).toString();
+                    preUpcomingEvents.put(id, preUpcomingEventString);
                 }
-                builder.append("]");
-                if(!years.containsKey(year)) {
-                    years.put(year, new HashMap<>());
-                }
-                if(!years.get(year).containsKey(month)) {
-                    years.get(year).put(month, new HashMap<>());
-                }
-                final String string = builder.toString();
-                years.get(year).get(month).put(day, string);
-                WLLogger.log(Level.INFO, "NASANeo - refreshed " + dateString + " (took " + (System.currentTimeMillis()-started) + "ms)");
-                handler.handle(string);
+                handler.handle(null);
             }
         });
+    }
+
+    @Override
+    public void getUpcomingEvent(String id, CompletionHandler handler) {
+        final String value = upcomingEvents.getOrDefault(id, null);
+        handler.handle(value);
     }
 
     private final class NearEarthObject implements UpcomingEvent {
@@ -117,11 +94,6 @@ public enum NASANeo implements USAEventController {
             this.estimatedDiameterMax = estimatedDiameterMax;
             this.relativeVelocity = relativeVelocity;
             this.date = new EventDate(closeApproachEpoch);
-        }
-
-        @Override
-        public UpcomingEventType getType() {
-            return UpcomingEventType.SPACE_NASA;
         }
 
         @Override

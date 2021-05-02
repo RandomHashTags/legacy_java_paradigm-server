@@ -11,7 +11,7 @@ import org.json.JSONObject;
 import java.util.*;
 
 public enum StreamingEvents implements EventController, DataValues {
-    TWITCH(UpcomingEventType.LIVE_STREAM_TWITCH,
+    TWITCH(null,
             "https://api.twitch.tv/helix/streams",
             "Client-ID",
             TWITCH_CLIENT_ID,
@@ -20,7 +20,7 @@ public enum StreamingEvents implements EventController, DataValues {
                 put("first", Integer.toString(TWITCH_REQUEST_LIMIT));
             }}
     ),
-    YOUTUBE(UpcomingEventType.LIVE_STREAM_YOUTUBE,
+    YOUTUBE(null,
             "https://www.googleapis.com/youtube/v3/search",
             YOUTUBE_KEY_IDENTIFIER,
             YOUTUBE_KEY_VALUE,
@@ -60,13 +60,38 @@ public enum StreamingEvents implements EventController, DataValues {
         new Timer().scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
-                refresh(null);
+                load(null);
             }
         }, THIRTY_MIN, THIRTY_MIN);
     }
 
     @Override
-    public void refresh(CompletionHandler handler) {
+    public UpcomingEventType getType() {
+        return type;
+    }
+
+    @Override
+    public WLCountry getCountry() {
+        return null;
+    }
+
+    @Override
+    public HashMap<String, NewPreUpcomingEvent> getPreEventURLs() {
+        return null;
+    }
+
+    @Override
+    public HashMap<String, String> getPreUpcomingEvents() {
+        return null;
+    }
+
+    @Override
+    public HashMap<String, String> getUpcomingEvents() {
+        return null;
+    }
+
+    @Override
+    public void load(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final boolean isTwitch = this == TWITCH;
         requestJSONObject(url, RequestMethod.GET, headers, query, new CompletionHandler() {
@@ -75,7 +100,7 @@ public enum StreamingEvents implements EventController, DataValues {
                 final StringBuilder builder = new StringBuilder("[");
                 boolean isFirst = true;
                 if(isTwitch) {
-                    final int minimum = 15000;
+                    final int minimum = 40_000;
                     final JSONArray array = response.getJSONArray("data");
                     for(Object obj : array) {
                         final JSONObject streamJSON = (JSONObject) obj;
@@ -88,7 +113,7 @@ public enum StreamingEvents implements EventController, DataValues {
                         }
                     }
                 } else {
-                    final int minimum = 15000;
+                    final int minimum = 40_000;
                 }
                 builder.append("]");
                 json = builder.toString();
@@ -101,27 +126,6 @@ public enum StreamingEvents implements EventController, DataValues {
     }
 
     @Override
-    public String getCache() {
-        return json;
-    }
-
-    @Override
-    public UpcomingEventType getType() {
-        return type;
-    }
-
-    @Override
-    public HashMap<String, String> getPreEvents() {
-        return null;
-    }
-
-    @Override
-    public HashMap<String, String> getEvents() {
-        return null;
-    }
-
-    @Override
-    public WLCountry getCountry() {
-        return null;
+    public void getUpcomingEvent(String id, CompletionHandler handler) {
     }
 }

@@ -186,12 +186,14 @@ public enum CountryInfoKeys implements CountryInfoService {
             final String country = tds.get(0).text().toLowerCase().split("\\[")[0].split("\\(")[0].replace(" ", "");
             final String notes = getNotesFromElement(tds.get(1)), notesLowercase = notes.toLowerCase();
             final boolean isNone = notesLowercase.startsWith("none") || notesLowercase.contains("has no minimum wage");
-            final CountryInfoValue workweekHours = new CountryInfoValue("Workweek hours", tds.get(4).text(), null);
 
-            final String annualValue = tds.get(2).text();
+            final String hoursValue = removeReferences(tds.get(4).text());
+            final CountryInfoValue workweekHours = new CountryInfoValue("Workweek hours", hoursValue, null);
+
+            final String annualValue = removeReferences(tds.get(2).text());
             final CountryInfoValue annual = new CountryInfoValue("Annual (USD)", annualValue.isEmpty() ? "Unknown" : isNone ? "None" : "$" + annualValue, null);
 
-            final String hourlyValue = tds.get(5).text();
+            final String hourlyValue = removeReferences(tds.get(5).text());
             final CountryInfoValue hourly = new CountryInfoValue("Hourly (USD)", hourlyValue.isEmpty() ? "Unknown" : isNone ? "None" : "$" + hourlyValue, null);
 
             final String effectivePer = tds.get(8).text();

@@ -1,11 +1,11 @@
 package me.randomhashtags.worldlaws.event;
 
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.LocalServer;
-import me.randomhashtags.worldlaws.UpcomingEventType;
 
-public interface UpcomingEvent {
-    UpcomingEventType getType();
+public interface UpcomingEvent extends Jsoupable {
     EventDate getDate();
     String getTitle();
     String getDescription();
@@ -15,16 +15,15 @@ public interface UpcomingEvent {
     String getPropertiesJSONObject();
 
     default String toJSON() {
-        final String imageURL = getImageURL(), properties = getPropertiesJSONObject();
+        final String imageURL = getImageURL(), properties = getPropertiesJSONObject(), location = getLocation();
+        final String description = LocalServer.fixEscapeValues(removeReferences(getDescription()));
         return "{" +
-                "\"type\":\"" + getType().name() + "\"," +
-                "\"date\":" + getDate().toString() + "," +
                 "\"title\":\"" + LocalServer.fixEscapeValues(getTitle()) + "\"," +
-                "\"description\":\"" + LocalServer.fixEscapeValues(getDescription()) + "\"," +
-                "\"location\":\"" + getLocation() + "\"," +
+                "\"description\":\"" + description + "\"," +
+                (location != null ? "\"location\":\"" + location + "\"," : "") +
                 (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"," : "") +
                 (properties != null ? "\"properties\":" + properties + "," : "") +
-                "\"sources\":" + getSources().toString() + "," +
+                "\"sources\":" + getSources().toString() +
                 "}";
     }
 }

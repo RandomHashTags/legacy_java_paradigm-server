@@ -3,6 +3,8 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.country.LawController;
 import me.randomhashtags.worldlaws.country.ca.CanadaLaws;
 import me.randomhashtags.worldlaws.country.usa.USLaws;
+import me.randomhashtags.worldlaws.country.usa.federal.USCongress;
+import org.apache.logging.log4j.Level;
 
 import java.util.HashMap;
 
@@ -25,6 +27,12 @@ public final class Laws implements DataValues {
     }
 
     private void test() {
+        USCongress.getCongress(116).getEnactedBills(new CompletionHandler() {
+            @Override
+            public void handle(Object object) {
+                WLLogger.log(Level.INFO, "Laws;test;object=" + object);
+            }
+        });
     }
     private void load() {
         countries = new HashMap<>();

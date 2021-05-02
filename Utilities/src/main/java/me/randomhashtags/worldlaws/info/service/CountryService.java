@@ -98,7 +98,10 @@ public interface CountryService extends RestAPI, Jsoupable, Jsonable {
         return notes;
     }
 
-    private String getClassSimpleName() {
-        return getClass().getSimpleName();
+    default void getJSONObject(CountryService service, CompletionHandler handler) {
+        getJSONObject(service.getFileType(), service.getInfo().getTitle(), handler);
+    }
+    default void getJSONArray(CountryService service, CompletionHandler handler) {
+        getJSONArray(service.getFileType(), service.getInfo().getTitle(), handler);
     }
 }

@@ -1,11 +1,8 @@
 package me.randomhashtags.worldlaws.event.space;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.event.EventDate;
-import me.randomhashtags.worldlaws.PreUpcomingEvent;
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.event.USAEventController;
-import me.randomhashtags.worldlaws.UpcomingEventType;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -17,9 +14,10 @@ public enum SpaceX implements USAEventController {
     INSTANCE;
 
     private Timer autoUpdateTimer;
-    private String json;
-    private boolean isFirst;
-    private HashMap<String, String> launchpads, preEvents, events;
+    private HashMap<String, String> launchpads;
+
+    private HashMap<String, NewPreUpcomingEvent> preEventURLS;
+    private HashMap<String, String> upcomingEvents, preUpcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -27,7 +25,27 @@ public enum SpaceX implements USAEventController {
     }
 
     @Override
-    public void refresh(CompletionHandler handler) {
+    public HashMap<String, NewPreUpcomingEvent> getPreEventURLs() {
+        return preEventURLS;
+    }
+
+    @Override
+    public HashMap<String, String> getPreUpcomingEvents() {
+        return preUpcomingEvents;
+    }
+
+    @Override
+    public HashMap<String, String> getUpcomingEvents() {
+        return upcomingEvents;
+    }
+
+    @Override
+    public void load(CompletionHandler handler) {
+        preEventURLS = new HashMap<>();
+        preUpcomingEvents = new HashMap<>();
+        upcomingEvents = new HashMap<>();
+        launchpads = new HashMap<>();
+
         if(autoUpdateTimer == null) {
             final long EVERY_HOUR = 1000*60*60;
             autoUpdateTimer = new Timer();
@@ -41,75 +59,30 @@ public enum SpaceX implements USAEventController {
         refreshUpcomingLaunches(handler);
     }
 
-    @Override
-    public String getCache() {
-        return json;
-    }
-
-    @Override
-    public HashMap<String, String> getPreEvents() {
-        return preEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getEvents() {
-        return events;
-    }
-
     private void refreshUpcomingLaunches(CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
-        preEvents = new HashMap<>();
-        events = new HashMap<>();
         final String url = "https://api.spacexdata.com/v4/launches/upcoming";
         requestJSONArray(url, RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONArray(JSONArray array) {
-                final StringBuilder builder = new StringBuilder("[");
-                final EventSource source = new EventSource("SpaceX GitHub", "https://github.com/r-spacex/SpaceX-API");
-                final EventSources sources = new EventSources(source);
-                final Object last = array.get(array.length()-1);
-                isFirst = true;
                 for(Object obj : array) {
                     final JSONObject json = (JSONObject) obj;
                     final String title = json.getString("name");
+
                     final String description = json.get("details") instanceof String ? json.getString("details") : "null";
                     final long dateUnix = json.getLong("date_unix");
                     final EventDate date = new EventDate(dateUnix*1000);
+
+                    final String dateString =  date.getMonth().getValue() + "-" + date.getYear() + "-" + date.getDay();
+                    final String id = dateString + "." + title.replace(" ", "");
                     final String launchpadID = json.getString("launchpad");
-                    getLaunchpad(launchpadID, new CompletionHandler() {
-                        @Override
-                        public void handle(Object object) {
-                            final JSONObject launchpadJSON = new JSONObject(object.toString());
-                            final String location = launchpadJSON.getString("locality") + ", " + launchpadJSON.getString("region");
-                            final SpaceEvent event = new SpaceEvent(date, title, description, location, sources);
-                            final String identifier = getEventIdentifier(date, title);
-                            events.put(identifier, event.toJSON());
-
-                            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(title, location, event.getImageURL());
-                            final String string = preUpcomingEvent.toString();
-                            preEvents.put(identifier, string);
-                            builder.append(isFirst ? "" : ",").append(preUpcomingEvent.toString());
-                            isFirst = false;
-
-                            if(obj.equals(last)) {
-                                builder.append("]");
-                                final String jsonString = builder.toString();
-                                SpaceX.this.json = jsonString;
-                                WLLogger.log(Level.INFO, "SpaceX - updated upcoming launches (took " + (System.currentTimeMillis()-started) + "ms)");
-                                if(handler != null) {
-                                    handler.handle(jsonString);
-                                }
-                            }
-                        }
-                    });
+                    final NewPreUpcomingEvent preUpcomingEvent = new NewPreUpcomingEvent(id, title, launchpadID, description);
+                    preEventURLS.put(id, preUpcomingEvent);
                 }
+                handler.handle(null);
             }
         });
     }
     private void getLaunchpad(String id, CompletionHandler handler) {
-        if(launchpads == null) {
-            launchpads = new HashMap<>();
-        }
         if(launchpads.containsKey(id)) {
             handler.handle(launchpads.get(id));
         } else {
@@ -119,6 +92,31 @@ public enum SpaceX implements USAEventController {
                 public void handleJSONObject(JSONObject object) {
                     final String string = object.toString();
                     launchpads.put(id, string);
+                    handler.handle(string);
+                }
+            });
+        }
+    }
+
+    @Override
+    public void getUpcomingEvent(String id, CompletionHandler handler) {
+        if(upcomingEvents.containsKey(id)) {
+            handler.handle(upcomingEvents.get(id));
+        } else {
+            final NewPreUpcomingEvent preUpcomingEvent = preEventURLS.get(id);
+            final String launchpadID = preUpcomingEvent.getURL(), description = preUpcomingEvent.getTag();
+            final String title = preUpcomingEvent.getTitle();
+            getLaunchpad(launchpadID, new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    final EventSource source = new EventSource("SpaceX GitHub", "https://github.com/r-spacex/SpaceX-API");
+                    final EventSources sources = new EventSources(source);
+
+                    final JSONObject launchpadJSON = new JSONObject(object.toString());
+                    final String location = launchpadJSON.getString("locality") + ", " + launchpadJSON.getString("region");
+                    final SpaceEvent event = new SpaceEvent(title, description, location, sources);
+                    final String string = event.toString();
+                    upcomingEvents.put(id, string);
                     handler.handle(string);
                 }
             });

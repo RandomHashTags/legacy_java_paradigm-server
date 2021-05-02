@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.elections;
 
 import me.randomhashtags.worldlaws.LocalServer;
-import me.randomhashtags.worldlaws.event.EventDate;
+import me.randomhashtags.worldlaws.EventDate;
 
 public final class Election {
     private long id;

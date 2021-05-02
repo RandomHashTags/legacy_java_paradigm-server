@@ -1,0 +1,500 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Bataan Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2624169b-f5e7-4343-9d54-047887e00ea6","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Bataan_Day","wgTitle":"Bataan Day","wgCurRevisionId":1018578184,"wgRevisionId":1018578184,"wgArticleId":10570702,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: discouraged parameter","CS1 maint: archived copy as title","Infobox holiday fixed day","Public holidays in the Philippines","April observances"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Bataan_Day","wgRelevantArticleId":10570702,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Day_of_Valor","wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Bataan_Day","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q4868509"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
+"skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:title" content="Bataan Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Bataan_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bataan_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Bataan_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Bataan_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bataan_Day rootpage-Bataan_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">Bataan Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub">
+     <span class="mw-redirectedfrom">&nbsp;&nbsp;(Redirected from <a href="/w/index.php?title=Day_of_Valor&amp;redirect=no" class="mw-redirect" title="Day of Valor">Day of Valor</a>)</span>
+    </div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox vevent">
+       <tbody>
+        <tr>
+         <th colspan="2" class="infobox-above hd" style="background-color: lightsalmon"><i>Araw ng Kagitingan</i></th>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Official name</th>
+         <td class="infobox-data"><i>Araw ng Kagitingan</i></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Also called</th>
+         <td class="infobox-data">
+          <div class="mw-collapsible" style="text-align: center; font-size: 95%;"> 
+           <div style="line-height: 1.6em; font-weight: bold; font-size: 100%; text-align: left;">
+            <div>
+             Former names
+            </div>
+           </div> 
+           <ul class="mw-collapsible-content" style="font-size: 105%; margin-top: 0; margin-bottom: 0; line-height: inherit; text-align: left;">
+            <li style="line-height: inherit; margin: 0"> <i>Araw ng Kagitingan</i> (Bataan and Corregidor Day) </li>
+            <li style="line-height: inherit; margin: 0"> Bataan Day </li>
+           </ul> 
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Significance</th>
+         <td class="infobox-data summary">Commemorates the <a href="/wiki/Battle_of_Bataan#The_Fall" title="Battle of Bataan">fall of Bataan</a> during <a href="/wiki/World_War_II" title="World War II">World War II</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Date</th>
+         <td class="infobox-data"><a href="/wiki/April_9" title="April 9">April 9</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Next&nbsp;time</th>
+         <td class="infobox-data">April 9, 2022<span style="display:none">&nbsp;(<span class="dtstart">2022-04-09</span>)</span></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Frequency</th>
+         <td class="infobox-data">Annual</td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><i><b>Araw ng Kagitingan</b></i> (<abbr title="literal translation">lit.</abbr><span style="white-space:nowrap"> </span>'Day of Valor'), also known as <b>Bataan Day</b> and <b>Bataan and Corregidor Day</b>, is a <a href="/wiki/Public_holiday" title="Public holiday">national observance</a> in the <a href="/wiki/Philippines" title="Philippines">Philippines</a> which commemorates the <a href="/wiki/Battle_of_Bataan#The_Fall" title="Battle of Bataan">fall of Bataan</a> during <a href="/wiki/World_War_II" title="World War II">World War II</a>. It falls on April 9, although in 2009, its celebration was moved to April 6 to avoid it from coinciding with <a href="/wiki/Maundy_Thursday" title="Maundy Thursday">Maundy Thursday</a>.<sup id="cite_ref-pn295_1-0" class="reference"><a href="#cite_note-pn295-1">[1]</a></sup><sup id="cite_ref-gma_2-0" class="reference"><a href="#cite_note-gma-2">[2]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Name_and_date_of_observance"><span class="tocnumber">1</span> <span class="toctext">Name and date of observance</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Fall_of_Bataan"><span class="tocnumber">2</span> <span class="toctext">Fall of Bataan</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Observance"><span class="tocnumber">3</span> <span class="toctext">Observance</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-4"><a href="#In_the_Philippines"><span class="tocnumber">3.1</span> <span class="toctext">In the Philippines</span></a> 
+           <ul> 
+            <li class="toclevel-3 tocsection-5"><a href="#2012"><span class="tocnumber">3.1.1</span> <span class="toctext">2012</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-2 tocsection-6"><a href="#In_the_United_States"><span class="tocnumber">3.2</span> <span class="toctext">In the United States</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Name_and_date_of_observance">Name and date of observance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bataan_Day&amp;action=edit&amp;section=1" title="Edit section: Name and date of observance">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>In April 1961, <a href="/wiki/Congress_of_the_Philippines" title="Congress of the Philippines">Congress</a> passed Republic Act No. 3022 declaring April 9 of every year as "Bataan Day".<sup id="cite_ref-RA3022_3-0" class="reference"><a href="#cite_note-RA3022-3">[3]</a></sup> </p>
+      <p>In June 1987, Executive Order No. 203 revised all national holidays in the Philippines, referring to the April 9 holiday as "Araw ng Kagitingan (Bataan and Corregidor Day)".<sup id="cite_ref-EO203s1987_4-0" class="reference"><a href="#cite_note-EO203s1987-4">[4]</a></sup> </p>
+      <p>Less than a month later, another executive order (No. 292) revised the holidays anew, again referring to the April 9 holiday as "Araw ng Kagitingan (Bataan and Corregidor Day)".<sup id="cite_ref-EO292s1987_5-0" class="reference"><a href="#cite_note-EO292s1987-5">[5]</a></sup> </p>
+      <p>In 2007, Congress passed Republic Act No. 9492 putting into law the "Holiday Economics" policy of President <a href="/wiki/Gloria_Macapagal-Arroyo" class="mw-redirect" title="Gloria Macapagal-Arroyo">Gloria Macapagal-Arroyo</a>; this put the observance of each holiday, with the exception of <a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a> and <a href="/wiki/Christmas" title="Christmas">Christmas</a>, to the Monday nearest it. The order referred to the holiday celebrated on the Monday nearest April 9 as "Araw ng Kagitingan (Bataan and Corregidor Day)".<sup id="cite_ref-RA9492_6-0" class="reference"><a href="#cite_note-RA9492-6">[6]</a></sup> Starting in 2008, the holiday was called simply as "Araw ng Kagitingan", and was celebrated on the nearest Monday.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> This practice was repeated in 2009.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> In 2010, the holiday was still named as such, but was celebrated on April 9.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </p>
+      <p>Starting with the administration of President <a href="/wiki/Benigno_Aquino_III" title="Benigno Aquino III">Benigno Aquino III</a>, celebrations of the holiday have been observed on April 9, instead of being moved to the nearest Monday, and the holiday has been called simply "Araw ng Kagitingan" in 2011,<sup id="cite_ref-PP84s2010_10-0" class="reference"><a href="#cite_note-PP84s2010-10">[10]</a></sup> 2012,<sup id="cite_ref-:0_11-0" class="reference"><a href="#cite_note-:0-11">[11]</a></sup> 2013,<sup id="cite_ref-:1_12-0" class="reference"><a href="#cite_note-:1-12">[12]</a></sup> 2014,<sup id="cite_ref-:2_13-0" class="reference"><a href="#cite_note-:2-13">[13]</a></sup> 2015,<sup id="cite_ref-:3_14-0" class="reference"><a href="#cite_note-:3-14">[14]</a></sup> and 2016.<sup id="cite_ref-:4_15-0" class="reference"><a href="#cite_note-:4-15">[15]</a></sup> </p>
+      <p>The administration of President <a href="/wiki/Rodrigo_Duterte" title="Rodrigo Duterte">Rodrigo Duterte</a> followed Aquino's naming and dating of the holiday in 2017,<sup id="cite_ref-:5_16-0" class="reference"><a href="#cite_note-:5-16">[16]</a></sup> 2018,<sup id="cite_ref-:6_17-0" class="reference"><a href="#cite_note-:6-17">[17]</a></sup> 2019,<sup id="cite_ref-:7_18-0" class="reference"><a href="#cite_note-:7-18">[18]</a></sup> 2020,<sup id="cite_ref-:8_19-0" class="reference"><a href="#cite_note-:8-19">[19]</a></sup> and 2021.<sup id="cite_ref-:9_20-0" class="reference"><a href="#cite_note-:9-20">[20]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Fall_of_Bataan">Fall of Bataan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bataan_Day&amp;action=edit&amp;section=2" title="Edit section: Fall of Bataan">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: <a href="/wiki/Battle_of_Bataan" title="Battle of Bataan">Battle of Bataan</a>
+      </div> 
+      <p>At dawn on April 9, 1942, against the orders of Generals <a href="/wiki/Douglas_MacArthur" title="Douglas MacArthur">Douglas MacArthur</a> and <a href="/wiki/Jonathan_M._Wainwright_(general)" title="Jonathan M. Wainwright (general)">Jonathan Wainwright</a>, the commander of the Luzon Force, <a href="/wiki/Bataan" title="Bataan">Bataan</a>, Major General <a href="/wiki/Edward_P._King,_Jr." class="mw-redirect" title="Edward P. King, Jr.">Edward P. King, Jr.</a>, surrendered more than 76,000 starving and disease-ridden soldiers (64,000 Filipinos, and 12,000 Americans) to <a href="/wiki/Empire_of_Japan" title="Empire of Japan">Japanese</a> troops.<sup id="cite_ref-Tucker2005_21-0" class="reference"><a href="#cite_note-Tucker2005-21">[21]</a></sup> </p>
+      <p>The majority of these <a href="/wiki/Prisoner_of_war" title="Prisoner of war">prisoners of war</a> had their belongings confiscated before being forced to endure the infamous 140-kilometre (87&nbsp;mi) <a href="/wiki/Bataan_Death_March" title="Bataan Death March">Bataan Death March</a> to <a href="/wiki/Camp_O%27Donnell" title="Camp O'Donnell">Camp O'Donnell</a> in <a href="/wiki/Capas,_Tarlac" class="mw-redirect" title="Capas, Tarlac">Capas, Tarlac</a>. En route, thousands died from dehydration, heat prostration, untreated wounds, and <a href="https://en.wiktionary.org/wiki/wanton#Adjective" class="extiw" title="wikt:wanton">wanton</a> execution while walking in deep dust over vehicle-broken <a href="/wiki/Macadam_road" class="mw-redirect" title="Macadam road">Macadam roads</a>, and crammed into rail cars for transport to captivity.<sup id="cite_ref-lansford-159-160_22-0" class="reference"><a href="#cite_note-lansford-159-160-22">[22]</a></sup> </p>
+      <p>The few who were lucky enough to travel by truck to <a href="/wiki/San_Fernando,_Pampanga" title="San Fernando, Pampanga">San Fernando, Pampanga</a> would still have to endure more than an additional 25 miles (40&nbsp;km) of marching. Prisoners were beaten randomly and often denied promised food and water. Those who fell behind were usually executed or left to die, with the sides of the roads becoming littered with dead bodies and those moaning for help.<sup id="cite_ref-greenberger_23-0" class="reference"><a href="#cite_note-greenberger-23">[23]</a></sup> </p>
+      <p>Only some 54,000 of the 76,000 prisoners reached their destination; the exact death toll is difficult to assess because thousands of captives were able to escape from their guards. Approximately 5,000-10,000 Filipino and 600-650 American prisoners-of-war died before they could reach Camp O'Donnell.<sup id="cite_ref-interaksyon1_24-0" class="reference"><a href="#cite_note-interaksyon1-24">[24]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Observance">Observance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bataan_Day&amp;action=edit&amp;section=3" title="Edit section: Observance">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:The_Fall_of_Bataan_historical_marker.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_Fall_of_Bataan_historical_marker.jpg/220px-The_Fall_of_Bataan_historical_marker.jpg" decoding="async" width="220" height="320" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_Fall_of_Bataan_historical_marker.jpg/330px-The_Fall_of_Bataan_historical_marker.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/The_Fall_of_Bataan_historical_marker.jpg/440px-The_Fall_of_Bataan_historical_marker.jpg 2x" data-file-width="2500" data-file-height="3641"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:The_Fall_of_Bataan_historical_marker.jpg" class="internal" title="Enlarge"></a>
+         </div>Fall of Bataan historical marker, Bataan Provincial Capitol grounds
+        </div>
+       </div>
+      </div> 
+      <h3><span class="mw-headline" id="In_the_Philippines">In the Philippines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bataan_Day&amp;action=edit&amp;section=4" title="Edit section: In the Philippines">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>The observance usually is centered on <a href="/wiki/Mount_Samat_National_Shrine" title="Mount Samat National Shrine">Mount Samat National Shrine</a> in <a href="/wiki/Pilar,_Bataan" title="Pilar, Bataan">Pilar</a>, <a href="/wiki/Bataan" title="Bataan">Bataan</a>. It is usually attended by the <a href="/wiki/President_of_the_Philippines" title="President of the Philippines">President of the Philippines</a>, the <a href="/wiki/Governor_of_Bataan" title="Governor of Bataan">Governor of Bataan</a>, the ambassadors of the United States and Japan, and surviving veterans groups. </p>
+      <p>By 2021, there were only 2,952 defenders of Bataan who are still alive.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> </p> 
+      <h4><span class="mw-headline" id="2012">2012</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bataan_Day&amp;action=edit&amp;section=5" title="Edit section: 2012">edit</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <p>In 2012, the 70th anniversary of the Fall of Bataan was commemorated at <a href="/wiki/Mount_Samat" title="Mount Samat">Mount Samat Shrine</a> in <a href="/wiki/Pilar,_Bataan" title="Pilar, Bataan">Pilar</a>, <a href="/wiki/Bataan" title="Bataan">Bataan</a> by some of the over 18,000 still-living Filipino veterans. </p>
+      <p>Then-incumbent President <a href="/wiki/Benigno_Aquino_III" title="Benigno Aquino III">Benigno S. Aquino III</a> and former President <a href="/wiki/Fidel_V._Ramos" title="Fidel V. Ramos">Fidel V. Ramos</a> attended the rites. Japanese ambassador to the Philippines Toshina Urabe expressed "deep apology and a deep sense of remorse to the tragedy", while the United States Deputy Chief of Mission Leslie A. Bassett (representing U.S. ambassador <a href="/wiki/Harry_K._Thomas_Jr." title="Harry K. Thomas Jr.">Harry K. Thomas Jr.</a>) said that <a href="/wiki/United_States_Embassy_in_Manila" class="mw-redirect" title="United States Embassy in Manila">their embassy</a> has provided a total of US$220 million (over <a href="/wiki/Philippine_peso" title="Philippine peso">₱</a>9 billion) to Filipino war veterans.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> </p> 
+      <h3><span class="mw-headline" id="In_the_United_States">In the United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bataan_Day&amp;action=edit&amp;section=6" title="Edit section: In the United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In <a href="/wiki/Maywood,_Illinois" title="Maywood, Illinois">Maywood, Illinois</a> the second Sunday in September is remembered as Bataan Day.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> Maywood provided <a href="/wiki/Illinois_National_Guard" title="Illinois National Guard">Illinois National Guard</a> soldiers of the <a href="/wiki/192nd_Tank_Battalion" title="192nd Tank Battalion">192nd Tank Battalion</a> who served on Bataan. </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bataan_Day&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-pn295-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-pn295_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/2011/11/24/proclamation-no-295-s-2011/">Proclamation No. 295: Declaring 2012 National Holidays</a>, December 12, 2011, Official Gazette of the Philippines</span> </li> 
+         <li id="cite_note-gma-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-gma_2-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gmanews.tv/story/155560/DOLE-reminds-employers-on-pay-guidelines-for-Holy-Week-holidays">"DOLE reminds employers on pay guidelines for Holy Week holidays"</a>. GMA News and Public Affairs. April 4, 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DOLE+reminds+employers+on+pay+guidelines+for+Holy+Week+holidays&amp;rft.pub=GMA+News+and+Public+Affairs&amp;rft.date=2009-04-04&amp;rft_id=http%3A%2F%2Fwww.gmanews.tv%2Fstory%2F155560%2FDOLE-reminds-employers-on-pay-guidelines-for-Holy-Week-holidays&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-RA3022-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-RA3022_3-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.chanrobles.com/republicactno3022.html">"REPUBLIC ACT NO. 3022 - AN ACT PROCLAIMING THE NINTH DAY OF APRIL AS BATAAN DAY AND DECLARING IT AS A LEGAL HOLIDAY"</a>. <i>Chan Robles Law Library</i>. April 6, 1961.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chan+Robles+Law+Library&amp;rft.atitle=REPUBLIC+ACT+NO.+3022+-+AN+ACT+PROCLAIMING+THE+NINTH+DAY+OF+APRIL+AS+BATAAN+DAY+AND+DECLARING+IT+AS+A+LEGAL+HOLIDAY&amp;rft.date=1961-04-06&amp;rft_id=http%3A%2F%2Fwww.chanrobles.com%2Frepublicactno3022.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-EO203s1987-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-EO203s1987_4-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.chanrobles.com/EXECUTIVE%20ORDER%20NO.%20203.pdf">"EXECUTIVE ORDER NO. 203&nbsp;: PROVIDING A LIST OF REGULAR HOLIDAYS AND SPECIAL DAYS TO BE OBSERVED THROUGHOUT THE PHILIPPINES AND FOR OTHER PURPOSES"</a> <span class="cs1-format">(PDF)</span>. Chan Robles Publishing Company. June 30, 1987.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=EXECUTIVE+ORDER+NO.+203+%3A+PROVIDING+A+LIST+OF+REGULAR+HOLIDAYS+AND+SPECIAL+DAYS+TO+BE+OBSERVED+THROUGHOUT+THE+PHILIPPINES+AND+FOR+OTHER+PURPOSES&amp;rft.pub=Chan+Robles+Publishing+Company&amp;rft.date=1987-06-30&amp;rft_id=http%3A%2F%2Fwww.chanrobles.com%2FEXECUTIVE%2520ORDER%2520NO.%2520203.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-EO292s1987-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-EO292s1987_5-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/1987/07/25/executive-order-no-292-s-1987/">"EXECUTIVE ORDER NO. 292 INSTITUTING THE "ADMINISTRATIVE CODE OF 1987<span class="cs1-kern-right">"</span>"</a>. <i>Official Gazette</i>. Government of the Philippines. July 25, 1987.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Official+Gazette&amp;rft.atitle=EXECUTIVE+ORDER+NO.+292+INSTITUTING+THE+%E2%80%9CADMINISTRATIVE+CODE+OF+1987%E2%80%9D&amp;rft.date=1987-07-25&amp;rft_id=https%3A%2F%2Fwww.officialgazette.gov.ph%2F1987%2F07%2F25%2Fexecutive-order-no-292-s-1987%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span> (<a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/1987/07/25/executive-order-no-292-book-ichapter-7-regular-holidays-and-nationwide-special-days/">Book I, Chapter 7 -- Regular Holidays and Nationwide Special Days</a>)</span> </li> 
+         <li id="cite_note-RA9492-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-RA9492_6-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/2007/07/24/republic-act-no-9492/">"AN ACT RATIONALIZING THE CELEBRATION OF NATIONAL HOLIDAYS AMENDING FOR THE PURPOSE SECTION 26, CHAPTER 7, BOOK 1 OF EXECUTIVE ORDER NO. 292, AS AMENDED, OTHERWISE KNOWN AS THE ADMINISTRATIVE CODE OF 1987"</a>. <i>Official Gazette Library</i>. July 24, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Official+Gazette+Library&amp;rft.atitle=AN+ACT+RATIONALIZING+THE+CELEBRATION+OF+NATIONAL+HOLIDAYS+AMENDING+FOR+THE+PURPOSE+SECTION+26%2C+CHAPTER+7%2C+BOOK+1+OF+EXECUTIVE+ORDER+NO.+292%2C+AS+AMENDED%2C+OTHERWISE+KNOWN+AS+THE+ADMINISTRATIVE+CODE+OF+1987&amp;rft.date=2007-07-24&amp;rft_id=https%3A%2F%2Fwww.officialgazette.gov.ph%2F2007%2F07%2F24%2Frepublic-act-no-9492%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/2008/02/18/proclamation-no-1463-s-2008/">"Proclamation No. 1463, s. 2008 | GOVPH"</a>. <i>Official Gazette of the Republic of the Philippines</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-04-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Official+Gazette+of+the+Republic+of+the+Philippines&amp;rft.atitle=Proclamation+No.+1463%2C+s.+2008+%7C+GOVPH&amp;rft_id=https%3A%2F%2Fwww.officialgazette.gov.ph%2F2008%2F02%2F18%2Fproclamation-no-1463-s-2008%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/2008/12/24/proclamation-no-1699-s-2008/">"Proclamation No. 1699, s. 2008 | GOVPH"</a>. <i>Official Gazette of the Republic of the Philippines</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-04-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Official+Gazette+of+the+Republic+of+the+Philippines&amp;rft.atitle=Proclamation+No.+1699%2C+s.+2008+%7C+GOVPH&amp;rft_id=https%3A%2F%2Fwww.officialgazette.gov.ph%2F2008%2F12%2F24%2Fproclamation-no-1699-s-2008%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/2009/07/21/proclamation-no-1841-s-2009/">"Proclamation No. 1841, s. 2009 | GOVPH"</a>. <i>Official Gazette of the Republic of the Philippines</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-04-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Official+Gazette+of+the+Republic+of+the+Philippines&amp;rft.atitle=Proclamation+No.+1841%2C+s.+2009+%7C+GOVPH&amp;rft_id=https%3A%2F%2Fwww.officialgazette.gov.ph%2F2009%2F07%2F21%2Fproclamation-no-1841-s-2009%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-PP84s2010-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-PP84s2010_10-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131020221125/http://www.gov.ph/downloads/2010/12dec/20101220-PROC-0084-BSA.pdf">"PROCLAMATION NO. 84&nbsp;: DECLARING THE REGULAR HOLIDAYS, SPECIAL (NON-WORKING) DAYS, AND SPECIAL HOLIDAY (FOR ALL SCHOOLS) FOR THE YEAR 2012"</a> <span class="cs1-format">(PDF)</span>. <i>Official Gazette of the Office of the President of the Philippines</i>. December 2010. Archived from <a rel="nofollow" class="external text" href="http://www.gov.ph/downloads/2010/12dec/20101220-PROC-0084-BSA.pdf/">the original</a> on 2013-10-20.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Official+Gazette+of+the+Office+of+the+President+of+the+Philippines&amp;rft.atitle=PROCLAMATION+NO.+84+%3A+DECLARING+THE+REGULAR+HOLIDAYS%2C+SPECIAL+%28NON-WORKING%29+DAYS%2C+AND+SPECIAL+HOLIDAY+%28FOR+ALL+SCHOOLS%29+FOR+THE+YEAR+2012&amp;rft.date=2010-12&amp;rft_id=http%3A%2F%2Fwww.gov.ph%2Fdownloads%2F2010%2F12dec%2F20101220-PROC-0084-BSA.pdf%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span> <span class="cs1-maint citation-comment">CS1 maint: discouraged parameter (<a href="/wiki/Category:CS1_maint:_discouraged_parameter" title="Category:CS1 maint: discouraged parameter">link</a>)</span></span> </li> 
+         <li id="cite_note-:0-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_11-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/2011/11/24/proclamation-no-295-s-2011/">"PROCLAMATION NO. 295&nbsp;: DECLARING THE REGULAR HOLIDAYS, SPECIAL (NON-WORKING) DAYS, AND SPECIAL HOLIDAY (FOR ALL SCHOOLS) FOR THE YEAR 2012"</a>. <i>Official Gazette of the Office of the President of the Philippines</i>. November 24, 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Official+Gazette+of+the+Office+of+the+President+of+the+Philippines&amp;rft.atitle=PROCLAMATION+NO.+295+%3A+DECLARING+THE+REGULAR+HOLIDAYS%2C+SPECIAL+%28NON-WORKING%29+DAYS%2C+AND+SPECIAL+HOLIDAY+%28FOR+ALL+SCHOOLS%29+FOR+THE+YEAR+2012&amp;rft.date=2011-11-24&amp;rft_id=https%3A%2F%2Fwww.officialgazette.gov.ph%2F2011%2F11%2F24%2Fproclamation-no-295-s-2011%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-:1-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-:1_12-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/downloads/2012/08aug/20120816-PROC-0459-BSA.pdf">"PROCLAMATION NO. 459&nbsp;: DECLARING THE REGULAR HOLIDAYS, SPECIAL (NON-WORKING) DAYS, AND SPECIAL HOLIDAY (FOR ALL SCHOOLS) FOR THE YEAR 2013"</a> <span class="cs1-format">(PDF)</span>. <i>Official Gazette of the Office of the President of the Philippines</i>. August 14, 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Official+Gazette+of+the+Office+of+the+President+of+the+Philippines&amp;rft.atitle=PROCLAMATION+NO.+459+%3A+DECLARING+THE+REGULAR+HOLIDAYS%2C+SPECIAL+%28NON-WORKING%29+DAYS%2C+AND+SPECIAL+HOLIDAY+%28FOR+ALL+SCHOOLS%29+FOR+THE+YEAR+2013&amp;rft.date=2012-08-14&amp;rft_id=https%3A%2F%2Fwww.officialgazette.gov.ph%2Fdownloads%2F2012%2F08aug%2F20120816-PROC-0459-BSA.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-:2-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-:2_13-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/2013/09/25/proclamation-no-655-s-2013/">"DECLARING THE REGULAR HOLIDAYS, SPECIAL (NON-WORKING) DAYS, AND SPECIAL HOLIDAY (FOR ALL SCHOOLS) FOR THE YEAR 2014"</a>. <i>Official Gazette of the Office of the President of the Philippines</i>. September 25, 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Official+Gazette+of+the+Office+of+the+President+of+the+Philippines&amp;rft.atitle=DECLARING+THE+REGULAR+HOLIDAYS%2C+SPECIAL+%28NON-WORKING%29+DAYS%2C+AND+SPECIAL+HOLIDAY+%28FOR+ALL+SCHOOLS%29+FOR+THE+YEAR+2014&amp;rft.date=2013-09-25&amp;rft_id=https%3A%2F%2Fwww.officialgazette.gov.ph%2F2013%2F09%2F25%2Fproclamation-no-655-s-2013%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-:3-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-:3_14-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/2014/07/17/proclamation-no-831-s-2014/">"DECLARING THE REGULAR HOLIDAYS, SPECIAL (NON-WORKING) DAYS, AND SPECIAL HOLIDAY (FOR ALL SCHOOLS) FOR THE YEAR 2015"</a>. <i>Official Gazette of the Office of the President of the Philippines</i>. July 17, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Official+Gazette+of+the+Office+of+the+President+of+the+Philippines&amp;rft.atitle=DECLARING+THE+REGULAR+HOLIDAYS%2C+SPECIAL+%28NON-WORKING%29+DAYS%2C+AND+SPECIAL+HOLIDAY+%28FOR+ALL+SCHOOLS%29+FOR+THE+YEAR+2015&amp;rft.date=2014-07-17&amp;rft_id=https%3A%2F%2Fwww.officialgazette.gov.ph%2F2014%2F07%2F17%2Fproclamation-no-831-s-2014%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-:4-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-:4_15-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/2015/08/20/proclamation-no-1105-s-2015/">"DECLARING THE REGULAR HOLIDAYS, SPECIAL (NON-WORKING) DAYS, AND SPECIAL HOLIDAY (FOR ALL SCHOOLS) FOR THE YEAR 2016"</a>. <i>Official Gazette of the Office of the President of the Philippines</i>. August 20, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Official+Gazette+of+the+Office+of+the+President+of+the+Philippines&amp;rft.atitle=DECLARING+THE+REGULAR+HOLIDAYS%2C+SPECIAL+%28NON-WORKING%29+DAYS%2C+AND+SPECIAL+HOLIDAY+%28FOR+ALL+SCHOOLS%29+FOR+THE+YEAR+2016&amp;rft.date=2015-08-20&amp;rft_id=https%3A%2F%2Fwww.officialgazette.gov.ph%2F2015%2F08%2F20%2Fproclamation-no-1105-s-2015%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-:5-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-:5_16-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/2016/08/16/proclamation-no-50-s-2016/">"Proclamation No. 50, s. 2016 | GOVPH"</a>. <i>Official Gazette of the Republic of the Philippines</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Official+Gazette+of+the+Republic+of+the+Philippines&amp;rft.atitle=Proclamation+No.+50%2C+s.+2016+%7C+GOVPH&amp;rft_id=https%3A%2F%2Fwww.officialgazette.gov.ph%2F2016%2F08%2F16%2Fproclamation-no-50-s-2016%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-:6-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-:6_17-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://officialgazette.gov.ph/downloads/2017/07jul/20170717-PROC-269-RRD.pdf">"Proclamation No. 269"</a> <span class="cs1-format">(PDF)</span>. 2017-07-17.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Proclamation+No.+269&amp;rft.date=2017-07-17&amp;rft_id=https%3A%2F%2Fofficialgazette.gov.ph%2Fdownloads%2F2017%2F07jul%2F20170717-PROC-269-RRD.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-:7-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-:7_18-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/downloads/2018/08aug/20180815-PROC-555-RRD.pdf">"Proclamation No. 555"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Proclamation+No.+555&amp;rft_id=https%3A%2F%2Fwww.officialgazette.gov.ph%2Fdownloads%2F2018%2F08aug%2F20180815-PROC-555-RRD.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-:8-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-:8_19-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/downloads/2019/11nov/20191115-PROC-845-RRD.pdf">"Proclamation No. 845"</a> <span class="cs1-format">(PDF)</span>. 2019-11-15.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Proclamation+No.+845&amp;rft.date=2019-11-15&amp;rft_id=https%3A%2F%2Fwww.officialgazette.gov.ph%2Fdownloads%2F2019%2F11nov%2F20191115-PROC-845-RRD.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-:9-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-:9_20-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officialgazette.gov.ph/downloads/2020/07jul/20200730-PROC-986-RRD.pdf">"Proclamation No. 986"</a> <span class="cs1-format">(PDF)</span>. 2020-07-30.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Proclamation+No.+986&amp;rft.date=2020-07-30&amp;rft_id=https%3A%2F%2Fwww.officialgazette.gov.ph%2Fdownloads%2F2020%2F07jul%2F20200730-PROC-986-RRD.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Tucker2005-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tucker2005_21-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFTuckerRoberts2005" class="citation book cs1">Tucker, Spencer C.; Roberts, Priscilla Mary (2005). <a rel="nofollow" class="external text" href="https://books.google.com.ph/books?id=os4DEAAAQBAJ&amp;pg=PA180"><i>World War II: A Student Encyclopedia [5 volumes]</i></a>. ABC-CLIO. pp.&nbsp;180–181. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-1-85109-858-3" title="Special:BookSources/978-1-85109-858-3"><bdi>978-1-85109-858-3</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">17 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=World+War+II%3A+A+Student+Encyclopedia+%5B5+volumes%5D&amp;rft.pages=180-181&amp;rft.pub=ABC-CLIO&amp;rft.date=2005&amp;rft.isbn=978-1-85109-858-3&amp;rft.aulast=Tucker&amp;rft.aufirst=Spencer+C.&amp;rft.au=Roberts%2C+Priscilla+Mary&amp;rft_id=https%3A%2F%2Fbooks.google.com.ph%2Fbooks%3Fid%3Dos4DEAAAQBAJ%26pg%3DPA180&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-lansford-159-160-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-lansford-159-160_22-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFLansford,_Tom2001" class="citation book cs1">Lansford, Tom (2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=K-027Yrx12UC&amp;pg=PA159">"Bataan Death March"</a>. In Sandler, Stanley (ed.). <i>World War II in the Pacific: an encyclopedia</i>. Taylor &amp; Francis. pp.&nbsp;159–60. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-8153-1883-5" title="Special:BookSources/978-0-8153-1883-5"><bdi>978-0-8153-1883-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Bataan+Death+March&amp;rft.btitle=World+War+II+in+the+Pacific%3A+an+encyclopedia&amp;rft.pages=159-60&amp;rft.pub=Taylor+%26+Francis&amp;rft.date=2001&amp;rft.isbn=978-0-8153-1883-5&amp;rft.au=Lansford%2C+Tom&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DK-027Yrx12UC%26pg%3DPA159&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-greenberger-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-greenberger_23-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFGreenberger2009" class="citation book cs1">Greenberger, Robert (2009). <i>The Bataan Death March: World War II Prisoners in the Pacific</i>. Compass Point Books. p.&nbsp;96. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-0-7565-4095-1" title="Special:BookSources/978-0-7565-4095-1"><bdi>978-0-7565-4095-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Bataan+Death+March%3A+World+War+II+Prisoners+in+the+Pacific&amp;rft.pages=96&amp;rft.pub=Compass+Point+Books&amp;rft.date=2009&amp;rft.isbn=978-0-7565-4095-1&amp;rft.aulast=Greenberger&amp;rft.aufirst=Robert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-interaksyon1-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-interaksyon1_24-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161220074312/http://interaksyon.com/bataan-deathmarch">"Bataan Death March"</a>. <i>Interaksyon</i>. April 8, 2012. Archived from <a rel="nofollow" class="external text" href="http://interaksyon.com/bataan-deathmarch">the original</a> on December 20, 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">December 5,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Interaksyon&amp;rft.atitle=Bataan+Death+March&amp;rft.date=2012-04-08&amp;rft_id=http%3A%2F%2Finteraksyon.com%2Fbataan-deathmarch&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://manilastandard.net/index.php/news/national/351408/day-of-valor-ww2-vets-battling-virus-pandemic.html">"Day of Valor: World War II veterans battling virus pandemic"</a>. <i>Manila Standard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-04-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Manila+Standard&amp;rft.atitle=Day+of+Valor%3A+World+War+II+veterans+battling+virus+pandemic&amp;rft_id=https%3A%2F%2Fmanilastandard.net%2Findex.php%2Fnews%2Fnational%2F351408%2Fday-of-valor-ww2-vets-battling-virus-pandemic.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFOrejas2012" class="citation web cs1">Orejas, Greg Refraccion, Tonette (2012-04-10). <a rel="nofollow" class="external text" href="https://newsinfo.inquirer.net/173999/aquino-assures-war-veterans-of-better-health-services-vows-afp-modernization">"Aquino assures war veterans of better health services; vows AFP modernization"</a>. <i>INQUIRER.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-04-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=INQUIRER.net&amp;rft.atitle=Aquino+assures+war+veterans+of+better+health+services%3B+vows+AFP+modernization&amp;rft.date=2012-04-10&amp;rft.aulast=Orejas&amp;rft.aufirst=Greg+Refraccion%2C+Tonette&amp;rft_id=https%3A%2F%2Fnewsinfo.inquirer.net%2F173999%2Faquino-assures-war-veterans-of-better-health-services-vows-afp-modernization&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160305022743/http://mbdo.org/70th-maywood-bataan-day/">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://mbdo.org/70th-maywood-bataan-day/">the original</a> on 2016-03-05<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fmbdo.org%2F70th-maywood-bataan-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABataan+Day" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span></span> </li> 
+         <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">p. 117 Bodnar, John <i>The "Good War" in American Memory</i> JHU Press, 01/12/2010</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Philippines&amp;#124;link=Philippines_Public_holidays_in_the_Philippines" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_the_Philippines" title="Template:Public holidays in the Philippines"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_the_Philippines" title="Template talk:Public holidays in the Philippines"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_the_Philippines&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23x15px&amp;#124;border_&amp;#124;alt=Philippines&amp;#124;link=Philippines_Public_holidays_in_the_Philippines" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><a href="/wiki/Philippines" title="Philippines"><img alt="Philippines" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/35px-Flag_of_the_Philippines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/46px-Flag_of_the_Philippines.svg.png 2x" data-file-width="1200" data-file-height="600"></a></span> <a href="/wiki/Public_holidays_in_the_Philippines" title="Public holidays in the Philippines">Public holidays in the Philippines</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Regular holidays</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a></li> 
+             <li><i><a href="/wiki/Maundy_Thursday" title="Maundy Thursday">Maundy Thursday</a></i></li> 
+             <li><i><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a></i></li> 
+             <li><a class="mw-selflink selflink">Araw ng Kagitingan</a></li> 
+             <li><a href="/wiki/Labor_Day" title="Labor Day">Labor Day</a></li> 
+             <li><a href="/wiki/Independence_Day_(Philippines)" title="Independence Day (Philippines)">Independence Day</a></li> 
+             <li><i><a href="/wiki/Eid_ul-Fitr" class="mw-redirect" title="Eid ul-Fitr">Eid'l Fitr</a></i></li> 
+             <li><a href="/wiki/National_Heroes%27_Day" class="mw-redirect" title="National Heroes' Day">National Heroes' Day</a></li> 
+             <li><i><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid'l Adha</a></i></li> 
+             <li><a href="/wiki/Bonifacio_Day" title="Bonifacio Day">Bonifacio Day</a></li> 
+             <li><a href="/wiki/Christmas" title="Christmas">Christmas</a></li> 
+             <li><a href="/wiki/Rizal_Day" title="Rizal Day">Rizal Day</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Special non-working days</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><i><a href="/wiki/Chinese_New_Year" title="Chinese New Year">Chinese New Year</a></i></li> 
+             <li><i><a href="/wiki/Holy_Saturday" title="Holy Saturday">Black Saturday</a></i></li> 
+             <li><a href="/wiki/Ninoy_Aquino_Day" title="Ninoy Aquino Day">Ninoy Aquino Day</a></li> 
+             <li><a href="/wiki/All_Saints%27_Day" title="All Saints' Day">All Saints' Day</a> and <a href="/wiki/All_Souls%27_Day" title="All Souls' Day">All Souls' Day</a></li> 
+             <li><a href="/wiki/Feast_of_the_Immaculate_Conception" title="Feast of the Immaculate Conception">Immaculate Conception</a></li> 
+             <li><a href="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</a></li> 
+             <li><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">Last day of the year</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Special holiday (for schools)</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/People_Power_Revolution" title="People Power Revolution">EDSA Revolution Anniversary</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div>
+            <i>Italicized</i>: Movable holiday
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20210427044240
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.589 seconds
+Real time usage: 0.819 seconds
+Preprocessor visited node count: 2703/1000000
+Post‐expand include size: 58935/2097152 bytes
+Template argument size: 1606/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 84046/5000000 bytes
+Lua time usage: 0.270/10.000 seconds
+Lua memory usage: 8017942/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  750.699      1 -total
+ 41.80%  313.811      1 Template:Reflist
+ 30.90%  231.933     22 Template:Cite_web
+ 21.41%  160.695      1 Template:Infobox_holiday
+ 17.28%  129.731      1 Template:Infobox
+ 13.82%  103.766      1 Template:Philippine_national_holidays
+ 12.05%   90.470      1 Template:Navbox
+  8.03%   60.276      2 Template:Convert
+  6.30%   47.331      1 Template:Literal_translation
+  5.71%   42.840      1 Template:Flagicon
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:10570702-0!canonical and timestamp 20210427044240 and revision id 1018578184. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bataan_Day&amp;oldid=1018578184">https://en.wikipedia.org/w/index.php?title=Bataan_Day&amp;oldid=1018578184</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Public_holidays_in_the_Philippines" title="Category:Public holidays in the Philippines">Public holidays in the Philippines</a></li>
+       <li><a href="/wiki/Category:April_observances" title="Category:April observances">April observances</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_maint:_discouraged_parameter" title="Category:CS1 maint: discouraged parameter">CS1 maint: discouraged parameter</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_fixed_day" title="Category:Infobox holiday fixed day">Infobox holiday fixed day</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bataan+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bataan+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Bataan_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Bataan_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Bataan_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Bataan_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Bataan_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bataan_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bataan_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Bataan_Day&amp;oldid=1018578184" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Bataan_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bataan_Day&amp;id=1018578184&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4868509" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Bataan_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Bataan_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Araw_ng_Kagitingan" title="Araw ng Kagitingan – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%8B%87%E8%80%85%E3%81%AE%E6%97%A5" title="勇者の日 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Araw_ng_Kagitingan" title="Araw ng Kagitingan – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E4%B8%B9%E6%97%A5" title="巴丹日 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4868509#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 18 April 2021, at 20:29<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bataan_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.589","walltime":"0.819","ppvisitednodes":{"value":2703,"limit":1000000},"postexpandincludesize":{"value":58935,"limit":2097152},"templateargumentsize":{"value":1606,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":84046,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  750.699      1 -total"," 41.80%  313.811      1 Template:Reflist"," 30.90%  231.933     22 Template:Cite_web"," 21.41%  160.695      1 Template:Infobox_holiday"," 17.28%  129.731      1 Template:Infobox"," 13.82%  103.766      1 Template:Philippine_national_holidays"," 12.05%   90.470      1 Template:Navbox","  8.03%   60.276      2 Template:Convert","  6.30%   47.331      1 Template:Literal_translation","  5.71%   42.840      1 Template:Flagicon"]},"scribunto":{"limitreport-timeusage":{"value":"0.270","limit":"10.000"},"limitreport-memusage":{"value":8017942,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20210427044240","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bataan Day","url":"https:\/\/en.wikipedia.org\/wiki\/Bataan_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4868509","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4868509","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-04-10T06:47:35Z","dateModified":"2021-04-18T20:29:12Z"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":163,"wgHostname":"mw1350"});});</script> 
+ </body>
+</html>

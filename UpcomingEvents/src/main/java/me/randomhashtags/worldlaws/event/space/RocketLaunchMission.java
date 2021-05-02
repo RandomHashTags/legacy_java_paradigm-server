@@ -7,7 +7,7 @@ public final class RocketLaunchMission {
 
     public RocketLaunchMission(String name, String description, String type) {
         this.name = LocalServer.fixEscapeValues(name);
-        this.description = description;
+        this.description = LocalServer.fixEscapeValues(description);
         this.type = type;
     }
 

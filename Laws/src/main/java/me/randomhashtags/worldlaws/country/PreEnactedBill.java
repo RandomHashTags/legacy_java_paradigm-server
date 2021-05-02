@@ -1,32 +1,17 @@
 package me.randomhashtags.worldlaws.country;
 
 import me.randomhashtags.worldlaws.LocalServer;
-
-import java.time.LocalDate;
+import me.randomhashtags.worldlaws.EventDate;
 
 public final class PreEnactedBill {
     private final Chamber chamber;
-    private final String id, title;
-    private final LocalDate date;
+    private final String id, title, date;
 
-    public PreEnactedBill(Chamber chamber, String id, String title, LocalDate date) {
+    public PreEnactedBill(Chamber chamber, String id, String title, EventDate date) {
         this.chamber = chamber;
         this.id = id;
         this.title = LocalServer.fixEscapeValues(title);
-        this.date = date;
-    }
-
-    public Chamber getChamber() {
-        return chamber;
-    }
-    public String getId() {
-        return id;
-    }
-    public String getTitle() {
-        return title;
-    }
-    public LocalDate getDate() {
-        return date;
+        this.date = date.toString();
     }
 
     @Override
@@ -35,7 +20,7 @@ public final class PreEnactedBill {
                 "\"chamber\":\"" + chamber.getName() + "\"," +
                 "\"id\":\"" + id + "\"," +
                 "\"title\":\"" + title + "\"," +
-                "\"date\":\"" + date.toString() + "\"" +
+                "\"date\":" + date + "" +
                 "}";
     }
 }

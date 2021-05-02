@@ -85,7 +85,7 @@ public enum Wikipedia implements CountryService {
                     handler.handle(null);
                 } else {
                     String firstParagraph = removeReferences(element.text()).replace("(listen)", "").replace("(listen to all)", "");
-                    firstParagraph = firstParagraph.replaceAll(" \\(.*?:.*?\\)", "");
+                    firstParagraph = LocalServer.removeWikipediaTranslations(firstParagraph);
                     final String paragraph = LocalServer.fixEscapeValues(firstParagraph);
                     getPictures(tag, new CompletionHandler() {
                         @Override
@@ -104,7 +104,9 @@ public enum Wikipedia implements CountryService {
 
             @Override
             public void handleJSONObject(JSONObject object) {
-                handler.handle(object.toString());
+                final String string = object.toString();
+                countries.put(tag, string);
+                handler.handle(string);
             }
         });
     }
@@ -152,9 +154,7 @@ public enum Wikipedia implements CountryService {
                             if(!href.isEmpty()) {
                                 final Element img = picture.selectFirst("img");
                                 final String imageTitle = img.attr("alt").replace(" ", "_");
-                                String pictureURL = img.attr("src").replace("/thumb/", "/");
-                                final String[] values = pictureURL.split("/");
-                                pictureURL = pictureURL.substring(0, pictureURL.length() - values[values.length-1].length() - 1);
+                                final String pictureURL = img.attr("src").replaceAll("/[0-9]+px-", "/%quality%px-");
                                 if(!prefix.equals(pictureURL)) {
                                     /*final String mediaURL = prefix + "/wiki/File:" + imageTitle;
                                     final Elements descriptions = getDocumentElements(FileType.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES_MEDIA, mediaURL, "td.description");
@@ -173,7 +173,8 @@ public enum Wikipedia implements CountryService {
                     builder.append("]");
                     handler.handle(builder.toString());
                 } else {
-                    handler.handle(null);
+                    WLLogger.log(Level.WARN, "Wikipedia - missing Featured Pictures for country \"" + country + "\"");
+                    handler.handle("[]");
                 }
             }
 
@@ -256,7 +257,7 @@ public enum Wikipedia implements CountryService {
                     animalHandler.handle(array.toString());
                 } else {
                     WLLogger.log(Level.WARN, "Wikipedia - missing National Animals for country \"" + tag + "\"!");
-                    animalHandler.handle(null);
+                    animalHandler.handle("[]");
                 }
             }
         });
@@ -280,6 +281,8 @@ public enum Wikipedia implements CountryService {
             if(title.isEmpty()) {
                 title = null;
             }
+        } else {
+            title = "National Animal";
         }
         final String href = "https:" + thumbnailElement.attr("src");
         final String[] values = href.split("/");

@@ -1,0 +1,625 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>International Day of Families - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"19cb985b-379d-4288-b55f-665112a5ff23","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"International_Day_of_Families","wgTitle":"International Day of Families","wgCurRevisionId":996800412,"wgRevisionId":996800412,"wgArticleId":22730350,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","Use dmy dates from May 2020","Articles lacking reliable references from May 2009","All articles lacking reliable references","All stub articles","May observances","United Nations days","Family member holidays",
+"United Nations stubs"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"International_Day_of_Families","wgRelevantArticleId":22730350,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q246959"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready",
+"user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:title" content="International Day of Families - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/International_Day_of_Families"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=International_Day_of_Families&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=International_Day_of_Families&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/International_Day_of_Families"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-International_Day_of_Families rootpage-International_Day_of_Families skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">International Day of Families</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p class="mw-empty-elt"> </p> 
+      <table class="box-Primary_sources plainlinks metadata ambox ambox-content ambox-Primary_sources" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">primary sources</a></b>.<span class="hide-when-compact"> Please improve this by adding <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>.</span> <small class="date-container"><i>(<span class="date">May 2009</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       This article is about the International Day of Families of the UN General Assembly. For the International Meeting of Families of the Catholic Church, see <a href="/wiki/World_Meeting_of_Families" title="World Meeting of Families">World Meeting of Families</a>.
+      </div> 
+      <p>The <b>International Day of Families</b> is <a href="/wiki/List_of_minor_secular_observances#May" title="List of minor secular observances">observed</a> on the <a href="/wiki/May_15" title="May 15">15 May</a> every year. The Day was proclaimed by the UN General Assembly in 1993 with resolution A/RES/47/237 and reflects the importance the <a href="/wiki/International_community" title="International community">international community</a> attaches to <a href="/wiki/Family" title="Family">families</a>. The International Day provides an opportunity to <a href="/wiki/Raising_awareness" class="mw-redirect" title="Raising awareness">promote awareness</a> of issues relating to families and to increase knowledge of the social, economic and demographic processes affecting families.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Themes">Themes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Day_of_Families&amp;action=edit&amp;section=1" title="Edit section: Themes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Every year, the UN secretary-general makes to the particular applicable motto attention. This was from 1996:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p> 
+      <ul>
+       <li>2020- “Families in Development: <a href="/wiki/World_Conference_on_Women,_1980" title="World Conference on Women, 1980">Copenhagen</a> &amp; <a href="/wiki/Beijing_Declaration" title="Beijing Declaration">Beijing</a> + 25”<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+      </ul> 
+      <ul>
+       <li>2019 - "Families and Climate Action: Focus on <a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">SDG</a> 13"<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li> 
+       <li>2018 - "Families and inclusive societies"<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li> 
+       <li>2017 - "Families, education and <a href="/wiki/Well-being" title="Well-being">well-being</a>"<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></li> 
+       <li>2016 - "Families, healthy lives and <a href="/wiki/Sustainability" title="Sustainability">sustainable</a> future"</li> 
+       <li>2015 - "Men in charge? <a href="/wiki/Gender_equality" title="Gender equality">Gender equality</a> and <a href="/wiki/Children%27s_rights" title="Children's rights">children's rights</a> in contemporary families"</li> 
+       <li>2014 - "Families Matter for the Achievement of Development Goals; International Year of the Family + 20"</li> 
+       <li>2013 - "Advancing <a href="/wiki/Social_integration" title="Social integration">Social Integration</a> and Intergenerational Solidarity"</li> 
+       <li>2012 - "Ensuring work family balance"</li> 
+       <li>2011 - "Confronting Family Poverty and <a href="/wiki/Social_exclusion" title="Social exclusion">Social Exclusion</a>"</li> 
+       <li>2010 - "The impact of migration on families around the world"</li> 
+       <li>2009 - "Mothers and Families: Challenges in a Changing World"</li> 
+       <li>2008 - "Fathers and Families: Responsibilities and Challenges"</li> 
+       <li>2007 - "Families and Persons with <a href="/wiki/Disability" title="Disability">Disabilities</a>"</li> 
+       <li>2006 - "Changing Families: Challenges and Opportunities"</li> 
+       <li>2005 - "HIV/AIDS and Family Well-being"</li> 
+       <li>2004 - "The Tenth Anniversary of the International Year of the Family: A Framework for Action"</li> 
+       <li>2003 - "Preparations for the observance of the Tenth Anniversary of the International Year of the Family in 2004"</li> 
+       <li>2002 - "Families and Ageing: Opportunities and Challenges"</li> 
+       <li>2001 - "Families and Volunteers: Building Social Cohesion "</li> 
+       <li>2000 - "Families: Agents and Beneficiaries of Development"</li> 
+       <li>1999 - "Families for all ages"</li> 
+       <li>1998 - "Families: Educators and Providers of Human Rights"</li> 
+       <li>1997 - "Building Families Based on Partnership"</li> 
+       <li>1996 - "Families: First Victims of Poverty and <a href="/wiki/Homelessness" title="Homelessness">Homelessness</a>"</li>
+      </ul> 
+      <h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Day_of_Families&amp;action=edit&amp;section=2" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="mw-references-wrap">
+       <ol class="references"> 
+        <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFEdmund_Jan_Osmańczyk,_Anthony_Mango2003" class="citation cs2">Edmund Jan Osmańczyk, Anthony Mango (2003), <i>Encyclopedia of the United Nations and international agreements</i>, p.&nbsp;699</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+the+United+Nations+and+international+agreements&amp;rft.pages=699&amp;rft.date=2003&amp;rft.au=Edmund+Jan+Osma%C5%84czyk%2C+Anthony+Mango&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Families" class="Z3988"></span></span> </li> 
+        <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.un.org/en/events/familyday/">UN: International Day of Families</a></span> </li> 
+        <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130618195155/http://social.un.org/index/Family/InternationalObservances/InternationalDayofFamilies.aspx">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://social.un.org/index/Family/InternationalObservances/InternationalDayofFamilies.aspx">the original</a> on 18 June 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fsocial.un.org%2Findex%2FFamily%2FInternationalObservances%2FInternationalDayofFamilies.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Families" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span></span> </li> 
+        <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.news18.com/news/lifestyle/international-day-of-families-2020-date-theme-and-quotes-to-share-with-your-loved-ones-2620919.html">"International Day of Families 2020: Date, Theme and Quotes to Share with Your Loved Ones"</a>. <i>News18</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=News18&amp;rft.atitle=International+Day+of+Families+2020%3A+Date%2C+Theme+and+Quotes+to+Share+with+Your+Loved+Ones&amp;rft_id=https%3A%2F%2Fwww.news18.com%2Fnews%2Flifestyle%2Finternational-day-of-families-2020-date-theme-and-quotes-to-share-with-your-loved-ones-2620919.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Families" class="Z3988"></span></span> </li> 
+        <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://news.jagatgururampalji.org/international-family-day-2020/">"International Family Day 2020: The Whole Earth Is One Family"</a>. <i>S A NEWS</i>. 15 May 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=S+A+NEWS&amp;rft.atitle=International+Family+Day+2020%3A+The+Whole+Earth+Is+One+Family&amp;rft.date=2020-05-15&amp;rft_id=https%3A%2F%2Fnews.jagatgururampalji.org%2Finternational-family-day-2020%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Families" class="Z3988"></span></span> </li> 
+        <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ndtv.com/india-news/international-family-day-date-importance-theme-all-you-need-to-know-2037880">"International Family Day: Date, Importance, Theme - All You Need To Know"</a>. <i>NDTV.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NDTV.com&amp;rft.atitle=International+Family+Day%3A+Date%2C+Importance%2C+Theme+-+All+You+Need+To+Know&amp;rft_id=https%3A%2F%2Fwww.ndtv.com%2Findia-news%2Finternational-family-day-date-importance-theme-all-you-need-to-know-2037880&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Families" class="Z3988"></span></span> </li> 
+        <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.un.org/development/desa/family/2018/01/23/idf/">"International Day of Families, 15 May 2018"</a>. <i>UN</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UN&amp;rft.atitle=International+Day+of+Families%2C+15+May+2018&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fdevelopment%2Fdesa%2Ffamily%2F2018%2F01%2F23%2Fidf%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Families" class="Z3988"></span></span> </li> 
+        <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.un.org/development/desa/family/international-day-of-families/idf2017.html">"2017 International Day of Families"</a>. <i>UN</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UN&amp;rft.atitle=2017+International+Day+of+Families&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fdevelopment%2Fdesa%2Ffamily%2Finternational-day-of-families%2Fidf2017.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Day+of+Families" class="Z3988"></span></span> </li> 
+       </ol>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Day_of_Families&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://www.un.org/en/events/familyday/">Official website</a></span></span> <a href="https://www.wikidata.org/wiki/Q246959#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Family" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Family" title="Template:Family"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Family" title="Template talk:Family"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Family&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Family" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Family" title="Family">Family</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div id="*_History_*_Household_*_Nuclear_family_*_Extended_family_*_Conjugal_family_*_Immediate_family_*_Matrifocal_family"> 
+            <ul>
+             <li><a href="/wiki/History_of_the_family" title="History of the family">History</a></li> 
+             <li><a href="/wiki/Household" title="Household">Household</a></li> 
+             <li><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear family</a></li> 
+             <li><a href="/wiki/Extended_family" title="Extended family">Extended family</a></li> 
+             <li><a href="/wiki/Conjugal_family" title="Conjugal family">Conjugal family</a></li> 
+             <li><a href="/wiki/Immediate_family" title="Immediate family">Immediate family</a></li> 
+             <li><a href="/wiki/Matrifocal_family" title="Matrifocal family">Matrifocal family</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/First-degree_relatives" class="mw-redirect" title="First-degree relatives">First-degree relatives</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Parent" title="Parent">Parent</a> 
+              <ul>
+               <li><a href="/wiki/Father" title="Father">father</a></li> 
+               <li><a href="/wiki/Mother" title="Mother">mother</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Child" title="Child">Child</a> 
+              <ul>
+               <li><a href="/wiki/Son" title="Son">son</a></li> 
+               <li><a href="/wiki/Daughter" title="Daughter">daughter</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Sibling" title="Sibling">Sibling</a> 
+              <ul>
+               <li><a href="/wiki/Brother" title="Brother">brother</a></li> 
+               <li><a href="/wiki/Sister" title="Sister">sister</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Second-degree_relative" title="Second-degree relative">Second-degree relatives</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Grandparent" title="Grandparent">Grandparent</a></li> 
+             <li><a href="/wiki/Grandchild" class="mw-redirect" title="Grandchild">Grandchild</a></li> 
+             <li><a href="/wiki/Aunt" title="Aunt">Aunt</a></li> 
+             <li><a href="/wiki/Uncle" title="Uncle">Uncle</a></li> 
+             <li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Niece and nephew</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Third-degree_relative" title="Third-degree relative">Third-degree relatives</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Great-grandparent" class="mw-redirect" title="Great-grandparent">Great-grandparent</a></li> 
+             <li><a href="/wiki/Great-grandchild" class="mw-redirect" title="Great-grandchild">Great-grandchild</a></li> 
+             <li><a href="/wiki/Grandniece_and_grandnephew" class="mw-redirect" title="Grandniece and grandnephew">Grandniece and grandnephew</a></li> 
+             <li><a href="/wiki/Uncle" title="Uncle">Great-Uncle</a></li> 
+             <li><a href="/wiki/Aunt" title="Aunt">Great-Aunt</a></li> 
+             <li><a href="/wiki/Cousin" title="Cousin">Cousin</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Affinity_(law)" title="Affinity (law)">Family-in-law</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Spouse" title="Spouse">Spouse</a> 
+              <ul>
+               <li><a href="/wiki/Wife" title="Wife">wife</a></li> 
+               <li><a href="/wiki/Husband" title="Husband">husband</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Parent-in-law" title="Parent-in-law">Parent-in-law</a></li> 
+             <li><a href="/wiki/Sibling-in-law" title="Sibling-in-law">Sibling-in-law</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Stepfather" title="Stepfather">Stepfather</a></li> 
+             <li><a href="/wiki/Stepmother" title="Stepmother">Stepmother</a></li> 
+             <li><a href="/wiki/Stepchild" title="Stepchild">Stepchild</a></li> 
+             <li><a href="/wiki/Stepsibling" title="Stepsibling">Stepsibling</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Kinship" title="Kinship">Kinship</a></li> 
+             <li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal kinship</a></li> 
+             <li><a href="/wiki/Adoption" title="Adoption">Adoption</a></li> 
+             <li><a href="/wiki/Affinity_(law)" title="Affinity (law)">Affinity</a></li> 
+             <li><a href="/wiki/Consanguinity" title="Consanguinity">Consanguinity</a></li> 
+             <li><a href="/wiki/Disownment" title="Disownment">Disownment</a></li> 
+             <li><a href="/wiki/Divorce" title="Divorce">Divorce</a></li> 
+             <li><a href="/wiki/Family_estrangement" title="Family estrangement">Estrangement</a></li> 
+             <li><a href="/wiki/Fictive_kinship" title="Fictive kinship">Fictive kinship</a></li> 
+             <li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li> 
+             <li><a href="/wiki/Nurture_kinship" title="Nurture kinship">Nurture kinship</a></li> 
+             <li><a href="/wiki/Hawaiian_kinship" title="Hawaiian kinship">Hawaiian kinship</a></li> 
+             <li><a href="/wiki/Sudanese_kinship" title="Sudanese kinship">Sudanese kinship</a></li> 
+             <li><a href="/wiki/Eskimo_kinship" title="Eskimo kinship">Eskimo kinship</a></li> 
+             <li><a href="/wiki/Iroquois_kinship" title="Iroquois kinship">Iroquois kinship</a></li> 
+             <li><a href="/wiki/Crow_kinship" title="Crow kinship">Crow kinship</a></li> 
+             <li><a href="/wiki/Omaha_kinship" title="Omaha kinship">Omaha kinship</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Genealogy" title="Genealogy">Genealogy</a><br>and <a href="/wiki/Ancestor" title="Ancestor">lineage</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Bilateral_descent" title="Bilateral descent">Bilateral descent</a></li> 
+             <li><a href="/wiki/Most_recent_common_ancestor" title="Most recent common ancestor">Common ancestor</a></li> 
+             <li><a href="/wiki/Surname" title="Surname">Family name</a></li> 
+             <li><a href="/wiki/Heirloom" title="Heirloom">Heirloom</a></li> 
+             <li><a href="/wiki/Heredity" title="Heredity">Heredity</a></li> 
+             <li><a href="/wiki/Inheritance" title="Inheritance">Inheritance</a></li> 
+             <li><a href="/wiki/Lineal_descendant" title="Lineal descendant">Lineal descendant</a></li> 
+             <li><a href="/wiki/Matrilineality" title="Matrilineality">Matrilineality</a></li> 
+             <li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineality</a></li> 
+             <li><a href="/wiki/Progenitor" title="Progenitor">Progenitor</a></li> 
+             <li><a href="/wiki/Clan" title="Clan">Clan</a></li> 
+             <li><a href="/wiki/Royal_descent" title="Royal descent">Royal descent</a></li>
+            </ul> 
+           </div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th id="Family_trees" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Family_tree" title="Family tree">Family trees</a></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Pedigree_chart" title="Pedigree chart">Pedigree chart</a></li> 
+                 <li><a href="/wiki/Ahnentafel" title="Ahnentafel">Ahnentafel</a> 
+                  <ul>
+                   <li><a href="/wiki/Genealogical_numbering_systems" title="Genealogical numbering systems">Genealogical numbering systems</a></li> 
+                   <li><a href="/wiki/Seize_quartiers" title="Seize quartiers">Seize quartiers</a></li> 
+                   <li><a href="/wiki/Quarters_of_nobility" title="Quarters of nobility">Quarters of nobility</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Relationships</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Agape" title="Agape">Agape (parental love)</a></li> 
+             <li><a href="/wiki/Eros_(concept)" title="Eros (concept)">Eros (marital love)</a></li> 
+             <li><a href="/wiki/Philia" title="Philia">Philia (brotherly love)</a></li> 
+             <li><a href="/wiki/Storge" title="Storge">Storge (familial love)</a></li> 
+             <li><a href="/wiki/Filial_piety" title="Filial piety">Filial piety</a></li> 
+             <li><a href="/wiki/Polyfidelity" title="Polyfidelity">Polyfidelity</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Holidays</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Mother%27s_Day" title="Mother's Day">Mother's Day</a> 
+              <ul>
+               <li><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother's Day (United States)">U.S.</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Father%27s_Day" title="Father's Day">Father's Day</a></li> 
+             <li><a href="/wiki/Father-Daughter_Day" class="mw-redirect" title="Father-Daughter Day">Father-Daughter Day</a></li> 
+             <li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li> 
+             <li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a></li> 
+             <li><a href="/wiki/Parents%27_Day" title="Parents' Day">Parents' Day</a></li> 
+             <li><a href="/wiki/Children%27s_Day" title="Children's Day">Children's Day</a></li> 
+             <li><a href="/wiki/Family_Day" title="Family Day">Family Day</a> 
+              <ul>
+               <li><a href="/wiki/Family_Day_(Canada)" title="Family Day (Canada)">Canada</a></li>
+              </ul></li> 
+             <li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a></li> 
+             <li><a class="mw-selflink selflink">International Day of Families</a></li> 
+             <li><a href="/wiki/National_Family_Week" title="National Family Week">National Family Week</a> 
+              <ul>
+               <li><a href="/wiki/National_Family_Week_(UK)" title="National Family Week (UK)">UK</a></li>
+              </ul></li> 
+             <li><a href="/wiki/National_Adoption_Day" title="National Adoption Day">National Adoption Day</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Related</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Wedding_anniversary" title="Wedding anniversary">Wedding anniversary</a></li> 
+             <li><a href="/wiki/Sociology_of_the_family" title="Sociology of the family">Sociology of the family</a></li> 
+             <li><a href="/wiki/Museum_of_Motherhood" title="Museum of Motherhood">Museum of Motherhood</a></li> 
+             <li><a href="/wiki/Incest" title="Incest">Incest</a></li> 
+             <li><a href="/wiki/Dysfunctional_family" title="Dysfunctional family">Dysfunctional family</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <style data-mw-deduplicate="TemplateStyles:r1012311289">.mw-parser-output .asbox{position:relative;overflow:hidden}.mw-parser-output .asbox table{background:transparent}.mw-parser-output .asbox p{margin:0}.mw-parser-output .asbox p+p{margin-top:0.25em}.mw-parser-output .asbox-body{font-style:italic}.mw-parser-output .asbox-note{font-size:smaller}.mw-parser-output .asbox .navbar{position:absolute;top:-0.75em;right:1em;display:none}</style>
+      <div role="note" class="metadata plainlinks asbox stub">
+       <table role="presentation">
+        <tbody>
+         <tr class="noresize">
+          <td><a href="/wiki/File:Flag_of_the_United_Nations.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/30px-Flag_of_the_United_Nations.svg.png" decoding="async" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/45px-Flag_of_the_United_Nations.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/60px-Flag_of_the_United_Nations.svg.png 2x" data-file-width="1200" data-file-height="800"></a></td>
+          <td><p class="asbox-body">This <a href="/wiki/United_Nations" title="United Nations">United Nations</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=International_Day_of_Families&amp;action=edit">expanding it</a>.</p></td>
+         </tr>
+        </tbody>
+       </table>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+       <div class="navbar plainlinks hlist navbar-mini">
+        <ul>
+         <li class="nv-view"><a href="/wiki/Template:UN-stub" title="Template:UN-stub"><abbr title="View this template">v</abbr></a></li>
+         <li class="nv-talk"><a href="/wiki/Template_talk:UN-stub" title="Template talk:UN-stub"><abbr title="Discuss this template">t</abbr></a></li>
+         <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:UN-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+        </ul>
+       </div>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1343
+Cached time: 20210414025638
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.389 seconds
+Real time usage: 0.523 seconds
+Preprocessor visited node count: 648/1000000
+Post‐expand include size: 39121/2097152 bytes
+Template argument size: 312/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 23935/5000000 bytes
+Lua time usage: 0.224/10.000 seconds
+Lua memory usage: 5238185/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  440.570      1 -total
+ 25.20%  111.034      1 Template:Citation
+ 14.32%   63.110      1 Template:Primary_sources
+ 13.97%   61.557      1 Template:Use_dmy_dates
+ 13.02%   57.384      1 Template:Ambox
+ 10.27%   45.249      1 Template:Family
+ 10.01%   44.092      2 Template:Navbox
+  9.67%   42.603      6 Template:Cite_web
+  8.84%   38.943      1 Template:Official_website
+  7.07%   31.142      1 Template:UN-stub
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:22730350-0!canonical and timestamp 20210414025637 and revision id 996800412. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=International_Day_of_Families&amp;oldid=996800412">https://en.wikipedia.org/w/index.php?title=International_Day_of_Families&amp;oldid=996800412</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:May_observances" title="Category:May observances">May observances</a></li>
+       <li><a href="/wiki/Category:United_Nations_days" title="Category:United Nations days">United Nations days</a></li>
+       <li><a href="/wiki/Category:Family_member_holidays" title="Category:Family member holidays">Family member holidays</a></li>
+       <li><a href="/wiki/Category:United_Nations_stubs" title="Category:United Nations stubs">United Nations stubs</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_May_2020" title="Category:Use dmy dates from May 2020">Use dmy dates from May 2020</a></li>
+       <li><a href="/wiki/Category:Articles_lacking_reliable_references_from_May_2009" title="Category:Articles lacking reliable references from May 2009">Articles lacking reliable references from May 2009</a></li>
+       <li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li>
+       <li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=International+Day+of+Families" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=International+Day+of+Families" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/International_Day_of_Families" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:International_Day_of_Families" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/International_Day_of_Families">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=International_Day_of_Families&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=International_Day_of_Families&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/International_Day_of_Families" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/International_Day_of_Families" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=International_Day_of_Families&amp;oldid=996800412" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=International_Day_of_Families&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=International_Day_of_Families&amp;id=996800412&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q246959" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=International_Day_of_Families&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=International_Day_of_Families&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A_%D9%84%D9%84%D8%A3%D8%B3%D8%B1" title="اليوم الدولي للأسر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/D%C3%ADa_Internacional_de_la_Familia" title="Día Internacional de la Familia – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Beyn%C9%99lxalq_Ail%C9%99_G%C3%BCn%C3%BC" title="Beynəlxalq Ailə Günü – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9C%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B_%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%D1%81%D1%8F%D0%BC%E2%80%99%D1%96" title="Міжнародны дзень сям’і – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Dia_Internacional_de_les_Fam%C3%ADlies" title="Dia Internacional de les Famílies – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Mezin%C3%A1rodn%C3%AD_den_rodiny" title="Mezinárodní den rodiny – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Internationaler_Tag_der_Familie" title="Internationaler Tag der Familie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Rahvusvaheline_perep%C3%A4ev" title="Rahvusvaheline perepäev – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_de_la_Familia" title="Día Internacional de la Familia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/D%C3%ADa_Internacional_das_Familias" title="Día Internacional das Familias – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C_%EA%B0%80%EC%A0%95%EC%9D%98_%EB%82%A0" title="국제 가정의 날 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B8%D5%B6%D5%BF%D5%A1%D5%B6%D5%AB%D6%84%D5%AB_%D5%B4%D5%AB%D5%BB%D5%A1%D5%A6%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D6%85%D6%80" title="Ընտանիքի միջազգային օր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hari_Keluarga_Internasional" title="Hari Keluarga Internasional – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9D%E1%83%AF%E1%83%90%E1%83%AE%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%90%E1%83%94%E1%83%A0%E1%83%97%E1%83%90%E1%83%A8%E1%83%9D%E1%83%A0%E1%83%98%E1%83%A1%E1%83%9D_%E1%83%93%E1%83%A6%E1%83%94" title="ოჯახების საერთაშორისო დღე – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Starptautisk%C4%81_%C4%A3imenes_diena" title="Starptautiskā ģimenes diena – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E5%AE%B6%E6%97%8F%E3%83%87%E3%83%BC" title="国際家族デー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Mi%C4%99dzynarodowy_Dzie%C5%84_Rodzin" title="Międzynarodowy Dzień Rodzin – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Dia_Internacional_das_Fam%C3%ADlias" title="Dia Internacional das Famílias – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ziua_Interna%C8%9Bional%C4%83_a_Familiei" title="Ziua Internațională a Familiei – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D1%81%D0%B5%D0%BC%D0%B5%D0%B9" title="Международный день семей – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9C%D0%B5%D1%92%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8_%D0%B4%D0%B0%D0%BD_%D0%BF%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5" title="Међународни дан породице – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/%D0%9C%D0%B5%D1%92%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8_%D0%B4%D0%B0%D0%BD_%D0%BF%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B0" title="Међународни дан породица – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Internationella_familjedagen" title="Internationella familjedagen – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BB%D1%8B%D0%BA%D0%B0%D1%80%D0%B0_%D0%B3%D0%B0%D0%B8%D0%BB%D3%99_%D0%BA%D3%A9%D0%BD%D0%B5" title="Халыкара гаилә көне – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%85%E0%B0%82%E0%B0%A4%E0%B0%B0%E0%B1%8D%E0%B0%9C%E0%B0%BE%E0%B0%A4%E0%B1%80%E0%B0%AF_%E0%B0%95%E0%B1%81%E0%B0%9F%E0%B1%81%E0%B0%82%E0%B0%AC_%E0%B0%A6%E0%B0%BF%E0%B0%A8%E0%B1%8B%E0%B0%A4%E0%B1%8D%E0%B0%B8%E0%B0%B5%E0%B0%82" title="అంతర్జాతీయ కుటుంబ దినోత్సవం – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A0%D3%AF%D0%B7%D0%B8_%D2%B7%D0%B0%D2%B3%D0%BE%D0%BD%D0%B8%D0%B8_%D0%B2%D0%BE%D0%BB%D0%B8%D0%B4%D0%BE%D0%BD" title="Рӯзи ҷаҳонии волидон – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D1%81%D1%96%D0%BC%27%D1%97" title="Міжнародний день сім'ї – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ng%C3%A0y_qu%E1%BB%91c_t%E1%BA%BF_Gia_%C4%91%C3%ACnh" title="Ngày quốc tế Gia đình – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E5%AE%B6%E5%BA%AD%E6%97%A5" title="国际家庭日 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q246959#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 28 December 2020, at 17:55<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=International_Day_of_Families&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.389","walltime":"0.523","ppvisitednodes":{"value":648,"limit":1000000},"postexpandincludesize":{"value":39121,"limit":2097152},"templateargumentsize":{"value":312,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":23935,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  440.570      1 -total"," 25.20%  111.034      1 Template:Citation"," 14.32%   63.110      1 Template:Primary_sources"," 13.97%   61.557      1 Template:Use_dmy_dates"," 13.02%   57.384      1 Template:Ambox"," 10.27%   45.249      1 Template:Family"," 10.01%   44.092      2 Template:Navbox","  9.67%   42.603      6 Template:Cite_web","  8.84%   38.943      1 Template:Official_website","  7.07%   31.142      1 Template:UN-stub"]},"scribunto":{"limitreport-timeusage":{"value":"0.224","limit":"10.000"},"limitreport-memusage":{"value":5238185,"limit":52428800}},"cachereport":{"origin":"mw1343","timestamp":"20210414025638","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"International Day of Families","url":"https:\/\/en.wikipedia.org\/wiki\/International_Day_of_Families","sameAs":"http:\/\/www.wikidata.org\/entity\/Q246959","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q246959","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-05-08T16:21:49Z","dateModified":"2020-12-28T17:55:35Z","headline":"The International Day of Families provides an opportunity to promote awareness of issues relating to families and to increase knowledge of the social, economic and demographic processes affecting them."}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":153,"wgHostname":"mw1391"});});</script> 
+ </body>
+</html>

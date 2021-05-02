@@ -1,0 +1,1036 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Human Rights Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"89ab5a89-26c7-4413-ac7b-f9eb6f1cffe9","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Human_Rights_Day","wgTitle":"Human Rights Day","wgCurRevisionId":1017782782,"wgRevisionId":1017782782,"wgArticleId":1086133,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: archived copy as title","Use dmy dates from December 2018","Use Oxford spelling from December 2018","Infobox holiday with missing field","Infobox holiday fixed day (2)","All articles with specifically marked weasel-worded phrases",
+"Articles with specifically marked weasel-worded phrases from December 2017","All articles with unsourced statements","Articles with unsourced statements from February 2014","Human rights","Civil awareness days","United Nations days","December observances"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Human_Rights_Day","wgRelevantArticleId":1086133,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q206206"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/HumanRightsLogo.svg/1200px-HumanRightsLogo.svg.png"> 
+  <meta property="og:title" content="Human Rights Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Human_Rights_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Human_Rights_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Human_Rights_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Human_Rights_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Human_Rights_Day rootpage-Human_Rights_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">Human Rights Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <p class="mw-empty-elt"> </p> 
+      <table class="infobox vevent">
+       <tbody>
+        <tr>
+         <th colspan="2" class="infobox-above hd" style="background-color: transparent">Human Rights Day</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image"><a href="/wiki/File:HumanRightsLogo.svg" class="image"><img alt="HumanRightsLogo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/HumanRightsLogo.svg/150px-HumanRightsLogo.svg.png" decoding="async" width="150" height="156" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/HumanRightsLogo.svg/225px-HumanRightsLogo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/HumanRightsLogo.svg/300px-HumanRightsLogo.svg.png 2x" data-file-width="120" data-file-height="125"></a>
+          <div class="infobox-caption" style="caption">
+           <a href="/wiki/Human_Rights_Logo" title="Human Rights Logo">Human Rights Logo</a>, unveiled in New York on 23 September 2011
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Also called</th>
+         <td class="infobox-data">HRD</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Observed&nbsp;by</th>
+         <td class="infobox-data"><a href="/wiki/UN_Members" class="mw-redirect" title="UN Members">UN Members</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Celebrations</th>
+         <td class="infobox-data">worldwide</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Begins</th>
+         <td class="infobox-data">1948<span class="noprint">; 73&nbsp;years ago</span><span style="display:none">&nbsp;(<span class="bday dtstart published updated">1948</span>)</span></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Date</th>
+         <td class="infobox-data"><a href="/wiki/10_December" class="mw-redirect" title="10 December">10 December</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Frequency</th>
+         <td class="infobox-data">annual</td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Human Rights Day</b> is <a href="/wiki/List_of_minor_secular_observances#December" title="List of minor secular observances">celebrated</a> annually across the world on <a href="/wiki/10_December" class="mw-redirect" title="10 December">10 December</a> every year. </p>
+      <p>The date was chosen to honor the <a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">United Nations General Assembly</a>'s adoption and proclamation, on 10 December 1948, of the <a href="/wiki/Universal_Declaration_of_Human_Rights" title="Universal Declaration of Human Rights">Universal Declaration of Human Rights</a> (UDHR), the first global enunciation of <a href="/wiki/Human_rights" title="Human rights">human rights</a> and one of the first major achievements of the new <a href="/wiki/United_Nations" title="United Nations">United Nations</a>. The formal establishment of Human Rights Day occurred at the 317th Plenary Meeting of the General Assembly on 4 December 1950, when the General Assembly declared resolution 423(V), inviting all member states and any other interested organizations to celebrate the day as they saw fit.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p>
+      <p>The day is normally marked both by high-level political conferences and meetings and by cultural events and exhibitions dealing with human rights issues. Besides, it is traditionally on 10 December that the five-yearly <a href="/wiki/United_Nations_Prize_in_the_Field_of_Human_Rights" title="United Nations Prize in the Field of Human Rights">United Nations Prize in the Field of Human Rights</a> and <a href="/wiki/Nobel_Peace_Prize" title="Nobel Peace Prize">Nobel Peace Prize</a> are awarded. Many <a href="/wiki/International_organization" title="International organization">governmental</a> and <a href="/wiki/Non-governmental_organizations" class="mw-redirect" title="Non-governmental organizations">non-governmental organizations</a> active in the human rights field also schedule special events to commemorate the day, as do many civil and social-cause organisations. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Past_observances"><span class="tocnumber">2</span> <span class="toctext">Past observances</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Date_variance"><span class="tocnumber">3</span> <span class="toctext">Date variance</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Human_Rights_Day&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Turkish_journalists_protesting_imprisonment_of_their_colleagues_in_2016.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Turkish_journalists_protesting_imprisonment_of_their_colleagues_in_2016.jpg/220px-Turkish_journalists_protesting_imprisonment_of_their_colleagues_in_2016.jpg" decoding="async" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Turkish_journalists_protesting_imprisonment_of_their_colleagues_in_2016.jpg/330px-Turkish_journalists_protesting_imprisonment_of_their_colleagues_in_2016.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Turkish_journalists_protesting_imprisonment_of_their_colleagues_in_2016.jpg/440px-Turkish_journalists_protesting_imprisonment_of_their_colleagues_in_2016.jpg 2x" data-file-width="4128" data-file-height="2322"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Turkish_journalists_protesting_imprisonment_of_their_colleagues_in_2016.jpg" class="internal" title="Enlarge"></a>
+         </div>Turkish journalists protesting <a href="/wiki/Turkey%27s_media_purge_after_the_failed_July_2016_coup_d%27%C3%A9tat" title="Turkey's media purge after the failed July 2016 coup d'état">imprisonment</a> of their colleagues, 10 December 2016
+        </div>
+       </div>
+      </div> 
+      <p><a href="/wiki/Human_rights" title="Human rights">Human Rights</a> Day is the day in 1948 the United Nations General Assembly adopted the Universal Declaration of Human Rights.<sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3">[3]</a></sup> </p>
+      <p>The formal inception of Human Rights Day dates from 1950, after the Assembly passed resolution 423(V) inviting all States and interested organisations to adopt 10 December of each year as Human Rights Day.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The popularity of the day can be shown by the fact that the commemorative Human Rights Day stamp issued by the <a href="/wiki/United_Nations_Postal_Administration" title="United Nations Postal Administration">United Nations Postal Administration</a> in 1952, received approximately 200,000 advance orders.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:152px;">
+        <a href="/wiki/File:USSR_stamp_1963_CPA_2963.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/USSR_stamp_1963_CPA_2963.jpg/150px-USSR_stamp_1963_CPA_2963.jpg" decoding="async" width="150" height="206" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/USSR_stamp_1963_CPA_2963.jpg/225px-USSR_stamp_1963_CPA_2963.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/USSR_stamp_1963_CPA_2963.jpg/300px-USSR_stamp_1963_CPA_2963.jpg 2x" data-file-width="762" data-file-height="1045"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:USSR_stamp_1963_CPA_2963.jpg" class="internal" title="Enlarge"></a>
+         </div>A 1963 <a href="/wiki/Postage_stamp" title="Postage stamp">postage stamp</a> from <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>, <a href="/wiki/Commemorative_stamp" title="Commemorative stamp">commemorating</a> the 15th <a href="/wiki/Anniversary" title="Anniversary">anniversary</a> of the <a href="/wiki/Universal_Declaration_of_Human_Rights" title="Universal Declaration of Human Rights">Universal Declaration of Human Rights</a>
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Stamp_Germany_1998_MiNr2026_Erkl%C3%A4rung_Menschenrechte.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stamp_Germany_1998_MiNr2026_Erkl%C3%A4rung_Menschenrechte.jpg/220px-Stamp_Germany_1998_MiNr2026_Erkl%C3%A4rung_Menschenrechte.jpg" decoding="async" width="220" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/e/eb/Stamp_Germany_1998_MiNr2026_Erkl%C3%A4rung_Menschenrechte.jpg 1.5x" data-file-width="250" data-file-height="149"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Stamp_Germany_1998_MiNr2026_Erkl%C3%A4rung_Menschenrechte.jpg" class="internal" title="Enlarge"></a>
+         </div>A 1998 <a href="/wiki/Postage_stamp" title="Postage stamp">postage stamp</a> from <a href="/wiki/Germany" title="Germany">Germany</a>, <a href="/wiki/Commemorative_stamp" title="Commemorative stamp">commemorating</a> the 50th <a href="/wiki/Anniversary" title="Anniversary">anniversary</a> of the <a href="/wiki/Universal_Declaration_of_Human_Rights" title="Universal Declaration of Human Rights">Universal Declaration of Human Rights</a>
+        </div>
+       </div>
+      </div> 
+      <p>When the General Assembly adopted the Declaration, with 48 states in favor and eight abstentions, it was proclaimed as a "common standard of achievement for all peoples and all nations", towards which individuals and societies should "strive by progressive measures, national and international, to secure their universal and effective recognition and observance". The measure was received by both advocates and critics alike as "being more declarative than legislative, more suggestive than binding."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p>
+      <p>Although the Declaration with its broad range of <a href="/wiki/Civil_and_political_rights" title="Civil and political rights">political, civil</a>, <a href="/wiki/Economic,_social_and_cultural_rights" title="Economic, social and cultural rights">economic, social and cultural rights</a> is not a binding document, it inspired more than 60 human rights instruments which together constitute an international standard of human rights. Today the general consent of all United Nations Member States on the basic Human Rights laid down in the Declaration makes it even stronger and emphasizes the relevance of Human Rights in our<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (December 2017)">who?</span></a></i>]</sup> daily lives.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (December 2017)">according to whom?</span></a></i>]</sup> </p>
+      <p>The High Commissioner for Human Rights, as the main United Nations rights official and his Office plays a major role in coordinating efforts for the yearly observation of Human Rights Day: </p> 
+      <style data-mw-deduplicate="TemplateStyles:r996844942">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style>
+      <blockquote class="templatequote">
+       <p>Today, poverty prevails as the gravest human rights challenge in the world. Combating poverty, deprivation and exclusion is not a matter of charity, and it does not depend on how rich a country is. By tackling poverty as a matter of human rights obligation, the world will have a better chance of abolishing this scourge in our lifetime... <a href="/wiki/Poverty_reduction" title="Poverty reduction">Poverty eradication</a> is an achievable goal.</p>
+       <div class="templatequotecite">
+        — <cite><a href="/wiki/UN_High_Commissioner_for_Human_Rights" class="mw-redirect" title="UN High Commissioner for Human Rights">UN High Commissioner for Human Rights</a> <a href="/wiki/Louise_Arbour" title="Louise Arbour">Louise Arbour</a>, 10 December 2006</cite>
+       </div>
+      </blockquote> 
+      <p>The 60th anniversary of the Universal Declaration of Human Rights occurred on 10 December 2008, and the UN Secretary-General launched a year-long campaign leading up to this anniversary.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Because the UDHR holds the world record as the most translated document (except for the Bible), organizations around the globe used the year to focus on helping people everywhere learn about their rights. </p>
+      <p>On 9 December 2001, <a href="/wiki/United_States_President" class="mw-redirect" title="United States President">President</a> <a href="/wiki/George_W._Bush" title="George W. Bush">George W. Bush</a> made a <a href="/wiki/Presidential_proclamation" class="mw-redirect" title="Presidential proclamation">Presidential proclamation</a> that Human Rights Week began on 9 December.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> He also made the same proclamation on 10 December 2008.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Past_observances">Past observances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Human_Rights_Day&amp;action=edit&amp;section=2" title="Edit section: Past observances">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:152px;">
+        <a href="/wiki/File:Faroe_stamp_332_human_rights.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Faroe_stamp_332_human_rights.jpg/150px-Faroe_stamp_332_human_rights.jpg" decoding="async" width="150" height="191" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Faroe_stamp_332_human_rights.jpg/225px-Faroe_stamp_332_human_rights.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/2/29/Faroe_stamp_332_human_rights.jpg 2x" data-file-width="235" data-file-height="300"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Faroe_stamp_332_human_rights.jpg" class="internal" title="Enlarge"></a>
+         </div>A 1998 <a href="/wiki/Postage_stamp" title="Postage stamp">postage stamp</a> from <a href="/wiki/Faroe_Islands" title="Faroe Islands">Faroe Islands</a>
+        </div>
+       </div>
+      </div> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Year </th> 
+         <th>Actions </th>
+        </tr> 
+        <tr> 
+         <td>1979</td> 
+         <td><a href="/wiki/Shih_Ming-teh" title="Shih Ming-teh">Shih Ming-teh</a> organized a human rights campaign in <a href="/wiki/Kaohsiung" title="Kaohsiung">Kaohsiung</a>, <a href="/wiki/Taiwan" title="Taiwan">Taiwan</a>. This led to the <a href="/wiki/Kaohsiung_Incident" title="Kaohsiung Incident">Kaohsiung Incident</a> characterized by three rounds of arrests and mock trials of political opponents of the ruling <a href="/wiki/Kuomintang" title="Kuomintang">Kuomintang</a> party and their subsequent imprisonment. </td>
+        </tr> 
+        <tr> 
+         <td>1983</td> 
+         <td><a href="/wiki/President_of_Argentina" title="President of Argentina">President</a> <a href="/wiki/Ra%C3%BAl_Alfonsin" class="mw-redirect" title="Raúl Alfonsin">Raúl Alfonsin</a>, of <a href="/wiki/Argentina" title="Argentina">Argentina</a>, decided to assume office on 10 December 1983, ending the military dictatorship that had ruled the country since 1976. The election of that day for his inauguration was related to human rights violations committed during the dictatorship. From then on, all presidential inaugurations have taken place on 10 December. </td>
+        </tr> 
+        <tr> 
+         <td>2004</td> 
+         <td> 
+          <ul>
+           <li><a href="/wiki/International_PEN" class="mw-redirect" title="International PEN">International PEN</a> announced the launch of a new campaign to secure the release from prison of "cyber-dissidents" in <a href="/wiki/People%27s_Republic_of_China" class="mw-redirect" title="People's Republic of China">PR China</a>, <a href="/wiki/Maldives" title="Maldives">Maldives</a> and <a href="/wiki/Vietnam" title="Vietnam">Vietnam</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></li> 
+           <li>The <a href="/wiki/Inter-American_Commission_on_Human_Rights" title="Inter-American Commission on Human Rights">Inter-American Commission on Human Rights</a>, the UN's <a href="/wiki/Special_Representative_of_the_Secretary_General_for_Human_Rights_Defenders" class="mw-redirect" title="Special Representative of the Secretary General for Human Rights Defenders">Special Representative for Human Rights Defenders</a> and the <a href="/wiki/African_Union" title="African Union">African Union</a>'s <a href="/wiki/African_Commission_on_Human_and_Peoples%27_Rights" title="African Commission on Human and Peoples' Rights">Commission on Human and Peoples' Rights</a> issued a joint communiqué in which they commended the <a href="/wiki/European_Union" title="European Union">European Union</a> for its recent adoption of a set of guidelines for protecting <a href="/wiki/Human_rights_defender" title="Human rights defender">human rights defenders</a> and urged the world's other regions to take similar steps in that direction.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li> 
+           <li>The <a href="/wiki/American_Association_for_the_Advancement_of_Science" title="American Association for the Advancement of Science">American Association for the Advancement of Science</a> organised a seminar in New York City on academic freedom in <a href="/wiki/Iraq" title="Iraq">Iraq</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li> 
+           <li>Human Rights Day is endorsed by the International Humanist and Ethical Union (<a href="/wiki/IHEU" class="mw-redirect" title="IHEU">IHEU</a>) as an official day of <a href="/wiki/Secular_humanist" class="mw-redirect" title="Secular humanist">Humanist</a> celebration.</li>
+          </ul> </td>
+        </tr> 
+        <tr> 
+         <td>2006</td> 
+         <td>In an interesting coincidence, former Chilean dictator <a href="/wiki/Augusto_Pinochet" title="Augusto Pinochet">Augusto Pinochet</a>, known for human rights violations committed during his authoritarian rule, died of a heart attack on 10 December 2006, at the age of 91.<sup id="cite_ref-pinochet-times_13-0" class="reference"><a href="#cite_note-pinochet-times-13">[13]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>2008</td> 
+         <td> 
+          <ul>
+           <li>Gay rights activists in the U.S. state of California urged people to support equal rights by "calling in 'gay'" to work.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> This was in response to the renewed ban on gay marriage when <a href="/wiki/California_Proposition_8_(2008)" class="mw-redirect" title="California Proposition 8 (2008)">Proposition 8</a> passed earlier in the year.</li> 
+           <li>Several people were detained in <a href="/wiki/People%27s_Republic_of_China" class="mw-redirect" title="People's Republic of China">China</a> after around 300 people signed an online petition titled <i><a href="/wiki/Charter_08" title="Charter 08">Charter 08</a></i> for the government to improve human rights in the country. In Beijing, a small protest was broken up that took place outside the foreign ministry.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li> 
+           <li>UNYA Australia celebrated Human Rights Day with the write4rights campaign, asking young people to contribute a message about human rights by phone or on a website for display in Australian State capital cities.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li> 
+           <li><a href="/wiki/Amnesty_International" title="Amnesty International">Amnesty International</a> organised a large event in <a href="/wiki/Paris" title="Paris">Paris</a>, <a href="/wiki/France" title="France">France</a>, to commemorate the 60th anniversary of the UN resolution.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li> 
+           <li>Celebrations took place in <a href="/wiki/Phnom_Penh" title="Phnom Penh">Phnom Penh</a> and around <a href="/wiki/Cambodia" title="Cambodia">Cambodia</a>, including a march by 5000 people, and a further 1000 people releasing balloons, organised by <a href="/wiki/Non-government_organisations" class="mw-redirect" title="Non-government organisations">NGOs</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></li> 
+           <li>Other celebrations and events took place in <a href="/wiki/Russia" title="Russia">Russia</a><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> and <a href="/wiki/India" title="India">India</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></li>
+          </ul> </td>
+        </tr> 
+        <tr> 
+         <td>2009</td> 
+         <td>10 December 2009 marked as 61st anniversary of the Universal Declaration of Human Rights. <a href="/wiki/Tom_Malinowski" title="Tom Malinowski">Tom Malinowski</a> from <a href="/wiki/Human_Rights_Watch" title="Human Rights Watch">Human Rights Watch</a> in Washington, D.C., commented that there had been progress in human rights over the last 40 years: "I think there is greater awareness around the world that people have fundamental rights and that those rights are enshrined in both law domestically and internationally".<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>2011</td> 
+         <td>Following a year of <a href="/wiki/Protest" title="Protest">protest</a> in many countries, from <a href="/wiki/Tunisian_revolution" class="mw-redirect" title="Tunisian revolution">Tunisia</a> to <a href="/wiki/2011_Egyptian_revolution" class="mw-redirect" title="2011 Egyptian revolution">Cairo</a> to the <a href="/wiki/Occupy_movement" title="Occupy movement">Occupy movement</a>, the theme of 2011 recognized the significance of <a href="/wiki/Social_media" title="Social media">social media</a> and technology in assisting human rights defenders in new ways.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>2012</td> 
+         <td>Inclusion and the right to participate in public life was the theme of 2012 Human Rights Day. The focus in 2012 was on all people to make their voices heard and be included in political decision making. ″ My Voice Counts″ slogan was seen in the occupy movement around the world in protest of economic, political and social inequality.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>2013</td> 
+         <td>Celebrating twenty years working for your rights was the theme of the 2013 Human Rights Day celebration. Twenty Years ago the creation of the position of the High Commissioner for Human Rights was established which empowered an official, independent voice to speak worldwide for human rights.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>2014</td> 
+         <td>Every day is Human Rights Day is the slogan for the year 2014. <a rel="nofollow" class="external text" href="http://www.ohchr.org/EN/NewsEvents/HRDay2014/Pages/HRD2014.aspx">Human Rights 365</a> celebrates the Universal Declaration on Human Rights which states that everyone, everywhere, at all times are entitled to their human rights. Human Rights belong to everyone equally and “binds us together as a global community with the same ideals and values.”<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>2015</td> 
+         <td>The theme for 2015 is "Our Rights, Our Freedoms, Always."<sup id="cite_ref-:0_3-1" class="reference"><a href="#cite_note-:0-3">[3]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>2016</td> 
+         <td>The theme for 2016 is "Stand up for someone's rights today!"<sup id="cite_ref-ohchr1_26-0" class="reference"><a href="#cite_note-ohchr1-26">[26]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>2017</td> 
+         <td>The theme for 2017 is "Let's stand up for <a href="/wiki/Social_equality" title="Social equality">equality</a>, <a href="/wiki/Social_justice" title="Social justice">justice</a> and <a href="/wiki/Human_dignity" class="mw-redirect" title="Human dignity">human dignity</a>"<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>2018<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup></td> 
+         <td>The theme for 2018 is "stand up for the human rights" </td>
+        </tr> 
+        <tr> 
+         <td>2019</td> 
+         <td><a href="/wiki/Civil_Human_Rights_Front" title="Civil Human Rights Front">Civil Human Rights Front</a> organized a rally in Hong Kong on the Sunday, December 8 to mark the Human Rights Day two days away. The organizer estimated about 800,000 people took part, while the police had an estimate of 183,000 people.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> The march started from Victoria Park in Causeway Bay and was the biggest of its kind since the march in mid-August as part of <a href="/wiki/2019%E2%80%9320_Hong_Kong_protests" class="mw-redirect" title="2019–20 Hong Kong protests">2019–20 Hong Kong protests</a> movement in 2019.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>Citizens were calling for their five demands, including an independent inquiry into <a href="/wiki/Police_misconduct_allegations_during_the_2019%E2%80%9320_Hong_Kong_protests" class="mw-redirect" title="Police misconduct allegations during the 2019–20 Hong Kong protests">Police misconduct allegations during the 2019–20 Hong Kong protests</a> that occurred in the city during the past 6 months, and also <a href="/wiki/Universal_suffrage" title="Universal suffrage">universal suffrage</a>. </td>
+        </tr> 
+        <tr> 
+         <td>2020<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></td> 
+         <td>The theme for 2020 is "Recover Better - Stand Up for Human Rights"<br>An innocent man was executed by the US Government on this day. </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="Date_variance">Date variance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Human_Rights_Day&amp;action=edit&amp;section=3" title="Edit section: Date variance">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>In <a href="/wiki/South_Africa" title="South Africa">South Africa</a>, Human Rights Day is celebrated on 21 March, in remembrance of the <a href="/wiki/Sharpeville_massacre" title="Sharpeville massacre">Sharpeville massacre</a> which took place on 21 March 1960. This massacre occurred as a result of protests against the <a href="/wiki/Apartheid" title="Apartheid">Apartheid</a> regime in South Africa.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> <a rel="nofollow" class="external text" href="https://www.gov.za/human-rights-day">South African Human Rights Day</a> was declared a national holiday when the <a href="/wiki/African_National_Congress" title="African National Congress">ANC</a> was elected as the government with <a href="/wiki/Nelson_Mandela" title="Nelson Mandela">Nelson Mandela</a> as the first democratically elected leader.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> Parliament's role on this day is to empower the people so that the democratic processes becomes known to all South Africans.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> </p>
+      <p>It is celebrated on 11 December in <a href="/wiki/Kiribati" title="Kiribati">Kiribati</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2014)">citation needed</span></a></i>]</sup> </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Human_Rights_Day&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/HumanLight" title="HumanLight">HumanLight</a></li> 
+       <li><a href="/wiki/International_observance" class="mw-redirect" title="International observance">International observance</a></li> 
+       <li><a href="/wiki/International_Day_in_Support_of_Victims_of_Torture" title="International Day in Support of Victims of Torture">International Day in Support of Victims of Torture</a></li> 
+       <li><a href="/wiki/World_Humanitarian_Day" title="World Humanitarian Day">World Humanitarian Day</a></li> 
+       <li><a href="/wiki/World_Humanist_Day" title="World Humanist Day">World Humanist Day</a></li> 
+       <li><a href="/wiki/United_Nations" title="United Nations">United Nations</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Human_Rights_Day&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist reflist-columns references-column-width" style="column-width: 30em;"> 
+       <ol class="references"> 
+        <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">United Nations General Assembly</a> Session 5 <i>Resolution</i> <i>423(V)</i>.<a rel="nofollow" class="external text" href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/423(V)"> <b>A/RES/423(V)</b></a> 4 December 1950. Retrieved 29 October 2009.</span> </li> 
+        <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFOffice_of_the_High_Commission_for_Human_Rights2009" class="citation web cs1">Office of the High Commission for Human Rights (2009). <a rel="nofollow" class="external text" href="http://www.ohchr.org/EN/AboutUs/Pages/HumanRightsDay.aspx">"The History of Human Rights Day"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 October</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+History+of+Human+Rights+Day&amp;rft.date=2009&amp;rft.au=Office+of+the+High+Commission+for+Human+Rights&amp;rft_id=http%3A%2F%2Fwww.ohchr.org%2FEN%2FAboutUs%2FPages%2FHumanRightsDay.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-:0-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFJames2015" class="citation news cs1">James, Anu (9 December 2015). <a rel="nofollow" class="external text" href="http://www.ibtimes.co.in/human-rights-day-best-quotes-by-famous-personalities-mark-un-day-658792">"Human Rights Day: Best Quotes By Famous Personalities to Mark UN Day"</a>. <i>International Business Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Business+Times&amp;rft.atitle=Human+Rights+Day%3A+Best+Quotes+By+Famous+Personalities+to+Mark+UN+Day&amp;rft.date=2015-12-09&amp;rft.aulast=James&amp;rft.aufirst=Anu&amp;rft_id=http%3A%2F%2Fwww.ibtimes.co.in%2Fhuman-rights-day-best-quotes-by-famous-personalities-mark-un-day-658792&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFLawson1996" class="citation book cs1">Lawson, Edward (1996). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=J-SrdFtSuDUC&amp;q=%22human+rights+day%22&amp;pg=PA723"><i>Encyclopedia of Human Rights</i></a>. Research and contributing editor, Jan K. Dargel (2nd&nbsp;ed.). Taylor &amp; Francis. pp.&nbsp;722–724. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9781560323624" title="Special:BookSources/9781560323624"><bdi>9781560323624</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Encyclopedia+of+Human+Rights&amp;rft.pages=722-724&amp;rft.edition=2nd&amp;rft.pub=Taylor+%26+Francis&amp;rft.date=1996&amp;rft.isbn=9781560323624&amp;rft.aulast=Lawson&amp;rft.aufirst=Edward&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DJ-SrdFtSuDUC%26q%3D%2522human%2Brights%2Bday%2522%26pg%3DPA723&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFGreen1956" class="citation book cs1">Green, James Frederick (1956). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=wI58IE-n4H0C&amp;q=%22human+rights+day%22&amp;pg=PA676"><i>United Nations and Human Rights</i></a>. The Brookings Institution. p.&nbsp;676.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=United+Nations+and+Human+Rights&amp;rft.pages=676&amp;rft.pub=The+Brookings+Institution&amp;rft.date=1956&amp;rft.aulast=Green&amp;rft.aufirst=James+Frederick&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DwI58IE-n4H0C%26q%3D%2522human%2Brights%2Bday%2522%26pg%3DPA676&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFCohen2011" class="citation book cs1">Cohen, G. Daniel (2011). "The 'Human Rights Revolution' at Work: Displaced Persons in Postwar Europe". In Hoffmann, Stefan-Ludwig (ed.). <span class="cs1-lock-limited" title="Free access subject to limited trial, subscription normally required"><a rel="nofollow" class="external text" href="https://archive.org/details/humanrightstwent00hoff"><i>Human Rights in the Twentieth Century</i></a></span>. Cambridge University Press. pp.&nbsp;<a rel="nofollow" class="external text" href="https://archive.org/details/humanrightstwent00hoff/page/n64">49</a>–50. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780521194266" title="Special:BookSources/9780521194266"><bdi>9780521194266</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+%27Human+Rights+Revolution%27+at+Work%3A+Displaced+Persons+in+Postwar+Europe&amp;rft.btitle=Human+Rights+in+the+Twentieth+Century&amp;rft.pages=49-50&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2011&amp;rft.isbn=9780521194266&amp;rft.aulast=Cohen&amp;rft.aufirst=G.+Daniel&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fhumanrightstwent00hoff&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.un.org/en/events/humanrightsday/udhr60/">"The Universal Declaration of Human Rights: 1948–2008"</a>. <i>United Nations</i>. 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=United+Nations&amp;rft.atitle=The+Universal+Declaration+of+Human+Rights%3A+1948%E2%80%932008&amp;rft.date=2008&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fen%2Fevents%2Fhumanrightsday%2Fudhr60%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFOffice_of_the_Press_Secretary2001" class="citation news cs1"><a href="/wiki/White_House_Office_of_the_Press_Secretary" title="White House Office of the Press Secretary">Office of the Press Secretary</a> (12 December 2001). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170312062455/https://www.federalregister.gov/documents/2001/12/12/01-30834/human-rights-day-bill-of-rights-day-and-human-rights-week-2001">"Human Rights Day, Bill of Rights Day, and Human Rights Week, 2001"</a>. <i><a href="/wiki/Federal_Register" title="Federal Register">Federal Register</a></i>. <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a>: <a href="/wiki/Federal_Government_of_the_United_States" class="mw-redirect" title="Federal Government of the United States">Federal Government of the United States</a>. Archived from <a rel="nofollow" class="external text" href="https://www.federalregister.gov/documents/2001/12/12/01-30834/human-rights-day-bill-of-rights-day-and-human-rights-week-2001">the original</a> on 12 March 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Federal+Register&amp;rft.atitle=Human+Rights+Day%2C+Bill+of+Rights+Day%2C+and+Human+Rights+Week%2C+2001&amp;rft.date=2001-12-12&amp;rft.au=Office+of+the+Press+Secretary&amp;rft_id=https%3A%2F%2Fwww.federalregister.gov%2Fdocuments%2F2001%2F12%2F12%2F01-30834%2Fhuman-rights-day-bill-of-rights-day-and-human-rights-week-2001&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span> <a rel="nofollow" class="external text" href="https://www.gpo.gov/fdsys/pkg/FR-2001-12-12/pdf/01-30834.pdf">Alt URL</a></span> </li> 
+        <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFOffice_of_the_Press_Secretary2008" class="citation news cs1"><a href="/wiki/White_House_Office_of_the_Press_Secretary" title="White House Office of the Press Secretary">Office of the Press Secretary</a> (19 December 2008). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170223214136/https://www.federalregister.gov/documents/2008/12/12/E8-29704/human-rights-day-bill-of-rights-day-and-human-rights-week-2008">"Human Rights Day, Bill of Rights Day, and Human Rights Week, 2008"</a>. <i><a href="/wiki/Federal_Register" title="Federal Register">Federal Register</a></i>. <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a>: <a href="/wiki/Federal_Government_of_the_United_States" class="mw-redirect" title="Federal Government of the United States">Federal Government of the United States</a>. Archived from <a rel="nofollow" class="external text" href="https://www.federalregister.gov/documents/2008/12/12/E8-29704/human-rights-day-bill-of-rights-day-and-human-rights-week-2008">the original</a> on 23 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">11 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Federal+Register&amp;rft.atitle=Human+Rights+Day%2C+Bill+of+Rights+Day%2C+and+Human+Rights+Week%2C+2008&amp;rft.date=2008-12-19&amp;rft.au=Office+of+the+Press+Secretary&amp;rft_id=https%3A%2F%2Fwww.federalregister.gov%2Fdocuments%2F2008%2F12%2F12%2FE8-29704%2Fhuman-rights-day-bill-of-rights-day-and-human-rights-week-2008&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span> <a rel="nofollow" class="external text" href="https://www.gpo.gov/fdsys/pkg/FR-2008-12-12/pdf/E8-29704.pdf">Alt URL</a></span> </li> 
+        <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061209141501/http://www.pen.org/freedom/asia2004.html">"A global campaign against Internet censorship and the long-term imprisonment of journalists in Asia"</a>. PEN American Center. Archived from <a rel="nofollow" class="external text" href="http://www.pen.org/freedom/asia2004.html">the original</a> on 9 December 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">15 December</span> 2006</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+global+campaign+against+Internet+censorship+and+the+long-term+imprisonment+of+journalists+in+Asia&amp;rft.pub=PEN+American+Center&amp;rft_id=http%3A%2F%2Fwww.pen.org%2Ffreedom%2Fasia2004.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation pressrelease cs1"><a rel="nofollow" class="external text" href="http://www.cidh.org/Comunicados/English/2004/27.04.htm">"On the occasion of Human Rights Day, the UN, Inter-American and African protection mechanisms call on governments to protect human rights defenders"</a> (Press release). Inter-American Commission on Human Rights. 10 December 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">15 December</span> 2006</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=On+the+occasion+of+Human+Rights+Day%2C+the+UN%2C+Inter-American+and+African+protection+mechanisms+call+on+governments+to+protect+human+rights+defenders.&amp;rft.pub=Inter-American+Commission+on+Human+Rights&amp;rft.date=2004-12-10&amp;rft_id=http%3A%2F%2Fwww.cidh.org%2FComunicados%2FEnglish%2F2004%2F27.04.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://shr.aaas.org/hrday/">"Satellite Imagery for Conflict Prevention and Human Rights: An Event in Honor of Human Rights Day 2006"</a>. The American Association for the Advancement of Science, Science and Human Rights Program. 16 June 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">15 December</span> 2006</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Satellite+Imagery+for+Conflict+Prevention+and+Human+Rights%3A+An+Event+in+Honor+of+Human+Rights+Day+2006&amp;rft.pub=The+American+Association+for+the+Advancement+of+Science%2C+Science+and+Human+Rights+Program&amp;rft.date=2006-06-16&amp;rft_id=http%3A%2F%2Fshr.aaas.org%2Fhrday%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-pinochet-times-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-pinochet-times_13-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFCatan,_ThomasCrooks,_Nathan2006" class="citation news cs1">Catan, Thomas; Crooks, Nathan (11 December 2006). <a rel="nofollow" class="external text" href="http://www.timesonline.co.uk/article/0,,3-2498310,00.html">"General Pinochet, 91, dies awaiting trial for murder"</a>. <i><a href="/wiki/The_Times" title="The Times">The Times</a></i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">11 December</span> 2006</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Times&amp;rft.atitle=General+Pinochet%2C+91%2C+dies+awaiting+trial+for+murder&amp;rft.date=2006-12-11&amp;rft.au=Catan%2C+Thomas&amp;rft.au=Crooks%2C+Nathan&amp;rft_id=http%3A%2F%2Fwww.timesonline.co.uk%2Farticle%2F0%2C%2C3-2498310%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110629044532/http://www.abcnews.go.com/US/wireStory?id=6420501">"<span class="cs1-kern-left">"</span> Calling in 'Gay' to Work Is Latest Form of Protest" ABC News"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.abcnews.go.com/US/wireStory?id=6420501">the original</a> on 29 June 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%22+Calling+in+%27Gay%27+to+Work+Is+Latest+Form+of+Protest%22+ABC+News&amp;rft_id=http%3A%2F%2Fwww.abcnews.go.com%2FUS%2FwireStory%3Fid%3D6420501&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/world/asia-pacific/7774693.stm">"Chinese police detain protesters"</a>, BBC, 10 December 2008.</span> </li> 
+        <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090209011530/http://unya.asn.au/write4rights.php">"Write4Rights"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.unya.asn.au/write4rights.php">the original</a> on 9 February 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Write4Rights&amp;rft_id=http%3A%2F%2Fwww.unya.asn.au%2Fwrite4rights.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.google.com/hostednews/afp/article/ALeqM5jkc7RghMDnMqx9zZBo-Rx46pF3IQ">"Abuses persist as UN rights declaration turns 60"</a>, AFP, 10 December 2008.</span> </li> 
+        <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.phnompenhpost.com/index.php/2008121023141/National-news/Inequality-is-fuelling-rights-violations-UN-warns-govt.html">"Inequality is fuelling rights violations, UN warns govt"</a>, 10 December 2008.</span> </li> 
+        <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.itar-tass.com/eng/level2.html?NewsID=13366636&amp;PageNum=0">"International Human Rights Day marked in Russia"</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090115114004/http://www.itar-tass.com/eng/level2.html?NewsID=13366636&amp;PageNum=0">Archived</a> 15 January 2009 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, ITAR-TASS, 10 December 2008.</span> </li> 
+        <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121022141046/http://articles.timesofindia.indiatimes.com/2008-12-11/bangalore/27923968_1_human-rights-education-south-india-cell-indian-social-institute">"Students celebrate Human Rights Day"</a>, Times of India, 10 December 2008.</span> </li> 
+        <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www1.voanews.com/english/news/middle-east/International-Human-Rights-Day-Marks-Progress-and-Setbacks-78959132.html">"International Human Rights Day Marks Progress and Setbacks"</a>. <i>VOA</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=VOA&amp;rft.atitle=International+Human+Rights+Day+Marks+Progress+and+Setbacks&amp;rft_id=http%3A%2F%2Fwww1.voanews.com%2Fenglish%2Fnews%2Fmiddle-east%2FInternational-Human-Rights-Day-Marks-Progress-and-Setbacks-78959132.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111205213415/http://www.ohchr.org/EN/NewsEvents/Day2011/Pages/HRD2011.aspx">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.ohchr.org/EN/newsevents/day2011/pages/hrd2011.aspx">the original</a> on 5 December 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">6 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.ohchr.org%2FEN%2Fnewsevents%2Fday2011%2Fpages%2Fhrd2011.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span> "Human Rights Day 2011"</span> </li> 
+        <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFUnited_Nations" class="citation web cs1">United Nations. <a rel="nofollow" class="external text" href="https://www.un.org/en/events/humanrightsday/2012/index.shtml">"Human Rights Day, 10 December"</a>. United Nations Department of Public Information<span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Rights+Day%2C+10+December&amp;rft.pub=United+Nations+Department+of+Public+Information&amp;rft.au=United+Nations&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fen%2Fevents%2Fhumanrightsday%2F2012%2Findex.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFOffice_of_the_United_Nations_High_Commissioner_for_Human_Rights_(OHCHR)" class="citation web cs1">Office of the United Nations High Commissioner for Human Rights (OHCHR). <a rel="nofollow" class="external text" href="http://at20.ohchr.org/human-right-day.html">"HUMAN RIGHTS DAY 2013"</a>. <i>United Nations Human Rights</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=United+Nations+Human+Rights&amp;rft.atitle=HUMAN+RIGHTS+DAY+2013&amp;rft.au=Office+of+the+United+Nations+High+Commissioner+for+Human+Rights+%28OHCHR%29&amp;rft_id=http%3A%2F%2Fat20.ohchr.org%2Fhuman-right-day.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFOffice_of_the_High_Commissioner_for_Human_Rights_(OHCHR)" class="citation web cs1">Office of the High Commissioner for Human Rights (OHCHR). <a rel="nofollow" class="external text" href="http://www.ohchr.org/EN/NewsEvents/HRDay2014/Pages/HRD2014.aspx">"Human Rights Day 2014 #Rights 365"</a>. <i>United Nations Human Rights</i>. OHCHR<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=United+Nations+Human+Rights&amp;rft.atitle=Human+Rights+Day+2014+%23Rights+365&amp;rft.au=Office+of+the+High+Commissioner+for+Human+Rights+%28OHCHR%29&amp;rft_id=http%3A%2F%2Fwww.ohchr.org%2FEN%2FNewsEvents%2FHRDay2014%2FPages%2FHRD2014.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-ohchr1-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-ohchr1_26-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.ohchr.org/EN/NewsEvents/HRDay2016/Pages/StandUp4HumanRights.aspx">"Stand up for someone's rights today"</a>. <i>ohchr.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ohchr.org&amp;rft.atitle=Stand+up+for+someone%27s+rights+today&amp;rft_id=http%3A%2F%2Fwww.ohchr.org%2FEN%2FNewsEvents%2FHRDay2016%2FPages%2FStandUp4HumanRights.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.un.org/en/events/humanrightsday/">Human Rights Day 2017</a></span> </li> 
+        <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.jagranjosh.com/current-affairs/human-rights-day-2018-observed-across-the-world-1544440729-1">"Human Rights Day 2018 observed across the world"</a>. <i>Jagranjosh.com</i>. 10 December 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">12 December</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Jagranjosh.com&amp;rft.atitle=Human+Rights+Day+2018+observed+across+the+world&amp;rft.date=2018-12-10&amp;rft_id=https%3A%2F%2Fwww.jagranjosh.com%2Fcurrent-affairs%2Fhuman-rights-day-2018-observed-across-the-world-1544440729-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bloomberg.com/news/articles/2019-12-08/olice-arrest-11-seize-gun-before-march-hong-kong-update">"Protesters Mount Largest Rally in Six Months: Hong Kong Update"</a>. Bloomberg<span class="reference-accessdate">. Retrieved <span class="nowrap">8 December</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Protesters+Mount+Largest+Rally+in+Six+Months%3A+Hong+Kong+Update&amp;rft.pub=Bloomberg&amp;rft_id=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2019-12-08%2Folice-arrest-11-seize-gun-before-march-hong-kong-update&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span><a rel="nofollow" class="external autonumber" href="https://www.bloomberg.com/news/articles/2019-12-08/olice-arrest-11-seize-gun-before-march-hong-kong-update">[1]</a>, Bloomberg, 8 December 2019</span> </li> 
+        <li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://edition.cnn.com/2019/12/08/asia/hong-kong-protest-march-intl-hnk/index.html">"Hong Kong protesters keep up pressure with mass march"</a>. CNN<span class="reference-accessdate">. Retrieved <span class="nowrap">8 December</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hong+Kong+protesters+keep+up+pressure+with+mass+march&amp;rft.pub=CNN&amp;rft_id=https%3A%2F%2Fedition.cnn.com%2F2019%2F12%2F08%2Fasia%2Fhong-kong-protest-march-intl-hnk%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://news.jagatgururampalji.org/human-rights-day-2020/">"Human Rights Day 2020: Theme, History, Quotes, Observed, Celebration"</a>. <i>S A NEWS</i>. 9 December 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">12 December</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=S+A+NEWS&amp;rft.atitle=Human+Rights+Day+2020%3A+Theme%2C+History%2C+Quotes%2C+Observed%2C+Celebration&amp;rft.date=2020-12-09&amp;rft_id=https%3A%2F%2Fnews.jagatgururampalji.org%2Fhuman-rights-day-2020%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060923065834/http://www.sahrc.org.za/why_celebrate_human_rights_day.htm">"Human Rights Day"</a>. South African Human Rights Commission. Archived from <a rel="nofollow" class="external text" href="http://www.sahrc.org.za/why_celebrate_human_rights_day.htm">the original</a> on 23 September 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">15 December</span> 2006</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Human+Rights+Day&amp;rft.pub=South+African+Human+Rights+Commission&amp;rft_id=http%3A%2F%2Fwww.sahrc.org.za%2Fwhy_celebrate_human_rights_day.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20151107013727/http://www.mypublicholidays.co.za/holidays/human-rights-day">"Human Rights Day – 21 March – South Africa"</a>. <i>www.mypublicholidays.co.za</i>. Archived from <a rel="nofollow" class="external text" href="http://www.mypublicholidays.co.za/holidays/human-rights-day">the original</a> on 7 November 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">19 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.mypublicholidays.co.za&amp;rft.atitle=Human+Rights+Day+%E2%80%93+21+March+%E2%80%93+South+Africa&amp;rft_id=http%3A%2F%2Fwww.mypublicholidays.co.za%2Fholidays%2Fhuman-rights-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.parliament.gov.za/live/content.php?Item_ID=1481">"Human Rights Day"</a>. <i>www.parliament.gov.za</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.parliament.gov.za&amp;rft.atitle=Human+Rights+Day&amp;rft_id=http%3A%2F%2Fwww.parliament.gov.za%2Flive%2Fcontent.php%3FItem_ID%3D1481&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuman+Rights+Day" class="Z3988"></span></span> </li> 
+       </ol>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Human_Rights_Day&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em">
+       <ul style="margin:0.1em 0 0">
+        <li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Calendar_icon.svg" class="image"><img alt="Calendar icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/16px-Calendar_icon.svg.png" decoding="async" width="16" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/25px-Calendar_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/33px-Calendar_icon.svg.png 2x" data-file-width="720" data-file-height="920"></a></span><a href="/wiki/Portal:Holidays" title="Portal:Holidays">Holidays portal</a></span></li>
+       </ul>
+      </div> 
+      <ul>
+       <li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://www.un.org/en/observances/human-rights-day">Official website</a></span></span></li> 
+       <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160323165824/http://www.indiaprwire.com/pressrelease/education/20121212139019.htm">Vice-Chancellor Sangam University Bhilwara Speaks on Human Rights Day at JMA Pilani Rajasthan</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_United_Nations" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:United_Nations" title="Template:United Nations"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:United_Nations" title="Template talk:United Nations"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:United_Nations&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_United_Nations" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/23px-Flag_of_the_United_Nations.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/35px-Flag_of_the_United_Nations.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/46px-Flag_of_the_United_Nations.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/United_Nations" title="United Nations">United Nations</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div id="*_Secretary-General:_António_Guterres_*_Deputy_Secretary-General:_Amina_J._Mohammed_*_General_Assembly_President:_Volkan_Bozkır"> 
+            <ul>
+             <li><a href="/wiki/Secretary-General_of_the_United_Nations" title="Secretary-General of the United Nations">Secretary-General</a>: <a href="/wiki/Ant%C3%B3nio_Guterres" title="António Guterres">António Guterres</a></li> 
+             <li><a href="/wiki/Deputy_Secretary-General_of_the_United_Nations" title="Deputy Secretary-General of the United Nations">Deputy Secretary-General</a>: <a href="/wiki/Amina_J._Mohammed" title="Amina J. Mohammed">Amina J. Mohammed</a></li> 
+             <li><a href="/wiki/President_of_the_United_Nations_General_Assembly" title="President of the United Nations General Assembly">General Assembly President</a>: <a href="/wiki/Volkan_Bozk%C4%B1r" title="Volkan Bozkır">Volkan Bozkır</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/United_Nations_System" title="United Nations System">UN System</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Charter_of_the_United_Nations" title="Charter of the United Nations">Charter</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Preamble_to_the_United_Nations_Charter" title="Preamble to the United Nations Charter">Preamble</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Principal organs</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/United_Nations_Secretariat" title="United Nations Secretariat">Secretariat</a> 
+                  <ul>
+                   <li><a href="/wiki/Secretary-General_of_the_United_Nations" title="Secretary-General of the United Nations">Secretary-General</a></li> 
+                   <li><a href="/wiki/Deputy_Secretary-General_of_the_United_Nations" title="Deputy Secretary-General of the United Nations">Deputy Secretary-General</a></li> 
+                   <li><a href="/wiki/Under-Secretary-General_of_the_United_Nations" title="Under-Secretary-General of the United Nations">Under-Secretary-General</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">General Assembly</a> 
+                  <ul>
+                   <li><a href="/wiki/President_of_the_United_Nations_General_Assembly" title="President of the United Nations General Assembly">President</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/International_Court_of_Justice" title="International Court of Justice">International Court of Justice</a> 
+                  <ul>
+                   <li><a href="/wiki/Statute_of_the_International_Court_of_Justice" title="Statute of the International Court of Justice">Statute</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_Security_Council" title="United Nations Security Council">Security Council</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_members_of_the_United_Nations_Security_Council" title="List of members of the United Nations Security Council">Members</a></li> 
+                   <li><a href="/wiki/President_of_the_United_Nations_Security_Council" class="mw-redirect" title="President of the United Nations Security Council">President</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_Economic_and_Social_Council" title="United Nations Economic and Social Council">Economic and Social Council</a> 
+                  <ul>
+                   <li><a href="/wiki/President_of_the_United_Nations_Economic_and_Social_Council" title="President of the United Nations Economic and Social Council">President</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_Trusteeship_Council" title="United Nations Trusteeship Council">Trusteeship Council</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">
+               <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+                <a href="/wiki/United_Nations_System#Funds_and_programmes,_research_and_training_institutes,_and_other_bodies" title="United Nations System">Funds, programmes,<br>and other bodies</a>
+               </div></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Culture_of_Peace" title="Culture of Peace">Culture of Peace</a></li> 
+                 <li><a href="/wiki/International_Trade_Centre" title="International Trade Centre">ITC</a></li> 
+                 <li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">IPCC</a></li> 
+                 <li><a href="/wiki/International_Atomic_Energy_Agency" title="International Atomic Energy Agency">IAEA</a></li> 
+                 <li><a href="/wiki/United_Nations_Mission_for_the_Referendum_in_Western_Sahara" title="United Nations Mission for the Referendum in Western Sahara">MINURSO</a></li> 
+                 <li><a href="/wiki/Joint_United_Nations_Programme_on_HIV/AIDS" title="Joint United Nations Programme on HIV/AIDS">UNAIDS</a></li> 
+                 <li><a href="/wiki/Special_Court_for_Sierra_Leone" title="Special Court for Sierra Leone">SCSL</a></li> 
+                 <li><a href="/wiki/United_Nations_Conference_on_Trade_and_Development" title="United Nations Conference on Trade and Development">UNCTAD</a></li> 
+                 <li><a href="/wiki/United_Nations_Commission_on_International_Trade_Law" title="United Nations Commission on International Trade Law">UNCITRAL</a></li> 
+                 <li><a href="/wiki/United_Nations_Capital_Development_Fund" title="United Nations Capital Development Fund">UNCDF</a></li> 
+                 <li><a href="/wiki/United_Nations_Department_of_Global_Communications" title="United Nations Department of Global Communications">UNDGC</a></li> 
+                 <li><a href="/wiki/United_Nations_Development_Programme" title="United Nations Development Programme">UNDP</a></li> 
+                 <li><a href="/wiki/United_Nations_Department_of_Peace_Operations" title="United Nations Department of Peace Operations">UNDPO</a> 
+                  <ul>
+                   <li><a href="/wiki/United_Nations_peacekeeping" title="United Nations peacekeeping">peacekeeping</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_Environment_Programme" title="United Nations Environment Programme">UNEP</a> 
+                  <ul>
+                   <li><a href="/wiki/UNEP_OzonAction" title="UNEP OzonAction">OzonAction</a></li> 
+                   <li><a href="/wiki/GRID-Arendal" title="GRID-Arendal">UNEP/GRID-Arendal</a></li> 
+                   <li><a href="/wiki/World_Conservation_Monitoring_Centre" title="World Conservation Monitoring Centre">UNEP-WCMC</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_Fund_for_International_Partnerships_(UNFIP)" title="United Nations Fund for International Partnerships (UNFIP)">UNFIP</a></li> 
+                 <li><a href="/wiki/United_Nations_Population_Fund" title="United Nations Population Fund">UNFPA</a></li> 
+                 <li><a href="/wiki/United_Nations_Human_Settlements_Programme" title="United Nations Human Settlements Programme">UN-HABITAT</a></li> 
+                 <li><a href="/wiki/Office_of_the_United_Nations_High_Commissioner_for_Human_Rights" title="Office of the United Nations High Commissioner for Human Rights">OHCHR</a></li> 
+                 <li><a href="/wiki/United_Nations_High_Commissioner_for_Refugees" title="United Nations High Commissioner for Refugees">UNHCR</a></li> 
+                 <li><a href="/wiki/United_Nations_Human_Rights_Council" title="United Nations Human Rights Council">UNHRC</a></li> 
+                 <li><a href="/wiki/UNICEF" title="UNICEF">UNICEF</a></li> 
+                 <li><a href="/wiki/United_Nations_Interregional_Crime_and_Justice_Research_Institute" title="United Nations Interregional Crime and Justice Research Institute">UNICRI</a></li> 
+                 <li><a href="/wiki/United_Nations_Institute_for_Disarmament_Research" title="United Nations Institute for Disarmament Research">UNIDIR</a></li> 
+                 <li><a href="/wiki/United_Nations_Institute_for_Training_and_Research" title="United Nations Institute for Training and Research">UNITAR</a></li> 
+                 <li><a href="/wiki/United_Nations-Oceans" title="United Nations-Oceans">UN-Oceans</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_on_Drugs_and_Crime" title="United Nations Office on Drugs and Crime">UNODC</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_for_Project_Services" title="United Nations Office for Project Services">UNOPS</a></li> 
+                 <li><a href="/wiki/UNOSAT" title="UNOSAT">UNOSAT</a></li> 
+                 <li><a href="/wiki/United_Nations_Research_Institute_for_Social_Development" title="United Nations Research Institute for Social Development">UNRISD</a></li> 
+                 <li><a href="/wiki/UNRWA" title="UNRWA">UNRWA</a></li> 
+                 <li><a href="/wiki/United_Nations_Sustainable_Development_Group" title="United Nations Sustainable Development Group">UNSDG</a></li> 
+                 <li><a href="/wiki/United_Nations_System_Staff_College" title="United Nations System Staff College">UNSSC</a></li> 
+                 <li><a href="/wiki/United_Nations_University" title="United Nations University">UNU</a> 
+                  <ul>
+                   <li><a href="/wiki/UNU-OP" title="UNU-OP">UNU-OP</a></li> 
+                   <li><a href="/wiki/UNU-CRIS" title="UNU-CRIS">UNU-CRIS</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_Volunteers" title="United Nations Volunteers">UNV</a></li> 
+                 <li><a href="/wiki/UN_Women" title="UN Women">UN Women</a></li> 
+                 <li><a href="/wiki/World_Food_Programme" title="World Food Programme">WFP</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">
+               <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+                <a href="/wiki/List_of_specialized_agencies_of_the_United_Nations" title="List of specialized agencies of the United Nations">Specialized agencies</a>
+               </div></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Food_and_Agriculture_Organization" title="Food and Agriculture Organization">FAO</a></li> 
+                 <li><a href="/wiki/International_Civil_Aviation_Organization" title="International Civil Aviation Organization">ICAO</a></li> 
+                 <li><a href="/wiki/International_Fund_for_Agricultural_Development" title="International Fund for Agricultural Development">IFAD</a></li> 
+                 <li><a href="/wiki/International_Labour_Organization" title="International Labour Organization">ILO</a></li> 
+                 <li><a href="/wiki/International_Monetary_Fund" title="International Monetary Fund">IMF</a></li> 
+                 <li><a href="/wiki/International_Maritime_Organization" title="International Maritime Organization">IMO</a></li> 
+                 <li><a href="/wiki/International_Telecommunication_Union" title="International Telecommunication Union">ITU</a></li> 
+                 <li><a href="/wiki/UNESCO" title="UNESCO">UNESCO</a></li> 
+                 <li><a href="/wiki/United_Nations_Industrial_Development_Organization" title="United Nations Industrial Development Organization">UNIDO</a></li> 
+                 <li><a href="/wiki/World_Tourism_Organization" title="World Tourism Organization">UNWTO</a></li> 
+                 <li><a href="/wiki/Universal_Postal_Union" title="Universal Postal Union">UPU</a></li> 
+                 <li><a href="/wiki/World_Health_Organization" title="World Health Organization">WHO</a></li> 
+                 <li><a href="/wiki/World_Intellectual_Property_Organization" title="World Intellectual Property Organization">WIPO</a></li> 
+                 <li><a href="/wiki/World_Meteorological_Organization" title="World Meteorological Organization">WMO</a></li> 
+                 <li><a href="/wiki/World_Bank_Group" title="World Bank Group">World Bank Group</a> 
+                  <ul>
+                   <li><a href="/wiki/International_Bank_for_Reconstruction_and_Development" title="International Bank for Reconstruction and Development">IBRD</a></li> 
+                   <li><a href="/wiki/International_Development_Association" title="International Development Association">IDA</a></li> 
+                   <li><a href="/wiki/International_Finance_Corporation" title="International Finance Corporation">IFC</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/United_Nations_Secretariat" title="United Nations Secretariat">Secretariat Offices<br>and Departments</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Headquarters_of_the_United_Nations" title="Headquarters of the United Nations">Headquarters</a></li> 
+                 <li><a href="/wiki/Office_of_the_Secretary-General%27s_Envoy_on_Youth" title="Office of the Secretary-General's Envoy on Youth">Envoy on Youth</a></li> 
+                 <li><a href="/wiki/Office_of_the_Spokesperson_for_the_Secretary-General" title="Office of the Spokesperson for the Secretary-General">Spokesperson for the Secretary-General</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_at_Geneva" title="United Nations Office at Geneva">Geneva</a></li> 
+                 <li><a href="/wiki/Palace_of_Nations" title="Palace of Nations">Palace of Nations</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_at_Nairobi" title="United Nations Office at Nairobi">Nairobi</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_at_Vienna" title="United Nations Office at Vienna">Vienna</a></li> 
+                 <li><a href="/wiki/United_Nations_Department_of_Economic_and_Social_Affairs" title="United Nations Department of Economic and Social Affairs">Economic and Social Affairs</a></li> 
+                 <li><a href="/wiki/United_Nations_Department_of_Political_and_Peacebuilding_Affairs" title="United Nations Department of Political and Peacebuilding Affairs">Political and Peacebuilding Affairs</a> 
+                  <ul>
+                   <li><a href="/wiki/Dag_Hammarskj%C3%B6ld_Library" title="Dag Hammarskjöld Library">Dag Hammarskjöld Library</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_Department_for_Safety_and_Security" title="United Nations Department for Safety and Security">Safety and Security</a></li> 
+                 <li><a href="/wiki/United_Nations_Division_for_Palestinian_Rights" title="United Nations Division for Palestinian Rights">Palestinian Rights</a></li> 
+                 <li><a href="/wiki/United_Nations_Department_of_Peace_Operations" title="United Nations Department of Peace Operations">Peace Operations</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_of_Internal_Oversight_Services" title="United Nations Office of Internal Oversight Services">Internal Oversight</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_of_Legal_Affairs" title="United Nations Office of Legal Affairs">Legal Affairs</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_of_the_High_Representative_for_the_Least_Developed_Countries,_Landlocked_Developing_Countries_and_Small_Island_Developing_States" title="United Nations Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States">Developing Countries</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_on_Sport_for_Development_and_Peace" title="United Nations Office on Sport for Development and Peace">Sport for Development and Peace</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_for_Disarmament_Affairs" title="United Nations Office for Disarmament Affairs">Disarmament Affairs</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_for_Outer_Space_Affairs" title="United Nations Office for Outer Space Affairs">Outer Space Affairs</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_for_Partnerships" title="United Nations Office for Partnerships">Partnerships</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_for_the_Coordination_of_Humanitarian_Affairs" title="United Nations Office for the Coordination of Humanitarian Affairs">Coordination of Humanitarian Affairs</a></li> 
+                 <li><a href="/wiki/List_of_United_Nations_organizations_by_location" title="List of United Nations organizations by location">UN organizations by location</a></li> 
+                 <li><a href="/wiki/Office_of_the_Special_Representative_of_the_Secretary-General_on_Sexual_Violence_in_Conflict" title="Office of the Special Representative of the Secretary-General on Sexual Violence in Conflict">Sexual Violence in Conflict</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Member_states_of_the_United_Nations" title="Member states of the United Nations">Members<br>and observers</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Member_states_of_the_United_Nations#Current_members" title="Member states of the United Nations">Full members</a></li> 
+             <li><a href="/wiki/Enlargement_of_the_United_Nations#1940s" title="Enlargement of the United Nations">Founding members</a></li> 
+             <li><a href="/wiki/Permanent_members_of_the_United_Nations_Security_Council" title="Permanent members of the United Nations Security Council">Security Council Permanent members</a></li> 
+             <li><a href="/wiki/Permanent_representative_to_the_United_Nations" title="Permanent representative to the United Nations">Permanent representatives to the UN</a> 
+              <ul>
+               <li><a href="/wiki/List_of_current_permanent_representatives_to_the_United_Nations" title="List of current permanent representatives to the United Nations">list</a></li>
+              </ul></li> 
+             <li><a href="/wiki/United_Nations_General_Assembly_observers" title="United Nations General Assembly observers">General Assembly Observers</a> 
+              <ul>
+               <li><a href="/wiki/European_Union_and_the_United_Nations" title="European Union and the United Nations">European Union</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_the_United_Nations" title="History of the United Nations">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Preceding years</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/International_Telegraph_Union" class="mw-redirect" title="International Telegraph Union">International Telegraph Union</a></li> 
+                 <li><a href="/wiki/Universal_Postal_Union" title="Universal Postal Union">Universal Postal Union</a></li> 
+                 <li><a href="/wiki/Hague_Conventions_of_1899_and_1907" title="Hague Conventions of 1899 and 1907">International Peace Conference</a></li> 
+                 <li><a href="/wiki/Permanent_Court_of_Arbitration" title="Permanent Court of Arbitration">Permanent Court of Arbitration</a></li> 
+                 <li><a href="/wiki/League_of_Nations" title="League of Nations">League of Nations</a> 
+                  <ul>
+                   <li><a href="/wiki/League_of_Nations_archives" title="League of Nations archives">archives</a></li> 
+                   <li><a href="/wiki/Covenant_of_the_League_of_Nations" title="Covenant of the League of Nations">charter</a></li> 
+                   <li><a href="/wiki/Organisation_of_the_League_of_Nations" title="Organisation of the League of Nations">organization</a></li> 
+                   <li><a href="/wiki/Member_states_of_the_League_of_Nations" title="Member states of the League of Nations">members</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Preparatory years</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Declaration_of_St_James%27s_Palace" title="Declaration of St James's Palace">London Declaration</a> (1941)</li> 
+                 <li><a href="/wiki/Atlantic_Charter" title="Atlantic Charter">Atlantic Charter</a> (1941)</li> 
+                 <li><a href="/wiki/Declaration_by_United_Nations" title="Declaration by United Nations">Declaration by United Nations</a> (1942)</li> 
+                 <li><a href="/wiki/Moscow_Conference_(1943)" title="Moscow Conference (1943)">Moscow Conference</a> (1943)</li> 
+                 <li><a href="/wiki/Tehran_Conference" title="Tehran Conference">Tehran Conference</a> (1943)</li> 
+                 <li><a href="/wiki/Dumbarton_Oaks_Conference" title="Dumbarton Oaks Conference">Dumbarton Oaks Conference</a> (1944)</li> 
+                 <li><a href="/wiki/Yalta_Conference" title="Yalta Conference">Yalta Conference</a> (1945)</li> 
+                 <li><a href="/wiki/United_Nations_Conference_on_International_Organization" title="United Nations Conference on International Organization">Conference on International Organization</a> (1945)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Activities</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_United_Nations_peacekeeping_missions" title="List of United Nations peacekeeping missions">Peacekeeping missions</a> 
+                  <ul>
+                   <li><a href="/wiki/History_of_United_Nations_peacekeeping" title="History of United Nations peacekeeping">history</a></li> 
+                   <li><a href="/wiki/Timeline_of_United_Nations_peacekeeping_missions" title="Timeline of United Nations peacekeeping missions">timeline</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Universal_Declaration_of_Human_Rights" title="Universal Declaration of Human Rights">Universal Declaration of Human Rights</a> 
+                  <ul>
+                   <li><a href="/wiki/Drafting_of_the_Universal_Declaration_of_Human_Rights" title="Drafting of the Universal Declaration of Human Rights">drafting</a></li> 
+                   <li><a class="mw-selflink selflink">Human Rights Day</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Enlargement_of_the_United_Nations" title="Enlargement of the United Nations">Enlargement</a></li> 
+                 <li><a href="/wiki/Convention_on_the_Rights_of_the_Child" title="Convention on the Rights of the Child">Convention on the Rights of the Child</a></li> 
+                 <li><a href="/wiki/Declaration_on_the_Rights_of_Indigenous_Peoples" title="Declaration on the Rights of Indigenous Peoples">Declaration on the Rights of Indigenous Peoples</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/United_Nations_resolution" title="United Nations resolution">Resolutions</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/List_of_vetoed_United_Nations_Security_Council_resolutions" title="List of vetoed United Nations Security Council resolutions">Security Council vetoes</a></li> 
+             <li><a href="/wiki/United_Nations_General_Assembly_resolution" title="United Nations General Assembly resolution">General Assembly</a> 
+              <ul>
+               <li><a href="/wiki/List_of_resolutions_at_the_sixty-sixth_session_of_the_United_Nations_General_Assembly" title="List of resolutions at the sixty-sixth session of the United Nations General Assembly">66th</a></li> 
+               <li><a href="/wiki/List_of_resolutions_at_the_sixty-seventh_session_of_the_United_Nations_General_Assembly" title="List of resolutions at the sixty-seventh session of the United Nations General Assembly">67th</a></li>
+              </ul></li> 
+             <li><a href="/wiki/United_Nations_Security_Council_resolution" title="United Nations Security Council resolution">Security Council</a> 
+              <ul>
+               <li><a href="/wiki/List_of_United_Nations_Security_Council_resolutions_concerning_Cyprus" title="List of United Nations Security Council resolutions concerning Cyprus">Cyprus</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_resolutions_concerning_Iran" title="List of United Nations resolutions concerning Iran">Iran</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_Security_Council_resolutions_concerning_Iraq" title="List of United Nations Security Council resolutions concerning Iraq">Iraq</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_resolutions_concerning_Israel" title="List of United Nations resolutions concerning Israel">Israel</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_resolutions_relating_to_Lebanon" title="List of United Nations resolutions relating to Lebanon">Lebanon</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_Security_Council_resolutions_on_the_Nagorno-Karabakh_conflict" title="List of United Nations Security Council resolutions on the Nagorno-Karabakh conflict">Nagorno-Karabakh</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_Security_Council_resolutions_concerning_North_Korea" title="List of United Nations Security Council resolutions concerning North Korea">North Korea</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_resolutions_concerning_Palestine" title="List of United Nations resolutions concerning Palestine">Palestine</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_resolutions_concerning_Syria" title="List of United Nations resolutions concerning Syria">Syria</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_resolutions_concerning_Western_Sahara" title="List of United Nations resolutions concerning Western Sahara">Western Sahara</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Elections</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/United_Nations_Secretary-General_selection" title="United Nations Secretary-General selection">Secretary-General</a> <a href="/wiki/2021_United_Nations_Secretary-General_selection" title="2021 United Nations Secretary-General selection">(2021)</a> <a href="/wiki/2016_United_Nations_Secretary-General_selection" title="2016 United Nations Secretary-General selection">(2016)</a></li> 
+             <li><a href="/wiki/2020_International_Court_of_Justice_judges_election" title="2020 International Court of Justice judges election">International Court of Justice (2020)</a> <a href="/wiki/2017_International_Court_of_Justice_judges_election" title="2017 International Court of Justice judges election">(2017)</a> <a href="/wiki/2014_International_Court_of_Justice_judges_election" title="2014 International Court of Justice judges election">(2014)</a> <a href="/wiki/2011_International_Court_of_Justice_judges_election" title="2011 International Court of Justice judges election">(2011)</a></li> 
+             <li><a href="/wiki/2016_United_Nations_General_Assembly_presidential_election" title="2016 United Nations General Assembly presidential election">General Assembly President (2016)</a></li> 
+             <li><a href="/wiki/2016_United_Nations_Security_Council_election" title="2016 United Nations Security Council election">Security Council (2016)</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Outline_of_the_United_Nations" title="Outline of the United Nations">Related</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Bretton_Woods_system" title="Bretton Woods system">Bretton Woods system</a></li> 
+             <li><a href="/wiki/Comprehensive_Nuclear-Test-Ban_Treaty" title="Comprehensive Nuclear-Test-Ban Treaty">Comprehensive Nuclear-Test-Ban Treaty</a></li> 
+             <li><a href="/wiki/Criticism_of_the_United_Nations" title="Criticism of the United Nations">Criticism</a></li> 
+             <li><i><a href="/wiki/Delivering_as_One" title="Delivering as One">Delivering as One</a></i></li> 
+             <li><a href="/wiki/Flag_of_the_United_Nations" title="Flag of the United Nations">Flag</a> 
+              <ul>
+               <li><a href="/wiki/United_Nations_Honour_Flag" title="United Nations Honour Flag">Honour Flag</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Four_Nations_Initiative" title="Four Nations Initiative">Four Nations Initiative</a></li> 
+             <li><a href="/wiki/Genocide_Convention" title="Genocide Convention">Genocide Convention</a></li> 
+             <li><a href="/wiki/United_Nations_Global_Compact" title="United Nations Global Compact">UN Global Compact</a></li> 
+             <li><a href="/wiki/International_Covenant_on_Civil_and_Political_Rights" title="International Covenant on Civil and Political Rights">International Covenant on Civil and Political Rights</a></li> 
+             <li><a href="/wiki/International_Criminal_Court" title="International Criminal Court">International Criminal Court</a></li> 
+             <li><a href="/wiki/International_Day_of_Peace" title="International Day of Peace">International Day of Peace</a></li> 
+             <li><a href="/wiki/International_Decade_for_a_Culture_of_Peace_and_Non-Violence_for_the_Children_of_the_World" title="International Decade for a Culture of Peace and Non-Violence for the Children of the World">International Decade for a Culture of Peace and Non-Violence for the Children of the World</a></li> 
+             <li><a href="/wiki/International_observance" class="mw-redirect" title="International observance">International Years</a></li> 
+             <li><a href="/wiki/United_Nations_Interpretation_Service" title="United Nations Interpretation Service">Interpreters</a></li> 
+             <li><a href="/wiki/United_Nations_laissez-passer" title="United Nations laissez-passer">UN laissez-passer</a></li> 
+             <li><a href="/wiki/Military_Staff_Committee" title="Military Staff Committee">Military Staff Committee</a></li> 
+             <li><a href="/wiki/Official_languages_of_the_United_Nations" title="Official languages of the United Nations">Official languages</a></li> 
+             <li><a href="/wiki/Organisation_for_the_Prohibition_of_Chemical_Weapons" title="Organisation for the Prohibition of Chemical Weapons">Organisation for the Prohibition of Chemical Weapons</a></li> 
+             <li><a href="/wiki/Peacekeeping" title="Peacekeeping">Peacekeeping</a></li> 
+             <li><a href="/wiki/Ralph_Bunche_Park" title="Ralph Bunche Park">Ralph Bunche Park</a></li> 
+             <li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li> 
+             <li><a href="/wiki/United_Nations_Postal_Administration" title="United Nations Postal Administration">United Nations Postal Administration</a></li> 
+             <li><a href="/wiki/UN_Block_By_Block" class="mw-redirect" title="UN Block By Block">UN Block By Block</a></li> 
+             <li><a href="/wiki/Standard_Minimum_Rules_for_the_Administration_of_Juvenile_Justice" title="Standard Minimum Rules for the Administration of Juvenile Justice">Standard Minimum Rules for the Administration of Juvenile Justice</a></li> 
+             <li><a href="/wiki/Standard_Minimum_Rules_for_the_Treatment_of_Prisoners" title="Standard Minimum Rules for the Treatment of Prisoners">Standard Minimum Rules for the Treatment of Prisoners (the Mandela Rules)</a></li> 
+             <li><a href="/wiki/Treaty_series#United_Nations" title="Treaty series">Treaty Series</a></li> 
+             <li><a href="/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons" title="Treaty on the Non-Proliferation of Nuclear Weapons">Treaty on the Non-Proliferation of Nuclear Weapons</a></li> 
+             <li><a href="/wiki/Treaty_on_the_Prohibition_of_Nuclear_Weapons" title="Treaty on the Prohibition of Nuclear Weapons">Treaty on the Prohibition of Nuclear Weapons</a></li> 
+             <li><a href="/wiki/United_Nations_Advisory_Committee_of_Local_Authorities" title="United Nations Advisory Committee of Local Authorities">UN Advisory Committee of Local Authorities</a></li> 
+             <li><a href="/wiki/United_Nations_Day" title="United Nations Day">UN Day</a></li> 
+             <li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">Millennium Declaration</a></li> 
+             <li><a href="/wiki/United_Nations_Security_Council_veto_power" title="United Nations Security Council veto power">Security Council veto power</a></li> 
+             <li><a href="/wiki/Reform_of_the_United_Nations" title="Reform of the United Nations">UN reform</a> 
+              <ul>
+               <li><a href="/wiki/Reform_of_the_United_Nations_Security_Council" title="Reform of the United Nations Security Council">Security Council reform</a></li>
+              </ul></li> 
+             <li><a href="/wiki/United_Nations_Art_Collection" title="United Nations Art Collection">UN Art Collection</a> 
+              <ul>
+               <li><a href="/wiki/United_Nations_Security_Council_mural" title="United Nations Security Council mural">Security Council mural</a></li>
+              </ul></li> 
+             <li><a href="/wiki/United_Nations_Federal_Credit_Union" title="United Nations Federal Credit Union">UN Federal Credit Union</a></li> 
+             <li><a href="/wiki/United_Nations_International_School" title="United Nations International School">UN International School</a> 
+              <ul>
+               <li><a href="/wiki/United_Nations_International_School_of_Hanoi" title="United Nations International School of Hanoi">Hanoi</a></li>
+              </ul></li> 
+             <li><a href="/wiki/UN_Mandate" title="UN Mandate">UN Mandate</a></li> 
+             <li><a href="/wiki/United_Nations_Memorial_Cemetery" title="United Nations Memorial Cemetery">UN Memorial Cemetery Korea</a></li> 
+             <li><a href="/wiki/University_for_Peace" title="University for Peace">University for Peace</a></li> 
+             <li><a href="/wiki/Vienna_Declaration_and_Programme_of_Action" title="Vienna Declaration and Programme of Action">Vienna Declaration and Programme of Action</a></li> 
+             <li><i><a href="/wiki/Celestial_Sphere_Woodrow_Wilson_Memorial" title="Celestial Sphere Woodrow Wilson Memorial">Woodrow Wilson Memorial</a></i></li> 
+             <li><a href="/wiki/World_Federation_of_United_Nations_Associations" title="World Federation of United Nations Associations">World Federation of United Nations Associations</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Outline_of_the_United_Nations" title="Outline of the United Nations">Outline</a></li> 
+             <li><a href="/wiki/United_Nations_Prize_in_the_Field_of_Human_Rights" title="United Nations Prize in the Field of Human Rights">United Nations Prize in the Field of Human Rights</a></li> 
+             <li><a href="/wiki/United_Nations_Radio" title="United Nations Radio">United Nations Radio</a></li> 
+             <li><a href="/wiki/United_Nations_television_film_series" title="United Nations television film series">UN television film series (1964–1966)</a></li> 
+             <li><a href="/wiki/United_Nations_in_popular_culture" title="United Nations in popular culture">In popular culture</a></li> 
+             <li><a href="/wiki/Model_United_Nations" title="Model United Nations">Model UN</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20210423074818
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.900 seconds
+Real time usage: 1.174 seconds
+Preprocessor visited node count: 4178/1000000
+Post‐expand include size: 137743/2097152 bytes
+Template argument size: 4640/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 90994/5000000 bytes
+Lua time usage: 0.395/10.000 seconds
+Lua memory usage: 6633515/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  984.077      1 -total
+ 43.05%  423.671      1 Template:Reflist
+ 24.12%  237.371     18 Template:Cite_web
+ 10.46%  102.905      2 Template:Fix
+  9.89%   97.301      1 Template:Infobox_holiday
+  9.80%   96.405      1 Template:Who
+  8.07%   79.432      3 Template:Navbox
+  8.07%   79.379      1 Template:Use_dmy_dates
+  7.60%   74.817      1 Template:United_Nations
+  7.10%   69.902      4 Template:Category_handler
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:1086133-0!canonical and timestamp 20210423074816 and revision id 1017782782. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Human_Rights_Day&amp;oldid=1017782782">https://en.wikipedia.org/w/index.php?title=Human_Rights_Day&amp;oldid=1017782782</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Human_rights" title="Category:Human rights">Human rights</a></li>
+       <li><a href="/wiki/Category:Civil_awareness_days" title="Category:Civil awareness days">Civil awareness days</a></li>
+       <li><a href="/wiki/Category:United_Nations_days" title="Category:United Nations days">United Nations days</a></li>
+       <li><a href="/wiki/Category:December_observances" title="Category:December observances">December observances</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li>
+       <li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_December_2018" title="Category:Use dmy dates from December 2018">Use dmy dates from December 2018</a></li>
+       <li><a href="/wiki/Category:Use_Oxford_spelling_from_December_2018" title="Category:Use Oxford spelling from December 2018">Use Oxford spelling from December 2018</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_with_missing_field" title="Category:Infobox holiday with missing field">Infobox holiday with missing field</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_fixed_day_(2)" title="Category:Infobox holiday fixed day (2)">Infobox holiday fixed day (2)</a></li>
+       <li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li>
+       <li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_December_2017" title="Category:Articles with specifically marked weasel-worded phrases from December 2017">Articles with specifically marked weasel-worded phrases from December 2017</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2014" title="Category:Articles with unsourced statements from February 2014">Articles with unsourced statements from February 2014</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Human+Rights+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Human+Rights+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Human_Rights_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Human_Rights_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Human_Rights_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Human_Rights_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Human_Rights_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Human_Rights_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Human_Rights_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Human_Rights_Day&amp;oldid=1017782782" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Human_Rights_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Human_Rights_Day&amp;id=1017782782&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q206206" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Human_Rights_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Human_Rights_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:International_Human_Rights_Day" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Menseregtedag" title="Menseregtedag – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li>
+       <li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Tag_der_Menschenrechte" title="Tag der Menschenrechte – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li>
+       <li class="interlanguage-link interwiki-smn"><a href="https://smn.wikipedia.org/wiki/Olmoo%C5%A1vuoig%C3%A2dvuo%C4%91%C3%A2i_peivi" title="Olmoošvuoigâdvuođâi peivi – Inari Sami" lang="smn" hreflang="smn" class="interlanguage-link-target">Anarâškielâ</a></li>
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D9%85_%D8%AD%D9%82%D9%88%D9%82_%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86" title="يوم حقوق الإنسان – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%B1_%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A7%B0_%E0%A6%A6%E0%A6%BF%E0%A7%B1%E0%A6%B8" title="মানৱ অধিকাৰ দিৱস – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/D%C3%ADa_de_los_Derechos_Humanos" title="Día de los Derechos Humanos – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C4%B0nsan_H%C3%BCquqlar%C4%B1_G%C3%BCn%C3%BC" title="İnsan Hüquqları Günü – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0_%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8" title="মানবাধিকার দিবস – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%9A%D0%B5%D1%88%D0%B5_%D1%85%D0%BE%D2%A1%D1%83%D2%A1%D1%82%D0%B0%D1%80%D1%8B_%D0%BA%D3%A9%D0%BD%D3%A9" title="Кеше хоҡуҡтары көнө – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%94%D0%B7%D0%B5%D0%BD%D1%8C_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%9E_%D1%87%D0%B0%D0%BB%D0%B0%D0%B2%D0%B5%D0%BA%D0%B0" title="Дзень правоў чалавека – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Dia_dels_Drets_Humans" title="Dia dels Drets Humans – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Den_lidsk%C3%BDch_pr%C3%A1v" title="Den lidských práv – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Olmmo%C5%A1vuoigatvuo%C4%91aid_beaivi" title="Olmmošvuoigatvuođaid beaivi – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Davvisámegiella</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Tag_der_Menschenrechte" title="Tag der Menschenrechte – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%B3%CE%BA%CF%8C%CF%83%CE%BC%CE%B9%CE%B1_%CE%97%CE%BC%CE%AD%CF%81%CE%B1_%CE%91%CE%BD%CE%B8%CF%81%CF%89%CF%80%CE%AF%CE%BD%CF%89%CE%BD_%CE%94%CE%B9%CE%BA%CE%B1%CE%B9%CF%89%CE%BC%CE%AC%CF%84%CF%89%CE%BD" title="Παγκόσμια Ημέρα Ανθρωπίνων Δικαιωμάτων – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/D%C3%ADa_de_los_Derechos_Humanos" title="Día de los Derechos Humanos – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Tago_de_Homaj_Rajtoj" title="Tago de Homaj Rajtoj – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Giza_Eskubideen_Nazioarteko_Eguna" title="Giza Eskubideen Nazioarteko Eguna – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D8%AD%D9%82%D9%88%D9%82_%D8%A8%D8%B4%D8%B1" title="روز حقوق بشر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_des_droits_de_l%27homme" title="Journée internationale des droits de l'homme – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B6%8C%EC%9D%98_%EB%82%A0" title="인권의 날 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D6%80%D5%A4%D5%B8%D6%82_%D5%AB%D6%80%D5%A1%D5%BE%D5%B8%D6%82%D5%B6%D6%84%D5%B6%D5%A5%D6%80%D5%AB_%D5%BA%D5%A1%D5%B7%D5%BF%D5%BA%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6_%D6%85%D6%80" title="Մարդու իրավունքների պաշտպանության օր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%B5%E0%A4%BE%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0_%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8" title="मानवाधिकार दिवस – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Dan_ljudskih_prava" title="Dan ljudskih prava – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hari_Hak_Asasi_Manusia" title="Hari Hak Asasi Manusia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Giornata_mondiale_dei_diritti_umani" title="Giornata mondiale dei diritti umani – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%9D_%D7%96%D7%9B%D7%95%D7%99%D7%95%D7%AA_%D7%94%D7%90%D7%93%D7%9D" title="יום זכויות האדם – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Dies_Iurum_Humanorum" title="Dies Iurum Humanorum – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/%C5%BDmogaus_teisi%C5%B3_diena" title="Žmogaus teisių diena – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Az_emberi_jogok_vil%C3%A1gnapja" title="Az emberi jogok világnapja – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD_%D0%BD%D0%B0_%D1%87%D0%BE%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2%D0%B8%D1%82%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%B0" title="Ден на човековите права – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Hari_Hak_Asasi_Manusia" title="Hari Hak Asasi Manusia – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%9C%E1%80%B0%E1%80%B7%E1%80%A1%E1%80%81%E1%80%BD%E1%80%84%E1%80%B7%E1%80%BA%E1%80%A1%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%94%E1%80%B1%E1%80%B7" title="လူ့အခွင့်အရေးနေ့ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Dag_van_de_mensenrechten" title="Dag van de mensenrechten – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%B5_%E0%A4%85%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B0_%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8" title="मानव अधिकार दिवस – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E4%BA%BA%E6%A8%A9%E3%83%87%E3%83%BC" title="世界人権デー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/FNs_menneskerettighetsdag" title="FNs menneskerettighetsdag – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Menneskerettsdagen" title="Menneskerettsdagen – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AE%E0%A8%A8%E0%A9%81%E0%A9%B1%E0%A8%96%E0%A9%80_%E0%A8%85%E0%A8%A7%E0%A8%BF%E0%A8%95%E0%A8%BE%E0%A8%B0_%E0%A8%A6%E0%A8%BF%E0%A8%B5%E0%A8%B8" title="ਮਨੁੱਖੀ ਅਧਿਕਾਰ ਦਿਵਸ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li>
+       <li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C_%D8%AD%D9%82%D9%88%D9%82_%D8%AF%DB%8C%DB%81%D8%A7%DA%91%D8%A7" title="انسانی حقوق دیہاڑا – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Dzie%C5%84_Praw_Cz%C5%82owieka" title="Dzień Praw Człowieka – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ano_Internacional_dos_Direitos_Humanos" title="Ano Internacional dos Direitos Humanos – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ziua_Drepturilor_Omului" title="Ziua Drepturilor Omului – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%BF%D1%80%D0%B0%D0%B2_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0" title="День прав человека – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Svetovni_dan_%C4%8Dlovekovih_pravic" title="Svetovni dan človekovih pravic – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Dan_ljudskih_prava" title="Dan ljudskih prava – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ihmisoikeuksien_p%C3%A4iv%C3%A4" title="Ihmisoikeuksien päivä – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Internationella_dagen_f%C3%B6r_m%C3%A4nskliga_r%C3%A4ttigheter" title="Internationella dagen för mänskliga rättigheter – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%A9%E0%AE%BF%E0%AE%A4_%E0%AE%89%E0%AE%B0%E0%AE%BF%E0%AE%AE%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D_%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D" title="மனித உரிமைகள் நாள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Ass_n_yizerfan_n_wemdan" title="Ass n yizerfan n wemdan – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%85%E0%B0%82%E0%B0%A4%E0%B0%B0%E0%B1%8D%E0%B0%9C%E0%B0%BE%E0%B0%A4%E0%B1%80%E0%B0%AF_%E0%B0%AE%E0%B0%BE%E0%B0%A8%E0%B0%B5_%E0%B0%B9%E0%B0%95%E0%B1%8D%E0%B0%95%E0%B1%81%E0%B0%B2_%E0%B0%A6%E0%B0%BF%E0%B0%A8%E0%B1%8B%E0%B0%A4%E0%B1%8D%E0%B0%B8%E0%B0%B5%E0%B0%82" title="అంతర్జాతీయ మానవ హక్కుల దినోత్సవం – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B8%8A%E0%B8%99" title="วันสิทธิมนุษยชน – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/%C4%B0nsan_Haklar%C4%B1_G%C3%BCn%C3%BC" title="İnsan Hakları Günü – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%BF%D1%80%D0%B0%D0%B2_%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B8" title="День прав людини – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DB%8C%D9%88%D9%85_%D8%A7%D9%86%D8%B3%D8%A7%D9%86%DB%8C_%D8%AD%D9%82%D9%88%D9%82" title="یوم انسانی حقوق – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D8%AF%DB%87%D9%86%D9%8A%D8%A7_%D9%83%D9%89%D8%B4%D9%89%D9%84%D9%89%D9%83_%DA%BE%D9%88%D9%82%DB%87%D9%82_%D9%83%DB%88%D9%86%D9%89" title="دۇنيا كىشىلىك ھوقۇق كۈنى – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ng%C3%A0y_Nh%C3%A2n_quy%E1%BB%81n_Qu%E1%BB%91c_t%E1%BA%BF" title="Ngày Nhân quyền Quốc tế – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-fiu-vro"><a href="https://fiu-vro.wikipedia.org/wiki/Inemise%C3%B5iguisi_p%C3%A4iv" title="Inemiseõiguisi päiv – võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E4%BA%BA%E6%9D%83%E6%97%A5" title="国际人权日 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E4%BA%BA%E6%AC%8A%E6%97%A5" title="世界人權日 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E4%BA%BA%E6%AC%8A%E6%97%A5" title="國際人權日 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q206206#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 14 April 2021, at 15:43<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Human_Rights_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.900","walltime":"1.174","ppvisitednodes":{"value":4178,"limit":1000000},"postexpandincludesize":{"value":137743,"limit":2097152},"templateargumentsize":{"value":4640,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":90994,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  984.077      1 -total"," 43.05%  423.671      1 Template:Reflist"," 24.12%  237.371     18 Template:Cite_web"," 10.46%  102.905      2 Template:Fix","  9.89%   97.301      1 Template:Infobox_holiday","  9.80%   96.405      1 Template:Who","  8.07%   79.432      3 Template:Navbox","  8.07%   79.379      1 Template:Use_dmy_dates","  7.60%   74.817      1 Template:United_Nations","  7.10%   69.902      4 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.395","limit":"10.000"},"limitreport-memusage":{"value":6633515,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20210423074818","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Human Rights Day","url":"https:\/\/en.wikipedia.org\/wiki\/Human_Rights_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q206206","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q206206","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-10-20T13:43:55Z","dateModified":"2021-04-14T15:43:48Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d3\/HumanRightsLogo.svg","headline":"international annual celebration of human rights"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":214,"wgHostname":"mw1371"});});</script> 
+ </body>
+</html>

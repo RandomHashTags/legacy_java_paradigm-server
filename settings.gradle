@@ -9,4 +9,5 @@ include 'UpcomingEvents'
 include 'Technology'
 include 'Feedback'
 include 'Status'
+include 'Services'
 

@@ -1,0 +1,385 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>World Cities Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"492c2c92-ea1c-4f76-a9cd-5816209b2059","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"World_Cities_Day","wgTitle":"World Cities Day","wgCurRevisionId":1010239557,"wgRevisionId":1010239557,"wgArticleId":65561349,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Holidays and observances by scheduling (nth weekday of the month)","Human habitats","United Nations days","October observances","Human settlement","United Nations Human Settlements Programme"],"wgPageContentLanguage":
+"en","wgPageContentModel":"wikitext","wgRelevantPageName":"World_Cities_Day","wgRelevantArticleId":65561349,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q18419791"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":
+"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:title" content="World Cities Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/World_Cities_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=World_Cities_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=World_Cities_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/World_Cities_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-World_Cities_Day rootpage-World_Cities_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">World Cities Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       United Nations observance day
+      </div> 
+      <p><b>World Cities Day</b> is an annual <a href="/wiki/United_Nations" title="United Nations">United Nations</a> <a href="/wiki/List_of_minor_secular_observances" title="List of minor secular observances">observance day</a> held on 31 October.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The global observance, first held in 2014, is organized by the <a href="/wiki/United_Nations_Human_Settlements_Programme" title="United Nations Human Settlements Programme">United Nations Human Settlements Programme</a> (UN-Habitat) in coordination with each year's selected host city.<sup id="cite_ref-UN_Cities_Day_2-0" class="reference"><a href="#cite_note-UN_Cities_Day-2">[2]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Previous_World_Cities_Days"><span class="tocnumber">2</span> <span class="toctext">Previous World Cities Days</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Cities_Day&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>World Cities Day was established on 27 December 2013 by the <a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">United Nations General Assembly</a> in its resolution A/RES/68/239,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> in which the General Assembly "decides to designate 31 October, beginning in 2014, as World Cities Day, invites <a href="/wiki/Member_State" class="mw-redirect" title="Member State">States</a>, the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> system, in particular <a href="/wiki/United_Nations_Human_Settlements_Programme" title="United Nations Human Settlements Programme">UN-Habitat</a>, relevant <a href="/wiki/International_organization" title="International organization">international organizations</a>, civil society and all relevant <a href="/wiki/Organizational_stakeholders" title="Organizational stakeholders">stakeholders</a> to observe and raise awareness of the Day".<sup id="cite_ref-UN_Cities_Day_2-1" class="reference"><a href="#cite_note-UN_Cities_Day-2">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> The first World Cities Day was held in October 2014.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p>
+      <p>A legacy of <a href="/wiki/Expo_2010" title="Expo 2010">Expo 2010 Shanghai China</a>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> World Cities Day aims to promote the international community's interest in global urbanization, push forward cooperation among countries in meeting opportunities and addressing challenges of <a href="/wiki/Urbanization" title="Urbanization">urbanization</a>, and contributing to sustainable <a href="/wiki/Urban_Planning" class="mw-redirect" title="Urban Planning">urban development</a> around the world.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The observance day ties in with <a href="/wiki/Sustainable_Development_Goal_11" title="Sustainable Development Goal 11">Sustainable Development Goal 11</a>, to make cities "inclusive, safe, resilient and sustainable".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </p>
+      <p>The general theme of World Cities Day is <i>Better City, Better Life</i>, while each year a different sub-theme and a location for its global observance is selected, to either promote successes of urbanization, or address specific challenges resulting from urbanization.<sup id="cite_ref-Liverpool_Express_10-0" class="reference"><a href="#cite_note-Liverpool_Express-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Previous_World_Cities_Days">Previous World Cities Days</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Cities_Day&amp;action=edit&amp;section=2" title="Edit section: Previous World Cities Days">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <th>Year </th> 
+         <th>Sub-Theme </th> 
+         <th>Venue </th> 
+         <th>Chief Guest </th>
+        </tr> 
+        <tr> 
+         <td>2020 </td> 
+         <td><i>Valuing our communities and cities</i><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> </td> 
+         <td><a href="/wiki/Nakuru" title="Nakuru">Nakuru</a>, <a href="/wiki/Kenya" title="Kenya">Kenya</a> </td> 
+         <td><a href="/wiki/James_Wainaina_Macharia" title="James Wainaina Macharia">James Wainaina Macharia</a>, representing the Government of the <a href="/wiki/Republic_of_Kenya" class="mw-redirect" title="Republic of Kenya">Republic of Kenya</a>, Cabinet Secretary, Ministry of Transport, Infrastructure, Housing, Urban Development and Public Works </td>
+        </tr> 
+        <tr> 
+         <td>2019 </td> 
+         <td><i>Changing the world: innovations and better life for future generations</i><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </td> 
+         <td><a href="/wiki/Yekaterinburg" title="Yekaterinburg">Yekaterinburg</a>, <a href="/wiki/Russia" title="Russia">Russia</a> </td> 
+         <td><a href="/w/index.php?title=Aleksandr_Vysokinskiy&amp;action=edit&amp;redlink=1" class="new" title="Aleksandr Vysokinskiy (page does not exist)">Aleksandr Vysokinskiy</a>, Mayor of Ekaterinburg </td>
+        </tr> 
+        <tr> 
+         <td>2018 </td> 
+         <td><i>Building Sustainable and Resilient Cities</i><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-Liverpool_Express_10-1" class="reference"><a href="#cite_note-Liverpool_Express-10">[10]</a></sup> </td> 
+         <td><a href="/wiki/Liverpool" title="Liverpool">Liverpool</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> </td> 
+         <td><a href="/wiki/Joe_Anderson_(politician)" title="Joe Anderson (politician)">Joe Anderson</a>, Mayor of Liverpool </td>
+        </tr> 
+        <tr> 
+         <td>2017 </td> 
+         <td><i>Innovative Governance, Open Cities</i> </td> 
+         <td><a href="/wiki/Guangzhou" title="Guangzhou">Guangzhou</a>, <a href="/wiki/China" title="China">China</a> </td> 
+         <td><a href="/wiki/Wang_Menghui" title="Wang Menghui">Wang Menghui</a>, Minister of Housing and Urban-Rural Development of China </td>
+        </tr> 
+        <tr> 
+         <td>2016 </td> 
+         <td><i>Inclusive Cities, Shared Development</i> </td> 
+         <td><a href="/wiki/Quito" title="Quito">Quito</a>, <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a> </td> 
+         <td><a href="/wiki/Mauricio_Rodas_Espinel" class="mw-redirect" title="Mauricio Rodas Espinel">Mauricio Rodas Espinel</a>, Mayor of Quito </td>
+        </tr> 
+        <tr> 
+         <td>2015 </td> 
+         <td><i>Designed to live together</i> </td> 
+         <td><a href="/wiki/Milan" title="Milan">Milan</a>, <a href="/wiki/Italy" title="Italy">Italy</a> </td> 
+         <td><a href="/wiki/Giuliano_Pisapia" title="Giuliano Pisapia">Giuliano Pisapia</a>, Mayor of Milan </td>
+        </tr> 
+        <tr> 
+         <td>2014 </td> 
+         <td><i>Leading Urban Transformations</i><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> </td> 
+         <td><a href="/wiki/Shanghai" title="Shanghai">Shanghai</a>, <a href="/wiki/China" title="China">China</a> </td> 
+         <td><a href="/wiki/Chen_Zhenggao" title="Chen Zhenggao">Chen Zhenggao</a>, former Minister of Housing and Urban-Rural Development </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Cities_Day&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://allafrica.com/stories/201911010189.html">"Africa: As Urbanisation Grows, Cities Unveil Sustainable Development Solutions"</a>. <a href="/wiki/AllAfrica" title="AllAfrica">AllAfrica</a>. <a href="/wiki/Inter_Press_Service" title="Inter Press Service">Inter Press Service</a>. 31 October 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-07-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Africa%3A+As+Urbanisation+Grows%2C+Cities+Unveil+Sustainable+Development+Solutions&amp;rft.pub=AllAfrica&amp;rft.date=2019-10-31&amp;rft_id=https%3A%2F%2Fallafrica.com%2Fstories%2F201911010189.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-UN_Cities_Day-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-UN_Cities_Day_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-UN_Cities_Day_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.un.org/en/observances/cities-day">"World Cities Day: 31 October"</a>. United Nations<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-06-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=World+Cities+Day%3A+31+October&amp;rft.pub=United+Nations&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fen%2Fobservances%2Fcities-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://undocs.org/A/RES/68/239">"68/239. Implementation of the outcome of the United Nations Conference on Human Settlements (Habitat II) and strengthening of the United Nations Human Settlements Programme (UN-Habitat)"</a>. United Nations<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-06-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=68%2F239.+Implementation+of+the+outcome+of+the+United+Nations+Conference+on+Human+Settlements+%28Habitat+II%29+and+strengthening+of+the+United+Nations+Human+Settlements+Programme+%28UN-Habitat%29&amp;rft.pub=United+Nations&amp;rft_id=https%3A%2F%2Fundocs.org%2FA%2FRES%2F68%2F239&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFOtieno2019" class="citation web cs1">Otieno, Bonface (31 October 2019). <a rel="nofollow" class="external text" href="https://www.businessdailyafrica.com/news/Kenya-celebrates-first-World-Cities-Day/539546-5331272-c62jqoz/index.html">"Kenya celebrates first World Cities Day"</a>. <i>Business Daily Africa</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-06-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Business+Daily+Africa&amp;rft.atitle=Kenya+celebrates+first+World+Cities+Day&amp;rft.date=2019-10-31&amp;rft.aulast=Otieno&amp;rft.aufirst=Bonface&amp;rft_id=https%3A%2F%2Fwww.businessdailyafrica.com%2Fnews%2FKenya-celebrates-first-World-Cities-Day%2F539546-5331272-c62jqoz%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFMichael2014" class="citation news cs1">Michael, Chris (31 October 2014). <a rel="nofollow" class="external text" href="https://www.theguardian.com/cities/2014/oct/31/-sp-world-cities-day-challenge-what-is">"The World Cities Day Challenge: so what is this thing anyway?"</a>. <i>The Guardian</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=The+World+Cities+Day+Challenge%3A+so+what+is+this+thing+anyway%3F&amp;rft.date=2014-10-31&amp;rft.aulast=Michael&amp;rft.aufirst=Chris&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Foct%2F31%2F-sp-world-cities-day-challenge-what-is&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFYang_Jian2020" class="citation news cs1">Yang Jian (29 October 2020). <a rel="nofollow" class="external text" href="https://www.shine.cn/news/metro/2010298698/">"World Cities Day focusing on community work"</a>. <i>SHINE</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=SHINE&amp;rft.atitle=World+Cities+Day+focusing+on+community+work&amp;rft.date=2020-10-29&amp;rft.au=Yang+Jian&amp;rft_id=https%3A%2F%2Fwww.shine.cn%2Fnews%2Fmetro%2F2010298698%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFHou_Liqiang2020" class="citation news cs1">Hou Liqiang (16 October 2020). <a rel="nofollow" class="external text" href="https://www.chinadaily.com.cn/a/202010/16/WS5f898738a31024ad0ba7f3a5.html">"China to celebrate World Cities Day in Fuzhou"</a>. <i>China Daily</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=China+Daily&amp;rft.atitle=China+to+celebrate+World+Cities+Day+in+Fuzhou&amp;rft.date=2020-10-16&amp;rft.au=Hou+Liqiang&amp;rft_id=https%3A%2F%2Fwww.chinadaily.com.cn%2Fa%2F202010%2F16%2FWS5f898738a31024ad0ba7f3a5.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFHarrouk2020" class="citation news cs1">Harrouk, Christele (2 November 2020). <a rel="nofollow" class="external text" href="https://www.archdaily.com/950631/on-world-cities-day-un-habitat-releases-2020-report-on-the-value-of-sustainable-urbanization">"On World Cities Day UN-Habitat Releases 2020 Report on The Value of Sustainable Urbanization"</a>. <i>ArchDaily</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ArchDaily&amp;rft.atitle=On+World+Cities+Day+UN-Habitat+Releases+2020+Report+on+The+Value+of+Sustainable+Urbanization&amp;rft.date=2020-11-02&amp;rft.aulast=Harrouk&amp;rft.aufirst=Christele&amp;rft_id=https%3A%2F%2Fwww.archdaily.com%2F950631%2Fon-world-cities-day-un-habitat-releases-2020-report-on-the-value-of-sustainable-urbanization&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://moderndiplomacy.eu/2020/10/31/world-cities-day-value-communities-today-and-for-the-future/">"World Cities Day: Value communities, today and for the future"</a>. <i>Modern Diplomacy</i>. 31 October 2020.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Modern+Diplomacy&amp;rft.atitle=World+Cities+Day%3A+Value+communities%2C+today+and+for+the+future&amp;rft.date=2020-10-31&amp;rft_id=https%3A%2F%2Fmoderndiplomacy.eu%2F2020%2F10%2F31%2Fworld-cities-day-value-communities-today-and-for-the-future%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Liverpool_Express-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Liverpool_Express_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Liverpool_Express_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://liverpoolexpress.co.uk/liverpool-to-host-2018-world-cities-day/">"Liverpool to host 2018 World Cities Day"</a>. <i>Liverpool Express</i>. 12 June 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-06-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Liverpool+Express&amp;rft.atitle=Liverpool+to+host+2018+World+Cities+Day&amp;rft.date=2018-06-12&amp;rft_id=https%3A%2F%2Fliverpoolexpress.co.uk%2Fliverpool-to-host-2018-world-cities-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFPanwar2018" class="citation web cs1">Panwar, Sanya (31 October 2018). <a rel="nofollow" class="external text" href="https://www.hindustantimes.com/travel/world-cities-day-10-best-cities-around-the-world-for-young-people/story-MnIabwD0VYZOPFcKPdtaOI.html">"World Cities Day: 10 best cities around the world for young people"</a>. <i>Hindustan Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-06-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hindustan+Times&amp;rft.atitle=World+Cities+Day%3A+10+best+cities+around+the+world+for+young+people&amp;rft.date=2018-10-31&amp;rft.aulast=Panwar&amp;rft.aufirst=Sanya&amp;rft_id=https%3A%2F%2Fwww.hindustantimes.com%2Ftravel%2Fworld-cities-day-10-best-cities-around-the-world-for-young-people%2Fstory-MnIabwD0VYZOPFcKPdtaOI.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://urbanoctober.unhabitat.org/wcd">"World Cities Day 2020"</a>. <i>urbanoctober</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-02-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=urbanoctober&amp;rft.atitle=World+Cities+Day+2020&amp;rft_id=https%3A%2F%2Furbanoctober.unhabitat.org%2Fwcd&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://news.un.org/en/story/2019/10/1050291">"As urbanization grows, cities unveil sustainable development solutions on World Day"</a>. <i>UN News</i>. 30 October 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=UN+News&amp;rft.atitle=As+urbanization+grows%2C+cities+unveil+sustainable+development+solutions+on+World+Day&amp;rft.date=2019-10-30&amp;rft_id=https%3A%2F%2Fnews.un.org%2Fen%2Fstory%2F2019%2F10%2F1050291&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://en.unesco.org/events/celebration-world-cities-day-2018">"Celebration of World Cities Day 2018"</a>. UNESCO<span class="reference-accessdate">. Retrieved <span class="nowrap">2020-06-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Celebration+of+World+Cities+Day+2018&amp;rft.pub=UNESCO&amp;rft_id=https%3A%2F%2Fen.unesco.org%2Fevents%2Fcelebration-world-cities-day-2018&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFClos2014" class="citation web cs1">Clos, Joan (17 September 2014). <a rel="nofollow" class="external text" href="https://www.theguardian.com/cities/2014/sep/17/world-cities-day-united-nations-habitat-new-urban-agenda">"We need to develop a new urban agenda – let's start on World Cities Day"</a>. <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-06-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Guardian&amp;rft.atitle=We+need+to+develop+a+new+urban+agenda+%E2%80%93+let%27s+start+on+World+Cities+Day&amp;rft.date=2014-09-17&amp;rft.aulast=Clos&amp;rft.aufirst=Joan&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fsep%2F17%2Fworld-cities-day-united-nations-habitat-new-urban-agenda&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Cities+Day" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Cities_Day&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://urbanoctober.unhabitat.org/wcd/">World Cities Day</a>, UN-Habitat</li>
+      </ul> <!-- 
+NewPP limit report
+Parsed by mw1401
+Cached time: 20210414093654
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.252 seconds
+Real time usage: 0.311 seconds
+Preprocessor visited node count: 717/1000000
+Post‐expand include size: 23135/2097152 bytes
+Template argument size: 363/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 46927/5000000 bytes
+Lua time usage: 0.137/10.000 seconds
+Lua memory usage: 5134923/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  284.413      1 -total
+ 67.54%  192.097      1 Template:Reflist
+ 41.17%  117.095      9 Template:Cite_web
+ 28.33%   80.588      1 Template:Short_description
+ 16.25%   46.206      1 Template:Pagetype
+ 10.35%   29.442      6 Template:Cite_news
+  7.32%   20.809      3 Template:Main_other
+  5.67%   16.133      1 Template:SDcat
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:65561349-0!canonical and timestamp 20210414093654 and revision id 1010239557. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=World_Cities_Day&amp;oldid=1010239557">https://en.wikipedia.org/w/index.php?title=World_Cities_Day&amp;oldid=1010239557</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Human_habitats" title="Category:Human habitats">Human habitats</a></li>
+       <li><a href="/wiki/Category:United_Nations_days" title="Category:United Nations days">United Nations days</a></li>
+       <li><a href="/wiki/Category:October_observances" title="Category:October observances">October observances</a></li>
+       <li><a href="/wiki/Category:Human_settlement" title="Category:Human settlement">Human settlement</a></li>
+       <li><a href="/wiki/Category:United_Nations_Human_Settlements_Programme" title="Category:United Nations Human Settlements Programme">United Nations Human Settlements Programme</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li>
+       <li><a href="/wiki/Category:Holidays_and_observances_by_scheduling_(nth_weekday_of_the_month)" title="Category:Holidays and observances by scheduling (nth weekday of the month)">Holidays and observances by scheduling (nth weekday of the month)</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=World+Cities+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=World+Cities+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/World_Cities_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:World_Cities_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/World_Cities_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=World_Cities_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=World_Cities_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/World_Cities_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/World_Cities_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=World_Cities_Day&amp;oldid=1010239557" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=World_Cities_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=World_Cities_Day&amp;id=1010239557&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18419791" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=World_Cities_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=World_Cities_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/D%C3%ADa_Mundial_de_les_Ciudaes" title="Día Mundial de les Ciudaes – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_de_las_Ciudades" title="Día Mundial de las Ciudades – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%96%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%BC%D1%96%D1%81%D1%82" title="Всесвітній день міст – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18419791#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 4 March 2021, at 14:02<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=World_Cities_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.252","walltime":"0.311","ppvisitednodes":{"value":717,"limit":1000000},"postexpandincludesize":{"value":23135,"limit":2097152},"templateargumentsize":{"value":363,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":46927,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  284.413      1 -total"," 67.54%  192.097      1 Template:Reflist"," 41.17%  117.095      9 Template:Cite_web"," 28.33%   80.588      1 Template:Short_description"," 16.25%   46.206      1 Template:Pagetype"," 10.35%   29.442      6 Template:Cite_news","  7.32%   20.809      3 Template:Main_other","  5.67%   16.133      1 Template:SDcat"]},"scribunto":{"limitreport-timeusage":{"value":"0.137","limit":"10.000"},"limitreport-memusage":{"value":5134923,"limit":52428800}},"cachereport":{"origin":"mw1401","timestamp":"20210414093654","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"World Cities Day","url":"https:\/\/en.wikipedia.org\/wiki\/World_Cities_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18419791","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18419791","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2020-10-12T10:47:00Z","dateModified":"2021-03-04T14:02:10Z","headline":"United Nations observance day"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":155,"wgHostname":"mw1321"});});</script> 
+ </body>
+</html>

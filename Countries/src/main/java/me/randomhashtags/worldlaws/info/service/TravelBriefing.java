@@ -16,7 +16,7 @@ import java.util.List;
 public enum TravelBriefing implements CountryService {
     INSTANCE;
 
-    private HashMap<String, String> urls, countries;
+    private HashMap<String, String> countries;
 
     @Override
     public CountryInfo getInfo() {
@@ -30,65 +30,37 @@ public enum TravelBriefing implements CountryService {
 
     @Override
     public void getValue(String countryBackendID, CompletionHandler handler) {
-        if(urls == null) {
-            refresh(new CompletionHandler() {
-                @Override
-                public void handle(Object object) {
-                    getBriefingJSON(countryBackendID, handler);
-                }
-            });
-        } else {
-            getBriefingJSON(countryBackendID, handler);
-        }
+        getCountryTravelBriefing(countryBackendID, handler);
     }
 
     @Override
     public void refresh(CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
-        urls = new HashMap<>();
-        countries = new HashMap<>();
-
-        getJSONArray(FileType.COUNTRIES_SERVICES_TRAVEL_BRIEFING, "Countries", new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                requestJSONArray("https://travelbriefing.org/countries.json", RequestMethod.GET, new CompletionHandler() {
-                    @Override
-                    public void handleJSONArray(JSONArray array) {
-                        handler.handle(array.toString());
-                    }
-                });
-            }
-
-            @Override
-            public void handleJSONArray(JSONArray array) {
-                for(Object obj : array) {
-                    final JSONObject json = (JSONObject) obj;
-                    final String country = json.getString("name").toLowerCase().replace(" ", ""), url = json.getString("url");
-                    urls.put(country, url);
-                }
-                WLLogger.log(Level.INFO, getInfo().name() + " - loaded urls (took " + (System.currentTimeMillis()-started) + "ms)");
-                handler.handle(null);
-            }
-        });
     }
 
-    private void getBriefingJSON(String countryBackendID, CompletionHandler handler) {
-        if(countries.containsKey(countryBackendID)) {
-            handler.handle(countries.get(countryBackendID));
-        } else if(urls.containsKey(countryBackendID)) {
-            loadCountry(countryBackendID, urls.get(countryBackendID), handler);
-        } else {
-            WLLogger.log(Level.WARN, getInfo().name() + " - missing for country \"" + countryBackendID + "\"!");
-            handler.handle("null");
+    private void getCountryTravelBriefing(String country, CompletionHandler handler) {
+        final long started = System.currentTimeMillis();
+        if(countries == null) {
+            countries = new HashMap<>();
         }
-    }
-
-    private void loadCountry(String country, String url, CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
-
+        final String targetCountry = country.toLowerCase().replace(" ", "_");
         getJSONObject(FileType.COUNTRIES_SERVICES_TRAVEL_BRIEFING, country, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
+                String country = targetCountry;
+                switch (country) {
+                    case "british_virgin_islands":
+                        country = "virgin_islands-british";
+                        break;
+                    case "democratic_republic_of_the_congo":
+                        country = "congo-kinshasa";
+                        break;
+                    case "republic_of_the_congo":
+                        country = "congo-brazzaville";
+                        break;
+                    default:
+                        break;
+                }
+                final String url = "https://travelbriefing.org/" + country + "?format=json";
                 requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
                     @Override
                     public void handleJSONObject(JSONObject json) {
@@ -112,6 +84,7 @@ public enum TravelBriefing implements CountryService {
             public void handleJSONObject(JSONObject object) {
                 final String string = object.toString();
                 WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + country + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                countries.put(targetCountry, string);
                 handler.handle(string);
             }
         });

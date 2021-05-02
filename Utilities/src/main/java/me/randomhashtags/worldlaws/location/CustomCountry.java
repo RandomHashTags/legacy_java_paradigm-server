@@ -57,18 +57,20 @@ public final class CustomCountry implements Jsoupable, ServerObject {
     }
     public CustomCountry(JSONObject json) {
         tag = json.getString("tag");
-        shortName = json.getString("shortName");
-        name = json.getString("name");
-        flagURL = json.getString("flagURL");
+        shortName = json.has("shortName") ? json.getString("shortName") : tag;
+        name = json.has("name") ? json.getString("name") : tag;
+        flagURL = json.has("flagURL") && !json.getString("flagURL").equals("null") ? json.getString("flagURL") : null;
         flagEmoji = json.getString("flagEmoji");
         timezones = new HashSet<>();
-        for(Object obj : json.getJSONArray("timezones")) {
-            final JSONObject jsonObject = (JSONObject) obj;
-            final int hour = jsonObject.has("hour") ? jsonObject.getInt("hour") : 0;
-            final int minute = jsonObject.has("minute") ? jsonObject.getInt("minute") : 0;
-            final String regions = jsonObject.getString("regions");
-            final UTCOffset offset = new UTCOffset(hour, minute, regions);
-            timezones.add(offset);
+        if(json.has("timezones")) {
+            for(Object obj : json.getJSONArray("timezones")) {
+                final JSONObject jsonObject = (JSONObject) obj;
+                final int hour = jsonObject.has("hour") ? jsonObject.getInt("hour") : 0;
+                final int minute = jsonObject.has("minute") ? jsonObject.getInt("minute") : 0;
+                final String regions = jsonObject.getString("regions");
+                final UTCOffset offset = new UTCOffset(hour, minute, regions);
+                timezones.add(offset);
+            }
         }
         if(json.has("daylightSavingsTime")) {
             final JSONObject dstJson = json.getJSONObject("daylightSavingsTime");
@@ -254,6 +256,7 @@ public final class CustomCountry implements Jsoupable, ServerObject {
             final String countryIdentifier;
             switch (info) {
                 case SERVICE_CIA_VALUES:
+                case SERVICE_TRAVEL_BRIEFING:
                     countryIdentifier = shortName;
                     break;
                 case SERVICE_WIKIPEDIA:
@@ -306,10 +309,10 @@ public final class CustomCountry implements Jsoupable, ServerObject {
         return "{" +
                 "\"name\":\"" + name + "\"," +
                 (!name.equals(shortName) ? "\"shortName\":\"" + shortName + "\"," : "") +
-                "\"flagURL\":\"" + flagURL + "\"," +
-                "\"flagEmoji\":\"" + flagEmoji + "\"," +
                 (daylightSavingsTime != null ? "\"daylightSavingsTime\":" + daylightSavingsTime.toString() + "," : "") +
-                "\"timezones\":" + timezones.toString() +
+                (!timezones.isEmpty() ? "\"timezones\":" + timezones.toString() + "," : "") +
+                (flagURL != null ? "\"flagURL\":\"" + flagURL + "\"," : "") +
+                "\"flagEmoji\":\"" + flagEmoji + "\"" +
                 "}";
     }
 
@@ -317,12 +320,12 @@ public final class CustomCountry implements Jsoupable, ServerObject {
     public String toServerJSON() {
         return "{" +
                 "\"tag\":\"" + tag + "\"," +
-                "\"name\":\"" + name + "\"," +
-                "\"shortName\":\"" + shortName + "\"," +
-                "\"flagURL\":\"" + flagURL + "\"," +
-                "\"flagEmoji\":\"" + flagEmoji + "\"," +
+                (!name.equals(tag) ? "\"name\":\"" + name + "\"," : "") +
+                (!shortName.equals(tag) ? "\"shortName\":\"" + shortName + "\"," : "") +
                 (daylightSavingsTime != null ? "\"daylightSavingsTime\":" + daylightSavingsTime.toString() + "," : "") +
-                "\"timezones\":" + timezones.toString() +
+                (!timezones.isEmpty() ? "\"timezones\":" + timezones.toString() + "," : "") +
+                (flagURL != null ? "\"flagURL\":\"" + flagURL + "\"," : "") +
+                "\"flagEmoji\":\"" + flagEmoji + "\"" +
                 "}";
     }
 

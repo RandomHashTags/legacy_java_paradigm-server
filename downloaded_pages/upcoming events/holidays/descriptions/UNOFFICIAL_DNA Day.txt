@@ -1,0 +1,476 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>DNA Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"227f2b52-1975-473e-adf0-6289e0782fc8","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"DNA_Day","wgTitle":"DNA Day","wgCurRevisionId":1019722786,"wgRevisionId":1019722786,"wgArticleId":17113082,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Infobox holiday fixed day","All stub articles","April observances","Unofficial observances","International observances","Observances about science","Holiday stubs","Genetics stubs"],"wgPageContentLanguage":"en","wgPageContentModel":
+"wikitext","wgRelevantPageName":"DNA_Day","wgRelevantArticleId":17113082,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q5205752"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":
+"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/08/Dna-split.png"> 
+  <meta property="og:title" content="DNA Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/DNA_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=DNA_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=DNA_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/DNA_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-DNA_Day rootpage-DNA_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">DNA Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Holiday celebrated on April 25
+      </div> 
+      <table class="infobox vevent">
+       <tbody>
+        <tr>
+         <th colspan="2" class="infobox-above hd" style="background-color: transparent">National DNA Day</th>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Observed&nbsp;by</th>
+         <td class="infobox-data">Biologists, science teachers and students, anyone interested in genetics</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Significance</th>
+         <td class="infobox-data summary">The day celebrates the discovery and understanding of DNA and the scientific advances that understanding has made possible.</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Celebrations</th>
+         <td class="infobox-data">Various</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Date</th>
+         <td class="infobox-data"><a href="/wiki/April_25" title="April 25">April 25</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Next&nbsp;time</th>
+         <td class="infobox-data">25 April 2022<span style="display:none">&nbsp;(<span class="dtstart">2022-04</span>)</span></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Frequency</th>
+         <td class="infobox-data">Annual</td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:204px;">
+        <a href="/wiki/File:Dna-split.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/0/08/Dna-split.png" decoding="async" width="202" height="397" class="thumbimage" data-file-width="202" data-file-height="397"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Dna-split.png" class="internal" title="Enlarge"></a>
+         </div><a href="/wiki/DNA_replication" title="DNA replication">DNA replication</a>. The two base-pair complementary chains of the DNA molecule allow for replication of the genetic instructions.
+        </div>
+       </div>
+      </div> 
+      <p><b>National DNA Day</b> is a United States holiday <a href="/wiki/List_of_minor_secular_observances#April" title="List of minor secular observances">celebrated</a> on April 25. It commemorates the day in 1953 when <a href="/wiki/James_D._Watson" class="mw-redirect" title="James D. Watson">James Watson</a>, <a href="/wiki/Francis_Crick" title="Francis Crick">Francis Crick</a>, <a href="/wiki/Maurice_Wilkins" title="Maurice Wilkins">Maurice Wilkins</a>, <a href="/wiki/Rosalind_Franklin" title="Rosalind Franklin">Rosalind Franklin</a> and colleagues published papers in the journal <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i> on the structure of <a href="/wiki/DNA" title="DNA">DNA</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Franklin1953_2-0" class="reference"><a href="#cite_note-Franklin1953-2">[2]</a></sup><sup id="cite_ref-Wilkins1953_3-0" class="reference"><a href="#cite_note-Wilkins1953-3">[3]</a></sup> Furthermore, in early April 2003 it was declared that the <a href="/wiki/Human_Genome_Project" title="Human Genome Project">Human Genome Project</a> was very close to complete, and "the remaining tiny gaps were considered too costly to fill."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p>
+      <p>In the <a href="/wiki/United_States" title="United States">United States</a>, DNA Day was first celebrated on April 25, 2003, by proclamation of both the <a href="/wiki/United_States_Senate" title="United States Senate">Senate</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> and the <a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">House of Representatives</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> However, they only declared a one-time celebration, not an annual holiday. Every year from 2003 onward, annual DNA Day celebrations have been organized by the <a href="/wiki/National_Human_Genome_Research_Institute" title="National Human Genome Research Institute">National Human Genome Research Institute</a> (NHGRI), starting as early as April 23 in 2010, April 15 in 2011<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> and April 20 in 2012.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> April 25 has since been declared "International DNA Day"<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> and "World DNA Day"<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> by several groups. <a href="/wiki/Genealogical_DNA_test" title="Genealogical DNA test">Genealogical DNA testing</a> companies and <a href="/wiki/Genetic_genealogy" title="Genetic genealogy">genetic genealogy</a> publishers run annual sales around DNA Day, seeking interest from the public and promoting their services.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DNA_Day&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFWatsonCrick1953" class="citation journal cs1"><a href="/wiki/James_Watson" title="James Watson">Watson, James Dewey</a>; <a href="/wiki/Francis_Crick" title="Francis Crick">Crick, Francis Harry Compton</a> (1953-04-25). <a rel="nofollow" class="external text" href="http://www.nature.com/nature/dna50/watsoncrick.pdf">"Molecular structure of nucleic acids; a structure for deoxyribose nucleic acid"</a> <span class="cs1-format">(PDF)</span>. <i>Nature</i>. <b>171</b> (4356): 737–738. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1953Natur.171..737W">1953Natur.171..737W</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038%2F171737a0">10.1038/171737a0</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/13054692">13054692</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&nbsp;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:4253007">4253007</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Molecular+structure+of+nucleic+acids%3B+a+structure+for+deoxyribose+nucleic+acid&amp;rft.volume=171&amp;rft.issue=4356&amp;rft.pages=737-738&amp;rft.date=1953-04-25&amp;rft_id=info%3Adoi%2F10.1038%2F171737a0&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A4253007%23id-name%3DS2CID&amp;rft_id=info%3Apmid%2F13054692&amp;rft_id=info%3Abibcode%2F1953Natur.171..737W&amp;rft.aulast=Watson&amp;rft.aufirst=James+Dewey&amp;rft.au=Crick%2C+Francis+Harry+Compton&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnature%2Fdna50%2Fwatsoncrick.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Franklin1953-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Franklin1953_2-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFFranklinGosling1953" class="citation journal cs1"><a href="/wiki/Rosalind_Franklin" title="Rosalind Franklin">Franklin, Rosalind Elsie</a>; <a href="/wiki/Raymond_Gosling" title="Raymond Gosling">Gosling, Raymond</a> (1953-04-25). <a rel="nofollow" class="external text" href="http://www.nature.com/nature/dna50/franklingosling.pdf">"Molecular configuration in sodium thymonucleate"</a> <span class="cs1-format">(PDF)</span>. <i>Nature</i>. <b>171</b> (4356): 740–741. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1953Natur.171..740F">1953Natur.171..740F</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038%2F171740a0">10.1038/171740a0</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/13054694">13054694</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&nbsp;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:4268222">4268222</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Molecular+configuration+in+sodium+thymonucleate&amp;rft.volume=171&amp;rft.issue=4356&amp;rft.pages=740-741&amp;rft.date=1953-04-25&amp;rft_id=info%3Adoi%2F10.1038%2F171740a0&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A4268222%23id-name%3DS2CID&amp;rft_id=info%3Apmid%2F13054694&amp;rft_id=info%3Abibcode%2F1953Natur.171..740F&amp;rft.aulast=Franklin&amp;rft.aufirst=Rosalind+Elsie&amp;rft.au=Gosling%2C+Raymond&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnature%2Fdna50%2Ffranklingosling.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-Wilkins1953-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wilkins1953_3-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFWilkinsStokesWilson1953" class="citation journal cs1"><a href="/wiki/Maurice_Wilkins" title="Maurice Wilkins">Wilkins, Maurice Hugh Frederick</a>; <a href="/wiki/Alex_Stokes" class="mw-redirect" title="Alex Stokes">Stokes, Alexander Rawson</a>; <a href="/wiki/Herbert_Wilson" title="Herbert Wilson">Wilson, Herbert R.</a> (1953-04-25). <a rel="nofollow" class="external text" href="http://www.nature.com/nature/dna50/wilkins.pdf">"Molecular structure of deoxypentose nucleic acids"</a> <span class="cs1-format">(PDF)</span>. <i>Nature</i>. <b>171</b> (4356): 738–740. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1953Natur.171..738W">1953Natur.171..738W</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038%2F171738a0">10.1038/171738a0</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/13054693">13054693</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&nbsp;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:4280080">4280080</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Molecular+structure+of+deoxypentose+nucleic+acids&amp;rft.volume=171&amp;rft.issue=4356&amp;rft.pages=738-740&amp;rft.date=1953-04-25&amp;rft_id=info%3Adoi%2F10.1038%2F171738a0&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A4280080%23id-name%3DS2CID&amp;rft_id=info%3Apmid%2F13054693&amp;rft_id=info%3Abibcode%2F1953Natur.171..738W&amp;rft.aulast=Wilkins&amp;rft.aufirst=Maurice+Hugh+Frederick&amp;rft.au=Stokes%2C+Alexander+Rawson&amp;rft.au=Wilson%2C+Herbert+R.&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnature%2Fdna50%2Fwilkins.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFNoble2003" class="citation news cs1">Noble, Ivan (2003-04-14). <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/sci/tech/2940601.stm">"Human genome finally complete"</a>. <i>BBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-07-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Human+genome+finally+complete&amp;rft.date=2003-04-14&amp;rft.aulast=Noble&amp;rft.aufirst=Ivan&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fsci%2Ftech%2F2940601.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFInternational_Human_Genome_Sequencing_Consortium2004" class="citation journal cs1">International Human Genome Sequencing Consortium (2004-10-21). <a rel="nofollow" class="external text" href="https://doi.org/10.1038%2Fnature03001">"Finishing the euchromatic sequence of the human genome"</a>. <i>Nature</i>. <b>431</b> (7011): 931–945. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2004Natur.431..931H">2004Natur.431..931H</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1038%2Fnature03001">10.1038/nature03001</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&nbsp;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/15496913">15496913</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Finishing+the+euchromatic+sequence+of+the+human+genome&amp;rft.volume=431&amp;rft.issue=7011&amp;rft.pages=931-945&amp;rft.date=2004-10-21&amp;rft_id=info%3Apmid%2F15496913&amp;rft_id=info%3Adoi%2F10.1038%2Fnature03001&amp;rft_id=info%3Abibcode%2F2004Natur.431..931H&amp;rft.au=International+Human+Genome+Sequencing+Consortium&amp;rft_id=%2F%2Fdoi.org%2F10.1038%252Fnature03001&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gpo.gov/fdsys/pkg/BILLS-108sconres10ats/pdf/BILLS-108sconres10ats.pdf">"A concurrent resolution designating April 2003 as "Human Genome Month" and April 25 as "DNA Day<span class="cs1-kern-right">"</span>"</a> <span class="cs1-format">(PDF)</span>. <a href="/wiki/United_States_Government_Printing_Office" class="mw-redirect" title="United States Government Printing Office">United States Government Printing Office</a>. 2003-02-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+concurrent+resolution+designating+April+2003+as+%22Human+Genome+Month%22+and+April+25+as+%22DNA+Day%22.&amp;rft.pub=United+States+Government+Printing+Office&amp;rft.date=2003-02-27&amp;rft_id=http%3A%2F%2Fwww.gpo.gov%2Ffdsys%2Fpkg%2FBILLS-108sconres10ats%2Fpdf%2FBILLS-108sconres10ats.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://thomas.loc.gov/cgi-bin/bdquery/z?d108:H.CON.RES.110:">"Recognizing the sequencing of the human genome as one of the most significant scientific accomplishments of the past one hundred years and expressing support for the goals and ideals of Human Genome Month and DNA Day"</a>. <a href="/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Recognizing+the+sequencing+of+the+human+genome+as+one+of+the+most+significant+scientific+accomplishments+of+the+past+one+hundred+years+and+expressing+support+for+the+goals+and+ideals+of+Human+Genome+Month+and+DNA+Day.&amp;rft.pub=Library+of+Congress&amp;rft_id=http%3A%2F%2Fthomas.loc.gov%2Fcgi-bin%2Fbdquery%2Fz%3Fd108%3AH.CON.RES.110%3A&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.genome.gov/27544071">"Join us April 15 for National DNA Day!"</a>. <a href="/wiki/National_Human_Genome_Research_Institute" title="National Human Genome Research Institute">National Human Genome Research Institute</a>. 2011-04-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Join+us+April+15+for+National+DNA+Day%21&amp;rft.pub=National+Human+Genome+Research+Institute&amp;rft.date=2011-04-11&amp;rft_id=http%3A%2F%2Fwww.genome.gov%2F27544071&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120127102948/http://www.genome.gov/10506367">"DNA Day 12"</a>. National Human Genome Research Institute. 2011-11-28. Archived from <a rel="nofollow" class="external text" href="http://www.genome.gov/10506367">the original</a> on 2012-01-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DNA+Day+12&amp;rft.pub=National+Human+Genome+Research+Institute&amp;rft.date=2011-11-28&amp;rft_id=http%3A%2F%2Fwww.genome.gov%2F10506367&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090615101014/http://www.bsn.org.np/index.php?pages=news&amp;&amp;id=22">"International DNA day to be celebrated"</a>. Biotechnology Society of Nepal. 2009-06-15. Archived from <a rel="nofollow" class="external text" href="http://www.bsn.org.np/index.php?pages=news&amp;&amp;id=22">the original</a> on 2009-06-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=International+DNA+day+to+be+celebrated&amp;rft.pub=Biotechnology+Society+of+Nepal&amp;rft.date=2009-06-15&amp;rft_id=http%3A%2F%2Fwww.bsn.org.np%2Findex.php%3Fpages%3Dnews%26%26id%3D22&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFFinley2011" class="citation web cs1">Finley, Erica (2011-04-21). <a rel="nofollow" class="external text" href="http://www.dalecarnegiewayala.com/2011/04/21/celebrate-international-dna-day-in-huntsville">"Celebrate International DNA Day in Huntsville"</a>. <a href="/wiki/Huntsville,_Alabama" title="Huntsville, Alabama">Huntsville, Alabama</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Celebrate+International+DNA+Day+in+Huntsville&amp;rft.place=Huntsville%2C+Alabama&amp;rft.date=2011-04-21&amp;rft.aulast=Finley&amp;rft.aufirst=Erica&amp;rft_id=http%3A%2F%2Fwww.dalecarnegiewayala.com%2F2011%2F04%2F21%2Fcelebrate-international-dna-day-in-huntsville&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.vu.lt/en/news/1559-annual-international-dna-day-at-the-university">"Annual International DNA Day at the University"</a>. <a href="/wiki/Vilnius_University" title="Vilnius University">Vilnius University</a>. 2009-04-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Annual+International+DNA+Day+at+the+University&amp;rft.pub=Vilnius+University&amp;rft.date=2009-04-06&amp;rft_id=http%3A%2F%2Fwww.vu.lt%2Fen%2Fnews%2F1559-annual-international-dna-day-at-the-university&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://archive.is/20120721175645/http://www.bitlifesciences.com/dnaday/en/DNA%20Resource/gov4.htm">"International Consortium Publishes Sequence, Analysis Of The Human Genome"</a>. World High Technology Society. Archived from <a rel="nofollow" class="external text" href="http://www.bitlifesciences.com/dnaday/en/DNA%20Resource/gov4.htm">the original</a> on 2012-07-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=International+Consortium+Publishes+Sequence%2C+Analysis+Of+The+Human+Genome&amp;rft.pub=World+High+Technology+Society&amp;rft_id=http%3A%2F%2Fwww.bitlifesciences.com%2Fdnaday%2Fen%2FDNA%2520Resource%2Fgov4.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.getconference.org">"Genomes, Environments and Traits Conference"</a>. GET Conference<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Genomes%2C+Environments+and+Traits+Conference&amp;rft.pub=GET+Conference&amp;rft_id=http%3A%2F%2Fwww.getconference.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFMacEntee2019" class="citation web cs1">MacEntee, Thomas (2019-04-23). <a rel="nofollow" class="external text" href="https://nationaldnaday.com/best-promo-codes-coupons-and-savings-on-dna-during-national-dna-day-sale/">"Best Promo Codes, Coupons and Savings on DNA during National DNA Day Sale"</a>. <i>National DNA Day</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-02-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+DNA+Day&amp;rft.atitle=Best+Promo+Codes%2C+Coupons+and+Savings+on+DNA+during+National+DNA+Day+Sale&amp;rft.date=2019-04-23&amp;rft.aulast=MacEntee&amp;rft.aufirst=Thomas&amp;rft_id=https%3A%2F%2Fnationaldnaday.com%2Fbest-promo-codes-coupons-and-savings-on-dna-during-national-dna-day-sale%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+Day" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DNA_Day&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://www.genome.gov/dna-day">National DNA Day</a> (official website)</li> 
+       <li><a rel="nofollow" class="external text" href="https://www.facebook.com/DNAday">National DNA Day</a> on <a href="/wiki/Facebook" title="Facebook">Facebook</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://twitter.com/DNAday">National DNA Day</a> on <a href="/wiki/Twitter" title="Twitter">Twitter</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Events_commemorating_achievements_in_the_sciences" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Science_commemorative_events" title="Template:Science commemorative events"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Science_commemorative_events" title="Template talk:Science commemorative events"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Science_commemorative_events&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Events_commemorating_achievements_in_the_sciences" style="font-size:114%;margin:0 4em">
+            Events commemorating achievements in the sciences
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Anniversary celebrations</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Alfred_Russel_Wallace_centenary" title="Alfred Russel Wallace centenary">Alfred Russel Wallace centenary</a></li> 
+             <li><a href="/wiki/Darwin_Centennial_Celebration_(1959)" title="Darwin Centennial Celebration (1959)">Darwin Centennial Celebration (1959)</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Regular holidays</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Ada_Lovelace_Day" class="mw-redirect" title="Ada Lovelace Day">Ada Lovelace Day</a></li> 
+             <li><a href="/wiki/Darwin_Day" title="Darwin Day">Darwin Day</a></li> 
+             <li><a class="mw-selflink selflink">DNA Day</a></li> 
+             <li><a href="/wiki/Evolution_Day" title="Evolution Day">Evolution Day</a></li> 
+             <li><a href="/wiki/Mole_Day" title="Mole Day">Mole Day</a></li> 
+             <li><a href="/wiki/Pi_Day" title="Pi Day">Pi Day</a></li> 
+             <li><a href="/wiki/Yuri%27s_Night" title="Yuri's Night">Yuri's Night</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Year long events</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/International_Polar_Year#The_First_International_Polar_Year_.281882-1883.29" title="International Polar Year">First International Polar Year (1882–1883)</a></li> 
+             <li><a href="/wiki/International_Polar_Year#The_Second_International_Polar_Year_.281932-1933.29" title="International Polar Year">Second International Polar Year (1932–1933)</a></li> 
+             <li><a href="/wiki/International_Polar_Year#The_Fourth_International_Polar_Year_.282007-2008.29" title="International Polar Year">International Polar Year (2007–2008)</a></li> 
+             <li><a href="/wiki/International_Geophysical_Year" title="International Geophysical Year">International Geophysical Year</a></li> 
+             <li><a href="/wiki/International_Year_of_Planet_Earth" title="International Year of Planet Earth">International Year of Planet Earth</a></li> 
+             <li><a href="/wiki/International_Year_of_Astronomy" title="International Year of Astronomy">International Year of Astronomy</a></li> 
+             <li><a href="/wiki/International_Year_of_Chemistry" title="International Year of Chemistry">International Year of Chemistry</a></li> 
+             <li><a href="/wiki/International_Year_of_Crystallography" title="International Year of Crystallography">International Year of Crystallography</a></li> 
+             <li><a href="/wiki/International_Year_of_Light" title="International Year of Light">International Year of Light</a></li> 
+             <li><a href="/wiki/International_Space_Year" title="International Space Year">International Space Year</a></li> 
+             <li><a href="/wiki/World_Year_of_Physics_2005" title="World Year of Physics 2005">World Year of Physics 2005</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <style data-mw-deduplicate="TemplateStyles:r1012311289">.mw-parser-output .asbox{position:relative;overflow:hidden}.mw-parser-output .asbox table{background:transparent}.mw-parser-output .asbox p{margin:0}.mw-parser-output .asbox p+p{margin-top:0.25em}.mw-parser-output .asbox-body{font-style:italic}.mw-parser-output .asbox-note{font-size:smaller}.mw-parser-output .asbox .navbar{position:absolute;top:-0.75em;right:1em;display:none}</style>
+      <div role="note" class="metadata plainlinks asbox stub">
+       <table role="presentation">
+        <tbody>
+         <tr class="noresize">
+          <td><a href="/wiki/File:Calendar_icon.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/23px-Calendar_icon.svg.png" decoding="async" width="23" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/35px-Calendar_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/47px-Calendar_icon.svg.png 2x" data-file-width="720" data-file-height="920"></a></td>
+          <td><p class="asbox-body">This <a href="/wiki/Holiday" title="Holiday">holiday</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=DNA_Day&amp;action=edit">expanding it</a>.</p></td>
+         </tr>
+        </tbody>
+       </table>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+       <div class="navbar plainlinks hlist navbar-mini">
+        <ul>
+         <li class="nv-view"><a href="/wiki/Template:Holiday-stub" title="Template:Holiday-stub"><abbr title="View this template">v</abbr></a></li>
+         <li class="nv-talk"><a href="/wiki/Template_talk:Holiday-stub" title="Template talk:Holiday-stub"><abbr title="Discuss this template">t</abbr></a></li>
+         <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Holiday-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+        </ul>
+       </div>
+      </div> 
+      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1012311289">
+      <div role="note" class="metadata plainlinks asbox stub">
+       <table role="presentation">
+        <tbody>
+         <tr class="noresize">
+          <td><a href="/wiki/File:Plain_DNA_icon.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Plain_DNA_icon.svg/30px-Plain_DNA_icon.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Plain_DNA_icon.svg/45px-Plain_DNA_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Plain_DNA_icon.svg/60px-Plain_DNA_icon.svg.png 2x" data-file-width="64" data-file-height="64"></a></td>
+          <td><p class="asbox-body">This <a href="/wiki/Genetics" title="Genetics">genetics</a> article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=DNA_Day&amp;action=edit">expanding it</a>.</p></td>
+         </tr>
+        </tbody>
+       </table>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+       <div class="navbar plainlinks hlist navbar-mini">
+        <ul>
+         <li class="nv-view"><a href="/wiki/Template:Genetics-stub" title="Template:Genetics-stub"><abbr title="View this template">v</abbr></a></li>
+         <li class="nv-talk"><a href="/wiki/Template_talk:Genetics-stub" title="Template talk:Genetics-stub"><abbr title="Discuss this template">t</abbr></a></li>
+         <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Genetics-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+        </ul>
+       </div>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1374
+Cached time: 20210425013710
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.469 seconds
+Real time usage: 0.632 seconds
+Preprocessor visited node count: 2269/1000000
+Post‐expand include size: 47848/2097152 bytes
+Template argument size: 1227/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 54358/5000000 bytes
+Lua time usage: 0.227/10.000 seconds
+Lua memory usage: 5136761/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  589.340      1 -total
+ 40.31%  237.550      1 Template:Reflist
+ 23.21%  136.773      1 Template:Short_description
+ 22.78%  134.280      4 Template:Cite_journal
+ 19.42%  114.447      1 Template:Infobox_holiday
+ 13.97%   82.322      1 Template:Infobox
+ 10.59%   62.392      1 Template:Pagetype
+  8.93%   52.606     10 Template:Cite_web
+  7.83%   46.161      5 Template:Main_other
+  7.76%   45.742      1 Template:Science_commemorative_events
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:17113082-0!canonical and timestamp 20210425013815 and revision id 1019722786. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=DNA_Day&amp;oldid=1019722786">https://en.wikipedia.org/w/index.php?title=DNA_Day&amp;oldid=1019722786</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:April_observances" title="Category:April observances">April observances</a></li>
+       <li><a href="/wiki/Category:Unofficial_observances" title="Category:Unofficial observances">Unofficial observances</a></li>
+       <li><a href="/wiki/Category:International_observances" title="Category:International observances">International observances</a></li>
+       <li><a href="/wiki/Category:Observances_about_science" title="Category:Observances about science">Observances about science</a></li>
+       <li><a href="/wiki/Category:Holiday_stubs" title="Category:Holiday stubs">Holiday stubs</a></li>
+       <li><a href="/wiki/Category:Genetics_stubs" title="Category:Genetics stubs">Genetics stubs</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_fixed_day" title="Category:Infobox holiday fixed day">Infobox holiday fixed day</a></li>
+       <li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=DNA+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=DNA+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/DNA_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:DNA_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/DNA_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=DNA_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=DNA_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/DNA_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/DNA_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=DNA_Day&amp;oldid=1019722786" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=DNA_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=DNA_Day&amp;id=1019722786&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5205752" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=DNA_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=DNA_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%94%D0%B7%D0%B5%D0%BD%D1%8C_%D0%94%D0%9D%D0%9A" title="Дзень ДНК – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Den_DNA" title="Den DNA – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D8%AF%DB%8C%E2%80%8C%D8%A7%D9%86%E2%80%8C%D8%A7%DB%8C" title="روز دی‌ان‌ای – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B4%D5%86%D4%B9-%D5%AB_%D6%85%D6%80" title="ԴՆԹ-ի օր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hari_DNA_Nasional" title="Hari DNA Nasional – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Siku_ya_DNA" title="Siku ya DNA – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/DNA%E3%81%AE%E6%97%A5" title="DNAの日 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Mi%C4%99dzynarodowy_Dzie%C5%84_DNA" title="Międzynarodowy Dzień DNA – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%94%D0%9D%D0%9A" title="День ДНК – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/DNA-p%C3%A4iv%C3%A4" title="DNA-päivä – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/DNA-dagen" title="DNA-dagen – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%94%D0%9D%D0%9A" title="День ДНК – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5205752#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 25 April 2021, at 01:37<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=DNA_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.469","walltime":"0.632","ppvisitednodes":{"value":2269,"limit":1000000},"postexpandincludesize":{"value":47848,"limit":2097152},"templateargumentsize":{"value":1227,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":54358,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  589.340      1 -total"," 40.31%  237.550      1 Template:Reflist"," 23.21%  136.773      1 Template:Short_description"," 22.78%  134.280      4 Template:Cite_journal"," 19.42%  114.447      1 Template:Infobox_holiday"," 13.97%   82.322      1 Template:Infobox"," 10.59%   62.392      1 Template:Pagetype","  8.93%   52.606     10 Template:Cite_web","  7.83%   46.161      5 Template:Main_other","  7.76%   45.742      1 Template:Science_commemorative_events"]},"scribunto":{"limitreport-timeusage":{"value":"0.227","limit":"10.000"},"limitreport-memusage":{"value":5136761,"limit":52428800}},"cachereport":{"origin":"mw1374","timestamp":"20210425013710","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"DNA Day","url":"https:\/\/en.wikipedia.org\/wiki\/DNA_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5205752","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5205752","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-04-25T14:14:30Z","dateModified":"2021-04-25T01:37:09Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/08\/Dna-split.png","headline":"holiday celebrated on April 25"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":159,"wgHostname":"mw1267"});});</script> 
+ </body>
+</html>

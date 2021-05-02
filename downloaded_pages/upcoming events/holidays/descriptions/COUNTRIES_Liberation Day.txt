@@ -1,0 +1,682 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Liberation Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b954d1f7-1ae0-4b4f-afd4-ee3e327250e8","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Liberation_Day","wgTitle":"Liberation Day","wgCurRevisionId":1017772128,"wgRevisionId":1017772128,"wgArticleId":1106409,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","Articles with short description","Short description matches Wikidata","Articles needing additional references from January 2017","All articles needing additional references","Types of national holidays","Victory days","January observances",
+"February observances","March observances","April observances","May observances","June observances","July observances","August observances","October observances","November observances","December observances"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Liberation_Day","wgRelevantArticleId":1106409,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage",
+"wgWikibaseItemId":"Q964507"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.tablesorter","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:title" content="Liberation Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Liberation_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Liberation_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Liberation_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Liberation_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Liberation_Day rootpage-Liberation_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">Liberation Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div role="note" class="hatnote navigation-not-searchable">
+       For the novel, see <a href="/wiki/Liberation_Day_(novel)" class="mw-redirect" title="Liberation Day (novel)">Liberation Day (novel)</a>. For the video game, see <a href="/wiki/Liberation_Day_(video_game)" title="Liberation Day (video game)">Liberation Day (video game)</a>.
+      </div> 
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Public holiday of various countries to commemorate liberation from another country
+      </div> 
+      <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Liberation_Day&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Liberation+Day%22">"Liberation Day"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Liberation+Day%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Liberation+Day%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Liberation+Day%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Liberation+Day%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Liberation+Day%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> <small class="date-container"><i>(<span class="date">January 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Liberation Day</b> is a day, often a <a href="/wiki/Public_holiday" title="Public holiday">public holiday</a>, that marks the liberation of a place, similar to an <a href="/wiki/Independence_day" class="mw-redirect" title="Independence day">independence day</a>. Liberation marks the date of either a <a href="/wiki/Revolution" title="Revolution">revolution</a>, as in <a href="/wiki/Cuba" title="Cuba">Cuba</a>, the fall of an oppressive regime, as in <a href="/wiki/Portugal" title="Portugal">Portugal</a>, or the end of an <a href="/wiki/Military_occupation" title="Military occupation">occupation</a> by another state, as in the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>, thereby differing from independence in the meaning of <a href="/wiki/Secession" title="Secession">secession</a> from another country. </p> 
+      <h2><span class="mw-headline" id="List">List</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liberation_Day&amp;action=edit&amp;section=1" title="Edit section: List">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable sortable" style="width:100%;"> 
+       <tbody>
+        <tr> 
+         <th width="17%">Country</th> 
+         <th width="9%">Date</th> 
+         <th width="4%">Year</th> 
+         <th width="40%">Event</th> 
+         <th width="15%">Name of holiday </th>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/23px-Flag_of_Afghanistan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/35px-Flag_of_Afghanistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/45px-Flag_of_Afghanistan.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a> </td> 
+         <td><span data-sort-value="02-15&nbsp;!">February&nbsp;15</span> </td> 
+         <td>1989 </td> 
+         <td><a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a> withdrawal from <a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/21px-Flag_of_Albania.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/32px-Flag_of_Albania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/42px-Flag_of_Albania.svg.png 2x" data-file-width="980" data-file-height="700">&nbsp;</span><a href="/wiki/Albania" title="Albania">Albania</a> </td> 
+         <td><span data-sort-value="11-29&nbsp;!">November&nbsp;29</span> </td> 
+         <td>1944 </td> 
+         <td><a href="/wiki/Albanian_resistance_during_World_War_II#German_occupation" class="mw-redirect" title="Albanian resistance during World War II">Liberation from Nazi Germany</a> </td> 
+         <td><a href="/wiki/Liberation_Day_(Albania)" title="Liberation Day (Albania)"><i>Dita e Çlirimit</i></a> or Liberation Day </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/35px-Flag_of_Bangladesh.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/46px-Flag_of_Bangladesh.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a> </td> 
+         <td><span data-sort-value="12-16&nbsp;!">December&nbsp;16</span> </td> 
+         <td>1971 </td> 
+         <td><a href="/wiki/Pakistani_Instrument_of_Surrender" title="Pakistani Instrument of Surrender">Liberation from Pakistan</a> </td> 
+         <td><a href="/wiki/Victory_day_of_Bangladesh" title="Victory day of Bangladesh"><i>Bijoy Dibosh</i></a> in <a href="/wiki/Bangladesh" title="Bangladesh">Bangladesh</a> and <a href="/wiki/Vijay_Diwas_(India)" class="mw-redirect" title="Vijay Diwas (India)"><i>Vijay Diwas</i></a> in <a href="/wiki/India" title="India">India</a>'s <a href="/wiki/West_Bengal" title="West Bengal">West Bengal</a>, or Victory Day </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/35px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/46px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450">&nbsp;</span><a href="/wiki/Belarus" title="Belarus">Belarus</a> </td> 
+         <td><span data-sort-value="07-03&nbsp;!">July&nbsp;3</span> </td> 
+         <td>1944 </td> 
+         <td><a href="/wiki/Operation_Bagration" title="Operation Bagration">Liberation from Nazi Germany</a> </td> 
+         <td><a href="/wiki/Independence_Day_(Belarus)" title="Independence Day (Belarus)">Republic Day</a> or Independence Day </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a> </td> 
+         <td><span data-sort-value="03-03&nbsp;!">March&nbsp;3</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </td> 
+         <td>1878 </td> 
+         <td><a href="/wiki/Treaty_of_San_Stefano" title="Treaty of San Stefano">Creation</a> of the <a href="/wiki/Principality_of_Bulgaria" title="Principality of Bulgaria">Principality of Bulgaria</a> </td> 
+         <td><a href="/wiki/Liberation_Day_(Bulgaria)" title="Liberation Day (Bulgaria)">Liberation Day</a> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/23px-Flag_of_Cambodia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/35px-Flag_of_Cambodia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/46px-Flag_of_Cambodia.svg.png 2x" data-file-width="1000" data-file-height="640">&nbsp;</span><a href="/wiki/Cambodia" title="Cambodia">Cambodia</a> </td> 
+         <td><span data-sort-value="01-07&nbsp;!">January&nbsp;7</span> </td> 
+         <td>1979 </td> 
+         <td><a href="/wiki/Cambodian%E2%80%93Vietnamese_War" title="Cambodian–Vietnamese War">Liberation from the Khmer Rouge</a> </td> 
+         <td><a href="/wiki/Victory_Day" title="Victory Day">Victory Day</a> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/31px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/40px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 2x" data-file-width="800" data-file-height="600">&nbsp;</span><a href="/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Congo, Democratic Republic of the</a> </td> 
+         <td><span data-sort-value="05-17&nbsp;!">May&nbsp;17</span> </td> 
+         <td>1997 </td> 
+         <td>Coup led by <a href="/wiki/Laurent-D%C3%A9sir%C3%A9_Kabila" title="Laurent-Désiré Kabila">Laurent-Désiré Kabila</a> following the <a href="/wiki/First_Congo_War" title="First Congo War">First Congo War</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </td> 
+         <td>Liberation Day </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/23px-Flag_of_Cuba.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/35px-Flag_of_Cuba.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/46px-Flag_of_Cuba.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Cuba" title="Cuba">Cuba</a> </td> 
+         <td><span data-sort-value="01-01&nbsp;!">January&nbsp;1</span> </td> 
+         <td>1959 </td> 
+         <td><a href="/wiki/Cuban_Revolution" title="Cuban Revolution">Cuban Revolution</a> under the leadership of <a href="/wiki/Fidel_Castro" title="Fidel Castro">Fidel Castro</a> </td> 
+         <td><a href="/wiki/Triumph_of_the_Revolution" title="Triumph of the Revolution"><i>Triunfo de la Revolución</i></a> or Triumph of the Revolution </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a> </td> 
+         <td><span data-sort-value="05-08&nbsp;!">May&nbsp;8</span> </td> 
+         <td>1945 </td> 
+         <td><a href="/wiki/German_occupation_of_Czechoslovakia" title="German occupation of Czechoslovakia">Liberation from Nazi Germany</a> </td> 
+         <td><a href="/wiki/Victory_in_Europe_Day" title="Victory in Europe Day"><i>Den vítězství</i></a> (Victory Day), originally (until 2004) <i>Den osvobození</i> (Liberation Day) </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x" data-file-width="512" data-file-height="387">&nbsp;</span><a href="/wiki/Denmark" title="Denmark">Denmark</a> </td> 
+         <td><span data-sort-value="05-05&nbsp;!">May&nbsp;5</span> </td> 
+         <td>1945 </td> 
+         <td><a href="/wiki/German_occupation_of_Denmark" class="mw-redirect" title="German occupation of Denmark">Liberation from Nazi Germany</a> </td> 
+         <td><i>Danmarks befrielse</i> or Liberation Day <span class="nowrap">(no public holiday)</span> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/23px-Flag_of_Ethiopia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/35px-Flag_of_Ethiopia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/46px-Flag_of_Ethiopia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a> </td> 
+         <td><span data-sort-value="05-05&nbsp;!">May&nbsp;5</span> </td> 
+         <td>1941 </td> 
+         <td><a href="/wiki/East_African_Campaign_(World_War_II)#Ethiopian_offensive" class="mw-redirect" title="East African Campaign (World War II)">Liberation from Italy</a> </td> 
+         <td><i>Arbegnoch Qen</i> or Patriots' Day </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><i><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/23px-Flag_of_the_Falkland_Islands.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/35px-Flag_of_the_Falkland_Islands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/46px-Flag_of_the_Falkland_Islands.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Falkland_Islands" title="Falkland Islands">Falkland Islands</a></i> </td> 
+         <td><span data-sort-value="06-14&nbsp;!">June&nbsp;14</span> </td> 
+         <td>1982 </td> 
+         <td><a href="/wiki/Falklands_War" title="Falklands War">Liberation from Argentina</a> </td> 
+         <td><a href="/wiki/Liberation_Day_(Falkland_Islands)" title="Liberation Day (Falkland Islands)">Liberation Day</a> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><i><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/23px-Flag_of_Guam.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/35px-Flag_of_Guam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/46px-Flag_of_Guam.svg.png 2x" data-file-width="820" data-file-height="440">&nbsp;</span><a href="/wiki/Guam" title="Guam">Guam</a></i> </td> 
+         <td><span data-sort-value="07-21&nbsp;!">July&nbsp;21</span> </td> 
+         <td>1944 </td> 
+         <td><a href="/wiki/Battle_of_Guam_(1944)" title="Battle of Guam (1944)">Liberation from Japan</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </td> 
+         <td><a href="/wiki/Liberation_Day_(Guam)" title="Liberation Day (Guam)">Liberation Day</a> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><i><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/23px-Flag_of_Guernsey.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/35px-Flag_of_Guernsey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/45px-Flag_of_Guernsey.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Guernsey" title="Guernsey">Guernsey</a></i> (Channel Islands) </td> 
+         <td><span data-sort-value="05-09&nbsp;!">May&nbsp;9</span> </td> 
+         <td>1945 </td> 
+         <td><a href="/wiki/German_occupation_of_the_Channel_Islands" title="German occupation of the Channel Islands">Liberation from Nazi Germany</a><sup id="cite_ref-ChannelIslands-2_6-0" class="reference"><a href="#cite_note-ChannelIslands-2-6">[6]</a></sup> </td> 
+         <td><a href="/wiki/Liberation_Day_(Channel_Islands)" title="Liberation Day (Channel Islands)">Liberation Day</a> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><i><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Hungary" title="Hungary">Hungary</a></i> </td> 
+         <td><span data-sort-value="04-04&nbsp;!">April 4</span> </td> 
+         <td>1945 </td> 
+         <td><a href="/wiki/Siege_of_Budapest" title="Siege of Budapest">Siege of Budapest</a>, celebrated between 1950 and 1989 (no longer a general holiday as of 1990) </td> 
+         <td><a href="/wiki/Liberation_Day_(Hungary)" title="Liberation Day (Hungary)">Liberation Day</a> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><i><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Hong_Kong_%281959%E2%80%931997%29.svg/23px-Flag_of_Hong_Kong_%281959%E2%80%931997%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Hong_Kong_%281959%E2%80%931997%29.svg/35px-Flag_of_Hong_Kong_%281959%E2%80%931997%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Hong_Kong_%281959%E2%80%931997%29.svg/46px-Flag_of_Hong_Kong_%281959%E2%80%931997%29.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a></i> </td> 
+         <td><span data-sort-value="08-32&nbsp;!">Last Monday in August</span> </td> 
+         <td>1945 </td> 
+         <td><a href="/wiki/Victory_over_Japan_Day" title="Victory over Japan Day">Liberation from Japan</a>, celebrated between 1945 and 1996 (no longer a general holiday as of 1997) </td> 
+         <td><a href="/wiki/Liberation_Day_(Hong_Kong)" title="Liberation Day (Hong Kong)">Liberation Day (V-J Day 30 August)</a> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900">&nbsp;</span><a href="/wiki/India" title="India">India</a> </td> 
+         <td><span data-sort-value="12-19&nbsp;!">December&nbsp;19</span> (<a href="/wiki/Goa" title="Goa">Goa</a> only) </td> 
+         <td>1961 </td> 
+         <td><a href="/wiki/Operation_Vijay_(1961)" class="mw-redirect" title="Operation Vijay (1961)">Liberation of Goa from Portugal</a> </td> 
+         <td><a href="/wiki/Goa_Liberation_Day" title="Goa Liberation Day">Goa Liberation Day</a> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/41px-Flag_of_Israel.svg.png 2x" data-file-width="1100" data-file-height="800">&nbsp;</span><a href="/wiki/Israel" title="Israel">Israel</a> </td> 
+         <td>28 Iyar (2019 date: 2 June) </td> 
+         <td>1967 </td> 
+         <td><a href="/wiki/Reunification_of_Jerusalem" title="Reunification of Jerusalem">Reuinfication of Jerusalem</a> in the <a href="/wiki/Six-Day_War" title="Six-Day War">Six-Day War</a> </td> 
+         <td><a href="/wiki/Jerusalem_Day" title="Jerusalem Day"><i>Yom Yerushalayim</i></a> (Jerusalem Day) </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;</span><a href="/wiki/Italy" title="Italy">Italy</a> </td> 
+         <td><span data-sort-value="04-25&nbsp;!">April&nbsp;25</span> </td> 
+         <td>1945 </td> 
+         <td>General insurrection in Northern Italy by the <a href="/wiki/Italian_Resistance_Movement" class="mw-redirect" title="Italian Resistance Movement">Italian Resistance Movement</a>, end of <a href="/wiki/Benito_Mussolini" title="Benito Mussolini">Benito Mussolini</a>'s regime and <a href="/wiki/Nazi" class="mw-redirect" title="Nazi">Nazi</a> occupation (known locally as <i><a href="/wiki/Liberation_Day_(Italy)" title="Liberation Day (Italy)">Liberazione</a></i>) </td> 
+         <td><i><a href="/wiki/Liberation_Day_(Italy)" title="Liberation Day (Italy)">Liberazione</a></i> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><i><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/23px-Flag_of_Jersey.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/35px-Flag_of_Jersey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/46px-Flag_of_Jersey.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Jersey" title="Jersey">Jersey</a></i> (Channel Islands) </td> 
+         <td><span data-sort-value="05-09&nbsp;!">May&nbsp;9</span> </td> 
+         <td>1945 </td> 
+         <td><a href="/wiki/German_occupation_of_the_Channel_Islands" title="German occupation of the Channel Islands">Liberation from Nazi Germany</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </td> 
+         <td><a href="/wiki/Liberation_Day_(Channel_Islands)" title="Liberation Day (Channel Islands)">Liberation Day</a> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/35px-Flag_of_North_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/46px-Flag_of_North_Korea.svg.png 2x" data-file-width="1600" data-file-height="800">&nbsp;</span><a href="/wiki/North_Korea" title="North Korea">Korea, North</a> / <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/45px-Flag_of_South_Korea.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/South_Korea" title="South Korea">Korea, South</a> </td> 
+         <td><span data-sort-value="08-15&nbsp;!">August&nbsp;15</span> </td> 
+         <td>1945 </td> 
+         <td><a href="/wiki/Surrender_of_Japan" title="Surrender of Japan">Liberation from Japan</a> </td> 
+         <td><a href="/wiki/Gwangbokjeol" class="mw-redirect" title="Gwangbokjeol">Gwangbokjeol</a> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/23px-Flag_of_Kuwait.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/35px-Flag_of_Kuwait.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/46px-Flag_of_Kuwait.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/Kuwait" title="Kuwait">Kuwait</a> </td> 
+         <td><span data-sort-value="02-26&nbsp;!">February&nbsp;26</span> </td> 
+         <td>1991 </td> 
+         <td><a href="/wiki/Liberation_of_Kuwait_campaign" title="Liberation of Kuwait campaign">Liberation from Iraq</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </td> 
+         <td> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/23px-Flag_of_Lebanon.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/35px-Flag_of_Lebanon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/45px-Flag_of_Lebanon.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Lebanon" title="Lebanon">Lebanon</a> </td> 
+         <td><span data-sort-value="05-25&nbsp;!">May&nbsp;25</span> </td> 
+         <td>2000 </td> 
+         <td><a href="/wiki/South_Lebanon_conflict_(1985%E2%80%932000)" title="South Lebanon conflict (1985–2000)">Withdrawal of the Israeli Forces from Lebanon</a> </td> 
+         <td><a href="/wiki/Liberation_Day_(Lebanon)" title="Liberation Day (Lebanon)">Liberation Day</a> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/23px-Flag_of_Libya.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/35px-Flag_of_Libya.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/46px-Flag_of_Libya.svg.png 2x" data-file-width="960" data-file-height="480">&nbsp;</span><a href="/wiki/Libya" title="Libya">Libya</a> </td> 
+         <td><span data-sort-value="10-23&nbsp;!">October&nbsp;23</span> </td> 
+         <td>2011 </td> 
+         <td><a href="/wiki/Death_of_Muammar_Gaddafi" title="Death of Muammar Gaddafi">Muammar Gaddafi killed</a>, ending the <a href="/wiki/Libyan_Civil_War_(2011)" class="mw-redirect" title="Libyan Civil War (2011)">2011 Libyan civil war</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/35px-Flag_of_Lithuania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/46px-Flag_of_Lithuania.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Lithuania" title="Lithuania">Lithuania</a> </td> 
+         <td><span data-sort-value="08-31&nbsp;!">August&nbsp;31</span> </td> 
+         <td>1993 </td> 
+         <td><a href="/wiki/Occupation_of_the_Baltic_states#Withdrawal_of_Russian_troops_and_decommissioning_the_radars" title="Occupation of the Baltic states">Withdrawal of Russian army</a> after 49 years of <a href="/wiki/Soviet_occupation_of_the_Baltic_states_(1944)" title="Soviet occupation of the Baltic states (1944)">occupation</a> </td> 
+         <td><i>Laisvės diena</i> or Freedom Day <span class="nowrap">(no public holiday)</span> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/23px-Flag_of_North_Macedonia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/35px-Flag_of_North_Macedonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/46px-Flag_of_North_Macedonia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;</span><a href="/wiki/North_Macedonia" title="North Macedonia">North Macedonia</a> </td> 
+         <td><span data-sort-value="10-11&nbsp;!">October&nbsp;11</span> </td> 
+         <td>1941 </td> 
+         <td><a href="/w/index.php?title=Uprising_day_in_North_Macedonia&amp;action=edit&amp;redlink=1" class="new" title="Uprising day in North Macedonia (page does not exist)">Uprising day in North Macedonia</a>, the beginning of the <a href="/wiki/National_Liberation_War_of_Macedonia" class="mw-redirect" title="National Liberation War of Macedonia">National Liberation War of Macedonia</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/23px-Flag_of_Mali.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/35px-Flag_of_Mali.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/45px-Flag_of_Mali.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Mali" title="Mali">Mali</a> </td> 
+         <td><span data-sort-value="11-19&nbsp;!">November&nbsp;19</span> </td> 
+         <td>1968 </td> 
+         <td>End of <a href="/wiki/Modibo_Ke%C3%AFta" title="Modibo Keïta">Modibo Keïta</a>'s regime </td> 
+         <td> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/23px-Flag_of_Moldova.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/35px-Flag_of_Moldova.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/46px-Flag_of_Moldova.svg.png 2x" data-file-width="1800" data-file-height="900">&nbsp;</span><a href="/wiki/Moldova" title="Moldova">Moldova</a> </td> 
+         <td><span data-sort-value="08-24&nbsp;!">August&nbsp;24</span> </td> 
+         <td>1944 </td> 
+         <td>Liberation from Nazi Germany </td> 
+         <td><a href="/wiki/Liberation_Day_(Moldova)" title="Liberation Day (Moldova)">Liberation Day (Moldova)</a> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a> </td> 
+         <td><span data-sort-value="05-05&nbsp;!">May&nbsp;5</span> </td> 
+         <td>1945 </td> 
+         <td><a href="/wiki/German_occupation_of_the_Netherlands" class="mw-redirect" title="German occupation of the Netherlands">Liberation from Nazi Germany</a> </td> 
+         <td><a href="/wiki/Liberation_Day_(Netherlands)" title="Liberation Day (Netherlands)"><i>Bevrijdingsdag</i></a> or Liberation Day </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/23px-Flag_of_Nicaragua.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/35px-Flag_of_Nicaragua.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/46px-Flag_of_Nicaragua.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;</span><a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a> </td> 
+         <td><span data-sort-value="07-19&nbsp;!">July&nbsp;19</span> </td> 
+         <td>1979 </td> 
+         <td><a href="/wiki/Nicaraguan_Revolution" title="Nicaraguan Revolution">Nicaraguan Revolution</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><i><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Northern_Mariana_Islands.svg/23px-Flag_of_the_Northern_Mariana_Islands.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Northern_Mariana_Islands.svg/35px-Flag_of_the_Northern_Mariana_Islands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_the_Northern_Mariana_Islands.svg/46px-Flag_of_the_Northern_Mariana_Islands.svg.png 2x" data-file-width="1100" data-file-height="550">&nbsp;</span><a href="/wiki/Northern_Mariana_Islands" title="Northern Mariana Islands">Northern Mariana Islands</a></i> </td> 
+         <td><span data-sort-value="07-04&nbsp;!">July&nbsp;4</span> </td> 
+         <td>1945 </td> 
+         <td><a href="/wiki/Northern_Mariana_Islands#American_invasion" title="Northern Mariana Islands">Liberation from Japan</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" data-file-width="512" data-file-height="372">&nbsp;</span><a href="/wiki/Norway" title="Norway">Norway</a> </td> 
+         <td><span data-sort-value="05-08&nbsp;!">May&nbsp;8</span> </td> 
+         <td>1945 </td> 
+         <td><a href="/wiki/Occupation_of_Norway" class="mw-redirect" title="Occupation of Norway">Liberation from Nazi Germany</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800">&nbsp;</span><a href="/wiki/Poland" title="Poland">Poland</a> </td> 
+         <td>November 11 </td> 
+         <td>1918 </td> 
+         <td>Gained independence from <a href="/wiki/German_empire" class="mw-redirect" title="German empire">German empire</a>, <a href="/wiki/Russian_empire" class="mw-redirect" title="Russian empire">Russian empire</a>, <a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austria-Hungary</a> in the end of <a href="/wiki/World_War_I" title="World War I">World War I</a> after 123 years of occupation. </td> 
+         <td>Dzień Niepodległości (Independence Day) </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;</span><a href="/wiki/Portugal" title="Portugal">Portugal</a> </td> 
+         <td><span data-sort-value="04-25&nbsp;!">April&nbsp;25</span> </td> 
+         <td>1974 </td> 
+         <td>Fall of the <a href="/wiki/Estado_Novo_(Portugal)" title="Estado Novo (Portugal)">Estado Novo (<i>New State</i>)</a> fascist regime: known locally as the <a href="/wiki/Carnation_Revolution" title="Carnation Revolution">Carnation Revolution (<i>Revolução dos Cravos</i>)</a> </td> 
+         <td><a href="/wiki/Freedom_Day_(Portugal)" class="mw-redirect" title="Freedom Day (Portugal)">Freedom Day</a> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/23px-Flag_of_Rwanda.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/35px-Flag_of_Rwanda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/45px-Flag_of_Rwanda.svg.png 2x" data-file-width="1080" data-file-height="720">&nbsp;</span><a href="/wiki/Rwanda" title="Rwanda">Rwanda</a> </td> 
+         <td><span data-sort-value="07-04&nbsp;!">July&nbsp;4</span> </td> 
+         <td>1994 </td> 
+         <td>Victory of the <a href="/wiki/Rwandan_Patriotic_Front" title="Rwandan Patriotic Front">RPF</a>, ending the <a href="/wiki/Rwandan_genocide" title="Rwandan genocide">Rwandan genocide</a> </td> 
+         <td><a href="/wiki/Liberation_Day_(Rwanda)" title="Liberation Day (Rwanda)">Liberation Day</a> </td>
+        </tr> 
+        <tr> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/35px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/45px-Flag_of_Slovakia.svg.png 2x" data-file-width="512" data-file-height="341">&nbsp;</span><a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> </td> 
+         <td><span data-sort-value="05-08&nbsp;!">May&nbsp;8</span> </td> 
+         <td>1945 </td> 
+         <td><a href="/wiki/German_occupation_of_Czechoslovakia" title="German occupation of Czechoslovakia">Liberation from Nazi Germany</a> </td> 
+         <td><i>Deň víťazstva nad fašizmom</i> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><i><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/23px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/35px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/46px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png 2x" data-file-width="750" data-file-height="375">&nbsp;</span><a href="/wiki/South_Georgia_and_the_South_Sandwich_Islands" title="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</a></i> </td> 
+         <td><span data-sort-value="04-25&nbsp;!">April&nbsp;25</span> </td> 
+         <td>1982 </td> 
+         <td><a href="/wiki/Operation_Paraquet" title="Operation Paraquet">Liberation from Argentina</a> </td> 
+         <td> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/23px-Flag_of_Togo.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/35px-Flag_of_Togo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/46px-Flag_of_Togo.svg.png 2x" data-file-width="809" data-file-height="500">&nbsp;</span><a href="/wiki/Togo" title="Togo">Togo</a> </td> 
+         <td><span data-sort-value="01-12&nbsp;!">January&nbsp;13</span> </td> 
+         <td>1967 </td> 
+         <td>Military coup under the leadership of <a href="/wiki/Etienne_Eyadema" class="mw-redirect" title="Etienne Eyadema">Etienne Eyadema</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </td> 
+         <td><i>Jour de la Libération</i> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a> </td> 
+         <td><span data-sort-value="08-30&nbsp;!">August&nbsp;30</span> </td> 
+         <td>1922 </td> 
+         <td>End of the <a href="/wiki/Turkish_War_of_Independence" title="Turkish War of Independence">Turkish War of Independence</a> </td> 
+         <td>Zafer Bayramı (Victory Day) </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/23px-Flag_of_Uganda.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/35px-Flag_of_Uganda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/45px-Flag_of_Uganda.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Uganda" title="Uganda">Uganda</a> </td> 
+         <td><span data-sort-value="01-26&nbsp;!">January&nbsp;26</span><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </td> 
+         <td>1986 </td> 
+         <td>End of <a href="/wiki/Tito_Okello" title="Tito Okello">Tito Okello</a>'s regime and the capture of power by the <a href="/wiki/Museveni" class="mw-redirect" title="Museveni">Museveni</a> regime </td> 
+         <td> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> </td> 
+         <td><span data-sort-value="10-28&nbsp;!">October&nbsp;28</span> </td> 
+         <td>1944 </td> 
+         <td><a href="/wiki/Reichskommissariat_Ukraine" title="Reichskommissariat Ukraine">Liberation from Nazi Germany</a> completed as Red Army captures <a href="/wiki/Chop,_Ukraine" title="Chop, Ukraine">Chop</a> </td> 
+         <td><a href="/wiki/Liberation_Day_(Ukraine)" title="Liberation Day (Ukraine)">Liberation Day (Ukraine)</a> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650">&nbsp;</span><a href="/wiki/United_States" title="United States">United States</a> </td> 
+         <td><span data-sort-value="3-3&nbsp;!">March&nbsp;3</span> </td> 
+         <td>1865 </td> 
+         <td>Freeing of slaves in <a href="/wiki/Charlottesville,_Virginia" title="Charlottesville, Virginia">Charlottesville, Virginia</a> when <a href="/wiki/Union_(American_Civil_War)" title="Union (American Civil War)">Union</a> troops arrive </td> 
+         <td><a href="/wiki/Liberation_and_Freedom_Day" title="Liberation and Freedom Day">Liberation and Freedom Day</a> </td>
+        </tr> 
+        <tr style="vertical-align:top;"> 
+         <td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/35px-Flag_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/45px-Flag_of_Vietnam.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;</span><a href="/wiki/Vietnam" title="Vietnam">Vietnam</a> </td> 
+         <td><span data-sort-value="04-30&nbsp;!">April&nbsp;30</span> </td> 
+         <td>1975 </td> 
+         <td><a href="/wiki/Fall_of_Saigon" title="Fall of Saigon">Liberation from Saigon regime</a> (also known as "Day of liberating the South for national reunification") </td> 
+         <td><a href="/wiki/Reunification_Day" title="Reunification Day">Reunification Day</a> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:1982_Liberation_Memorial_in_Stanley_(5612271774).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/1982_Liberation_Memorial_in_Stanley_%285612271774%29.jpg/220px-1982_Liberation_Memorial_in_Stanley_%285612271774%29.jpg" decoding="async" width="220" height="295" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/1982_Liberation_Memorial_in_Stanley_%285612271774%29.jpg/330px-1982_Liberation_Memorial_in_Stanley_%285612271774%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/1982_Liberation_Memorial_in_Stanley_%285612271774%29.jpg/440px-1982_Liberation_Memorial_in_Stanley_%285612271774%29.jpg 2x" data-file-width="3666" data-file-height="4912"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:1982_Liberation_Memorial_in_Stanley_(5612271774).jpg" class="internal" title="Enlarge"></a>
+         </div><a href="/wiki/1982_Liberation_Memorial" title="1982 Liberation Memorial">Liberation Memorial</a> in <a href="/wiki/Stanley,_Falkland_Islands" title="Stanley, Falkland Islands">Stanley</a>, <a href="/wiki/Falkland_Islands" title="Falkland Islands">Falkland Islands</a>.
+        </div>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liberation_Day&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/National_Day" class="mw-redirect" title="National Day">National Day</a></li> 
+       <li><a href="/wiki/Revolution_Day" title="Revolution Day">Revolution Day</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Liberation_Day&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFMrŭchkov2011" class="citation book cs1">Mrŭchkov, Vasil (2011). <i>Labour Law in Bulgaria</i>. Kluwer Law International. p.&nbsp;120. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/978-9-041-13616-9" title="Special:BookSources/978-9-041-13616-9"><bdi>978-9-041-13616-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Labour+Law+in+Bulgaria&amp;rft.pages=120&amp;rft.pub=Kluwer+Law+International&amp;rft.date=2011&amp;rft.isbn=978-9-041-13616-9&amp;rft.aulast=Mr%C5%ADchkov&amp;rft.aufirst=Vasil&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiberation+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.officeholidays.com/holidays/dr-congo/dr-congo-liberation-day">"Liberation Day in DR Congo in 2021"</a>. <i>Office Holidays</i><span class="reference-accessdate">. Retrieved <span class="nowrap">January 4,</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Office+Holidays&amp;rft.atitle=Liberation+Day+in+DR+Congo+in+2021&amp;rft_id=https%3A%2F%2Fwww.officeholidays.com%2Fholidays%2Fdr-congo%2Fdr-congo-liberation-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiberation+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFNorman_Sklarewitz2012" class="citation news cs1">Norman Sklarewitz (10 July 2012). <a rel="nofollow" class="external text" href="http://guam.stripes.com/travel/guam-tourist-site-steeped-military-history-mark-liberation-day">"Guam: Tourist site steeped in military history, to mark Liberation Day"</a>. <i>Stars and Stripes</i><span class="reference-accessdate">. Retrieved <span class="nowrap">24 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Stars+and+Stripes&amp;rft.atitle=Guam%3A+Tourist+site+steeped+in+military+history%2C+to+mark+Liberation+Day&amp;rft.date=2012-07-10&amp;rft.au=Norman+Sklarewitz&amp;rft_id=http%3A%2F%2Fguam.stripes.com%2Ftravel%2Fguam-tourist-site-steeped-military-history-mark-liberation-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiberation+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFLeibowitz1989" class="citation book cs1">Leibowitz, Arnold H. (1989). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=s1NEdqvtd3IC&amp;q=guam%20%22liberation%20day%22&amp;pg=PA324"><i>Defining Status: A Comprehensive Analysis of United States Territorial Relations</i></a>. Martinus Nijhoff Publishers. p.&nbsp;324. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780792300694" title="Special:BookSources/9780792300694"><bdi>9780792300694</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 February</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Defining+Status%3A+A+Comprehensive+Analysis+of+United+States+Territorial+Relations&amp;rft.pages=324&amp;rft.pub=Martinus+Nijhoff+Publishers&amp;rft.date=1989&amp;rft.isbn=9780792300694&amp;rft.aulast=Leibowitz&amp;rft.aufirst=Arnold+H.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Ds1NEdqvtd3IC%26q%3Dguam%2520%2522liberation%2520day%2522%26pg%3DPA324&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiberation+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFManchester2008" class="citation book cs1">Manchester, William (2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=nvPRNK-Zo_YC&amp;q=guam+%22liberation+day%22&amp;pg=PT218"><i>Goodbye, Darkness: A Memoir of the Pacific War</i></a>. Hachette Digital, Inc. p.&nbsp;218. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780316054638" title="Special:BookSources/9780316054638"><bdi>9780316054638</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 February</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Goodbye%2C+Darkness%3A+A+Memoir+of+the+Pacific+War&amp;rft.pages=218&amp;rft.pub=Hachette+Digital%2C+Inc.&amp;rft.date=2008&amp;rft.isbn=9780316054638&amp;rft.aulast=Manchester&amp;rft.aufirst=William&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DnvPRNK-Zo_YC%26q%3Dguam%2B%2522liberation%2Bday%2522%26pg%3DPT218&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiberation+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-ChannelIslands-2-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-ChannelIslands-2_6-0">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFJohnson" class="citation web cs1">Johnson, Ben. <a rel="nofollow" class="external text" href="http://www.historic-uk.com/DestinationsUK/Guernsey.html">"Guernsey"</a>. <i>Historic UK</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 18,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Historic+UK&amp;rft.atitle=Guernsey&amp;rft.aulast=Johnson&amp;rft.aufirst=Ben&amp;rft_id=http%3A%2F%2Fwww.historic-uk.com%2FDestinationsUK%2FGuernsey.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiberation+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120511055409/http://jersey.com/English/aboutjersey/history/liberationday/Pages/default.aspx">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://jersey.com/English/aboutjersey/history/liberationday/Pages/default.aspx">the original</a> on 2012-05-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-05-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fjersey.com%2FEnglish%2Faboutjersey%2Fhistory%2Fliberationday%2FPages%2Fdefault.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiberation+Day" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span>.</span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170203194108/http://news.kuwaittimes.net/website/flag-hoisting-ceremony-signals-start-kuwait-national-celebrations-2017/">"Flag-hoisting ceremony signals start of Kuwait national celebrations of 2017"</a>. <i><a href="/wiki/Kuwait_Times" title="Kuwait Times">Kuwait Times</a></i>. 3 February 2017. Archived from <a rel="nofollow" class="external text" href="http://news.kuwaittimes.net/website/flag-hoisting-ceremony-signals-start-kuwait-national-celebrations-2017/">the original</a> on 3 February 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">25 February</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Kuwait+Times&amp;rft.atitle=Flag-hoisting+ceremony+signals+start+of+Kuwait+national+celebrations+of+2017&amp;rft.date=2017-02-03&amp;rft_id=http%3A%2F%2Fnews.kuwaittimes.net%2Fwebsite%2Fflag-hoisting-ceremony-signals-start-kuwait-national-celebrations-2017%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiberation+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://anydayguide.com/calendar/1709">"Liberation Day in Togo / January 13, 2020"</a>. <i>AnydayGuide</i><span class="reference-accessdate">. Retrieved <span class="nowrap">September 14,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AnydayGuide&amp;rft.atitle=Liberation+Day+in+Togo+%2F+January+13%2C+2020&amp;rft_id=https%3A%2F%2Fanydayguide.com%2Fcalendar%2F1709&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiberation+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gou.go.ug/about-uganda/sector/national-events-calendar">"National Events Calendar"</a>. Government of Uganda<span class="reference-accessdate">. Retrieved <span class="nowrap">25 January</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=National+Events+Calendar&amp;rft.pub=Government+of+Uganda&amp;rft_id=http%3A%2F%2Fwww.gou.go.ug%2Fabout-uganda%2Fsector%2Fnational-events-calendar&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALiberation+Day" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em">
+       <ul style="margin:0.1em 0 0">
+        <li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Calendar_icon.svg" class="image"><img alt="Calendar icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/16px-Calendar_icon.svg.png" decoding="async" width="16" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/25px-Calendar_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calendar_icon.svg/33px-Calendar_icon.svg.png 2x" data-file-width="720" data-file-height="920"></a></span><a href="/wiki/Portal:Holidays" title="Portal:Holidays">Holidays portal</a></span></li>
+       </ul>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1321
+Cached time: 20210421122632
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.753 seconds
+Real time usage: 1.085 seconds
+Preprocessor visited node count: 4528/1000000
+Post‐expand include size: 46980/2097152 bytes
+Template argument size: 7325/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 32134/5000000 bytes
+Lua time usage: 0.265/10.000 seconds
+Lua memory usage: 6176375/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  866.535      1 -total
+ 31.34%  271.568     44 Template:Flag
+ 24.91%  215.883      1 Template:Reflist
+ 15.28%  132.420      3 Template:Cite_book
+ 12.93%  112.029      1 Template:More_citations_needed
+ 11.76%  101.916      1 Template:Ambox
+  9.34%   80.973      1 Template:Short_description
+  8.25%   71.497      1 Template:About
+  7.92%   68.658     41 Template:Sort
+  6.95%   60.267      1 Template:Find_sources_mainspace
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:1106409-0!canonical and timestamp 20210421122631 and revision id 1017772128. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Liberation_Day&amp;oldid=1017772128">https://en.wikipedia.org/w/index.php?title=Liberation_Day&amp;oldid=1017772128</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Types_of_national_holidays" title="Category:Types of national holidays">Types of national holidays</a></li>
+       <li><a href="/wiki/Category:Victory_days" title="Category:Victory days">Victory days</a></li>
+       <li><a href="/wiki/Category:January_observances" title="Category:January observances">January observances</a></li>
+       <li><a href="/wiki/Category:February_observances" title="Category:February observances">February observances</a></li>
+       <li><a href="/wiki/Category:March_observances" title="Category:March observances">March observances</a></li>
+       <li><a href="/wiki/Category:April_observances" title="Category:April observances">April observances</a></li>
+       <li><a href="/wiki/Category:May_observances" title="Category:May observances">May observances</a></li>
+       <li><a href="/wiki/Category:June_observances" title="Category:June observances">June observances</a></li>
+       <li><a href="/wiki/Category:July_observances" title="Category:July observances">July observances</a></li>
+       <li><a href="/wiki/Category:August_observances" title="Category:August observances">August observances</a></li>
+       <li><a href="/wiki/Category:October_observances" title="Category:October observances">October observances</a></li>
+       <li><a href="/wiki/Category:November_observances" title="Category:November observances">November observances</a></li>
+       <li><a href="/wiki/Category:December_observances" title="Category:December observances">December observances</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2017" title="Category:Articles needing additional references from January 2017">Articles needing additional references from January 2017</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Liberation+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Liberation+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Liberation_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Liberation_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Liberation_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Liberation_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Liberation_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Liberation_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Liberation_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Liberation_Day&amp;oldid=1017772128" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Liberation_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Liberation_Day&amp;id=1017772128&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q964507" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Liberation_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Liberation_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Liberation_Day" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1" title="يوم التحرير – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/F%C3%AAte_de_la_lib%C3%A9ration" title="Fête de la libération – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hari_Pembebasan" title="Hari Pembebasan – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Anniversario_della_liberazione" title="Anniversario della liberazione – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Felszabadul%C3%A1s_napja" title="Felszabadulás napja – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Hari_Pembebasan" title="Hari Pembebasan – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-nrm"><a href="https://nrm.wikipedia.org/wiki/Jour_d%27la_Lib%C3%A9th%C3%A2tion" title="Jour d'la Libéthâtion – Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target">Nouormand</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%92%E0%B6%B8%E0%B7%94%E0%B6%9A%E0%B7%8A%E0%B6%AD%E0%B7%92_%E0%B6%AF%E0%B7%92%E0%B6%B1%E0%B6%BA" title="විමුක්ති දිනය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%A5%E0%B8%94%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2" title="วันปลดปล่อย – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E8%A7%A3%E6%94%BE%E6%97%A5" title="解放日 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%A7%A3%E6%94%BE%E6%97%A5" title="解放日 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q964507#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 14 April 2021, at 14:41<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Liberation_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.753","walltime":"1.085","ppvisitednodes":{"value":4528,"limit":1000000},"postexpandincludesize":{"value":46980,"limit":2097152},"templateargumentsize":{"value":7325,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":32134,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  866.535      1 -total"," 31.34%  271.568     44 Template:Flag"," 24.91%  215.883      1 Template:Reflist"," 15.28%  132.420      3 Template:Cite_book"," 12.93%  112.029      1 Template:More_citations_needed"," 11.76%  101.916      1 Template:Ambox","  9.34%   80.973      1 Template:Short_description","  8.25%   71.497      1 Template:About","  7.92%   68.658     41 Template:Sort","  6.95%   60.267      1 Template:Find_sources_mainspace"]},"scribunto":{"limitreport-timeusage":{"value":"0.265","limit":"10.000"},"limitreport-memusage":{"value":6176375,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20210421122632","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Liberation Day","url":"https:\/\/en.wikipedia.org\/wiki\/Liberation_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q964507","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q964507","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-10-26T22:55:46Z","dateModified":"2021-04-14T14:41:55Z","headline":"public holiday of various countries to commemorate liberation from another country"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":169,"wgHostname":"mw1271"});});</script> 
+ </body>
+</html>

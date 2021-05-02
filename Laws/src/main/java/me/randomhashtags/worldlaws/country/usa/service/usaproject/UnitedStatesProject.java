@@ -34,7 +34,7 @@ public enum UnitedStatesProject implements RestAPI, CongressService {
                                 if(politicians.containsKey(target)) {
                                     handler.handle(target);
                                 } else {
-                                    WLLogger.log(Level.INFO, "UnitedStatesProject - politician doesn't exist with id \"" + id + "\"!");
+                                    WLLogger.log(Level.WARN, "UnitedStatesProject - politician doesn't exist with id \"" + id + "\"!");
                                 }
                             }
                         });

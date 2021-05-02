@@ -1,0 +1,1127 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>World Autism Awareness Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"df2c23b8-7da8-4437-95e0-99d9f9abc618","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"World_Autism_Awareness_Day","wgTitle":"World Autism Awareness Day","wgCurRevisionId":1016560114,"wgRevisionId":1016560114,"wgArticleId":24884307,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Infobox holiday with missing field","Infobox holiday fixed day","Articles with short description","Short description matches Wikidata","Use dmy dates from April 2019","Commons category link from Wikidata","Wikipedia articles with RERO identifiers",
+"Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","April observances","Autism","Autism activism","Disability observances","Health awareness days","United Nations days"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"World_Autism_Awareness_Day","wgRelevantArticleId":24884307,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":
+"interlanguage","wgWikibaseItemId":"Q736974"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/5/53/Organizador_de_Autismo_en_La_Moneda.jpg"> 
+  <meta property="og:title" content="World Autism Awareness Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/World_Autism_Awareness_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=World_Autism_Awareness_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=World_Autism_Awareness_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/World_Autism_Awareness_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-World_Autism_Awareness_Day rootpage-World_Autism_Awareness_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">World Autism Awareness Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="infobox vevent">
+       <tbody>
+        <tr>
+         <th colspan="2" class="infobox-above hd" style="background-color: transparent">World Autism Awareness Day</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image"><a href="/wiki/File:Organizador_de_Autismo_en_La_Moneda.jpg" class="image"><img alt="Organizador de Autismo en La Moneda.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Organizador_de_Autismo_en_La_Moneda.jpg/240px-Organizador_de_Autismo_en_La_Moneda.jpg" decoding="async" width="240" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Organizador_de_Autismo_en_La_Moneda.jpg/360px-Organizador_de_Autismo_en_La_Moneda.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Organizador_de_Autismo_en_La_Moneda.jpg/480px-Organizador_de_Autismo_en_La_Moneda.jpg 2x" data-file-width="650" data-file-height="397"></a>
+          <div class="infobox-caption" style="caption">
+           A World Autism Awareness Day event in <a href="/wiki/Santiago,_Chile" class="mw-redirect" title="Santiago, Chile">Santiago, Chile</a>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Official name</th>
+         <td class="infobox-data">World Autism Awareness Day</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Observed&nbsp;by</th>
+         <td class="infobox-data"><a href="/wiki/United_Nations" title="United Nations">United Nations</a> member states</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Date</th>
+         <td class="infobox-data"><a href="/wiki/April_2" title="April 2">April 2</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Next&nbsp;time</th>
+         <td class="infobox-data">2 April 2022<span style="display:none">&nbsp;(<span class="dtstart">2022-04-02</span>)</span></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Frequency</th>
+         <td class="infobox-data">annual</td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Day to raise autism awareness
+      </div> 
+      <p class="mw-empty-elt"> </p>
+      <p><b>World Autism Awareness Day</b> is an <a href="/wiki/International_observance" class="mw-redirect" title="International observance">internationally recognized day</a> on April 2 every year, encouraging <a href="/wiki/Member_states_of_the_United_Nations" title="Member states of the United Nations">Member States</a> of the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> to take measures to raise awareness about people with <a href="/wiki/Autistic_spectrum_disorders" class="mw-redirect" title="Autistic spectrum disorders">autistic spectrum disorders</a> including <a href="/wiki/Autism" title="Autism">autism</a> and <a href="/wiki/Asperger_syndrome" title="Asperger syndrome">Asperger syndrome</a> throughout the world.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It was designated by the <a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">United Nations General Assembly</a> resolution (A/RES/62/139).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> World Autism Awareness Day", passed in council on 1 November 2007, and adopted on 18 December 2007. It was proposed by <a href="/wiki/Moza_bint_Nasser" title="Moza bint Nasser">Mozah Bint Nasser Al-Missned</a>, the United Nations Representative from <a href="/wiki/Qatar" title="Qatar">Qatar</a> and <a href="/wiki/Queen_consort" title="Queen consort">consort</a> to <a href="/wiki/Emir_of_Qatar" title="Emir of Qatar">Emir</a> <a href="/wiki/Hamad_bin_Khalifa_Al_Thani" title="Hamad bin Khalifa Al Thani">Hamad Bin Khalifa Al-Thani</a>, and supported by all member states.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-:0_6-0" class="reference"><a href="#cite_note-:0-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </p>
+      <p>This resolution was passed and adopted without a vote in the UN General Assembly, mainly as a supplement to previous UN initiatives to improve <a href="/wiki/Human_rights" title="Human rights">human rights</a>.<sup id="cite_ref-:0_6-1" class="reference"><a href="#cite_note-:0-6">[6]</a></sup> </p>
+      <p>World Autism Day is one of only seven official health-specific UN Days.<sup id="cite_ref-UN-days_8-0" class="reference"><a href="#cite_note-UN-days-8">[8]</a></sup> The day itself brings individual autism organizations together all around the world to aid in things like research, diagnoses, treatment, and acceptance for those with a developmental path affected by autism. </p>
+      <p>The terms "Autism Awareness Day" and "Autism Awareness Month" are often contested by <a href="/wiki/Autism_rights_movement" title="Autism rights movement">autism rights</a> advocates, who claim that they feed into perceived <a href="/wiki/Ableism" title="Ableism">ableism</a> against autistic people. Such groups, including the <a href="/wiki/Autistic_Self_Advocacy_Network" title="Autistic Self Advocacy Network">Autistic Self Advocacy Network</a>, advocate using the term "Autism Acceptance" as an alternative for both events under the belief that it promotes overcoming anti-autism prejudice rather than simply increasing awareness of autism.<sup id="cite_ref-ASAN_9-0" class="reference"><a href="#cite_note-ASAN-9">[9]</a></sup><sup id="cite_ref-Psychology_Today_10-0" class="reference"><a href="#cite_note-Psychology_Today-10">[10]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Components"><span class="tocnumber">1</span> <span class="toctext">Components</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Themes"><span class="tocnumber">2</span> <span class="toctext">Themes</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Notable_initiatives"><span class="tocnumber">3</span> <span class="toctext">Notable initiatives</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-4"><a href="#Onesie_Wednesday"><span class="tocnumber">3.1</span> <span class="toctext">Onesie Wednesday</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Outcomes"><span class="tocnumber">4</span> <span class="toctext">Outcomes</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-6"><a href="#United_States"><span class="tocnumber">4.1</span> <span class="toctext">United States</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Components">Components</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Autism_Awareness_Day&amp;action=edit&amp;section=1" title="Edit section: Components">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The original resolution had four main components: </p> 
+      <ul>
+       <li>the establishment of the second day of April as World Autism Awareness Day,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> beginning in 2008</li> 
+       <li>invitation to Member States and other relevant organizations to the UN or the international <a href="/wiki/Societal_system" class="mw-redirect" title="Societal system">societal system</a>, including <a href="/wiki/Non-governmental_organizations" class="mw-redirect" title="Non-governmental organizations">non-governmental organizations</a> and the <a href="/wiki/Private_sector" title="Private sector">private sector</a>, to create initiatives to raise public <a href="/wiki/Awareness" title="Awareness">awareness</a> of autism</li> 
+       <li>encourages Member States to <a href="/wiki/Awareness_raising" class="mw-redirect" title="Awareness raising">raise awareness</a> of <a href="/wiki/Autism" title="Autism">autism</a> on all levels in society</li> 
+       <li>asks the <a href="/wiki/UN_Secretary-General" class="mw-redirect" title="UN Secretary-General">UN Secretary-General</a> to deliver this message to member states and all other UN organizations<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Themes">Themes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Autism_Awareness_Day&amp;action=edit&amp;section=2" title="Edit section: Themes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>For the past years, each World Autism Awareness Day has focused on a specific theme determined by the UN. </p> 
+      <ul>
+       <li>2012: "Launch of Official UN "Awareness Raising" Stamp"<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li> 
+       <li>2013: "Celebrating the ability within the disability of autism"<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li> 
+       <li>2014: "Opening Doors to <a href="/wiki/Inclusion_(education)" title="Inclusion (education)">Inclusive Education</a>"<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li> 
+       <li>2015: "Employment: The Autism Advantage"<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li> 
+       <li>2016: "Autism and the 2030 Agenda: Inclusion and <a href="/wiki/Neurodiversity" title="Neurodiversity">Neurodiversity</a>"<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li> 
+       <li>2017: "Toward <a href="/wiki/Autonomy" title="Autonomy">Autonomy</a> and Self-Determination"<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></li> 
+       <li>2018: "<a href="/wiki/Empowerment" title="Empowerment">Empowering</a> Women and Girls with Autism"<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></li> 
+       <li>2019: "<a href="/wiki/Assistive_technology" title="Assistive technology">Assistive Technologies</a>, Active Participation"<sup id="cite_ref-:1_20-0" class="reference"><a href="#cite_note-:1-20">[20]</a></sup></li> 
+       <li>2020: "The Transition to Adulthood"<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></li> 
+       <li>2021: "<a href="/wiki/Inclusion_(disability_rights)" title="Inclusion (disability rights)">Inclusion</a> in the Workplace"<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Notable_initiatives">Notable initiatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Autism_Awareness_Day&amp;action=edit&amp;section=3" title="Edit section: Notable initiatives">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Onesie_Wednesday">Onesie Wednesday</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Autism_Awareness_Day&amp;action=edit&amp;section=4" title="Edit section: Onesie Wednesday">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In 2014, WAAD coincided with Onesie Wednesday, a day created by the <a href="/wiki/National_Autistic_Society" title="National Autistic Society">National Autistic Society</a> to encourage people in England, Wales and Northern Ireland to show their support for anyone on the <a href="/wiki/Autistic_spectrum" class="mw-redirect" title="Autistic spectrum">autistic spectrum</a>. By wearing a <a href="/wiki/Onesie_(jumpsuit)" title="Onesie (jumpsuit)">onesie</a> or pyjamas, participants are saying, "it's all right to be different".<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Outcomes">Outcomes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Autism_Awareness_Day&amp;action=edit&amp;section=5" title="Edit section: Outcomes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Autism_Awareness_Day&amp;action=edit&amp;section=6" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>In a 2015 Presidential Proclamation, <a href="/wiki/Barack_Obama" title="Barack Obama">President Obama</a> highlighted some of the initiatives that the US government was taking to bring rights to those with autism and to bring awareness to the disorder. He highlighted things like The <a href="/wiki/Affordable_Care_Act" title="Affordable Care Act">Affordable Care Act</a>, which prohibits health insurance companies from denying coverage based on a pre-existing condition such as autism. He also pointed out the recent <a href="/wiki/Autism_CARES_Act_of_2014" title="Autism CARES Act of 2014">Autism CARES Act of 2014</a>, which provides higher level training for those who are serving citizens on the autism spectrum.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Autism_Awareness_Day&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Awareness_day" class="mw-redirect" title="Awareness day">Awareness day</a></li> 
+       <li><a href="/wiki/Autism_friendly" title="Autism friendly">Autism friendly</a></li> 
+       <li><a href="/wiki/Autism_rights_movement" title="Autism rights movement">Autism rights movement</a></li> 
+       <li><a href="/wiki/Autism_Sunday" title="Autism Sunday">Autism Sunday</a></li> 
+       <li><a href="/wiki/Autistic_Pride_Day" title="Autistic Pride Day">Autistic Pride Day</a></li> 
+       <li><a href="/wiki/Societal_and_cultural_aspects_of_autism" title="Societal and cultural aspects of autism">Societal and cultural aspects of autism</a></li> 
+       <li><a href="/wiki/United_Nations%27_International_Day_of_Persons_with_Disabilities" title="United Nations' International Day of Persons with Disabilities">United Nations' International Day of Persons with Disabilities</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=World_Autism_Awareness_Day&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:World_Autism_Awareness_Day" class="extiw" title="commons:Category:World Autism Awareness Day"><span style="">World Autism Awareness Day</span></a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist reflist-upper-alpha"> 
+      </div> 
+      <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1011085734">
+      <div class="reflist reflist-columns references-column-width" style="column-width: 30em;"> 
+       <ol class="references"> 
+        <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.business-standard.com/about/when-is-world-autism-awareness-day#collapse">"WHEN IS WORLD AUTISM AWARENESS DAY"</a>. <i>Business Standard India</i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Business+Standard+India&amp;rft.atitle=WHEN+IS+WORLD+AUTISM+AWARENESS+DAY&amp;rft_id=https%3A%2F%2Fwww.business-standard.com%2Fabout%2Fwhen-is-world-autism-awareness-day%23collapse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://otsimo.com/en/autism-spectrum-disorder-definitive-guide/#what-is-autism-awareness">"Autism (Autism Spectrum Disorder – ASD): The Definitive Guide – What is Autism Awareness?"</a>. <i>Otsimo</i>. 29 April 2020<span class="reference-accessdate">. Retrieved <span class="nowrap">17 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Otsimo&amp;rft.atitle=Autism+%28Autism+Spectrum+Disorder+%E2%80%93+ASD%29%3A+The+Definitive+Guide+%E2%80%93+What+is+Autism+Awareness%3F&amp;rft.date=2020-04-29&amp;rft_id=https%3A%2F%2Fotsimo.com%2Fen%2Fautism-spectrum-disorder-definitive-guide%2F%23what-is-autism-awareness&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFNations" class="citation web cs1">Nations, United. <a rel="nofollow" class="external text" href="https://www.un.org/en/observances/autism-day/background#:~:text=The%20United%20Nations%20General%20Assembly,an%20integral%20part%20of%20society.">"World Autism Awareness Day – background"</a>. <i>United Nations</i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=United+Nations&amp;rft.atitle=World+Autism+Awareness+Day+%E2%80%93+background&amp;rft.aulast=Nations&amp;rft.aufirst=United&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fen%2Fobservances%2Fautism-day%2Fbackground%23%3A~%3Atext%3DThe%2520United%2520Nations%2520General%2520Assembly%2Can%2520integral%2520part%2520of%2520society.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.un.org/press/en/2007/gashc3899.doc.htm">"Third Committee Calls on Assembly to Designate 2 April World Autism Day | Meetings Coverage and Press Releases"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=Third+Committee+Calls+on+Assembly+to+Designate+2+April+World+Autism+Day+%7C+Meetings+Coverage+and+Press+Releases&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fpress%2Fen%2F2007%2Fgashc3899.doc.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.un.org/press/en/2007/ga10678.doc.htm">"General Assembly Adopts Landmark Text Calling for Moratorium on Death Penalty | Meetings Coverage and Press Releases"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=General+Assembly+Adopts+Landmark+Text+Calling+for+Moratorium+on+Death+Penalty+%7C+Meetings+Coverage+and+Press+Releases&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fpress%2Fen%2F2007%2Fga10678.doc.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-:0-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.un.org/press/en/2008/note6138.doc.htm">"United Nations Marks First World Autism Awareness Day Today | Meetings Coverage and Press Releases"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=United+Nations+Marks+First+World+Autism+Awareness+Day+Today+%7C+Meetings+Coverage+and+Press+Releases&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fpress%2Fen%2F2008%2Fnote6138.doc.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://jobsmedia.org/2017/04/world-autism-awareness-day-2017.html">"World Autism Awareness Day 2017"</a>. <i>jobsmedia.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=jobsmedia.org&amp;rft.atitle=World+Autism+Awareness+Day+2017&amp;rft_id=http%3A%2F%2Fjobsmedia.org%2F2017%2F04%2Fworld-autism-awareness-day-2017.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-UN-days-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-UN-days_8-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.un.org/en/sections/issues-depth/health/index.html">"UN – Global Issues – Health"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=UN+%E2%80%93+Global+Issues+%E2%80%93+Health&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fen%2Fsections%2Fissues-depth%2Fhealth%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-ASAN-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-ASAN_9-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="ASAN" class="citation web cs1">S., Kassiane (4 April 2012). <a rel="nofollow" class="external text" href="https://autisticadvocacy.org/2012/04/acceptance-vs-awareness/">"Acceptance vs. Awareness"</a>. <i>Autistic Self Advocacy Network</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Autistic+Self+Advocacy+Network&amp;rft.atitle=Acceptance+vs.+Awareness&amp;rft.date=2012-04-04&amp;rft.aulast=S.&amp;rft.aufirst=Kassiane&amp;rft_id=https%3A%2F%2Fautisticadvocacy.org%2F2012%2F04%2Facceptance-vs-awareness%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-Psychology_Today-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Psychology_Today_10-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="Psychology_Today" class="citation web cs1">Bullus, Erin; Sesterka, Abby (1 April 2020). <a rel="nofollow" class="external text" href="https://www.psychologytoday.com/us/blog/insights-about-autism/202004/moving-beyond-autism-awareness-autism-acceptance">"Moving Beyond Autism Awareness to Autism Acceptance"</a>. <i>Psychology Today</i>. Thomas, John<span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Psychology+Today&amp;rft.atitle=Moving+Beyond+Autism+Awareness+to+Autism+Acceptance&amp;rft.date=2020-04-01&amp;rft.aulast=Bullus&amp;rft.aufirst=Erin&amp;rft.au=Sesterka%2C+Abby&amp;rft_id=https%3A%2F%2Fwww.psychologytoday.com%2Fus%2Fblog%2Finsights-about-autism%2F202004%2Fmoving-beyond-autism-awareness-autism-acceptance&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.belairdaily.com/facts-myths-about-autism-autism-awareness-day-2017/6257.html">"Facts &amp; Myths about Autism – Autism Awareness Day 2017 – Belair Daily"</a>. <i>www.belairdaily.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 March</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.belairdaily.com&amp;rft.atitle=Facts+%26+Myths+about+Autism+%E2%80%93+Autism+Awareness+Day+2017+%E2%80%93+Belair+Daily&amp;rft_id=https%3A%2F%2Fwww.belairdaily.com%2Ffacts-myths-about-autism-autism-awareness-day-2017%2F6257.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.autismspeaks.org/sites/default/files/images/waad/unresolution_english.pdf">"United Nations General Assembly"</a> <span class="cs1-format">(PDF)</span>. <i>Autism Speaks</i>. 21 January 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Autism+Speaks&amp;rft.atitle=United+Nations+General+Assembly&amp;rft.date=2008-01-21&amp;rft_id=https%3A%2F%2Fwww.autismspeaks.org%2Fsites%2Fdefault%2Ffiles%2Fimages%2Fwaad%2Funresolution_english.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.un.org/en/events/autismday/events2012.shtml">"World Autism Awareness Day, 2 April"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=World+Autism+Awareness+Day%2C+2+April&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fen%2Fevents%2Fautismday%2Fevents2012.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.un.org/en/events/autismday/events2013.shtml">"World Autism Awareness Day, 2 April"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=World+Autism+Awareness+Day%2C+2+April&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fen%2Fevents%2Fautismday%2Fevents2013.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.un.org/en/events/autismday/events2014.shtml">"World Autism Awareness Day, 2 April"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=World+Autism+Awareness+Day%2C+2+April&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fen%2Fevents%2Fautismday%2Fevents2014.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.un.org/en/events/autismday/events2015.shtml">"World Autism Awareness Day, 2 April"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=World+Autism+Awareness+Day%2C+2+April&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fen%2Fevents%2Fautismday%2Fevents2015.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.un.org/development/desa/disabilities/news/dspd/world-autism-awareness-day-2-april.html">"World Autism Awareness Day, 2 April | United Nations Enable"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=World+Autism+Awareness+Day%2C+2+April+%7C+United+Nations+Enable&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fdevelopment%2Fdesa%2Fdisabilities%2Fnews%2Fdspd%2Fworld-autism-awareness-day-2-april.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://webtv.un.org/watch/toward-autonomy-and-self-determination-world-autism-awareness-day-2017/5380816054001">"Toward Autonomy and Self-Determination – World Autism Awareness Day 2017"</a>. <i>United Nations Web TV</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=United+Nations+Web+TV&amp;rft.atitle=Toward+Autonomy+and+Self-Determination+%E2%80%93+World+Autism+Awareness+Day+2017&amp;rft_id=http%3A%2F%2Fwebtv.un.org%2Fwatch%2Ftoward-autonomy-and-self-determination-world-autism-awareness-day-2017%2F5380816054001&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180331054119/https://www.un.org/en/events/autismday/">"2018 World Autism Awareness Day"</a>. <i>www.un.org</i>. Archived from <a rel="nofollow" class="external text" href="https://www.un.org/en/events/autismday/">the original</a> on 31 March 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">31 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=2018+World+Autism+Awareness+Day&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fen%2Fevents%2Fautismday%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-:1-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-:1_20-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.un.org/en/events/autismday/">"World Autism Awareness Day 2018"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=World+Autism+Awareness+Day+2018&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fen%2Fevents%2Fautismday%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFNations" class="citation web cs1">Nations, United. <a rel="nofollow" class="external text" href="https://www.un.org/en/observances/autism-day">"World Autism Awareness Day – EN"</a>. <i>United Nations</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 March</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=United+Nations&amp;rft.atitle=World+Autism+Awareness+Day+%E2%80%93+EN&amp;rft.aulast=Nations&amp;rft.aufirst=United&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fen%2Fobservances%2Fautism-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFNations" class="citation web cs1">Nations, United. <a rel="nofollow" class="external text" href="https://www.un.org/en/observances/autism-day">"World Autism Awareness Day – EN"</a>. <i>United Nations</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 March</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=United+Nations&amp;rft.atitle=World+Autism+Awareness+Day+%E2%80%93+EN&amp;rft.aulast=Nations&amp;rft.aufirst=United&amp;rft_id=https%3A%2F%2Fwww.un.org%2Fen%2Fobservances%2Fautism-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.autism.org.uk/get-involved/raise-money/onesie-wednesday/what-is-onesie-wednesday.aspx">"About Onesie Wednesday"</a>. <a href="/wiki/National_Autistic_Society" title="National Autistic Society">National Autistic Society</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Onesie+Wednesday&amp;rft.pub=National+Autistic+Society&amp;rft_id=http%3A%2F%2Fwww.autism.org.uk%2Fget-involved%2Fraise-money%2Fonesie-wednesday%2Fwhat-is-onesie-wednesday.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://obamawhitehouse.archives.gov/the-press-office/2015/04/01/presidential-proclamation-world-autism-awareness-day-2015">"Presidential Proclamation – World Autism Awareness Day, 2015"</a>. <i><a href="/wiki/Whitehouse.gov" title="Whitehouse.gov">whitehouse.gov</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 November</span> 2015</span> – via <a href="/wiki/NARA" class="mw-redirect" title="NARA">National Archives</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=whitehouse.gov&amp;rft.atitle=Presidential+Proclamation+%E2%80%93+World+Autism+Awareness+Day%2C+2015&amp;rft_id=https%3A%2F%2Fobamawhitehouse.archives.gov%2Fthe-press-office%2F2015%2F04%2F01%2Fpresidential-proclamation-world-autism-awareness-day-2015&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWorld+Autism+Awareness+Day" class="Z3988"></span></span> </li> 
+       </ol>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Pervasive_developmental_disorders_and_autism_spectrum" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Pervasive_developmental_disorders" title="Template:Pervasive developmental disorders"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Pervasive_developmental_disorders" title="Template talk:Pervasive developmental disorders"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Pervasive_developmental_disorders&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Pervasive_developmental_disorders_and_autism_spectrum" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Pervasive_developmental_disorder" title="Pervasive developmental disorder">Pervasive developmental disorders</a> and <a href="/wiki/Autism_spectrum" title="Autism spectrum">autism spectrum</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Main</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Causes_of_autism" title="Causes of autism">Causes</a></li> 
+             <li><a href="/wiki/Conditions_comorbid_to_autism_spectrum_disorders" title="Conditions comorbid to autism spectrum disorders">Comorbid conditions</a></li> 
+             <li><a href="/wiki/Epidemiology_of_autism" title="Epidemiology of autism">Epidemiology</a></li> 
+             <li><a href="/wiki/Heritability_of_autism" title="Heritability of autism">Heritability</a></li> 
+             <li><a href="/wiki/Societal_and_cultural_aspects_of_autism" title="Societal and cultural aspects of autism">Societal and cultural aspects</a></li> 
+             <li><a href="/wiki/Medical_model_of_autism" class="mw-redirect" title="Medical model of autism">Medical model</a></li> 
+             <li><a href="/wiki/Autism_therapies" title="Autism therapies">Therapies</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Diagnoses</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Autism_spectrum" title="Autism spectrum">Autism spectrum</a> (<a href="/wiki/High-functioning_autism" title="High-functioning autism">High-functioning autism</a></li> 
+             <li><a href="/wiki/Autism" title="Autism">Classic autism</a></li> 
+             <li><a href="/wiki/Asperger_syndrome" title="Asperger syndrome">Asperger syndrome</a></li> 
+             <li><a href="/wiki/Pervasive_developmental_disorder_not_otherwise_specified" title="Pervasive developmental disorder not otherwise specified">Pervasive developmental disorder not otherwise specified</a></li> 
+             <li><a href="/wiki/Childhood_disintegrative_disorder" title="Childhood disintegrative disorder">Childhood disintegrative disorder</a></li> 
+             <li><a href="/wiki/Rett_syndrome" title="Rett syndrome">Rett syndrome</a>)</li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Related conditions</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Alexithymia" title="Alexithymia">Alexithymia</a></li> 
+             <li><a href="/wiki/Attention_deficit_hyperactivity_disorder" title="Attention deficit hyperactivity disorder">Attention deficit hyperactivity disorder</a></li> 
+             <li><a href="/wiki/Anxiety_disorder" title="Anxiety disorder">Anxiety disorder</a> (<a href="/wiki/Obsessive%E2%80%93compulsive_disorder" title="Obsessive–compulsive disorder">obsessive–compulsive disorder</a>)</li> 
+             <li><a href="/wiki/Late_talker" title="Late talker">Late talker</a></li> 
+             <li><a href="/wiki/Epilepsy" title="Epilepsy">Epilepsy</a></li> 
+             <li><a href="/wiki/Fragile_X_syndrome" title="Fragile X syndrome">Fragile X syndrome</a></li> 
+             <li><a href="/wiki/Hyperlexia" title="Hyperlexia">Hyperlexia</a></li> 
+             <li><a href="/wiki/Savant_syndrome" title="Savant syndrome">Savant syndrome</a></li> 
+             <li><a href="/wiki/Sensory_processing_disorder" title="Sensory processing disorder">Sensory processing disorder</a></li> 
+             <li><a href="/wiki/Intellectual_disability" title="Intellectual disability">Intellectual disability</a></li> 
+             <li><a href="/wiki/Developmental_coordination_disorder" title="Developmental coordination disorder">Developmental coordination disorder</a></li> 
+             <li><a href="/wiki/Multiple_complex_developmental_disorder" title="Multiple complex developmental disorder">Multiple complex developmental disorder</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Controversies_in_autism" title="Controversies in autism">Controversies</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Autism_rights_movement" title="Autism rights movement">Autism rights movement</a></li> 
+             <li><a href="/wiki/Autistic_enterocolitis" class="mw-redirect" title="Autistic enterocolitis">Autistic enterocolitis</a></li> 
+             <li><a href="/wiki/Facilitated_communication" title="Facilitated communication">Facilitated communication</a></li> 
+             <li><a href="/wiki/MMR_vaccine_and_autism" title="MMR vaccine and autism">MMR vaccine</a></li> 
+             <li><a href="/wiki/Rapid_prompting_method" title="Rapid prompting method">Rapid prompting method</a></li> 
+             <li><a href="/wiki/Thiomersal_and_vaccines" title="Thiomersal and vaccines">Thiomersal</a> (<a href="/wiki/Chelation_therapy" title="Chelation therapy">Chelation</a>)</li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Diagnostic scales</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Gilliam_Asperger%27s_disorder_scale" title="Gilliam Asperger's disorder scale">Gilliam Asperger's disorder scale</a></li> 
+             <li><a href="/wiki/Autism_Diagnostic_Observation_Schedule" title="Autism Diagnostic Observation Schedule">Autism Diagnostic Observation Schedule</a></li> 
+             <li><a href="/wiki/Autism_Diagnostic_Interview" title="Autism Diagnostic Interview">Autism Diagnostic Interview</a></li> 
+             <li><a href="/wiki/Autism-spectrum_quotient" title="Autism-spectrum quotient">Autism-spectrum quotient</a></li> 
+             <li><a href="/wiki/Childhood_Autism_Rating_Scale" title="Childhood Autism Rating Scale">Childhood Autism Rating Scale</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Lists</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Outline_of_autism" title="Outline of autism">Autism-related topics</a></li> 
+             <li><a href="/wiki/List_of_autistic_fictional_characters" title="List of autistic fictional characters">Fictional characters</a></li> 
+             <li><a href="/wiki/List_of_schools_for_people_on_the_autistic_spectrum" class="mw-redirect" title="List of schools for people on the autistic spectrum">Schools</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Autism_resources" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Autism_resources" title="Template:Autism resources"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Autism_resources" title="Template talk:Autism resources"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Autism_resources&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Autism_resources" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Autism" title="Autism">Autism</a> resources
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div id="*_Autism_**_outline_**_spectrum"> 
+            <ul>
+             <li><a href="/wiki/Autism" title="Autism">Autism</a> 
+              <ul>
+               <li><a href="/wiki/Outline_of_autism" title="Outline of autism">outline</a></li> 
+               <li><a href="/wiki/Autism_spectrum" title="Autism spectrum">spectrum</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Awareness</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Autism_friendly" title="Autism friendly">Autism friendly</a></li> 
+             <li><a href="/wiki/Autism_Sunday" title="Autism Sunday">Autism Sunday</a></li> 
+             <li><a href="/wiki/Communication_Shutdown" title="Communication Shutdown">Communication Shutdown</a></li> 
+             <li><a class="mw-selflink selflink">World Autism Awareness Day</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Culture</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Autistic_art" title="Autistic art">Autistic art</a></li> 
+             <li><a href="/wiki/Autism_spectrum_disorders_in_the_media" title="Autism spectrum disorders in the media">Autism spectrum disorders in the media</a></li> 
+             <li><a href="/wiki/List_of_autistic_fictional_characters" title="List of autistic fictional characters">Fictional characters</a></li> 
+             <li><a href="/wiki/List_of_films_about_autism" title="List of films about autism">Films about autism</a></li> 
+             <li><a href="/wiki/Circle_of_Friends_(disabled_care)" title="Circle of Friends (disabled care)">Circle of Friends</a></li> 
+             <li><a href="/wiki/Neurodiversity" title="Neurodiversity">Neurodiversity</a></li> 
+             <li><a href="/wiki/Medical_model_of_autism" class="mw-redirect" title="Medical model of autism">Medical model of autism</a></li> 
+             <li><a href="/wiki/Societal_and_cultural_aspects_of_autism" title="Societal and cultural aspects of autism">Societal and cultural aspects of autism</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="col" class="navbox-title" colspan="2">
+                   <div id="Therapies" style="font-size:114%;margin:0 4em">
+                    <a href="/wiki/Autism_therapies" title="Autism therapies">Therapies</a>
+                   </div></th>
+                 </tr>
+                 <tr>
+                  <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"></div>
+                   <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                    <tbody>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Psychotropic medication (<a href="/wiki/Antipsychotic" title="Antipsychotic">antipsychotics</a>)</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Aripiprazole" title="Aripiprazole">Aripiprazole</a></li> 
+                         <li><a href="/wiki/Risperidone" title="Risperidone">Risperidone</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Behavioral</th>
+                      <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Applied_behavior_analysis" title="Applied behavior analysis">Applied behavior analysis</a> (ABA) 
+                          <ul>
+                           <li><a href="/wiki/Discrete_trial_training" title="Discrete trial training">Discrete trial training</a> (<a href="/wiki/Ole_Ivar_Lovaas" title="Ole Ivar Lovaas">Lovaas</a>)</li> 
+                           <li><a href="/wiki/Picture_Exchange_Communication_System" title="Picture Exchange Communication System">Picture exchange communication system</a> (PECS)</li> 
+                           <li><a href="/wiki/Pivotal_response_treatment" title="Pivotal response treatment">Pivotal response treatment</a></li> 
+                           <li><a href="/wiki/Positive_behavior_support" title="Positive behavior support">Positive behavior support</a></li>
+                          </ul></li> 
+                         <li><a href="/wiki/Cognitive_behavior_therapy" class="mw-redirect" title="Cognitive behavior therapy">Cognitive behavior therapy</a> (CBT)</li> 
+                         <li>Social skills training</li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Developmental</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li>Early start denver model</li> 
+                         <li><a href="/wiki/Floortime" title="Floortime">Floortime</a> (<a href="/wiki/PLAY_Project" class="mw-redirect" title="PLAY Project">The PLAY Project</a>)</li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Controversial</th>
+                      <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Auditory_integration_training" title="Auditory integration training">Auditory integration training</a></li> 
+                         <li><a href="/wiki/Aversion_therapy" title="Aversion therapy">Aversive therapy</a>/<a href="/wiki/Electric_shock" class="mw-redirect" title="Electric shock">Electric shocks</a> (<a href="/wiki/Judge_Rotenberg_Educational_Center" title="Judge Rotenberg Educational Center">Judge Rotenberg Educational Center</a>)</li> 
+                         <li><a href="/wiki/Chelation_therapy" title="Chelation therapy">Chelation of mercury</a></li> 
+                         <li><a href="/wiki/Ethical_challenges_to_autism_treatment" class="mw-redirect" title="Ethical challenges to autism treatment">Ethical challenges to autism treatment</a></li> 
+                         <li><a href="/wiki/Facilitated_communication" title="Facilitated communication">Facilitated communication</a></li> 
+                         <li><a href="/wiki/Gluten-free,_casein-free_diet" title="Gluten-free, casein-free diet">Gluten-free casein-free diet</a></li> 
+                         <li><a href="/wiki/Hug_machine" title="Hug machine">Hug machine</a></li> 
+                         <li><a href="/wiki/Hyperbaric_medicine" title="Hyperbaric medicine">Hyperbaric oxygen therapy</a></li> 
+                         <li><a href="/wiki/Attachment_therapy" title="Attachment therapy">Holding therapy</a></li> 
+                         <li><a href="/wiki/Relationship_Development_Intervention" title="Relationship Development Intervention">Relationship development intervention</a></li> 
+                         <li><a href="/wiki/Secretin" title="Secretin">Secretin</a></li> 
+                         <li><a href="/wiki/Sensory_integration_therapy" title="Sensory integration therapy">Sensory integration therapy</a></li> 
+                         <li><a href="/wiki/Son-Rise" title="Son-Rise">Son-Rise</a></li> 
+                         <li><a href="/wiki/Vitamin_B12" title="Vitamin B12">Vitamin B12</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Related</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li>ADHD medication (<a href="/wiki/Clonidine" title="Clonidine">Clonidine</a> · <a href="/wiki/Guanfacine" title="Guanfacine">Guanfacine</a> · <a href="/wiki/Methylphenidate" title="Methylphenidate">Methylphenidate</a>)</li> 
+                         <li><a href="/wiki/Melatonin" title="Melatonin">Melatonin</a></li> 
+                         <li><a href="/wiki/Occupational_therapy" title="Occupational therapy">Occupational therapy</a></li> 
+                         <li><a href="/wiki/Social_Stories" title="Social Stories">Social Stories</a></li> 
+                         <li><a href="/wiki/Speech%E2%80%93language_pathology" title="Speech–language pathology">Speech therapy</a></li> 
+                         <li><a href="/wiki/Selective_serotonin_reuptake_inhibitor" title="Selective serotonin reuptake inhibitor">SSRI antidepressants</a> (<a href="/wiki/Fluoxetine" title="Fluoxetine">Fluoxetine</a> · <a href="/wiki/Paroxetine" title="Paroxetine">Paroxetine</a> · <a href="/wiki/Sertraline" title="Sertraline">Sertraline</a>)</li> 
+                         <li><a href="/wiki/Treatment_and_Education_of_Autistic_and_Related_Communication_Handicapped_Children" title="Treatment and Education of Autistic and Related Communication Handicapped Children">Structured teaching (TEACCH)</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <div></div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="col" class="navbox-title" colspan="2">
+                   <div id="Centers" style="font-size:114%;margin:0 4em">
+                    Centers
+                   </div></th>
+                 </tr>
+                 <tr>
+                  <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"></div>
+                   <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                    <tbody>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Research</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"></div>
+                       <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                        <tbody>
+                         <tr>
+                          <th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">United States</th>
+                          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                           <div style="padding:0em 0.25em"> 
+                            <ul>
+                             <li><a href="/wiki/Association_for_Science_in_Autism_Treatment" title="Association for Science in Autism Treatment">Association for Science in Autism Treatment</a></li> 
+                             <li><a href="/wiki/Autism_Research_Institute" title="Autism Research Institute">Autism Research Institute</a></li> 
+                             <li><a href="/wiki/Autism_Science_Foundation" title="Autism Science Foundation">Autism Science Foundation</a></li> 
+                             <li><a href="/wiki/Kennedy_Krieger_Institute" title="Kennedy Krieger Institute">Kennedy Krieger Institute</a></li> 
+                             <li><a href="/wiki/National_Alliance_for_Autism_Research" title="National Alliance for Autism Research">National Alliance for Autism Research</a></li> 
+                             <li><a href="/wiki/Simons_Foundation_Autism_Research_Initiative" title="Simons Foundation Autism Research Initiative">Simons Foundation Autism Research Initiative</a></li> 
+                             <li><a href="/wiki/Yale_Child_Study_Center" title="Yale Child Study Center">Yale Child Study Center</a></li>
+                            </ul> 
+                           </div></td>
+                         </tr>
+                         <tr>
+                          <th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">United Kingdom</th>
+                          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                           <div style="padding:0em 0.25em"> 
+                            <ul>
+                             <li><a href="/wiki/Autism_Research_Centre" title="Autism Research Centre">Autism Research Centre (UK)</a></li>
+                            </ul> 
+                           </div></td>
+                         </tr>
+                         <tr>
+                          <th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">other&nbsp;/ see also</th>
+                          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                           <div style="padding:0em 0.25em"> 
+                            <ul>
+                             <li><a href="/wiki/Outline_of_autism#Conditions_and_research_areas" title="Outline of autism">Conditions and research areas</a></li> 
+                             <li><a href="/wiki/Outline_of_autism#Researchers_and_therapists" title="Outline of autism">Researchers</a></li>
+                            </ul> 
+                           </div></td>
+                         </tr>
+                        </tbody>
+                       </table>
+                       <div></div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Therapy</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"></div>
+                       <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                        <tbody>
+                         <tr>
+                          <th scope="row" class="navbox-group" style="width:7.0em;font-weight:normal;">United States</th>
+                          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+                           <div style="padding:0em 0.25em"> 
+                            <ul>
+                             <li><a href="/wiki/Center_for_Autism_and_Related_Disorders" title="Center for Autism and Related Disorders">Center for Autism and Related Disorders</a> (CARD)</li> 
+                             <li><a href="/wiki/MIND_Institute" title="MIND Institute">MIND Institute</a></li>
+                            </ul> 
+                           </div></td>
+                         </tr>
+                        </tbody>
+                       </table>
+                       <div></div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Schools</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Alpine_Learning_Group" title="Alpine Learning Group">Alpine Learning Group</a></li> 
+                         <li><a href="/wiki/Eden_II_School_for_Autistic_Children" title="Eden II School for Autistic Children">Eden II School for Autistic Children</a></li> 
+                         <li><a href="/w/index.php?title=ELIJA_School&amp;action=edit&amp;redlink=1" class="new" title="ELIJA School (page does not exist)">ELIJA School</a></li> 
+                         <li><a href="/wiki/ESPA_College" title="ESPA College">ESPA College (UK)</a></li> 
+                         <li><a href="/wiki/Exceptional_Minds" title="Exceptional Minds">Exceptional Minds (USA)</a></li> 
+                         <li><a href="/wiki/New_England_Center_for_Children" title="New England Center for Children">New England Center for Children</a></li> 
+                         <li><a href="/wiki/Pathlight_School" title="Pathlight School">Pathlight School (Singapore)</a></li> 
+                         <li><a href="/wiki/Rebecca_School" title="Rebecca School">Rebecca School</a></li> 
+                         <li><a href="/wiki/Sunfield_Children%27s_Home" title="Sunfield Children's Home">Sunfield Children's Home (UK)</a></li> 
+                         <li><a href="/wiki/TreeHouse_School" title="TreeHouse School">TreeHouse School (UK)</a></li> 
+                         <li><a href="/wiki/Western_Autistic_School" title="Western Autistic School">Western Autistic School (Australia)</a></li> 
+                         <li><i><a href="/wiki/List_of_schools_for_people_on_the_autistic_spectrum" class="mw-redirect" title="List of schools for people on the autistic spectrum">List of schools</a></i></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <div></div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="col" class="navbox-title" colspan="2">
+                   <div id="Organizations" style="font-size:114%;margin:0 4em">
+                    Organizations
+                   </div></th>
+                 </tr>
+                 <tr>
+                  <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"></div>
+                   <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                    <tbody>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Americas</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"></div>
+                       <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                        <tbody>
+                         <tr>
+                          <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">United States</th>
+                          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                           <div style="padding:0em 0.25em"> 
+                            <ul>
+                             <li><a href="/wiki/Autism_National_Committee" title="Autism National Committee">Autism National Committee</a></li> 
+                             <li><a href="/wiki/Autism_Network_International" title="Autism Network International">Autism Network International</a></li> 
+                             <li><a href="/wiki/Autism_Science_Foundation" title="Autism Science Foundation">Autism Science Foundation</a></li> 
+                             <li><a href="/wiki/Autistic_Self_Advocacy_Network" title="Autistic Self Advocacy Network">Autistic Self Advocacy Network</a></li> 
+                             <li><a href="/wiki/Autism_Society_of_America" title="Autism Society of America">Autism Society of America</a></li> 
+                             <li><a href="/wiki/Autism_Speaks" title="Autism Speaks">Autism Speaks</a></li> 
+                             <li><a href="/wiki/Centro_Ponce%C3%B1o_de_Autismo" title="Centro Ponceño de Autismo">Centro Ponceño de Autismo</a></li> 
+                             <li><a href="/wiki/Daniel_Jordan_Fiddle_Foundation" title="Daniel Jordan Fiddle Foundation">Daniel Jordan Fiddle Foundation</a></li> 
+                             <li><a href="/wiki/Generation_Rescue" title="Generation Rescue">Generation Rescue</a></li> 
+                             <li><a href="/wiki/Interactive_Autism_Network" title="Interactive Autism Network">Interactive Autism Network</a></li> 
+                             <li><a href="/wiki/Interagency_Autism_Coordinating_Committee" title="Interagency Autism Coordinating Committee">Interagency Autism Coordinating Committee</a></li> 
+                             <li><a href="/wiki/LENA_Foundation" title="LENA Foundation">LENA Foundation</a></li> 
+                             <li><a href="/wiki/National_Alliance_for_Autism_Research" title="National Alliance for Autism Research">National Alliance for Autism Research</a></li> 
+                             <li><a href="/wiki/National_Council_on_Severe_Autism" title="National Council on Severe Autism">National Council on Severe Autism</a></li> 
+                             <li><a href="/wiki/Talk_About_Curing_Autism" title="Talk About Curing Autism">Talk About Curing Autism</a></li>
+                            </ul> 
+                           </div></td>
+                         </tr>
+                         <tr>
+                          <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">other</th>
+                          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                           <div style="padding:0em 0.25em"> 
+                            <ul>
+                             <li><a href="/wiki/Centro_Ann_Sullivan_del_Per%C3%BA" title="Centro Ann Sullivan del Perú">Centro Ann Sullivan (Peru)</a></li> 
+                             <li><a href="/wiki/Domus_Instituto_de_Autismo" title="Domus Instituto de Autismo">Domus Instituto de Autismo (Mexico)</a></li> 
+                             <li>Filipino-Canadian Autism Parent Support Group (Canada)</li> 
+                             <li><a href="/w/index.php?title=Geneva_Centre_for_Autism&amp;action=edit&amp;redlink=1" class="new" title="Geneva Centre for Autism (page does not exist)">Geneva Centre for Autism (Canada)</a></li>
+                            </ul> 
+                           </div></td>
+                         </tr>
+                        </tbody>
+                       </table>
+                       <div></div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Asia</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Action_for_Autism" title="Action for Autism">Action for Autism (India)</a></li> 
+                         <li><a href="/wiki/Autism_Resource_Centre_(Singapore)" title="Autism Resource Centre (Singapore)">Autism Resource Centre (Singapore)</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Caribbean</th>
+                      <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Autistic_Society_of_Trinidad_and_Tobago" title="Autistic Society of Trinidad and Tobago">Autistic Society (Trinidad and Tobago)</a></li> 
+                         <li><a href="/wiki/Maia_Chung_Autism_and_Disabilities_Foundation" title="Maia Chung Autism and Disabilities Foundation">Maia Chung Autism and Disabilities Foundation (Jamaica)</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Europe</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"></div>
+                       <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                        <tbody>
+                         <tr>
+                          <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">UK</th>
+                          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                           <div style="padding:0em 0.25em"> 
+                            <ul>
+                             <li><a href="/wiki/Autism_Anglia" title="Autism Anglia">Autism Anglia</a></li> 
+                             <li><a href="/wiki/The_Autism_Directory" title="The Autism Directory">The Autism Directory</a></li> 
+                             <li><a href="/wiki/Autism_Awareness_Campaign_UK" title="Autism Awareness Campaign UK">Autism Awareness Campaign UK</a></li> 
+                             <li><a href="/wiki/Autism_Cymru" title="Autism Cymru">Autism Cymru</a></li> 
+                             <li><a href="/wiki/Autism_Plus" title="Autism Plus">Autism Plus</a></li> 
+                             <li><a href="/wiki/Autistica" title="Autistica">Autistica</a></li> 
+                             <li><a href="/wiki/National_Autistic_Society" title="National Autistic Society">National Autistic Society</a></li> 
+                             <li><a href="/wiki/Sacar_(charity)" title="Sacar (charity)">Sacar</a></li>
+                            </ul> 
+                           </div></td>
+                         </tr>
+                         <tr>
+                          <th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">other</th>
+                          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                           <div style="padding:0em 0.25em"> 
+                            <ul>
+                             <li><a href="/wiki/Specialisterne" title="Specialisterne">Specialisterne (Denmark)</a></li> 
+                             <li><a href="/wiki/Aspies_For_Freedom" title="Aspies For Freedom">Aspies For Freedom</a></li> 
+                             <li><a href="/w/index.php?title=Alliance_Autiste&amp;action=edit&amp;redlink=1" class="new" title="Alliance Autiste (page does not exist)">Alliance Autiste</a></li>
+                            </ul> 
+                           </div></td>
+                         </tr>
+                        </tbody>
+                       </table>
+                       <div></div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Oceania</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Luke_Priddis_Foundation" title="Luke Priddis Foundation">Luke Priddis Foundation (Australia)</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">International</th>
+                      <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Autism_rights_movement" title="Autism rights movement">Autism rights movement</a></li> 
+                         <li><a href="/wiki/Wrong_Planet" title="Wrong Planet">Wrong Planet</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <div></div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+             <tr>
+              <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"></div>
+               <table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0">
+                <tbody>
+                 <tr>
+                  <th scope="col" class="navbox-title" colspan="2">
+                   <div id="Literature" style="font-size:114%;margin:0 4em">
+                    Literature
+                   </div></th>
+                 </tr>
+                 <tr>
+                  <td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+                   <div style="padding:0em 0.25em"></div>
+                   <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+                    <tbody>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Non-fiction</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/The_Accidental_Teacher" title="The Accidental Teacher">The Accidental Teacher: Life Lessons from My Silent Son</a></li> 
+                         <li><a href="/wiki/Animals_in_Translation" title="Animals in Translation">Animals in Translation</a></li> 
+                         <li><a href="/wiki/Aspergirls" title="Aspergirls">Aspergirls: Empowering Females with Asperger's Syndrome</a></li> 
+                         <li><a href="/wiki/Autism%27s_False_Prophets" title="Autism's False Prophets">Autism's False Prophets</a></li> 
+                         <li><a href="/wiki/Extreme_Love:_Autism" title="Extreme Love: Autism">Extreme Love: Autism</a></li> 
+                         <li><a href="/wiki/Fall_Down_7_Times_Get_Up_8" class="mw-redirect" title="Fall Down 7 Times Get Up 8">Fall Down 7 Times Get Up 8</a></li> 
+                         <li><a href="/wiki/Freaks,_Geeks,_and_Asperger_Syndrome" title="Freaks, Geeks, and Asperger Syndrome">Freaks, Geeks, and Asperger Syndrome: A User Guide to Adolescence</a></li> 
+                         <li><a href="/wiki/In_a_Different_Key" title="In a Different Key">In a Different Key</a></li> 
+                         <li><a href="/wiki/Life_Animated" class="mw-redirect" title="Life Animated">Life Animated</a></li> 
+                         <li><a href="/wiki/Like_Colour_to_the_Blind" title="Like Colour to the Blind">Like Colour to the Blind</a></li> 
+                         <li><a href="/wiki/Look_Me_in_the_Eye" title="Look Me in the Eye">Look Me in the Eye</a></li> 
+                         <li><a href="/wiki/Mother_Warriors" title="Mother Warriors">Mother Warriors</a></li> 
+                         <li><a href="/wiki/My_Autobiography_(Miedzianik)" class="mw-redirect" title="My Autobiography (Miedzianik)">My Autobiography</a></li> 
+                         <li><a href="/wiki/NeuroTribes" title="NeuroTribes">NeuroTribes</a></li> 
+                         <li><a href="/wiki/Nobody_Nowhere" title="Nobody Nowhere">Nobody Nowhere</a></li> 
+                         <li><a href="/wiki/Overcoming_Autism" title="Overcoming Autism">Overcoming Autism</a></li> 
+                         <li><a href="/wiki/The_Reason_I_Jump" title="The Reason I Jump">The Reason I Jump</a></li> 
+                         <li><a href="/wiki/Somebody_Somewhere_(book)" title="Somebody Somewhere (book)">Somebody Somewhere</a></li> 
+                         <li><a href="/wiki/Son-Rise:_The_Miracle_Continues" title="Son-Rise: The Miracle Continues">Son-Rise: The Miracle Continues</a></li> 
+                         <li><a href="/wiki/Strange_Son" title="Strange Son">Strange Son</a></li> 
+                         <li><a href="/wiki/Switched_On_(book)" title="Switched On (book)">Switched On</a></li> 
+                         <li><a href="/wiki/Unstrange_Minds" title="Unstrange Minds">Unstrange Minds</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Fiction</th>
+                      <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/The_Curious_Incident_of_the_Dog_in_the_Night-Time" title="The Curious Incident of the Dog in the Night-Time">The Curious Incident of the Dog in the Night-Time</a></li> 
+                         <li><a href="/wiki/Dear_John_(novel)" title="Dear John (novel)">Dear John</a></li> 
+                         <li><a href="/wiki/House_Rules_(novel)" title="House Rules (novel)">House Rules</a></li> 
+                         <li><a href="/wiki/Mockingbird_(Erskine_novel)" title="Mockingbird (Erskine novel)">Mockingbird</a></li> 
+                         <li><a href="/wiki/Saving_Max" title="Saving Max">Saving Max</a></li> 
+                         <li><a href="/wiki/Speed_of_Dark" title="Speed of Dark">Speed of Dark</a></li> 
+                         <li><a href="/wiki/The_Winter_Journey_(novel)" title="The Winter Journey (novel)">The Winter Journey</a></li> 
+                         <li><a href="/wiki/With_the_Light" title="With the Light">With the Light</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">For younger people</th>
+                      <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Everybody_Is_Different" title="Everybody Is Different">Everybody Is Different: A Book for Young People Who Have Brothers or Sisters With Autism</a></li> 
+                         <li><a href="/wiki/Ian%27s_Walk" title="Ian's Walk">Ian's Walk: A Story about Autism</a></li> 
+                         <li><a href="/wiki/Marcelo_in_the_Real_World" title="Marcelo in the Real World">Marcelo in the Real World</a></li> 
+                         <li><a href="/wiki/Rage:_A_Love_Story" title="Rage: A Love Story">Rage: A Love Story</a></li> 
+                         <li><a href="/wiki/Rules_(novel)" title="Rules (novel)">Rules</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                     <tr>
+                      <th scope="row" class="navbox-group" style="width:1%">Journals</th>
+                      <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;font-style:italic;">
+                       <div style="padding:0em 0.25em"> 
+                        <ul>
+                         <li><a href="/wiki/Autism_(journal)" title="Autism (journal)">Autism</a></li> 
+                         <li><a href="/wiki/Journal_of_Autism_and_Developmental_Disorders" title="Journal of Autism and Developmental Disorders">Journal of Autism and Developmental Disorders</a></li> 
+                         <li><a href="/wiki/Molecular_Autism" title="Molecular Autism">Molecular Autism</a></li> 
+                         <li><a href="/wiki/Research_in_Autism_Spectrum_Disorders" title="Research in Autism Spectrum Disorders">Research in Autism Spectrum Disorders</a></li>
+                        </ul> 
+                       </div></td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <div></div></td>
+                 </tr>
+                </tbody>
+               </table>
+               <div></div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q736974#identifiers&amp;#124;Edit_this_at_Wikidata" style="padding:3px">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q736974#identifiers&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q736974#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><span class="nowrap"><a href="/wiki/RERO_(identifier)" class="mw-redirect" title="RERO (identifier)">RERO</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.rero.ch/02-A025845963">02-A025845963</a></span></span></li> 
+             <li><span class="nowrap"><a href="/wiki/VIAF_(identifier)" class="mw-redirect" title="VIAF (identifier)">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/1392159234744603372580">1392159234744603372580</a></span></span></li> 
+             <li><span class="nowrap"> <a href="/wiki/WorldCat_Identities_(identifier)" class="mw-redirect" title="WorldCat Identities (identifier)">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/1392159234744603372580">1392159234744603372580</a></span></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20210422071716
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.767 seconds
+Real time usage: 0.990 seconds
+Preprocessor visited node count: 3290/1000000
+Post‐expand include size: 180642/2097152 bytes
+Template argument size: 1888/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 76743/5000000 bytes
+Lua time usage: 0.372/10.000 seconds
+Lua memory usage: 6977486/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  828.551      1 -total
+ 38.85%  321.893      2 Template:Reflist
+ 17.60%  145.831     23 Template:Cite_web
+ 15.26%  126.459      1 Template:Infobox_holiday
+ 14.44%  119.677      1 Template:Cite_news
+ 13.71%  113.618     10 Template:Navbox
+ 11.95%   99.022      1 Template:Infobox
+ 11.90%   98.623      1 Template:Authority_control
+  8.41%   69.693      1 Template:Short_description
+  7.28%   60.283      1 Template:Commonscat
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:24884307-0!canonical and timestamp 20210422071715 and revision id 1016560114. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=World_Autism_Awareness_Day&amp;oldid=1016560114">https://en.wikipedia.org/w/index.php?title=World_Autism_Awareness_Day&amp;oldid=1016560114</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:April_observances" title="Category:April observances">April observances</a></li>
+       <li><a href="/wiki/Category:Autism" title="Category:Autism">Autism</a></li>
+       <li><a href="/wiki/Category:Autism_activism" title="Category:Autism activism">Autism activism</a></li>
+       <li><a href="/wiki/Category:Disability_observances" title="Category:Disability observances">Disability observances</a></li>
+       <li><a href="/wiki/Category:Health_awareness_days" title="Category:Health awareness days">Health awareness days</a></li>
+       <li><a href="/wiki/Category:United_Nations_days" title="Category:United Nations days">United Nations days</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Infobox_holiday_with_missing_field" title="Category:Infobox holiday with missing field">Infobox holiday with missing field</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_fixed_day" title="Category:Infobox holiday fixed day">Infobox holiday fixed day</a></li>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li>
+       <li><a href="/wiki/Category:Use_dmy_dates_from_April_2019" title="Category:Use dmy dates from April 2019">Use dmy dates from April 2019</a></li>
+       <li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_RERO_identifiers" title="Category:Wikipedia articles with RERO identifiers">Wikipedia articles with RERO identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li>
+       <li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=World+Autism+Awareness+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=World+Autism+Awareness+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/World_Autism_Awareness_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:World_Autism_Awareness_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/World_Autism_Awareness_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=World_Autism_Awareness_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=World_Autism_Awareness_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/World_Autism_Awareness_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/World_Autism_Awareness_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=World_Autism_Awareness_Day&amp;oldid=1016560114" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=World_Autism_Awareness_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=World_Autism_Awareness_Day&amp;id=1016560114&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q736974" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=World_Autism_Awareness_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=World_Autism_Awareness_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:World_Autism_Awareness_Day" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A_%D9%84%D9%84%D8%AA%D9%88%D8%AD%D8%AF" title="اليوم العالمي للتوحد – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/D%C3%ADa_Mundial_de_Concienciaci%C3%B3n_sobre_l%27Autismu" title="Día Mundial de Concienciación sobre l'Autismu – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC_%E0%A6%85%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%AE_%E0%A6%B8%E0%A6%9A%E0%A7%87%E0%A6%A4%E0%A6%A8%E0%A6%A4%E0%A6%BE_%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8" title="বিশ্ব অটিজম সচেতনতা দিবস – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Svjetski_dan_autizma" title="Svjetski dan autizma – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Dia_Mundial_de_Sensibilitzaci%C3%B3_sobre_l%27Autisme" title="Dia Mundial de Sensibilització sobre l'Autisme – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Welt-Autismus-Tag" title="Welt-Autismus-Tag – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%B3%CE%BA%CF%8C%CF%83%CE%BC%CE%B9%CE%B1_%CE%97%CE%BC%CE%AD%CF%81%CE%B1_%CE%95%CF%85%CE%B1%CE%B9%CF%83%CE%B8%CE%B7%CF%84%CE%BF%CF%80%CE%BF%CE%AF%CE%B7%CF%83%CE%B7%CF%82_%CE%B3%CE%B9%CE%B1_%CF%84%CE%BF%CE%BD_%CE%91%CF%85%CF%84%CE%B9%CF%83%CE%BC%CF%8C" title="Παγκόσμια Ημέρα Ευαισθητοποίησης για τον Αυτισμό – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_de_Concienciaci%C3%B3n_sobre_el_Autismo" title="Día Mundial de Concienciación sobre el Autismo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D8%A2%DA%AF%D8%A7%D9%87%DB%8C_%D8%AC%D9%87%D8%A7%D9%86%DB%8C_%D8%A7%D9%88%D8%AA%DB%8C%D8%B3%D9%85" title="روز آگاهی جهانی اوتیسم – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_de_la_sensibilisation_%C3%A0_l%27autisme" title="Journée mondiale de la sensibilisation à l'autisme – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/D%C3%ADa_Mundial_da_Concienciaci%C3%B3n_sobre_o_Autismo" title="Día Mundial da Concienciación sobre o Autismo – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%B5%E0%AA%BF%E0%AA%B6%E0%AB%8D%E0%AA%B5_%E0%AA%B8%E0%AA%82%E0%AA%AD%E0%AA%BE%E0%AA%B7%E0%AA%A3_%E0%AA%85%E0%AA%95%E0%AB%8D%E0%AA%B7%E0%AA%AE%E0%AA%A4%E0%AA%BE_%E0%AA%9C%E0%AA%BE%E0%AA%A3%E0%AA%95%E0%AA%BE%E0%AA%B0%E0%AB%80_%E0%AA%A6%E0%AA%BF%E0%AA%A8" title="વિશ્વ સંભાષણ અક્ષમતા જાણકારી દિન – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%84%B8%EA%B3%84_%EC%9E%90%ED%8F%90%EC%9D%B8%EC%9D%98_%EB%82%A0" title="세계 자폐인의 날 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B8%D6%82%D5%BF%D5%AB%D5%A6%D5%B4%D5%AB_%D5%AB%D6%80%D5%A1%D5%A6%D5%A5%D5%AF%D5%B4%D5%A1%D5%B6_%D5%B4%D5%AB%D5%BB%D5%A1%D5%A6%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D6%85%D6%80" title="Աուտիզմի իրազեկման միջազգային օր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5_%E0%A4%91%E0%A4%9F%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%AE_%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8" title="विश्व ऑटिज्म दिवस – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Svjetski_dan_svjesnosti_o_autizmu" title="Svjetski dan svjesnosti o autizmu – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hari_Kesadaran_Autisme_Sedunia" title="Hari Kesadaran Autisme Sedunia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Giornata_mondiale_per_la_consapevolezza_sull%27autismo" title="Giornata mondiale per la consapevolezza sull'autismo – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%9D_%D7%94%D7%9E%D7%95%D7%93%D7%A2%D7%95%D7%AA_%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%99_%D7%9C%D7%90%D7%95%D7%98%D7%99%D7%96%D7%9D" title="יום המודעות העולמי לאוטיזם – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%91%D2%AF%D0%BA%D1%96%D0%BB%D3%99%D0%BB%D0%B5%D0%BC%D0%B4%D1%96%D0%BA_%D0%B0%D1%83%D1%82%D0%B8%D0%B7%D0%BC_%D0%BC%D3%99%D1%81%D0%B5%D0%BB%D0%B5%D1%81%D1%96_%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8B_%D0%B0%D2%9B%D0%BF%D0%B0%D1%80%D0%B0%D1%82_%D1%82%D0%B0%D1%80%D0%B0%D1%82%D1%83_%D0%BA%D2%AF%D0%BD%D1%96" title="Бүкіләлемдік аутизм мәселесі туралы ақпарат тарату күні – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Dies_mundialis_de_conscientia_autismi" title="Dies mundialis de conscientia autismi – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8_%D0%B4%D0%B5%D0%BD_%D0%BD%D0%B0_%D1%81%D0%B2%D0%B5%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B0_%D0%B7%D0%B0_%D0%B0%D1%83%D1%82%D0%B8%D0%B7%D0%BC%D0%BE%D1%82" title="Светски ден на свесноста за аутизмот – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B2%E0%B5%8B%E0%B4%95_%E0%B4%93%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF%E0%B4%B8%E0%B4%82_%E0%B4%85%E0%B4%B5%E0%B4%AC%E0%B5%8B%E0%B4%A7_%E0%B4%A6%E0%B4%BF%E0%B4%A8%E0%B4%82" title="ലോക ഓട്ടിസം അവബോധ ദിനം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Hari_Kesedaran_Autisme_Sedunia" title="Hari Kesedaran Autisme Sedunia – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%87%AA%E9%96%89%E7%97%87%E5%95%93%E7%99%BA%E3%83%87%E3%83%BC" title="世界自閉症啓発デー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Verdens_autismedag" title="Verdens autismedag – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%AC%E0%AC%BF%E0%AC%B6%E0%AD%8D%E0%AD%B1_%E0%AC%B8%E0%AD%8D%E0%AD%B1%E0%AC%AA%E0%AC%B0%E0%AC%BE%E0%AD%9F%E0%AC%A3%E0%AC%A4%E0%AC%BE_%E0%AC%B8%E0%AC%9A%E0%AD%87%E0%AC%A4%E0%AC%A8_%E0%AC%A6%E0%AC%BF%E0%AC%AC%E0%AC%B8" title="ବିଶ୍ୱ ସ୍ୱପରାୟଣତା ସଚେତନ ଦିବସ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/%C5%9Awiatowy_Dzie%C5%84_%C5%9Awiadomo%C5%9Bci_Autyzmu" title="Światowy Dzień Świadomości Autyzmu – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Dia_Mundial_de_Conscientiza%C3%A7%C3%A3o_do_Autismo" title="Dia Mundial de Conscientização do Autismo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ziua_Interna%C8%9Bional%C4%83_de_Con%C8%99tientizare_a_Autismului" title="Ziua Internațională de Conștientizare a Autismului – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8_%D0%BE_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B5_%D0%B0%D1%83%D1%82%D0%B8%D0%B7%D0%BC%D0%B0" title="Всемирный день распространения информации о проблеме аутизма – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Dita_bot%C3%ABrore_e_autizmit" title="Dita botërore e autizmit – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8_%D0%B4%D0%B0%D0%BD_%D0%BE%D1%81%D0%BE%D0%B1%D0%B0_%D1%81%D0%B0_%D0%B0%D1%83%D1%82%D0%B8%D0%B7%D0%BC%D0%BE%D0%BC" title="Светски дан особа са аутизмом – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Maailman_autismitietoisuuden_p%C3%A4iv%C3%A4" title="Maailman autismitietoisuuden päivä – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%B2%E0%AE%95_%E0%AE%AE%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95_%E0%AE%B5%E0%AE%BF%E0%AE%B4%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A3%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AF%81_%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D" title="உலக மதியிறுக்க விழிப்புணர்வு நாள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%96%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D1%80%D0%BE%D0%B7%D0%BF%D0%BE%D0%B2%D1%81%D1%8E%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D1%97_%D0%BF%D1%80%D0%BE_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%83_%D0%B0%D1%83%D1%82%D0%B8%D0%B7%D0%BC%D1%83" title="Всесвітній день розповсюдження інформації про проблему аутизму – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%87%AA%E9%96%89%E7%97%87%E6%97%A5" title="世界自閉症日 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E6%8F%90%E9%AB%98%E8%87%AA%E9%97%AD%E7%97%87%E6%84%8F%E8%AF%86%E6%97%A5" title="世界提高自闭症意识日 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q736974#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 7 April 2021, at 20:35<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=World_Autism_Awareness_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.767","walltime":"0.990","ppvisitednodes":{"value":3290,"limit":1000000},"postexpandincludesize":{"value":180642,"limit":2097152},"templateargumentsize":{"value":1888,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":76743,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  828.551      1 -total"," 38.85%  321.893      2 Template:Reflist"," 17.60%  145.831     23 Template:Cite_web"," 15.26%  126.459      1 Template:Infobox_holiday"," 14.44%  119.677      1 Template:Cite_news"," 13.71%  113.618     10 Template:Navbox"," 11.95%   99.022      1 Template:Infobox"," 11.90%   98.623      1 Template:Authority_control","  8.41%   69.693      1 Template:Short_description","  7.28%   60.283      1 Template:Commonscat"]},"scribunto":{"limitreport-timeusage":{"value":"0.372","limit":"10.000"},"limitreport-memusage":{"value":6977486,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20210422071716","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"World Autism Awareness Day","url":"https:\/\/en.wikipedia.org\/wiki\/World_Autism_Awareness_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q736974","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q736974","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-10-29T08:05:51Z","dateModified":"2021-04-07T20:35:22Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/53\/Organizador_de_Autismo_en_La_Moneda.jpg","headline":"day to raise autism awareness"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":199,"wgHostname":"mw1329"});});</script> 
+ </body>
+</html>

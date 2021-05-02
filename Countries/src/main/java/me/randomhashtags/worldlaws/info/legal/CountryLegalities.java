@@ -1,13 +1,9 @@
 package me.randomhashtags.worldlaws.info.legal;
 
-import me.randomhashtags.worldlaws.EventSource;
-import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.info.CountryInfoKey;
 import me.randomhashtags.worldlaws.info.CountryInfoValue;
 import me.randomhashtags.worldlaws.location.CountryInfo;
-import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;

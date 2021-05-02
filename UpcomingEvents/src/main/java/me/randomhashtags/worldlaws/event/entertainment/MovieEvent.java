@@ -1,8 +1,7 @@
 package me.randomhashtags.worldlaws.event.entertainment;
 
 import me.randomhashtags.worldlaws.LocalServer;
-import me.randomhashtags.worldlaws.UpcomingEventType;
-import me.randomhashtags.worldlaws.event.EventDate;
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.event.UpcomingEvent;
 
@@ -11,8 +10,8 @@ public final class MovieEvent implements UpcomingEvent {
     private final String title, description, posterURL, productionCompany, releaseInfo;
     private final EventSources sources;
 
-    public MovieEvent(EventDate releaseDate, String title, String description, String posterURL, String productionCompany, String releaseInfo, EventSources sources) {
-        this.date = releaseDate;
+    public MovieEvent(String title, String description, String posterURL, String productionCompany, String releaseInfo, EventSources sources) {
+        this.date = null;
         this.title = LocalServer.fixEscapeValues(title);
         this.description = LocalServer.fixEscapeValues(description);
         this.posterURL = posterURL;
@@ -21,10 +20,6 @@ public final class MovieEvent implements UpcomingEvent {
         this.sources = sources;
     }
 
-    @Override
-    public UpcomingEventType getType() {
-        return UpcomingEventType.MOVIE;
-    }
     @Override
     public EventDate getDate() {
         return date;
@@ -52,8 +47,8 @@ public final class MovieEvent implements UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
-                "\"productionCompany\":\"" + productionCompany + "\"," +
-                "\"releaseInfo\":\"" + LocalServer.fixEscapeValues(releaseInfo) + "\"" +
+                (releaseInfo != null ? "\"releaseInfo\":\"" + LocalServer.fixEscapeValues(releaseInfo) + "\"," : "") +
+                "\"productionCompany\":\"" + productionCompany + "\"" +
                 "}";
     }
 

@@ -1,0 +1,871 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>United Nations Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"fd866f80-6cf4-42fd-b88b-c5b00ebfa52c","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"United_Nations_Day","wgTitle":"United Nations Day","wgCurRevisionId":991383357,"wgRevisionId":991383357,"wgArticleId":856769,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from October 2017","All articles needing additional references","Infobox holiday with missing field","Infobox holiday fixed day (2)","United Nations days","October observances","Recurring events established in 1948","International organization days",
+"1948 introductions"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"United_Nations_Day","wgRelevantArticleId":856769,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q210016"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready",
+"user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/1200px-Flag_of_the_United_Nations.svg.png"> 
+  <meta property="og:title" content="United Nations Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/United_Nations_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=United_Nations_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=United_Nations_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/United_Nations_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-United_Nations_Day rootpage-United_Nations_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">United Nations Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=United_Nations_Day&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22United+Nations+Day%22">"United Nations Day"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22United+Nations+Day%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22United+Nations+Day%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22United+Nations+Day%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22United+Nations+Day%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22United+Nations+Day%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> <small class="date-container"><i>(<span class="date">October 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <table class="infobox vevent">
+       <tbody>
+        <tr>
+         <th colspan="2" class="infobox-above hd" style="background-color: #ddccff">United Nations Day</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image"><a href="/wiki/File:Flag_of_the_United_Nations.svg" class="image"><img alt="Flag of the United Nations.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/240px-Flag_of_the_United_Nations.svg.png" decoding="async" width="240" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/360px-Flag_of_the_United_Nations.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/480px-Flag_of_the_United_Nations.svg.png 2x" data-file-width="1200" data-file-height="800"></a>
+          <div class="infobox-caption" style="caption">
+           <a href="/wiki/Flag_of_the_United_Nations" title="Flag of the United Nations">Flag of the United Nations</a>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Official name</th>
+         <td class="infobox-data">United Nations Day</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Also called</th>
+         <td class="infobox-data">U.N. Day</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Observed&nbsp;by</th>
+         <td class="infobox-data"><a href="/wiki/List_of_minor_secular_observances#international" title="List of minor secular observances">international</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Type</th>
+         <td class="infobox-data">United Nations organization</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Celebrations</th>
+         <td class="infobox-data">Meetings, discussions, exhibits, cultural performances</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Date</th>
+         <td class="infobox-data"><a href="/wiki/24_October" class="mw-redirect" title="24 October">24 October</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Next&nbsp;time</th>
+         <td class="infobox-data">24 October 2021<span style="display:none">&nbsp;(<span class="dtstart">2021-10-24</span>)</span></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Frequency</th>
+         <td class="infobox-data">annual</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Related&nbsp;to</th>
+         <td class="infobox-data"><a href="/wiki/World_Development_Information_Day" title="World Development Information Day">World Development Information Day</a></td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>United Nations Day</b> is an annual commemorative day, reflecting the official creation of the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> on 24 October 1945. In 1947, the <a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">United Nations General Assembly</a> declared 24 October, the anniversary of the <a href="/wiki/United_Nations_Charter" class="mw-redirect" title="United Nations Charter">Charter of the United Nations</a>, as which "shall be devoted to making known to the people of the world the aims and achievements of the United Nations and to gaining their support for" its work.<sup id="cite_ref-UN_ARES168II_1-0" class="reference"><a href="#cite_note-UN_ARES168II-1">[1]</a></sup> </p>
+      <p>In 1971, the <a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">United Nations General Assembly</a> adopted a further resolution (<a href="/wiki/United_Nations_General_Assembly_resolution" title="United Nations General Assembly resolution">United Nations Resolution</a> 2782) declaring that United Nations Day shall be an <a href="/wiki/List_of_minor_secular_observances#October" title="List of minor secular observances">international observance</a> or international holiday and recommended that it should be observed as a public holiday by <a href="/wiki/United_Nations_member_states" class="mw-redirect" title="United Nations member states">United Nations member states</a>.<sup id="cite_ref-UN_ARES2782XXVI_2-0" class="reference"><a href="#cite_note-UN_ARES2782XXVI-2">[2]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#World_War_II_Allies'_day"><span class="tocnumber">1</span> <span class="toctext">World War II Allies' day</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Commemoration"><span class="tocnumber">2</span> <span class="toctext">Commemoration</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#History_Commemorations"><span class="tocnumber">3</span> <span class="toctext">History Commemorations</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#World_Development_Information_Day"><span class="tocnumber">4</span> <span class="toctext">World Development Information Day</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span id="World_War_II_Allies.27_day"></span><span class="mw-headline" id="World_War_II_Allies'_day">World War II Allies' day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Nations_Day&amp;action=edit&amp;section=1" title="Edit section: World War II Allies' day">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The first event called "United Nations Day" was a <a href="/wiki/Allies_of_World_War_II" title="Allies of World War II">World War II Allies</a>' day of solidarity and <a href="/wiki/Military_parade" title="Military parade">military parades</a> launched by US President <a href="/wiki/Franklin_D._Roosevelt" title="Franklin D. Roosevelt">Franklin D. Roosevelt</a> tied to <a href="/wiki/Flag_Day_(United_States)" title="Flag Day (United States)">US Flag Day</a> on June 14, 1942, six months after the <a href="/wiki/Declaration_by_United_Nations" title="Declaration by United Nations">Declaration by United Nations</a>. It was observed in New York City as the "<a href="/wiki/New_York_at_War" title="New York at War">New York at War</a>" parade, in <a href="/wiki/London" title="London">London</a>, and by the Soviet and Chinese governments.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </p>
+      <p>It was observed throughout World War II, during 1942–1944. Prior to the foundation of the UN itself, it was not directly connected to the current international observance. </p> 
+      <h2><span class="mw-headline" id="Commemoration">Commemoration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Nations_Day&amp;action=edit&amp;section=2" title="Edit section: Commemoration">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>U.N. Day has traditionally been marked throughout the world with meetings, discussions and exhibits about the achievements and goals of the organization. In 1971, the General Assembly recommended that <a href="/wiki/United_Nations_member_states" class="mw-redirect" title="United Nations member states">member states</a> observe it as a <a href="/wiki/Public_holiday" title="Public holiday">public holiday</a>. </p>
+      <p>Several <a href="/wiki/International_schools" class="mw-redirect" title="International schools">international schools</a> throughout India and other countries throughout the world would also celebrate the <a href="/wiki/Cultural_diversity" title="Cultural diversity">diversity</a> of their student body on United Nations Day (although the event is not necessarily celebrated on 24 October). Celebrations often include a show of cultural performances in the evening and a food fair, where food is available from all over the world. </p>
+      <p>In the <a href="/wiki/United_States" title="United States">United States</a>, the <a href="/wiki/President_of_the_United_States" title="President of the United States">President</a> has issued a <a href="/wiki/List_of_observances_in_the_United_States_by_presidential_proclamation" title="List of observances in the United States by presidential proclamation">proclamation</a> each year for United Nations Day since 1948.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </p>
+      <p>In <a href="/wiki/Kosovo" title="Kosovo">Kosovo</a>, United Nations Day is an official non-working day, as the province is administered by the <a href="/wiki/United_Nations_Interim_Administration_Mission_in_Kosovo" title="United Nations Interim Administration Mission in Kosovo">Interim Administration Mission</a>. </p>
+      <p>In the <a href="/wiki/Philippines" title="Philippines">Philippines</a>, local schoolchildren customarily dress in the national costumes of member states and hold a programme on U.N. Day, which is the last school day before semestral break. Individual students, classes, or grade levels are assigned a country to represent and study; students handcraft their assigned country's flag, and prepare cultural presentations and food as part of the day's educational activities. </p> 
+      <h2><span class="mw-headline" id="History_Commemorations">History Commemorations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Nations_Day&amp;action=edit&amp;section=3" title="Edit section: History Commemorations">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>On United Nations Day in 1951, the <a href="/wiki/United_Nations_Postal_Administration" title="United Nations Postal Administration">United Nations Postal Administration</a> issued the first UN Stamps, which were issued in <a href="/wiki/United_States_dollar" title="United States dollar">U.S. Dollars</a> at the <a href="/wiki/UN_Headquarters" class="mw-redirect" title="UN Headquarters">U.N. Headquarters</a> in New York.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p> 
+      <h2><span class="mw-headline" id="World_Development_Information_Day">World Development Information Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Nations_Day&amp;action=edit&amp;section=4" title="Edit section: World Development Information Day">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The UN's <a href="/wiki/World_Development_Information_Day" title="World Development Information Day">World Development Information Day</a> has also been held on 24 October since 1972 </p>
+      <p>Humanity has entered the era of <a href="/wiki/Sustainability" title="Sustainability">sustainability</a> – with a global commitment to fulfill the great promise of the 2030 Agenda for Sustainable Development. It is celebrated on 24 October worldwide. Many institutions celebrate it by conducting quizzes and elocutions. Da Potta Group of Companies in Kenya, Tanzania and India celebrate it with various discussions. </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Nations_Day&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r936637989">.mw-parser-output .portal{border:solid #aaa 1px;padding:0}.mw-parser-output .portal.tleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portal.tright{margin:0.5em 0 0.5em 1em}.mw-parser-output .portal>ul{display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold}.mw-parser-output .portal>ul>li{display:table-row}.mw-parser-output .portal>ul>li>span:first-child{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portal>ul>li>span:last-child{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}</style>
+      <div role="navigation" aria-label="Portals" class="noprint portal plainlist tright"> 
+       <ul> 
+        <li><span><a href="/wiki/File:A_coloured_voting_box.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/28px-A_coloured_voting_box.svg.png" decoding="async" width="28" height="28" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/42px-A_coloured_voting_box.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/56px-A_coloured_voting_box.svg.png 2x" data-file-width="160" data-file-height="160"></a></span><span><a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></span></li>
+       </ul>
+      </div> 
+      <ul>
+       <li><a href="/wiki/International_Day_of_United_Nations_Peacekeepers" title="International Day of United Nations Peacekeepers">International Day of United Nations Peacekeepers</a></li> 
+       <li><a href="/wiki/Commonwealth_Day" title="Commonwealth Day">Commonwealth Day</a></li> 
+       <li><a href="/wiki/Europe_Day" title="Europe Day">Europe Day</a></li> 
+       <li><a href="/wiki/Global_citizenship" title="Global citizenship">Global citizenship</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Nations_Day&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist reflist-columns references-column-width" style="column-width: 30em;"> 
+       <ol class="references"> 
+        <li id="cite_note-UN_ARES168II-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-UN_ARES168II_1-0">^</a></b></span> <span class="reference-text"><a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">United Nations General Assembly</a> Session 2 <i>Resolution</i> <i>168</i>.<a rel="nofollow" class="external text" href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/168(II)"> <i>United Nations Day</i> <b>A/RES/168(II)</b></a> 31 October 1947. Retrieved 2008-10-24.</span> </li> 
+        <li id="cite_note-UN_ARES2782XXVI-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-UN_ARES2782XXVI_2-0">^</a></b></span> <span class="reference-text"><a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">United Nations General Assembly</a> Session -1 <i>Resolution</i> <i>2782</i>.<a rel="nofollow" class="external text" href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/2782(XXVI)"> <i>Proclamation of United Nations Day as an international holiday</i> <b>A/RES/2782(XXVI)</b></a> 6 December 1971. Retrieved 2008-10-24.</span> </li> 
+        <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFPlesch2010" class="citation news cs1">Plesch, Dan (June 6, 2010). <a rel="nofollow" class="external text" href="http://www.historytoday.com/dan-plesch/united-nations-free-worlds-great-parade">"The United Nations: The Free World's Great Parade"</a>. <i>History Today</i>. <b>60</b> (6).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=History+Today&amp;rft.atitle=The+United+Nations%3A+The+Free+World%27s+Great+Parade&amp;rft.volume=60&amp;rft.issue=6&amp;rft.date=2010-06-06&amp;rft.aulast=Plesch&amp;rft.aufirst=Dan&amp;rft_id=http%3A%2F%2Fwww.historytoday.com%2Fdan-plesch%2Funited-nations-free-worlds-great-parade&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Nations+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://archives.chicagotribune.com/1942/06/14/page/5/article/london-decked-with-flags-for-united-nations">"London Decked with Flags for United Nations - Other Countries Prepare to Celebrate"</a>. <i>Chicago Tribune</i>. June 14, 1942. p.&nbsp;5.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chicago+Tribune&amp;rft.atitle=London+Decked+with+Flags+for+United+Nations+-+Other+Countries+Prepare+to+Celebrate&amp;rft.pages=5&amp;rft.date=1942-06-14&amp;rft_id=http%3A%2F%2Farchives.chicagotribune.com%2F1942%2F06%2F14%2Fpage%2F5%2Farticle%2Flondon-decked-with-flags-for-united-nations&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Nations+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFPleschWeiss2015" class="citation book cs1">Plesch, Dan; Weiss, Thomas G. (2015-01-09). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=OHocBgAAQBAJ&amp;pg=PA5"><i>Wartime Origins and the Future United Nations</i></a>. Routledge. p.&nbsp;5. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9781134668731" title="Special:BookSources/9781134668731"><bdi>9781134668731</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Wartime+Origins+and+the+Future+United+Nations&amp;rft.pages=5&amp;rft.pub=Routledge&amp;rft.date=2015-01-09&amp;rft.isbn=9781134668731&amp;rft.aulast=Plesch&amp;rft.aufirst=Dan&amp;rft.au=Weiss%2C+Thomas+G.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DOHocBgAAQBAJ%26pg%3DPA5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Nations+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFBennett2012" class="citation book cs1">Bennett, M. Todd (2012-11-01). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=xWS1yEucBfAC&amp;pg=PT129"><i>One World, Big Screen: Hollywood, the Allies, and World War II</i></a>. UNC Press Books. p.&nbsp;113. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780807837467" title="Special:BookSources/9780807837467"><bdi>9780807837467</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=One+World%2C+Big+Screen%3A+Hollywood%2C+the+Allies%2C+and+World+War+II&amp;rft.pages=113&amp;rft.pub=UNC+Press+Books&amp;rft.date=2012-11-01&amp;rft.isbn=9780807837467&amp;rft.aulast=Bennett&amp;rft.aufirst=M.+Todd&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DxWS1yEucBfAC%26pg%3DPT129&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Nations+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFChurchill2013" class="citation book cs1">Churchill, Sir Winston S. (2013-04-01). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=udEqAAAAQBAJ&amp;lpg=PT168"><i>The End of the Beginning</i></a>. RosettaBooks. p.&nbsp;168. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780795331787" title="Special:BookSources/9780795331787"><bdi>9780795331787</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+End+of+the+Beginning&amp;rft.pages=168&amp;rft.pub=RosettaBooks&amp;rft.date=2013-04-01&amp;rft.isbn=9780795331787&amp;rft.aulast=Churchill&amp;rft.aufirst=Sir+Winston+S.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DudEqAAAAQBAJ%26lpg%3DPT168&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Nations+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFJohnstone2016" class="citation book cs1">Johnstone, Andrew (2016-04-22). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=O_oGDAAAQBAJ&amp;pg=PT48"><i>Dilemmas of Internationalism: The American Association for the United Nations and US Foreign Policy, 1941-1948</i></a>. Routledge. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9781317150541" title="Special:BookSources/9781317150541"><bdi>9781317150541</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dilemmas+of+Internationalism%3A+The+American+Association+for+the+United+Nations+and+US+Foreign+Policy%2C+1941-1948&amp;rft.pub=Routledge&amp;rft.date=2016-04-22&amp;rft.isbn=9781317150541&amp;rft.aulast=Johnstone&amp;rft.aufirst=Andrew&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DO_oGDAAAQBAJ%26pg%3DPT48&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Nations+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.presidency.ucsb.edu/ws/?pid=87177">"Harry S. Truman: Proclamation 2811—United Nations Day, 1948"</a>. <i>www.presidency.ucsb.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-10-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.presidency.ucsb.edu&amp;rft.atitle=Harry+S.+Truman%3A+Proclamation+2811%E2%80%94United+Nations+Day%2C+1948&amp;rft_id=http%3A%2F%2Fwww.presidency.ucsb.edu%2Fws%2F%3Fpid%3D87177&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Nations+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://unstamps.org/about-unpa/history/">"History - UN Stamps"</a>. <i>unstamps.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-01-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=unstamps.org&amp;rft.atitle=History+-+UN+Stamps&amp;rft_id=https%3A%2F%2Funstamps.org%2Fabout-unpa%2Fhistory%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnited+Nations+Day" class="Z3988"></span></span> </li> 
+       </ol>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=United_Nations_Day&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><span class="languageicon">(in English)</span> <a rel="nofollow" class="external text" href="https://www.un.org/en/events/unday/">UN Day</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_United_Nations" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:United_Nations" title="Template:United Nations"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:United_Nations" title="Template talk:United Nations"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:United_Nations&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_United_Nations" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/23px-Flag_of_the_United_Nations.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/35px-Flag_of_the_United_Nations.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/46px-Flag_of_the_United_Nations.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;</span><a href="/wiki/United_Nations" title="United Nations">United Nations</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2">
+           <div id="*_Secretary-General:_António_Guterres_*_Deputy_Secretary-General:_Amina_J._Mohammed_*_General_Assembly_President:_Volkan_Bozkır"> 
+            <ul>
+             <li><a href="/wiki/Secretary-General_of_the_United_Nations" title="Secretary-General of the United Nations">Secretary-General</a>: <a href="/wiki/Ant%C3%B3nio_Guterres" title="António Guterres">António Guterres</a></li> 
+             <li><a href="/wiki/Deputy_Secretary-General_of_the_United_Nations" title="Deputy Secretary-General of the United Nations">Deputy Secretary-General</a>: <a href="/wiki/Amina_J._Mohammed" title="Amina J. Mohammed">Amina J. Mohammed</a></li> 
+             <li><a href="/wiki/President_of_the_United_Nations_General_Assembly" title="President of the United Nations General Assembly">General Assembly President</a>: <a href="/wiki/Volkan_Bozk%C4%B1r" title="Volkan Bozkır">Volkan Bozkır</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/United_Nations_System" title="United Nations System">UN System</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Charter_of_the_United_Nations" title="Charter of the United Nations">Charter</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Preamble_to_the_United_Nations_Charter" title="Preamble to the United Nations Charter">Preamble</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Principal organs</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/United_Nations_Secretariat" title="United Nations Secretariat">Secretariat</a> 
+                  <ul>
+                   <li><a href="/wiki/Secretary-General_of_the_United_Nations" title="Secretary-General of the United Nations">Secretary-General</a></li> 
+                   <li><a href="/wiki/Deputy_Secretary-General_of_the_United_Nations" title="Deputy Secretary-General of the United Nations">Deputy Secretary-General</a></li> 
+                   <li><a href="/wiki/Under-Secretary-General_of_the_United_Nations" title="Under-Secretary-General of the United Nations">Under-Secretary-General</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">General Assembly</a> 
+                  <ul>
+                   <li><a href="/wiki/President_of_the_United_Nations_General_Assembly" title="President of the United Nations General Assembly">President</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/International_Court_of_Justice" title="International Court of Justice">International Court of Justice</a> 
+                  <ul>
+                   <li><a href="/wiki/Statute_of_the_International_Court_of_Justice" title="Statute of the International Court of Justice">Statute</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_Security_Council" title="United Nations Security Council">Security Council</a> 
+                  <ul>
+                   <li><a href="/wiki/List_of_members_of_the_United_Nations_Security_Council" title="List of members of the United Nations Security Council">Members</a></li> 
+                   <li><a href="/wiki/President_of_the_United_Nations_Security_Council" class="mw-redirect" title="President of the United Nations Security Council">President</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_Economic_and_Social_Council" title="United Nations Economic and Social Council">Economic and Social Council</a> 
+                  <ul>
+                   <li><a href="/wiki/President_of_the_United_Nations_Economic_and_Social_Council" title="President of the United Nations Economic and Social Council">President</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_Trusteeship_Council" title="United Nations Trusteeship Council">Trusteeship Council</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">
+               <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+                <a href="/wiki/United_Nations_System#Funds_and_programmes,_research_and_training_institutes,_and_other_bodies" title="United Nations System">Funds, programmes,<br>and other bodies</a>
+               </div></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Culture_of_Peace" title="Culture of Peace">Culture of Peace</a></li> 
+                 <li><a href="/wiki/International_Trade_Centre" title="International Trade Centre">ITC</a></li> 
+                 <li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">IPCC</a></li> 
+                 <li><a href="/wiki/International_Atomic_Energy_Agency" title="International Atomic Energy Agency">IAEA</a></li> 
+                 <li><a href="/wiki/United_Nations_Mission_for_the_Referendum_in_Western_Sahara" title="United Nations Mission for the Referendum in Western Sahara">MINURSO</a></li> 
+                 <li><a href="/wiki/Joint_United_Nations_Programme_on_HIV/AIDS" title="Joint United Nations Programme on HIV/AIDS">UNAIDS</a></li> 
+                 <li><a href="/wiki/Special_Court_for_Sierra_Leone" title="Special Court for Sierra Leone">SCSL</a></li> 
+                 <li><a href="/wiki/United_Nations_Conference_on_Trade_and_Development" title="United Nations Conference on Trade and Development">UNCTAD</a></li> 
+                 <li><a href="/wiki/United_Nations_Commission_on_International_Trade_Law" title="United Nations Commission on International Trade Law">UNCITRAL</a></li> 
+                 <li><a href="/wiki/United_Nations_Capital_Development_Fund" title="United Nations Capital Development Fund">UNCDF</a></li> 
+                 <li><a href="/wiki/United_Nations_Department_of_Global_Communications" title="United Nations Department of Global Communications">UNDGC</a></li> 
+                 <li><a href="/wiki/United_Nations_Development_Programme" title="United Nations Development Programme">UNDP</a></li> 
+                 <li><a href="/wiki/United_Nations_Department_of_Peace_Operations" title="United Nations Department of Peace Operations">UNDPO</a> 
+                  <ul>
+                   <li><a href="/wiki/United_Nations_peacekeeping" title="United Nations peacekeeping">peacekeeping</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_Environment_Programme" title="United Nations Environment Programme">UNEP</a> 
+                  <ul>
+                   <li><a href="/wiki/UNEP_OzonAction" title="UNEP OzonAction">OzonAction</a></li> 
+                   <li><a href="/wiki/GRID-Arendal" title="GRID-Arendal">UNEP/GRID-Arendal</a></li> 
+                   <li><a href="/wiki/World_Conservation_Monitoring_Centre" title="World Conservation Monitoring Centre">UNEP-WCMC</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_Fund_for_International_Partnerships_(UNFIP)" title="United Nations Fund for International Partnerships (UNFIP)">UNFIP</a></li> 
+                 <li><a href="/wiki/United_Nations_Population_Fund" title="United Nations Population Fund">UNFPA</a></li> 
+                 <li><a href="/wiki/United_Nations_Human_Settlements_Programme" title="United Nations Human Settlements Programme">UN-HABITAT</a></li> 
+                 <li><a href="/wiki/Office_of_the_United_Nations_High_Commissioner_for_Human_Rights" title="Office of the United Nations High Commissioner for Human Rights">OHCHR</a></li> 
+                 <li><a href="/wiki/United_Nations_High_Commissioner_for_Refugees" title="United Nations High Commissioner for Refugees">UNHCR</a></li> 
+                 <li><a href="/wiki/United_Nations_Human_Rights_Council" title="United Nations Human Rights Council">UNHRC</a></li> 
+                 <li><a href="/wiki/UNICEF" title="UNICEF">UNICEF</a></li> 
+                 <li><a href="/wiki/United_Nations_Interregional_Crime_and_Justice_Research_Institute" title="United Nations Interregional Crime and Justice Research Institute">UNICRI</a></li> 
+                 <li><a href="/wiki/United_Nations_Institute_for_Disarmament_Research" title="United Nations Institute for Disarmament Research">UNIDIR</a></li> 
+                 <li><a href="/wiki/United_Nations_Institute_for_Training_and_Research" title="United Nations Institute for Training and Research">UNITAR</a></li> 
+                 <li><a href="/wiki/United_Nations-Oceans" title="United Nations-Oceans">UN-Oceans</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_on_Drugs_and_Crime" title="United Nations Office on Drugs and Crime">UNODC</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_for_Project_Services" title="United Nations Office for Project Services">UNOPS</a></li> 
+                 <li><a href="/wiki/UNOSAT" title="UNOSAT">UNOSAT</a></li> 
+                 <li><a href="/wiki/United_Nations_Research_Institute_for_Social_Development" title="United Nations Research Institute for Social Development">UNRISD</a></li> 
+                 <li><a href="/wiki/UNRWA" title="UNRWA">UNRWA</a></li> 
+                 <li><a href="/wiki/United_Nations_Sustainable_Development_Group" title="United Nations Sustainable Development Group">UNSDG</a></li> 
+                 <li><a href="/wiki/United_Nations_System_Staff_College" title="United Nations System Staff College">UNSSC</a></li> 
+                 <li><a href="/wiki/United_Nations_University" title="United Nations University">UNU</a> 
+                  <ul>
+                   <li><a href="/wiki/UNU-OP" title="UNU-OP">UNU-OP</a></li> 
+                   <li><a href="/wiki/UNU-CRIS" title="UNU-CRIS">UNU-CRIS</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_Volunteers" title="United Nations Volunteers">UNV</a></li> 
+                 <li><a href="/wiki/UN_Women" title="UN Women">UN Women</a></li> 
+                 <li><a href="/wiki/World_Food_Programme" title="World Food Programme">WFP</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">
+               <div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">
+                <a href="/wiki/List_of_specialized_agencies_of_the_United_Nations" title="List of specialized agencies of the United Nations">Specialized agencies</a>
+               </div></th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Food_and_Agriculture_Organization" title="Food and Agriculture Organization">FAO</a></li> 
+                 <li><a href="/wiki/International_Civil_Aviation_Organization" title="International Civil Aviation Organization">ICAO</a></li> 
+                 <li><a href="/wiki/International_Fund_for_Agricultural_Development" title="International Fund for Agricultural Development">IFAD</a></li> 
+                 <li><a href="/wiki/International_Labour_Organization" title="International Labour Organization">ILO</a></li> 
+                 <li><a href="/wiki/International_Monetary_Fund" title="International Monetary Fund">IMF</a></li> 
+                 <li><a href="/wiki/International_Maritime_Organization" title="International Maritime Organization">IMO</a></li> 
+                 <li><a href="/wiki/International_Telecommunication_Union" title="International Telecommunication Union">ITU</a></li> 
+                 <li><a href="/wiki/UNESCO" title="UNESCO">UNESCO</a></li> 
+                 <li><a href="/wiki/United_Nations_Industrial_Development_Organization" title="United Nations Industrial Development Organization">UNIDO</a></li> 
+                 <li><a href="/wiki/World_Tourism_Organization" title="World Tourism Organization">UNWTO</a></li> 
+                 <li><a href="/wiki/Universal_Postal_Union" title="Universal Postal Union">UPU</a></li> 
+                 <li><a href="/wiki/World_Health_Organization" title="World Health Organization">WHO</a></li> 
+                 <li><a href="/wiki/World_Intellectual_Property_Organization" title="World Intellectual Property Organization">WIPO</a></li> 
+                 <li><a href="/wiki/World_Meteorological_Organization" title="World Meteorological Organization">WMO</a></li> 
+                 <li><a href="/wiki/World_Bank_Group" title="World Bank Group">World Bank Group</a> 
+                  <ul>
+                   <li><a href="/wiki/International_Bank_for_Reconstruction_and_Development" title="International Bank for Reconstruction and Development">IBRD</a></li> 
+                   <li><a href="/wiki/International_Development_Association" title="International Development Association">IDA</a></li> 
+                   <li><a href="/wiki/International_Finance_Corporation" title="International Finance Corporation">IFC</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/United_Nations_Secretariat" title="United Nations Secretariat">Secretariat Offices<br>and Departments</a></th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Headquarters_of_the_United_Nations" title="Headquarters of the United Nations">Headquarters</a></li> 
+                 <li><a href="/wiki/Office_of_the_Secretary-General%27s_Envoy_on_Youth" title="Office of the Secretary-General's Envoy on Youth">Envoy on Youth</a></li> 
+                 <li><a href="/wiki/Office_of_the_Spokesperson_for_the_Secretary-General" title="Office of the Spokesperson for the Secretary-General">Spokesperson for the Secretary-General</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_at_Geneva" title="United Nations Office at Geneva">Geneva</a></li> 
+                 <li><a href="/wiki/Palace_of_Nations" title="Palace of Nations">Palace of Nations</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_at_Nairobi" title="United Nations Office at Nairobi">Nairobi</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_at_Vienna" title="United Nations Office at Vienna">Vienna</a></li> 
+                 <li><a href="/wiki/United_Nations_Department_of_Economic_and_Social_Affairs" title="United Nations Department of Economic and Social Affairs">Economic and Social Affairs</a></li> 
+                 <li><a href="/wiki/United_Nations_Department_of_Political_and_Peacebuilding_Affairs" title="United Nations Department of Political and Peacebuilding Affairs">Political and Peacebuilding Affairs</a> 
+                  <ul>
+                   <li><a href="/wiki/Dag_Hammarskj%C3%B6ld_Library" title="Dag Hammarskjöld Library">Dag Hammarskjöld Library</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/United_Nations_Department_for_Safety_and_Security" title="United Nations Department for Safety and Security">Safety and Security</a></li> 
+                 <li><a href="/wiki/United_Nations_Division_for_Palestinian_Rights" title="United Nations Division for Palestinian Rights">Palestinian Rights</a></li> 
+                 <li><a href="/wiki/United_Nations_Department_of_Peace_Operations" title="United Nations Department of Peace Operations">Peace Operations</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_of_Internal_Oversight_Services" title="United Nations Office of Internal Oversight Services">Internal Oversight</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_of_Legal_Affairs" title="United Nations Office of Legal Affairs">Legal Affairs</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_of_the_High_Representative_for_the_Least_Developed_Countries,_Landlocked_Developing_Countries_and_Small_Island_Developing_States" title="United Nations Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States">Developing Countries</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_on_Sport_for_Development_and_Peace" title="United Nations Office on Sport for Development and Peace">Sport for Development and Peace</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_for_Disarmament_Affairs" title="United Nations Office for Disarmament Affairs">Disarmament Affairs</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_for_Outer_Space_Affairs" title="United Nations Office for Outer Space Affairs">Outer Space Affairs</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_for_Partnerships" title="United Nations Office for Partnerships">Partnerships</a></li> 
+                 <li><a href="/wiki/United_Nations_Office_for_the_Coordination_of_Humanitarian_Affairs" title="United Nations Office for the Coordination of Humanitarian Affairs">Coordination of Humanitarian Affairs</a></li> 
+                 <li><a href="/wiki/List_of_United_Nations_organizations_by_location" title="List of United Nations organizations by location">UN organizations by location</a></li> 
+                 <li><a href="/wiki/Office_of_the_Special_Representative_of_the_Secretary-General_on_Sexual_Violence_in_Conflict" title="Office of the Special Representative of the Secretary-General on Sexual Violence in Conflict">Sexual Violence in Conflict</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Member_states_of_the_United_Nations" title="Member states of the United Nations">Members<br>and observers</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Member_states_of_the_United_Nations#Current_members" title="Member states of the United Nations">Full members</a></li> 
+             <li><a href="/wiki/Enlargement_of_the_United_Nations#1940s" title="Enlargement of the United Nations">Founding members</a></li> 
+             <li><a href="/wiki/Permanent_members_of_the_United_Nations_Security_Council" title="Permanent members of the United Nations Security Council">Security Council Permanent members</a></li> 
+             <li><a href="/wiki/Permanent_representative_to_the_United_Nations" title="Permanent representative to the United Nations">Permanent representatives to the UN</a> 
+              <ul>
+               <li><a href="/wiki/List_of_current_permanent_representatives_to_the_United_Nations" title="List of current permanent representatives to the United Nations">list</a></li>
+              </ul></li> 
+             <li><a href="/wiki/United_Nations_General_Assembly_observers" title="United Nations General Assembly observers">General Assembly Observers</a> 
+              <ul>
+               <li><a href="/wiki/European_Union_and_the_United_Nations" title="European Union and the United Nations">European Union</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_the_United_Nations" title="History of the United Nations">History</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Preceding years</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/International_Telegraph_Union" class="mw-redirect" title="International Telegraph Union">International Telegraph Union</a></li> 
+                 <li><a href="/wiki/Universal_Postal_Union" title="Universal Postal Union">Universal Postal Union</a></li> 
+                 <li><a href="/wiki/Hague_Conventions_of_1899_and_1907" title="Hague Conventions of 1899 and 1907">International Peace Conference</a></li> 
+                 <li><a href="/wiki/Permanent_Court_of_Arbitration" title="Permanent Court of Arbitration">Permanent Court of Arbitration</a></li> 
+                 <li><a href="/wiki/League_of_Nations" title="League of Nations">League of Nations</a> 
+                  <ul>
+                   <li><a href="/wiki/League_of_Nations_archives" title="League of Nations archives">archives</a></li> 
+                   <li><a href="/wiki/Covenant_of_the_League_of_Nations" title="Covenant of the League of Nations">charter</a></li> 
+                   <li><a href="/wiki/Organisation_of_the_League_of_Nations" title="Organisation of the League of Nations">organization</a></li> 
+                   <li><a href="/wiki/Member_states_of_the_League_of_Nations" title="Member states of the League of Nations">members</a></li>
+                  </ul></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Preparatory years</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Declaration_of_St_James%27s_Palace" title="Declaration of St James's Palace">London Declaration</a> (1941)</li> 
+                 <li><a href="/wiki/Atlantic_Charter" title="Atlantic Charter">Atlantic Charter</a> (1941)</li> 
+                 <li><a href="/wiki/Declaration_by_United_Nations" title="Declaration by United Nations">Declaration by United Nations</a> (1942)</li> 
+                 <li><a href="/wiki/Moscow_Conference_(1943)" title="Moscow Conference (1943)">Moscow Conference</a> (1943)</li> 
+                 <li><a href="/wiki/Tehran_Conference" title="Tehran Conference">Tehran Conference</a> (1943)</li> 
+                 <li><a href="/wiki/Dumbarton_Oaks_Conference" title="Dumbarton Oaks Conference">Dumbarton Oaks Conference</a> (1944)</li> 
+                 <li><a href="/wiki/Yalta_Conference" title="Yalta Conference">Yalta Conference</a> (1945)</li> 
+                 <li><a href="/wiki/United_Nations_Conference_on_International_Organization" title="United Nations Conference on International Organization">Conference on International Organization</a> (1945)</li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Activities</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/List_of_United_Nations_peacekeeping_missions" title="List of United Nations peacekeeping missions">Peacekeeping missions</a> 
+                  <ul>
+                   <li><a href="/wiki/History_of_United_Nations_peacekeeping" title="History of United Nations peacekeeping">history</a></li> 
+                   <li><a href="/wiki/Timeline_of_United_Nations_peacekeeping_missions" title="Timeline of United Nations peacekeeping missions">timeline</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Universal_Declaration_of_Human_Rights" title="Universal Declaration of Human Rights">Universal Declaration of Human Rights</a> 
+                  <ul>
+                   <li><a href="/wiki/Drafting_of_the_Universal_Declaration_of_Human_Rights" title="Drafting of the Universal Declaration of Human Rights">drafting</a></li> 
+                   <li><a href="/wiki/Human_Rights_Day" title="Human Rights Day">Human Rights Day</a></li>
+                  </ul></li> 
+                 <li><a href="/wiki/Enlargement_of_the_United_Nations" title="Enlargement of the United Nations">Enlargement</a></li> 
+                 <li><a href="/wiki/Convention_on_the_Rights_of_the_Child" title="Convention on the Rights of the Child">Convention on the Rights of the Child</a></li> 
+                 <li><a href="/wiki/Declaration_on_the_Rights_of_Indigenous_Peoples" title="Declaration on the Rights of Indigenous Peoples">Declaration on the Rights of Indigenous Peoples</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/United_Nations_resolution" title="United Nations resolution">Resolutions</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/List_of_vetoed_United_Nations_Security_Council_resolutions" title="List of vetoed United Nations Security Council resolutions">Security Council vetoes</a></li> 
+             <li><a href="/wiki/United_Nations_General_Assembly_resolution" title="United Nations General Assembly resolution">General Assembly</a> 
+              <ul>
+               <li><a href="/wiki/List_of_resolutions_at_the_sixty-sixth_session_of_the_United_Nations_General_Assembly" title="List of resolutions at the sixty-sixth session of the United Nations General Assembly">66th</a></li> 
+               <li><a href="/wiki/List_of_resolutions_at_the_sixty-seventh_session_of_the_United_Nations_General_Assembly" title="List of resolutions at the sixty-seventh session of the United Nations General Assembly">67th</a></li>
+              </ul></li> 
+             <li><a href="/wiki/United_Nations_Security_Council_resolution" title="United Nations Security Council resolution">Security Council</a> 
+              <ul>
+               <li><a href="/wiki/List_of_United_Nations_Security_Council_resolutions_concerning_Cyprus" title="List of United Nations Security Council resolutions concerning Cyprus">Cyprus</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_resolutions_concerning_Iran" title="List of United Nations resolutions concerning Iran">Iran</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_Security_Council_resolutions_concerning_Iraq" title="List of United Nations Security Council resolutions concerning Iraq">Iraq</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_resolutions_concerning_Israel" title="List of United Nations resolutions concerning Israel">Israel</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_resolutions_relating_to_Lebanon" title="List of United Nations resolutions relating to Lebanon">Lebanon</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_Security_Council_resolutions_on_the_Nagorno-Karabakh_conflict" title="List of United Nations Security Council resolutions on the Nagorno-Karabakh conflict">Nagorno-Karabakh</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_Security_Council_resolutions_concerning_North_Korea" title="List of United Nations Security Council resolutions concerning North Korea">North Korea</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_resolutions_concerning_Palestine" title="List of United Nations resolutions concerning Palestine">Palestine</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_resolutions_concerning_Syria" title="List of United Nations resolutions concerning Syria">Syria</a></li> 
+               <li><a href="/wiki/List_of_United_Nations_resolutions_concerning_Western_Sahara" title="List of United Nations resolutions concerning Western Sahara">Western Sahara</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Elections</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/United_Nations_Secretary-General_selection" title="United Nations Secretary-General selection">Secretary-General</a> <a href="/wiki/2021_United_Nations_Secretary-General_selection" title="2021 United Nations Secretary-General selection">(2021)</a> <a href="/wiki/2016_United_Nations_Secretary-General_selection" title="2016 United Nations Secretary-General selection">(2016)</a></li> 
+             <li><a href="/wiki/2020_International_Court_of_Justice_judges_election" title="2020 International Court of Justice judges election">International Court of Justice (2020)</a> <a href="/wiki/2017_International_Court_of_Justice_judges_election" title="2017 International Court of Justice judges election">(2017)</a> <a href="/wiki/2014_International_Court_of_Justice_judges_election" title="2014 International Court of Justice judges election">(2014)</a> <a href="/wiki/2011_International_Court_of_Justice_judges_election" title="2011 International Court of Justice judges election">(2011)</a></li> 
+             <li><a href="/wiki/2016_United_Nations_General_Assembly_presidential_election" title="2016 United Nations General Assembly presidential election">General Assembly President (2016)</a></li> 
+             <li><a href="/wiki/2016_United_Nations_Security_Council_election" title="2016 United Nations Security Council election">Security Council (2016)</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Outline_of_the_United_Nations" title="Outline of the United Nations">Related</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Bretton_Woods_system" title="Bretton Woods system">Bretton Woods system</a></li> 
+             <li><a href="/wiki/Comprehensive_Nuclear-Test-Ban_Treaty" title="Comprehensive Nuclear-Test-Ban Treaty">Comprehensive Nuclear-Test-Ban Treaty</a></li> 
+             <li><a href="/wiki/Criticism_of_the_United_Nations" title="Criticism of the United Nations">Criticism</a></li> 
+             <li><i><a href="/wiki/Delivering_as_One" title="Delivering as One">Delivering as One</a></i></li> 
+             <li><a href="/wiki/Flag_of_the_United_Nations" title="Flag of the United Nations">Flag</a> 
+              <ul>
+               <li><a href="/wiki/United_Nations_Honour_Flag" title="United Nations Honour Flag">Honour Flag</a></li>
+              </ul></li> 
+             <li><a href="/wiki/Four_Nations_Initiative" title="Four Nations Initiative">Four Nations Initiative</a></li> 
+             <li><a href="/wiki/Genocide_Convention" title="Genocide Convention">Genocide Convention</a></li> 
+             <li><a href="/wiki/United_Nations_Global_Compact" title="United Nations Global Compact">UN Global Compact</a></li> 
+             <li><a href="/wiki/International_Covenant_on_Civil_and_Political_Rights" title="International Covenant on Civil and Political Rights">International Covenant on Civil and Political Rights</a></li> 
+             <li><a href="/wiki/International_Criminal_Court" title="International Criminal Court">International Criminal Court</a></li> 
+             <li><a href="/wiki/International_Day_of_Peace" title="International Day of Peace">International Day of Peace</a></li> 
+             <li><a href="/wiki/International_Decade_for_a_Culture_of_Peace_and_Non-Violence_for_the_Children_of_the_World" title="International Decade for a Culture of Peace and Non-Violence for the Children of the World">International Decade for a Culture of Peace and Non-Violence for the Children of the World</a></li> 
+             <li><a href="/wiki/International_observance" class="mw-redirect" title="International observance">International Years</a></li> 
+             <li><a href="/wiki/United_Nations_Interpretation_Service" title="United Nations Interpretation Service">Interpreters</a></li> 
+             <li><a href="/wiki/United_Nations_laissez-passer" title="United Nations laissez-passer">UN laissez-passer</a></li> 
+             <li><a href="/wiki/Military_Staff_Committee" title="Military Staff Committee">Military Staff Committee</a></li> 
+             <li><a href="/wiki/Official_languages_of_the_United_Nations" title="Official languages of the United Nations">Official languages</a></li> 
+             <li><a href="/wiki/Organisation_for_the_Prohibition_of_Chemical_Weapons" title="Organisation for the Prohibition of Chemical Weapons">Organisation for the Prohibition of Chemical Weapons</a></li> 
+             <li><a href="/wiki/Peacekeeping" title="Peacekeeping">Peacekeeping</a></li> 
+             <li><a href="/wiki/Ralph_Bunche_Park" title="Ralph Bunche Park">Ralph Bunche Park</a></li> 
+             <li><a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a></li> 
+             <li><a href="/wiki/United_Nations_Postal_Administration" title="United Nations Postal Administration">United Nations Postal Administration</a></li> 
+             <li><a href="/wiki/UN_Block_By_Block" class="mw-redirect" title="UN Block By Block">UN Block By Block</a></li> 
+             <li><a href="/wiki/Standard_Minimum_Rules_for_the_Administration_of_Juvenile_Justice" title="Standard Minimum Rules for the Administration of Juvenile Justice">Standard Minimum Rules for the Administration of Juvenile Justice</a></li> 
+             <li><a href="/wiki/Standard_Minimum_Rules_for_the_Treatment_of_Prisoners" title="Standard Minimum Rules for the Treatment of Prisoners">Standard Minimum Rules for the Treatment of Prisoners (the Mandela Rules)</a></li> 
+             <li><a href="/wiki/Treaty_series#United_Nations" title="Treaty series">Treaty Series</a></li> 
+             <li><a href="/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons" title="Treaty on the Non-Proliferation of Nuclear Weapons">Treaty on the Non-Proliferation of Nuclear Weapons</a></li> 
+             <li><a href="/wiki/Treaty_on_the_Prohibition_of_Nuclear_Weapons" title="Treaty on the Prohibition of Nuclear Weapons">Treaty on the Prohibition of Nuclear Weapons</a></li> 
+             <li><a href="/wiki/United_Nations_Advisory_Committee_of_Local_Authorities" title="United Nations Advisory Committee of Local Authorities">UN Advisory Committee of Local Authorities</a></li> 
+             <li><a class="mw-selflink selflink">UN Day</a></li> 
+             <li><a href="/wiki/United_Nations_Millennium_Declaration" title="United Nations Millennium Declaration">Millennium Declaration</a></li> 
+             <li><a href="/wiki/United_Nations_Security_Council_veto_power" title="United Nations Security Council veto power">Security Council veto power</a></li> 
+             <li><a href="/wiki/Reform_of_the_United_Nations" title="Reform of the United Nations">UN reform</a> 
+              <ul>
+               <li><a href="/wiki/Reform_of_the_United_Nations_Security_Council" title="Reform of the United Nations Security Council">Security Council reform</a></li>
+              </ul></li> 
+             <li><a href="/wiki/United_Nations_Art_Collection" title="United Nations Art Collection">UN Art Collection</a> 
+              <ul>
+               <li><a href="/wiki/United_Nations_Security_Council_mural" title="United Nations Security Council mural">Security Council mural</a></li>
+              </ul></li> 
+             <li><a href="/wiki/United_Nations_Federal_Credit_Union" title="United Nations Federal Credit Union">UN Federal Credit Union</a></li> 
+             <li><a href="/wiki/United_Nations_International_School" title="United Nations International School">UN International School</a> 
+              <ul>
+               <li><a href="/wiki/United_Nations_International_School_of_Hanoi" title="United Nations International School of Hanoi">Hanoi</a></li>
+              </ul></li> 
+             <li><a href="/wiki/UN_Mandate" title="UN Mandate">UN Mandate</a></li> 
+             <li><a href="/wiki/United_Nations_Memorial_Cemetery" title="United Nations Memorial Cemetery">UN Memorial Cemetery Korea</a></li> 
+             <li><a href="/wiki/University_for_Peace" title="University for Peace">University for Peace</a></li> 
+             <li><a href="/wiki/Vienna_Declaration_and_Programme_of_Action" title="Vienna Declaration and Programme of Action">Vienna Declaration and Programme of Action</a></li> 
+             <li><i><a href="/wiki/Celestial_Sphere_Woodrow_Wilson_Memorial" title="Celestial Sphere Woodrow Wilson Memorial">Woodrow Wilson Memorial</a></i></li> 
+             <li><a href="/wiki/World_Federation_of_United_Nations_Associations" title="World Federation of United Nations Associations">World Federation of United Nations Associations</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Outline_of_the_United_Nations" title="Outline of the United Nations">Outline</a></li> 
+             <li><a href="/wiki/United_Nations_Prize_in_the_Field_of_Human_Rights" title="United Nations Prize in the Field of Human Rights">United Nations Prize in the Field of Human Rights</a></li> 
+             <li><a href="/wiki/United_Nations_Radio" title="United Nations Radio">United Nations Radio</a></li> 
+             <li><a href="/wiki/United_Nations_television_film_series" title="United Nations television film series">UN television film series (1964–1966)</a></li> 
+             <li><a href="/wiki/United_Nations_in_popular_culture" title="United Nations in popular culture">In popular culture</a></li> 
+             <li><a href="/wiki/Model_United_Nations" title="Model United Nations">Model UN</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1385
+Cached time: 20210417000022
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.551 seconds
+Real time usage: 0.700 seconds
+Preprocessor visited node count: 2788/1000000
+Post‐expand include size: 105397/2097152 bytes
+Template argument size: 2101/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 28613/5000000 bytes
+Lua time usage: 0.308/10.000 seconds
+Lua memory usage: 17327360/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  607.746      1 -total
+ 28.73%  174.597      1 Template:Reflist
+ 21.60%  131.283      1 Template:In_lang
+ 18.34%  111.444      1 Template:More_citations_needed
+ 15.43%   93.762      2 Template:Cite_news
+ 14.24%   86.538      1 Template:Infobox_holiday
+ 13.87%   84.304      1 Template:Ambox
+ 13.52%   82.195      3 Template:Navbox
+ 12.83%   77.995      1 Template:United_Nations
+  9.76%   59.290      1 Template:Infobox
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:856769-0!canonical and timestamp 20210417000021 and revision id 991383357. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=United_Nations_Day&amp;oldid=991383357">https://en.wikipedia.org/w/index.php?title=United_Nations_Day&amp;oldid=991383357</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:United_Nations_days" title="Category:United Nations days">United Nations days</a></li>
+       <li><a href="/wiki/Category:October_observances" title="Category:October observances">October observances</a></li>
+       <li><a href="/wiki/Category:Recurring_events_established_in_1948" title="Category:Recurring events established in 1948">Recurring events established in 1948</a></li>
+       <li><a href="/wiki/Category:International_organization_days" title="Category:International organization days">International organization days</a></li>
+       <li><a href="/wiki/Category:1948_introductions" title="Category:1948 introductions">1948 introductions</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_October_2017" title="Category:Articles needing additional references from October 2017">Articles needing additional references from October 2017</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_with_missing_field" title="Category:Infobox holiday with missing field">Infobox holiday with missing field</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_fixed_day_(2)" title="Category:Infobox holiday fixed day (2)">Infobox holiday fixed day (2)</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=United+Nations+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=United+Nations+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/United_Nations_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:United_Nations_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/United_Nations_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=United_Nations_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=United_Nations_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/United_Nations_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/United_Nations_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=United_Nations_Day&amp;oldid=991383357" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=United_Nations_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=United_Nations_Day&amp;id=991383357&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q210016" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=United_Nations_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=United_Nations_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:United_Nations_Day" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%A3%D9%85%D9%85_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9" title="يوم الأمم المتحدة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A7%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A7%B0%E0%A6%B8%E0%A6%82%E0%A6%98_%E0%A6%A6%E0%A6%BF%E0%A7%B1%E0%A6%B8" title="ৰাষ্ট্ৰসংঘ দিৱস – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/D%C3%ADa_de_les_Naciones_Xun%C3%ADes" title="Día de les Naciones Xuníes – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%98_%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A6%B8" title="জাতিসংঘ দিবস – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li>
+       <li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BB%D3%99%D1%88%D0%BA%D3%99%D0%BD_%D0%9C%D0%B8%D0%BB%D0%BB%D3%99%D1%82%D1%82%D3%99%D1%80_%D0%9E%D0%B9%D0%BE%D1%88%D0%BC%D0%B0%D2%BB%D1%8B_%D0%BA%D3%A9%D0%BD%D3%A9" title="Берләшкән Милләттәр Ойошмаһы көнө – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li>
+       <li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD_%D0%BD%D0%B0_%D0%9E%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0%D1%86%D0%B8%D0%B8" title="Ден на Обединените нации – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Den_Spojen%C3%BDch_n%C3%A1rod%C5%AF" title="Den Spojených národů – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/FN-dag" title="FN-dag – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Tag_der_Vereinten_Nationen" title="Tag der Vereinten Nationen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/D%C3%ADa_de_las_Naciones_Unidas" title="Día de las Naciones Unidas – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Nazio_Batuen_Eguna" title="Nazio Batuen Eguna – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>
+       <li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%B2_%D9%85%D9%84%D9%84_%D9%85%D8%AA%D8%AD%D8%AF" title="روز ملل متحد – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Journ%C3%A9e_des_Nations_unies" title="Journée des Nations unies – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/D%C3%ADa_das_Naci%C3%B3ns_Unidas" title="Día das Nacións Unidas – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%97%94%EC%9D%98_%EB%82%A0" title="유엔의 날 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Ranar_Majalisar_Dinkin_Duniya" title="Ranar Majalisar Dinkin Duniya – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%84%D5%AB%D5%A1%D5%BE%D5%B8%D6%80%D5%BE%D5%A1%D5%AE_%D5%A1%D5%A6%D5%A3%D5%A5%D6%80%D5%AB_%D5%AF%D5%A1%D5%A6%D5%B4%D5%A1%D5%AF%D5%A5%D6%80%D5%BA%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6_%D6%85%D6%80" title="Միավորված ազգերի կազմակերպության օր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%AF%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0_%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8" title="संयुक्त राष्ट्र दिवस – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li>
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hari_Perserikatan_Bangsa-Bangsa" title="Hari Perserikatan Bangsa-Bangsa – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Giornata_delle_Nazioni_Unite" title="Giornata delle Nazioni Unite – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%9D_%D7%94%D7%90%D7%95%D7%9E%D7%95%D7%AA_%D7%94%D7%9E%D7%90%D7%95%D7%97%D7%93%D7%95%D7%AA" title="יום האומות המאוחדות – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li>
+       <li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B8%E0%B2%82%E0%B2%AF%E0%B3%81%E0%B2%95%E0%B3%8D%E0%B2%A4_%E0%B2%B0%E0%B2%BE%E0%B2%B7%E0%B3%8D%E0%B2%9F%E0%B3%8D%E0%B2%B0_%E0%B2%A6%E0%B2%BF%E0%B2%A8" title="ಸಂಯುಕ್ತ ರಾಷ್ಟ್ರ ದಿನ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li>
+       <li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Aldo_ning_Mis%C3%A1sanmetung_a_Bangs%C3%A2" title="Aldo ning Misásanmetung a Bangsâ – Pampanga" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Dies_Nationum_Unitarum" title="Dies Nationum Unitarum – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/ENSZ_vil%C3%A1gnapja" title="ENSZ világnapja – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD_%D0%BD%D0%B0_%D0%9E%D0%B1%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0%D1%86%D0%B8%D0%B8" title="Ден на Обединетите нации – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li>
+       <li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%90%E0%B4%95%E0%B5%8D%E0%B4%AF%E0%B4%B0%E0%B4%BE%E0%B4%B7%E0%B5%8D%E0%B4%9F%E0%B5%8D%E0%B4%B0_%E0%B4%A6%E0%B4%BF%E0%B4%A8%E0%B4%82" title="ഐക്യരാഷ്ട്ര ദിനം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Hari_Pertubuhan_Bangsa-Bangsa_Bersatu" title="Hari Pertubuhan Bangsa-Bangsa Bersatu – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%9D%D2%AE%D0%91-%D1%8B%D0%BD_%D3%A9%D0%B4%D3%A9%D1%80" title="НҮБ-ын өдөр – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li>
+       <li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%80%E1%80%99%E1%80%B9%E1%80%98%E1%80%AC%E1%80%B7%E1%80%80%E1%80%AF%E1%80%9C%E1%80%9E%E1%80%99%E1%80%82%E1%80%B9%E1%80%82%E1%80%94%E1%80%B1%E1%80%B7" title="ကမ္ဘာ့ကုလသမဂ္ဂနေ့ – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%80%A3%E3%81%AE%E6%97%A5" title="国連の日 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/FN-dagen" title="FN-dagen – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/SN-dagen" title="SN-dagen – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li>
+       <li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%AE%E0%AC%BF%E0%AC%B3%E0%AC%BF%E0%AC%A4_%E0%AC%9C%E0%AC%BE%E0%AC%A4%E0%AC%BF%E0%AC%B8%E0%AC%82%E0%AC%98_%E0%AC%A6%E0%AC%BF%E0%AC%AC%E0%AC%B8" title="ମିଳିତ ଜାତିସଂଘ ଦିବସ – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li>
+       <li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%91%E1%9E%B7%E1%9E%9C%E1%9E%B6%E1%9E%A2%E1%9E%84%E1%9F%92%E1%9E%82%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%9F%E1%9E%A0%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%87%E1%9E%B6%E1%9E%87%E1%9E%B6%E1%9E%8F%E1%9E%B7" title="ទិវាអង្គការសហប្រជាជាតិ – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Dzie%C5%84_Narod%C3%B3w_Zjednoczonych" title="Dzień Narodów Zjednoczonych – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Dia_das_Na%C3%A7%C3%B5es_Unidas" title="Dia das Nações Unidas – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ziua_Na%C8%9Biunilor_Unite" title="Ziua Națiunilor Unite – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%9D%D0%B0%D1%86%D0%B8%D0%B9" title="День Организации Объединённых Наций – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%91%E0%B6%9A%E0%B7%8A%E0%B7%83%E0%B6%AD%E0%B7%8A_%E0%B6%A2%E0%B7%8F%E0%B6%AD%E0%B7%93%E0%B6%B1%E0%B7%8A%E0%B6%9C%E0%B7%9A_%E0%B6%AF%E0%B7%92%E0%B6%B1%E0%B6%BA" title="එක්සත් ජාතීන්ගේ දිනය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%94%D0%B0%D0%BD_%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%98%D0%B5_%D1%83%D1%98%D0%B5%D0%B4%D0%B8%D1%9A%D0%B5%D0%BD%D0%B8%D1%85_%D0%BD%D0%B0%D1%86%D0%B8%D1%98%D0%B0" title="Дан Организације уједињених нација – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Yhdistyneiden_kansakuntien_p%C3%A4iv%C3%A4" title="Yhdistyneiden kansakuntien päivä – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/FN-dagen" title="FN-dagen – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Araw_ng_mga_Nagkakaisang_Bansa" title="Araw ng mga Nagkakaisang Bansa – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%90%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AF_%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D_%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D" title="ஐக்கிய நாடுகள் நாள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%90%E0%B0%95%E0%B1%8D%E0%B0%AF%E0%B0%B0%E0%B0%BE%E0%B0%9C%E0%B1%8D%E0%B0%AF%E0%B0%B8%E0%B0%AE%E0%B0%BF%E0%B0%A4%E0%B0%BF_%E0%B0%A6%E0%B0%BF%E0%B0%A8%E0%B1%8B%E0%B0%A4%E0%B1%8D%E0%B0%B8%E0%B0%B5%E0%B0%82" title="ఐక్యరాజ్యసమితి దినోత్సవం – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%AB%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4" title="วันสหประชาชาติ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Birle%C5%9Fmi%C5%9F_Milletler_G%C3%BCn%C3%BC" title="Birleşmiş Milletler Günü – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%97_%D0%9E%D0%B1%27%D1%94%D0%B4%D0%BD%D0%B0%D0%BD%D0%B8%D1%85_%D0%9D%D0%B0%D1%86%D1%96%D0%B9" title="День Організації Об'єднаних Націй – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DB%8C%D9%88%D9%85_%D8%A7%D9%82%D9%88%D8%A7%D9%85_%D9%85%D8%AA%D8%AD%D8%AF%DB%81" title="یوم اقوام متحدہ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ng%C3%A0y_Li%C3%AAn_Hi%E1%BB%87p_Qu%E1%BB%91c" title="Ngày Liên Hiệp Quốc – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%81%94%E5%90%88%E5%9B%BD%E6%97%A5" title="联合国日 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+       <li class="interlanguage-link interwiki-mad"><a href="https://mad.wikipedia.org/wiki/Bh%C3%A2ngsa:Ar%C3%A8_PBB" title="Bhângsa:Arè PBB – Madurese" lang="mad" hreflang="mad" class="interlanguage-link-target">Madhurâ</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q210016#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 29 November 2020, at 19:40<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=United_Nations_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.551","walltime":"0.700","ppvisitednodes":{"value":2788,"limit":1000000},"postexpandincludesize":{"value":105397,"limit":2097152},"templateargumentsize":{"value":2101,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":28613,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  607.746      1 -total"," 28.73%  174.597      1 Template:Reflist"," 21.60%  131.283      1 Template:In_lang"," 18.34%  111.444      1 Template:More_citations_needed"," 15.43%   93.762      2 Template:Cite_news"," 14.24%   86.538      1 Template:Infobox_holiday"," 13.87%   84.304      1 Template:Ambox"," 13.52%   82.195      3 Template:Navbox"," 12.83%   77.995      1 Template:United_Nations","  9.76%   59.290      1 Template:Infobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.308","limit":"10.000"},"limitreport-memusage":{"value":17327360,"limit":52428800}},"cachereport":{"origin":"mw1385","timestamp":"20210417000022","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"United Nations Day","url":"https:\/\/en.wikipedia.org\/wiki\/United_Nations_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q210016","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q210016","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-25T17:23:00Z","dateModified":"2020-11-29T19:40:02Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2f\/Flag_of_the_United_Nations.svg","headline":"annual observance celebrated in commemoration of the United Nations Charter coming into force in 1946"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":171,"wgHostname":"mw1351"});});</script> 
+ </body>
+</html>

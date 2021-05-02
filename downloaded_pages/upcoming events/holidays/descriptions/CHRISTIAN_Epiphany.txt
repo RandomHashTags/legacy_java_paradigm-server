@@ -1,0 +1,416 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Epiphany - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"1a057186-d11b-427e-b591-0de07e7e8cee","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Epiphany","wgTitle":"Epiphany","wgCurRevisionId":1016586070,"wgRevisionId":1016586070,"wgArticleId":1018095,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Disambiguation pages with short descriptions","Short description is different from Wikidata","All article disambiguation pages","All disambiguation pages","Disambiguation pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Epiphany","wgRelevantArticleId":1018095,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q61556"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready",
+"ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:title" content="Epiphany - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Epiphany"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Epiphany&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Epiphany&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Epiphany"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Epiphany rootpage-Epiphany skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">Epiphany</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512"></td> 
+         <td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Epiphany" class="extiw" title="wiktionary:Epiphany">Epiphany</a></b></i>&nbsp;or <i><b><a href="https://en.wiktionary.org/wiki/epiphany" class="extiw" title="wiktionary:epiphany">epiphany</a></b></i> in Wiktionary, the free dictionary.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <p><b>Epiphany</b> may refer to: </p> 
+      <ul>
+       <li><a href="/wiki/Epiphany_(feeling)" title="Epiphany (feeling)">Epiphany (feeling)</a>, an experience of sudden and striking insight</li>
+      </ul> 
+      <style data-mw-deduplicate="TemplateStyles:r1018014301">@media all and (max-width:719px){body.skin-minerva .mw-parser-output .tocright{display:none}}.mw-parser-output .tocright{float:right;clear:right;width:auto;background:none;padding:.5em 0 .8em 1.4em;margin-bottom:.5em}.mw-parser-output .tocright-clear-left{clear:left}.mw-parser-output .tocright-clear-both{clear:both}.mw-parser-output .tocright-clear-none{clear:none}</style>
+      <div class="tocright" style="">
+       <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+        <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+        <div class="toctitle" lang="en" dir="ltr">
+         <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+        </div> 
+        <ul> 
+         <li class="toclevel-1 tocsection-1"><a href="#Religion"><span class="tocnumber">1</span> <span class="toctext">Religion</span></a></li> 
+         <li class="toclevel-1 tocsection-2"><a href="#Computing"><span class="tocnumber">2</span> <span class="toctext">Computing</span></a></li> 
+         <li class="toclevel-1 tocsection-3"><a href="#Art"><span class="tocnumber">3</span> <span class="toctext">Art</span></a></li> 
+         <li class="toclevel-1 tocsection-4"><a href="#Literature"><span class="tocnumber">4</span> <span class="toctext">Literature</span></a></li> 
+         <li class="toclevel-1 tocsection-5"><a href="#Film_and_television"><span class="tocnumber">5</span> <span class="toctext">Film and television</span></a></li> 
+         <li class="toclevel-1 tocsection-6"><a href="#Music"><span class="tocnumber">6</span> <span class="toctext">Music</span></a> 
+          <ul> 
+           <li class="toclevel-2 tocsection-7"><a href="#Classical_music"><span class="tocnumber">6.1</span> <span class="toctext">Classical music</span></a></li> 
+           <li class="toclevel-2 tocsection-8"><a href="#Albums"><span class="tocnumber">6.2</span> <span class="toctext">Albums</span></a></li> 
+           <li class="toclevel-2 tocsection-9"><a href="#Songs"><span class="tocnumber">6.3</span> <span class="toctext">Songs</span></a></li> 
+          </ul> </li> 
+         <li class="toclevel-1 tocsection-10"><a href="#People"><span class="tocnumber">7</span> <span class="toctext">People</span></a></li> 
+         <li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <h2><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epiphany&amp;action=edit&amp;section=1" title="Edit section: Religion">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Epiphany (holiday)</a>, a Christian holiday celebrating the revelation of God the Son as a human being in Jesus Christ 
+        <ul>
+         <li><a href="/wiki/Epiphany_season" title="Epiphany season">Epiphany season</a>, or Epiphanytide, the liturgical season following the Christian holiday</li>
+        </ul></li> 
+       <li><a href="/wiki/Theophany" title="Theophany">Theophany</a>, the manifestation of a deity in an observable way</li>
+      </ul> 
+      <h2><span class="mw-headline" id="Computing">Computing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epiphany&amp;action=edit&amp;section=2" title="Edit section: Computing">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Epiphany,_Inc." title="Epiphany, Inc.">Epiphany, Inc.</a>, a software development company, formerly known as E.piphany</li> 
+       <li><a href="/wiki/Epiphany_(GNOME)" class="mw-redirect" title="Epiphany (GNOME)">Epiphany (GNOME)</a>, the former name of the GNOME browser "Web"</li> 
+       <li>Epiphany, a <a href="/wiki/Free_Software" class="mw-redirect" title="Free Software">Free Software</a> clone of the video game <a href="/wiki/Boulder_Dash" title="Boulder Dash">Boulder Dash</a></li> 
+       <li>Epiphany, a multi-core processor made by <a href="/wiki/Adapteva" title="Adapteva">Adapteva</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Art">Art</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epiphany&amp;action=edit&amp;section=3" title="Edit section: Art">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/The_Epiphany_(Bosch)" class="mw-redirect" title="The Epiphany (Bosch)"><i>The Epiphany</i> (Bosch)</a>, a triptych and earlier panel painting <i>Epiphany</i> by Hieronymus Bosch</li> 
+       <li><a href="/w/index.php?title=Epiphany_(painting)&amp;action=edit&amp;redlink=1" class="new" title="Epiphany (painting) (page does not exist)"><i>Epiphany</i> (painting)</a>, by Dutch painter <a href="/wiki/Gerbrand_van_den_Eeckhout" title="Gerbrand van den Eeckhout">Gerbrand van den Eeckhout</a></li> 
+       <li><i><a href="/wiki/Epifania" class="mw-redirect" title="Epifania">Epifania</a></i>, a drawing by Michelangelo</li>
+      </ul> 
+      <h2><span class="mw-headline" id="Literature">Literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epiphany&amp;action=edit&amp;section=4" title="Edit section: Literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Epiphany_(literature)" title="Epiphany (literature)">Epiphany (literature)</a>, epiphany as a literary device</li> 
+       <li><a href="/wiki/Epiphany_(novel)" title="Epiphany (novel)"><i>Epiphany</i> (novel)</a>, a 1997 novel by David Hewson</li> 
+       <li>"Epiphany", a 1999 short story by <a href="/wiki/Connie_Willis" title="Connie Willis">Connie Willis</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Film_and_television">Film and television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epiphany&amp;action=edit&amp;section=5" title="Edit section: Film and television">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Epiphany_(Angel)" title="Epiphany (Angel)">"Epiphany" (<i>Angel</i>)</a>, a 2001 episode of <i>Angel</i></li> 
+       <li><a href="/wiki/Epiphany_(Stargate_Atlantis)" class="mw-redirect" title="Epiphany (Stargate Atlantis)">"Epiphany" (<i>Stargate Atlantis</i>)</a>, a 2005 episode of <i>Stargate Atlantis</i></li> 
+       <li><a href="/wiki/Epiphany_(Desperate_Housewives)" class="mw-redirect" title="Epiphany (Desperate Housewives)">"Epiphany" (<i>Desperate Housewives</i>)</a>, a 2010 episode of <i>Desperate Housewives</i></li> 
+       <li>"Epiphany", a 1989 episode of <i><a href="/wiki/List_of_War_of_the_Worlds_episodes" class="mw-redirect" title="List of War of the Worlds episodes">War of the Worlds</a></i></li> 
+       <li><a href="/wiki/Epiphanies_(Babylon_5)" class="mw-redirect" title="Epiphanies (Babylon 5)">"Epiphanies" (<i>Babylon 5</i>)</a>, a 1997 episode of <i>Babylon 5</i></li> 
+       <li><a href="/wiki/Epiphanies_(Battlestar_Galactica)" title="Epiphanies (Battlestar Galactica)">"Epiphanies" (<i>Battlestar Galactica</i>)</a>, a 2006 episode of <i>Battlestar Galactica</i></li> 
+       <li><a href="/wiki/List_of_Spaced_episodes#ep6" class="mw-redirect" title="List of Spaced episodes">"Epiphanies"</a>, a 1999 episode of <i><a href="/wiki/Spaced" title="Spaced">Spaced</a></i></li> 
+       <li><a href="/wiki/Epiphany_Johnson" class="mw-redirect" title="Epiphany Johnson">Epiphany Johnson</a>, a character on the American soap opera <i>General Hospital</i></li> 
+       <li><a href="/wiki/Epiphany_Proudfoot" class="mw-redirect" title="Epiphany Proudfoot">Epiphany Proudfoot</a>, a character in the film <i>Angel Heart</i> played by Lisa Bonet</li>
+      </ul> 
+      <h2><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epiphany&amp;action=edit&amp;section=6" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span class="mw-headline" id="Classical_music">Classical music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epiphany&amp;action=edit&amp;section=7" title="Edit section: Classical music">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li>Epiphany, composition by <a href="/wiki/Judith_Bingham" title="Judith Bingham">Judith Bingham</a></li> 
+       <li>Epiphany, composition by <a href="/wiki/Kod%C3%A1ly" class="mw-redirect" title="Kodály">Kodály</a></li> 
+       <li><a href="/wiki/Epifanie_(Berio)" title="Epifanie (Berio)"><i>Epifanie</i> (Berio)</a>, a musical composition by the Italian composer Luciano Berio</li>
+      </ul> 
+      <h3><span class="mw-headline" id="Albums">Albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epiphany&amp;action=edit&amp;section=8" title="Edit section: Albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li><i><a href="/wiki/Epiphany:_The_Best_of_Chaka_Khan,_Vol._1" title="Epiphany: The Best of Chaka Khan, Vol. 1">Epiphany: The Best of Chaka Khan, Vol. 1</a></i>, 1996 compilation album by Chaka Khan</li> 
+       <li><a href="/wiki/Epiphany_(T-Pain_album)" title="Epiphany (T-Pain album)"><i>Epiphany</i> (T-Pain album)</a>, 2007 album by T-Pain</li> 
+       <li><a href="/wiki/Epiphany_(Ian_Villafana_album)" title="Epiphany (Ian Villafana album)"><i>Epiphany</i> (Ian Villafana album)</a>, 2010 album by Ian Villafana</li> 
+       <li><a href="/wiki/Epiphany_(Manafest_album)" title="Epiphany (Manafest album)"><i>Epiphany</i> (Manafest album)</a>, 2005 album by Manafest</li> 
+       <li><a href="/wiki/Epiphany_(Chrisette_Michele_album)" title="Epiphany (Chrisette Michele album)"><i>Epiphany</i> (Chrisette Michele album)</a>, 2009 album by R&amp;B singer Chrisette Michele</li> 
+       <li><a href="/wiki/Epiphany_(Judith_Durham_album)" title="Epiphany (Judith Durham album)"><i>Epiphany</i> (Judith Durham album)</a>, a 2011 album by Australian Judith Durham</li>
+      </ul> 
+      <h3><span class="mw-headline" id="Songs">Songs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epiphany&amp;action=edit&amp;section=9" title="Edit section: Songs">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li><a href="/wiki/Epiphany_(Chrisette_Michele_song)" title="Epiphany (Chrisette Michele song)">"Epiphany" (Chrisette Michele song)</a>, the lead single from the album 2009</li> 
+       <li><a href="/wiki/Epiphany_(BTS_song)" title="Epiphany (BTS song)">"Epiphany" (BTS song)</a> 2018</li> 
+       <li>"Epiphany", a song by Bad Religion from their 2002 album <i><a href="/wiki/The_Process_of_Belief" title="The Process of Belief">The Process of Belief</a></i></li> 
+       <li>"Epiphany", a song by Staind from their 2001 album <i><a href="/wiki/Break_the_Cycle" title="Break the Cycle">Break the Cycle</a></i></li> 
+       <li>"Epiphany", a song by Bowling For Soup from their 2006 album <i><a href="/wiki/The_Great_Burrito_Extortion_Case" title="The Great Burrito Extortion Case">The Great Burrito Extortion Case</a></i></li> 
+       <li>"Epiphany", a song by The Ocean from their 2010 album <i><a href="/wiki/Heliocentric_(The_Ocean_album)" title="Heliocentric (The Ocean album)">Heliocentric</a></i></li> 
+       <li>"Epiphany", a song by Trans Siberian Orchestra from their 2010 album <i><a href="/wiki/Night_Castle" title="Night Castle">Night Castle</a></i></li> 
+       <li>"Epiphany", a song by The Word Alive from their 2010 album <i><a href="/wiki/Deceiver_(The_Word_Alive_album)" title="Deceiver (The Word Alive album)">Deceiver</a></i></li> 
+       <li>"Epiphany", a song by Stephen Sondheim in his musical <i><a href="/wiki/Sweeney_Todd:_The_Demon_Barber_of_Fleet_Street" title="Sweeney Todd: The Demon Barber of Fleet Street">Sweeney Todd: The Demon Barber of Fleet Street</a></i></li> 
+       <li>"Epiphany", a song on the film soundtrack <i><a href="/wiki/Crank:_High_Voltage_(soundtrack)" title="Crank: High Voltage (soundtrack)">Crank: High Voltage</a></i></li> 
+       <li>"Epiphany", a song by <a href="/wiki/Intervals_(band)" title="Intervals (band)">Intervals</a> from their 2012 EP <i>In Time</i></li> 
+       <li>"Epiphany", a song by <a href="/wiki/Tesseract_(band)" title="Tesseract (band)">Tesseract</a> from their 2011 album <i>One</i></li> 
+       <li>"Epiphany", a song by Taylor Swift from her 2020 album <i><a href="/wiki/Folklore_(Taylor_Swift_album)" title="Folklore (Taylor Swift album)">Folklore</a></i></li> 
+       <li>"Epiphany", a song by <a href="/wiki/Trent_Reznor" title="Trent Reznor">Trent Reznor</a> and <a href="/wiki/Atticus_Ross" title="Atticus Ross">Atticus Ross</a>, from their score of Pixar’s 2020 film <i><a href="/wiki/Soul_(2020_film)" title="Soul (2020 film)">Soul</a></i></li>
+      </ul> 
+      <h2><span class="mw-headline" id="People">People</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epiphany&amp;action=edit&amp;section=10" title="Edit section: People">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Devorah_Frost" class="mw-redirect" title="Devorah Frost">Devorah Frost</a>, professional wrestler, ring name Epiphany</li> 
+       <li><a href="/wiki/Epiphanny_Prince" title="Epiphanny Prince">Epiphanny Prince</a> (born 1988), basketball player</li> 
+       <li><a href="/wiki/John_of_Epiphania" title="John of Epiphania">John of Epiphania</a>, sixth-century Byzantine historian</li>
+      </ul> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Epiphany&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li>"The Feast of Epiphany", a 2008 episode of <i><a href="/wiki/Brothers_%26_Sisters_(2006_TV_series)" title="Brothers &amp; Sisters (2006 TV series)">Brothers &amp; Sisters</a></i></li> 
+       <li><a href="/wiki/Tiffany_(given_name)" title="Tiffany (given name)">Tiffany (given name)</a></li> 
+       <li><a href="/wiki/Epiphanes_(disambiguation)" class="mw-redirect mw-disambig" title="Epiphanes (disambiguation)">Epiphanes (disambiguation)</a></li> 
+       <li><span class="selfreference"><a href="/wiki/Special:PrefixIndex/Epiphany" title="Special:PrefixIndex/Epiphany">All pages with titles beginning with <i>Epiphany</i></a></span></li> 
+       <li><span class="selfreference"><a href="/wiki/Special:Search/intitle:%22Epiphany%22" title="Special:Search/intitle:&quot;Epiphany&quot;">All pages with titles containing <i>Epiphany</i></a></span></li>
+      </ul> 
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Disambiguation page providing links to topics that could be referred to by the same search term
+      </div> 
+      <style data-mw-deduplicate="TemplateStyles:r1008001242">.mw-parser-output .dmbox{display:flex;align-items:center;clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;padding:0.25em 0.35em;font-style:italic}.mw-parser-output .dmbox>*{flex-shrink:0;margin:0 0.25em;display:inline}.mw-parser-output .dmbox-body{flex-grow:1;flex-shrink:1;padding:0.1em 0}</style> 
+      <div role="note" id="disambigbox" class="metadata plainlinks dmbox dmbox-disambig">
+       <a href="/wiki/File:Disambig_gray.svg" class="image"><img alt="Disambiguation icon" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png" decoding="async" width="30" height="23" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/45px-Disambig_gray.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/60px-Disambig_gray.svg.png 2x" data-file-width="220" data-file-height="168"></a>
+       <div class="dmbox-body">
+         This <a href="/wiki/Help:Disambiguation" title="Help:Disambiguation">disambiguation</a> page lists articles associated with the title <b>Epiphany</b>.
+        <br><small>If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Epiphany&amp;namespace=0">internal link</a> led you here, you may wish to change the link to point directly to the intended article.</small> 
+       </div> 
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1354
+Cached time: 20210415211233
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.165 seconds
+Real time usage: 0.240 seconds
+Preprocessor visited node count: 1474/1000000
+Post‐expand include size: 6952/2097152 bytes
+Template argument size: 1532/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 903/5000000 bytes
+Lua time usage: 0.032/10.000 seconds
+Lua memory usage: 1495137/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  194.765      1 -total
+ 62.79%  122.288      1 Template:Disambiguation
+ 32.65%   63.600      1 Template:Dmbox
+ 20.27%   39.481      4 Template:Main_other
+ 17.45%   33.993      1 Template:Wiktionary
+ 15.52%   30.226      1 Template:Sister_project
+ 13.93%   27.131      1 Template:Side_box
+ 13.67%   26.632      1 Template:Disambiguation_page_short_description
+ 12.50%   24.343      1 Template:Short_description
+ 12.09%   23.549      1 Template:TOC_right
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:1018095-0!canonical and timestamp 20210415211232 and revision id 1016586070. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Epiphany&amp;oldid=1016586070">https://en.wikipedia.org/w/index.php?title=Epiphany&amp;oldid=1016586070</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Disambiguation_pages" title="Category:Disambiguation pages">Disambiguation pages</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Disambiguation_pages_with_short_descriptions" title="Category:Disambiguation pages with short descriptions">Disambiguation pages with short descriptions</a></li>
+       <li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li>
+       <li><a href="/wiki/Category:All_article_disambiguation_pages" title="Category:All article disambiguation pages">All article disambiguation pages</a></li>
+       <li><a href="/wiki/Category:All_disambiguation_pages" title="Category:All disambiguation pages">All disambiguation pages</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Epiphany" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Epiphany" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Epiphany" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Epiphany" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Epiphany">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Epiphany&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Epiphany&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Epiphany" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Epiphany" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Epiphany&amp;oldid=1016586070" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Epiphany&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Epiphany&amp;id=1016586070&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q61556" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Epiphany&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Epiphany&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Epifaania" title="Epifaania – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89piphanie_(homonymie)" title="Épiphanie (homonymie) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%97%90%ED%94%BC%ED%8C%8C%EB%8B%88" title="에피파니 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Epiphany" title="Epiphany – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Epiphany_(egy%C3%A9rtelm%C5%B1s%C3%ADt%C5%91_lap)" title="Epiphany (egyértelműsítő lap) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Epiphany" title="Epiphany – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Epifania" title="Epifania – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Epiphany" title="Epiphany – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Epiphany_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" title="Epiphany (значения) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Epiphany" title="Epiphany – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li>
+       <li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Epif%C3%A1nia" title="Epifánia – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li>
+       <li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Epiphany" title="Epiphany – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Epiphany" title="Epiphany – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/Epiphany" title="Epiphany – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Epiphany" title="Epiphany – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q61556#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 7 April 2021, at 23:41<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Epiphany&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.165","walltime":"0.240","ppvisitednodes":{"value":1474,"limit":1000000},"postexpandincludesize":{"value":6952,"limit":2097152},"templateargumentsize":{"value":1532,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":903,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  194.765      1 -total"," 62.79%  122.288      1 Template:Disambiguation"," 32.65%   63.600      1 Template:Dmbox"," 20.27%   39.481      4 Template:Main_other"," 17.45%   33.993      1 Template:Wiktionary"," 15.52%   30.226      1 Template:Sister_project"," 13.93%   27.131      1 Template:Side_box"," 13.67%   26.632      1 Template:Disambiguation_page_short_description"," 12.50%   24.343      1 Template:Short_description"," 12.09%   23.549      1 Template:TOC_right"]},"scribunto":{"limitreport-timeusage":{"value":"0.032","limit":"10.000"},"limitreport-memusage":{"value":1495137,"limit":52428800}},"cachereport":{"origin":"mw1354","timestamp":"20210415211233","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Epiphany","url":"https:\/\/en.wikipedia.org\/wiki\/Epiphany","sameAs":"http:\/\/www.wikidata.org\/entity\/Q61556","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q61556","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-09-26T00:06:06Z","dateModified":"2021-04-07T23:41:39Z","headline":"Wikimedia disambiguation page"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":127,"wgHostname":"mw1350"});});</script> 
+ </body>
+</html>

@@ -6,6 +6,8 @@ import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.io.Reader;
 import java.net.Socket;
+import java.util.Arrays;
+import java.util.HashSet;
 
 public final class ProxyClient extends Thread implements RestAPI {
 
@@ -47,14 +49,15 @@ public final class ProxyClient extends Thread implements RestAPI {
         final boolean hasTargetServer = targetServer != null;
         final String prefix = "[" + platform + ", " + identifier + "] " + ip + " - ";
         if(hasTargetServer) {
-            targetServer.sendResponse(RequestMethod.GET, target, new CompletionHandler() {
+            final HashSet<String> query = getQuery();
+            targetServer.sendResponse(RequestMethod.GET, target, query, new CompletionHandler() {
                 @Override
                 public void handle(Object object) {
                     final boolean connected = object != null;
                     WLLogger.log(Level.INFO, prefix + (connected ? "Connected" : "Unable to connect") + " to \"" + target + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                     if(connected) {
                         try {
-                            final String response = DataValues.HTTP_SUCCESS_200 + object.toString();
+                            final String response = DataValues.HTTP_SUCCESS_200 + object;
                             writeOutput(client, response);
                         } catch (Exception e) {
                             e.printStackTrace();
@@ -87,21 +90,24 @@ public final class ProxyClient extends Thread implements RestAPI {
         }
     }
 
+    private String getHeaderThatStartsWith(String[] headers, String string) {
+        return Arrays.stream(headers).filter(target -> target.startsWith(string)).findFirst().orElse(null);
+    }
     private String getPlatform(@NotNull String[] headers) {
-        for(String string : headers) {
-            if(string.startsWith("***REMOVED***")) {
-                return string.split("***REMOVED***")[1];
-            }
-        }
-        return null;
+        return getHeaderThatStartsWith(headers, "***REMOVED***");
     }
     private String getIdentifier(@NotNull String[] headers) {
-        for(String string : headers) {
-            if(string.startsWith("***REMOVED***")) {
-                return string.split("***REMOVED***")[1];
-            }
-        }
-        return null;
+        return getHeaderThatStartsWith(headers, "***REMOVED***");
+    }
+
+    public String getPlatform() {
+        return getHeaderThatStartsWith(getHeaderList(), "***REMOVED***");
+    }
+    public String getIdentifier() {
+        return getHeaderThatStartsWith(getHeaderList(), "***REMOVED***");
+    }
+    public HashSet<String> getQuery() {
+        return new HashSet<>(Arrays.asList(getHeaderThatStartsWith(getHeaderList(), "Query: ").split("&")));
     }
 
     private TargetServer getTargetServer(String input) {

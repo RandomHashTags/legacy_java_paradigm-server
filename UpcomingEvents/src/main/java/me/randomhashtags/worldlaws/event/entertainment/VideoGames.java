@@ -1,11 +1,7 @@
 package me.randomhashtags.worldlaws.event.entertainment;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.event.EventDate;
-import me.randomhashtags.worldlaws.PreUpcomingEvent;
-import me.randomhashtags.worldlaws.UpcomingEventType;
 import me.randomhashtags.worldlaws.location.WLCountry;
-import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -16,16 +12,8 @@ import java.util.*;
 public enum VideoGames implements EventController {
     INSTANCE;
 
-    private String json;
-    private volatile Month MONTH;
-    private volatile int DAY;
-    private int MAX_COMPLETED_HANDLERS;
-    private HashSet<PreUpcomingEvent> VIDEO_GAMES;
-    private HashMap<String, String> preEvents, events;
-
-    VideoGames() {
-        VIDEO_GAMES = new HashSet<>();
-    }
+    private HashMap<String, NewPreUpcomingEvent> preEventURLS;
+    private HashMap<String, String> upcomingEvents, preUpcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -33,21 +21,19 @@ public enum VideoGames implements EventController {
     }
 
     @Override
-    public void refresh(CompletionHandler handler) {
+    public void load(CompletionHandler handler) {
+        preEventURLS = new HashMap<>();
+        preUpcomingEvents = new HashMap<>();
+        upcomingEvents = new HashMap<>();
+
         final int thisYear = WLUtilities.getTodayYear();
-        final long time = System.currentTimeMillis();
-        MAX_COMPLETED_HANDLERS = 0;
-        preEvents = new HashMap<>();
-        events = new HashMap<>();
         refreshUpcomingVideoGames(thisYear, new CompletionHandler() {
             @Override
             public void handle(Object object) {
                 refreshUpcomingVideoGames(thisYear+1, new CompletionHandler() {
                     @Override
                     public void handle(Object object) {
-                        updateJSON();
-                        WLLogger.log(Level.INFO, "Video Games - refreshed year " + thisYear + "-" + (thisYear+1) + " releases (took " + (System.currentTimeMillis()-time) + "ms)");
-                        handler.handle(json);
+                        handler.handle(null);
                     }
                 });
             }
@@ -55,23 +41,23 @@ public enum VideoGames implements EventController {
     }
 
     @Override
-    public String getCache() {
-        return json;
-    }
-
-    @Override
-    public HashMap<String, String> getPreEvents() {
-        return preEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getEvents() {
-        return events;
-    }
-
-    @Override
     public WLCountry getCountry() {
         return null;
+    }
+
+    @Override
+    public HashMap<String, NewPreUpcomingEvent> getPreEventURLs() {
+        return preEventURLS;
+    }
+
+    @Override
+    public HashMap<String, String> getPreUpcomingEvents() {
+        return preUpcomingEvents;
+    }
+
+    @Override
+    public HashMap<String, String> getUpcomingEvents() {
+        return upcomingEvents;
     }
 
     private void refreshUpcomingVideoGames(int year, CompletionHandler handler) {
@@ -99,8 +85,8 @@ public enum VideoGames implements EventController {
 
         final Set<String> keys = MONTHS.keySet();
         boolean isMonth = false;
-        final EventSource source = new EventSource("Wikipedia: " + year + " in video games", "https://en.wikipedia.org/wiki/" + year + "_in_video_games");
-        final String url = "https://en.wikipedia.org";
+        Month month = null;
+        int day = 0;
         for(Element element : array) {
             if(months.contains(element)) {
                 isMonth = true;
@@ -110,68 +96,64 @@ public enum VideoGames implements EventController {
                     final Elements rows = element.select("tbody tr");
                     rows.remove(0);
 
-                    addMaxCompletionHandlers(rows.size());
                     for(Element row : rows) {
-                        checkMonth(row.text(), keys);
-                        final EventDate date = new EventDate(MONTH, DAY, year);
-                        final Elements tds = row.select("td");
-                        final Elements tdIs = tds.select("i");
-                        final boolean isEmpty = tdIs.isEmpty();
-                        final Element td0 = tds.get(0);
-                        final Element platformsElement = td0.hasAttr("style") ? tds.get(3) : td0.hasAttr("rowspan") || td0.text().matches("[0-9]+") || td0.text().equals("TBA") ? tds.get(2) : tds.get(1);
-                        final List<String> platforms = Arrays.asList(
-                                platformsElement.text()
-                                        .replace("Win", "Windows")
-                                        .replace("XBO", "Xbox One")
-                                        .replace("NS", "Nintendo Switch")
-                                        .replace("XSX", "Xbox Series X/S")
-                                        .replace("Mac", "***REMOVED***")
-                                        .replace("Lin", "Linux")
-                                        .replace("Droid", "***REMOVED***")
-                                        .replace("PS4", "PlayStation 4")
-                                        .replace("PS5", "PlayStation 5")
-                                        .replace("PSVita", "PlayStation Vita")
-                                        .replace(", ", ",").split(",")
-                        );
+                        String text = row.text();
+                        final Month targetMonth = getMonthFrom(text, keys);
+                        if(targetMonth != null) {
+                            month = targetMonth;
+                            final String key = getMonthKey(month, keys);
+                            text = text.substring(key.length());
+                        }
+                        if(month != null) {
+                            final String[] values = text.split(" ");
+                            final String value0 = values[0];
+                            final boolean isDay = value0.matches("[0-9]+");
+                            final boolean isRealDay = isDay || value0.equalsIgnoreCase("tba");
+                            day = isDay ? Integer.parseInt(value0) : isRealDay ? -1 : day;
 
-                        final Element titleElement = isEmpty ? tds.get(0) : tdIs.get(0);
-                        final String title = titleElement.text();
-                        final Elements hrefs = titleElement.select("a[href]");
-                        final boolean hasHref = !hrefs.isEmpty();
-                        final EventSources sources = new EventSources(source);
-                        new Thread(() -> {
-                            String desc = "", coverArtURL = null;
-                            if(hasHref) {
-                                final String targetURL = url + hrefs.get(0).attr("href");
-                                final Document doc = getDocument(targetURL);
-                                if(doc != null) {
-                                    final EventSource videoGameSource = new EventSource("Wikipedia: " + title, targetURL);
-                                    sources.addSource(videoGameSource);
-                                    addExternalLinks(doc, sources);
+                            final String dateString = month.getValue() + "-" + year + "-" + day;
+                            final Elements tds = row.select("td");
+                            final Elements tdIs = tds.select("i");
+                            final boolean isEmpty = tdIs.isEmpty();
+                            final Element td0 = tds.get(0);
+                            final Element platformsElement = td0.hasAttr("style") ? tds.get(3) : td0.hasAttr("rowspan") || td0.text().matches("[0-9]+") || td0.text().equals("TBA") ? tds.get(2) : tds.get(1);
+                            final List<String> platforms = Arrays.asList(
+                                    platformsElement.text()
+                                            .replace("Win", "Windows")
+                                            .replace("XBO", "Xbox One")
+                                            .replace("NS", "Nintendo Switch")
+                                            .replace("XSX", "Xbox Series X/S")
+                                            .replace("Mac", "***REMOVED***")
+                                            .replace("Lin", "Linux")
+                                            .replace("Droid", "***REMOVED***")
+                                            .replace("PS4", "PlayStation 4")
+                                            .replace("PS5", "PlayStation 5")
+                                            .replace("PSVita", "PlayStation Vita")
+                                            .replace(", ", ",").split(",")
+                            );
 
-                                    final Elements infobox = doc.select("table.infobox tbody tr");
-                                    final Elements images = infobox.select("td a[href] img");
-                                    coverArtURL = !images.isEmpty() ? "https:" + images.get(0).attr("src") : null;
-                                    final Elements paragraphs = doc.select("div.mw-parser-output p");
-                                    paragraphs.removeIf(p -> p.className().equals("mw-empty-elt"));
-                                    desc = removeReferences(paragraphs.get(0).text());
+                            final Element titleElement = isEmpty ? tds.get(0) : tdIs.get(0);
+                            final String title = titleElement.text();
+                            final Elements hrefs = titleElement.select("a[href]");
+                            if(!hrefs.isEmpty()) {
+                                final String wikipediaURL = "https://en.wikipedia.org" + hrefs.get(0).attr("href");
+                                final String id = dateString + "." + title.replace(" ", "");
+                                final StringBuilder builder = new StringBuilder();
+                                boolean isFirst = true;
+                                for(String platform : platforms) {
+                                    builder.append(isFirst ? "" : ", ").append(platform);
+                                    isFirst = false;
                                 }
-                            } else {
-                                desc = "Information about this video game is currently unknown.";
+                                final NewPreUpcomingEvent preUpcomingEvent = new NewPreUpcomingEvent(id, title, wikipediaURL, builder.toString());
+                                preEventURLS.put(id, preUpcomingEvent);
                             }
-                            final VideoGameEvent event = new VideoGameEvent(date, title, desc, coverArtURL, platforms, sources);
-                            final String identifier = getEventIdentifier(date, title);
-                            events.put(identifier, event.toJSON());
-                            addVideoGame(event);
-                            if(getVideoGameSize() == getMaxCompletedHandlers()) {
-                                handler.handle(null);
-                            }
-                        }).start();
+                        }
                     }
                     isMonth = false;
                 }
             }
         }
+        handler.handle(null);
     }
 
     private void addExternalLinks(Document doc, EventSources sources) {
@@ -197,48 +179,45 @@ public enum VideoGames implements EventController {
         }
     }
 
-    private void checkMonth(String text, Set<String> keys) {
-        final Month targetMonth = getMonthFrom(text, keys);
-        if(targetMonth != null) {
-            MONTH = targetMonth;
-            final String key = getMonthKey(MONTH, keys);
-            text = text.substring(key.length());
-        }
-        final String[] values = text.split(" ");
-        final String value0 = values[0];
-        final boolean isDay = value0.matches("[0-9]+");
-        final boolean isRealDay = isDay || value0.equalsIgnoreCase("tba");
-        DAY = isDay ? Integer.parseInt(value0) : isRealDay ? -1 : DAY;
-    }
+    @Override
+    public void getUpcomingEvent(String id, CompletionHandler handler) {
+        if(upcomingEvents.containsKey(id)) {
+            handler.handle(upcomingEvents.get(id));
+        } else {
+            final NewPreUpcomingEvent preUpcomingEvent = preEventURLS.get(id);
+            final String url = preUpcomingEvent.getURL();
+            final String title = preUpcomingEvent.getTitle(), platforms = preUpcomingEvent.getTag();
+            final Document wikidoc = getDocument(url);
+            if(wikidoc != null) {
+                final EventSource videoGameSource = new EventSource("Wikipedia: " + title, url);
+                final EventSources sources = new EventSources(videoGameSource);
+                addExternalLinks(wikidoc, sources);
 
-    private void updateJSON() {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
-        for(PreUpcomingEvent event : VIDEO_GAMES) {
-            builder.append(isFirst ? "" : ",").append(event.toString());
-            isFirst = false;
-        }
-        builder.append("]");
-        json = builder.toString();
-        VIDEO_GAMES = null;
-        MAX_COMPLETED_HANDLERS = 0;
-    }
+                final Elements infobox = wikidoc.select("table.infobox tbody tr");
+                final Elements images = infobox.select("td a[href] img");
+                final String coverArtURL = !images.isEmpty() ? "https:" + images.get(0).attr("src") : null;
+                final Elements paragraphs = wikidoc.select("div.mw-parser-output p");
+                paragraphs.removeIf(p -> p.className().equals("mw-empty-elt"));
+                final String desc = removeReferences(paragraphs.get(0).text());
 
-    private synchronized void addMaxCompletionHandlers(int added) {
-        MAX_COMPLETED_HANDLERS += added;
-    }
-    private synchronized int getMaxCompletedHandlers() {
-        return MAX_COMPLETED_HANDLERS;
-    }
-    private synchronized void addVideoGame(VideoGameEvent event) {
-        final EventDate date = event.getDate();
-        final String title = event.getTitle();
-        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(title, event.getPlatforms(), event.getImageURL());
-        final String identifier = getEventIdentifier(date, title), string = preUpcomingEvent.toString();
-        preEvents.put(identifier, string);
-        VIDEO_GAMES.add(preUpcomingEvent);
-    }
-    private synchronized int getVideoGameSize() {
-        return VIDEO_GAMES.size();
+                final StringBuilder builder = new StringBuilder("[");
+                boolean isFirst = true;
+                for(String string : platforms.split(", ")) {
+                    builder.append(isFirst ? "" : ",").append("\"").append(string).append("\"");
+                    isFirst = false;
+                }
+                builder.append("]");
+
+                final String realPlatforms = builder.toString();
+                final VideoGameEvent event = new VideoGameEvent(title, desc, coverArtURL, realPlatforms, sources);
+                final String string = event.toJSON();
+                upcomingEvents.put(id, string);
+                final String preUpcomingEventString = preUpcomingEvent.getPreUpcomingEvent(coverArtURL).toString();
+                preUpcomingEvents.put(id, preUpcomingEventString);
+                handler.handle(string);
+            } else {
+                handler.handle(null);
+            }
+        }
     }
 }

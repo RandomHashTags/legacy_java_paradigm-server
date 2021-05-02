@@ -1,0 +1,756 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>International Volunteer Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"936e511c-d4cd-4174-8338-8325718bfd5a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"International_Volunteer_Day","wgTitle":"International Volunteer Day","wgCurRevisionId":1000894016,"wgRevisionId":1000894016,"wgArticleId":11648411,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from December 2016","All articles needing additional references","Commons category link is on Wikidata","United Nations days","December observances","Volunteering"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"International_Volunteer_Day","wgRelevantArticleId":11648411,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q490486"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready",
+"skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.1"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/73/Goma%2C_Nord-Kivu%2C_en_RD_Congo-_Une_%C3%A9coli%C3%A8re_pr%C3%A9sente_une_sculpture_en_hommage_%C3%A0_la_Journ%C3%A9e_Internationale_des_Volontaires_%C3%A0_l%27un_des_volontaires_des_Nations_Unies._%2822981683004%29.jpg"> 
+  <meta property="og:title" content="International Volunteer Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/International_Volunteer_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=International_Volunteer_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=International_Volunteer_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/International_Volunteer_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-International_Volunteer_Day rootpage-International_Volunteer_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">International Volunteer Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-span">
+           This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=International_Volunteer_Day&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br><small><span class="plainlinks"><i>Find sources:</i>&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22International+Volunteer+Day%22">"International Volunteer Day"</a>&nbsp;–&nbsp;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22International+Volunteer+Day%22+-wikipedia">news</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22International+Volunteer+Day%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22International+Volunteer+Day%22+-wikipedia">books</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22International+Volunteer+Day%22">scholar</a>&nbsp;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22International+Volunteer+Day%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span> <small class="date-container"><i>(<span class="date">December 2016</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small>
+          </div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Goma,_Nord-Kivu,_en_RD_Congo-_Une_%C3%A9coli%C3%A8re_pr%C3%A9sente_une_sculpture_en_hommage_%C3%A0_la_Journ%C3%A9e_Internationale_des_Volontaires_%C3%A0_l%27un_des_volontaires_des_Nations_Unies._(22981683004).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Goma%2C_Nord-Kivu%2C_en_RD_Congo-_Une_%C3%A9coli%C3%A8re_pr%C3%A9sente_une_sculpture_en_hommage_%C3%A0_la_Journ%C3%A9e_Internationale_des_Volontaires_%C3%A0_l%27un_des_volontaires_des_Nations_Unies._%2822981683004%29.jpg/220px-thumbnail.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Goma%2C_Nord-Kivu%2C_en_RD_Congo-_Une_%C3%A9coli%C3%A8re_pr%C3%A9sente_une_sculpture_en_hommage_%C3%A0_la_Journ%C3%A9e_Internationale_des_Volontaires_%C3%A0_l%27un_des_volontaires_des_Nations_Unies._%2822981683004%29.jpg/330px-thumbnail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Goma%2C_Nord-Kivu%2C_en_RD_Congo-_Une_%C3%A9coli%C3%A8re_pr%C3%A9sente_une_sculpture_en_hommage_%C3%A0_la_Journ%C3%A9e_Internationale_des_Volontaires_%C3%A0_l%27un_des_volontaires_des_Nations_Unies._%2822981683004%29.jpg/440px-thumbnail.jpg 2x" data-file-width="1080" data-file-height="720"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Goma,_Nord-Kivu,_en_RD_Congo-_Une_%C3%A9coli%C3%A8re_pr%C3%A9sente_une_sculpture_en_hommage_%C3%A0_la_Journ%C3%A9e_Internationale_des_Volontaires_%C3%A0_l%27un_des_volontaires_des_Nations_Unies._(22981683004).jpg" class="internal" title="Enlarge"></a>
+         </div>A schoolgirl in Congo presents a sculpture commemorating International Volunteer Day to one of the United Nations volunteers.
+        </div>
+       </div>
+      </div> 
+      <p>The <b>International Volunteer Day for Economic and Social Development</b> (5 December), more commonly referred to as <b>International Volunteer Day (IVD),</b> is an <a href="/wiki/List_of_minor_secular_observances#December" title="List of minor secular observances">international observance</a> mandated by the UN General Assembly in 1985. It offers an opportunity for volunteer-involving organizations and individual volunteers to promote <a href="/wiki/Volunteering" title="Volunteering">volunteerism</a>, encourage governments to support volunteer efforts and recognize volunteer contributions to the achievement of the <a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a> (SDGs) at local, national and international levels. </p>
+      <p>International Volunteer Day is celebrated by many <a href="/wiki/Non-governmental_organizations" class="mw-redirect" title="Non-governmental organizations">non-governmental organizations</a>, civil society, and the private sector, among others. It is also marked and supported by the <a href="/wiki/United_Nations_Volunteers" title="United Nations Volunteers">United Nations Volunteers</a> (UNV) programme. </p>
+      <p>UNV coordinates a campaign to promote IVD every year, building on the impact volunteers have in communities, nationally and globally for <a href="/wiki/World_peace" title="World peace">peace</a> and <a href="/wiki/Development_aid" title="Development aid">development</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> </p>
+      <p>In 2018 the focus of IVD is not only to celebrate volunteerism in all its facets, but also to highlight the role that volunteers play in building resilient communities.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> It is worth noting that current estimates equate the global volunteer workforce to 109 million full-time workers. 30 per cent of volunteering that takes place formally through organizations, associations and groups; and 70 per cent occurs through informal engagement between individuals. Overall, 60% of the informal volunteers are women. </p> 
+      <table class="wikitable"> 
+       <tbody>
+        <tr> 
+         <td>"Volunteers are often the first to act in times of crisis, helping millions to survive despite the risks. Their work upholds our common humanity." <p><i>Secretary-General António Guterres,</i> <i>International Volunteer Day 2017</i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#A_focus_on_partnership_and_development"><span class="tocnumber">2</span> <span class="toctext">A focus on partnership and development</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Online_Volunteering_Award"><span class="tocnumber">3</span> <span class="toctext">Online Volunteering Award</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Volunteer_Day&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>International Volunteer Day is a chance for individual volunteers, communities and organizations to promote their contributions to development at the local, national and international levels. By combining United Nations (UN) support with a grassroots mandate, International Volunteer Day is a unique opportunity for people and volunteer-involving organizations to work with government agencies, non-profit institutions, community groups, academia and the private sector. </p>
+      <p>The International Volunteer Day for Economic and Social Development was adopted by the United Nations General Assembly through Resolution A/RES/40/212<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> on 17 December 1985. </p>
+      <p>In 2012, in response to evolving experiences and recommendations, the United Nations Volunteers (UNV) programme spearheaded a Five-Year International Volunteer Day Strategy, with the aim to make it more globally recognized and grassroots-owned. </p>
+      <p><b>Celebration of International Volunteer Day (IVD) and the themes:</b> </p>
+      <p>IVD is celebrated each year in over 80 countries annually. The IVD website receives around 50,000 page views every year, with around 150 stories posted which highlight over 50,000 volunteers, photos and videos of celebrations worldwide. </p>
+      <p><b>IVD 2020</b> – "Together We Can Through Volunteering" </p>
+      <p>IVD 2020 emphasized gratitude for volunteers and their efforts during the <a href="/wiki/COVID-19_pandemic" title="COVID-19 pandemic">COVID-19 pandemic</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p>
+      <p><b>IVD 2019</b> – "For an Inclusive Future" </p>
+      <p>IVD 2019 focused on the diversity of volunteers and how volunteers themselves contribute to inclusion.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p>
+      <p><b>IVD 2018</b> – "Volunteers build Resilient Communities" </p>
+      <p>IVD 2018 celebrated volunteer efforts that strengthen local ownership and the resilience of the community in the face of natural disasters, economic stresses and political shocks. The event on 5 December 2018 focused on how volunteers can build resilient communities.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </p>
+      <p><b>IVD 2017</b> - "Volunteers Act First. Here. Everywhere." </p>
+      <p>The focus of IVD 2017 was to recognize the positive solidarity of volunteers around the world who answer calls in times of crisis, helping save lives today and supporting those who want to continue living their lives with dignity tomorrow.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> </p>
+      <p><b>IVD 2016</b> - "Global Applause – give volunteers a hand" </p>
+      <p>Under this theme, IVD presented a round of global applause to celebrate volunteers everywhere and encouraged others to join in and contribute to peace and sustainable development.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> </p>
+      <p><b>IVD 2015</b> - "Your world is changing. Are you? Volunteer!" </p>
+      <p>The goal of IVD 2015 was to start a dialogue about how volunteerism is vital to the success of the Sustainable Development Goals (SDGs) and the 2030 Agenda.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> </p>
+      <p><b>IVD 2014</b> - "Make change happen, volunteer!" </p>
+      <p>The goal of IVD 2014 was to highlight the contribution of volunteers in engaging people from the grassroots in decision-making processes, ultimately creating spaces for participation that lead to stronger governance, social cohesion, peace and sustainable development.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </p>
+      <p><b>IVD 2013</b> - "Young. Global. Active." </p>
+      <p>The goal of the event was to pay special tribute to the contribution of youth volunteers to global peace and sustainable human development, highlighting that young people act as agents of change in their communities.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> </p>
+      <p><b>IVD 2012</b> - "Celebrate volunteering" </p>
+      <p>The event celebrated its commitment and hope for a better world. The main focus of IVD 2012 was awareness of and recognition for volunteers and volunteer organizations.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </p> 
+      <h2><span class="mw-headline" id="A_focus_on_partnership_and_development">A focus on partnership and development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Volunteer_Day&amp;action=edit&amp;section=2" title="Edit section: A focus on partnership and development">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a href="/wiki/File:Kofi_Annan%27s_speech.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kofi_Annan%27s_speech.jpg/200px-Kofi_Annan%27s_speech.jpg" decoding="async" width="200" height="282" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kofi_Annan%27s_speech.jpg/300px-Kofi_Annan%27s_speech.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kofi_Annan%27s_speech.jpg/400px-Kofi_Annan%27s_speech.jpg 2x" data-file-width="3017" data-file-height="4250"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Kofi_Annan%27s_speech.jpg" class="internal" title="Enlarge"></a>
+         </div>Kofi Annan speech on the International Year of Volunteers 2001
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:UN_Volunteers,_local_volunteers,_volunteer-involving_organizations,_youth_organizations,_and_UN_agencies_attending_the_2017_International_Volunteer_Day_celebration_in_Nepal..jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/UN_Volunteers%2C_local_volunteers%2C_volunteer-involving_organizations%2C_youth_organizations%2C_and_UN_agencies_attending_the_2017_International_Volunteer_Day_celebration_in_Nepal..jpg/220px-thumbnail.jpg" decoding="async" width="220" height="125" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/UN_Volunteers%2C_local_volunteers%2C_volunteer-involving_organizations%2C_youth_organizations%2C_and_UN_agencies_attending_the_2017_International_Volunteer_Day_celebration_in_Nepal..jpg/330px-thumbnail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/UN_Volunteers%2C_local_volunteers%2C_volunteer-involving_organizations%2C_youth_organizations%2C_and_UN_agencies_attending_the_2017_International_Volunteer_Day_celebration_in_Nepal..jpg/440px-thumbnail.jpg 2x" data-file-width="2500" data-file-height="1416"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:UN_Volunteers,_local_volunteers,_volunteer-involving_organizations,_youth_organizations,_and_UN_agencies_attending_the_2017_International_Volunteer_Day_celebration_in_Nepal..jpg" class="internal" title="Enlarge"></a>
+         </div>UN Volunteers, local volunteers, volunteer-involving organizations, youth organizations, and UN agencies attending the 2017 International Volunteer Day celebration in Nepal
+        </div>
+       </div>
+      </div> 
+      <p>Through the years, International Volunteer Day has been used strategically: many countries have focused on volunteers’ contributions to achieving the <a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals">Sustainable Development Goals</a>, a set of time-bound targets to combat poverty, hunger, disease, health, environmental degradation and gender equality. <a href="/wiki/Sustainable_Development_Goals" title="Sustainable Development Goals"><sup>[1]</sup></a> </p>
+      <p>International Volunteer Day (IVD) celebrates active volunteers and attracts new volunteers in the North and in the South, with a special focus on promoting <a href="/wiki/South%E2%80%93South_cooperation" title="South–South cooperation">South-South cooperation</a>. </p>
+      <p>The organization of International Volunteer Day is generally the result of a partnership between the UN system, governments, volunteer-involving organizations and committed individuals. Representatives from the media or academia, foundations, the private sector, faith groups, and sports and recreational organizations are often involved too. </p>
+      <p>The General Assembly invited Governments to observe annually, on 5 December, the International Volunteer Day for Economic and Social Development (resolution 40/212 of 17 December 1985)<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> and urged them to take measures to heighten awareness of the important contribution of volunteer service, thereby stimulating more people in all walks of life to offer their services as volunteers, both at home and abroad. </p>
+      <p>The United Nations General Assembly, in its resolution 52/17<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> of 20 November 1997, proclaimed 2001 as the International Year of Volunteers (IYV). The year was conceived to further the recognition of volunteers, facilitate their work, create a communication network and promote the benefits of voluntary service. </p>
+      <p>In 2001, the International Year of Volunteers, the General Assembly adopted a set of recommendations on ways in which Governments and the United Nations system could support volunteering and asked that they be given wide dissemination (resolution 56/38 of 5 December 2001).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> </p>
+      <p>The United Nations General Assembly, in its resolution 57/106 of 22 November 2002, called upon the United Nations Volunteers (UNV) programme to ensure that the potential of International Volunteer Day is fully realized. </p>
+      <p>On 18 December 2008, the General Assembly decided that on or around 5 December 2011, two plenary meetings of the sixty-sixth session of the General Assembly should be devoted to the follow-up to the International Year of Volunteers and the commemoration of its tenth anniversary (resolution 63/153).<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Online_Volunteering_Award">Online Volunteering Award</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Volunteer_Day&amp;action=edit&amp;section=3" title="Edit section: Online Volunteering Award">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Traditionally, on International Volunteer Day (5 December), UNV calls for nominations and launches the UNV Online Volunteering Award. A jury made up of UNV representatives and external experts in volunteerism and development cooperation reviews the nominations and selects the winners. </p>
+      <p>The United Nations Volunteers (UNV) programme invites citizens worldwide to be inspired by the winner's stories and participate in the global voting for their favorite winner. The team that gets the most votes is announced as the public's favorite on the International Day of Happiness. </p>
+      <p>The purpose of the award is to recognize online volunteers’ contributions towards achieving the Sustainable Development Goals, to showcase the many ways in which online volunteers can strengthen the capacities of organizations and to demonstrate the difference volunteers can make to peace and development projects by sharing their time, skills and expertise over the Internet.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> </p> 
+      <table class="wikitable"> 
+       <caption>
+        UNV Online Volunteering Award Winners 
+       </caption> 
+       <tbody>
+        <tr> 
+         <th>Year of the Award </th> 
+         <th>Winners </th> 
+         <th>Public Favorite <p>(If chosen) </p> </th>
+        </tr> 
+        <tr> 
+         <td>2002<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> </td> 
+         <td> 
+          <ul>
+           <li>Adedoyin Onasanya (Nigeria) - <b>HORIZON International (USA)</b></li> 
+           <li>Angelica Hasbun (Costa Rica) - <b>People with Disabilities Uganda (Uganda)</b></li> 
+           <li>Cynthia Holland (Canada) - <b>Reach Out International (USA/Guatemala)</b></li> 
+           <li>Javier Wilson (Nicaragua) - <b>Nile Basin Society (Canada)</b></li> 
+           <li>Joanne K. Morse (USA) - <b>Christian Rural Aid Network (Ghana)</b></li> 
+           <li>Laurie Moy (USA) - <b>People with Disabilities Uganda (Uganda)</b></li> 
+           <li>Natalya Korobeynyk (Ukraine) - <b>Gardarika (Russian Federation)</b></li> 
+           <li>Paula Santos Vizcaino (Uruguay) - <b>La Leche League International (USA)</b></li> 
+           <li>Terry Rosenlund (USA) - <b>Kenya AIDS Intervention/Prevention Project Group (KAIPPG) (Kenya/USA)</b></li> 
+           <li>Yvonne Swain (USA) - <b>Overcomers Visionary Faith Centre (Kenya) / Learning and Development Kenya (Kenya)</b></li>
+          </ul> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>2003<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> </td> 
+         <td> 
+          <ul>
+           <li>Anne-Catherine Yon (USA) - <b>World Computer Exchange (USA)</b></li> 
+           <li>Deborah D'Amico (Canada) - <b>People with Disabilities Uganda (Uganda)</b></li> 
+           <li>Kelly (Xiaodong) Zeng (China/USA) - <b>Business Information Centre Straldja (Bulgaria)</b></li> 
+           <li>Lela Rachman Talogo (Canada) - <b>Pearls of Africa (USA)</b></li> 
+           <li>Mark Wireman (USA) - <b>Lawyers without Borders (USA)</b></li> 
+           <li>Miodrag Zivkovic (Serbia and Montenegro) - <b>Zartonk-89 (Armenia)</b></li> 
+           <li>Paul Fifen Chimy (Cameroon/France) - <b>Education for Development (Vietnam)</b></li> 
+           <li>Raj Gopal Prasad Kantamneni (USA) - <b>Freedom from Hunger (USA)</b></li> 
+           <li>Stanley Tuvako (Kenya) - <b>Kenya AIDS Intervention/Prevention Project Group (Kenya/USA)</b></li> 
+           <li>Yasemin Gunay (Turkey) - <b>Mgbala Agwa Youth Forum (Nigeria)</b></li>
+          </ul> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>2004<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> </td> 
+         <td> 
+          <ul>
+           <li>Beatriz Iglesias (Spain) - <b>La red internacional pro niños de la calle (USA)</b></li> 
+           <li>Biswajit Dash (India) - <b>People with Disabilities Uganda</b></li> 
+           <li>Blandina Musvoto (Zimbabwe) - <b>Mgbala Agwa Youth Forum (Nigeria)</b></li> 
+           <li>Claire Suzanne Holland (USA) - <b>Bureau for Reconstruction and Development (Afghanistan)</b></li> 
+           <li>Flavia Trevisani (Italy) - <b>Lawyers Without Borders (USA)</b></li> 
+           <li>George Okello Gopal (Kenya) - <b>Centre for Research in Women's Health (Canada)</b></li> 
+           <li>Ian Foster (Australia) - <b>Gwalior Children's Hospital Charity (UK)</b></li> 
+           <li>Kalyani Suresh (India) - <b>Professional Education Organization International (PEOI)</b></li> 
+           <li>Maria Yvette Reyes (Philippines) - <b>Mmanze Centre for Rural Development and Training (Uganda)</b></li> 
+           <li>Will R. Wallace (USA) - <b>RESPECT International (Canada)</b></li>
+          </ul> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>2005<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> </td> 
+         <td> 
+          <ul>
+           <li>Ana Maria da F.M. Saravia (Brazil) - <b>Shine a Light, la red internacional pro niños de la calle (USA)</b></li> 
+           <li>Carlos Jiménez (Spain) - <b>UN Volunteers Egypt</b></li> 
+           <li>Elizabeth and Tim Rose (Canada) - <b>Childcare and Adoption Society Zambia</b></li> 
+           <li>Haingonirina Angie Ramaroson (Madagascar/USA) - <b>DatelineHealth-Africa Inc. (USA)</b></li> 
+           <li>Jay Martin (Australia) - <b>UN Volunteers (UNV) Vietnam</b></li> 
+           <li>Mohammad Ashaq Malik (India/Eritrea) - <b>Nile Basin Society (Canada) + UN Volunteers (UNV) Syria</b></li> 
+           <li>Charles Forrester (Australia), Kashif Kamran (Pakistan), Priscilla Lynch (USA), Taru Agarwal (India) - <b>UN Volunteers Syria</b></li> 
+           <li>Sandrine Cortet (France/USA) - <b>PEOI (USA) + RESPECT International (Canada)</b></li> 
+           <li>Sonia Ignatova (USA) - <b>Action Against Poverty International, Inc. (USA/Nigeria)</b></li> 
+           <li>Stephan Bren (USA) - <b>Mgbala Agwa Youth Forum (Nigeria)</b></li>
+          </ul> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>2006<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> </td> 
+         <td> 
+          <ul>
+           <li>Ayan Humbert-Droz (Australia) - <b>Native Planet (U.S.A.)</b></li> 
+           <li>Dieudonné Amisi Mutambala (D.R. Congo) - <b>RESPECT Refugee Education Sponsorship Program (Canada)</b></li> 
+           <li>Edna Eufemio (Philippines) and Lakshmi Poorna (India) - <b>Solidarity Tourism (Spain)</b></li> 
+           <li>Lourdes Sada (Spain) - <b>Community Empowerment Collective Society (Canada) and PEOI, Professional Education Organization International (U.S.A.)</b></li> 
+           <li>Minh Vo (Viet Nam) - <b>PEOI, Professional Education Organization International (U.S.A.)</b></li> 
+           <li>Rajaa Habeeb Abdullah Allwatiah (Oman) - <b>HASCO, Help Afghan School Children Org (Austria)</b></li> 
+           <li>Raul Alberto Caceres (Colombia) - <b>NABUUR (The Netherlands)</b></li> 
+           <li>Shane Messer (U.S.A.) - <b>LWOB, Lawyers Without Borders (U.S.A.)</b></li> 
+           <li>Solomon Sackitey (Ghana) - <b>DatelineHealth Africa Inc. (U.S.A.)</b></li> 
+           <li>Su Melser (Costa Rica) and Delia Tasso (Italy) - <b>International Network for Bamboo and Rattan (China)</b></li>
+          </ul> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>2007<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> </td> 
+         <td> 
+          <ul>
+           <li><b>African Conservation Foundation Team</b> - Lauriane Cayet and Magali Moreau</li> 
+           <li><b>Bureau for Reconstruction and Development Team</b> - Yin Mei Wong</li> 
+           <li><b>Community Empowerment Collective Team</b> - Luiz Claudio Correia dos Anjos</li> 
+           <li><b>Conscious Generation Team</b> - Deborah Hubscher</li> 
+           <li><b>Lawyers Without Borders Team</b> - Bonnie Taher</li> 
+           <li><b>MAPU Association Team</b> - Carmina Velasco and Silke Reichrath</li> 
+           <li><b>RESPECT Team</b> - Veronica Patience Fynn, Dr. Raphael Sadiwa and Kenneth Donahue</li> 
+           <li><b>Shine a Light Team</b> - Ludmila Cieszkowsky and Sara Gomes</li> 
+           <li><b>UNDP International Poverty Centre Team</b> - Mania Mirsli and Sabria Regragui Mazili</li> 
+           <li><b>Youth for Technology Foundation Team</b> - Danielle Brunin</li>
+          </ul> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>2009<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> </td> 
+         <td> 
+          <ul>
+           <li><b>Africavenir Team</b> - Aline De Leener, Amandine Hourt, Andrea Rudin Montes de Oca, Hippolyt Fogaing, Jean Bosco Utuba, KayerguĂ Koulibaly, Tony Kouteh</li> 
+           <li><b>Engineers Without Borders Team</b> - Anne Marine Boubennec, Birgit Kann, Daniel Sturby, Hippolyt Fogaing, Karine Duval, Lee Knaggsi, Meiry Matsuda, Ruth Keene, Stéphanie Di Sano, Tanya Brown</li> 
+           <li><b>Grace Foundation Nigeria Team</b> - Ayesha Zaheer</li> 
+           <li><b>Grace Association Pakistan Team</b> - Aisha Mian, Jennifer Wells, Kalloimora Bzepam, Katie Simons, Laura Gamboa-Cavazos, Laura Riveni, Loai Farajallah, Paula Ellinger da Fonseca, Sehrish Rashid, Yvonne Nelson</li> 
+           <li><b>Kitega Community Centre Team</b> - Anne Ames, Dinnah Santos, Lisa Biasillo, Robert Gerstein Tiffany Shaw-Diaz, Vy Nguyen</li> 
+           <li><b>New Life Team</b> - Prajwal Baral</li> 
+           <li><b>Shine A Light Team</b> - Aida Ramos, Charles Essie Okoko, Christian Farin, Irena Kotarska, Khalid Ahmad, Liora Engel-Smith, Molombe Sammah Mbua, Nicolas López, Rania Zabaneh, Sabine Juli, Sara Gomes, Sathish Kumar, Snezana Andric, Yomna Yasse</li> 
+           <li><b>Teach A Man To Fish Team</b> - Loai Farajallah</li> 
+           <li><b>Working To Empower Team</b> - Adriana Palacios</li> 
+           <li><b>Young People We Care Team</b> - Chelsea Wyatt, Daniela Georgieva, Haddy Sarr, Kwame van Eijndhoven, Laurene Graziani, Stella Mihailova, Tizeta Getaneh, Wei Wang</li>
+          </ul> </td> 
+         <td>Africavenir Team </td>
+        </tr> 
+        <tr> 
+         <td>2010<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> </td> 
+         <td> 
+          <ul>
+           <li><b>Association Against Women Export Team -</b> Edwin Cuenco</li> 
+           <li><b>Engineers Without Borders Team -</b> Abdou Maiga, Hind Salama, Kokou Edoh Adabe</li> 
+           <li><b>Global Hand Team -</b> Dante Jiang, Qiuming Liao, Xinxin Sun, Zijian Zhang</li> 
+           <li><b>Kitega Community Centre Team -</b> Anup Tiwari, Bibiana Restrepo, Edith Marie Garingalao, Halima Tahirkheli, Kylie Dirks, Paula Montoya, Pierre Talla, Radha Taralekar, Vy Nguyen</li> 
+           <li><b>Maventy Health International Team -</b> Dan Frankowski</li> 
+           <li><b>Nabuur Team -</b> Maria Zandt</li> 
+           <li><b>Positive Nett-Works Team -</b> Akanksha Gulia, Priyanka Ohri, Ritika Verma, Samarpita Mukherjee, Tarun Chawla</li> 
+           <li><b>UNESCO World Heritage Marine Programme Team -</b> Joanna Borg</li> 
+           <li><b>Volunteer Partnerships for West Africa Team -</b> Rui Oliveira</li> 
+           <li><b>Young People We Care Team -</b> Nan Zhang and Sumit Singh</li>
+          </ul> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>2011<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> </td> 
+         <td> 
+          <ul>
+           <li><b>Comber Foundation Team</b> - Alicia Dorr, Jessica Anne Wise, Sarah Shirley, Tara Green, Eleanor Wragg, Marta Jankovic, Kari Kitiuk, Mary McKeown</li> 
+           <li><b>Delta Women Team</b> - Paola Brigneti</li> 
+           <li><b>Fundació Catalunya Voluntària Team</b> - Álvaro Martín, Annalisa Foglia, Dina M. Mansour, Gayatri Navaratnam, Karolina Ginalska, Katerina Papadopoulou, Laura Sánchez, Paola Cavallari, Peter Weekley, Porzia Persio, Ülgen Türkmen, Yadín Acedo</li> 
+           <li><b>Goodness and Mercy Missions Team</b> - Akanksha Shukla</li> 
+           <li><b>Kitega Community Centre Team</b> - Anup Tiwari, Bibiana Restrepo, Caroline Joseph, Halima Tahirkheli, June Aluoch, Kara Kristine Manso, Mona Saleh, Punam Chowdhury, Radha Taralekar, Reena Rae, Vy Nguyen, Yann Say-Liang-Fat</li> 
+           <li><b>La ferme aux arbres de Dekese Team</b> - Alex Théodore Kambou, Ali Siribié, Bernard K. Allouan</li> 
+           <li><b>Leaders of Tomorrow International Team</b> - Maria Jakimovska</li> 
+           <li><b>UN OCHA Team</b> - Ajibola Oseni,Akua_Acheampong, Avi_Sharma, Charlotte_Morgan, Chrysoula_Vafeiadaki, Estella Reed, Farshid Raminfar, Ibrahim Oyekanmi, Michael Kasolo Kigozi, Mohamed Hegab</li> 
+           <li><b>UNV Namibia / National Planning Commission of Namibia Team</b> - Edmund Paul Kalekyez</li> 
+           <li><b>Volunteer Partnerships for West Africa Team</b> - Yolanta Cwik</li>
+          </ul> </td> 
+         <td> </td>
+        </tr> 
+        <tr> 
+         <td>2012<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> </td> 
+         <td> 
+          <ul>
+           <li><b>Association of African Entrepreneurs Team</b> - Kirthi Jayakumar, Natacha Borri, Pavithra Rajan, Petroc Wilton, Rita Sheryl, Sowmyan Jegatheesan</li> 
+           <li><b>Association for Global Humanists and Ethics Pakistan Team</b> - Bushra Ferdous Khan</li> 
+           <li><b>ASTRA Anti Trafficking Action Team</b> - Dawn Brozek, Lucija Zigrovic</li> 
+           <li><b>Delta Women Team</b> - Kirthi Jayakumar</li> 
+           <li><b>Fondation Joseph the Worker Team</b> - Sandrine Legros</li> 
+           <li><b>PCs4Kids Team</b> - Brad Roberson</li> 
+           <li><b>Positive Nett-Works Team</b> - Annabel Lim, Den Quinsay, Lola Zhang, Lucia Hlopkova</li> 
+           <li><b>UNDP Brazil Team</b> - André Demetrio, Camila Pessoa, Carmen Lucia Midaglia, Eric Bragion, Fernanda Luísa Pereira, Gustavo Mattos Trindade, Isadora Barison, Marcella Rossi Motta, Marcelle Antunes Alves, Nina Carvalho, Rafael Martins Dias, Raphaella Pinheiro, Ruth Ferreira Valverde</li> 
+           <li><b>UNHCR Regional Support Hub Team</b> - Pat Redmond</li> 
+           <li><b>Youth for Technology Foundation Team</b> - Dominique Torres, Lina Klemkaite, Mayra Juárez Denis</li>
+          </ul> </td> 
+         <td>UNDP Brazil Team </td>
+        </tr> 
+        <tr> 
+         <td>2013<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> </td> 
+         <td> 
+          <ul>
+           <li><b>Ann Foundation Team</b> - Abhishek N., Aruna Babu, Arundhathi Harikrishna, Bushra Ferdous Khan, Cheryl Stafford, Debjani Sengupta, Deepa Chandrashekar, Deepa Kumar, Pavithra S., Pavithra Rajan, Renganayaki Nambi, Rahul Muralidhara, Saleshni Chaudhary</li> 
+           <li><b>Asociación Aprendo Contigo Team</b> - Leonardo Parrado Varón</li> 
+           <li><b>Association of African Entrepreneurs Team</b> - Aksa Bilal, Chioma Okwudiafor, Daniel Benson, David Arnett, Diego Lopez, Eleana Velentza, Fanny Bessem, Fortunato Novelliere, Gabriela Campos, Hamsini Srinivasan, Happy Mukama, James Carstensen, Kirthi Jayakumar, Lontsi Fomekong, Md. Nahidul Islam, Nidhi Modani, Prasad Ramachandran, Sharique Hassan Manazir,<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> Shudzeka Eric Tewiy, Slawosz Fliegner, Wendy Chan, William Kin</li> 
+           <li><b>Colombian Red Cross Team</b> - Leonardo Parrado Varón, Susana Mammola</li> 
+           <li><b>Delta Women Team</b> - Elaheh Zohrevandi, Emmanuel Owobu, Isaac Owusu, Kirthi Jayakumar, Suman George, Usha Shenoy</li> 
+           <li><b>Fondation Joseph the Worker Team</b> - Camille Seccaud, Elizabeth Fernandez-Begault, Saley Djibo, Virginie Martins de Nobrega, Renaud d'Herouville</li> 
+           <li><b>Global Civil Initiatives Team</b> - Alexander Harris, Ashwinkumar Dakshinamurthi, Neha Jain, Sangeeta Pandey</li> 
+           <li><b>Noble Missions for Change Initiative Team</b> - Agnieszka Joanna Stolarczyk</li> 
+           <li><b>The People's Open Access Education Initiative Team</b> - Mridula Bhat</li> 
+           <li><b>UN DESA Team</b> - Beth deBeer, Lea-Kristin Martin, Lilani Seram, Louis-Marie Ngamassi, Prasida Khanal, Shaopeng He</li>
+          </ul> </td> 
+         <td>Association of African Entrepreneurs Team </td>
+        </tr> 
+        <tr> 
+         <td>2015<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup> </td> 
+         <td> 
+          <ul>
+           <li><b>Association des Agriculteurs Professionels du Cameroun Team</b> - Komivi Messan Akakpo, Alexandra Carraz-Ceselli, Alexandra Lepin, Andréanne Roux, Claudine Lecuret, Frédéric Millogo, Jonathan Sharp, Laura Guien, Réjean Tremblay, Silvia Muiña, Winnifrede de Schaetzen</li> 
+           <li><b>Fundación de Comunidades Vulnerables de Colombia Team -</b> Anahi Silva Tosca</li> 
+           <li><b>Hunger Reduction International Team -</b> Prerna Bakshi</li> 
+           <li><b>Seeds Theatre Group Team -</b> Angie Bojtler, Etan Nechin, Kathy Connolly, Robyn Santa Maria, Zara Qaiser</li> 
+           <li><b>UN Women Team -</b> Jaslin Kalsi, Gesu Antonio Baez, Laura Cook</li>
+          </ul> </td> 
+         <td>Hunger Reduction International Team </td>
+        </tr> 
+        <tr> 
+         <td>2017<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> </td> 
+         <td> 
+          <ul>
+           <li><b>Lulu Ileho Poultry Group Team</b> - Zuzana Filipova</li> 
+           <li><b>Simuka Africa Youth Association Team -</b> Bianca Dayrit</li> 
+           <li><b>The International Paralympic Committee Team -</b> Keon Richardson</li> 
+           <li><b>The Red Elephant Foundation Team -</b> Alka Mann, Luqman Mani, Prathyusha Munjuluri</li> 
+           <li><b>UNICEF Global Innovation Centre Team -</b> Anamaria Cabrera Rodriguez, Claudia Lisette Ramirez Monterrosa, Emmanuelle Grandaud, Loïc Druenne, Lorena Belenky, Nouriatou Ntieche, Paula Alejandra Ballesteros Campos</li>
+          </ul> </td> 
+         <td>Simuka Africa Youth Association Team </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Volunteer_Day&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Association_for_Volunteer_Administration" title="Association for Volunteer Administration">Association for Volunteer Administration</a></li> 
+       <li><a href="/wiki/Association_of_Leaders_in_Volunteer_Engagement" title="Association of Leaders in Volunteer Engagement">Association of Leaders in Volunteer Engagement</a></li> 
+       <li><a href="/wiki/Global_Youth_Service_Day" title="Global Youth Service Day">Global Youth Service Day</a></li> 
+       <li><a href="/wiki/Good_Deeds_Day" title="Good Deeds Day">Good Deeds Day</a></li> 
+       <li><a href="/wiki/International_Year_of_Volunteers" title="International Year of Volunteers">International Year of Volunteers</a></li> 
+       <li><a href="/wiki/Join_Hands_Day" title="Join Hands Day">Join Hands Day</a></li> 
+       <li><a href="/wiki/List_of_volunteer_awards" title="List of volunteer awards">List of awards for volunteerism and community service</a></li> 
+       <li><a href="/wiki/USA_Weekend#Make_A_Difference_Day" title="USA Weekend">Make A Difference Day</a></li> 
+       <li><a href="/wiki/Mandela_Day" title="Mandela Day">Mandela Day</a></li> 
+       <li><a href="/wiki/Mitzvah_Day_International" title="Mitzvah Day International">Mitzvah Day</a></li> 
+       <li><a href="/wiki/Martin_Luther_King_Jr._Day#King_Day_of_Service" title="Martin Luther King Jr. Day">MLK Day of service</a></li> 
+       <li><a href="/wiki/National_Cleanup_Day" class="mw-redirect" title="National Cleanup Day">National Cleanup Day</a></li> 
+       <li><a href="/wiki/National_Philanthropy_Day" title="National Philanthropy Day">National Philanthropy Day</a> (USA and Canada)</li> 
+       <li><a href="/wiki/National_Public_Lands_Day" title="National Public Lands Day">National Public Lands Day</a> (USA)</li> 
+       <li><a href="/wiki/NetDay" title="NetDay">NetDay</a></li> 
+       <li><a href="/wiki/International_Day_of_Peace" title="International Day of Peace">Peace Day</a></li> 
+       <li><a href="/wiki/Random_Acts_of_Kindness_Day" title="Random Acts of Kindness Day">Random Acts of Kindness Day</a></li> 
+       <li><a href="/wiki/September_11_National_Day_of_Service" title="September 11 National Day of Service">September 11 National Day of Service</a> (9/11 Day)</li> 
+       <li><a href="/wiki/Sewa_Day" title="Sewa Day">Sewa Day</a></li> 
+       <li><a href="/wiki/Subbotnik" title="Subbotnik">Subbotnik Day</a></li> 
+       <li><a href="/wiki/United_Nations_Volunteers" title="United Nations Volunteers">United Nations Volunteer</a></li> 
+       <li><a href="/wiki/World_Cleanup_Day" title="World Cleanup Day">World Cleanup Day</a></li> 
+       <li><a href="/wiki/World_Humanitarian_Day" title="World Humanitarian Day">World Humanitarian Day</a></li> 
+       <li><a href="/wiki/World_Kindness_Day" title="World Kindness Day">World Kindness Day</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Volunteer_Day&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.unv.org/">"About United Nation Volunteers"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+United+Nation+Volunteers&amp;rft_id=https%3A%2F%2Fwww.unv.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.unv.org/swvr">"About the State of the World's Volunteerism Report"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+the+State+of+the+World%27s+Volunteerism+Report&amp;rft_id=https%3A%2F%2Fwww.unv.org%2Fswvr&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://twitter.com/antonioguterres/status/937851411769053185?lang=en">"António Guterres on Twitter"</a>. <i>Twitter</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Twitter&amp;rft.atitle=Ant%C3%B3nio+Guterres+on+Twitter&amp;rft_id=https%3A%2F%2Ftwitter.com%2Fantonioguterres%2Fstatus%2F937851411769053185%3Flang%3Den&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.un.org/documents/ga/res/40/a40r212.htm">"A/RES/40/212. International Volunteer Day for Economic and Social Development"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=A%2FRES%2F40%2F212.+International+Volunteer+Day+for+Economic+and+Social+Development&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fdocuments%2Fga%2Fres%2F40%2Fa40r212.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.unv.org/News/Launch-International-Volunteer-Day-theme-2020">"Launch of International Volunteer Day theme 2020 | UNV"</a>. <i>www.unv.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.unv.org&amp;rft.atitle=Launch+of+International+Volunteer+Day+theme+2020+%7C+UNV&amp;rft_id=https%3A%2F%2Fwww.unv.org%2FNews%2FLaunch-International-Volunteer-Day-theme-2020&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.unv.org/News/International-Volunteer-Day-2019-Volunteer-inclusive-future-0">"International Volunteer Day 2019: Volunteer for an inclusive future | UNV"</a>. <i>www.unv.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2021-01-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.unv.org&amp;rft.atitle=International+Volunteer+Day+2019%3A+Volunteer+for+an+inclusive+future+%7C+UNV&amp;rft_id=https%3A%2F%2Fwww.unv.org%2FNews%2FInternational-Volunteer-Day-2019-Volunteer-inclusive-future-0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.unv.org/internationalvolunteerday2018">"International Volunteer Day 2018 | UNV"</a>. <i>www.unv.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.unv.org&amp;rft.atitle=International+Volunteer+Day+2018+%7C+UNV&amp;rft_id=https%3A%2F%2Fwww.unv.org%2Finternationalvolunteerday2018&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.unv.org/internationalvolunteerday2017">"International Volunteer Day 2017 | UNV"</a>. <i>www.unv.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.unv.org&amp;rft.atitle=International+Volunteer+Day+2017+%7C+UNV&amp;rft_id=https%3A%2F%2Fwww.unv.org%2Finternationalvolunteerday2017&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.unv.org/international-volunteer-day-2016">"International Volunteer Day 2016 | UNV"</a>. <i>www.unv.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.unv.org&amp;rft.atitle=International+Volunteer+Day+2016+%7C+UNV&amp;rft_id=https%3A%2F%2Fwww.unv.org%2Finternational-volunteer-day-2016&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.unv.org/our-campaigns/international-volunteer-day-2015">"International Volunteer Day 2015 | UNV"</a>. <i>www.unv.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.unv.org&amp;rft.atitle=International+Volunteer+Day+2015+%7C+UNV&amp;rft_id=https%3A%2F%2Fwww.unv.org%2Four-campaigns%2Finternational-volunteer-day-2015&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.unv.org/our-campaigns/international-volunteer-day-2014">"International Volunteer Day 2014 | UNV"</a>. <i>www.unv.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.unv.org&amp;rft.atitle=International+Volunteer+Day+2014+%7C+UNV&amp;rft_id=https%3A%2F%2Fwww.unv.org%2Four-campaigns%2Finternational-volunteer-day-2014&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.unv.org/our-campaigns/international-volunteer-day-2013">"International Volunteer Day 2013 | UNV"</a>. <i>www.unv.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.unv.org&amp;rft.atitle=International+Volunteer+Day+2013+%7C+UNV&amp;rft_id=https%3A%2F%2Fwww.unv.org%2Four-campaigns%2Finternational-volunteer-day-2013&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.unv.org/our-campaigns/international-volunteer-day-2012">"International Volunteer Day 2012 | UNV"</a>. <i>www.unv.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.unv.org&amp;rft.atitle=International+Volunteer+Day+2012+%7C+UNV&amp;rft_id=https%3A%2F%2Fwww.unv.org%2Four-campaigns%2Finternational-volunteer-day-2012&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.un.org/documents/ga/res/40/a40r212.htm">"A/RES/40/212. International Volunteer Day for Economic and Social Development"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=A%2FRES%2F40%2F212.+International+Volunteer+Day+for+Economic+and+Social+Development&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fdocuments%2Fga%2Fres%2F40%2Fa40r212.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.unv.org/publications/unga-resolution-5217-declaration-2001-international-year-volunteers">"UNGA Resolution 52/17: Declaration of 2001 as International Year of Volunteers | UNV"</a>. <i>www.unv.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.unv.org&amp;rft.atitle=UNGA+Resolution+52%2F17%3A+Declaration+of+2001+as+International+Year+of+Volunteers+%7C+UNV&amp;rft_id=https%3A%2F%2Fwww.unv.org%2Fpublications%2Funga-resolution-5217-declaration-2001-international-year-volunteers&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/52/17">"United Nations Official Document"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=United+Nations+Official+Document&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fen%2Fga%2Fsearch%2Fview_doc.asp%3Fsymbol%3DA%2FRES%2F52%2F17&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/56/38">"United Nations Official Document"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=United+Nations+Official+Document&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fen%2Fga%2Fsearch%2Fview_doc.asp%3Fsymbol%3DA%2FRES%2F56%2F38&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.unv.org/publications/unga-resolution-5638-recommendations-support-volunteering">"UNGA Resolution 56/38: Recommendations on support for volunteering | UNV"</a>. <i>www.unv.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.unv.org&amp;rft.atitle=UNGA+Resolution+56%2F38%3A+Recommendations+on+support+for+volunteering+%7C+UNV&amp;rft_id=https%3A%2F%2Fwww.unv.org%2Fpublications%2Funga-resolution-5638-recommendations-support-volunteering&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/63/153">"United Nations Official Document"</a>. <i>www.un.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.un.org&amp;rft.atitle=United+Nations+Official+Document&amp;rft_id=http%3A%2F%2Fwww.un.org%2Fen%2Fga%2Fsearch%2Fview_doc.asp%3Fsymbol%3DA%2FRES%2F63%2F153&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.onlinevolunteering.org/en/blog/unv-online-volunteering-award-2017">"About the UNV Online Volunteering Award"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+the+UNV+Online+Volunteering+Award&amp;rft_id=https%3A%2F%2Fwww.onlinevolunteering.org%2Fen%2Fblog%2Funv-online-volunteering-award-2017&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121204010013/http://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2002.html">"Web Archive - UNV Volunteering Award 2002"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2002.html">the original</a> on 2012-12-04.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Archive+-+UNV+Volunteering+Award+2002&amp;rft_id=http%3A%2F%2Fwww.onlinevolunteering.org%2Fen%2Forg%2Fstories%2Fonline_volunteers_of_2002.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121204004626/http://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2003.html">"Web Archive - UNV Volunteering Award 2003"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2003.html">the original</a> on 2012-12-04.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Archive+-+UNV+Volunteering+Award+2003&amp;rft_id=http%3A%2F%2Fwww.onlinevolunteering.org%2Fen%2Forg%2Fstories%2Fonline_volunteers_of_2003.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150522043146/https://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2004.html">"Web Archive - UNV Volunteering Award 2004"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2004.html">the original</a> on 2015-05-22.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Archive+-+UNV+Volunteering+Award+2004&amp;rft_id=https%3A%2F%2Fwww.onlinevolunteering.org%2Fen%2Forg%2Fstories%2Fonline_volunteers_of_2004.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121204004935/http://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2005.html">"Web Archive - UNV Volunteering Award 2005"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2005.html">the original</a> on 2012-12-04.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Archive+-+UNV+Volunteering+Award+2005&amp;rft_id=http%3A%2F%2Fwww.onlinevolunteering.org%2Fen%2Forg%2Fstories%2Fonline_volunteers_of_2005.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150522050607/https://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2006.html">"Web Archive - UNV Volunteering Award 2006"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2006.html">the original</a> on 2015-05-22.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Archive+-+UNV+Volunteering+Award+2006&amp;rft_id=https%3A%2F%2Fwww.onlinevolunteering.org%2Fen%2Forg%2Fstories%2Fonline_volunteers_of_2006.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121204005752/http://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2007.html">"Web Archive - UNV Volunteering Award 2007"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2007.html">the original</a> on 2012-12-04.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Archive+-+UNV+Volunteering+Award+2007&amp;rft_id=http%3A%2F%2Fwww.onlinevolunteering.org%2Fen%2Forg%2Fstories%2Fonline_volunteers_of_2007.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150522050738/https://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2009.html">"Web Archive - UNV Volunteering Award 2009"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2009.html">the original</a> on 2015-05-22.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Archive+-+UNV+Volunteering+Award+2009&amp;rft_id=https%3A%2F%2Fwww.onlinevolunteering.org%2Fen%2Forg%2Fstories%2Fonline_volunteers_of_2009.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150522045502/https://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2010.html">"Web Archive - UNV Volunteering Award 2010"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2010.html">the original</a> on 2015-05-22.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Archive+-+UNV+Volunteering+Award+2010&amp;rft_id=https%3A%2F%2Fwww.onlinevolunteering.org%2Fen%2Forg%2Fstories%2Fonline_volunteers_of_2010.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121204005815/http://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2011.html">"Web Archive - UNV Volunteering Award 2011"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2011.html">the original</a> on 2012-12-04.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Archive+-+UNV+Volunteering+Award+2011&amp;rft_id=http%3A%2F%2Fwww.onlinevolunteering.org%2Fen%2Forg%2Fstories%2Fonline_volunteers_of_2011.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150522052320/https://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2012.html">"Web Archive - UNV Volunteering Award 2012"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.onlinevolunteering.org/en/org/stories/online_volunteers_of_2012.html">the original</a> on 2015-05-22.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Archive+-+UNV+Volunteering+Award+2012&amp;rft_id=https%3A%2F%2Fwww.onlinevolunteering.org%2Fen%2Forg%2Fstories%2Fonline_volunteers_of_2012.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131202032124/https://www.onlinevolunteering.org/en/org/stories/index.html">"Web Archive - UNV Volunteering Award 2013"</a>. Archived from <a rel="nofollow" class="external text" href="https://www.onlinevolunteering.org/en/org/stories/index.html">the original</a> on 2013-12-02.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Archive+-+UNV+Volunteering+Award+2013&amp;rft_id=https%3A%2F%2Fwww.onlinevolunteering.org%2Fen%2Forg%2Fstories%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://scholar.google.co.in/citations?user=KD-7VigAAAAJ&amp;hl=en">"Sharique Hassan Manazir"</a>. <i>scholar.google.co.in</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-06-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=scholar.google.co.in&amp;rft.atitle=Sharique+Hassan+Manazir&amp;rft_id=https%3A%2F%2Fscholar.google.co.in%2Fcitations%3Fuser%3DKD-7VigAAAAJ%26hl%3Den&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160328000124/https://onlinevolunteering.org/en/org/stories/index.html">"Web Archive - UNV Volunteering Award 2015"</a>. Archived from <a rel="nofollow" class="external text" href="https://onlinevolunteering.org/en/org/stories/index.html">the original</a> on 2016-03-28.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Archive+-+UNV+Volunteering+Award+2015&amp;rft_id=https%3A%2F%2Fonlinevolunteering.org%2Fen%2Forg%2Fstories%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.onlinevolunteering.org/en/blog/unv-online-volunteering-award-2017-0">"UNV Volunteering Award 2017"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=UNV+Volunteering+Award+2017&amp;rft_id=https%3A%2F%2Fwww.onlinevolunteering.org%2Fen%2Fblog%2Funv-online-volunteering-award-2017-0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInternational+Volunteer+Day" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=International_Volunteer_Day&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:International_Volunteer_Day" class="extiw" title="commons:Category:International Volunteer Day"><span style="">International Volunteer Day</span></a></b></i>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://www.un.org/en/observances/volunteer-day">International Volunteer Day webpage</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://www.un.org/events/calendar/Edetail.asp?EventID=617&amp;BeginDate=12/5/2005">United Nations System Calendar of Media Events</a></li>
+      </ul> <!-- 
+NewPP limit report
+Parsed by mw1374
+Cached time: 20210414030130
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.500 seconds
+Real time usage: 0.606 seconds
+Preprocessor visited node count: 1361/1000000
+Post‐expand include size: 56774/2097152 bytes
+Template argument size: 504/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 101679/5000000 bytes
+Lua time usage: 0.258/10.000 seconds
+Lua memory usage: 6473651/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  508.957      1 -total
+ 56.36%  286.824      1 Template:Reflist
+ 42.66%  217.113     33 Template:Cite_web
+ 25.29%  128.720      1 Template:More_citations_needed
+ 17.95%   91.376      1 Template:Ambox
+ 13.83%   70.413      1 Template:Commonscat
+ 12.15%   61.832      1 Template:Sister_project
+ 11.12%   56.579      1 Template:Side_box
+  7.62%   38.789      1 Template:Find_sources_mainspace
+  2.31%   11.747      1 Template:Replace
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:11648411-0!canonical and timestamp 20210414030130 and revision id 1000894016. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=International_Volunteer_Day&amp;oldid=1000894016">https://en.wikipedia.org/w/index.php?title=International_Volunteer_Day&amp;oldid=1000894016</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:United_Nations_days" title="Category:United Nations days">United Nations days</a></li>
+       <li><a href="/wiki/Category:December_observances" title="Category:December observances">December observances</a></li>
+       <li><a href="/wiki/Category:Volunteering" title="Category:Volunteering">Volunteering</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2016" title="Category:Articles needing additional references from December 2016">Articles needing additional references from December 2016</a></li>
+       <li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li>
+       <li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=International+Volunteer+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=International+Volunteer+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/International_Volunteer_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:International_Volunteer_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/International_Volunteer_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=International_Volunteer_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=International_Volunteer_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/International_Volunteer_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/International_Volunteer_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=International_Volunteer_Day&amp;oldid=1000894016" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=International_Volunteer_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=International_Volunteer_Day&amp;id=1000894016&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q490486" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=International_Volunteer_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=International_Volunteer_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:International_Volunteer_Day" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> <!-- Please do not use role attribute as CSS selector, it is deprecated. --> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A" title="يوم التطوع العالمي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>
+       <li class="interlanguage-link interwiki-hyw"><a href="https://hyw.wikipedia.org/wiki/%D4%BF%D5%A1%D5%B4%D5%A1%D6%82%D5%B8%D6%80%D5%B6%D5%A5%D6%80%D5%B8%D6%82_%D5%84%D5%AB%D5%BB%D5%A1%D5%A6%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D5%95%D6%80" title="Կամաւորներու Միջազգային Օր – Western Armenian" lang="hyw" hreflang="hyw" class="interlanguage-link-target">Արեւմտահայերէն</a></li>
+       <li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/D%C3%ADa_Internacional_de_los_Voluntarios" title="Día Internacional de los Voluntarios – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li>
+       <li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Beyn%C9%99lxalq_K%C3%B6n%C3%BCll%C3%BCl%C9%99r_G%C3%BCn%C3%BC" title="Beynəlxalq Könüllülər Günü – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li>
+       <li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9C%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B_%D0%B4%D0%B7%D0%B5%D0%BD%D1%8C_%D0%B2%D0%B0%D0%BB%D0%B0%D0%BD%D1%86%D1%91%D1%80%D0%B0" title="Міжнародны дзень валанцёра – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li>
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Dia_Internacional_del_Voluntariat" title="Dia Internacional del Voluntariat – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Mezin%C3%A1rodn%C3%AD_den_dobrovoln%C3%ADk%C5%AF" title="Mezinárodní den dobrovolníků – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li>
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Internationaler_Tag_des_Ehrenamtes" title="Internationaler Tag des Ehrenamtes – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%AE%CF%82_%CE%97%CE%BC%CE%AD%CF%81%CE%B1_%CE%95%CE%B8%CE%B5%CE%BB%CE%BF%CE%BD%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D_%CE%B3%CE%B9%CE%B1_%CF%84%CE%B7%CE%BD_%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CE%AE_%CE%BA%CE%B1%CE%B9_%CE%9A%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%BA%CE%AE_%CE%91%CE%BD%CE%AC%CF%80%CF%84%CF%85%CE%BE%CE%B7" title="Διεθνής Ημέρα Εθελοντισμού για την Οικονομική και Κοινωνική Ανάπτυξη – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/D%C3%ADa_Internacional_de_los_Voluntarios" title="Día Internacional de los Voluntarios – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B5%AD%EC%A0%9C_%EC%9E%90%EC%9B%90%EB%B4%89%EC%82%AC%EC%9E%90%EC%9D%98_%EB%82%A0" title="국제 자원봉사자의 날 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D5%B4%D5%A1%D5%BE%D5%B8%D6%80%D5%B6%D5%A5%D6%80%D5%AB_%D5%B4%D5%AB%D5%BB%D5%A1%D5%A6%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D6%85%D6%80" title="Կամավորների միջազգային օր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li>
+       <li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Me%C4%91unarodni_dan_volontera" title="Međunarodni dan volontera – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Giornata_mondiale_del_volontariato" title="Giornata mondiale del volontariato – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Dina_Polent%C3%A8r_Internasional" title="Dina Polentèr Internasional – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li>
+       <li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Dies_internationalis_beneficentiae" title="Dies internationalis beneficentiae – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li>
+       <li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Starptautisk%C4%81_br%C4%ABvpr%C4%81t%C4%ABgo_diena" title="Starptautiskā brīvprātīgo diena – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li>
+       <li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Internationalen_Dag_vum_Benevolat" title="Internationalen Dag vum Benevolat – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li>
+       <li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Tarptautin%C4%97_savanori%C5%B3_diena" title="Tarptautinė savanorių diena – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/%C3%96nk%C3%A9ntesek_nemzetk%C3%B6zi_napja" title="Önkéntesek nemzetközi napja – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%87%E3%83%BC" title="国際ボランティア・デー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Mi%C4%99dzynarodowy_Dzie%C5%84_Wolontariusza" title="Międzynarodowy Dzień Wolontariusza – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B4%D0%BE%D0%B1%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%86%D0%B5%D0%B2_%D0%B2%D0%BE_%D0%B8%D0%BC%D1%8F_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B8_%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F" title="Международный день добровольцев во имя экономического и социального развития – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Dita_Nd%C3%ABrkomb%C3%ABtare_e_Vullnetarizmit" title="Dita Ndërkombëtare e Vullnetarizmit – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li>
+       <li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/Svetski_dan_volontera" title="Svetski dan volontera – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>
+       <li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Me%C4%91unarodni_dan_volontera" title="Međunarodni dan volontera – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Internationella_volont%C3%A4rdagen" title="Internationella volontärdagen – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AE%B2%E0%AE%B0%E0%AF%8D_%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D" title="பன்னாட்டுத் தன்னார்வலர் நாள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%85%E0%B0%82%E0%B0%A4%E0%B0%B0%E0%B1%8D%E0%B0%9C%E0%B0%BE%E0%B0%A4%E0%B1%80%E0%B0%AF_%E0%B0%B8%E0%B1%8D%E0%B0%B5%E0%B0%9A%E0%B1%8D%E0%B0%9B%E0%B0%82%E0%B0%A6_%E0%B0%A6%E0%B0%BF%E0%B0%A8%E0%B1%8B%E0%B0%A4%E0%B1%8D%E0%B0%B8%E0%B0%B5%E0%B0%82" title="అంతర్జాతీయ స్వచ్ఛంద దినోత్సవం – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li>
+       <li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5" title="วันอาสาสมัครสากล – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li>
+       <li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B2%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B5%D1%80%D0%B0" title="Міжнародний день волонтера – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>
+       <li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B1%D8%B6%D8%A7_%DA%A9%D8%A7%D8%B1%D9%88%DA%BA_%DA%A9%D8%A7_%D8%A8%DB%8C%D9%86_%D8%A7%D9%84%D8%A7%D9%82%D9%88%D8%A7%D9%85%DB%8C_%D8%AF%D9%86" title="رضا کاروں کا بین الاقوامی دن – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>
+       <li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ng%C3%A0y_T%C3%ACnh_nguy%E1%BB%87n_vi%C3%AAn_Qu%E1%BB%91c_t%E1%BA%BF" title="Ngày Tình nguyện viên Quốc tế – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E5%BF%97%E6%84%BF%E8%80%85%E6%97%A5" title="国际志愿者日 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q490486#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 17 January 2021, at 07:02<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=International_Volunteer_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.500","walltime":"0.606","ppvisitednodes":{"value":1361,"limit":1000000},"postexpandincludesize":{"value":56774,"limit":2097152},"templateargumentsize":{"value":504,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":101679,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  508.957      1 -total"," 56.36%  286.824      1 Template:Reflist"," 42.66%  217.113     33 Template:Cite_web"," 25.29%  128.720      1 Template:More_citations_needed"," 17.95%   91.376      1 Template:Ambox"," 13.83%   70.413      1 Template:Commonscat"," 12.15%   61.832      1 Template:Sister_project"," 11.12%   56.579      1 Template:Side_box","  7.62%   38.789      1 Template:Find_sources_mainspace","  2.31%   11.747      1 Template:Replace"]},"scribunto":{"limitreport-timeusage":{"value":"0.258","limit":"10.000"},"limitreport-memusage":{"value":6473651,"limit":52428800}},"cachereport":{"origin":"mw1374","timestamp":"20210414030130","ttl":2592000,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"International Volunteer Day","url":"https:\/\/en.wikipedia.org\/wiki\/International_Volunteer_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q490486","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q490486","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-06-07T14:41:04Z","dateModified":"2021-01-17T07:02:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/73\/Goma%2C_Nord-Kivu%2C_en_RD_Congo-_Une_%C3%A9coli%C3%A8re_pr%C3%A9sente_une_sculpture_en_hommage_%C3%A0_la_Journ%C3%A9e_Internationale_des_Volontaires_%C3%A0_l%27un_des_volontaires_des_Nations_Unies._%2822981683004%29.jpg","headline":"day of international observance since 1985, offers opportunity to bring focus to volunteers and volunteer organisations"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":202,"wgHostname":"mw1366"});});</script> 
+ </body>
+</html>
