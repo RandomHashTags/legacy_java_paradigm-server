@@ -63,6 +63,9 @@ public final class EventDate {
         minute = -1;
     }
 
+    public String getDateString() {
+        return month.getValue() + "-" + year + "-" + day;
+    }
     public Month getMonth() {
         return month;
     }

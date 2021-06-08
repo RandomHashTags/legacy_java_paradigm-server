@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.location.CountryInformationType;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -24,17 +25,17 @@ public enum TravelBriefing implements CountryService {
     }
 
     @Override
-    public HashMap<String, String> getCountries() {
-        return countries;
+    public CountryInformationType getInformationType() {
+        return CountryInformationType.SERVICES;
     }
 
     @Override
-    public void getValue(String countryBackendID, CompletionHandler handler) {
+    public void getCountryValue(String countryBackendID, CompletionHandler handler) {
         getCountryTravelBriefing(countryBackendID, handler);
     }
 
     @Override
-    public void refresh(CompletionHandler handler) {
+    public void loadData(CompletionHandler handler) {
     }
 
     private void getCountryTravelBriefing(String country, CompletionHandler handler) {
@@ -42,52 +43,57 @@ public enum TravelBriefing implements CountryService {
         if(countries == null) {
             countries = new HashMap<>();
         }
-        final String targetCountry = country.toLowerCase().replace(" ", "_");
-        getJSONObject(FileType.COUNTRIES_SERVICES_TRAVEL_BRIEFING, country, new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                String country = targetCountry;
-                switch (country) {
-                    case "british_virgin_islands":
-                        country = "virgin_islands-british";
-                        break;
-                    case "democratic_republic_of_the_congo":
-                        country = "congo-kinshasa";
-                        break;
-                    case "republic_of_the_congo":
-                        country = "congo-brazzaville";
-                        break;
-                    default:
-                        break;
-                }
-                final String url = "https://travelbriefing.org/" + country + "?format=json";
-                requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
-                    @Override
-                    public void handleJSONObject(JSONObject json) {
-                        json.remove("names");
-                        json.remove("timezone");
-                        json.remove("electricity");
-                        json.remove("water");
-                        if(json.getJSONArray("vaccinations").isEmpty()) {
-                            json.remove("vaccinations");
-                        }
-                        json.getJSONObject("currency").remove("compare");
-                        final List<String> neighbors = getNeighbors(json.getJSONArray("neighbors"));
-                        json.put("neighbors", neighbors);
-                        final String string = json.toString();
-                        handler.handle(string);
-                    }
-                });
-            }
 
-            @Override
-            public void handleJSONObject(JSONObject object) {
-                final String string = object.toString();
-                WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + country + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                countries.put(targetCountry, string);
-                handler.handle(string);
-            }
-        });
+        final String targetCountry = country.toLowerCase().replace(" ", "_");
+        if(countries.containsKey(targetCountry)) {
+            handler.handle(countries.get(targetCountry));
+        } else {
+            getJSONObject(FileType.COUNTRIES_SERVICES_TRAVEL_BRIEFING, country, new CompletionHandler() {
+                @Override
+                public void load(CompletionHandler handler) {
+                    String country = targetCountry;
+                    switch (country) {
+                        case "british_virgin_islands":
+                            country = "virgin_islands-british";
+                            break;
+                        case "democratic_republic_of_the_congo":
+                            country = "congo-kinshasa";
+                            break;
+                        case "republic_of_the_congo":
+                            country = "congo-brazzaville";
+                            break;
+                        default:
+                            break;
+                    }
+                    final String url = "https://travelbriefing.org/" + country + "?format=json";
+                    requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
+                        @Override
+                        public void handleJSONObject(JSONObject json) {
+                            json.remove("names");
+                            json.remove("timezone");
+                            json.remove("electricity");
+                            json.remove("water");
+                            if(json.getJSONArray("vaccinations").isEmpty()) {
+                                json.remove("vaccinations");
+                            }
+                            json.getJSONObject("currency").remove("compare");
+                            final List<String> neighbors = getNeighbors(json.getJSONArray("neighbors"));
+                            json.put("neighbors", neighbors);
+                            final String string = json.toString();
+                            handler.handle(string);
+                        }
+                    });
+                }
+
+                @Override
+                public void handleJSONObject(JSONObject object) {
+                    final String string = new CountryServiceValue(TravelBriefing.INSTANCE, object.toString()).toString();
+                    WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + country + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                    countries.put(targetCountry, string);
+                    handler.handle(string);
+                }
+            });
+        }
     }
     private List<String> getNeighbors(JSONArray array) {
         final List<String> neighbors = new ArrayList<>();

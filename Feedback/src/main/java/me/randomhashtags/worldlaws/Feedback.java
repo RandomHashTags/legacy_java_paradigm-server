@@ -10,40 +10,46 @@ import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.List;
 
-public final class Feedback implements DataValues {
+public final class Feedback implements WLServer {
 
     public static void main(String[] args) {
         new Feedback();
     }
 
     private Feedback() {
-        startServer();
+        //test();
+        load();
     }
 
-    private void startServer() {
-        LocalServer.start("Feedback", WL_FEEDBACK_PORT, new CompletionHandler() {
-            @Override
-            public void handleClient(WLClient client) {
-                getResponse(client);
-            }
-        });
+    @Override
+    public TargetServer getServer() {
+        return TargetServer.FEEDBACK;
     }
 
-    private void getResponse(WLClient client) {
-        final String target = client.getTarget();
+    private void test() {
+    }
+
+    @Override
+    public void getServerResponse(ServerVersion version, String target, CompletionHandler handler) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
             case "bug_report":
             case "feature_request":
-                final String text = getText(client.getHeaderList());
+                final String text = "test";//getText(client.getHeaderList());
                 createFile(key + "s", text);
-                client.sendResponse("{\"recorded\":true}");
+                handler.handle("{\"recorded\":true}");
                 break;
             default:
                 break;
         }
     }
+
+    @Override
+    public String[] getHomeRequests() {
+        return null;
+    }
+
     private String getText(String[] headers) {
         final String target = "Text: ";
         for(String string : headers) {

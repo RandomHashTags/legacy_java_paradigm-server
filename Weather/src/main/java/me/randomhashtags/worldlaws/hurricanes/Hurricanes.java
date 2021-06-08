@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.hurricanes;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Jsoupable;
 
-import java.util.*;
+import java.util.HashMap;
 
 public enum Hurricanes implements Jsoupable {
     INSTANCE;

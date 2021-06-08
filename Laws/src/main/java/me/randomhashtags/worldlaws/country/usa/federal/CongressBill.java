@@ -2,10 +2,7 @@ package me.randomhashtags.worldlaws.country.usa.federal;
 
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.ServerObject;
-import me.randomhashtags.worldlaws.country.usa.USPolitician;
-import me.randomhashtags.worldlaws.people.Politician;
 
-import java.util.HashSet;
 import java.util.List;
 
 public final class CongressBill implements ServerObject {

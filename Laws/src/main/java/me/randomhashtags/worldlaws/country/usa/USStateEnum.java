@@ -1,8 +1,11 @@
 package me.randomhashtags.worldlaws.country.usa;
 
-import me.randomhashtags.worldlaws.country.usa.state.unfinished.*;
-import me.randomhashtags.worldlaws.country.usa.state.*;
 import me.randomhashtags.worldlaws.country.State;
+import me.randomhashtags.worldlaws.country.usa.state.*;
+import me.randomhashtags.worldlaws.country.usa.state.unfinished.Connecticut;
+import me.randomhashtags.worldlaws.country.usa.state.unfinished.Indiana;
+import me.randomhashtags.worldlaws.country.usa.state.unfinished.NorthCarolina;
+import me.randomhashtags.worldlaws.country.usa.state.unfinished.Oregon;
 
 public enum USStateEnum {
     //ALABAMA(Alabama.INSTANCE), // incomplete - http://alisondb.legislature.state.al.us/alison/codeofalabama/1975/coatoc.htm

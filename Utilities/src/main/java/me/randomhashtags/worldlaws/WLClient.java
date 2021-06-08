@@ -8,7 +8,7 @@ import java.net.Socket;
 
 public final class WLClient extends Thread {
     private Socket httpClient;
-    private CompletionHandler handler;
+    private final CompletionHandler handler;
     private DataOutputStream output;
     private String headers, target;
 
@@ -100,8 +100,7 @@ public final class WLClient extends Thread {
                     target = string.split("POST ")[1].split(" HTTP/1\\.1")[0].replaceFirst("/", "");
                     break;
                 } else if(string.startsWith("GET") && string.endsWith("HTTP/1.1")) {
-                    final String[] values = string.split("/");
-                    target = string.split(values[0] + "/" + values[1] + "/")[1].split(" HTTP/1\\.1")[0];
+                    target = string.split("GET ")[1].split(" HTTP/1\\.1")[0].replaceFirst("/", "");
                     break;
                 }
             }

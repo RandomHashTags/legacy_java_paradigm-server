@@ -6,12 +6,11 @@ import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.location.CountryInformationType;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
-import java.util.HashMap;
 
 public interface CountryProductionService extends CountryService {
     @Override
@@ -19,13 +18,17 @@ public interface CountryProductionService extends CountryService {
         return FileType.COUNTRIES_RANKINGS_AGRICULTURE;
     }
 
+    @Override
+    default CountryInformationType getInformationType() {
+        return CountryInformationType.AGRICULTURE;
+    }
+
     String getURL();
     String getSuffix();
-    void setCountries(HashMap<String, String> countries);
 
     @Override
-    default void refresh(CompletionHandler handler) {
-        getJSONArray(this, new CompletionHandler() {
+    default void loadData(CompletionHandler handler) {
+        getJSONObject(this, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final CountryInfo info = getInfo();
@@ -58,29 +61,34 @@ public interface CountryProductionService extends CountryService {
                     builder.append(data);
                 }
                 builder.append("]");
-                handler.handle(builder.toString());
-            }
 
-            @Override
-            public void handleJSONArray(JSONArray array) {
+                final JSONArray array = new JSONArray(builder.toString());
                 final int maxWorldRank = array.length();
-                final String url = getURL(), title = getInfo().getTitle(), suffix = getSuffix();
+                final String title = getInfo().getTitle(), suffix = getSuffix();
                 final String siteName = url.split("/wiki/")[1].replace("_", " ");
                 final EventSource source = new EventSource("Wikipedia: " + siteName, url);
                 final EventSources sources = new EventSources(source);
-                final HashMap<String, String> countries = new HashMap<>();
-                for(Object obj : array) {
-                    final JSONObject json = (JSONObject) obj;
-                    final String country = json.getString("country");
-                    final CountryAgricultureValue value = new CountryAgricultureValue(json);
+
+                final StringBuilder jsonBuilder = new StringBuilder("{");
+                isFirst = true;
+                for(Object object : array) {
+                    final JSONObject valueJSON = (JSONObject) object;
+                    final String country = valueJSON.getString("country");
+                    final CountryAgricultureValue value = new CountryAgricultureValue(valueJSON);
                     value.setMaxWorldRank(maxWorldRank);
                     value.setDescription(title);
                     value.setSuffix(suffix);
                     value.setSources(sources);
-                    countries.put(country, value.toString());
+                    jsonBuilder.append(isFirst ? "" : ",").append("\"").append(country).append("\":{").append(value.toString()).append("}");
+                    isFirst = false;
                 }
-                setCountries(countries);
-                handler.handle(null);
+                jsonBuilder.append("}");
+                handler.handle(jsonBuilder.toString());
+            }
+
+            @Override
+            public void handleJSONObject(JSONObject json) {
+                handler.handleJSONObject(json);
             }
         });
     }

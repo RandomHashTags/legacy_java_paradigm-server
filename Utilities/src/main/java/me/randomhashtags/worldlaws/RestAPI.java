@@ -12,7 +12,6 @@ import java.net.URL;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 public interface RestAPI {
     HashMap<String, String> CONTENT_HEADERS = new HashMap<>() {{
@@ -33,6 +32,8 @@ public interface RestAPI {
                 if(object != null) {
                     final JSONArray json = new JSONArray(object.toString());
                     handler.handleJSONArray(json);
+                } else {
+                    handler.handleJSONArray(null);
                 }
             }
         });
@@ -59,7 +60,7 @@ public interface RestAPI {
     }
 
     default void request(String targetURL, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query, CompletionHandler handler) {
-        final boolean isLocal = targetURL.startsWith("http://localhost");
+        final boolean isLocal = targetURL.startsWith("http://localhost") || targetURL.startsWith("http://192.168.1.96:0");
 
         final StringBuilder target = new StringBuilder(targetURL);
         int i = 0;
@@ -76,8 +77,8 @@ public interface RestAPI {
         }
         targetURL = target.toString();
 
+        WLLogger.log(Level.INFO, "RestAPI - making " + (isLocal ? "local " : "") + "request to \"" + targetURL + "\"");
         if(!isLocal) {
-            WLLogger.log(Level.INFO, "RestAPI - making request to \"" + targetURL + "\"");
             if(PENDING_SAME_REQUESTS.containsKey(targetURL)) {
                 PENDING_SAME_REQUESTS.get(targetURL).add(handler);
                 return;
@@ -90,7 +91,7 @@ public interface RestAPI {
             final URL url = new URL(targetURL);
             connection = (HttpURLConnection) url.openConnection();
             connection.setConnectTimeout(10_000);
-            connection.setRequestMethod(method.getName());
+            connection.setRequestMethod(method.name());
             if (headers != null) {
                 for (Map.Entry<String, String> entry : headers.entrySet()) {
                     final String key = entry.getKey(), value = entry.getValue();
@@ -138,7 +139,9 @@ public interface RestAPI {
             }
         } catch (Exception e) {
             if(!isLocal) {
-                WLLogger.log(Level.ERROR, "[REST API] - \"(" + e.getStackTrace()[0].getClassName() + ") " + e.getMessage() + " with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
+                final StackTraceElement[] stackTrace = e.getStackTrace();
+                WLLogger.log(Level.ERROR, "[REST API] - \"(" + stackTrace[0].getClassName() + ") " + e.getMessage() + " with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
+                e.printStackTrace();
             }
             handler.handle(null);
         } finally {

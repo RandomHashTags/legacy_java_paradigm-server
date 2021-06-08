@@ -10,7 +10,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
-import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public enum WeatherAlerts {
@@ -82,18 +81,17 @@ public enum WeatherAlerts {
         final StringBuilder builder = new StringBuilder("{");
         final WeatherController[] controllers = getCountries();
         final int max = controllers.length;
-        final AtomicInteger completedHandlers = new AtomicInteger(0);
+        final AtomicInteger completed = new AtomicInteger(0);
         Arrays.asList(controllers).parallelStream().forEach(controller -> {
             controller.getPreAlerts(event, new CompletionHandler() {
                 @Override
                 public void handle(Object object) {
                     final String country = controller.getCountry().getBackendID();
-                    final String source = "\"source\":" + controller.getSource().toString();
+                    final String source = "\"source\":{" + controller.getSource().toString() + "}";
                     final String alerts = "\"alerts\":" + object.toString();
                     final String string = "\"" + country + "\":{" + source + "," + alerts + "}";
-                    builder.append(completedHandlers.get() == 0 ? "" : ",").append(string);
-                    final int completed = completedHandlers.addAndGet(1);
-                    if(completed == max) {
+                    builder.append(completed.get() == 0 ? "" : ",").append(string);
+                    if(completed.addAndGet(1) == max) {
                         handler.handle(builder.append("}").toString());
                     }
                 }

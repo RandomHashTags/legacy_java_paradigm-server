@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.location.CountryInformationType;
 import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -23,17 +24,17 @@ public enum Cities implements CountryService {
     }
 
     @Override
-    public HashMap<String, String> getCountries() {
-        return countries;
+    public CountryInformationType getInformationType() {
+        return CountryInformationType.LISTS;
     }
 
     @Override
-    public void getValue(String countryBackendID, CompletionHandler handler) {
+    public void getCountryValue(String countryBackendID, CompletionHandler handler) {
     }
 
     public void getCitiesFrom(String countryBackendID, String territory, CompletionHandler handler) {
         if(countries == null) {
-            refresh(null);
+            loadData(null);
         }
         if(cities.containsKey(countryBackendID)) {
             final HashMap<String, String> map = cities.get(countryBackendID);
@@ -47,7 +48,7 @@ public enum Cities implements CountryService {
     }
 
     @Override
-    public void refresh(CompletionHandler handler) {
+    public void loadData(CompletionHandler handler) {
         cities = new HashMap<>();
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Lists_of_cities_by_country";

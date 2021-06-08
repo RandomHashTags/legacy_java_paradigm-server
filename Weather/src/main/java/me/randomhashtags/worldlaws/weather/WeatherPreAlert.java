@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.LocalServer;
-import me.randomhashtags.worldlaws.weather.WeatherAlertTime;
 
 import java.util.HashSet;
 
@@ -57,9 +56,7 @@ public final class WeatherPreAlert {
 
     @Override
     public String toString() {
-        return "{" +
-                "\"id\":\"" + id + "\"," +
-                "\"territory\":\"" + territory + "\"," +
+        return "\"" + id + "\":{" +
                 "\"time\":" + time.toString() +
                 "}";
     }

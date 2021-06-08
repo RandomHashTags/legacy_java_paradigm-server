@@ -6,27 +6,23 @@ import org.json.JSONObject;
 
 public final class CountryAvailability implements ServerObject {
     public String country;
-    private final String title, category;
+    private final String title;
     private final boolean value;
 
-    public CountryAvailability(String title, boolean value, CountryAvailabilityCategory category) {
+    public CountryAvailability(String title, boolean value) {
         this.title = LocalServer.fixEscapeValues(title);
         this.value = value;
-        this.category = category.name();
     }
     public CountryAvailability(JSONObject json) {
         country = json.getString("country");
         title = null;
         value = true;
-        category = null;
     }
 
     @Override
     public String toString() {
-        return "{" +
-                "\"title\":\"" + title + "\"," +
-                "\"value\":" + value + "," +
-                "\"category\":\"" + category + "\"" +
+        return "\"" + title + "\":{" +
+                "\"value\":" + value +
                 "}";
     }
 

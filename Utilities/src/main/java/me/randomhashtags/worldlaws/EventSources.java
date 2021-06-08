@@ -24,13 +24,13 @@ public final class EventSources {
 
     @Override
     public String toString() {
-        final StringBuilder builder = new StringBuilder("[");
+        final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
         for(EventSource source : sources) {
             builder.append(isFirst ? "" : ",").append(source.toString());
             isFirst = false;
         }
-        builder.append("]");
+        builder.append("}");
         return builder.toString();
     }
 }

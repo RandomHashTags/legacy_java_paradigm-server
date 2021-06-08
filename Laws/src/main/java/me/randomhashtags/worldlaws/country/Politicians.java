@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.country;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.Jsonable;
+import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.country.usa.USPolitician;
 import me.randomhashtags.worldlaws.location.TerritoryAbbreviations;
 import me.randomhashtags.worldlaws.people.HumanName;

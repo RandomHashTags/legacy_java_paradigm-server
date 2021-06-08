@@ -5,20 +5,22 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.info.service.CountryService;
+import me.randomhashtags.worldlaws.location.CountryInformationType;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.select.Elements;
 
-import java.util.HashMap;
-
 public interface CountryValueService extends CountryService {
-    void setCountries(HashMap<String, String> countries);
     String getURL();
     int getYearOfData();
 
     @Override
     default FileType getFileType() {
         return FileType.COUNTRIES_VALUES;
+    }
+    @Override
+    default CountryInformationType getInformationType() {
+        return CountryInformationType.SINGLE_VALUES;
     }
 
     default Elements getValueDocumentElements(String url, String targetElements) {
@@ -29,15 +31,11 @@ public interface CountryValueService extends CountryService {
     }
 
     @Override
-    default void refresh(CompletionHandler handler) {
-        getJSONArray(this, new CompletionHandler() {
+    default void loadData(CompletionHandler handler) {
+        getJSONObject(this, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
-                handler.handle(loadData());
-            }
-
-            @Override
-            public void handleJSONArray(JSONArray array) {
+                final JSONArray array = new JSONArray(loadData());
                 handleJSONArrayCompletion(array, handler);
             }
         });
@@ -59,7 +57,9 @@ public interface CountryValueService extends CountryService {
         }
         final EventSource source = new EventSource(siteName, url);
         final EventSources sources = new EventSources(source);
-        final HashMap<String, String> countries = new HashMap<>();
+
+        final StringBuilder builder = new StringBuilder("{");
+        boolean isFirst = true;
         for(Object obj : array) {
             final JSONObject json = (JSONObject) obj;
             final String country = json.getString("country");
@@ -69,9 +69,10 @@ public interface CountryValueService extends CountryService {
             if(yearOfData != -1) {
                 value.setYearOfData(yearOfData);
             }
-            countries.put(country, value.toString());
+            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\":{").append(value.toString()).append("}");
+            isFirst = false;
         }
-        setCountries(countries);
-        handler.handle(null);
+        builder.append("}");
+        handler.handle(builder.toString());
     }
 }

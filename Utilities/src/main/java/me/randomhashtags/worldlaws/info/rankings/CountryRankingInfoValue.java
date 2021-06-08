@@ -34,7 +34,7 @@ public final class CountryRankingInfoValue implements ServerObject {
         yearOfData = json.has("yearOfData") ? json.getInt("yearOfData") : -1;
         value = json.getNumber("value");
         isEstimate = json.has("isEstimate") && json.getBoolean("isEstimate");
-        otherValues = json.has("otherValues") ? json.getJSONArray("otherValues").toString() : null;
+        otherValues = json.has("otherValues") ? json.getJSONObject("otherValues").toString() : null;
     }
 
     public int getDefcon() {
@@ -92,13 +92,13 @@ public final class CountryRankingInfoValue implements ServerObject {
         return otherValues;
     }
     public void setOtherValues(List<CountryRankingInfoValueOther> values) {
-        final StringBuilder builder = new StringBuilder("[");
+        final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
         for(CountryRankingInfoValueOther value : values) {
             builder.append(isFirst ? "" : ",").append(value.toString());
             isFirst = false;
         }
-        otherValues = builder.append("]").toString();
+        otherValues = builder.append("}").toString();
     }
 
     public EventSources getSources() {
@@ -110,7 +110,7 @@ public final class CountryRankingInfoValue implements ServerObject {
 
     @Override
     public String toString() {
-        return "{" +
+        return "\"" + description + "\":{" +
                 (defcon != -1 ? "\"defcon\":" + defcon + "," : "") +
                 "\"maxWorldRank\":" + maxWorldRank + "," +
                 "\"worldRank\":" + worldRank + "," +
@@ -118,7 +118,6 @@ public final class CountryRankingInfoValue implements ServerObject {
                 "\"value\":" + value + "," +
                 "\"valueType\":\"" + valueType.name() + "\"," +
                 (isEstimate ? "\"isEstimate\":true," : "") +
-                "\"description\":\"" + description + "\"," +
                 (suffix != null ? "\"suffix\":\"" + suffix + "\"," : "") +
                 (otherValues != null ? "\"otherValues\":" + otherValues + "," : "") +
                 "\"sources\":" + sources.toString() +

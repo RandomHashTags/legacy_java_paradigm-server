@@ -1,0 +1,1034 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>National Pearl Harbor Remembrance Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d7841d11-401f-43f2-885b-0825e20acec5","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"National_Pearl_Harbor_Remembrance_Day","wgTitle":"National Pearl Harbor Remembrance Day","wgCurRevisionId":1009883888,"wgRevisionId":1009883888,"wgArticleId":21571988,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Use mdy dates from December 2020","Infobox holiday with missing field","Infobox holiday fixed day","Commons category link is on Wikidata","Observances honoring victims of war",
+"December observances","Attack on Pearl Harbor","Observances in the United States"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"National_Pearl_Harbor_Remembrance_Day","wgRelevantArticleId":21571988,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,
+"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q6974848"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.growthExperiments.SuggestedEditSession"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.4"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pearl_harbour.png/1200px-Pearl_harbour.png"> 
+  <meta property="og:title" content="National Pearl Harbor Remembrance Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/National_Pearl_Harbor_Remembrance_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/National_Pearl_Harbor_Remembrance_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-National_Pearl_Harbor_Remembrance_Day rootpage-National_Pearl_Harbor_Remembrance_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">National Pearl Harbor Remembrance Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       American day of commemoration
+      </div> 
+      <p class="mw-empty-elt"> </p> 
+      <table class="infobox vevent">
+       <tbody>
+        <tr>
+         <th colspan="2" class="infobox-above hd" style="background-color: transparent">National Pearl Harbor Remembrance Day</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image"><a href="/wiki/File:Pearl_harbour.png" class="image"><img alt="Pearl harbour.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pearl_harbour.png/240px-Pearl_harbour.png" decoding="async" width="240" height="194" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pearl_harbour.png/360px-Pearl_harbour.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pearl_harbour.png/480px-Pearl_harbour.png 2x" data-file-width="2901" data-file-height="2351"></a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Date</th>
+         <td class="infobox-data"><a href="/wiki/December_7" title="December 7">December 7</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Frequency</th>
+         <td class="infobox-data">Annual</td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>National Pearl Harbor Remembrance Day</b>, also referred to as <b>Pearl Harbor Remembrance Day</b> or <b>Pearl Harbor Day</b>, is observed annually in the <a href="/wiki/United_States" title="United States">United States</a> on December 7, to remember and honor the 2,403 Americans who were killed in the Japanese surprise <a href="/wiki/Attack_on_Pearl_Harbor" title="Attack on Pearl Harbor">attack on Pearl Harbor</a> in Hawaii on December 7, 1941, which led to the <a href="/wiki/United_States_declaration_of_war_on_Japan" title="United States declaration of war on Japan">United States declaring war on Japan</a> the next day and thus entering <a href="/wiki/World_War_II" title="World War II">World War II</a>. </p>
+      <p>In 1994, the <a href="/wiki/United_States_Congress" title="United States Congress">United States Congress</a>, by <a href="/wiki/Public_Law_(United_States)" class="mw-redirect" title="Public Law (United States)"><abbr title="Public Law (United States)">Pub.L.</abbr></a>&nbsp;<a rel="nofollow" class="external text" href="https://uslaw.link/citation/us-law/public/103/308">103–308</a>, 108&nbsp;<a href="/wiki/United_States_Statutes_at_Large" title="United States Statutes at Large">Stat.</a>&nbsp;<a rel="nofollow" class="external text" href="http://legislink.org/us/stat-108-1169">1169</a>, designated December 7 of each year as National Pearl Harbor Remembrance Day.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> The joint resolution was signed by President <a href="/wiki/Bill_Clinton" title="Bill Clinton">Bill Clinton</a> on August 23, 1994. It became <a href="/wiki/Title_36_of_the_United_States_Code" title="Title 36 of the United States Code">36&nbsp;U.S.C.</a>&nbsp;<a rel="nofollow" class="external text" href="https://www.law.cornell.edu/uscode/text/36/129">§&nbsp;129</a> (Patriotic and National Observances and Ceremonies) of the <a href="/wiki/United_States_Code" title="United States Code">United States Code</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> On November 29, Clinton issued a proclamation declaring December 7, 1994, the first National Pearl Harbor Remembrance Day.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p>
+      <p>On Pearl Harbor Day, the <a href="/wiki/Flag_of_the_United_States" title="Flag of the United States">American flag</a> should be flown at half-staff until sunset to honor those who died as a result of the attack on U.S. military forces in Hawaii.<sup id="cite_ref-timeanddate.com_4-0" class="reference"><a href="#cite_note-timeanddate.com-4">[4]</a></sup> Pearl Harbor Day is not a federal holiday – government offices, schools, and businesses do not close. Some organizations may hold special events in memory of those killed or injured at Pearl Harbor.<sup id="cite_ref-timeanddate.com_4-1" class="reference"><a href="#cite_note-timeanddate.com-4">[4]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#The_attack_on_Pearl_Harbor"><span class="tocnumber">1</span> <span class="toctext">The attack on Pearl Harbor</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Aftermath"><span class="tocnumber">1.1</span> <span class="toctext">Aftermath</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Pearl_Harbor_and_Ford_Island_historic_sites"><span class="tocnumber">2</span> <span class="toctext">Pearl Harbor and Ford Island historic sites</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Pearl_Harbor_tributes"><span class="tocnumber">3</span> <span class="toctext">Pearl Harbor tributes</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="The_attack_on_Pearl_Harbor">The attack on Pearl Harbor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;action=edit&amp;section=1" title="Edit section: The attack on Pearl Harbor">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: <a href="/wiki/Attack_on_Pearl_Harbor" title="Attack on Pearl Harbor">Attack on Pearl Harbor</a>
+      </div> 
+      <p>On Sunday morning, December 7, 1941, the <a href="/wiki/Imperial_Japanese_Navy_Air_Service" title="Imperial Japanese Navy Air Service">Imperial Japanese Navy Air Service</a> attacked the <a href="/wiki/Neutral_country" title="Neutral country">neutral</a> United States at <a href="/wiki/Naval_Station_Pearl_Harbor" title="Naval Station Pearl Harbor">Naval Station Pearl Harbor</a> near <a href="/wiki/Honolulu" title="Honolulu">Honolulu</a>, <a href="/wiki/Territory_of_Hawaii" title="Territory of Hawaii">Hawaii</a>, killing 2,403 Americans and injuring 1,178 others. The attack sank four <a href="/wiki/United_States_Navy" title="United States Navy">U.S. Navy</a> <a href="/wiki/Battleship" title="Battleship">battleships</a> and damaged four others. It also damaged three <a href="/wiki/Cruiser" title="Cruiser">cruisers</a>, three <a href="/wiki/Destroyer" title="Destroyer">destroyers</a>, and one <a href="/wiki/Minelayer" title="Minelayer">minelayer</a>. Aircraft losses were 188 destroyed and 159 damaged. </p> 
+      <h3><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;action=edit&amp;section=2" title="Edit section: Aftermath">edit</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       Main article: <a href="/wiki/Consequences_of_the_attack_on_Pearl_Harbor" title="Consequences of the attack on Pearl Harbor">Consequences of the attack on Pearl Harbor</a>
+      </div> 
+      <p>Canada declared war on Japan within hours of the attack on Pearl Harbor,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> the first Western nation to do so. On December 8, the United States declared war on Japan and entered World War II on the side of <a href="/wiki/Allies_of_World_War_II" title="Allies of World War II">the Allies</a>. In a speech to Congress, President <a href="/wiki/Franklin_D._Roosevelt" title="Franklin D. Roosevelt">Franklin D. Roosevelt</a> called the bombing of Pearl Harbor "<a href="/wiki/Infamy_Speech" title="Infamy Speech">a date which will live in infamy</a>."<sup id="cite_ref-timeanddate.com_4-2" class="reference"><a href="#cite_note-timeanddate.com-4">[4]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Pearl_Harbor_and_Ford_Island_historic_sites">Pearl Harbor and Ford Island historic sites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;action=edit&amp;section=3" title="Edit section: Pearl Harbor and Ford Island historic sites">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>In Pearl Harbor: </p> 
+      <ul>
+       <li>The <a href="/wiki/USS_Arizona_Memorial" title="USS Arizona Memorial">USS <i>Arizona</i> Memorial</a> in Pearl Harbor is a marble memorial over the sunken battleship <a href="/wiki/USS_Arizona_(BB-39)" title="USS Arizona (BB-39)">USS&nbsp;<i>Arizona</i></a>, which was dedicated on May 30, 1962 ("<a href="/wiki/Memorial_Day" title="Memorial Day">Memorial Day</a>"), in honor of the 1,177 crew members who were killed. The memorial remembers all military personnel who were killed in the Pearl Harbor attack. Note: This site is open to the public with boat tours to the memorial provided by the US Navy from the visitors center.</li> 
+       <li>The <a href="/wiki/USS_Oklahoma_(BB-37)" title="USS Oklahoma (BB-37)">USS&nbsp;<i>Oklahoma</i></a> Memorial is in remembrance of a battleship that was sunk which lost 429 men on December 7, 1941.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li> 
+       <li>The <a href="/wiki/USS_Utah_(BB-31)" title="USS Utah (BB-31)">USS&nbsp;<i>Utah</i></a> Memorial, is in remembrance of a former battleship that had been converted to a target ship in 1931 (thus, at the time of the Pearl Harbor attack carried the designation of AG-16), that was sunk in the attack on December 7, 1941.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> A memorial to honor the crew including the 58 who died aboard USS <i>Utah</i> was dedicated on the northwest shore of <a href="/wiki/Ford_Island" title="Ford Island">Ford Island</a>, near the ship's wreck, in 1972. The ship, along with USS <i>Arizona</i>, was added to the National Register of Historic Places and declared a National Historic Landmark in 1989.</li> 
+       <li>The <a href="/wiki/USS_Bowfin_(SS-287)" title="USS Bowfin (SS-287)">USS&nbsp;<i>Bowfin</i></a> Submarine Museum and Park, is in remembrance of an American submarine that sank 44 ships in World War II.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Note: This site is adjacent to the <a href="/wiki/USS_Arizona_Memorial" title="USS Arizona Memorial">USS <i>Arizona</i> Memorial</a> Visitors Center.</li>
+      </ul> 
+      <p>Also on Ford Island. Note: Ford Island remains an active military installation therefore public access is restricted to approved tours, military personnel, military retirees, NOAA personnel and their family members only. </p> 
+      <ul>
+       <li>The <a href="/wiki/USS_Missouri_(BB-63)" title="USS Missouri (BB-63)">USS&nbsp;<i>Missouri</i></a> Memorial.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> The surrender of the Japanese on the deck of USS <i>Missouri</i> brought the end of World War II.</li> 
+       <li>The <a href="/wiki/Pacific_Aviation_Museum_Pearl_Harbor" class="mw-redirect" title="Pacific Aviation Museum Pearl Harbor">Pacific Aviation Museum Pearl Harbor</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+      </ul> 
+      <h2><span class="mw-headline" id="Pearl_Harbor_tributes">Pearl Harbor tributes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;action=edit&amp;section=4" title="Edit section: Pearl Harbor tributes">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:USS_Missouri_(BB-63)_rainbow.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/USS_Missouri_%28BB-63%29_rainbow.jpg/220px-USS_Missouri_%28BB-63%29_rainbow.jpg" decoding="async" width="220" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/USS_Missouri_%28BB-63%29_rainbow.jpg/330px-USS_Missouri_%28BB-63%29_rainbow.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/USS_Missouri_%28BB-63%29_rainbow.jpg/440px-USS_Missouri_%28BB-63%29_rainbow.jpg 2x" data-file-width="2884" data-file-height="1906"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:USS_Missouri_(BB-63)_rainbow.jpg" class="internal" title="Enlarge"></a>
+         </div><a href="/wiki/USS_Missouri_(BB-63)" title="USS Missouri (BB-63)">USS <i>Missouri</i></a> at the observance of the 50th anniversary of the Pearl Harbor attack (December 7, 1991)
+        </div>
+       </div>
+      </div> 
+      <p>In 1990, leading up to the 50th anniversary of the attack on Pearl Harbor, Congress established the <a href="/wiki/Pearl_Harbor_Commemorative_Medal" title="Pearl Harbor Commemorative Medal">Pearl Harbor Commemorative Medal</a>. This is also known as the Pearl Harbor Survivor's medal and was awarded to anyone who was in the U.S. Armed Forces and who was present in Hawaii on December 7, 1941, and participated in combat operations that day against the attack. The medal was also awarded to civilians who were killed or injured in the attack. A few years later, Congress amended the law to allow any person who was present in <a href="/wiki/Hawaii" title="Hawaii">Hawaii</a> on December 7, 1941, and was involved in combat operations against Japanese military forces attacking Hawaii, to receive the award. In both instances, there was a limited time period to apply for the award, and it is no longer issued.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/Pearl_Harbor_Survivors_Association" title="Pearl Harbor Survivors Association">Pearl Harbor Survivors Association</a></li> 
+       <li><a href="/wiki/World_War_II_Valor_in_the_Pacific_National_Monument" title="World War II Valor in the Pacific National Monument">World War II Valor in the Pacific National Monument</a></li>
+      </ul> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist reflist-columns references-column-width" style="column-width: 30em;"> 
+       <ol class="references"> 
+        <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://answers.usa.gov/cgi-bin/gsa_ict.cfg/php/enduser/std_adp.php?p_faqid=8440">"Official Guide to Government Information and Services – USAGov"</a>. <i>answers.usa.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 12,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=answers.usa.gov&amp;rft.atitle=Official+Guide+to+Government+Information+and+Services+%E2%80%93+USAGov&amp;rft_id=http%3A%2F%2Fanswers.usa.gov%2Fcgi-bin%2Fgsa_ict.cfg%2Fphp%2Fenduser%2Fstd_adp.php%3Fp_faqid%3D8440&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Pearl+Harbor+Remembrance+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFClerk_of_the_United_States_House_of_Representatives1994" class="citation news cs1"><a href="/wiki/Clerk_of_the_United_States_House_of_Representatives" title="Clerk of the United States House of Representatives">Clerk of the United States House of Representatives</a> (August 23, 1994). <a rel="nofollow" class="external text" href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section129&amp;num=0&amp;edition=prelim">"National Pearl Harbor Remembrance Day"</a>. <i><a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">United States House of Representatives</a></i>. <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a>: <a href="/wiki/United_States_Congress" title="United States Congress">United States Congress</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 21,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=United+States+House+of+Representatives&amp;rft.atitle=National+Pearl+Harbor+Remembrance+Day&amp;rft.date=1994-08-23&amp;rft.au=Clerk+of+the+United+States+House+of+Representatives&amp;rft_id=http%3A%2F%2Fuscode.house.gov%2Fview.xhtml%3Freq%3Dgranuleid%3AUSC-prelim-title36-section129%26num%3D0%26edition%3Dprelim&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Pearl+Harbor+Remembrance+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="https://en.wikisource.org/wiki/Proclamation_6758" class="extiw" title="s:Proclamation 6758">Proclamation 6758</a> – National Pearl Harbor Remembrance Day, 1994, November 29, 1994</span> </li> 
+        <li id="cite_note-timeanddate.com-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-timeanddate.com_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-timeanddate.com_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-timeanddate.com_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.timeanddate.com/holidays/us/pearl-harbor-remembrance-day">"Pearl Harbor Remembrance Day in the United States"</a>. <i>www.timeanddate.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 12,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.timeanddate.com&amp;rft.atitle=Pearl+Harbor+Remembrance+Day+in+the+United+States&amp;rft_id=http%3A%2F%2Fwww.timeanddate.com%2Fholidays%2Fus%2Fpearl-harbor-remembrance-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Pearl+Harbor+Remembrance+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://publications.gc.ca/collections/Collection-R/LoPBdP/BP/bp303-e.htm#3.%20Japan">"Parliament, The National Defence Act, and the Decisions to Participate"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 8,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Parliament%2C+The+National+Defence+Act%2C+and+the+Decisions+to+Participate&amp;rft_id=http%3A%2F%2Fpublications.gc.ca%2Fcollections%2FCollection-R%2FLoPBdP%2FBP%2Fbp303-e.htm%233.%2520Japan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Pearl+Harbor+Remembrance+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">For the full text of the speech, see <a href="/wiki/Wikisource" title="Wikisource">Pearl Harbor speech</a></span> </li> 
+        <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.nps.gov/valr/planyourvisit/upload/Oklahoma%20Memorial%20Revised.pdf">USS Oklahoma Memorial</a></span> </li> 
+        <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://pearlharboroahu.com/uss-utah-at-pearl-harbor/">"USS Utah at Pearl Harbor"</a>. Pearl Harbor Oahu. March 28, 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=USS+Utah+at+Pearl+Harbor&amp;rft.pub=Pearl+Harbor+Oahu&amp;rft.date=2012-03-28&amp;rft_id=https%3A%2F%2Fpearlharboroahu.com%2Fuss-utah-at-pearl-harbor%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Pearl+Harbor+Remembrance+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.pearlharborhistoricsites.org/pearl-harbor/uss-bowfin-submarine">"USS Bowfin Submarine"</a>. Pearl Harbor Historic Sites.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=USS+Bowfin+Submarine&amp;rft.pub=Pearl+Harbor+Historic+Sites&amp;rft_id=http%3A%2F%2Fwww.pearlharborhistoricsites.org%2Fpearl-harbor%2Fuss-bowfin-submarine&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Pearl+Harbor+Remembrance+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.pearlharborhistoricsites.org/pearl-harbor/battleship-missouri">"Battleship Missouri Memorial"</a>. Pearl Harbor Historic Sites.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Battleship+Missouri+Memorial&amp;rft.pub=Pearl+Harbor+Historic+Sites&amp;rft_id=http%3A%2F%2Fwww.pearlharborhistoricsites.org%2Fpearl-harbor%2Fbattleship-missouri&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Pearl+Harbor+Remembrance+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.pearlharborhistoricsites.org/pearl-harbor/pacific-aviation-museum">"Pacific Aviation Museum Pearl Harbor"</a>. Pearl Harbor Historic Sites.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pacific+Aviation+Museum+Pearl+Harbor&amp;rft.pub=Pearl+Harbor+Historic+Sites&amp;rft_id=http%3A%2F%2Fwww.pearlharborhistoricsites.org%2Fpearl-harbor%2Fpacific-aviation-museum&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Pearl+Harbor+Remembrance+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.pacificaviationmuseum.org/">"Pacific Aviation Museum Pearl Harbor"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pacific+Aviation+Museum+Pearl+Harbor&amp;rft_id=http%3A%2F%2Fwww.pacificaviationmuseum.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Pearl+Harbor+Remembrance+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">104 Stat. 1721, 110 Stat. 2654</span> </li> 
+       </ol>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Pearl_Harbor_Remembrance_Day" class="extiw" title="commons:Category:Pearl Harbor Remembrance Day">Pearl Harbor Remembrance Day</a></span>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://obamawhitehouse.archives.gov/the-press-office/2011/12/06/presidential-proclamation-national-pearl-harbor-remembrance-day-2011">White House Press Release 6 December 2011</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://georgewbush-whitehouse.archives.gov/news/releases/2007/12/20071204-9.html">White House press release</a></li> 
+       <li>For a searchable version of President Roosevelt's speech: <a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/15px-Wikisource-logo.svg.png" decoding="async" width="15" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/23px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a> The full text of <a href="https://en.wikisource.org/wiki/Pearl_Harbor_speech" class="extiw" title="wikisource:Pearl Harbor speech">Pearl Harbor speech</a> at Wikisource</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=United_States&amp;#124;link=United_States_Holidays,_observances,_and_celebrations_in_the_United_States" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_the_United_States" title="Template:Public holidays in the United States"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_the_United_States" title="Template talk:Public holidays in the United States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_the_United_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23x15px&amp;#124;border_&amp;#124;alt=United_States&amp;#124;link=United_States_Holidays,_observances,_and_celebrations_in_the_United_States" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650"></a></span> Holidays, observances, and celebrations in the United States
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">January</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Martin_Luther_King_Jr._Day" title="Martin Luther King Jr. Day">Martin Luther King Jr. Day</a></b> (NJ, federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Eugenio_Mar%C3%ADa_de_Hostos" title="Eugenio María de Hostos">Birthday of Eugenio María de Hostos</a> (PR)</li> 
+             <li><a href="/wiki/Confederate_Memorial_Day" title="Confederate Memorial Day">Confederate Heroes Day</a> (TX)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Eve of Three Kings' Day</a> (PR, religious)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Feast of Epiphany / Feast of Theophany</a> (religious)</li> 
+             <li><a href="/wiki/Fred_Korematsu_Day" title="Fred Korematsu Day">Fred Korematsu Day</a> (CA, FL, HI, VA)</li> 
+             <li><a href="/wiki/Idaho_Human_Rights_Day" title="Idaho Human Rights Day">Idaho Human Rights Day</a> (ID)</li> 
+             <li><a href="/wiki/United_States_presidential_inauguration" title="United States presidential inauguration">Inauguration Day</a> (federal quadrennial)</li> 
+             <li><a href="/wiki/Kansas_Day" title="Kansas Day">Kansas Day</a> (KS)</li> 
+             <li><a href="/wiki/Makar_Sankranti" title="Makar Sankranti">Makar Sankranti / Pongal</a> (religious)</li> 
+             <li><a href="/wiki/Robert_E._Lee_Day" title="Robert E. Lee Day">Robert E. Lee Day</a> (FL)</li> 
+             <li><a href="/wiki/Stephen_Foster_Memorial_Day" title="Stephen Foster Memorial Day">Stephen Foster Memorial Day</a> (36)</li> 
+             <li><a href="/wiki/The_Eighth_(United_States)" title="The Eighth (United States)">The Eighth</a> (LA)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Three Kings' Day</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/World_Religion_Day" title="World Religion Day">World Religion Day</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">January–February</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Super_Bowl_Sunday" title="Super Bowl Sunday">Super Bowl Sunday</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Chinese_New_Year" title="Chinese New Year">Chinese New Year</a> / <a href="/wiki/Lunar_New_Year" title="Lunar New Year">Lunar New Year</a> (NY, cultural, religious)</li> 
+             <li><a href="/wiki/Vasant_Panchami" title="Vasant Panchami">Vasant Panchami</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">February<br><a href="/wiki/American_Heart_Month" title="American Heart Month">American Heart Month</a><br><a href="/wiki/Black_History_Month" title="Black History Month">Black History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Washington%27s_Birthday" title="Washington's Birthday">Washington's Birthday / Presidents' Day</a></b> (NJ, federal)</li> 
+             <li><b><a href="/wiki/Valentine%27s_Day" title="Valentine's Day">Valentine's Day</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Luis_Mu%C3%B1oz_Mar%C3%ADn" title="Luis Muñoz Marín">Birthday of Luis Muñoz Marín</a> (PR)</li> 
+             <li><a href="/wiki/Candlemas" title="Candlemas">Candlemas</a> (religious)</li> 
+             <li><a href="/wiki/Darwin_Day" title="Darwin Day">Charles Darwin Day / Darwin Day</a> (CA, DE)</li> 
+             <li><a href="/wiki/Day_of_Remembrance_(Japanese_Americans)" title="Day of Remembrance (Japanese Americans)">Day of Remembrance</a> (CA, OR, WA, cultural)</li> 
+             <li><a href="/wiki/Georgia_Day" title="Georgia Day">Georgia Day</a> (GA)</li> 
+             <li><a href="/wiki/Groundhog_Day" title="Groundhog Day">Groundhog Day</a></li> 
+             <li><a href="/wiki/Imbolc" title="Imbolc">Imbolc</a> (religious)</li> 
+             <li><a href="/wiki/Lincoln%27s_Birthday" title="Lincoln's Birthday">Lincoln's Birthday</a> (CA, CT, IL, IN, MO, NY, WV)</li> 
+             <li><a href="/wiki/National_Girls_and_Women_in_Sports_Day" title="National Girls and Women in Sports Day">National Girls and Women in Sports Day</a></li> 
+             <li><a href="/wiki/National_Freedom_Day" title="National Freedom Day">National Freedom Day</a> (36)</li> 
+             <li><a href="/wiki/Parinirvana_Day" title="Parinirvana Day">Nirvana Day</a> (religious)</li> 
+             <li><a href="/wiki/Presentation_of_Jesus_at_the_Temple" title="Presentation of Jesus at the Temple">Presentation of Our Lord to the Temple</a> (religious)</li> 
+             <li><a href="/wiki/Promised_Reformer_Day" title="Promised Reformer Day">Promised Reformer Day</a> (religious)</li> 
+             <li><a href="/wiki/Ronald_Reagan_Day" title="Ronald Reagan Day">Ronald Reagan Day</a> (CA)</li> 
+             <li><a href="/wiki/Rosa_Parks_Day" title="Rosa Parks Day">Rosa Parks Day</a> (CA, MO)</li> 
+             <li><a href="/wiki/Saviours%27_Day" title="Saviours' Day">Saviours' Day</a> (religious)</li> 
+             <li><a href="/wiki/Susan_B._Anthony_Day" title="Susan B. Anthony Day">Susan B. Anthony Day</a> (CA, FL, NY, WI, WV, proposed federal)</li> 
+             <li><a href="/wiki/Tu_BiShvat" title="Tu BiShvat">Tu B’shvat</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">February–March</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b> <a href="/wiki/Mardi_Gras" title="Mardi Gras">Mardi Gras</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Ash_Wednesday" title="Ash Wednesday">Ash Wednesday</a> (PR, religious)</li> 
+             <li><a href="/wiki/Carnival" title="Carnival">Carnival</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/Clean_Monday" title="Clean Monday">Clean Monday</a> (religious)</li> 
+             <li><a href="/wiki/Courir_de_Mardi_Gras" title="Courir de Mardi Gras">Courir de Mardi Gras</a> (religious)</li> 
+             <li><a href="/wiki/Ayy%C3%A1m-i-H%C3%A1" title="Ayyám-i-Há">Intercalary Days</a> (religious)</li> 
+             <li><a href="/wiki/Maha_Shivaratri" title="Maha Shivaratri">Mahashivaratri</a> (religious)</li> 
+             <li><a href="/wiki/Purim" title="Purim">Purim</a> (religious)</li> 
+             <li><a href="/wiki/Shrove_Tuesday" title="Shrove Tuesday">Shrove Tuesday</a> (religious)</li> 
+             <li><a href="/wiki/Super_Tuesday" title="Super Tuesday">Super Tuesday</a></li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">March<br><a href="/wiki/Irish-American_Heritage_Month" title="Irish-American Heritage Month">Irish-American Heritage Month</a><br><a href="/wiki/National_Colon_Cancer_Awareness_Month" title="National Colon Cancer Awareness Month">Colon Cancer Awareness Month</a><br><a href="/wiki/Women%27s_History_Month" title="Women's History Month">Women's History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Saint_Patrick%27s_Day" title="Saint Patrick's Day">Saint Patrick's Day</a></b> (religious)</li> 
+             <li><b><a href="/wiki/Spring_break" title="Spring break">Spring break</a></b> (week)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Annunciation" title="Annunciation">Annunciation of the Virgin Mary / Annunciation of the Theotokos</a> (religious)</li> 
+             <li><a href="/wiki/Casimir_Pulaski_Day" title="Casimir Pulaski Day">Casimir Pulaski Day</a> (IL)</li> 
+             <li><a href="/wiki/Cesar_Chavez_Day" title="Cesar Chavez Day">Cesar Chavez Day</a> (CA, CO, TX, proposed federal)</li> 
+             <li><a href="/wiki/Emancipation_Day#Puerto_Rico" title="Emancipation Day">Emancipation Day in Puerto Rico</a> (PR, cultural)</li> 
+             <li><a href="/wiki/Evacuation_Day_(Massachusetts)" title="Evacuation Day (Massachusetts)">Evacuation Day</a> (Suffolk County, MA)</li> 
+             <li><a href="/wiki/Harriet_Tubman_Day" title="Harriet Tubman Day">Harriet Tubman Day</a> (NY)</li> 
+             <li><a href="/wiki/Hola_Mohalla" title="Hola Mohalla">Hola Mohalla</a> (religious)</li> 
+             <li><a href="/wiki/Holi" title="Holi">Holi</a> (NY, religious)</li> 
+             <li><a href="/wiki/L._Ron_Hubbard" title="L. Ron Hubbard">L. Ron Hubbard’s Birthday</a> (religious)</li> 
+             <li><a href="/wiki/Isra_and_Mi%27raj#Modern_Muslim_observance" title="Isra and Mi'raj">Lailat al-Mi'raj</a> (religious)</li> 
+             <li><a href="/wiki/Liberation_and_Freedom_Day" title="Liberation and Freedom Day">Liberation and Freedom Day</a> (Charlottesville, VA, cultural)</li> 
+             <li><a href="/wiki/Mardi_Gras_in_the_United_States" title="Mardi Gras in the United States">Mardi Gras</a> (AL (in two counties), LA)</li> 
+             <li><a href="/wiki/Maryland_Day" title="Maryland Day">Maryland Day</a> (MD)</li> 
+             <li><a href="/wiki/National_Poison_Prevention_Week" title="National Poison Prevention Week">National Poison Prevention Week</a> (week)</li> 
+             <li><a href="/wiki/Nowruz" title="Nowruz">Nowruz</a> (cultural, religious)</li> 
+             <li><a href="/wiki/%C4%92ostre" title="Ēostre">Ostara</a> (religious)</li> 
+             <li><a href="/wiki/Prince_K%C5%ABhi%C5%8D_Day" title="Prince Kūhiō Day">Prince Jonah Kūhiō Kalanianaʻole Day</a> (HI)</li> 
+             <li><a href="/wiki/Promised_Messiah_Day" title="Promised Messiah Day">Promised Messiah Day</a> (religious)</li> 
+             <li><a href="/wiki/Saint_Joseph%27s_Day" title="Saint Joseph's Day">Saint Joseph's Day</a> (religious)</li> 
+             <li><a href="/wiki/Seward%27s_Day" title="Seward's Day">Seward's Day</a> (AK)</li> 
+             <li><a href="/wiki/Texas_Independence_Day" title="Texas Independence Day">Texas Independence Day</a> (TX)</li> 
+             <li><a href="/wiki/Town_meeting#Vermont" title="Town meeting">Town Meeting Day</a> (VT)</li> 
+             <li><a href="/wiki/Transfer_Day" title="Transfer Day">Transfer Day</a> (VI)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">March–April</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Easter" title="Easter">Easter</a></b> (religious)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> (CT, NC, PR, NJ, VI, religious)</li> 
+             <li><a href="/wiki/Hanuman_Jayanti" title="Hanuman Jayanti">Hanuman Jayanti</a> (religious)</li> 
+             <li><a href="/wiki/Maundy_Thursday" title="Maundy Thursday">Holy Thursday</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/Holy_Week" title="Holy Week">Holy Week</a> (PR, religious, week)</li> 
+             <li><a href="/wiki/Lazarus_Saturday" title="Lazarus Saturday">Lazarus Saturday</a> (religious)</li> 
+             <li><a href="/wiki/Mahavir_Janma_Kalyanak" title="Mahavir Janma Kalyanak">Mahavir Janma Kalyanak</a> (religious)</li> 
+             <li><a href="/wiki/Mesha_Sankranti" title="Mesha Sankranti">Mesha Sankranti / Hindu New Year</a> (religious)</li> 
+             <li><a href="/wiki/Palm_Sunday" title="Palm Sunday">Palm Sunday</a> (PR, religious)</li> 
+             <li><a href="/wiki/Passover" title="Passover">Passover</a> (religious)</li> 
+             <li><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday / Bright Monday</a> (VI religious)</li> 
+             <li><a href="/wiki/Rama_Navami" title="Rama Navami">Ramnavami</a> (religious)</li> 
+             <li><a href="/wiki/Ugadi" title="Ugadi">Chandramana Yugadi / Souramana Yugadi</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">April<br><a href="/wiki/Confederate_History_Month" title="Confederate History Month">Confederate History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/420_(cannabis_culture)" title="420 (cannabis culture)">420</a></li> 
+            <li><a href="/wiki/April_Fools%27_Day" title="April Fools' Day">April Fools' Day</a></li> 
+            <li><a href="/wiki/Arbor_Day" title="Arbor Day">Arbor Day</a></li> 
+            <li><a href="/wiki/Jos%C3%A9_de_Diego" title="José de Diego">Birthday of José de Diego</a> (PR)</li> 
+            <li><a href="/wiki/Confederate_Memorial_Day" title="Confederate Memorial Day">Confederate Memorial Day</a> (AL, MS)</li> 
+            <li><a href="/wiki/Days_of_Remembrance_of_the_Victims_of_the_Holocaust" title="Days of Remembrance of the Victims of the Holocaust">Days of Remembrance of the Victims of the Holocaust</a> (week)</li> 
+            <li><a href="/wiki/Earth_Day" title="Earth Day">Earth Day</a></li> 
+            <li><a href="/wiki/Emancipation_Day" title="Emancipation Day">Emancipation Day</a> (cultural)</li> 
+            <li><a href="/wiki/Jefferson%27s_Birthday" title="Jefferson's Birthday">Thomas Jefferson's Birthday</a> (AL)</li> 
+            <li><a href="/wiki/Lag_BaOmer" title="Lag BaOmer">Lag B’Omer</a> (religious)</li> 
+            <li><a href="/wiki/Great_Lent" title="Great Lent">Last Friday of Great Lent</a> (religious)</li> 
+            <li><a href="/wiki/Laylat_al-Qadr" class="mw-redirect" title="Laylat al-Qadr">Laylat al-Qadr</a> (religious)</li> 
+            <li><a href="/wiki/Pascua_Florida" title="Pascua Florida">Pascua Florida</a> (FL)</li> 
+            <li><a href="/wiki/Patriots%27_Day" title="Patriots' Day">Patriots' Day</a> (MA, ME)</li> 
+            <li><a href="/wiki/Ridv%C3%A1n" title="Ridván">Ridván</a> (religious)</li> 
+            <li><a href="/wiki/San_Jacinto_Day" title="San Jacinto Day">San Jacinto Day</a> (TX)</li> 
+            <li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li> 
+            <li><a href="/wiki/Walpurgis_Night" title="Walpurgis Night">Walpurgis Night</a> (religious)</li> 
+            <li><a href="/wiki/Independence_Day_(Israel)" title="Independence Day (Israel)">Yom Ha'atzmaut</a> (cultural, religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">May<br><a href="/wiki/Asian_Pacific_American_Heritage_Month" title="Asian Pacific American Heritage Month">Asian Pacific American Heritage Month</a><br><a href="/wiki/Jewish_American_Heritage_Month" title="Jewish American Heritage Month">Jewish American Heritage Month</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Memorial_Day" title="Memorial Day">Memorial Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother's Day (United States)">Mother's Day</a></b> (36)</li> 
+              <li><b><a href="/wiki/Cinco_de_Mayo" title="Cinco de Mayo">Cinco de Mayo</a></b></li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Bah%C3%A1%CA%BC%C3%AD_Holy_Days" title="Baháʼí Holy Days">Ascension of Baháʼu'lláh</a> (religious)</li> 
+             <li><a href="/wiki/Ascension_Day" class="mw-redirect" title="Ascension Day">Ascension of Our Lord</a> (religious)</li> 
+             <li><a href="/wiki/Caliphate_Day" title="Caliphate Day">Caliphate Day</a> (religious)</li> 
+             <li><a href="/wiki/Bah%C3%A1%CA%BC%C3%AD_Holy_Days" title="Baháʼí Holy Days">Declaration of the Bab</a> (religious)</li> 
+             <li><a href="/wiki/Harvey_Milk_Day" title="Harvey Milk Day">Harvey Milk Day</a> (CA)</li> 
+             <li><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">International Workers' Day</a> / <a href="/wiki/May_Day" title="May Day">May Day</a> (CA, unofficial, proposed state)</li> 
+             <li><a href="/wiki/Law_Day_(United_States)" title="Law Day (United States)">Law Day</a> (36)</li> 
+             <li><a href="/wiki/Loyalty_Day" title="Loyalty Day">Loyalty Day</a> (36)</li> 
+             <li><a href="/wiki/Malcolm_X_Day" title="Malcolm X Day">Malcolm X Day</a> (CA, IL, proposed federal)</li> 
+             <li><a href="/wiki/Military_Spouse_Day" title="Military Spouse Day">Military Spouse Day</a></li> 
+             <li><a href="/wiki/National_Day_of_Prayer" title="National Day of Prayer">National Day of Prayer</a> (36)</li> 
+             <li><a href="/wiki/National_Day_of_Reason" title="National Day of Reason">National Day of Reason</a></li> 
+             <li><a href="/wiki/National_Defense_Transportation_Day" title="National Defense Transportation Day">National Defense Transportation Day</a> (36)</li> 
+             <li><a href="/wiki/United_States_National_Maritime_Day" title="United States National Maritime Day">National Maritime Day</a> (36)</li> 
+             <li><a href="/wiki/Mufaddal_Saifuddin" title="Mufaddal Saifuddin">Milad Syedna Mufaddal Saifuddin</a> (religious)</li> 
+             <li><a href="/wiki/Peace_Officers_Memorial_Day" title="Peace Officers Memorial Day">Peace Officers Memorial Day</a> (36)</li> 
+             <li><a href="/wiki/Pentecost" title="Pentecost">Pentecost</a> (religious)</li> 
+             <li><a href="/wiki/Shavuot" title="Shavuot">Shavuot</a> (religious)</li> 
+             <li><a href="/wiki/Truman_Day" title="Truman Day">Truman Day</a> (MO)</li> 
+             <li><a href="/wiki/Vesak" title="Vesak">Vesak</a> / <a href="/wiki/Buddha%27s_Birthday" title="Buddha's Birthday">Buddha's Birthday</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">June<br><a href="/wiki/Gay_and_Lesbian_Pride_Month" class="mw-redirect" title="Gay and Lesbian Pride Month">Lesbian, Gay, Bisexual and<br> Transgender Pride Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Father%27s_Day_(United_States)" title="Father's Day (United States)">Father's Day</a></b> (36)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Bunker_Hill_Day" class="mw-redirect" title="Bunker Hill Day">Bunker Hill Day</a> (Suffolk County, MA)</li> 
+             <li><a href="/wiki/Carolina_Day" class="mw-redirect" title="Carolina Day">Carolina Day</a> (SC)</li> 
+             <li><a href="/wiki/Apostles%27_Fast" title="Apostles' Fast">Fast of the Holy Apostles</a> (religious)</li> 
+             <li><a href="/wiki/Flag_Day_(United_States)" title="Flag Day (United States)">Flag Day</a> (36, proposed federal)</li> 
+             <li><a href="/wiki/Helen_Keller_Day" title="Helen Keller Day">Helen Keller Day</a> (PA)</li> 
+             <li><a href="/wiki/Honor_America_Days" title="Honor America Days">Honor America Days</a> (3 weeks)</li> 
+             <li><a href="/wiki/Jefferson_Davis_Day" class="mw-redirect" title="Jefferson Davis Day">Jefferson Davis Day</a> (AL, FL)</li> 
+             <li><a href="/wiki/Juneteenth" title="Juneteenth">Juneteenth</a> (TX, MA, cultural, proposed federal)</li> 
+             <li><a href="/wiki/Kamehameha_Day" class="mw-redirect" title="Kamehameha Day">Kamehameha Day</a> (HI)</li> 
+             <li><a href="/wiki/Midsummer" title="Midsummer">Litha</a> (religious)</li> 
+             <li><a href="/wiki/Guru_Arjan" title="Guru Arjan">Martyrdom of Guru Arjan Dev Sahib</a> (religious)</li> 
+             <li><a href="/wiki/Odunde_Festival" title="Odunde Festival">Odunde Festival</a> (Philadelphia, PA, cultural)</li> 
+             <li><a href="/wiki/Senior_Week" title="Senior Week">Senior Week</a> (week)</li> 
+             <li><a href="/wiki/Nativity_of_Saint_John_the_Baptist#Celebration" title="Nativity of Saint John the Baptist">Saint John's Day</a> (PR, religious)</li> 
+             <li><a href="/wiki/West_Virginia_Day" title="West Virginia Day">West Virginia Day</a> (WV)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">July</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Independence_Day_(United_States)" title="Independence Day (United States)">Independence Day</a></b> (federal)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Asalha_Puja" title="Asalha Puja">Asalha Puja Day</a> (religious)</li> 
+             <li><a href="/wiki/Luis_Mu%C3%B1oz_Rivera" title="Luis Muñoz Rivera">Birthday of Don Luis Muñoz Rivera</a> (PR)</li> 
+             <li><a href="/wiki/Jos%C3%A9_Celso_Barbosa" title="José Celso Barbosa">Birthday of Dr. José Celso Barbosa</a> (PR)</li> 
+             <li><a href="/wiki/Emancipation_Day#United_States_Virgin_Islands" title="Emancipation Day">Emancipation Day in the U.S. Virgin Islands</a> (VI, cultural)</li> 
+             <li><a href="/wiki/Guru_Purnima" title="Guru Purnima">Guru Purnima</a> (religious)</li> 
+             <li><a href="/wiki/Khordad_Sal" title="Khordad Sal">Khordad Sal</a> (religious)</li> 
+             <li><a href="/wiki/Sovereignty_Restoration_Day" title="Sovereignty Restoration Day">Lā Hoʻihoʻi Ea</a> (HI, unofficial, cultural)</li> 
+             <li><a href="/wiki/Execution_of_the_B%C3%A1b" title="Execution of the Báb">Martyrdom of the Báb</a> (religious)</li> 
+             <li><a href="/wiki/Parents%27_Day" title="Parents' Day">Parents' Day</a> (36)</li> 
+             <li><a href="/wiki/Pioneer_Day" title="Pioneer Day">Pioneer Day</a> (UT)</li> 
+             <li><a href="/wiki/Puerto_Rico_Constitution_Day" title="Puerto Rico Constitution Day">Puerto Rico Constitution Day</a> (PR)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">July–August</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Summer_vacation" title="Summer vacation">Summer vacation</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Tisha_B%27Av" title="Tisha B'Av">Tisha B'Av</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">August</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a> (AZ)</li> 
+            <li><a href="/wiki/Barack_Obama_Day" title="Barack Obama Day">Barack Obama Day in Illinois</a> (IL)</li> 
+            <li><a href="/wiki/Bennington_Battle_Day" title="Bennington Battle Day">Bennington Battle Day</a> (VT)</li> 
+            <li><a href="/wiki/Dormition_of_the_Mother_of_God#Dormition_versus_Assumption" title="Dormition of the Mother of God">Dormition of the Theotokos</a> (religious)</li> 
+            <li><a href="/wiki/Eid_al-Ghadir" title="Eid al-Ghadir">Eid-e-Ghadeer</a> (religious)</li> 
+            <li><a href="/wiki/Dormition_of_the_Mother_of_God#Dormition_fast" title="Dormition of the Mother of God">Fast in Honor of the Holy Mother of Lord Jesus</a> (religious)</li> 
+            <li><a href="/wiki/Assumption_of_Mary#Feasts" title="Assumption of Mary">Feast of the Assumption of the Blessed Virgin Mary</a> (religious)</li> 
+            <li><a href="/wiki/Statehood_Day_(Hawaii)" title="Statehood Day (Hawaii)">Hawaii Admission Day / Statehood Day</a> (HI)</li> 
+            <li><a href="/wiki/Krishna_Janmashtami" title="Krishna Janmashtami">Krishna Janmashtami</a> (religious)</li> 
+            <li><a href="/wiki/Lammas" title="Lammas">Lammas</a> (religious)</li> 
+            <li><a href="/wiki/Lyndon_Baines_Johnson_Day" title="Lyndon Baines Johnson Day">Lyndon Baines Johnson Day</a> (TX)</li> 
+            <li><a href="/wiki/Naga_Panchami" title="Naga Panchami">Naga Panchami</a> (religious)</li> 
+            <li><a href="/wiki/National_Aviation_Day" title="National Aviation Day">National Aviation Day</a> (36)</li> 
+            <li><a href="/wiki/Paryushana" title="Paryushana">Paryushana</a> (religious)</li> 
+            <li><a href="/wiki/Raksha_Bandhan" title="Raksha Bandhan">Raksha Bandhan</a> (religious)</li> 
+            <li><a href="/wiki/Feast_of_the_Transfiguration" title="Feast of the Transfiguration">Transfiguration of the Lord</a> (religious)</li> 
+            <li><a href="/wiki/Victory_Day_(United_States)" title="Victory Day (United States)">Victory Day</a> (RI)</li> 
+            <li><a href="/wiki/Women%27s_Equality_Day" title="Women's Equality Day">Women's Equality Day</a> (36)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">September<br><a href="/wiki/National_Prostate_Cancer_Awareness_Month" class="mw-redirect" title="National Prostate Cancer Awareness Month">Prostate Cancer Awareness Month</a><br><a href="/wiki/National_Childhood_Cancer_Awareness_Month" title="National Childhood Cancer Awareness Month">Childhood Cancer Awareness Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Labor_Day" title="Labor Day">Labor Day</a></b> (federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Brazilian_Day" title="Brazilian Day">Brazilian Day</a> (NY, cultural)</li> 
+             <li><a href="/wiki/California_Admission_Day" class="mw-redirect" title="California Admission Day">California Admission Day</a> (CA)</li> 
+             <li><a href="/wiki/Carl_Garner_Federal_Lands_Cleanup_Day" title="Carl Garner Federal Lands Cleanup Day">Carl Garner Federal Lands Cleanup Day</a> (36)</li> 
+             <li><a href="/wiki/Constitution_Day_(United_States)" title="Constitution Day (United States)">Constitution Day</a> (36)</li> 
+             <li><a href="/wiki/Constitution_Week" title="Constitution Week">Constitution Week</a> (week)</li> 
+             <li><a href="/wiki/Defenders_Day" title="Defenders Day">Defenders Day</a> (MD)</li> 
+             <li><a href="/wiki/Elevation_of_the_Holy_Cross" title="Elevation of the Holy Cross">Elevation of the Holy Cross</a> (religious)</li> 
+             <li><a href="/wiki/Feast_of_San_Gennaro" title="Feast of San Gennaro">Feast of San Gennaro</a> (NY, cultural, religious)</li> 
+             <li><a href="/wiki/Ganesh_Chaturthi" title="Ganesh Chaturthi">Ganesh Chaturthi</a> (religious)</li> 
+             <li><a href="/wiki/Gold_Star_Mother%27s_Day" class="mw-redirect" title="Gold Star Mother's Day">Gold Star Mother's Day</a> (36)</li> 
+             <li><a href="/wiki/Sakya_Trizin_Ngawang_Kunga" title="Sakya Trizin Ngawang Kunga">His Holiness Sakya Trizin’s Birthday</a> (religious)</li> 
+             <li><a href="/wiki/September_equinox" title="September equinox">Mabon</a> (religious)</li> 
+             <li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a> (36)</li> 
+             <li><a href="/wiki/National_Payroll_Week" title="National Payroll Week">National Payroll Week</a> (week)</li> 
+             <li><a href="/wiki/Nativity_of_Mary" title="Nativity of Mary">Nativity of Mary / Nativity of the Theotokos</a> (religious)</li> 
+             <li><a href="/wiki/Native_American_Day" title="Native American Day">Native American Day</a> (proposed federal)</li> 
+             <li><a href="/wiki/Patriot_Day" title="Patriot Day">Patriot Day</a> (36)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">September–October<br><a href="/wiki/National_Hispanic_Heritage_Month" title="National Hispanic Heritage Month">Hispanic Heritage Month</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Arba%27een" class="mw-redirect" title="Arba'een">Chehlum Imam Hussain</a> (religious)</li> 
+            <li><a href="/wiki/Oktoberfest_celebrations" title="Oktoberfest celebrations">Oktoberfest</a></li> 
+            <li><a href="/wiki/Pitri_Paksha" class="mw-redirect" title="Pitri Paksha">Pitri Paksha</a> (religious)</li> 
+            <li><a href="/wiki/Rosh_Hashanah" title="Rosh Hashanah">Rosh Hashanah / Feast of Trumpets</a> (TX, NY, religious)</li> 
+            <li><a href="/wiki/Shemini_Atzeret" title="Shemini Atzeret">Shemini Atzeret</a> (religious)</li> 
+            <li><a href="/wiki/Simchat_Torah" title="Simchat Torah">Simchat Torah</a> (eligious)</li> 
+            <li><a href="/wiki/Vijayadashami" title="Vijayadashami">Vijaya Dashami</a> (religious)</li> 
+            <li><a href="/wiki/Yom_Kippur" title="Yom Kippur">Yom Kippur / Day of Atonement</a> (TX, NY, religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">October<br><a href="/wiki/National_Breast_Cancer_Awareness_Month" class="mw-redirect" title="National Breast Cancer Awareness Month">Breast Cancer Awareness Month</a><br><a href="/wiki/National_Disability_Employment_Awareness_Month" title="National Disability Employment Awareness Month">Disability Employment Awareness Month</a><br> <a href="/wiki/Italian-American_Heritage_and_Culture_Month" title="Italian-American Heritage and Culture Month">Italian-American Heritage and Culture Month</a> <br> <a href="/wiki/Filipino_American_History_Month" title="Filipino American History Month">Filipino American History Month</a><br><a href="/wiki/LGBT_History_Month" title="LGBT History Month">LGBT History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Columbus_Day" title="Columbus Day">Columbus Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Halloween" title="Halloween">Halloween</a></b></li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Alaska_Day" title="Alaska Day">Alaska Day</a> (AK)</li> 
+             <li><a href="/wiki/Child_Health_Day" title="Child Health Day">Child Health Day</a> (36)</li> 
+             <li><a href="/wiki/General_Pulaski_Memorial_Day" title="General Pulaski Memorial Day">General Pulaski Memorial Day</a></li> 
+             <li><a href="/wiki/German-American_Day" title="German-American Day">German-American Day</a></li> 
+             <li><a href="/wiki/Indigenous_Peoples%27_Day" title="Indigenous Peoples' Day">Indigenous Peoples' Day</a> (VT)</li> 
+             <li><a href="/wiki/International_Day_of_Non-Violence" title="International Day of Non-Violence">International Day of Non-Violence</a></li> 
+             <li><a href="/wiki/Leif_Erikson_Day" title="Leif Erikson Day">Leif Erikson Day</a> (36)</li> 
+             <li><a href="/wiki/Missouri_Day" title="Missouri Day">Missouri Day</a> (MO)</li> 
+             <li><a href="/wiki/Nanomonestotse" title="Nanomonestotse">Nanomonestotse</a> (cultural)</li> 
+             <li><a href="/wiki/National_School_Lunch_Week" class="mw-redirect" title="National School Lunch Week">National School Lunch Week</a> (week)</li> 
+             <li><a href="/wiki/Native_American_Day" title="Native American Day">Native American Day in South Dakota</a> (SD)</li> 
+             <li><a href="/wiki/Nevada_Day" title="Nevada Day">Nevada Day</a> (NV)</li> 
+             <li><a href="/wiki/Spirit_Day" title="Spirit Day">Spirit Day</a> (cultural)</li> 
+             <li><a href="/wiki/Sweetest_Day" title="Sweetest Day">Sweetest Day</a></li> 
+             <li><a href="/wiki/Sukkot" title="Sukkot">Sukkot / Feast of Tabernacles</a> (religious)</li> 
+             <li><a href="/wiki/Virgin_Islands%E2%80%93Puerto_Rico_Friendship_Day" title="Virgin Islands–Puerto Rico Friendship Day">Virgin Islands–Puerto Rico Friendship Day</a> (PR, VI)</li> 
+             <li><a href="/wiki/White_Cane_Safety_Day" title="White Cane Safety Day">White Cane Safety Day</a> (36)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">October–November</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Twin_Holy_Birthdays" title="Twin Holy Birthdays">Birth of the Báb</a> (religious)</li> 
+            <li><a href="/wiki/Birth_of_Bah%C3%A1%CA%BCu%27ll%C3%A1h" title="Birth of Baháʼu'lláh">Birth of Baháʼu'lláh</a> (religious)</li> 
+            <li><a href="/wiki/Day_of_the_Dead" title="Day of the Dead">Day of the Dead</a> (VI)</li> 
+            <li><a href="/wiki/Diwali" title="Diwali">Diwali</a> (NY, religious)</li> 
+            <li><a href="/wiki/Mawlid" title="Mawlid">Mawlid al-Nabi</a> (religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">November<br> <a href="/wiki/Native_American_Indian_Heritage_Month" title="Native American Indian Heritage Month">Native American Indian Heritage Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Veterans_Day" title="Veterans Day">Veterans Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Thanksgiving_(United_States)" title="Thanksgiving (United States)">Thanksgiving</a></b> (federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/%CA%BBAbdu%27l-Bah%C3%A1" title="ʻAbdu'l-Bahá">Ascension of ‘Abdu’l Baha</a> (religious)</li> 
+             <li><a href="/wiki/All_Saints%27_Day" title="All Saints' Day">All Saints' Day</a> (religious)</li> 
+             <li><a href="/wiki/Nativity_Fast" title="Nativity Fast">Beginning of the Nativity Fast</a> (religious)</li> 
+             <li><a href="/wiki/Beltane" title="Beltane">Beltane</a> / <a href="/wiki/Samhain" title="Samhain">Samhain</a> (religious)</li> 
+             <li><a href="/wiki/Barack_Obama_Day" title="Barack Obama Day">Barack Obama Day in Alabama</a> (Perry County, AL)</li> 
+             <li><a href="/wiki/D._Hamilton_Jackson" title="D. Hamilton Jackson">D. Hamilton Jackson Day</a> (VI)</li> 
+             <li><a href="/wiki/Black_Friday_(shopping)" title="Black Friday (shopping)">Day after Thanksgiving</a> (24)</li> 
+             <li><a href="/wiki/Day_of_the_Covenant_(Bah%C3%A1%CA%BC%C3%AD)" title="Day of the Covenant (Baháʼí)">Day of the Covenant</a> (religious)</li> 
+             <li><a href="/wiki/Discovery_of_Puerto_Rico" class="mw-redirect" title="Discovery of Puerto Rico">Discovery of Puerto Rico Day</a> (PR)</li> 
+             <li><a href="/wiki/Election_Day_(United_States)" title="Election Day (United States)">Election Day</a> (CA, DE, HI, KY, MT, NJ, NY, OH, PR, VA, WV, proposed federal)</li> 
+             <li><a href="/wiki/Family_Day" title="Family Day">Family Day</a> (NV)</li> 
+             <li><a href="/wiki/Guru_Nanak_Gurpurab" title="Guru Nanak Gurpurab">Guru Nanak Gurpurab</a> (religious)</li> 
+             <li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> (religious)</li> 
+             <li><a href="/wiki/Independence_Day_(Hawaii)" title="Independence Day (Hawaii)">Lā Kūʻokoʻa</a> (HI, unofficial, cultural)</li> 
+             <li><a href="/wiki/Guru_Tegh_Bahadur" title="Guru Tegh Bahadur">Martyrdom of Guru Tegh Bahadur</a> (religious)</li> 
+             <li><a href="/wiki/Native_American_Heritage_Day" title="Native American Heritage Day">Native American Heritage Day</a> (MD, WA, cultural)</li> 
+             <li><a href="/wiki/Presentation_of_Mary" title="Presentation of Mary">Presentation of the Theotokos to the Temple</a> (religious)</li> 
+             <li><a href="/wiki/Unthanksgiving_Day" title="Unthanksgiving Day">Unthanksgiving Day</a> (cultural)</li> 
+             <li><a href="/wiki/Mohammed_Burhanuddin" title="Mohammed Burhanuddin">Urus Mubarak of Syedna Mohammed Burhanuddin</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">December</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Christmas" title="Christmas">Christmas</a></b> (religious, federal)</li> 
+             <li><b><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">New Year's Eve</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Advent_Sunday" title="Advent Sunday">Advent Sunday</a> (religious)</li> 
+             <li><a href="/wiki/Alabama_Day" title="Alabama Day">Alabama Day</a> (AL)</li> 
+             <li><a href="/wiki/Guru_Gobind_Singh" title="Guru Gobind Singh">Birthday of Guru Gobind Singh Sahib</a> (religious)</li> 
+             <li><a href="/wiki/Bodhi_Day" title="Bodhi Day">Bodhi Day</a> (religious)</li> 
+             <li><a href="/wiki/Chalica" title="Chalica">Chalica</a> (religious)</li> 
+             <li><a href="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</a> (KY, NC, SC, PR, VI)</li> 
+             <li><a href="/wiki/Boxing_Day" title="Boxing Day">Day after Christmas</a> (KY, NC, SC, TX, VI)</li> 
+             <li><a href="/wiki/Festivus" title="Festivus">Festivus</a></li> 
+             <li><a href="/wiki/HumanLight" title="HumanLight">HumanLight</a></li> 
+             <li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> (religious, week)</li> 
+             <li><a href="/wiki/Immaculate_Conception" title="Immaculate Conception">Immaculate Conception</a> (religious)</li> 
+             <li><a href="/wiki/Indiana_Day" title="Indiana Day">Indiana Day</a> (IN)</li> 
+             <li><a href="/wiki/Kwanzaa" title="Kwanzaa">Kwanzaa</a> (cultural, week)</li> 
+             <li><a href="/wiki/Mohammed_Burhanuddin" title="Mohammed Burhanuddin">Milad Syedna Mohammed Burhanuddin</a> (religious)</li> 
+             <li><a class="mw-selflink selflink">National Pearl Harbor Remembrance Day</a> (36)</li> 
+             <li><a href="/wiki/Nativity_of_Jesus" title="Nativity of Jesus">Nativity of Jesus</a> (religious)</li> 
+             <li><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">Old Year's Night</a> (VI)</li> 
+             <li><a href="/wiki/Pan_American_Aviation_Day" title="Pan American Aviation Day">Pan American Aviation Day</a> (36)</li> 
+             <li><a href="/wiki/Sivaya_Subramuniyaswami" title="Sivaya Subramuniyaswami">Pancha Ganapati</a> (religious, week)</li> 
+             <li><a href="/wiki/Rosa_Parks_Day" title="Rosa Parks Day">Rosa Parks Day</a> (OH, OR)</li> 
+             <li><a href="/wiki/Solemnity_of_Mary,_Mother_of_God" title="Solemnity of Mary, Mother of God">Solemnity of Mary, Mother of God</a> (religious)</li> 
+             <li><a href="/wiki/Wright_Brothers_Day" title="Wright Brothers Day">Wright Brothers Day</a> (36)</li> 
+             <li><a href="/wiki/Yule" title="Yule">Yule</a> (religious)</li> 
+             <li><a href="/wiki/Zartosht_No-Diso" title="Zartosht No-Diso">Zartosht No-Diso</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Varies (year round)</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a> (NY, religious)</li> 
+            <li><a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a> (NY, religious)</li> 
+            <li><a href="/wiki/Islamic_New_Year" title="Islamic New Year">Islamic New Year</a> (religious)</li> 
+            <li><a href="/wiki/Day_of_Arafah" title="Day of Arafah">Yawm al-Arafa</a> (religious)</li> 
+            <li><a href="/wiki/Hajj" title="Hajj">Hajj</a> (religious)</li> 
+            <li><a href="/wiki/Navaratri" title="Navaratri">Navaratri</a> (religious, four times a year)</li> 
+            <li><a href="/wiki/Bon_Festival" title="Bon Festival">Obon</a> (religious)</li> 
+            <li><a href="/wiki/Onam" title="Onam">Onam</a> (religious)</li> 
+            <li><a href="/wiki/Ramadan" title="Ramadan">Ramadan</a> (religious, month)</li> 
+            <li><a href="/wiki/Ghost_Festival" title="Ghost Festival">Ghost Festival</a> (religious)</li> 
+            <li><a href="/wiki/Ashura" title="Ashura">Yawm Aashura</a> (religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="font-size:90%;">
+           <div>
+            Legend: 
+            <p>(federal) = federal holidays, (abbreviation) = state/territorial holidays, (religious) = religious holidays, (cultural) = holiday related to a specific <a href="/wiki/Race_and_ethnicity_in_the_United_States_Census" title="Race and ethnicity in the United States Census">racial/ethnic group</a> or <a href="/wiki/Sexual_minority" title="Sexual minority">sexual minority</a>, (week) = week-long holidays, (month) = month-long holidays, (36) = <a href="/wiki/Title_36_of_the_United_States_Code" title="Title 36 of the United States Code">Title 36 Observances and Ceremonies</a><br> <b>Bold</b> indicates major holidays commonly celebrated in the United States, which often represent the major celebrations of the month.<br> </p> See also: <a href="/wiki/Lists_of_holidays" title="Lists of holidays">Lists of holidays</a>, <a href="/wiki/Hallmark_holiday" title="Hallmark holiday">Hallmark holidays</a>, public holidays in the <a href="/wiki/Public_holidays_in_the_United_States" title="Public holidays in the United States">United States</a>, <a href="/wiki/State_holidays_in_New_Jersey" title="State holidays in New Jersey">New Jersey</a>, <a href="/wiki/New_York_State_government_holidays" title="New York State government holidays">New York</a>, <a href="/wiki/Public_holidays_in_Puerto_Rico" title="Public holidays in Puerto Rico">Puerto Rico</a> and the <a href="/wiki/Public_holidays_in_the_United_States_Virgin_Islands" title="Public holidays in the United States Virgin Islands">United States Virgin Islands</a>.
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Pearl_Harbor_attack" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Pearl_Harbor_attack" title="Template:Pearl Harbor attack"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Pearl_Harbor_attack" title="Template talk:Pearl Harbor attack"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Pearl_Harbor_attack&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Pearl_Harbor_attack" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Attack_on_Pearl_Harbor" title="Attack on Pearl Harbor">Pearl Harbor attack</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Attack</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Events_leading_to_the_attack_on_Pearl_Harbor" title="Events leading to the attack on Pearl Harbor">Events leading to the attack</a></li> 
+             <li><a href="/wiki/Order_of_battle_of_the_Attack_on_Pearl_Harbor" title="Order of battle of the Attack on Pearl Harbor">Order of battle</a></li> 
+             <li><a href="/wiki/List_of_United_States_Navy_ships_present_at_Pearl_Harbor,_December_7,_1941" title="List of United States Navy ships present at Pearl Harbor, December 7, 1941">Present US ships</a></li> 
+             <li><a href="/wiki/Battleship_Row" title="Battleship Row">Battleship Row</a></li> 
+             <li><a href="/wiki/Niihau_incident" title="Niihau incident">Niihau incident</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Japanese<br>carriers<br>involved</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><i><a href="/wiki/Japanese_aircraft_carrier_Akagi" title="Japanese aircraft carrier Akagi">Akagi</a></i></li> 
+             <li><i><a href="/wiki/Japanese_aircraft_carrier_Kaga" title="Japanese aircraft carrier Kaga">Kaga</a></i></li> 
+             <li><i><a href="/wiki/Japanese_aircraft_carrier_S%C5%8Dry%C5%AB" title="Japanese aircraft carrier Sōryū">Sōryū</a></i></li> 
+             <li><i><a href="/wiki/Japanese_aircraft_carrier_Hiry%C5%AB" title="Japanese aircraft carrier Hiryū">Hiryū</a></i></li> 
+             <li><i><a href="/wiki/Japanese_aircraft_carrier_Sh%C5%8Dkaku" title="Japanese aircraft carrier Shōkaku">Shōkaku</a></i></li> 
+             <li><i><a href="/wiki/Japanese_aircraft_carrier_Zuikaku" title="Japanese aircraft carrier Zuikaku">Zuikaku</a></i></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">United States<br>ships sunk</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/USS_Arizona_(BB-39)" title="USS Arizona (BB-39)"><i>Arizona</i></a> 
+              <ul>
+               <li><a href="/wiki/USS_Arizona_salvaged_artifacts" title="USS Arizona salvaged artifacts">salvaged artifacts</a></li>
+              </ul></li> 
+             <li><a href="/wiki/USS_California_(BB-44)" title="USS California (BB-44)"><i>California</i></a></li> 
+             <li><a href="/wiki/USS_Oglala" title="USS Oglala"><i>Oglala</i></a></li> 
+             <li><a href="/wiki/USS_Oklahoma_(BB-37)" title="USS Oklahoma (BB-37)"><i>Oklahoma</i></a></li> 
+             <li><a href="/wiki/USS_Shaw_(DD-373)" title="USS Shaw (DD-373)"><i>Shaw</i></a></li> 
+             <li><a href="/wiki/USS_Sotoyomo_(YTM-9)" title="USS Sotoyomo (YTM-9)"><i>Sotoyomo</i></a></li> 
+             <li><a href="/wiki/USS_Utah_(BB-31)" title="USS Utah (BB-31)"><i>Utah</i></a></li> 
+             <li><a href="/wiki/USS_West_Virginia_(BB-48)" title="USS West Virginia (BB-48)"><i>West Virginia</i></a></li> 
+             <li><a href="/wiki/YFD-2" title="YFD-2"><i>YFD-2</i></a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Aftermath</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Consequences_of_the_attack_on_Pearl_Harbor" title="Consequences of the attack on Pearl Harbor">Consequences</a></li> 
+             <li><a href="/wiki/Isoroku_Yamamoto%27s_sleeping_giant_quote" title="Isoroku Yamamoto's sleeping giant quote">Sleeping giant quote</a></li> 
+             <li><a href="/wiki/Infamy_Speech" title="Infamy Speech">Infamy Speech</a></li> 
+             <li><a href="/wiki/United_States_declaration_of_war_on_Japan" title="United States declaration of war on Japan">U.S. declaration of war</a></li> 
+             <li><a href="/wiki/Roberts_Commissions" title="Roberts Commissions">Roberts Commissions</a></li> 
+             <li><a href="/wiki/United_States_Congressional_Joint_Committee_on_the_Investigation_of_the_Pearl_Harbor_Attack" title="United States Congressional Joint Committee on the Investigation of the Pearl Harbor Attack">Pearl Harbor Committee</a></li> 
+             <li><a href="/wiki/List_of_Medal_of_Honor_recipients_for_the_Attack_on_Pearl_Harbor" title="List of Medal of Honor recipients for the Attack on Pearl Harbor">Medal of Honor recipients</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Remembrance</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a class="mw-selflink selflink">Remembrance Day</a></li> 
+             <li><a href="/wiki/USS_Arizona_Memorial" title="USS Arizona Memorial">USS <i>Arizona</i> Memorial</a></li> 
+             <li><a href="/wiki/Pearl_Harbor_Survivors_Association" title="Pearl Harbor Survivors Association">Survivors Association</a></li> 
+             <li><a href="/wiki/Pearl_Harbor_Commemorative_Medal" title="Pearl Harbor Commemorative Medal">Commemorative Medal</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Books</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><i><a href="/wiki/Crisis:_The_Japanese_Attack_on_Pearl_Harbor_and_Southeast_Asia" title="Crisis: The Japanese Attack on Pearl Harbor and Southeast Asia">Crisis: The Japanese Attack on Pearl Harbor and Southeast Asia</a></i> <small>(1992)</small></li> 
+             <li><a href="/wiki/Days_of_Infamy_series" title="Days of Infamy series"><i>Days of Infamy</i> series</a> <small>(2004–05)</small></li> 
+             <li><a href="/wiki/Pacific_War_series" title="Pacific War series"><i>Pacific War</i> series</a> <small>(2007–08)</small></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Films</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><i><a href="/wiki/Secret_Agent_of_Japan" title="Secret Agent of Japan">Secret Agent of Japan</a></i> <small>(1942)</small></li> 
+             <li><i><a href="/wiki/This_Is_the_Army" title="This Is the Army">This Is the Army</a></i> <small>(1943)</small></li> 
+             <li><i><a href="/wiki/December_7th_(film)" title="December 7th (film)">December 7th</a></i> <small>(1943)</small></li> 
+             <li><i><a href="/wiki/Task_Force_(film)" title="Task Force (film)">Task Force</a></i> <small>(1949)</small></li> 
+             <li><i><a href="/wiki/From_Here_to_Eternity" title="From Here to Eternity">From Here to Eternity</a></i> <small>(1953)</small></li> 
+             <li><i><a href="/wiki/The_Revolt_of_Mamie_Stover_(film)" title="The Revolt of Mamie Stover (film)">The Revolt of Mamie Stover</a></i> <small>(1956)</small></li> 
+             <li><i><a href="/wiki/In_Harm%27s_Way" title="In Harm's Way">In Harm's Way</a></i> <small>(1965)</small></li> 
+             <li><i><a href="/wiki/Tora!_Tora!_Tora!" title="Tora! Tora! Tora!">Tora! Tora! Tora!</a></i> <small>(1970)</small></li> 
+             <li><i><a href="/wiki/1941_(film)" title="1941 (film)">1941</a></i> <small>(1979)</small></li> 
+             <li><i><a href="/wiki/The_Final_Countdown_(film)" title="The Final Countdown (film)">The Final Countdown</a></i> <small>(1980)</small></li> 
+             <li><i><a href="/wiki/Pearl_Harbor_(film)" title="Pearl Harbor (film)">Pearl Harbor</a></i> <small>(2001)</small></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Other</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Vulnerability_of_Pearl_Harbor_in_1941" title="Vulnerability of Pearl Harbor in 1941">Vulnerability of Pearl Harbor</a></li> 
+             <li><a href="/wiki/Pearl_Harbor_advance-knowledge_conspiracy_theory" title="Pearl Harbor advance-knowledge conspiracy theory">Advance-knowledge conspiracy theory</a></li> 
+             <li><a href="/wiki/Attack_on_Pearl_Harbor_in_popular_culture" title="Attack on Pearl Harbor in popular culture">In popular culture</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1278
+Cached time: 20210515005407
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.563 seconds
+Real time usage: 0.754 seconds
+Preprocessor visited node count: 3819/1000000
+Post‐expand include size: 110746/2097152 bytes
+Template argument size: 4843/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 31194/5000000 bytes
+Lua time usage: 0.177/10.000 seconds
+Lua memory usage: 4768341/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  588.740      1 -total
+ 25.37%  149.341      1 Template:Reflist
+ 19.62%  115.490      8 Template:Cite_web
+ 18.23%  107.318      1 Template:Short_description
+ 12.65%   74.473      1 Template:US_Observances
+ 12.15%   71.538      1 Template:Pagetype
+ 11.87%   69.869      2 Template:Navbox
+ 11.05%   65.051      1 Template:Infobox_holiday
+  6.75%   39.765      1 Template:Infobox
+  6.73%   39.622      5 Template:USS
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:21571988-0!canonical and timestamp 20210515005407 and revision id 1009883888. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;oldid=1009883888">https://en.wikipedia.org/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;oldid=1009883888</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Observances_honoring_victims_of_war" title="Category:Observances honoring victims of war">Observances honoring victims of war</a></li>
+       <li><a href="/wiki/Category:December_observances" title="Category:December observances">December observances</a></li>
+       <li><a href="/wiki/Category:Attack_on_Pearl_Harbor" title="Category:Attack on Pearl Harbor">Attack on Pearl Harbor</a></li>
+       <li><a href="/wiki/Category:Observances_in_the_United_States" title="Category:Observances in the United States">Observances in the United States</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li>
+       <li><a href="/wiki/Category:Use_mdy_dates_from_December_2020" title="Category:Use mdy dates from December 2020">Use mdy dates from December 2020</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_with_missing_field" title="Category:Infobox holiday with missing field">Infobox holiday with missing field</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_fixed_day" title="Category:Infobox holiday fixed day">Infobox holiday fixed day</a></li>
+       <li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=National+Pearl+Harbor+Remembrance+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=National+Pearl+Harbor+Remembrance+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/National_Pearl_Harbor_Remembrance_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:National_Pearl_Harbor_Remembrance_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/National_Pearl_Harbor_Remembrance_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/National_Pearl_Harbor_Remembrance_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/National_Pearl_Harbor_Remembrance_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;oldid=1009883888" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=National_Pearl_Harbor_Remembrance_Day&amp;id=1009883888&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6974848" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=National_Pearl_Harbor_Remembrance_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Pearl_Harbor_Remembrance_Day" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hari_Peringatan_Pearl_Harbor_Nasional" title="Hari Peringatan Pearl Harbor Nasional – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li>
+       <li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Pearl_Harbor_nemzeti_eml%C3%A9knap" title="Pearl Harbor nemzeti emléknap – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6974848#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 2 March 2021, at 19:40<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=National_Pearl_Harbor_Remembrance_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.563","walltime":"0.754","ppvisitednodes":{"value":3819,"limit":1000000},"postexpandincludesize":{"value":110746,"limit":2097152},"templateargumentsize":{"value":4843,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":31194,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  588.740      1 -total"," 25.37%  149.341      1 Template:Reflist"," 19.62%  115.490      8 Template:Cite_web"," 18.23%  107.318      1 Template:Short_description"," 12.65%   74.473      1 Template:US_Observances"," 12.15%   71.538      1 Template:Pagetype"," 11.87%   69.869      2 Template:Navbox"," 11.05%   65.051      1 Template:Infobox_holiday","  6.75%   39.765      1 Template:Infobox","  6.73%   39.622      5 Template:USS"]},"scribunto":{"limitreport-timeusage":{"value":"0.177","limit":"10.000"},"limitreport-memusage":{"value":4768341,"limit":52428800}},"cachereport":{"origin":"mw1278","timestamp":"20210515005407","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"National Pearl Harbor Remembrance Day","url":"https:\/\/en.wikipedia.org\/wiki\/National_Pearl_Harbor_Remembrance_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6974848","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6974848","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-02-17T03:38:43Z","dateModified":"2021-03-02T19:40:44Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6f\/Pearl_harbour.png","headline":"American day of commemoration"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1384"});});</script> 
+ </body>
+</html>

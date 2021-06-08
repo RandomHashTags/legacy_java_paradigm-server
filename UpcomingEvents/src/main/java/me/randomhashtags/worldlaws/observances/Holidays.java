@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.observances;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.location.WLCountry;
-import me.randomhashtags.worldlaws.observances.holidays.HolidayType;
 import org.apache.logging.log4j.Level;
 
 import java.time.LocalDate;
@@ -25,13 +24,12 @@ public enum Holidays implements Jsoupable, Jsonable {
                 if(valueCount == 1) {
                     getNearHolidays(handler);
                 } else {
+                    final WLCountry country = WLCountry.valueOfBackendID(values[1]);
+                    if(country != null) {
+                    }
                 }
                 break;
             default:
-                final WLCountry country = WLCountry.valueOfBackendID(key);
-                if(country != null) {
-                    final int year = WLUtilities.getTodayYear();
-                }
                 break;
         }
     }
@@ -41,9 +39,8 @@ public enum Holidays implements Jsoupable, Jsonable {
         final List<String> nearbyHolidayDays = new ArrayList<>();
         for(int i = 0; i <= 7; i++) {
             final LocalDate date = rightNow.plusDays(i);
-            final int day = date.getDayOfMonth(), month = date.getMonthValue();
-            final String target = month + "-" + day;
-            nearbyHolidayDays.add(target);
+            final String dateString = new EventDate(date).getDateString();
+            nearbyHolidayDays.add(dateString);
         }
         final HashMap<String, String> descriptions = new HashMap<>();
         final HashMap<String, HashMap<String, HolidayObj>> nearbyHolidays = new HashMap<>();

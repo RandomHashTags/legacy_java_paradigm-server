@@ -5,5 +5,6 @@ import me.randomhashtags.worldlaws.location.WLCountry;
 
 public interface LawController {
     WLCountry getCountry();
+    void getRecentActivity(CompletionHandler handler);
     void getResponse(String value, CompletionHandler handler);
 }

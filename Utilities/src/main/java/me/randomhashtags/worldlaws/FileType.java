@@ -5,12 +5,14 @@ import java.io.File;
 public enum FileType {
     COUNTRIES("countries"),
     COUNTRIES_AVAILABILITIES("countries" + File.separator + "availabilities"),
+    COUNTRIES_COUNTRIES("countries" + File.separator + "countries"),
     COUNTRIES_SUBDIVISIONS("countries" + File.separator + "subdivisions"),
     COUNTRIES_LEGALITIES("countries" + File.separator + "legalities"),
     COUNTRIES_NATIONAL("countries" + File.separator + "national"),
     COUNTRIES_RANKINGS("countries" + File.separator + "rankings"),
     COUNTRIES_RANKINGS_AGRICULTURE("countries" + File.separator + "rankings" + File.separator + "agriculture"),
     COUNTRIES_INFO("countries" + File.separator + "info"),
+    COUNTRIES_INFORMATION("countries" + File.separator + "information"),
     COUNTRIES_SERVICES("countries" + File.separator + "services"),
     COUNTRIES_SERVICES_TRAVEL_BRIEFING("countries" + File.separator + "services" + File.separator + "travel briefing"),
     COUNTRIES_SERVICES_WIKIPEDIA("countries" + File.separator + "services" + File.separator + "wikipedia"),
@@ -20,6 +22,8 @@ public enum FileType {
 
     LAWS_USA_MEMBERS("laws" + File.separator + "usa" + File.separator + "members"),
     LAWS_USA_CONGRESS("laws" + File.separator + "usa" + File.separator + "congress" + File.separator + "%version%"),
+
+    SERVICES_FINANCE_YAHOO_FINANCE("services" + File.separator + "finance" + File.separator + "yahooFinance"),
 
     OTHER(null),
 

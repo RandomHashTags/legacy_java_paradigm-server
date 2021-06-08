@@ -10,4 +10,7 @@ include 'Technology'
 include 'Feedback'
 include 'Status'
 include 'Services'
+include 'Climate'
+include 'Space'
+include 'Environment'
 

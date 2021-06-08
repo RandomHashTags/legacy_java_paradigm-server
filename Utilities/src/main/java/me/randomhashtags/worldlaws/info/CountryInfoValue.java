@@ -12,17 +12,16 @@ public class CountryInfoValue implements Jsoupable {
         this.value = LocalServer.fixEscapeValues(removeReferences(value));
         this.description = LocalServer.fixEscapeValues(description);
     }
-    public CountryInfoValue(JSONObject json) {
-        title = LocalServer.fixEscapeValues(json.getString("title"));
+    public CountryInfoValue(String title, JSONObject json) {
+        this.title = LocalServer.fixEscapeValues(title);
         value = LocalServer.fixEscapeValues(json.getString("value"));
         description = LocalServer.fixEscapeValues(json.has("description") ? json.getString("description") : null);
     }
 
     @Override
     public String toString() {
-        return "{" +
+        return "\"" + title + "\":{" +
                 (description != null ? "\"description\":\"" + description + "\"," : "") +
-                "\"title\":\"" + title + "\"," +
                 "\"value\":\"" + value + "\"" +
                 "}";
     }

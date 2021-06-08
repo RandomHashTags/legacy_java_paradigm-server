@@ -35,13 +35,16 @@ public final class ProxyClient extends Thread implements RestAPI {
 
         final String[] headers = getHeaderList();
         final String ip = client.getInetAddress().toString(), platform = getPlatform(headers), identifier = getIdentifier(headers);
-        final boolean isValidRequest = platform != null && identifier != null;
+        final boolean isValidRequest = true;//platform != null && identifier != null;
 
+        ServerVersion version = null;
         final String target;
         final TargetServer targetServer;
         if(isValidRequest) {
             target = getTarget();
-            targetServer = getTargetServer(target.split("/")[0]);
+            final String[] values = target.split("/");
+            version = ServerVersion.valueOf(values[0]);
+            targetServer = getTargetServer(values[1]);
         } else {
             target = null;
             targetServer = null;
@@ -50,7 +53,7 @@ public final class ProxyClient extends Thread implements RestAPI {
         final String prefix = "[" + platform + ", " + identifier + "] " + ip + " - ";
         if(hasTargetServer) {
             final HashSet<String> query = getQuery();
-            targetServer.sendResponse(RequestMethod.GET, target, query, new CompletionHandler() {
+            targetServer.sendResponse(version, RequestMethod.GET, target, query, new CompletionHandler() {
                 @Override
                 public void handle(Object object) {
                     final boolean connected = object != null;
@@ -100,14 +103,14 @@ public final class ProxyClient extends Thread implements RestAPI {
         return getHeaderThatStartsWith(headers, "***REMOVED***");
     }
 
-    public String getPlatform() {
-        return getHeaderThatStartsWith(getHeaderList(), "***REMOVED***");
-    }
-    public String getIdentifier() {
-        return getHeaderThatStartsWith(getHeaderList(), "***REMOVED***");
-    }
     public HashSet<String> getQuery() {
-        return new HashSet<>(Arrays.asList(getHeaderThatStartsWith(getHeaderList(), "Query: ").split("&")));
+        final String header = getHeaderThatStartsWith(getHeaderList(), "Query: ");
+        if(header != null) {
+            final String[] values = header.split("&");
+            return new HashSet<>(Arrays.asList(values));
+        } else {
+            return null;
+        }
     }
 
     private TargetServer getTargetServer(String input) {

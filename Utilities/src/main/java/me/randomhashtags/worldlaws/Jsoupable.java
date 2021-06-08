@@ -32,12 +32,6 @@ public interface Jsoupable {
         final String directory = folder + fileSeparator + fixURL(url) + ".txt";
         final File file = new File(directory);
         if(file.exists()) {
-            /*final Path path = file.toPath();
-            final List<String> lines = Files.readAllLines(path);
-            final StringBuilder builder = new StringBuilder();
-            for(String line : lines) {
-                builder.append(line);
-            }*/
             return Jsoup.parse(file, null);
         }
         return null;
@@ -118,25 +112,28 @@ public interface Jsoupable {
             }
             final boolean hasIndex = index != -1;
             final Document doc = requestDocument(url);
-            final Elements elements = doc.select(targetElements);
-            Element element = hasIndex ? elements.get(index) : null;
-            if(download) {
-                final String html;
-                if(!hasIndex) {
-                    final String outerHtml = elements.outerHtml();
-                    final String prefix = isList ? "<ul>\n"
-                            : isTR ? "<table>\n<tbody>\n"
-                            : "";
-                    final String suffix = isList ? "\n</ul>"
-                            : isTR ? "\n</tbody>\n</table>"
-                            : "";
-                    html = prefix + outerHtml + suffix;
-                } else {
-                    html = element.outerHtml();
+            if(doc != null) {
+                final Elements elements = doc.select(targetElements);
+                Element element = hasIndex ? elements.get(index) : null;
+                if(download) {
+                    final String html;
+                    if(!hasIndex) {
+                        final String outerHtml = elements.outerHtml();
+                        final String prefix = isList ? "<ul>\n"
+                                : isTR ? "<table>\n<tbody>\n"
+                                : "";
+                        final String suffix = isList ? "\n</ul>"
+                                : isTR ? "\n</tbody>\n</table>"
+                                : "";
+                        html = prefix + outerHtml + suffix;
+                    } else {
+                        html = element.outerHtml();
+                    }
+                    createDocument(type, fileName != null ? fileName : url, html);
                 }
-                createDocument(type, fileName != null ? fileName : url, html);
+                return hasIndex ? element.getAllElements() : elements;
             }
-            return hasIndex ? element.getAllElements() : elements;
+            return null;
         } catch (Exception e) {
             WLLogger.log(Level.WARN, "Jsoupable - fileName=\"" + fileName + "\", getStaticDocumentElements(" + url + ") - error getting document elements! (" + e.getLocalizedMessage() + ")");
             return null;

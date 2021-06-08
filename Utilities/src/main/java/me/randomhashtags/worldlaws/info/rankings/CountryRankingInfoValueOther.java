@@ -30,11 +30,10 @@ public final class CountryRankingInfoValueOther {
 
     @Override
     public String toString() {
-        return "{" +
-                "\"value\":" + getValue() + "," +
-                "\"valueType\":\"" + valueType.name() + "\"," +
+        return "\"" + description + "\":{" +
                 (suffix != null ? "\"suffix\":\"" + suffix + "\"," : "") +
-                "\"description\":\"" + description + "\"" +
+                "\"value\":" + getValue() + "," +
+                "\"valueType\":\"" + valueType.name() + "\"" +
                 "}";
     }
 }

@@ -1,0 +1,992 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Patriots' Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"026e1fed-ce6d-43a6-b067-96f34cee63f3","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Patriots'_Day","wgTitle":"Patriots' Day","wgCurRevisionId":1019982778,"wgRevisionId":1019982778,"wgArticleId":375280,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Use mdy dates from April 2018","Holidays and observances by scheduling (nth weekday of the month)","Infobox holiday with missing field","Infobox holiday (other)","All articles with unsourced statements",
+"Articles with unsourced statements from April 2018","Commons category link is on Wikidata","AC with 0 elements","1894 establishments in Massachusetts","Recurring events established in 1894","Holidays related to the American Revolution","Massachusetts culture","April observances","State holidays in the United States","Boston Marathon"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Patriots'_Day","wgRelevantArticleId":375280,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English",
+"wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q3244522"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.growthExperiments.SuggestedEditSession"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.5"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Minute_Man_Statue_Lexington_Massachusetts.jpg/1200px-Minute_Man_Statue_Lexington_Massachusetts.jpg"> 
+  <meta property="og:title" content="Patriots' Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Patriots%27_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Patriots%27_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Patriots%27_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Patriots%27_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Patriots_Day rootpage-Patriots_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">Patriots' Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Civic holiday in the USA
+      </div> 
+      <div role="note" class="hatnote navigation-not-searchable">
+       This article is about the American civic holiday. For the Quebec holiday, see <a href="/wiki/National_Patriots%27_Day" title="National Patriots' Day">National Patriots' Day</a>. For the anniversary of September 11, 2001, see <a href="/wiki/Patriot_Day" title="Patriot Day">Patriot Day</a>. For the 2016 motion picture about the <a href="/wiki/Boston_Marathon_bombing" title="Boston Marathon bombing">Boston Marathon bombing</a>, see <a href="/wiki/Patriots_Day_(film)" title="Patriots Day (film)">Patriots Day (film)</a>.
+      </div> 
+      <p class="mw-empty-elt"> </p> 
+      <table class="infobox vevent">
+       <tbody>
+        <tr>
+         <th colspan="2" class="infobox-above hd" style="background-color: transparent">Patriots' Day</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image"><a href="/wiki/File:Minute_Man_Statue_Lexington_Massachusetts.jpg" class="image"><img alt="Minute Man Statue Lexington Massachusetts.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Minute_Man_Statue_Lexington_Massachusetts.jpg/240px-Minute_Man_Statue_Lexington_Massachusetts.jpg" decoding="async" width="240" height="170" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Minute_Man_Statue_Lexington_Massachusetts.jpg/360px-Minute_Man_Statue_Lexington_Massachusetts.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Minute_Man_Statue_Lexington_Massachusetts.jpg/480px-Minute_Man_Statue_Lexington_Massachusetts.jpg 2x" data-file-width="2290" data-file-height="1625"></a>
+          <div class="infobox-caption" style="caption">
+           Statue of the Lexington Minuteman on the <a href="/wiki/Lexington_Green" class="mw-redirect" title="Lexington Green">Lexington Green</a> in <a href="/wiki/Lexington,_Massachusetts" title="Lexington, Massachusetts">Lexington, Massachusetts</a>
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Observed&nbsp;by</th>
+         <td class="infobox-data">
+          <div class="plainlist"> 
+           <ul>
+            <li>Massachusetts</li> 
+            <li>Maine</li> 
+            <li>Wisconsin</li> 
+            <li>Connecticut (since 2018)<sup id="cite_ref-Sampson_1-0" class="reference"><a href="#cite_note-Sampson-1">[1]</a></sup></li> 
+            <li>North Dakota (since 2019)</li> 
+            <li>Encouraged in Florida</li>
+           </ul> 
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Type</th>
+         <td class="infobox-data">Historical</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Celebrations</th>
+         <td class="infobox-data"><a href="/wiki/Boston_Marathon" title="Boston Marathon">Boston Marathon</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Observances</th>
+         <td class="infobox-data"><a href="/wiki/Battles_of_Lexington_and_Concord" title="Battles of Lexington and Concord">Battles of Lexington and Concord</a> and <a href="/wiki/Battle_of_Menotomy" title="Battle of Menotomy">Menotomy</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Date</th>
+         <td class="infobox-data">Third Monday in April</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2020&nbsp;date</th>
+         <td class="infobox-data">April 20 <span style="display:none">&nbsp;(<span class="dtstart">2020-04-20</span>)</span></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2021&nbsp;date</th>
+         <td class="infobox-data">April 19 <span style="display:none">&nbsp;(<span class="dtstart">2021-04-19</span>)</span></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2022&nbsp;date</th>
+         <td class="infobox-data">April 18 <span style="display:none">&nbsp;(<span class="dtstart">2022-04-18</span>)</span></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">2023&nbsp;date</th>
+         <td class="infobox-data">April 17 <span style="display:none">&nbsp;(<span class="dtstart">2023-04-17</span>)</span></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Frequency</th>
+         <td class="infobox-data">annual</td>
+        </tr>
+       </tbody>
+      </table> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:172px;">
+        <a href="/wiki/File:Patriots%27_Grave,_Old_Burying_Ground,_Arlington,_Massachusetts.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Patriots%27_Grave%2C_Old_Burying_Ground%2C_Arlington%2C_Massachusetts.JPG/170px-Patriots%27_Grave%2C_Old_Burying_Ground%2C_Arlington%2C_Massachusetts.JPG" decoding="async" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Patriots%27_Grave%2C_Old_Burying_Ground%2C_Arlington%2C_Massachusetts.JPG/255px-Patriots%27_Grave%2C_Old_Burying_Ground%2C_Arlington%2C_Massachusetts.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Patriots%27_Grave%2C_Old_Burying_Ground%2C_Arlington%2C_Massachusetts.JPG/340px-Patriots%27_Grave%2C_Old_Burying_Ground%2C_Arlington%2C_Massachusetts.JPG 2x" data-file-width="1920" data-file-height="2560"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Patriots%27_Grave,_Old_Burying_Ground,_Arlington,_Massachusetts.JPG" class="internal" title="Enlarge"></a>
+         </div>Patriots' Grave in the Old Burying Ground cemetery, <a href="/wiki/Arlington,_Massachusetts" title="Arlington, Massachusetts">Arlington, Massachusetts</a>
+        </div>
+       </div>
+      </div> 
+      <p><b>Patriots' Day</b> (so punctuated in several U.S. states, but <b>Patriot's Day</b> in Maine)<sup id="cite_ref-KenneJourn_2-0" class="reference"><a href="#cite_note-KenneJourn-2">[2]</a></sup> is an annual event, formalized as several <a href="/wiki/State_holiday" class="mw-redirect" title="State holiday">state holidays</a>, commemorating the <a href="/wiki/Battles_of_Lexington_and_Concord" title="Battles of Lexington and Concord">Battles of Lexington and Concord</a>, and the <a href="/wiki/Battle_of_Menotomy" title="Battle of Menotomy">Battle of Menotomy</a>, the first battles of the <a href="/wiki/American_Revolutionary_War" title="American Revolutionary War">American Revolutionary War</a>. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Sporting_events"><span class="tocnumber">3</span> <span class="toctext">Sporting events</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patriots%27_Day&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>In 1894, the Lexington Historical Society petitioned the Massachusetts State Legislature to proclaim April 19 as "Lexington Day". Concord countered with "Concord Day". Governor <a href="/wiki/Frederic_T._Greenhalge" title="Frederic T. Greenhalge">Frederic T. Greenhalge</a> opted for a compromise: Patriots' Day. However the biggest battle fought on this day was in the town of Menotomy, now <a href="/wiki/Arlington,_Massachusetts" title="Arlington, Massachusetts">Arlington, Massachusetts</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Menotomy was on the Concord Road between Lexington and Concord and Boston.<sup id="cite_ref-The_Battle_of_Menotomy_4-0" class="reference"><a href="#cite_note-The_Battle_of_Menotomy-4">[4]</a></sup> While the fighting was going on in Lexington and Concord, 5,100 militia men arrived in Menotomy from <a href="/wiki/Middlesex_County,_Massachusetts" title="Middlesex County, Massachusetts">Middlesex</a> and <a href="/wiki/Essex_County,_Massachusetts" title="Essex County, Massachusetts">Essex</a> Counties.<sup id="cite_ref-The_Battle_of_Menotomy_4-1" class="reference"><a href="#cite_note-The_Battle_of_Menotomy-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> These men took up positions along the road the British troops would take on their retreat to Boston.<sup id="cite_ref-The_Battle_of_Menotomy_4-2" class="reference"><a href="#cite_note-The_Battle_of_Menotomy-4">[4]</a></sup> They placed themselves in and around houses, stone walls, fields and barns. The bloodiest fighting of the first day of the American Revolution took place inside a single house, <a href="/wiki/Jason_Russell_House" title="Jason Russell House">the Jason Russell House</a>, in Menotomy.<sup id="cite_ref-The_Battle_of_Menotomy_4-3" class="reference"><a href="#cite_note-The_Battle_of_Menotomy-4">[4]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Eleven militia men died in this house fighting British troops trained in bayonet fighting.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> </p>
+      <p>Patriots' Day was first proclaimed in Massachusetts in 1894 by Gov. Greenhalge, replacing <a href="/wiki/Fast_Day" title="Fast Day">Fast Day</a> as a public holiday.<sup id="cite_ref-KenneJourn_2-1" class="reference"><a href="#cite_note-KenneJourn-2">[2]</a></sup> The idea was introduced to the Governor by the statesman from Lowell, Isaac Henry Paige. It was established on April 19, commemorating the date of the <a href="/wiki/Battles_of_Lexington_and_Concord" title="Battles of Lexington and Concord">Battles of Lexington and Concord</a> and the larger <a href="/wiki/Battle_of_Menotomy" title="Battle of Menotomy">Battle of Menotomy</a> in 1775, and consolidating the longstanding municipal observances of Lexington Day and Concord Day. It also marked the first bloodshed of the <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> in the <a href="/wiki/Baltimore_riot_of_1861" title="Baltimore riot of 1861">Baltimore riot of 1861</a>, during which four members of the Massachusetts militia were slain and 36 injured. In Menotomy, now Arlington,<sup id="cite_ref-The_Battle_of_Menotomy_4-4" class="reference"><a href="#cite_note-The_Battle_of_Menotomy-4">[4]</a></sup> 25 militia men died and 40 British soldiers were killed.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> The dual commemoration, Greenhalge explained, celebrated "the anniversary of the birth of liberty and union". It is likely that the battles that took place in Menotomy are not as well known as the smaller battles in Lexington and Concord because the town has had several names since that day in 1775. In 1938, with the generation that had fought in the Civil War largely off the voter rolls, the Massachusetts legislature passed a bill establishing the holiday "in commemoration of the opening events of the War of the Revolution".<sup id="cite_ref-Atlantic_9-0" class="reference"><a href="#cite_note-Atlantic-9">[9]</a></sup> </p>
+      <p>Maine followed Massachusetts in 1907 and replaced its Fast Day with Patriot's Day.<sup id="cite_ref-KenneJourn_2-2" class="reference"><a href="#cite_note-KenneJourn-2">[2]</a></sup> On June 10, 2017, Governor <a href="/wiki/Dannel_Malloy" title="Dannel Malloy">Dannel Malloy</a> signed a bill establishing Patriots' Day as a statewide unpaid holiday in Connecticut.<sup id="cite_ref-Sampson_1-1" class="reference"><a href="#cite_note-Sampson-1">[1]</a></sup> On April 16, 2018 Connecticut became the 4th state to recognize the holiday.<sup id="cite_ref-Rep-Am_10-0" class="reference"><a href="#cite_note-Rep-Am-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patriots%27_Day&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The holiday was originally celebrated on April 19, the actual anniversary of the battles (fought in 1775). Since 1969, it has been observed on the third Monday in April in <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> and in <a href="/wiki/Maine" title="Maine">Maine</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> (which until the <a href="/wiki/Missouri_Compromise" title="Missouri Compromise">Missouri Compromise</a> of 1820 was part of Massachusetts). The Monday holiday creates a three-day <a href="/wiki/Long_weekend" title="Long weekend">long weekend</a>. It is also the first day of a vacation week for public schools in both states and a school holiday for many local colleges and universities, both public and private.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2018)">citation needed</span></a></i>]</sup> </p>
+      <p>The day is a <a href="/wiki/Public_school_(government_funded)" class="mw-redirect" title="Public school (government funded)">public school</a> observance day in <a href="/wiki/Wisconsin" title="Wisconsin">Wisconsin</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> Florida law also encourages people to celebrate it, though it is not treated as a public holiday.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Connecticut began observance in 2018.<sup id="cite_ref-Sampson_1-2" class="reference"><a href="#cite_note-Sampson-1">[1]</a></sup> </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/File:Isaac_Davis_Trail_March_2012.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Isaac_Davis_Trail_March_2012.jpg/220px-Isaac_Davis_Trail_March_2012.jpg" decoding="async" width="220" height="169" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Isaac_Davis_Trail_March_2012.jpg/330px-Isaac_Davis_Trail_March_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Isaac_Davis_Trail_March_2012.jpg/440px-Isaac_Davis_Trail_March_2012.jpg 2x" data-file-width="3288" data-file-height="2524"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/File:Isaac_Davis_Trail_March_2012.jpg" class="internal" title="Enlarge"></a>
+         </div>Acton Minutemen and citizens marching from Acton to Concord on Patriots' Day 2012
+        </div>
+       </div>
+      </div> 
+      <p>Observances and re-enactments of the battles occur annually at <a href="/wiki/Lexington_Green" class="mw-redirect" title="Lexington Green">Lexington Green</a> in <a href="/wiki/Lexington,_Massachusetts" title="Lexington, Massachusetts">Lexington, Massachusetts</a> (around 6:00&nbsp;am) and the <a href="/wiki/Old_North_Bridge" title="Old North Bridge">Old North Bridge</a> in <a href="/wiki/Concord,_Massachusetts" title="Concord, Massachusetts">Concord, Massachusetts</a> (around 9:00&nbsp;am) and in Arlington, Massachusetts on the Sunday before Patriot's Day. Tours are available of the <a href="/wiki/Jason_Russell_House" title="Jason Russell House">Jason Russell House</a> in <a href="/wiki/Arlington,_Massachusetts" title="Arlington, Massachusetts">Arlington, Massachusetts</a> on Sunday and Monday.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> On Monday morning, mounted re-enactors with state police escorts retrace the <a href="/wiki/Paul_Revere#midnight_ride" title="Paul Revere">Midnight Rides</a> of <a href="/wiki/Paul_Revere" title="Paul Revere">Paul Revere</a> and <a href="/wiki/William_Dawes" title="William Dawes">William Dawes</a>, calling out warnings the whole way.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2018)">citation needed</span></a></i>]</sup> </p>
+      <p>The most significant celebration of Patriots' Day is the <a href="/wiki/Boston_Marathon" title="Boston Marathon">Boston Marathon</a>, which has been run every Patriots' Day since April 19, 1897 (except in 2020 and 2021) to mark the then-recently established holiday, with the race linking the <a href="/wiki/Athens" title="Athens">Athenian</a> and American struggles for liberty.<sup id="cite_ref-Atlantic_9-1" class="reference"><a href="#cite_note-Atlantic-9">[9]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Sporting_events">Sporting events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patriots%27_Day&amp;action=edit&amp;section=3" title="Edit section: Sporting events">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The <a href="/wiki/Boston_Marathon" title="Boston Marathon">Boston Marathon</a> has been run on Patriots' Day every year since its inception in 1897, even during the <a href="/wiki/World_War" class="mw-redirect" title="World War">World War</a> years, except in 2020 and 2021. <sup id="cite_ref-Atlantic_9-2" class="reference"><a href="#cite_note-Atlantic-9">[9]</a></sup> Therefore, sometimes the holiday is referred to as "Marathon Monday".<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> However, due to the <a href="/wiki/COVID-19_in_the_United_States" class="mw-redirect" title="COVID-19 in the United States">COVID-19 pandemic</a>, the <a href="/wiki/2020_Boston_Marathon" class="mw-redirect" title="2020 Boston Marathon">2020 Boston Marathon</a> was rescheduled to September in March<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> and ultimately canceled in May.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> Because of the lingering effects of the <a href="/wiki/COVID-19_in_the_United_States" class="mw-redirect" title="COVID-19 in the United States">COVID-19 pandemic</a> in 2021, the 2021 running of the Boston Marathon was moved to October 11. <sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> </p>
+      <p>The <a href="/wiki/Boston_Red_Sox" title="Boston Red Sox">Boston Red Sox</a> have been scheduled to play at home in <a href="/wiki/Fenway_Park" title="Fenway Park">Fenway Park</a> on Patriots' Day every year since 1959. The game was postponed due to weather in 1959, 1961, 1965, 1967, 1984, and 2018. It was canceled in 1995 due to <a href="/wiki/1994%E2%80%9395_Major_League_Baseball_strike" title="1994–95 Major League Baseball strike">the baseball strike</a>, and again in 2020 due to <a href="/wiki/COVID-19" title="COVID-19">COVID-19</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> The game was played in <a href="/wiki/2013_Boston_Red_Sox_season" title="2013 Boston Red Sox season">2013 </a> despite the <a href="/wiki/Boston_Marathon_bombing" title="Boston Marathon bombing">Boston Marathon bombing</a> because it had finished before the bombs went off.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> From 1968 to 2006 the games started early, in the morning, around 11:00&nbsp;am. The early start to these games usually resulted in the games' ending just as the runners headed through <a href="/wiki/Kenmore_Square" title="Kenmore Square">Kenmore Square</a>. However, since 2007 the marathon has started between 9:30&nbsp;am and 10:00&nbsp;am, causing the racers to pass through Kenmore closer to the middle of the Red Sox game.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> </p> 
+      <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patriots%27_Day&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r998391716">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style>
+      <div class="div-col"> 
+       <ul>
+        <li><a href="/wiki/Bunker_Hill_Day#Commemorations" class="mw-redirect" title="Bunker Hill Day">Bunker Hill Day</a></li> 
+        <li><a href="/wiki/Evacuation_Day_(Massachusetts)" title="Evacuation Day (Massachusetts)">Evacuation Day (Massachusetts)</a></li> 
+        <li><a href="/wiki/Minor_American_Revolution_holidays" title="Minor American Revolution holidays">Minor American Revolution holidays</a></li> 
+        <li><a href="/wiki/Holidays_of_the_United_States" class="mw-redirect" title="Holidays of the United States">Holidays of the United States</a></li>
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patriots%27_Day&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist reflist-columns references-column-width" style="column-width: 30em;"> 
+       <ol class="references"> 
+        <li id="cite_note-Sampson-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sampson_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sampson_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Sampson_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite id="CITEREFSampson2017" class="citation web cs1">Sampson, Rob (July 13, 2017). <a rel="nofollow" class="external text" href="http://www.cthousegop.com/sampson/2017/07/13/84190/">"Patriots' Day Becomes Official Statewide Holiday!"</a>. <i>State Representative Rob Sampson</i>. Wolcott, Southington, Connecticut<span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=State+Representative+Rob+Sampson&amp;rft.atitle=Patriots%27+Day+Becomes+Official+Statewide+Holiday%21&amp;rft.date=2017-07-13&amp;rft.aulast=Sampson&amp;rft.aufirst=Rob&amp;rft_id=http%3A%2F%2Fwww.cthousegop.com%2Fsampson%2F2017%2F07%2F13%2F84190%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-KenneJourn-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-KenneJourn_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-KenneJourn_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-KenneJourn_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFMcMillan2014" class="citation news cs1">McMillan, Susan (April 20, 2014). <a rel="nofollow" class="external text" href="http://www.kjonline.com/news/Patriot_s_Day_or_Patriots__Day__Punctuation_confusion_continues_.html">"Patriot's Day or Patriots' Day? Punctuation confusion continues"</a>. <i>Kennebec Journal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 21,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Kennebec+Journal&amp;rft.atitle=Patriot%27s+Day+or+Patriots%27+Day%3F+Punctuation+confusion+continues&amp;rft.date=2014-04-20&amp;rft.aulast=McMillan&amp;rft.aufirst=Susan&amp;rft_id=http%3A%2F%2Fwww.kjonline.com%2Fnews%2FPatriot_s_Day_or_Patriots__Day__Punctuation_confusion_continues_.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.historynet.com/battle-of-menotomy-first-blood-1775.htm">"Battle of Menotomy – First Blood, 1775"</a>. <i>HistoryNet</i>. May 6, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HistoryNet&amp;rft.atitle=Battle+of+Menotomy+%E2%80%93+First+Blood%2C+1775&amp;rft.date=2010-05-06&amp;rft_id=https%3A%2F%2Fwww.historynet.com%2Fbattle-of-menotomy-first-blood-1775.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-The_Battle_of_Menotomy-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_Battle_of_Menotomy_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_Battle_of_Menotomy_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-The_Battle_of_Menotomy_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-The_Battle_of_Menotomy_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-The_Battle_of_Menotomy_4-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://arlingtonhistorical.org/learn/articles/the-battle-of-menotomy/">"The Battle of Menotomy"</a>. <i>Arlington Historical Society</i>. July 4, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Arlington+Historical+Society&amp;rft.atitle=The+Battle+of+Menotomy&amp;rft.date=2012-07-04&amp;rft_id=https%3A%2F%2Farlingtonhistorical.org%2Flearn%2Farticles%2Fthe-battle-of-menotomy%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.historynet.com/battle-of-menotomy-first-blood-1775.htm">"Battle of Menotomy – First Blood, 1775"</a>. <i>HistoryNet</i>. May 6, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HistoryNet&amp;rft.atitle=Battle+of+Menotomy+%E2%80%93+First+Blood%2C+1775&amp;rft.date=2010-05-06&amp;rft_id=https%3A%2F%2Fwww.historynet.com%2Fbattle-of-menotomy-first-blood-1775.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.historynet.com/battle-of-menotomy-first-blood-1775.htm">"Battle of Menotomy – First Blood, 1775"</a>. <i>HistoryNet</i>. May 6, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HistoryNet&amp;rft.atitle=Battle+of+Menotomy+%E2%80%93+First+Blood%2C+1775&amp;rft.date=2010-05-06&amp;rft_id=https%3A%2F%2Fwww.historynet.com%2Fbattle-of-menotomy-first-blood-1775.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.historynet.com/battle-of-menotomy-first-blood-1775.htm">"Battle of Menotomy – First Blood, 1775"</a>. <i>HistoryNet</i>. May 6, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HistoryNet&amp;rft.atitle=Battle+of+Menotomy+%E2%80%93+First+Blood%2C+1775&amp;rft.date=2010-05-06&amp;rft_id=https%3A%2F%2Fwww.historynet.com%2Fbattle-of-menotomy-first-blood-1775.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.historynet.com/battle-of-menotomy-first-blood-1775.htm">"Battle of Menotomy – First Blood, 1775"</a>. <i>HistoryNet</i>. May 6, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HistoryNet&amp;rft.atitle=Battle+of+Menotomy+%E2%80%93+First+Blood%2C+1775&amp;rft.date=2010-05-06&amp;rft_id=https%3A%2F%2Fwww.historynet.com%2Fbattle-of-menotomy-first-blood-1775.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-Atlantic-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Atlantic_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Atlantic_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Atlantic_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.theatlantic.com/national/archive/2013/04/the-history-of-the-boston-marathon-a-perfect-way-to-celebrate-patriots-day/275023/">"The History of the Boston Marathon: A Perfect Way to Celebrate Patriot's Day"</a>. The Atlantic<span class="reference-accessdate">. Retrieved <span class="nowrap">April 23,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+History+of+the+Boston+Marathon%3A+A+Perfect+Way+to+Celebrate+Patriot%27s+Day&amp;rft.pub=The+Atlantic&amp;rft_id=https%3A%2F%2Fwww.theatlantic.com%2Fnational%2Farchive%2F2013%2F04%2Fthe-history-of-the-boston-marathon-a-perfect-way-to-celebrate-patriots-day%2F275023%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-Rep-Am-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rep-Am_10-0">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFPatrick2017" class="citation news cs1">Patrick, Mike (July 3, 2017). <a rel="nofollow" class="external text" href="https://www.rep-am.com/news/news-local/2017/07/03/patriots-day-coming-to-connecticut/">"Patriots Day Coming to Connecticut"</a>. Waterbury Republican-American<span class="reference-accessdate">. Retrieved <span class="nowrap">July 4,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Patriots+Day+Coming+to+Connecticut&amp;rft.date=2017-07-03&amp;rft.aulast=Patrick&amp;rft.aufirst=Mike&amp;rft_id=https%3A%2F%2Fwww.rep-am.com%2Fnews%2Fnews-local%2F2017%2F07%2F03%2Fpatriots-day-coming-to-connecticut%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFKinney2018" class="citation news cs1">Kinney, Jim (April 15, 2018). <a rel="nofollow" class="external text" href="http://www.masslive.com/expo/erry-2018/04/24eb478c406568/patriots_day_2018_whats_open_w.html">"Patriots' Day 2018: What's open, what's closed, details on extended tax deadline, Boston Marathon, MBTA service and more"</a>. MassLive. Advance Local<span class="reference-accessdate">. Retrieved <span class="nowrap">April 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Patriots%27+Day+2018%3A+What%27s+open%2C+what%27s+closed%2C+details+on+extended+tax+deadline%2C+Boston+Marathon%2C+MBTA+service+and+more&amp;rft.date=2018-04-15&amp;rft.aulast=Kinney&amp;rft.aufirst=Jim&amp;rft_id=http%3A%2F%2Fwww.masslive.com%2Fexpo%2Ferry-2018%2F04%2F24eb478c406568%2Fpatriots_day_2018_whats_open_w.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.sec.state.ma.us/cis/cishol/holidx.htm">"Massachusetts Legal Holidays"</a>. <i>Citizen Information Service</i>. Secretary of the Commonwealth of Massachusetts<span class="reference-accessdate">. Retrieved <span class="nowrap">April 11,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Citizen+Information+Service&amp;rft.atitle=Massachusetts+Legal+Holidays&amp;rft_id=http%3A%2F%2Fwww.sec.state.ma.us%2Fcis%2Fcishol%2Fholidx.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.maine.gov/bhr/rules_policies/policy_manual/12_5.htm">"Holidays"</a>. <i>Human Resources Policy and Practices Manual</i>. Maine Bureau of Human Resources<span class="reference-accessdate">. Retrieved <span class="nowrap">April 11,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Human+Resources+Policy+and+Practices+Manual&amp;rft.atitle=Holidays&amp;rft_id=http%3A%2F%2Fwww.maine.gov%2Fbhr%2Frules_policies%2Fpolicy_manual%2F12_5.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120204044215/http://dpi.wi.gov/eis/observe.html">"Wisconsin Public School Observance Days"</a>. Wisconsin Department of Public Instruction. Archived from <a rel="nofollow" class="external text" href="http://dpi.wi.gov/eis/observe.html">the original</a> on February 4, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">April 10,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wisconsin+Public+School+Observance+Days&amp;rft.pub=Wisconsin+Department+of+Public+Instruction&amp;rft_id=http%3A%2F%2Fdpi.wi.gov%2Feis%2Fobserve.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">§683.14, Fla. Stat. (2013) <a rel="nofollow" class="external free" href="http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0600-0699/0683/0683.html">http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0600-0699/0683/0683.html</a></span> </li> 
+        <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://arlingtonhistorical.org/visit/jason-russell-house/">"Jason Russell House"</a>. <i>Arlington Historical Society</i>. July 5, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Arlington+Historical+Society&amp;rft.atitle=Jason+Russell+House&amp;rft.date=2012-07-05&amp;rft_id=https%3A%2F%2Farlingtonhistorical.org%2Fvisit%2Fjason-russell-house%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.arlingtonma.gov/Home/Components/News/News/9208/16?backlist=/">"News | Town of Arlington"</a>. <i>www.arlingtonma.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.arlingtonma.gov&amp;rft.atitle=News+%7C+Town+of+Arlington&amp;rft_id=https%3A%2F%2Fwww.arlingtonma.gov%2FHome%2FComponents%2FNews%2FNews%2F9208%2F16%3Fbacklist%3D%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://boston.cbslocal.com/2015/04/17/who-to-watch-on-marathon-monday/">"Who To Watch on Marathon Monday"</a>. April 17, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Who+To+Watch+on+Marathon+Monday&amp;rft.date=2015-04-17&amp;rft_id=https%3A%2F%2Fboston.cbslocal.com%2F2015%2F04%2F17%2Fwho-to-watch-on-marathon-monday%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFLogan2020" class="citation news cs1">Logan, Tim (March 13, 2020). <a rel="nofollow" class="external text" href="https://www.bostonglobe.com/2020/03/13/nation/boston-marathon-2020-coronavirus/">"Boston Marathon postponed to September due to coronavirus"</a>. <i><a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 13,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Boston+Globe&amp;rft.atitle=Boston+Marathon+postponed+to+September+due+to+coronavirus&amp;rft.date=2020-03-13&amp;rft.aulast=Logan&amp;rft.aufirst=Tim&amp;rft_id=https%3A%2F%2Fwww.bostonglobe.com%2F2020%2F03%2F13%2Fnation%2Fboston-marathon-2020-coronavirus%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFGolen2020" class="citation web cs1">Golen, Jimmy (May 28, 2020). <a rel="nofollow" class="external text" href="https://apnews.com/c79eb6364911d9bb2b3b05835dcc7af3">"Boston Marathon canceled for 1st time in 124-year history"</a>. <i><a href="/wiki/The_Associated_Press" class="mw-redirect" title="The Associated Press">The Associated Press</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 28,</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Associated+Press&amp;rft.atitle=Boston+Marathon+canceled+for+1st+time+in+124-year+history&amp;rft.date=2020-05-28&amp;rft.aulast=Golen&amp;rft.aufirst=Jimmy&amp;rft_id=https%3A%2F%2Fapnews.com%2Fc79eb6364911d9bb2b3b05835dcc7af3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.cbssports.com/general/news/boston-marathon-2021-race-now-set-for-oct-11-following-2020-cancellation/">https://www.cbssports.com/general/news/boston-marathon-2021-race-now-set-for-oct-11-following-2020-cancellation/</a></span> </li> 
+        <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.baseball-reference.com/boxes/1995.shtml">"1995. Boston Red Sox Box Scores"</a>. Baseball-reference.com<span class="reference-accessdate">. Retrieved <span class="nowrap">October 14,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1995.+Boston+Red+Sox+Box+Scores&amp;rft.pub=Baseball-reference.com&amp;rft_id=https%3A%2F%2Fwww.baseball-reference.com%2Fboxes%2F1995.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.baseball-reference.com/boxes/2013/04/15/">"MLB Scores, Standings, Box Scores for Monday, April 15, 2013"</a>. <i>Baseball-Reference.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Baseball-Reference.com&amp;rft.atitle=MLB+Scores%2C+Standings%2C+Box+Scores+for+Monday%2C+April+15%2C+2013&amp;rft_id=https%3A%2F%2Fwww.baseball-reference.com%2Fboxes%2F2013%2F04%2F15%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+        <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121008221017/http://boston.redsox.mlb.com/news/article.jsp?ymd=20061222&amp;content_id=1766797&amp;vkey=news_bos&amp;fext=.jsp&amp;c_id=bos">"Patriots' Day game may start earlier"</a>. <a href="/wiki/Boston_Red_Sox" title="Boston Red Sox">Boston Red Sox</a>. June 19, 2012. Archived from <a rel="nofollow" class="external text" href="http://boston.redsox.mlb.com/news/article.jsp?ymd=20061222&amp;content_id=1766797&amp;vkey=news_bos&amp;fext=.jsp&amp;c_id=bos">the original</a> on October 8, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">October 14,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Patriots%27+Day+game+may+start+earlier&amp;rft.pub=Boston+Red+Sox&amp;rft.date=2012-06-19&amp;rft_id=http%3A%2F%2Fboston.redsox.mlb.com%2Fnews%2Farticle.jsp%3Fymd%3D20061222%26content_id%3D1766797%26vkey%3Dnews_bos%26fext%3D.jsp%26c_id%3Dbos&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatriots%27+Day" class="Z3988"></span></span> </li> 
+       </ol>
+      </div> 
+      <h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patriots%27_Day&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000"> 
+       <tbody>
+        <tr> 
+         <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></td> 
+         <td class="mbox-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Patriots%27_Day" class="extiw" title="commons:Category:Patriots' Day">Patriots' Day</a></span>.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060922045824/http://www.noblenet.org/year/patriotsday.html">Patriots' Day information</a>, via noblenet.org</li> 
+       <li><a rel="nofollow" class="external text" href="http://www.battleroad.org/">Information about Battle Reenactments</a>, via battleroad.org</li> 
+       <li><a rel="nofollow" class="external text" href="https://arlingtonhistorical.org/learn/articles/the-battle-of-menotomy/">The Battle of Menotomy</a> via The Arlington Historical Society</li> 
+       <li><a rel="nofollow" class="external text" href="https://www.historynet.com/battle-of-menotomy-first-blood-1775.htm">The Battle of Menotomy</a> via historynet.com</li> 
+       <li><a rel="nofollow" class="external text" href="http://www.malegislature.gov/Laws/GeneralLaws/PartI/TitleII/Chapter6/Section12J">Massachusetts General Laws ch. 6, § 12</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://docs.legis.wi.gov/statutes/statutes/118/02/6m">The Wisconsin Statutes &amp; Annotations General School Operations, Special observance day</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.legislature.maine.gov/legis/statutes/9-B/title9-Bch14-A.pdf">Maine Statutes Rev. 9-B, § 145</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=United_States&amp;#124;link=United_States_Holidays,_observances,_and_celebrations_in_the_United_States" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_the_United_States" title="Template:Public holidays in the United States"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_the_United_States" title="Template talk:Public holidays in the United States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_the_United_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23x15px&amp;#124;border_&amp;#124;alt=United_States&amp;#124;link=United_States_Holidays,_observances,_and_celebrations_in_the_United_States" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650"></a></span> Holidays, observances, and celebrations in the United States
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">January</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Martin_Luther_King_Jr._Day" title="Martin Luther King Jr. Day">Martin Luther King Jr. Day</a></b> (NJ, federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Eugenio_Mar%C3%ADa_de_Hostos" title="Eugenio María de Hostos">Birthday of Eugenio María de Hostos</a> (PR)</li> 
+             <li><a href="/wiki/Confederate_Memorial_Day" title="Confederate Memorial Day">Confederate Heroes Day</a> (TX)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Eve of Three Kings' Day</a> (PR, religious)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Feast of Epiphany / Feast of Theophany</a> (religious)</li> 
+             <li><a href="/wiki/Fred_Korematsu_Day" title="Fred Korematsu Day">Fred Korematsu Day</a> (CA, FL, HI, VA)</li> 
+             <li><a href="/wiki/Idaho_Human_Rights_Day" title="Idaho Human Rights Day">Idaho Human Rights Day</a> (ID)</li> 
+             <li><a href="/wiki/United_States_presidential_inauguration" title="United States presidential inauguration">Inauguration Day</a> (federal quadrennial)</li> 
+             <li><a href="/wiki/Kansas_Day" title="Kansas Day">Kansas Day</a> (KS)</li> 
+             <li><a href="/wiki/Makar_Sankranti" title="Makar Sankranti">Makar Sankranti / Pongal</a> (religious)</li> 
+             <li><a href="/wiki/Robert_E._Lee_Day" title="Robert E. Lee Day">Robert E. Lee Day</a> (FL)</li> 
+             <li><a href="/wiki/Stephen_Foster_Memorial_Day" title="Stephen Foster Memorial Day">Stephen Foster Memorial Day</a> (36)</li> 
+             <li><a href="/wiki/The_Eighth_(United_States)" title="The Eighth (United States)">The Eighth</a> (LA)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Three Kings' Day</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/World_Religion_Day" title="World Religion Day">World Religion Day</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">January–February</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Super_Bowl_Sunday" title="Super Bowl Sunday">Super Bowl Sunday</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Chinese_New_Year" title="Chinese New Year">Chinese New Year</a> / <a href="/wiki/Lunar_New_Year" title="Lunar New Year">Lunar New Year</a> (NY, cultural, religious)</li> 
+             <li><a href="/wiki/Vasant_Panchami" title="Vasant Panchami">Vasant Panchami</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">February<br><a href="/wiki/American_Heart_Month" title="American Heart Month">American Heart Month</a><br><a href="/wiki/Black_History_Month" title="Black History Month">Black History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Washington%27s_Birthday" title="Washington's Birthday">Washington's Birthday / Presidents' Day</a></b> (NJ, federal)</li> 
+             <li><b><a href="/wiki/Valentine%27s_Day" title="Valentine's Day">Valentine's Day</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Luis_Mu%C3%B1oz_Mar%C3%ADn" title="Luis Muñoz Marín">Birthday of Luis Muñoz Marín</a> (PR)</li> 
+             <li><a href="/wiki/Candlemas" title="Candlemas">Candlemas</a> (religious)</li> 
+             <li><a href="/wiki/Darwin_Day" title="Darwin Day">Charles Darwin Day / Darwin Day</a> (CA, DE)</li> 
+             <li><a href="/wiki/Day_of_Remembrance_(Japanese_Americans)" title="Day of Remembrance (Japanese Americans)">Day of Remembrance</a> (CA, OR, WA, cultural)</li> 
+             <li><a href="/wiki/Georgia_Day" title="Georgia Day">Georgia Day</a> (GA)</li> 
+             <li><a href="/wiki/Groundhog_Day" title="Groundhog Day">Groundhog Day</a></li> 
+             <li><a href="/wiki/Imbolc" title="Imbolc">Imbolc</a> (religious)</li> 
+             <li><a href="/wiki/Lincoln%27s_Birthday" title="Lincoln's Birthday">Lincoln's Birthday</a> (CA, CT, IL, IN, MO, NY, WV)</li> 
+             <li><a href="/wiki/National_Girls_and_Women_in_Sports_Day" title="National Girls and Women in Sports Day">National Girls and Women in Sports Day</a></li> 
+             <li><a href="/wiki/National_Freedom_Day" title="National Freedom Day">National Freedom Day</a> (36)</li> 
+             <li><a href="/wiki/Parinirvana_Day" title="Parinirvana Day">Nirvana Day</a> (religious)</li> 
+             <li><a href="/wiki/Presentation_of_Jesus_at_the_Temple" title="Presentation of Jesus at the Temple">Presentation of Our Lord to the Temple</a> (religious)</li> 
+             <li><a href="/wiki/Promised_Reformer_Day" title="Promised Reformer Day">Promised Reformer Day</a> (religious)</li> 
+             <li><a href="/wiki/Ronald_Reagan_Day" title="Ronald Reagan Day">Ronald Reagan Day</a> (CA)</li> 
+             <li><a href="/wiki/Rosa_Parks_Day" title="Rosa Parks Day">Rosa Parks Day</a> (CA, MO)</li> 
+             <li><a href="/wiki/Saviours%27_Day" title="Saviours' Day">Saviours' Day</a> (religious)</li> 
+             <li><a href="/wiki/Susan_B._Anthony_Day" title="Susan B. Anthony Day">Susan B. Anthony Day</a> (CA, FL, NY, WI, WV, proposed federal)</li> 
+             <li><a href="/wiki/Tu_BiShvat" title="Tu BiShvat">Tu B’shvat</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">February–March</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b> <a href="/wiki/Mardi_Gras" title="Mardi Gras">Mardi Gras</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Ash_Wednesday" title="Ash Wednesday">Ash Wednesday</a> (PR, religious)</li> 
+             <li><a href="/wiki/Carnival" title="Carnival">Carnival</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/Clean_Monday" title="Clean Monday">Clean Monday</a> (religious)</li> 
+             <li><a href="/wiki/Courir_de_Mardi_Gras" title="Courir de Mardi Gras">Courir de Mardi Gras</a> (religious)</li> 
+             <li><a href="/wiki/Ayy%C3%A1m-i-H%C3%A1" title="Ayyám-i-Há">Intercalary Days</a> (religious)</li> 
+             <li><a href="/wiki/Maha_Shivaratri" title="Maha Shivaratri">Mahashivaratri</a> (religious)</li> 
+             <li><a href="/wiki/Purim" title="Purim">Purim</a> (religious)</li> 
+             <li><a href="/wiki/Shrove_Tuesday" title="Shrove Tuesday">Shrove Tuesday</a> (religious)</li> 
+             <li><a href="/wiki/Super_Tuesday" title="Super Tuesday">Super Tuesday</a></li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">March<br><a href="/wiki/Irish-American_Heritage_Month" title="Irish-American Heritage Month">Irish-American Heritage Month</a><br><a href="/wiki/National_Colon_Cancer_Awareness_Month" title="National Colon Cancer Awareness Month">Colon Cancer Awareness Month</a><br><a href="/wiki/Women%27s_History_Month" title="Women's History Month">Women's History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Saint_Patrick%27s_Day" title="Saint Patrick's Day">Saint Patrick's Day</a></b> (religious)</li> 
+             <li><b><a href="/wiki/Spring_break" title="Spring break">Spring break</a></b> (week)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Annunciation" title="Annunciation">Annunciation of the Virgin Mary / Annunciation of the Theotokos</a> (religious)</li> 
+             <li><a href="/wiki/Casimir_Pulaski_Day" title="Casimir Pulaski Day">Casimir Pulaski Day</a> (IL)</li> 
+             <li><a href="/wiki/Cesar_Chavez_Day" title="Cesar Chavez Day">Cesar Chavez Day</a> (CA, CO, TX, proposed federal)</li> 
+             <li><a href="/wiki/Emancipation_Day#Puerto_Rico" title="Emancipation Day">Emancipation Day in Puerto Rico</a> (PR, cultural)</li> 
+             <li><a href="/wiki/Evacuation_Day_(Massachusetts)" title="Evacuation Day (Massachusetts)">Evacuation Day</a> (Suffolk County, MA)</li> 
+             <li><a href="/wiki/Harriet_Tubman_Day" title="Harriet Tubman Day">Harriet Tubman Day</a> (NY)</li> 
+             <li><a href="/wiki/Hola_Mohalla" title="Hola Mohalla">Hola Mohalla</a> (religious)</li> 
+             <li><a href="/wiki/Holi" title="Holi">Holi</a> (NY, religious)</li> 
+             <li><a href="/wiki/L._Ron_Hubbard" title="L. Ron Hubbard">L. Ron Hubbard’s Birthday</a> (religious)</li> 
+             <li><a href="/wiki/Isra_and_Mi%27raj#Modern_Muslim_observance" title="Isra and Mi'raj">Lailat al-Mi'raj</a> (religious)</li> 
+             <li><a href="/wiki/Liberation_and_Freedom_Day" title="Liberation and Freedom Day">Liberation and Freedom Day</a> (Charlottesville, VA, cultural)</li> 
+             <li><a href="/wiki/Mardi_Gras_in_the_United_States" title="Mardi Gras in the United States">Mardi Gras</a> (AL (in two counties), LA)</li> 
+             <li><a href="/wiki/Maryland_Day" title="Maryland Day">Maryland Day</a> (MD)</li> 
+             <li><a href="/wiki/National_Poison_Prevention_Week" title="National Poison Prevention Week">National Poison Prevention Week</a> (week)</li> 
+             <li><a href="/wiki/Nowruz" title="Nowruz">Nowruz</a> (cultural, religious)</li> 
+             <li><a href="/wiki/%C4%92ostre" title="Ēostre">Ostara</a> (religious)</li> 
+             <li><a href="/wiki/Prince_K%C5%ABhi%C5%8D_Day" title="Prince Kūhiō Day">Prince Jonah Kūhiō Kalanianaʻole Day</a> (HI)</li> 
+             <li><a href="/wiki/Promised_Messiah_Day" title="Promised Messiah Day">Promised Messiah Day</a> (religious)</li> 
+             <li><a href="/wiki/Saint_Joseph%27s_Day" title="Saint Joseph's Day">Saint Joseph's Day</a> (religious)</li> 
+             <li><a href="/wiki/Seward%27s_Day" title="Seward's Day">Seward's Day</a> (AK)</li> 
+             <li><a href="/wiki/Texas_Independence_Day" title="Texas Independence Day">Texas Independence Day</a> (TX)</li> 
+             <li><a href="/wiki/Town_meeting#Vermont" title="Town meeting">Town Meeting Day</a> (VT)</li> 
+             <li><a href="/wiki/Transfer_Day" title="Transfer Day">Transfer Day</a> (VI)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">March–April</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Easter" title="Easter">Easter</a></b> (religious)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> (CT, NC, PR, NJ, VI, religious)</li> 
+             <li><a href="/wiki/Hanuman_Jayanti" title="Hanuman Jayanti">Hanuman Jayanti</a> (religious)</li> 
+             <li><a href="/wiki/Maundy_Thursday" title="Maundy Thursday">Holy Thursday</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/Holy_Week" title="Holy Week">Holy Week</a> (PR, religious, week)</li> 
+             <li><a href="/wiki/Lazarus_Saturday" title="Lazarus Saturday">Lazarus Saturday</a> (religious)</li> 
+             <li><a href="/wiki/Mahavir_Janma_Kalyanak" title="Mahavir Janma Kalyanak">Mahavir Janma Kalyanak</a> (religious)</li> 
+             <li><a href="/wiki/Mesha_Sankranti" title="Mesha Sankranti">Mesha Sankranti / Hindu New Year</a> (religious)</li> 
+             <li><a href="/wiki/Palm_Sunday" title="Palm Sunday">Palm Sunday</a> (PR, religious)</li> 
+             <li><a href="/wiki/Passover" title="Passover">Passover</a> (religious)</li> 
+             <li><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday / Bright Monday</a> (VI religious)</li> 
+             <li><a href="/wiki/Rama_Navami" title="Rama Navami">Ramnavami</a> (religious)</li> 
+             <li><a href="/wiki/Ugadi" title="Ugadi">Chandramana Yugadi / Souramana Yugadi</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">April<br><a href="/wiki/Confederate_History_Month" title="Confederate History Month">Confederate History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/420_(cannabis_culture)" title="420 (cannabis culture)">420</a></li> 
+            <li><a href="/wiki/April_Fools%27_Day" title="April Fools' Day">April Fools' Day</a></li> 
+            <li><a href="/wiki/Arbor_Day" title="Arbor Day">Arbor Day</a></li> 
+            <li><a href="/wiki/Jos%C3%A9_de_Diego" title="José de Diego">Birthday of José de Diego</a> (PR)</li> 
+            <li><a href="/wiki/Confederate_Memorial_Day" title="Confederate Memorial Day">Confederate Memorial Day</a> (AL, MS)</li> 
+            <li><a href="/wiki/Days_of_Remembrance_of_the_Victims_of_the_Holocaust" title="Days of Remembrance of the Victims of the Holocaust">Days of Remembrance of the Victims of the Holocaust</a> (week)</li> 
+            <li><a href="/wiki/Earth_Day" title="Earth Day">Earth Day</a></li> 
+            <li><a href="/wiki/Emancipation_Day" title="Emancipation Day">Emancipation Day</a> (cultural)</li> 
+            <li><a href="/wiki/Jefferson%27s_Birthday" title="Jefferson's Birthday">Thomas Jefferson's Birthday</a> (AL)</li> 
+            <li><a href="/wiki/Lag_BaOmer" title="Lag BaOmer">Lag B’Omer</a> (religious)</li> 
+            <li><a href="/wiki/Great_Lent" title="Great Lent">Last Friday of Great Lent</a> (religious)</li> 
+            <li><a href="/wiki/Laylat_al-Qadr" class="mw-redirect" title="Laylat al-Qadr">Laylat al-Qadr</a> (religious)</li> 
+            <li><a href="/wiki/Pascua_Florida" title="Pascua Florida">Pascua Florida</a> (FL)</li> 
+            <li><a class="mw-selflink selflink">Patriots' Day</a> (MA, ME)</li> 
+            <li><a href="/wiki/Ridv%C3%A1n" title="Ridván">Ridván</a> (religious)</li> 
+            <li><a href="/wiki/San_Jacinto_Day" title="San Jacinto Day">San Jacinto Day</a> (TX)</li> 
+            <li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li> 
+            <li><a href="/wiki/Walpurgis_Night" title="Walpurgis Night">Walpurgis Night</a> (religious)</li> 
+            <li><a href="/wiki/Independence_Day_(Israel)" title="Independence Day (Israel)">Yom Ha'atzmaut</a> (cultural, religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">May<br><a href="/wiki/Asian_Pacific_American_Heritage_Month" title="Asian Pacific American Heritage Month">Asian Pacific American Heritage Month</a><br><a href="/wiki/Jewish_American_Heritage_Month" title="Jewish American Heritage Month">Jewish American Heritage Month</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Memorial_Day" title="Memorial Day">Memorial Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother's Day (United States)">Mother's Day</a></b> (36)</li> 
+              <li><b><a href="/wiki/Cinco_de_Mayo" title="Cinco de Mayo">Cinco de Mayo</a></b></li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Bah%C3%A1%CA%BC%C3%AD_Holy_Days" title="Baháʼí Holy Days">Ascension of Baháʼu'lláh</a> (religious)</li> 
+             <li><a href="/wiki/Ascension_Day" class="mw-redirect" title="Ascension Day">Ascension of Our Lord</a> (religious)</li> 
+             <li><a href="/wiki/Caliphate_Day" title="Caliphate Day">Caliphate Day</a> (religious)</li> 
+             <li><a href="/wiki/Bah%C3%A1%CA%BC%C3%AD_Holy_Days" title="Baháʼí Holy Days">Declaration of the Bab</a> (religious)</li> 
+             <li><a href="/wiki/Harvey_Milk_Day" title="Harvey Milk Day">Harvey Milk Day</a> (CA)</li> 
+             <li><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">International Workers' Day</a> / <a href="/wiki/May_Day" title="May Day">May Day</a> (CA, unofficial, proposed state)</li> 
+             <li><a href="/wiki/Law_Day_(United_States)" title="Law Day (United States)">Law Day</a> (36)</li> 
+             <li><a href="/wiki/Loyalty_Day" title="Loyalty Day">Loyalty Day</a> (36)</li> 
+             <li><a href="/wiki/Malcolm_X_Day" title="Malcolm X Day">Malcolm X Day</a> (CA, IL, proposed federal)</li> 
+             <li><a href="/wiki/Military_Spouse_Day" title="Military Spouse Day">Military Spouse Day</a></li> 
+             <li><a href="/wiki/National_Day_of_Prayer" title="National Day of Prayer">National Day of Prayer</a> (36)</li> 
+             <li><a href="/wiki/National_Day_of_Reason" title="National Day of Reason">National Day of Reason</a></li> 
+             <li><a href="/wiki/National_Defense_Transportation_Day" title="National Defense Transportation Day">National Defense Transportation Day</a> (36)</li> 
+             <li><a href="/wiki/United_States_National_Maritime_Day" title="United States National Maritime Day">National Maritime Day</a> (36)</li> 
+             <li><a href="/wiki/Mufaddal_Saifuddin" title="Mufaddal Saifuddin">Milad Syedna Mufaddal Saifuddin</a> (religious)</li> 
+             <li><a href="/wiki/Peace_Officers_Memorial_Day" title="Peace Officers Memorial Day">Peace Officers Memorial Day</a> (36)</li> 
+             <li><a href="/wiki/Pentecost" title="Pentecost">Pentecost</a> (religious)</li> 
+             <li><a href="/wiki/Shavuot" title="Shavuot">Shavuot</a> (religious)</li> 
+             <li><a href="/wiki/Truman_Day" title="Truman Day">Truman Day</a> (MO)</li> 
+             <li><a href="/wiki/Vesak" title="Vesak">Vesak</a> / <a href="/wiki/Buddha%27s_Birthday" title="Buddha's Birthday">Buddha's Birthday</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">June<br><a href="/wiki/Gay_and_Lesbian_Pride_Month" class="mw-redirect" title="Gay and Lesbian Pride Month">Lesbian, Gay, Bisexual and<br> Transgender Pride Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Father%27s_Day_(United_States)" title="Father's Day (United States)">Father's Day</a></b> (36)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Bunker_Hill_Day" class="mw-redirect" title="Bunker Hill Day">Bunker Hill Day</a> (Suffolk County, MA)</li> 
+             <li><a href="/wiki/Carolina_Day" class="mw-redirect" title="Carolina Day">Carolina Day</a> (SC)</li> 
+             <li><a href="/wiki/Apostles%27_Fast" title="Apostles' Fast">Fast of the Holy Apostles</a> (religious)</li> 
+             <li><a href="/wiki/Flag_Day_(United_States)" title="Flag Day (United States)">Flag Day</a> (36, proposed federal)</li> 
+             <li><a href="/wiki/Helen_Keller_Day" title="Helen Keller Day">Helen Keller Day</a> (PA)</li> 
+             <li><a href="/wiki/Honor_America_Days" title="Honor America Days">Honor America Days</a> (3 weeks)</li> 
+             <li><a href="/wiki/Jefferson_Davis_Day" class="mw-redirect" title="Jefferson Davis Day">Jefferson Davis Day</a> (AL, FL)</li> 
+             <li><a href="/wiki/Juneteenth" title="Juneteenth">Juneteenth</a> (TX, MA, cultural, proposed federal)</li> 
+             <li><a href="/wiki/Kamehameha_Day" class="mw-redirect" title="Kamehameha Day">Kamehameha Day</a> (HI)</li> 
+             <li><a href="/wiki/Midsummer" title="Midsummer">Litha</a> (religious)</li> 
+             <li><a href="/wiki/Guru_Arjan" title="Guru Arjan">Martyrdom of Guru Arjan Dev Sahib</a> (religious)</li> 
+             <li><a href="/wiki/Odunde_Festival" title="Odunde Festival">Odunde Festival</a> (Philadelphia, PA, cultural)</li> 
+             <li><a href="/wiki/Senior_Week" title="Senior Week">Senior Week</a> (week)</li> 
+             <li><a href="/wiki/Nativity_of_Saint_John_the_Baptist#Celebration" title="Nativity of Saint John the Baptist">Saint John's Day</a> (PR, religious)</li> 
+             <li><a href="/wiki/West_Virginia_Day" title="West Virginia Day">West Virginia Day</a> (WV)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">July</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Independence_Day_(United_States)" title="Independence Day (United States)">Independence Day</a></b> (federal)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Asalha_Puja" title="Asalha Puja">Asalha Puja Day</a> (religious)</li> 
+             <li><a href="/wiki/Luis_Mu%C3%B1oz_Rivera" title="Luis Muñoz Rivera">Birthday of Don Luis Muñoz Rivera</a> (PR)</li> 
+             <li><a href="/wiki/Jos%C3%A9_Celso_Barbosa" title="José Celso Barbosa">Birthday of Dr. José Celso Barbosa</a> (PR)</li> 
+             <li><a href="/wiki/Emancipation_Day#United_States_Virgin_Islands" title="Emancipation Day">Emancipation Day in the U.S. Virgin Islands</a> (VI, cultural)</li> 
+             <li><a href="/wiki/Guru_Purnima" title="Guru Purnima">Guru Purnima</a> (religious)</li> 
+             <li><a href="/wiki/Khordad_Sal" title="Khordad Sal">Khordad Sal</a> (religious)</li> 
+             <li><a href="/wiki/Sovereignty_Restoration_Day" title="Sovereignty Restoration Day">Lā Hoʻihoʻi Ea</a> (HI, unofficial, cultural)</li> 
+             <li><a href="/wiki/Execution_of_the_B%C3%A1b" title="Execution of the Báb">Martyrdom of the Báb</a> (religious)</li> 
+             <li><a href="/wiki/Parents%27_Day" title="Parents' Day">Parents' Day</a> (36)</li> 
+             <li><a href="/wiki/Pioneer_Day" title="Pioneer Day">Pioneer Day</a> (UT)</li> 
+             <li><a href="/wiki/Puerto_Rico_Constitution_Day" title="Puerto Rico Constitution Day">Puerto Rico Constitution Day</a> (PR)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">July–August</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Summer_vacation" title="Summer vacation">Summer vacation</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Tisha_B%27Av" title="Tisha B'Av">Tisha B'Av</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">August</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a> (AZ)</li> 
+            <li><a href="/wiki/Barack_Obama_Day" title="Barack Obama Day">Barack Obama Day in Illinois</a> (IL)</li> 
+            <li><a href="/wiki/Bennington_Battle_Day" title="Bennington Battle Day">Bennington Battle Day</a> (VT)</li> 
+            <li><a href="/wiki/Dormition_of_the_Mother_of_God#Dormition_versus_Assumption" title="Dormition of the Mother of God">Dormition of the Theotokos</a> (religious)</li> 
+            <li><a href="/wiki/Eid_al-Ghadir" title="Eid al-Ghadir">Eid-e-Ghadeer</a> (religious)</li> 
+            <li><a href="/wiki/Dormition_of_the_Mother_of_God#Dormition_fast" title="Dormition of the Mother of God">Fast in Honor of the Holy Mother of Lord Jesus</a> (religious)</li> 
+            <li><a href="/wiki/Assumption_of_Mary#Feasts" title="Assumption of Mary">Feast of the Assumption of the Blessed Virgin Mary</a> (religious)</li> 
+            <li><a href="/wiki/Statehood_Day_(Hawaii)" title="Statehood Day (Hawaii)">Hawaii Admission Day / Statehood Day</a> (HI)</li> 
+            <li><a href="/wiki/Krishna_Janmashtami" title="Krishna Janmashtami">Krishna Janmashtami</a> (religious)</li> 
+            <li><a href="/wiki/Lammas" title="Lammas">Lammas</a> (religious)</li> 
+            <li><a href="/wiki/Lyndon_Baines_Johnson_Day" title="Lyndon Baines Johnson Day">Lyndon Baines Johnson Day</a> (TX)</li> 
+            <li><a href="/wiki/Naga_Panchami" title="Naga Panchami">Naga Panchami</a> (religious)</li> 
+            <li><a href="/wiki/National_Aviation_Day" title="National Aviation Day">National Aviation Day</a> (36)</li> 
+            <li><a href="/wiki/Paryushana" title="Paryushana">Paryushana</a> (religious)</li> 
+            <li><a href="/wiki/Raksha_Bandhan" title="Raksha Bandhan">Raksha Bandhan</a> (religious)</li> 
+            <li><a href="/wiki/Feast_of_the_Transfiguration" title="Feast of the Transfiguration">Transfiguration of the Lord</a> (religious)</li> 
+            <li><a href="/wiki/Victory_Day_(United_States)" title="Victory Day (United States)">Victory Day</a> (RI)</li> 
+            <li><a href="/wiki/Women%27s_Equality_Day" title="Women's Equality Day">Women's Equality Day</a> (36)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">September<br><a href="/wiki/National_Prostate_Cancer_Awareness_Month" class="mw-redirect" title="National Prostate Cancer Awareness Month">Prostate Cancer Awareness Month</a><br><a href="/wiki/National_Childhood_Cancer_Awareness_Month" title="National Childhood Cancer Awareness Month">Childhood Cancer Awareness Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Labor_Day" title="Labor Day">Labor Day</a></b> (federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Brazilian_Day" title="Brazilian Day">Brazilian Day</a> (NY, cultural)</li> 
+             <li><a href="/wiki/California_Admission_Day" class="mw-redirect" title="California Admission Day">California Admission Day</a> (CA)</li> 
+             <li><a href="/wiki/Carl_Garner_Federal_Lands_Cleanup_Day" title="Carl Garner Federal Lands Cleanup Day">Carl Garner Federal Lands Cleanup Day</a> (36)</li> 
+             <li><a href="/wiki/Constitution_Day_(United_States)" title="Constitution Day (United States)">Constitution Day</a> (36)</li> 
+             <li><a href="/wiki/Constitution_Week" title="Constitution Week">Constitution Week</a> (week)</li> 
+             <li><a href="/wiki/Defenders_Day" title="Defenders Day">Defenders Day</a> (MD)</li> 
+             <li><a href="/wiki/Elevation_of_the_Holy_Cross" title="Elevation of the Holy Cross">Elevation of the Holy Cross</a> (religious)</li> 
+             <li><a href="/wiki/Feast_of_San_Gennaro" title="Feast of San Gennaro">Feast of San Gennaro</a> (NY, cultural, religious)</li> 
+             <li><a href="/wiki/Ganesh_Chaturthi" title="Ganesh Chaturthi">Ganesh Chaturthi</a> (religious)</li> 
+             <li><a href="/wiki/Gold_Star_Mother%27s_Day" class="mw-redirect" title="Gold Star Mother's Day">Gold Star Mother's Day</a> (36)</li> 
+             <li><a href="/wiki/Sakya_Trizin_Ngawang_Kunga" title="Sakya Trizin Ngawang Kunga">His Holiness Sakya Trizin’s Birthday</a> (religious)</li> 
+             <li><a href="/wiki/September_equinox" title="September equinox">Mabon</a> (religious)</li> 
+             <li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a> (36)</li> 
+             <li><a href="/wiki/National_Payroll_Week" title="National Payroll Week">National Payroll Week</a> (week)</li> 
+             <li><a href="/wiki/Nativity_of_Mary" title="Nativity of Mary">Nativity of Mary / Nativity of the Theotokos</a> (religious)</li> 
+             <li><a href="/wiki/Native_American_Day" title="Native American Day">Native American Day</a> (proposed federal)</li> 
+             <li><a href="/wiki/Patriot_Day" title="Patriot Day">Patriot Day</a> (36)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">September–October<br><a href="/wiki/National_Hispanic_Heritage_Month" title="National Hispanic Heritage Month">Hispanic Heritage Month</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Arba%27een" class="mw-redirect" title="Arba'een">Chehlum Imam Hussain</a> (religious)</li> 
+            <li><a href="/wiki/Oktoberfest_celebrations" title="Oktoberfest celebrations">Oktoberfest</a></li> 
+            <li><a href="/wiki/Pitri_Paksha" class="mw-redirect" title="Pitri Paksha">Pitri Paksha</a> (religious)</li> 
+            <li><a href="/wiki/Rosh_Hashanah" title="Rosh Hashanah">Rosh Hashanah / Feast of Trumpets</a> (TX, NY, religious)</li> 
+            <li><a href="/wiki/Shemini_Atzeret" title="Shemini Atzeret">Shemini Atzeret</a> (religious)</li> 
+            <li><a href="/wiki/Simchat_Torah" title="Simchat Torah">Simchat Torah</a> (eligious)</li> 
+            <li><a href="/wiki/Vijayadashami" title="Vijayadashami">Vijaya Dashami</a> (religious)</li> 
+            <li><a href="/wiki/Yom_Kippur" title="Yom Kippur">Yom Kippur / Day of Atonement</a> (TX, NY, religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">October<br><a href="/wiki/National_Breast_Cancer_Awareness_Month" class="mw-redirect" title="National Breast Cancer Awareness Month">Breast Cancer Awareness Month</a><br><a href="/wiki/National_Disability_Employment_Awareness_Month" title="National Disability Employment Awareness Month">Disability Employment Awareness Month</a><br> <a href="/wiki/Italian-American_Heritage_and_Culture_Month" title="Italian-American Heritage and Culture Month">Italian-American Heritage and Culture Month</a> <br> <a href="/wiki/Filipino_American_History_Month" title="Filipino American History Month">Filipino American History Month</a><br><a href="/wiki/LGBT_History_Month" title="LGBT History Month">LGBT History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Columbus_Day" title="Columbus Day">Columbus Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Halloween" title="Halloween">Halloween</a></b></li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Alaska_Day" title="Alaska Day">Alaska Day</a> (AK)</li> 
+             <li><a href="/wiki/Child_Health_Day" title="Child Health Day">Child Health Day</a> (36)</li> 
+             <li><a href="/wiki/General_Pulaski_Memorial_Day" title="General Pulaski Memorial Day">General Pulaski Memorial Day</a></li> 
+             <li><a href="/wiki/German-American_Day" title="German-American Day">German-American Day</a></li> 
+             <li><a href="/wiki/Indigenous_Peoples%27_Day" title="Indigenous Peoples' Day">Indigenous Peoples' Day</a> (VT)</li> 
+             <li><a href="/wiki/International_Day_of_Non-Violence" title="International Day of Non-Violence">International Day of Non-Violence</a></li> 
+             <li><a href="/wiki/Leif_Erikson_Day" title="Leif Erikson Day">Leif Erikson Day</a> (36)</li> 
+             <li><a href="/wiki/Missouri_Day" title="Missouri Day">Missouri Day</a> (MO)</li> 
+             <li><a href="/wiki/Nanomonestotse" title="Nanomonestotse">Nanomonestotse</a> (cultural)</li> 
+             <li><a href="/wiki/National_School_Lunch_Week" class="mw-redirect" title="National School Lunch Week">National School Lunch Week</a> (week)</li> 
+             <li><a href="/wiki/Native_American_Day" title="Native American Day">Native American Day in South Dakota</a> (SD)</li> 
+             <li><a href="/wiki/Nevada_Day" title="Nevada Day">Nevada Day</a> (NV)</li> 
+             <li><a href="/wiki/Spirit_Day" title="Spirit Day">Spirit Day</a> (cultural)</li> 
+             <li><a href="/wiki/Sweetest_Day" title="Sweetest Day">Sweetest Day</a></li> 
+             <li><a href="/wiki/Sukkot" title="Sukkot">Sukkot / Feast of Tabernacles</a> (religious)</li> 
+             <li><a href="/wiki/Virgin_Islands%E2%80%93Puerto_Rico_Friendship_Day" title="Virgin Islands–Puerto Rico Friendship Day">Virgin Islands–Puerto Rico Friendship Day</a> (PR, VI)</li> 
+             <li><a href="/wiki/White_Cane_Safety_Day" title="White Cane Safety Day">White Cane Safety Day</a> (36)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">October–November</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Twin_Holy_Birthdays" title="Twin Holy Birthdays">Birth of the Báb</a> (religious)</li> 
+            <li><a href="/wiki/Birth_of_Bah%C3%A1%CA%BCu%27ll%C3%A1h" title="Birth of Baháʼu'lláh">Birth of Baháʼu'lláh</a> (religious)</li> 
+            <li><a href="/wiki/Day_of_the_Dead" title="Day of the Dead">Day of the Dead</a> (VI)</li> 
+            <li><a href="/wiki/Diwali" title="Diwali">Diwali</a> (NY, religious)</li> 
+            <li><a href="/wiki/Mawlid" title="Mawlid">Mawlid al-Nabi</a> (religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">November<br> <a href="/wiki/Native_American_Indian_Heritage_Month" title="Native American Indian Heritage Month">Native American Indian Heritage Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Veterans_Day" title="Veterans Day">Veterans Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Thanksgiving_(United_States)" title="Thanksgiving (United States)">Thanksgiving</a></b> (federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/%CA%BBAbdu%27l-Bah%C3%A1" title="ʻAbdu'l-Bahá">Ascension of ‘Abdu’l Baha</a> (religious)</li> 
+             <li><a href="/wiki/All_Saints%27_Day" title="All Saints' Day">All Saints' Day</a> (religious)</li> 
+             <li><a href="/wiki/Nativity_Fast" title="Nativity Fast">Beginning of the Nativity Fast</a> (religious)</li> 
+             <li><a href="/wiki/Beltane" title="Beltane">Beltane</a> / <a href="/wiki/Samhain" title="Samhain">Samhain</a> (religious)</li> 
+             <li><a href="/wiki/Barack_Obama_Day" title="Barack Obama Day">Barack Obama Day in Alabama</a> (Perry County, AL)</li> 
+             <li><a href="/wiki/D._Hamilton_Jackson" title="D. Hamilton Jackson">D. Hamilton Jackson Day</a> (VI)</li> 
+             <li><a href="/wiki/Black_Friday_(shopping)" title="Black Friday (shopping)">Day after Thanksgiving</a> (24)</li> 
+             <li><a href="/wiki/Day_of_the_Covenant_(Bah%C3%A1%CA%BC%C3%AD)" title="Day of the Covenant (Baháʼí)">Day of the Covenant</a> (religious)</li> 
+             <li><a href="/wiki/Discovery_of_Puerto_Rico" class="mw-redirect" title="Discovery of Puerto Rico">Discovery of Puerto Rico Day</a> (PR)</li> 
+             <li><a href="/wiki/Election_Day_(United_States)" title="Election Day (United States)">Election Day</a> (CA, DE, HI, KY, MT, NJ, NY, OH, PR, VA, WV, proposed federal)</li> 
+             <li><a href="/wiki/Family_Day" title="Family Day">Family Day</a> (NV)</li> 
+             <li><a href="/wiki/Guru_Nanak_Gurpurab" title="Guru Nanak Gurpurab">Guru Nanak Gurpurab</a> (religious)</li> 
+             <li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> (religious)</li> 
+             <li><a href="/wiki/Independence_Day_(Hawaii)" title="Independence Day (Hawaii)">Lā Kūʻokoʻa</a> (HI, unofficial, cultural)</li> 
+             <li><a href="/wiki/Guru_Tegh_Bahadur" title="Guru Tegh Bahadur">Martyrdom of Guru Tegh Bahadur</a> (religious)</li> 
+             <li><a href="/wiki/Native_American_Heritage_Day" title="Native American Heritage Day">Native American Heritage Day</a> (MD, WA, cultural)</li> 
+             <li><a href="/wiki/Presentation_of_Mary" title="Presentation of Mary">Presentation of the Theotokos to the Temple</a> (religious)</li> 
+             <li><a href="/wiki/Unthanksgiving_Day" title="Unthanksgiving Day">Unthanksgiving Day</a> (cultural)</li> 
+             <li><a href="/wiki/Mohammed_Burhanuddin" title="Mohammed Burhanuddin">Urus Mubarak of Syedna Mohammed Burhanuddin</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">December</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Christmas" title="Christmas">Christmas</a></b> (religious, federal)</li> 
+             <li><b><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">New Year's Eve</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Advent_Sunday" title="Advent Sunday">Advent Sunday</a> (religious)</li> 
+             <li><a href="/wiki/Alabama_Day" title="Alabama Day">Alabama Day</a> (AL)</li> 
+             <li><a href="/wiki/Guru_Gobind_Singh" title="Guru Gobind Singh">Birthday of Guru Gobind Singh Sahib</a> (religious)</li> 
+             <li><a href="/wiki/Bodhi_Day" title="Bodhi Day">Bodhi Day</a> (religious)</li> 
+             <li><a href="/wiki/Chalica" title="Chalica">Chalica</a> (religious)</li> 
+             <li><a href="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</a> (KY, NC, SC, PR, VI)</li> 
+             <li><a href="/wiki/Boxing_Day" title="Boxing Day">Day after Christmas</a> (KY, NC, SC, TX, VI)</li> 
+             <li><a href="/wiki/Festivus" title="Festivus">Festivus</a></li> 
+             <li><a href="/wiki/HumanLight" title="HumanLight">HumanLight</a></li> 
+             <li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> (religious, week)</li> 
+             <li><a href="/wiki/Immaculate_Conception" title="Immaculate Conception">Immaculate Conception</a> (religious)</li> 
+             <li><a href="/wiki/Indiana_Day" title="Indiana Day">Indiana Day</a> (IN)</li> 
+             <li><a href="/wiki/Kwanzaa" title="Kwanzaa">Kwanzaa</a> (cultural, week)</li> 
+             <li><a href="/wiki/Mohammed_Burhanuddin" title="Mohammed Burhanuddin">Milad Syedna Mohammed Burhanuddin</a> (religious)</li> 
+             <li><a href="/wiki/National_Pearl_Harbor_Remembrance_Day" title="National Pearl Harbor Remembrance Day">National Pearl Harbor Remembrance Day</a> (36)</li> 
+             <li><a href="/wiki/Nativity_of_Jesus" title="Nativity of Jesus">Nativity of Jesus</a> (religious)</li> 
+             <li><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">Old Year's Night</a> (VI)</li> 
+             <li><a href="/wiki/Pan_American_Aviation_Day" title="Pan American Aviation Day">Pan American Aviation Day</a> (36)</li> 
+             <li><a href="/wiki/Sivaya_Subramuniyaswami" title="Sivaya Subramuniyaswami">Pancha Ganapati</a> (religious, week)</li> 
+             <li><a href="/wiki/Rosa_Parks_Day" title="Rosa Parks Day">Rosa Parks Day</a> (OH, OR)</li> 
+             <li><a href="/wiki/Solemnity_of_Mary,_Mother_of_God" title="Solemnity of Mary, Mother of God">Solemnity of Mary, Mother of God</a> (religious)</li> 
+             <li><a href="/wiki/Wright_Brothers_Day" title="Wright Brothers Day">Wright Brothers Day</a> (36)</li> 
+             <li><a href="/wiki/Yule" title="Yule">Yule</a> (religious)</li> 
+             <li><a href="/wiki/Zartosht_No-Diso" title="Zartosht No-Diso">Zartosht No-Diso</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Varies (year round)</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a> (NY, religious)</li> 
+            <li><a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a> (NY, religious)</li> 
+            <li><a href="/wiki/Islamic_New_Year" title="Islamic New Year">Islamic New Year</a> (religious)</li> 
+            <li><a href="/wiki/Day_of_Arafah" title="Day of Arafah">Yawm al-Arafa</a> (religious)</li> 
+            <li><a href="/wiki/Hajj" title="Hajj">Hajj</a> (religious)</li> 
+            <li><a href="/wiki/Navaratri" title="Navaratri">Navaratri</a> (religious, four times a year)</li> 
+            <li><a href="/wiki/Bon_Festival" title="Bon Festival">Obon</a> (religious)</li> 
+            <li><a href="/wiki/Onam" title="Onam">Onam</a> (religious)</li> 
+            <li><a href="/wiki/Ramadan" title="Ramadan">Ramadan</a> (religious, month)</li> 
+            <li><a href="/wiki/Ghost_Festival" title="Ghost Festival">Ghost Festival</a> (religious)</li> 
+            <li><a href="/wiki/Ashura" title="Ashura">Yawm Aashura</a> (religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="font-size:90%;">
+           <div>
+            Legend: 
+            <p>(federal) = federal holidays, (abbreviation) = state/territorial holidays, (religious) = religious holidays, (cultural) = holiday related to a specific <a href="/wiki/Race_and_ethnicity_in_the_United_States_Census" title="Race and ethnicity in the United States Census">racial/ethnic group</a> or <a href="/wiki/Sexual_minority" title="Sexual minority">sexual minority</a>, (week) = week-long holidays, (month) = month-long holidays, (36) = <a href="/wiki/Title_36_of_the_United_States_Code" title="Title 36 of the United States Code">Title 36 Observances and Ceremonies</a><br> <b>Bold</b> indicates major holidays commonly celebrated in the United States, which often represent the major celebrations of the month.<br> </p> See also: <a href="/wiki/Lists_of_holidays" title="Lists of holidays">Lists of holidays</a>, <a href="/wiki/Hallmark_holiday" title="Hallmark holiday">Hallmark holidays</a>, public holidays in the <a href="/wiki/Public_holidays_in_the_United_States" title="Public holidays in the United States">United States</a>, <a href="/wiki/State_holidays_in_New_Jersey" title="State holidays in New Jersey">New Jersey</a>, <a href="/wiki/New_York_State_government_holidays" title="New York State government holidays">New York</a>, <a href="/wiki/Public_holidays_in_Puerto_Rico" title="Public holidays in Puerto Rico">Puerto Rico</a> and the <a href="/wiki/Public_holidays_in_the_United_States_Virgin_Islands" title="Public holidays in the United States Virgin Islands">United States Virgin Islands</a>.
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1364
+Cached time: 20210518001431
+Cache expiry: 86400
+Reduced expiry: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.814 seconds
+Real time usage: 1.008 seconds
+Preprocessor visited node count: 4443/1000000
+Post‐expand include size: 121651/2097152 bytes
+Template argument size: 5953/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 72286/5000000 bytes
+Lua time usage: 0.341/10.000 seconds
+Lua memory usage: 7100953/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  843.132      1 -total
+ 31.06%  261.856      1 Template:Reflist
+ 24.84%  209.402     18 Template:Cite_web
+ 12.03%  101.439      1 Template:Infobox_holiday
+ 11.71%   98.745      1 Template:Short_description
+ 10.55%   88.964      2 Template:Citation_needed
+ 10.30%   86.836      1 Template:US_Observances
+  9.22%   77.772      1 Template:Navbox
+  9.11%   76.810      2 Template:Fix
+  7.73%   65.216      1 Template:Infobox
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:375280-0!canonical and timestamp 20210518001430 and revision id 1019982778. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Patriots%27_Day&amp;oldid=1019982778">https://en.wikipedia.org/w/index.php?title=Patriots%27_Day&amp;oldid=1019982778</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:1894_establishments_in_Massachusetts" title="Category:1894 establishments in Massachusetts">1894 establishments in Massachusetts</a></li>
+       <li><a href="/wiki/Category:Recurring_events_established_in_1894" title="Category:Recurring events established in 1894">Recurring events established in 1894</a></li>
+       <li><a href="/wiki/Category:Holidays_related_to_the_American_Revolution" title="Category:Holidays related to the American Revolution">Holidays related to the American Revolution</a></li>
+       <li><a href="/wiki/Category:Massachusetts_culture" title="Category:Massachusetts culture">Massachusetts culture</a></li>
+       <li><a href="/wiki/Category:April_observances" title="Category:April observances">April observances</a></li>
+       <li><a href="/wiki/Category:State_holidays_in_the_United_States" title="Category:State holidays in the United States">State holidays in the United States</a></li>
+       <li><a href="/wiki/Category:Boston_Marathon" title="Category:Boston Marathon">Boston Marathon</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li>
+       <li><a href="/wiki/Category:Use_mdy_dates_from_April_2018" title="Category:Use mdy dates from April 2018">Use mdy dates from April 2018</a></li>
+       <li><a href="/wiki/Category:Holidays_and_observances_by_scheduling_(nth_weekday_of_the_month)" title="Category:Holidays and observances by scheduling (nth weekday of the month)">Holidays and observances by scheduling (nth weekday of the month)</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_with_missing_field" title="Category:Infobox holiday with missing field">Infobox holiday with missing field</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_(other)" title="Category:Infobox holiday (other)">Infobox holiday (other)</a></li>
+       <li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li>
+       <li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2018" title="Category:Articles with unsourced statements from April 2018">Articles with unsourced statements from April 2018</a></li>
+       <li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li>
+       <li><a href="/wiki/Category:AC_with_0_elements" title="Category:AC with 0 elements">AC with 0 elements</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Patriots%27+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Patriots%27+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Patriots%27_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Patriots%27_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Patriots%27_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Patriots%27_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Patriots%27_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Patriots%27_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Patriots%27_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Patriots%27_Day&amp;oldid=1019982778" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Patriots%27_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Patriots%27_Day&amp;id=1019982778&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3244522" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Patriots%27_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Patriots%27_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> 
+     <h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading"> <span>In other projects</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Patriots%27_Day" hreflang="en">Wikimedia Commons</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Patriots%E2%80%99_Day" title="Patriots’ Day – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/D%C3%ADa_del_Patriota" title="Día del Patriota – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Patriots%27_Day" title="Patriots' Day – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%A0%EA%B5%AD%EC%9D%BC_(4%EC%9B%94)" title="애국일 (4월) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Patriots%27_Day" title="Patriots' Day – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Hari_Patriot_(April)" title="Hari Patriot (April) – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li>
+       <li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Patriot%27s_Day" title="Patriot's Day – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>
+       <li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%84%9B%E5%9B%BD%E8%80%85%E3%81%AE%E6%97%A5" title="愛国者の日 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Patriots%27_Day" title="Patriots' Day – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%8C_%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82%D0%B0" title="День Патриота – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>
+       <li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Patriots%27_Day" title="Patriots' Day – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Patriots%27_Day" title="Patriots' Day – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+       <li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%BE%E0%AE%B3%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%A8%E0%AE%BE%E0%AE%B3%E0%AF%8D" title="நாட்டுப்பற்றாளர்களின் நாள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>
+       <li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Vatanseverler_G%C3%BCn%C3%BC" title="Vatanseverler Günü – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>
+       <li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%84%9B%E5%9C%8B%E6%97%A5_(4%E6%9C%88)" title="愛國日 (4月) – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3244522#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 26 April 2021, at 14:31<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Patriots%27_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.814","walltime":"1.008","ppvisitednodes":{"value":4443,"limit":1000000},"postexpandincludesize":{"value":121651,"limit":2097152},"templateargumentsize":{"value":5953,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":72286,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  843.132      1 -total"," 31.06%  261.856      1 Template:Reflist"," 24.84%  209.402     18 Template:Cite_web"," 12.03%  101.439      1 Template:Infobox_holiday"," 11.71%   98.745      1 Template:Short_description"," 10.55%   88.964      2 Template:Citation_needed"," 10.30%   86.836      1 Template:US_Observances","  9.22%   77.772      1 Template:Navbox","  9.11%   76.810      2 Template:Fix","  7.73%   65.216      1 Template:Infobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.341","limit":"10.000"},"limitreport-memusage":{"value":7100953,"limit":52428800}},"cachereport":{"origin":"mw1364","timestamp":"20210518001431","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Patriots' Day","url":"https:\/\/en.wikipedia.org\/wiki\/Patriots%27_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3244522","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3244522","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-11-22T05:44:05Z","dateModified":"2021-04-26T14:31:37Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d7\/Minute_Man_Statue_Lexington_Massachusetts.jpg","headline":"civic holiday in the USA"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":144,"wgHostname":"mw1355"});});</script> 
+ </body>
+</html>

@@ -37,8 +37,7 @@ public final class CountrySingleValue implements ServerObject {
 
     @Override
     public String toString() {
-        return "{" +
-                "\"title\":\"" + title + "\"," +
+        return "\"" + title + "\":{" +
                 (notes != null && !notes.isEmpty() ? "\"notes\":\"" + notes + "\"," : "") +
                 "\"value\":\"" + value + "\"," +
                 (valueDescription != null && !valueDescription.isEmpty() ? "\"valueDescription\":\"" + valueDescription + "\"," : "") +

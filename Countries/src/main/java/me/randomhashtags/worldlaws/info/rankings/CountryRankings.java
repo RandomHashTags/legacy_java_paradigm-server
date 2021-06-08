@@ -5,7 +5,9 @@ import me.randomhashtags.worldlaws.location.CountryInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
 
 public enum CountryRankings implements CountryRankingService {
     ADULT_HIV_PREVALENCE(
@@ -56,6 +58,13 @@ public enum CountryRankings implements CountryRankingService {
             NumberType.FLOAT,
             0,
             2020
+    ),
+    DIVORCE_RATE(
+            "https://en.wikipedia.org/wiki/Divorce_demography",
+            " percent",
+            NumberType.FLOAT,
+            0,
+            -1
     ),
     ECONOMIC_FREEDOM_INDEX(
             "https://en.wikipedia.org/wiki/Index_of_Economic_Freedom",
@@ -184,11 +193,12 @@ public enum CountryRankings implements CountryRankingService {
             2020
     ),
     PRESS_FREEDOM_INDEX(
-            "https://en.wikipedia.org/wiki/Press_Freedom_Index",
+            "https://rsf.org/en/ranking/%year%",
+            "Reporters Without Borders",
             " score",
             NumberType.FLOAT,
             0,
-            2020
+            2021
     ),
     QUALITY_OF_LIFE_INDEX(
             "https://en.wikipedia.org/wiki/Where-to-be-born_Index",
@@ -241,15 +251,18 @@ public enum CountryRankings implements CountryRankingService {
     ),
     ;
 
-    private final String url, suffix;
+    private final String url, siteName, suffix;
     private final NumberType valueType;
     private final int maxWorldRankOffset, yearOfData;
 
-    private HashMap<String, String> countries;
     private String rankedJSON;
 
     CountryRankings(String url, String suffix, NumberType valueType, int maxWorldRankOffset, int yearOfData) {
+        this(url, null, suffix, valueType, maxWorldRankOffset, yearOfData);
+    }
+    CountryRankings(String url, String siteName, String suffix, NumberType valueType, int maxWorldRankOffset, int yearOfData) {
         this.url = url;
+        this.siteName = siteName;
         this.suffix = suffix;
         this.valueType = valueType;
         this.maxWorldRankOffset = maxWorldRankOffset;
@@ -262,17 +275,13 @@ public enum CountryRankings implements CountryRankingService {
     }
 
     @Override
-    public HashMap<String, String> getCountries() {
-        return countries;
-    }
-    @Override
-    public void setCountries(HashMap<String, String> countries) {
-        this.countries = countries;
+    public String getURL() {
+        return url;
     }
 
     @Override
-    public String getURL() {
-        return url;
+    public String getSiteName() {
+        return siteName != null ? siteName : url.split("/wiki/")[1].replace("_", " ");
     }
 
     @Override
@@ -314,6 +323,7 @@ public enum CountryRankings implements CountryRankingService {
             case CLIMATE_CHANGE_PERFORMANCE_INDEX: return loadClimateChangePerformanceIndex();
             case CORRUPTION_PERCEPTION_INDEX: return loadCorruptionPerceptionIndex();
             case DEMOCRACY_INDEX: return loadDemocracyIndex();
+            case DIVORCE_RATE: return loadDivorceRate();
             case ECONOMIC_FREEDOM_INDEX: return loadEconomicFreedomIndex();
             case EDUCATION_INDEX: return loadEducationIndex();
             case ELECTRICITY_CONSUMPTION: return loadElectricityConsumption();
@@ -534,6 +544,32 @@ public enum CountryRankings implements CountryRankingService {
         builder.append("]");
         return builder.toString();
     }
+    private String loadDivorceRate() {
+        final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        elements.remove(0);
+        elements.remove(0);
+        elements.removeIf(element -> element.select("td").get(5).text().isEmpty());
+        elements.sort(Comparator.comparing(element -> {
+            final Elements tds = element.select("td");
+            return Float.parseFloat(tds.get(5).text());
+        }));
+        final int max = elements.size();
+        final StringBuilder builder = new StringBuilder("[");
+        int worldRank = max;
+        for(Element element : elements) {
+            final Elements tds = element.select("td");
+            final String country = tds.get(0).select("a").get(0).text().toLowerCase().replace(" ", "");
+            final float percent = Float.parseFloat(tds.get(5).text());
+            final int yearOfData = Integer.parseInt(tds.get(6).text().split("\\(")[1].split("\\)")[0]);
+            final int defcon = percent >= 50.00 ? 1 : percent >= 40.00 ? 2 : percent >= 30.00 ? 3 : percent >= 20.00 ? 4 : 5;
+            final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, yearOfData, percent, false);
+            value.country = country;
+            builder.append(worldRank == max ? "" : ",").append(value.toServerJSON());
+            worldRank -= 1;
+        }
+        builder.append("]");
+        return builder.toString();
+    }
     private String loadEconomicFreedomIndex() {
         final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
@@ -667,7 +703,7 @@ public enum CountryRankings implements CountryRankingService {
         return builder.toString();
     }
     private String loadGlobalTerrorismIndex() {
-        final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 3).select("tbody tr");
+        final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 4).select("tbody tr");
         elements.remove(0);
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
@@ -686,7 +722,7 @@ public enum CountryRankings implements CountryRankingService {
         return builder.toString();
     }
     private String loadHomicideRate() {
-        final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table tbody tr td table.wikitable", 1).select("tbody tr");
+        final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 1).select("tbody tr");
         elements.remove(0);
         elements.sort(Comparator.comparing(element -> {
             final Elements headers = element.select("th");
@@ -735,21 +771,25 @@ public enum CountryRankings implements CountryRankingService {
         return builder.toString();
     }
     private String loadIncarcerationRate() {
-        final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table tbody tr td table.wikitable", 1).select("tbody tr");
+        final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.sortable", 0).select("tbody tr");
         trs.remove(0);
+        trs.removeIf(tr -> {
+           final Elements tds = tr.select("td");
+           return tds.size() < 3 || tds.get(1).text().equalsIgnoreCase("n/a") || tds.get(2).text().equalsIgnoreCase("n/a");
+        });
         trs.sort(Comparator.comparing(element -> {
             final Elements tds = element.select("td");
-            return Integer.parseInt(tds.get(1).text());
+            return Integer.parseInt(tds.get(1).text().replace(",", ""));
         }));
         final int maxWorldRank = trs.size();
         int worldRank = maxWorldRank;
         final StringBuilder builder = new StringBuilder("[");
         for(Element element : trs) {
             final Elements tds = element.select("td");
-            final String country = tds.get(0).text().toLowerCase().replace(" ", "").split("ofamerica")[0].split("nfederation")[0];
-            final int ratePer100_000 = Integer.parseInt(tds.get(1).text()), prisonPopulation = Integer.parseInt(tds.get(2).text().replace(",", ""));
-            final int defcon = ratePer100_000 > 500 ? 1 : ratePer100_000 > 350 ? 2 : ratePer100_000 > 250 ? 3 : ratePer100_000 > 150 ? 4 : 5;
-            final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, ratePer100_000, false);
+            final String country = tds.get(0).text().toLowerCase().replace(" ", "").split("\\[")[0].split(" \\(")[0];
+            final int ratePerMillion = Integer.parseInt(tds.get(2).text().replace(",", "")), prisonPopulation = Integer.parseInt(tds.get(1).text().replace(",", ""));
+            final int defcon = ratePerMillion > 5000 ? 1 : ratePerMillion > 3500 ? 2 : ratePerMillion > 2500 ? 3 : ratePerMillion > 1500 ? 4 : 5;
+            final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, ratePerMillion, false);
             value.country = country;
             final List<CountryRankingInfoValueOther> values = new ArrayList<>();
             values.add(new CountryRankingInfoValueOther(prisonPopulation, NumberType.INTEGER, "Prison Population", " people"));
@@ -761,7 +801,7 @@ public enum CountryRankings implements CountryRankingService {
         return builder.toString();
     }
     private String loadInfantMortalityRate() {
-        final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table tbody tr td table.wikitable", 1).select("tbody tr");
+        final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.sortable", 0).select("tbody tr");
         trs.remove(0);
         trs.sort(Comparator.comparing(element -> {
             final Elements tds = element.select("td");
@@ -845,18 +885,18 @@ public enum CountryRankings implements CountryRankingService {
         final Elements elements = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         elements.remove(0);
         elements.remove(0);
-        elements.removeIf(element -> element.select("td").get(0).text().equals("—"));
-        int lastWorldRank = -1;
+        elements.removeIf(element -> {
+            final Elements tds = element.select("td");
+            return tds.isEmpty() || tds.get(0).text().equals("—");
+        });
+        int lastWorldRank = 1;
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         for(Element element : elements) {
             final Elements tds = element.select("td");
-            final int max = tds.size();
-            final String targetRank = tds.get(0).text();
-            final int worldRank = max == 5 ? lastWorldRank : Integer.parseInt(targetRank);
-            lastWorldRank = worldRank;
-            final String country = tds.get(max-5).select("a").get(0).text().toLowerCase().replace(" ", ""), femaleString = tds.get(max-3).text(), maleString = tds.get(max-2).text();
-            final float average = Float.parseFloat(tds.get(max-4).text()), female = femaleString.isEmpty() ? -1 : Float.parseFloat(femaleString), male = maleString.isEmpty() ? -1 : Float.parseFloat(maleString);
+            final int worldRank = lastWorldRank;
+            final String country = tds.get(0).select("a").get(0).text().toLowerCase().replace(" ", ""), femaleString = tds.get(3).text(), maleString = tds.get(2).text();
+            final float average = Float.parseFloat(tds.get(1).text()), female = Float.parseFloat(femaleString), male = Float.parseFloat(maleString);
             final int defcon = average <= 60.00 ? 1 : average <= 65.00 ? 2 : average <= 70.00 ? 3 : average <= 75.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, average, true);
             value.country = country;
@@ -866,6 +906,7 @@ public enum CountryRankings implements CountryRankingService {
             value.setOtherValues(values);
             builder.append(isFirst ? "" : ",").append(value.toServerJSON());
             isFirst = false;
+            lastWorldRank += 1;
         }
         builder.append("]");
         return builder.toString();
@@ -962,6 +1003,25 @@ public enum CountryRankings implements CountryRankingService {
         return builder.toString();
     }
     private String loadPressFreedomIndex() {
+        final String url = this.url.replace("%year%", Integer.toString(yearOfData));
+        final Elements elements = getRankingDocumentElements(url, "body div.wrapper-page section.main-wrapper div.region section.block section.ranking-map__panel ul.ranking-map__countries-list li a");
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        for(Element element : elements) {
+            final Elements spans = element.select("span");
+            final int worldRank = Integer.parseInt(spans.get(0).text());
+            final String country = spans.get(1).text().toLowerCase().replace(" ", "").replace(",", "");
+            final float score = Float.parseFloat(spans.get(2).text());
+            final int defcon = score >= 70 ? 1 : score >= 50 ? 2 : score >= 35 ? 3 : score >= 15 ? 4 : 5;
+            final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, worldRank, -1, score, false);
+            value.country = country;
+            builder.append(isFirst ? "" : ",").append(value.toServerJSON());
+            isFirst = false;
+        }
+        builder.append("]");
+        return builder.toString();
+    }
+    private String loadPressFreedomIndexLegacy() {
         final Elements trs = getRankingDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.removeIf(element -> element.select("td").get(1).text().equals("N/A"));
@@ -1080,8 +1140,9 @@ public enum CountryRankings implements CountryRankingService {
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().split("\\(")[0].replace(" ", "").replace(",", "");
-            final int yearOfData = Integer.parseInt(tds.get(2).text().split(" \\(")[0].split("\\[")[0]);
-            final float rate = Float.parseFloat(tds.get(1).text().split("\\[")[0]);
+            final String[] yearOfDataString = tds.get(2).text().split(" ");
+            final int yearOfData = Integer.parseInt(removeReferences(yearOfDataString[yearOfDataString.length-1]));
+            final float rate = Float.parseFloat(removeReferences(tds.get(1).text()));
             final int defcon = rate >= 25.00 ? 1 : rate >= 20.00 ? 2 : rate >= 15.00 ? 3 : rate >= 10.00 ? 4 : 5;
             final CountryRankingInfoValue value = new CountryRankingInfoValue(defcon, -1, yearOfData, rate, false);
             value.country = country;

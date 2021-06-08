@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.hurricanes;
 
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.EventDate;
+import me.randomhashtags.worldlaws.LocalServer;
 
 public final class Hurricane {
     private String name, description, peak;

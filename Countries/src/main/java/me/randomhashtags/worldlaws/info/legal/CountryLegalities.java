@@ -40,10 +40,10 @@ public enum CountryLegalities implements CountryLegalityService {
             "https://en.wikipedia.org/wiki/Marital_rape_laws_by_country",
             -1
     ),
-    PORNOGRAPHY(
+    /*PORNOGRAPHY(
             "https://en.wikipedia.org/wiki/Pornography_laws_by_region",
             WLUtilities.getTodayYear()
-    ),
+    ),*/
     PROSTITUTION(
             "https://en.wikipedia.org/wiki/Prostitution_law",
             2018
@@ -57,7 +57,7 @@ public enum CountryLegalities implements CountryLegalityService {
     private final String url;
     private final int yearOfData;
 
-    private HashMap<String, String> styles, countries;
+    private HashMap<String, String> styles;
 
     CountryLegalities(String url, int yearOfData) {
         this.url = url;
@@ -80,16 +80,6 @@ public enum CountryLegalities implements CountryLegalityService {
     }
 
     @Override
-    public HashMap<String, String> getCountries() {
-        return countries;
-    }
-
-    @Override
-    public void setCountries(HashMap<String, String> countries) {
-        this.countries = countries;
-    }
-
-    @Override
     public String loadData() {
         loadStyles();
         switch (this) {
@@ -100,7 +90,7 @@ public enum CountryLegalities implements CountryLegalityService {
             //case GUNS: return loadGuns();
             case INCEST: return loadIncest();
             case MARITAL_RAPE: return loadMaritalRape();
-            case PORNOGRAPHY: return loadPornography();
+            //case PORNOGRAPHY: return loadPornography();
             case PROSTITUTION: return loadProstitution();
             case SMOKING_AGE: return loadSmokingAge();
             default: return null;
@@ -138,14 +128,14 @@ public enum CountryLegalities implements CountryLegalityService {
                     put("background: #FFD; color: black; vertical-align: middle; text-align: center;", "Legal and Illegal");
                 }};
                 break;
-            case PORNOGRAPHY:
+            /*case PORNOGRAPHY:
                 styles = new HashMap<>() {{
                     put("background:#FFFFFF;vertical-align:middle;text-align:center;", "Unknown");
                     put("background:#9F9;vertical-align:middle;text-align:center;", "Legal");
                     put("background:#FFB;vertical-align:middle;text-align:center;", "Kinda Legal");
                     put("background:#F99;vertical-align:middle;text-align:center;", "Illegal");
                 }};
-                break;
+                break;*/
             default:
                 break;
         }
@@ -461,7 +451,7 @@ public enum CountryLegalities implements CountryLegalityService {
         return builder.toString();
     }
     private String loadPornography() {
-        final Elements trs = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        final Elements trs = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable tbody tr");
         trs.remove(0);
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
@@ -470,7 +460,7 @@ public enum CountryLegalities implements CountryLegalityService {
             final Element saleElement = tds.get(1), possessionElement = tds.get(2), internetElement = tds.get(3);
             final String saleString = getValue(saleElement), possessionString = getValue(possessionElement), internetString = getValue(internetElement);
 
-            if(!saleString.equals("Unknown") && !possessionString.equals("Unknown") && !internetString.equals("Unknown")) {
+            if(!saleString.equals("No data") && !possessionString.equals("No data") && !internetString.equals("No data")) {
                 final String country = tds.get(0).text().toLowerCase().split("\\(")[0].replace(" ", "");
                 final String notes = null;
 

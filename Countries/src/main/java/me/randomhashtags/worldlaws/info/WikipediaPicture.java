@@ -22,8 +22,7 @@ public final class WikipediaPicture {
 
     @Override
     public String toString() {
-        return "{" +
-                "\"id\":\"" + name + "\"," +
+        return "\"" + name + "\":{" +
                 (title != null ? "\"title\":\"" + title + "\"," : "") +
                 "\"imageURL\":\"" + imageURL + "\"," +
                 "\"url\":\"" + url + "\"" +

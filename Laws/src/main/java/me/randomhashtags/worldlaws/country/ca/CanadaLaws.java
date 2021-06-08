@@ -15,7 +15,12 @@ public enum CanadaLaws implements LawController {
     }
 
     @Override
-    public void getResponse(String value, CompletionHandler handler) {
+    public void getRecentActivity(CompletionHandler handler) {
+        handler.handle(null);
+    }
 
+    @Override
+    public void getResponse(String value, CompletionHandler handler) {
+        handler.handle(null);
     }
 }

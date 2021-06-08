@@ -1,43 +1,60 @@
 package me.randomhashtags.worldlaws.info.service;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.location.CountryInformationType;
+import me.randomhashtags.worldlaws.location.SovereignStateService;
 import org.apache.logging.log4j.Level;
+import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.HashSet;
+import java.util.concurrent.ConcurrentHashMap;
 
-public interface CountryService extends RestAPI, Jsoupable, Jsonable {
+public interface CountryService extends SovereignStateService {
+    ConcurrentHashMap<CountryInfo, JSONObject> COUNTRY_SERVICE_JSON_VALUES = new ConcurrentHashMap<>();
     default FileType getFileType() {
         return FileType.COUNTRIES_SERVICES;
     }
+    CountryInformationType getInformationType();
     CountryInfo getInfo();
-    HashMap<String, String> getCountries();
 
-    default void getValue(String countryBackendID, CompletionHandler handler) {
-        if(getCountries() != null) {
-            final String value = getValue(countryBackendID);
-            handler.handle(value);
+    default void getCountryValue(String countryBackendID, CompletionHandler handler) {
+        final CountryInfo info = getInfo();
+        if(COUNTRY_SERVICE_JSON_VALUES.containsKey(info)) {
+            final JSONObject json = COUNTRY_SERVICE_JSON_VALUES.get(info);
+            handler.handle(json.has(countryBackendID) ? json.getJSONObject(countryBackendID).toString() : null);
         } else {
             final long started = System.currentTimeMillis();
-            refresh(new CompletionHandler() {
+            final String fileName = info.getTitle();
+            getJSONData(getFileType(), fileName, countryBackendID, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    WLLogger.log(Level.INFO, getInfo().name() + " - loaded " + getCountries().size() + " countries/territories (took " + (System.currentTimeMillis()-started) + "ms)");
-                    final String value = getValue(countryBackendID);
+                public void handleJSONObject(JSONObject json) {
+                    COUNTRY_SERVICE_JSON_VALUES.put(info, json);
+                    final String value = json.has(countryBackendID) ? json.getJSONObject(countryBackendID).toString() : null;
+                    WLLogger.log(Level.INFO, fileName + " - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
                     handler.handle(value);
                 }
             });
         }
     }
-    default String getValue(String countryBackendID) {
-        return getCountries().getOrDefault(countryBackendID, "null");
-    }
+    default void getJSONData(FileType fileType, String fileName, String countryBackendID, CompletionHandler handler) {
+        getJSONObject(fileType, fileName, new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+                loadData(handler);
+            }
 
-    void refresh(CompletionHandler handler);
+            @Override
+            public void handleJSONObject(JSONObject json) {
+                handler.handleJSONObject(json);
+            }
+        });
+    }
 
     default HashSet<String> getCountriesFromText(String text) {
         final HashSet<String> countries = new HashSet<>();
@@ -96,12 +113,5 @@ public interface CountryService extends RestAPI, Jsoupable, Jsonable {
         }
         notes = removeReferences(notes);
         return notes;
-    }
-
-    default void getJSONObject(CountryService service, CompletionHandler handler) {
-        getJSONObject(service.getFileType(), service.getInfo().getTitle(), handler);
-    }
-    default void getJSONArray(CountryService service, CompletionHandler handler) {
-        getJSONArray(service.getFileType(), service.getInfo().getTitle(), handler);
     }
 }

@@ -1,13 +1,20 @@
 package me.randomhashtags.worldlaws;
 
-public final class PreUpcomingEvent {
-    private final String id, title, tag, imageURL;
+import java.util.HashMap;
 
-    public PreUpcomingEvent(String id, String title, String tag, String imageURL) {
-        this.id = id.replace("|", "");
+public final class PreUpcomingEvent {
+    private final String id, title, url, tag;
+    private final HashMap<String, Object> customValues;
+
+    public PreUpcomingEvent(String id, String title, String url, String tag) {
+        this(id, title, url, tag, null);
+    }
+    public PreUpcomingEvent(String id, String title, String url, String tag, HashMap<String, Object> customValues) {
+        this.id = id;
         this.title = LocalServer.fixEscapeValues(title);
+        this.url = url;
         this.tag = LocalServer.fixEscapeValues(tag);
-        this.imageURL = LocalServer.fixEscapeValues(imageURL);
+        this.customValues = customValues;
     }
 
     public String getID() {
@@ -16,17 +23,20 @@ public final class PreUpcomingEvent {
     public String getTitle() {
         return title;
     }
+    public String getURL() {
+        return url;
+    }
     public String getTag() {
         return tag;
     }
-    public String getImageURL() {
-        return imageURL;
+
+    public Object getCustomValue(String key) {
+        return customValues != null ? customValues.getOrDefault(key, null) : null;
     }
 
-    @Override
-    public String toString() {
-        return "{" +
-                "\"id\":\"" + id + "\"," +
+    public String toStringWithImageURL(String imageURL) {
+        final String[] values = id.split("\\.");
+        return "\"" + id.substring(values[0].length()+1) + "\":{" +
                 "\"title\":\"" + title + "\"," +
                 (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"," : "") +
                 "\"tag\":\"" + tag + "\"" +

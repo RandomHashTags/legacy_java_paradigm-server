@@ -1,8 +1,8 @@
 package me.randomhashtags.worldlaws.country.usa.federal;
 
+import me.randomhashtags.worldlaws.country.State;
 import me.randomhashtags.worldlaws.country.StateIndex;
 import me.randomhashtags.worldlaws.country.StateReference;
-import me.randomhashtags.worldlaws.country.State;
 import me.randomhashtags.worldlaws.country.StateStatute;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;

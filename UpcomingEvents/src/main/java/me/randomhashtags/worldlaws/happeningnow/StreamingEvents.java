@@ -1,16 +1,18 @@
 package me.randomhashtags.worldlaws.happeningnow;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.EventController;
-import me.randomhashtags.worldlaws.UpcomingEventType;
 import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Timer;
+import java.util.TimerTask;
 
-public enum StreamingEvents implements EventController, DataValues {
+public enum StreamingEvents implements UpcomingEventController, DataValues {
     TWITCH(null,
             "https://api.twitch.tv/helix/streams",
             "Client-ID",
@@ -76,12 +78,12 @@ public enum StreamingEvents implements EventController, DataValues {
     }
 
     @Override
-    public HashMap<String, NewPreUpcomingEvent> getPreEventURLs() {
+    public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
         return null;
     }
 
     @Override
-    public HashMap<String, String> getPreUpcomingEvents() {
+    public HashMap<String, String> getLoadedPreUpcomingEvents() {
         return null;
     }
 
@@ -126,6 +128,6 @@ public enum StreamingEvents implements EventController, DataValues {
     }
 
     @Override
-    public void getUpcomingEvent(String id, CompletionHandler handler) {
+    public void loadUpcomingEvent(String id, CompletionHandler handler) {
     }
 }

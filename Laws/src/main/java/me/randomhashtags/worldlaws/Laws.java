@@ -1,19 +1,19 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.LawController;
-import me.randomhashtags.worldlaws.country.ca.CanadaLaws;
 import me.randomhashtags.worldlaws.country.usa.USLaws;
-import me.randomhashtags.worldlaws.country.usa.federal.USCongress;
 import org.apache.logging.log4j.Level;
 
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Map;
+import java.util.concurrent.atomic.AtomicInteger;
 
-public final class Laws implements DataValues {
+public final class Laws implements WLServer {
 
     private HashMap<String, LawController> countries;
 
     private final LawController[] CONTROLLERS = new LawController[] {
-            CanadaLaws.INSTANCE,
             USLaws.INSTANCE
     };
 
@@ -26,37 +26,79 @@ public final class Laws implements DataValues {
         load();
     }
 
+    @Override
+    public TargetServer getServer() {
+        return TargetServer.LAWS;
+    }
+
     private void test() {
-        USCongress.getCongress(116).getEnactedBills(new CompletionHandler() {
+        USLaws.INSTANCE.getRecentActivity(new CompletionHandler() {
             @Override
             public void handle(Object object) {
                 WLLogger.log(Level.INFO, "Laws;test;object=" + object);
             }
         });
     }
-    private void load() {
+
+    @Override
+    public void load() {
         countries = new HashMap<>();
         for(LawController country : CONTROLLERS) {
             countries.put(country.getCountry().getBackendID(), country);
         }
-        LocalServer.start("Laws", WL_LAWS_PORT, new CompletionHandler() {
-            @Override
-            public void handleClient(WLClient client) {
-                final String target = client.getTarget();
-                getResponse(target, new CompletionHandler() {
-                    @Override
-                    public void handle(Object object) {
-                        final String string = object.toString();
-                        client.sendResponse(string);
-                    }
-                });
-            }
-        });
+        startServer();
     }
 
-    private void getResponse(String target, CompletionHandler handler) {
+    @Override
+    public void getServerResponse(ServerVersion version, String target, CompletionHandler handler) {
         final String[] values = target.split("/");
         final String key = values[0];
-        countries.get(key).getResponse(target.substring(key.length()+1), handler);
+        switch (key) {
+            case "recently_passed":
+                getRecentlyPassed(handler);
+                break;
+            default:
+                countries.get(key).getResponse(target.substring(key.length()+1), handler);
+                break;
+        }
+    }
+
+    @Override
+    public String[] getHomeRequests() {
+        return new String[] {
+                "recently_passed"
+        };
+    }
+
+    private void getRecentlyPassed(CompletionHandler handler) {
+        final int max = CONTROLLERS.length;
+        final HashMap<String, String> values = new HashMap<>();
+        final AtomicInteger completed = new AtomicInteger(0);
+        Arrays.asList(CONTROLLERS).parallelStream().forEach(controller -> {
+            controller.getRecentActivity(new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    if(object != null) {
+                        values.put(controller.getCountry().getBackendID(), object.toString());
+                    }
+                    if(completed.addAndGet(1) == max) {
+                        String string = null;
+                        if(!values.isEmpty()) {
+                            final StringBuilder builder = new StringBuilder("{");
+                            boolean isFirst = true;
+                            for(Map.Entry<String, String> map : values.entrySet()) {
+                                final String country = map.getKey();
+                                final String json = map.getValue();
+                                builder.append(isFirst ? "" : ",").append("\"").append(country).append("\":").append(json);
+                                isFirst = false;
+                            }
+                            builder.append("}");
+                            string = builder.toString();
+                        }
+                        handler.handle(string);
+                    }
+                }
+            });
+        });
     }
 }

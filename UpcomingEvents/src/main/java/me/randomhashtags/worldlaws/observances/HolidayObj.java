@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.observances;
 
+import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -11,13 +12,15 @@ public class HolidayObj implements Holiday {
     protected String[] aliases;
     protected String imageURL;
     private final String englishName, description, learnMoreURL;
+    private final EventSources otherSources;
 
-    public HolidayObj(String englishName, String imageURL, String[] aliases, String description, String learnMoreURL) {
+    public HolidayObj(String englishName, String imageURL, String[] aliases, String description, String learnMoreURL, EventSources otherSources) {
         this.englishName = LocalServer.fixEscapeValues(englishName);
         this.imageURL = imageURL;
         this.aliases = aliases;
         this.description = description;
         this.learnMoreURL = learnMoreURL;
+        this.otherSources = otherSources;
     }
     public HolidayObj(String englishName, JSONObject json) {
         this.englishName = englishName;
@@ -39,6 +42,7 @@ public class HolidayObj implements Holiday {
             }
         }
         learnMoreURL = json.getString("learnMoreURL");
+        otherSources = null;
     }
 
     @Override
@@ -51,7 +55,7 @@ public class HolidayObj implements Holiday {
         }
         countries.add(country);
     }
-    private String getCountriesArray(HashSet<String> countries) {
+    protected String getCountriesArray(HashSet<String> countries) {
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         for(String country : countries) {
@@ -101,6 +105,7 @@ public class HolidayObj implements Holiday {
                 (countries != null ? "\"countries\":" + getCountriesArray(countries) + "," : "") +
                 (aliases != null ? "\"aliases\":" + getAliasesArray() + "," : "") +
                 (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"," : "") +
+                (otherSources != null ? "\"otherSources\":" + otherSources.toString() : "") +
                 "\"learnMoreURL\":\"" + learnMoreURL + "\"" +
                 "}";
     }

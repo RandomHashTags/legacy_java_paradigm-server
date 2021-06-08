@@ -71,7 +71,7 @@ public enum PolicyArea {
 
     public static PolicyArea fromTag(String input) {
         for(PolicyArea area : PolicyArea.values()) {
-            if(area.getTag().equalsIgnoreCase(input)) {
+            if(input.equalsIgnoreCase(area.getTag())) {
                 return area;
             }
         }

@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.country;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.Jsoupable;
+import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.RomanNumeral;
+import me.randomhashtags.worldlaws.SkipInterval;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 

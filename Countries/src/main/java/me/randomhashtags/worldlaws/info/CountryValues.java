@@ -38,7 +38,6 @@ public enum CountryValues implements CountryValueService {
 
     private final String url;
     private final int yearOfData;
-    private HashMap<String, String> countries;
 
     CountryValues(String url, int yearOfData) {
         this.url = url;
@@ -48,15 +47,6 @@ public enum CountryValues implements CountryValueService {
     @Override
     public CountryInfo getInfo() {
         return CountryInfo.valueOf("VALUE_" + name());
-    }
-
-    @Override
-    public HashMap<String, String> getCountries() {
-        return countries;
-    }
-    @Override
-    public void setCountries(HashMap<String, String> countries) {
-        this.countries = countries;
     }
 
     @Override

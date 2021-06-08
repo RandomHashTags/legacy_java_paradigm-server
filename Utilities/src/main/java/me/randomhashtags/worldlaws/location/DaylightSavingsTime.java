@@ -104,12 +104,12 @@ public enum DaylightSavingsTime implements Jsonable { // TODO: update to jsonabl
             final String[] values = observations.getOrDefault(country, "Unknown|Unknown").split("\\|");
             final String start = values[0].toLowerCase(), end = values[1].toLowerCase();
             final String[] startValues = start.split(" "), endValues = end.split(" ");
-            Month startMonth = WLUtilities.getMonthFromPrefix(start);
+            Month startMonth = WLUtilities.valueOfMonthFromInput(start);
             if(startMonth != null) {
                 final int startMonthValue = startMonth.getValue(), startDay = Integer.parseInt(startValues[1]);
                 final LocalDateTime startDate = LocalDate.of(currentYear, startMonthValue, startDay).atStartOfDay();
 
-                final int endMonthValue = WLUtilities.getMonthFromPrefix(end).getValue(), endDay = Integer.parseInt(endValues[1]);
+                final int endMonthValue = WLUtilities.valueOfMonthFromInput(end).getValue(), endDay = Integer.parseInt(endValues[1]);
                 final LocalDateTime endDate = LocalDate.of(currentYear+1, endMonthValue, endDay).atStartOfDay();
 
                 this.startDate = startDate;
@@ -144,7 +144,7 @@ public enum DaylightSavingsTime implements Jsonable { // TODO: update to jsonabl
         }
     }
     private LocalDateTime getDateWith(int year, String start, String weekday, String month) {
-        final Month targetMonth = WLUtilities.getMonthFromPrefix(month);
+        final Month targetMonth = WLUtilities.valueOfMonthFromInput(month);
         return getDateWith(year, start, weekday, targetMonth);
     }
     private LocalDateTime getDateWith(int year, String start, String weekday, Month month) {

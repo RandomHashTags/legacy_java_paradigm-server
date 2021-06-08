@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.smartphones.*;
 
-public final class Technology implements DataValues {
+public final class Technology implements WLServer {
 
     private String smartphones;
 
@@ -11,19 +11,16 @@ public final class Technology implements DataValues {
     }
 
     private Technology() {
-        LocalServer.start("Technology", WL_TECHNOLOGY_PORT, new CompletionHandler() {
-            @Override
-            public void handleClient(WLClient client) {
-                final String target = client.getTarget();
-                getResponse(target, new CompletionHandler() {
-                    @Override
-                    public void handle(Object object) {
-                        final String response = object.toString();
-                        client.sendResponse(response);
-                    }
-                });
-            }
-        });
+        //test();
+        load();
+    }
+
+    @Override
+    public TargetServer getServer() {
+        return TargetServer.TECHNOLOGY;
+    }
+
+    private void test() {
     }
 
     private SmartphoneCompany[] getCompanies() {
@@ -36,7 +33,8 @@ public final class Technology implements DataValues {
         };
     }
 
-    private void getResponse(String target, CompletionHandler handler) {
+    @Override
+    public void getServerResponse(ServerVersion version, String target, CompletionHandler handler) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
@@ -46,6 +44,11 @@ public final class Technology implements DataValues {
             default:
                 break;
         }
+    }
+
+    @Override
+    public String[] getHomeRequests() {
+        return null;
     }
 
     private void getSmartphoneCompanyResponse(String target, CompletionHandler handler) {

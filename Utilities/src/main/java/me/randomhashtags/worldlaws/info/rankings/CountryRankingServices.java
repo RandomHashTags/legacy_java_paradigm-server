@@ -15,12 +15,6 @@ public abstract class CountryRankingServices {
             service.getRankedJSON(handler);
         }
     }
-    public static void getValue(String name, String countryBackendID, CompletionHandler handler) {
-        final CountryRankingService service = valueOf(name);
-        if(service != null) {
-            service.getValue(countryBackendID, handler);
-        }
-    }
 
     public static Stream<CountryService> getRankingsServices() {
         return CountryServices.SERVICES.parallelStream().filter(service -> service instanceof CountryRankingService);

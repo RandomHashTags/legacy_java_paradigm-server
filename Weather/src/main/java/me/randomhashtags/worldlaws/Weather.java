@@ -1,61 +1,46 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.earthquakes.Earthquakes;
 import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
-import me.randomhashtags.worldlaws.earthquakes.recode.NewEarthquakes;
 import me.randomhashtags.worldlaws.hurricanes.Hurricanes;
-import me.randomhashtags.worldlaws.weather.country.WeatherUSA;
 import org.apache.logging.log4j.Level;
 
-import java.util.HashSet;
-import java.util.concurrent.atomic.AtomicInteger;
-
-public final class Weather implements DataValues {
+public final class Weather implements WLServer {
 
     public static void main(String[] args) {
-        new Weather().init();
+        new Weather();
     }
 
-    private void init() {
+    private Weather() {
         test();
-        //loadServer();
+        //load();
+    }
+
+    @Override
+    public TargetServer getServer() {
+        return TargetServer.WEATHER;
     }
 
     private void test() {
-        WeatherUSA.INSTANCE.refresh(new CompletionHandler() {
+        Earthquakes.INSTANCE.getRecent(null, new CompletionHandler() {
             @Override
             public void handle(Object object) {
-                loadServer();
-            }
-        });
-    }
-    private void loadServer() {
-        LocalServer.start("Weather", WL_WEATHER_PORT, new CompletionHandler() {
-            @Override
-            public void handleClient(WLClient client) {
-                final String target = client.getTarget();
-                getResponse(target, new CompletionHandler() {
-                    @Override
-                    public void handle(Object object) {
-                        final String string = object.toString();
-                        client.sendResponse(string);
-                    }
-                });
+                WLLogger.log(Level.INFO, "Weather;test;object=");
+                WLLogger.log(Level.INFO, "" + object);
             }
         });
     }
 
-    private void getResponse(String target, CompletionHandler handler) {
+    @Override
+    public void getServerResponse(ServerVersion version, String target, CompletionHandler handler) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
-            case "home":
-                getHomeResponse(handler);
-                break;
             case "alerts":
                 WeatherAlerts.INSTANCE.getResponse(target.substring(key.length()+1), handler);
                 break;
             case "earthquakes":
-                NewEarthquakes.INSTANCE.getResponse(values, handler);
+                Earthquakes.INSTANCE.getResponse(values, handler);
                 break;
             case "hurricanes":
                 final int year = Integer.parseInt(values[1]);
@@ -66,34 +51,11 @@ public final class Weather implements DataValues {
         }
     }
 
-    private void getHomeResponse(CompletionHandler handler) {
-        final HashSet<String> requests = new HashSet<>() {{
-            add("alerts/all");
-            add("earthquakes/recent");
-        }};
-        final int max = requests.size();
-        final AtomicInteger completed = new AtomicInteger(0);
-        final HashSet<String> values = new HashSet<>();
-        requests.parallelStream().forEach(request -> {
-            final String key = request.split("/")[0];
-            getResponse(request, new CompletionHandler() {
-                @Override
-                public void handle(Object object) {
-                    final String string = "\"" + key + "\":" + object.toString();
-                    values.add(string);
-                    final int completedHandlers = completed.addAndGet(1);
-                    if(completedHandlers == max) {
-                        final StringBuilder builder = new StringBuilder("{");
-                        boolean isFirst = true;
-                        for(String value : values) {
-                            builder.append(isFirst ? "" : ",").append(value);
-                            isFirst = false;
-                        }
-                        builder.append("}");
-                        handler.handle(builder.toString());
-                    }
-                }
-            });
-        });
+    @Override
+    public String[] getHomeRequests() {
+        return new String[] {
+                "alerts/all",
+                "earthquakes/recent"
+        };
     }
 }

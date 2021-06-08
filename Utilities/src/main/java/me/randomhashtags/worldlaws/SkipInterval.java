@@ -4,7 +4,7 @@ public enum SkipInterval {
     NONE(-2),
     ONLY_FIRST(-1);
 
-    private int value;
+    private final int value;
 
     SkipInterval(int value) {
         this.value = value;

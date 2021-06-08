@@ -30,17 +30,17 @@ public enum TerritoryDetails implements CountryService {
     }
 
     @Override
+    public CountryInformationType getInformationType() {
+        return CountryInformationType.TERRITORIES;
+    }
+
+    @Override
     public CountryInfo getInfo() {
         return CountryInfo.TERRITORIES;
     }
 
     @Override
-    public HashMap<String, String> getCountries() {
-        return null;
-    }
-
-    @Override
-    public void refresh(CompletionHandler handler) {
+    public void loadData(CompletionHandler handler) {
     }
 
     public void getValues(WLCountry country, CompletionHandler handler) {
@@ -58,15 +58,14 @@ public enum TerritoryDetails implements CountryService {
 
                 @Override
                 public void handleJSONArray(JSONArray array) {
-                    final StringBuilder builder = new StringBuilder("[");
+                    final StringBuilder builder = new StringBuilder();
                     boolean isFirst = true;
                     for(Object obj : array) {
                         final JSONObject json = (JSONObject) obj;
                         final Territory territory = createTerritory(json);
-                        builder.append(isFirst ? "" : ",").append(territory.toJSON());
+                        builder.append(isFirst ? "" : ",").append(territory.toServerJSON());
                         isFirst = false;
                     }
-                    builder.append("]");
                     final String string = builder.toString();
                     territories.put(countryBackendID, string);
                     WLLogger.log(Level.INFO,  getInfo().name() + " - loaded \"" + countryBackendID + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
@@ -77,7 +76,7 @@ public enum TerritoryDetails implements CountryService {
     }
 
     private void loadCountryTerritories(WLCountry country, CompletionHandler handler) {
-        final StringBuilder builder = new StringBuilder("[");
+        final StringBuilder builder = new StringBuilder();
         boolean isFirst = true;
         final String wikipageURL = getURL(country);
         final String tableClassName = getTableClassName(country);
@@ -92,11 +91,10 @@ public enum TerritoryDetails implements CountryService {
                 final String name = getName(country, head, rows);
                 final String flagURL = getFlagURL(country, name);
                 final Territory territory = createTerritory(name, flagURL);
-                builder.append(isFirst ? "" : ",").append(territory.toJSON());
+                builder.append(isFirst ? "" : ",").append(territory.toServerJSON());
                 isFirst = false;
             }
         }
-        builder.append("]");
         handler.handle(builder.toString());
     }
     private Elements getElements() {
@@ -186,22 +184,7 @@ public enum TerritoryDetails implements CountryService {
         return createTerritory(name, flagURL);
     }
     private Territory createTerritory(String name, String flagURL) {
-        return new Territory() {
-            @Override
-            public String getName() {
-                return name;
-            }
-
-            @Override
-            public String getFlagURL() {
-                return flagURL;
-            }
-
-            @Override
-            public String getGovernmentURL() {
-                return null;
-            }
-        };
+        return new Territory(name, flagURL, null);
     }
 
     private String getTableClassName(WLCountry country) {

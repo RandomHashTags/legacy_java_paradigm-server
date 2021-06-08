@@ -2,8 +2,6 @@ package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.location.WLCountry;
-import me.randomhashtags.worldlaws.weather.WeatherEvent;
-import me.randomhashtags.worldlaws.weather.WeatherPreAlert;
 import org.apache.logging.log4j.Level;
 
 import java.util.*;
@@ -48,13 +46,29 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
         for(Map.Entry<String, HashSet<WeatherPreAlert>> map : hashmap.entrySet()) {
             final String event = map.getKey();
             final HashSet<WeatherPreAlert> preAlerts = map.getValue();
-            final StringBuilder builder = new StringBuilder("[");
-            boolean isFirst = true;
+
+            final HashMap<String, HashSet<String>> territoryPreAlerts = new HashMap<>();
             for(WeatherPreAlert preAlert : preAlerts) {
-                builder.append(isFirst ? "" : ",").append(preAlert.toString());
-                isFirst = false;
+                final String territory = preAlert.getTerritory();
+                territoryPreAlerts.putIfAbsent(territory, new HashSet<>());
+                territoryPreAlerts.get(territory).add(preAlert.toString());
             }
-            final String string = builder.append("]").toString();
+
+            final StringBuilder builder = new StringBuilder("{");
+            boolean isFirstTerritory = true;
+            for(Map.Entry<String, HashSet<String>> preAlert : territoryPreAlerts.entrySet()) {
+                final String territory = preAlert.getKey();
+                builder.append(isFirstTerritory ? "" : ",").append("\"").append(territory).append("\":{");
+                isFirstTerritory = false;
+
+                boolean isFirst = true;
+                for(String alert : preAlert.getValue()) {
+                    builder.append(isFirst ? "" : ",").append(alert);
+                    isFirst = false;
+                }
+                builder.append("}");
+            }
+            final String string = builder.append("}").toString();
             eventPreAlerts.put(event.toLowerCase().replace(" ", ""), string);
         }
     }

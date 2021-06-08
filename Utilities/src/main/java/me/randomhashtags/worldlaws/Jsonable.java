@@ -9,21 +9,20 @@ import java.io.FileWriter;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.List;
+import java.util.stream.Stream;
 
 public interface Jsonable {
+    String USER_DIR = System.getProperty("user.dir") + File.separator;
+
     private static String getFolder(FileType type) {
         return FolderUtils.getFolder(type);
     }
     private static String getJSONFilePath(FileType fileType, String fileName) {
-        final String currentPath = System.getProperty("user.dir") + File.separator;
-        final String folder = currentPath + getFolder(fileType);
+        final String folder = USER_DIR + getFolder(fileType);
         return folder + File.separator + fileName + ".json";
     }
     private String getLocalFileString(FileType type, String fileName) {
-        final String currentPath = System.getProperty("user.dir") + File.separator;
-
-        final String folder = currentPath + getFolder(type);
+        final String folder = USER_DIR + getFolder(type);
         final File folderFile = new File(folder);
         if(!folderFile.exists()) {
             try {
@@ -37,18 +36,14 @@ public interface Jsonable {
         final File file = new File(directory);
         if(file.exists()) {
             final Path path = file.toPath();
-            final List<String> lines;
-            try {
-                lines = Files.readAllLines(path);
+            try (Stream<String> lines = Files.lines(path)) {
+                final StringBuilder builder = new StringBuilder();
+                lines.forEach(builder::append);
+                return builder.toString();
             } catch (Exception e) {
                 e.printStackTrace();
                 return null;
             }
-            final StringBuilder builder = new StringBuilder();
-            for(String line : lines) {
-                builder.append(line);
-            }
-            return builder.toString();
         }
         return null;
     }
@@ -72,6 +67,12 @@ public interface Jsonable {
                     saveFileJSON(type, fileName, object);
                     handler.handleJSONObject(new JSONObject(string));
                 }
+
+                @Override
+                public void handleJSONObject(JSONObject json) {
+                    saveFileJSON(type, fileName, json);
+                    handler.handleJSONObject(json);
+                }
             });
         }
     }
@@ -87,6 +88,12 @@ public interface Jsonable {
                     final String string = object.toString();
                     saveFileJSON(type, fileName, object);
                     handler.handleJSONArray(new JSONArray(string));
+                }
+
+                @Override
+                public void handleJSONArray(JSONArray array) {
+                    saveFileJSON(type, fileName, array);
+                    handler.handleJSONArray(array);
                 }
             });
         }

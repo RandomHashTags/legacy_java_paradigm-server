@@ -65,13 +65,12 @@ public final class CountryAgricultureValue implements ServerObject {
 
     @Override
     public String toString() {
-        return "{" +
+        return "\"" + description + "\":{" +
                 "\"maxWorldRank\":" + maxWorldRank + "," +
                 "\"worldRank\":" + worldRank + "," +
                 "\"yearOfData\":" + yearOfData + "," +
                 "\"value\":" + value + "," +
                 "\"valueType\":\"" + NumberType.INTEGER.name() + "\"," +
-                "\"description\":\"" + description + "\"," +
                 "\"suffix\":\"" + suffix + "\"," +
                 "\"sources\":" + sources.toString() +
                 "}";

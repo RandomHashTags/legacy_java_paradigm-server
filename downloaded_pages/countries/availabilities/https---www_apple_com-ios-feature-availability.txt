@@ -218,7 +218,7 @@
    <li>Croatia</li> 
    <li>Curaçao</li> 
    <li>Cyprus</li> 
-   <li>Czech Republic</li> 
+   <li>Czechia</li> 
    <li>Denmark</li> 
    <li>Djibouti</li> 
    <li>Dominica</li> 
@@ -320,6 +320,7 @@
    <li>Oman</li> 
    <li>Pakistan</li> 
    <li>Palau</li> 
+   <li>Palestinian Territories</li> 
    <li>Panama</li> 
    <li>Papua New Guinea</li> 
    <li>Paraguay</li> 
@@ -455,7 +456,7 @@
    <li>Croatia</li> 
    <li>Curaçao</li> 
    <li>Cyprus</li> 
-   <li>Czech Republic</li> 
+   <li>Czechia</li> 
    <li>Denmark</li> 
    <li>Djibouti</li> 
    <li>Dominica</li> 
@@ -557,6 +558,7 @@
    <li>Oman</li> 
    <li>Pakistan</li> 
    <li>Palau</li> 
+   <li>Palestinian Territories</li> 
    <li>Panama</li> 
    <li>Papua New Guinea</li> 
    <li>Paraguay</li> 
@@ -648,7 +650,6 @@
    <li>Congo, Republic of</li> 
    <li>French Guiana</li> 
    <li>Gabon</li> 
-   <li>Guadeloupe</li> 
    <li>Guinea-Bissau</li> 
    <li>Indonesia</li> 
    <li>Kiribati</li> 
@@ -681,16 +682,16 @@
    <li>Barbados</li> 
    <li>Belgium</li> 
    <li>Bermuda</li> 
-   <li>Bonaire, Sint Eustatius &amp; Saba</li> 
    <li>Brazil</li> 
    <li>British Virgin Islands</li> 
    <li>Brunei</li> 
    <li>Bulgaria</li> 
    <li>Canada</li> 
+   <li>Caribbean Netherlands</li> 
    <li>Cayman Islands</li> 
    <li>China mainland</li> 
    <li>Croatia</li> 
-   <li>Czech Republic</li> 
+   <li>Czechia</li> 
    <li>Denmark</li> 
    <li>Dominica</li> 
    <li>Dominican Republic</li> 
@@ -702,6 +703,7 @@
    <li>Gibraltar</li> 
    <li>Greece</li> 
    <li>Grenada</li> 
+   <li>Guadeloupe</li> 
    <li>Haiti</li> 
    <li>Hong Kong</li> 
    <li>Hungary</li> 
@@ -727,7 +729,7 @@
    <li>Netherlands</li> 
    <li>New Zealand</li> 
    <li>Norway</li> 
-   <li>Palestine Territories</li> 
+   <li>Palestinian Territories</li> 
    <li>Poland</li> 
    <li>Portugal</li> 
    <li>Romania</li> 
@@ -780,7 +782,7 @@
    <li>China mainland</li> 
    <li>Colombia</li> 
    <li>Croatia</li> 
-   <li>Czech Republic</li> 
+   <li>Czechia</li> 
    <li>Denmark</li> 
    <li>Dominican Republic</li> 
    <li>Egypt</li> 
@@ -861,7 +863,7 @@
    <li>Canada</li> 
    <li>China mainland</li> 
    <li>Croatia</li> 
-   <li>Czech Republic</li> 
+   <li>Czechia</li> 
    <li>Finland</li> 
    <li>France</li> 
    <li>Germany</li> 
@@ -877,7 +879,6 @@
    <li>Poland</li> 
    <li>Slovakia</li> 
    <li>Slovenia</li> 
-   <li>South Africa</li> 
    <li>Sweden</li> 
    <li>Switzerland</li> 
    <li>United Kingdom</li> 
@@ -906,6 +907,7 @@
  <div class="section-content"> 
   <h4 class="typography-headline">Maps: Speed Cameras</h4> 
   <ul> 
+   <li>Canada</li> 
    <li>Ireland</li> 
    <li>United Kingdom</li> 
    <li>United States</li> 
@@ -941,6 +943,7 @@
    <li>Arizona, US</li> 
    <li>Arkansas, US</li> 
    <li>Australia</li> 
+   <li>Austria</li> 
    <li>Belgium</li> 
    <li>Budapest, Hungary</li> 
    <li>California, US</li> 
@@ -961,10 +964,11 @@
    <li>Hong Kong</li> 
    <li>Iceland</li> 
    <li>Idaho, US</li> 
+   <li>Illinois, US</li> 
    <li>Indiana, US</li> 
    <li>Iowa, US</li> 
-   <li>Illinois, US</li> 
    <li>Ireland</li> 
+   <li>Italy</li> 
    <li>Japan</li> 
    <li>Kansas, US</li> 
    <li>Kentucky, US</li> 
@@ -996,7 +1000,7 @@
    <li>Oklahoma, US</li> 
    <li>Oregon, US</li> 
    <li>Pennsylvania, US</li> 
-   <li>Prague, Czech Republic</li> 
+   <li>Prague, Czechia</li> 
    <li>Rhode Island, US</li> 
    <li>Rio de Janeiro, Brazil</li> 
    <li>Rome, Italy</li> 
@@ -1028,37 +1032,52 @@
  <div class="section-content"> 
   <h4 class="typography-headline">Maps: Real-Time Transit</h4> 
   <ul> 
+   <li>Adelaide, Australia</li> 
    <li>Alaska, US</li> 
+   <li>Arizona, US</li> 
    <li>Austin, TX</li> 
+   <li>Baltimore, US</li> 
+   <li>Barcelona, Spain</li> 
    <li>Beijing, China&nbsp;mainland</li> 
+   <li>Brisbane, Australia</li> 
    <li>Burlington, VT</li> 
    <li>California, US</li> 
    <li>Canada</li> 
    <li>Colorado, US</li> 
+   <li>Canberra, Australia</li> 
    <li>Dallas, TX</li> 
    <li>England</li> 
+   <li>Finland</li> 
    <li>Florida, US</li> 
    <li>Guangzhou, China&nbsp;mainland</li> 
-   <li>Houston, US</li> 
+   <li>Houston, TX</li> 
    <li>Illinois, US</li> 
+   <li>Ireland</li> 
+   <li>Kansas, US</li> 
    <li>Kentucky, US</li> 
    <li>Las Vegas, NV</li> 
    <li>Massachusetts, US</li> 
-   <li>Miami, FL</li> 
    <li>Michigan, US</li> 
+   <li>Minneapolis, MN</li> 
+   <li>Missouri, US</li> 
    <li>Netherlands</li> 
    <li>New York, US</li> 
    <li>North Carolina, US</li> 
+   <li>Norway</li> 
    <li>Ohio, US</li> 
    <li>Oregon, US</li> 
+   <li>Oslo, Norway</li> 
    <li>Pennsylvania, US</li> 
    <li>San Antonio, TX</li> 
    <li>Scotland</li> 
+   <li>Seattle, WA</li> 
+   <li>Shanghai, China&nbsp;mainland</li> 
    <li>Shenzhen, China&nbsp;mainland</li> 
    <li>South Carolina, US</li> 
    <li>St Louis, MO</li> 
    <li>Sweden</li> 
    <li>Sydney, Australia</li> 
+   <li>Taiwan</li> 
    <li>Tennessee, US</li> 
    <li>Washington, DC</li> 
    <li>Wisconsin, US</li> 
@@ -1071,11 +1090,12 @@
  <div class="section-content"> 
   <h4 class="typography-headline">Maps: Cycling</h4> 
   <ul> 
+   <li>California</li> 
    <li>China mainland</li> 
    <li>London, United Kingdom</li> 
-   <li>Los Angeles, CA</li> 
    <li>New York, NY</li> 
-   <li>San Francisco, CA</li> 
+   <li>Portland, OR</li> 
+   <li>Seattle, WA</li> 
   </ul> 
   <div class="top-link"> <a href="#top" class="back-to-top icon icon-after icon-chevronupcircle" data-analytics-click="prop3:back to top - maps-cycling" data-analytics-title="back to top - maps-cycling">Back to Top</a> 
   </div> 
@@ -1086,20 +1106,31 @@
   <h4 class="typography-headline">Maps: Look Around</h4> 
   <ul> 
    <li>Boston, MA</li> 
+   <li>Canada</li> 
    <li>Chicago, IL</li> 
+   <li>Denver, CO</li> 
+   <li>Detroit, MI</li> 
    <li>Dublin, Ireland</li> 
    <li>Edinburgh, Scotland</li> 
+   <li>Fukuoka, Japan</li> 
+   <li>Hiroshima, Japan</li> 
    <li>Houston, TX</li> 
    <li>Las Vegas, NV</li> 
    <li>London, United Kingdom</li> 
    <li>Los Angeles, CA</li> 
+   <li>Miami, FL</li> 
    <li>Nagoya, Japan</li> 
    <li>New York, NY</li> 
    <li>Oahu, HI</li> 
    <li>Osaka, Japan</li> 
    <li>Philadelphia, PA</li> 
+   <li>Phoenix, AZ</li> 
+   <li>Portland, OR</li> 
+   <li>San Diego, CA</li> 
    <li>San Francisco Bay Area, CA</li> 
+   <li>Santa Cruz, CA</li> 
    <li>Seattle, WA</li> 
+   <li>Takamatsu, Japan</li> 
    <li>Tokyo, Japan</li> 
    <li>Washington, DC</li> 
   </ul> 
@@ -1520,7 +1551,7 @@
    <li>Chile</li> 
    <li>China mainland</li> 
    <li>Croatia</li> 
-   <li>Czech Republic</li> 
+   <li>Czechia</li> 
    <li>Denmark</li> 
    <li>El Salvador</li> 
    <li>Finland</li> 
@@ -1567,6 +1598,7 @@
   <ul> 
    <li>Amsterdam Airport Schiphol&nbsp;(AMS)</li> 
    <li>Athens International Airport Eleftherios Venizelos&nbsp;(ATH)</li> 
+   <li>Austin-Bergstrom International Airport</li> 
    <li>Baltimore/Washington International Thurgood Marshall Airport&nbsp;(BWI)</li> 
    <li>Beijing Capital International Airport&nbsp;(PEK)</li> 
    <li>Berlin Schönefeld Airport&nbsp;(SXF)</li> 
@@ -1587,13 +1619,14 @@
    <li>Dallas/Fort Worth International Airport&nbsp;(DFW)</li> 
    <li>Denver International Airport&nbsp;(DEN)</li> 
    <li>Detroit Metropolitan Wayne County Airport&nbsp;(DTW)</li> 
+   <li>Dubai International Airport&nbsp;(DXB)</li> 
+   <li>Dublin Airport&nbsp;(DUB)</li> 
    <li>Edinburgh Airport&nbsp;(EDI)</li> 
    <li>Edmonton International Airport&nbsp;(YEG)</li> 
    <li>Fort Lauderdale–Hollywood International Airport&nbsp;(FLL)</li> 
    <li>Frankfurt Airport&nbsp;(FRA)</li> 
    <li>Geneva Airport&nbsp;(GVA)</li> 
    <li>Gerald R. Ford International Airport&nbsp;(GRR)</li> 
-   <li>Green Airport&nbsp;(PVD)</li> 
    <li>Guangzhou Baiyun International Airport&nbsp;(CAN)</li> 
    <li>Halifax Stanfield International Airport&nbsp;(YHZ)</li> 
    <li>Hamad International Airport&nbsp;(DOH)</li> 
@@ -1608,6 +1641,7 @@
    <li>Istanbul Sabiha Gökçen International Airport&nbsp;(SAW)</li> 
    <li>Jackson–Medgar Wiley Evers International Airport&nbsp;(JAN)</li> 
    <li>Jacksonville International Airport&nbsp;(JAX)</li> 
+   <li>John Glenn Columbus International Airport&nbsp;(CMH)</li> 
    <li>John Wayne Airport–Orange County&nbsp;(SNA)</li> 
    <li>Kunming Changshui International Airport&nbsp;(KMG)</li> 
    <li>Las Vegas McCarran International Airport&nbsp;(LAS)</li> 
@@ -1647,7 +1681,7 @@
    <li>San Diego International Airport&nbsp;(SAN)</li> 
    <li>San Jose Norman Y. Mineta International Airport&nbsp;(SJC)</li> 
    <li>Seattle–Tacoma International Airport&nbsp;(SEA)</li> 
-   <li>Shanghai Hongqiao International Airport&nbsp;(SHA)</li> 
+   <li>Shanghai Hongqiao International Airport&nbsp;(terminal 1 and 2)</li> 
    <li>Shanghai Pudong International Airport&nbsp;(PVG)</li> 
    <li>Shenyang Taoxian International Airport&nbsp;(SHE)</li> 
    <li>Shenzhen Bao’an International Airport&nbsp;(SZX)</li> 
@@ -1655,6 +1689,8 @@
    <li>Sunan Shuofang International Airport&nbsp;(WUX)</li> 
    <li>Sydney Airport&nbsp;(SYD)</li> 
    <li>Taiwan Taoyuan International Airport&nbsp;(TPE)</li> 
+   <li>Tan Son Nhat International Airport&nbsp;(SGN)</li> 
+   <li>TF Green Airport&nbsp;(PVD)</li> 
    <li>Tianjin Binhai International Airport&nbsp;(TSN)</li> 
    <li>Toronto Pearson International Airport&nbsp;(YYZ)</li> 
    <li>Vancouver International Airport&nbsp;(YVR)</li> 
@@ -1670,282 +1706,33 @@
  <div class="section-content"> 
   <h4 class="typography-headline">Maps: Indoor Maps Malls<sup class="footnote footnote-number"><a href="#footnote-1" aria-label="Footnote 1">1</a></sup></h4> 
   <ul> 
-   <li>A Coruña, Spain</li> 
-   <li>Airport West, Australia</li> 
-   <li>Allen, TX</li> 
-   <li>Alpharetta, GA</li> 
-   <li>Altamonte Springs, FL</li> 
-   <li>Arlington, TX</li> 
-   <li>Arlington, VA</li> 
-   <li>Ashwaubenon, WI</li> 
-   <li>Atlanta, GA</li> 
-   <li>Augusta, GA</li> 
-   <li>Aurora, IL</li> 
-   <li>Baltimore, MD</li> 
-   <li>Barakaldo, Spain</li> 
-   <li>Barcelona, Spain</li> 
-   <li>Barnstable, MA</li> 
-   <li>Belconnen, Australia</li> 
-   <li>Bellingham, WA</li> 
-   <li>Bensalem, PA</li> 
-   <li>Bilbao, Spain</li> 
-   <li>Bloomington, IN</li> 
-   <li>Boca Raton, FL</li> 
-   <li>Boston, MA</li> 
-   <li>Boulder, CO</li> 
-   <li>Bowling Green, KY</li> 
-   <li>Braintree, MA</li> 
-   <li>Brea, CA</li> 
-   <li>Bridgewater, NJ</li> 
-   <li>Brookvale, Australia</li> 
-   <li>Buford, GA</li> 
-   <li>Burlington, MA</li> 
-   <li>Burwood, Australia</li> 
-   <li>Calgary, Canada</li> 
-   <li>Calhoun, GA</li> 
-   <li>Cannington, WA</li> 
-   <li>Carindale, Australia</li> 
-   <li>Casa Grande, AZ</li> 
-   <li>Castel Guelfo di Bologna, Italy</li> 
-   <li>Cerritos, CA</li> 
-   <li>Chandler, AZ</li> 
-   <li>Chatswood, Australia</li> 
-   <li>Cheltenham, Australia</li> 
-   <li>Chermside, Australia</li> 
-   <li>Cherry Hill, NJ</li> 
-   <li>Chiba, Japan</li> 
-   <li>Chicago, IL</li> 
-   <li>Chillum, MD</li> 
-   <li>Chiyoda, Japan</li> 
-   <li>Chula Vista, CA</li> 
-   <li>Columbia, MD</li> 
-   <li>Columbus, GA</li> 
-   <li>Concord, CA</li> 
-   <li>Coral Gables, FL</li> 
-   <li>Corte Madera, CA</li> 
-   <li>Culleredo, Spain</li> 
-   <li>Cypress, TX</li> 
-   <li>Dallas, TX</li> 
-   <li>Danbury, CT</li> 
-   <li>Danvers, MA</li> 
-   <li>Dawsonville, GA</li> 
-   <li>Denver, CO</li> 
-   <li>Deptford, NJ</li> 
-   <li>Dieppe, Canada</li> 
-   <li>Doncaster, Australia</li> 
-   <li>Doral, FL</li> 
-   <li>Dover, DE</li> 
-   <li>Dover, NJ</li> 
-   <li>Downey, CA</li> 
-   <li>Dunwoody, GA</li> 
-   <li>Eastgardens, Australia</li> 
-   <li>Edinburgh, IN</li> 
-   <li>Edison, NJ</li> 
-   <li>Edmonton, Canada</li> 
-   <li>Elizabeth, NJ</li> 
-   <li>Elizabethtown, KY</li> 
-   <li>Ellenton, FL</li> 
-   <li>Estero, FL</li> 
-   <li>Evansville, IN</li> 
-   <li>Fairfax, VA</li> 
-   <li>Florence, KY</li> 
-   <li>Fort Worth, TX</li> 
-   <li>Frederick, MD</li> 
-   <li>Freehold, NJ</li> 
-   <li>Frisco, TX</li> 
-   <li>Gainesville, FL</li> 
-   <li>Garland, TX</li> 
-   <li>Geelong, Australia</li> 
-   <li>Getafe, Spain</li> 
-   <li>Gilbert, AZ</li> 
-   <li>Glendale, CA</li> 
-   <li>Goodyear, AZ</li> 
-   <li>Grand Chute, WI</li> 
-   <li>Grand Prairie, TX</li> 
-   <li>Grapevine, TX</li> 
-   <li>Greendale, WI</li> 
-   <li>Greenwood, IN</li> 
-   <li>Gurnee, IL</li> 
-   <li>Hackensack, NJ</li> 
-   <li>Hagerstown, MD</li> 
-   <li>Halton Hills, Canada</li> 
-   <li>Hamilton, Canada</li> 
-   <li>Hanover, MD</li> 
-   <li>Harrisonburg, VA</li> 
-   <li>Hatfield, England</li> 
-   <li>Hayward, CA</li> 
-   <li>Helensvale, Australia</li> 
-   <li>Hempstead, NY</li> 
+   <li>Australia</li> 
+   <li>Austria</li> 
+   <li>Canada</li> 
+   <li>China Mainland</li> 
+   <li>Czechia</li> 
+   <li>Denmark</li> 
+   <li>England</li> 
+   <li>France</li> 
+   <li>Germany</li> 
    <li>Hong Kong</li> 
-   <li>Hoover, AL</li> 
-   <li>Hornsby, Australia</li> 
-   <li>Houston, TX</li> 
-   <li>Humble, TX</li> 
-   <li>Huntington Station, NY</li> 
-   <li>Hurst, TX</li> 
-   <li>Hurstville, Australia</li> 
-   <li>Innaloo, WA</li> 
-   <li>Jacksonville, FL</li> 
-   <li>Jensen Beach, FL</li> 
-   <li>Jersey City, NJ</li> 
-   <li>Jonesboro, AR</li> 
-   <li>Katy, TX</li> 
-   <li>Kendall, FL</li> 
-   <li>Kennesaw, GA</li> 
-   <li>King of Prussia, PA</li> 
-   <li>Kitchener, Canada</li> 
-   <li>Kotara, Australia</li> 
-   <li>Lake Grove, NY</li> 
-   <li>Lakewood, CA</li> 
-   <li>Lakewood, CO</li> 
-   <li>Langhorne, PA</li> 
-   <li>Las Rozas de Madrid, Spain</li> 
-   <li>Laval, Canada</li> 
-   <li>Lawrence, NJ</li> 
-   <li>Lawrenceville, GA</li> 
-   <li>Leeds, United Kingdom</li> 
-   <li>Littleton, CO</li> 
-   <li>Liverpool, Australia</li> 
-   <li>Livingston, NJ</li> 
-   <li>Lombard, IL</li> 
-   <li>London, Canada</li> 
-   <li>London, United Kingdom</li> 
-   <li>Lone Tree, CO</li> 
-   <li>Los Angeles, CA</li> 
-   <li>Louisville, KY</li> 
-   <li>Lynnwood, WA</li> 
-   <li>Macon, GA</li> 
-   <li>Madrid, Spain</li> 
-   <li>Manchester, NH</li> 
-   <li>Marana, AZ</li> 
-   <li>Markham, Canada</li> 
-   <li>Marlborough, MA</li> 
-   <li>McLean, VA</li> 
-   <li>Merrimack, Australia</li> 
-   <li>Mesa, AZ</li> 
-   <li>Mesquite, TX</li> 
-   <li>Miami, FL</li> 
-   <li>Mill Park, Australia</li> 
-   <li>Milpitas, CA</li> 
-   <li>Minato-Ku, Japan</li> 
-   <li>Mirabel, Canada</li> 
-   <li>Miranda, Australia</li> 
-   <li>Mission Viejo, CA</li> 
-   <li>Mississauga, Canada</li> 
-   <li>Modbury, Australia</li> 
-   <li>Moline, IL</li> 
-   <li>Montclair, CA</li> 
-   <li>Montebello, CA</li> 
-   <li>Montréal, Canada</li> 
-   <li>Moorestown, NJ</li> 
-   <li>Mount Druitt, Australia</li> 
-   <li>Nanuet, NY</li> 
-   <li>Naples, FL</li> 
-   <li>Narre Warren, Australia</li> 
-   <li>Natick, MA</li> 
-   <li>New York, NY</li> 
-   <li>Newark, DE</li> 
-   <li>Newton, MA</li> 
-   <li>North Attleborough, MA</li> 
-   <li>North Lakes, Australia</li> 
-   <li>North Little Rock, AR</li> 
-   <li>Northbrook, IL</li> 
-   <li>Oaklands Park, SA</li> 
-   <li>Ontario, CA</li> 
-   <li>Orland Park, IL</li> 
-   <li>Orlando, FL</li> 
-   <li>Ottawa, Canada</li> 
-   <li>Oyster Bay, NY</li> 
-   <li>Palo Alto, CA</li> 
-   <li>Panama City Beach, FL</li> 
-   <li>Paramus, NJ</li> 
-   <li>Parramatta, Australia</li> 
-   <li>Peabody, MA</li> 
-   <li>Pembroke Pines, FL</li> 
-   <li>Penrith, Australia</li> 
-   <li>Pensacola, FL</li> 
-   <li>Philadelphia, PA</li> 
-   <li>Phillip, Australia</li> 
-   <li>Phoenix, AZ</li> 
-   <li>Pleasanton, CA</li> 
-   <li>Plymouth Meeting, PA</li> 
-   <li>Pointe-Claire, Canada</li> 
-   <li>Richmond, Canada</li> 
-   <li>Riverside, CA</li> 
-   <li>Rogers, AR</li> 
-   <li>Rosemont, IL</li> 
-   <li>Saint Augustine, FL</li> 
-   <li>Saint Petersburg, FL</li> 
-   <li>Saint-Bruno-de-Montarville, Canada</li> 
-   <li>Salem, NH</li> 
-   <li>Salisbury, MD</li> 
-   <li>San Bernardino, CA</li> 
-   <li>San Francisco, CA</li> 
-   <li>San Jose, CA</li> 
-   <li>San Sebastián de los Reyes, Spain</li> 
-   <li>Santa Ana, CA</li> 
-   <li>Santa Barbara, CA</li> 
-   <li>Santa Rosa, CA</li> 
-   <li>Sarasota, FL</li> 
-   <li>Saugus, MA</li> 
-   <li>Savannah, GA</li> 
-   <li>Schaumburg, IL</li> 
-   <li>Scottsdale, AZ</li> 
-   <li>Seattle, WA</li> 
-   <li>Shibuya, Japan</li> 
-   <li>Short Hills, NJ</li> 
-   <li>Sierra Vista, AZ</li> 
+   <li>Indonesia</li> 
+   <li>Italy</li> 
+   <li>Japan</li> 
+   <li>Malaysia</li> 
+   <li>Netherlands</li> 
+   <li>New Zealand</li> 
+   <li>Philipines</li> 
+   <li>Poland</li> 
+   <li>Scotland</li> 
    <li>Singapore</li> 
-   <li>Spokane Valley, WA</li> 
-   <li>Spokane, WA</li> 
-   <li>Springfield, PA</li> 
-   <li>Springfield, VA</li> 
-   <li>Stamford, CT</li> 
-   <li>Sugar Land, TX</li> 
-   <li>Suita-Shi, Japan</li> 
-   <li>Sumida-Ku, Japan</li> 
-   <li>Sydney, Australia</li> 
-   <li>Tallahassee, FL</li> 
-   <li>Tampa, FL</li> 
-   <li>Tempe, AZ</li> 
-   <li>Texas City, TX</li> 
-   <li>The Woodlands, TX</li> 
-   <li>Thousand Oaks, CA</li> 
-   <li>Tokyo, Japan</li> 
-   <li>Toronto, Canada</li> 
-   <li>Torrance, CA</li> 
-   <li>Toshima, Japan</li> 
-   <li>Towson, MD</li> 
-   <li>Tracy, CA</li> 
-   <li>Tucson, AZ</li> 
-   <li>Tustin, CA</li> 
-   <li>Tyler, TX</li> 
-   <li>Upper Mount Gravatt, Australia</li> 
-   <li>Vancouver, Canada</li> 
-   <li>Vancouver, WA</li> 
-   <li>Ventura, CA</li> 
-   <li>Vernon Hills, IL</li> 
-   <li>Vicolungo, Italy</li> 
-   <li>Victorville, CA</li> 
-   <li>Viladecans, Spain</li> 
-   <li>Visalia, CA</li> 
-   <li>Waldorf, MD</li> 
-   <li>Walnut Creek, CA</li> 
-   <li>Wantirna South, Australia</li> 
-   <li>Washington, DC</li> 
-   <li>Waterbury, CT</li> 
-   <li>Waterford, CT</li> 
-   <li>Wauwatosa, WI</li> 
-   <li>Wayne, NJ</li> 
-   <li>West Lakes, Australia</li> 
-   <li>West Whiteland, PA</li> 
-   <li>White Plains, NY</li> 
-   <li>Willow Grove, PA</li> 
-   <li>Winchester, VA</li> 
-   <li>Winnipeg, Canada</li> 
-   <li>Woodbridge, NJ</li> 
-   <li>Woodbridge, VA</li> 
-   <li>Yonkers, NY</li> 
+   <li>Slovakia</li> 
+   <li>Spain</li> 
+   <li>Sweden</li> 
+   <li>Thailand</li> 
+   <li>Turkey</li> 
+   <li>United Arab Emirates</li> 
+   <li>United States</li> 
   </ul> 
   <div class="top-link"> <a href="#top" class="back-to-top icon icon-after icon-chevronupcircle" data-analytics-click="prop3:back to top - maps-indoor-maps-malls" data-analytics-title="back to top - maps-indoor-maps-malls">Back to Top</a> 
   </div> 
@@ -1990,7 +1777,7 @@
    <li>Thailand</li> 
    <li>Turkey</li> 
    <li>United Kingdom</li> 
-   <li>United Arab Emirates<sup class="footnote footnote-number"><a href="#footnote-2" aria-label="Footnote 2">2</a></sup></li> 
+   <li>United Arab Emirates</li> 
    <li>United States</li> 
   </ul> 
   <div class="top-link"> <a href="#top" class="back-to-top icon icon-after icon-chevronupcircle" data-analytics-click="prop3:back to top - apple-carplay" data-analytics-title="back to top - apple-carplay">Back to Top</a> 
@@ -2480,12 +2267,17 @@
    <li>Australia</li> 
    <li>Canada (English)</li> 
    <li>China mainland (Mandarin Chinese)</li> 
-   <li>India (English)</li> 
    <li>France</li> 
    <li>Germany</li> 
+   <li>India (English)</li> 
+   <li>Ireland</li> 
+   <li>Italy</li> 
+   <li>Korea</li> 
    <li>Mexico</li> 
+   <li>Russia</li> 
    <li>Spain</li> 
-   <li>Switzerland (French, German) </li> 
+   <li>Switzerland (French, German)</li> 
+   <li>Taiwan</li> 
    <li>United Kingdom</li> 
    <li>United States(English, Spanish)</li> 
   </ul> 
@@ -2853,6 +2645,7 @@
    <li>Luxembourg</li> 
    <li>Macao</li> 
    <li>Malta</li> 
+   <li>Mexico</li> 
    <li>Montenegro</li> 
    <li>Netherlands</li> 
    <li>New Zealand</li> 
@@ -4490,6 +4283,20 @@
    <li>Chinese (Simplified)</li> 
    <li>Chinese (Traditional)</li> 
    <li>Cantonese (Traditional)</li> 
+   <li>French (Belgium)</li> 
+   <li>French (Canada)</li> 
+   <li>French (Switzerland)</li> 
+   <li>French (France)</li> 
+   <li>German (Austria)</li> 
+   <li>German (Germany)</li> 
+   <li>German (Switzerland)</li> 
+   <li>Italian (Switzerland)</li> 
+   <li>Italian (Italy)</li> 
+   <li>Portuguese (Portugal)</li> 
+   <li>Portuguese (Brazil)</li> 
+   <li>Spanish (Spain)</li> 
+   <li>Spanish (Latin America)</li> 
+   <li>Spanish (Mexico)</li> 
   </ul> 
   <div class="top-link"> <a href="#top" class="back-to-top icon icon-after icon-chevronupcircle" data-analytics-click="prop3:back to top - apple-pencil-scribble" data-analytics-title="back to top - apple-pencil-scribble">Back to Top</a> 
   </div> 

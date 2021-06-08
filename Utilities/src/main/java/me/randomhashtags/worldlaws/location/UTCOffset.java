@@ -22,10 +22,10 @@ public final class UTCOffset {
 
     @Override
     public String toString() {
-        return "{" +
-                (hour != 0 ? "\"hour\":" + hour + "," : "") +
-                (minute != 0 ? "\"minute\":" + minute + "," : "") +
-                "\"regions\":\"" + regions + "\"" +
+        final boolean hasMinute = minute != 0;
+        return "\"" + regions + "\":{" +
+                (hour != 0 ? "\"hour\":" + hour + (hasMinute ? "," : "") : "") +
+                (hasMinute ? "\"minute\":" + minute : "") +
                 "}";
     }
 }

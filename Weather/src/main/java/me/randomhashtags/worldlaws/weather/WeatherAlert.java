@@ -31,7 +31,7 @@ public final class WeatherAlert {
                 "\"description\":\"" + description + "\"," +
                 "\"time\":" + time.toString() + "," +
                 "\"zones\":" + zones + "," +
-                "\"source\":" + source.toString() +
+                "\"source\":{" + source.toString() + "}" +
                 "}";
     }
 }

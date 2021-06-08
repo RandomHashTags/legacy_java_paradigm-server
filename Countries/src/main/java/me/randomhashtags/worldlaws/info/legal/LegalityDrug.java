@@ -12,7 +12,6 @@ public interface LegalityDrug extends CountryLegalityService {
 
     HashMap<String, String> STYLES = new HashMap<>();
 
-    void setCountries(HashMap<String, String> countries);
     String getURL();
     String getCultivationTitle();
     boolean doesRemoveLastElement();

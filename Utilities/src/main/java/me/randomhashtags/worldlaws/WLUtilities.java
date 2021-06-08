@@ -2,14 +2,17 @@ package me.randomhashtags.worldlaws;
 
 import java.time.LocalDate;
 import java.time.Month;
+import java.util.concurrent.TimeUnit;
 
 public abstract class WLUtilities {
-    public static long PROXY_UPDATE_INTERVAL = 1000*60*10;
-    public static long WEATHER_ALERTS_UPDATE_INTERVAL = 1000*60*10;
+    public static final long PROXY_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);
+    public static final long UPCOMING_EVENTS_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
+    public static final long WEATHER_ALERTS_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);
+    public static final long WEATHER_EARTHQUAKES_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
 
-    public static Month getMonthFromPrefix(String prefix) {
-        prefix = prefix.substring(0, 3);
-        switch (prefix.toLowerCase()) {
+    public static Month valueOfMonthFromInput(String input) {
+        input = input.substring(0, 3);
+        switch (input.toLowerCase()) {
             case "jan": return Month.JANUARY;
             case "feb": return Month.FEBRUARY;
             case "mar": return Month.MARCH;

@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.weather.country;
 
 import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.location.Location;
 import me.randomhashtags.worldlaws.location.TerritoryAbbreviations;
 import me.randomhashtags.worldlaws.location.WLCountry;
-import me.randomhashtags.worldlaws.location.Location;
 import me.randomhashtags.worldlaws.weather.*;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;

@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.location;
 
-public enum CountryInfo {
+public enum CountryInfo implements SovereignStateInfo {
     LEGISLATURE_TYPE,
 
     AGRICULTURE_FOOD_APPLE_PRODUCTION("Apple Production"),
@@ -23,6 +23,7 @@ public enum CountryInfo {
     AGRICULTURE_FOOD_TOMATO_PRODUCTION("Tomato Production"),
     AGRICULTURE_RENEWABLE_ELECTRICITY_PRODUCTION("Renewable Electricity Production"),
 
+    AVAILABILITY_ALEXA("Alexa"),
     AVAILABILITY_AMC_PLUS("AMC+"),
     AVAILABILITY_APPLE_CARD("Apple Card"),
     AVAILABILITY_APPLE_CARPLAY("Apple CarPlay"),
@@ -31,7 +32,13 @@ public enum CountryInfo {
     AVAILABILITY_APPLE_APP_STORE_APPS("Apple App Store: Apps"),
     AVAILABILITY_APPLE_APP_STORE_GAMES("Apple App Store: Games"),
     AVAILABILITY_APPLE_ARCADE("Apple Arcade"),
+    AVAILABILITY_APPLE_MAPS_CONGESTION_ZONES("Apple Maps: Congestion Zones"),
+    AVAILABILITY_APPLE_MAPS_DIRECTIONS("Apple Maps: Directions"),
+    AVAILABILITY_APPLE_MAPS_SPEED_CAMERAS("Apple Maps: Speed Cameras"),
+    AVAILABILITY_APPLE_MAPS_SPEED_LIMITS("Apple Maps: Speed Limits"),
+    AVAILABILITY_APPLE_MAPS_NEARBY("Apple Maps: Nearby"),
     AVAILABILITY_APPLE_MUSIC("Apple Music"),
+    AVAILABILITY_APPLE_SIRI("Apple Siri"),
     AVAILABILITY_APPLE_ITUNES_STORE_MOVIES("iTunes Store: Movies"),
     AVAILABILITY_APPLE_ITUNES_STORE_MUSIC("iTunes Store: Music"),
     //AVAILABILITY_APPLE_ITUNES_STORE_RINGTONES_AND_TONES("iTunes Store: Ringtones & Tones"),
@@ -48,6 +55,7 @@ public enum CountryInfo {
     AVAILABILITY_DISCOVERY_PLUS("Discovery+"),
     AVAILABILITY_DISNEY_PLUS("Disney+"),
     AVAILABILITY_ESPN_PLUS("ESPN+"),
+    AVAILABILITY_GOOGLE_ASSISTANT("Google Assistant"),
     AVAILABILITY_GOOGLE_PAY("Google Pay"),
     AVAILABILITY_GOOGLE_PLAY_PASS("Google Play Pass"),
     AVAILABILITY_HBO_MAX("HBO Max"),
@@ -57,9 +65,13 @@ public enum CountryInfo {
     AVAILABILITY_PEACOCK("Peacock"),
     AVAILABILITY_PLAYSTATION_NOW("PlayStation Now"),
     AVAILABILITY_SAMSUNG_PAY("Samsung Pay"),
+    AVAILABILITY_SHOWTIME("Showtime"),
     AVAILABILITY_SPOTIFY("Spotify"),
     AVAILABILITY_STADIA("Stadia"),
+    AVAILABILITY_STARZ("Starz"),
+    AVAILABILITY_STARZPLAY("Starzplay"),
     AVAILABILITY_TIDAL("Tidal"),
+    AVAILABILITY_VENMO("Venmo"),
     AVAILABILITY_XBOX_CLOUD_GAMING("Xbox Cloud Gaming"),
     AVAILABILITY_XBOX_GAME_PASS("Xbox Game Pass"),
     AVAILABILITY_XBOX_LIVE("Xbox Live"),
@@ -92,9 +104,6 @@ public enum CountryInfo {
     LEGALITY_PROSTITUTION("Prostitution"),
     LEGALITY_SMOKING_AGE("Smoking"),
 
-    LIST_APPLE_MAPS_FLYOVER("Flyover"),
-
-    NATIONAL_ANIMALS("National Animals"),
     NATIONAL_CAPITAL("National Capital"),
 
     RANKING_ADULT_HIV_PREVALENCE("Adult HIV Prevalence"),
@@ -104,6 +113,7 @@ public enum CountryInfo {
     RANKING_CO2_EMISSIONS("CO2 Emissions"),
     RANKING_CORRUPTION_PERCEPTION_INDEX("Corruption Perception"),
     RANKING_DEMOCRACY_INDEX("Democracy"),
+    RANKING_DIVORCE_RATE("Divorce Rate"),
     RANKING_ECONOMIC_FREEDOM_INDEX("Economic Freedom"),
     RANKING_EDUCATION_INDEX("Education"),
     RANKING_ELECTRICITY_CONSUMPTION("Electricity Consumption"),
@@ -131,6 +141,7 @@ public enum CountryInfo {
     RANKING_WORLD_GIVING_INDEX("Generosity"),
     RANKING_WORLD_HAPPINESS_REPORT("World Happiness"),
 
+    SERVICE_APPLE_MAPS_FLYOVER("Flyover"),
     SERVICE_CIA_VALUES("CIA Values"),
     SERVICE_TRAVEL_BRIEFING("Travel Briefing"),
     SERVICE_WIKIPEDIA("Wikipedia"),
@@ -156,6 +167,7 @@ public enum CountryInfo {
         this.title = title;
     }
 
+    @Override
     public String getTitle() {
         return title;
     }

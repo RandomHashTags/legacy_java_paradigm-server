@@ -2,12 +2,16 @@ package me.randomhashtags.worldlaws.country.usa;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.LawController;
-import me.randomhashtags.worldlaws.country.usa.federal.USCongress;
+import me.randomhashtags.worldlaws.country.State;
 import me.randomhashtags.worldlaws.country.usa.federal.FederalGovernment;
+import me.randomhashtags.worldlaws.country.usa.federal.PreCongressBill;
+import me.randomhashtags.worldlaws.country.usa.federal.USCongress;
 import me.randomhashtags.worldlaws.country.usa.service.CongressService;
 import me.randomhashtags.worldlaws.country.usa.service.usaproject.UnitedStatesProject;
-import me.randomhashtags.worldlaws.country.State;
 import me.randomhashtags.worldlaws.location.WLCountry;
+
+import java.time.LocalDate;
+import java.util.HashSet;
 
 public enum USLaws implements LawController {
     INSTANCE;
@@ -23,6 +27,37 @@ public enum USLaws implements LawController {
         return WLCountry.UNITED_STATES;
     }
 
+    @Override
+    public void getRecentActivity(CompletionHandler handler) {
+        final LocalDate startingDate = LocalDate.now().minusDays(7);
+        final int currentCongressVersion = USCongress.getCurrentAdministrationVersion();
+        USCongress.getCongress(currentCongressVersion).getPreCongressBillsBySearch(BillStatus.BECAME_LAW, new CompletionHandler() {
+            @Override
+            public void handle(Object object) {
+                if(object != null) {
+                    @SuppressWarnings({ "unchecked" })
+                    final HashSet<PreCongressBill> bills = (HashSet<PreCongressBill>) object;
+                    bills.removeIf(bill -> bill.getDate().getLocalDate().isBefore(startingDate));
+                    String string = null;
+                    if(!bills.isEmpty()) {
+                        final StringBuilder builder = new StringBuilder("{");
+                        boolean isFirst = true;
+                        for(PreCongressBill bill : bills) {
+                            builder.append(isFirst ? "" : ",").append(bill.toString());
+                            isFirst = false;
+                        }
+                        builder.append("}");
+                        string = builder.toString();
+                    }
+                    handler.handle(string);
+                } else {
+                    handler.handle(null);
+                }
+            }
+        });
+    }
+
+    @Override
     public void getResponse(String input, CompletionHandler handler) {
         final String[] values = input.replace("?", "").split("/");
         final String key = values[0];

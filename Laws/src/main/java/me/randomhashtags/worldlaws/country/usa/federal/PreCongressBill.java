@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.country.usa.federal;
 
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.usa.BillStatus;
 import me.randomhashtags.worldlaws.country.usa.USChamber;
-import me.randomhashtags.worldlaws.EventDate;
 
 public final class PreCongressBill {
     private BillStatus status;
@@ -11,8 +11,7 @@ public final class PreCongressBill {
     private final String id, title, committees, notes;
     private final EventDate date;
 
-    public PreCongressBill(BillStatus status, USChamber chamber, String id, String title, String committees, String notes, EventDate date) {
-        this.status = status;
+    public PreCongressBill(USChamber chamber, String id, String title, String committees, String notes, EventDate date) {
         this.chamber = chamber;
         this.id = id;
         this.title = LocalServer.fixEscapeValues(title);
@@ -24,17 +23,19 @@ public final class PreCongressBill {
     public void setStatus(BillStatus status) {
         this.status = status;
     }
+    public EventDate getDate() {
+        return date;
+    }
 
     @Override
     public String toString() {
-        return "{" +
+        return "\"" + id + "\":{" +
                 "\"status\":\"" + status.name() + "\"," +
                 "\"chamber\":\"" + chamber.name() + "\"," +
-                "\"id\":\"" + id + "\"," +
                 "\"title\":\"" + title + "\"," +
                 "\"committees\":\"" + committees + "\"," +
                 (notes != null ? "\"" + notes + "\"," : "") +
-                "\"date\":\"" + date.toString() + "\"" +
+                "\"date\":" + date.toString() +
                 "}";
     }
 }

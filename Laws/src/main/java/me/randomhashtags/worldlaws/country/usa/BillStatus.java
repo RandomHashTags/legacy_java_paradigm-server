@@ -9,19 +9,19 @@ public enum BillStatus {
     PASSED_BOTH_CHAMBERS("passed-both"),
     RESOLVING_DIFFERENCES("resolving"),
     TO_PRESIDENT("president"),
+    BECAME_LAW("law"),
     VETO_ACTIONS("veto"),
     ;
 
-    private final String backendID;
+    private String backendID;
 
     BillStatus() {
-        backendID = name().toLowerCase();
     }
     BillStatus(String backendID) {
         this.backendID = backendID;
     }
 
     public String getBackendID() {
-        return backendID;
+        return backendID == null ? name().toLowerCase() : backendID;
     }
 }

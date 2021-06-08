@@ -5,8 +5,6 @@ import me.randomhashtags.worldlaws.location.CountryInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.util.HashMap;
-
 public enum CountryInfoKeys implements CountryInfoService {
     AGE_STRUCTURE(
             "https://en.wikipedia.org/wiki/List_of_countries_by_age_structure",
@@ -32,7 +30,6 @@ public enum CountryInfoKeys implements CountryInfoService {
 
     private final String url;
     private final int yearOfData;
-    private HashMap<String, String> countries;
 
     CountryInfoKeys(String url, int yearOfData) {
         this.url = url;
@@ -52,15 +49,6 @@ public enum CountryInfoKeys implements CountryInfoService {
     @Override
     public int getYearOfData() {
         return yearOfData;
-    }
-
-    @Override
-    public HashMap<String, String> getCountries() {
-        return countries;
-    }
-    @Override
-    public void setCountries(HashMap<String, String> countries) {
-        this.countries = countries;
     }
 
     @Override
@@ -128,14 +116,17 @@ public enum CountryInfoKeys implements CountryInfoService {
         trs.remove(0);
         trs.remove(0);
         trs.remove(0);
+        trs.removeIf(element -> {
+            return element.select("a[href]").size() == 0;
+        });
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         for(Element element : trs) {
             final Elements tds = element.select("td");
-            final String country = tds.get(0).text().toLowerCase().split("\\(")[0].replace(" ", "");
-            final CountryInfoValue combined = new CountryInfoValue("Combined", tds.get(3).text().replace(" ", ""), null);
-            final CountryInfoValue male = new CountryInfoValue("Male", tds.get(4).text().replace(" ", ""), null);
-            final CountryInfoValue female = new CountryInfoValue("Female", tds.get(5).text().replace(" ", ""), null);
+            final String country = element.selectFirst("a[href]").text().toLowerCase().split("\\(")[0].replace(" ", "");
+            final CountryInfoValue combined = new CountryInfoValue("Combined", tds.get(2).text().replace(" ", ""), null);
+            final CountryInfoValue male = new CountryInfoValue("Male", tds.get(3).text().replace(" ", ""), null);
+            final CountryInfoValue female = new CountryInfoValue("Female", tds.get(4).text().replace(" ", ""), null);
 
             final CountryInfoKey info = new CountryInfoKey(null, -1, combined, male, female);
             info.country = country;

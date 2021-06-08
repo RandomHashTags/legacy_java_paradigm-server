@@ -1,0 +1,1075 @@
+<!doctype html>
+<html class="client-nojs" lang="en" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Leif Erikson Day - Wikipedia</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"650ee920-ce8c-4ae0-8677-33a71c3c5ad6","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Leif_Erikson_Day","wgTitle":"Leif Erikson Day","wgCurRevisionId":1022240182,"wgRevisionId":1022240182,"wgArticleId":2191296,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Use mdy dates from October 2018","Infobox holiday fixed day","Articles containing Icelandic-language text","Articles containing Norwegian-language text","All articles lacking reliable references",
+"Articles lacking reliable references from July 2020","Leif Erikson","Public holidays in the United States","October observances","Norwegian-American culture","Norwegian migration to North America","1964 establishments in the United States","Recurring events established in 1964"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Leif_Erikson_Day","wgRelevantArticleId":2191296,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!1,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q486608"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart",
+"ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.growthExperiments.SuggestedEditSession"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <meta name="generator" content="MediaWiki 1.37.0-wmf.4"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/2b/Leif_Erikson_6c_1968_issue.JPG"> 
+  <meta property="og:title" content="Leif Erikson Day - Wikipedia"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Leif_Erikson_Day"> 
+  <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Leif_Erikson_Day&amp;action=edit"> 
+  <link rel="edit" title="Edit this page" href="/w/index.php?title=Leif_Erikson_Day&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://en.wikipedia.org/wiki/Leif_Erikson_Day"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Leif_Erikson_Day rootpage-Leif_Erikson_Day skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice" class="mw-body-content">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators mw-body-content"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading">Leif Erikson Day</h1> 
+   <div id="bodyContent" class="mw-body-content"> 
+    <div id="siteSub" class="noprint">
+     From Wikipedia, the free encyclopedia
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Jump to navigation</a> <a class="mw-jump-link" href="#searchInput">Jump to search</a> 
+    <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr">
+     <div class="mw-parser-output">
+      <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">
+       Annual observance on October 9 in honor of the Norse explorer Leif Erikson
+      </div> 
+      <p class="mw-empty-elt"> </p> 
+      <table class="infobox vevent">
+       <tbody>
+        <tr>
+         <th colspan="2" class="infobox-above hd" style="background-color: lightsalmon">Leif Erikson Day</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image"><a href="/wiki/File:Leif_Erikson_6c_1968_issue.JPG" class="image"><img alt="Leif Erikson 6c 1968 issue.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Leif_Erikson_6c_1968_issue.JPG/240px-Leif_Erikson_6c_1968_issue.JPG" decoding="async" width="240" height="367" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Leif_Erikson_6c_1968_issue.JPG/360px-Leif_Erikson_6c_1968_issue.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Leif_Erikson_6c_1968_issue.JPG/480px-Leif_Erikson_6c_1968_issue.JPG 2x" data-file-width="736" data-file-height="1124"></a>
+          <div class="infobox-caption" style="caption">
+           U.S. stamp issued on Leif Erikson Day, 1968
+          </div></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Observed&nbsp;by</th>
+         <td class="infobox-data"><a href="/wiki/United_States" title="United States">United States</a>, <a href="/wiki/Canada" title="Canada">Canada</a>, and <a href="/wiki/Nordic_Council" title="Nordic Council">Nordic Council</a> countries</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Type</th>
+         <td class="infobox-data">Cultural</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Significance</th>
+         <td class="infobox-data summary">Celebrating <a href="/wiki/Leif_Erikson" title="Leif Erikson">Leif Erikson</a> as the first <a href="/wiki/Ethnic_groups_in_Europe" title="Ethnic groups in Europe">European</a> to lead a voyage to <a href="/wiki/North_America" title="North America">North America</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Date</th>
+         <td class="infobox-data"><a href="/wiki/October_9" title="October 9">October 9</a></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Next&nbsp;time</th>
+         <td class="infobox-data">October 9, 2021<span style="display:none">&nbsp;(<span class="dtstart">2021-10-09</span>)</span></td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Frequency</th>
+         <td class="infobox-data">annual</td>
+        </tr>
+        <tr>
+         <th scope="row" class="infobox-label">Related&nbsp;to</th>
+         <td class="infobox-data">Leif Erikson</td>
+        </tr>
+       </tbody>
+      </table> 
+      <p><b>Leif Erikson Day</b> is an annual observance that occurs on October 9.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> It honors <a href="/wiki/Leif_Erikson" title="Leif Erikson">Leif Erikson</a> (<a href="/wiki/Old_Norse" title="Old Norse">Old Norse</a>: <i>Leifr Eiríksson</i>, <a href="/wiki/Icelandic_language" title="Icelandic language">Icelandic</a>: <i lang="is">Leifur Eiríksson</i>, <a href="/wiki/Norwegian_language" title="Norwegian language">Norwegian</a>: <i lang="no">Leiv Eiriksson</i>, <a href="/wiki/Swedish_language" title="Swedish language">Swedish</a>: <i>Leif Eriksson</i>), the <a href="/wiki/Norse_colonization_of_North_America" title="Norse colonization of North America">Norse explorer</a> who led the first <a href="/wiki/European_ethnic_groups" class="mw-redirect" title="European ethnic groups">Europeans</a> thought <a href="/wiki/L%27Anse_aux_Meadows" title="L'Anse aux Meadows">to have set foot</a> in continental <a href="/wiki/North_America" title="North America">North America</a> (other than <a href="/wiki/Greenland" title="Greenland">Greenland</a>).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="en" dir="ltr">
+        <h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Date"><span class="tocnumber">2</span> <span class="toctext">Date</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Observance"><span class="tocnumber">3</span> <span class="toctext">Observance</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leif_Erikson_Day&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The 1874 book <i>America Not Discovered by Columbus</i> by <a href="/wiki/Norwegian-American" class="mw-redirect" title="Norwegian-American">Norwegian-American</a> <a href="/wiki/Rasmus_B._Anderson" title="Rasmus B. Anderson">Rasmus B. Anderson</a> helped popularize the idea that <a href="/wiki/Vikings" title="Vikings">Vikings</a> were the <a href="/wiki/Norse_colonization_of_the_Americas" class="mw-redirect" title="Norse colonization of the Americas">first Europeans in the New World</a>, an idea <a href="/wiki/L%27Anse_aux_Meadows" title="L'Anse aux Meadows">that was verified in 1960</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> During his appearance at the <a href="/wiki/Norse-American_Centennial" title="Norse-American Centennial">Norse-American Centennial</a> at the <a href="/wiki/Minnesota_State_Fair" title="Minnesota State Fair">Minnesota State Fair</a> in 1925, President <a href="/wiki/Calvin_Coolidge" title="Calvin Coolidge">Calvin Coolidge</a> gave recognition to Leif Erikson as the discoverer of America due to research by Norwegian-American scholars such as <a href="/wiki/Knut_Gjerset" title="Knut Gjerset">Knut Gjerset</a> and <a href="/wiki/Ludvig_Hektoen" title="Ludvig Hektoen">Ludvig Hektoen</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> In 1929, <a href="/wiki/Wisconsin" title="Wisconsin">Wisconsin</a> became the first <a href="/wiki/U.S._state" title="U.S. state">U.S. state</a> to officially adopt Leif Erikson Day as a <a href="/wiki/State_holiday#Legal_holidays_by_states" class="mw-redirect" title="State holiday">state holiday</a>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> thanks in large part to efforts by Rasmus Anderson.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> In 1931, <a href="/wiki/Minnesota" title="Minnesota">Minnesota</a> did also.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Thanks to the efforts of the Leif Erikson Memorial Association of Saskatchewan, the <a href="/wiki/Legislative_Assembly_of_Saskatchewan" title="Legislative Assembly of Saskatchewan">Legislative Assembly of Saskatchewan</a> proclaimed—through an order-in-council in 1936—that Leif Ericsson Day would be observed on October 9.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> By 1956, Leif Erikson Day had been made an official observance in seven states (Wisconsin, Minnesota, <a href="/wiki/South_Dakota" title="South Dakota">South Dakota</a>, <a href="/wiki/Illinois" title="Illinois">Illinois</a>, <a href="/wiki/Colorado" title="Colorado">Colorado</a>, <a href="/wiki/Washington_(state)" title="Washington (state)">Washington</a>, and <a href="/wiki/California" title="California">California</a>) and one Canadian province (<a href="/wiki/Saskatchewan" title="Saskatchewan">Saskatchewan</a>).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> </p>
+      <p>In 1963, <a href="/wiki/U.S._Senator" class="mw-redirect" title="U.S. Senator">Senator</a> <a href="/wiki/Hubert_Humphrey" title="Hubert Humphrey">Hubert Humphrey</a> and <a href="/wiki/U.S._Representative" class="mw-redirect" title="U.S. Representative">Representative</a> <a href="/wiki/John_Blatnik" title="John Blatnik">John Blatnik</a>, both from Minnesota, introduced bills to observe Leif Erikson Day nationwide.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> On September 2, 1964, <a href="/wiki/United_States_Congress" title="United States Congress">Congress</a> unanimously authorized and requested the <a href="/wiki/President_of_the_United_States" title="President of the United States">President</a> to create the observance through an annual <a href="/wiki/List_of_observances_in_the_United_States_by_presidential_proclamation" title="List of observances in the United States by presidential proclamation">proclamation</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> <a href="/wiki/Lyndon_B._Johnson" title="Lyndon B. Johnson">Lyndon B. Johnson</a> did so that year,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> as has each president in the years since,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup><sup class="noprint Inline-Template noprint noexcerpt Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:NOTRS" class="mw-redirect" title="Wikipedia:NOTRS"><span title="explorelacrosse.com is not a reliable source, and it cirtes no other sources itself (July 2020)">better&nbsp;source&nbsp;needed</span></a></i>]</sup> often using the proclamation to praise the contributions of Americans of Nordic descent generally and the spirit of discovery.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> </p>
+      <p>Bills have been introduced in the <a href="/wiki/Parliament_of_Canada" title="Parliament of Canada">Parliament of Canada</a> to observe Leif Erikson Day.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Date">Date</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leif_Erikson_Day&amp;action=edit&amp;section=2" title="Edit section: Date">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>October 9 is not associated with any particular event in Leif Erikson's life.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> The date was chosen because the ship <i><a href="/wiki/Restauration_(ship)" title="Restauration (ship)">Restauration</a></i> coming from <a href="/wiki/Stavanger" title="Stavanger">Stavanger</a>, <a href="/wiki/Norway" title="Norway">Norway</a>, arrived in <a href="/wiki/New_York_Harbor" title="New York Harbor">New York Harbor</a> on October 9, 1825, beginning a wave of immigration from Norway to America.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> </p> 
+      <h2><span class="mw-headline" id="Observance">Observance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leif_Erikson_Day&amp;action=edit&amp;section=3" title="Edit section: Observance">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>The <a href="/wiki/Federal_government_of_the_United_States" title="Federal government of the United States">federal government</a> of the <a href="/wiki/United_States" title="United States">United States</a> observes the holiday and some U.S. states officially commemorate Leif Erikson Day. It is celebrated in many communities, particularly in the <a href="/wiki/Upper_Midwest" title="Upper Midwest">Upper Midwest</a> and other places where large numbers of people from the <a href="/wiki/Nordic_countries" title="Nordic countries">Nordic countries</a> settled.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> It has long been observed in <a href="/wiki/Seattle,_Washington" class="mw-redirect" title="Seattle, Washington">Seattle, Washington</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> In 2012, the day was made official in <a href="/wiki/Las_Vegas" title="Las Vegas">Las Vegas</a>, <a href="/wiki/Nevada" title="Nevada">Nevada</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup> <a href="/wiki/Westby,_Wisconsin" title="Westby, Wisconsin">Westby, Wisconsin</a> and <a href="/wiki/Norway,_Michigan" title="Norway, Michigan">Norway, Michigan</a> have held festivals near the day.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> There have been Canadian commemorations, including in <a href="/wiki/Edmonton" title="Edmonton">Edmonton</a>, <a href="/wiki/Alberta" title="Alberta">Alberta</a><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> and <a href="/wiki/Charlottetown" title="Charlottetown">Charlottetown</a>, <a href="/wiki/Prince_Edward_Island" title="Prince Edward Island">Prince Edward Island</a>.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup> The day is also celebrated in <a href="/wiki/Iceland" title="Iceland">Iceland</a>.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> </p> 
+      <h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leif_Erikson_Day&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style>
+      <div class="reflist"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation magazine cs1"><a rel="nofollow" class="external text" href="https://www.nationalgeographic.com/news/2015/10/151011-columbus-day-leif-erikson-italian-americans-holiday-history/">"Why Do We Celebrate Columbus Day and Not Leif Erikson Day?"</a>. <i><a href="/wiki/National_Geographic_(magazine)" class="mw-redirect" title="National Geographic (magazine)">National Geographic</a></i>. October 11, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">October 12,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=National+Geographic&amp;rft.atitle=Why+Do+We+Celebrate+Columbus+Day+and+Not+Leif+Erikson+Day%3F&amp;rft.date=2015-10-11&amp;rft_id=https%3A%2F%2Fwww.nationalgeographic.com%2Fnews%2F2015%2F10%2F151011-columbus-day-leif-erikson-italian-americans-holiday-history%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/history/historic_figures/erikson_leif.shtml">"History – Leif Erikson (11th century)"</a>. <a href="/wiki/BBC" title="BBC">BBC</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 12,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=History+%E2%80%93+Leif+Erikson+%2811th+century%29&amp;rft.pub=BBC&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fhistory%2Fhistoric_figures%2Ferikson_leif.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://daily.jstor.org/anse-aux-meadows-and-the-viking-discovery-of-north-america/">"L'Anse Aux Meadows &amp; the Viking Discovery of North America"</a>. <i>JSTOR Daily</i>. July 23, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">October 10,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=JSTOR+Daily&amp;rft.atitle=L%27Anse+Aux+Meadows+%26+the+Viking+Discovery+of+North+America&amp;rft.date=2015-07-23&amp;rft_id=https%3A%2F%2Fdaily.jstor.org%2Fanse-aux-meadows-and-the-viking-discovery-of-north-america%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFGjersetHektoen" class="citation book cs1">Gjerset, Knut; Hektoen, Ludvig. <a rel="nofollow" class="external text" href="http://www.naha.stolaf.edu/pubs/nas/volume33/vol33_01.htm"><i><span></span>'Becoming American, Becoming Suburban: Norwegians in the 1920s</i></a>. <b>33</b>. Norwegian-American Historical Association. p.&nbsp;3.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%27Becoming+American%2C+Becoming+Suburban%3A+Norwegians+in+the+1920s&amp;rft.pages=3&amp;rft.pub=Norwegian-American+Historical+Association&amp;rft.aulast=Gjerset&amp;rft.aufirst=Knut&amp;rft.au=Hektoen%2C+Ludvig&amp;rft_id=http%3A%2F%2Fwww.naha.stolaf.edu%2Fpubs%2Fnas%2Fvolume33%2Fvol33_01.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.newspapers.com/clip/6952099/leif_erikson_day/">"Kohler Signs Two Bills"</a>. <i>Manitowoc Herald-Times</i>. May 15, 1929. p.&nbsp;13<span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2016</span> – via <a href="/wiki/Newspapers.com" class="mw-redirect" title="Newspapers.com">Newspapers.com</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Manitowoc+Herald-Times&amp;rft.atitle=Kohler+Signs+Two+Bills&amp;rft.pages=13&amp;rft.date=1929-05-15&amp;rft_id=https%3A%2F%2Fwww.newspapers.com%2Fclip%2F6952099%2Fleif_erikson_day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span> <span style="position:relative; top: -2px;"><a href="/wiki/Open_access" title="open access publication – free to read"><img alt="open access" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/9px-Open_Access_logo_PLoS_transparent.svg.png" decoding="async" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/14px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/18px-Open_Access_logo_PLoS_transparent.svg.png 2x" data-file-width="640" data-file-height="1000"></a></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.newspapers.com/clip/6952103/leif_erikson_day/">"Wisconsin Schools Will Observe Leif Erikson Day Next Wednesday"</a>. <i>The Capital Times</i>. October 6, 1929. p.&nbsp;9<span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2016</span> – via <a href="/wiki/Newspapers.com" class="mw-redirect" title="Newspapers.com">Newspapers.com</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Capital+Times&amp;rft.atitle=Wisconsin+Schools+Will+Observe+Leif+Erikson+Day+Next+Wednesday&amp;rft.pages=9&amp;rft.date=1929-10-06&amp;rft_id=https%3A%2F%2Fwww.newspapers.com%2Fclip%2F6952103%2Fleif_erikson_day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span> <span style="position:relative; top: -2px;"><a href="/wiki/Open_access" title="open access publication – free to read"><img alt="open access" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/9px-Open_Access_logo_PLoS_transparent.svg.png" decoding="async" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/14px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/18px-Open_Access_logo_PLoS_transparent.svg.png 2x" data-file-width="640" data-file-height="1000"></a></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.newspapers.com/clip/6952136/leif_erikson_day/">"Minnesota Ready to Adopt Leif Erikson Day, Says Hoen"</a>. <i>The Capital Times</i>. December 28, 1930. p.&nbsp;18<span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2016</span> – via <a href="/wiki/Newspapers.com" class="mw-redirect" title="Newspapers.com">Newspapers.com</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Capital+Times&amp;rft.atitle=Minnesota+Ready+to+Adopt+Leif+Erikson+Day%2C+Says+Hoen&amp;rft.pages=18&amp;rft.date=1930-12-28&amp;rft_id=https%3A%2F%2Fwww.newspapers.com%2Fclip%2F6952136%2Fleif_erikson_day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span> <span style="position:relative; top: -2px;"><a href="/wiki/Open_access" title="open access publication – free to read"><img alt="open access" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/9px-Open_Access_logo_PLoS_transparent.svg.png" decoding="async" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/14px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/18px-Open_Access_logo_PLoS_transparent.svg.png 2x" data-file-width="640" data-file-height="1000"></a></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFHansen" class="citation web cs1">Hansen, Carl G.O. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091207042512/https://www.nb.no/leiveriksson/leiv_carl.html">"Leif Erikson Comes to the Front"</a>. <i>My Minneapolis</i>. <a href="/wiki/Nasjonalbiblioteket" class="mw-redirect" title="Nasjonalbiblioteket">Nasjonalbiblioteket</a> (The National Library of Norway). Archived from <a rel="nofollow" class="external text" href="http://www.nb.no/leiveriksson/leiv_carl.html">the original</a> on December 7, 2009. <q>The Norwegian National League in Minneapolis took the initiative in getting the Minnesota legislature to adopt a law of the same import and contents as the Wisconsin law making October 9 Leif Erikson Day. Such a bill was signed by Governor <a href="/wiki/Floyd_B._Olson" title="Floyd B. Olson">Floyd B. Olson</a>, April 7, 1931.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=My+Minneapolis&amp;rft.atitle=Leif+Erikson+Comes+to+the+Front&amp;rft.aulast=Hansen&amp;rft.aufirst=Carl+G.O.&amp;rft_id=http%3A%2F%2Fwww.nb.no%2Fleiveriksson%2Fleiv_carl.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://news.google.com/newspapers?id=aHlTAAAAIBAJ&amp;pg=3815%2C1810132">"Cabinet Proclaims 'Leif Ericsson Day<span class="cs1-kern-right">'</span>"</a>. <i>The Leader-Post</i>. Regina, Saskatchewan, Canada. January 18, 1936. p.&nbsp;3<span class="reference-accessdate">. Retrieved <span class="nowrap">October 6,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Leader-Post&amp;rft.atitle=Cabinet+Proclaims+%27Leif+Ericsson+Day%27&amp;rft.pages=3&amp;rft.date=1936-01-18&amp;rft_id=https%3A%2F%2Fnews.google.com%2Fnewspapers%3Fid%3DaHlTAAAAIBAJ%26pg%3D3815%252C1810132&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://news.google.com/newspapers?id=gL1kAAAAIBAJ&amp;pg=3248%2C1548200">"Pays Tribute to Worth of Scandinavian People"</a>. <i>Saskatoon Star-Phoenix</i>. Saskatoon, Saskatchewan, Canada. July 18, 1936. p.&nbsp;5<span class="reference-accessdate">. Retrieved <span class="nowrap">October 6,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Saskatoon+Star-Phoenix&amp;rft.atitle=Pays+Tribute+to+Worth+of+Scandinavian+People&amp;rft.pages=5&amp;rft.date=1936-07-18&amp;rft_id=https%3A%2F%2Fnews.google.com%2Fnewspapers%3Fid%3DgL1kAAAAIBAJ%26pg%3D3248%252C1548200&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFHansen1956" class="citation book cs1">Hansen, Carl Gustav Otto (1956). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091207042512/https://www.nb.no/leiveriksson/leiv_carl.html">"Leif Erikson Comes to the Front"</a>. <i>My Minneapolis</i>. Minneapolis. Archived from <a rel="nofollow" class="external text" href="https://www.nb.no/leiveriksson/leiv_carl.html">the original</a> on December 7, 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Leif+Erikson+Comes+to+the+Front&amp;rft.btitle=My+Minneapolis&amp;rft.place=Minneapolis&amp;rft.date=1956&amp;rft.aulast=Hansen&amp;rft.aufirst=Carl+Gustav+Otto&amp;rft_id=https%3A%2F%2Fwww.nb.no%2Fleiveriksson%2Fleiv_carl.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFSaur2015" class="citation web cs1">Saur, Andrew (October 9, 2015). <a rel="nofollow" class="external text" href="https://www.norwegianamerican.com/heritage/on-leif-erikson-day/">"On Leif Erikson Day"</a>. <i>The Norwegian American</i>. Duluth, Minnesota.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Norwegian+American&amp;rft.atitle=On+Leif+Erikson+Day&amp;rft.date=2015-10-09&amp;rft.aulast=Saur&amp;rft.aufirst=Andrew&amp;rft_id=https%3A%2F%2Fwww.norwegianamerican.com%2Fheritage%2Fon-leif-erikson-day%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gonorway.no/norway/articles/eriksson/41/index.html">"Leiv Erikson"</a>. Go Norway. 2007. <q>Though many still regard Christopher Columbus as the discoverer of the New World, Eiriksson´s right to this title received the stamp of official approval in the USA when in 1964 President Lyndon B. Johnson, backed by a unanimous Congress, proclaimed October 9th "Leif Ericson Day" in commemoration of the first arrival of a European on North American soil.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leiv+Erikson&amp;rft.pub=Go+Norway&amp;rft.date=2007&amp;rft_id=http%3A%2F%2Fwww.gonorway.no%2Fnorway%2Farticles%2Feriksson%2F41%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a href="/wiki/Public_Law_(United_States)" class="mw-redirect" title="Public Law (United States)"><abbr title="Public Law (United States)">Pub.L.</abbr></a>&nbsp;<a rel="nofollow" class="external text" href="https://uslaw.link/citation/us-law/public/88/566">88–566</a> <a rel="nofollow" class="external text" href="https://www.govtrack.us/congress/bills/88/hjres393/text">Full Text</a></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFJohnson" class="citation web cs1">Johnson, Lyndon B. <a rel="nofollow" class="external text" href="https://www.gpo.gov/fdsys/pkg/STATUTE-78/pdf/STATUTE-78-Pg1262.pdf">"Proclamation 3610: LEIF ERIKSON DAY, 1964"</a> <span class="cs1-format">(PDF)</span>. Government Printing Office.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Proclamation+3610%3A+LEIF+ERIKSON+DAY%2C+1964&amp;rft.pub=Government+Printing+Office&amp;rft.aulast=Johnson&amp;rft.aufirst=Lyndon+B.&amp;rft_id=https%3A%2F%2Fwww.gpo.gov%2Ffdsys%2Fpkg%2FSTATUTE-78%2Fpdf%2FSTATUTE-78-Pg1262.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFPenchi2015" class="citation web cs1">Penchi, Anastasia (October 9, 2015). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20181005071951/https://www.explorelacrosse.com/5-things-need-know-go-leif-erikson/">"5 Things You Need to Know Before You Go: Leif Erikson Day"</a>. <i>La Crosse County Convention and Visitors Bureau</i>. La Crosse, Wisconsin. Archived from <a rel="nofollow" class="external text" href="https://www.explorelacrosse.com/5-things-need-know-go-leif-erikson/">the original</a> on October 5, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=La+Crosse+County+Convention+and+Visitors+Bureau&amp;rft.atitle=5+Things+You+Need+to+Know+Before+You+Go%3A+Leif+Erikson+Day&amp;rft.date=2015-10-09&amp;rft.aulast=Penchi&amp;rft.aufirst=Anastasia&amp;rft_id=https%3A%2F%2Fwww.explorelacrosse.com%2F5-things-need-know-go-leif-erikson%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFBarack_Obama2011" class="citation book cs1">Barack Obama (2011). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=VPRFSzbfzEsC&amp;pg=PA130"><i>Proclamation 8581 of October 8, 2010: Code of Federal Regulations, Title 3, the President, 2010 Compilation, and Pt. 100—102, Revised as of January 1 2011</i></a>. Washington, D.C.: Government Printing Office. p.&nbsp;130. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780160875205" title="Special:BookSources/9780160875205"><bdi>9780160875205</bdi></a>. <q>To honor Leif Erikson and celebrate our Nordic-American Heritage, the Congress, by joint resolution (Public Law 88-566) approved on September 2, 1964, has authorized the President to proclaim October 9 as "Leif Erikson Day".</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Proclamation+8581+of+October+8%2C+2010%3A+Code+of+Federal+Regulations%2C+Title+3%2C+the+President%2C+2010+Compilation%2C+and+Pt.+100%E2%80%94102%2C+Revised+as+of+January+1+2011&amp;rft.place=Washington%2C+D.C.&amp;rft.pages=130&amp;rft.pub=Government+Printing+Office&amp;rft.date=2011&amp;rft.isbn=9780160875205&amp;rft.au=Barack+Obama&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DVPRFSzbfzEsC%26pg%3DPA130&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFRowley2015" class="citation web cs1">Rowley, Liz (October 9, 2015). <a rel="nofollow" class="external text" href="https://www.mic.com/articles/126502/leif-erikson-day-2015-history-and-facts-about-north-america-s-first-european-explorer">"Leif Erikson Day 2015: History and facts about North America's First European Explorer"</a>. <i>Mic Network</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Mic+Network&amp;rft.atitle=Leif+Erikson+Day+2015%3A+History+and+facts+about+North+America%27s+First+European+Explorer&amp;rft.date=2015-10-09&amp;rft.aulast=Rowley&amp;rft.aufirst=Liz&amp;rft_id=https%3A%2F%2Fwww.mic.com%2Farticles%2F126502%2Fleif-erikson-day-2015-history-and-facts-about-north-america-s-first-european-explorer&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFMoreau2012" class="citation news cs1">Moreau, Jennifer (February 3, 2012). <a rel="nofollow" class="external text" href="https://www.burnabynow.com/news/local-mp-pushing-for-leif-erikson-day-1.406729">"Local MP pushing for Leif Erikson Day"</a>. <i>Burnaby Now</i>. <a href="/wiki/Burnaby" title="Burnaby">Burnaby</a>, <a href="/wiki/British_Columbia" title="British Columbia">British Columbia</a>. <q>Burnaby-New Westminster MP Peter Julian wants a day dedicated to Leif Erikson</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Burnaby+Now&amp;rft.atitle=Local+MP+pushing+for+Leif+Erikson+Day&amp;rft.date=2012-02-03&amp;rft.aulast=Moreau&amp;rft.aufirst=Jennifer&amp;rft_id=https%3A%2F%2Fwww.burnabynow.com%2Fnews%2Flocal-mp-pushing-for-leif-erikson-day-1.406729&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="https://www.parl.ca/DocumentViewer/en/42-1/bill/C-244/first-reading">An Act to establish Leif Erikson Day</a></i>, Leif Erikson Day Act 2016, c. BILL C-244 </span> </li> 
+         <li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFEyolfson_Cadham" class="citation web cs1">Eyolfson Cadham, Joan. <a rel="nofollow" class="external text" href="https://lh-inc.ca/component/content/article/11-icelandic-paper/486-leifur-ericksson-day-if-it-s-a-holiday-who-celebrates-it">"Leifur Ericksson Day: If it's a holiday, who celebrates it?"</a>. <i>Lögberg-Heimskringla</i>. Foam Lake, SK. <q>The date, October 9, does not mark any special moment in Leifur’s life.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=L%C3%B6gberg-Heimskringla&amp;rft.atitle=Leifur+Ericksson+Day%3A+If+it%27s+a+holiday%2C+who+celebrates+it%3F&amp;rft.aulast=Eyolfson+Cadham&amp;rft.aufirst=Joan&amp;rft_id=https%3A%2F%2Flh-inc.ca%2Fcomponent%2Fcontent%2Farticle%2F11-icelandic-paper%2F486-leifur-ericksson-day-if-it-s-a-holiday-who-celebrates-it&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFHelgason2015" class="citation web cs1">Helgason, Magnús Sveinn (November 2, 2015). <a rel="nofollow" class="external text" href="https://icelandmag.is/article/ten-fascinating-facts-about-statue-leifur-eiriksson">"Ten fascinating facts about the statue of Leifur Eiríksson"</a>. <i>Iceland Magazine</i>. <q>When, for example, Leif Erikson day was first commemorated nationally in the U.S. in 1964, the date October 9 was chosen because large scale migration from Norway to the U.S. began on that day in 1825 when the ship Restauration arrived in New York from Stavanger in Norway.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Iceland+Magazine&amp;rft.atitle=Ten+fascinating+facts+about+the+statue+of+Leifur+Eir%C3%ADksson&amp;rft.date=2015-11-02&amp;rft.aulast=Helgason&amp;rft.aufirst=Magn%C3%BAs+Sveinn&amp;rft_id=https%3A%2F%2Ficelandmag.is%2Farticle%2Ften-fascinating-facts-about-statue-leifur-eiriksson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFKolodny2012" class="citation book cs1">Kolodny, Annette (2012). "The Challenge to Columbus". <i>In Search of First Contact: The Vikings of Vinland, the Peoples of the Dawnland, and the Anglo-American Anxiety of Discovery</i>. <a href="/wiki/Durham,_North_Carolina" title="Durham, North Carolina">Durham, North Carolina</a>: <a href="/wiki/Duke_University_Press" title="Duke University Press">Duke University Press</a>. p.&nbsp;231. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9780822352860" title="Special:BookSources/9780822352860"><bdi>9780822352860</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+Challenge+to+Columbus&amp;rft.btitle=In+Search+of+First+Contact%3A+The+Vikings+of+Vinland%2C+the+Peoples+of+the+Dawnland%2C+and+the+Anglo-American+Anxiety+of+Discovery&amp;rft.place=Durham%2C+North+Carolina&amp;rft.pages=231&amp;rft.pub=Duke+University+Press&amp;rft.date=2012&amp;rft.isbn=9780822352860&amp;rft.aulast=Kolodny&amp;rft.aufirst=Annette&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://historylink.org/File/11187">"75 years later, still celebrating Leif Erikson Day"</a>. <i>HistoryLink.org: The Free Encyclopedia of Washington State History</i>. February 5, 2016.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HistoryLink.org%3A+The+Free+Encyclopedia+of+Washington+State+History&amp;rft.atitle=75+years+later%2C+still+celebrating+Leif+Erikson+Day&amp;rft.date=2016-02-05&amp;rft_id=https%3A%2F%2Fhistorylink.org%2FFile%2F11187&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.westsideseattle.com/robinson-papers/2010/09/25/75-years-later-still-celebrating-leif-erikson-day">"Leif Erikson Day celebrated in Edmonton"</a>. <i>Westside Seattle</i>. September 25, 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Westside+Seattle&amp;rft.atitle=Leif+Erikson+Day+celebrated+in+Edmonton&amp;rft.date=2010-09-25&amp;rft_id=https%3A%2F%2Fwww.westsideseattle.com%2Frobinson-papers%2F2010%2F09%2F25%2F75-years-later-still-celebrating-leif-erikson-day&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFRadke2012" class="citation pressrelease cs1">Radke, Jace (October 2, 2012). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131019042525/http://www.lasvegasnevada.gov/Publications/27347.htm">"City Council To Recognize Leif Erikson Day"</a> (Press release). City of Las Vegas. Archived from <a rel="nofollow" class="external text" href="http://www.lasvegasnevada.gov/Publications/27347.htm">the original</a> on October 19, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=City+Council+To+Recognize+Leif+Erikson+Day&amp;rft.pub=City+of+Las+Vegas&amp;rft.date=2012-10-02&amp;rft.aulast=Radke&amp;rft.aufirst=Jace&amp;rft_id=http%3A%2F%2Fwww.lasvegasnevada.gov%2FPublications%2F27347.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20200410183323/https://www.explorelacrosse.com/leif-erikson-day-celebrated/">"Leif Erikson Day to be Celebrated"</a>. <i>La Crosse County Convention and Visitors Bureau</i>. 2016. Archived from <a rel="nofollow" class="external text" href="https://www.explorelacrosse.com/leif-erikson-day-celebrated/">the original</a> on April 10, 2020.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=La+Crosse+County+Convention+and+Visitors+Bureau&amp;rft.atitle=Leif+Erikson+Day+to+be+Celebrated&amp;rft.date=2016&amp;rft_id=https%3A%2F%2Fwww.explorelacrosse.com%2Fleif-erikson-day-celebrated%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFRobson2015" class="citation news cs1">Robson, Dorothy (October 8, 2015). <a rel="nofollow" class="external text" href="https://lacrossetribune.com/community/westbytimes/news/local/celebrate-leif-erikson-day-in-westby/article_3c8cf930-1ad5-5249-9cfe-528c70ec814a.html">"Celebrate 'Leif Erikson Day' in Westby"</a>. <i><a href="/wiki/La_Crosse_Tribune" title="La Crosse Tribune">La Crosse Tribune</a></i>. <a href="/wiki/La_Crosse,_Wisconsin" title="La Crosse, Wisconsin">La Crosse, Wisconsin</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20181005072154/https://lacrossetribune.com/community/westbytimes/news/local/celebrate-leif-erikson-day-in-westby/article_3c8cf930-1ad5-5249-9cfe-528c70ec814a.html">Archived</a> from the original on October 5, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=La+Crosse+Tribune&amp;rft.atitle=Celebrate+%27Leif+Erikson+Day%27+in+Westby&amp;rft.date=2015-10-08&amp;rft.aulast=Robson&amp;rft.aufirst=Dorothy&amp;rft_id=https%3A%2F%2Flacrossetribune.com%2Fcommunity%2Fwestbytimes%2Fnews%2Flocal%2Fcelebrate-leif-erikson-day-in-westby%2Farticle_3c8cf930-1ad5-5249-9cfe-528c70ec814a.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFCastelaz2018" class="citation news cs1">Castelaz, Terri (October 4, 2018). <a rel="nofollow" class="external text" href="http://www.ironmountaindailynews.com/news/local-news/2018/10/a-different-fall-leif-festival/">"A different fall Leif festival"</a>. <i>Iron Mountain Daily News</i>. <a href="/wiki/Iron_Mountain,_Michigan" title="Iron Mountain, Michigan">Iron Mountain, Michigan</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20181004224955/http://www.ironmountaindailynews.com/news/local-news/2018/10/a-different-fall-leif-festival/">Archived</a> from the original on October 4, 2018. <q>Norway once again will celebrate its Scandinavian heritage this weekend with the annual Leif Erikson Festival.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Iron+Mountain+Daily+News&amp;rft.atitle=A+different+fall+Leif+festival&amp;rft.date=2018-10-04&amp;rft.aulast=Castelaz&amp;rft.aufirst=Terri&amp;rft_id=http%3A%2F%2Fwww.ironmountaindailynews.com%2Fnews%2Flocal-news%2F2018%2F10%2Fa-different-fall-leif-festival%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20181005071850/https://www.iceland.is/iceland-abroad/ca/news-and-events/leif-erikson-day-celebrated-in-edmonton/1878/">"Leif Erikson Day celebrated in Edmonton"</a>. <i>Embassy of Iceland, Ottawa</i>. 2006. Archived from <a rel="nofollow" class="external text" href="https://www.iceland.is/iceland-abroad/ca/news-and-events/leif-erikson-day-celebrated-in-edmonton/1878/">the original</a> on October 5, 2018.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Embassy+of+Iceland%2C+Ottawa&amp;rft.atitle=Leif+Erikson+Day+celebrated+in+Edmonton&amp;rft.date=2006&amp;rft_id=https%3A%2F%2Fwww.iceland.is%2Ficeland-abroad%2Fca%2Fnews-and-events%2Fleif-erikson-day-celebrated-in-edmonton%2F1878%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.journalpioneer.com/news/local/vinland-society-to-mark-leif-erikson-day-thursday-54538/">"Vinland Society to mark Leif Erikson Day Thursday"</a>. <i>The Journal Pioneer</i>. <a href="/wiki/Charlottetown" title="Charlottetown">Charlottetown</a>. October 8, 2014. <q>The Vinland Society of Prince Edward Island will mark Leif Erikson Day Thursday with a flag-raising ceremony in front of Province House.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+Pioneer&amp;rft.atitle=Vinland+Society+to+mark+Leif+Erikson+Day+Thursday&amp;rft.date=2014-10-08&amp;rft_id=https%3A%2F%2Fwww.journalpioneer.com%2Fnews%2Flocal%2Fvinland-society-to-mark-leif-erikson-day-thursday-54538%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+         <li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFYoungYoung2008" class="citation book cs1">Young, Don; Young, Marjorie (2008). <i>Iceland Adventure Guide</i>. Hunter Publishing. p.&nbsp;89. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&nbsp;<a href="/wiki/Special:BookSources/9781588436726" title="Special:BookSources/9781588436726"><bdi>9781588436726</bdi></a>. <q>October 9 is Leif Eiriksson's Day, when the people of Reykjavik celebrate the discovery of America.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Iceland+Adventure+Guide&amp;rft.pages=89&amp;rft.pub=Hunter+Publishing&amp;rft.date=2008&amp;rft.isbn=9781588436726&amp;rft.aulast=Young&amp;rft.aufirst=Don&amp;rft.au=Young%2C+Marjorie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Leif_Erikson_Day&amp;action=edit&amp;section=5" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r1011217839">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-100{font-size:100%}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}</style>
+      <div class="refbegin" style=""> 
+       <ul>
+        <li>
+         <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"><cite id="CITEREFAnderson1874" class="citation book cs1">Anderson, Rasmus Bjorn (1874). <a rel="nofollow" class="external text" href="https://archive.org/details/americanotdiscov02ande"><i>America Not Discovered by Columbus: an historical sketch of the discovery of America by the Norsemen in the Tenth Century</i></a>. Chicago: S.C. Griggs.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=America+Not+Discovered+by+Columbus%3A+an+historical+sketch+of+the+discovery+of+America+by+the+Norsemen+in+the+Tenth+Century&amp;rft.place=Chicago&amp;rft.pub=S.C.+Griggs&amp;rft.date=1874&amp;rft.aulast=Anderson&amp;rft.aufirst=Rasmus+Bjorn&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Famericanotdiscov02ande&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALeif+Erikson+Day" class="Z3988"></span></li>
+       </ul> 
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Norse_exploration_of_the_Americas" style="padding:3px">
+       <table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r992953826">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style>
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Norse_exploration_of_the_Americas" title="Template:Norse exploration of the Americas"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Norse_exploration_of_the_Americas" title="Template talk:Norse exploration of the Americas"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Norse_exploration_of_the_Americas&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="Norse_exploration_of_the_Americas" style="font-size:114%;margin:0 4em">
+            <a href="/wiki/Norse_colonization_of_North_America" title="Norse colonization of North America">Norse exploration of the Americas</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Places</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Greenland" title="Greenland">Greenland</a></li> 
+             <li><a href="/wiki/Vinland" title="Vinland">Vinland</a></li> 
+             <li><a href="/wiki/Eastern_Settlement" title="Eastern Settlement">Eastern Settlement</a></li> 
+             <li><a href="/wiki/Western_Settlement" title="Western Settlement">Western Settlement</a></li> 
+             <li><a href="/wiki/Middle_Settlement" class="mw-redirect" title="Middle Settlement">Middle Settlement</a></li> 
+             <li><a href="/wiki/Markland" title="Markland">Markland</a></li> 
+             <li><a href="/wiki/Helluland" title="Helluland">Helluland</a></li> 
+             <li><a href="/wiki/L%27Anse_aux_Meadows" title="L'Anse aux Meadows">L'Anse aux Meadows</a></li> 
+             <li><a href="/wiki/Gunnbj%C3%B6rn%27s_skerries" title="Gunnbjörn's skerries">Gunnbjörn's skerries</a></li> 
+             <li><a href="/wiki/Great_Ireland" title="Great Ireland">Great Ireland</a></li> 
+             <li><a href="/wiki/Point_Rosee" title="Point Rosee">Point Rosee</a></li> 
+             <li><a href="/wiki/Tanfield_Valley" title="Tanfield Valley">Tanfield Valley</a></li> 
+             <li><a href="/wiki/Kingdom_of_Saguenay" title="Kingdom of Saguenay">Kingdom of Saguenay</a></li> 
+             <li><a href="/wiki/Norumbega" title="Norumbega">Norumbega</a></li> 
+             <li><a href="/wiki/Skraeling_Island" title="Skraeling Island">Skraeling Island</a></li> 
+             <li><a href="/wiki/Straumfj%C3%B6r%C3%B0" title="Straumfjörð">Straumfjörð</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Artifacts</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Maine_penny" title="Maine penny">Maine penny</a></li> 
+             <li><a href="/wiki/Sk%C3%A1lholt_Map" class="mw-redirect" title="Skálholt Map">Skálholt Map</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Explorers</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Erik_the_Red" title="Erik the Red">Erik the Red</a></li> 
+             <li><a href="/wiki/Leif_Erikson" title="Leif Erikson">Leif Erikson</a></li> 
+             <li><a href="/wiki/Thorvald_Eiriksson" title="Thorvald Eiriksson">Thorvald Eiriksson</a></li> 
+             <li><a href="/wiki/Freyd%C3%ADs_Eir%C3%ADksd%C3%B3ttir" title="Freydís Eiríksdóttir">Freydís Eiríksdóttir</a></li> 
+             <li><a href="/wiki/Gunnbj%C3%B6rn_Ulfsson" title="Gunnbjörn Ulfsson">Gunnbjörn Ulfsson</a></li> 
+             <li><a href="/wiki/Sn%C3%A6bj%C3%B6rn_Galti" class="mw-redirect" title="Snæbjörn Galti">Snæbjörn Galti</a></li> 
+             <li><a href="/wiki/Bjarni_Herj%C3%B3lfsson" title="Bjarni Herjólfsson">Bjarni Herjólfsson</a></li> 
+             <li><a href="/wiki/%C3%9Eorfinnr_%22Karlsefni%22_%C3%9E%C3%B3r%C3%B0arson" class="mw-redirect" title="Þorfinnr &quot;Karlsefni&quot; Þórðarson">Thorfinn Karlsefni</a></li> 
+             <li><a href="/wiki/Helgi_and_Finnbogi" title="Helgi and Finnbogi">Helgi and Finnbogi</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Vinland_sagas" title="Vinland sagas">Accounts</a><br>and<br>study</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"></div>
+           <table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+            <tbody>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Literature</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><i><a href="/wiki/Saga_of_Erik_the_Red" title="Saga of Erik the Red">Saga of Erik the Red</a></i></li> 
+                 <li><i><a href="/wiki/Gr%C5%93nlendinga_saga" class="mw-redirect" title="Grœnlendinga saga">Grœnlendinga saga</a></i></li> 
+                 <li><i><a href="/wiki/Flateyjarb%C3%B3k" title="Flateyjarbók">Flateyjarbók</a></i></li> 
+                 <li><i><a href="/wiki/Hauksb%C3%B3k" title="Hauksbók">Hauksbók</a></i></li> 
+                 <li><i><a href="/wiki/Gesta_Hammaburgensis_ecclesiae_pontificum" title="Gesta Hammaburgensis ecclesiae pontificum">Gesta Hammaburgensis ecclesiae pontificum</a></i></li> 
+                 <li><i><a href="/wiki/%C3%8Dslendingab%C3%B3k" title="Íslendingabók">Book of Icelanders</a></i></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Researchers</th>
+              <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Adam_of_Bremen" title="Adam of Bremen">Adam of Bremen</a></li> 
+                 <li><a href="/wiki/Carl_Christian_Rafn" title="Carl Christian Rafn">Carl Christian Rafn</a></li> 
+                 <li><a href="/wiki/Helge_Ingstad" title="Helge Ingstad">Helge Ingstad</a></li> 
+                 <li><a href="/wiki/Anne_Stine_Ingstad" title="Anne Stine Ingstad">Anne Stine Ingstad</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+             <tr>
+              <th scope="row" class="navbox-group" style="width:1%">Disputed sources</th>
+              <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/Kensington_Runestone" title="Kensington Runestone">Kensington Runestone</a></li> 
+                 <li><a href="/wiki/Vinland_map" title="Vinland map">Vinland map</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Vikings_in_popular_culture" class="mw-redirect" title="Vikings in popular culture">In popular culture</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a class="mw-selflink selflink">Leif Erikson Day</a></li> 
+             <li><i>Vinland Saga</i> 
+              <ul>
+               <li><a href="/wiki/Vinland_Saga_(album)" title="Vinland Saga (album)">album</a></li> 
+               <li><a href="/wiki/Vinland_Saga_(manga)" title="Vinland Saga (manga)">manga</a></li>
+              </ul></li> 
+             <li><i><a href="/wiki/Pathfinder_(2007_film)" title="Pathfinder (2007 film)">Pathfinder</a></i></li> 
+             <li><i><a href="/wiki/Severed_Ways" title="Severed Ways">Severed Ways</a></i></li> 
+             <li><i><a href="/wiki/Valhalla_Rising_(film)" title="Valhalla Rising (film)">Valhalla Rising</a></i></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Related topics</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/Viking_ships" title="Viking ships">Viking ships</a></li> 
+             <li><a href="/wiki/Norwegian_penning" title="Norwegian penning">Norwegian penning</a></li> 
+             <li><a href="/wiki/Pre-Columbian_trans-oceanic_contact_theories" title="Pre-Columbian trans-oceanic contact theories">Pre-Columbian trans-oceanic contact theories</a></li> 
+             <li><a href="/wiki/History_of_Greenland" title="History of Greenland">History of Greenland</a></li> 
+             <li><a href="/wiki/History_of_Nunavut" title="History of Nunavut">History of Nunavut</a></li> 
+             <li><a href="/wiki/History_of_Newfoundland" class="mw-redirect" title="History of Newfoundland">History of Newfoundland</a></li> 
+             <li><a href="/wiki/Skr%C3%A6ling" title="Skræling">Skræling</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=United_States&amp;#124;link=United_States_Holidays,_observances,_and_celebrations_in_the_United_States" style="padding:3px">
+       <table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="col" class="navbox-title" colspan="2">
+           <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r992953826">
+           <div class="navbar plainlinks hlist navbar-mini">
+            <ul>
+             <li class="nv-view"><a href="/wiki/Template:Public_holidays_in_the_United_States" title="Template:Public holidays in the United States"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li>
+             <li class="nv-talk"><a href="/wiki/Template_talk:Public_holidays_in_the_United_States" title="Template talk:Public holidays in the United States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li>
+             <li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Public_holidays_in_the_United_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li>
+            </ul>
+           </div>
+           <div id="23x15px&amp;#124;border_&amp;#124;alt=United_States&amp;#124;link=United_States_Holidays,_observances,_and_celebrations_in_the_United_States" style="font-size:114%;margin:0 4em">
+            <span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650"></a></span> Holidays, observances, and celebrations in the United States
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">January</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/New_Year%27s_Day" title="New Year's Day">New Year's Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Martin_Luther_King_Jr._Day" title="Martin Luther King Jr. Day">Martin Luther King Jr. Day</a></b> (NJ, federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Eugenio_Mar%C3%ADa_de_Hostos" title="Eugenio María de Hostos">Birthday of Eugenio María de Hostos</a> (PR)</li> 
+             <li><a href="/wiki/Confederate_Memorial_Day" title="Confederate Memorial Day">Confederate Heroes Day</a> (TX)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Eve of Three Kings' Day</a> (PR, religious)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Feast of Epiphany / Feast of Theophany</a> (religious)</li> 
+             <li><a href="/wiki/Fred_Korematsu_Day" title="Fred Korematsu Day">Fred Korematsu Day</a> (CA, FL, HI, VA)</li> 
+             <li><a href="/wiki/Idaho_Human_Rights_Day" title="Idaho Human Rights Day">Idaho Human Rights Day</a> (ID)</li> 
+             <li><a href="/wiki/United_States_presidential_inauguration" title="United States presidential inauguration">Inauguration Day</a> (federal quadrennial)</li> 
+             <li><a href="/wiki/Kansas_Day" title="Kansas Day">Kansas Day</a> (KS)</li> 
+             <li><a href="/wiki/Makar_Sankranti" title="Makar Sankranti">Makar Sankranti / Pongal</a> (religious)</li> 
+             <li><a href="/wiki/Robert_E._Lee_Day" title="Robert E. Lee Day">Robert E. Lee Day</a> (FL)</li> 
+             <li><a href="/wiki/Stephen_Foster_Memorial_Day" title="Stephen Foster Memorial Day">Stephen Foster Memorial Day</a> (36)</li> 
+             <li><a href="/wiki/The_Eighth_(United_States)" title="The Eighth (United States)">The Eighth</a> (LA)</li> 
+             <li><a href="/wiki/Epiphany_(holiday)" title="Epiphany (holiday)">Three Kings' Day</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/World_Religion_Day" title="World Religion Day">World Religion Day</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">January–February</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Super_Bowl_Sunday" title="Super Bowl Sunday">Super Bowl Sunday</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Chinese_New_Year" title="Chinese New Year">Chinese New Year</a> / <a href="/wiki/Lunar_New_Year" title="Lunar New Year">Lunar New Year</a> (NY, cultural, religious)</li> 
+             <li><a href="/wiki/Vasant_Panchami" title="Vasant Panchami">Vasant Panchami</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">February<br><a href="/wiki/American_Heart_Month" title="American Heart Month">American Heart Month</a><br><a href="/wiki/Black_History_Month" title="Black History Month">Black History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Washington%27s_Birthday" title="Washington's Birthday">Washington's Birthday / Presidents' Day</a></b> (NJ, federal)</li> 
+             <li><b><a href="/wiki/Valentine%27s_Day" title="Valentine's Day">Valentine's Day</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Luis_Mu%C3%B1oz_Mar%C3%ADn" title="Luis Muñoz Marín">Birthday of Luis Muñoz Marín</a> (PR)</li> 
+             <li><a href="/wiki/Candlemas" title="Candlemas">Candlemas</a> (religious)</li> 
+             <li><a href="/wiki/Darwin_Day" title="Darwin Day">Charles Darwin Day / Darwin Day</a> (CA, DE)</li> 
+             <li><a href="/wiki/Day_of_Remembrance_(Japanese_Americans)" title="Day of Remembrance (Japanese Americans)">Day of Remembrance</a> (CA, OR, WA, cultural)</li> 
+             <li><a href="/wiki/Georgia_Day" title="Georgia Day">Georgia Day</a> (GA)</li> 
+             <li><a href="/wiki/Groundhog_Day" title="Groundhog Day">Groundhog Day</a></li> 
+             <li><a href="/wiki/Imbolc" title="Imbolc">Imbolc</a> (religious)</li> 
+             <li><a href="/wiki/Lincoln%27s_Birthday" title="Lincoln's Birthday">Lincoln's Birthday</a> (CA, CT, IL, IN, MO, NY, WV)</li> 
+             <li><a href="/wiki/National_Girls_and_Women_in_Sports_Day" title="National Girls and Women in Sports Day">National Girls and Women in Sports Day</a></li> 
+             <li><a href="/wiki/National_Freedom_Day" title="National Freedom Day">National Freedom Day</a> (36)</li> 
+             <li><a href="/wiki/Parinirvana_Day" title="Parinirvana Day">Nirvana Day</a> (religious)</li> 
+             <li><a href="/wiki/Presentation_of_Jesus_at_the_Temple" title="Presentation of Jesus at the Temple">Presentation of Our Lord to the Temple</a> (religious)</li> 
+             <li><a href="/wiki/Promised_Reformer_Day" title="Promised Reformer Day">Promised Reformer Day</a> (religious)</li> 
+             <li><a href="/wiki/Ronald_Reagan_Day" title="Ronald Reagan Day">Ronald Reagan Day</a> (CA)</li> 
+             <li><a href="/wiki/Rosa_Parks_Day" title="Rosa Parks Day">Rosa Parks Day</a> (CA, MO)</li> 
+             <li><a href="/wiki/Saviours%27_Day" title="Saviours' Day">Saviours' Day</a> (religious)</li> 
+             <li><a href="/wiki/Susan_B._Anthony_Day" title="Susan B. Anthony Day">Susan B. Anthony Day</a> (CA, FL, NY, WI, WV, proposed federal)</li> 
+             <li><a href="/wiki/Tu_BiShvat" title="Tu BiShvat">Tu B’shvat</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">February–March</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b> <a href="/wiki/Mardi_Gras" title="Mardi Gras">Mardi Gras</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Ash_Wednesday" title="Ash Wednesday">Ash Wednesday</a> (PR, religious)</li> 
+             <li><a href="/wiki/Carnival" title="Carnival">Carnival</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/Clean_Monday" title="Clean Monday">Clean Monday</a> (religious)</li> 
+             <li><a href="/wiki/Courir_de_Mardi_Gras" title="Courir de Mardi Gras">Courir de Mardi Gras</a> (religious)</li> 
+             <li><a href="/wiki/Ayy%C3%A1m-i-H%C3%A1" title="Ayyám-i-Há">Intercalary Days</a> (religious)</li> 
+             <li><a href="/wiki/Maha_Shivaratri" title="Maha Shivaratri">Mahashivaratri</a> (religious)</li> 
+             <li><a href="/wiki/Purim" title="Purim">Purim</a> (religious)</li> 
+             <li><a href="/wiki/Shrove_Tuesday" title="Shrove Tuesday">Shrove Tuesday</a> (religious)</li> 
+             <li><a href="/wiki/Super_Tuesday" title="Super Tuesday">Super Tuesday</a></li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">March<br><a href="/wiki/Irish-American_Heritage_Month" title="Irish-American Heritage Month">Irish-American Heritage Month</a><br><a href="/wiki/National_Colon_Cancer_Awareness_Month" title="National Colon Cancer Awareness Month">Colon Cancer Awareness Month</a><br><a href="/wiki/Women%27s_History_Month" title="Women's History Month">Women's History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Saint_Patrick%27s_Day" title="Saint Patrick's Day">Saint Patrick's Day</a></b> (religious)</li> 
+             <li><b><a href="/wiki/Spring_break" title="Spring break">Spring break</a></b> (week)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Annunciation" title="Annunciation">Annunciation of the Virgin Mary / Annunciation of the Theotokos</a> (religious)</li> 
+             <li><a href="/wiki/Casimir_Pulaski_Day" title="Casimir Pulaski Day">Casimir Pulaski Day</a> (IL)</li> 
+             <li><a href="/wiki/Cesar_Chavez_Day" title="Cesar Chavez Day">Cesar Chavez Day</a> (CA, CO, TX, proposed federal)</li> 
+             <li><a href="/wiki/Emancipation_Day#Puerto_Rico" title="Emancipation Day">Emancipation Day in Puerto Rico</a> (PR, cultural)</li> 
+             <li><a href="/wiki/Evacuation_Day_(Massachusetts)" title="Evacuation Day (Massachusetts)">Evacuation Day</a> (Suffolk County, MA)</li> 
+             <li><a href="/wiki/Harriet_Tubman_Day" title="Harriet Tubman Day">Harriet Tubman Day</a> (NY)</li> 
+             <li><a href="/wiki/Hola_Mohalla" title="Hola Mohalla">Hola Mohalla</a> (religious)</li> 
+             <li><a href="/wiki/Holi" title="Holi">Holi</a> (NY, religious)</li> 
+             <li><a href="/wiki/L._Ron_Hubbard" title="L. Ron Hubbard">L. Ron Hubbard’s Birthday</a> (religious)</li> 
+             <li><a href="/wiki/Isra_and_Mi%27raj#Modern_Muslim_observance" title="Isra and Mi'raj">Lailat al-Mi'raj</a> (religious)</li> 
+             <li><a href="/wiki/Liberation_and_Freedom_Day" title="Liberation and Freedom Day">Liberation and Freedom Day</a> (Charlottesville, VA, cultural)</li> 
+             <li><a href="/wiki/Mardi_Gras_in_the_United_States" title="Mardi Gras in the United States">Mardi Gras</a> (AL (in two counties), LA)</li> 
+             <li><a href="/wiki/Maryland_Day" title="Maryland Day">Maryland Day</a> (MD)</li> 
+             <li><a href="/wiki/National_Poison_Prevention_Week" title="National Poison Prevention Week">National Poison Prevention Week</a> (week)</li> 
+             <li><a href="/wiki/Nowruz" title="Nowruz">Nowruz</a> (cultural, religious)</li> 
+             <li><a href="/wiki/%C4%92ostre" title="Ēostre">Ostara</a> (religious)</li> 
+             <li><a href="/wiki/Prince_K%C5%ABhi%C5%8D_Day" title="Prince Kūhiō Day">Prince Jonah Kūhiō Kalanianaʻole Day</a> (HI)</li> 
+             <li><a href="/wiki/Promised_Messiah_Day" title="Promised Messiah Day">Promised Messiah Day</a> (religious)</li> 
+             <li><a href="/wiki/Saint_Joseph%27s_Day" title="Saint Joseph's Day">Saint Joseph's Day</a> (religious)</li> 
+             <li><a href="/wiki/Seward%27s_Day" title="Seward's Day">Seward's Day</a> (AK)</li> 
+             <li><a href="/wiki/Texas_Independence_Day" title="Texas Independence Day">Texas Independence Day</a> (TX)</li> 
+             <li><a href="/wiki/Town_meeting#Vermont" title="Town meeting">Town Meeting Day</a> (VT)</li> 
+             <li><a href="/wiki/Transfer_Day" title="Transfer Day">Transfer Day</a> (VI)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">March–April</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Easter" title="Easter">Easter</a></b> (religious)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Good_Friday" title="Good Friday">Good Friday</a> (CT, NC, PR, NJ, VI, religious)</li> 
+             <li><a href="/wiki/Hanuman_Jayanti" title="Hanuman Jayanti">Hanuman Jayanti</a> (religious)</li> 
+             <li><a href="/wiki/Maundy_Thursday" title="Maundy Thursday">Holy Thursday</a> (PR, VI, religious)</li> 
+             <li><a href="/wiki/Holy_Week" title="Holy Week">Holy Week</a> (PR, religious, week)</li> 
+             <li><a href="/wiki/Lazarus_Saturday" title="Lazarus Saturday">Lazarus Saturday</a> (religious)</li> 
+             <li><a href="/wiki/Mahavir_Janma_Kalyanak" title="Mahavir Janma Kalyanak">Mahavir Janma Kalyanak</a> (religious)</li> 
+             <li><a href="/wiki/Mesha_Sankranti" title="Mesha Sankranti">Mesha Sankranti / Hindu New Year</a> (religious)</li> 
+             <li><a href="/wiki/Palm_Sunday" title="Palm Sunday">Palm Sunday</a> (PR, religious)</li> 
+             <li><a href="/wiki/Passover" title="Passover">Passover</a> (religious)</li> 
+             <li><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday / Bright Monday</a> (VI religious)</li> 
+             <li><a href="/wiki/Rama_Navami" title="Rama Navami">Ramnavami</a> (religious)</li> 
+             <li><a href="/wiki/Ugadi" title="Ugadi">Chandramana Yugadi / Souramana Yugadi</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">April<br><a href="/wiki/Confederate_History_Month" title="Confederate History Month">Confederate History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/420_(cannabis_culture)" title="420 (cannabis culture)">420</a></li> 
+            <li><a href="/wiki/April_Fools%27_Day" title="April Fools' Day">April Fools' Day</a></li> 
+            <li><a href="/wiki/Arbor_Day" title="Arbor Day">Arbor Day</a></li> 
+            <li><a href="/wiki/Jos%C3%A9_de_Diego" title="José de Diego">Birthday of José de Diego</a> (PR)</li> 
+            <li><a href="/wiki/Confederate_Memorial_Day" title="Confederate Memorial Day">Confederate Memorial Day</a> (AL, MS)</li> 
+            <li><a href="/wiki/Days_of_Remembrance_of_the_Victims_of_the_Holocaust" title="Days of Remembrance of the Victims of the Holocaust">Days of Remembrance of the Victims of the Holocaust</a> (week)</li> 
+            <li><a href="/wiki/Earth_Day" title="Earth Day">Earth Day</a></li> 
+            <li><a href="/wiki/Emancipation_Day" title="Emancipation Day">Emancipation Day</a> (cultural)</li> 
+            <li><a href="/wiki/Jefferson%27s_Birthday" title="Jefferson's Birthday">Thomas Jefferson's Birthday</a> (AL)</li> 
+            <li><a href="/wiki/Lag_BaOmer" title="Lag BaOmer">Lag B’Omer</a> (religious)</li> 
+            <li><a href="/wiki/Great_Lent" title="Great Lent">Last Friday of Great Lent</a> (religious)</li> 
+            <li><a href="/wiki/Laylat_al-Qadr" class="mw-redirect" title="Laylat al-Qadr">Laylat al-Qadr</a> (religious)</li> 
+            <li><a href="/wiki/Pascua_Florida" title="Pascua Florida">Pascua Florida</a> (FL)</li> 
+            <li><a href="/wiki/Patriots%27_Day" title="Patriots' Day">Patriots' Day</a> (MA, ME)</li> 
+            <li><a href="/wiki/Ridv%C3%A1n" title="Ridván">Ridván</a> (religious)</li> 
+            <li><a href="/wiki/San_Jacinto_Day" title="San Jacinto Day">San Jacinto Day</a> (TX)</li> 
+            <li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li> 
+            <li><a href="/wiki/Walpurgis_Night" title="Walpurgis Night">Walpurgis Night</a> (religious)</li> 
+            <li><a href="/wiki/Independence_Day_(Israel)" title="Independence Day (Israel)">Yom Ha'atzmaut</a> (cultural, religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">May<br><a href="/wiki/Asian_Pacific_American_Heritage_Month" title="Asian Pacific American Heritage Month">Asian Pacific American Heritage Month</a><br><a href="/wiki/Jewish_American_Heritage_Month" title="Jewish American Heritage Month">Jewish American Heritage Month</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Memorial_Day" title="Memorial Day">Memorial Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother's Day (United States)">Mother's Day</a></b> (36)</li> 
+              <li><b><a href="/wiki/Cinco_de_Mayo" title="Cinco de Mayo">Cinco de Mayo</a></b></li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Bah%C3%A1%CA%BC%C3%AD_Holy_Days" title="Baháʼí Holy Days">Ascension of Baháʼu'lláh</a> (religious)</li> 
+             <li><a href="/wiki/Ascension_Day" class="mw-redirect" title="Ascension Day">Ascension of Our Lord</a> (religious)</li> 
+             <li><a href="/wiki/Caliphate_Day" title="Caliphate Day">Caliphate Day</a> (religious)</li> 
+             <li><a href="/wiki/Bah%C3%A1%CA%BC%C3%AD_Holy_Days" title="Baháʼí Holy Days">Declaration of the Bab</a> (religious)</li> 
+             <li><a href="/wiki/Harvey_Milk_Day" title="Harvey Milk Day">Harvey Milk Day</a> (CA)</li> 
+             <li><a href="/wiki/International_Workers%27_Day" title="International Workers' Day">International Workers' Day</a> / <a href="/wiki/May_Day" title="May Day">May Day</a> (CA, unofficial, proposed state)</li> 
+             <li><a href="/wiki/Law_Day_(United_States)" title="Law Day (United States)">Law Day</a> (36)</li> 
+             <li><a href="/wiki/Loyalty_Day" title="Loyalty Day">Loyalty Day</a> (36)</li> 
+             <li><a href="/wiki/Malcolm_X_Day" title="Malcolm X Day">Malcolm X Day</a> (CA, IL, proposed federal)</li> 
+             <li><a href="/wiki/Military_Spouse_Day" title="Military Spouse Day">Military Spouse Day</a></li> 
+             <li><a href="/wiki/National_Day_of_Prayer" title="National Day of Prayer">National Day of Prayer</a> (36)</li> 
+             <li><a href="/wiki/National_Day_of_Reason" title="National Day of Reason">National Day of Reason</a></li> 
+             <li><a href="/wiki/National_Defense_Transportation_Day" title="National Defense Transportation Day">National Defense Transportation Day</a> (36)</li> 
+             <li><a href="/wiki/United_States_National_Maritime_Day" title="United States National Maritime Day">National Maritime Day</a> (36)</li> 
+             <li><a href="/wiki/Mufaddal_Saifuddin" title="Mufaddal Saifuddin">Milad Syedna Mufaddal Saifuddin</a> (religious)</li> 
+             <li><a href="/wiki/Peace_Officers_Memorial_Day" title="Peace Officers Memorial Day">Peace Officers Memorial Day</a> (36)</li> 
+             <li><a href="/wiki/Pentecost" title="Pentecost">Pentecost</a> (religious)</li> 
+             <li><a href="/wiki/Shavuot" title="Shavuot">Shavuot</a> (religious)</li> 
+             <li><a href="/wiki/Truman_Day" title="Truman Day">Truman Day</a> (MO)</li> 
+             <li><a href="/wiki/Vesak" title="Vesak">Vesak</a> / <a href="/wiki/Buddha%27s_Birthday" title="Buddha's Birthday">Buddha's Birthday</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">June<br><a href="/wiki/Gay_and_Lesbian_Pride_Month" class="mw-redirect" title="Gay and Lesbian Pride Month">Lesbian, Gay, Bisexual and<br> Transgender Pride Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Father%27s_Day_(United_States)" title="Father's Day (United States)">Father's Day</a></b> (36)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Bunker_Hill_Day" class="mw-redirect" title="Bunker Hill Day">Bunker Hill Day</a> (Suffolk County, MA)</li> 
+             <li><a href="/wiki/Carolina_Day" class="mw-redirect" title="Carolina Day">Carolina Day</a> (SC)</li> 
+             <li><a href="/wiki/Apostles%27_Fast" title="Apostles' Fast">Fast of the Holy Apostles</a> (religious)</li> 
+             <li><a href="/wiki/Flag_Day_(United_States)" title="Flag Day (United States)">Flag Day</a> (36, proposed federal)</li> 
+             <li><a href="/wiki/Helen_Keller_Day" title="Helen Keller Day">Helen Keller Day</a> (PA)</li> 
+             <li><a href="/wiki/Honor_America_Days" title="Honor America Days">Honor America Days</a> (3 weeks)</li> 
+             <li><a href="/wiki/Jefferson_Davis_Day" class="mw-redirect" title="Jefferson Davis Day">Jefferson Davis Day</a> (AL, FL)</li> 
+             <li><a href="/wiki/Juneteenth" title="Juneteenth">Juneteenth</a> (TX, MA, cultural, proposed federal)</li> 
+             <li><a href="/wiki/Kamehameha_Day" class="mw-redirect" title="Kamehameha Day">Kamehameha Day</a> (HI)</li> 
+             <li><a href="/wiki/Midsummer" title="Midsummer">Litha</a> (religious)</li> 
+             <li><a href="/wiki/Guru_Arjan" title="Guru Arjan">Martyrdom of Guru Arjan Dev Sahib</a> (religious)</li> 
+             <li><a href="/wiki/Odunde_Festival" title="Odunde Festival">Odunde Festival</a> (Philadelphia, PA, cultural)</li> 
+             <li><a href="/wiki/Senior_Week" title="Senior Week">Senior Week</a> (week)</li> 
+             <li><a href="/wiki/Nativity_of_Saint_John_the_Baptist#Celebration" title="Nativity of Saint John the Baptist">Saint John's Day</a> (PR, religious)</li> 
+             <li><a href="/wiki/West_Virginia_Day" title="West Virginia Day">West Virginia Day</a> (WV)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">July</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Independence_Day_(United_States)" title="Independence Day (United States)">Independence Day</a></b> (federal)</li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Asalha_Puja" title="Asalha Puja">Asalha Puja Day</a> (religious)</li> 
+             <li><a href="/wiki/Luis_Mu%C3%B1oz_Rivera" title="Luis Muñoz Rivera">Birthday of Don Luis Muñoz Rivera</a> (PR)</li> 
+             <li><a href="/wiki/Jos%C3%A9_Celso_Barbosa" title="José Celso Barbosa">Birthday of Dr. José Celso Barbosa</a> (PR)</li> 
+             <li><a href="/wiki/Emancipation_Day#United_States_Virgin_Islands" title="Emancipation Day">Emancipation Day in the U.S. Virgin Islands</a> (VI, cultural)</li> 
+             <li><a href="/wiki/Guru_Purnima" title="Guru Purnima">Guru Purnima</a> (religious)</li> 
+             <li><a href="/wiki/Khordad_Sal" title="Khordad Sal">Khordad Sal</a> (religious)</li> 
+             <li><a href="/wiki/Sovereignty_Restoration_Day" title="Sovereignty Restoration Day">Lā Hoʻihoʻi Ea</a> (HI, unofficial, cultural)</li> 
+             <li><a href="/wiki/Execution_of_the_B%C3%A1b" title="Execution of the Báb">Martyrdom of the Báb</a> (religious)</li> 
+             <li><a href="/wiki/Parents%27_Day" title="Parents' Day">Parents' Day</a> (36)</li> 
+             <li><a href="/wiki/Pioneer_Day" title="Pioneer Day">Pioneer Day</a> (UT)</li> 
+             <li><a href="/wiki/Puerto_Rico_Constitution_Day" title="Puerto Rico Constitution Day">Puerto Rico Constitution Day</a> (PR)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">July–August</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Summer_vacation" title="Summer vacation">Summer vacation</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Tisha_B%27Av" title="Tisha B'Av">Tisha B'Av</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">August</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a> (AZ)</li> 
+            <li><a href="/wiki/Barack_Obama_Day" title="Barack Obama Day">Barack Obama Day in Illinois</a> (IL)</li> 
+            <li><a href="/wiki/Bennington_Battle_Day" title="Bennington Battle Day">Bennington Battle Day</a> (VT)</li> 
+            <li><a href="/wiki/Dormition_of_the_Mother_of_God#Dormition_versus_Assumption" title="Dormition of the Mother of God">Dormition of the Theotokos</a> (religious)</li> 
+            <li><a href="/wiki/Eid_al-Ghadir" title="Eid al-Ghadir">Eid-e-Ghadeer</a> (religious)</li> 
+            <li><a href="/wiki/Dormition_of_the_Mother_of_God#Dormition_fast" title="Dormition of the Mother of God">Fast in Honor of the Holy Mother of Lord Jesus</a> (religious)</li> 
+            <li><a href="/wiki/Assumption_of_Mary#Feasts" title="Assumption of Mary">Feast of the Assumption of the Blessed Virgin Mary</a> (religious)</li> 
+            <li><a href="/wiki/Statehood_Day_(Hawaii)" title="Statehood Day (Hawaii)">Hawaii Admission Day / Statehood Day</a> (HI)</li> 
+            <li><a href="/wiki/Krishna_Janmashtami" title="Krishna Janmashtami">Krishna Janmashtami</a> (religious)</li> 
+            <li><a href="/wiki/Lammas" title="Lammas">Lammas</a> (religious)</li> 
+            <li><a href="/wiki/Lyndon_Baines_Johnson_Day" title="Lyndon Baines Johnson Day">Lyndon Baines Johnson Day</a> (TX)</li> 
+            <li><a href="/wiki/Naga_Panchami" title="Naga Panchami">Naga Panchami</a> (religious)</li> 
+            <li><a href="/wiki/National_Aviation_Day" title="National Aviation Day">National Aviation Day</a> (36)</li> 
+            <li><a href="/wiki/Paryushana" title="Paryushana">Paryushana</a> (religious)</li> 
+            <li><a href="/wiki/Raksha_Bandhan" title="Raksha Bandhan">Raksha Bandhan</a> (religious)</li> 
+            <li><a href="/wiki/Feast_of_the_Transfiguration" title="Feast of the Transfiguration">Transfiguration of the Lord</a> (religious)</li> 
+            <li><a href="/wiki/Victory_Day_(United_States)" title="Victory Day (United States)">Victory Day</a> (RI)</li> 
+            <li><a href="/wiki/Women%27s_Equality_Day" title="Women's Equality Day">Women's Equality Day</a> (36)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">September<br><a href="/wiki/National_Prostate_Cancer_Awareness_Month" class="mw-redirect" title="National Prostate Cancer Awareness Month">Prostate Cancer Awareness Month</a><br><a href="/wiki/National_Childhood_Cancer_Awareness_Month" title="National Childhood Cancer Awareness Month">Childhood Cancer Awareness Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Labor_Day" title="Labor Day">Labor Day</a></b> (federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Brazilian_Day" title="Brazilian Day">Brazilian Day</a> (NY, cultural)</li> 
+             <li><a href="/wiki/California_Admission_Day" class="mw-redirect" title="California Admission Day">California Admission Day</a> (CA)</li> 
+             <li><a href="/wiki/Carl_Garner_Federal_Lands_Cleanup_Day" title="Carl Garner Federal Lands Cleanup Day">Carl Garner Federal Lands Cleanup Day</a> (36)</li> 
+             <li><a href="/wiki/Constitution_Day_(United_States)" title="Constitution Day (United States)">Constitution Day</a> (36)</li> 
+             <li><a href="/wiki/Constitution_Week" title="Constitution Week">Constitution Week</a> (week)</li> 
+             <li><a href="/wiki/Defenders_Day" title="Defenders Day">Defenders Day</a> (MD)</li> 
+             <li><a href="/wiki/Elevation_of_the_Holy_Cross" title="Elevation of the Holy Cross">Elevation of the Holy Cross</a> (religious)</li> 
+             <li><a href="/wiki/Feast_of_San_Gennaro" title="Feast of San Gennaro">Feast of San Gennaro</a> (NY, cultural, religious)</li> 
+             <li><a href="/wiki/Ganesh_Chaturthi" title="Ganesh Chaturthi">Ganesh Chaturthi</a> (religious)</li> 
+             <li><a href="/wiki/Gold_Star_Mother%27s_Day" class="mw-redirect" title="Gold Star Mother's Day">Gold Star Mother's Day</a> (36)</li> 
+             <li><a href="/wiki/Sakya_Trizin_Ngawang_Kunga" title="Sakya Trizin Ngawang Kunga">His Holiness Sakya Trizin’s Birthday</a> (religious)</li> 
+             <li><a href="/wiki/September_equinox" title="September equinox">Mabon</a> (religious)</li> 
+             <li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a> (36)</li> 
+             <li><a href="/wiki/National_Payroll_Week" title="National Payroll Week">National Payroll Week</a> (week)</li> 
+             <li><a href="/wiki/Nativity_of_Mary" title="Nativity of Mary">Nativity of Mary / Nativity of the Theotokos</a> (religious)</li> 
+             <li><a href="/wiki/Native_American_Day" title="Native American Day">Native American Day</a> (proposed federal)</li> 
+             <li><a href="/wiki/Patriot_Day" title="Patriot Day">Patriot Day</a> (36)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">September–October<br><a href="/wiki/National_Hispanic_Heritage_Month" title="National Hispanic Heritage Month">Hispanic Heritage Month</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Arba%27een" class="mw-redirect" title="Arba'een">Chehlum Imam Hussain</a> (religious)</li> 
+            <li><a href="/wiki/Oktoberfest_celebrations" title="Oktoberfest celebrations">Oktoberfest</a></li> 
+            <li><a href="/wiki/Pitri_Paksha" class="mw-redirect" title="Pitri Paksha">Pitri Paksha</a> (religious)</li> 
+            <li><a href="/wiki/Rosh_Hashanah" title="Rosh Hashanah">Rosh Hashanah / Feast of Trumpets</a> (TX, NY, religious)</li> 
+            <li><a href="/wiki/Shemini_Atzeret" title="Shemini Atzeret">Shemini Atzeret</a> (religious)</li> 
+            <li><a href="/wiki/Simchat_Torah" title="Simchat Torah">Simchat Torah</a> (eligious)</li> 
+            <li><a href="/wiki/Vijayadashami" title="Vijayadashami">Vijaya Dashami</a> (religious)</li> 
+            <li><a href="/wiki/Yom_Kippur" title="Yom Kippur">Yom Kippur / Day of Atonement</a> (TX, NY, religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">October<br><a href="/wiki/National_Breast_Cancer_Awareness_Month" class="mw-redirect" title="National Breast Cancer Awareness Month">Breast Cancer Awareness Month</a><br><a href="/wiki/National_Disability_Employment_Awareness_Month" title="National Disability Employment Awareness Month">Disability Employment Awareness Month</a><br> <a href="/wiki/Italian-American_Heritage_and_Culture_Month" title="Italian-American Heritage and Culture Month">Italian-American Heritage and Culture Month</a> <br> <a href="/wiki/Filipino_American_History_Month" title="Filipino American History Month">Filipino American History Month</a><br><a href="/wiki/LGBT_History_Month" title="LGBT History Month">LGBT History Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Columbus_Day" title="Columbus Day">Columbus Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Halloween" title="Halloween">Halloween</a></b></li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Alaska_Day" title="Alaska Day">Alaska Day</a> (AK)</li> 
+             <li><a href="/wiki/Child_Health_Day" title="Child Health Day">Child Health Day</a> (36)</li> 
+             <li><a href="/wiki/General_Pulaski_Memorial_Day" title="General Pulaski Memorial Day">General Pulaski Memorial Day</a></li> 
+             <li><a href="/wiki/German-American_Day" title="German-American Day">German-American Day</a></li> 
+             <li><a href="/wiki/Indigenous_Peoples%27_Day" title="Indigenous Peoples' Day">Indigenous Peoples' Day</a> (VT)</li> 
+             <li><a href="/wiki/International_Day_of_Non-Violence" title="International Day of Non-Violence">International Day of Non-Violence</a></li> 
+             <li><a class="mw-selflink selflink">Leif Erikson Day</a> (36)</li> 
+             <li><a href="/wiki/Missouri_Day" title="Missouri Day">Missouri Day</a> (MO)</li> 
+             <li><a href="/wiki/Nanomonestotse" title="Nanomonestotse">Nanomonestotse</a> (cultural)</li> 
+             <li><a href="/wiki/National_School_Lunch_Week" class="mw-redirect" title="National School Lunch Week">National School Lunch Week</a> (week)</li> 
+             <li><a href="/wiki/Native_American_Day" title="Native American Day">Native American Day in South Dakota</a> (SD)</li> 
+             <li><a href="/wiki/Nevada_Day" title="Nevada Day">Nevada Day</a> (NV)</li> 
+             <li><a href="/wiki/Spirit_Day" title="Spirit Day">Spirit Day</a> (cultural)</li> 
+             <li><a href="/wiki/Sweetest_Day" title="Sweetest Day">Sweetest Day</a></li> 
+             <li><a href="/wiki/Sukkot" title="Sukkot">Sukkot / Feast of Tabernacles</a> (religious)</li> 
+             <li><a href="/wiki/Virgin_Islands%E2%80%93Puerto_Rico_Friendship_Day" title="Virgin Islands–Puerto Rico Friendship Day">Virgin Islands–Puerto Rico Friendship Day</a> (PR, VI)</li> 
+             <li><a href="/wiki/White_Cane_Safety_Day" title="White Cane Safety Day">White Cane Safety Day</a> (36)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">October–November</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Twin_Holy_Birthdays" title="Twin Holy Birthdays">Birth of the Báb</a> (religious)</li> 
+            <li><a href="/wiki/Birth_of_Bah%C3%A1%CA%BCu%27ll%C3%A1h" title="Birth of Baháʼu'lláh">Birth of Baháʼu'lláh</a> (religious)</li> 
+            <li><a href="/wiki/Day_of_the_Dead" title="Day of the Dead">Day of the Dead</a> (VI)</li> 
+            <li><a href="/wiki/Diwali" title="Diwali">Diwali</a> (NY, religious)</li> 
+            <li><a href="/wiki/Mawlid" title="Mawlid">Mawlid al-Nabi</a> (religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">November<br> <a href="/wiki/Native_American_Indian_Heritage_Month" title="Native American Indian Heritage Month">Native American Indian Heritage Month</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <ul>
+              <li><b><a href="/wiki/Veterans_Day" title="Veterans Day">Veterans Day</a></b> (federal)</li> 
+              <li><b><a href="/wiki/Thanksgiving_(United_States)" title="Thanksgiving (United States)">Thanksgiving</a></b> (federal)</li>
+             </ul> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/%CA%BBAbdu%27l-Bah%C3%A1" title="ʻAbdu'l-Bahá">Ascension of ‘Abdu’l Baha</a> (religious)</li> 
+             <li><a href="/wiki/All_Saints%27_Day" title="All Saints' Day">All Saints' Day</a> (religious)</li> 
+             <li><a href="/wiki/Nativity_Fast" title="Nativity Fast">Beginning of the Nativity Fast</a> (religious)</li> 
+             <li><a href="/wiki/Beltane" title="Beltane">Beltane</a> / <a href="/wiki/Samhain" title="Samhain">Samhain</a> (religious)</li> 
+             <li><a href="/wiki/Barack_Obama_Day" title="Barack Obama Day">Barack Obama Day in Alabama</a> (Perry County, AL)</li> 
+             <li><a href="/wiki/D._Hamilton_Jackson" title="D. Hamilton Jackson">D. Hamilton Jackson Day</a> (VI)</li> 
+             <li><a href="/wiki/Black_Friday_(shopping)" title="Black Friday (shopping)">Day after Thanksgiving</a> (24)</li> 
+             <li><a href="/wiki/Day_of_the_Covenant_(Bah%C3%A1%CA%BC%C3%AD)" title="Day of the Covenant (Baháʼí)">Day of the Covenant</a> (religious)</li> 
+             <li><a href="/wiki/Discovery_of_Puerto_Rico" class="mw-redirect" title="Discovery of Puerto Rico">Discovery of Puerto Rico Day</a> (PR)</li> 
+             <li><a href="/wiki/Election_Day_(United_States)" title="Election Day (United States)">Election Day</a> (CA, DE, HI, KY, MT, NJ, NY, OH, PR, VA, WV, proposed federal)</li> 
+             <li><a href="/wiki/Family_Day" title="Family Day">Family Day</a> (NV)</li> 
+             <li><a href="/wiki/Guru_Nanak_Gurpurab" title="Guru Nanak Gurpurab">Guru Nanak Gurpurab</a> (religious)</li> 
+             <li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> (religious)</li> 
+             <li><a href="/wiki/Independence_Day_(Hawaii)" title="Independence Day (Hawaii)">Lā Kūʻokoʻa</a> (HI, unofficial, cultural)</li> 
+             <li><a href="/wiki/Guru_Tegh_Bahadur" title="Guru Tegh Bahadur">Martyrdom of Guru Tegh Bahadur</a> (religious)</li> 
+             <li><a href="/wiki/Native_American_Heritage_Day" title="Native American Heritage Day">Native American Heritage Day</a> (MD, WA, cultural)</li> 
+             <li><a href="/wiki/Presentation_of_Mary" title="Presentation of Mary">Presentation of the Theotokos to the Temple</a> (religious)</li> 
+             <li><a href="/wiki/Unthanksgiving_Day" title="Unthanksgiving Day">Unthanksgiving Day</a> (cultural)</li> 
+             <li><a href="/wiki/Mohammed_Burhanuddin" title="Mohammed Burhanuddin">Urus Mubarak of Syedna Mohammed Burhanuddin</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">December</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="hlist hlist-separated"> 
+             <li><b><a href="/wiki/Christmas" title="Christmas">Christmas</a></b> (religious, federal)</li> 
+             <li><b><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">New Year's Eve</a></b></li> 
+            </div> 
+            <ul>
+             <li><a href="/wiki/Advent_Sunday" title="Advent Sunday">Advent Sunday</a> (religious)</li> 
+             <li><a href="/wiki/Alabama_Day" title="Alabama Day">Alabama Day</a> (AL)</li> 
+             <li><a href="/wiki/Guru_Gobind_Singh" title="Guru Gobind Singh">Birthday of Guru Gobind Singh Sahib</a> (religious)</li> 
+             <li><a href="/wiki/Bodhi_Day" title="Bodhi Day">Bodhi Day</a> (religious)</li> 
+             <li><a href="/wiki/Chalica" title="Chalica">Chalica</a> (religious)</li> 
+             <li><a href="/wiki/Christmas_Eve" title="Christmas Eve">Christmas Eve</a> (KY, NC, SC, PR, VI)</li> 
+             <li><a href="/wiki/Boxing_Day" title="Boxing Day">Day after Christmas</a> (KY, NC, SC, TX, VI)</li> 
+             <li><a href="/wiki/Festivus" title="Festivus">Festivus</a></li> 
+             <li><a href="/wiki/HumanLight" title="HumanLight">HumanLight</a></li> 
+             <li><a href="/wiki/Hanukkah" title="Hanukkah">Hanukkah</a> (religious, week)</li> 
+             <li><a href="/wiki/Immaculate_Conception" title="Immaculate Conception">Immaculate Conception</a> (religious)</li> 
+             <li><a href="/wiki/Indiana_Day" title="Indiana Day">Indiana Day</a> (IN)</li> 
+             <li><a href="/wiki/Kwanzaa" title="Kwanzaa">Kwanzaa</a> (cultural, week)</li> 
+             <li><a href="/wiki/Mohammed_Burhanuddin" title="Mohammed Burhanuddin">Milad Syedna Mohammed Burhanuddin</a> (religious)</li> 
+             <li><a href="/wiki/National_Pearl_Harbor_Remembrance_Day" title="National Pearl Harbor Remembrance Day">National Pearl Harbor Remembrance Day</a> (36)</li> 
+             <li><a href="/wiki/Nativity_of_Jesus" title="Nativity of Jesus">Nativity of Jesus</a> (religious)</li> 
+             <li><a href="/wiki/New_Year%27s_Eve" title="New Year's Eve">Old Year's Night</a> (VI)</li> 
+             <li><a href="/wiki/Pan_American_Aviation_Day" title="Pan American Aviation Day">Pan American Aviation Day</a> (36)</li> 
+             <li><a href="/wiki/Sivaya_Subramuniyaswami" title="Sivaya Subramuniyaswami">Pancha Ganapati</a> (religious, week)</li> 
+             <li><a href="/wiki/Rosa_Parks_Day" title="Rosa Parks Day">Rosa Parks Day</a> (OH, OR)</li> 
+             <li><a href="/wiki/Solemnity_of_Mary,_Mother_of_God" title="Solemnity of Mary, Mother of God">Solemnity of Mary, Mother of God</a> (religious)</li> 
+             <li><a href="/wiki/Wright_Brothers_Day" title="Wright Brothers Day">Wright Brothers Day</a> (36)</li> 
+             <li><a href="/wiki/Yule" title="Yule">Yule</a> (religious)</li> 
+             <li><a href="/wiki/Zartosht_No-Diso" title="Zartosht No-Diso">Zartosht No-Diso</a> (religious)</li>
+            </ul>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1%">Varies (year round)</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <li><a href="/wiki/Eid_al-Adha" title="Eid al-Adha">Eid al-Adha</a> (NY, religious)</li> 
+            <li><a href="/wiki/Eid_al-Fitr" title="Eid al-Fitr">Eid al-Fitr</a> (NY, religious)</li> 
+            <li><a href="/wiki/Islamic_New_Year" title="Islamic New Year">Islamic New Year</a> (religious)</li> 
+            <li><a href="/wiki/Day_of_Arafah" title="Day of Arafah">Yawm al-Arafa</a> (religious)</li> 
+            <li><a href="/wiki/Hajj" title="Hajj">Hajj</a> (religious)</li> 
+            <li><a href="/wiki/Navaratri" title="Navaratri">Navaratri</a> (religious, four times a year)</li> 
+            <li><a href="/wiki/Bon_Festival" title="Bon Festival">Obon</a> (religious)</li> 
+            <li><a href="/wiki/Onam" title="Onam">Onam</a> (religious)</li> 
+            <li><a href="/wiki/Ramadan" title="Ramadan">Ramadan</a> (religious, month)</li> 
+            <li><a href="/wiki/Ghost_Festival" title="Ghost Festival">Ghost Festival</a> (religious)</li> 
+            <li><a href="/wiki/Ashura" title="Ashura">Yawm Aashura</a> (religious)</li> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="2" style="font-size:90%;">
+           <div>
+            Legend: 
+            <p>(federal) = federal holidays, (abbreviation) = state/territorial holidays, (religious) = religious holidays, (cultural) = holiday related to a specific <a href="/wiki/Race_and_ethnicity_in_the_United_States_Census" title="Race and ethnicity in the United States Census">racial/ethnic group</a> or <a href="/wiki/Sexual_minority" title="Sexual minority">sexual minority</a>, (week) = week-long holidays, (month) = month-long holidays, (36) = <a href="/wiki/Title_36_of_the_United_States_Code" title="Title 36 of the United States Code">Title 36 Observances and Ceremonies</a><br> <b>Bold</b> indicates major holidays commonly celebrated in the United States, which often represent the major celebrations of the month.<br> </p> See also: <a href="/wiki/Lists_of_holidays" title="Lists of holidays">Lists of holidays</a>, <a href="/wiki/Hallmark_holiday" title="Hallmark holiday">Hallmark holidays</a>, public holidays in the <a href="/wiki/Public_holidays_in_the_United_States" title="Public holidays in the United States">United States</a>, <a href="/wiki/State_holidays_in_New_Jersey" title="State holidays in New Jersey">New Jersey</a>, <a href="/wiki/New_York_State_government_holidays" title="New York State government holidays">New York</a>, <a href="/wiki/Public_holidays_in_Puerto_Rico" title="Public holidays in Puerto Rico">Puerto Rico</a> and the <a href="/wiki/Public_holidays_in_the_United_States_Virgin_Islands" title="Public holidays in the United States Virgin Islands">United States Virgin Islands</a>.
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1316
+Cached time: 20210515004327
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.984 seconds
+Real time usage: 1.175 seconds
+Preprocessor visited node count: 3769/1000000
+Post‐expand include size: 149873/2097152 bytes
+Template argument size: 4733/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 103545/5000000 bytes
+Lua time usage: 0.512/10.000 seconds
+Lua memory usage: 27321633/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1025.657      1 -total
+ 37.89%  388.634      1 Template:Reflist
+ 18.95%  194.318      1 Template:Lang-is
+ 13.40%  137.489      1 Template:Cite_magazine
+  9.66%   99.060      3 Template:Navbox
+  8.99%   92.204      1 Template:Short_description
+  8.83%   90.563      1 Template:Infobox_holiday
+  5.85%   60.036      1 Template:NorseAmerica
+  5.67%   58.156      1 Template:Infobox
+  5.64%   57.816      1 Template:Better_source
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:2191296-0!canonical and timestamp 20210515004326 and revision id 1022240182. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Leif_Erikson_Day&amp;oldid=1022240182">https://en.wikipedia.org/w/index.php?title=Leif_Erikson_Day&amp;oldid=1022240182</a>"
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/Help:Category" title="Help:Category">Categories</a>: 
+      <ul>
+       <li><a href="/wiki/Category:Leif_Erikson" title="Category:Leif Erikson">Leif Erikson</a></li>
+       <li><a href="/wiki/Category:Public_holidays_in_the_United_States" title="Category:Public holidays in the United States">Public holidays in the United States</a></li>
+       <li><a href="/wiki/Category:October_observances" title="Category:October observances">October observances</a></li>
+       <li><a href="/wiki/Category:Norwegian-American_culture" title="Category:Norwegian-American culture">Norwegian-American culture</a></li>
+       <li><a href="/wiki/Category:Norwegian_migration_to_North_America" title="Category:Norwegian migration to North America">Norwegian migration to North America</a></li>
+       <li><a href="/wiki/Category:1964_establishments_in_the_United_States" title="Category:1964 establishments in the United States">1964 establishments in the United States</a></li>
+       <li><a href="/wiki/Category:Recurring_events_established_in_1964" title="Category:Recurring events established in 1964">Recurring events established in 1964</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Hidden categories: 
+      <ul>
+       <li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li>
+       <li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li>
+       <li><a href="/wiki/Category:Use_mdy_dates_from_October_2018" title="Category:Use mdy dates from October 2018">Use mdy dates from October 2018</a></li>
+       <li><a href="/wiki/Category:Infobox_holiday_fixed_day" title="Category:Infobox holiday fixed day">Infobox holiday fixed day</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Icelandic-language_text" title="Category:Articles containing Icelandic-language text">Articles containing Icelandic-language text</a></li>
+       <li><a href="/wiki/Category:Articles_containing_Norwegian-language_text" title="Category:Articles containing Norwegian-language text">Articles containing Norwegian-language text</a></li>
+       <li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li>
+       <li><a href="/wiki/Category:Articles_lacking_reliable_references_from_July_2020" title="Category:Articles lacking reliable references from July 2020">Articles lacking reliable references from July 2020</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Navigation menu</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation"> 
+     <h3 id="p-personal-label" class="vector-menu-heading"> <span>Personal tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage">Not logged in</li>
+       <li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li>
+       <li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li>
+       <li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Leif+Erikson+Day" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li>
+       <li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Leif+Erikson+Day" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> 
+      <h3 id="p-namespaces-label" class="vector-menu-heading"> <span>Namespaces</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected"><a href="/wiki/Leif_Erikson_Day" title="View the content page [c]" accesskey="c">Article</a></li>
+        <li id="ca-talk"><a href="/wiki/Talk:Leif_Erikson_Day" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> 
+      <h3 id="p-variants-label" class="vector-menu-heading"> <span>Variants</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> 
+      <h3 id="p-views-label" class="vector-menu-heading"> <span>Views</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected"><a href="/wiki/Leif_Erikson_Day">Read</a></li>
+        <li id="ca-edit"><a href="/w/index.php?title=Leif_Erikson_Day&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li>
+        <li id="ca-history"><a href="/w/index.php?title=Leif_Erikson_Day&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"> 
+      <input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> 
+      <h3 id="p-cactions-label" class="vector-menu-heading"> <span>More</span> </h3> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search"> 
+      <h3> <label for="searchInput">Search</label> </h3> 
+      <form action="/w/index.php" id="searchform"> 
+       <div id="simpleSearch" data-search-loc="header-navigation"> 
+        <input type="search" name="search" placeholder="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"> 
+        <input type="hidden" name="title" value="Special:Search"> 
+        <input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"> 
+        <input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> 
+     <h3 id="p-navigation-label" class="vector-menu-heading"> <span>Navigation</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+       <li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+       <li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Articles related to current events">Current events</a></li>
+       <li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li>
+       <li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li>
+       <li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li>
+       <li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"> 
+     <h3 id="p-interaction-label" class="vector-menu-heading"> <span>Contribute</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+       <li id="n-introduction"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia">Learn to edit</a></li>
+       <li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors">Community portal</a></li>
+       <li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li>
+       <li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> 
+     <h3 id="p-tb-label" class="vector-menu-heading"> <span>Tools</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Leif_Erikson_Day" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+       <li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Leif_Erikson_Day" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+       <li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+       <li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+       <li id="t-permalink"><a href="/w/index.php?title=Leif_Erikson_Day&amp;oldid=1022240182" title="Permanent link to this revision of this page">Permanent link</a></li>
+       <li id="t-info"><a href="/w/index.php?title=Leif_Erikson_Day&amp;action=info" title="More information about this page">Page information</a></li>
+       <li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Leif_Erikson_Day&amp;id=1022240182&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li>
+       <li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q486608" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> 
+     <h3 id="p-coll-print_export-label" class="vector-menu-heading"> <span>Print/export</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Leif_Erikson_Day&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li>
+       <li id="t-print"><a href="/w/index.php?title=Leif_Erikson_Day&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> 
+     <h3 id="p-lang-label" class="vector-menu-heading"> <span>Languages</span> </h3> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Dia_de_Leif_Erikson" title="Dia de Leif Erikson – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li>
+       <li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/D%C3%ADa_de_Leif_Erikson" title="Día de Leif Erikson – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>
+       <li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Leif_Erikson_Day" title="Leif Erikson Day – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>
+       <li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Leif_Erikson_Day" title="Leif Erikson Day – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>
+       <li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D9%84%D8%A7%DB%8C%D9%81_%D8%A7%D8%B1%DB%8C%DA%A9%D8%B3%D9%88%D9%86" title="لایف اریکسون – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li>
+       <li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Leif_Erikson_Day" title="Leif Erikson Day – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li>
+       <li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Leif-Erikson-Dag" title="Leif-Erikson-Dag – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>
+       <li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Dzie%C5%84_Leifa_Erikssona" title="Dzień Leifa Erikssona – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>
+       <li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Leif_Erikson_Day" title="Leif Erikson Day – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li>
+       <li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D9%84%D9%8A%D9%81_%D8%A7%D9%8A%D8%B1%DA%AA%D8%B3%D9%86_%D8%AC%D9%88_%DA%8F%D9%8A%D9%86%D9%87%D9%86" title="ليف ايرڪسن جو ڏينهن – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li>
+       <li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Leif_Eriksson-dagen" title="Leif Eriksson-dagen – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q486608#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> This page was last edited on 9 May 2021, at 10:36<span class="anonymous-show">&nbsp;(UTC)</span>.</li> 
+    <li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li> 
+    <li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li> 
+    <li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li> 
+    <li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Leif_Erikson_Day&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.984","walltime":"1.175","ppvisitednodes":{"value":3769,"limit":1000000},"postexpandincludesize":{"value":149873,"limit":2097152},"templateargumentsize":{"value":4733,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":103545,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1025.657      1 -total"," 37.89%  388.634      1 Template:Reflist"," 18.95%  194.318      1 Template:Lang-is"," 13.40%  137.489      1 Template:Cite_magazine","  9.66%   99.060      3 Template:Navbox","  8.99%   92.204      1 Template:Short_description","  8.83%   90.563      1 Template:Infobox_holiday","  5.85%   60.036      1 Template:NorseAmerica","  5.67%   58.156      1 Template:Infobox","  5.64%   57.816      1 Template:Better_source"]},"scribunto":{"limitreport-timeusage":{"value":"0.512","limit":"10.000"},"limitreport-memusage":{"value":27321633,"limit":52428800}},"cachereport":{"origin":"mw1316","timestamp":"20210515004327","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Leif Erikson Day","url":"https:\/\/en.wikipedia.org\/wiki\/Leif_Erikson_Day","sameAs":"http:\/\/www.wikidata.org\/entity\/Q486608","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q486608","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-07-08T03:02:27Z","dateModified":"2021-05-09T10:36:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2b\/Leif_Erikson_6c_1968_issue.JPG","headline":"Annual observance on October 9 in honor of the Norse explorer Leif Erikson"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":181,"wgHostname":"mw1324"});});</script> 
+ </body>
+</html>

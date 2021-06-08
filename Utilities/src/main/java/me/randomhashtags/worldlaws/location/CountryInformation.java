@@ -1,25 +1,33 @@
 package me.randomhashtags.worldlaws.location;
 
-import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 public final class CountryInformation {
 
     private String json;
 
-    public CountryInformation(HashMap<CountryInfo, String> info) {
-        updateJSON(info == null ? new HashMap<>() : info);
+    public CountryInformation(ConcurrentHashMap<CountryInformationType, HashSet<String>> info) {
+        updateJSON(info == null ? new ConcurrentHashMap<>() : info);
     }
-    private void updateJSON(HashMap<CountryInfo, String> info) {
+    private void updateJSON(ConcurrentHashMap<CountryInformationType, HashSet<String>> info) {
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
-        for(Map.Entry<CountryInfo, String> entry : info.entrySet()) {
-            final CountryInfo information = entry.getKey();
-            final String value = entry.getValue();
-            if(value != null && !value.equals("null")) {
-                builder.append(isFirst ? "" : ",").append("\"").append(information.name().toLowerCase()).append("\":").append(value);
-                isFirst = false;
+        for(Map.Entry<CountryInformationType, HashSet<String>> entry : info.entrySet()) {
+            final CountryInformationType informationType = entry.getKey();
+            final HashSet<String> hashset = entry.getValue();
+            builder.append(isFirst ? "" : ",").append("\"").append(informationType.name()).append("\":{");
+            boolean isFirstString = true;
+            for(String string : hashset) {
+                if(string != null && !string.equals("null")) {
+                    final String realString = string.startsWith("{") ? string.substring(1, string.length()-1) : string;
+                    builder.append(isFirstString ? "" : ",").append(realString);
+                    isFirstString = false;
+                }
             }
+            isFirst = false;
+            builder.append("}");
         }
         builder.append("}");
         json = builder.toString();

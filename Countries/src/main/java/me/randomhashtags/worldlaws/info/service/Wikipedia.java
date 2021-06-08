@@ -1,10 +1,13 @@
 package me.randomhashtags.worldlaws.info.service;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.info.WikipediaPicture;
 import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.location.CountryInformationType;
 import org.apache.logging.log4j.Level;
-import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -25,21 +28,21 @@ public enum Wikipedia implements CountryService {
     }
 
     @Override
+    public CountryInformationType getInformationType() {
+        return CountryInformationType.SERVICES;
+    }
+
+    @Override
     public CountryInfo getInfo() {
         return CountryInfo.SERVICE_WIKIPEDIA;
     }
 
     @Override
-    public HashMap<String, String> getCountries() {
-        return null;
+    public void loadData(CompletionHandler handler) {
     }
 
     @Override
-    public void refresh(CompletionHandler handler) {
-    }
-
-    @Override
-    public void getValue(String tag, CompletionHandler handler) {
+    public void getCountryValue(String tag, CompletionHandler handler) {
         if(countries == null) {
             countries = new HashMap<>();
         }
@@ -55,8 +58,8 @@ public enum Wikipedia implements CountryService {
 
                 @Override
                 public void handleJSONObject(JSONObject object) {
+                    final String string = new CountryServiceValue(Wikipedia.INSTANCE, object.toString()).toString();
                     WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + tag + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                    final String string = object.toString();
                     countries.put(tag, string);
                     handler.handle(string);
                 }
@@ -65,50 +68,38 @@ public enum Wikipedia implements CountryService {
     }
 
     private void loadWikipedia(String tag, CompletionHandler handler) {
-        getJSONObject(FileType.COUNTRIES_SERVICES_WIKIPEDIA, tag, new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                final String url = "https://en.wikipedia.org/wiki/" + tag.replace(" ", "_");
-                final Document document;
-                try {
-                    document = getDocument(getFileType(), url);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                    handler.handle(null);
-                    return;
+        final String url = "https://en.wikipedia.org/wiki/" + tag.replace(" ", "_");
+        final Document document;
+        try {
+            document = getDocument(getFileType(), url);
+        } catch (Exception e) {
+            e.printStackTrace();
+            handler.handle(null);
+            return;
+        }
+        final Elements infoboxParagraphs = document.select("div.mw-parser-output table.infobox + p");
+        final Elements metadataParagraphs = document.select("div.mw-parser-output table.metadata + p");
+        final Element element = !infoboxParagraphs.isEmpty() ? infoboxParagraphs.get(0) : !metadataParagraphs.isEmpty() ? metadataParagraphs.get(0) : null;
+        if(element == null) {
+            WLLogger.log(Level.WARN, "Wikipedia - missing paragraph for country \"" + tag + "\"!");
+            handler.handle(null);
+        } else {
+            String firstParagraph = removeReferences(element.text()).replace("(listen)", "").replace("(listen to all)", "");
+            firstParagraph = LocalServer.removeWikipediaTranslations(firstParagraph);
+            final String paragraph = LocalServer.fixEscapeValues(firstParagraph);
+            getPictures(tag, new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    final String string =
+                            "{" +
+                            "\"pictures\":" + object.toString() + "," +
+                            "\"paragraph\":\"" + paragraph + "\"," +
+                            "\"url\":\"" + url + "\"" +
+                            "}";
+                    handler.handle(string);
                 }
-                final Elements infoboxParagraphs = document.select("div.mw-parser-output table.infobox + p");
-                final Elements metadataParagraphs = document.select("div.mw-parser-output table.metadata + p");
-                final Element element = !infoboxParagraphs.isEmpty() ? infoboxParagraphs.get(0) : !metadataParagraphs.isEmpty() ? metadataParagraphs.get(0) : null;
-                if(element == null) {
-                    WLLogger.log(Level.WARN, "Wikipedia - missing paragraph for country \"" + tag + "\"!");
-                    handler.handle(null);
-                } else {
-                    String firstParagraph = removeReferences(element.text()).replace("(listen)", "").replace("(listen to all)", "");
-                    firstParagraph = LocalServer.removeWikipediaTranslations(firstParagraph);
-                    final String paragraph = LocalServer.fixEscapeValues(firstParagraph);
-                    getPictures(tag, new CompletionHandler() {
-                        @Override
-                        public void handle(Object object) {
-                            final String string =
-                                    "{" +
-                                    "\"pictures\":" + object.toString() + "," +
-                                    "\"paragraph\":\"" + paragraph + "\"," +
-                                    "\"url\":\"" + url + "\"" +
-                                    "}";
-                            handler.handle(string);
-                        }
-                    });
-                }
-            }
-
-            @Override
-            public void handleJSONObject(JSONObject object) {
-                final String string = object.toString();
-                countries.put(tag, string);
-                handler.handle(string);
-            }
-        });
+            });
+        }
     }
 
     private void getPictures(String tag, CompletionHandler handler) {
@@ -120,8 +111,8 @@ public enum Wikipedia implements CountryService {
                     @Override
                     public void handle(Object featuredObj) {
                         final String string =
-                                (nationalAnimalsObj != null ? "\"nationalAnimal\":" + nationalAnimalsObj.toString() + (featuredObj != null ? "," : "") : "") +
-                                (featuredObj != null ? "\"featured\":" + featuredObj.toString() : "");
+                                (nationalAnimalsObj != null ? "\"nationalAnimal\":" + nationalAnimalsObj + (featuredObj != null ? "," : "") : "") +
+                                (featuredObj != null ? "\"featured\":" + featuredObj : "");
                         builder.append(string);
                         builder.append("}");
                         handler.handle(builder.toString());
@@ -132,7 +123,7 @@ public enum Wikipedia implements CountryService {
     }
 
     private void getFeaturedPictures(String tag, CompletionHandler handler) {
-        getJSONArray(FileType.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES, tag, new CompletionHandler() {
+        getJSONObject(FileType.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES, tag, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final String country = tag.toLowerCase();
@@ -141,7 +132,7 @@ public enum Wikipedia implements CountryService {
                     return element.text().toLowerCase().endsWith(country);
                 }).findFirst();
                 if(target.isPresent()) {
-                    final StringBuilder builder = new StringBuilder("[");
+                    final StringBuilder builder = new StringBuilder("{");
                     final String prefix = "https://commons.wikimedia.org", url = prefix + target.get().attr("href");
                     final Elements pictures = getDocumentElements(FileType.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES, url, "div.mw-body div.mw-body-content div.mw-content-ltr div.mw-category-generated div ul.gallery li.gallerybox div div.thumb div a.image");
                     boolean isFirst = true;
@@ -163,24 +154,24 @@ public enum Wikipedia implements CountryService {
                                         final String text = (descriptionElements.isEmpty() ? elements : descriptionElements).textNodes().get(0).text();
                                     }*/
                                     final WikipediaPicture wikipediaPicture = new WikipediaPicture(imageTitle, null, pictureURL, "https://commons.wikimedia.org" + href);
-                                    builder.append(isFirst ? "" : ",").append(wikipediaPicture.toString());
+                                    builder.append(isFirst ? "" : ",").append(wikipediaPicture);
                                     isFirst = false;
                                     added += 1;
                                 }
                             }
                         }
                     }
-                    builder.append("]");
+                    builder.append("}");
                     handler.handle(builder.toString());
                 } else {
                     WLLogger.log(Level.WARN, "Wikipedia - missing Featured Pictures for country \"" + country + "\"");
-                    handler.handle("[]");
+                    handler.handle("{}");
                 }
             }
 
             @Override
-            public void handleJSONArray(JSONArray array) {
-                handler.handle(array.toString());
+            public void handleJSONObject(JSONObject json) {
+                handler.handle(json.toString());
             }
         });
     }
@@ -204,15 +195,6 @@ public enum Wikipedia implements CountryService {
                 final Elements nationalAnimalsElements = getNationalAnimalsElements();
                 final Elements trs = new Elements(nationalAnimalsElements);
                 trs.removeIf(row -> row.select("td").isEmpty());
-                /*final Optional<Element> element = trs.parallelStream().filter(tr -> {
-                    final Elements tds = tr.select("td");
-                    if(!tds.isEmpty()) {
-                        final Element firstElement = tds.get(0);
-                        final String country = firstElement.select("a").get(0).text();
-                        return tag.equalsIgnoreCase(country);
-                    }
-                    return false;
-                }).findFirst();*/
 
                 final String prefix = "https://en.wikipedia.org";
                 final StringBuilder builder = new StringBuilder("{");
@@ -223,12 +205,12 @@ public enum Wikipedia implements CountryService {
                     final Element firstElement = tds.get(0);
                     final int rowspan = firstElement.hasAttr("rowspan") ? Integer.parseInt(firstElement.attr("rowspan")) : 0;
                     final String country = firstElement.selectFirst("a").text();
-                    final StringBuilder animalBuilder = new StringBuilder("\"" + country + "\":[");
+                    final StringBuilder animalBuilder = new StringBuilder("\"" + country + "\":{");
 
                     final Element ahref = tds.get(3).selectFirst("a.image");
                     final Element firstImage = ahref.selectFirst("img");
                     final WikipediaPicture animal = getNationalAnimal(tds.get(1), firstImage, prefix + ahref.attr("href"));
-                    animalBuilder.append(animal.toString());
+                    animalBuilder.append(animal);
 
                     if(rowspan != 0) {
                         final int nationalAnimalIndex = nationalAnimalsElements.indexOf(realElement);
@@ -237,13 +219,13 @@ public enum Wikipedia implements CountryService {
                             final Elements targetElementTDs = targetElement.select("td");
                             final Element targetHref = targetElementTDs.get(2).selectFirst("a.image");
                             final WikipediaPicture value = getNationalAnimal(targetElementTDs.get(0), targetHref.selectFirst("img"), prefix + targetHref.attr("href"));
-                            animalBuilder.append(",").append(value.toString());
+                            animalBuilder.append(",").append(value);
                         }
                         index += rowspan-1;
                     }
-                    animalBuilder.append("]");
+                    animalBuilder.append("}");
 
-                    builder.append(isFirst ? "" : ",").append(animalBuilder.toString());
+                    builder.append(isFirst ? "" : ",").append(animalBuilder);
                     isFirst = false;
                 }
                 builder.append("}");
@@ -252,12 +234,12 @@ public enum Wikipedia implements CountryService {
 
             @Override
             public void handleJSONObject(JSONObject object) {
-                final JSONArray array = object.has(tag) ? object.getJSONArray(tag) : null;
-                if(array != null) {
-                    animalHandler.handle(array.toString());
+                final JSONObject json = object.has(tag) ? object.getJSONObject(tag) : null;
+                if(json != null) {
+                    animalHandler.handle(json.toString());
                 } else {
                     WLLogger.log(Level.WARN, "Wikipedia - missing National Animals for country \"" + tag + "\"!");
-                    animalHandler.handle("[]");
+                    animalHandler.handle("{}");
                 }
             }
         });
