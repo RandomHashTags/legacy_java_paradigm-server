@@ -46,7 +46,7 @@ public interface IHoliday extends Jsoupable {
                     break;
                 }
             }
-            final String string = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(removeReferences(builder.toString())));
+            final String string = LocalServer.removeWikipediaTranslations(removeReferences(builder.toString()));
             handler.handle(string);
         }
     }

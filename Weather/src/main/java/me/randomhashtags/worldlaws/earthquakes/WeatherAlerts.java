@@ -125,7 +125,7 @@ public enum WeatherAlerts {
                 controller.getEvents(handler);
             }
         } else {
-            handler.handle("{}");
+            handler.handle(null);
         }
     }
 
@@ -142,13 +142,12 @@ public enum WeatherAlerts {
         countries.clear();
         final WeatherController[] countries = getCountries();
         final int max = countries.length;
-        final AtomicInteger completedHandlers = new AtomicInteger(0);
+        final AtomicInteger completed = new AtomicInteger(0);
         Arrays.asList(countries).parallelStream().forEach(weather -> {
             getAlertEvents(weather, new CompletionHandler() {
                 @Override
                 public void handle(Object object) {
-                    final int completed = completedHandlers.addAndGet(1);
-                    if(completed == max) {
+                    if(completed.addAndGet(1) == max) {
                         updateAllAlertsJSON();
                         WLLogger.log(Level.INFO, "WeatherAlerts - refreshed All Alert Events (took " + (System.currentTimeMillis()-started) + "ms)");
                         if(handler != null) {

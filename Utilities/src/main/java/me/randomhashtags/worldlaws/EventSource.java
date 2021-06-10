@@ -7,10 +7,10 @@ public final class EventSource {
 
     public EventSource(String siteName, String homepageURL) {
         this.siteName = LocalServer.fixEscapeValues(siteName);
-        this.homepageURL = LocalServer.fixEscapeValues(homepageURL);
+        this.homepageURL = homepageURL;
     }
     public EventSource(JSONObject json) {
-        siteName = json.getString("siteName");
+        siteName = LocalServer.fixEscapeValues(json.getString("siteName"));
         homepageURL = json.getString("homepageURL");
     }
 

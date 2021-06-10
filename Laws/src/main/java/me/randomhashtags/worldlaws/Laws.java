@@ -50,7 +50,7 @@ public final class Laws implements WLServer {
     }
 
     @Override
-    public void getServerResponse(ServerVersion version, String target, CompletionHandler handler) {
+    public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
@@ -71,6 +71,7 @@ public final class Laws implements WLServer {
     }
 
     private void getRecentlyPassed(CompletionHandler handler) {
+        final long started = System.currentTimeMillis();
         final int max = CONTROLLERS.length;
         final HashMap<String, String> values = new HashMap<>();
         final AtomicInteger completed = new AtomicInteger(0);
@@ -95,6 +96,7 @@ public final class Laws implements WLServer {
                             builder.append("}");
                             string = builder.toString();
                         }
+                        WLLogger.log(Level.INFO, "Laws - loaded recently passed (took " + (System.currentTimeMillis()-started) + "ms)");
                         handler.handle(string);
                     }
                 }

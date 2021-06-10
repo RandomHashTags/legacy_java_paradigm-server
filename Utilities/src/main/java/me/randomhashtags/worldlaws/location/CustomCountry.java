@@ -22,7 +22,7 @@ public final class CustomCountry implements SovereignState, ServerObject {
 
     private final String tag, unStatus, sovereigntyDispute, shortName, name;
     private String flagURL, flagEmoji;
-    private CountryDaylightSavingsTime daylightSavingsTime;
+    private SovereignStateDST daylightSavingsTime;
     private HashSet<UTCOffset> timezones;
     private String information;
 
@@ -83,7 +83,7 @@ public final class CustomCountry implements SovereignState, ServerObject {
             final int startDay = dstJson.getInt("startDay");
             final int endMonth = dstJson.getInt("endMonth");
             final int endDay = dstJson.getInt("endDay");
-            daylightSavingsTime = new CountryDaylightSavingsTime(startMonth, startDay, endMonth, endDay);
+            daylightSavingsTime = new SovereignStateDST(startMonth, startDay, endMonth, endDay);
         }
     }
 

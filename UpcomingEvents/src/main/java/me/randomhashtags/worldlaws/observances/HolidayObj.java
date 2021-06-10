@@ -18,7 +18,7 @@ public class HolidayObj implements Holiday {
         this.englishName = LocalServer.fixEscapeValues(englishName);
         this.imageURL = imageURL;
         this.aliases = aliases;
-        this.description = description;
+        this.description = LocalServer.fixEscapeValues(description);
         this.learnMoreURL = learnMoreURL;
         this.otherSources = otherSources;
     }
@@ -49,6 +49,7 @@ public class HolidayObj implements Holiday {
     public HashSet<String> getCountries() {
         return countries;
     }
+
     public void addCountry(String country) {
         if(countries == null) {
             countries = new HashSet<>();

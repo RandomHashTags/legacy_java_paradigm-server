@@ -43,7 +43,6 @@ public enum DaylightSavingsTime implements Jsonable { // TODO: update to jsonabl
         getJSONObject(FileType.COUNTRIES, "Daylight Savings Time", new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
-
             }
 
             @Override
@@ -56,10 +55,9 @@ public enum DaylightSavingsTime implements Jsonable { // TODO: update to jsonabl
 
     private void loadDaylightSavingsTimes() {
         final String url = "https://en.wikipedia.org/wiki/Daylight_saving_time_by_country";
-
     }
 
-    public CountryDaylightSavingsTime getFrom(String country, UTCOffset offset) {
+    public SovereignStateDST getFrom(String country, UTCOffset offset) {
         country = country.toLowerCase();
         final boolean observed = isObserved(country);
         if(observed) {
@@ -70,7 +68,7 @@ public enum DaylightSavingsTime implements Jsonable { // TODO: update to jsonabl
                 resetVariables();
                 return null;
             }
-            final CountryDaylightSavingsTime dst = new CountryDaylightSavingsTime(startDate, endDate);
+            final SovereignStateDST dst = new SovereignStateDST(startDate, endDate);
             resetVariables();
             return dst;
         } else {

@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public interface WLServer extends DataValues, Jsoupable, Jsonable {
-    HashMap<TargetServer, HashMap<ServerVersion, String>> CACHED_HOME_RESPONSES = new HashMap<>();
+    HashMap<TargetServer, HashMap<APIVersion, String>> CACHED_HOME_RESPONSES = new HashMap<>();
     TargetServer getServer();
 
     default void load() {
@@ -32,7 +32,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     private void getResponse(String target, CompletionHandler handler) {
         final String[] values = target.split("/");
         final String versionString = values[0];
-        final ServerVersion version = ServerVersion.valueOf(versionString);
+        final APIVersion version = APIVersion.valueOfInput(versionString);
         switch (values[1]) {
             case "home":
                 getHomeResponse(version, handler);
@@ -45,22 +45,22 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 break;
         }
     }
-    void getServerResponse(ServerVersion version, String target, CompletionHandler handler);
+    void getServerResponse(APIVersion version, String target, CompletionHandler handler);
     String[] getHomeRequests();
-    private void getHomeResponse(ServerVersion version, CompletionHandler handler) { // TODO: auto update home responses
+    private void getHomeResponse(APIVersion version, CompletionHandler handler) { // TODO: auto update home responses
         final TargetServer server = getServer();
         CACHED_HOME_RESPONSES.putIfAbsent(server, new HashMap<>());
-        final HashMap<ServerVersion, String> map = CACHED_HOME_RESPONSES.get(server);
+        final HashMap<APIVersion, String> map = CACHED_HOME_RESPONSES.get(server);
         if(map.containsKey(version)) {
             handler.handle(map.get(version));
         } else {
             refreshHome(server, version, handler);
         }
     }
-    default void refreshHome(ServerVersion version, CompletionHandler handler) {
+    default void refreshHome(APIVersion version, CompletionHandler handler) {
         refreshHome(getServer(), version, handler);
     }
-    private void refreshHome(TargetServer server, ServerVersion version, CompletionHandler handler) {
+    private void refreshHome(TargetServer server, APIVersion version, CompletionHandler handler) {
         final String[] requests = getHomeRequests();
         final int max = requests.length;
         final HashSet<String> values = new HashSet<>();
@@ -91,9 +91,5 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 }
             });
         });
-    }
-
-    private int getLatestVersion() {
-        return 1;
     }
 }

@@ -50,7 +50,7 @@ public enum Holidays implements Jsoupable, Jsonable {
                 final StringBuilder builder = new StringBuilder("{\"descriptions\":{");
                 boolean isFirst = true;
                 for(Map.Entry<String, String> map : descriptions.entrySet()) {
-                    final String name = map.getKey(), description = map.getValue();
+                    final String name = map.getKey(), description = LocalServer.fixEscapeValues(map.getValue());
                     builder.append(isFirst ? "" : ",").append("\"").append(name).append("\":\"").append(description).append("\"");
                     isFirst = false;
                 }

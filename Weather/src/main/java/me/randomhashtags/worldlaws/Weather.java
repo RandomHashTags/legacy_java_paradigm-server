@@ -12,8 +12,8 @@ public final class Weather implements WLServer {
     }
 
     private Weather() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -32,7 +32,7 @@ public final class Weather implements WLServer {
     }
 
     @Override
-    public void getServerResponse(ServerVersion version, String target, CompletionHandler handler) {
+    public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {

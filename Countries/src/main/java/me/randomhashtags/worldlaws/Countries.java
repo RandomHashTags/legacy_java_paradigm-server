@@ -223,7 +223,7 @@ public final class Countries implements WLServer {
     }
 
     @Override
-    public void getServerResponse(ServerVersion version, String target, CompletionHandler handler) {
+    public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {

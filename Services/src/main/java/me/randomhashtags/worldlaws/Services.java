@@ -37,12 +37,7 @@ public final class Services implements WLServer {
     }
 
     @Override
-    public void load() {
-        startServer();
-    }
-
-    @Override
-    public void getServerResponse(ServerVersion version, String value, CompletionHandler handler) {
+    public void getServerResponse(APIVersion version, String value, CompletionHandler handler) {
         final String[] values = value.split("/");
         final String key = values[0];
         switch (key) {

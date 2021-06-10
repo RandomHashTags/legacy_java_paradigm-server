@@ -50,10 +50,10 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        refreshHome(null, new CompletionHandler() {
+        Holidays.INSTANCE.getNearHolidays(new CompletionHandler() {
             @Override
             public void handle(Object object) {
-                WLLogger.log(Level.INFO, "UpcomingEvents;test;object=" + object.toString().replace("\n", "\\n"));
+                WLLogger.log(Level.INFO, "UpcomingEvents;test;object=" + object);
             }
         });
     }
@@ -66,7 +66,7 @@ public final class UpcomingEvents implements WLServer {
     }
 
     @Override
-    public void getServerResponse(ServerVersion version, String target, CompletionHandler handler) {
+    public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {

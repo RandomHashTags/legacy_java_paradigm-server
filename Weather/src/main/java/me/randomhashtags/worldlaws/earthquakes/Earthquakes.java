@@ -20,7 +20,7 @@ public enum Earthquakes implements RestAPI {
     private String recentEarthquakes, topRecentEarthquakes;
     private HashMap<String, String> recentTerritoryEarthquakes, topRecentTerritoryEarthquakes;
 
-    public void getResponse(String[] values, CompletionHandler handler) {
+    public void getResponse(String[] values, CompletionHandler handler) { // TODO: cache data for home response and setup auto update
         final String key = values[1];
         switch (key) {
             case "recent":
@@ -93,12 +93,10 @@ public enum Earthquakes implements RestAPI {
         }, interval, interval);
     }
 
-    private String getURLRequest(int minusDays) {
-        final LocalDate endDate = LocalDate.now(Clock.systemUTC()), startDate = endDate.minusDays(minusDays);
-        final int startDateYear = startDate.getYear();
-        final String startDateString = startDateYear + "-" + startDate.getMonthValue() + "-" + startDate.getDayOfMonth();
-        final int endDateYear = endDate.getYear();
-        final String endDateString = endDateYear + "-" + endDate.getMonthValue() + "-" + endDate.getDayOfMonth();
+    private String getURLRequest(LocalDate endDate) {
+        final LocalDate startDate = endDate.minusDays(30);
+        final String startDateString = new EventDate(startDate).getDateString();
+        final String endDateString = new EventDate(endDate).getDateString();
         return "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=" + startDateString + "&endtime=" + endDateString;
     }
     private void refreshRecent(CompletionHandler handler) {
@@ -109,8 +107,8 @@ public enum Earthquakes implements RestAPI {
     }
     private void refresh(boolean isRecent, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
-        final int minusDays = isRecent ? 7 : 30;
-        final String url = getURLRequest(minusDays);
+        final LocalDate now = LocalDate.now(Clock.systemUTC()), startingDate = now.minusDays(isRecent ? 7 : 30);
+        final String url = getURLRequest(now);
 
         requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
@@ -134,7 +132,7 @@ public enum Earthquakes implements RestAPI {
 
                     StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
                         final JSONObject json = (JSONObject) obj;
-                        loadEarthquake(json, americanTerritories, preEarthquakeDates, territoryEarthquakesMap);
+                        loadEarthquake(startingDate, json, americanTerritories, preEarthquakeDates, territoryEarthquakesMap);
                         if(completed.addAndGet(1) == max) {
                             boolean isFirst = true;
                             for(Map.Entry<String, ConcurrentHashMap<String, HashSet<String>>> map : preEarthquakeDates.entrySet()) {
@@ -182,51 +180,39 @@ public enum Earthquakes implements RestAPI {
         }
     }
 
-    private void loadEarthquake(JSONObject json, HashMap<String, String> americanTerritories, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates, ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap) {
+    private void loadEarthquake(LocalDate startingDate, JSONObject json, HashMap<String, String> americanTerritories, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates, ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap) {
         final JSONObject properties = json.getJSONObject("properties");
-        final Object mag = properties.has("mag") ? properties.get("mag") : null;
-        final String magnitude = mag != null && !mag.toString().equals("null") ? mag.toString() : "0.00";
-        if(Float.parseFloat(magnitude) >= 2.00) {
-            final String id = json.getString("id");
-            final JSONObject geometry = json.getJSONObject("geometry");
-            final JSONArray coordinates = geometry.getJSONArray("coordinates");
-            final boolean isPoint = geometry.getString("type").equalsIgnoreCase("point");
-            final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
-            final Location location = new Location(latitude, longitude);
+        final long time = properties.getLong("time");
+        final EventDate date = new EventDate(time);
+        if(date.getLocalDate().isAfter(startingDate)) {
+            final Object magnitudeObj = properties.has("mag") ? properties.get("mag") : null;
+            final String magnitude = magnitudeObj != null && !magnitudeObj.toString().equals("null") ? magnitudeObj.toString() : "0.00";
+            if(Float.parseFloat(magnitude) >= 2.00) {
+                final String id = json.getString("id");
+                final JSONObject geometry = json.getJSONObject("geometry");
+                final JSONArray coordinates = geometry.getJSONArray("coordinates");
+                final boolean isPoint = geometry.getString("type").equalsIgnoreCase("point");
+                final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
+                final Location location = new Location(latitude, longitude);
 
-            final String place = properties.getString("place");
-            final boolean hasComma = place.contains(", ");
-            final String[] values = place.split(hasComma ? ", " : " ");
-            final int length = values.length;
-            String territory;
-            if(hasComma) {
-                territory = values[length-1];
-            } else {
-                final boolean isOne = length == 1;
-                final String target = values[isOne ? 0 : length-1];
-                territory = isOne || target.equals("Sea") || target.equals("Peninsula") ? target : target.equals("region") ? place.split(" region")[0] : target.equalsIgnoreCase("island") ? values[length-2] + " " + target : target;
-            }
+                final String place = properties.getString("place");
+                String territory = getTerritory(place, americanTerritories);
+                final boolean isAmericaKey = americanTerritories.containsKey(territory), isAmerica = isAmericaKey || americanTerritories.containsValue(territory);
 
-            final boolean isAmericaKey = americanTerritories.containsKey(territory), isAmerica = isAmericaKey || americanTerritories.containsValue(territory);
-            if(isAmericaKey) {
-                territory = americanTerritories.get(territory);
-            }
+                final String dateString = date.getDateString();
+                final PreEarthquake preEarthquake = new PreEarthquake(id, place, magnitude, location);
+                preEarthquakeDates.putIfAbsent(dateString, new ConcurrentHashMap<>());
+                preEarthquakeDates.get(dateString).putIfAbsent(magnitude, new HashSet<>());
+                preEarthquakeDates.get(dateString).get(magnitude).add(preEarthquake.toString());
 
-            final long time = properties.getLong("time");
-            final EventDate date = new EventDate(time);
-            final String dateString = date.getMonth().getValue() + "-" + date.getYear() + "-" + date.getDay();
-            final PreEarthquake preEarthquake = new PreEarthquake(id, place, magnitude, location);
-            preEarthquakeDates.putIfAbsent(dateString, new ConcurrentHashMap<>());
-            preEarthquakeDates.get(dateString).putIfAbsent(magnitude, new HashSet<>());
-            preEarthquakeDates.get(dateString).get(magnitude).add(preEarthquake.toString());
-
-            territory = territory.toLowerCase().replace(" ", "");
-            territoryEarthquakesMap.putIfAbsent(territory, new HashSet<>());
-            territoryEarthquakesMap.get(territory).add(preEarthquake);
-            if(isAmerica) {
-                final String unitedstates = "unitedstates";
-                territoryEarthquakesMap.putIfAbsent(unitedstates, new HashSet<>());
-                territoryEarthquakesMap.get(unitedstates).add(preEarthquake);
+                territory = territory.toLowerCase().replace(" ", "");
+                territoryEarthquakesMap.putIfAbsent(territory, new HashSet<>());
+                territoryEarthquakesMap.get(territory).add(preEarthquake);
+                if(isAmerica) {
+                    final String unitedstates = "unitedstates";
+                    territoryEarthquakesMap.putIfAbsent(unitedstates, new HashSet<>());
+                    territoryEarthquakesMap.get(unitedstates).add(preEarthquake);
+                }
             }
         }
     }
@@ -260,29 +246,40 @@ public enum Earthquakes implements RestAPI {
                 final Location location = new Location(latitude, longitude);
 
                 final String url = properties.getString("url"), cause = properties.getString("type").toUpperCase(), place = properties.getString("place");
-                final boolean hasComma = place.contains(", ");
-                final String[] values = place.split(hasComma ? ", " : " ");
-                final int length = values.length;
-                String territory;
-                if(hasComma) {
-                    territory = values[length-1];
-                } else {
-                    final boolean isOne = length == 1;
-                    final String target = values[isOne ? 0 : length-1];
-                    territory = isOne || target.equals("Sea") || target.equals("Peninsula") ? target : target.equals("region") ? place.split(" region")[0] : target.equalsIgnoreCase("island") ? values[length-2] + " " + target : target;
-                }
-
-                final HashMap<String, String> americanTerritories = TerritoryAbbreviations.getAmericanTerritories();
-                final boolean isAmericaKey = americanTerritories.containsKey(territory), isAmerica = isAmericaKey || americanTerritories.containsValue(territory);
-                if(isAmericaKey) {
-                    territory = americanTerritories.get(territory);
-                }
-
+                final String territory = getTerritory(place, TerritoryAbbreviations.getAmericanTerritories());
                 final long time = properties.getLong("time"), lastUpdated = properties.getLong("updated");
                 final Earthquake earthquake = new Earthquake(territory, cause, magnitude, place, time, lastUpdated, 0, location, url);
                 final String string = earthquake.toString();
                 handler.handle(string);
             }
         });
+    }
+
+    private String getTerritory(String place, HashMap<String, String> americanTerritories) {
+        final boolean hasComma = place.contains(", ");
+        final String[] values = place.split(hasComma ? ", " : " ");
+        final int length = values.length;
+        String territory;
+        if(hasComma) {
+            territory = values[length-1];
+        } else {
+            final String target = values[length == 1 ? 0 : length-1];
+            switch (target.toLowerCase()) {
+                case "region":
+                    territory = place.split(" region")[0];
+                    break;
+                case "island":
+                    territory = values[length-2] + " " + target;
+                    break;
+                default:
+                    territory = target;
+                    break;
+            }
+        }
+        final boolean isAmericaKey = americanTerritories.containsKey(territory), isAmerica = isAmericaKey || americanTerritories.containsValue(territory);
+        if(isAmericaKey) {
+            territory = americanTerritories.get(territory);
+        }
+        return territory;
     }
 }

@@ -246,9 +246,8 @@ public enum Movies implements UpcomingEventController {
                         values.put(ratingName, object.toString());
                     }
                     if(completion.addAndGet(1) == max) {
-                        if(values.isEmpty()) {
-                            handler.handle(null);
-                        } else {
+                        String string = null;
+                        if(!values.isEmpty()) {
                             final StringBuilder builder = new StringBuilder("{");
                             boolean isFirst = true;
                             for(Map.Entry<String, String> map : values.entrySet()) {
@@ -257,8 +256,9 @@ public enum Movies implements UpcomingEventController {
                                 isFirst = false;
                             }
                             builder.append("}");
-                            handler.handle(builder.toString());
+                            string = builder.toString();
                         }
+                        handler.handle(string);
                     }
                 }
             });
@@ -295,11 +295,16 @@ public enum Movies implements UpcomingEventController {
                 final AtomicBoolean found = new AtomicBoolean(false);
                 elements.parallelStream().forEach(element -> {
                     if(!found.get()) {
-                        final Element targetElement = element.selectFirst("div.media-list__title");
-                        if(movieTitle.equals(targetElement.text())) {
+                        final Element titleElement = element.selectFirst("div.media-list__title");
+                        if(movieTitle.equals(titleElement.text())) {
                             found.set(true);
-                            final String meterScore = targetElement.selectFirst("div.media-list__meter-container span span.tMeterScore").text().replace("%", "");
-                            handler.handle(meterScore);
+                            final Elements meterScoreElements = element.selectFirst("div.media-list__meter-container span").select("span.tMeterScore");
+                            final Element meterScoreElement = !meterScoreElements.isEmpty() ? meterScoreElements.get(0) : null;
+                            String string = null;
+                            if(meterScoreElement != null) {
+                                string = meterScoreElement.selectFirst("span.tMeterScore").text().replace("%", "");
+                            }
+                            handler.handle(string);
                         }
                     }
                 });

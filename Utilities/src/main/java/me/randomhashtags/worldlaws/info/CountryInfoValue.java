@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.LocalServer;
 import org.json.JSONObject;
 
-public class CountryInfoValue implements Jsoupable {
+public final class CountryInfoValue implements Jsoupable {
     private final String title, value, description;
 
     public CountryInfoValue(String title, String value, String description) {
