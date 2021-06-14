@@ -11,7 +11,11 @@ import me.randomhashtags.worldlaws.country.usa.service.usaproject.UnitedStatesPr
 import me.randomhashtags.worldlaws.location.WLCountry;
 
 import java.time.LocalDate;
+import java.util.Arrays;
+import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public enum USLaws implements LawController {
     INSTANCE;
@@ -30,30 +34,47 @@ public enum USLaws implements LawController {
     @Override
     public void getRecentActivity(CompletionHandler handler) {
         final LocalDate startingDate = LocalDate.now().minusDays(7);
-        final int currentCongressVersion = USCongress.getCurrentAdministrationVersion();
-        USCongress.getCongress(currentCongressVersion).getPreCongressBillsBySearch(BillStatus.BECAME_LAW, new CompletionHandler() {
-            @Override
-            public void handle(Object object) {
-                if(object != null) {
-                    @SuppressWarnings({ "unchecked" })
-                    final HashSet<PreCongressBill> bills = (HashSet<PreCongressBill>) object;
-                    bills.removeIf(bill -> bill.getDate().getLocalDate().isBefore(startingDate));
-                    String string = null;
-                    if(!bills.isEmpty()) {
-                        final StringBuilder builder = new StringBuilder("{");
-                        boolean isFirst = true;
-                        for(PreCongressBill bill : bills) {
-                            builder.append(isFirst ? "" : ",").append(bill.toString());
-                            isFirst = false;
-                        }
-                        builder.append("}");
-                        string = builder.toString();
+        final USCongress congress = USCongress.getCongress(USCongress.getCurrentAdministrationVersion());
+        final BillStatus[] statuses = new BillStatus[] {
+                BillStatus.BECAME_LAW,
+                BillStatus.VETO_ACTIONS
+        };
+        final int max = statuses.length;
+        final HashMap<BillStatus, HashSet<PreCongressBill>> values = new HashMap<>();
+        final AtomicInteger completed = new AtomicInteger(0);
+        Arrays.asList(statuses).parallelStream().forEach(status -> {
+            congress.getPreCongressBillsBySearch(status, new CompletionHandler() {
+                @Override
+                public void handle(Object object) {
+                    if(object != null) {
+                        @SuppressWarnings({ "unchecked" })
+                        final HashSet<PreCongressBill> bills = (HashSet<PreCongressBill>) object;
+                        bills.removeIf(bill -> bill.getDate().getLocalDate().isBefore(startingDate));
+                        values.put(status, bills);
                     }
-                    handler.handle(string);
-                } else {
-                    handler.handle(null);
+                    if(completed.addAndGet(1) == max) {
+                        String string = null;
+                        if(!values.isEmpty()) {
+                            final StringBuilder builder = new StringBuilder();
+                            boolean isFirstStatus = true;
+                            for(Map.Entry<BillStatus, HashSet<PreCongressBill>> map : values.entrySet()) {
+                                final BillStatus status = map.getKey();
+                                builder.append(isFirstStatus ? "" : ",").append("\"").append(status.name().toLowerCase()).append("\":{");
+                                final HashSet<PreCongressBill> bills = map.getValue();
+                                boolean isFirst = true;
+                                for(PreCongressBill bill : bills) {
+                                    builder.append(isFirst ? "" : ",").append(bill.toString());
+                                    isFirst = false;
+                                }
+                                isFirstStatus = false;
+                                builder.append("}");
+                            }
+                            string = builder.toString();
+                        }
+                        handler.handle(string);
+                    }
                 }
-            }
+            });
         });
     }
 

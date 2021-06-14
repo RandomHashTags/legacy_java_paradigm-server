@@ -7,6 +7,7 @@ public enum CountryInformationType {
     LEGALITIES,
     LISTS,
     NATIONAL,
+    POLITICS,
     RANKINGS,
     RESOURCES,
     SERVICES,

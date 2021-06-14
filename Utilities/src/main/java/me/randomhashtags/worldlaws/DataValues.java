@@ -10,19 +10,23 @@ public interface DataValues {
 
     int WL_PROXY_PORT = 0;
     int WL_COUNTRIES_PORT = getPort(1);
-    int WL_FEEDBACK_PORT = getPort(2);
-    int WL_LAWS_PORT = getPort(3);
-    int WL_NEWS_PORT = getPort(4);
-    int WL_SERVICES_PORT = getPort(5);
-    int WL_TECHNOLOGY_PORT = getPort(6);
-    int WL_UPCOMING_EVENTS_PORT = getPort(7);
-    int WL_WEATHER_PORT = getPort(8);
+    int WL_ENVIRONMENT_PORT = getPort(2);
+    int WL_FEEDBACK_PORT = getPort(3);
+    int WL_LAWS_PORT = getPort(4);
+    int WL_NEWS_PORT = getPort(5);
+    int WL_SERVICES_PORT = getPort(6);
+    int WL_SPACE_PORT = getPort(7);
+    int WL_TECHNOLOGY_PORT = getPort(8);
+    int WL_UPCOMING_EVENTS_PORT = getPort(9);
+    int WL_WEATHER_PORT = getPort(10);
 
     String WL_COUNTRIES_SERVER_IP = getLocalIP(WL_COUNTRIES_PORT);
+    String WL_ENVIRONMENT_SERVER_IP = getLocalIP(WL_ENVIRONMENT_PORT);
     String WL_FEEDBACK_SERVER_IP = getLocalIP(WL_FEEDBACK_PORT);
     String WL_LAWS_SERVER_IP = getLocalIP(WL_LAWS_PORT);
     String WL_NEWS_SERVER_IP = getLocalIP(WL_NEWS_PORT);
     String WL_SERVICES_SERVER_IP = getLocalIP(WL_SERVICES_PORT);
+    String WL_SPACE_SERVER_IP = getLocalIP(WL_SPACE_PORT);
     String WL_TECHNOLOGY_SERVER_IP = getLocalIP(WL_TECHNOLOGY_PORT);
     String WL_UPCOMING_EVENTS_SERVER_IP = getLocalIP(WL_UPCOMING_EVENTS_PORT);
     String WL_WEATHER_SERVER_IP = getLocalIP(WL_WEATHER_PORT);

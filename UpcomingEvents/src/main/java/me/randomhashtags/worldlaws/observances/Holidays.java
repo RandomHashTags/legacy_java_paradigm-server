@@ -14,6 +14,11 @@ public enum Holidays implements Jsoupable, Jsonable {
     INSTANCE;
 
     private String nearHolidays;
+    private final HashMap<String, String> nearCountryHolidays;
+
+    Holidays() {
+        nearCountryHolidays = new HashMap<>();
+    }
 
     public void getResponse(String value, CompletionHandler handler) {
         final String[] values = value.split("/");
@@ -24,8 +29,10 @@ public enum Holidays implements Jsoupable, Jsonable {
                 if(valueCount == 1) {
                     getNearHolidays(handler);
                 } else {
-                    final WLCountry country = WLCountry.valueOfBackendID(values[1]);
+                    final String countryBackendID = values[1];
+                    final WLCountry country = WLCountry.valueOfBackendID(countryBackendID);
                     if(country != null) {
+                        getNearCountryHolidays(countryBackendID, handler);
                     }
                 }
                 break;
@@ -89,6 +96,15 @@ public enum Holidays implements Jsoupable, Jsonable {
                     handler.handle(object);
                 }
             });
+        }
+    }
+    public void getNearCountryHolidays(String countryBackendID, CompletionHandler handler) {
+        if(nearCountryHolidays.containsKey(countryBackendID)) {
+            handler.handle(nearCountryHolidays.get(countryBackendID));
+        } else {
+            // TODO
+            String string = null;
+            nearCountryHolidays.put(countryBackendID, string);
         }
     }
 }

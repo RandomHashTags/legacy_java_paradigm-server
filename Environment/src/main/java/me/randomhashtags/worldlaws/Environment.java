@@ -1,8 +1,9 @@
 package me.randomhashtags.worldlaws;
 
-public final class Environment {
+public final class Environment implements WLServer {
 
     public static void main(String[] args) {
+        new Environment();
     }
 
     private Environment() {
@@ -13,6 +14,18 @@ public final class Environment {
     private void test() {
     }
 
-    private void load() {
+    @Override
+    public TargetServer getServer() {
+        return TargetServer.ENVIRONMENT;
+    }
+
+    @Override
+    public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
+    }
+
+    @Override
+    public String[] getHomeRequests() {
+        return new String[] {
+        };
     }
 }

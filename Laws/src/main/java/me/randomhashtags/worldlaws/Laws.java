@@ -54,8 +54,15 @@ public final class Laws implements WLServer {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
-            case "recently_passed":
-                getRecentlyPassed(handler);
+            case "recent_activity":
+                if(values.length >= 2) {
+                    final LawController controller = valueOfCountry(values[0]);
+                    if(controller != null) {
+                        controller.getRecentActivity(handler);
+                    }
+                } else {
+                    getRecentActivity(handler);
+                }
                 break;
             default:
                 countries.get(key).getResponse(target.substring(key.length()+1), handler);
@@ -66,11 +73,11 @@ public final class Laws implements WLServer {
     @Override
     public String[] getHomeRequests() {
         return new String[] {
-                "recently_passed"
+                "recent_activity"
         };
     }
 
-    private void getRecentlyPassed(CompletionHandler handler) {
+    private void getRecentActivity(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final int max = CONTROLLERS.length;
         final HashMap<String, String> values = new HashMap<>();
@@ -88,8 +95,7 @@ public final class Laws implements WLServer {
                             final StringBuilder builder = new StringBuilder("{");
                             boolean isFirst = true;
                             for(Map.Entry<String, String> map : values.entrySet()) {
-                                final String country = map.getKey();
-                                final String json = map.getValue();
+                                final String country = map.getKey(), json = map.getValue();
                                 builder.append(isFirst ? "" : ",").append("\"").append(country).append("\":").append(json);
                                 isFirst = false;
                             }
@@ -102,5 +108,14 @@ public final class Laws implements WLServer {
                 }
             });
         });
+    }
+
+    private LawController valueOfCountry(String countryBackendID) {
+        for(LawController controller : CONTROLLERS) {
+            if(controller.getCountry().getBackendID().equals(countryBackendID)) {
+                return controller;
+            }
+        }
+        return null;
     }
 }
