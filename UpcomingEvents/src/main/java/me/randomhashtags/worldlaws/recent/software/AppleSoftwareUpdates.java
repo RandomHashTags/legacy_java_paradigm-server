@@ -1,9 +1,12 @@
-package me.randomhashtags.worldlaws.recent;
+package me.randomhashtags.worldlaws.recent.software;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.recent.PreRecentEvent;
+import me.randomhashtags.worldlaws.recent.RecentEventController;
+import me.randomhashtags.worldlaws.recent.RecentEventType;
 import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -46,9 +49,17 @@ public enum AppleSoftwareUpdates implements RecentEventController, Jsoupable {
                     final LocalDate localDate = LocalDate.of(year, month, day);
                     if(localDate.isAfter(startingDate)) {
                         final Element nameElement = tds.get(0);
-                        final String name = nameElement.text(), id = name.toLowerCase().replace(" ", "");
-                        final PreRecentEvent preRecentEvent = new PreRecentEvent(id, name, null);
-                        updates.add(preRecentEvent.toString());
+                        final String name = nameElement.text();
+                        if(name.startsWith("***REMOVED***")
+                                || name.startsWith("***REMOVED***") || name.startsWith("***REMOVED***") || name.startsWith("***REMOVED***") || name.startsWith("***REMOVED***")
+                                || name.startsWith("***REMOVED***") || name.startsWith("Apple TV")
+                                || name.startsWith("***REMOVED***")
+                                || name.startsWith("***REMOVED***")
+                        ) {
+                            final String id = name.toLowerCase().replace(" ", "");
+                            final PreRecentEvent preRecentEvent = new PreRecentEvent(id, name, null);
+                            updates.add(preRecentEvent.toString());
+                        }
                     }
                 }
                 if(completed.addAndGet(1) == max) {
@@ -64,12 +75,12 @@ public enum AppleSoftwareUpdates implements RecentEventController, Jsoupable {
                         string = builder.toString();
                     }
                     WLLogger.log(Level.INFO, "AppleSoftwareUpdates - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handle(string);
+                    handler.handleString(string);
                 }
             });
         } else {
             WLLogger.log(Level.ERROR, "AppleSoftwareUpdates - doc == nil!");
-            handler.handle(null);
+            handler.handleString(null);
         }
     }
 }

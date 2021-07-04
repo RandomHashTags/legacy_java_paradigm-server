@@ -13,4 +13,5 @@ include 'Services'
 include 'Climate'
 include 'Space'
 include 'Environment'
+include 'BandwidthTester'
 

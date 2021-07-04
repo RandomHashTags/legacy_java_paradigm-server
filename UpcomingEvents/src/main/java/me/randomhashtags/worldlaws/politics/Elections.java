@@ -91,7 +91,7 @@ public enum Elections implements RestAPI, DataValues {
                 builder.append("}");
                 final String string = builder.toString();
                 WLLogger.log(Level.INFO, "Elections - refreshed upcoming elections (took " + (System.currentTimeMillis()-started) + "ms)");
-                handler.handle(string);
+                handler.handleString(string);
             }
         });
     }
@@ -109,7 +109,7 @@ public enum Elections implements RestAPI, DataValues {
                     WLLogger.log(Level.INFO, office.getString("name") + " - " + person.getString("name"));
                     index += 1;
                 }
-                handler.handle(null);
+                handler.handleString(null);
             }
         });
     }

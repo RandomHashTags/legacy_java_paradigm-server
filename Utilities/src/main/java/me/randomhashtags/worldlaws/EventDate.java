@@ -1,14 +1,12 @@
 package me.randomhashtags.worldlaws;
 
+import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
-import java.text.SimpleDateFormat;
-import java.time.LocalDate;
-import java.time.Month;
-import java.util.Date;
+import java.time.*;
 
 public final class EventDate {
-    private static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("MM-dd-yyyy HH:mm:ss");
+    private static final ZoneId UTC_OFFSET = ZoneId.ofOffset("", ZoneOffset.UTC);
     private final Month month;
     private final int day, year, hour, minute;
     // if year == -1 : no year specified
@@ -23,13 +21,12 @@ public final class EventDate {
     }
     public EventDate(long epoch) {
         if(epoch > 0) {
-            final String dateString = DATE_FORMAT.format(new Date(epoch));
-            final String[] values = dateString.split(" "), dates = values[0].split("-"), times = values[1].split(":");
-            this.month = Month.of(Integer.parseInt(dates[0]));
-            this.day = Integer.parseInt(dates[1]);
-            this.year = Integer.parseInt(dates[2]);
-            this.hour = Integer.parseInt(times[0]);
-            this.minute = Integer.parseInt(times[1]);
+            final LocalDateTime date = Instant.ofEpochMilli(epoch).atZone(UTC_OFFSET).toLocalDateTime();
+            this.month = date.getMonth();
+            this.day = date.getDayOfMonth();
+            this.year = date.getYear();
+            this.hour = date.getHour();
+            this.minute = date.getMinute();
         } else {
             month = Month.JANUARY;
             day = -1;
@@ -74,6 +71,9 @@ public final class EventDate {
     }
     public int getYear() {
         return year;
+    }
+    public long toEpoch() {
+        return getLocalDate().toEpochDay();
     }
 
     public LocalDate getLocalDate() {

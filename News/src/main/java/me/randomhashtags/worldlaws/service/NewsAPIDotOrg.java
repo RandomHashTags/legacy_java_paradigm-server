@@ -31,7 +31,7 @@ public enum NewsAPIDotOrg implements NewsService {
         switch (target.toLowerCase()) {
             default:
                 if(countryHeadlines.containsKey(target)) {
-                    handler.handle(countryHeadlines.get(target));
+                    handler.handleString(countryHeadlines.get(target));
                 } else {
                     getTopHeadlines(target, handler);
                 }
@@ -71,7 +71,7 @@ public enum NewsAPIDotOrg implements NewsService {
                 final String json = builder.toString();
                 countryHeadlines.put(countryISOAlpha2, json);
                 WLLogger.log(Level.INFO, "NewsAPIDotOrg - refreshed top headlines" + (countryISOAlpha2 != null ? " for country ISO Alpha2 \"" + countryISOAlpha2 + "\"" : "") + " (took " + (System.currentTimeMillis()-started) + "ms)");
-                handler.handle(json);
+                handler.handleString(json);
             }
         });
     }

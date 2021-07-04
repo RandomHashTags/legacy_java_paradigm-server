@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.location;
 
 public enum TerritoryInfo implements SovereignStateInfo {
-    INSTANCE;
+    SERVICE_APPLE_MAPS_FLYOVER;
 
     @Override
     public String getTitle() {

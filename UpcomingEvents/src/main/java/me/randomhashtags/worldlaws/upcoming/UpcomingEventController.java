@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.upcoming;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.service.YouTubeService;
 import org.apache.logging.log4j.Level;
 
 import java.time.Month;
@@ -9,9 +10,11 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public interface UpcomingEventController extends RestAPI, Jsoupable {
+public interface UpcomingEventController extends YouTubeService, Jsoupable, DataValues {
     UpcomingEventType getType();
-    WLCountry getCountry(); // if null, it is worldwide/global
+    default WLCountry getCountry() { // if null, it is worldwide/global
+        return null;
+    }
     HashMap<String, String> getLoadedPreUpcomingEvents();
     HashMap<String, PreUpcomingEvent> getPreUpcomingEvents();
     HashMap<String, String> getUpcomingEvents();
@@ -37,7 +40,7 @@ public interface UpcomingEventController extends RestAPI, Jsoupable {
             final long started = System.currentTimeMillis();
             load(new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
+                public void handleString(String string) {
                     final HashMap<String, PreUpcomingEvent> newPreUpcomingEvents = getPreUpcomingEvents();
                     final HashMap<String, String> newUpcomingEvents = getUpcomingEvents(), loadedPreUpcomingEvents = getLoadedPreUpcomingEvents();
                     final String amount = "(" + (newPreUpcomingEvents != null ? newPreUpcomingEvents.size() + " preUpcomingEvents, " : "") + newUpcomingEvents.size() + " upcoming events, " + loadedPreUpcomingEvents.size() + " loadedPreUpcomingEvents)";
@@ -56,16 +59,16 @@ public interface UpcomingEventController extends RestAPI, Jsoupable {
         set.removeIf(id -> !id.startsWith(date + "."));
         final long max = set.size();
         if(max <= 0) {
-            handler.handle("{}");
+            handler.handleString("{}");
         } else {
             final HashSet<String> events = new HashSet<>();
             final AtomicInteger completed = new AtomicInteger(0);
             set.parallelStream().forEach(id -> {
                 getPreUpcomingEvent(id, new CompletionHandler() {
                     @Override
-                    public void handle(Object object) {
-                        if(object != null) {
-                            events.add(object.toString());
+                    public void handleString(String string) {
+                        if(string != null) {
+                            events.add(string);
                         }
                         if(completed.addAndGet(1) == max) {
                             final StringBuilder builder = new StringBuilder("{");
@@ -75,9 +78,9 @@ public interface UpcomingEventController extends RestAPI, Jsoupable {
                                 isFirst = false;
                             }
                             builder.append("}");
-                            final String string = builder.toString();
+                            final String value = builder.toString();
                             WLLogger.log(Level.INFO, getType().name() + " - loaded events for date \"" + date + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                            handler.handle(string);
+                            handler.handleString(value);
                         }
                     }
                 });
@@ -87,12 +90,12 @@ public interface UpcomingEventController extends RestAPI, Jsoupable {
     private void getPreUpcomingEvent(String id, CompletionHandler handler) {
         final HashMap<String, String> loadedPreUpcomingEvents = getLoadedPreUpcomingEvents();
         if(loadedPreUpcomingEvents.containsKey(id)) {
-            handler.handle(loadedPreUpcomingEvents.get(id));
+            handler.handleString(loadedPreUpcomingEvents.get(id));
         } else {
             getUpcomingEvent(id, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    handler.handle(loadedPreUpcomingEvents.get(id));
+                public void handleString(String string) {
+                    handler.handleString(loadedPreUpcomingEvents.get(id));
                 }
             });
         }
@@ -100,7 +103,7 @@ public interface UpcomingEventController extends RestAPI, Jsoupable {
     default void getUpcomingEvent(String id, CompletionHandler handler) {
         final HashMap<String, String> upcomingEvents = getUpcomingEvents();
         if(upcomingEvents.containsKey(id)) {
-            handler.handle(upcomingEvents.get(id));
+            handler.handleString(upcomingEvents.get(id));
         } else {
             loadUpcomingEvent(id, handler);
         }

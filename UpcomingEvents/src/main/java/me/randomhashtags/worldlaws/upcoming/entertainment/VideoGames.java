@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.location.WLCountry;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import org.json.JSONArray;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -36,8 +37,8 @@ public enum VideoGames implements UpcomingEventController {
         final Month startingMonth = LocalDate.now().getMonth();
         refreshUpcomingVideoGames(thisYear, startingMonth, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                handler.handle(null);
+            public void handleString(String string) {
+                handler.handleString(null);
             }
         });
     }
@@ -162,7 +163,7 @@ public enum VideoGames implements UpcomingEventController {
                 }
             }
         }
-        handler.handle(null);
+        handler.handleString(null);
     }
 
     private void addExternalLinks(Document doc, EventSources sources) {
@@ -215,14 +216,19 @@ public enum VideoGames implements UpcomingEventController {
             builder.append("]");
 
             final String realPlatforms = builder.toString();
-            final VideoGameEvent event = new VideoGameEvent(title, desc, coverArtURL, realPlatforms, sources);
-            final String string = event.toJSON();
-            upcomingEvents.put(id, string);
-            final String preUpcomingEventString = preUpcomingEvent.toStringWithImageURL(coverArtURL);
-            loadedPreUpcomingEvents.put(id, preUpcomingEventString);
-            handler.handle(string);
+            getVideosJSONArray(YouTubeVideoType.VIDEO_GAME, title, new CompletionHandler() {
+                @Override
+                public void handleJSONArray(JSONArray array) {
+                    final VideoGameEvent event = new VideoGameEvent(title, desc, coverArtURL, realPlatforms, array, sources);
+                    final String string = event.toJSON();
+                    upcomingEvents.put(id, string);
+                    final String preUpcomingEventString = preUpcomingEvent.toStringWithImageURL(coverArtURL);
+                    loadedPreUpcomingEvents.put(id, preUpcomingEventString);
+                    handler.handleString(string);
+                }
+            });
         } else {
-            handler.handle(null);
+            handler.handleString(null);
         }
     }
 }

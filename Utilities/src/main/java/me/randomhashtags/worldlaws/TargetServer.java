@@ -1,11 +1,12 @@
 package me.randomhashtags.worldlaws;
 
 import org.apache.logging.log4j.Level;
+import org.json.JSONObject;
 
 import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public enum TargetServer implements DataValues, RestAPI {
+public enum TargetServer implements RestAPI, DataValues {
     COUNTRIES(WL_COUNTRIES_SERVER_IP),
     ENVIRONMENT(WL_ENVIRONMENT_SERVER_IP),
     FEEDBACK(WL_FEEDBACK_SERVER_IP),
@@ -22,11 +23,14 @@ public enum TargetServer implements DataValues, RestAPI {
     STATUS,
     ;
 
-    private HashMap<String, String> homeResponses;
     private static final String WHATS_NEW_RESPONSE;
+    private static final HashMap<APIVersion, JSONObject> HOME_JSON;
+    private static final HashMap<APIVersion, HashMap<HashSet<String>, String>> HOME_JSONS;
 
     static {
         WHATS_NEW_RESPONSE = "";
+        HOME_JSON = new HashMap<>();
+        HOME_JSONS = new HashMap<>();
     }
 
     private String ipAddress;
@@ -46,55 +50,78 @@ public enum TargetServer implements DataValues, RestAPI {
     public String getName() {
         return LocalServer.toCorrectCapitalization(name()).replace(" ", "");
     }
-    public String getIPAddress() {
-        return ipAddress;
-    }
     public int getPort() {
         return port;
     }
 
-    public void sendResponse(APIVersion version, RequestMethod method, String request, HashSet<String> query, CompletionHandler handler) {
+    public void sendResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query, CompletionHandler handler) {
         final HashMap<String, String> headers = new HashMap<>();
         headers.put("Content-Type", "application/json");
         headers.put("Charset", DataValues.ENCODING.name());
+        headers.put("***REMOVED***", identifier);
         switch (this) {
             case WHATS_NEW:
-                handler.handle(WHATS_NEW_RESPONSE);
+                handler.handleString(WHATS_NEW_RESPONSE);
                 break;
             case STATUS:
-                handler.handle("0");
+                handler.handleString("0");
                 break;
             case HOME:
-                final String targetHomeResponse = "[" + (query != null && query.contains("withCountries") ? "withCountries" : "") + "]";
-                getHomeResponse(version, method, headers, targetHomeResponse, handler);
+                getHomeResponse(version, method, headers, query, handler);
                 break;
             default:
                 final String versionName = version.name(), serverName = getBackendID();
                 request = request.substring(versionName.length() + serverName.length() + 2);
                 final String url = ipAddress + "/" + version.name() + "/" + request;
-                try {
-                    request(url, method, headers, null, handler);
-                } catch (Exception ignored) {
-                    WLLogger.log(Level.WARN, "TargetServer - failed to sendResponse to \"" + url + "\"!");
-                    handler.handle(null);
-                }
+                request(url, method, headers, null, handler);
                 break;
         }
     }
 
-    private void getHomeResponse(APIVersion version, RequestMethod method, HashMap<String, String> headers, String targetHomeResponse, CompletionHandler handler) {
-        if(homeResponses != null) {
-            handler.handle(homeResponses.getOrDefault(targetHomeResponse, "{}"));
+    private void getHomeResponse(APIVersion version, RequestMethod method, HashMap<String, String> headers, HashSet<String> query, CompletionHandler handler) {
+        if(HOME_JSON.containsKey(version)) {
+            handler.handleString(getHomeResponse(version, query));
         } else {
-            homeResponses = new HashMap<>();
             updateHomeResponse(version, false, method, headers, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    handler.handle(homeResponses.get(targetHomeResponse));
+                public void handleString(String string) {
+                    handler.handleString(getHomeResponse(version, query));
                 }
             });
         }
     }
+    private String getHomeResponse(APIVersion version, HashSet<String> query) {
+        if(HOME_JSONS.containsKey(version)) {
+            return HOME_JSONS.get(version).containsKey(query) ? HOME_JSONS.get(version).get(query) : loadQueryJSON(version, query);
+        } else {
+            HOME_JSONS.put(version, new HashMap<>());
+            return loadQueryJSON(version, query);
+        }
+    }
+    private String loadQueryJSON(APIVersion version, HashSet<String> query) {
+        final String target = getQueryJSON(version, query);
+        HOME_JSONS.get(version).put(query, target);
+        return target;
+    }
+    private String getQueryJSON(APIVersion version, HashSet<String> query) {
+        final JSONObject homeJSON = HOME_JSON.get(version);
+        final JSONObject json = new JSONObject(homeJSON.toMap());
+        if(!query.isEmpty()) {
+            for(String string : query) {
+                if(string.contains("/")) {
+                    final String[] values = string.split("/");
+                    final String key = values[0];
+                    if(json.has(key)) {
+                        json.getJSONObject(key).remove(values[1]);
+                    }
+                } else {
+                    json.remove(string);
+                }
+            }
+        }
+        return json.toString();
+    }
+
     private void updateHomeResponse(APIVersion version, boolean isUpdate, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         if(!isUpdate) {
@@ -111,6 +138,7 @@ public enum TargetServer implements DataValues, RestAPI {
         final TargetServer[] servers = {
             COUNTRIES,
             LAWS,
+            SERVICES,
             UPCOMING_EVENTS,
             WEATHER
         };
@@ -122,15 +150,24 @@ public enum TargetServer implements DataValues, RestAPI {
             final String serverName = server.name().toLowerCase();
             request(targetURL, method, headers, null, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    if(object != null) {
-                        values.put(serverName, object);
+                public void handleString(String string) {
+                    if(string != null) {
+                        values.put(serverName, string);
                     }
                     if(completed.addAndGet(1) == max) {
-                        loadHomeResponses(values);
-                        WLLogger.log(Level.INFO, "TargetServer - " + (isUpdate ? "auto-" : "") + "updated home responses (took " + (System.currentTimeMillis()-started) + "ms)");
+                        final StringBuilder builder = new StringBuilder("{");
+                        builder.append("\"request_epoch\":").append(System.currentTimeMillis());
+                        for(Map.Entry<String, Object> map : values.entrySet()) {
+                            final String serverName = map.getKey();
+                            final String keyValue = map.getValue().toString();
+                            builder.append(",").append("\"").append(serverName).append("\":").append(keyValue);
+                        }
+                        builder.append("}");
+                        final String value = builder.toString();
+                        HOME_JSON.put(version, new JSONObject(value));
+                        WLLogger.log(Level.INFO, "TargetServer - " + (isUpdate ? "auto-" : "") + "updated " + versionName + " home responses (took " + (System.currentTimeMillis()-started) + "ms)");
                         if(handler != null) {
-                            handler.handle(null);
+                            handler.handleString(value);
                         }
                     }
                 }
@@ -138,31 +175,11 @@ public enum TargetServer implements DataValues, RestAPI {
         });
     }
 
-    private void loadHomeResponses(HashMap<String, Object> hashmap) {
-        final HashMap<String, StringBuilder> builders = new HashMap<>();
-        final String[] keys = { "[]", "[withCountries]" };
-        final Set<Map.Entry<String, Object>> set = hashmap.entrySet();
-        for(String queryKey : keys) {
-            builders.put(queryKey, new StringBuilder("{"));
-            boolean isFirst = true;
-            for(Map.Entry<String, Object> map : set) {
-                final String serverName = map.getKey();
-                final Object keyValue = map.getValue();
-                if(!queryKey.equals("[]") || !serverName.equals("countries")) {
-                    builders.get(queryKey).append(isFirst ? "" : ",").append("\"").append(serverName).append("\":").append(keyValue);
-                }
-                isFirst = false;
-            }
-            builders.get(queryKey).append("}");
-            final String string = builders.get(queryKey).toString();
-            homeResponses.put(queryKey, string);
-        }
-    }
-
     public static TargetServer valueOfBackendID(String backendID) {
-        final Optional<TargetServer> targetServer = Arrays.stream(values()).filter(server -> backendID.equalsIgnoreCase(server.getBackendID())).findFirst();
-        if(targetServer.isPresent()) {
-            return targetServer.get();
+        for(TargetServer server : TargetServer.values()) {
+            if(backendID.equals(server.getBackendID())) {
+                return server;
+            }
         }
         WLLogger.log(Level.WARN, "TargetServer - failed to find a server with backendID \"" + backendID + "\"!");
         return null;

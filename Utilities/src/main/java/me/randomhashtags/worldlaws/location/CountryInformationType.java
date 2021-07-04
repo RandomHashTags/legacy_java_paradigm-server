@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.location;
 
-public enum CountryInformationType {
+public enum CountryInformationType implements InformationType {
     AGRICULTURE,
     AVAILABILITIES,
     INFORMATION,
@@ -14,4 +14,9 @@ public enum CountryInformationType {
     SINGLE_VALUES,
     TERRITORIES,
     ;
+
+    @Override
+    public String getName() {
+        return name();
+    }
 }

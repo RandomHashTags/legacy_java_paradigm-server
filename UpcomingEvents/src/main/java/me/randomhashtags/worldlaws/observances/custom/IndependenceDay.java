@@ -119,7 +119,8 @@ public enum IndependenceDay implements IHoliday { // https://en.wikipedia.org/wi
             case MALDIVES: return new EventDate(Month.JULY, 26, year);
             case MALI: return new EventDate(Month.SEPTEMBER, 22, year);
             case MALTA: return new EventDate(Month.SEPTEMBER, 21, year);
-            case MAURITIUS: return new EventDate(Month.NOVEMBER, 28, year);
+            case MAURITANIA: return new EventDate(Month.NOVEMBER, 28, year);
+            case MAURITIUS: return new EventDate(Month.MARCH, 12, year);
             case MEXICO: return new EventDate(Month.SEPTEMBER, 16, year);
             case MICRONESIA: return new EventDate(Month.NOVEMBER, 3, year);
             case MOLDOVA: return new EventDate(Month.AUGUST, 27, year);

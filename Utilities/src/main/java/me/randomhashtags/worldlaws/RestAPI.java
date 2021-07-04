@@ -28,9 +28,9 @@ public interface RestAPI {
     default void requestJSONArray(String url, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query, CompletionHandler handler) {
         request(url, method, headers, query, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                if(object != null) {
-                    final JSONArray json = new JSONArray(object.toString());
+            public void handleString(String string) {
+                if(string != null) {
+                    final JSONArray json = new JSONArray(string);
                     handler.handleJSONArray(json);
                 } else {
                     handler.handleJSONArray(null);
@@ -48,9 +48,9 @@ public interface RestAPI {
     default void requestJSONObject(String url, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query, CompletionHandler handler) {
         request(url, method, headers, query, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                if(object != null) {
-                    final JSONObject json = new JSONObject(object.toString());
+            public void handleString(String string) {
+                if(string != null) {
+                    final JSONObject json = new JSONObject(string);
                     handler.handleJSONObject(json);
                 } else {
                     handler.handleJSONObject(null);
@@ -92,11 +92,21 @@ public interface RestAPI {
             connection = (HttpURLConnection) url.openConnection();
             connection.setConnectTimeout(10_000);
             connection.setRequestMethod(method.name());
-            if (headers != null) {
-                for (Map.Entry<String, String> entry : headers.entrySet()) {
+            switch (method) {
+                case POST:
+                    connection.setFixedLengthStreamingMode(0);
+                    break;
+                default:
+                    break;
+            }
+            if(headers != null) {
+                for(Map.Entry<String, String> entry : headers.entrySet()) {
                     final String key = entry.getKey(), value = entry.getValue();
                     connection.setRequestProperty(key, value);
                 }
+            }
+            if(isLocal) {
+                connection.setRequestProperty("Accept-Charset", DataValues.ENCODING.displayName());
             }
             connection.setRequestProperty("Content-Language", "en-US");
 
@@ -104,6 +114,7 @@ public interface RestAPI {
             connection.setDoOutput(true);
 
             final int responseCode = connection.getResponseCode();
+            String responseString = null;
             if(responseCode >= 200 && responseCode < 400) {
                 final InputStream is = connection.getInputStream();
                 final BufferedReader reader = new BufferedReader(new InputStreamReader(is));
@@ -113,7 +124,7 @@ public interface RestAPI {
                     response.append(line).append('\r');
                 }
                 reader.close();
-                handler.handle(response.toString());
+                responseString = response.toString();
             } else {
                 final StringBuilder builder = new StringBuilder("RestAPI ERROR!");
                 builder.append("\nDiagnoses = responseCode=").append(responseCode);
@@ -127,23 +138,19 @@ public interface RestAPI {
                 builder.append("\nheaders=").append(headers != null ? headers.toString() : "null");
                 builder.append("\nerrorStream=").append(connection.getErrorStream());
                 WLLogger.log(Level.WARN, builder.toString());
-                handler.handle(null);
+            }
+            handler.handleString(responseString);
+            final HashSet<CompletionHandler> sameRequests = PENDING_SAME_REQUESTS.get(targetURL);
+            for(CompletionHandler pendingHandler : sameRequests) {
+                pendingHandler.handleString(responseString);
+            }
+            PENDING_SAME_REQUESTS.remove(targetURL);
 
-                final HashSet<CompletionHandler> sameRequests = PENDING_SAME_REQUESTS.get(targetURL);
-                if(sameRequests.size() > 0) {
-                    for(CompletionHandler pendingHandler : sameRequests) {
-                        pendingHandler.handle(null);
-                    }
-                }
-                PENDING_SAME_REQUESTS.remove(targetURL);
-            }
         } catch (Exception e) {
-            if(!isLocal) {
-                final StackTraceElement[] stackTrace = e.getStackTrace();
-                WLLogger.log(Level.ERROR, "[REST API] - \"(" + stackTrace[0].getClassName() + ") " + e.getMessage() + " with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
-                e.printStackTrace();
-            }
-            handler.handle(null);
+            final StackTraceElement[] stackTrace = e.getStackTrace();
+            WLLogger.log(Level.ERROR, "[REST API] - \"(" + stackTrace[0].getClassName() + ") " + e.getMessage() + " with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
+            e.printStackTrace();
+            handler.handleString(null);
         } finally {
             if(connection != null) {
                 connection.disconnect();

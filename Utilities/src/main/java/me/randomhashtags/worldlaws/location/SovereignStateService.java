@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.location;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 
-public interface SovereignStateService extends RestAPI, Jsoupable, Jsonable {
+public interface SovereignStateService extends WLService {
     FileType getFileType();
     SovereignStateInfo getInfo();
     void loadData(CompletionHandler handler);

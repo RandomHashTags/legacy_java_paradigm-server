@@ -1,13 +1,17 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.location.CustomCountry;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 public interface CompletionHandler {
-    default void handle(Object object) { }
+    default void handleObject(Object object) { }
+    default void handleString(String string) {  }
+    default void handleBoolean(boolean success) { }
     default void handleJSONArray(JSONArray array) { }
     default void handleJSONObject(JSONObject json) { }
     default void handleClient(@NotNull WLClient client) { }
+    default void handleCustomCountry(CustomCountry country) {  }
 
-    default void load(CompletionHandler handler) { handler.handle(null); }
+    default void load(CompletionHandler handler) { handler.handleString(null); }
 }

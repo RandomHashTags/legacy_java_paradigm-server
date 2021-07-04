@@ -10,6 +10,7 @@ import java.time.Month;
 
 public enum SocialHoliday implements IHoliday {
 
+    AFRICA_DAY,
     ARMED_FORCES_DAY,
     BLACK_AWARENESS_DAY,
     BLACK_FRIDAY(
@@ -112,6 +113,7 @@ public enum SocialHoliday implements IHoliday {
     @Override
     public EventDate getDate(WLCountry country, int year) {
         switch (this) {
+            case AFRICA_DAY: return AfricaDay.INSTANCE.getDate(country, year);
             case ARMED_FORCES_DAY: return ArmedForcesDay.INSTANCE.getDate(country, year);
             case BLACK_AWARENESS_DAY:
                 switch (country) {

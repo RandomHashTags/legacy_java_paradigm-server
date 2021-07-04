@@ -9,7 +9,7 @@ import java.io.FileWriter;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.stream.Stream;
+import java.util.stream.Collectors;
 
 public interface Jsonable {
     String USER_DIR = System.getProperty("user.dir") + File.separator;
@@ -36,10 +36,8 @@ public interface Jsonable {
         final File file = new File(directory);
         if(file.exists()) {
             final Path path = file.toPath();
-            try (Stream<String> lines = Files.lines(path)) {
-                final StringBuilder builder = new StringBuilder();
-                lines.forEach(builder::append);
-                return builder.toString();
+            try {
+                return Files.lines(path).collect(Collectors.joining(System.lineSeparator()));
             } catch (Exception e) {
                 e.printStackTrace();
                 return null;
@@ -62,9 +60,8 @@ public interface Jsonable {
         } else {
             handler.load(new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    final String string = object.toString();
-                    saveFileJSON(type, fileName, object);
+                public void handleString(String string) {
+                    saveFileJSON(type, fileName, string);
                     handler.handleJSONObject(new JSONObject(string));
                 }
 
@@ -84,9 +81,8 @@ public interface Jsonable {
         } else {
             handler.load(new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    final String string = object.toString();
-                    saveFileJSON(type, fileName, object);
+                public void handleString(String string) {
+                    saveFileJSON(type, fileName, string);
                     handler.handleJSONArray(new JSONArray(string));
                 }
 
@@ -121,7 +117,7 @@ public interface Jsonable {
         final File file = new File(directory);
         if(!file.exists()) {
             final Path path = file.toPath();
-            WLLogger.log(Level.INFO, "Jsonable - saving file at path " + path.toAbsolutePath().toString());
+            WLLogger.log(Level.INFO, "Jsonable - creating file at path " + path.toAbsolutePath().toString());
             try {
                 Files.writeString(path, value.toString(), StandardCharsets.UTF_8);
             } catch (Exception e) {

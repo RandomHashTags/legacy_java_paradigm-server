@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.location.WLCountry;
 import org.apache.logging.log4j.Level;
 
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
     WLCountry getCountry();
@@ -32,17 +33,17 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
     default void getEvents(CompletionHandler handler) {
         final String events = getEvents();
         if(events != null) {
-            handler.handle(events);
+            handler.handleString(events);
         } else {
             refresh(new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    handler.handle(getEvents());
+                public void handleString(String string) {
+                    handler.handleString(getEvents());
                 }
             });
         }
     }
-    default void putEventPreAlerts(HashMap<String, String> eventPreAlerts, HashMap<String, HashSet<WeatherPreAlert>> hashmap) {
+    default void putEventPreAlerts(HashMap<String, String> eventPreAlerts, ConcurrentHashMap<String, HashSet<WeatherPreAlert>> hashmap) {
         for(Map.Entry<String, HashSet<WeatherPreAlert>> map : hashmap.entrySet()) {
             final String event = map.getKey();
             final HashSet<WeatherPreAlert> preAlerts = map.getValue();
@@ -75,10 +76,10 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
     default void getPreAlerts(String event, CompletionHandler handler) {
         final HashMap<String, String> eventPreAlerts = getEventPreAlerts();
         if(eventPreAlerts.containsKey(event)) {
-            handler.handle(eventPreAlerts.get(event));
+            handler.handleString(eventPreAlerts.get(event));
         }
     }
-    default void putTerritoryEvents(HashMap<String, String> territoryEvents, HashMap<String, HashSet<WeatherEvent>> hashmap) {
+    default void putTerritoryEvents(HashMap<String, String> territoryEvents, ConcurrentHashMap<String, HashSet<WeatherEvent>> hashmap) {
         boolean isFirst = true;
         for(Map.Entry<String, HashSet<WeatherEvent>> map : hashmap.entrySet()) {
             final String territory = map.getKey();
@@ -92,10 +93,10 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
             territoryEvents.put(territory.toLowerCase().replace(" ", ""), builder.toString());
         }
     }
-    default void putTerritoryPreAlerts(HashMap<String, HashMap<String, String>> territoryPreAlerts, HashMap<String, HashMap<String, HashSet<WeatherPreAlert>>> hashmap) {
-        for(Map.Entry<String, HashMap<String, HashSet<WeatherPreAlert>>> map : hashmap.entrySet()) {
+    default void putTerritoryPreAlerts(HashMap<String, HashMap<String, String>> territoryPreAlerts, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> hashmap) {
+        for(Map.Entry<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> map : hashmap.entrySet()) {
             final String territory = map.getKey();
-            final HashMap<String, HashSet<WeatherPreAlert>> eventsMap = map.getValue();
+            final ConcurrentHashMap<String, HashSet<WeatherPreAlert>> eventsMap = map.getValue();
             final HashMap<String, String> preAlertsMap = new HashMap<>();
             for(Map.Entry<String, HashSet<WeatherPreAlert>> eventMap : eventsMap.entrySet()) {
                 final String event = eventMap.getKey();
@@ -112,7 +113,7 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
             territoryPreAlerts.put(territory.toLowerCase().replace(" ", ""), preAlertsMap);
         }
     }
-    default String getEventsJSON(HashMap<String, Integer> hashmap) {
+    default String getEventsJSON(ConcurrentHashMap<String, Integer> hashmap) {
         final StringBuilder builder = new StringBuilder("{");
         final HashMap<Integer, HashSet<String>> defcons = new HashMap<>();
         for(Map.Entry<String, Integer> map : hashmap.entrySet()) {
@@ -149,13 +150,13 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
     default void getTerritoryEvents(String territory, CompletionHandler handler) {
         final HashMap<String, String> territoryEvents = getTerritoryEvents();
         if(territoryEvents.containsKey(territory)) {
-            handler.handle(territoryEvents.get(territory));
+            handler.handleString(territoryEvents.get(territory));
         }
     }
     default void getTerritoryPreAlerts(String territory, String event, CompletionHandler handler) {
         final HashMap<String, HashMap<String, String>> territoryPreAlerts = getTerritoryPreAlerts();
         if(territoryPreAlerts.containsKey(territory) && territoryPreAlerts.get(territory).containsKey(event)) {
-            handler.handle(territoryPreAlerts.get(territory).get(event));
+            handler.handleString(territoryPreAlerts.get(territory).get(event));
         }
     }
 
@@ -172,10 +173,10 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
     private static CompletionHandler getTest(String className, long started, CompletionHandler handler) {
         return new CompletionHandler() {
             @Override
-            public void handle(Object object) {
+            public void handleString(String string) {
                 WLLogger.log(Level.INFO, className +  " - refreshed alerts for country (took " + (System.currentTimeMillis()-started) + "ms)");
                 if(handler != null) {
-                    handler.handle(object);
+                    handler.handleString(string);
                 }
             }
         };

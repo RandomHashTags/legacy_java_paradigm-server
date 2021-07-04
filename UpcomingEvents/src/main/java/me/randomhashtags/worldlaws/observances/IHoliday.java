@@ -47,7 +47,7 @@ public interface IHoliday extends Jsoupable {
                 }
             }
             final String string = LocalServer.removeWikipediaTranslations(removeReferences(builder.toString()));
-            handler.handle(string);
+            handler.handleString(string);
         }
     }
     default void getImageURL(HolidayType holidayType, CompletionHandler handler) {
@@ -63,12 +63,12 @@ public interface IHoliday extends Jsoupable {
                     final String[] endingValues = src.split("/");
                     final String endingValue = endingValues[endingValues.length-1];
                     final String url = "https:" + src.split(endingValue)[0] + "%quality%px-" + endingValue.split("px-")[1];
-                    handler.handle(url);
+                    handler.handleString(url);
                 } else {
-                    handler.handle(null);
+                    handler.handleString(null);
                 }
             } else {
-                handler.handle(null);
+                handler.handleString(null);
             }
         }
     }

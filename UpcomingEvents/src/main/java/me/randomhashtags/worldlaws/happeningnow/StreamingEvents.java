@@ -121,7 +121,7 @@ public enum StreamingEvents implements UpcomingEventController, DataValues {
                 json = builder.toString();
                 WLLogger.log(Level.INFO, "StreamingEvents - updated " + getType() + " live streams (took " + (System.currentTimeMillis()-started) + "ms)");
                 if(handler != null) {
-                    handler.handle(json);
+                    handler.handleString(json);
                 }
             }
         });

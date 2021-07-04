@@ -21,34 +21,6 @@ public final class Earthquake {
         this.url = url;
     }
 
-    public String getCause() {
-        return cause;
-    }
-    public String getMagnitude() {
-        return magnitude;
-    }
-    public String getPlace() {
-        return place;
-    }
-    public String getTerritory() {
-        return territory;
-    }
-    public long getTime() {
-        return time;
-    }
-    public long getLastUpdated() {
-        return lastUpdated;
-    }
-    public float getDepthKM() {
-        return depthKM;
-    }
-    public Location getLocation() {
-        return location;
-    }
-    public String getURL() {
-        return url;
-    }
-
     @Override
     public String toString() {
         return "{" +

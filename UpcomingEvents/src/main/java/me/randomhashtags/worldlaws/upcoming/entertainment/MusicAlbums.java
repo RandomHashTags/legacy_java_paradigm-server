@@ -1,9 +1,10 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.service.SpotifyService;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -11,18 +12,15 @@ import org.jsoup.select.Elements;
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public enum MusicAlbums implements UpcomingEventController {
+public enum MusicAlbums implements UpcomingEventController, SpotifyService {
     INSTANCE;
 
     private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
     private HashMap<String, String> upcomingEvents, loadedPreUpcomingEvents;
 
-    @Override
-    public WLCountry getCountry() {
-        return null;
-    }
     @Override
     public UpcomingEventType getType() {
         return UpcomingEventType.MUSIC_ALBUM;
@@ -97,7 +95,7 @@ public enum MusicAlbums implements UpcomingEventController {
                     }
                 }
                 if(completed.addAndGet(1) == maxCompleted) {
-                    handler.handle(null);
+                    handler.handleString(null);
                 }
             });
         }
@@ -116,22 +114,52 @@ public enum MusicAlbums implements UpcomingEventController {
             final EventSource source = new EventSource("Wikipedia: " + heading, url);
             sources.addSource(source);
             final String description = albumDoc.select("div.mw-parser-output p").get(0).text();
-            String albumImageURL = null;
+            final String albumImageURL;
             final Elements infobox = albumDoc.select("table.infobox");
             if(!infobox.isEmpty()) {
                 final Elements elements = infobox.get(0).select("tbody tr td a img");
-                if(!elements.isEmpty()) {
-                    albumImageURL = "https:" + elements.get(0).attr("src");
+                albumImageURL = !elements.isEmpty() ? "https:" + elements.get(0).attr("src") : null;
+            } else {
+                albumImageURL = null;
+            }
+            final HashSet<String> artists = new HashSet<>();
+            if(artist.contains(" (") && artist.endsWith(")")) {
+                artists.add(artist.split(" \\(")[0].toLowerCase());
+            } else if(artist.contains(" / ")) {
+                artists.add(artist.split(" / ")[0].toLowerCase());
+            } else if(artist.contains(", and ")) {
+                if(!artist.contains("(")) {
+                    final String[] targetArtists = artist.replace(", and ", ", ").split(", ");
+                    for(String string : targetArtists) {
+                        artists.add(string.toLowerCase());
+                    }
+                }
+            } else if(artist.contains(" and ")) {
+                artists.add(artist.toLowerCase());
+                final String[] targetArtists = artist.split(" and ");
+                for(String string : targetArtists) {
+                    artists.add(string.toLowerCase());
+                }
+            } else if(artist.contains(" & ")) {
+                artists.add(artist.toLowerCase());
+                final String[] targetArtists = artist.split(" & ");
+                for(String string : targetArtists) {
+                    artists.add(string.toLowerCase());
                 }
             }
-            final MusicAlbumEvent event = new MusicAlbumEvent(artist, album, albumImageURL, description, sources);
-            final String string = event.toJSON();
-            upcomingEvents.put(id, string);
-            final String preUpcomingEventString = preUpcomingEvent.toStringWithImageURL(albumImageURL);
-            loadedPreUpcomingEvents.put(id, preUpcomingEventString);
-            handler.handle(string);
+            getSpotifyAlbum(artists, album, new CompletionHandler() {
+                @Override
+                public void handleJSONObject(JSONObject spotifyDetails) {
+                    final MusicAlbumEvent event = new MusicAlbumEvent(artist, album, albumImageURL, description, spotifyDetails, sources);
+                    final String string = event.toJSON();
+                    upcomingEvents.put(id, string);
+                    final String preUpcomingEventString = preUpcomingEvent.toStringWithImageURL(albumImageURL);
+                    loadedPreUpcomingEvents.put(id, preUpcomingEventString);
+                    handler.handleString(string);
+                }
+            });
         } else {
-            handler.handle(null);
+            handler.handleString(null);
         }
     }
 }

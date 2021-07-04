@@ -53,7 +53,7 @@ public enum Holidays implements Jsoupable, Jsonable {
         final HashMap<String, HashMap<String, HolidayObj>> nearbyHolidays = new HashMap<>();
         HolidayType.insertNearbyHolidays(year, nearbyHolidayDays, descriptions, nearbyHolidays, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
+            public void handleString(String string) {
                 final StringBuilder builder = new StringBuilder("{\"descriptions\":{");
                 boolean isFirst = true;
                 for(Map.Entry<String, String> map : descriptions.entrySet()) {
@@ -76,31 +76,31 @@ public enum Holidays implements Jsoupable, Jsonable {
                     builder.append(",").append(nearHolidayBuilder);
                 }
                 builder.append("}");
-                final String string = builder.toString();
-                nearHolidays = string;
-                handler.handle(string);
+                final String value = builder.toString();
+                nearHolidays = value;
+                handler.handleString(value);
             }
         });
     }
 
     public void getNearHolidays(CompletionHandler handler) {
         if(nearHolidays != null) {
-            handler.handle(nearHolidays);
+            handler.handleString(nearHolidays);
         } else {
             final long started = System.currentTimeMillis();
             final int year = WLUtilities.getTodayYear();
             loadNearbyHolidays(year, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
+                public void handleString(String string) {
                     WLLogger.log(Level.INFO, "Holidays - loaded near holidays (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handle(object);
+                    handler.handleString(string);
                 }
             });
         }
     }
     public void getNearCountryHolidays(String countryBackendID, CompletionHandler handler) {
         if(nearCountryHolidays.containsKey(countryBackendID)) {
-            handler.handle(nearCountryHolidays.get(countryBackendID));
+            handler.handleString(nearCountryHolidays.get(countryBackendID));
         } else {
             // TODO
             String string = null;

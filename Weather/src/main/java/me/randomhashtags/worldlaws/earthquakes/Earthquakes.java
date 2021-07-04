@@ -7,8 +7,7 @@ import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.time.Clock;
-import java.time.LocalDate;
+import java.time.*;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -24,10 +23,10 @@ public enum Earthquakes implements RestAPI {
         final String key = values[1];
         switch (key) {
             case "recent":
-                getRecent(null, handler);
+                getFromTerritory(true, null, handler);
                 break;
             case "top":
-                getRecent(true, null, handler);
+                getFromTerritory(false, null, handler);
                 break;
             case "id":
                 final String id = values[2];
@@ -38,10 +37,10 @@ public enum Earthquakes implements RestAPI {
                 if(length >= 3) {
                     switch (values[2]) {
                         case "recent":
-                            getRecent(key, handler);
+                            getFromTerritory(true, key, handler);
                             break;
                         case "top":
-                            getTopRecent(key, handler);
+                            getFromTerritory(false, key, handler);
                             break;
                         default:
                             break;
@@ -51,172 +50,162 @@ public enum Earthquakes implements RestAPI {
         }
     }
 
-    public void getRecent(String territory, CompletionHandler handler) {
-        getRecent(false, territory, handler);
-    }
-    private void getTopRecent(String territory, CompletionHandler handler) {
-        getRecent(true, territory, handler);
-    }
-    private void getRecent(boolean isTop, String territory, CompletionHandler handler) {
-        final String string = isTop ? topRecentEarthquakes : recentEarthquakes;
+    private void getFromTerritory(boolean isRecent, String territory, CompletionHandler handler) {
+        final String string = isRecent ? recentEarthquakes : topRecentEarthquakes;
         if(string != null) {
-            final String value = getValue(isTop, territory);
-            handler.handle(value); // TODO: fix this absolute doo doo braindead pepega
+            final String value = getValue(isRecent, territory);
+            handler.handleString(value);
         } else {
             setupAutoUpdates();
             final CompletionHandler completionHandler = new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    final String value = getValue(isTop, territory);
-                    handler.handle(value);
+                public void handleString(String string) {
+                    final String value = getValue(isRecent, territory);
+                    handler.handleString(value);
                 }
             };
-            if(isTop) {
-                refreshTopRecent(completionHandler);
-            } else {
-                refreshRecent(completionHandler);
-            }
+            refresh(isRecent, completionHandler);
         }
     }
-    private String getValue(boolean isTop, String territory) {
-        return territory == null ? (isTop ? topRecentEarthquakes : recentEarthquakes) : (isTop ? topRecentTerritoryEarthquakes : recentTerritoryEarthquakes).getOrDefault(territory, null);
+    private String getValue(boolean isRecent, String territory) {
+        final String target = territory == null ? (isRecent ? recentEarthquakes : topRecentEarthquakes) : (isRecent ? recentTerritoryEarthquakes : topRecentTerritoryEarthquakes).getOrDefault(territory, null);
+        return target == null || target.isEmpty() ? null : target;
     }
 
     private void setupAutoUpdates() {
-        final long interval = WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL;
+        final long interval = WLUtilities.WEATHER_EARTHQUAKES_UPDATE_INTERVAL;
         new Timer().scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
-                refreshRecent(null);
-                refreshTopRecent(null);
+                refresh(false, null);
             }
         }, interval, interval);
     }
 
-    private String getURLRequest(LocalDate endDate) {
-        final LocalDate startDate = endDate.minusDays(30);
-        final String startDateString = new EventDate(startDate).getDateString();
-        final String endDateString = new EventDate(endDate).getDateString();
-        return "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=" + startDateString + "&endtime=" + endDateString;
+    private String getURLRequest(LocalDate startDate, LocalDate endDate, float minMagnitude) {
+        final EventDate startEventDate = new EventDate(startDate);
+        final String startDateString = getEarthquakeEventDateString(startEventDate);
+        final EventDate endEventDate = new EventDate(endDate);
+        final String endDateString = getEarthquakeEventDateString(endEventDate);
+        return "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=" + startDateString + "&endtime=" + endDateString + "&minmagnitude=" + minMagnitude;
     }
-    private void refreshRecent(CompletionHandler handler) {
-        refresh(true, handler);
+    private String getEarthquakeEventDateString(EventDate date) {
+        final int month = date.getMonth().getValue(), day = date.getDay();
+        return date.getYear() + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : day);
     }
-    private void refreshTopRecent(CompletionHandler handler) {
-        refresh(false, handler);
-    }
+
     private void refresh(boolean isRecent, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
-        final LocalDate now = LocalDate.now(Clock.systemUTC()), startingDate = now.minusDays(isRecent ? 7 : 30);
-        final String url = getURLRequest(now);
+        final LocalDate now = Instant.ofEpochMilli(started).atZone(ZoneId.ofOffset("", ZoneOffset.UTC)).toLocalDate(), startDate = now.minusDays(30), recentStartingDate = now.minusDays(7);
+        final String url = getURLRequest(startDate, now, 2.0f);
+
+        recentTerritoryEarthquakes = new HashMap<>();
+        topRecentTerritoryEarthquakes = new HashMap<>();
 
         requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
-            public void handleJSONObject(JSONObject jsonobject) {
-                if(isRecent) {
-                    recentTerritoryEarthquakes = new HashMap<>();
-                } else {
-                    topRecentTerritoryEarthquakes = new HashMap<>();
-                }
-                final HashMap<String, String> territoryEarthquakes = isRecent ? recentTerritoryEarthquakes : topRecentTerritoryEarthquakes;
-
-                final AtomicInteger count = new AtomicInteger(0);
-                final StringBuilder builder = new StringBuilder("{");
-                if(jsonobject != null) {
-                    final JSONArray array = jsonobject.getJSONArray("features");
+            public void handleJSONObject(JSONObject json) {
+                if(json != null) {
+                    final JSONArray array = json.getJSONArray("features");
                     final HashMap<String, String> americanTerritories = TerritoryAbbreviations.getAmericanTerritories();
                     final ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap = new ConcurrentHashMap<>();
-                    final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates = new ConcurrentHashMap<>();
+                    final ConcurrentHashMap<EventDate, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates = new ConcurrentHashMap<>();
                     final AtomicInteger completed = new AtomicInteger(0);
                     final int max = array.length();
 
                     StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
-                        final JSONObject json = (JSONObject) obj;
-                        loadEarthquake(startingDate, json, americanTerritories, preEarthquakeDates, territoryEarthquakesMap);
+                        final JSONObject earthquakeJSON = (JSONObject) obj;
+                        loadEarthquake(startDate, earthquakeJSON, americanTerritories, preEarthquakeDates, territoryEarthquakesMap);
                         if(completed.addAndGet(1) == max) {
-                            boolean isFirst = true;
-                            for(Map.Entry<String, ConcurrentHashMap<String, HashSet<String>>> map : preEarthquakeDates.entrySet()) {
-                                final String dateString = map.getKey();
-                                builder.append(isFirst ? "" : ",").append("\"").append(dateString).append("\":{");
-                                final ConcurrentHashMap<String, HashSet<String>> value = map.getValue();
-                                boolean isFirstMagnitude = true;
-                                count.addAndGet(value.size());
-                                for(Map.Entry<String, HashSet<String>> map2 : value.entrySet()) {
-                                    final String magnitude = map2.getKey();
-                                    builder.append(isFirstMagnitude ? "" : ",").append("\"").append(magnitude).append("\"").append(":{");
-                                    final HashSet<String> preEarthquakes = map2.getValue();
-                                    boolean isFirstPreEarthquake = true;
-                                    for(String preEarthquake : preEarthquakes) {
-                                        builder.append(isFirstPreEarthquake ? "" : ",").append(preEarthquake);
-                                        isFirstPreEarthquake = false;
-                                    }
-                                    builder.append("}");
-                                    isFirstMagnitude = false;
-                                }
-                                builder.append("}");
-                                isFirst = false;
-                            }
-                            loadTerritoryEarthquakes(territoryEarthquakesMap, territoryEarthquakes);
-                            completeRefresh(started, isRecent, builder, count, handler);
+                            topRecentEarthquakes = getEarthquakesJSON(null, preEarthquakeDates);
+                            recentEarthquakes = getEarthquakesJSON(recentStartingDate, preEarthquakeDates);
+                            loadTerritoryEarthquakes(territoryEarthquakesMap);
+                            completeRefresh(started, isRecent ? recentEarthquakes : topRecentEarthquakes, handler);
                         }
                     });
                 } else {
-                    completeRefresh(started, isRecent, builder, count, handler);
+                    completeRefresh(started, null, handler);
                 }
             }
         });
     }
-    private void completeRefresh(long started, boolean isRecent, StringBuilder builder, AtomicInteger count, CompletionHandler handler) {
-        builder.append("}");
-        final String string = builder.toString();
-        if(isRecent) {
-            recentEarthquakes = string;
-        } else {
-            topRecentEarthquakes = string;
+    private String getEarthquakesJSON(LocalDate date, ConcurrentHashMap<EventDate, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates) {
+        String string = null;
+        if(!preEarthquakeDates.isEmpty()) {
+            final boolean doesntHaveDate = date == null;
+            final StringBuilder builder = new StringBuilder("{");
+            boolean isFirst = true;
+            final AtomicInteger count = new AtomicInteger(0);
+            for(Map.Entry<EventDate, ConcurrentHashMap<String, HashSet<String>>> map : preEarthquakeDates.entrySet()) {
+                final EventDate eventDate = map.getKey();
+                if(doesntHaveDate || eventDate.getLocalDate().isAfter(date)) {
+                    final String dateString = eventDate.getDateString();
+                    builder.append(isFirst ? "" : ",").append("\"").append(dateString).append("\":{");
+                    final ConcurrentHashMap<String, HashSet<String>> value = map.getValue();
+                    boolean isFirstMagnitude = true;
+                    count.addAndGet(value.size());
+                    for(Map.Entry<String, HashSet<String>> map2 : value.entrySet()) {
+                        final String magnitude = map2.getKey();
+                        builder.append(isFirstMagnitude ? "" : ",").append("\"").append(magnitude).append("\"").append(":{");
+                        final HashSet<String> preEarthquakes = map2.getValue();
+                        boolean isFirstPreEarthquake = true;
+                        for(String preEarthquake : preEarthquakes) {
+                            builder.append(isFirstPreEarthquake ? "" : ",").append(preEarthquake);
+                            isFirstPreEarthquake = false;
+                        }
+                        builder.append("}");
+                        isFirstMagnitude = false;
+                    }
+                    builder.append("}");
+                    isFirst = false;
+                }
+            }
+            builder.append("}");
+            string = builder.toString();
         }
-        WLLogger.log(Level.INFO, "Earthquakes - refreshed " + (isRecent ? "" : "top ") + "recent (" + count.get() + ") (took " + (System.currentTimeMillis()-started) + "ms)");
+        return string;
+    }
+    private void completeRefresh(long started, String string, CompletionHandler handler) {
+        WLLogger.log(Level.INFO, "Earthquakes - refreshed recent (took " + (System.currentTimeMillis()-started) + "ms)");
         if(handler != null) {
-            handler.handle(null);
+            handler.handleString(string);
         }
     }
 
-    private void loadEarthquake(LocalDate startingDate, JSONObject json, HashMap<String, String> americanTerritories, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates, ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap) {
+    private void loadEarthquake(LocalDate startingDate, JSONObject json, HashMap<String, String> americanTerritories, ConcurrentHashMap<EventDate, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates, ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap) {
         final JSONObject properties = json.getJSONObject("properties");
         final long time = properties.getLong("time");
         final EventDate date = new EventDate(time);
         if(date.getLocalDate().isAfter(startingDate)) {
             final Object magnitudeObj = properties.has("mag") ? properties.get("mag") : null;
             final String magnitude = magnitudeObj != null && !magnitudeObj.toString().equals("null") ? magnitudeObj.toString() : "0.00";
-            if(Float.parseFloat(magnitude) >= 2.00) {
-                final String id = json.getString("id");
-                final JSONObject geometry = json.getJSONObject("geometry");
-                final JSONArray coordinates = geometry.getJSONArray("coordinates");
-                final boolean isPoint = geometry.getString("type").equalsIgnoreCase("point");
-                final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
-                final Location location = new Location(latitude, longitude);
+            final String id = json.getString("id");
+            final JSONObject geometry = json.getJSONObject("geometry");
+            final JSONArray coordinates = geometry.getJSONArray("coordinates");
+            final boolean isPoint = geometry.getString("type").equalsIgnoreCase("point");
+            final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
+            final Location location = new Location(latitude, longitude);
 
-                final String place = properties.getString("place");
-                String territory = getTerritory(place, americanTerritories);
-                final boolean isAmericaKey = americanTerritories.containsKey(territory), isAmerica = isAmericaKey || americanTerritories.containsValue(territory);
+            final String place = properties.get("place") instanceof String ? properties.getString("place") : "null";
+            String territory = getTerritory(place, americanTerritories);
+            final boolean isAmericaKey = americanTerritories.containsKey(territory), isAmerica = isAmericaKey || americanTerritories.containsValue(territory);
 
-                final String dateString = date.getDateString();
-                final PreEarthquake preEarthquake = new PreEarthquake(id, place, magnitude, location);
-                preEarthquakeDates.putIfAbsent(dateString, new ConcurrentHashMap<>());
-                preEarthquakeDates.get(dateString).putIfAbsent(magnitude, new HashSet<>());
-                preEarthquakeDates.get(dateString).get(magnitude).add(preEarthquake.toString());
+            final PreEarthquake preEarthquake = new PreEarthquake(id, place, magnitude, location);
+            preEarthquakeDates.putIfAbsent(date, new ConcurrentHashMap<>());
+            preEarthquakeDates.get(date).putIfAbsent(magnitude, new HashSet<>());
+            preEarthquakeDates.get(date).get(magnitude).add(preEarthquake.toString());
 
-                territory = territory.toLowerCase().replace(" ", "");
-                territoryEarthquakesMap.putIfAbsent(territory, new HashSet<>());
-                territoryEarthquakesMap.get(territory).add(preEarthquake);
-                if(isAmerica) {
-                    final String unitedstates = "unitedstates";
-                    territoryEarthquakesMap.putIfAbsent(unitedstates, new HashSet<>());
-                    territoryEarthquakesMap.get(unitedstates).add(preEarthquake);
-                }
+            territory = territory.toLowerCase().replace(" ", "");
+            territoryEarthquakesMap.putIfAbsent(territory, new HashSet<>());
+            territoryEarthquakesMap.get(territory).add(preEarthquake);
+            if(isAmerica) {
+                final String unitedstates = "unitedstates";
+                territoryEarthquakesMap.putIfAbsent(unitedstates, new HashSet<>());
+                territoryEarthquakesMap.get(unitedstates).add(preEarthquake);
             }
         }
     }
-    private void loadTerritoryEarthquakes(ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap, HashMap<String, String> territoryEarthquakesHashMap) {
+    private void loadTerritoryEarthquakes(ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap) {
         for(Map.Entry<String, HashSet<PreEarthquake>> territoryEarthquakeMap : territoryEarthquakesMap.entrySet()) {
             final String territory = territoryEarthquakeMap.getKey();
             final HashSet<PreEarthquake> territoryEarthquakes = territoryEarthquakeMap.getValue();
@@ -227,7 +216,8 @@ public enum Earthquakes implements RestAPI {
                 isFirst = false;
             }
             builder.append("]");
-            territoryEarthquakesHashMap.put(territory, builder.toString());
+            recentTerritoryEarthquakes.put(territory, builder.toString());
+            topRecentTerritoryEarthquakes.put(territory, builder.toString());
         }
     }
 
@@ -250,7 +240,7 @@ public enum Earthquakes implements RestAPI {
                 final long time = properties.getLong("time"), lastUpdated = properties.getLong("updated");
                 final Earthquake earthquake = new Earthquake(territory, cause, magnitude, place, time, lastUpdated, 0, location, url);
                 final String string = earthquake.toString();
-                handler.handle(string);
+                handler.handleString(string);
             }
         });
     }

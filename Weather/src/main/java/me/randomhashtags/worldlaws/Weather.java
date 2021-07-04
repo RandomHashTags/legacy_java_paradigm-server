@@ -2,8 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.earthquakes.Earthquakes;
 import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
-import me.randomhashtags.worldlaws.hurricanes.Hurricanes;
-import org.apache.logging.log4j.Level;
+import me.randomhashtags.worldlaws.tracker.NASA_EONET;
 
 public final class Weather implements WLServer {
 
@@ -22,13 +21,6 @@ public final class Weather implements WLServer {
     }
 
     private void test() {
-        Earthquakes.INSTANCE.getRecent(null, new CompletionHandler() {
-            @Override
-            public void handle(Object object) {
-                WLLogger.log(Level.INFO, "Weather;test;object=");
-                WLLogger.log(Level.INFO, "" + object);
-            }
-        });
     }
 
     @Override
@@ -42,9 +34,8 @@ public final class Weather implements WLServer {
             case "earthquakes":
                 Earthquakes.INSTANCE.getResponse(values, handler);
                 break;
-            case "hurricanes":
-                final int year = Integer.parseInt(values[1]);
-                Hurricanes.INSTANCE.getAtlanticSeason(year, handler);
+            case "natural_events":
+                NASA_EONET.INSTANCE.getCurrent(version, handler);
                 break;
             default:
                 break;
@@ -55,7 +46,8 @@ public final class Weather implements WLServer {
     public String[] getHomeRequests() {
         return new String[] {
                 "alerts/all",
-                "earthquakes/recent"
+                "earthquakes/recent",
+                "natural_events"
         };
     }
 }

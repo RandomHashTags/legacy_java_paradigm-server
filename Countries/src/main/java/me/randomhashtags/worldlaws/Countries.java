@@ -47,10 +47,10 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        NationalCapitals.INSTANCE.getCountryValue("unitedstates", new CompletionHandler() {
+        loadCountries(new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                WLLogger.log(Level.INFO, "Countries;test;object=" + object);
+            public void handleString(String string) {
+                WLLogger.log(Level.INFO, "Countries;test;object=" + string);
             }
         });
     }
@@ -59,7 +59,7 @@ public final class Countries implements WLServer {
     public void load() {
         final CompletionHandler handler = new CompletionHandler() {
             @Override
-            public void handle(Object object) {
+            public void handleString(String string) {
             }
         };
         new Thread(() -> loadCountries(handler)).start();
@@ -148,6 +148,9 @@ public final class Countries implements WLServer {
                         case "Netherlands":
                             targetURL = "https://en.wikipedia.org/wiki/Netherlands";
                             break;
+                        case "Saint Martin":
+                            targetURL = "https://en.wikipedia.org/wiki/Saint_Martin_(island)";
+                            break;
                         default:
                             targetURL = "https://en.wikipedia.org" + nameElement.attr("href");
                             break;
@@ -157,7 +160,7 @@ public final class Countries implements WLServer {
                     isFirst = false;
                 }
                 builder.append("]");
-                handler.handle(builder.toString());
+                handler.handleString(builder.toString());
             }
 
             @Override
@@ -167,7 +170,7 @@ public final class Countries implements WLServer {
                 getJSONObject(type, fileName, new CompletionHandler() {
                     @Override
                     public void load(CompletionHandler handler) {
-                        handler.handle("{}");
+                        handler.handleString("{}");
                     }
 
                     @Override
@@ -176,12 +179,12 @@ public final class Countries implements WLServer {
                             final JSONObject json = (JSONObject) obj;
                             final String tag = json.getString("tag"), url = json.getString("url");
                             final String unStatus = json.has("unStatus") ? json.getString("unStatus") : null, sovereigntyDispute = json.has("sovereigntyDispute") ? json.getString("sovereigntyDispute") : null;
-                            createCountry(countriesJSON, tag, unStatus, sovereigntyDispute, url);
+                            createCountry(fileName, countriesJSON, tag, unStatus, sovereigntyDispute, url);
                         }
                         WLLogger.log(Level.INFO, "Countries - loaded " + array.length() + " countries (took " + (System.currentTimeMillis()-started) + "ms)");
                         checkForMissingValues();
                         if(handler != null) {
-                            handler.handle(null);
+                            handler.handleString(getCountriesJSON());
                         }
                     }
                 });
@@ -231,20 +234,20 @@ public final class Countries implements WLServer {
                 CountryRankingServices.getRanked(values[1], handler);
                 break;
             case "filters":
-                handler.handle(getFilters());
+                handler.handleString(getFilters());
                 break;
             case "countries":
-                handler.handle(getJSON());
+                handler.handleString(getCountriesJSON());
                 break;
             default:
                 final CustomCountry country = valueOfBackendID(key);
                 if(country != null) {
                     if(values.length == 1) {
-                        handler.handle(country.toString());
+                        handler.handleString(country.toString());
                     } else {
                         switch (values[1]) {
                             case "information":
-                                country.getInformation(handler);
+                                country.getInformation(version, handler);
                                 break;
                             case "service":
                                 final String serviceID = values[2];
@@ -254,7 +257,7 @@ public final class Countries implements WLServer {
                                 }
                                 break;
                             default:
-                                handler.handle(country.toString());
+                                handler.handleString(country.toString());
                                 break;
                         }
                     }
@@ -273,7 +276,7 @@ public final class Countries implements WLServer {
         };
     }
 
-    private void createCountry(JSONObject countriesJSON, String tag, String unStatus, String sovereigntyDispute, String url) {
+    private void createCountry(String fileName, JSONObject countriesJSON, String tag, String unStatus, String sovereigntyDispute, String url) {
         if(countriesJSON.has(tag)) {
             final JSONObject countryJSON = countriesJSON.getJSONObject(tag);
             final CustomCountry country = new CustomCountry(countryJSON);
@@ -281,24 +284,23 @@ public final class Countries implements WLServer {
         } else {
             loadCountry(tag, unStatus, sovereigntyDispute, url, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    final JSONObject countryJSON = new JSONObject(object.toString());
-                    final CustomCountry country = new CustomCountry(countryJSON);
+                public void handleCustomCountry(CustomCountry country) {
+                    final JSONObject countryJSON = new JSONObject(country.toServerJSON());
                     countriesMap.put(country.getBackendID(), country);
                     countriesJSON.put(tag, countryJSON);
-                    setFileJSONObject(FileType.COUNTRIES, "Countries", countriesJSON);
+                    setFileJSONObject(FileType.COUNTRIES, fileName, countriesJSON);
                 }
             });
         }
     }
     private void loadCountry(String tag, String unStatus, String sovereigntyDispute, String url, CompletionHandler handler) {
         final Document doc = getDocument(FileType.COUNTRIES_COUNTRIES, url, true);
-        String string = null;
         if(doc != null) {
             final CustomCountry country = new CustomCountry(tag, unStatus, sovereigntyDispute, doc);
-            string = country.toServerJSON();
+            handler.handleCustomCountry(country);
+        } else {
+            handler.handleCustomCountry(null);
         }
-        handler.handle(string);
     }
 
     private String getFilters() {
@@ -313,7 +315,7 @@ public final class Countries implements WLServer {
         builder.append("]");
         return builder.toString();
     }
-    private String getJSON() {
+    private String getCountriesJSON() {
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
         for(CustomCountry country : countriesMap.values()) {

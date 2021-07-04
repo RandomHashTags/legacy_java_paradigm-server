@@ -37,6 +37,6 @@ public enum NationalCapitals implements CountryNationalService {
             }
         }
         builder.append("}");
-        handler.handle(builder.toString());
+        handler.handleString(builder.toString());
     }
 }

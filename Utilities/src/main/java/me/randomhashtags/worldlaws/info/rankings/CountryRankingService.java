@@ -91,12 +91,12 @@ public interface CountryRankingService extends CountryService {
     default void getRankedJSON(CompletionHandler handler) {
         final String rankedJSON = getRankedJSON();
         if(rankedJSON != null) {
-            handler.handle(rankedJSON);
+            handler.handleString(rankedJSON);
         } else {
             loadData(new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    handler.handle(getRankedJSON());
+                public void handleString(String string) {
+                    handler.handleString(getRankedJSON());
                 }
             });
         }

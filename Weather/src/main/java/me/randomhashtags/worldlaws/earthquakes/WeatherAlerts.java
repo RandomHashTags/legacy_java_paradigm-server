@@ -85,14 +85,14 @@ public enum WeatherAlerts {
         Arrays.asList(controllers).parallelStream().forEach(controller -> {
             controller.getPreAlerts(event, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
+                public void handleString(String string) {
                     final String country = controller.getCountry().getBackendID();
                     final String source = "\"source\":{" + controller.getSource().toString() + "}";
-                    final String alerts = "\"alerts\":" + object.toString();
-                    final String string = "\"" + country + "\":{" + source + "," + alerts + "}";
-                    builder.append(completed.get() == 0 ? "" : ",").append(string);
+                    final String alerts = "\"alerts\":" + string;
+                    final String value = "\"" + country + "\":{" + source + "," + alerts + "}";
+                    builder.append(completed.get() == 0 ? "" : ",").append(value);
                     if(completed.addAndGet(1) == max) {
-                        handler.handle(builder.append("}").toString());
+                        handler.handleString(builder.append("}").toString());
                     }
                 }
             });
@@ -110,14 +110,14 @@ public enum WeatherAlerts {
                 final String country = controller.getCountry().getBackendID();
                 controller.startAutoUpdates(new CompletionHandler() {
                     @Override
-                    public void handle(Object object) {
-                        countries.put(country, object.toString());
-                        handler.handle(object);
+                    public void handleString(String string) {
+                        countries.put(country, string);
+                        handler.handleString(string);
                     }
                 }, new CompletionHandler() {
                     @Override
-                    public void handle(Object object) {
-                        countries.put(country, object.toString());
+                    public void handleString(String string) {
+                        countries.put(country, string);
                         updateAllAlertsJSON();
                     }
                 });
@@ -125,13 +125,13 @@ public enum WeatherAlerts {
                 controller.getEvents(handler);
             }
         } else {
-            handler.handle(null);
+            handler.handleString(null);
         }
     }
 
     private void getAllAlertEvents(CompletionHandler handler) {
         if(allAlertsJSON != null) {
-            handler.handle(allAlertsJSON);
+            handler.handleString(allAlertsJSON);
         } else {
             allAlertsJSON = "{}";
             refreshAllAlertEvents(handler);
@@ -146,12 +146,12 @@ public enum WeatherAlerts {
         Arrays.asList(countries).parallelStream().forEach(weather -> {
             getAlertEvents(weather, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
+                public void handleString(String string) {
                     if(completed.addAndGet(1) == max) {
                         updateAllAlertsJSON();
                         WLLogger.log(Level.INFO, "WeatherAlerts - refreshed All Alert Events (took " + (System.currentTimeMillis()-started) + "ms)");
                         if(handler != null) {
-                            handler.handle(allAlertsJSON);
+                            handler.handleString(allAlertsJSON);
                         }
                     }
                 }

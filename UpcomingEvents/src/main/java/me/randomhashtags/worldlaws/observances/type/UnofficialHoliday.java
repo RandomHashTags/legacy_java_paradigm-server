@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.observances.type;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.location.WLCountry;
 import me.randomhashtags.worldlaws.observances.IHoliday;
+import me.randomhashtags.worldlaws.observances.custom.NationalDonutDay;
 
 import java.time.DayOfWeek;
 import java.time.Month;
@@ -91,12 +92,7 @@ public enum UnofficialHoliday implements IHoliday {
                     return null;
                 }
             case NATIONAL_DONUT_DAY:
-                return null; // TODO: move this
-                /*switch (country) {
-                    case AUSTRALIA: return new EventDate(Month.OCTOBER, 25, year);
-                    case UNITED_STATES: return getFirst(DayOfWeek.FRIDAY, Month.JUNE, year);
-                    default: return null;
-                }*/
+                return NationalDonutDay.INSTANCE.getDate(country, year);
             case NATIONAL_HONEY_BEE_DAY:
                 return country == WLCountry.UNITED_STATES ? getThird(DayOfWeek.SATURDAY, Month.AUGUST, year) : null;
             case PI_DAY: return new EventDate(Month.MARCH, 14, year);

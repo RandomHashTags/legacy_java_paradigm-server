@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws.location;
 
+import me.randomhashtags.worldlaws.CompletionHandler;
+
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.stream.Stream;
@@ -72,6 +74,7 @@ public enum WLCountry {
     EL_SALVADOR,
     ERITREA,
     ESTONIA,
+    ESWATINI(false, "Swaziland"),
     ETHIOPIA,
 
     FALKLAND_ISLANDS,
@@ -141,6 +144,7 @@ public enum WLCountry {
     MALI,
     MALTA,
     MARSHALL_ISLANDS,
+    MAURITANIA,
     MAURITIUS,
     MEXICO(true),
     MICRONESIA,
@@ -188,6 +192,14 @@ public enum WLCountry {
     ROMANIA(true),
     RUSSIA(true),
     RWANDA(true),
+
+    SAINT_BARTHELEMY(false, "Saint Barthélemy"),
+    SAINT_HELENA_ASCENSION_AND_TRISTAN_DA_CUNHA(false, "Saint Helena, Ascension and Tristan da Cunha"),
+    SAINT_KITTS_AND_NEVIS,
+    SAINT_LUCIA,
+    SAINT_MARTIN,
+    SAINT_PIERRE_AND_MIQUELON,
+    SAINT_VINCENT_AND_THE_GRENADINES,
 
     SAMOA,
     SAN_MARINO,
@@ -309,109 +321,7 @@ public enum WLCountry {
     }
 
     public String getGovernmentWebsite() {
-        switch (this) {
-            case AFGHANISTAN: return "https://president.gov.af/en/";
-            case ARGENTINA: return "https://www.argentina.gob.ar";
-            case ARMENIA: return "https://www.gov.am/en";
-            case AUSTRALIA: return "https://www.australia.gov.au";
-            case AZERBAIJAN: return "https://en.president.az";
-            case BAHAMAS: return "https://www.bahamas.gov.bs";
-            case BANGLADESH: return "https://bangladesh.gov.bd/index.php";
-            case BARBADOS: return "https://www.gov.bb";
-            case BELARUS: return "https://www.belarus.by/en/";
-            case BELGIUM: return "https://www.belgium.be/en";
-            case BELIZE: return "https://belize.gov.bz";
-            case BENIN: return "https://www.gouv.bj";
-            case BERMUDA: return "https://www.gov.bm";
-            case BHUTAN: return "https://www.gov.bt";
-            case BOTSWANA: return "https://www.gov.bw";
-            case BRAZIL: return "http://www.brazil.gov.br";
-            case BULGARIA: return "https://www.gov.bg/en";
-            case CAMBODIA: return "https://www.mfaic.gov.kh";
-            case CAMEROON: return "https://www.prc.cm/en/";
-            case CANADA: return "https://www.canada.ca/en.html";
-            case CHILE: return "https://www.gob.cl/en/";
-            case CHINA: return "https://www.gov.cn";
-            case COLOMBIA: return "http://wp.presidencia.gov.co/sitios/en/Paginas/Presidency-Republic-Colombia.aspx";
-            case COOK_ISLANDS: return "http://www.ck/govt.htm";
-            case COSTA_RICA: return "https://presidencia.go.cr";
-            case DENMARK: return "https://denmark.dk";
-            case DOMINICA: return "https://dominica.gov.dm";
-            case TIMOR_LESTE: return "http://timor-leste.gov.tl/?lang=en";
-            case EGYPT: return "http://egypt.gov.eg/";
-            case ESTONIA: return "https://www.valitsus.ee/en";
-            case ETHIOPIA: return "https://www.pmo.gov.et";
-            case FALKLAND_ISLANDS: return "https://www.falklands.gov.fk";
-            case FIJI: return "https://www.fiji.gov.fj/Home";
-            case FINLAND: return "https://valtioneuvosto.fi/etusivu";
-            case FRANCE: return "https://www.gouvernement.fr";
-            case GABON: return "http://www.gouvernement.ga";
-            case GAMBIA: return "https://statehouse.gm";
-            case GERMANY: return "https://www.bundesregierung.de/breg-de";
-            case GIBRALTAR: return "https://www.gibraltar.gov.gi";
-            case GREECE: return "https://www.gov.gr";
-            case GREENLAND: return "https://naalakkersuisut.gl/en/Naalakkersuisut";
-            case ICELAND: return "https://www.government.is";
-            case INDIA: return "https://www.india.gov.in";
-            case INDONESIA: return "https://indonesia.nl/en/";
-            case IRAN: return "https://irangov.ir/en";
-            case IRAQ: return "https://gds.gov.iq";
-            case IRELAND: return "https://www.gov.ie";
-            case ISRAEL: return "https://www.gov.il/en";
-            case ITALY: return "http://www.italia.it/";
-            case JAPAN: return "https://www.japan.go.jp";
-            case JAMAICA: return "https://www.gov.jm";
-            case JORDAN: return "https://portal.jordan.gov.jo/wps/portal/%5c?lang=en#/";
-            case KAZAKHSTAN: return "https://www.akorda.kz/en";
-            case KENYA: return "https://www.president.go.ke";
-            case KUWAIT: return "https://www.e.gov.kw/sites/kgoEnglish/Pages/HomePage.aspx";
-            case LAOS: return "http://www.na.gov.la/index.php?lang=en#";
-            case LATVIA: return "https://www.mk.gov.lv/en";
-            case LEBANON: return "http://portal.gov.lb/index.html";
-            case LIBERIA: return "https://eliberia.gov.lr";
-            case LIECHTENSTEIN: return "https://www.liechtenstein.li/en/";
-            case LITHUANIA: return "https://lrv.lt/en";
-            case LUXEMBOURG: return "https://gouvernement.lu";
-            case MALAYSIA: return "https://www.malaysia.gov.my/portal/";
-            case MEXICO: return "https://www.gob.mx";
-            case MICRONESIA: return "https://fsmgov.org";
-            case MOROCCO: return "https://www.maroc.ma/en";
-            case MOZAMBIQUE: return "https://www.portaldogoverno.gov.mz";
-            case NAMIBIA: return "https://www.gov.na";
-            case NEPAL: return "https://www.nepal.gov.np";
-            case NEW_ZEALAND: return "https://www.govt.nz";
-            case NETHERLANDS: return "https://www.government.nl";
-            case NIGER: return "https://www.presidence.ne";
-            case NIGERIA: return "https://nigeria.gov.ng";
-            case NORTH_MACEDONIA: return "https://vlada.mk/?ln=en-gb";
-            case NORWAY: return "https://www.regjeringen.no";
-            case OMAN: return "https://www.oman.om";
-            case PAKISTAN: return "https://www.pakistan.gov.pk";
-            case PALAU: return "https://www.palaugov.pw";
-            case POLAND: return "https://www.gov.pl";
-            case QATAR: return "https://www.gco.gov.qa/en/";
-            case ROMANIA: return "https://gov.ro/en";
-            case RUSSIA: return "http://government.ru";
-            case RWANDA: return "https://www.gov.rw";
-            case SCOTLAND: return "https://www.gov.scot";
-            case SENEGAL: return "https://www.presidence.sn/en/";
-            case SERBIA: return "https://www.srbija.gov.rs";
-            case SINGAPORE: return "https://www.gov.sg";
-            case SLOVAKIA: return "https://www.vlada.gov.sk";
-            case SOMALIA: return "https://www.somalia.gov.so";
-            case SWEDEN: return "https://www.government.se";
-            case SWITZERLAND: return "https://www.admin.ch";
-            case TAIWAN: return "https://taiwan.gov.tw";
-            case TAJIKISTAN: return "https://mfa.tj/en";
-            case THAILAND: return "https://www.thaigov.go.th/main/contents";
-            case TURKEY: return "https://www.turkiye.gov.tr";
-            case UNITED_ARAB_EMIRATES: return "https://u.ae/en";
-            case UNITED_KINGDOM: return "https://www.gov.uk";
-            case UNITED_STATES: return "https://www.usa.gov";
-            case ZAMBIA: return "https://zambia.co.zm";
-            case ZIMBABWE: return "http://www.zim.gov.zw/index.php/en/";
-            default: return null;
-        }
+        return WLGovernmentWebsite.INSTANCE.get(this);
     }
     public boolean hasTerritories() {
         return hasTerritories;
@@ -543,7 +453,7 @@ public enum WLCountry {
             case "MT": return WLCountry.MALTA;
             case "MH": return WLCountry.MARSHALL_ISLANDS;
             //case "MQ": return WLCountry.MARINIQUE;
-            //case "MR": return WLCountry.MAURUTANIA;
+            case "MR": return WLCountry.MAURITANIA;
             case "MU": return WLCountry.MAURITIUS;
             //case "YT": return WLCountry.MAYOTTE;
             case "MX": return WLCountry.MEXICO;
@@ -587,13 +497,13 @@ public enum WLCountry {
             case "RO": return WLCountry.ROMANIA;
             case "RU": return WLCountry.RUSSIA;
             case "RW": return WLCountry.RWANDA;
-            //case "BL": return WLCountry.SAINT_BARTHELEMY;
-            //case "SH": return WLCountry.SAINT_HELENA_ASCENSION_AND_TRISTAN_DA_CUNHA;
-            //case "KN": return WLCountry.SAINT_KITTS_AND_NEVIS;
-            //case "LC": return WLCountry.SAINT_LUCIA;
-            //case "MF": return WLCountry.SAINT_MARTIN;
-            //case "PM": return WLCountry.SAINT_PIERRE_AND_MIQUELON;
-            //case "VC": return WLCountry.SAINT_VINCENT_AND_THE_GRENADINES;
+            case "BL": return WLCountry.SAINT_BARTHELEMY;
+            case "SH": return WLCountry.SAINT_HELENA_ASCENSION_AND_TRISTAN_DA_CUNHA;
+            case "KN": return WLCountry.SAINT_KITTS_AND_NEVIS;
+            case "LC": return WLCountry.SAINT_LUCIA;
+            case "MF": return WLCountry.SAINT_MARTIN;
+            case "PM": return WLCountry.SAINT_PIERRE_AND_MIQUELON;
+            case "VC": return WLCountry.SAINT_VINCENT_AND_THE_GRENADINES;
             case "WS": return WLCountry.SAMOA;
             case "SM": return WLCountry.SAN_MARINO;
             case "ST": return WLCountry.SAO_TOME_AND_PRINCIPE;
@@ -653,5 +563,13 @@ public enum WLCountry {
             case "ZW": return WLCountry.ZIMBABWE;
             default: return null;
         }
+    }
+
+    public void getCitiesFromTerritory(String territory, CompletionHandler handler) {
+        WLCities.INSTANCE.getFromTerritory(this, territory, handler);
+    }
+
+    public WLTimeZone[] getTimeZones() {
+        return WLTimeZone.getFromCountry(this);
     }
 }

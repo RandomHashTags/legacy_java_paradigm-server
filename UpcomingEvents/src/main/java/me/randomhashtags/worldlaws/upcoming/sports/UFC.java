@@ -72,14 +72,14 @@ public enum UFC implements USAUpcomingEventController {
                             }
                         }
                         if(completed.addAndGet(1) == max) {
-                            handler.handle(null);
+                            handler.handleString(null);
                         }
                     });
                     return;
                 }
             }
         } else {
-            handler.handle(null);
+            handler.handleString(null);
         }
     }
 
@@ -103,9 +103,9 @@ public enum UFC implements USAUpcomingEventController {
             upcomingEvents.put(id, string);
             final String preUpcomingEventString = preUpcomingEvent.toStringWithImageURL(posterURL);
             loadedPreUpcomingEvents.put(id, preUpcomingEventString);
-            handler.handle(string);
+            handler.handleString(string);
         } else {
-            handler.handle(null);
+            handler.handleString(null);
         }
     }
 }

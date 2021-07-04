@@ -1,8 +1,6 @@
 package me.randomhashtags.worldlaws.location;
 
 public enum CountryInfo implements SovereignStateInfo {
-    LEGISLATURE_TYPE,
-
     AGRICULTURE_FOOD_APPLE_PRODUCTION("Apple Production"),
     AGRICULTURE_FOOD_APRICOT_PRODUCTION("Apricot Production"),
     AGRICULTURE_FOOD_ARTICHOKE_PRODUCTION("Artichoke Production"),

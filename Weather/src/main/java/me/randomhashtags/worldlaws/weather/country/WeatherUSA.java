@@ -11,7 +11,9 @@ import org.json.JSONObject;
 
 import java.io.File;
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.stream.StreamSupport;
 
 public enum WeatherUSA implements WeatherController {
     INSTANCE;
@@ -61,10 +63,10 @@ public enum WeatherUSA implements WeatherController {
         preAlertIDs = new HashMap<>();
         final String url = "https://api.weather.gov/alerts/active?status=actual";
 
-        final HashMap<String, Integer> eventsMap = new HashMap<>();
-        final HashMap<String, HashSet<WeatherPreAlert>> eventPreAlertsMap = new HashMap<>();
-        final HashMap<String, HashSet<WeatherEvent>> territoryEventsMap = new HashMap<>();
-        final HashMap<String, HashMap<String, HashSet<WeatherPreAlert>>> territoryPreAlertsMap = new HashMap<>();
+        final ConcurrentHashMap<String, Integer> eventsMap = new ConcurrentHashMap<>();
+        final ConcurrentHashMap<String, HashSet<WeatherPreAlert>> eventPreAlertsMap = new ConcurrentHashMap<>();
+        final ConcurrentHashMap<String, HashSet<WeatherEvent>> territoryEventsMap = new ConcurrentHashMap<>();
+        final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> territoryPreAlertsMap = new ConcurrentHashMap<>();
 
         final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
         headers.put("User-Agent", "(World Laws.Weather, ***REMOVED***)");
@@ -75,7 +77,7 @@ public enum WeatherUSA implements WeatherController {
                 if(json != null) {
                     final HashMap<String, String> territories = TerritoryAbbreviations.getAmericanTerritories();
                     final JSONArray array = json.getJSONArray("features");
-                    for(Object obj : array) {
+                    StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
                         final JSONObject jsonAlert = (JSONObject) obj;
                         final String id = jsonAlert.getString("id").split("/alerts/")[1];
                         final JSONObject properties = jsonAlert.getJSONObject("properties");
@@ -114,13 +116,8 @@ public enum WeatherUSA implements WeatherController {
                         final WeatherAlertTime time = new WeatherAlertTime(sent, effective, expires, ends);
 
                         final int defcon = getSeverityDEFCON(severity);
-                        if(!eventsMap.containsKey(event)) {
-                            eventsMap.put(event, defcon);
-                        }
-
-                        if(!territoryEventsMap.containsKey(territory)) {
-                            territoryEventsMap.put(territory, new HashSet<>());
-                        }
+                        eventsMap.putIfAbsent(event, defcon);
+                        territoryEventsMap.putIfAbsent(territory, new HashSet<>());
                         final HashSet<WeatherEvent> territorySet = territoryEventsMap.get(territory);
                         boolean hasEvent = false;
                         for(WeatherEvent newWeatherEvent : territorySet) {
@@ -137,19 +134,13 @@ public enum WeatherUSA implements WeatherController {
                         final WeatherPreAlert preAlert = new WeatherPreAlert(defcon, event, id, territory, certainty, headline, instruction, description, zoneIDs, time);
                         preAlertIDs.put(id, preAlert);
 
-                        if(!eventPreAlertsMap.containsKey(event)) {
-                            eventPreAlertsMap.put(event, new HashSet<>());
-                        }
+                        eventPreAlertsMap.putIfAbsent(event, new HashSet<>());
                         eventPreAlertsMap.get(event).add(preAlert);
 
-                        if(!territoryPreAlertsMap.containsKey(territory)) {
-                            territoryPreAlertsMap.put(territory, new HashMap<>());
-                        }
-                        if(!territoryPreAlertsMap.get(territory).containsKey(event)) {
-                            territoryPreAlertsMap.get(territory).put(event, new HashSet<>());
-                        }
+                        territoryPreAlertsMap.putIfAbsent(territory, new ConcurrentHashMap<>());
+                        territoryPreAlertsMap.get(territory).putIfAbsent(event, new HashSet<>());
                         territoryPreAlertsMap.get(territory).get(event).add(preAlert);
-                    }
+                    });
                 }
 
                 putEventPreAlerts(eventPreAlerts, eventPreAlertsMap);
@@ -159,7 +150,7 @@ public enum WeatherUSA implements WeatherController {
                 eventsJSON = getEventsJSON(eventsMap);
 
                 if(handler != null) {
-                    handler.handle(eventsJSON);
+                    handler.handleString(eventsJSON);
                 }
             }
         });
@@ -170,7 +161,7 @@ public enum WeatherUSA implements WeatherController {
         if(alertIDs == null) {
             refresh(new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
+                public void handleString(String string) {
                     tryGettingAlert(id, handler);
                 }
             });
@@ -180,7 +171,7 @@ public enum WeatherUSA implements WeatherController {
     }
     private void tryGettingAlert(String id, CompletionHandler handler) {
         if(alertIDs.containsKey(id)) {
-            handler.handle(alertIDs.get(id));
+            handler.handleString(alertIDs.get(id));
         } else if(preAlertIDs.containsKey(id)) {
             final EventSource source = getSource();
             final WeatherPreAlert preAlert = preAlertIDs.get(id);
@@ -190,17 +181,16 @@ public enum WeatherUSA implements WeatherController {
             final StringBuilder builder = new StringBuilder("[");
             zones.parallelStream().forEach(zoneID -> getZone(zoneID, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    builder.append(completed.get() == 0 ? "" : ",").append(object);
-                    final int value = completed.addAndGet(1);
-                    if(value == max) {
+                public void handleString(String string) {
+                    builder.append(completed.get() == 0 ? "" : ",").append(string);
+                    if(completed.addAndGet(1) == max) {
                         builder.append("]");
                         final String zonesJSON = builder.toString();
                         final WeatherAlert alert = new WeatherAlert(preAlert, zonesJSON, source);
-                        final String string = alert.toString();
-                        alertIDs.put(id, string);
+                        final String value = alert.toString();
+                        alertIDs.put(id, value);
                         preAlertIDs.remove(id);
-                        handler.handle(string);
+                        handler.handleString(value);
                     }
                 }
             }));
@@ -215,9 +205,9 @@ public enum WeatherUSA implements WeatherController {
         Arrays.stream(zones).parallel().forEach(zoneID -> {
             getZone(zoneID, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
+                public void handleString(String string) {
                     final int value = completed.addAndGet(1);
-                    zoneJSONs.add(object.toString());
+                    zoneJSONs.add(string);
                     if(value == max) {
                         final StringBuilder builder = new StringBuilder("[");
                         boolean isFirst = true;
@@ -226,7 +216,7 @@ public enum WeatherUSA implements WeatherController {
                             isFirst = false;
                         }
                         builder.append("]");
-                        handler.handle(builder.toString());
+                        handler.handleString(builder.toString());
                     }
                 }
             });
@@ -238,7 +228,7 @@ public enum WeatherUSA implements WeatherController {
             zones = new HashMap<>();
         }
         if(zones.containsKey(zoneID)) {
-            handler.handle(zones.get(zoneID));
+            handler.handleString(zones.get(zoneID));
         } else {
             final String[] values = zoneID.split("/");
             final String zoneFolder = values[0], zone = values[1];
@@ -249,7 +239,7 @@ public enum WeatherUSA implements WeatherController {
                     requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
                         @Override
                         public void handleJSONObject(JSONObject object) {
-                            handler.handle(object.toString());
+                            handler.handleString(object.toString());
                         }
                     });
                 }
@@ -264,7 +254,7 @@ public enum WeatherUSA implements WeatherController {
                     final WeatherZone zone = new WeatherZone(zoneID, name, territory, geometry);
                     final String string = zone.toString();
                     zones.put(zoneID, string);
-                    handler.handle(string);
+                    handler.handleString(string);
                 }
             });
         }

@@ -10,6 +10,7 @@ import org.jsoup.select.Elements;
 
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.concurrent.ConcurrentHashMap;
 
 public enum WeatherCA implements WeatherController {
     INSTANCE;
@@ -59,10 +60,10 @@ public enum WeatherCA implements WeatherController {
         preAlertIDs = new HashMap<>();
         final String url = "https://weather.gc.ca/warnings/index_e.html";
 
-        final HashMap<String, Integer> eventsMap = new HashMap<>();
-        final HashMap<String, HashSet<WeatherPreAlert>> eventPreAlertsMap = new HashMap<>();
-        final HashMap<String, HashSet<WeatherEvent>> territoryEventsMap = new HashMap<>();
-        final HashMap<String, HashMap<String, HashSet<WeatherPreAlert>>> territoryPreAlertsMap = new HashMap<>();
+        final ConcurrentHashMap<String, Integer> eventsMap = new ConcurrentHashMap<>();
+        final ConcurrentHashMap<String, HashSet<WeatherPreAlert>> eventPreAlertsMap = new ConcurrentHashMap<>();
+        final ConcurrentHashMap<String, HashSet<WeatherEvent>> territoryEventsMap = new ConcurrentHashMap<>();
+        final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> territoryPreAlertsMap = new ConcurrentHashMap<>();
 
         final Document doc = getDocument(url);
         if(doc != null) {
@@ -137,7 +138,7 @@ public enum WeatherCA implements WeatherController {
         eventsJSON = getEventsJSON(eventsMap);
 
         if(handler != null) {
-            handler.handle(eventsJSON);
+            handler.handleString(eventsJSON);
         }
     }
 
@@ -154,7 +155,7 @@ public enum WeatherCA implements WeatherController {
         if(alertIDs == null) {
             refresh(new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
+                public void handleString(String string) {
                     tryGettingAlert(id, handler);
                 }
             });
@@ -164,12 +165,12 @@ public enum WeatherCA implements WeatherController {
     }
     private void tryGettingAlert(String id, CompletionHandler handler) {
         if(alertIDs.containsKey(id)) {
-            handler.handle(alertIDs.get(id));
+            handler.handleString(alertIDs.get(id));
         } else if(preAlertIDs.containsKey(id)) {
             final EventSource source = getSource();
             final WeatherPreAlert preAlert = preAlertIDs.get(id);
             final WeatherAlert alert = new WeatherAlert(preAlert, null, source);
-            handler.handle(alert.toString());
+            handler.handleString(alert.toString());
             /*
             final HashSet<String> zones = preAlert.getZoneIDs();
             final int max = zones.size();

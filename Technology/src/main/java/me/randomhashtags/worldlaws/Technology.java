@@ -56,7 +56,7 @@ public final class Technology implements WLServer {
         final String key = values[0];
         switch (key) {
             case "brands":
-                handler.handle(getSmartphoneBrands());
+                handler.handleString(getSmartphoneBrands());
                 break;
             default:
                 final int length = values.length;

@@ -24,12 +24,12 @@ public enum DebtUS implements ICountryDebt {
     @Override
     public void getCurrentJSON(CompletionHandler handler) {
         if(current != null) {
-            handler.handle(current);
+            handler.handleString(current);
         } else {
             updateCurrent(handler);
             autoUpdate(new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
+                public void handleString(String string) {
                     updateCurrent(null);
                 }
             });
@@ -42,13 +42,13 @@ public enum DebtUS implements ICountryDebt {
             years = new HashMap<>();
         }
         if(years.containsKey(year)) {
-            handler.handle(years.get(year));
+            handler.handleString(years.get(year));
         } else {
             updateYear(year, handler);
 
             autoUpdate(new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
+                public void handleString(String string) {
                     updateYear(year, null);
                 }
             });
@@ -62,7 +62,7 @@ public enum DebtUS implements ICountryDebt {
                 final CountryDebt debt = getCountryDebt(json);
                 current = debt.toString();
                 if(handler != null) {
-                    handler.handle(current);
+                    handler.handleString(current);
                 }
             }
         });
@@ -85,7 +85,7 @@ public enum DebtUS implements ICountryDebt {
                 final String string = builder.toString();
                 years.put(targetYear, string);
                 if(handler != null) {
-                    handler.handle(string);
+                    handler.handleString(string);
                 }
             }
         });
@@ -103,7 +103,7 @@ public enum DebtUS implements ICountryDebt {
         new Timer().scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
-                handler.handle(null);
+                handler.handleString(null);
             }
         }, twentyFourHrs, twentyFourHrs);
     }

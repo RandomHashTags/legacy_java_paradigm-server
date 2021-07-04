@@ -1,8 +1,9 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.recent.AppleSoftwareUpdates;
+import me.randomhashtags.worldlaws.recent.software.AppleSoftwareUpdates;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
+import org.apache.logging.log4j.Level;
 
 import java.time.LocalDate;
 import java.util.Arrays;
@@ -19,6 +20,7 @@ public enum RecentEvents {
     };
 
     public void refresh(CompletionHandler handler) {
+        final long started = System.currentTimeMillis();
         final LocalDate now = LocalDate.now();
         final int max = events.length;
         final HashMap<RecentEventType, HashSet<String>> values = new HashMap<>();
@@ -26,14 +28,14 @@ public enum RecentEvents {
         Arrays.stream(events).parallel().forEach(event -> {
             event.refresh(now, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    if(object != null) {
+                public void handleString(String string) {
+                    if(string != null) {
                         final RecentEventType type = event.getType();
                         values.putIfAbsent(type, new HashSet<>());
-                        values.get(type).add(object.toString());
+                        values.get(type).add(string);
                     }
                     if(completion.addAndGet(1) == max) {
-                        String string = null;
+                        String value = null;
                         if(!values.isEmpty()) {
                             final StringBuilder builder = new StringBuilder("{");
                             boolean isFirstType = true;
@@ -44,17 +46,18 @@ public enum RecentEvents {
                                     builder.append(isFirstType ? "" : ",").append("\"").append(type.getName()).append("\":{");
                                     isFirstType = false;
                                     boolean isFirst = true;
-                                    for(String value : set) {
-                                        builder.append(isFirst ? "" : ",").append(value);
+                                    for(String s : set) {
+                                        builder.append(isFirst ? "" : ",").append(s);
                                         isFirst = false;
                                     }
                                 }
                                 builder.append("}");
                             }
                             builder.append("}");
-                            string = builder.toString();
+                            value = builder.toString();
                         }
-                        handler.handle(string);
+                        WLLogger.log(Level.INFO, "RecentEvents - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
+                        handler.handleString(value);
                     }
                 }
             });

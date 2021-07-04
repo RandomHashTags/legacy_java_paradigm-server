@@ -2,8 +2,11 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.service.IMDbService;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import org.json.JSONArray;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -16,7 +19,7 @@ import java.util.Map;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public enum Movies implements UpcomingEventController {
+public enum Movies implements UpcomingEventController, IMDbService {
     INSTANCE;
 
     private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
@@ -105,7 +108,7 @@ public enum Movies implements UpcomingEventController {
                 }
             }
         }
-        handler.handle(null);
+        handler.handleString(null);
     }
     private String getWikipageURL(Element titleElement) {
         final Elements hrefs = titleElement.select("i").get(0).select("a[href]");
@@ -123,8 +126,6 @@ public enum Movies implements UpcomingEventController {
         final String title = preUpcomingEvent.getTitle(), productionCompany = preUpcomingEvent.getTag();
         final Document wikidoc = getDocument(url);
         if(wikidoc != null) {
-            final int year = WLUtilities.getTodayYear();
-            final EventSource listOfAmericanFilmsSource = new EventSource("Wikipedia: List of American films of " + year, "https://en.wikipedia.org/wiki/List_of_American_films_of_" + year);
             String releaseInfo = "", premise = "";
             final EventSources externalSources = new EventSources();
             final Elements elements = wikidoc.select("div.mw-parser-output > *");
@@ -158,9 +159,9 @@ public enum Movies implements UpcomingEventController {
                     }
                 }
                 if(isRelease) {
-                    final boolean isP = targetTagName.equals("p"), isDiv = targetTagName.equals("div");
-                    isRelease = isP || isDiv;
-                    if(isP) {
+                    final boolean isParagraph = targetTagName.equals("p"), isDiv = targetTagName.equals("div");
+                    isRelease = isParagraph || isDiv;
+                    if(isParagraph) {
                         releaseInfo = releaseInfo.concat(target.text());
                     }
                 }
@@ -208,27 +209,36 @@ public enum Movies implements UpcomingEventController {
 
             final String wikiSuffix = url.split("/wiki/")[1].replace("_", " ");
             final EventSource wikipage = new EventSource("Wikipedia: " + wikiSuffix, url);
-            final EventSources sources = new EventSources(listOfAmericanFilmsSource, wikipage);
+            final EventSources sources = new EventSources(wikipage);
             sources.addSources(externalSources);
             final Elements targetImage = wikidoc.select("div.mw-parser-output table.infobox tbody tr td a img");
             final String imageSourceURL = !targetImage.isEmpty() ? targetImage.get(0).attr("src") : null;
             final String imageURL = imageSourceURL != null ? "https:" + imageSourceURL : null;
 
             final String premiseFinal = premise, releaseInfoFinal = releaseInfo;
-            getRatings(title, new CompletionHandler() {
+            getIMDbMovieDetails(title, WLUtilities.getTodayYear(), new CompletionHandler() {
                 @Override
-                public void handle(Object ratingsObj) {
-                    final String ratings = ratingsObj != null ? ratingsObj.toString() : null;
-                    final MovieEvent movie = new MovieEvent(title, premiseFinal, imageURL, productionCompany, releaseInfoFinal, ratings, sources);
-                    final String string = movie.toJSON();
-                    upcomingEvents.put(id, string);
-                    final String preUpcomingEventString = preUpcomingEvent.toStringWithImageURL(imageURL);
-                    loadedPreUpcomingEvents.put(id, preUpcomingEventString);
-                    handler.handle(string);
+                public void handleJSONObject(JSONObject imdbJSON) {
+                    getRatings(title, new CompletionHandler() {
+                        @Override
+                        public void handleString(String ratingsString) {
+                            getVideosJSONArray(YouTubeVideoType.MOVIE, title, new CompletionHandler() {
+                                @Override
+                                public void handleJSONArray(JSONArray array) {
+                                    final MovieEvent movie = new MovieEvent(title, premiseFinal, imageURL, productionCompany, releaseInfoFinal, imdbJSON, ratingsString, array, sources);
+                                    final String string = movie.toJSON();
+                                    upcomingEvents.put(id, string);
+                                    final String preUpcomingEventString = preUpcomingEvent.toStringWithImageURL(imageURL);
+                                    loadedPreUpcomingEvents.put(id, preUpcomingEventString);
+                                    handler.handleString(string);
+                                }
+                            });
+                        }
+                    });
                 }
             });
         } else {
-            handler.handle(null);
+            handler.handleString(null);
         }
     }
 
@@ -241,12 +251,12 @@ public enum Movies implements UpcomingEventController {
             final String ratingName = rating.getName();
             rating.get(movieTitle, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    if(object != null) {
-                        values.put(ratingName, object.toString());
+                public void handleString(String string) {
+                    if(string != null) {
+                        values.put(ratingName, string);
                     }
                     if(completion.addAndGet(1) == max) {
-                        String string = null;
+                        String value = null;
                         if(!values.isEmpty()) {
                             final StringBuilder builder = new StringBuilder("{");
                             boolean isFirst = true;
@@ -256,9 +266,9 @@ public enum Movies implements UpcomingEventController {
                                 isFirst = false;
                             }
                             builder.append("}");
-                            string = builder.toString();
+                            value = builder.toString();
                         }
-                        handler.handle(string);
+                        handler.handleString(value);
                     }
                 }
             });
@@ -283,7 +293,7 @@ public enum Movies implements UpcomingEventController {
                     getRottenTomatoesScore(movieTitle, handler);
                     break;
                 default:
-                    handler.handle(null);
+                    handler.handleString(null);
                     break;
             }
         }
@@ -304,15 +314,15 @@ public enum Movies implements UpcomingEventController {
                             if(meterScoreElement != null) {
                                 string = meterScoreElement.selectFirst("span.tMeterScore").text().replace("%", "");
                             }
-                            handler.handle(string);
+                            handler.handleString(string);
                         }
                     }
                 });
                 if(!found.get()) {
-                    handler.handle(null);
+                    handler.handleString(null);
                 }
             } else {
-                handler.handle(null);
+                handler.handleString(null);
             }
         }
     }

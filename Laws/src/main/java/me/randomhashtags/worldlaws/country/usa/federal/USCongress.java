@@ -54,7 +54,7 @@ public enum USCongress implements Jsoupable, Jsonable {
             statuses = new HashMap<>();
         }
         if(statuses.containsKey(status)) {
-            handler.handle(statuses.get(status));
+            handler.handleString(statuses.get(status));
         } else if(version == getCurrentAdministrationVersion()) {
             getBillsBySearch(status, handler);
         } else {
@@ -68,10 +68,9 @@ public enum USCongress implements Jsoupable, Jsonable {
                 public void load(CompletionHandler handler) {
                     getBillsBySearch(status, new CompletionHandler() {
                         @Override
-                        public void handle(Object object) {
-                            final String value = (String) object;
+                        public void handleString(String string) {
                             WLLogger.log(Level.INFO, "USCongress - created" + suffix.replace("%time%", Long.toString(System.currentTimeMillis()-started)));
-                            handler.handle(value);
+                            handler.handleString(string);
                         }
                     });
                 }
@@ -82,7 +81,7 @@ public enum USCongress implements Jsoupable, Jsonable {
                     final String string = json.toString();
                     statuses.put(status, string);
                     WLLogger.log(Level.INFO, "USCongress - loaded" + suffix.replace("%time%", Long.toString(System.currentTimeMillis()-started)));
-                    handler.handle(string);
+                    handler.handleString(string);
                 }
             });
         }
@@ -90,7 +89,7 @@ public enum USCongress implements Jsoupable, Jsonable {
     private void getBillsBySearch(BillStatus status, CompletionHandler handler) {
         getPreCongressBillsBySearch(status, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
+            public void handleObject(Object object) {
                 if(object != null) {
                     @SuppressWarnings({ "unchecked" })
                     final HashSet<PreCongressBill> bills = (HashSet<PreCongressBill>) object;
@@ -101,9 +100,9 @@ public enum USCongress implements Jsoupable, Jsonable {
                         isFirst = false;
                     }
                     builder.append("}");
-                    handler.handle(builder.toString());
+                    handler.handleString(builder.toString());
                 } else {
-                    handler.handle(null);
+                    handler.handleString(null);
                 }
             }
         });
@@ -113,20 +112,23 @@ public enum USCongress implements Jsoupable, Jsonable {
         final String url = "https://www.congress.gov/search?searchResultViewType=expanded&pageSize=250&q=%7B%22source%22%3A%22legislation%22%2C%22congress%22%3A%22" + version + "%22%2C%22bill-status%22%3A%22" + status.getBackendID() + "%22%7D";
         final Document doc = getDocument(url);
         if(doc != null) {
-            final Elements items = doc.select("main.content div.main-wrapper div.search-row div.search-column-main ol.basic-search-results-lists li.expanded");
+            final Elements items = doc.select("main.content div.basic-search-results-wrapper div.main-wrapper div.search-row div.search-column-main ol.basic-search-results-lists li.expanded");
             final int max = items.size();
-            final HashSet<PreCongressBill> bills = new HashSet<>();
-            final AtomicInteger completed = new AtomicInteger(0);
-            items.parallelStream().forEach(element -> {
-                final PreCongressBill bill = getPreCongressBillFrom(element);
-                bill.setStatus(status);
-                bills.add(bill);
-                if(completed.addAndGet(1) == max) {
-                    handler.handle(bills);
-                }
-            });
+            if(max == 0) {
+                handler.handleObject(null);
+            } else {
+                final HashSet<PreCongressBill> bills = new HashSet<>();
+                final AtomicInteger completed = new AtomicInteger(0);
+                items.parallelStream().forEach(element -> {
+                    final PreCongressBill bill = getPreCongressBillFrom(element);
+                    bills.add(bill);
+                    if(completed.addAndGet(1) == max) {
+                        handler.handleObject(bills);
+                    }
+                });
+            }
         } else {
-            handler.handle(null);
+            handler.handleObject(null);
         }
     }
     public PreCongressBill getPreCongressBillFrom(Element element) {
@@ -167,10 +169,10 @@ public enum USCongress implements Jsoupable, Jsonable {
             enactedBills = new HashMap<>();
         }
         if(enactedBills.containsKey(version)) {
-            handler.handle(enactedBills.get(version));
+            handler.handleString(enactedBills.get(version));
         } else if(isCurrentAdministration()) {
             WLLogger.log(Level.ERROR, "USCongress - tried to get enacted bills for current administration!");
-            handler.handle("{}");
+            handler.handleString("{}");
         } else {
             final long started = System.currentTimeMillis();
             final int versionInt = version;
@@ -236,10 +238,10 @@ public enum USCongress implements Jsoupable, Jsonable {
                             builder.append("}");
                         }
                         builder.append("}");
-                        handler.handle(builder.toString());
+                        handler.handleString(builder.toString());
                     } else {
                         WLLogger.log(Level.ERROR, "USCongress - failed to get enacted bills document for congress " + version + "!");
-                        handler.handle("{}");
+                        handler.handleString("{}");
                     }
                 }
 
@@ -249,7 +251,7 @@ public enum USCongress implements Jsoupable, Jsonable {
                     final String string = json.toString();
                     enactedBills.put(versionInt, string);
                     WLLogger.log(Level.INFO, "USCongress - loaded enacted bills for congress " + version + " (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handle(string);
+                    handler.handleString(string);
                 }
             });
         }
@@ -259,7 +261,7 @@ public enum USCongress implements Jsoupable, Jsonable {
             bills = new HashMap<>();
         }
         if(bills.containsKey(id)) {
-            handler.handle(bills.get(id));
+            handler.handleString(bills.get(id));
         } else {
             final long started = System.currentTimeMillis();
             final int versionInt = this.version;
@@ -287,19 +289,17 @@ public enum USCongress implements Jsoupable, Jsonable {
                         final String profileSlug = element.attr("href");
                         Politicians.INSTANCE.getUSA(element, profileSlug, new CompletionHandler() {
                             @Override
-                            public void handle(Object object) {
-                                final String sponsor = object.toString();
+                            public void handleString(String sponsor) {
                                 final String summary = getBillSummary(doc);
                                 final Elements allInfoContent = doc.select("main.content div.main-wrapper div.all-info-content");
                                 final PolicyArea policyArea = getBillPolicyArea(allInfoContent);
                                 final String subjects = getBillSubjects(allInfoContent);
                                 getBillCosponsors(allInfoContent, new CompletionHandler() {
                                     @Override
-                                    public void handle(Object cosponsorObject) {
-                                        final String cosponsors = cosponsorObject.toString();
+                                    public void handleString(String cosponsors) {
                                         final String actions = getBillActions(allInfoContent);
                                         final CongressBill bill = new CongressBill(chamberName, id, title, sponsor, summary, policyArea, subjects, cosponsors, actions, targetURL, pdfURL, null);
-                                        handler.handle(bill.toString());
+                                        handler.handleString(bill.toString());
                                     }
                                 });
                             }
@@ -313,7 +313,7 @@ public enum USCongress implements Jsoupable, Jsonable {
                     final String id = json.getString("id"), title = json.getString("title"), string = json.toString();
                     bills.put(id, string);
                     WLLogger.log(Level.INFO, "USCongress - loaded bill from chamber \"" + chamberName + "\" with title \"" + title + "\" for congress " + versionInt + " (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handle(string);
+                    handler.handleString(string);
                 }
             });
         }
@@ -375,8 +375,8 @@ public enum USCongress implements Jsoupable, Jsonable {
                     final String profileSlug = elements.attr("href").split("https://www\\.congress\\.gov")[1];
                     politicians.getUSA(elements, profileSlug, new CompletionHandler() {
                         @Override
-                        public void handle(Object object) {
-                            cosponsors.add(object.toString());
+                        public void handleString(String string) {
+                            cosponsors.add(string);
                             if(cosponsors.size() == max) {
                                 boolean isFirst = true;
                                 for(String cosponsor : cosponsors) {
@@ -384,16 +384,16 @@ public enum USCongress implements Jsoupable, Jsonable {
                                     isFirst = false;
                                 }
                                 builder.append("}");
-                                handler.handle(builder.toString());
+                                handler.handleString(builder.toString());
                             }
                         }
                     });
                 });
             } else {
-                handler.handle(null);
+                handler.handleString(null);
             }
         } else {
-            handler.handle(null);
+            handler.handleString(null);
         }
     }
     private String getBillActions(Elements allInfoContent) {

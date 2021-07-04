@@ -25,26 +25,25 @@ public enum UnitedStatesProject implements RestAPI, CongressService {
         if(!politicians.containsKey(id)) {
             loadPoliticians(CongressType.CURRENT, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
+                public void handleString(String string) {
                     if(!politicians.containsKey(id)) {
                         loadPoliticians(CongressType.HISTORICAL, new CompletionHandler() {
                             @Override
-                            public void handle(Object object) {
-                                final String target = object.toString();
+                            public void handleString(String target) {
                                 if(politicians.containsKey(target)) {
-                                    handler.handle(target);
+                                    handler.handleString(target);
                                 } else {
                                     WLLogger.log(Level.WARN, "UnitedStatesProject - politician doesn't exist with id \"" + id + "\"!");
                                 }
                             }
                         });
                     } else {
-                        handler.handle(politicians.get(id));
+                        handler.handleString(politicians.get(id));
                     }
                 }
             });
         } else {
-            handler.handle(politicians.get(id));
+            handler.handleString(politicians.get(id));
         }
     }
 
@@ -63,7 +62,7 @@ public enum UnitedStatesProject implements RestAPI, CongressService {
                     politicians.put(id, politician.toString());
                 }
                 WLLogger.log(Level.INFO, "UnitedStatesProject - loaded " + typeString + " politicians (took " + (System.currentTimeMillis()-started) + "ms)");
-                handler.handle(null);
+                handler.handleString(null);
             }
         });
     }

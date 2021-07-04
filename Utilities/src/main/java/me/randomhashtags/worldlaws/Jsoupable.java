@@ -19,7 +19,7 @@ public interface Jsoupable {
     private static String getFolder(FileType type) {
         return FolderUtils.getFolder(type);
     }
-    public static Document getLocalDocument(FileType type, String url) throws Exception {
+    static Document getLocalDocument(FileType type, String url) throws Exception {
         final String fileSeparator = File.separator;
         final String currentPath = System.getProperty("user.dir") + fileSeparator;
 

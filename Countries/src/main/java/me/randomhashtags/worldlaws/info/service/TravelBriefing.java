@@ -46,7 +46,7 @@ public enum TravelBriefing implements CountryService {
 
         final String targetCountry = country.toLowerCase().replace(" ", "_");
         if(countries.containsKey(targetCountry)) {
-            handler.handle(countries.get(targetCountry));
+            handler.handleString(countries.get(targetCountry));
         } else {
             getJSONObject(FileType.COUNTRIES_SERVICES_TRAVEL_BRIEFING, country, new CompletionHandler() {
                 @Override
@@ -80,7 +80,7 @@ public enum TravelBriefing implements CountryService {
                             final List<String> neighbors = getNeighbors(json.getJSONArray("neighbors"));
                             json.put("neighbors", neighbors);
                             final String string = json.toString();
-                            handler.handle(string);
+                            handler.handleString(string);
                         }
                     });
                 }
@@ -90,7 +90,7 @@ public enum TravelBriefing implements CountryService {
                     final String string = new CountryServiceValue(TravelBriefing.INSTANCE, object.toString()).toString();
                     WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + country + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                     countries.put(targetCountry, string);
-                    handler.handle(string);
+                    handler.handleString(string);
                 }
             });
         }

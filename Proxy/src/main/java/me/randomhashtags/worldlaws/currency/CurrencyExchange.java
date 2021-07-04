@@ -23,7 +23,7 @@ public enum CurrencyExchange implements RestAPI {
 
     public void getExchangeRates(int year, CompletionHandler handler) {
         if(exchangeRates.containsKey(year)) {
-            handler.handle(exchangeRates.get(year));
+            handler.handleString(exchangeRates.get(year));
         } else {
             refreshCurrencyExchange(year, handler);
         }
@@ -31,13 +31,13 @@ public enum CurrencyExchange implements RestAPI {
     public void getExchangeRates(int year, String country, CompletionHandler handler) {
         if(countryExchangeRates.containsKey(year)) {
             final String value = getValue(year, country);
-            handler.handle(value);
+            handler.handleString(value);
         } else {
             refreshCurrencyExchange(year, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
+                public void handleString(String string) {
                     final String value = getValue(year, country);
-                    handler.handle(value);
+                    handler.handleString(value);
                 }
             });
         }
@@ -78,7 +78,7 @@ public enum CurrencyExchange implements RestAPI {
                 final String string = builder.toString();
                 exchangeRates.put(year, string);
                 WLLogger.log(Level.INFO, "CurrencyExchange - refreshed rates for year " + year + " (took " + (System.currentTimeMillis()-started) + "ms)");
-                handler.handle(string);
+                handler.handleString(string);
             }
         });
     }

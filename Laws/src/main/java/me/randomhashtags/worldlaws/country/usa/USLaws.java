@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.country.usa;
 
+import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.LawController;
 import me.randomhashtags.worldlaws.country.State;
@@ -32,7 +33,7 @@ public enum USLaws implements LawController {
     }
 
     @Override
-    public void getRecentActivity(CompletionHandler handler) {
+    public void getRecentActivity(APIVersion version, CompletionHandler handler) {
         final LocalDate startingDate = LocalDate.now().minusDays(7);
         final USCongress congress = USCongress.getCongress(USCongress.getCurrentAdministrationVersion());
         final BillStatus[] statuses = new BillStatus[] {
@@ -45,7 +46,7 @@ public enum USLaws implements LawController {
         Arrays.asList(statuses).parallelStream().forEach(status -> {
             congress.getPreCongressBillsBySearch(status, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
+                public void handleObject(Object object) {
                     if(object != null) {
                         @SuppressWarnings({ "unchecked" })
                         final HashSet<PreCongressBill> bills = (HashSet<PreCongressBill>) object;
@@ -55,7 +56,7 @@ public enum USLaws implements LawController {
                     if(completed.addAndGet(1) == max) {
                         String string = null;
                         if(!values.isEmpty()) {
-                            final StringBuilder builder = new StringBuilder();
+                            final StringBuilder builder = new StringBuilder("{");
                             boolean isFirstStatus = true;
                             for(Map.Entry<BillStatus, HashSet<PreCongressBill>> map : values.entrySet()) {
                                 final BillStatus status = map.getKey();
@@ -69,9 +70,10 @@ public enum USLaws implements LawController {
                                 isFirstStatus = false;
                                 builder.append("}");
                             }
+                            builder.append("}");
                             string = builder.toString();
                         }
-                        handler.handle(string);
+                        handler.handleString(string);
                     }
                 }
             });
@@ -79,12 +81,12 @@ public enum USLaws implements LawController {
     }
 
     @Override
-    public void getResponse(String input, CompletionHandler handler) {
+    public void getResponse(APIVersion version, String input, CompletionHandler handler) {
         final String[] values = input.replace("?", "").split("/");
         final String key = values[0];
         final int length = values.length;
         if(key.startsWith("congress")) {
-            getCongressResponse(values, handler);
+            getCongressResponse(version, values, handler);
         } else {
             switch (key) {
                 case "federal":
@@ -92,15 +94,15 @@ public enum USLaws implements LawController {
                     break;
                 default:
                     final String response = getLawResponse(values, length);
-                    handler.handle(response);
+                    handler.handleString(response);
                     break;
             }
         }
     }
 
-    private void getCongressResponse(String[] values, CompletionHandler handler) {
-        final int version = Integer.parseInt(values[0].substring("congress".length()));
-        final USCongress congress = USCongress.getCongress(version);
+    private void getCongressResponse(APIVersion version, String[] values, CompletionHandler handler) {
+        final int congressVersion = Integer.parseInt(values[0].substring("congress".length()));
+        final USCongress congress = USCongress.getCongress(congressVersion);
         switch (values[1]) {
             case "enactedbills":
                 congress.getEnactedBills(handler);

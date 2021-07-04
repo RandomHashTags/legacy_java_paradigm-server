@@ -80,7 +80,7 @@ public enum HolidayType implements Jsonable {
                     }
                     final int value = completed.addAndGet(1);
                     if(value == max) {
-                        handler.handle(null);
+                        handler.handleString(null);
                     }
                 }
             });
@@ -142,7 +142,9 @@ public enum HolidayType implements Jsonable {
         } else {
             final String fileName = year + "_" + name();
             final HolidayType holidayType = this;
-            getJSONObject(FileType.UPCOMING_EVENTS_HOLIDAYS, fileName, new CompletionHandler() {
+            final FileType fileType = FileType.UPCOMING_EVENTS_HOLIDAYS;
+            fileType.setCustomFolderName(fileType.getFolderName(false).replace("%year%", Integer.toString(year)));
+            getJSONObject(fileType, fileName, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     final boolean isCountries = holidayType == COUNTRIES;
@@ -161,15 +163,13 @@ public enum HolidayType implements Jsonable {
                                 final String dateString = date.getDateString();
                                 holiday.getImageURL(holidayType, new CompletionHandler() {
                                     @Override
-                                    public void handle(Object imageURLObj) {
-                                        final String imageURL = imageURLObj != null ? (String) imageURLObj : null;
+                                    public void handleString(String imageURL) {
                                         holiday.getDescription(holidayType, new CompletionHandler() {
                                             @Override
-                                            public void handle(Object descriptionObj) {
+                                            public void handleString(String description) {
                                                 final HolidayObj customHoliday = getCustomHoliday(holiday, imageURL);
                                                 final String englishName = customHoliday.getEnglishName();
                                                 if(!descriptions.containsKey(englishName)) {
-                                                    final String description = (String) descriptionObj;
                                                     descriptions.put(englishName, description);
                                                 }
 
@@ -185,8 +185,8 @@ public enum HolidayType implements Jsonable {
                                                     final StringBuilder builder = new StringBuilder("{\"descriptions\":{");
                                                     boolean isFirst = true;
                                                     for(Map.Entry<String, String> map : descriptions.entrySet()) {
-                                                        final String name = map.getKey(), description = map.getValue();
-                                                        builder.append(isFirst ? "" : ",").append("\"").append(name).append("\":\"").append(description).append("\"");
+                                                        final String name = map.getKey(), targetDescription = map.getValue();
+                                                        builder.append(isFirst ? "" : ",").append("\"").append(name).append("\":\"").append(targetDescription).append("\"");
                                                         isFirst = false;
                                                     }
                                                     builder.append("}");
@@ -195,7 +195,7 @@ public enum HolidayType implements Jsonable {
                                                         builder.append(",").append("\"").append(dateString).append("\":{").append(map.getValue()).append("}");
                                                     }
                                                     builder.append("}");
-                                                    handler.handle(builder.toString());
+                                                    handler.handleString(builder.toString());
                                                 }
                                             }
                                         });
@@ -206,12 +206,13 @@ public enum HolidayType implements Jsonable {
                             }
                         });
                     } else {
-                        handler.handle(null);
+                        handler.handleString(null);
                     }
                 }
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
+                    fileType.resetCustomFolderName();
                     cache = json;
                     handler.handleJSONObject(json);
                 }
@@ -240,10 +241,9 @@ public enum HolidayType implements Jsonable {
             final String backendID = country.getBackendID();
             loadCountryHolidays(descriptions, holidays, country, year, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    final String jsonObject = object.toString();
-                    if(!jsonObject.equals("{}")) {
-                        countryHolidays.add("\"" + backendID + "\":" + jsonObject);
+                public void handleString(String string) {
+                    if(!string.equals("{}")) {
+                        countryHolidays.add("\"" + backendID + "\":" + string);
                     }
                     if(completed.addAndGet(1) == max) {
                         final StringBuilder builder = new StringBuilder("{\"descriptions\":{");
@@ -258,8 +258,8 @@ public enum HolidayType implements Jsonable {
                             builder.append(",").append(countryHoliday);
                         }
                         builder.append("}");
-                        final String string = builder.toString();
-                        handler.handle(string);
+                        final String value = builder.toString();
+                        handler.handleString(value);
                     }
                 }
             });
@@ -277,12 +277,10 @@ public enum HolidayType implements Jsonable {
                 holidays.putIfAbsent(dateString, new HashSet<>());
                 socialHoliday.getImageURL(holidayType, new CompletionHandler() {
                     @Override
-                    public void handle(Object imageURLObj) {
-                        final String imageURL = imageURLObj != null ? (String) imageURLObj : null;
+                    public void handleString(String imageURL) {
                         socialHoliday.getDescription(holidayType, new CompletionHandler() {
                             @Override
-                            public void handle(Object descriptionObj) {
-                                final String description = (String) descriptionObj;
+                            public void handleString(String description) {
                                 final HolidayObj holiday = getHolidayObj(socialHoliday, imageURL, description);
                                 final String englishName = holiday.getEnglishName();
                                 descriptions.putIfAbsent(englishName, description);
@@ -315,7 +313,7 @@ public enum HolidayType implements Jsonable {
             }
             builder.append("}");
             final String string = builder.toString();
-            handler.handle(string);
+            handler.handleString(string);
         }
     }
 }

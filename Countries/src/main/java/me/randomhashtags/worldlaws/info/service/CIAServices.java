@@ -39,7 +39,7 @@ public enum CIAServices implements CountryService {
             countries = new HashMap<>();
         }
         if(countries.containsKey(shortName)) {
-            handler.handle(countries.get(shortName));
+            handler.handleString(countries.get(shortName));
         } else {
             final FileType fileType = getFileType();
             final String fileName = "CIA";
@@ -48,9 +48,9 @@ public enum CIAServices implements CountryService {
                 public void load(CompletionHandler handler) {
                     loadCIAValues(started, fileType, shortName, new CompletionHandler() {
                         @Override
-                        public void handle(Object object) {
-                            final String string = "{\"" + shortName + "\":" + object.toString() + "}";
-                            handler.handle(string);
+                        public void handleString(String string) {
+                            final String value = "{\"" + shortName + "\":" + string + "}";
+                            handler.handleString(value);
                         }
                     });
                 }
@@ -60,18 +60,18 @@ public enum CIAServices implements CountryService {
                     if(json.has(shortName)) {
                         final String string = new CIAValues(json.getJSONObject(shortName)).toString();
                         countries.put(shortName, string);
-                        handler.handle(string);
+                        handler.handleString(string);
                     } else {
                         loadCIAValues(started, fileType, shortName, new CompletionHandler() {
                             @Override
-                            public void handle(Object object) {
-                                final JSONObject ciaJSON = new JSONObject(object.toString());
+                            public void handleString(String string) {
+                                final JSONObject ciaJSON = new JSONObject(string);
                                 final CIAValues values = new CIAValues(ciaJSON);
-                                final String string = values.toString();
-                                countries.put(shortName, string);
+                                final String value = values.toString();
+                                countries.put(shortName, value);
                                 json.put(shortName, ciaJSON);
                                 setFileJSONObject(fileType, fileName, json);
-                                handler.handle(string);
+                                handler.handleString(value);
                             }
                         });
                     }
@@ -102,7 +102,7 @@ public enum CIAServices implements CountryService {
         final CIAValues values = new CIAValues(key, summaryURL, travelFactsURL);
         final String string = values.toServerJSON();
         WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + shortName + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-        handler.handle(string);
+        handler.handleString(string);
     }
 
     private final class CIAValues implements ServerObject {

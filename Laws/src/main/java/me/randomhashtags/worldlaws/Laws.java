@@ -32,10 +32,10 @@ public final class Laws implements WLServer {
     }
 
     private void test() {
-        USLaws.INSTANCE.getRecentActivity(new CompletionHandler() {
+        getRecentActivity(APIVersion.v1, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                WLLogger.log(Level.INFO, "Laws;test;object=" + object);
+            public void handleString(String string) {
+                WLLogger.log(Level.INFO, "Laws;test;object=" + string);
             }
         });
     }
@@ -56,16 +56,16 @@ public final class Laws implements WLServer {
         switch (key) {
             case "recent_activity":
                 if(values.length >= 2) {
-                    final LawController controller = valueOfCountry(values[0]);
+                    final LawController controller = valueOfCountry(values[1]);
                     if(controller != null) {
-                        controller.getRecentActivity(handler);
+                        controller.getRecentActivity(version, handler);
                     }
                 } else {
-                    getRecentActivity(handler);
+                    getRecentActivity(version, handler);
                 }
                 break;
             default:
-                countries.get(key).getResponse(target.substring(key.length()+1), handler);
+                countries.get(key).getResponse(version, target.substring(key.length()+1), handler);
                 break;
         }
     }
@@ -77,33 +77,33 @@ public final class Laws implements WLServer {
         };
     }
 
-    private void getRecentActivity(CompletionHandler handler) {
+    private void getRecentActivity(APIVersion version, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final int max = CONTROLLERS.length;
         final HashMap<String, String> values = new HashMap<>();
         final AtomicInteger completed = new AtomicInteger(0);
         Arrays.asList(CONTROLLERS).parallelStream().forEach(controller -> {
-            controller.getRecentActivity(new CompletionHandler() {
+            controller.getRecentActivity(version, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    if(object != null) {
-                        values.put(controller.getCountry().getBackendID(), object.toString());
+                public void handleString(String string) {
+                    if(string != null) {
+                        values.put(controller.getCountry().getBackendID(), string);
                     }
+                    WLLogger.log(Level.INFO, "Laws - loaded " + controller.getClass().getSimpleName() + "'s recent activity (took " + (System.currentTimeMillis()-started) + "ms)");
                     if(completed.addAndGet(1) == max) {
-                        String string = null;
+                        String value = null;
                         if(!values.isEmpty()) {
                             final StringBuilder builder = new StringBuilder("{");
                             boolean isFirst = true;
                             for(Map.Entry<String, String> map : values.entrySet()) {
-                                final String country = map.getKey(), json = map.getValue();
-                                builder.append(isFirst ? "" : ",").append("\"").append(country).append("\":").append(json);
+                                builder.append(isFirst ? "" : ",").append("\"").append(map.getKey()).append("\":").append(map.getValue());
                                 isFirst = false;
                             }
                             builder.append("}");
-                            string = builder.toString();
+                            value = builder.toString();
                         }
-                        WLLogger.log(Level.INFO, "Laws - loaded recently passed (took " + (System.currentTimeMillis()-started) + "ms)");
-                        handler.handle(string);
+                        WLLogger.log(Level.INFO, "Laws - loaded recent activity (took " + (System.currentTimeMillis()-started) + "ms)");
+                        handler.handleString(value);
                     }
                 }
             });

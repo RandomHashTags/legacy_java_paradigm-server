@@ -73,6 +73,6 @@ public interface CountryValueService extends CountryService {
             isFirst = false;
         }
         builder.append("}");
-        handler.handle(builder.toString());
+        handler.handleString(builder.toString());
     }
 }

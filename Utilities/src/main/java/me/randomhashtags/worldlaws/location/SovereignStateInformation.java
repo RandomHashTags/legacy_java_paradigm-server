@@ -4,20 +4,20 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-public final class CountryInformation {
+public final class SovereignStateInformation {
 
     private String json;
 
-    public CountryInformation(ConcurrentHashMap<CountryInformationType, HashSet<String>> info) {
+    public SovereignStateInformation(ConcurrentHashMap<InformationType, HashSet<String>> info) {
         updateJSON(info == null ? new ConcurrentHashMap<>() : info);
     }
-    private void updateJSON(ConcurrentHashMap<CountryInformationType, HashSet<String>> info) {
+    private void updateJSON(ConcurrentHashMap<InformationType, HashSet<String>> info) {
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
-        for(Map.Entry<CountryInformationType, HashSet<String>> entry : info.entrySet()) {
-            final CountryInformationType informationType = entry.getKey();
+        for(Map.Entry<InformationType, HashSet<String>> entry : info.entrySet()) {
+            final InformationType informationType = entry.getKey();
             final HashSet<String> hashset = entry.getValue();
-            builder.append(isFirst ? "" : ",").append("\"").append(informationType.name()).append("\":{");
+            builder.append(isFirst ? "" : ",").append("\"").append(informationType.getName()).append("\":{");
             boolean isFirstString = true;
             for(String string : hashset) {
                 if(string != null && !string.equals("null")) {

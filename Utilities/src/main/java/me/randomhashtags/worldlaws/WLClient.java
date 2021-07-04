@@ -7,13 +7,13 @@ import java.io.Reader;
 import java.net.Socket;
 
 public final class WLClient extends Thread {
-    private Socket httpClient;
+    private final Socket httpClient;
     private final CompletionHandler handler;
     private DataOutputStream output;
     private String headers, target;
 
-    public WLClient(Object client, CompletionHandler handler) {
-        httpClient = (Socket) client;
+    public WLClient(Socket client, CompletionHandler handler) {
+        httpClient = client;
         this.handler = handler;
     }
 
@@ -34,6 +34,14 @@ public final class WLClient extends Thread {
     }
     public String getHeaders() {
         return headers;
+    }
+    public String getIdentifier() {
+        for(String string : getHeaderList()) {
+            if(string.startsWith("***REMOVED***")) {
+                return string.substring("***REMOVED***".length());
+            }
+        }
+        return null;
     }
     public String[] getHeaderList() {
         return headers.replaceAll("\r", "").split("\n");
@@ -57,16 +65,12 @@ public final class WLClient extends Thread {
             e.printStackTrace();
         }
     }
-    public void close() {
+    private void close() throws Exception {
         if(httpClient.isOutputShutdown() || httpClient.isClosed() || !httpClient.isConnected()) {
             return;
         }
-        try {
-            output.close();
-            httpClient.close();
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        output.close();
+        httpClient.close();
     }
 
     private void setupHeaders(@NotNull Socket client) {
@@ -95,13 +99,16 @@ public final class WLClient extends Thread {
     }
     private void setupTarget() {
         if(target == null) {
+            final String httpVersion = DataValues.HTTP_VERSION;
             for(String string : getHeaderList()) {
-                if(string.startsWith("POST") && string.endsWith("HTTP/1.1")) {
-                    target = string.split("POST ")[1].split(" HTTP/1\\.1")[0].replaceFirst("/", "");
-                    break;
-                } else if(string.startsWith("GET") && string.endsWith("HTTP/1.1")) {
-                    target = string.split("GET ")[1].split(" HTTP/1\\.1")[0].replaceFirst("/", "");
-                    break;
+                if(string.endsWith(httpVersion)) {
+                    if(string.startsWith("POST")) {
+                        target = string.split("POST ")[1].split(" " + httpVersion)[0].replaceFirst("/", "");
+                        break;
+                    } else if(string.startsWith("GET")) {
+                        target = string.split("GET ")[1].split(" " + httpVersion)[0].replaceFirst("/", "");
+                        break;
+                    }
                 }
             }
         }

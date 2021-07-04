@@ -47,9 +47,8 @@ public enum NASANeo implements USAUpcomingEventController {
     }
 
     private void refreshNeo(int year, int month, int day, CompletionHandler handler) {
-        final String API_KEY = "***REMOVED***";
         final String date = year + "-" + month + "-" + day;
-        final String url = "https://api.nasa.gov/neo/rest/v1/feed?start_date=" + date + "&end_date=" + date + "&detailed=true&api_key=" + API_KEY;
+        final String url = "https://api.nasa.gov/neo/rest/v1/feed?start_date=" + date + "&end_date=" + date + "&detailed=true&api_key=" + NASA_API_KEY;
         requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject jsonobject) {
@@ -75,7 +74,7 @@ public enum NASANeo implements USAUpcomingEventController {
                     final String preUpcomingEventString = new PreUpcomingEvent(id, name, null, "NEO: " + name).toStringWithImageURL(null);
                     loadedPreUpcomingEvents.put(id, preUpcomingEventString);
                 });
-                handler.handle(null);
+                handler.handleString(null);
             }
         });
     }

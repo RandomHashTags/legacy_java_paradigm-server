@@ -28,12 +28,12 @@ public enum PhonesGoogle implements SmartphoneCompany {
     @Override
     public void getSmartphoneListJSON(CompletionHandler handler) {
         if(modelsList != null) {
-            handler.handle(modelsList);
+            handler.handleString(modelsList);
         } else {
             refresh(new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    handler.handle(modelsList);
+                public void handleString(String string) {
+                    handler.handleString(modelsList);
                 }
             });
         }
@@ -42,13 +42,13 @@ public enum PhonesGoogle implements SmartphoneCompany {
     @Override
     public void getSmartphoneDetails(String model, CompletionHandler handler) {
         if(models != null) {
-            handler.handle(models.get(model));
+            handler.handleString(models.get(model));
         } else {
             models = new HashMap<>();
             refresh(new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    handler.handle(models.get(model));
+                public void handleString(String string) {
+                    handler.handleString(models.get(model));
                 }
             });
         }
@@ -78,7 +78,7 @@ public enum PhonesGoogle implements SmartphoneCompany {
         final String string = builder.toString();
         modelsList = string;
         WLLogger.log(Level.INFO, "PhonesGoogle - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
-        handler.handle(string);
+        handler.handleString(string);
     }
     private List<Smartphone> getPhonesFromTable(Element table, String url) {
         final String brand = getBackendID();

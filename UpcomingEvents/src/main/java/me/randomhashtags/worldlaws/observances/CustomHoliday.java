@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.observances;
 
+import org.apache.commons.text.StringEscapeUtils;
 import org.json.JSONObject;
 
 public final class CustomHoliday extends HolidayObj {
@@ -9,12 +10,12 @@ public final class CustomHoliday extends HolidayObj {
     public CustomHoliday(String celebrators, String emoji, String englishName, String imageURL, String[] aliases, String learnMoreURL) {
         super(englishName, imageURL, aliases, null, learnMoreURL, null);
         this.celebrators = celebrators;
-        this.emoji = emoji;
+        this.emoji = StringEscapeUtils.escapeJava(emoji);
     }
     public CustomHoliday(String englishName, JSONObject json) {
         super(englishName, json);
         celebrators = json.getString("celebrators");
-        emoji = json.getString("emoji");
+        emoji = StringEscapeUtils.escapeJava(json.getString("emoji"));
     }
 
     @Override

@@ -6,6 +6,7 @@ public enum UpcomingEventType {
     SPACE_ROCKET_LAUNCH,
     SPACE_NEAR_EARTH_OBJECT,
 
+    SPORT_CHAMPIONSHIPS,
     SPORT_MLB,
     SPORT_UFC,
 

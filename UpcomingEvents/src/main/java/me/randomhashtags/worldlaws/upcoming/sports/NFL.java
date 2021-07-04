@@ -47,7 +47,7 @@ public enum NFL implements USAUpcomingEventController {
         if(doc != null) {
             WLLogger.log(Level.INFO, "doc=" + doc.toString());
             final Elements dates = doc.select("div.d3-l-wrap main div section.d3-l-grid-outer");
-            handler.handle(null);
+            handler.handleString(null);
         }
     }
 

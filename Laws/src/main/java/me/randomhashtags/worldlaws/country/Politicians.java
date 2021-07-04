@@ -22,14 +22,13 @@ public enum Politicians implements Jsonable {
 
     public void getUSA(Element elements, String profileSlug, CompletionHandler handler) {
         if(USA_POLITICIANS.containsKey(profileSlug)) {
-            handler.handle(USA_POLITICIANS.get(profileSlug));
+            handler.handleString(USA_POLITICIANS.get(profileSlug));
         } else {
             final CompletionHandler completion = new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    final String string = object.toString();
+                public void handleString(String string) {
                     USA_POLITICIANS.put(profileSlug, string);
-                    handler.handle(string);
+                    handler.handleString(string);
                 }
             };
             getUSAFromBill(profileSlug, elements, completion);
@@ -76,13 +75,13 @@ public enum Politicians implements Jsonable {
                 }
                 final USPolitician politician = new USPolitician(name, governedTerritory, district, party, imageURL, url.substring("https://www.congress.gov/member/".length()), website);
                 final String string = politician.toServerJSON();
-                handler.handle(string);
+                handler.handleString(string);
             }
 
             @Override
             public void handleJSONObject(JSONObject json) {
                 final USPolitician politician = new USPolitician(json);
-                handler.handle(politician.toJSON());
+                handler.handleString(politician.toJSON());
             }
         });
     }

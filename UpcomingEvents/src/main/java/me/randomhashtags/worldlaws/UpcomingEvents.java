@@ -40,8 +40,8 @@ public final class UpcomingEvents implements WLServer {
     UpcomingEvents() {
         dates = new HashMap<>();
 
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -50,12 +50,16 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        Holidays.INSTANCE.getNearHolidays(new CompletionHandler() {
+        /*
+        final HashSet<String> artists = new HashSet<>() {{
+            add("doja cat");
+        }};
+        MusicAlbums.INSTANCE.getSpotifyAlbum(artists, "Planet Her", new CompletionHandler() {
             @Override
-            public void handle(Object object) {
-                WLLogger.log(Level.INFO, "UpcomingEvents;test;object=" + object);
+            public void handleJSONObject(JSONObject json) {
+                WLLogger.log(Level.INFO, "UpcomingEvents;object=" + json.toString());
             }
-        });
+        });*/
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {
@@ -139,10 +143,9 @@ public final class UpcomingEvents implements WLServer {
         for(String eventDate : dates) {
             getEventsFromStringDate(eventDate, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    final String objectString = object.toString();
-                    if(!objectString.equals("{}")) {
-                        final String eventDateValue = "\"" + eventDate + "\":" + objectString;
+                public void handleString(String string) {
+                    if(!string.equals("{}")) {
+                        final String eventDateValue = "\"" + eventDate + "\":" + string;
                         eventValues.add(eventDateValue);
                     }
                     if(completed.addAndGet(1) == max) {
@@ -155,7 +158,7 @@ public final class UpcomingEvents implements WLServer {
                         builder.append("}");
                         WLLogger.log(Level.INFO, "UpcomingEventLoader - refreshed events from this week (took " + (System.currentTimeMillis()-started) + "ms)");
                         if(handler != null) {
-                            handler.handle(builder.toString());
+                            handler.handleString(builder.toString());
                         }
                     }
                 }
@@ -167,17 +170,16 @@ public final class UpcomingEvents implements WLServer {
     }
     private void getEventsFromStringDate(String targetDate, CompletionHandler handler) {
         if(dates.containsKey(targetDate)) {
-            handler.handle(dates.get(targetDate));
+            handler.handleString(dates.get(targetDate));
         } else {
             final String[] valueDates = targetDate.split("-");
             final Month month = Month.of(Integer.parseInt(valueDates[0]));
             final int day = Integer.parseInt(valueDates[2]), year = Integer.parseInt(valueDates[1]);
             getEventsFromDate(new EventDate(month, day, year), new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    final String string = object.toString();
+                public void handleString(String string) {
                     dates.put(targetDate, string);
-                    handler.handle(string);
+                    handler.handleString(string);
                 }
             });
         }
@@ -189,22 +191,20 @@ public final class UpcomingEvents implements WLServer {
         CONTROLLERS.parallelStream().forEach(controller -> {
             controller.getEventsFromDate(date, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
-                    final String objectString = object.toString();
-                    if(!objectString.equals("{}")) {
-                        final String value = "\"" + controller.getType().name().toLowerCase() + "\":" + objectString;
+                public void handleString(String string) {
+                    if(!string.equals("{}")) {
+                        final String value = "\"" + controller.getType().name().toLowerCase() + "\":" + string;
                         values.add(value);
                     }
-                    final int value = completed.addAndGet(1);
-                    if(value == max) {
+                    if(completed.addAndGet(1) == max) {
                         final StringBuilder builder = new StringBuilder("{");
                         boolean isFirst = true;
-                        for(String string : values) {
-                            builder.append(isFirst ? "" : ",").append(string);
+                        for(String value : values) {
+                            builder.append(isFirst ? "" : ",").append(value);
                             isFirst = false;
                         }
-                        final String string = builder.append("}").toString();
-                        handler.handle(string);
+                        final String value = builder.append("}").toString();
+                        handler.handleString(value);
                     }
                 }
             });

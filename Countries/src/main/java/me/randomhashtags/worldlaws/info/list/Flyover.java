@@ -86,12 +86,12 @@ public enum Flyover implements AppleFeatureAvailability {
                     isFirstCountry = false;
                 }
                 builder.append("}");
-                handler.handle(builder.toString());
+                handler.handleString(builder.toString());
             }
 
             @Override
             public void handleJSONObject(JSONObject json) {
-                handler.handle(json.toString());
+                handler.handleString(json.toString());
             }
         });
     }

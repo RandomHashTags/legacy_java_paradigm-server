@@ -46,7 +46,7 @@ public enum TerritoryDetails implements CountryService {
     public void getValues(WLCountry country, CompletionHandler handler) {
         final String countryBackendID = country.getBackendID();
         if(territories.containsKey(countryBackendID)) {
-            handler.handle(territories.get(countryBackendID));
+            handler.handleString(territories.get(countryBackendID));
         } else {
             final long started = System.currentTimeMillis();
             final String shortName = country.getShortName();
@@ -69,7 +69,7 @@ public enum TerritoryDetails implements CountryService {
                     final String string = builder.toString();
                     territories.put(countryBackendID, string);
                     WLLogger.log(Level.INFO,  getInfo().name() + " - loaded \"" + countryBackendID + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handle(string);
+                    handler.handleString(string);
                 }
             });
         }
@@ -95,7 +95,7 @@ public enum TerritoryDetails implements CountryService {
                 isFirst = false;
             }
         }
-        handler.handle(builder.toString());
+        handler.handleString(builder.toString());
     }
     private Elements getElements() {
         if(elements == null) {
@@ -106,13 +106,13 @@ public enum TerritoryDetails implements CountryService {
     private void getTerritoryURL(WLCountry country, CompletionHandler handler) {
         switch (country) {
             case ARTSAKH:
-                handler.handle("https://en.wikipedia.org/wiki/Administrative_divisions_of_the_Republic_of_Artsakh");
+                handler.handleString("https://en.wikipedia.org/wiki/Administrative_divisions_of_the_Republic_of_Artsakh");
                 break;
             case IRELAND:
-                handler.handle("https://en.wikipedia.org/wiki/Provinces_of_Ireland");
+                handler.handleString("https://en.wikipedia.org/wiki/Provinces_of_Ireland");
                 break;
             case UNITED_STATES:
-                handler.handle("https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States");
+                handler.handleString("https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States");
                 break;
             default:
                 final String countryShortName = country.getShortName();
@@ -134,13 +134,13 @@ public enum TerritoryDetails implements CountryService {
                             }
                         }
                         builder.append("}");
-                        handler.handle(builder.toString());
+                        handler.handleString(builder.toString());
                     }
 
                     @Override
                     public void handleJSONObject(JSONObject object) {
                         final String targetURL = object.has(countryShortName) ? object.getString(countryShortName) : null;
-                        handler.handle(targetURL);
+                        handler.handleString(targetURL);
                     }
                 });
                 break;

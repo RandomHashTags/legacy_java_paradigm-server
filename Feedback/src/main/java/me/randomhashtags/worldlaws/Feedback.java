@@ -38,7 +38,7 @@ public final class Feedback implements WLServer {
             case "feature_request":
                 final String text = "test";//getText(client.getHeaderList());
                 createFile(key + "s", text);
-                handler.handle("{\"recorded\":true}");
+                handler.handleString("{\"recorded\":true}");
                 break;
             default:
                 break;

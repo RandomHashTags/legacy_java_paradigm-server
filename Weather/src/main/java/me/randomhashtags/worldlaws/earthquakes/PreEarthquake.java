@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.earthquakes;
 
+import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.location.Location;
 
 public final class PreEarthquake {
@@ -8,7 +9,7 @@ public final class PreEarthquake {
 
     public PreEarthquake(String id, String place, String magnitude, Location location) {
         this.id = id;
-        this.place = place;
+        this.place = LocalServer.fixEscapeValues(place);
         this.magnitude = magnitude;
         this.location = location;
     }

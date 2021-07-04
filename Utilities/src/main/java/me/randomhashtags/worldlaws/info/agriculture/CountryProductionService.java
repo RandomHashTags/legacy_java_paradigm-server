@@ -83,7 +83,7 @@ public interface CountryProductionService extends CountryService {
                     isFirst = false;
                 }
                 jsonBuilder.append("}");
-                handler.handle(jsonBuilder.toString());
+                handler.handleString(jsonBuilder.toString());
             }
 
             @Override

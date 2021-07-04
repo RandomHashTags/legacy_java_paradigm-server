@@ -1,10 +1,11 @@
 package me.randomhashtags.worldlaws.location;
 
+import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.ServerObject;
 
-public final class Territory implements Jsoupable, ServerObject {
+public final class Territory implements SovereignState, ServerObject {
 
     private final String name, flagURL, governmentURL;
 
@@ -14,17 +15,29 @@ public final class Territory implements Jsoupable, ServerObject {
         this.governmentURL = governmentURL;
     }
 
+    @Override
+    public String getShortName() {
+        return name;
+    }
+    @Override
     public String getName() {
         return name;
     }
+    @Override
     public String getFlagURL() {
         return flagURL;
     }
-    public String getGovernmentURL() {
-        return governmentURL;
+
+    @Override
+    public void getInformation(APIVersion version, CompletionHandler handler) {
+        switch (version) {
+            default:
+                break;
+        }
     }
 
-    public void getInformation(CompletionHandler handler) {
+    public String getGovernmentURL() {
+        return governmentURL;
     }
 
     @Override

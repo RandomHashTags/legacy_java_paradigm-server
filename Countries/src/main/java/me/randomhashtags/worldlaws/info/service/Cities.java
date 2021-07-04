@@ -39,7 +39,7 @@ public enum Cities implements CountryService {
         if(cities.containsKey(countryBackendID)) {
             final HashMap<String, String> map = cities.get(countryBackendID);
             if(map.containsKey(territory)) {
-                handler.handle(map.get(territory));
+                handler.handleString(map.get(territory));
             } else {
             }
         } else {
@@ -63,7 +63,7 @@ public enum Cities implements CountryService {
             countries.put(country, targetURL);
         }
         if(handler != null) {
-            handler.handle(null);
+            handler.handleString(null);
         }
     }
 

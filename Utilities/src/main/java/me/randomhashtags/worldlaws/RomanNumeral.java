@@ -43,9 +43,10 @@ public final class RomanNumeral {
     public static int fromRoman(String input) {
         int result = 0;
         for(String string : STRINGS.keySet()) {
+            final int stringLength = string.length();
             while(input.contains(string)) {
                 final int index = input.indexOf(string), value = STRINGS.get(string);
-                input = input.substring(0, index) + input.substring(index+string.length());
+                input = input.substring(0, index) + input.substring(index + stringLength);
                 result += value;
                 if(input.isEmpty()) {
                     break;

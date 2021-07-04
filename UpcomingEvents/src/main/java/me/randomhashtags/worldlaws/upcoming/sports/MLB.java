@@ -88,11 +88,11 @@ public enum MLB implements USAUpcomingEventController {
                     preUpcomingEvents.put(id, preUpcomingEvent);
                 });
                 if(completed.addAndGet(1) == max) {
-                    handler.handle(null);
+                    handler.handleString(null);
                 }
             });
         } else {
-            handler.handle(null);
+            handler.handleString(null);
         }
     }
 
@@ -120,6 +120,6 @@ public enum MLB implements USAUpcomingEventController {
         final String string = event.toJSON();
         upcomingEvents.put(id, string);
         loadedPreUpcomingEvents.put(id, preUpcomingEvent.toStringWithImageURL(null));
-        handler.handle(string);
+        handler.handleString(string);
     }
 }

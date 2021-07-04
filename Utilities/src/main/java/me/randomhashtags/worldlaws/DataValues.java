@@ -1,12 +1,17 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.service.JSONDataValue;
+import org.json.JSONObject;
+
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 
-public interface DataValues {
+public interface DataValues extends Jsonable {
     Charset ENCODING = StandardCharsets.UTF_8;
-    String HTTP_SUCCESS_200 = "HTTP/1.1 200 OK\r\nContent-Type: application/json\r\nCharset: " + ENCODING.displayName() + "\r\n\r\n";
-    String HTTP_ERROR_404 = "HTTP/1.1 404 ERROR\r\nContent-Type: application/json\r\nCharset: " + ENCODING.displayName() + "\r\n\r\nStop trying to connect, you bottom feeder. Your IP has been logged and will be blocked if you continue trying to connect.";
+    String HTTP_VERSION = "HTTP/1.1";
+    String HTTP_PREFIX = HTTP_VERSION + " %status%\r\nContent-Type: application/json\r\nCharset: " + ENCODING.displayName() + "\r\n\r\n";
+    String HTTP_SUCCESS_200 = HTTP_PREFIX.replace("%status%", "200 OK");
+    String HTTP_ERROR_404 = HTTP_PREFIX.replace("%status%", "404 ERROR") + "Stop trying to connect, ya bottom feeder. Your IP has been logged and will be blocked if you continue trying to connect.";
 
     int WL_PROXY_PORT = 0;
     int WL_COUNTRIES_PORT = getPort(1);
@@ -50,4 +55,43 @@ public interface DataValues {
     String GOOGLE_CIVIC_API_KEY = "***REMOVED***";
 
     String YAHOO_FINANCE_RAPID_API_KEY = "***REMOVED***";
+
+    String NASA_API_KEY = "***REMOVED***";
+
+    default void getJSONDataValue(JSONDataValue value, CompletionHandler handler) {
+        final String identifier = value.getIdentifier();
+        getDataValuesJSON(new CompletionHandler() {
+            @Override
+            public void handleJSONObject(JSONObject dataValuesJSON) {
+                final JSONObject json = dataValuesJSON.has(identifier) ? dataValuesJSON.getJSONObject(identifier) : new JSONObject();
+                handler.handleJSONObject(json);
+            }
+        });
+    }
+    default void setJSONDataValue(JSONDataValue value, JSONObject json) {
+        final FileType fileType = FileType.OTHER;
+        final String fileName = "data values", identifier = value.getIdentifier();
+        getDataValuesJSON(new CompletionHandler() {
+            @Override
+            public void handleJSONObject(JSONObject dataValuesJSON) {
+                dataValuesJSON.put(identifier, json);
+                setFileJSONObject(fileType, fileName, dataValuesJSON);
+            }
+        });
+    }
+    private void getDataValuesJSON(CompletionHandler handler) {
+        final FileType fileType = FileType.OTHER;
+        final String fileName = "data values";
+        getJSONObject(fileType, fileName, new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+                handler.handleJSONObject(new JSONObject());
+            }
+
+            @Override
+            public void handleJSONObject(JSONObject dataValuesJSON) {
+                handler.handleJSONObject(dataValuesJSON);
+            }
+        });
+    }
 }

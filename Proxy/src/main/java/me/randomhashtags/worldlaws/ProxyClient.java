@@ -36,35 +36,21 @@ public final class ProxyClient extends Thread implements RestAPI {
         final String[] headers = getHeaderList();
         final String ip = client.getInetAddress().toString(), platform = getPlatform(headers), identifier = getIdentifier(headers);
         final boolean isValidRequest = true;//platform != null && identifier != null;
-
-        APIVersion version = null;
-        final String target;
-        final TargetServer targetServer;
-        if(isValidRequest) {
-            target = getTarget();
-            final String[] values = target.split("/");
-            version = APIVersion.valueOfInput(values[0]);
-            targetServer = getTargetServer(values[1]);
-        } else {
-            target = null;
-            targetServer = null;
-        }
-        final boolean hasTargetServer = targetServer != null;
+        final String target = isValidRequest ? getTarget(headers) : null;
         final String prefix = "[" + platform + ", " + identifier + "] " + ip + " - ";
-        if(hasTargetServer) {
-            final HashSet<String> query = getQuery();
-            targetServer.sendResponse(version, RequestMethod.GET, target, query, new CompletionHandler() {
+        if(target != null) {
+            final APIVersion version = APIVersion.valueOfInput(target.split("/")[0]);
+            final HashSet<String> query = getQuery(target);
+            final String finalTarget = target.split("\\?q=")[0];
+            final TargetServer targetServer = TargetServer.valueOfBackendID(finalTarget.split("/")[1]);
+            targetServer.sendResponse(version, identifier, RequestMethod.GET, finalTarget, query, new CompletionHandler() {
                 @Override
-                public void handle(Object object) {
+                public void handleObject(Object object) {
                     final boolean connected = object != null;
                     WLLogger.log(Level.INFO, prefix + (connected ? "Connected" : "Unable to connect") + " to \"" + target + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                     if(connected) {
-                        try {
-                            final String response = DataValues.HTTP_SUCCESS_200 + object;
-                            writeOutput(client, response);
-                        } catch (Exception e) {
-                            e.printStackTrace();
-                        }
+                        final String response = DataValues.HTTP_SUCCESS_200 + object;
+                        writeOutput(client, response);
                     }
                 }
             });
@@ -84,13 +70,9 @@ public final class ProxyClient extends Thread implements RestAPI {
             e.printStackTrace();
         }
     }
-    private void closeClient(Socket client) {
-        try {
-            outToClient.close();
-            client.close();
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+    private void closeClient(Socket client) throws Exception {
+        outToClient.close();
+        client.close();
     }
 
     private String getHeaderThatStartsWith(String[] headers, String string) {
@@ -103,27 +85,16 @@ public final class ProxyClient extends Thread implements RestAPI {
         return getHeaderThatStartsWith(headers, "***REMOVED***");
     }
 
-    public HashSet<String> getQuery() {
-        final String header = getHeaderThatStartsWith(getHeaderList(), "Query: ");
-        if(header != null) {
-            final String[] values = header.split("&");
-            return new HashSet<>(Arrays.asList(values));
-        } else {
-            return null;
-        }
+    public HashSet<String> getQuery(String target) {
+        final boolean hasQuery = target.contains("?q=");
+        return hasQuery ? new HashSet<>(Arrays.asList(target.split("\\?q=")[1].split(","))) : new HashSet<>();
     }
 
-    private TargetServer getTargetServer(String input) {
-        try {
-            return TargetServer.valueOfBackendID(input);
-        } catch (Exception ignored) {
-            return null;
-        }
-    }
-    private String getTarget() {
-        for(String string : getHeaderList()) {
-            if(string.startsWith("GET ") && string.endsWith("HTTP/1.1")) {
-                return string.split("GET ")[1].split(" HTTP/1\\.1")[0].replaceFirst("/", "");
+    private String getTarget(String[] headers) {
+        final String httpVersion = DataValues.HTTP_VERSION;
+        for(String string : headers) {
+            if(string.startsWith("GET ") && string.endsWith(httpVersion)) {
+                return string.split("GET ")[1].split(" " + httpVersion)[0].replaceFirst("/", "");
             }
         }
         return "";
@@ -137,16 +108,12 @@ public final class ProxyClient extends Thread implements RestAPI {
             try {
                 final Reader reader = new InputStreamReader(client.getInputStream());
                 String headers = "";
-                try {
-                    int c;
-                    while ((c = reader.read()) != -1) {
-                        headers += (char) c;
-                        if(headers.contains("\r\n\r\n")) {
-                            break;
-                        }
+                int character;
+                while ((character = reader.read()) != -1) {
+                    headers += (char) character;
+                    if(headers.contains("\r\n\r\n")) {
+                        break;
                     }
-                } catch (Exception e) {
-                    e.printStackTrace();
                 }
                 this.headers = headers;
             } catch (Exception e) {

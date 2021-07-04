@@ -86,7 +86,7 @@ public class HolidayObj implements Holiday {
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         for(String alias : aliases) {
-            builder.append(isFirst ? "" : ",").append("\"").append(alias).append("\"");
+            builder.append(isFirst ? "" : ",").append("\"").append(LocalServer.fixEscapeValues(alias)).append("\"");
             isFirst = false;
         }
         builder.append("]");

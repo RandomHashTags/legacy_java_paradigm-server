@@ -78,13 +78,13 @@ public enum SpaceX implements USAUpcomingEventController {
                     final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, launchpadID, description);
                     preUpcomingEvents.put(id, preUpcomingEvent);
                 }
-                handler.handle(null);
+                handler.handleString(null);
             }
         });
     }
     private void getLaunchpad(String id, CompletionHandler handler) {
         if(launchpads.containsKey(id)) {
-            handler.handle(launchpads.get(id));
+            handler.handleString(launchpads.get(id));
         } else {
             final String launchpadURL = "https://api.spacexdata.com/v4/launchpads/" + id;
             requestJSONObject(launchpadURL, RequestMethod.GET, new CompletionHandler() {
@@ -92,7 +92,7 @@ public enum SpaceX implements USAUpcomingEventController {
                 public void handleJSONObject(JSONObject object) {
                     final String string = object.toString();
                     launchpads.put(id, string);
-                    handler.handle(string);
+                    handler.handleString(string);
                 }
             });
         }
@@ -105,16 +105,16 @@ public enum SpaceX implements USAUpcomingEventController {
         final String title = preUpcomingEvent.getTitle();
         getLaunchpad(launchpadID, new CompletionHandler() {
             @Override
-            public void handle(Object object) {
+            public void handleString(String string) {
                 final EventSource source = new EventSource("SpaceX GitHub", "https://github.com/r-spacex/SpaceX-API");
                 final EventSources sources = new EventSources(source);
 
-                final JSONObject launchpadJSON = new JSONObject(object.toString());
+                final JSONObject launchpadJSON = new JSONObject(string);
                 final String location = launchpadJSON.getString("locality") + ", " + launchpadJSON.getString("region");
                 final SpaceEvent event = new SpaceEvent(title, description, location, sources);
-                final String string = event.toString();
-                upcomingEvents.put(id, string);
-                handler.handle(string);
+                final String value = event.toString();
+                upcomingEvents.put(id, value);
+                handler.handleString(value);
             }
         });
     }

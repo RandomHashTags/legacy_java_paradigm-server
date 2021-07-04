@@ -20,7 +20,7 @@ public enum TwitterTrends implements RestAPI {
     }
     public void getTrendingTopics(String country, CompletionHandler handler) {
         if(countries.containsKey(country)) {
-            handler.handle(countries.get(country));
+            handler.handleString(countries.get(country));
         } else {
             refreshTrendingTopics("1", handler);
         }

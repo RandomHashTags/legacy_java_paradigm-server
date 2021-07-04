@@ -86,11 +86,11 @@ public enum RocketLaunches implements UpcomingEventController {
                         loadedPreUpcomingEvents.put(id, preUpcomingEventString);
 
                         if(completed.addAndGet(1) == max) {
-                            handler.handle(null);
+                            handler.handleString(null);
                         }
                     });
                 } else {
-                    handler.handle(null);
+                    handler.handleString(null);
                 }
             }
         });

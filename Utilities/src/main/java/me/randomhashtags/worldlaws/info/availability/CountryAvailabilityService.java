@@ -31,8 +31,10 @@ public interface CountryAvailabilityService extends CountryService {
     }
 
     default CountryAvailability getAvailability(boolean value) {
-        return new CountryAvailability(getInfo().getTitle(), value);
+        return new CountryAvailability(getInfo().getTitle(), getImageURL(), value);
     }
+
+    String getImageURL();
 
     @Override
     default void getJSONData(FileType fileType, String fileName, String countryBackendID, CompletionHandler handler) {
@@ -55,7 +57,7 @@ public interface CountryAvailabilityService extends CountryService {
         if(AVAILABILITY_VALUES.containsKey(info)) {
             final boolean isTrue = isTrue(countryBackendID, AVAILABILITY_VALUES.get(info));
             final String value = getAvailability(isTrue).toString();
-            handler.handle(value);
+            handler.handleString(value);
         } else {
             getJSONData(getFileType(), info.getTitle(), countryBackendID, new CompletionHandler() {
                 @Override
@@ -63,7 +65,7 @@ public interface CountryAvailabilityService extends CountryService {
                     AVAILABILITY_VALUES.put(info, array);
                     final boolean isTrue = isTrue(countryBackendID, array);
                     final String value = getAvailability(isTrue).toString();
-                    handler.handle(value);
+                    handler.handleString(value);
                 }
             });
         }

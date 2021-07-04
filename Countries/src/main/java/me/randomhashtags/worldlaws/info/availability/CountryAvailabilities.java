@@ -44,6 +44,35 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
     ;
 
     @Override
+    public String getImageURL() {
+        switch (this) {
+            case ALEXA: return "https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_Alexa_logo.svg";
+            case AT_AND_T_TV: return "https://upload.wikimedia.org/wikipedia/commons/d/d5/AT%26T_TV.svg";
+            case DAZN: return "https://upload.wikimedia.org/wikipedia/commons/5/56/DAZN_LogoInBox_black.svg";
+            case DISCOVERY_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/d/df/Discovery%2B.png";
+            case DISNEY_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg";
+            case ESPN_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/8/80/ESPN_Plus.svg";
+            case GOOGLE_ASSISTANT: return "https://upload.wikimedia.org/wikipedia/commons/c/cb/Google_Assistant_logo.svg";
+            case GOOGLE_PAY: return "https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Pay_Logo_%282020%29.svg";
+            case HBO_MAX: return "https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_Max_Logo.svg";
+            case HULU: return "https://upload.wikimedia.org/wikipedia/commons/e/e4/Hulu_Logo.svg";
+            case NVIDIA_GEFORCE_NOW: return "https://upload.wikimedia.org/wikipedia/en/5/50/GeForce_Now_logo.png";
+            case PARAMOUNT_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/a/a5/Paramount_Plus.svg";
+            case PEACOCK: return "https://upload.wikimedia.org/wikipedia/commons/d/d3/NBCUniversal_Peacock_Logo.svg";
+            case PLAYSTATION_NOW: return "https://upload.wikimedia.org/wikipedia/commons/4/4c/Playstation-now.png";
+            case SAMSUNG_PAY: return "https://upload.wikimedia.org/wikipedia/commons/7/7e/Samsung_Pay_icon.svg";
+            case SHOWTIME: return "https://upload.wikimedia.org/wikipedia/commons/2/22/Showtime.svg";
+            case SPOTIFY: return "https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg";
+            case STADIA: return "https://upload.wikimedia.org/wikipedia/commons/9/98/Stadia_logo.svg";
+            case TIDAL: return "https://upload.wikimedia.org/wikipedia/commons/1/18/Tidal_%28service%29_logo.svg";
+            case VENMO: return "https://upload.wikimedia.org/wikipedia/commons/4/45/Venmo_Logo.svg";
+            case YOUTUBE_PREMIUM: return "https://upload.wikimedia.org/wikipedia/commons/d/dd/YouTube_Premium_logo.svg";
+            case YOUTUBE_TV: return "https://upload.wikimedia.org/wikipedia/commons/f/f7/YouTube_TV_logo.svg";
+            default: return null;
+        }
+    }
+
+    @Override
     public CountryInfo getInfo() {
         return CountryInfo.valueOf("AVAILABILITY_" + name());
     }
@@ -144,7 +173,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 break;
             default:
                 WLLogger.log(Level.WARN, "CountryAvailabilities - reload - missing for " + name() + "!");
-                handler.handle(null);
+                handler.handleString(null);
                 break;
         }
     }
@@ -268,7 +297,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                     }
                 }
                 builder.append("]");
-                handler.handle(builder.toString());
+                handler.handleString(builder.toString());
             }
 
             @Override
@@ -387,7 +416,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                     isFirst = false;
                 }
                 builder.append("]");
-                handler.handle(builder.toString());
+                handler.handleString(builder.toString());
             }
 
             @Override
@@ -411,7 +440,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                     isFirst = false;
                 }
                 builder.append("]");
-                handler.handle(builder.toString());
+                handler.handleString(builder.toString());
             }
 
             @Override
@@ -548,7 +577,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                     isFirst = false;
                 }
                 builder.append("]");
-                handler.handle(builder.toString());
+                handler.handleString(builder.toString());
             }
 
             @Override
@@ -580,7 +609,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                     }
                 }
                 builder.append("]");
-                handler.handle(builder.toString());
+                handler.handleString(builder.toString());
             }
 
             @Override
@@ -674,7 +703,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                     isFirst = false;
                 }
                 builder.append("]");
-                handler.handle(builder.toString());
+                handler.handleString(builder.toString());
             }
 
             @Override
@@ -827,7 +856,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                     isFirst = false;
                 }
                 builder.append("]");
-                handler.handle(builder.toString());
+                handler.handleString(builder.toString());
             }
 
             @Override

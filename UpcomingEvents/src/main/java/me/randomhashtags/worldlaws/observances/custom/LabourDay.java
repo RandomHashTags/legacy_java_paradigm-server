@@ -111,6 +111,7 @@ public enum LabourDay implements IHoliday {
             case MALDIVES:
             case MALI:
             case MALTA:
+            case MAURITANIA:
             case MAURITIUS:
             case MEXICO:
             case MOLDOVA:

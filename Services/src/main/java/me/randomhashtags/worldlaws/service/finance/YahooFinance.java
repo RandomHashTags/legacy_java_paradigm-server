@@ -1,9 +1,8 @@
 package me.randomhashtags.worldlaws.service.finance;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.FileType;
-import me.randomhashtags.worldlaws.RequestMethod;
-import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.service.ServiceInfo;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -11,6 +10,7 @@ import org.json.JSONObject;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.stream.IntStream;
 
 // https://rapidapi.com/apidojo/api/yahoo-finance1/
 public enum YahooFinance implements StockService {
@@ -24,9 +24,14 @@ public enum YahooFinance implements StockService {
     }
 
     @Override
-    public void getAutoComplete(String input, CompletionHandler handler) {
+    public SovereignStateInfo getInfo() {
+        return ServiceInfo.YAHOO_FINANCE;
+    }
+
+    @Override
+    public void getAutoComplete(APIVersion version, String input, CompletionHandler handler) {
         final String term = input.toLowerCase();
-        getJSONObject(FileType.SERVICES_FINANCE_YAHOO_FINANCE, "_Auto completes", new CompletionHandler() {
+        getJSONObject(FileType.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS, "_Auto completes", new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final HashMap<String, String> query = new HashMap<>();
@@ -48,12 +53,8 @@ public enum YahooFinance implements StockService {
         });
     }
     @Override
-    public void getMovers(CompletionHandler handler) {
-        final HashMap<String, String> query = new HashMap<>();
-        query.put("region", "US");
-        query.put("count", "25");
-        query.put("start", "0");
-        requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-movers", RequestMethod.GET, getHeaders(), query, new CompletionHandler() {
+    public void getMovers(APIVersion version, CompletionHandler handler) {
+        getMovers(version, 0, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
                 final JSONObject finance = json.getJSONObject("finance");
@@ -65,9 +66,16 @@ public enum YahooFinance implements StockService {
                 final HashSet<String> symbols = getQuoteSymbols(dayGainers);
                 symbols.addAll(getQuoteSymbols(dayLosers));
                 symbols.addAll(getQuoteSymbols(mostActive));
-                getQuotes(symbols, handler);
+                getQuotes(version, symbols, handler);
             }
         });
+    }
+    private void getMovers(APIVersion version, int offset, CompletionHandler handler) {
+        final HashMap<String, String> query = new HashMap<>();
+        query.put("region", "US");
+        query.put("count", "25");
+        query.put("start", Integer.toString(offset));
+        requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-movers", RequestMethod.GET, getHeaders(), query, handler);
     }
     private HashSet<String> getQuoteSymbols(JSONArray array) {
         final HashSet<String> symbols = new HashSet<>();
@@ -80,7 +88,7 @@ public enum YahooFinance implements StockService {
     }
 
     @Override
-    public void getQuotes(HashSet<String> symbols, CompletionHandler handler) { // 50 symbols limit per request
+    public void getQuotes(APIVersion version, HashSet<String> symbols, CompletionHandler handler) { // 50 symbols limit per request
         final long started = System.currentTimeMillis();
         final HashMap<String, String> headers = getHeaders();
         final HashMap<String, String> query = new HashMap<>();
@@ -141,15 +149,74 @@ public enum YahooFinance implements StockService {
                         builder.append("}");
                         final String string = builder.toString();
                         WLLogger.log(Level.INFO, "YahooFinance - loaded " + max + " quotes (took " + (System.currentTimeMillis()-started) + "ms)");
-                        handler.handle(string);
+                        handler.handleString(string);
                     }
                 }
             }
         });
     }
 
+    @Override
+    public void getChart(APIVersion version, String symbol, CompletionHandler handler) {
+        final FileType fileType = FileType.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS;
+        getJSONObject(fileType, symbol, new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+                requestChart(false, version, symbol, handler);
+            }
+
+            @Override
+            public void handleJSONObject(JSONObject json) {
+                final long elapsedTime = System.currentTimeMillis() - json.getLong("request_epoch");
+                if(elapsedTime >= 604_800) {
+                    requestChart(true, version, symbol, new CompletionHandler() {
+                        @Override
+                        public void handleJSONObject(JSONObject json) {
+                            setFileJSONObject(fileType, symbol, json);
+                            handler.handleString(json.toString());
+                        }
+                    });
+                } else {
+                    handler.handleString(json.toString());
+                }
+            }
+        });
+    }
+    private void requestChart(boolean refresh, APIVersion version, String symbol, CompletionHandler handler) {
+        final long started = System.currentTimeMillis();
+        final HashMap<String, String> headers = getHeaders();
+        final HashMap<String, String> query = new HashMap<>();
+        query.put("interval", "1d");
+        query.put("symbol", symbol);
+        query.put("range", "10y");
+        final String url = "https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v2/get-chart";
+        requestJSONObject(url, RequestMethod.GET, headers, query, new CompletionHandler() {
+            @Override
+            public void handleJSONObject(JSONObject json) {
+                final JSONObject chartJSON = json.getJSONObject("chart");
+                final JSONObject resultsJSON = chartJSON.getJSONArray("result").getJSONObject(0);
+                final JSONObject quotesJSON = resultsJSON.getJSONObject("indicators").getJSONArray("quote").getJSONObject(0);
+                final JSONArray closeArray = quotesJSON.getJSONArray("close");
+                final JSONArray timestampsArray = resultsJSON.getJSONArray("timestamp");
+                final int max = timestampsArray.length()-1;
+                final AtomicInteger completed = new AtomicInteger(0);
+                final JSONObject jsonObject = new JSONObject();
+                IntStream.range(0, max).parallel().forEach(index -> {
+                    final long timestamp = timestampsArray.getLong(index);
+                    final float price = (float) closeArray.getDouble(index);
+                    jsonObject.put("" + timestamp, price);
+                    if(completed.addAndGet(1) == max) {
+                        jsonObject.put("request_epoch", started);
+                        WLLogger.log(Level.INFO, "YahooFinance - " + (refresh ? "refreshed" : "loaded") + " chart for symbol \"" + symbol + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                        handler.handleJSONObject(jsonObject);
+                    }
+                });
+            }
+        });
+    }
+
     private void getStockProfile(String symbol, CompletionHandler handler) {
-        getJSONObject(FileType.SERVICES_FINANCE_YAHOO_FINANCE, symbol, new CompletionHandler() {
+        getJSONObject(FileType.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS, symbol, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final HashMap<String, String> query = new HashMap<>();

@@ -48,7 +48,7 @@ public enum WeatherAU implements WeatherController {
         if(doc != null) {
             final StringBuilder builder = new StringBuilder("[");
             final String string = builder.append("]").toString();
-            handler.handle(string);
+            handler.handleString(string);
         }
     }
 
