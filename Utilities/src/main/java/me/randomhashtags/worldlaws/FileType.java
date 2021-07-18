@@ -23,11 +23,13 @@ public enum FileType {
     LAWS_USA_MEMBERS("laws" + File.separator + "usa" + File.separator + "members"),
     LAWS_USA_CONGRESS("laws" + File.separator + "usa" + File.separator + "congress" + File.separator + "%version%"),
 
+    SERVICES_FINANCE_YAHOO_TWELVE_DATA_CHARTS("services" + File.separator + "finance" + File.separator + "twelveData" + File.separator + "charts"),
     SERVICES_FINANCE_YAHOO_FINANCE_CHARTS("services" + File.separator + "finance" + File.separator + "yahooFinance" + File.separator + "charts"),
 
     OTHER(null),
     LOGS("logs"),
 
+    UPCOMING_EVENTS("upcoming events" + File.separator + "%year%" + File.separator + "%day%"),
     UPCOMING_EVENTS_HOLIDAYS("upcoming events" + File.separator + "holidays" + File.separator + "%year%"),
     UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS("upcoming events" + File.separator + "holidays" + File.separator + "descriptions"),
     WEATHER_USA_ZONES("weather" + File.separator + "usa" + File.separator + "zones"),

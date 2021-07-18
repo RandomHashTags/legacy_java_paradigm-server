@@ -27,7 +27,6 @@ public enum AppleSoftwareUpdates implements RecentEventController, Jsoupable {
 
     @Override
     public void refresh(LocalDate startingDate, CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
         final String url = "https://support.apple.com/en-us/HT201222";
         final Document doc = getDocument(url);
         if(doc != null) {
@@ -57,7 +56,7 @@ public enum AppleSoftwareUpdates implements RecentEventController, Jsoupable {
                                 || name.startsWith("***REMOVED***")
                         ) {
                             final String id = name.toLowerCase().replace(" ", "");
-                            final PreRecentEvent preRecentEvent = new PreRecentEvent(id, name, null);
+                            final PreRecentEvent preRecentEvent = new PreRecentEvent(id, name, null, null);
                             updates.add(preRecentEvent.toString());
                         }
                     }
@@ -74,7 +73,6 @@ public enum AppleSoftwareUpdates implements RecentEventController, Jsoupable {
                         builder.append("}");
                         string = builder.toString();
                     }
-                    WLLogger.log(Level.INFO, "AppleSoftwareUpdates - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
                     handler.handleString(string);
                 }
             });

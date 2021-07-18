@@ -9,6 +9,7 @@ import me.randomhashtags.worldlaws.upcoming.entertainment.VideoGames;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.sports.UFC;
 import org.apache.logging.log4j.Level;
+import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.time.Month;
@@ -40,8 +41,8 @@ public final class UpcomingEvents implements WLServer {
     UpcomingEvents() {
         dates = new HashMap<>();
 
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -50,16 +51,12 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        /*
-        final HashSet<String> artists = new HashSet<>() {{
-            add("doja cat");
-        }};
-        MusicAlbums.INSTANCE.getSpotifyAlbum(artists, "Planet Her", new CompletionHandler() {
+        RecentEvents.INSTANCE.refresh(new CompletionHandler() {
             @Override
-            public void handleJSONObject(JSONObject json) {
-                WLLogger.log(Level.INFO, "UpcomingEvents;object=" + json.toString());
+            public void handleString(String string) {
+                WLLogger.log(Level.INFO, "UpcomingEvents;test;string=" + string);
             }
-        });*/
+        });
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {
@@ -85,9 +82,6 @@ public final class UpcomingEvents implements WLServer {
                 Holidays.INSTANCE.getResponse(value, handler);
                 break;
 
-            case "near_holidays":
-                Holidays.INSTANCE.getNearHolidays(handler);
-                break;
             case "weekly_events":
                 refreshEventsFromThisWeek(handler);
                 break;
@@ -112,7 +106,7 @@ public final class UpcomingEvents implements WLServer {
     @Override
     public String[] getHomeRequests() {
         return new String[] {
-                "near_holidays",
+                "holidays/near",
                 "weekly_events",
                 "recent_events",
                 "elections"
@@ -132,38 +126,54 @@ public final class UpcomingEvents implements WLServer {
     private void refreshEventsFromThisWeek(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final LocalDate now = LocalDate.now();
-        final HashSet<String> dates = new HashSet<>();
-        for(int i = 0; i < 7; i++) {
-            dates.add(getEventStringForDate(now.plusDays(i)));
-        }
-
-        final int max = dates.size();
-        final HashSet<String> eventValues = new HashSet<>();
-        final AtomicInteger completed = new AtomicInteger(0);
-        for(String eventDate : dates) {
-            getEventsFromStringDate(eventDate, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    if(!string.equals("{}")) {
-                        final String eventDateValue = "\"" + eventDate + "\":" + string;
-                        eventValues.add(eventDateValue);
-                    }
-                    if(completed.addAndGet(1) == max) {
-                        final StringBuilder builder = new StringBuilder("{");
-                        boolean isFirst = true;
-                        for(String eventValue : eventValues) {
-                            builder.append(isFirst ? "" : ",").append(eventValue);
-                            isFirst = false;
-                        }
-                        builder.append("}");
-                        WLLogger.log(Level.INFO, "UpcomingEventLoader - refreshed events from this week (took " + (System.currentTimeMillis()-started) + "ms)");
-                        if(handler != null) {
-                            handler.handleString(builder.toString());
-                        }
-                    }
+        final int targetYear = now.getYear();
+        final long epochDay = now.toEpochDay();
+        final FileType fileType = FileType.UPCOMING_EVENTS;
+        fileType.setCustomFolderName(fileType.getFolderName(false).replace("%year%", Integer.toString(targetYear)).replace("%day%", Long.toString(epochDay)));
+        getJSONObject(fileType, "weekly", new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+                final HashSet<String> dates = new HashSet<>();
+                for(int i = 0; i < 7; i++) {
+                    dates.add(getEventStringForDate(now.plusDays(i)));
                 }
-            });
-        }
+
+                final int max = dates.size();
+                final HashSet<String> eventValues = new HashSet<>();
+                final AtomicInteger completed = new AtomicInteger(0);
+                for(String eventDate : dates) {
+                    getEventsFromStringDate(eventDate, new CompletionHandler() {
+                        @Override
+                        public void handleString(String string) {
+                            if(!string.equals("{}")) {
+                                final String eventDateValue = "\"" + eventDate + "\":" + string;
+                                eventValues.add(eventDateValue);
+                            }
+                            if(completed.addAndGet(1) == max) {
+                                final StringBuilder builder = new StringBuilder("{");
+                                boolean isFirst = true;
+                                for(String eventValue : eventValues) {
+                                    builder.append(isFirst ? "" : ",").append(eventValue);
+                                    isFirst = false;
+                                }
+                                builder.append("}");
+
+                                if(handler != null) {
+                                    handler.handleString(builder.toString());
+                                }
+                            }
+                        }
+                    });
+                }
+            }
+
+            @Override
+            public void handleJSONObject(JSONObject json) {
+                fileType.resetCustomFolderName();
+                WLLogger.log(Level.INFO, "UpcomingEventLoader - refreshed events from this week (took " + (System.currentTimeMillis()-started) + "ms)");
+                handler.handleString(json.toString());
+            }
+        });
     }
     private String getEventStringForDate(LocalDate date) {
         return date.getMonthValue() + "-" + date.getYear() + "-" + date.getDayOfMonth();

@@ -22,7 +22,7 @@ public interface UpcomingEvent extends Jsoupable {
         final JSONArray youtubeVideoIDs = getYouTubeVideoIDs();
         return "{" +
                 "\"title\":\"" + LocalServer.fixEscapeValues(getTitle()) + "\"," +
-                "\"description\":\"" + description + "\"," +
+                (description != null ? "\"description\":\"" + description + "\"," : "") +
                 (youtubeVideoIDs != null ? "\"youtubeVideoIDs\":" + youtubeVideoIDs.toString() + "," : "") +
                 (location != null ? "\"location\":\"" + location + "\"," : "") +
                 (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"," : "") +

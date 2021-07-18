@@ -81,6 +81,7 @@ public final class Laws implements WLServer {
         final long started = System.currentTimeMillis();
         final int max = CONTROLLERS.length;
         final HashMap<String, String> values = new HashMap<>();
+        final HashMap<String, Long> controllerLoadTimes = new HashMap<>();
         final AtomicInteger completed = new AtomicInteger(0);
         Arrays.asList(CONTROLLERS).parallelStream().forEach(controller -> {
             controller.getRecentActivity(version, new CompletionHandler() {
@@ -89,7 +90,7 @@ public final class Laws implements WLServer {
                     if(string != null) {
                         values.put(controller.getCountry().getBackendID(), string);
                     }
-                    WLLogger.log(Level.INFO, "Laws - loaded " + controller.getClass().getSimpleName() + "'s recent activity (took " + (System.currentTimeMillis()-started) + "ms)");
+                    controllerLoadTimes.put(controller.getClass().getSimpleName(), System.currentTimeMillis()-started);
                     if(completed.addAndGet(1) == max) {
                         String value = null;
                         if(!values.isEmpty()) {
@@ -102,7 +103,15 @@ public final class Laws implements WLServer {
                             builder.append("}");
                             value = builder.toString();
                         }
-                        WLLogger.log(Level.INFO, "Laws - loaded recent activity (took " + (System.currentTimeMillis()-started) + "ms)");
+                        final StringBuilder loadTimesBuilder = new StringBuilder();
+                        boolean isFirst = true;
+                        for(Map.Entry<String, Long> map : controllerLoadTimes.entrySet()) {
+                            final String simpleName = map.getKey();
+                            final long loadTime = map.getValue();
+                            loadTimesBuilder.append(isFirst ? "" : ", ").append(simpleName).append(" took ").append(loadTime).append("ms");
+                            isFirst = false;
+                        }
+                        WLLogger.log(Level.INFO, "Laws - loaded recent activity (took " + (System.currentTimeMillis()-started) + "ms total, " + loadTimesBuilder.toString() + ")");
                         handler.handleString(value);
                     }
                 }

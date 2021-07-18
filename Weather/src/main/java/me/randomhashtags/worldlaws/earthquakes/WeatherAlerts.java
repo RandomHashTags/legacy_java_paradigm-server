@@ -140,6 +140,7 @@ public enum WeatherAlerts {
     private void refreshAllAlertEvents(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         countries.clear();
+        final HashMap<String, Long> controllerLoadTimes = new HashMap<>();
         final WeatherController[] countries = getCountries();
         final int max = countries.length;
         final AtomicInteger completed = new AtomicInteger(0);
@@ -147,9 +148,18 @@ public enum WeatherAlerts {
             getAlertEvents(weather, new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
+                    controllerLoadTimes.put(weather.getClass().getSimpleName(), System.currentTimeMillis()-started);
                     if(completed.addAndGet(1) == max) {
                         updateAllAlertsJSON();
-                        WLLogger.log(Level.INFO, "WeatherAlerts - refreshed All Alert Events (took " + (System.currentTimeMillis()-started) + "ms)");
+                        final StringBuilder loadTimes = new StringBuilder();
+                        boolean isFirst = true;
+                        for(Map.Entry<String, Long> map : controllerLoadTimes.entrySet()) {
+                            final String simpleName = map.getKey();
+                            final long time = map.getValue();
+                            loadTimes.append(isFirst ? "" : ",").append(simpleName).append(" took ").append(time).append("ms");
+                            isFirst = false;
+                        }
+                        WLLogger.log(Level.INFO, "WeatherAlerts - refreshed All Alert Events (took " + (System.currentTimeMillis()-started) + "ms total, " + loadTimes.toString() + ")");
                         if(handler != null) {
                             handler.handleString(allAlertsJSON);
                         }
@@ -159,7 +169,6 @@ public enum WeatherAlerts {
         });
     }
     private void updateAllAlertsJSON() {
-        final long started = System.currentTimeMillis();
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
         for(Map.Entry<String, String> map : countries.entrySet()) {
@@ -169,7 +178,6 @@ public enum WeatherAlerts {
         }
         builder.append("}");
         allAlertsJSON = builder.toString();
-        WLLogger.log(Level.INFO, "WeatherAlerts - updated allAlertsJSON (took " + (System.currentTimeMillis()-started) + "ms)");
     }
 
     private WeatherController getCountryWeather(String countryBackendID) {

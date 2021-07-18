@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.location.WLCountry;
-import org.apache.logging.log4j.Level;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
@@ -20,14 +19,13 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
 
     default void startAutoUpdates(CompletionHandler handler, CompletionHandler autoUpdateHandler) {
         final long interval = WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL;
-        final String className = getClass().getSimpleName();
         new Timer().scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
-                refresh(getTest(className, System.currentTimeMillis(), autoUpdateHandler));
+                refresh(autoUpdateHandler);
             }
         }, interval, interval);
-        refresh(getTest(className, System.currentTimeMillis(), handler));
+        refresh(handler);
     }
 
     default void getEvents(CompletionHandler handler) {
@@ -168,17 +166,5 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
             case "minor": return 4;
             default: return 5;
         }
-    }
-
-    private static CompletionHandler getTest(String className, long started, CompletionHandler handler) {
-        return new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                WLLogger.log(Level.INFO, className +  " - refreshed alerts for country (took " + (System.currentTimeMillis()-started) + "ms)");
-                if(handler != null) {
-                    handler.handleString(string);
-                }
-            }
-        };
     }
 }

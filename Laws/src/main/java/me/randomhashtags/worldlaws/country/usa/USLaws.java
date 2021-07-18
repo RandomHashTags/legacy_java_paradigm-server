@@ -93,7 +93,7 @@ public enum USLaws implements LawController {
                     FederalGovernment.INSTANCE.getIndexesJSON();
                     break;
                 default:
-                    final String response = getLawResponse(values, length);
+                    final String response = getLawResponse(key, values, length);
                     handler.handleString(response);
                     break;
             }
@@ -120,8 +120,8 @@ public enum USLaws implements LawController {
         }
     }
 
-    private String getLawResponse(String[] values, int length) {
-        final USStateEnum usstate = USStateEnum.valueOf(values[0].toUpperCase());
+    private String getLawResponse(String key, String[] values, int length) {
+        final USStateEnum usstate = USStateEnum.valueOf(key.toUpperCase());
         final State state = usstate.getState();
         switch (length) {
             case 1:

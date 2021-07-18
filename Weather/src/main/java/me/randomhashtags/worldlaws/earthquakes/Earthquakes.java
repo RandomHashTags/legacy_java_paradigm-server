@@ -109,7 +109,7 @@ public enum Earthquakes implements RestAPI {
                     final JSONArray array = json.getJSONArray("features");
                     final HashMap<String, String> americanTerritories = TerritoryAbbreviations.getAmericanTerritories();
                     final ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap = new ConcurrentHashMap<>();
-                    final ConcurrentHashMap<EventDate, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates = new ConcurrentHashMap<>();
+                    final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates = new ConcurrentHashMap<>();
                     final AtomicInteger completed = new AtomicInteger(0);
                     final int max = array.length();
 
@@ -129,17 +129,16 @@ public enum Earthquakes implements RestAPI {
             }
         });
     }
-    private String getEarthquakesJSON(LocalDate date, ConcurrentHashMap<EventDate, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates) {
+    private String getEarthquakesJSON(LocalDate date, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates) {
         String string = null;
         if(!preEarthquakeDates.isEmpty()) {
             final boolean doesntHaveDate = date == null;
             final StringBuilder builder = new StringBuilder("{");
             boolean isFirst = true;
             final AtomicInteger count = new AtomicInteger(0);
-            for(Map.Entry<EventDate, ConcurrentHashMap<String, HashSet<String>>> map : preEarthquakeDates.entrySet()) {
-                final EventDate eventDate = map.getKey();
-                if(doesntHaveDate || eventDate.getLocalDate().isAfter(date)) {
-                    final String dateString = eventDate.getDateString();
+            for(Map.Entry<String, ConcurrentHashMap<String, HashSet<String>>> map : preEarthquakeDates.entrySet()) {
+                final String dateString = map.getKey();
+                if(doesntHaveDate || EventDate.valueOfDateString(dateString).getLocalDate().isAfter(date)) {
                     builder.append(isFirst ? "" : ",").append("\"").append(dateString).append("\":{");
                     final ConcurrentHashMap<String, HashSet<String>> value = map.getValue();
                     boolean isFirstMagnitude = true;
@@ -172,7 +171,7 @@ public enum Earthquakes implements RestAPI {
         }
     }
 
-    private void loadEarthquake(LocalDate startingDate, JSONObject json, HashMap<String, String> americanTerritories, ConcurrentHashMap<EventDate, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates, ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap) {
+    private void loadEarthquake(LocalDate startingDate, JSONObject json, HashMap<String, String> americanTerritories, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates, ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap) {
         final JSONObject properties = json.getJSONObject("properties");
         final long time = properties.getLong("time");
         final EventDate date = new EventDate(time);
@@ -190,10 +189,11 @@ public enum Earthquakes implements RestAPI {
             String territory = getTerritory(place, americanTerritories);
             final boolean isAmericaKey = americanTerritories.containsKey(territory), isAmerica = isAmericaKey || americanTerritories.containsValue(territory);
 
+            final String dateString = date.getDateString();
             final PreEarthquake preEarthquake = new PreEarthquake(id, place, magnitude, location);
-            preEarthquakeDates.putIfAbsent(date, new ConcurrentHashMap<>());
-            preEarthquakeDates.get(date).putIfAbsent(magnitude, new HashSet<>());
-            preEarthquakeDates.get(date).get(magnitude).add(preEarthquake.toString());
+            preEarthquakeDates.putIfAbsent(dateString, new ConcurrentHashMap<>());
+            preEarthquakeDates.get(dateString).putIfAbsent(magnitude, new HashSet<>());
+            preEarthquakeDates.get(dateString).get(magnitude).add(preEarthquake.toString());
 
             territory = territory.toLowerCase().replace(" ", "");
             territoryEarthquakesMap.putIfAbsent(territory, new HashSet<>());

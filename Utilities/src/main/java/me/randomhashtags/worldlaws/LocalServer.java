@@ -16,8 +16,9 @@ public final class LocalServer implements UserServer, DataValues {
     private final int port;
     private CompletionHandler handler;
     private ServerSocket server;
-    private HashMap<String, Integer> requests;
-    private HashSet<String> uniqueIdentifiers;
+    private HashMap<String, Integer> totalRequests;
+    private HashMap<String, HashSet<String>> uniqueRequests;
+    private HashSet<String> totalUniqueIdentifiers;
 
     private LocalServer(TargetServer server) {
         this.serverName = server.getName();
@@ -30,8 +31,9 @@ public final class LocalServer implements UserServer, DataValues {
 
     @Override
     public void start() {
-        requests = new HashMap<>();
-        uniqueIdentifiers = new HashSet<>();
+        uniqueRequests = new HashMap<>();
+        totalRequests = new HashMap<>();
+        totalUniqueIdentifiers = new HashSet<>();
         setupHttpServer();
     }
 
@@ -54,15 +56,18 @@ public final class LocalServer implements UserServer, DataValues {
         }
     }
     public void madeRequest(String identifier, String target) {
-        requests.put(target, requests.getOrDefault(target, 0) + 1);
-        uniqueIdentifiers.add(identifier);
+        uniqueRequests.putIfAbsent(target, new HashSet<>());
+        final HashSet<String> set = uniqueRequests.get(target);
+        set.add(identifier);
+        totalRequests.put(target, totalRequests.getOrDefault(target, 0) + 1);
+        totalUniqueIdentifiers.add(identifier);
     }
     private void saveStatistics() {
         final long started = System.currentTimeMillis();
-        Statistics.INSTANCE.save(serverName, uniqueIdentifiers, requests);
+        Statistics.INSTANCE.save(serverName, totalUniqueIdentifiers, uniqueRequests, totalRequests, null);
         WLLogger.log(Level.INFO, serverName + " - Saved statistics (took " + (System.currentTimeMillis()-started) + "ms)");
-        requests.clear();
-        uniqueIdentifiers.clear();
+        totalRequests.clear();
+        totalUniqueIdentifiers.clear();
     }
 
     private void setupHttpServer() {

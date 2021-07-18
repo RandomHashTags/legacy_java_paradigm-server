@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.info.availability;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.jsoup.nodes.Element;
@@ -73,8 +73,8 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
     }
 
     @Override
-    public CountryInfo getInfo() {
-        return CountryInfo.valueOf("AVAILABILITY_" + name());
+    public SovereignStateInfo getInfo() {
+        return SovereignStateInfo.valueOf("AVAILABILITY_" + name());
     }
 
     @Override

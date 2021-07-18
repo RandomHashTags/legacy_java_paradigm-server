@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.location;
 
-public enum WLTimeZone { // TODO: finish | https://www.timeanddate.com/time/map/ | https://www.timeanddate.com/worldclock/tonga | https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+public enum WLTimeZone { // https://www.timeanddate.com/time/map/ | https://www.timeanddate.com/worldclock/tonga | https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
     ABBREVIATION_COORDINATED_UNIVERSAL_TIME("UTC"),
 

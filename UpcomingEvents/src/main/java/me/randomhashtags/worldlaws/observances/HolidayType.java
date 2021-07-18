@@ -64,7 +64,7 @@ public enum HolidayType implements Jsonable {
         final int max = types.length;
         Arrays.stream(types).parallel().forEach(type -> {
             final boolean isCountries = type == COUNTRIES;
-            type.getHolidaysJSON(year, new CompletionHandler() {
+            type.getHolidaysJSONObject(year, new CompletionHandler() {
                 @Override
                 public void handleJSONObject(JSONObject json) {
                     final JSONObject descriptionsJSON = json.getJSONObject("descriptions");
@@ -78,8 +78,7 @@ public enum HolidayType implements Jsonable {
                             insertNearbyHolidays(descriptionsJSON, null, holidayDay, json, descriptions, nearbyHolidays);
                         }
                     }
-                    final int value = completed.addAndGet(1);
-                    if(value == max) {
+                    if(completed.addAndGet(1) == max) {
                         handler.handleString(null);
                     }
                 }
@@ -127,7 +126,7 @@ public enum HolidayType implements Jsonable {
             default: return null;
         }
     }
-    private String getCelebratingCountry() {
+    public String getCelebratingCountry() {
         switch (this) {
             case AMERICAN: return WLCountry.UNITED_STATES.getBackendID();
             case AUSTRALIAN: return WLCountry.AUSTRALIA.getBackendID();
@@ -136,7 +135,7 @@ public enum HolidayType implements Jsonable {
         }
     }
 
-    private void getHolidaysJSON(int year, CompletionHandler handler) {
+    public void getHolidaysJSONObject(int year, CompletionHandler handler) {
         if(cache != null) {
             handler.handleJSONObject(cache);
         } else {
@@ -258,8 +257,7 @@ public enum HolidayType implements Jsonable {
                             builder.append(",").append(countryHoliday);
                         }
                         builder.append("}");
-                        final String value = builder.toString();
-                        handler.handleString(value);
+                        handler.handleString(builder.toString());
                     }
                 }
             });
@@ -312,8 +310,7 @@ public enum HolidayType implements Jsonable {
                 isFirst = false;
             }
             builder.append("}");
-            final String string = builder.toString();
-            handler.handleString(string);
+            handler.handleString(builder.toString());
         }
     }
 }

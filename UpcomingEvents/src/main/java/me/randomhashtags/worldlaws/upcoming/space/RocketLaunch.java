@@ -32,7 +32,7 @@ public final class RocketLaunch implements UpcomingEvent {
 
     @Override
     public String getDescription() {
-        return mission != null ? mission.getDescription() : "Mission information about this launch is currently unknown";
+        return null;
     }
 
     @Override
@@ -53,13 +53,13 @@ public final class RocketLaunch implements UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
+                (mission != null ? "\"mission\":" + mission.toString() : "") +
                 "\"windowStart\":\"" + windowStart + "\"," +
                 "\"windowEnd\":\"" + windowEnd + "\"," +
                 "\"exactDay\":" + exactDay + "," +
                 "\"exactTime\":" + exactTime + "," +
                 "\"status\":\"" + status + "\"," +
                 "\"probability\":" + probability + "," +
-                "\"mission\":" + (mission != null ? mission.toString() : "null") +
                 "}";
     }
 }

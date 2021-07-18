@@ -53,10 +53,7 @@ public interface Jsoupable {
     }
 
     default String removeReferences(String string) {
-        if(string != null && !string.isEmpty()) {
-            string = string.replaceAll("\\[.*?]", "");
-        }
-        return string;
+        return string != null && !string.isEmpty() ? string.replaceAll("\\[.*?]", "") : string;
     }
 
     default Document getDocument(String url) {

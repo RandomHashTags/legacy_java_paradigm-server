@@ -3,8 +3,8 @@ package me.randomhashtags.worldlaws.info.service;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.location.CountryInformationType;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.location.SovereignStateService;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
@@ -16,15 +16,18 @@ import java.util.HashSet;
 import java.util.concurrent.ConcurrentHashMap;
 
 public interface CountryService extends SovereignStateService {
-    ConcurrentHashMap<CountryInfo, JSONObject> COUNTRY_SERVICE_JSON_VALUES = new ConcurrentHashMap<>();
+    ConcurrentHashMap<SovereignStateInfo, JSONObject> COUNTRY_SERVICE_JSON_VALUES = new ConcurrentHashMap<>();
     default FileType getFileType() {
         return FileType.COUNTRIES_SERVICES;
     }
-    CountryInformationType getInformationType();
-    CountryInfo getInfo();
+    SovereignStateInformationType getInformationType();
+    SovereignStateInfo getInfo();
 
+    default void getResources(String countryBackendID, CompletionHandler handler) {
+        handler.handleCountryResources(null);
+    }
     default void getCountryValue(String countryBackendID, CompletionHandler handler) {
-        final CountryInfo info = getInfo();
+        final SovereignStateInfo info = getInfo();
         if(COUNTRY_SERVICE_JSON_VALUES.containsKey(info)) {
             final JSONObject json = COUNTRY_SERVICE_JSON_VALUES.get(info);
             handler.handleString(json.has(countryBackendID) ? json.getJSONObject(countryBackendID).toString() : null);

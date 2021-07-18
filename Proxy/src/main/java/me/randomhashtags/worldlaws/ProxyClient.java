@@ -45,11 +45,11 @@ public final class ProxyClient extends Thread implements RestAPI {
             final TargetServer targetServer = TargetServer.valueOfBackendID(finalTarget.split("/")[1]);
             targetServer.sendResponse(version, identifier, RequestMethod.GET, finalTarget, query, new CompletionHandler() {
                 @Override
-                public void handleObject(Object object) {
-                    final boolean connected = object != null;
+                public void handleString(String string) {
+                    final boolean connected = string != null;
                     WLLogger.log(Level.INFO, prefix + (connected ? "Connected" : "Unable to connect") + " to \"" + target + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                     if(connected) {
-                        final String response = DataValues.HTTP_SUCCESS_200 + object;
+                        final String response = DataValues.HTTP_SUCCESS_200 + string;
                         writeOutput(client, response);
                     }
                 }

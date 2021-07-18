@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.info;
 
 import me.randomhashtags.worldlaws.WLUtilities;
-import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -37,8 +37,8 @@ public enum CountryInfoKeys implements CountryInfoService {
     }
 
     @Override
-    public CountryInfo getInfo() {
-        return CountryInfo.valueOf("INFO_" + name());
+    public SovereignStateInfo getInfo() {
+        return SovereignStateInfo.valueOf("INFO_" + name());
     }
 
     @Override

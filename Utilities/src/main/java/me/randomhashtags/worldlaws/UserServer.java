@@ -18,7 +18,8 @@ public interface UserServer {
         INPUT_SCANNERS.remove(this);
     }
     private String getUserInput() {
-        return INPUT_SCANNERS.get(this).next();
+        final Scanner scanner = INPUT_SCANNERS.get(this);
+        return scanner.hasNext() ? scanner.next() : null;
     }
     private void executeUserInput(String input) {
         if(input == null) {

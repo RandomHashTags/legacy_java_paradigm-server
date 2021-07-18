@@ -3,6 +3,8 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.recent.software.AppleSoftwareUpdates;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
+import me.randomhashtags.worldlaws.recent.software.PlayStation4Updates;
+import me.randomhashtags.worldlaws.recent.software.PlayStation5Updates;
 import org.apache.logging.log4j.Level;
 
 import java.time.LocalDate;
@@ -16,19 +18,23 @@ public enum RecentEvents {
     INSTANCE;
 
     private final RecentEventController[] events = new RecentEventController[] {
-            AppleSoftwareUpdates.INSTANCE
+            AppleSoftwareUpdates.INSTANCE,
+            PlayStation4Updates.INSTANCE,
+            PlayStation5Updates.INSTANCE
     };
 
     public void refresh(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
-        final LocalDate now = LocalDate.now();
+        final LocalDate lastWeek = LocalDate.now().minusDays(7);
         final int max = events.length;
         final HashMap<RecentEventType, HashSet<String>> values = new HashMap<>();
         final AtomicInteger completion = new AtomicInteger(0);
         Arrays.stream(events).parallel().forEach(event -> {
-            event.refresh(now, new CompletionHandler() {
+            final long eventStarted = System.currentTimeMillis();
+            event.refresh(lastWeek, new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
+                    WLLogger.log(Level.INFO, "RecentEvents - loaded " + event.getClass().getSimpleName() + " (took " + (System.currentTimeMillis()-eventStarted) + "ms)");
                     if(string != null) {
                         final RecentEventType type = event.getType();
                         values.putIfAbsent(type, new HashSet<>());

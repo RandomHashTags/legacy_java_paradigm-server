@@ -1,14 +1,14 @@
 package me.randomhashtags.worldlaws.info.agriculture.todo;
 
 import me.randomhashtags.worldlaws.info.agriculture.CountryProductionService;
-import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 
 public enum ProductionFoodArtichoke implements CountryProductionService {
     INSTANCE;
 
     @Override
-    public CountryInfo getInfo() {
-        return CountryInfo.AGRICULTURE_FOOD_ARTICHOKE_PRODUCTION;
+    public SovereignStateInfo getInfo() {
+        return SovereignStateInfo.AGRICULTURE_FOOD_ARTICHOKE_PRODUCTION;
     }
 
     @Override

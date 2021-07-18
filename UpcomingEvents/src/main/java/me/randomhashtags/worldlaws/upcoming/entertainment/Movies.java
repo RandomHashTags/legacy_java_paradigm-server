@@ -15,6 +15,7 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -215,31 +216,75 @@ public enum Movies implements UpcomingEventController, IMDbService {
             final String imageSourceURL = !targetImage.isEmpty() ? targetImage.get(0).attr("src") : null;
             final String imageURL = imageSourceURL != null ? "https:" + imageSourceURL : null;
 
-            final String premiseFinal = premise, releaseInfoFinal = releaseInfo;
-            getIMDbMovieDetails(title, WLUtilities.getTodayYear(), new CompletionHandler() {
+            final String premiseFinal = premise, releaseInfoFinal = releaseInfo, urlLowercased = url.toLowerCase();
+            final int year = url.contains("_(") && urlLowercased.endsWith("_film)") ? Integer.parseInt(urlLowercased.split("_film\\)")[0].split("_\\(")[1]) : WLUtilities.getTodayYear();
+            getMovieDetails(title, year, new CompletionHandler() {
                 @Override
-                public void handleJSONObject(JSONObject imdbJSON) {
-                    getRatings(title, new CompletionHandler() {
-                        @Override
-                        public void handleString(String ratingsString) {
-                            getVideosJSONArray(YouTubeVideoType.MOVIE, title, new CompletionHandler() {
-                                @Override
-                                public void handleJSONArray(JSONArray array) {
-                                    final MovieEvent movie = new MovieEvent(title, premiseFinal, imageURL, productionCompany, releaseInfoFinal, imdbJSON, ratingsString, array, sources);
-                                    final String string = movie.toJSON();
-                                    upcomingEvents.put(id, string);
-                                    final String preUpcomingEventString = preUpcomingEvent.toStringWithImageURL(imageURL);
-                                    loadedPreUpcomingEvents.put(id, preUpcomingEventString);
-                                    handler.handleString(string);
-                                }
-                            });
-                        }
-                    });
+                public void handleObject(Object object) {
+                    @SuppressWarnings({ "unchecked" })
+                    final HashMap<String, Object> values = (HashMap<String, Object>) object;
+                    final JSONObject imdbJSON = (JSONObject) values.get("imdbInfo");
+                    final JSONArray youtubeVideoIDs = (JSONArray) values.get("youtubeVideoIDs");
+                    final String ratingsString = (String) values.get("ratings");
+                    final MovieEvent movie = new MovieEvent(title, premiseFinal, imageURL, productionCompany, releaseInfoFinal, imdbJSON, ratingsString, youtubeVideoIDs, sources);
+                    final String string = movie.toJSON();
+                    upcomingEvents.put(id, string);
+                    final String preUpcomingEventString = preUpcomingEvent.toStringWithImageURL(imageURL);
+                    loadedPreUpcomingEvents.put(id, preUpcomingEventString);
+                    handler.handleString(string);
                 }
             });
         } else {
             handler.handleString(null);
         }
+    }
+
+    private void getMovieDetails(String title, int year, CompletionHandler handler) {
+        final HashSet<String> set = new HashSet<>() {{
+            add("imdbInfo");
+            add("ratings");
+            add("youtubeVideoIDs");
+        }};
+        final int max = set.size();
+        final HashMap<String, Object> values = new HashMap<>();
+        final AtomicInteger completed = new AtomicInteger();
+        set.parallelStream().forEach(request -> {
+            final CompletionHandler completionHandler = new CompletionHandler() {
+                @Override
+                public void handleJSONObject(JSONObject json) {
+                    handleObject(json);
+                }
+                @Override
+                public void handleJSONArray(JSONArray array) {
+                    handleObject(array);
+                }
+                @Override
+                public void handleString(String string) {
+                    handleObject(string);
+                }
+
+                @Override
+                public void handleObject(Object object) {
+                    values.put(request, object);
+                    if(completed.addAndGet(1) == max) {
+                        handler.handleObject(values);
+                    }
+                }
+            };
+            switch (request) {
+                case "imdbInfo":
+                    getIMDbMovieDetails(title, year, completionHandler);
+                    break;
+                case "ratings":
+                    getRatings(title, completionHandler);
+                    break;
+                case "youtubeVideoIDs":
+                    getVideosJSONArray(YouTubeVideoType.MOVIE, title, completionHandler);
+                    break;
+                default:
+                    break;
+            }
+        });
     }
 
     private void getRatings(String movieTitle, CompletionHandler handler) {

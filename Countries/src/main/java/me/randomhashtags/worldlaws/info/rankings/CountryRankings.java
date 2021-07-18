@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.info.rankings;
 
 import me.randomhashtags.worldlaws.NumberType;
-import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -270,8 +270,8 @@ public enum CountryRankings implements CountryRankingService {
     }
 
     @Override
-    public CountryInfo getInfo() {
-        return CountryInfo.valueOf("RANKING_" + name());
+    public SovereignStateInfo getInfo() {
+        return SovereignStateInfo.valueOf("RANKING_" + name());
     }
 
     @Override

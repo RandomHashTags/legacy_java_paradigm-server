@@ -4,8 +4,8 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.location.CountryInformationType;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -20,13 +20,13 @@ public enum TravelBriefing implements CountryService {
     private HashMap<String, String> countries;
 
     @Override
-    public CountryInfo getInfo() {
-        return CountryInfo.SERVICE_TRAVEL_BRIEFING;
+    public SovereignStateInfo getInfo() {
+        return SovereignStateInfo.SERVICE_TRAVEL_BRIEFING;
     }
 
     @Override
-    public CountryInformationType getInformationType() {
-        return CountryInformationType.SERVICES;
+    public SovereignStateInformationType getInformationType() {
+        return SovereignStateInformationType.SERVICES;
     }
 
     @Override

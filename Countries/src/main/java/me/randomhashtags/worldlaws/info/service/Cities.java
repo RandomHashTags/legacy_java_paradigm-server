@@ -3,8 +3,8 @@ package me.randomhashtags.worldlaws.info.service;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.location.CountryInformationType;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
 import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -19,13 +19,13 @@ public enum Cities implements CountryService {
     private HashMap<String, HashMap<String, String>> cities;
 
     @Override
-    public CountryInfo getInfo() {
-        return CountryInfo.CITIES;
+    public SovereignStateInfo getInfo() {
+        return SovereignStateInfo.CITIES;
     }
 
     @Override
-    public CountryInformationType getInformationType() {
-        return CountryInformationType.LISTS;
+    public SovereignStateInformationType getInformationType() {
+        return SovereignStateInformationType.LISTS;
     }
 
     @Override

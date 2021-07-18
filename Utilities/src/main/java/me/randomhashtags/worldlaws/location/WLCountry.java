@@ -572,4 +572,13 @@ public enum WLCountry {
     public WLTimeZone[] getTimeZones() {
         return WLTimeZone.getFromCountry(this);
     }
+    public String getFlagEmoji() {
+        return WLFlagEmoji.INSTANCE.get(this);
+    }
+    public SovereignStateSubdivision[] getSubdivisions() {
+        return WLSubdivisions.INSTANCE.get(this);
+    }
+    public WLConstitution getConstitution() {
+        return WLConstitution.get(this);
+    }
 }

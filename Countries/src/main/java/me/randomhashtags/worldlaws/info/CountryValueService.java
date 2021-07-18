@@ -5,7 +5,7 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.info.service.CountryService;
-import me.randomhashtags.worldlaws.location.CountryInformationType;
+import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.select.Elements;
@@ -19,8 +19,8 @@ public interface CountryValueService extends CountryService {
         return FileType.COUNTRIES_VALUES;
     }
     @Override
-    default CountryInformationType getInformationType() {
-        return CountryInformationType.SINGLE_VALUES;
+    default SovereignStateInformationType getInformationType() {
+        return SovereignStateInformationType.SINGLE_VALUES;
     }
 
     default Elements getValueDocumentElements(String url, String targetElements) {

@@ -140,16 +140,20 @@ public interface RestAPI {
                 WLLogger.log(Level.WARN, builder.toString());
             }
             handler.handleString(responseString);
-            final HashSet<CompletionHandler> sameRequests = PENDING_SAME_REQUESTS.get(targetURL);
-            for(CompletionHandler pendingHandler : sameRequests) {
-                pendingHandler.handleString(responseString);
+            if(PENDING_SAME_REQUESTS.containsKey(targetURL)) {
+                final HashSet<CompletionHandler> sameRequests = PENDING_SAME_REQUESTS.get(targetURL);
+                for(CompletionHandler pendingHandler : sameRequests) {
+                    pendingHandler.handleString(responseString);
+                }
+                PENDING_SAME_REQUESTS.remove(targetURL);
             }
-            PENDING_SAME_REQUESTS.remove(targetURL);
 
         } catch (Exception e) {
-            final StackTraceElement[] stackTrace = e.getStackTrace();
-            WLLogger.log(Level.ERROR, "[REST API] - \"(" + stackTrace[0].getClassName() + ") " + e.getMessage() + " with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
-            e.printStackTrace();
+            if(!isLocal) {
+                final StackTraceElement[] stackTrace = e.getStackTrace();
+                WLLogger.log(Level.ERROR, "[REST API] - \"(" + stackTrace[0].getClassName() + ") " + e.getMessage() + " with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
+                e.printStackTrace();
+            }
             handler.handleString(null);
         } finally {
             if(connection != null) {

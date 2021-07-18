@@ -66,13 +66,7 @@ public enum USCongress implements Jsoupable, Jsonable {
             getJSONObject(fileType, "bill status: " + statusName.toLowerCase(), new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
-                    getBillsBySearch(status, new CompletionHandler() {
-                        @Override
-                        public void handleString(String string) {
-                            WLLogger.log(Level.INFO, "USCongress - created" + suffix.replace("%time%", Long.toString(System.currentTimeMillis()-started)));
-                            handler.handleString(string);
-                        }
-                    });
+                    getBillsBySearch(status, handler);
                 }
 
                 @Override
@@ -433,10 +427,12 @@ public enum USCongress implements Jsoupable, Jsonable {
         return builder.toString();
     }
     private USChamber getChamber(String input) {
-        try {
-            return USChamber.valueOf(input.toUpperCase());
-        } catch (Exception ignored) {
-            return null;
+        input = input.toUpperCase();
+        for(USChamber chamber : USChamber.values()) {
+            if(input.equals(chamber.getName())) {
+                return chamber;
+            }
         }
+        return null;
     }
 }

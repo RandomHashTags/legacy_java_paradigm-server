@@ -2,9 +2,10 @@ package me.randomhashtags.worldlaws.info.list;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureAvailability;
+import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureType;
 import me.randomhashtags.worldlaws.info.service.CountryServiceValue;
-import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.location.CountryInformationType;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.location.Location;
 import me.randomhashtags.worldlaws.location.TerritoryAbbreviations;
 import org.json.JSONObject;
@@ -20,13 +21,13 @@ public enum Flyover implements AppleFeatureAvailability {
     INSTANCE;
 
     @Override
-    public CountryInfo getInfo() {
-        return CountryInfo.SERVICE_APPLE_MAPS_FLYOVER;
+    public SovereignStateInfo getInfo() {
+        return SovereignStateInfo.SERVICE_APPLE_IOS_MAPS_FLYOVER;
     }
 
     @Override
-    public CountryInformationType getInformationType() {
-        return CountryInformationType.SERVICES;
+    public SovereignStateInformationType getInformationType() {
+        return SovereignStateInformationType.SERVICES;
     }
 
     @Override
@@ -35,7 +36,7 @@ public enum Flyover implements AppleFeatureAvailability {
         getJSONObject(getFileType(), fileName, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
-                final Elements elements = getSectionElements("maps-flyover");
+                final Elements elements = getSectionElements(AppleFeatureType.IOS, "maps-flyover");
                 final HashMap<String, String> americanTerritories = TerritoryAbbreviations.getAmericanTerritories();
                 final HashMap<String, HashMap<String, List<FlyoverObj>>> flyoversMap = new HashMap<>();
                 for(Element element : elements) {
@@ -99,7 +100,7 @@ public enum Flyover implements AppleFeatureAvailability {
     private FlyoverObj valueOf(String countryBackendID, String territory, String city) {
         final String targetCountry = countryBackendID.toLowerCase().replace(" ", "");
         final Location location = getCoordinates(targetCountry, territory != null ? territory.toLowerCase() : null, city.toLowerCase());
-        return location != null ? new FlyoverObj(countryBackendID, territory, city, location) : null;
+        return location != null ? new FlyoverObj(city, location) : null;
     }
     private Location getCoordinates(String countryBackendID, String territory, String city) {
         // https://www.findlatitudeandlongitude.com
@@ -393,31 +394,31 @@ public enum Flyover implements AppleFeatureAvailability {
     }
     private Location getSpainLocation(String city) {
         switch (city) {
-            case "a coruna": return null;
-            case "alicante": return null;
-            case "almeria": return null;
-            case "badajoz": return null;
-            case "barcelona": return null;
-            case "caceres": return null;
-            case "cadiz": return null;
-            case "cordoba": return null;
-            case "gijon": return null;
-            case "granada": return null;
-            case "huelva": return null;
-            case "infantes": return null;
-            case "jerez de la frontera": return null;
-            case "leon": return null;
-            case "lugo": return null;
-            case "madrid": return null;
-            case "murcia": return null;
-            case "pamplona": return null;
-            case "salamanca": return null;
-            case "san sebastian": return null;
-            case "seville": return null;
-            case "valencia": return null;
-            case "valladolid": return null;
-            case "vigo": return null;
-            case "zaragoza": return null;
+            case "a coruna": return new Location(43.370873, -8.395835);
+            case "alicante": return new Location(38.345996, -0.490686);
+            case "almeria": return new Location(36.867, -2.322162);
+            case "badajoz": return new Location(38.880139, -6.970166);
+            case "barcelona": return new Location(41.385064, 2.173404);
+            case "caceres": return new Location(39.475277, -6.372425);
+            case "cadiz": return new Location(36.527061, -6.288596);
+            case "cordoba": return new Location(37.884727, -4.779152);
+            case "gijon": return new Location(43.545261, -5.661926);
+            case "granada": return new Location(37.176487, -3.597929);
+            case "huelva": return new Location(37.257101, -6.949555);
+            case "infantes": return new Location(38.111616, -6.511989);
+            case "jerez de la frontera": return new Location(36.686562, -6.137173);
+            case "leon": return new Location(42.598726, -5.567096);
+            case "lugo": return new Location(43.012087, -7.555851);
+            case "madrid": return new Location(40.416691, -3.700345);
+            case "murcia": return new Location(37.983445, -1.12989);
+            case "pamplona": return new Location(42.817991, -1.644215);
+            case "salamanca": return new Location(40.964972, -5.663047);
+            case "san sebastian": return new Location(43.320737, -1.984421);
+            case "seville": return new Location(37.38264, -5.996295);
+            case "valencia": return new Location(39.470239, -0.376805);
+            case "valladolid": return new Location(41.652947, -4.728388);
+            case "vigo": return new Location(42.231356, -8.712447);
+            case "zaragoza": return new Location(41.656287, -0.876538);
             default: return null;
         }
     }

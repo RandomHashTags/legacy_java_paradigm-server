@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.info.service;
 
-import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 
 import java.util.HashSet;
 
@@ -9,7 +9,7 @@ public abstract class CountryServices {
 
     public static CountryService valueOfCountryInfo(String countryInfo) {
         for(CountryService service : SERVICES) {
-            final CountryInfo info = service.getInfo();
+            final SovereignStateInfo info = service.getInfo();
             if(info != null && info.name().equalsIgnoreCase(countryInfo)) {
                 return service;
             }

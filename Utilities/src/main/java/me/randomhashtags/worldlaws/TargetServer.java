@@ -20,6 +20,7 @@ public enum TargetServer implements RestAPI, DataValues {
 
     WHATS_NEW,
     HOME,
+    PING,
     STATUS,
     ;
 
@@ -62,6 +63,9 @@ public enum TargetServer implements RestAPI, DataValues {
         switch (this) {
             case WHATS_NEW:
                 handler.handleString(WHATS_NEW_RESPONSE);
+                break;
+            case PING:
+                handler.handleString("1");
                 break;
             case STATUS:
                 handler.handleString("0");
@@ -142,36 +146,57 @@ public enum TargetServer implements RestAPI, DataValues {
             UPCOMING_EVENTS,
             WEATHER
         };
-        final int max = servers.length;
-        final HashMap<String, Object> values = new HashMap<>();
+        final HashMap<String, String> requests = new HashMap<>();
+        requests.put("trending", null);
+        for(TargetServer server : servers) {
+            requests.put(server.name().toLowerCase(), server.ipAddress + "/" + versionName + "/home");
+        }
+
+        final int max = requests.size();
+        final HashMap<String, String> values = new HashMap<>();
         final AtomicInteger completed = new AtomicInteger(0);
-        Arrays.asList(servers).parallelStream().forEach(server -> {
-            final String targetURL = server.ipAddress + "/" + versionName + "/home";
-            final String serverName = server.name().toLowerCase();
-            request(targetURL, method, headers, null, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    if(string != null) {
-                        values.put(serverName, string);
+        final CompletionHandler completionHandler = new CompletionHandler() {
+            @Override
+            public void handleStringValue(String key, String value) {
+                if(value != null) {
+                    values.put(key, value);
+                }
+                if(completed.addAndGet(1) == max) {
+                    final StringBuilder builder = new StringBuilder("{");
+                    builder.append("\"request_epoch\":").append(started);
+                    for(Map.Entry<String, String> map : values.entrySet()) {
+                        final String serverName = map.getKey();
+                        final String keyValue = map.getValue();
+                        builder.append(",").append("\"").append(serverName).append("\":").append(keyValue);
                     }
-                    if(completed.addAndGet(1) == max) {
-                        final StringBuilder builder = new StringBuilder("{");
-                        builder.append("\"request_epoch\":").append(System.currentTimeMillis());
-                        for(Map.Entry<String, Object> map : values.entrySet()) {
-                            final String serverName = map.getKey();
-                            final String keyValue = map.getValue().toString();
-                            builder.append(",").append("\"").append(serverName).append("\":").append(keyValue);
-                        }
-                        builder.append("}");
-                        final String value = builder.toString();
-                        HOME_JSON.put(version, new JSONObject(value));
-                        WLLogger.log(Level.INFO, "TargetServer - " + (isUpdate ? "auto-" : "") + "updated " + versionName + " home responses (took " + (System.currentTimeMillis()-started) + "ms)");
-                        if(handler != null) {
-                            handler.handleString(value);
-                        }
+                    builder.append("}");
+                    final String string = builder.toString();
+                    final JSONObject json = new JSONObject(string);
+                    HOME_JSON.put(version, json);
+                    WLLogger.log(Level.INFO, "TargetServer - " + (isUpdate ? "auto-" : "") + "updated " + versionName + " home responses (took " + (System.currentTimeMillis()-started) + "ms)");
+                    if(handler != null) {
+                        handler.handleString(string);
                     }
                 }
-            });
+            }
+        };
+        requests.entrySet().parallelStream().forEach(entry -> {
+            final String key = entry.getKey();
+            if(key.equals("trending")) {
+                Statistics.INSTANCE.getTrendingJSON(new CompletionHandler() {
+                    @Override
+                    public void handleJSONObject(JSONObject json) {
+                        completionHandler.handleStringValue("trending", json.isEmpty() ? null : json.toString());
+                    }
+                });
+            } else {
+                request(entry.getValue(), method, headers, null, new CompletionHandler() {
+                    @Override
+                    public void handleString(String string) {
+                        completionHandler.handleStringValue(key, string);
+                    }
+                });
+            }
         });
     }
 

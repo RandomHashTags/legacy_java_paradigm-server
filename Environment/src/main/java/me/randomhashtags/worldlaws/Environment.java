@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.globalwarming.GlobalWarming;
+
 public final class Environment implements WLServer {
 
     public static void main(String[] args) {
@@ -21,6 +23,15 @@ public final class Environment implements WLServer {
 
     @Override
     public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
+        final String[] values = target.split("/");
+        final String key = values[0];
+        switch (key) {
+            case "globalwarming":
+                GlobalWarming.INSTANCE.getResponse(version, target.substring(key.length()+1), handler);
+                break;
+            default:
+                break;
+        }
     }
 
     @Override

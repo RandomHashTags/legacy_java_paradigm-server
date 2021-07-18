@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.info;
 
 import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.info.service.CountryService;
-import me.randomhashtags.worldlaws.location.CountryInformationType;
+import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
 import org.jsoup.select.Elements;
 
 public interface CountryNationalService extends CountryService {
@@ -13,8 +13,8 @@ public interface CountryNationalService extends CountryService {
     }
 
     @Override
-    default CountryInformationType getInformationType() {
-        return CountryInformationType.NATIONAL;
+    default SovereignStateInformationType getInformationType() {
+        return SovereignStateInformationType.NATIONAL;
     }
 
     default Elements getNationalDocumentElements(String url, String targetElements) {

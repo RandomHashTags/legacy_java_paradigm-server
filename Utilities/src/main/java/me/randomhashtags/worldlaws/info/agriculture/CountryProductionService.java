@@ -5,8 +5,8 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.info.service.CountryService;
-import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.location.CountryInformationType;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
@@ -19,8 +19,8 @@ public interface CountryProductionService extends CountryService {
     }
 
     @Override
-    default CountryInformationType getInformationType() {
-        return CountryInformationType.AGRICULTURE;
+    default SovereignStateInformationType getInformationType() {
+        return SovereignStateInformationType.AGRICULTURE;
     }
 
     String getURL();
@@ -31,7 +31,7 @@ public interface CountryProductionService extends CountryService {
         getJSONObject(this, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
-                final CountryInfo info = getInfo();
+                final SovereignStateInfo info = getInfo();
                 final String url = getURL();
                 final Elements tables = getDocumentElements(FileType.COUNTRIES_RANKINGS_AGRICULTURE, url, "div.mw-parser-output table.wikitable");
                 switch (info) {

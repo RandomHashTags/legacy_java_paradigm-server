@@ -3,15 +3,15 @@ package me.randomhashtags.worldlaws.info.availability;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.info.service.CountryService;
-import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.location.CountryInformationType;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
 import org.json.JSONArray;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
 
 public interface CountryAvailabilityService extends CountryService {
-    HashMap<CountryInfo, JSONArray> AVAILABILITY_VALUES = new HashMap<>();
+    HashMap<SovereignStateInfo, JSONArray> AVAILABILITY_VALUES = new HashMap<>();
 
     @Override
     default FileType getFileType() {
@@ -19,8 +19,8 @@ public interface CountryAvailabilityService extends CountryService {
     }
 
     @Override
-    default CountryInformationType getInformationType() {
-        return CountryInformationType.AVAILABILITIES;
+    default SovereignStateInformationType getInformationType() {
+        return SovereignStateInformationType.AVAILABILITIES;
     }
 
     default Elements getAvailabilityDocumentElements(String url, String targetElements) {
@@ -53,7 +53,7 @@ public interface CountryAvailabilityService extends CountryService {
 
     @Override
     default void getCountryValue(String countryBackendID, CompletionHandler handler) {
-        final CountryInfo info = getInfo();
+        final SovereignStateInfo info = getInfo();
         if(AVAILABILITY_VALUES.containsKey(info)) {
             final boolean isTrue = isTrue(countryBackendID, AVAILABILITY_VALUES.get(info));
             final String value = getAvailability(isTrue).toString();

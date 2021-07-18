@@ -3,12 +3,10 @@ package me.randomhashtags.worldlaws.observances;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.location.WLCountry;
 import org.apache.logging.log4j.Level;
+import org.json.JSONObject;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public enum Holidays implements Jsoupable, Jsonable {
     INSTANCE;
@@ -25,6 +23,16 @@ public enum Holidays implements Jsoupable, Jsonable {
         final int valueCount = values.length;
         final String key = values[0];
         switch (key) {
+            case "all":
+                if(valueCount == 1) {
+                    getAllHolidays(WLUtilities.getTodayYear(), handler);
+                } else {
+                    final String countryBackendID = values[1];
+                    final WLCountry country = WLCountry.valueOfBackendID(countryBackendID);
+                    if(country != null) {
+                    }
+                }
+                break;
             case "near":
                 if(valueCount == 1) {
                     getNearHolidays(handler);
@@ -41,6 +49,39 @@ public enum Holidays implements Jsoupable, Jsonable {
         }
     }
 
+    private void getAllHolidays(int year, CompletionHandler handler) {
+        final HashMap<String, HashSet<String>> holidays = new HashMap<>();
+        for(HolidayType type : HolidayType.values()) {
+            final String typeCountry = type.getCelebratingCountry();
+            type.getHolidaysJSONObject(year, new CompletionHandler() {
+                @Override
+                public void handleJSONObject(JSONObject json) {
+                    for(String key : json.keySet()) {
+                        if(!key.equals("descriptions")) {
+                            final JSONObject dayJSON = json.getJSONObject(key);
+                            // TODO: finish
+                        }
+                    }
+                }
+            });
+        }
+    }
+
+    private void getNearHolidays(CompletionHandler handler) {
+        if(nearHolidays != null) {
+            handler.handleString(nearHolidays);
+        } else {
+            final long started = System.currentTimeMillis();
+            final int year = WLUtilities.getTodayYear();
+            loadNearbyHolidays(year, new CompletionHandler() {
+                @Override
+                public void handleString(String string) {
+                    WLLogger.log(Level.INFO, "Holidays - loaded near holidays (took " + (System.currentTimeMillis()-started) + "ms)");
+                    handler.handleString(string);
+                }
+            });
+        }
+    }
     private void loadNearbyHolidays(int year, CompletionHandler handler) {
         final LocalDate rightNow = LocalDate.now();
         final List<String> nearbyHolidayDays = new ArrayList<>();
@@ -83,21 +124,6 @@ public enum Holidays implements Jsoupable, Jsonable {
         });
     }
 
-    public void getNearHolidays(CompletionHandler handler) {
-        if(nearHolidays != null) {
-            handler.handleString(nearHolidays);
-        } else {
-            final long started = System.currentTimeMillis();
-            final int year = WLUtilities.getTodayYear();
-            loadNearbyHolidays(year, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    WLLogger.log(Level.INFO, "Holidays - loaded near holidays (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handleString(string);
-                }
-            });
-        }
-    }
     public void getNearCountryHolidays(String countryBackendID, CompletionHandler handler) {
         if(nearCountryHolidays.containsKey(countryBackendID)) {
             handler.handleString(nearCountryHolidays.get(countryBackendID));

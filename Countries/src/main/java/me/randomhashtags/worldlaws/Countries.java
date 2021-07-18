@@ -6,13 +6,14 @@ import me.randomhashtags.worldlaws.info.NationalCapitals;
 import me.randomhashtags.worldlaws.info.agriculture.ProductionFoods;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilities;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleAvailabilityObj;
+import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureType;
 import me.randomhashtags.worldlaws.info.legal.CountryLegalities;
 import me.randomhashtags.worldlaws.info.legal.LegalityDrugs;
 import me.randomhashtags.worldlaws.info.list.Flyover;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankingServices;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankings;
 import me.randomhashtags.worldlaws.info.service.*;
-import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 import me.randomhashtags.worldlaws.location.CustomCountry;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
@@ -71,27 +72,27 @@ public final class Countries implements WLServer {
         final HashSet<CountryService> services = new HashSet<>() {{
             addAll(Arrays.asList(CountryAvailabilities.values()));
             addAll(Arrays.asList(
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_CARD),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_CARPLAY),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_PAY),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_APP_STORE_APPS),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_APP_STORE_GAMES),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_ARCADE),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_MAPS_CONGESTION_ZONES),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_MAPS_DIRECTIONS),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_MAPS_SPEED_CAMERAS),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_MAPS_SPEED_LIMITS),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_MAPS_NEARBY),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_MUSIC),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_SIRI),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_ITUNES_STORE_MOVIES),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_ITUNES_STORE_MUSIC),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_ITUNES_STORE_TV_SHOWS),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_TV_APP),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_TV_PLUS),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_NEWS),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_NEWS_AUDIO),
-                    new AppleAvailabilityObj(CountryInfo.AVAILABILITY_APPLE_NEWS_PLUS)
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_CARD),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_CARPLAY),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_PAY),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_APP_STORE_APPS),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_APP_STORE_GAMES),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ARCADE),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_CONGESTION_ZONES),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_DIRECTIONS),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_SPEED_CAMERAS),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_SPEED_LIMITS),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_NEARBY),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MUSIC),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_SIRI),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_MOVIES),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_MUSIC),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_TV_SHOWS),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_TV_APP),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_TV_PLUS),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_NEWS),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_NEWS_AUDIO),
+                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_NEWS_PLUS)
             ));
             addAll(Arrays.asList(ProductionFoods.values()));
             addAll(Arrays.asList(
@@ -308,7 +309,7 @@ public final class Countries implements WLServer {
         boolean isFirst = true;
         final Collection<CountryService> services = CountryRankingServices.getRankingsServices().collect(Collectors.toList());
         for(CountryService service : services) {
-            final CountryInfo info = service.getInfo();
+            final SovereignStateInfo info = service.getInfo();
             builder.append(isFirst ? "" : ",").append("\"").append(info.getTitle()).append("\"");
             isFirst = false;
         }

@@ -14,19 +14,35 @@ public interface IMDbService extends DataValues {
 
     default void getIMDbMovieDetails(String title, int year, CompletionHandler handler) {
         final String lowercaseTitle = title.toLowerCase();
-        final String url = "https://www.imdb.com/find?q=" + title.toLowerCase().replace(" ", "+");
+        final String url = "https://www.imdb.com/find?q=" + lowercaseTitle.replace(" ", "+");
         final Elements elements = Jsoupable.getStaticDocumentElements(FileType.OTHER, url, false, "div div.redesign div.pagecontent div div div.article div.findSection table.findList tr.findResult");
         if(elements != null) {
             for(Element element : elements) {
                 final Element resultText = element.selectFirst("td.result_text");
                 final String text = resultText.text().toLowerCase();
-                if(text.contains(lowercaseTitle) && text.contains("(" + year + ")")) {
+                if(hasTitle(lowercaseTitle, year, text)) {
                     final String id = resultText.selectFirst("a").attr("href").split("/")[2];
                     getMovie(id, handler);
-                    break;
+                    return;
                 }
             }
         }
+        handler.handleString(null);
+    }
+    private boolean hasTitle(String title, int year, String text) {
+        if(text.contains("(" + year + ")") && !text.contains("(video game)") && !text.contains("(tv series)")) {
+            if(text.contains(title)
+                    || text.contains(title.replace("part one", "part 1"))
+                    || text.contains(title.replace("part two", "part 2"))
+                    || text.contains(title.replace("part three", "part 3"))
+                    || text.contains(title.replace("part 1", "part one"))
+                    || text.contains(title.replace("part 2", "part two"))
+                    || text.contains(title.replace("part 3", "part three"))
+            ) {
+                return true;
+            }
+        }
+        return false;
     }
     private void getMovie(String id, CompletionHandler handler) {
         final String url = "https://www.imdb.com/title/" + id + "/";
@@ -71,7 +87,8 @@ public interface IMDbService extends DataValues {
                                 }
 
                                 if(primaryImageURL != null && certificateJSON != null && runtimeJSON != null && genresArray != null) {
-                                    final String rating = certificateJSON.getString("rating"), ratingReason = certificateJSON.getString("ratingReason");
+                                    final String rating = certificateJSON.getString("rating");
+                                    final String ratingReason = certificateJSON.get("ratingReason") instanceof String ? certificateJSON.getString("ratingReason") : "Unknown";
                                     final int runtimeSeconds = runtimeJSON.getInt("seconds");
 
                                     final JSONArray genres = new JSONArray();
@@ -95,9 +112,7 @@ public interface IMDbService extends DataValues {
                     }
                 }
             }
-            handler.handleJSONObject(null);
-        } else {
-            handler.handleJSONObject(null);
         }
+        handler.handleJSONObject(null);
     }
 }

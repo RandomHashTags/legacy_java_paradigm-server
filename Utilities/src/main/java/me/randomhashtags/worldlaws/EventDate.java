@@ -96,6 +96,13 @@ public final class EventDate {
         }
     }
 
+    public static EventDate valueOfDateString(String dateString) {
+        final String[] values = dateString.split("-");
+        final int monthValue = Integer.parseInt(values[0]), year = Integer.parseInt(values[1]), day = Integer.parseInt(values[2]);
+        final Month month = Month.of(monthValue);
+        return new EventDate(month, day, year);
+    }
+
     @Override
     public String toString() {
         return "{" +

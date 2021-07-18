@@ -2,19 +2,19 @@ package me.randomhashtags.worldlaws.politics;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.info.service.CountryService;
-import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.location.CountryInformationType;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
 
 public enum CountryPolitics implements CountryService {
     INSTANCE;
 
     @Override
-    public CountryInformationType getInformationType() {
-        return CountryInformationType.POLITICS;
+    public SovereignStateInformationType getInformationType() {
+        return SovereignStateInformationType.POLITICS;
     }
 
     @Override
-    public CountryInfo getInfo() {
+    public SovereignStateInfo getInfo() {
         return null;
     }
 

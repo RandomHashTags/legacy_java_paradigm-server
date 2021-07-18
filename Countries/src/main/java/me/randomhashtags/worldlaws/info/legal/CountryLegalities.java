@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.info.legal;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.info.CountryInfoKey;
 import me.randomhashtags.worldlaws.info.CountryInfoValue;
-import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
@@ -75,8 +75,8 @@ public enum CountryLegalities implements CountryLegalityService {
     }
 
     @Override
-    public CountryInfo getInfo() {
-        return CountryInfo.valueOf("LEGALITY_" + name());
+    public SovereignStateInfo getInfo() {
+        return SovereignStateInfo.valueOf("LEGALITY_" + name());
     }
 
     @Override

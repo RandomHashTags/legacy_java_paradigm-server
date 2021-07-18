@@ -10,17 +10,15 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public final class CustomCountry implements SovereignState, ServerObject {
 
-    private static Elements TIMEZONE_ELEMENTS, FLAG_ELEMENTS, ISO_ALPHA_2_ELEMENTS;
+    private static Elements ISO_ALPHA_2_ELEMENTS;
 
     private final String tag, unStatus, sovereigntyDispute, shortName, name;
     private String flagURL, flagEmoji;
@@ -31,9 +29,7 @@ public final class CustomCountry implements SovereignState, ServerObject {
         this.tag = tag;
         this.unStatus = unStatus;
         this.sovereigntyDispute = sovereigntyDispute;
-        if(TIMEZONE_ELEMENTS == null) {
-            TIMEZONE_ELEMENTS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/List_of_time_zones_by_country", true, "table.wikitable tbody tr");
-            FLAG_ELEMENTS = Jsoupable.getStaticDocument(FileType.COUNTRIES, "https://emojipedia.org/flags/", true).select("ul.emoji-list li a[href]");
+        if(ISO_ALPHA_2_ELEMENTS == null) {
             ISO_ALPHA_2_ELEMENTS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2", true, "div.mw-parser-output table.wikitable", 2).select("tbody tr");
             ISO_ALPHA_2_ELEMENTS.remove(0);
         }
@@ -55,10 +51,10 @@ public final class CustomCountry implements SovereignState, ServerObject {
                 .replaceFirst(" \\(country\\)", "");
         name = infobox.size() > 0 ? removeReferences(infobox.get(0).select("th div.fn").get(0).text()) : shortName;
 
-        setupFlagEmoji();
         setupFlagURL();
         final WLCountry wlcountry = getWLCountry();
         if(wlcountry != null) {
+            flagEmoji = wlcountry.getFlagEmoji();
             timezones = wlcountry.getTimeZones();
         }
     }
@@ -92,17 +88,6 @@ public final class CustomCountry implements SovereignState, ServerObject {
         return StringEscapeUtils.escapeJava(flagEmoji);
     }
 
-    private void setupFlagEmoji() {
-        final String name = shortName.toLowerCase();
-        final Stream<Element> elements = FLAG_ELEMENTS.parallelStream().filter(row -> {
-            return row.text().toLowerCase().split(" \\(")[0].endsWith(name);
-        });
-        final Optional<Element> firstElement = elements.findFirst();
-        if(firstElement.isPresent()) {
-            final Element target = firstElement.get().select("span.emoji").get(0);
-            flagEmoji = target.text();
-        }
-    }
     private void setupFlagURL() {
         final String backendID = getBackendID();
         final Stream<Element> elements = ISO_ALPHA_2_ELEMENTS.parallelStream().filter(row -> {
@@ -129,16 +114,23 @@ public final class CustomCountry implements SovereignState, ServerObject {
             getJSONObject(FileType.COUNTRIES_INFORMATION, shortName, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
-                    final ConcurrentHashMap<InformationType, HashSet<String>> values = new ConcurrentHashMap<>();
+                    final ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values = new ConcurrentHashMap<>();
                     final WLCountry country = getWLCountry();
                     if(country != null) {
                         final HashSet<CountryService> services = new HashSet<>(CountryServices.SERVICES);
                         final List<CountryResource> resources = new ArrayList<>();
 
-                        if(country.hasTerritories()) {
-                            final TerritoryDetails details = TerritoryDetails.INSTANCE;
-                            services.add(details);
-                            resources.add(new CountryResource("Territories", details.getURL(country)));
+                        final SovereignStateSubdivision[] subdivisions = country.getSubdivisions();
+                        if(subdivisions != null) {
+                            final Stream<String> stream = Arrays.stream(subdivisions).map(SovereignStateSubdivision::toServerJSON);
+                            final HashSet<String> territories = stream.parallel().collect(Collectors.toCollection(HashSet::new));
+                            values.put(SovereignStateInformationType.TERRITORIES, territories);
+                        }
+
+                        final WLConstitution constitution = country.getConstitution();
+                        if(constitution != null) {
+                            resources.add(new CountryResource("Government Constitution", constitution.getURL()));
+                            resources.add(new CountryResource("Government Constitution (Wikipedia)", constitution.getWikipediaURL()));
                         }
 
                         final String website = country.getGovernmentWebsite();
@@ -149,7 +141,7 @@ public final class CustomCountry implements SovereignState, ServerObject {
                         for(CountryResource resource : resources) {
                             set.add(resource.toString());
                         }
-                        values.put(CountryInformationType.RESOURCES, set);
+                        values.put(SovereignStateInformationType.RESOURCES, set);
                         loadNew(country, services, values, handler);
                     } else {
                         handler.handleString("{}");
@@ -166,35 +158,55 @@ public final class CustomCountry implements SovereignState, ServerObject {
         }
     }
 
-    private void loadNew(WLCountry country, HashSet<CountryService> services, ConcurrentHashMap<InformationType, HashSet<String>> values, CompletionHandler handler) {
+    private void loadNew(WLCountry country, HashSet<CountryService> services, ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values, CompletionHandler handler) {
+        final SovereignStateInformationType resourcesInformationType = SovereignStateInformationType.RESOURCES;
         final String backendID = getBackendID();
         final AtomicInteger completed = new AtomicInteger(0);
         final int max = services.size();
         services.parallelStream().forEach(service -> {
-            final CountryInfo info = service.getInfo();
+            final SovereignStateInfo info = service.getInfo();
             final CompletionHandler serviceHandler = new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
-                    final CountryInformationType informationType = service.getInformationType();
-                    values.putIfAbsent(informationType, new HashSet<>());
-                    values.get(informationType).add(string);
-                    if(completed.addAndGet(1) == max) {
-                        completeInformation(values, handler);
+                    final SovereignStateInformationType informationType = service.getInformationType();
+                    if(string != null && !string.equals("null")) {
+                        values.putIfAbsent(informationType, new HashSet<>());
+                        values.get(informationType).add(string);
                     }
+                    tryCompletingInformation(max, completed, values, handler);
                 }
             };
             final String countryIdentifier;
             switch (info) {
                 case SERVICE_CIA_VALUES:
+                    final String targetName;
+                    switch (country) {
+                        case BAHAMAS:
+                            targetName = "Bahamas the";
+                            break;
+                        default:
+                            targetName = shortName;
+                            break;
+                    }
+                    countryIdentifier = null;
+                    service.getResources(targetName, new CompletionHandler() {
+                        @Override
+                        public void handleCountryResources(HashSet<CountryResource> resources) {
+                            if(resources != null && !resources.isEmpty()) {
+                                values.putIfAbsent(resourcesInformationType, new HashSet<>());
+                                for(CountryResource resource : resources) {
+                                    values.get(resourcesInformationType).add(resource.toString());
+                                }
+                            }
+                            tryCompletingInformation(max, completed, values, handler);
+                        }
+                    });
+                    break;
                 case SERVICE_TRAVEL_BRIEFING:
                     countryIdentifier = shortName;
                     break;
                 case SERVICE_WIKIPEDIA:
                     countryIdentifier = tag;
-                    break;
-                case TERRITORIES:
-                    countryIdentifier = null;
-                    ((TerritoryDetails) service).getValues(country, serviceHandler);
                     break;
                 default:
                     countryIdentifier = backendID;
@@ -206,9 +218,11 @@ public final class CustomCountry implements SovereignState, ServerObject {
         });
     }
 
-    private void completeInformation(ConcurrentHashMap<InformationType, HashSet<String>> values, CompletionHandler handler) {
-        final SovereignStateInformation info = new SovereignStateInformation(values);
-        handler.handleString(info.toString());
+    private void tryCompletingInformation(int max, AtomicInteger completed, ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values, CompletionHandler handler) {
+        if(completed.addAndGet(1) == max) {
+            final SovereignStateInformation info = new SovereignStateInformation(values);
+            handler.handleString(info.toString());
+        }
     }
 
     private WLCountry getWLCountry() {
@@ -218,7 +232,6 @@ public final class CustomCountry implements SovereignState, ServerObject {
             case "st. vincent & grenadines": return WLCountry.SAINT_VINCENT_AND_THE_GRENADINES;
             case "state of palestine": return WLCountry.PALESTINE;
             case "equatorial guinea":
-            case "mauritania":
             case "sahrawi arab democratic republic":
             case "south ossetia":
                 return null;
@@ -267,21 +280,5 @@ public final class CustomCountry implements SovereignState, ServerObject {
                 (flagURL != null ? "\"flagURL\":\"" + flagURL + "\"," : "") +
                 "\"flagEmoji\":\"" + getFlagEmoji() + "\"" +
                 "}";
-    }
-
-    private final class CountryResource {
-        private final String name, url;
-
-        CountryResource(String name, String url) {
-            this.name = LocalServer.fixEscapeValues(name);
-            this.url = url;
-        }
-
-        @Override
-        public String toString() {
-            return "\"" + name + "\":{" +
-                    "\"url\":\"" + url + "\"" +
-                    "}";
-        }
     }
 }

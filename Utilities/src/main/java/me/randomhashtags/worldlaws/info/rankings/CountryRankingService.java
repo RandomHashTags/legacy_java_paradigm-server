@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.info.rankings;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.info.service.CountryService;
-import me.randomhashtags.worldlaws.location.CountryInformationType;
+import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.select.Elements;
@@ -24,8 +24,8 @@ public interface CountryRankingService extends CountryService {
     }
 
     @Override
-    default CountryInformationType getInformationType() {
-        return CountryInformationType.RANKINGS;
+    default SovereignStateInformationType getInformationType() {
+        return SovereignStateInformationType.RANKINGS;
     }
 
     default Elements getRankingDocumentElements(String url, String targetElements) {

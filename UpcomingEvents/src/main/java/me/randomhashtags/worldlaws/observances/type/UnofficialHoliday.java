@@ -29,6 +29,7 @@ public enum UnofficialHoliday implements IHoliday {
     NATIONAL_CASHEW_DAY,
     NATIONAL_DONUT_DAY,
     NATIONAL_HONEY_BEE_DAY,
+    NATIONAL_NUDE_DAY,
     PI_DAY,
     SPIRIT_DAY,
     SQUARE_ROOT_DAY,
@@ -36,6 +37,7 @@ public enum UnofficialHoliday implements IHoliday {
     SUPER_BOWL_SUNDAY,
     WEAR_IT_PURPLE_DAY,
     WORLD_CONTACT_DAY,
+    WORLD_EMOJI_DAY,
     ;
 
     private final String wikipediaName;
@@ -91,10 +93,9 @@ public enum UnofficialHoliday implements IHoliday {
                 } else {
                     return null;
                 }
-            case NATIONAL_DONUT_DAY:
-                return NationalDonutDay.INSTANCE.getDate(country, year);
-            case NATIONAL_HONEY_BEE_DAY:
-                return country == WLCountry.UNITED_STATES ? getThird(DayOfWeek.SATURDAY, Month.AUGUST, year) : null;
+            case NATIONAL_DONUT_DAY: return NationalDonutDay.INSTANCE.getDate(country, year);
+            case NATIONAL_HONEY_BEE_DAY: return country == WLCountry.UNITED_STATES ? getThird(DayOfWeek.SATURDAY, Month.AUGUST, year) : null;
+            case NATIONAL_NUDE_DAY: return new EventDate(Month.JULY, 14, year);
             case PI_DAY: return new EventDate(Month.MARCH, 14, year);
             case SPIRIT_DAY:
                 if(country != null) {
@@ -129,6 +130,7 @@ public enum UnofficialHoliday implements IHoliday {
             case WEAR_IT_PURPLE_DAY:
                 return country == WLCountry.AUSTRALIA ? getLast(DayOfWeek.FRIDAY, Month.AUGUST, year) : null;
             case WORLD_CONTACT_DAY: return new EventDate(Month.MARCH, 15, year);
+            case WORLD_EMOJI_DAY: return new EventDate(Month.JULY, 17, year);
         }
         return null;
     }

@@ -4,28 +4,30 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.FileType;
 import me.randomhashtags.worldlaws.ServerObject;
 import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.location.CountryInformationType;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
+import me.randomhashtags.worldlaws.location.CountryResource;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
+import java.util.HashSet;
 
 public enum CIAServices implements CountryService {
     INSTANCE;
 
-    private HashMap<String, String> countries;
+    private HashMap<String, HashSet<CountryResource>> countries;
 
     @Override
-    public CountryInformationType getInformationType() {
-        return CountryInformationType.SERVICES;
+    public SovereignStateInformationType getInformationType() {
+        return SovereignStateInformationType.SERVICES;
     }
 
     @Override
-    public CountryInfo getInfo() {
-        return CountryInfo.SERVICE_CIA_VALUES;
+    public SovereignStateInfo getInfo() {
+        return SovereignStateInfo.SERVICE_CIA_VALUES;
     }
 
     @Override
@@ -33,13 +35,13 @@ public enum CIAServices implements CountryService {
     }
 
     @Override
-    public void getCountryValue(String shortName, CompletionHandler handler) {
+    public void getResources(String shortName, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         if(countries == null) {
             countries = new HashMap<>();
         }
         if(countries.containsKey(shortName)) {
-            handler.handleString(countries.get(shortName));
+            handler.handleCountryResources(countries.get(shortName));
         } else {
             final FileType fileType = getFileType();
             final String fileName = "CIA";
@@ -58,20 +60,21 @@ public enum CIAServices implements CountryService {
                 @Override
                 public void handleJSONObject(JSONObject json) {
                     if(json.has(shortName)) {
-                        final String string = new CIAValues(json.getJSONObject(shortName)).toString();
-                        countries.put(shortName, string);
-                        handler.handleString(string);
+                        final CIAValues values = new CIAValues(json.getJSONObject(shortName));
+                        final HashSet<CountryResource> resources = getResourcesFrom(values);
+                        countries.put(shortName, resources);
+                        handler.handleCountryResources(resources);
                     } else {
                         loadCIAValues(started, fileType, shortName, new CompletionHandler() {
                             @Override
                             public void handleString(String string) {
                                 final JSONObject ciaJSON = new JSONObject(string);
                                 final CIAValues values = new CIAValues(ciaJSON);
-                                final String value = values.toString();
-                                countries.put(shortName, value);
+                                final HashSet<CountryResource> resources = getResourcesFrom(values);
+                                countries.put(shortName, resources);
                                 json.put(shortName, ciaJSON);
                                 setFileJSONObject(fileType, fileName, json);
-                                handler.handleString(value);
+                                handler.handleCountryResources(resources);
                             }
                         });
                     }
@@ -79,28 +82,42 @@ public enum CIAServices implements CountryService {
             });
         }
     }
+
+    private HashSet<CountryResource> getResourcesFrom(CIAValues ciaValues) {
+        final HashSet<CountryResource> set = new HashSet<>();
+        set.add(new CountryResource("CIA Summary", ciaValues.summaryURL));
+        set.add(new CountryResource("CIA Travel Facts", ciaValues.travelFactsURL));
+        return set;
+    }
+
     private void loadCIAValues(long started, FileType fileType, String shortName, CompletionHandler handler) {
         String summaryURL = null, travelFactsURL = null, key = null;
 
         final String prefix = "https://www.cia.gov/";
-        final String url = prefix + "the-world-factbook/countries/" + shortName.toLowerCase().replace(" ", "-") + "/";
+        final String url = prefix + "the-world-factbook/countries/" + shortName.toLowerCase().replace(" ", "-").replace(",", "") + "/";
         final Elements elements = getDocumentElements(fileType, url, "div.thee-link-container a");
-        for(Element element : elements) {
-            final String href = element.attr("href");
-            if(href.endsWith("-summary.pdf")) {
-                final String text = href.split("/static/")[1];
-                final String[] values = text.split("/");
-                summaryURL = values[0];
-                key = values[1].split("-")[0];
-            } else if(href.endsWith("-travel-facts.pdf")) {
-                final String text = href.split("/static/")[1];
-                final String[] values = text.split("/");
-                travelFactsURL = values[0];
-                key = values[1].split("-")[0];
+        final String string;
+        if(elements != null) {
+            for(Element element : elements) {
+                final String href = element.attr("href");
+                if(href.endsWith("-summary.pdf")) {
+                    final String text = href.split("/static/")[1];
+                    final String[] values = text.split("/");
+                    summaryURL = values[0];
+                    key = values[1].split("-")[0];
+                } else if(href.endsWith("-travel-facts.pdf")) {
+                    final String text = href.split("/static/")[1];
+                    final String[] values = text.split("/");
+                    travelFactsURL = values[0];
+                    key = values[1].split("-")[0];
+                }
             }
+            final CIAValues values = new CIAValues(key, summaryURL, travelFactsURL);
+            string = values.toServerJSON();
+        } else {
+            WLLogger.log(Level.WARN, "CIAServices - missing elements for country with short name \"" + shortName + "\", and url \"" + url + "\"!");
+            string = null;
         }
-        final CIAValues values = new CIAValues(key, summaryURL, travelFactsURL);
-        final String string = values.toServerJSON();
         WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + shortName + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
         handler.handleString(string);
     }
@@ -115,16 +132,16 @@ public enum CIAServices implements CountryService {
         }
         private CIAValues(JSONObject json) {
             this.key = json.getString("key");
-            this.summaryURL = json.getString("summary");
-            this.travelFactsURL = json.getString("travelFacts");
+            this.summaryURL = json.getString("Summary");
+            this.travelFactsURL = json.getString("Travel Facts");
         }
 
         @Override
         public String toString() {
             final String prefix = "https://www.cia.gov/the-world-factbook/static/";
             final String string = "{" +
-                    "\"summaryURL\":\"" + prefix + summaryURL + "/" + key + "-summary.pdf\"," +
-                    "\"travelFactsURL\":\"" + prefix + travelFactsURL + "/" + key + "-travel-facts.pdf\"" +
+                    "\"Summary\":\"" + prefix + summaryURL + "/" + key + "-summary.pdf\"," +
+                    "\"Travel Facts\":\"" + prefix + travelFactsURL + "/" + key + "-travel-facts.pdf\"" +
                     "}";
             return new CountryServiceValue(CIAServices.INSTANCE, string).toString();
         }
@@ -133,8 +150,8 @@ public enum CIAServices implements CountryService {
         public String toServerJSON() {
             return "{" +
                     "\"key\":\"" + key + "\"," +
-                    "\"summary\":\"" + summaryURL + "\"," +
-                    "\"travelFacts\":\"" + travelFactsURL + "\"" +
+                    "\"Summary\":\"" + summaryURL + "\"," +
+                    "\"Travel Facts\":\"" + travelFactsURL + "\"" +
                     "}";
         }
     }

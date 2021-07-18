@@ -4,17 +4,17 @@ import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.CompletionHandler;
 
 public enum GlobalWarming {
-    CAUSES,
-    PROJECTIONS,
+    INSTANCE;
     ;
 
-
-    public void get(APIVersion version, CompletionHandler handler) {
-        switch (this) {
-            case CAUSES:
+    public void getResponse(APIVersion version, String target, CompletionHandler handler) {
+        final String[] values = target.split("/");
+        final String key = values[0];
+        switch (key) {
+            case "causes":
                 getCauses(version, handler);
                 break;
-            case PROJECTIONS:
+            case "projections":
                 getProjections(version, handler);
                 break;
             default:

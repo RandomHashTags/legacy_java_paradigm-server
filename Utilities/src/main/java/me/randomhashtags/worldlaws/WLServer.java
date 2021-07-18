@@ -47,7 +47,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 getHomeResponse(version, handler);
                 break;
             case "ping":
-                handler.handleString("true");
+                handler.handleString("1");
                 break;
             default:
                 getServerResponse(version, target.substring(versionString.length()+1), handler);
@@ -81,25 +81,25 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             Arrays.asList(requests).parallelStream().forEach(request -> {
                 getServerResponse(version, request, new CompletionHandler() {
                     @Override
-                    public void handleObject(Object object) {
-                        if(object != null) {
-                            final String target = "\"" + request + "\":" + object.toString();
+                    public void handleString(String string) {
+                        if(string != null) {
+                            final String target = "\"" + request + "\":" + string;
                             values.add(target);
                         }
                         if(completed.addAndGet(1) == max) {
-                            String string = null;
+                            String value = null;
                             if(!values.isEmpty()) {
                                 final StringBuilder builder = new StringBuilder("{");
                                 boolean isFirst = true;
-                                for(String value : values) {
-                                    builder.append(isFirst ? "" : ",").append(value);
+                                for(String stringValue : values) {
+                                    builder.append(isFirst ? "" : ",").append(stringValue);
                                     isFirst = false;
                                 }
                                 builder.append("}");
-                                string = builder.toString();
+                                value = builder.toString();
                             }
-                            CACHED_HOME_RESPONSES.get(server).put(version, string);
-                            handler.handleString(string);
+                            CACHED_HOME_RESPONSES.get(server).put(version, value);
+                            handler.handleString(value);
                         }
                     }
                 });

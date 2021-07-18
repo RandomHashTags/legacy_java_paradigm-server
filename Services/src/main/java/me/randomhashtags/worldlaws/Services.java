@@ -1,8 +1,9 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.service.finance.StockService;
-import me.randomhashtags.worldlaws.service.finance.YahooFinance;
-import me.randomhashtags.worldlaws.service.science.astronomy.APOD;
+import me.randomhashtags.worldlaws.service.education.WordOfTheDay;
+import me.randomhashtags.worldlaws.service.finance.stockmarket.StockService;
+import me.randomhashtags.worldlaws.service.finance.stockmarket.YahooFinance;
+import me.randomhashtags.worldlaws.service.science.astronomy.AstronomyPictureOfTheDay;
 import org.apache.logging.log4j.Level;
 
 import java.util.Arrays;
@@ -19,8 +20,8 @@ public final class Services implements WLServer {
 
     private Services() {
         stockService = YahooFinance.INSTANCE;
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -29,13 +30,6 @@ public final class Services implements WLServer {
     }
 
     private void test() {
-        stockService.getChart(APIVersion.v1, "AAPL", new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                WLLogger.log(Level.INFO, "Services;object=");
-                WLLogger.log(Level.INFO, string);
-            }
-        });
     }
 
     @Override
@@ -50,8 +44,11 @@ public final class Services implements WLServer {
                     getStockMarketResponse(version, value.substring(key.length()+1), handler);
                 }
                 break;
-            case "apod":
-                APOD.INSTANCE.get(version, handler);
+            case "astronomy_picture_of_the_day":
+                AstronomyPictureOfTheDay.INSTANCE.get(version, handler);
+                break;
+            case "word_of_the_day":
+                WordOfTheDay.INSTANCE.refresh(handler);
                 break;
             default:
                 break;
@@ -62,38 +59,44 @@ public final class Services implements WLServer {
     public String[] getHomeRequests() {
         return new String[] {
                 "stock_market",
-                "apod"
+                "astronomy_picture_of_the_day",
+                "word_of_the_day"
         };
     }
 
     private void getStockMarketResponse(APIVersion version, String value, CompletionHandler handler) {
-        final String[] values = value.split("/");
-        final String key = values[0];
-        switch (key) {
-            case "movers":
-                stockService.getMovers(version, handler);
-                break;
-            case "quotes":
-                final HashSet<String> symbols = new HashSet<>(Arrays.asList(values[1].split(",")));
-                stockService.getQuotes(version, symbols, handler);
-                break;
-            default:
-                switch (values.length) {
-                    case 2:
-                        final String target = values[1];
-                        switch (target) {
-                            case "chart":
-                                stockService.getChart(version, key, handler);
+        stockService.makeQuotaRequest(stockService.getJSONDataValue(), new CompletionHandler() {
+            @Override
+            public void handleObject(Object object) {
+                final String[] values = value.split("/");
+                final String key = values[0];
+                switch (key) {
+                    case "movers":
+                        stockService.getMovers(version, handler);
+                        break;
+                    case "quotes":
+                        final HashSet<String> symbols = new HashSet<>(Arrays.asList(values[1].split(",")));
+                        stockService.getQuotes(version, symbols, handler);
+                        break;
+                    default:
+                        switch (values.length) {
+                            case 2:
+                                final String target = values[1];
+                                switch (target) {
+                                    case "chart":
+                                        stockService.getChart(version, key, handler);
+                                        break;
+                                    default:
+                                        break;
+                                }
                                 break;
                             default:
                                 break;
                         }
                         break;
-                    default:
-                        break;
                 }
-                break;
-        }
+            }
+        });
     }
     private void getStockMarketHomeResponse(APIVersion version, CompletionHandler handler) {
         final long started = System.currentTimeMillis();

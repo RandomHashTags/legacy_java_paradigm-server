@@ -28,34 +28,41 @@ public interface QuotaHandler extends DataValues {
             }
         });
     }
-    private void canMakeQuotaRequest(String identifier, JSONDataValue value, CompletionHandler handler) {
+    private void canMakeQuotaRequest(String identifier, JSONDataValue value, int amount, CompletionHandler handler) {
         final int maxRequestsPerDay = value.getMaxQuotaRequestsPerDay();
         if(QUOTA_REQUESTS.containsKey(identifier)) {
-            handler.handleBoolean(QUOTA_REQUESTS.get(identifier) < maxRequestsPerDay);
+            handler.handleBoolean(QUOTA_REQUESTS.get(identifier) + amount <= maxRequestsPerDay);
         } else {
             getJSONDataValue(JSONDataValue.QUOTAS, new CompletionHandler() {
                 @Override
                 public void handleJSONObject(JSONObject json) {
                     final int requestsToday = json.has(identifier) ? json.getInt(identifier) : 0;
                     QUOTA_REQUESTS.put(identifier, requestsToday);
-                    handler.handleBoolean(requestsToday < maxRequestsPerDay);
+                    handler.handleBoolean(requestsToday+amount <= maxRequestsPerDay);
                 }
             });
         }
     }
     default void makeQuotaRequest(JSONDataValue value, CompletionHandler handler) {
-        final long epochDay = LocalDate.now(Clock.systemUTC()).toEpochDay();
-        final String identifier = value.getIdentifier() + "-" + epochDay;
-        canMakeQuotaRequest(identifier, value, new CompletionHandler() {
+        makeQuotaRequest(value, 1, handler);
+    }
+    default void makeQuotaRequest(JSONDataValue value, int amount, CompletionHandler handler) {
+        final String identifier = getIdentifier(value);
+        canMakeQuotaRequest(identifier, value, amount, new CompletionHandler() {
             @Override
             public void handleBoolean(boolean success) {
                 if(success) {
-                    QUOTA_REQUESTS.put(identifier, QUOTA_REQUESTS.get(identifier) + 1);
+                    QUOTA_REQUESTS.put(identifier, QUOTA_REQUESTS.get(identifier) + amount);
                     handler.handleObject(null);
                 } else {
                     WLLogger.log(Level.WARN, "QuotaHandler - cannot make \"" + identifier + "\" request due to reaching max allowed quota requests!");
                 }
             }
         });
+    }
+
+    private String getIdentifier(JSONDataValue value) {
+        final long epochDay = LocalDate.now(Clock.systemUTC()).toEpochDay();
+        return value.getIdentifier() + "-" + epochDay;
     }
 }

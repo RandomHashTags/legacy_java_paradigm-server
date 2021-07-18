@@ -1,12 +1,9 @@
 package me.randomhashtags.worldlaws.info.service;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.FileType;
-import me.randomhashtags.worldlaws.LocalServer;
-import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.info.WikipediaPicture;
-import me.randomhashtags.worldlaws.location.CountryInfo;
-import me.randomhashtags.worldlaws.location.CountryInformationType;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -28,13 +25,13 @@ public enum Wikipedia implements CountryService {
     }
 
     @Override
-    public CountryInformationType getInformationType() {
-        return CountryInformationType.SERVICES;
+    public SovereignStateInformationType getInformationType() {
+        return SovereignStateInformationType.SERVICES;
     }
 
     @Override
-    public CountryInfo getInfo() {
-        return CountryInfo.SERVICE_WIKIPEDIA;
+    public SovereignStateInfo getInfo() {
+        return SovereignStateInfo.SERVICE_WIKIPEDIA;
     }
 
     @Override
@@ -69,9 +66,13 @@ public enum Wikipedia implements CountryService {
 
     private void loadWikipedia(String tag, CompletionHandler handler) {
         final String url = "https://en.wikipedia.org/wiki/" + tag.replace(" ", "_");
-        final Document document;
+        final FileType fileType = getFileType();
+        Document document = null;
         try {
-            document = getDocument(getFileType(), url);
+            document = Jsoupable.getLocalDocument(fileType, url);
+            if(document == null) {
+                document = getDocument(fileType, url);
+            }
         } catch (Exception e) {
             e.printStackTrace();
             handler.handleString(null);

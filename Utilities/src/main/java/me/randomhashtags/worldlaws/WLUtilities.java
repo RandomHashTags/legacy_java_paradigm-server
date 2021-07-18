@@ -11,8 +11,8 @@ public abstract class WLUtilities {
     public static final long WEATHER_EARTHQUAKES_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
 
     public static Month valueOfMonthFromInput(String input) {
-        input = input.substring(0, 3);
-        switch (input.toLowerCase()) {
+        input = input.toLowerCase().substring(0, 3);
+        switch (input) {
             case "jan": return Month.JANUARY;
             case "feb": return Month.FEBRUARY;
             case "mar": return Month.MARCH;

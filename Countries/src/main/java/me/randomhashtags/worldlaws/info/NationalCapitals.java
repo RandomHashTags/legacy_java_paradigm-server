@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.info;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -11,8 +11,8 @@ public enum NationalCapitals implements CountryNationalService {
     INSTANCE;
 
     @Override
-    public CountryInfo getInfo() {
-        return CountryInfo.NATIONAL_CAPITAL;
+    public SovereignStateInfo getInfo() {
+        return SovereignStateInfo.NATIONAL_CAPITAL;
     }
 
     @Override

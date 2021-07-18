@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.info.agriculture;
 
-import me.randomhashtags.worldlaws.location.CountryInfo;
+import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 
 public enum ProductionFoods implements CountryProductionService {
     APPLE,
@@ -22,8 +22,8 @@ public enum ProductionFoods implements CountryProductionService {
     ;
 
     @Override
-    public CountryInfo getInfo() {
-        return CountryInfo.valueOf("AGRICULTURE_FOOD_" + name() + "_PRODUCTION");
+    public SovereignStateInfo getInfo() {
+        return SovereignStateInfo.valueOf("AGRICULTURE_FOOD_" + name() + "_PRODUCTION");
     }
 
     @Override
