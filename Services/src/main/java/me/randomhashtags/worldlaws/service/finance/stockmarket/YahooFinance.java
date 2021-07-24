@@ -36,7 +36,7 @@ public enum YahooFinance implements StockService {
     @Override
     public void getAutoComplete(APIVersion version, String input, CompletionHandler handler) {
         final String term = input.toLowerCase();
-        getJSONObject(FileType.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS, "_Auto completes", new CompletionHandler() {
+        getJSONObject(Folder.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS, "_Auto completes", new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final HashMap<String, String> query = new HashMap<>();
@@ -163,8 +163,8 @@ public enum YahooFinance implements StockService {
 
     @Override
     public void getChart(APIVersion version, String symbol, CompletionHandler handler) {
-        final FileType fileType = FileType.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS;
-        getJSONObject(fileType, symbol, new CompletionHandler() {
+        final Folder folder = Folder.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS;
+        getJSONObject(folder, symbol, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 requestChart(false, version, symbol, handler);
@@ -177,7 +177,7 @@ public enum YahooFinance implements StockService {
                     requestChart(true, version, symbol, new CompletionHandler() {
                         @Override
                         public void handleJSONObject(JSONObject json) {
-                            setFileJSONObject(fileType, symbol, json);
+                            setFileJSONObject(folder, symbol, json);
                             handler.handleString(json.toString());
                         }
                     });
@@ -221,7 +221,7 @@ public enum YahooFinance implements StockService {
     }
 
     private void getStockProfile(String symbol, CompletionHandler handler) {
-        getJSONObject(FileType.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS, symbol, new CompletionHandler() {
+        getJSONObject(Folder.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS, symbol, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final HashMap<String, String> query = new HashMap<>();

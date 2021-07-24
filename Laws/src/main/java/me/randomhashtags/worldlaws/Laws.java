@@ -65,7 +65,17 @@ public final class Laws implements WLServer {
                 }
                 break;
             default:
-                countries.get(key).getResponse(version, target.substring(key.length()+1), handler);
+                if(values.length >= 2) {
+                    final LawController controller = countries.get(key);
+                    final int keyLength = key.length()+1;
+                    final String targetKey = values[1];
+                    if(targetKey.matches("[0-9]+")) {
+                        final int administration = Integer.parseInt(key);
+                        controller.getGovernmentResponse(version, administration, target.substring(keyLength+targetKey.length()+1), handler);
+                    } else {
+                        controller.getResponse(version, target.substring(keyLength), handler);
+                    }
+                }
                 break;
         }
     }

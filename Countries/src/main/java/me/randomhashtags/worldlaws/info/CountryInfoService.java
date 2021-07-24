@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.info;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
 import org.json.JSONArray;
@@ -15,8 +15,8 @@ public interface CountryInfoService extends CountryService {
     int getYearOfData();
 
     @Override
-    default FileType getFileType() {
-        return FileType.COUNTRIES_INFO;
+    default Folder getFolder() {
+        return Folder.COUNTRIES_INFO;
     }
     @Override
     default SovereignStateInformationType getInformationType() {
@@ -27,12 +27,12 @@ public interface CountryInfoService extends CountryService {
         return getInfoDocumentElements(url, targetElements, -1);
     }
     default Elements getInfoDocumentElements(String url, String targetElements, int index) {
-        return getDocumentElements(FileType.COUNTRIES_INFO, url, targetElements, index);
+        return getDocumentElements(Folder.COUNTRIES_INFO, url, targetElements, index);
     }
 
     @Override
     default void loadData(CompletionHandler handler) {
-        getJSONObject(this, new CompletionHandler() {
+        getJSONObject(new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 handleJSONArrayCompletion(new JSONArray(loadData()), handler);
@@ -75,7 +75,7 @@ public interface CountryInfoService extends CountryService {
         }
         builder.append("}");
         final JSONObject json = new JSONObject(builder.toString());
-        setFileJSONObject(getFileType(), getInfo().getTitle(), json);
+        setFileJSONObject(getFolder(), getInfo().getTitle(), json);
         handler.handleJSONObject(json);
     }
 }

@@ -19,7 +19,9 @@ public final class StateReference {
     public String getSection() {
         return section;
     }
-    public String getURL() { return url; }
+    public String getURL() {
+        return url;
+    }
 
     public static StateReference build(String title, String chapter, String section, String url) {
         return new StateReference(title, chapter, section, url != null ? url : "https://www.ecosia.org");

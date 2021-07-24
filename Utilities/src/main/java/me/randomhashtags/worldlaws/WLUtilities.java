@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import java.time.Clock;
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.concurrent.TimeUnit;
@@ -30,5 +31,9 @@ public abstract class WLUtilities {
     }
     public static int getTodayYear() {
         return LocalDate.now().getYear();
+    }
+
+    public static LocalDate getNowUTC() {
+        return LocalDate.now(Clock.systemUTC());
     }
 }

@@ -14,14 +14,14 @@ import java.util.stream.Collectors;
 public interface Jsonable {
     String USER_DIR = System.getProperty("user.dir") + File.separator;
 
-    private static String getFolder(FileType type) {
+    private static String getFolder(Folder type) {
         return FolderUtils.getFolder(type);
     }
-    private static String getJSONFilePath(FileType fileType, String fileName) {
+    private static String getJSONFilePath(Folder fileType, String fileName) {
         final String folder = USER_DIR + getFolder(fileType);
         return folder + File.separator + fileName + ".json";
     }
-    private String getLocalFileString(FileType type, String fileName) {
+    private String getLocalFileString(Folder type, String fileName) {
         final String folder = USER_DIR + getFolder(type);
         final File folderFile = new File(folder);
         if(!folderFile.exists()) {
@@ -45,15 +45,15 @@ public interface Jsonable {
         }
         return null;
     }
-    private JSONObject getLocalFileJSONObject(FileType type, String fileName) {
+    private JSONObject getLocalFileJSONObject(Folder type, String fileName) {
         final String string = getLocalFileString(type, fileName);
         return string != null ? new JSONObject(string) : null;
     }
-    private JSONArray getLocalFileJSONArray(FileType type, String fileName) {
+    private JSONArray getLocalFileJSONArray(Folder type, String fileName) {
         final String string = getLocalFileString(type, fileName);
         return string != null ? new JSONArray(string) : null;
     }
-    default void getJSONObject(FileType type, String fileName, CompletionHandler handler) {
+    default void getJSONObject(Folder type, String fileName, CompletionHandler handler) {
         final JSONObject localFile = getLocalFileJSONObject(type, fileName);
         if(localFile != null) {
             handler.handleJSONObject(localFile);
@@ -67,14 +67,14 @@ public interface Jsonable {
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    saveFileJSON(type, fileName, json);
+                    saveFileJSON(type, fileName, json.toString());
                     handler.handleJSONObject(json);
                 }
             });
         }
     }
 
-    default void getJSONArray(FileType type, String fileName, CompletionHandler handler) {
+    default void getJSONArray(Folder type, String fileName, CompletionHandler handler) {
         final JSONArray localFile = getLocalFileJSONArray(type, fileName);
         if(localFile != null) {
             handler.handleJSONArray(localFile);
@@ -88,19 +88,19 @@ public interface Jsonable {
 
                 @Override
                 public void handleJSONArray(JSONArray array) {
-                    saveFileJSON(type, fileName, array);
+                    saveFileJSON(type, fileName, array.toString());
                     handler.handleJSONArray(array);
                 }
             });
         }
     }
-    default void setFileJSONObject(FileType type, String fileName, JSONObject json) {
+    default void setFileJSONObject(Folder type, String fileName, JSONObject json) {
         setFileJSON(type, fileName, json);
     }
-    default void setFileJSONArray(FileType type, String fileName, JSONArray array) {
+    default void setFileJSONArray(Folder type, String fileName, JSONArray array) {
         setFileJSON(type, fileName, array);
     }
-    private void setFileJSON(FileType type, String fileName, Object value) {
+    private void setFileJSON(Folder type, String fileName, Object value) {
         final String path = getJSONFilePath(type, fileName);
         try {
             final FileWriter fileWriter = new FileWriter(path, false);
@@ -112,19 +112,21 @@ public interface Jsonable {
             WLLogger.log(Level.ERROR, "Jsonable - failed setting json file contents at path \"" + path + "\" (" + e.getMessage() + ")!");
         }
     }
-    private void saveFileJSON(FileType type, String fileName, Object value) {
-        final String directory = getJSONFilePath(type, fileName);
-        final File file = new File(directory);
-        if(!file.exists()) {
-            final Path path = file.toPath();
-            WLLogger.log(Level.INFO, "Jsonable - creating file at path " + path.toAbsolutePath().toString());
-            try {
-                Files.writeString(path, value.toString(), StandardCharsets.UTF_8);
-            } catch (Exception e) {
-                e.printStackTrace();
+    private void saveFileJSON(Folder type, String fileName, String value) {
+        if(value != null) {
+            final String directory = getJSONFilePath(type, fileName);
+            final File file = new File(directory);
+            if(!file.exists()) {
+                final Path path = file.toPath();
+                WLLogger.log(Level.INFO, "Jsonable - creating file at path " + path.toAbsolutePath().toString());
+                try {
+                    Files.writeString(path, value, StandardCharsets.UTF_8);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            } else {
+                WLLogger.log(Level.WARN, "Jsonable - saveFileJSON(" + fileName + ") - already exists at " + directory + "!");
             }
-        } else {
-            WLLogger.log(Level.WARN, "Jsonable - saveFileJSON(" + fileName + ") - already exists at " + directory + "!");
         }
     }
 }

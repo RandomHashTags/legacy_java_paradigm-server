@@ -24,4 +24,8 @@ public enum CanadaLaws implements LawController {
     public void getResponse(APIVersion version, String value, CompletionHandler handler) {
         handler.handleString(null);
     }
+
+    @Override
+    public void getGovernmentResponse(APIVersion version, int administration, String value, CompletionHandler handler) {
+    }
 }

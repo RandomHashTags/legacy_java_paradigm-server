@@ -42,7 +42,7 @@ public enum Elections implements RestAPI, DataValues {
                         for(String string : ocdDivisionId.split("/")) {
                             if(string.startsWith("country:")) {
                                 final String abbreviation = string.split(":")[1].toUpperCase();
-                                final WLCountry targetCountry = WLCountry.valueOfAbbreviation(abbreviation);
+                                final WLCountry targetCountry = WLCountry.valueOfISOAlpha2(abbreviation);
                                 country = targetCountry != null ? targetCountry.getBackendID() : "unknown";
                             } else if(string.startsWith("state:")) {
                                 final String abbreviation = string.split(":")[1].toUpperCase();

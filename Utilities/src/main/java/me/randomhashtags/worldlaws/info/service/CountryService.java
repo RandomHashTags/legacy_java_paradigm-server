@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.info.service;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
@@ -17,8 +17,8 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public interface CountryService extends SovereignStateService {
     ConcurrentHashMap<SovereignStateInfo, JSONObject> COUNTRY_SERVICE_JSON_VALUES = new ConcurrentHashMap<>();
-    default FileType getFileType() {
-        return FileType.COUNTRIES_SERVICES;
+    default Folder getFolder() {
+        return Folder.COUNTRIES_SERVICES;
     }
     SovereignStateInformationType getInformationType();
     SovereignStateInfo getInfo();
@@ -34,7 +34,7 @@ public interface CountryService extends SovereignStateService {
         } else {
             final long started = System.currentTimeMillis();
             final String fileName = info.getTitle();
-            getJSONData(getFileType(), fileName, countryBackendID, new CompletionHandler() {
+            getJSONData(getFolder(), fileName, countryBackendID, new CompletionHandler() {
                 @Override
                 public void handleJSONObject(JSONObject json) {
                     COUNTRY_SERVICE_JSON_VALUES.put(info, json);
@@ -45,8 +45,8 @@ public interface CountryService extends SovereignStateService {
             });
         }
     }
-    default void getJSONData(FileType fileType, String fileName, String countryBackendID, CompletionHandler handler) {
-        getJSONObject(fileType, fileName, new CompletionHandler() {
+    default void getJSONData(Folder folder, String fileName, String countryBackendID, CompletionHandler handler) {
+        getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 loadData(handler);

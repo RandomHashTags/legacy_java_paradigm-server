@@ -44,6 +44,48 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
     ;
 
     @Override
+    public AvailabilityCategory getPrimaryCategory() {
+        switch (this) {
+            case ALEXA:
+            case GOOGLE_ASSISTANT:
+                return AvailabilityCategory.VIRTUAL_ASSISTANT;
+            case AMC_PLUS:
+            case AT_AND_T_TV:
+            case DAZN:
+            case DISCOVERY_PLUS:
+            case DISNEY_PLUS:
+            case ESPN_PLUS:
+            case HBO_MAX:
+            case HULU:
+            case PARAMOUNT_PLUS:
+            case PEACOCK:
+            case PLAYSTATION_NOW:
+            case SHOWTIME:
+            case STARZ:
+            case STARZPLAY:
+            case YOUTUBE_PREMIUM:
+            case YOUTUBE_TV:
+                return AvailabilityCategory.ENTERTAINMENT_SERVICE;
+            case GOOGLE_PAY:
+            case SAMSUNG_PAY:
+            case VENMO:
+                return AvailabilityCategory.DIGITAL_PAYMENT_METHOD;
+            case GOOGLE_PLAY_PASS:
+            case NVIDIA_GEFORCE_NOW:
+            case STADIA:
+            case XBOX_CLOUD_GAMING:
+            case XBOX_GAME_PASS:
+            case XBOX_LIVE:
+                return AvailabilityCategory.GAMING_SERVICE;
+            case SPOTIFY:
+            case TIDAL:
+                return AvailabilityCategory.MUSIC_SERVICE;
+            default:
+                return null;
+        }
+    }
+
+    @Override
     public String getImageURL() {
         switch (this) {
             case ALEXA: return "https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_Alexa_logo.svg";
@@ -278,7 +320,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         loadOnlyTrue(handler, array);
     }
     private void loadDisneyPlus(CompletionHandler handler) {
-        getJSONArray(this, new CompletionHandler() {
+        getJSONArray(new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final String url = "https://en.wikipedia.org/wiki/Disney%2B";
@@ -399,7 +441,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         loadOnlyTrue(handler, array);
     }
     private void loadGooglePay(CompletionHandler handler) {
-        getJSONArray(this, new CompletionHandler() {
+        getJSONArray(new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final String url = "https://en.wikipedia.org/wiki/Google_Pay";
@@ -426,7 +468,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         });
     }
     private void loadGooglePlayPass(CompletionHandler handler) {
-        getJSONArray(this, new CompletionHandler() {
+        getJSONArray(new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final String url = "https://play.google.com/about/pass-availability/";
@@ -562,7 +604,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
     }
     private void loadSamsungPay(CompletionHandler handler) {
         final String url = "https://en.wikipedia.org/wiki/Samsung_Pay";
-        getJSONArray(this, new CompletionHandler() {
+        getJSONArray(new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final Elements trs = getAvailabilityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
@@ -591,7 +633,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         loadOnlyTrue(handler, "unitedstates");
     }
     private void loadSpotify(CompletionHandler handler) {
-        getJSONArray(this, new CompletionHandler() {
+        getJSONArray(new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final String url = "https://support.spotify.com/us/article/full-list-of-territories-where-spotify-is-available/";
@@ -684,7 +726,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         loadOnlyTrue(handler, array);
     }
     private void loadTidal(CompletionHandler handler) {
-        getJSONArray(this, new CompletionHandler() {
+        getJSONArray(new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final String url = "https://support.tidal.com/hc/en-us/articles/202453191-Which-countries-is-TIDAL-available-";
@@ -842,7 +884,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         loadOnlyTrue(handler, array);
     }
     private void loadYouTubePremium(CompletionHandler handler) {
-        getJSONArray(this, new CompletionHandler() {
+        getJSONArray(new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final String url = "https://en.wikipedia.org/wiki/YouTube_Premium";

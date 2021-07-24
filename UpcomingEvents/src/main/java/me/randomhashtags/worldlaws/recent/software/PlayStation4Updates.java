@@ -4,12 +4,12 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
-import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.time.LocalDate;
 import java.time.Month;
+import java.util.HashSet;
 
 public enum PlayStation4Updates implements RecentEventController, Jsoupable {
     INSTANCE;
@@ -22,7 +22,7 @@ public enum PlayStation4Updates implements RecentEventController, Jsoupable {
     @Override
     public void refresh(LocalDate startingDate, CompletionHandler handler) {
         final String url = "https://www.playstation.com/en-us/support/hardware/ps4/system-software/";
-        final Elements box = getDocumentElements(FileType.OTHER, url, false, "div.gdk div.cmp-container div.gdk div.cmp-container div.section section.section--light div div.contentgrid div.content-grid div.box");
+        final Elements box = getDocumentElements(Folder.OTHER, url, false, "div.gdk div.cmp-container div.gdk div.cmp-container div.section section.section--light div div.contentgrid div.content-grid div.box");
         if(box != null) {
             final Elements elements = box.select("div.textblock div.text-block p");
             final String string = elements.get(0).text();
@@ -42,12 +42,13 @@ public enum PlayStation4Updates implements RecentEventController, Jsoupable {
                     isFirst = false;
                 }
                 final PreRecentEvent event = new PreRecentEvent("ps4Update", updateNotesTitle, description.toString(), null);
-                handler.handleString(event.toString());
+                final HashSet<String> hashset = new HashSet<>() {{ add(event.toString()); }};
+                handler.handleHashSetString(hashset);
             } else {
-                handler.handleString(null);
+                handler.handleHashSetString(null);
             }
         } else {
-            handler.handleString(null);
+            handler.handleHashSetString(null);
         }
     }
 }

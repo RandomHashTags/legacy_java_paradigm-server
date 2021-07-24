@@ -1,11 +1,15 @@
 package me.randomhashtags.worldlaws.info.availability.tech;
 
+import me.randomhashtags.worldlaws.info.availability.AvailabilityCategory;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 public interface AppleFeatureAvailability extends CountryService {
+
+    AvailabilityCategory getPrimaryCategory();
+    String getImageURL();
 
     @Override
     default SovereignStateInformationType getInformationType() {

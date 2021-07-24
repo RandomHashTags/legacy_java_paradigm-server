@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.country;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.country.usa.USPolitician;
@@ -36,7 +36,7 @@ public enum Politicians implements Jsonable {
     }
     private void getUSAFromBill(String profileSlug, Element element, CompletionHandler handler) {
         final String fileName = profileSlug.substring("members/".length()).replace("/", "-");
-        getJSONObject(FileType.LAWS_USA_MEMBERS, fileName, new CompletionHandler() {
+        getJSONObject(Folder.LAWS_USA_MEMBERS, fileName, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final String text = element.text();
@@ -51,7 +51,7 @@ public enum Politicians implements Jsonable {
 
                 final String congressURLPrefix = "https://www.congress.gov";
                 final String url = congressURLPrefix + profileSlug;
-                final Document doc = Jsoupable.getStaticDocument(FileType.LAWS_USA_MEMBERS, url, false);
+                final Document doc = Jsoupable.getStaticDocument(Folder.LAWS_USA_MEMBERS, url, false);
                 String imageURL = null, website = null;
                 HumanName name = null;
                 if(doc != null) {

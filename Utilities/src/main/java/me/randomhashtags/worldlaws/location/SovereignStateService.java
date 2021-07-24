@@ -1,17 +1,18 @@
 package me.randomhashtags.worldlaws.location;
 
-import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.info.service.CountryService;
+import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.Folder;
+import me.randomhashtags.worldlaws.WLService;
 
 public interface SovereignStateService extends WLService {
-    FileType getFileType();
+    Folder getFolder();
     SovereignStateInfo getInfo();
     void loadData(CompletionHandler handler);
 
-    default void getJSONObject(SovereignStateService service, CompletionHandler handler) {
-        getJSONObject(service.getFileType(), service.getInfo().getTitle(), handler);
+    default void getJSONObject(CompletionHandler handler) {
+        getJSONObject(getFolder(), getInfo().getTitle(), handler);
     }
-    default void getJSONArray(CountryService service, CompletionHandler handler) {
-        getJSONArray(service.getFileType(), service.getInfo().getTitle(), handler);
+    default void getJSONArray(CompletionHandler handler) {
+        getJSONArray(getFolder(), getInfo().getTitle(), handler);
     }
 }

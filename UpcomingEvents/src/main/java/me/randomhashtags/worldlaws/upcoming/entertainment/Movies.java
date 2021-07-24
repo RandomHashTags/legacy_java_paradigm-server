@@ -217,7 +217,23 @@ public enum Movies implements UpcomingEventController, IMDbService {
             final String imageURL = imageSourceURL != null ? "https:" + imageSourceURL : null;
 
             final String premiseFinal = premise, releaseInfoFinal = releaseInfo, urlLowercased = url.toLowerCase();
-            final int year = url.contains("_(") && urlLowercased.endsWith("_film)") ? Integer.parseInt(urlLowercased.split("_film\\)")[0].split("_\\(")[1]) : WLUtilities.getTodayYear();
+            int year = url.contains("_(") && urlLowercased.endsWith("_film)") ? Integer.parseInt(urlLowercased.split("_film\\)")[0].split("_\\(")[1]) : -1;
+            if(year == -1) {
+                final Elements infoboxElements = wikidoc.select("table.infobox tbody tr");
+                infoboxElements.removeIf(element -> element.select("th.infobox-label").isEmpty());
+                boolean foundYear = false;
+                for(Element element : infoboxElements) {
+                    final String label = element.select("th.infobox-label div").text();
+                    if(label.equalsIgnoreCase("release date")) {
+                        foundYear = true;
+                        year = Integer.parseInt(element.select("td.infobox-data div.plainlist ul li").get(0).text().split(" ")[2]);
+                        break;
+                    }
+                }
+                if(!foundYear) {
+                    year = WLUtilities.getTodayYear();
+                }
+            }
             getMovieDetails(title, year, new CompletionHandler() {
                 @Override
                 public void handleObject(Object object) {
@@ -226,11 +242,16 @@ public enum Movies implements UpcomingEventController, IMDbService {
                     final JSONObject imdbJSON = (JSONObject) values.get("imdbInfo");
                     final JSONArray youtubeVideoIDs = (JSONArray) values.get("youtubeVideoIDs");
                     final String ratingsString = (String) values.get("ratings");
-                    final MovieEvent movie = new MovieEvent(title, premiseFinal, imageURL, productionCompany, releaseInfoFinal, imdbJSON, ratingsString, youtubeVideoIDs, sources);
+                    final String movieImageURL;
+                    if(imdbJSON != null && imdbJSON.has("imageURL")) {
+                        movieImageURL = imdbJSON.getString("imageURL");
+                        imdbJSON.remove("imageURL");
+                    } else {
+                        movieImageURL = imageURL;
+                    }
+                    final MovieEvent movie = new MovieEvent(title, premiseFinal, movieImageURL, productionCompany, releaseInfoFinal, imdbJSON, ratingsString, youtubeVideoIDs, sources);
                     final String string = movie.toJSON();
                     upcomingEvents.put(id, string);
-                    final String preUpcomingEventString = preUpcomingEvent.toStringWithImageURL(imageURL);
-                    loadedPreUpcomingEvents.put(id, preUpcomingEventString);
                     handler.handleString(string);
                 }
             });
@@ -343,9 +364,9 @@ public enum Movies implements UpcomingEventController, IMDbService {
             }
         }
 
-        private void getRottenTomatoesScore(String movieTitle, CompletionHandler handler) {
+        private void getRottenTomatoesScore(String movieTitle, CompletionHandler handler) { // TODO: cache rotten tomatoes document so it doesn't spam requests to same url
             final String url = "https://www.rottentomatoes.com/browse/opening";
-            final Elements elements = getDocumentElements(FileType.UPCOMING_EVENTS_HOLIDAYS, url, false, "body div.container main.container div div.layout div.layout__column div.media-list div.media-list__item div.media-list__movie-info a");
+            final Elements elements = getDocumentElements(Folder.UPCOMING_EVENTS_HOLIDAYS, url, false, "body div.container main.container div div.layout div.layout__column div.media-list div.media-list__item div.media-list__movie-info a");
             if(elements != null) {
                 final AtomicBoolean found = new AtomicBoolean(false);
                 elements.parallelStream().forEach(element -> {

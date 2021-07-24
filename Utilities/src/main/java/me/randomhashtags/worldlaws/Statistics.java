@@ -16,10 +16,10 @@ public enum Statistics implements Jsonable, QuotaHandler {
             saveQuota();
         }
         if(!totalRequests.isEmpty()) {
-            final FileType fileType = FileType.LOGS;
+            final Folder folder = Folder.LOGS;
             final LocalDate nowUTC = LocalDate.now(Clock.systemUTC());
             final String nowEpoch = "" + nowUTC.toEpochDay();
-            getJSONObject(fileType, nowEpoch, new CompletionHandler() {
+            getJSONObject(folder, nowEpoch, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     handler.handleJSONObject(new JSONObject());
@@ -78,7 +78,7 @@ public enum Statistics implements Jsonable, QuotaHandler {
                     json.put("_totalRequests", totalTotalRequests);
                     json.put("_totalUniqueRequests", totalUniqueRequests);
                     json.put("_totalUniqueIdentifiers", totalUniqueIdentifiers.size());
-                    setFileJSONObject(fileType, nowEpoch, json);
+                    setFileJSONObject(folder, nowEpoch, json);
                     if(handler != null) {
                         handler.handleObject(null);
                     }
@@ -87,10 +87,10 @@ public enum Statistics implements Jsonable, QuotaHandler {
         }
     }
     public void getTrendingJSON(CompletionHandler handler) {
-        final FileType fileType = FileType.LOGS;
+        final Folder folder = Folder.LOGS;
         final LocalDate nowUTC = LocalDate.now(Clock.systemUTC());
         final String nowEpoch = "" + nowUTC.toEpochDay();
-        getJSONObject(fileType, nowEpoch, new CompletionHandler() {
+        getJSONObject(folder, nowEpoch, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 handler.handleJSONObject(new JSONObject());

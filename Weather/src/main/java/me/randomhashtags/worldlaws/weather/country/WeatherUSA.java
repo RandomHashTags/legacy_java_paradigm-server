@@ -232,7 +232,7 @@ public enum WeatherUSA implements WeatherController {
         } else {
             final String[] values = zoneID.split("/");
             final String zoneFolder = values[0], zone = values[1];
-            getJSONObject(FileType.WEATHER_USA_ZONES, zoneFolder + File.separator + zone, new CompletionHandler() {
+            getJSONObject(Folder.WEATHER_USA_ZONES, zoneFolder + File.separator + zone, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     final String url = "https://api.weather.gov/zones/" + zoneID;

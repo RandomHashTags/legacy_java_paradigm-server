@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.info.availability.tech;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.info.availability.AvailabilityCategory;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailability;
 import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 import org.apache.logging.log4j.Level;
@@ -40,7 +41,7 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
     }
 
     private void handleString(String countryBackendID, CompletionHandler handler) {
-        countries.putIfAbsent(countryBackendID, new CountryAvailability(info.getTitle(), getImageURL(), false).toString());
+        countries.putIfAbsent(countryBackendID, new CountryAvailability(info.getTitle(), getPrimaryCategory(), getImageURL(), false).toString());
         handler.handleString(countries.get(countryBackendID));
     }
 
@@ -49,7 +50,7 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
         final long started = System.currentTimeMillis();
         countries = new HashMap<>();
         final String infoName = info.name(), title = info.getTitle();
-        final String availability = new CountryAvailability(title, getImageURL(), true).toString();
+        final String availability = new CountryAvailability(title, getPrimaryCategory(), getImageURL(), true).toString();
         final String sectionID = getSectionID(infoName);
         final Elements elements = getSectionElements(type, sectionID);
         elements.parallelStream().forEach(element -> {
@@ -106,7 +107,58 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
         }
     }
 
-    private String getImageURL() {
+    @Override
+    public AvailabilityCategory getPrimaryCategory() {
+        switch (info) {
+            case AVAILABILITY_APPLE_IOS_CARD:
+                return AvailabilityCategory.PHYSICAL_PAYMENT_METHOD;
+            case AVAILABILITY_APPLE_IOS_CARPLAY:
+            case AVAILABILITY_APPLE_IOS_MAPS_CONGESTION_ZONES:
+            case AVAILABILITY_APPLE_IOS_MAPS_DIRECTIONS:
+            case AVAILABILITY_APPLE_IOS_MAPS_SPEED_CAMERAS:
+            case AVAILABILITY_APPLE_IOS_MAPS_SPEED_LIMITS:
+            case AVAILABILITY_APPLE_IOS_MAPS_NEARBY:
+                return AvailabilityCategory.VEHICLE_SERVICE;
+            case AVAILABILITY_APPLE_IOS_PAY:
+            case AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY:
+            case AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY_IN_APP_PAYMENTS:
+                return AvailabilityCategory.DIGITAL_PAYMENT_METHOD;
+            case AVAILABILITY_APPLE_IOS_APP_STORE_APPS:
+            case AVAILABILITY_APPLE_IOS_APP_STORE_GAMES:
+            case AVAILABILITY_APPLE_IOS_ITUNES_STORE_MOVIES:
+            case AVAILABILITY_APPLE_IOS_ITUNES_STORE_MUSIC:
+            case AVAILABILITY_APPLE_IOS_ITUNES_STORE_TV_SHOWS:
+                return AvailabilityCategory.DIGITAL_STORE_SERVICE;
+            case AVAILABILITY_APPLE_IOS_ARCADE:
+                return AvailabilityCategory.GAMING_SERVICE;
+            case AVAILABILITY_APPLE_IOS_MUSIC:
+            case AVAILABILITY_APPLE_WATCH_OS_APPLE_MUSIC:
+                return AvailabilityCategory.MUSIC_SERVICE;
+            case AVAILABILITY_APPLE_IOS_SIRI:
+            case AVAILABILITY_APPLE_WATCH_OS_SIRI:
+                return AvailabilityCategory.VIRTUAL_ASSISTANT;
+            case AVAILABILITY_APPLE_IOS_TV_APP:
+            case AVAILABILITY_APPLE_IOS_TV_PLUS:
+                return AvailabilityCategory.ENTERTAINMENT_SERVICE;
+            case AVAILABILITY_APPLE_IOS_NEWS:
+            case AVAILABILITY_APPLE_IOS_NEWS_AUDIO:
+            case AVAILABILITY_APPLE_IOS_NEWS_PLUS:
+                return AvailabilityCategory.NEWS_SERVICE;
+            case AVAILABILITY_APPLE_WATCH_OS_BLOOD_OXYGEN_APP:
+            case AVAILABILITY_APPLE_WATCH_OS_ECG:
+            case AVAILABILITY_APPLE_WATCH_OS_IRREGULAR_RHYTHM_NOTIFICATION:
+                return AvailabilityCategory.HEALTH_SERVICE;
+            case AVAILABILITY_APPLE_WATCH_OS_STUDENT_ID_CARDS:
+                return AvailabilityCategory.FINANCIAL_SERVICE;
+            case AVAILABILITY_APPLE_WATCH_OS_WALKIE_TALKIE:
+                return AvailabilityCategory.COMMUNICATION_SERVICE;
+            default:
+                return null;
+        }
+    }
+
+    @Override
+    public String getImageURL() {
         switch (info) {
             case AVAILABILITY_APPLE_IOS_APP_STORE_APPS:
             case AVAILABILITY_APPLE_IOS_APP_STORE_GAMES:

@@ -56,7 +56,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     }
     void getServerResponse(APIVersion version, String target, CompletionHandler handler);
     String[] getHomeRequests();
-    private void getHomeResponse(APIVersion version, CompletionHandler handler) { // TODO: auto update home responses
+    default void getHomeResponse(APIVersion version, CompletionHandler handler) { // TODO: auto update home responses
         final TargetServer server = getServer();
         CACHED_HOME_RESPONSES.putIfAbsent(server, new HashMap<>());
         final HashMap<APIVersion, String> map = CACHED_HOME_RESPONSES.get(server);

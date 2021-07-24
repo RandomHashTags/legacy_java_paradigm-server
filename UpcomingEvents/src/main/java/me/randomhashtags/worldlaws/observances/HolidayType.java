@@ -141,9 +141,9 @@ public enum HolidayType implements Jsonable {
         } else {
             final String fileName = year + "_" + name();
             final HolidayType holidayType = this;
-            final FileType fileType = FileType.UPCOMING_EVENTS_HOLIDAYS;
-            fileType.setCustomFolderName(fileType.getFolderName(false).replace("%year%", Integer.toString(year)));
-            getJSONObject(fileType, fileName, new CompletionHandler() {
+            final Folder folder = Folder.UPCOMING_EVENTS_HOLIDAYS;
+            folder.setCustomFolderName(folder.getFolderName(false).replace("%year%", Integer.toString(year)));
+            getJSONObject(folder, fileName, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     final boolean isCountries = holidayType == COUNTRIES;
@@ -211,7 +211,7 @@ public enum HolidayType implements Jsonable {
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    fileType.resetCustomFolderName();
+                    folder.resetCustomFolderName();
                     cache = json;
                     handler.handleJSONObject(json);
                 }

@@ -24,7 +24,7 @@ public final class UpcomingEvents implements WLServer {
                 Movies.INSTANCE,
                 //NASANeo.INSTANCE,
                 //NFL.INSTANCE, // problem
-                MusicAlbums.INSTANCE,
+                //MusicAlbums.INSTANCE,
                 RocketLaunches.INSTANCE,
                 //SpaceX.INSTANCE,
                 UFC.INSTANCE,
@@ -40,9 +40,8 @@ public final class UpcomingEvents implements WLServer {
 
     UpcomingEvents() {
         dates = new HashMap<>();
-
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -51,7 +50,7 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        RecentEvents.INSTANCE.refresh(new CompletionHandler() {
+        MusicAlbums.INSTANCE.getEventsFromDate(new EventDate(Month.JULY, 30, 2021), new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 WLLogger.log(Level.INFO, "UpcomingEvents;test;string=" + string);
@@ -97,7 +96,7 @@ public final class UpcomingEvents implements WLServer {
                 if(controller != null) {
                     controller.getUpcomingEvent(values[1], handler);
                 } else {
-                    WLLogger.log(Level.ERROR, "UpcomingEventLoader - failed to getResponse for key \"" + key + "\"!");
+                    WLLogger.log(Level.ERROR, "UpcomingEvent - failed to getResponse for key \"" + key + "\"!");
                 }
                 break;
         }
@@ -125,16 +124,16 @@ public final class UpcomingEvents implements WLServer {
     }
     private void refreshEventsFromThisWeek(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
-        final LocalDate now = LocalDate.now();
+        final LocalDate now = WLUtilities.getNowUTC();
         final int targetYear = now.getYear();
         final long epochDay = now.toEpochDay();
-        final FileType fileType = FileType.UPCOMING_EVENTS;
-        fileType.setCustomFolderName(fileType.getFolderName(false).replace("%year%", Integer.toString(targetYear)).replace("%day%", Long.toString(epochDay)));
-        getJSONObject(fileType, "weekly", new CompletionHandler() {
+        final Folder folder = Folder.UPCOMING_EVENTS;
+        folder.setCustomFolderName(folder.getFolderName(false).replace("%year%", Integer.toString(targetYear)).replace("%day%", Long.toString(epochDay)));
+        getJSONObject(folder, "weekly", new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final HashSet<String> dates = new HashSet<>();
-                for(int i = 0; i < 7; i++) {
+                for(int i = -1; i < 7; i++) {
                     dates.add(getEventStringForDate(now.plusDays(i)));
                 }
 
@@ -145,20 +144,19 @@ public final class UpcomingEvents implements WLServer {
                     getEventsFromStringDate(eventDate, new CompletionHandler() {
                         @Override
                         public void handleString(String string) {
-                            if(!string.equals("{}")) {
+                            if(string != null) {
                                 final String eventDateValue = "\"" + eventDate + "\":" + string;
                                 eventValues.add(eventDateValue);
                             }
                             if(completed.addAndGet(1) == max) {
-                                final StringBuilder builder = new StringBuilder("{");
-                                boolean isFirst = true;
-                                for(String eventValue : eventValues) {
-                                    builder.append(isFirst ? "" : ",").append(eventValue);
-                                    isFirst = false;
-                                }
-                                builder.append("}");
-
                                 if(handler != null) {
+                                    final StringBuilder builder = new StringBuilder("{");
+                                    boolean isFirst = true;
+                                    for(String eventValue : eventValues) {
+                                        builder.append(isFirst ? "" : ",").append(eventValue);
+                                        isFirst = false;
+                                    }
+                                    builder.append("}");
                                     handler.handleString(builder.toString());
                                 }
                             }
@@ -169,8 +167,8 @@ public final class UpcomingEvents implements WLServer {
 
             @Override
             public void handleJSONObject(JSONObject json) {
-                fileType.resetCustomFolderName();
-                WLLogger.log(Level.INFO, "UpcomingEventLoader - refreshed events from this week (took " + (System.currentTimeMillis()-started) + "ms)");
+                folder.resetCustomFolderName();
+                WLLogger.log(Level.INFO, "UpcomingEvent - refreshed events from this week (took " + (System.currentTimeMillis()-started) + "ms)");
                 handler.handleString(json.toString());
             }
         });
@@ -202,19 +200,22 @@ public final class UpcomingEvents implements WLServer {
             controller.getEventsFromDate(date, new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
-                    if(!string.equals("{}")) {
+                    if(string != null) {
                         final String value = "\"" + controller.getType().name().toLowerCase() + "\":" + string;
                         values.add(value);
                     }
                     if(completed.addAndGet(1) == max) {
-                        final StringBuilder builder = new StringBuilder("{");
-                        boolean isFirst = true;
-                        for(String value : values) {
-                            builder.append(isFirst ? "" : ",").append(value);
-                            isFirst = false;
+                        String stringValue = null;
+                        if(!values.isEmpty()) {
+                            final StringBuilder builder = new StringBuilder("{");
+                            boolean isFirst = true;
+                            for(String value : values) {
+                                builder.append(isFirst ? "" : ",").append(value);
+                                isFirst = false;
+                            }
+                            stringValue = builder.append("}").toString();
                         }
-                        final String value = builder.append("}").toString();
-                        handler.handleString(value);
+                        handler.handleString(stringValue);
                     }
                 }
             });

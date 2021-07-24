@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.info;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
 import org.json.JSONArray;
@@ -15,8 +15,8 @@ public interface CountryValueService extends CountryService {
     int getYearOfData();
 
     @Override
-    default FileType getFileType() {
-        return FileType.COUNTRIES_VALUES;
+    default Folder getFolder() {
+        return Folder.COUNTRIES_VALUES;
     }
     @Override
     default SovereignStateInformationType getInformationType() {
@@ -27,12 +27,12 @@ public interface CountryValueService extends CountryService {
         return getValueDocumentElements(url, targetElements, -1);
     }
     default Elements getValueDocumentElements(String url, String targetElements, int index) {
-        return getDocumentElements(FileType.COUNTRIES_VALUES, url, targetElements, index);
+        return getDocumentElements(Folder.COUNTRIES_VALUES, url, targetElements, index);
     }
 
     @Override
     default void loadData(CompletionHandler handler) {
-        getJSONObject(this, new CompletionHandler() {
+        getJSONObject(new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final JSONArray array = new JSONArray(loadData());

@@ -14,8 +14,10 @@ public interface UserServer {
         new Thread(() -> executeUserInput(getUserInput())).start();
     }
     default void stopListeningForUserInput() {
-        INPUT_SCANNERS.get(this).close();
-        INPUT_SCANNERS.remove(this);
+        if(INPUT_SCANNERS.containsKey(this)) {
+            INPUT_SCANNERS.get(this).close();
+            INPUT_SCANNERS.remove(this);
+        }
     }
     private String getUserInput() {
         final Scanner scanner = INPUT_SCANNERS.get(this);

@@ -101,8 +101,6 @@ public enum UFC implements USAUpcomingEventController {
             final SportEvent ufc = new SportEvent(title, description, location, posterURL, "unknown venue", sources);
             final String string = ufc.toJSON();
             upcomingEvents.put(id, string);
-            final String preUpcomingEventString = preUpcomingEvent.toStringWithImageURL(posterURL);
-            loadedPreUpcomingEvents.put(id, preUpcomingEventString);
             handler.handleString(string);
         } else {
             handler.handleString(null);

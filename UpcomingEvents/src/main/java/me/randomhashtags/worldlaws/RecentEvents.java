@@ -33,12 +33,13 @@ public enum RecentEvents {
             final long eventStarted = System.currentTimeMillis();
             event.refresh(lastWeek, new CompletionHandler() {
                 @Override
-                public void handleString(String string) {
-                    WLLogger.log(Level.INFO, "RecentEvents - loaded " + event.getClass().getSimpleName() + " (took " + (System.currentTimeMillis()-eventStarted) + "ms)");
-                    if(string != null) {
+                public void handleHashSetString(HashSet<String> hashset) {
+                    final int amount = hashset != null ? hashset.size() : 0;
+                    WLLogger.log(Level.INFO, "RecentEvents - loaded " + amount + " recent events for " + event.getClass().getSimpleName() + " (took " + (System.currentTimeMillis()-eventStarted) + "ms)");
+                    if(amount > 0) {
                         final RecentEventType type = event.getType();
                         values.putIfAbsent(type, new HashSet<>());
-                        values.get(type).add(string);
+                        values.get(type).addAll(hashset);
                     }
                     if(completion.addAndGet(1) == max) {
                         String value = null;
@@ -48,14 +49,12 @@ public enum RecentEvents {
                             for(Map.Entry<RecentEventType, HashSet<String>> map : values.entrySet()) {
                                 final RecentEventType type = map.getKey();
                                 final HashSet<String> set = map.getValue();
-                                if(!set.isEmpty()) {
-                                    builder.append(isFirstType ? "" : ",").append("\"").append(type.getName()).append("\":{");
-                                    isFirstType = false;
-                                    boolean isFirst = true;
-                                    for(String s : set) {
-                                        builder.append(isFirst ? "" : ",").append(s);
-                                        isFirst = false;
-                                    }
+                                builder.append(isFirstType ? "" : ",").append("\"").append(type.getName()).append("\":{");
+                                isFirstType = false;
+                                boolean isFirst = true;
+                                for(String s : set) {
+                                    builder.append(isFirst ? "" : ",").append(s);
+                                    isFirst = false;
                                 }
                                 builder.append("}");
                             }

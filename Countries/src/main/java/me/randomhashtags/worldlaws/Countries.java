@@ -117,10 +117,10 @@ public final class Countries implements WLServer {
     private void loadCountries(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         countriesMap = new HashMap<>();
-        getJSONArray(FileType.COUNTRIES, "_List of sovereign states", new CompletionHandler() {
+        getJSONArray(Folder.COUNTRIES, "_List of sovereign states", new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
-                final Elements table = getDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/List_of_sovereign_states", true, "table.sortable tbody tr");
+                final Elements table = getDocumentElements(Folder.COUNTRIES, "https://en.wikipedia.org/wiki/List_of_sovereign_states", true, "table.sortable tbody tr");
                 for(int i = 1; i <= 2; i++) {
                     table.remove(0);
                 }
@@ -166,7 +166,7 @@ public final class Countries implements WLServer {
 
             @Override
             public void handleJSONArray(JSONArray array) {
-                final FileType type = FileType.COUNTRIES;
+                final Folder type = Folder.COUNTRIES;
                 final String fileName = "_Countries";
                 getJSONObject(type, fileName, new CompletionHandler() {
                     @Override
@@ -289,13 +289,13 @@ public final class Countries implements WLServer {
                     final JSONObject countryJSON = new JSONObject(country.toServerJSON());
                     countriesMap.put(country.getBackendID(), country);
                     countriesJSON.put(tag, countryJSON);
-                    setFileJSONObject(FileType.COUNTRIES, fileName, countriesJSON);
+                    setFileJSONObject(Folder.COUNTRIES, fileName, countriesJSON);
                 }
             });
         }
     }
     private void loadCountry(String tag, String unStatus, String sovereigntyDispute, String url, CompletionHandler handler) {
-        final Document doc = getDocument(FileType.COUNTRIES_COUNTRIES, url, true);
+        final Document doc = getDocument(Folder.COUNTRIES_COUNTRIES, url, true);
         if(doc != null) {
             final CustomCountry country = new CustomCountry(tag, unStatus, sovereigntyDispute, doc);
             handler.handleCustomCountry(country);

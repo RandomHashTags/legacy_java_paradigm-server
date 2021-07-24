@@ -19,8 +19,8 @@ public interface CountryRankingService extends CountryService {
     int getYearOfData();
 
     @Override
-    default FileType getFileType() {
-        return FileType.COUNTRIES_RANKINGS;
+    default Folder getFolder() {
+        return Folder.COUNTRIES_RANKINGS;
     }
 
     @Override
@@ -32,7 +32,7 @@ public interface CountryRankingService extends CountryService {
         return getRankingDocumentElements(url, targetElements, -1);
     }
     default Elements getRankingDocumentElements(String url, String targetElements, int index) {
-        return getDocumentElements(FileType.COUNTRIES_RANKINGS, url, targetElements, index);
+        return getDocumentElements(Folder.COUNTRIES_RANKINGS, url, targetElements, index);
     }
 
     String getRankedJSON();
@@ -40,7 +40,7 @@ public interface CountryRankingService extends CountryService {
 
     @Override
     default void loadData(CompletionHandler handler) {
-        getJSONObject(this, new CompletionHandler() {
+        getJSONObject(new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 handleJSONArrayCompletion(new JSONArray(loadData()), getMaxWorldRankOffset(), handler);
@@ -84,7 +84,7 @@ public interface CountryRankingService extends CountryService {
         builder.append("}");
         setRankedJSON(toRankedJSON(list));
         final JSONObject json = new JSONObject(builder.toString());
-        setFileJSONObject(getFileType(), getInfo().getTitle(), json);
+        setFileJSONObject(getFolder(), getInfo().getTitle(), json);
         handler.handleJSONObject(json);
     }
 

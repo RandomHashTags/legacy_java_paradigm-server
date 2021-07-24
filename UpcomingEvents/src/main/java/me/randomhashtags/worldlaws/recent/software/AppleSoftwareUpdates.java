@@ -48,37 +48,31 @@ public enum AppleSoftwareUpdates implements RecentEventController, Jsoupable {
                     final LocalDate localDate = LocalDate.of(year, month, day);
                     if(localDate.isAfter(startingDate)) {
                         final Element nameElement = tds.get(0);
-                        final String name = nameElement.text();
+                        String name = nameElement.text();
                         if(name.startsWith("***REMOVED***")
                                 || name.startsWith("***REMOVED***") || name.startsWith("***REMOVED***") || name.startsWith("***REMOVED***") || name.startsWith("***REMOVED***")
                                 || name.startsWith("***REMOVED***") || name.startsWith("Apple TV")
                                 || name.startsWith("***REMOVED***")
                                 || name.startsWith("***REMOVED***")
                         ) {
-                            final String id = name.toLowerCase().replace(" ", "");
-                            final PreRecentEvent preRecentEvent = new PreRecentEvent(id, name, null, null);
+                            String id = name.toLowerCase().replace(" ", "");
+                            final String description = id.contains("(detailsavailablesoon)") ? "Details available soon" : null;
+                            if(description != null) {
+                                id = id.replace("(detailsavailablesoon)", "");
+                                name = name.replace(" (details available soon)", "");
+                            }
+                            final PreRecentEvent preRecentEvent = new PreRecentEvent(id, name, description, null);
                             updates.add(preRecentEvent.toString());
                         }
                     }
                 }
                 if(completed.addAndGet(1) == max) {
-                    String string = null;
-                    if(!updates.isEmpty()) {
-                        final StringBuilder builder = new StringBuilder("{");
-                        boolean isFirst = true;
-                        for(String update : updates) {
-                            builder.append(isFirst ? "" : ",").append(update);
-                            isFirst = false;
-                        }
-                        builder.append("}");
-                        string = builder.toString();
-                    }
-                    handler.handleString(string);
+                    handler.handleHashSetString(updates);
                 }
             });
         } else {
             WLLogger.log(Level.ERROR, "AppleSoftwareUpdates - doc == nil!");
-            handler.handleString(null);
+            handler.handleHashSetString(null);
         }
     }
 }

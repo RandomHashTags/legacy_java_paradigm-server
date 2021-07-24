@@ -21,7 +21,7 @@ public interface IHoliday extends Jsoupable {
     private Document getDocument(HolidayType holidayType) {
         final String url = getWikipediaURL(), name = getName();
         final String fileName = holidayType.name().replace("_EAST", "").replace("_WEST", "") + "_" + name;
-        return getDocument(FileType.UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS, fileName, url, true);
+        return getDocument(Folder.UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS, fileName, url, true);
     }
     default void getDescription(HolidayType holidayType, CompletionHandler handler) {
         final Document doc = getDocument(holidayType);

@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.country.Politicians;
 import me.randomhashtags.worldlaws.country.PreEnactedBill;
 import me.randomhashtags.worldlaws.country.usa.BillStatus;
 import me.randomhashtags.worldlaws.country.usa.USChamber;
+import me.randomhashtags.worldlaws.country.usa.USLaws;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -32,13 +33,9 @@ public enum USCongress implements Jsoupable, Jsonable {
         congress.version = Math.max(version, 93);
         return congress;
     }
-    public static int getCurrentAdministrationVersion() {
-        final int startingYear = 1973, startingCongress = 93, todayYear = WLUtilities.getTodayYear();
-        final int difference = todayYear - startingYear;
-        return startingCongress + (difference/2);
-    }
+
     private boolean isCurrentAdministration() {
-        return version == getCurrentAdministrationVersion();
+        return version == USLaws.INSTANCE.getCurrentAdministrationVersion();
     }
 
     private String getVersion() {
@@ -55,15 +52,15 @@ public enum USCongress implements Jsoupable, Jsonable {
         }
         if(statuses.containsKey(status)) {
             handler.handleString(statuses.get(status));
-        } else if(version == getCurrentAdministrationVersion()) {
+        } else if(version == USLaws.INSTANCE.getCurrentAdministrationVersion()) {
             getBillsBySearch(status, handler);
         } else {
             final long started = System.currentTimeMillis();
             final String statusName = status.name(), suffix = " bills with status " + statusName + " for congress " + version + " (took %time%ms)";
-            final FileType fileType = FileType.LAWS_USA_CONGRESS;
-            final String folderName = fileType.getFolderName(false).replace("%version%", "" + version);
-            fileType.setCustomFolderName(folderName);
-            getJSONObject(fileType, "bill status: " + statusName.toLowerCase(), new CompletionHandler() {
+            final Folder folder = Folder.LAWS_USA_CONGRESS;
+            final String folderName = folder.getFolderName(false).replace("%version%", "" + version);
+            folder.setCustomFolderName(folderName);
+            getJSONObject(folder, "bill status: " + statusName.toLowerCase(), new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     getBillsBySearch(status, handler);
@@ -71,7 +68,7 @@ public enum USCongress implements Jsoupable, Jsonable {
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    fileType.resetCustomFolderName();
+                    folder.resetCustomFolderName();
                     final String string = json.toString();
                     statuses.put(status, string);
                     WLLogger.log(Level.INFO, "USCongress - loaded" + suffix.replace("%time%", Long.toString(System.currentTimeMillis()-started)));
@@ -171,10 +168,10 @@ public enum USCongress implements Jsoupable, Jsonable {
             final long started = System.currentTimeMillis();
             final int versionInt = version;
             final String version = "" + versionInt;
-            final FileType fileType = FileType.LAWS_USA_CONGRESS;
-            final String folderName = fileType.getFolderName(false).replace("%version%", version);
-            fileType.setCustomFolderName(folderName);
-            getJSONObject(fileType, "enacted bills", new CompletionHandler() {
+            final Folder folder = Folder.LAWS_USA_CONGRESS;
+            final String folderName = folder.getFolderName(false).replace("%version%", version);
+            folder.setCustomFolderName(folderName);
+            getJSONObject(folder, "enacted bills", new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     final String version = getVersioned();
@@ -241,7 +238,7 @@ public enum USCongress implements Jsoupable, Jsonable {
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    fileType.resetCustomFolderName();
+                    folder.resetCustomFolderName();
                     final String string = json.toString();
                     enactedBills.put(versionInt, string);
                     WLLogger.log(Level.INFO, "USCongress - loaded enacted bills for congress " + version + " (took " + (System.currentTimeMillis()-started) + "ms)");
@@ -260,10 +257,10 @@ public enum USCongress implements Jsoupable, Jsonable {
             final long started = System.currentTimeMillis();
             final int versionInt = this.version;
             final String version = getVersioned();
-            final FileType fileType = FileType.LAWS_USA_CONGRESS;
-            final String chamberName = chamber.name(), chamberNameLowercase = chamberName.toLowerCase(), folderName = fileType.getFolderName(false).replace("%version%", "" + versionInt) + File.separator + chamberNameLowercase;
-            fileType.setCustomFolderName(folderName);
-            getJSONObject(fileType, id, new CompletionHandler() {
+            final Folder folder = Folder.LAWS_USA_CONGRESS;
+            final String chamberName = chamber.name(), chamberNameLowercase = chamberName.toLowerCase(), folderName = folder.getFolderName(false).replace("%version%", "" + versionInt) + File.separator + chamberNameLowercase;
+            folder.setCustomFolderName(folderName);
+            getJSONObject(folder, id, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     final String targetURL = "https://www.congress.gov/bill/" + version + "-congress/" + chamberNameLowercase + "-bill/" + id + "/all-info";
@@ -303,7 +300,7 @@ public enum USCongress implements Jsoupable, Jsonable {
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    fileType.resetCustomFolderName();
+                    folder.resetCustomFolderName();
                     final String id = json.getString("id"), title = json.getString("title"), string = json.toString();
                     bills.put(id, string);
                     WLLogger.log(Level.INFO, "USCongress - loaded bill from chamber \"" + chamberName + "\" with title \"" + title + "\" for congress " + versionInt + " (took " + (System.currentTimeMillis()-started) + "ms)");
@@ -363,7 +360,6 @@ public enum USCongress implements Jsoupable, Jsonable {
             if(!table.isEmpty()) {
                 final int max = table.size();
                 final Politicians politicians = Politicians.INSTANCE;
-                final StringBuilder builder = new StringBuilder("{");
                 final HashSet<String> cosponsors = new HashSet<>();
                 table.parallelStream().forEach(elements -> {
                     final String profileSlug = elements.attr("href").split("https://www\\.congress\\.gov")[1];
@@ -372,12 +368,13 @@ public enum USCongress implements Jsoupable, Jsonable {
                         public void handleString(String string) {
                             cosponsors.add(string);
                             if(cosponsors.size() == max) {
+                                final StringBuilder builder = new StringBuilder("[");
                                 boolean isFirst = true;
                                 for(String cosponsor : cosponsors) {
                                     builder.append(isFirst ? "" : ",").append(cosponsor);
                                     isFirst = false;
                                 }
-                                builder.append("}");
+                                builder.append("]");
                                 handler.handleString(builder.toString());
                             }
                         }

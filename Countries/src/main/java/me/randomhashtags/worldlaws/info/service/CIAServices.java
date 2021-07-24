@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.info.service;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.ServerObject;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.location.SovereignStateInfo;
@@ -43,12 +43,12 @@ public enum CIAServices implements CountryService {
         if(countries.containsKey(shortName)) {
             handler.handleCountryResources(countries.get(shortName));
         } else {
-            final FileType fileType = getFileType();
+            final Folder folder = getFolder();
             final String fileName = "CIA";
-            getJSONObject(fileType, fileName, new CompletionHandler() {
+            getJSONObject(folder, fileName, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
-                    loadCIAValues(started, fileType, shortName, new CompletionHandler() {
+                    loadCIAValues(started, folder, shortName, new CompletionHandler() {
                         @Override
                         public void handleString(String string) {
                             final String value = "{\"" + shortName + "\":" + string + "}";
@@ -65,7 +65,7 @@ public enum CIAServices implements CountryService {
                         countries.put(shortName, resources);
                         handler.handleCountryResources(resources);
                     } else {
-                        loadCIAValues(started, fileType, shortName, new CompletionHandler() {
+                        loadCIAValues(started, folder, shortName, new CompletionHandler() {
                             @Override
                             public void handleString(String string) {
                                 final JSONObject ciaJSON = new JSONObject(string);
@@ -73,7 +73,7 @@ public enum CIAServices implements CountryService {
                                 final HashSet<CountryResource> resources = getResourcesFrom(values);
                                 countries.put(shortName, resources);
                                 json.put(shortName, ciaJSON);
-                                setFileJSONObject(fileType, fileName, json);
+                                setFileJSONObject(folder, fileName, json);
                                 handler.handleCountryResources(resources);
                             }
                         });
@@ -90,12 +90,12 @@ public enum CIAServices implements CountryService {
         return set;
     }
 
-    private void loadCIAValues(long started, FileType fileType, String shortName, CompletionHandler handler) {
+    private void loadCIAValues(long started, Folder folder, String shortName, CompletionHandler handler) {
         String summaryURL = null, travelFactsURL = null, key = null;
 
         final String prefix = "https://www.cia.gov/";
         final String url = prefix + "the-world-factbook/countries/" + shortName.toLowerCase().replace(" ", "-").replace(",", "") + "/";
-        final Elements elements = getDocumentElements(fileType, url, "div.thee-link-container a");
+        final Elements elements = getDocumentElements(folder, url, "div.thee-link-container a");
         final String string;
         if(elements != null) {
             for(Element element : elements) {

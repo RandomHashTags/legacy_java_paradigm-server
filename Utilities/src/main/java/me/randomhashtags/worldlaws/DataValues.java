@@ -69,20 +69,20 @@ public interface DataValues extends Jsonable {
         });
     }
     default void setJSONDataValue(JSONDataValue value, JSONObject json) {
-        final FileType fileType = FileType.OTHER;
+        final Folder folder = Folder.OTHER;
         final String fileName = "data values", identifier = value.getIdentifier();
         getDataValuesJSON(new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject dataValuesJSON) {
                 dataValuesJSON.put(identifier, json);
-                setFileJSONObject(fileType, fileName, dataValuesJSON);
+                setFileJSONObject(folder, fileName, dataValuesJSON);
             }
         });
     }
     private void getDataValuesJSON(CompletionHandler handler) {
-        final FileType fileType = FileType.OTHER;
+        final Folder folder = Folder.OTHER;
         final String fileName = "data values";
-        getJSONObject(fileType, fileName, new CompletionHandler() {
+        getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 handler.handleJSONObject(new JSONObject());

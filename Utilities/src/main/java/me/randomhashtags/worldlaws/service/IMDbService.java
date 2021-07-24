@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.service;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.DataValues;
-import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsoupable;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -15,12 +15,12 @@ public interface IMDbService extends DataValues {
     default void getIMDbMovieDetails(String title, int year, CompletionHandler handler) {
         final String lowercaseTitle = title.toLowerCase();
         final String url = "https://www.imdb.com/find?q=" + lowercaseTitle.replace(" ", "+");
-        final Elements elements = Jsoupable.getStaticDocumentElements(FileType.OTHER, url, false, "div div.redesign div.pagecontent div div div.article div.findSection table.findList tr.findResult");
+        final Elements elements = Jsoupable.getStaticDocumentElements(Folder.OTHER, url, false, "div div.redesign div.pagecontent div div div.article div.findSection table.findList tr.findResult");
         if(elements != null) {
             for(Element element : elements) {
                 final Element resultText = element.selectFirst("td.result_text");
                 final String text = resultText.text().toLowerCase();
-                if(hasTitle(lowercaseTitle, year, text)) {
+                if(hasMovieTitle(lowercaseTitle, year, text)) {
                     final String id = resultText.selectFirst("a").attr("href").split("/")[2];
                     getMovie(id, handler);
                     return;
@@ -29,24 +29,21 @@ public interface IMDbService extends DataValues {
         }
         handler.handleString(null);
     }
-    private boolean hasTitle(String title, int year, String text) {
+    private boolean hasMovieTitle(String title, int year, String text) {
         if(text.contains("(" + year + ")") && !text.contains("(video game)") && !text.contains("(tv series)")) {
-            if(text.contains(title)
+            return text.contains(title)
                     || text.contains(title.replace("part one", "part 1"))
                     || text.contains(title.replace("part two", "part 2"))
                     || text.contains(title.replace("part three", "part 3"))
                     || text.contains(title.replace("part 1", "part one"))
                     || text.contains(title.replace("part 2", "part two"))
-                    || text.contains(title.replace("part 3", "part three"))
-            ) {
-                return true;
-            }
+                    || text.contains(title.replace("part 3", "part three"));
         }
         return false;
     }
     private void getMovie(String id, CompletionHandler handler) {
         final String url = "https://www.imdb.com/title/" + id + "/";
-        final Document doc = Jsoupable.getStaticDocument(FileType.OTHER, url, false);
+        final Document doc = Jsoupable.getStaticDocument(Folder.OTHER, url, false);
         if(doc != null) {
             final Elements scripts = doc.select("script");
             scripts.removeIf(script -> !script.hasAttr("id") || !script.attr("id").equals("__NEXT_DATA__"));
@@ -75,7 +72,7 @@ public interface IMDbService extends DataValues {
                                     genresArray = titleJSON.getJSONObject("genres").getJSONArray("genres");
                                 }
 
-                                if(certificateJSON == null) {
+                                if(certificateJSON == null && titleJSON.get("certificate") instanceof JSONObject) {
                                     final JSONObject test = titleJSON.getJSONObject("certificate");
                                     if(test.has("ratingReason")) {
                                         certificateJSON = test;
@@ -83,7 +80,7 @@ public interface IMDbService extends DataValues {
                                 }
 
                                 if(runtimeJSON == null) {
-                                    runtimeJSON = titleJSON.getJSONObject("runtime");
+                                    runtimeJSON = titleJSON.get("runtime") instanceof JSONObject ? titleJSON.getJSONObject("runtime") : null;
                                 }
 
                                 if(primaryImageURL != null && certificateJSON != null && runtimeJSON != null && genresArray != null) {
@@ -102,7 +99,7 @@ public interface IMDbService extends DataValues {
                                     imdbJSON.put("ratingReason", ratingReason);
                                     imdbJSON.put("runtimeSeconds", runtimeSeconds);
                                     imdbJSON.put("genres", genres);
-                                    imdbJSON.put("primaryImageURL", primaryImageURL);
+                                    imdbJSON.put("imageURL", primaryImageURL);
                                     imdbJSON.put("source", url);
                                     handler.handleJSONObject(imdbJSON);
                                     return;

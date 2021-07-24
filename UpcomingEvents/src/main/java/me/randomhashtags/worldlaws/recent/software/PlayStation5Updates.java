@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.recent.software;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventDate;
-import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
@@ -12,6 +12,7 @@ import org.jsoup.select.Elements;
 
 import java.time.LocalDate;
 import java.time.Month;
+import java.util.HashSet;
 
 public enum PlayStation5Updates implements RecentEventController, Jsoupable {
     INSTANCE;
@@ -24,7 +25,7 @@ public enum PlayStation5Updates implements RecentEventController, Jsoupable {
     @Override
     public void refresh(LocalDate startingDate, CompletionHandler handler) {
         final String url = "https://www.playstation.com/en-us/support/hardware/ps5/system-software/";
-        final Elements box = getDocumentElements(FileType.OTHER, url, false, "div.gdk div.cmp-container div.gdk div.cmp-container div.section section.section--light div div.contentgrid div.content-grid div.box");
+        final Elements box = getDocumentElements(Folder.OTHER, url, false, "div.gdk div.cmp-container div.gdk div.cmp-container div.section section.section--light div div.contentgrid div.content-grid div.box");
         if(box != null) {
             final Elements elements = box.select("div.textblock div.text-block p");
             final String string = elements.get(0).text();
@@ -44,12 +45,13 @@ public enum PlayStation5Updates implements RecentEventController, Jsoupable {
                     isFirst = false;
                 }
                 final PreRecentEvent event = new PreRecentEvent("ps5Update", updateNotesTitle, description.toString(), null);
-                handler.handleString(event.toString());
+                final HashSet<String> hashset = new HashSet<>() {{ add(event.toString()); }};
+                handler.handleHashSetString(hashset);
             } else {
-                handler.handleString(null);
+                handler.handleHashSetString(null);
             }
         } else {
-            handler.handleString(null);
+            handler.handleHashSetString(null);
         }
     }
 }

@@ -57,7 +57,7 @@ public enum WordOfTheDay implements WLService {
 
     private void getWordOfTheDay(String dateString, CompletionHandler handler) {
         final String url = "https://www.merriam-webster.com/word-of-the-day/" + dateString;
-        final Elements mainArticle = getDocumentElements(FileType.OTHER, url, "main article");
+        final Elements mainArticle = getDocumentElements(Folder.OTHER, url, "main article");
 
         if(mainArticle != null) {
             final Elements elements = mainArticle.select("div.article-header-container div.quick-def-box div.word-header div.word-and-pronunciation h1");

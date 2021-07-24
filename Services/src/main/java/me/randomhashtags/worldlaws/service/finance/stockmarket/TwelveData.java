@@ -107,7 +107,7 @@ public enum TwelveData implements StockService {
 
     @Override
     public void getChart(APIVersion version, String symbol, CompletionHandler handler) {
-        getJSONObject(FileType.SERVICES_FINANCE_YAHOO_TWELVE_DATA_CHARTS, symbol, new CompletionHandler() {
+        getJSONObject(Folder.SERVICES_FINANCE_YAHOO_TWELVE_DATA_CHARTS, symbol, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 makeQuotaRequest(JSONDataValue.FINANCE_TWELVE_DATA, new CompletionHandler() {

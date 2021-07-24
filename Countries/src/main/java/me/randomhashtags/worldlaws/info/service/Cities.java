@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.info.service;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
@@ -52,7 +52,7 @@ public enum Cities implements CountryService {
         cities = new HashMap<>();
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Lists_of_cities_by_country";
-        final Elements elements = getDocumentElements(FileType.COUNTRIES, url, "div.mw-parser-output ul li");
+        final Elements elements = getDocumentElements(Folder.COUNTRIES, url, "div.mw-parser-output ul li");
         elements.removeIf(element -> element.select("b").isEmpty());
         for(Element element : elements) {
             final Element link = element.select("b").get(0).select("a").get(0);

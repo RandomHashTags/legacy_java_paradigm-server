@@ -29,10 +29,10 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
             @Override
             public void handleJSONObject(JSONObject json) {
                 if(json.isEmpty()) {
-                    requestSpotifyToken(getRequestSpotifyTokenHandler(handler));
+                    requestSpotifyToken(getRequestSpotifyTokenCompletionHandler(handler));
                 } else {
                     if(System.currentTimeMillis() >= json.getLong("expiration")) {
-                        requestSpotifyToken(getRequestSpotifyTokenHandler(handler));
+                        requestSpotifyToken(getRequestSpotifyTokenCompletionHandler(handler));
                     } else {
                         handler.handleJSONObject(json);
                     }
@@ -40,7 +40,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
             }
         });
     }
-    private CompletionHandler getRequestSpotifyTokenHandler(CompletionHandler handler) {
+    private CompletionHandler getRequestSpotifyTokenCompletionHandler(CompletionHandler handler) {
         return new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
@@ -106,15 +106,15 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
                                             artistJSON.remove("id");
                                             artistJSON.remove("type");
                                             if(hasArtist(artists, artistName)) {
-                                                String hdImageURL = null;
+                                                String imageURL = null;
                                                 for(Object imageObj : artistJSON.getJSONArray("images")) {
                                                     final JSONObject imageJSON = (JSONObject) imageObj;
                                                     if(imageJSON.getInt("width") == 640) {
-                                                        hdImageURL = imageJSON.getString("url");
+                                                        imageURL = imageJSON.getString("url");
                                                         break;
                                                     }
                                                 }
-                                                itemJSON.put("hdImageURL", hdImageURL);
+                                                itemJSON.put("imageURL", imageURL);
                                                 itemJSON.remove("images");
                                                 itemJSON.remove("name");
                                                 itemJSON.remove("id");
@@ -141,7 +141,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
                                     final JSONObject finalTargetJSON = targetJSON;
                                     StreamSupport.stream(availableMarketsArray.spliterator(), true).forEach(marketObj -> {
                                         final String countryAbbreviation = (String) marketObj;
-                                        final WLCountry country = WLCountry.valueOfAbbreviation(countryAbbreviation);
+                                        final WLCountry country = WLCountry.valueOfISOAlpha2(countryAbbreviation);
                                         if(country != null) {
                                             availableCountries.put(country.getBackendID());
                                         }

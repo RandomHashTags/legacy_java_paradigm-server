@@ -20,8 +20,8 @@ public final class Services implements WLServer {
 
     private Services() {
         stockService = YahooFinance.INSTANCE;
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override

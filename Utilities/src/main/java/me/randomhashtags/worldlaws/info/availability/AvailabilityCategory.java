@@ -1,0 +1,17 @@
+package me.randomhashtags.worldlaws.info.availability;
+
+public enum AvailabilityCategory {
+    COMMUNICATION_SERVICE,
+    DIGITAL_PAYMENT_METHOD,
+    DIGITAL_STORE_SERVICE,
+    ENTERTAINMENT_SERVICE,
+    FINANCIAL_SERVICE,
+    GAMING_SERVICE,
+    HEALTH_SERVICE,
+    MUSIC_SERVICE,
+    NEWS_SERVICE,
+    PHYSICAL_PAYMENT_METHOD,
+    VEHICLE_SERVICE,
+    VIRTUAL_ASSISTANT,
+    ;
+}

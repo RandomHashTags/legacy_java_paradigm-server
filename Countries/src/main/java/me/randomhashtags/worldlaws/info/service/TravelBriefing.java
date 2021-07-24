@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.info.service;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.location.SovereignStateInfo;
@@ -48,7 +48,7 @@ public enum TravelBriefing implements CountryService {
         if(countries.containsKey(targetCountry)) {
             handler.handleString(countries.get(targetCountry));
         } else {
-            getJSONObject(FileType.COUNTRIES_SERVICES_TRAVEL_BRIEFING, country, new CompletionHandler() {
+            getJSONObject(Folder.COUNTRIES_SERVICES_TRAVEL_BRIEFING, country, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     String country = targetCountry;

@@ -20,8 +20,8 @@ public enum Wikipedia implements CountryService {
     private Elements featuredPicturesElements, nationalAnimalsElements;
 
     @Override
-    public FileType getFileType() {
-        return FileType.COUNTRIES_SERVICES_WIKIPEDIA;
+    public Folder getFolder() {
+        return Folder.COUNTRIES_SERVICES_WIKIPEDIA;
     }
 
     @Override
@@ -47,7 +47,7 @@ public enum Wikipedia implements CountryService {
             handler.handleString(countries.get(tag));
         } else {
             final long started = System.currentTimeMillis();
-            getJSONObject(FileType.COUNTRIES_SERVICES_WIKIPEDIA, tag, new CompletionHandler() {
+            getJSONObject(Folder.COUNTRIES_SERVICES_WIKIPEDIA, tag, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     loadWikipedia(tag, handler);
@@ -66,12 +66,12 @@ public enum Wikipedia implements CountryService {
 
     private void loadWikipedia(String tag, CompletionHandler handler) {
         final String url = "https://en.wikipedia.org/wiki/" + tag.replace(" ", "_");
-        final FileType fileType = getFileType();
+        final Folder folder = getFolder();
         Document document = null;
         try {
-            document = Jsoupable.getLocalDocument(fileType, url);
+            document = Jsoupable.getLocalDocument(folder, url);
             if(document == null) {
-                document = getDocument(fileType, url);
+                document = getDocument(folder, url);
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -124,7 +124,7 @@ public enum Wikipedia implements CountryService {
     }
 
     private void getFeaturedPictures(String tag, CompletionHandler handler) {
-        getJSONObject(FileType.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES, tag, new CompletionHandler() {
+        getJSONObject(Folder.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES, tag, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final String country = tag.toLowerCase();
@@ -135,7 +135,7 @@ public enum Wikipedia implements CountryService {
                 if(target.isPresent()) {
                     final StringBuilder builder = new StringBuilder("{");
                     final String prefix = "https://commons.wikimedia.org", url = prefix + target.get().attr("href");
-                    final Elements pictures = getDocumentElements(FileType.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES, url, "div.mw-body div.mw-body-content div.mw-content-ltr div.mw-category-generated div ul.gallery li.gallerybox div div.thumb div a.image");
+                    final Elements pictures = getDocumentElements(Folder.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES, url, "div.mw-body div.mw-body-content div.mw-content-ltr div.mw-category-generated div ul.gallery li.gallerybox div div.thumb div a.image");
                     boolean isFirst = true;
                     int added = 0;
                     for(Element picture : pictures) {
@@ -178,19 +178,19 @@ public enum Wikipedia implements CountryService {
     }
     private Elements getFeaturedPicturesElements() {
         if(featuredPicturesElements == null) {
-            featuredPicturesElements = getDocumentElements(FileType.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES, "https://commons.wikimedia.org/wiki/Category:Featured_pictures_by_country", "div.mw-body div.mw-body-content div.mw-content-ltr div.mw-category-generated div div.mw-content-ltr div.mw-category div.mw-category-group ul li a");
+            featuredPicturesElements = getDocumentElements(Folder.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES, "https://commons.wikimedia.org/wiki/Category:Featured_pictures_by_country", "div.mw-body div.mw-body-content div.mw-content-ltr div.mw-category-generated div div.mw-content-ltr div.mw-category div.mw-category-group ul li a");
         }
         return featuredPicturesElements;
     }
     private Elements getNationalAnimalsElements() {
         if(nationalAnimalsElements == null) {
-            nationalAnimalsElements = getDocumentElements(FileType.COUNTRIES_SERVICES_WIKIPEDIA, "https://en.wikipedia.org/wiki/List_of_national_animals", "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+            nationalAnimalsElements = getDocumentElements(Folder.COUNTRIES_SERVICES_WIKIPEDIA, "https://en.wikipedia.org/wiki/List_of_national_animals", "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         }
         return nationalAnimalsElements;
     }
 
     private void getNationalAnimals(String tag, CompletionHandler animalHandler) {
-        getJSONObject(FileType.COUNTRIES_SERVICES_WIKIPEDIA, "_National Animals", new CompletionHandler() {
+        getJSONObject(Folder.COUNTRIES_SERVICES_WIKIPEDIA, "_National Animals", new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final Elements nationalAnimalsElements = getNationalAnimalsElements();

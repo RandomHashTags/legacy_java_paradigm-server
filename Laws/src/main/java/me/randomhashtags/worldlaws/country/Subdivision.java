@@ -4,7 +4,8 @@ import me.randomhashtags.worldlaws.LocalServer;
 
 public final class Subdivision {
 
-    private String title, description;
+    private final String title;
+    private String description;
 
     public Subdivision(String title, String description) {
         this.title = LocalServer.fixEscapeValues(title);

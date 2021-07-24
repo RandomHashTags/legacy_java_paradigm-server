@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.info.list;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.info.availability.AvailabilityCategory;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureAvailability;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureType;
 import me.randomhashtags.worldlaws.info.service.CountryServiceValue;
@@ -26,6 +27,16 @@ public enum Flyover implements AppleFeatureAvailability {
     }
 
     @Override
+    public AvailabilityCategory getPrimaryCategory() {
+        return null;
+    }
+
+    @Override
+    public String getImageURL() {
+        return null;
+    }
+
+    @Override
     public SovereignStateInformationType getInformationType() {
         return SovereignStateInformationType.SERVICES;
     }
@@ -33,7 +44,7 @@ public enum Flyover implements AppleFeatureAvailability {
     @Override
     public void loadData(CompletionHandler handler) {
         final String fileName = getInfo().getTitle();
-        getJSONObject(getFileType(), fileName, new CompletionHandler() {
+        getJSONObject(getFolder(), fileName, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final Elements elements = getSectionElements(AppleFeatureType.IOS, "maps-flyover");

@@ -222,8 +222,6 @@ public enum VideoGames implements UpcomingEventController {
                     final VideoGameEvent event = new VideoGameEvent(title, desc, coverArtURL, realPlatforms, array, sources);
                     final String string = event.toJSON();
                     upcomingEvents.put(id, string);
-                    final String preUpcomingEventString = preUpcomingEvent.toStringWithImageURL(coverArtURL);
-                    loadedPreUpcomingEvents.put(id, preUpcomingEventString);
                     handler.handleString(string);
                 }
             });

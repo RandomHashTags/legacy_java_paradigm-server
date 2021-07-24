@@ -58,7 +58,7 @@ public enum RocketLaunches implements UpcomingEventController {
                     final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
                     final AtomicInteger completed = new AtomicInteger(0);
                     final int max = launches.length();
-                    StreamSupport.stream(launches.spliterator(), true).parallel().forEach(obj -> {
+                    StreamSupport.stream(launches.spliterator(), true).forEach(obj -> {
                         final JSONObject launchJSON = (JSONObject) obj;
                         final JSONObject rocketConfigurationJSON = launchJSON.getJSONObject("rocket").getJSONObject("configuration"), padJSON = launchJSON.getJSONObject("pad");
                         final JSONObject serviceProvider = launchJSON.getJSONObject("launch_service_provider");

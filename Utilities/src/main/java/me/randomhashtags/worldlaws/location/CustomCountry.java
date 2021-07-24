@@ -3,14 +3,17 @@ package me.randomhashtags.worldlaws.location;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
+import me.randomhashtags.worldlaws.law.LawUtilities;
 import org.apache.commons.text.StringEscapeUtils;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
@@ -18,10 +21,10 @@ import java.util.stream.Stream;
 
 public final class CustomCountry implements SovereignState, ServerObject {
 
-    private static Elements ISO_ALPHA_2_ELEMENTS;
-
     private final String tag, unStatus, sovereigntyDispute, shortName, name;
-    private String flagURL, flagEmoji;
+    private String isoAlpha2, flagURL, flagEmoji;
+    private int currentGovernmentAdministration;
+    private HashSet<Integer> governmentAdministrations;
     private WLTimeZone[] timezones;
     private String information;
 
@@ -29,10 +32,6 @@ public final class CustomCountry implements SovereignState, ServerObject {
         this.tag = tag;
         this.unStatus = unStatus;
         this.sovereigntyDispute = sovereigntyDispute;
-        if(ISO_ALPHA_2_ELEMENTS == null) {
-            ISO_ALPHA_2_ELEMENTS = Jsoupable.getStaticDocumentElements(FileType.COUNTRIES, "https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2", true, "div.mw-parser-output table.wikitable", 2).select("tbody tr");
-            ISO_ALPHA_2_ELEMENTS.remove(0);
-        }
         final Elements infobox = page.select("table.infobox tbody tr");
 
         shortName = tag.equalsIgnoreCase("artsakh") ? tag
@@ -51,9 +50,12 @@ public final class CustomCountry implements SovereignState, ServerObject {
                 .replaceFirst(" \\(country\\)", "");
         name = infobox.size() > 0 ? removeReferences(infobox.get(0).select("th div.fn").get(0).text()) : shortName;
 
-        setupFlagURL();
         final WLCountry wlcountry = getWLCountry();
         if(wlcountry != null) {
+            isoAlpha2 = wlcountry.getISOAlpha2();
+            if(isoAlpha2 != null) {
+                flagURL = "https://raw.githubusercontent.com/stsrki/country-flags/master/png1000px/" + isoAlpha2.toLowerCase() + ".png";
+            }
             flagEmoji = wlcountry.getFlagEmoji();
             timezones = wlcountry.getTimeZones();
         }
@@ -88,35 +90,22 @@ public final class CustomCountry implements SovereignState, ServerObject {
         return StringEscapeUtils.escapeJava(flagEmoji);
     }
 
-    private void setupFlagURL() {
-        final String backendID = getBackendID();
-        final Stream<Element> elements = ISO_ALPHA_2_ELEMENTS.parallelStream().filter(row -> {
-            final Elements tds = row.select("td");
-            if(tds.size() < 2) {
-                return false;
-            }
-            final String country = tds.get(1).text().toLowerCase().split(" \\(")[0];
-            return backendID.equalsIgnoreCase(country.replace(" ", "")) || shortName.equalsIgnoreCase(country) || name.equalsIgnoreCase(country);
-        });
-        final Optional<Element> firstElement = elements.findFirst();
-        if(firstElement.isPresent()) {
-            final String isoAlpha2 = firstElement.get().select("td").get(0).text();
-            flagURL = "https://raw.githubusercontent.com/stsrki/country-flags/master/png1000px/" + isoAlpha2.toLowerCase() + ".png";
-        }
-    }
-
     @Override
     public void getInformation(APIVersion version, CompletionHandler handler) {
         if(information != null) {
             handler.handleString(information);
         } else {
             final long started = System.currentTimeMillis();
-            getJSONObject(FileType.COUNTRIES_INFORMATION, shortName, new CompletionHandler() {
+            getJSONObject(Folder.COUNTRIES_INFORMATION, shortName, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     final ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values = new ConcurrentHashMap<>();
                     final WLCountry country = getWLCountry();
                     if(country != null) {
+                        governmentAdministrations = LawUtilities.getAdministrationVersions(country);
+                        if(governmentAdministrations != null) {
+                            currentGovernmentAdministration = LawUtilities.getCurrentAdministrationVersion(country);
+                        }
                         final HashSet<CountryService> services = new HashSet<>(CountryServices.SERVICES);
                         final List<CountryResource> resources = new ArrayList<>();
 
@@ -255,12 +244,26 @@ public final class CustomCountry implements SovereignState, ServerObject {
         builder.append("]");
         return builder.toString();
     }
+    private String getGovernmentAdministrationsJSON() {
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        for(int version : governmentAdministrations) {
+            builder.append(isFirst ? "" : ",").append(version);
+            isFirst = false;
+        }
+        builder.append("]");
+        return builder.toString();
+    }
 
     @Override
     public String toString() {
+        final boolean hasGovernmentAdministrations = governmentAdministrations != null;
         return "\"" + name + "\":{" +
+                (isoAlpha2 != null ? "\"isoAlpha2\":\"" + isoAlpha2 + "\"," : "") +
                 (unStatus != null ? "\"unStatus\":\"" + unStatus + "\"," : "") +
                 (sovereigntyDispute != null ? "\"sovereigntyDispute\":\"" + sovereigntyDispute + "\"," : "") +
+                (hasGovernmentAdministrations ? "\"currentGovernmentAdministration\":" + currentGovernmentAdministration + "," : "") +
+                (hasGovernmentAdministrations ? "\"governmentAdministrations\":" + getGovernmentAdministrationsJSON() + "," : "") +
                 (!name.equals(shortName) ? "\"shortName\":\"" + shortName + "\"," : "") +
                 (timezones != null ? "\"timezones\":" + getTimeZonesJSON() + "," : "") +
                 (flagURL != null ? "\"flagURL\":\"" + flagURL + "\"," : "") +

@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.info.availability;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
@@ -14,8 +14,8 @@ public interface CountryAvailabilityService extends CountryService {
     HashMap<SovereignStateInfo, JSONArray> AVAILABILITY_VALUES = new HashMap<>();
 
     @Override
-    default FileType getFileType() {
-        return FileType.COUNTRIES_AVAILABILITIES;
+    default Folder getFolder() {
+        return Folder.COUNTRIES_AVAILABILITIES;
     }
 
     @Override
@@ -27,18 +27,19 @@ public interface CountryAvailabilityService extends CountryService {
         return getAvailabilityDocumentElements(url, targetElements, -1);
     }
     default Elements getAvailabilityDocumentElements(String url, String targetElements, int index) {
-        return getDocumentElements(FileType.COUNTRIES_AVAILABILITIES, url, targetElements, index);
+        return getDocumentElements(Folder.COUNTRIES_AVAILABILITIES, url, targetElements, index);
     }
 
     default CountryAvailability getAvailability(boolean value) {
-        return new CountryAvailability(getInfo().getTitle(), getImageURL(), value);
+        return new CountryAvailability(getInfo().getTitle(), getPrimaryCategory(), getImageURL(), value);
     }
 
+    AvailabilityCategory getPrimaryCategory();
     String getImageURL();
 
     @Override
-    default void getJSONData(FileType fileType, String fileName, String countryBackendID, CompletionHandler handler) {
-        getJSONArray(fileType, fileName, new CompletionHandler() {
+    default void getJSONData(Folder folder, String fileName, String countryBackendID, CompletionHandler handler) {
+        getJSONArray(folder, fileName, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 loadData(handler);
@@ -59,7 +60,7 @@ public interface CountryAvailabilityService extends CountryService {
             final String value = getAvailability(isTrue).toString();
             handler.handleString(value);
         } else {
-            getJSONData(getFileType(), info.getTitle(), countryBackendID, new CompletionHandler() {
+            getJSONData(getFolder(), info.getTitle(), countryBackendID, new CompletionHandler() {
                 @Override
                 public void handleJSONArray(JSONArray array) {
                     AVAILABILITY_VALUES.put(info, array);

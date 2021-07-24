@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.info.agriculture;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.FileType;
+import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
@@ -14,8 +14,8 @@ import org.jsoup.select.Elements;
 
 public interface CountryProductionService extends CountryService {
     @Override
-    default FileType getFileType() {
-        return FileType.COUNTRIES_RANKINGS_AGRICULTURE;
+    default Folder getFolder() {
+        return Folder.COUNTRIES_RANKINGS_AGRICULTURE;
     }
 
     @Override
@@ -28,12 +28,12 @@ public interface CountryProductionService extends CountryService {
 
     @Override
     default void loadData(CompletionHandler handler) {
-        getJSONObject(this, new CompletionHandler() {
+        getJSONObject(new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
                 final SovereignStateInfo info = getInfo();
                 final String url = getURL();
-                final Elements tables = getDocumentElements(FileType.COUNTRIES_RANKINGS_AGRICULTURE, url, "div.mw-parser-output table.wikitable");
+                final Elements tables = getDocumentElements(Folder.COUNTRIES_RANKINGS_AGRICULTURE, url, "div.mw-parser-output table.wikitable");
                 switch (info) {
                     case AGRICULTURE_FOOD_APPLE_PRODUCTION:
                         tables.remove(tables.size()-1);
