@@ -1,6 +1,8 @@
 package me.randomhashtags.worldlaws.location.subdivisions;
 
+import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.location.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.location.WLCountry;
 
 public enum AustraliaSubdivisions implements SovereignStateSubdivision {
     NEW_SOUTH_WALES,
@@ -10,6 +12,11 @@ public enum AustraliaSubdivisions implements SovereignStateSubdivision {
     VICTORIA,
     WESTERN_AUSTRALIA,
     ;
+
+    @Override
+    public WLCountry getCountry() {
+        return WLCountry.AUSTRALIA;
+    }
 
     @Override
     public String getPostalCodeAbbreviation() {
@@ -32,5 +39,9 @@ public enum AustraliaSubdivisions implements SovereignStateSubdivision {
     @Override
     public String getGovernmentURL() {
         return "https://www." + getPostalCodeAbbreviation().toLowerCase() + ".gov.au";
+    }
+
+    @Override
+    public void getCitiesHashSet(CompletionHandler handler) {
     }
 }

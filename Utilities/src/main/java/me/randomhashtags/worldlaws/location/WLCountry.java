@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.location;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.LocalServer;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -297,7 +298,10 @@ public enum WLCountry {
     }
 
     public String getBackendID() {
-        return name().toLowerCase().replace("_", "").replace("'", "");
+        return name().toLowerCase().replace("_", "");
+    }
+    public String getShortName() {
+        return LocalServer.toCorrectCapitalization(name(), "and", "the", "da", "of");
     }
     public HashSet<String> getAliases() {
         return aliases;
@@ -305,10 +309,6 @@ public enum WLCountry {
 
     public String getGovernmentWebsite() {
         return WLGovernmentWebsite.INSTANCE.get(this);
-    }
-
-    public void getCitiesFromTerritory(String territory, CompletionHandler handler) {
-        WLCities.INSTANCE.getFromTerritory(this, territory, handler);
     }
 
     public WLConstitution getConstitution() {
@@ -333,6 +333,18 @@ public enum WLCountry {
     public SovereignStateSubdivision[] getSubdivisions() {
         return WLSubdivisions.INSTANCE.get(this);
     }
+    public SovereignStateSubdivision valueOfSovereignStateSubdivision(String name) {
+        final SovereignStateSubdivision[] subdivisions = getSubdivisions();
+        if(subdivisions != null) {
+            for(SovereignStateSubdivision subdivision : subdivisions) {
+                if(subdivision.name().equalsIgnoreCase(name) || subdivision.getName().equalsIgnoreCase(name) || subdivision.getPostalCodeAbbreviation().equalsIgnoreCase(name)) {
+                    return subdivision;
+                }
+            }
+        }
+        return null;
+    }
+
     public WLTimeZone[] getTimeZones() {
         return WLTimeZone.getFromCountry(this);
     }

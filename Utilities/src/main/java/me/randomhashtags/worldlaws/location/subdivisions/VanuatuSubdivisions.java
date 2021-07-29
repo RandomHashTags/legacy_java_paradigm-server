@@ -1,6 +1,8 @@
 package me.randomhashtags.worldlaws.location.subdivisions;
 
+import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.location.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.location.WLCountry;
 
 public enum VanuatuSubdivisions implements SovereignStateSubdivision {
     MALAMPA,
@@ -10,6 +12,11 @@ public enum VanuatuSubdivisions implements SovereignStateSubdivision {
     TAFEA,
     TORBA,
     ;
+
+    @Override
+    public WLCountry getCountry() {
+        return WLCountry.VANUATU;
+    }
 
     @Override
     public String getPostalCodeAbbreviation() {
@@ -32,5 +39,9 @@ public enum VanuatuSubdivisions implements SovereignStateSubdivision {
     @Override
     public String getGovernmentURL() {
         return null;
+    }
+
+    @Override
+    public void getCitiesHashSet(CompletionHandler handler) {
     }
 }

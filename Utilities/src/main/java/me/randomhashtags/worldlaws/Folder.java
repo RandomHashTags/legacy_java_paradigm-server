@@ -7,6 +7,7 @@ public enum Folder {
     COUNTRIES_AVAILABILITIES("countries" + File.separator + "availabilities"),
     COUNTRIES_COUNTRIES("countries" + File.separator + "countries"),
     COUNTRIES_SUBDIVISIONS("countries" + File.separator + "subdivisions"),
+    COUNTRIES_HISTORY("countries" + File.separator + "history"),
     COUNTRIES_LEGALITIES("countries" + File.separator + "legalities"),
     COUNTRIES_NATIONAL("countries" + File.separator + "national"),
     COUNTRIES_RANKINGS("countries" + File.separator + "rankings"),
@@ -25,6 +26,10 @@ public enum Folder {
 
     SERVICES_FINANCE_YAHOO_TWELVE_DATA_CHARTS("services" + File.separator + "finance" + File.separator + "twelveData" + File.separator + "charts"),
     SERVICES_FINANCE_YAHOO_FINANCE_CHARTS("services" + File.separator + "finance" + File.separator + "yahooFinance" + File.separator + "charts"),
+
+    SUBDIVISIONS("subdivisions"),
+    SUBDIVISIONS_CITIES("subdivisions" + File.separator + "cities"),
+    SUBDIVISIONS_SUBDIVISIONS("subdivisions" + File.separator + "subdivisions"),
 
     OTHER(null),
     LOGS("logs"),

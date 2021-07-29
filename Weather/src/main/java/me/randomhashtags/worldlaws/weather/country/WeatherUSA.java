@@ -2,8 +2,9 @@ package me.randomhashtags.worldlaws.weather.country;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.location.Location;
-import me.randomhashtags.worldlaws.location.TerritoryAbbreviations;
+import me.randomhashtags.worldlaws.location.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.location.WLSubdivisions;
 import me.randomhashtags.worldlaws.weather.*;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
@@ -75,8 +76,9 @@ public enum WeatherUSA implements WeatherController {
             @Override
             public void handleJSONObject(JSONObject json) {
                 if(json != null) {
-                    final HashMap<String, String> territories = TerritoryAbbreviations.getAmericanTerritories();
                     final JSONArray array = json.getJSONArray("features");
+                    final WLSubdivisions subdivisions = WLSubdivisions.INSTANCE;
+                    final WLCountry unitedStates = WLCountry.UNITED_STATES;
                     StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
                         final JSONObject jsonAlert = (JSONObject) obj;
                         final String id = jsonAlert.getString("id").split("/alerts/")[1];
@@ -92,7 +94,8 @@ public enum WeatherUSA implements WeatherController {
                         final String[] senderName = properties.getString("senderName").split(" ");
                         final int senderNameLength = senderName.length;
                         final String territoryAbbreviation = senderName[senderNameLength-1];
-                        final String territory = territories.getOrDefault(territoryAbbreviation, "Unknown");
+                        final SovereignStateSubdivision subdivision = subdivisions.valueOfString(territoryAbbreviation, unitedStates);
+                        final String territory = subdivision != null ? subdivision.getName() : "Unknown";
                         final String severityString = properties.getString("severity"), severity = severityString.equals("Unknown") ? "-1" : severityString;
                         final String certainty = properties.getString("certainty");
                         final String event = properties.getString("event");
@@ -246,10 +249,11 @@ public enum WeatherUSA implements WeatherController {
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    final HashMap<String, String> territories = TerritoryAbbreviations.getAmericanTerritories();
                     final JSONObject geometryJSON = json.getJSONObject("geometry"), properties = json.getJSONObject("properties");
                     final Object state = properties.get("state");
-                    final String name = properties.getString("name"), territory = state instanceof String ? territories.getOrDefault(state, "Unknown") : "Unknown";
+                    final String stateString = state instanceof String ? (String) state : null;
+                    final SovereignStateSubdivision subdivision = WLSubdivisions.INSTANCE.valueOfString(stateString, WLCountry.UNITED_STATES);
+                    final String name = properties.getString("name"), territory = subdivision != null ? subdivision.getName() : "Unknown";
                     final List<Location> geometry = getGeometry(geometryJSON);
                     final WeatherZone zone = new WeatherZone(zoneID, name, territory, geometry);
                     final String string = zone.toString();

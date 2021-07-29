@@ -2,12 +2,16 @@ package me.randomhashtags.worldlaws.earthquakes;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.location.Location;
-import me.randomhashtags.worldlaws.location.TerritoryAbbreviations;
+import me.randomhashtags.worldlaws.location.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.location.WLSubdivisions;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.time.*;
+import java.time.Instant;
+import java.time.LocalDate;
+import java.time.ZoneId;
+import java.time.ZoneOffset;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -107,15 +111,15 @@ public enum Earthquakes implements RestAPI {
             public void handleJSONObject(JSONObject json) {
                 if(json != null) {
                     final JSONArray array = json.getJSONArray("features");
-                    final HashMap<String, String> americanTerritories = TerritoryAbbreviations.getAmericanTerritories();
                     final ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap = new ConcurrentHashMap<>();
                     final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates = new ConcurrentHashMap<>();
                     final AtomicInteger completed = new AtomicInteger(0);
                     final int max = array.length();
+                    final WLSubdivisions subdivisions = WLSubdivisions.INSTANCE;
 
                     StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
                         final JSONObject earthquakeJSON = (JSONObject) obj;
-                        loadEarthquake(startDate, earthquakeJSON, americanTerritories, preEarthquakeDates, territoryEarthquakesMap);
+                        loadEarthquake(subdivisions, startDate, earthquakeJSON, preEarthquakeDates, territoryEarthquakesMap);
                         if(completed.addAndGet(1) == max) {
                             topRecentEarthquakes = getEarthquakesJSON(null, preEarthquakeDates);
                             recentEarthquakes = getEarthquakesJSON(recentStartingDate, preEarthquakeDates);
@@ -171,7 +175,7 @@ public enum Earthquakes implements RestAPI {
         }
     }
 
-    private void loadEarthquake(LocalDate startingDate, JSONObject json, HashMap<String, String> americanTerritories, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates, ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap) {
+    private void loadEarthquake(WLSubdivisions subdivisions, LocalDate startingDate, JSONObject json, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates, ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap) {
         final JSONObject properties = json.getJSONObject("properties");
         final long time = properties.getLong("time");
         final EventDate date = new EventDate(time);
@@ -186,8 +190,8 @@ public enum Earthquakes implements RestAPI {
             final Location location = new Location(latitude, longitude);
 
             final String place = properties.get("place") instanceof String ? properties.getString("place") : "null";
-            String territory = getTerritory(place, americanTerritories);
-            final boolean isAmericaKey = americanTerritories.containsKey(territory), isAmerica = isAmericaKey || americanTerritories.containsValue(territory);
+            String territory = getTerritory(place, subdivisions);
+            final SovereignStateSubdivision subdivision = subdivisions.valueOfString(territory);
 
             final String dateString = date.getDateString();
             final PreEarthquake preEarthquake = new PreEarthquake(id, place, magnitude, location);
@@ -198,10 +202,10 @@ public enum Earthquakes implements RestAPI {
             territory = territory.toLowerCase().replace(" ", "");
             territoryEarthquakesMap.putIfAbsent(territory, new HashSet<>());
             territoryEarthquakesMap.get(territory).add(preEarthquake);
-            if(isAmerica) {
-                final String unitedstates = "unitedstates";
-                territoryEarthquakesMap.putIfAbsent(unitedstates, new HashSet<>());
-                territoryEarthquakesMap.get(unitedstates).add(preEarthquake);
+            if(subdivision != null) {
+                final String country = subdivision.getCountry().getBackendID();
+                territoryEarthquakesMap.putIfAbsent(country, new HashSet<>());
+                territoryEarthquakesMap.get(country).add(preEarthquake);
             }
         }
     }
@@ -236,7 +240,7 @@ public enum Earthquakes implements RestAPI {
                 final Location location = new Location(latitude, longitude);
 
                 final String url = properties.getString("url"), cause = properties.getString("type").toUpperCase(), place = properties.getString("place");
-                final String territory = getTerritory(place, TerritoryAbbreviations.getAmericanTerritories());
+                final String territory = getTerritory(place, WLSubdivisions.INSTANCE);
                 final long time = properties.getLong("time"), lastUpdated = properties.getLong("updated");
                 final Earthquake earthquake = new Earthquake(territory, cause, magnitude, place, time, lastUpdated, 0, location, url);
                 final String string = earthquake.toString();
@@ -245,7 +249,7 @@ public enum Earthquakes implements RestAPI {
         });
     }
 
-    private String getTerritory(String place, HashMap<String, String> americanTerritories) {
+    private String getTerritory(String place, WLSubdivisions subdivisions) {
         final boolean hasComma = place.contains(", ");
         final String[] values = place.split(hasComma ? ", " : " ");
         final int length = values.length;
@@ -266,9 +270,9 @@ public enum Earthquakes implements RestAPI {
                     break;
             }
         }
-        final boolean isAmericaKey = americanTerritories.containsKey(territory), isAmerica = isAmericaKey || americanTerritories.containsValue(territory);
-        if(isAmericaKey) {
-            territory = americanTerritories.get(territory);
+        final SovereignStateSubdivision subdivision = subdivisions.valueOfString(territory);
+        if(subdivision != null) {
+            territory = subdivision.getName();
         }
         return territory;
     }

@@ -61,13 +61,19 @@ public interface Jsonable {
             handler.load(new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
-                    saveFileJSON(type, fileName, string);
-                    handler.handleJSONObject(new JSONObject(string));
+                    JSONObject json = null;
+                    if(string != null) {
+                        saveFileJSON(type, fileName, string);
+                        json = new JSONObject(string);
+                    }
+                    handler.handleJSONObject(json);
                 }
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    saveFileJSON(type, fileName, json.toString());
+                    if(json != null) {
+                        saveFileJSON(type, fileName, json.toString());
+                    }
                     handler.handleJSONObject(json);
                 }
             });

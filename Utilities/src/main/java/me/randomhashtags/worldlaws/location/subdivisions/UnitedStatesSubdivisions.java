@@ -1,6 +1,11 @@
 package me.randomhashtags.worldlaws.location.subdivisions;
 
+import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.location.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.location.WLCountry;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 
 public enum UnitedStatesSubdivisions implements SovereignStateSubdivision {
     ALABAMA,
@@ -54,6 +59,11 @@ public enum UnitedStatesSubdivisions implements SovereignStateSubdivision {
     WISCONSIN,
     WYOMING,
     ;
+
+    @Override
+    public WLCountry getCountry() {
+        return WLCountry.UNITED_STATES;
+    }
 
     @Override
     public String getPostalCodeAbbreviation() {
@@ -134,6 +144,54 @@ public enum UnitedStatesSubdivisions implements SovereignStateSubdivision {
             case NEW_YORK: return "https://en.wikipedia.org/wiki/New_York_(state)";
             case WASHINGTON: return "https://en.wikipedia.org/wiki/Washington_(state)";
             default: return SovereignStateSubdivision.super.getWikipediaURL();
+        }
+    }
+
+    @Override
+    public void getCitiesHashSet(CompletionHandler handler) {
+        // https://en.wikipedia.org/wiki/Category:Lists_of_cities_in_the_United_States_by_state
+        final String suffix = this == GEORGIA ? "_(U.S._state)" : "";
+        final String url = "https://en.wikipedia.org/wiki/List_of_cities_in_" + getName().replace(" ", "_") + suffix;
+        final Document doc = getDocument(url);
+        if(doc != null) {
+            final Elements tables = doc.select("div.mw-parser-output table.wikitable");
+            final Element table = tables.get(getCityTableIndex());
+            for(Element element : table.select("tbody tr")) {
+                final Elements tds = element.select("td");
+                final String cityName = tds.get(getCityNameIndex()).text();
+            }
+        }
+    }
+
+    private int getCityTableIndex() {
+        switch (this) {
+            case KENTUCKY:
+                return 1;
+            default:
+                return 0;
+        }
+    }
+    private int getCityNameIndex() {
+        switch (this) {
+            case ALABAMA:
+            case ALASKA:
+            case CALIFORNIA:
+            case COLORADO:
+            case KENTUCKY:
+            case NEW_HAMPSHIRE:
+            case NEW_MEXICO:
+            case NEW_YORK:
+            case OHIO:
+            case WASHINGTON:
+            case WISCONSIN:
+                return 0;
+            case IDAHO:
+            case MINNESOTA:
+            case NEW_JERSEY:
+            case OKLAHOMA:
+            case TEXAS:
+                return 1;
+            default: return -1;
         }
     }
 }

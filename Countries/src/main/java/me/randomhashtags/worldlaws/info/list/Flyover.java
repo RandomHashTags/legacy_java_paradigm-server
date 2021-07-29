@@ -5,10 +5,7 @@ import me.randomhashtags.worldlaws.info.availability.AvailabilityCategory;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureAvailability;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureType;
 import me.randomhashtags.worldlaws.info.service.CountryServiceValue;
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
-import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.location.Location;
-import me.randomhashtags.worldlaws.location.TerritoryAbbreviations;
+import me.randomhashtags.worldlaws.location.*;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -48,7 +45,7 @@ public enum Flyover implements AppleFeatureAvailability {
             @Override
             public void load(CompletionHandler handler) {
                 final Elements elements = getSectionElements(AppleFeatureType.IOS, "maps-flyover");
-                final HashMap<String, String> americanTerritories = TerritoryAbbreviations.getAmericanTerritories();
+                final WLSubdivisions subdivisions = WLSubdivisions.INSTANCE;
                 final HashMap<String, HashMap<String, List<FlyoverObj>>> flyoversMap = new HashMap<>();
                 for(Element element : elements) {
                     final String[] values = element.text().split(", ");
@@ -56,9 +53,10 @@ public enum Flyover implements AppleFeatureAvailability {
                     if(max == 2) {
                         String countryBackendID = values[1].replace("England", "United Kingdom");
                         final String territory;
-                        if(americanTerritories.containsKey(countryBackendID)) {
-                            territory = americanTerritories.get(countryBackendID);
-                            countryBackendID = "United States";
+                        final SovereignStateSubdivision subdivision = subdivisions.valueOfString(countryBackendID);
+                        if(subdivision != null) {
+                            territory = subdivision.getName();
+                            countryBackendID = subdivision.getCountry().getShortName();
                         } else {
                             territory = null;
                         }

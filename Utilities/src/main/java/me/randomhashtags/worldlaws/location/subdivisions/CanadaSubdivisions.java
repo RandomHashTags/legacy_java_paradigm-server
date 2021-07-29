@@ -1,6 +1,8 @@
 package me.randomhashtags.worldlaws.location.subdivisions;
 
+import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.location.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.location.WLCountry;
 
 public enum CanadaSubdivisions implements SovereignStateSubdivision {
     ALBERTA,
@@ -14,6 +16,11 @@ public enum CanadaSubdivisions implements SovereignStateSubdivision {
     QUEBEC,
     SASKATCHEWAN,
     ;
+
+    @Override
+    public WLCountry getCountry() {
+        return WLCountry.CANADA;
+    }
 
     @Override
     public String getPostalCodeAbbreviation() {
@@ -44,5 +51,9 @@ public enum CanadaSubdivisions implements SovereignStateSubdivision {
             case NEWFOUNDLAND_AND_LABRADOR: return "https://www.gov.nl.ca";
             default: return "https://" + getName().toLowerCase().replace("_", "") + ".ca";
         }
+    }
+
+    @Override
+    public void getCitiesHashSet(CompletionHandler handler) {
     }
 }

@@ -1,6 +1,8 @@
 package me.randomhashtags.worldlaws.location.subdivisions;
 
+import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.location.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.location.WLCountry;
 
 public enum MexicoSubdivisions implements SovereignStateSubdivision {
     AGUASCALIENTES,
@@ -38,6 +40,11 @@ public enum MexicoSubdivisions implements SovereignStateSubdivision {
     ;
 
     @Override
+    public WLCountry getCountry() {
+        return WLCountry.MEXICO;
+    }
+
+    @Override
     public String getPostalCodeAbbreviation() {
         switch (this) {
             default: return null;
@@ -52,5 +59,9 @@ public enum MexicoSubdivisions implements SovereignStateSubdivision {
     @Override
     public String getGovernmentURL() {
         return null;
+    }
+
+    @Override
+    public void getCitiesHashSet(CompletionHandler handler) {
     }
 }

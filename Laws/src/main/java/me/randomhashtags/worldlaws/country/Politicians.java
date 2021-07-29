@@ -5,7 +5,9 @@ import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.country.usa.USPolitician;
-import me.randomhashtags.worldlaws.location.TerritoryAbbreviations;
+import me.randomhashtags.worldlaws.location.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.location.WLSubdivisions;
 import me.randomhashtags.worldlaws.people.HumanName;
 import me.randomhashtags.worldlaws.people.PoliticalParty;
 import org.json.JSONObject;
@@ -43,9 +45,9 @@ public enum Politicians implements Jsonable {
                 final String[] describingValues = text.split(" \\[")[1].split("]")[0].split("-");
                 final PoliticalParty party = PoliticalParty.fromAbbreviation(describingValues[0]);
                 String governedTerritory = describingValues[1];
-                final HashMap<String, String> territoryAbbreviations = TerritoryAbbreviations.getAmericanTerritories();
-                if(territoryAbbreviations.containsKey(governedTerritory)) {
-                    governedTerritory = territoryAbbreviations.get(governedTerritory);
+                final SovereignStateSubdivision subdivision = WLSubdivisions.INSTANCE.valueOfString(governedTerritory, WLCountry.UNITED_STATES);
+                if(subdivision != null) {
+                    governedTerritory = subdivision.getName();
                 }
                 final String district = describingValues.length > 2 ? describingValues[2] : null;
 

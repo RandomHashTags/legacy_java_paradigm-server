@@ -1,6 +1,8 @@
 package me.randomhashtags.worldlaws.location.subdivisions;
 
+import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.location.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.location.WLCountry;
 
 public enum NewZealandSubdivisions implements SovereignStateSubdivision {
     AUCKLAND,
@@ -22,6 +24,11 @@ public enum NewZealandSubdivisions implements SovereignStateSubdivision {
     ;
 
     @Override
+    public WLCountry getCountry() {
+        return WLCountry.NEW_ZEALAND;
+    }
+
+    @Override
     public String getPostalCodeAbbreviation() {
         switch (this) {
             default: return null;
@@ -36,5 +43,9 @@ public enum NewZealandSubdivisions implements SovereignStateSubdivision {
     @Override
     public String getGovernmentURL() {
         return null;
+    }
+
+    @Override
+    public void getCitiesHashSet(CompletionHandler handler) {
     }
 }

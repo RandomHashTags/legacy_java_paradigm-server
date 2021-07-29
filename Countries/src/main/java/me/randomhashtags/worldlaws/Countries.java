@@ -15,6 +15,9 @@ import me.randomhashtags.worldlaws.info.rankings.CountryRankings;
 import me.randomhashtags.worldlaws.info.service.*;
 import me.randomhashtags.worldlaws.location.SovereignStateInfo;
 import me.randomhashtags.worldlaws.location.CustomCountry;
+import me.randomhashtags.worldlaws.location.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.location.history.CountryHistory;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -38,8 +41,8 @@ public final class Countries implements WLServer {
     }
 
     private Countries() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -48,10 +51,10 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        loadCountries(new CompletionHandler() {
+        CountryHistory.INSTANCE.getCountryValue(WLCountry.UNITED_STATES, new CompletionHandler() {
             @Override
             public void handleString(String string) {
-                WLLogger.log(Level.INFO, "Countries;test;object=" + string);
+                WLLogger.log(Level.INFO, "Countries;test;string=" + string);
             }
         });
     }
@@ -109,6 +112,7 @@ public final class Countries implements WLServer {
                     Wikipedia.INSTANCE
             ));
             addAll(Arrays.asList(CountryRankings.values()));
+            add(CountryHistory.INSTANCE);
         }};
 
         CountryServices.SERVICES.addAll(services);
@@ -246,7 +250,8 @@ public final class Countries implements WLServer {
                     if(values.length == 1) {
                         handler.handleString(country.toString());
                     } else {
-                        switch (values[1]) {
+                        final String targetValue = values[1];
+                        switch (targetValue) {
                             case "information":
                                 country.getInformation(version, handler);
                                 break;
@@ -258,6 +263,15 @@ public final class Countries implements WLServer {
                                 }
                                 break;
                             default:
+                                final SovereignStateSubdivision subdivision = country.getWLCountry().valueOfSovereignStateSubdivision(targetValue);
+                                if(subdivision != null) {
+                                    if(values[2].equals("information")) {
+                                        subdivision.getInformation(handler);
+                                        return;
+                                    }
+                                    handler.handleString(null);
+                                    return;
+                                }
                                 handler.handleString(country.toString());
                                 break;
                         }

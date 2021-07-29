@@ -1,8 +1,9 @@
 package me.randomhashtags.worldlaws.politics;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.TerritoryAbbreviations;
+import me.randomhashtags.worldlaws.location.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.location.WLSubdivisions;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -25,7 +26,7 @@ public enum Elections implements RestAPI, DataValues {
             @Override
             public void handleJSONObject(JSONObject json) {
                 final JSONArray elections = json.getJSONArray("elections");
-                final HashMap<String, String> americanTerritories = TerritoryAbbreviations.getAmericanTerritories();
+                final WLSubdivisions subdivisions = WLSubdivisions.INSTANCE;
                 final HashMap<String, HashMap<String, HashMap<String, HashSet<String>>>> territoryElections = new HashMap<>();
                 for(Object obj : elections) {
                     final JSONObject electionJSON = (JSONObject) obj;
@@ -46,8 +47,9 @@ public enum Elections implements RestAPI, DataValues {
                                 country = targetCountry != null ? targetCountry.getBackendID() : "unknown";
                             } else if(string.startsWith("state:")) {
                                 final String abbreviation = string.split(":")[1].toUpperCase();
-                                if(americanTerritories.containsKey(abbreviation)) {
-                                    territory = americanTerritories.get(abbreviation).toLowerCase().replace(" ", "");
+                                final SovereignStateSubdivision subdivision = subdivisions.valueOfString(abbreviation);
+                                if(subdivision != null) {
+                                    territory = subdivision.getName().toLowerCase().replace(" ", "");
                                 }
                             }
                         }

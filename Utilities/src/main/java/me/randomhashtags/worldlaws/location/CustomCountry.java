@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
 import me.randomhashtags.worldlaws.law.LawUtilities;
+import me.randomhashtags.worldlaws.location.history.CountryHistory;
 import org.apache.commons.text.StringEscapeUtils;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
@@ -111,7 +112,7 @@ public final class CustomCountry implements SovereignState, ServerObject {
 
                         final SovereignStateSubdivision[] subdivisions = country.getSubdivisions();
                         if(subdivisions != null) {
-                            final Stream<String> stream = Arrays.stream(subdivisions).map(SovereignStateSubdivision::toServerJSON);
+                            final Stream<String> stream = Arrays.stream(subdivisions).map(SovereignStateSubdivision::toJSON);
                             final HashSet<String> territories = stream.parallel().collect(Collectors.toCollection(HashSet::new));
                             values.put(SovereignStateInformationType.TERRITORIES, territories);
                         }
@@ -197,6 +198,10 @@ public final class CustomCountry implements SovereignState, ServerObject {
                 case SERVICE_WIKIPEDIA:
                     countryIdentifier = tag;
                     break;
+                case SERVICE_COUNTRY_HISTORY:
+                    countryIdentifier = null;
+                    ((CountryHistory) service).getCountryValue(country, serviceHandler);
+                    break;
                 default:
                     countryIdentifier = backendID;
                     break;
@@ -214,7 +219,7 @@ public final class CustomCountry implements SovereignState, ServerObject {
         }
     }
 
-    private WLCountry getWLCountry() {
+    public WLCountry getWLCountry() {
         switch (shortName.toLowerCase()) {
             case "east timor": return WLCountry.TIMOR_LESTE;
             case "são tomé & príncipe": return WLCountry.SAO_TOME_AND_PRINCIPE;
