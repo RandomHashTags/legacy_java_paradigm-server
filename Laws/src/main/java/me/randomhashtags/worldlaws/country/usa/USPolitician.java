@@ -5,7 +5,7 @@ import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.usa.federal.PreCongressBill;
 import me.randomhashtags.worldlaws.country.usa.federal.USCongress;
-import me.randomhashtags.worldlaws.law.LegislationType;
+import me.randomhashtags.worldlaws.LegislationType;
 import me.randomhashtags.worldlaws.people.HumanName;
 import me.randomhashtags.worldlaws.people.PoliticalParty;
 import me.randomhashtags.worldlaws.people.Politician;

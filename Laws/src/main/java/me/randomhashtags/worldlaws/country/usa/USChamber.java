@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.country.usa;
 
-import me.randomhashtags.worldlaws.country.Chamber;
+import me.randomhashtags.worldlaws.Chamber;
 
 public enum USChamber implements Chamber {
     HOUSE,

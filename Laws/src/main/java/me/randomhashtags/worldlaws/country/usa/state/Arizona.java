@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
+import me.randomhashtags.worldlaws.LawSubdivisionController;
 import me.randomhashtags.worldlaws.country.*;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -10,7 +11,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Arizona implements State {
+public enum Arizona implements LawSubdivisionController {
     INSTANCE(
             "https://www.azleg.gov/ARStitle/",
             "https://www.azleg.gov/arsDetail/?title=%index%",
@@ -65,8 +66,8 @@ public enum Arizona implements State {
     }
 
     @Override
-    public List<StateIndex> getIndexes() {
-        final List<StateIndex> chapters = new ArrayList<>();
+    public List<SubdivisionStatuteIndex> getIndexes() {
+        final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         if(doc != null) {
             final Elements table = doc.select("tr ~ tr");
@@ -141,7 +142,7 @@ public enum Arizona implements State {
             if(doc != null) {
                 final Elements sections = doc.select("p");
                 if(!sections.isEmpty()) {
-                    final StateStatute statute = new StateStatute(StateReference.build(title, chapter, section, url), null, null);
+                    final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), null, null);
                     final List<Subdivision> subdivisions = new ArrayList<>();
                     Subdivision previousSubdivision = null;
                     for(Element paragraph : sections) {

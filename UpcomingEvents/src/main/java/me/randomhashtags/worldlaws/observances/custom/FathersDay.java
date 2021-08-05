@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.observances.IHoliday;
 import me.randomhashtags.worldlaws.observances.type.ChristianHoliday;
 
@@ -17,7 +17,7 @@ public enum FathersDay implements IHoliday {
     }
 
     @Override
-    public String getWikipediaName() {
+    public String getOfficialName() {
         return null;
     }
 

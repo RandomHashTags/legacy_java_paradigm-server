@@ -57,8 +57,4 @@ public final class MovieEvent implements UpcomingEvent {
                 "\"productionCompany\":\"" + productionCompany + "\"" +
                 "}";
     }
-
-    public String getProductionCompany() {
-        return productionCompany;
-    }
 }

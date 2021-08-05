@@ -4,9 +4,9 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.ServerObject;
 import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
-import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.location.CountryResource;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
+import me.randomhashtags.worldlaws.CountryResource;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
@@ -41,7 +41,7 @@ public enum CIAServices implements CountryService {
             countries = new HashMap<>();
         }
         if(countries.containsKey(shortName)) {
-            handler.handleCountryResources(countries.get(shortName));
+            handler.handleObject(countries.get(shortName));
         } else {
             final Folder folder = getFolder();
             final String fileName = "CIA";
@@ -63,7 +63,7 @@ public enum CIAServices implements CountryService {
                         final CIAValues values = new CIAValues(json.getJSONObject(shortName));
                         final HashSet<CountryResource> resources = getResourcesFrom(values);
                         countries.put(shortName, resources);
-                        handler.handleCountryResources(resources);
+                        handler.handleObject(resources);
                     } else {
                         loadCIAValues(started, folder, shortName, new CompletionHandler() {
                             @Override
@@ -74,7 +74,7 @@ public enum CIAServices implements CountryService {
                                 countries.put(shortName, resources);
                                 json.put(shortName, ciaJSON);
                                 setFileJSONObject(folder, fileName, json);
-                                handler.handleCountryResources(resources);
+                                handler.handleObject(resources);
                             }
                         });
                     }
@@ -84,9 +84,10 @@ public enum CIAServices implements CountryService {
     }
 
     private HashSet<CountryResource> getResourcesFrom(CIAValues ciaValues) {
+        final String prefix = "https://www.cia.gov/the-world-factbook/static/";
         final HashSet<CountryResource> set = new HashSet<>();
-        set.add(new CountryResource("CIA Summary", ciaValues.summaryURL));
-        set.add(new CountryResource("CIA Travel Facts", ciaValues.travelFactsURL));
+        set.add(new CountryResource("CIA Summary", prefix + ciaValues.summaryURL));
+        set.add(new CountryResource("CIA Travel Facts", prefix + ciaValues.travelFactsURL));
         return set;
     }
 

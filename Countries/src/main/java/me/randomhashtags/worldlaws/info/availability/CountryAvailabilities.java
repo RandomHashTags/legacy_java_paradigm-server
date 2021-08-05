@@ -2,15 +2,23 @@ package me.randomhashtags.worldlaws.info.availability;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
+import me.randomhashtags.worldlaws.info.availability.tech.AppleAvailabilityObj;
+import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureType;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import java.util.Arrays;
 import java.util.HashSet;
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public enum CountryAvailabilities implements CountryAvailabilityService {
+    INSTANCE,
+
     ALEXA,
     AMC_PLUS,
     AT_AND_T_TV,
@@ -42,6 +50,87 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
     YOUTUBE_TV,
 
     ;
+
+    private static final HashSet<CountryAvailabilityService> SERVICES;
+
+    static {
+        SERVICES = new HashSet<>(Arrays.asList(values()));
+        SERVICES.remove(INSTANCE);
+        SERVICES.addAll(Arrays.asList(
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_CARD),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_CARPLAY),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_PAY),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_APP_STORE_APPS),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_APP_STORE_GAMES),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ARCADE),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_CONGESTION_ZONES),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_DIRECTIONS),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_SPEED_CAMERAS),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_SPEED_LIMITS),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_NEARBY),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MUSIC),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_SIRI),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_MOVIES),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_MUSIC),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_TV_SHOWS),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_TV_APP),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_TV_PLUS),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_NEWS),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_NEWS_AUDIO),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_NEWS_PLUS),
+
+                new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_APPLE_MUSIC),
+                new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY),
+                new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY_IN_APP_PAYMENTS),
+                new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_BLOOD_OXYGEN_APP),
+                new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_ECG),
+                new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_IRREGULAR_RHYTHM_NOTIFICATION),
+                new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_SIRI),
+                new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_STUDENT_ID_CARDS),
+                new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_WALKIE_TALKIE)
+        ));
+    }
+
+    public void getCountryAvailabilities(String countryBackendID, CompletionHandler handler) {
+        final ConcurrentHashMap<Boolean, ConcurrentHashMap<String, HashSet<String>>> values = new ConcurrentHashMap<>();
+        final int max = SERVICES.size();
+        final AtomicInteger completed = new AtomicInteger(0);
+
+        SERVICES.parallelStream().forEach(service -> service.getCountryValue(countryBackendID, new CompletionHandler() {
+            @Override
+            public void handleObject(Object object) {
+                final CountryAvailability availability = (CountryAvailability) object;
+                final String primaryCategory = availability.getPrimaryCategory().name();
+                final boolean availabilityIsAvailable = availability.isAvailable();
+                values.putIfAbsent(availabilityIsAvailable, new ConcurrentHashMap<>());
+                values.get(availabilityIsAvailable).putIfAbsent(primaryCategory, new HashSet<>());
+                values.get(availabilityIsAvailable).get(primaryCategory).add(availability.toString());
+
+                if(completed.addAndGet(1) == max) {
+                    final StringBuilder builder = new StringBuilder();
+                    boolean isFirstBoolean = true;
+                    for(Map.Entry<Boolean, ConcurrentHashMap<String, HashSet<String>>> map : values.entrySet()) {
+                        final boolean isAvailable = map.getKey();
+                        builder.append(isFirstBoolean ? "" : ",").append("\"").append(isAvailable).append("\":{");
+                        boolean isFirstCategory = true;
+                        for(Map.Entry<String, HashSet<String>> category : map.getValue().entrySet()) {
+                            builder.append(isFirstCategory ? "" : ",").append("\"").append(category.getKey()).append("\":{");
+                            boolean isFirst = true;
+                            for(String value : category.getValue()) {
+                                builder.append(isFirst ? "" : ",").append(value);
+                                isFirst = false;
+                            }
+                            builder.append("}");
+                            isFirstCategory = false;
+                        }
+                        builder.append("}");
+                        isFirstBoolean = false;
+                    }
+                    handler.handleString(builder.toString());
+                }
+            }
+        }));
+    }
 
     @Override
     public AvailabilityCategory getPrimaryCategory() {
@@ -116,7 +205,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
 
     @Override
     public SovereignStateInfo getInfo() {
-        return SovereignStateInfo.valueOf("AVAILABILITY_" + name());
+        return this == INSTANCE ? SovereignStateInfo.AVAILABILITIES : SovereignStateInfo.valueOf("AVAILABILITY_" + name());
     }
 
     @Override
@@ -218,16 +307,6 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 handler.handleString(null);
                 break;
         }
-    }
-    private void loadOnlyTrue(CompletionHandler handler, String...countries) {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
-        for(String country : countries) {
-            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-            isFirst = false;
-        }
-        builder.append("]");
-        handler.handleJSONArray(new JSONArray(builder.toString()));
     }
 
     private void loadAlexa(CompletionHandler handler) {

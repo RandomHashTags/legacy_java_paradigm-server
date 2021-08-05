@@ -55,13 +55,11 @@ public enum AppleSoftwareUpdates implements RecentEventController, Jsoupable {
                                 || name.startsWith("***REMOVED***")
                                 || name.startsWith("***REMOVED***")
                         ) {
-                            String id = name.toLowerCase().replace(" ", "");
-                            final String description = id.contains("(detailsavailablesoon)") ? "Details available soon" : null;
+                            final String description = name.toLowerCase().replace(" ", "").contains("(detailsavailablesoon)") ? "Details available soon" : null;
                             if(description != null) {
-                                id = id.replace("(detailsavailablesoon)", "");
                                 name = name.replace(" (details available soon)", "");
                             }
-                            final PreRecentEvent preRecentEvent = new PreRecentEvent(id, name, description, null);
+                            final PreRecentEvent preRecentEvent = new PreRecentEvent(name, description, null);
                             updates.add(preRecentEvent.toString());
                         }
                     }

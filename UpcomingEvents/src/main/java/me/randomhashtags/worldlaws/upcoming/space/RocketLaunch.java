@@ -29,22 +29,18 @@ public final class RocketLaunch implements UpcomingEvent {
     public String getTitle() {
         return name;
     }
-
     @Override
     public String getDescription() {
         return null;
     }
-
     @Override
     public String getImageURL() {
         return rocketImageURL;
     }
-
     @Override
     public String getLocation() {
         return location;
     }
-
     @Override
     public EventSources getSources() {
         return sources;
@@ -53,13 +49,13 @@ public final class RocketLaunch implements UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
-                (mission != null ? "\"mission\":" + mission.toString() : "") +
+                (mission != null ? "\"mission\":" + mission.toString() + "," : "") +
                 "\"windowStart\":\"" + windowStart + "\"," +
                 "\"windowEnd\":\"" + windowEnd + "\"," +
                 "\"exactDay\":" + exactDay + "," +
                 "\"exactTime\":" + exactTime + "," +
                 "\"status\":\"" + status + "\"," +
-                "\"probability\":" + probability + "," +
+                "\"probability\":" + probability +
                 "}";
     }
 }

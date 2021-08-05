@@ -113,7 +113,7 @@ public enum Statistics implements Jsonable, QuotaHandler {
                             trendingRequestsList.add(new TrendingRequest(request, requests));
                         }
                         trendingRequestsList.sort(Comparator.comparingInt(request -> request.requests));
-                        final int max = Math.max(trendingRequestsList.size(), 10);
+                        final int max = Math.min(trendingRequestsList.size(), 10);
                         for(int i = 0; i < max; i++) {
                             trendingRequests.add(trendingRequestsList.get(i));
                         }

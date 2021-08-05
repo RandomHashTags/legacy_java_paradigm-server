@@ -17,7 +17,7 @@ public enum SpaceX implements USAUpcomingEventController {
     private HashMap<String, String> launchpads;
 
     private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
-    private HashMap<String, String> upcomingEvents, loadedPreUpcomingEvents;
+    private HashMap<String, String> upcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -30,11 +30,6 @@ public enum SpaceX implements USAUpcomingEventController {
     }
 
     @Override
-    public HashMap<String, String> getLoadedPreUpcomingEvents() {
-        return loadedPreUpcomingEvents;
-    }
-
-    @Override
     public HashMap<String, String> getUpcomingEvents() {
         return upcomingEvents;
     }
@@ -42,7 +37,6 @@ public enum SpaceX implements USAUpcomingEventController {
     @Override
     public void load(CompletionHandler handler) {
         preUpcomingEvents = new HashMap<>();
-        loadedPreUpcomingEvents = new HashMap<>();
         upcomingEvents = new HashMap<>();
         launchpads = new HashMap<>();
 

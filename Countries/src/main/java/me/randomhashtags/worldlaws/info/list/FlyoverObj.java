@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.info.list;
 
-import me.randomhashtags.worldlaws.location.Location;
+import me.randomhashtags.worldlaws.country.Location;
 
 public final class FlyoverObj {
     private final String city;

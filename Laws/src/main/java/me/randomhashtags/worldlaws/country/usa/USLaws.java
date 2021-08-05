@@ -2,20 +2,19 @@ package me.randomhashtags.worldlaws.country.usa;
 
 import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.country.LawController;
-import me.randomhashtags.worldlaws.country.State;
+import me.randomhashtags.worldlaws.LawController;
+import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.UnitedStatesSubdivisions;
 import me.randomhashtags.worldlaws.country.usa.federal.FederalGovernment;
 import me.randomhashtags.worldlaws.country.usa.federal.PreCongressBill;
 import me.randomhashtags.worldlaws.country.usa.federal.USCongress;
-import me.randomhashtags.worldlaws.country.usa.service.CongressService;
-import me.randomhashtags.worldlaws.country.usa.service.usaproject.UnitedStatesProject;
+import me.randomhashtags.worldlaws.country.usa.service.UnitedStatesProject;
 import me.randomhashtags.worldlaws.country.usa.state.*;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.Connecticut;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.Indiana;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.NorthCarolina;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.Oregon;
-import me.randomhashtags.worldlaws.location.WLCountry;
-import me.randomhashtags.worldlaws.location.subdivisions.UnitedStatesSubdivisions;
 
 import java.time.LocalDate;
 import java.util.Arrays;
@@ -108,19 +107,20 @@ public enum USLaws implements LawController {
     @Override
     public void getGovernmentResponse(APIVersion version, int administration, String input, CompletionHandler handler) {
         final String[] values = input.split("/");
+        final String key = values[0];
         final USCongress congress = USCongress.getCongress(administration);
-        switch (values[1]) {
+        switch (key) {
             case "enactedbills":
                 congress.getEnactedBills(handler);
                 break;
             case "bill":
-                congress.getBill(USChamber.valueOf(values[2].toUpperCase()), values[3], handler);
+                congress.getBill(USChamber.valueOf(values[1].toUpperCase()), values[2], handler);
                 break;
             case "politician":
-                politicianService.getPolitician(values[2], handler);
+                politicianService.getPolitician(values[1], handler);
                 break;
             default:
-                final BillStatus status = BillStatus.valueOf(values[1].toUpperCase());
+                final BillStatus status = BillStatus.valueOf(key.toUpperCase());
                 congress.getBillsByStatus(status, handler);
                 break;
         }
@@ -128,7 +128,7 @@ public enum USLaws implements LawController {
 
     private String getLawResponse(String key, String[] values, int length) {
         final UnitedStatesSubdivisions usstate = UnitedStatesSubdivisions.valueOf(key.toUpperCase());
-        final State state = getStateFrom(usstate);
+        final LawSubdivisionController state = getStateFrom(usstate);
         if(state != null) {
             switch (length) {
                 case 1:
@@ -148,7 +148,7 @@ public enum USLaws implements LawController {
         return null;
     }
 
-    private State getStateFrom(UnitedStatesSubdivisions state) {
+    private LawSubdivisionController getStateFrom(UnitedStatesSubdivisions state) {
         switch (state) {
             case ALABAMA: return null; // incomplete - http://alisondb.legislature.state.al.us/alison/codeofalabama/1975/coatoc.htm
             case ALASKA: return Alaska.INSTANCE;

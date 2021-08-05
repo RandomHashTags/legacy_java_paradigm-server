@@ -1,0 +1,2871 @@
+<section id="top" class="section section-hero" data-analytics-section-engagement="name:hero"> 
+ <div class="section-content"> 
+  <div class="hero-headline large-10 large-centered small-12"> 
+   <h1 class="typography-headline text-center text-align-small">watchOS Feature Availability</h1> 
+   <p class="hero-body typography-intro-product-reduced text-center text-align-small">Some watchOS features are not currently available in every region or language. Choose a feature below to see if it’s supported in your region and language.</p> 
+  </div> 
+ </div> 
+</section>
+<section class="section section-nav" data-analytics-activitymap-region-id="section-navigation"> 
+ <div class="section-content"> 
+  <div class="row"> 
+   <div class="ac-gallery"> 
+    <div class="tabnav" data-ac-gallery-tabnav="feature-nav-gallery" data-analytics-gallery-interaction-type="tabnav"> 
+     <ul role="tablist" class="tabnav-items"> 
+      <li role="presentation" class="tabnav-item"> <a href="#feature-nav-gallery-item-1" id="feature-nav-gallery-item-1-tabnav-trigger" data-ac-gallery-trigger="feature-nav-gallery-item-1" class="tabnav-link current"> Siri </a> </li> 
+      <li role="presentation" class="tabnav-item"> <a href="#feature-nav-gallery-item-2" id="feature-nav-gallery-item-2-tabnav-trigger" data-ac-gallery-trigger="feature-nav-gallery-item-2" class="tabnav-link"> Branded Services </a> </li> 
+      <li role="presentation" class="tabnav-item"> <a href="#feature-nav-gallery-item-3" id="feature-nav-gallery-item-3-tabnav-trigger" data-ac-gallery-trigger="feature-nav-gallery-item-3" class="tabnav-link"> Apple Music </a> </li> 
+      <li role="presentation" class="tabnav-item"> <a href="#feature-nav-gallery-item-4" id="feature-nav-gallery-item-4-tabnav-trigger" data-ac-gallery-trigger="feature-nav-gallery-item-4" class="tabnav-link"> Audiobooks </a> </li> 
+      <li role="presentation" class="tabnav-item"> <a href="#feature-nav-gallery-item-5" id="feature-nav-gallery-item-5-tabnav-trigger" data-ac-gallery-trigger="feature-nav-gallery-item-5" class="tabnav-link"> Podcasts </a> </li> 
+      <li role="presentation" class="tabnav-item"> <a href="#feature-nav-gallery-item-6" id="feature-nav-gallery-item-6-tabnav-trigger" data-ac-gallery-trigger="feature-nav-gallery-item-6" class="tabnav-link"> Apple Pay </a> </li> 
+      <li role="presentation" class="tabnav-item"> <a href="#feature-nav-gallery-item-7" id="feature-nav-gallery-item-7-tabnav-trigger" data-ac-gallery-trigger="feature-nav-gallery-item-7" class="tabnav-link"> Apple Maps </a> </li> 
+     </ul> 
+     <div class="tabnav-paddles"> <button class="tabnav-paddle tabnav-paddle-left" aria-hidden="true" disabled></button> <button class="tabnav-paddle tabnav-paddle-right" aria-hidden="true" disabled></button> 
+     </div> 
+    </div> 
+    <div id="feature-nav-gallery" class="gallery-container" aria-label="navigation-gallery" data-component-list="SmallOnlyGallery SmoothScroll" data-ac-gallery-fade> 
+     <div class="column large-3 small-12"> 
+      <div id="feature-nav-gallery-item-1" class="gallery-item nav-block-siri" data-ac-gallery-item> 
+       <div class="nav-block row"> 
+        <div class="nav-heading"> 
+         <h5 class="typography-body-semibold">Siri</h5> 
+        </div> 
+        <div class="column large-12 small-6"> 
+         <ul> 
+          <li><a href="#siri-siri" data-smooth-scroll-item data-analytics-click="prop3:nav">Siri</a></li> 
+          <li><a href="#siri-speaks" data-smooth-scroll-item data-analytics-click="prop3:nav">Siri Speaks</a></li> 
+          <li><a href="#siri-hey-siri" data-smooth-scroll-item data-analytics-click="prop3:nav">Hey Siri</a></li> 
+         </ul> 
+        </div> 
+        <div class="column large-12 small-6"> 
+         <ul> 
+          <li><a href="#siri-raise-to-speak" data-smooth-scroll-item data-analytics-click="prop3:nav">Raise To Speak</a></li> 
+          <li><a href="#siri-translations" data-smooth-scroll-item data-analytics-click="prop3:nav">Translations</a></li> 
+          <li><a href="#siri-on-device-dictation" data-smooth-scroll-item data-analytics-click="prop3:nav">On-device dictation</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="column large-3 small-12"> 
+      <div id="feature-nav-gallery-item-2" class="gallery-item nav-block-branded" data-ac-gallery-item> 
+       <div class="nav-block row"> 
+        <div class="nav-heading"> 
+         <h5 class="typography-body-semibold">Branded Services</h5> 
+        </div> 
+        <div class="column large-12 small-6"> 
+         <ul> 
+          <li><a href="#branded-blood-oxygen" data-smooth-scroll-item data-analytics-click="prop3:nav">Blood Oxygen app</a></li> 
+          <li><a href="#branded-ecg" data-smooth-scroll-item data-analytics-click="prop3:nav">ECG</a></li> 
+          <li><a href="#branded-atrail-fib" data-smooth-scroll-item data-analytics-click="prop3:nav">Irregular Rhythm Notification</a></li> 
+          <li><a href="#branded-find-my-friends" data-smooth-scroll-item data-analytics-click="prop3:nav">Find my Friends</a></li> 
+          <li><a href="#branded-family-setup" data-smooth-scroll-item data-analytics-click="prop3:nav">Family Setup</a></li> 
+          <li><a href="#branded-walkie-talkie" data-smooth-scroll-item data-analytics-click="prop3:nav">Walkie Talkie</a></li> 
+          <li><a href="#branded-news" data-smooth-scroll-item data-analytics-click="prop3:nav">News</a></li> 
+         </ul> 
+        </div> 
+        <div class="column large-12 small-6"> 
+         <ul> 
+          <li><a href="#branded-scribble" data-smooth-scroll-item data-analytics-click="prop3:nav">Scribble</a></li> 
+          <li><a href="#branded-dictation" data-smooth-scroll-item data-analytics-click="prop3:nav">Dictation</a></li> 
+          <li><a href="#branded-student-id" data-smooth-scroll-item data-analytics-click="prop3:nav">Student ID</a></li> 
+          <li><a href="#branded-radio" data-smooth-scroll-item data-analytics-click="prop3:nav">Radio</a></li> 
+          <li><a href="#branded-air-quality-index" data-smooth-scroll-item data-analytics-click="prop3:nav">Air Quality Index (complication)</a></li> 
+          <li><a href="#branded-voiceover" data-smooth-scroll-item data-analytics-click="prop3:nav">VoiceOver</a></li> 
+          <li><a href="#branded-international-emergency" data-smooth-scroll-item data-analytics-click="prop3:nav">International Emergency Calling</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="column large-3 small-12"> 
+      <div id="feature-nav-gallery-item-3" class="gallery-item nav-block-apple-music" data-ac-gallery-item> 
+       <div class="nav-block row"> 
+        <div class="nav-heading"> 
+         <h5 class="typography-body-semibold">Apple Music</h5> 
+        </div> 
+        <div class="column large-12 small-6"> 
+         <ul> 
+          <li><a href="#apple-music" data-smooth-scroll-item data-analytics-click="prop3:nav">Apple Music</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="column large-3 small-12"> 
+      <div id="feature-nav-gallery-item-4" class="gallery-item nav-block-audiobooks" data-ac-gallery-item> 
+       <div class="nav-block row"> 
+        <div class="nav-heading"> 
+         <h5 class="typography-body-semibold">Audiobooks</h5> 
+        </div> 
+        <div class="column large-12 small-6"> 
+         <ul> 
+          <li><a href="#audiobooks" data-smooth-scroll-item data-analytics-click="prop3:nav">Audiobooks</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="column large-3 small-12"> 
+      <div id="feature-nav-gallery-item-5" class="gallery-item nav-block-podcasts" data-ac-gallery-item> 
+       <div class="nav-block row"> 
+        <div class="nav-heading"> 
+         <h5 class="typography-body-semibold">Podcasts</h5> 
+        </div> 
+        <div class="column large-12 small-6"> 
+         <ul> 
+          <li><a href="#podcasts" data-smooth-scroll-item data-analytics-click="prop3:nav">Podcasts</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="column large-3 small-12"> 
+      <div id="feature-nav-gallery-item-6" class="gallery-item nav-block-apple-pay" data-ac-gallery-item> 
+       <div class="nav-block row"> 
+        <div class="nav-heading"> 
+         <h5 class="typography-body-semibold">Apple Pay</h5> 
+        </div> 
+        <div class="column large-12 small-6"> 
+         <ul> 
+          <li><a href="#apple-pay-pay" data-smooth-scroll-item data-analytics-click="prop3:nav">Apple Pay</a></li> 
+          <li><a href="#apple-pay-payments" data-smooth-scroll-item data-analytics-click="prop3:nav">In-App Payments</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="column large-3 small-12"> 
+      <div id="feature-nav-gallery-item-7" class="gallery-item nav-block-maps" data-ac-gallery-item> 
+       <div class="nav-block row"> 
+        <div class="nav-heading"> 
+         <h5 class="typography-body-semibold">Apple Maps</h5> 
+        </div> 
+        <div class="column large-12 small-6"> 
+         <ul> 
+          <li><a href="#maps-nearby" data-smooth-scroll-item data-analytics-click="prop3:nav">Nearby</a></li> 
+          <li><a href="#maps-directions" data-smooth-scroll-item data-analytics-click="prop3:nav">Directions</a></li> 
+         </ul> 
+        </div> 
+        <div class="column large-12 small-6"> 
+         <ul> 
+          <li><a href="#maps-turn" data-smooth-scroll-item data-analytics-click="prop3:nav">Turn-by-Turn</a></li> 
+          <li><a href="#maps-cycling-directions" data-smooth-scroll-item data-analytics-click="prop3:nav">Cycling Directions</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</section>
+<section id="siri-siri" class="section section-table section-siri-siri" data-analytics-section-engagement="name:siri-siri" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Siri:</span> Siri</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Belgium (Dutch, French)</li> 
+      <li>Brazil</li> 
+      <li>Canada (English, French)</li> 
+      <li>Chile</li> 
+      <li>China mainland (Cantonese, Mandarin)</li> 
+      <li>Denmark</li> 
+      <li>Finland (Finnish)</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>France</li> 
+      <li>Germany</li> 
+      <li>Hong Kong (Cantonese)</li> 
+      <li>India (English)</li> 
+      <li>Ireland (English)</li> 
+      <li>Israel (Hebrew)</li> 
+      <li>Italy</li> 
+      <li>Japan</li> 
+      <li>Malaysia (Malay)</li> 
+      <li>Mexico</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Norway</li> 
+      <li>Republic of Korea</li> 
+      <li>Russia</li> 
+      <li>Saudi Arabia (Arabic)</li> 
+      <li>Singapore (English)</li> 
+      <li>South Africa (English)</li> 
+      <li>Spain</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Sweden</li> 
+      <li>Switzerland (French, German, Italian)</li> 
+      <li>Taiwan (Mandarin)</li> 
+      <li>Thailand</li> 
+      <li>Turkey</li> 
+      <li>UK</li> 
+      <li>United Arab Emirates (Arabic)</li> 
+      <li>USA (English, Spanish)</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="siri-speaks" class="section section-table section-siri-speaks" data-analytics-section-engagement="name:siri-speaks" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Siri:</span> Siri Speaks</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Brazil</li> 
+      <li>Canada (English, French)</li> 
+      <li>China mainland (Cantonese, Mandarin)</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>France</li> 
+      <li>Germany</li> 
+      <li>Ireland (English)</li> 
+      <li>Italy</li> 
+      <li>Japan</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Mexico</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Russia</li> 
+      <li>South Africa (English)</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Spain</li> 
+      <li>Sweden</li> 
+      <li>Taiwan (Mandarin)</li> 
+      <li>UK</li> 
+      <li>USA (English, Spanish)</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="siri-hey-siri" class="section section-table section-siri-hey-siri" data-analytics-section-engagement="name:siri-hey-siri" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Siri:</span> Hey Siri</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Belgium</li> 
+      <li>Brazil</li> 
+      <li>Canada</li> 
+      <li>Chile</li> 
+      <li>China mainland</li> 
+      <li>Denmark</li> 
+      <li>Finland</li> 
+      <li>France</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Germany</li> 
+      <li>Hong Kong</li> 
+      <li>India</li> 
+      <li>Ireland</li> 
+      <li>Israel</li> 
+      <li>Italy</li> 
+      <li>Japan</li> 
+      <li>Luxembourg</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Malaysia</li> 
+      <li>Mexico</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Norway</li> 
+      <li>Republic of Korea</li> 
+      <li>Russia</li> 
+      <li>Saudi Arabia</li> 
+      <li>Singapore</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>South Africa</li> 
+      <li>Spain</li> 
+      <li>Sweden</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+      <li>Turkey</li> 
+      <li>UK</li> 
+      <li>United Arab Emirates</li> 
+      <li>USA</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="siri-raise-to-speak" class="section section-table section-siri-raise-to-speak" data-analytics-section-engagement="name:siri-raise-to-speak" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Siri:</span> Raise To Speak</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Belgium</li> 
+      <li>Brazil</li> 
+      <li>Canada</li> 
+      <li>Chile</li> 
+      <li>China mainland</li> 
+      <li>Denmark</li> 
+      <li>Finland</li> 
+      <li>France</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Germany</li> 
+      <li>Hong Kong</li> 
+      <li>India</li> 
+      <li>Ireland</li> 
+      <li>Israel</li> 
+      <li>Italy</li> 
+      <li>Japan</li> 
+      <li>Luxembourg</li> 
+      <li>Malaysia</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Mexico</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Norway</li> 
+      <li>Republic of Korea</li> 
+      <li>Russia</li> 
+      <li>Saudi Arabia</li> 
+      <li>Singapore</li> 
+      <li>South Africa</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Spain</li> 
+      <li>Sweden</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+      <li>Thailand</li> 
+      <li>Turkey</li> 
+      <li>UK</li> 
+      <li>United Arab Emirates</li> 
+      <li>USA</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="siri-translations" class="section section-table section-siri-translations" data-analytics-section-engagement="name:siri-translations" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Siri:</span> Translations</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>English (Australia, Canada, India, Ireland, New Zealand, Singapore, South Africa, UK, U.S.) to Spanish, Mandarin, German, French, Italian, Japanese, Russian, Portuguese, Arabic</li> 
+      <li>English (U.S.) to Korean</li> 
+      <li>Spanish (Spain, Mexico, Chile, U.S.) to English, Mandarin, German, French, Italian, Russian, Portuguese</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Mandarin Chinese (China mainland) to English, Spanish, German, French, Italian, Japanese, Korean</li> 
+      <li>Mandarin Chinese (Taiwan) to English, Japanese</li> 
+      <li>German (Germany) to English, Spanish, Mandarin, French, Italian, Russian, Portuguese</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>French (France) to English, Mandarin Chinese, Spanish, German, Italian, Russian, Portuguese</li> 
+      <li>Italian (Italy) to English, Spanish, Mandarin, German, French, Russian, Portuguese</li> 
+      <li>Japanese (Japan) to English, Mandarin, Korean</li> 
+      <li>Russian (Russia) to English, Spanish, German, French, Italian, Portuguese</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Portuguese (Brazil) to English, Spanish, German, French, Italian, Russian</li> 
+      <li>Arabic (United Arab Emirates, Saudi Arabia) to English</li> 
+      <li>Korean (Korea) to English, Mandarin, Japanese</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="siri-on-device-dictation" class="section section-table section-siri-on-device-dictation" data-analytics-section-engagement="name:siri-on-device-dictation" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Siri:</span> On-device dictation</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Anguilla (English)</li> 
+      <li>Antigua (English)</li> 
+      <li>Aruba (English)</li> 
+      <li>Bahamas (English)</li> 
+      <li>Barbados (English)</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Bermuda (English)</li> 
+      <li>British Virgin Islands (English)</li> 
+      <li>Cayman Islands (English)</li> 
+      <li>Dominica (English)</li> 
+      <li>Grenada (English)</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Guyana (English)</li> 
+      <li>Jamaica (English)</li> 
+      <li>Montserrat (English)</li> 
+      <li>St. Kitts and Nevis (English)</li> 
+      <li>St. Lucia (English)</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>St. Maarten (English)</li> 
+      <li>St. Vincent (English)</li> 
+      <li>Trinidad and Tobago (English)</li> 
+      <li>Turks and Caicos (English)</li> 
+      <li>United States</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="branded-blood-oxygen" class="section section-table section-branded-blood-oxygen" data-analytics-section-engagement="name:branded-blood-oxygen" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Branded Services:</span> Blood Oxygen app</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Albania</li> 
+      <li>Algeria</li> 
+      <li>Andorra</li> 
+      <li>Anguilla</li> 
+      <li>Antigua &amp; Barbuda</li> 
+      <li>Argentina</li> 
+      <li>Aruba</li> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Bahamas</li> 
+      <li>Bahrain</li> 
+      <li>Bangladesh</li> 
+      <li>Barbados</li> 
+      <li>Belgium</li> 
+      <li>Bermuda</li> 
+      <li>Bolivia</li> 
+      <li>Bosnia &amp; Herzegovina</li> 
+      <li>Brazil</li> 
+      <li>British Virgin Islands</li> 
+      <li>Brunei</li> 
+      <li>Bulgaria</li> 
+      <li>Cambodia</li> 
+      <li>Canada</li> 
+      <li>Cape Verde</li> 
+      <li>Cayman Islands</li> 
+      <li>Central African Republic</li> 
+      <li>Chile</li> 
+      <li>China mainland</li> 
+      <li>Colombia</li> 
+      <li>Cook Islands</li> 
+      <li>Costa Rica</li> 
+      <li>Croatia</li> 
+      <li>Cyprus</li> 
+      <li>Czechia</li> 
+      <li>Denmark</li> 
+      <li>Dominica</li> 
+      <li>Dominican Republic</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Ecuador</li> 
+      <li>El Salvador</li> 
+      <li>Estonia</li> 
+      <li>Ethiopia</li> 
+      <li>Fiji</li> 
+      <li>Finland</li> 
+      <li>France</li> 
+      <li>French Southern Territories</li> 
+      <li>Gabon</li> 
+      <li>Gambia</li> 
+      <li>Germany</li> 
+      <li>Ghana</li> 
+      <li>Gibraltar</li> 
+      <li>Greece</li> 
+      <li>Grenada</li> 
+      <li>Guadeloupe</li> 
+      <li>Guam</li> 
+      <li>Guatemala</li> 
+      <li>Guernsey</li> 
+      <li>Guinea</li> 
+      <li>Guyana</li> 
+      <li>Haiti</li> 
+      <li>Honduras</li> 
+      <li>Hong Kong</li> 
+      <li>Hungary</li> 
+      <li>Iceland</li> 
+      <li>India</li> 
+      <li>Indonesia</li> 
+      <li>Ireland</li> 
+      <li>Isle of Man</li> 
+      <li>Israel</li> 
+      <li>Italy</li> 
+      <li>Jamaica</li> 
+      <li>Japan</li> 
+      <li>Jersey</li> 
+      <li>Kazakhstan</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Kenya</li> 
+      <li>Kuwait</li> 
+      <li>Latvia</li> 
+      <li>Liberia</li> 
+      <li>Liechtenstein</li> 
+      <li>Lithuania</li> 
+      <li>Luxembourg</li> 
+      <li>Macao</li> 
+      <li>Madagascar</li> 
+      <li>Malaysia</li> 
+      <li>Martinique</li> 
+      <li>Mayotte</li> 
+      <li>Mexico</li> 
+      <li>Monaco</li> 
+      <li>Montenegro</li> 
+      <li>Montserrat</li> 
+      <li>Morocco</li> 
+      <li>Myanmar</li> 
+      <li>Nepal</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Nicaragua</li> 
+      <li>Nigeria</li> 
+      <li>Norfolk Island</li> 
+      <li>North Macedonia</li> 
+      <li>Norway</li> 
+      <li>Oman</li> 
+      <li>Panama</li> 
+      <li>Paraguay</li> 
+      <li>Peru</li> 
+      <li>Philippines</li> 
+      <li>Poland</li> 
+      <li>Portugal</li> 
+      <li>Puerto Rico</li> 
+      <li>Qatar</li> 
+      <li>Republic of Korea</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Reunion Island</li> 
+      <li>Romania</li> 
+      <li>Russia</li> 
+      <li>Saudi Arabia</li> 
+      <li>Serbia</li> 
+      <li>Seychelles</li> 
+      <li>Singapore</li> 
+      <li>Slovakia</li> 
+      <li>Slovenia</li> 
+      <li>South Africa</li> 
+      <li>Spain</li> 
+      <li>Sri Lanka</li> 
+      <li>St. Barthélemy</li> 
+      <li>St. Helena</li> 
+      <li>St. Kitts &amp; Nevis</li> 
+      <li>St. Lucia</li> 
+      <li>St. Martin</li> 
+      <li>St. Vincent &amp; Grenadines</li> 
+      <li>Sweden</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+      <li>Thailand</li> 
+      <li>Trinidad and Tobago</li> 
+      <li>Tunisia</li> 
+      <li>Turkey</li> 
+      <li>Turks and Caicos</li> 
+      <li>United Kingdom</li> 
+      <li>Ukraine</li> 
+      <li>United Arab Emirates</li> 
+      <li>Uruguay</li> 
+      <li>United States</li> 
+      <li>US Virgin Islands</li> 
+      <li>Vatican City</li> 
+      <li>Vietnam</li> 
+      <li>Yemen</li> 
+      <li>Zimbabwe</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="branded-ecg" class="section section-table section-branded-ecg" data-analytics-section-engagement="name:branded-ecg" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Branded Services:</span> ECG</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Andorra</li> 
+      <li>Anguilla</li> 
+      <li>Antigua &amp; Barbuda</li> 
+      <li>Aruba</li> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Bahamas</li> 
+      <li>Bahrain</li> 
+      <li>Barbados</li> 
+      <li>Belgium</li> 
+      <li>Bermuda</li> 
+      <li>Brazil</li> 
+      <li>British Virgin Islands</li> 
+      <li>Brunei</li> 
+      <li>Bulgaria</li> 
+      <li>Canada</li> 
+      <li>Cayman Islands</li> 
+      <li>Chile</li> 
+      <li>Colombia</li> 
+      <li>Cook Islands</li> 
+      <li>Croatia</li> 
+      <li>Cyprus</li> 
+      <li>Czechia</li> 
+      <li>Denmark</li> 
+      <li>Dominica</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Estonia</li> 
+      <li>Fiji</li> 
+      <li>Finland</li> 
+      <li>France</li> 
+      <li>French Guiana</li> 
+      <li>French Southern Territories</li> 
+      <li>Germany</li> 
+      <li>Gibraltar</li> 
+      <li>Greece</li> 
+      <li>Guadeloupe</li> 
+      <li>Guam</li> 
+      <li>Guernsey</li> 
+      <li>Guyana</li> 
+      <li>Haiti</li> 
+      <li>Hong Kong</li> 
+      <li>Hungary</li> 
+      <li>Iceland</li> 
+      <li>India</li> 
+      <li>Ireland</li> 
+      <li>Isle of Man</li> 
+      <li>Israel</li> 
+      <li>Italy</li> 
+      <li>Japan</li> 
+      <li>Jersey</li> 
+      <li>Kuwait</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Liechtenstein</li> 
+      <li>Luxembourg</li> 
+      <li>Macao</li> 
+      <li>Malaysia</li> 
+      <li>Malta</li> 
+      <li>Martinique</li> 
+      <li>Mayotte</li> 
+      <li>Monaco</li> 
+      <li>Montserrat</li> 
+      <li>Nauru</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Norfolk Islands</li> 
+      <li>Norway</li> 
+      <li>Oman</li> 
+      <li>Peru</li> 
+      <li>Philippines</li> 
+      <li>Poland</li> 
+      <li>Portugal</li> 
+      <li>Puerto Rico</li> 
+      <li>Qatar</li> 
+      <li>Reunion</li> 
+      <li>Romania</li> 
+      <li>Russia</li> 
+      <li>Saudi Arabia</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Seychelles</li> 
+      <li>Singapore</li> 
+      <li>Slovakia</li> 
+      <li>Slovenia</li> 
+      <li>South Africa</li> 
+      <li>South Korea</li> 
+      <li>Spain</li> 
+      <li>St. Barthélemy</li> 
+      <li>St. Helena</li> 
+      <li>St. Kitts &amp; Nevis</li> 
+      <li>St. Martin</li> 
+      <li>St. Vincent &amp; Grenadines</li> 
+      <li>Sweden</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+      <li>Thailand</li> 
+      <li>Trinidad &amp; Tobago</li> 
+      <li>Turkey</li> 
+      <li>Ukraine</li> 
+      <li>United Arab Emirates</li> 
+      <li>United Kingdom</li> 
+      <li>United States</li> 
+      <li>US Virgin Islands</li> 
+      <li>Vatican City</li> 
+      <li>Vietnam</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="branded-atrail-fib" class="section section-table section-branded-atrail-fib" data-analytics-section-engagement="name:branded-atrail-fib" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Branded Services:</span> Irregular Rhythm Notification</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Andorra</li> 
+      <li>Anguilla</li> 
+      <li>Antigua &amp; Barbuda</li> 
+      <li>Aruba</li> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Bahamas</li> 
+      <li>Bahrain</li> 
+      <li>Barbados</li> 
+      <li>Belgium</li> 
+      <li>Bermuda</li> 
+      <li>Brazil</li> 
+      <li>British Virgin Islands</li> 
+      <li>Brunei</li> 
+      <li>Bulgaria</li> 
+      <li>Canada</li> 
+      <li>Cayman Islands</li> 
+      <li>Chile</li> 
+      <li>Colombia</li> 
+      <li>Cook Islands</li> 
+      <li>Croatia</li> 
+      <li>Cyprus</li> 
+      <li>Czechia</li> 
+      <li>Denmark</li> 
+      <li>Dominica</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Estonia</li> 
+      <li>Fiji</li> 
+      <li>Finland</li> 
+      <li>France</li> 
+      <li>French Guiana</li> 
+      <li>French Southern Territories</li> 
+      <li>Germany</li> 
+      <li>Gibraltar</li> 
+      <li>Greece</li> 
+      <li>Guadeloupe</li> 
+      <li>Guam</li> 
+      <li>Guernsey</li> 
+      <li>Guyana</li> 
+      <li>Haiti</li> 
+      <li>Hong Kong</li> 
+      <li>Hungary</li> 
+      <li>Iceland</li> 
+      <li>India</li> 
+      <li>Ireland</li> 
+      <li>Isle of Man</li> 
+      <li>Israel</li> 
+      <li>Italy</li> 
+      <li>Japan</li> 
+      <li>Jersey</li> 
+      <li>Kuwait</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Liechtenstein</li> 
+      <li>Luxembourg</li> 
+      <li>Macao</li> 
+      <li>Malaysia</li> 
+      <li>Malta</li> 
+      <li>Martinique</li> 
+      <li>Mayotte</li> 
+      <li>Monaco</li> 
+      <li>Montserrat</li> 
+      <li>Nauru</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Norfolk Islands</li> 
+      <li>Norway</li> 
+      <li>Oman</li> 
+      <li>Peru</li> 
+      <li>Philippines</li> 
+      <li>Poland</li> 
+      <li>Portugal</li> 
+      <li>Puerto Rico</li> 
+      <li>Qatar</li> 
+      <li>Reunion</li> 
+      <li>Romania</li> 
+      <li>Russia</li> 
+      <li>Saudi Arabia</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Seychelles</li> 
+      <li>Singapore</li> 
+      <li>Slovakia</li> 
+      <li>Slovenia</li> 
+      <li>South Africa</li> 
+      <li>South Korea</li> 
+      <li>Spain</li> 
+      <li>St. Barthélemy</li> 
+      <li>St. Helena</li> 
+      <li>St. Kitts &amp; Nevis</li> 
+      <li>St. Martin</li> 
+      <li>St. Vincent &amp; Grenadines</li> 
+      <li>Sweden</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+      <li>Thailand</li> 
+      <li>Trinidad &amp; Tobago</li> 
+      <li>Turkey</li> 
+      <li>Ukraine</li> 
+      <li>United Arab Emirates</li> 
+      <li>United Kingdom</li> 
+      <li>United States</li> 
+      <li>US Virgin Islands</li> 
+      <li>Vatican City</li> 
+      <li>Vietnam</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="branded-find-my-friends" class="section section-table section-branded-find-my-friends" data-analytics-section-engagement="name:branded-find-my-friends" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Branded Services:</span> Find my Friends</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Anguilla</li> 
+      <li>Antigua and Barbuda</li> 
+      <li>Argentina</li> 
+      <li>Aruba</li> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Bahamas</li> 
+      <li>Bahrain</li> 
+      <li>Barbados</li> 
+      <li>Belgium</li> 
+      <li>Bermuda</li> 
+      <li>Bolivia</li> 
+      <li>Brazil</li> 
+      <li>British Virgin Islands</li> 
+      <li>Bulgaria</li> 
+      <li>Canada</li> 
+      <li>Cayman Islands</li> 
+      <li>Chile</li> 
+      <li>China mainland</li> 
+      <li>Colombia</li> 
+      <li>Costa Rica</li> 
+      <li>Croatia</li> 
+      <li>Cyprus</li> 
+      <li>Czechia</li> 
+      <li>Denmark</li> 
+      <li>Dominica</li> 
+      <li>Dominican Republic</li> 
+      <li>Ecuador</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>El Salvador</li> 
+      <li>Estonia</li> 
+      <li>Finland</li> 
+      <li>France</li> 
+      <li>Germany</li> 
+      <li>Gibraltar</li> 
+      <li>Greece</li> 
+      <li>Grenada</li> 
+      <li>Guadeloupe</li> 
+      <li>Guam</li> 
+      <li>Guatemala</li> 
+      <li>Guernsey</li> 
+      <li>Guinea</li> 
+      <li>Guyana</li> 
+      <li>Honduras</li> 
+      <li>Hong Kong</li> 
+      <li>Hungary</li> 
+      <li>Iceland</li> 
+      <li>India</li> 
+      <li>Indonesia</li> 
+      <li>Ireland</li> 
+      <li>Isle of Man</li> 
+      <li>Israel</li> 
+      <li>Italy</li> 
+      <li>Jamaica</li> 
+      <li>Japan</li> 
+      <li>Jersey</li> 
+      <li>Kazakhstan</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Kuwait</li> 
+      <li>Latvia</li> 
+      <li>Lithuania</li> 
+      <li>Luxembourg</li> 
+      <li>Macao</li> 
+      <li>Malaysia</li> 
+      <li>Martinique</li> 
+      <li>Mayotte</li> 
+      <li>Mexico</li> 
+      <li>Monaco</li> 
+      <li>Montserrat</li> 
+      <li>Morocco</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Nicaragua</li> 
+      <li>Norway</li> 
+      <li>Oman</li> 
+      <li>Panama</li> 
+      <li>Paraguay</li> 
+      <li>Peru</li> 
+      <li>Philippines</li> 
+      <li>Poland</li> 
+      <li>Portugal</li> 
+      <li>Puerto Rico</li> 
+      <li>Qatar</li> 
+      <li>Republic of Korea</li> 
+      <li>Reunion Island</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Romania</li> 
+      <li>Russia</li> 
+      <li>Saudi Arabia</li> 
+      <li>Singapore</li> 
+      <li>Slovakia</li> 
+      <li>Slovenia</li> 
+      <li>South Africa</li> 
+      <li>Spain</li> 
+      <li>St. Barts</li> 
+      <li>St. Kitts and Nevis</li> 
+      <li>St. Lucia</li> 
+      <li>St. Maarten</li> 
+      <li>St. Vincent</li> 
+      <li>Sweden</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+      <li>Thailand</li> 
+      <li>Trinidad and Tobago</li> 
+      <li>Turkey</li> 
+      <li>Turks and Caicos</li> 
+      <li>United Kingdom</li> 
+      <li>Ukraine</li> 
+      <li>United Arab Emirates</li> 
+      <li>Uruguay</li> 
+      <li>United States</li> 
+      <li>US Virgin Islands</li> 
+      <li>Vietnam</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="branded-family-setup" class="section section-table section-branded-family-setup" data-analytics-section-engagement="name:branded-family-setup" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Branded Services:</span> Family Setup</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>China mainland</li> 
+      <li>France</li> 
+      <li>Germany</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Hong Kong</li> 
+      <li>Japan</li> 
+      <li>Poland</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Spain</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Thailand</li> 
+      <li>United Kingdom</li> 
+      <li>United States</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="branded-walkie-talkie" class="section section-table section-branded-walkie-talkie" data-analytics-section-engagement="name:branded-walkie-talkie" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Branded Services:</span> Walkie-Talkie</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Anguilla</li> 
+      <li>Antigua and Barbuda</li> 
+      <li>Argentina</li> 
+      <li>Aruba</li> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Bahamas</li> 
+      <li>Bahrain</li> 
+      <li>Barbados</li> 
+      <li>Belgium</li> 
+      <li>Bermuda</li> 
+      <li>Bolivia</li> 
+      <li>Brazil</li> 
+      <li>British Virgin Islands</li> 
+      <li>Bulgaria</li> 
+      <li>Canada</li> 
+      <li>Cayman Islands</li> 
+      <li>Chile</li> 
+      <li>Colombia</li> 
+      <li>Costa Rica</li> 
+      <li>Croatia</li> 
+      <li>Cyprus</li> 
+      <li>Czechia</li> 
+      <li>Denmark</li> 
+      <li>Dominica</li> 
+      <li>Dominican Republic</li> 
+      <li>Ecuador</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>El Salvador</li> 
+      <li>Estonia</li> 
+      <li>Finland</li> 
+      <li>France</li> 
+      <li>Germany</li> 
+      <li>Gibraltar</li> 
+      <li>Greece</li> 
+      <li>Grenada</li> 
+      <li>Guadeloupe</li> 
+      <li>Guam</li> 
+      <li>Guatemala</li> 
+      <li>Guyana</li> 
+      <li>Honduras</li> 
+      <li>Hong Kong</li> 
+      <li>Hungary</li> 
+      <li>Iceland</li> 
+      <li>India</li> 
+      <li>Indonesia</li> 
+      <li>Ireland</li> 
+      <li>Isle of Man</li> 
+      <li>Israel</li> 
+      <li>Italy</li> 
+      <li>Jamaica</li> 
+      <li>Japan</li> 
+      <li>Jersey</li> 
+      <li>Kazakhstan</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Kuwait</li> 
+      <li>Latvia</li> 
+      <li>Lithuania</li> 
+      <li>Luxembourg</li> 
+      <li>Macao</li> 
+      <li>Malaysia</li> 
+      <li>Martinique</li> 
+      <li>Mayotte</li> 
+      <li>Mexico</li> 
+      <li>Monaco</li> 
+      <li>Montserrat</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Nicaragua</li> 
+      <li>Norway</li> 
+      <li>Oman</li> 
+      <li>Panama</li> 
+      <li>Paraguay</li> 
+      <li>Peru</li> 
+      <li>Philippines</li> 
+      <li>Poland</li> 
+      <li>Portugal</li> 
+      <li>Puerto Rico</li> 
+      <li>Qatar</li> 
+      <li>Republic of Korea</li> 
+      <li>Reunion Island</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Romania</li> 
+      <li>Russia</li> 
+      <li>Saudi Arabia</li> 
+      <li>Singapore</li> 
+      <li>Slovakia</li> 
+      <li>Slovenia</li> 
+      <li>South Africa</li> 
+      <li>Spain</li> 
+      <li>St. Barts</li> 
+      <li>St. Kitts and Nevis</li> 
+      <li>St. Lucia</li> 
+      <li>St. Maarten</li> 
+      <li>St. Vincent</li> 
+      <li>Sweden</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+      <li>Thailand</li> 
+      <li>Trinidad and Tobago</li> 
+      <li>Turkey</li> 
+      <li>Turks and Caicos</li> 
+      <li>UK</li> 
+      <li>Ukraine</li> 
+      <li>Uruguay</li> 
+      <li>USA</li> 
+      <li>US Virgin Islands</li> 
+      <li>Vietnam</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="branded-news" class="section section-table section-branded-news" data-analytics-section-engagement="name:branded-news" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Branded Services:</span> News</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Australia</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Canada</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>UK</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>USA</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="branded-scribble" class="section section-table section-branded-scribble" data-analytics-section-engagement="name:branded-scribble" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Branded Services:</span> Scribble</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Cantonese (Hong Kong)</li> 
+      <li>English (Australia)</li> 
+      <li>English (Canada)</li> 
+      <li>English (India)</li> 
+      <li>English (Singapore)</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>English (UK)</li> 
+      <li>English (USA)</li> 
+      <li>French (Belgium)</li> 
+      <li>French (Canada)</li> 
+      <li>French (France)</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>French (Switzerland)</li> 
+      <li>German (Austria)</li> 
+      <li>German (Germany)</li> 
+      <li>German (Switzerland)</li> 
+      <li>Italian</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Mandarin (China mainland)</li> 
+      <li>Mandarin (Taiwan)</li> 
+      <li>Spanish (Latin America)</li> 
+      <li>Spanish (Mexico)</li> 
+      <li>Spanish (Spain)</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="branded-dictation" class="section section-table section-branded-dictation" data-analytics-section-engagement="name:branded-dictation" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Branded Services:</span> Dictation</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Anguilla (English)</li> 
+      <li>Antigua and Barbuda (English)</li> 
+      <li>Aruba (English)</li> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Bahamas (English)</li> 
+      <li>Bahrain</li> 
+      <li>Barbados (English)</li> 
+      <li>Belgium (Dutch, French),</li> 
+      <li>Bermuda (English)</li> 
+      <li>Bolivia (Spanish)</li> 
+      <li>Brazil</li> 
+      <li>British Virgin Islands (English)</li> 
+      <li>Canada (French, English)</li> 
+      <li>Cayman Islands (English)</li> 
+      <li>Chile</li> 
+      <li>China mainland (Mandarin)</li> 
+      <li>Colombia</li> 
+      <li>Costa Rica (Spanish)</li> 
+      <li>Croatia</li> 
+      <li>Cyprus (Greek)</li> 
+      <li>Czechia</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Denmark</li> 
+      <li>Dominica (English)</li> 
+      <li>Dominican Republic</li> 
+      <li>Ecuador</li> 
+      <li>El Salvador</li> 
+      <li>Finland</li> 
+      <li>France</li> 
+      <li>Germany</li> 
+      <li>Greece</li> 
+      <li>Grenada (English)</li> 
+      <li>Guatemala (Spanish)</li> 
+      <li>Guyana (English)</li> 
+      <li>Honduras (Spanish)</li> 
+      <li>Hong Kong (Cantonese)</li> 
+      <li>Hungary</li> 
+      <li>India (English, Hindi)</li> 
+      <li>Indonesia</li> 
+      <li>Israel (Hebrew)</li> 
+      <li>Italy</li> 
+      <li>Jamaica (English)</li> 
+      <li>Japan</li> 
+      <li>Kuwait (Arabic)</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Luxembourg (German, French)</li> 
+      <li>Macao (Cantonese)</li> 
+      <li>Malaysia</li> 
+      <li>Mexico (Spanish)</li> 
+      <li>Montserrat (English)</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Nicaragua (Spanish)</li> 
+      <li>Norway</li> 
+      <li>Oman (Arabic)</li> 
+      <li>Panama (Spanish)</li> 
+      <li>Paraguay (Spanish)</li> 
+      <li>Peru (Spanish)</li> 
+      <li>Philippines (English)</li> 
+      <li>Poland</li> 
+      <li>Portugal</li> 
+      <li>Qatar (Arabic)</li> 
+      <li>Republic of Korea</li> 
+      <li>Romania</li> 
+      <li>Russia</li> 
+      <li>Saudi Arabia (Arabic)</li> 
+      <li>Singapore</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Slovakia</li> 
+      <li>South Africa (English)</li> 
+      <li>Spain (Spanish, Catalan)</li> 
+      <li>St. Kitts and Nevis (English)</li> 
+      <li>St. Lucia (English)</li> 
+      <li>St. Maarten (English)</li> 
+      <li>St. Vincent (English)</li> 
+      <li>Sweden</li> 
+      <li>Switzerland (German, French, Italian)</li> 
+      <li>Taiwan (Mandarin)</li> 
+      <li>Thailand</li> 
+      <li>Trinidad and Tobago (English)</li> 
+      <li>Turkey</li> 
+      <li>Turks and Caicos (English)</li> 
+      <li>UK</li> 
+      <li>Ukraine</li> 
+      <li>United Arab Emirates (Arabic)</li> 
+      <li>Uruguay (Spanish)</li> 
+      <li>USA</li> 
+      <li>Vietnam</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="branded-student-id" class="section section-table section-branded-student-id" data-analytics-section-engagement="name:branded-student-id" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Branded Services:</span> Student ID Cards</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>USA</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="branded-radio" class="section section-table section-branded-radio" data-analytics-section-engagement="name:branded-radio" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Branded Services:</span> Radio</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Algeria</li> 
+      <li>Angola</li> 
+      <li>Anguilla</li> 
+      <li>Antigua and Barbuda</li> 
+      <li>Argentina</li> 
+      <li>Armenia</li> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Azerbaijan</li> 
+      <li>Bahamas</li> 
+      <li>Bahrain</li> 
+      <li>Barbados</li> 
+      <li>Belarus</li> 
+      <li>Belgium</li> 
+      <li>Belize</li> 
+      <li>Benin</li> 
+      <li>Bermuda</li> 
+      <li>Bhutan</li> 
+      <li>Bolivia</li> 
+      <li>Bosnia and Herzegovina</li> 
+      <li>Botswana</li> 
+      <li>Brazil</li> 
+      <li>British Virgin Islands</li> 
+      <li>Bulgaria</li> 
+      <li>Cambodia</li> 
+      <li>Cameroon</li> 
+      <li>Canada</li> 
+      <li>Cape Verde</li> 
+      <li>Cayman Islands</li> 
+      <li>Chad</li> 
+      <li>Chile</li> 
+      <li>China mainland</li> 
+      <li>Colombia</li> 
+      <li>Congo, Democratic Republic of the</li> 
+      <li>Congo, Republic of the</li> 
+      <li>Costa Rica</li> 
+      <li>Côte d’Ivoire</li> 
+      <li>Croatia</li> 
+      <li>Cyprus</li> 
+      <li>Czechia</li> 
+      <li>Denmark</li> 
+      <li>Dominica</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Dominican Republic</li> 
+      <li>Ecuador</li> 
+      <li>Egypt</li> 
+      <li>El Salvador</li> 
+      <li>Estonia</li> 
+      <li>Eswatini</li> 
+      <li>Fiji</li> 
+      <li>Finland</li> 
+      <li>France</li> 
+      <li>Gabon</li> 
+      <li>The Gambia</li> 
+      <li>Georgia</li> 
+      <li>Germany</li> 
+      <li>Ghana</li> 
+      <li>Greece</li> 
+      <li>Grenada</li> 
+      <li>Guatemala</li> 
+      <li>Guinea-Bissau</li> 
+      <li>Guyana</li> 
+      <li>Honduras</li> 
+      <li>Hong Kong</li> 
+      <li>Hungary</li> 
+      <li>Iceland</li> 
+      <li>India</li> 
+      <li>Indonesia</li> 
+      <li>Iraq</li> 
+      <li>Ireland</li> 
+      <li>Israel</li> 
+      <li>Italy</li> 
+      <li>Jamaica</li> 
+      <li>Japan</li> 
+      <li>Jordan</li> 
+      <li>Kazakhstan</li> 
+      <li>Kenya</li> 
+      <li>Kosovo</li> 
+      <li>Kuwait</li> 
+      <li>Kyrgyzstan</li> 
+      <li>Laos</li> 
+      <li>Latvia</li> 
+      <li>Lebanon</li> 
+      <li>Liberia</li> 
+      <li>Libya</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Lithuania</li> 
+      <li>Luxembourg</li> 
+      <li>Macau</li> 
+      <li>Madagascar</li> 
+      <li>Malawi</li> 
+      <li>Malaysia</li> 
+      <li>Maldives</li> 
+      <li>Mali</li> 
+      <li>Malta</li> 
+      <li>Mauritania</li> 
+      <li>Mauritius</li> 
+      <li>Mexico</li> 
+      <li>Micronesia</li> 
+      <li>Moldova</li> 
+      <li>Mongolia</li> 
+      <li>Montenegro</li> 
+      <li>Montserrat</li> 
+      <li>Morocco</li> 
+      <li>Mozambique</li> 
+      <li>Myanmar</li> 
+      <li>Namibia</li> 
+      <li>Nauru</li> 
+      <li>Nepal</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Nicaragua</li> 
+      <li>Niger</li> 
+      <li>Nigeria</li> 
+      <li>North Macedonia</li> 
+      <li>Norway</li> 
+      <li>Oman</li> 
+      <li>Panama</li> 
+      <li>Papua New Guinea</li> 
+      <li>Paraguay</li> 
+      <li>Peru</li> 
+      <li>Philippines</li> 
+      <li>Poland</li> 
+      <li>Portugal</li> 
+      <li>Qatar</li> 
+      <li>Republic of Korea</li> 
+      <li>Romania</li> 
+      <li>Russia</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Rwanda</li> 
+      <li>Saudi Arabia</li> 
+      <li>Senegal</li> 
+      <li>Serbia</li> 
+      <li>Seychelles</li> 
+      <li>Sierra Leone</li> 
+      <li>Singapore</li> 
+      <li>Slovakia</li> 
+      <li>Slovenia</li> 
+      <li>Solomon Islands</li> 
+      <li>South Africa</li> 
+      <li>Spain</li> 
+      <li>Sri Lanka</li> 
+      <li>St. Kitts and Nevis</li> 
+      <li>St. Lucia</li> 
+      <li>St. Vincent and the Grenadines</li> 
+      <li>Suriname</li> 
+      <li>Sweden</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+      <li>Tajikistan</li> 
+      <li>Tanzania</li> 
+      <li>Thailand</li> 
+      <li>Tonga</li> 
+      <li>Trinidad and Tobago</li> 
+      <li>Tunisia</li> 
+      <li>Turkey</li> 
+      <li>Turkmenistan</li> 
+      <li>Turks and Caicos</li> 
+      <li>Uganda</li> 
+      <li>UK</li> 
+      <li>Ukraine</li> 
+      <li>United Arab Emirates</li> 
+      <li>Uruguay</li> 
+      <li>USA</li> 
+      <li>US Virgin Islands</li> 
+      <li>Uzbekistan</li> 
+      <li>Vanuatu</li> 
+      <li>Venezuela</li> 
+      <li>Vietnam</li> 
+      <li>Yemen</li> 
+      <li>Zambia</li> 
+      <li>Zimbabwe</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="branded-air-quality-index" class="section section-table section-branded-air-quality-index" data-analytics-section-engagement="name:branded-air-quality-index" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Branded Services:</span> Air Quality Index</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>China mainland</li> 
+      <li>Germany</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>India</li> 
+      <li>Mexico</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>UK</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>USA</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="branded-voiceover" class="section section-table section-branded-voiceover" data-analytics-section-engagement="name:branded-voiceover" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Branded Services:</span> VoiceOver</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Arabic</li> 
+      <li>Cantonese (Hong Kong)</li> 
+      <li>Czech</li> 
+      <li>Danish</li> 
+      <li>Dutch</li> 
+      <li>English (Australia)</li> 
+      <li>English (Ireland)</li> 
+      <li>English (South Africa)</li> 
+      <li>English (UK)</li> 
+      <li>English (USA)</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Finnish</li> 
+      <li>Flemish (Belgium)</li> 
+      <li>French (Canada)</li> 
+      <li>French (France)</li> 
+      <li>German</li> 
+      <li>Greek</li> 
+      <li>Hebrew</li> 
+      <li>Hindi</li> 
+      <li>Hungarian</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Indonesian</li> 
+      <li>Italian</li> 
+      <li>Japanese</li> 
+      <li>Korean</li> 
+      <li>Mandarin (China mainland)</li> 
+      <li>Mandarin (Taiwan)</li> 
+      <li>Norwegian</li> 
+      <li>Polish</li> 
+      <li>Portuguese (Brazil)</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Portuguese (Portugal)</li> 
+      <li>Romanian</li> 
+      <li>Russian</li> 
+      <li>Slovak</li> 
+      <li>Spanish (Mexico)</li> 
+      <li>Spanish (Spain)</li> 
+      <li>Swedish</li> 
+      <li>Thai</li> 
+      <li>Turkish</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="branded-international-emergency" class="section section-table section-branded-international-emergency" data-analytics-section-engagement="name:branded-international-emergency" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Branded Services:</span> International Emergency Calling <sup><a href="#footnote-1" class="footnote">1</a></sup><br>This feature is available when traveling abroad to the following countries and regions.</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Albania</li> 
+      <li>American Samoa<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Andorra</li> 
+      <li>Anguilla</li> 
+      <li>Antigua and Barbuda</li> 
+      <li>Argentina<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Armenia<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Aruba</li> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Azerbaijan</li> 
+      <li>Bahamas</li> 
+      <li>Bahrain</li> 
+      <li>Barbados</li> 
+      <li>Belarus<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Belgium<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Belize</li> 
+      <li>Bermuda</li> 
+      <li>Bonaire</li> 
+      <li>Brazil<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>British Virgin Islands</li> 
+      <li>Bulgaria<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Canada</li> 
+      <li>Cayman Islands</li> 
+      <li>Chile<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Colombia<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Cook Islands</li> 
+      <li>Costa Rica</li> 
+      <li>Croatia</li> 
+      <li>Curacao</li> 
+      <li>Cyprus</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Czechia</li> 
+      <li>Denmark</li> 
+      <li>Dominica</li> 
+      <li>Ecuador<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Estonia</li> 
+      <li>Fiji<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Finland</li> 
+      <li>France<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>French Guiana<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>French Polynesia<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Georgia</li> 
+      <li>Germany<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Greece</li> 
+      <li>Greenland</li> 
+      <li>Grenada</li> 
+      <li>Guadeloupe<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Guam</li> 
+      <li>Guernsey</li> 
+      <li>Guyana</li> 
+      <li>Hong Kong</li> 
+      <li>Hungary</li> 
+      <li>Iceland</li> 
+      <li>Indonesia<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Ireland</li> 
+      <li>Isle of Man</li> 
+      <li>Israel</li> 
+      <li>Italy</li> 
+      <li>Jamaica</li> 
+      <li>Japan<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Jersey</li> 
+      <li>Jordan<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Kazakhstan<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Kuwait<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Latvia</li> 
+      <li>Lebanon<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Liechtenstein<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Lithuania</li> 
+      <li>Luxembourg</li> 
+      <li>Macau</li> 
+      <li>Malaysia<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Malta</li> 
+      <li>Martinique<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Mauritius<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Mexico</li> 
+      <li>Moldova</li> 
+      <li>Monaco</li> 
+      <li>Montserrat</li> 
+      <li>Montenegro<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Morocco</li> 
+      <li>Myanmar<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Netherlands</li> 
+      <li>New Zealand<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Nicaragua</li> 
+      <li>Norway</li> 
+      <li>Oman<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Panama</li> 
+      <li>Paraguay</li> 
+      <li>Peru</li> 
+      <li>Poland</li> 
+      <li>Portugal</li> 
+      <li>Puerto Rico</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Republic of Korea</li> 
+      <li>Réunion<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Romania<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Russia</li> 
+      <li>Rwanda<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Saint Lucia</li> 
+      <li>Serbia</li> 
+      <li>Seychelles</li> 
+      <li>Slovakia</li> 
+      <li>Slovenia<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Solomon Islands</li> 
+      <li>South Africa<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Spain</li> 
+      <li>St. Barts</li> 
+      <li>St. Kitts &amp; Nevis</li> 
+      <li>St. Martin</li> 
+      <li>St. Vincent and the Grenadines</li> 
+      <li>Suriname</li> 
+      <li>Sweden</li> 
+      <li>Switzerland<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Taiwan</li> 
+      <li>Tonga<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Trinidad and Tobago</li> 
+      <li>Turkey</li> 
+      <li>Turks and Caicos</li> 
+      <li>Uganda<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>UK<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>Uruguay<sup><a href="#footnote-2" class="footnote">2</a></sup></li> 
+      <li>USA</li> 
+      <li>Vanuatu</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="apple-music" class="section section-table section-apple-music" data-analytics-section-engagement="name:apple-music" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Apple Music:</span> Apple&nbsp;Music</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Algeria</li> 
+      <li>Angola</li> 
+      <li>Anguilla</li> 
+      <li>Antigua and Barbuda</li> 
+      <li>Argentina</li> 
+      <li>Armenia</li> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Azerbaijan</li> 
+      <li>Bahamas</li> 
+      <li>Bahrain</li> 
+      <li>Barbados</li> 
+      <li>Belarus</li> 
+      <li>Belgium</li> 
+      <li>Belize</li> 
+      <li>Benin</li> 
+      <li>Bermuda</li> 
+      <li>Bhutan</li> 
+      <li>Bolivia</li> 
+      <li>Bosnia and Herzegovina</li> 
+      <li>Botswana</li> 
+      <li>Brazil</li> 
+      <li>British Virgin Islands</li> 
+      <li>Bulgaria</li> 
+      <li>Cambodia</li> 
+      <li>Cameroon</li> 
+      <li>Canada</li> 
+      <li>Cape Verde</li> 
+      <li>Cayman Islands</li> 
+      <li>Chad</li> 
+      <li>Chile</li> 
+      <li>China mainland</li> 
+      <li>Colombia</li> 
+      <li>Congo, Democratic Republic of the</li> 
+      <li>Congo, Republic of the</li> 
+      <li>Costa Rica</li> 
+      <li>Côte d’Ivoire</li> 
+      <li>Croatia</li> 
+      <li>Cyprus</li> 
+      <li>Czechia</li> 
+      <li>Denmark</li> 
+      <li>Dominica</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Dominican Republic</li> 
+      <li>Ecuador</li> 
+      <li>Egypt</li> 
+      <li>El Salvador</li> 
+      <li>Estonia</li> 
+      <li>Eswatini</li> 
+      <li>Fiji</li> 
+      <li>Finland</li> 
+      <li>France</li> 
+      <li>Gabon</li> 
+      <li>The Gambia</li> 
+      <li>Georgia</li> 
+      <li>Germany</li> 
+      <li>Ghana</li> 
+      <li>Greece</li> 
+      <li>Grenada</li> 
+      <li>Guatemala</li> 
+      <li>Guinea-Bissau</li> 
+      <li>Guyana</li> 
+      <li>Honduras</li> 
+      <li>Hong Kong</li> 
+      <li>Hungary</li> 
+      <li>Iceland</li> 
+      <li>India</li> 
+      <li>Indonesia</li> 
+      <li>Iraq</li> 
+      <li>Ireland</li> 
+      <li>Israel</li> 
+      <li>Italy</li> 
+      <li>Jamaica</li> 
+      <li>Japan</li> 
+      <li>Jordan</li> 
+      <li>Kazakhstan</li> 
+      <li>Kenya</li> 
+      <li>Kosovo</li> 
+      <li>Kuwait</li> 
+      <li>Kyrgyzstan</li> 
+      <li>Laos</li> 
+      <li>Latvia</li> 
+      <li>Lebanon</li> 
+      <li>Liberia</li> 
+      <li>Libya</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Lithuania</li> 
+      <li>Luxembourg</li> 
+      <li>Macau</li> 
+      <li>Madagascar</li> 
+      <li>Malawi</li> 
+      <li>Malaysia</li> 
+      <li>Maldives</li> 
+      <li>Mali</li> 
+      <li>Malta</li> 
+      <li>Mauritania</li> 
+      <li>Mauritius</li> 
+      <li>Mexico</li> 
+      <li>Micronesia</li> 
+      <li>Moldova</li> 
+      <li>Mongolia</li> 
+      <li>Montenegro</li> 
+      <li>Montserrat</li> 
+      <li>Morocco</li> 
+      <li>Mozambique</li> 
+      <li>Myanmar</li> 
+      <li>Namibia</li> 
+      <li>Nauru</li> 
+      <li>Nepal</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Nicaragua</li> 
+      <li>Niger</li> 
+      <li>Nigeria</li> 
+      <li>North Macedonia</li> 
+      <li>Norway</li> 
+      <li>Oman</li> 
+      <li>Panama</li> 
+      <li>Papua New Guinea</li> 
+      <li>Paraguay</li> 
+      <li>Peru</li> 
+      <li>Philippines</li> 
+      <li>Poland</li> 
+      <li>Portugal</li> 
+      <li>Qatar</li> 
+      <li>Republic of Korea</li> 
+      <li>Romania</li> 
+      <li>Russia</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Rwanda</li> 
+      <li>Saudi Arabia</li> 
+      <li>Senegal</li> 
+      <li>Serbia</li> 
+      <li>Seychelles</li> 
+      <li>Sierra Leone</li> 
+      <li>Singapore</li> 
+      <li>Slovakia</li> 
+      <li>Slovenia</li> 
+      <li>Solomon Islands</li> 
+      <li>South Africa</li> 
+      <li>Spain</li> 
+      <li>Sri Lanka</li> 
+      <li>St. Kitts and Nevis</li> 
+      <li>St. Lucia</li> 
+      <li>St. Vincent and the Grenadines</li> 
+      <li>Suriname</li> 
+      <li>Sweden</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+      <li>Tajikistan</li> 
+      <li>Tanzania</li> 
+      <li>Thailand</li> 
+      <li>Tonga</li> 
+      <li>Trinidad and Tobago</li> 
+      <li>Tunisia</li> 
+      <li>Turkey</li> 
+      <li>Turkmenistan</li> 
+      <li>Turks and Caicos</li> 
+      <li>Uganda</li> 
+      <li>UK</li> 
+      <li>Ukraine</li> 
+      <li>United Arab Emirates</li> 
+      <li>Uruguay</li> 
+      <li>USA</li> 
+      <li>US Virgin Islands</li> 
+      <li>Uzbekistan</li> 
+      <li>Vanuatu</li> 
+      <li>Venezuela</li> 
+      <li>Vietnam</li> 
+      <li>Yemen</li> 
+      <li>Zambia</li> 
+      <li>Zimbabwe</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="audiobooks" class="section section-table section-audiobooks" data-analytics-section-engagement="name:audiobooks" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Audiobooks:</span> Audiobooks</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Belgium</li> 
+      <li>Canada</li> 
+      <li>Denmark</li> 
+      <li>Finland</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>France</li> 
+      <li>Germany</li> 
+      <li>Greece</li> 
+      <li>Ireland</li> 
+      <li>Italy</li> 
+      <li>Japan</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Luxembourg</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Norway</li> 
+      <li>Portugal</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Spain</li> 
+      <li>Sweden</li> 
+      <li>Switzerland</li> 
+      <li>UK</li> 
+      <li>USA</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="podcasts" class="section section-table section-podcasts" data-analytics-section-engagement="name:podcasts" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Podcasts:</span> Podcasts</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Afghanistan</li> 
+      <li>Albania</li> 
+      <li>Algeria</li> 
+      <li>Angola</li> 
+      <li>Anguilla</li> 
+      <li>Antigua and Barbuda</li> 
+      <li>Argentina</li> 
+      <li>Armenia</li> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Azerbaijan</li> 
+      <li>Bahamas</li> 
+      <li>Bahrain</li> 
+      <li>Barbados</li> 
+      <li>Belarus</li> 
+      <li>Belgium</li> 
+      <li>Belize</li> 
+      <li>Benin</li> 
+      <li>Bermuda</li> 
+      <li>Bhutan</li> 
+      <li>Bolivia</li> 
+      <li>Bosnia and Herzegovina</li> 
+      <li>Botswana</li> 
+      <li>Brazil</li> 
+      <li>British Virgin Islands</li> 
+      <li>Brunei</li> 
+      <li>Bulgaria</li> 
+      <li>Burkina Faso</li> 
+      <li>Cambodia</li> 
+      <li>Cameroon</li> 
+      <li>Canada</li> 
+      <li>Cape Verde</li> 
+      <li>Cayman Islands</li> 
+      <li>Chad</li> 
+      <li>Chile</li> 
+      <li>China mainland</li> 
+      <li>Colombia</li> 
+      <li>Congo, Democratic Republic of the</li> 
+      <li>Congo, Republic of the</li> 
+      <li>Costa Rica</li> 
+      <li>Côte d’Ivoire</li> 
+      <li>Croatia</li> 
+      <li>Cyprus</li> 
+      <li>Czechia</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Denmark</li> 
+      <li>Dominica</li> 
+      <li>Dominican Republic</li> 
+      <li>Ecuador</li> 
+      <li>Egypt</li> 
+      <li>El Salvador</li> 
+      <li>Estonia</li> 
+      <li>Eswatini</li> 
+      <li>Fiji</li> 
+      <li>Finland</li> 
+      <li>France</li> 
+      <li>Gabon</li> 
+      <li>The Gambia</li> 
+      <li>Georgia</li> 
+      <li>Germany</li> 
+      <li>Ghana</li> 
+      <li>Greece</li> 
+      <li>Grenada</li> 
+      <li>Guatemala</li> 
+      <li>Guinea-Bissau</li> 
+      <li>Guyana</li> 
+      <li>Honduras</li> 
+      <li>Hong Kong</li> 
+      <li>Hungary</li> 
+      <li>Iceland</li> 
+      <li>India</li> 
+      <li>Indonesia</li> 
+      <li>Iraq</li> 
+      <li>Ireland</li> 
+      <li>Israel</li> 
+      <li>Italy</li> 
+      <li>Jamaica</li> 
+      <li>Japan</li> 
+      <li>Jordan</li> 
+      <li>Kazakhstan</li> 
+      <li>Kenya</li> 
+      <li>Kosovo</li> 
+      <li>Kuwait</li> 
+      <li>Kyrgyzstan</li> 
+      <li>Laos</li> 
+      <li>Latvia</li> 
+      <li>Lebanon</li> 
+      <li>Liberia</li> 
+      <li>Libya</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Lithuania</li> 
+      <li>Luxembourg</li> 
+      <li>Macau</li> 
+      <li>Madagascar</li> 
+      <li>Malawi</li> 
+      <li>Malaysia</li> 
+      <li>Maldives</li> 
+      <li>Mali</li> 
+      <li>Malta</li> 
+      <li>Mauritania</li> 
+      <li>Mauritius</li> 
+      <li>Mexico</li> 
+      <li>Micronesia</li> 
+      <li>Moldova</li> 
+      <li>Mongolia</li> 
+      <li>Montenegro</li> 
+      <li>Montserrat</li> 
+      <li>Morocco</li> 
+      <li>Mozambique</li> 
+      <li>Myanmar</li> 
+      <li>Namibia</li> 
+      <li>Nauru</li> 
+      <li>Nepal</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Nicaragua</li> 
+      <li>Niger</li> 
+      <li>Nigeria</li> 
+      <li>North Macedonia</li> 
+      <li>Norway</li> 
+      <li>Oman</li> 
+      <li>Pakistan</li> 
+      <li>Palau</li> 
+      <li>Panama</li> 
+      <li>Papua New Guinea</li> 
+      <li>Paraguay</li> 
+      <li>Peru</li> 
+      <li>Philippines</li> 
+      <li>Poland</li> 
+      <li>Portugal</li> 
+      <li>Qatar</li> 
+      <li>Republic of Korea</li> 
+      <li>Romania</li> 
+      <li>Russia</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Rwanda</li> 
+      <li>São Tomé and Principe</li> 
+      <li>Saudi Arabia</li> 
+      <li>Senegal</li> 
+      <li>Serbia</li> 
+      <li>Seychelles</li> 
+      <li>Sierra Leone</li> 
+      <li>Singapore</li> 
+      <li>Slovakia</li> 
+      <li>Slovenia</li> 
+      <li>Solomon Islands</li> 
+      <li>South Africa</li> 
+      <li>Spain</li> 
+      <li>Sri Lanka</li> 
+      <li>St. Kitts &amp; Nevis</li> 
+      <li>St. Lucia</li> 
+      <li>St. Vincent and the Grenadines</li> 
+      <li>Suriname</li> 
+      <li>Sweden</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+      <li>Tajikistan</li> 
+      <li>Tanzania</li> 
+      <li>Thailand</li> 
+      <li>Tonga</li> 
+      <li>Trinidad and Tobago</li> 
+      <li>Tunisia</li> 
+      <li>Turkey</li> 
+      <li>Turkmenistan</li> 
+      <li>Turks and Caicos</li> 
+      <li>Uganda</li> 
+      <li>UK</li> 
+      <li>Ukraine</li> 
+      <li>United Arab Emirates</li> 
+      <li>Uruguay</li> 
+      <li>USA</li> 
+      <li>Uzbekistan</li> 
+      <li>Vanuatu</li> 
+      <li>Venezuela</li> 
+      <li>Vietnam</li> 
+      <li>Yemen</li> 
+      <li>Zambia</li> 
+      <li>Zimbabwe</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="apple-pay-pay" class="section section-table section-apple-pay-pay" data-analytics-section-engagement="name:apple-pay-pay" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Apple Pay:</span> Apple Pay</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Belarus</li> 
+      <li>Belgium</li> 
+      <li>Brazil</li> 
+      <li>Bulgaria</li> 
+      <li>Canada</li> 
+      <li>China mainland</li> 
+      <li>Croatia</li> 
+      <li>Cyprus</li> 
+      <li>Czechia</li> 
+      <li>Denmark</li> 
+      <li>Estonia</li> 
+      <li>Finland</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>France</li> 
+      <li>Georgia</li> 
+      <li>Germany</li> 
+      <li>Greece</li> 
+      <li>Guernsey</li> 
+      <li>Hong Kong</li> 
+      <li>Hungary</li> 
+      <li>Iceland</li> 
+      <li>Ireland</li> 
+      <li>Italy</li> 
+      <li>Japan</li> 
+      <li>Jersey</li> 
+      <li>Kazakhstan</li> 
+      <li>Latvia</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Liechtenstein</li> 
+      <li>Lithuania</li> 
+      <li>Luxembourg</li> 
+      <li>Macao</li> 
+      <li>Malta</li> 
+      <li>Montenegro</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Norway</li> 
+      <li>Poland</li> 
+      <li>Portugal</li> 
+      <li>Romania</li> 
+      <li>Russia</li> 
+      <li>San Marino</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Saudi Arabia</li> 
+      <li>Singapore</li> 
+      <li>Slovakia</li> 
+      <li>Slovenia</li> 
+      <li>Spain</li> 
+      <li>Sweden</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+      <li>UK</li> 
+      <li>Ukraine</li> 
+      <li>United Arab Emirates</li> 
+      <li>USA</li> 
+      <li>Vatican City</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="apple-pay-payments" class="section section-table section-apple-pay-payments" data-analytics-section-engagement="name:apple-pay-payments" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Apple Pay:</span> In-App Payments</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Belarus</li> 
+      <li>Belgium</li> 
+      <li>Brazil</li> 
+      <li>Bulgaria</li> 
+      <li>Canada</li> 
+      <li>China mainland</li> 
+      <li>Croatia</li> 
+      <li>Cyprus</li> 
+      <li>Czechia</li> 
+      <li>Denmark</li> 
+      <li>Estonia</li> 
+      <li>Finland</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>France</li> 
+      <li>Georgia</li> 
+      <li>Germany</li> 
+      <li>Greece</li> 
+      <li>Guernsey</li> 
+      <li>Hong Kong</li> 
+      <li>Hungary</li> 
+      <li>Iceland</li> 
+      <li>Ireland</li> 
+      <li>Italy</li> 
+      <li>Japan</li> 
+      <li>Jersey</li> 
+      <li>Kazakhstan</li> 
+      <li>Latvia</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Liechtenstein</li> 
+      <li>Lithuania</li> 
+      <li>Luxembourg</li> 
+      <li>Macao</li> 
+      <li>Malta</li> 
+      <li>Montenegro</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Norway</li> 
+      <li>Poland</li> 
+      <li>Portugal</li> 
+      <li>Romania</li> 
+      <li>Russia</li> 
+      <li>San Marino</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Saudi Arabia</li> 
+      <li>Singapore</li> 
+      <li>Slovakia</li> 
+      <li>Slovenia</li> 
+      <li>Spain</li> 
+      <li>Sweden</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+      <li>UK</li> 
+      <li>Ukraine</li> 
+      <li>United Arab Emirates</li> 
+      <li>USA</li> 
+      <li>Vatican City</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="maps-nearby" class="section section-table section-maps-nearby" data-analytics-section-engagement="name:maps-nearby" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Apple Maps:</span> Navigation: Nearby</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Argentina</li> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Belgium</li> 
+      <li>Brazil</li> 
+      <li>Canada</li> 
+      <li>Chile</li> 
+      <li>China mainland</li> 
+      <li>Croatia</li> 
+      <li>Czechia</li> 
+      <li>Denmark</li> 
+      <li>El Salvador</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Finland</li> 
+      <li>France</li> 
+      <li>Germany</li> 
+      <li>Greece</li> 
+      <li>Hong Kong</li> 
+      <li>Hungary</li> 
+      <li>India</li> 
+      <li>Indonesia</li> 
+      <li>Ireland</li> 
+      <li>Italy</li> 
+      <li>Japan</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Macau</li> 
+      <li>Mexico</li> 
+      <li>Montserrat</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Norway</li> 
+      <li>Philippines</li> 
+      <li>Poland</li> 
+      <li>Portugal</li> 
+      <li>Republic of Korea</li> 
+      <li>Russia</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Saudi Arabia</li> 
+      <li>Singapore</li> 
+      <li>South Africa</li> 
+      <li>Spain</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+      <li>Thailand</li> 
+      <li>Turkey</li> 
+      <li>UK</li> 
+      <li>USA</li> 
+      <li>Vietnam</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="maps-directions" class="section section-table section-maps-directions" data-analytics-section-engagement="name:maps-directions" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Apple Maps:</span> Navigation: Directions</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Albania</li> 
+      <li>Algeria</li> 
+      <li>Angola</li> 
+      <li>Belarus</li> 
+      <li>Bosnia and Herzegovina</li> 
+      <li>Burkina Faso</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Central African Republic</li> 
+      <li>Chile</li> 
+      <li>Congo</li> 
+      <li>Congo, Republic of the</li> 
+      <li>French Guiana</li> 
+      <li>Gabon</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Guinea-Bissau</li> 
+      <li>Indonesia</li> 
+      <li>Kiribati</li> 
+      <li>Mauritania</li> 
+      <li>Montenegro</li> 
+      <li>Mozambique</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>North Macedonia</li> 
+      <li>Philippines</li> 
+      <li>Serbia</li> 
+      <li>Tanzania</li> 
+      <li>Vietnam</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="maps-turn" class="section section-table section-maps-turn" data-analytics-section-engagement="name:maps-turn" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Apple Maps:</span> Navigation: Turn-by-Turn</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Aland Islands</li> 
+      <li>Andorra</li> 
+      <li>Anguilla</li> 
+      <li>Antigua and Barbuda</li> 
+      <li>Argentina</li> 
+      <li>Aruba</li> 
+      <li>Australia</li> 
+      <li>Austria</li> 
+      <li>Bahamas</li> 
+      <li>Barbados</li> 
+      <li>Belgium</li> 
+      <li>Bermuda</li> 
+      <li>Bonaire</li> 
+      <li>Brazil</li> 
+      <li>British Virgin Islands</li> 
+      <li>Brunei</li> 
+      <li>Bulgaria</li> 
+      <li>Canada</li> 
+      <li>Cayman Islands</li> 
+      <li>China mainland</li> 
+      <li>Croatia</li> 
+      <li>Czechia</li> 
+      <li>Denmark</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Dominica</li> 
+      <li>Dominican Republic</li> 
+      <li>Egypt</li> 
+      <li>Estonia</li> 
+      <li>Finland</li> 
+      <li>France</li> 
+      <li>Germany</li> 
+      <li>Gibraltar</li> 
+      <li>Greece</li> 
+      <li>Grenada</li> 
+      <li>Guadeloupe</li> 
+      <li>Haiti</li> 
+      <li>Hong Kong</li> 
+      <li>Hungary</li> 
+      <li>Iceland</li> 
+      <li>India</li> 
+      <li>Ireland</li> 
+      <li>Israel</li> 
+      <li>Italy</li> 
+      <li>Jamaica</li> 
+      <li>Japan</li> 
+      <li>Latvia</li> 
+      <li>Liechtenstein</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Lithuania</li> 
+      <li>Luxembourg</li> 
+      <li>Macau</li> 
+      <li>Malaysia</li> 
+      <li>Malta</li> 
+      <li>Martinique</li> 
+      <li>Mexico</li> 
+      <li>Monaco</li> 
+      <li>Montserrat</li> 
+      <li>Morocco</li> 
+      <li>Netherlands</li> 
+      <li>New Zealand</li> 
+      <li>Norway</li> 
+      <li>Palestinian Territories</li> 
+      <li>Poland</li> 
+      <li>Portugal</li> 
+      <li>Republic of Korea</li> 
+      <li>Romania</li> 
+      <li>Russia</li> 
+      <li>San Marino</li> 
+      <li>Singapore</li> 
+      <li>Sint Eustatius, &amp; Saba</li> 
+      <li>Sint Maarten</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Slovakia</li> 
+      <li>Slovenia</li> 
+      <li>South Africa</li> 
+      <li>Spain</li> 
+      <li>St. Barth</li> 
+      <li>St. Kitts and Nevis</li> 
+      <li>St. Lucia</li> 
+      <li>St. Martin</li> 
+      <li>St. Vincent and the Grenadines</li> 
+      <li>Sweden</li> 
+      <li>Switzerland</li> 
+      <li>Taiwan</li> 
+      <li>Thailand</li> 
+      <li>Trinidad and Tobago</li> 
+      <li>Turkey</li> 
+      <li>Turks and Caicos</li> 
+      <li>UK</li> 
+      <li>Ukraine</li> 
+      <li>United Arab Emirates</li> 
+      <li>Uruguay</li> 
+      <li>USA</li> 
+      <li>Vatican City</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>
+<section id="maps-cycling-directions" class="section section-table section-maps-cycling-directions" data-analytics-section-engagement="name:maps-cycling-directions" data-component-list="SmoothScroll"> 
+ <div class="section-content"> 
+  <div class="table-heading row"> 
+   <h2 class="typography-label label-regular"><span class="typography-label">Apple Maps:</span> Cycling Directions</h2> 
+  </div> 
+  <div class="typography-body-reduced table-body table-result row"> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>China mainland</li> 
+      <li>London, UK</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Los Angeles, CA</li> 
+      <li>New York, NY</li> 
+     </ul> 
+    </div> 
+   </div> 
+   <div class="column large-6"> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>Portland, OR</li> 
+      <li>San Diego, CA</li> 
+     </ul> 
+    </div> 
+    <div class="country-column column large-6 small-12"> 
+     <ul> 
+      <li>San Francisco, CA</li> 
+     </ul> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="typography-body-reduced table-footer row"> <a href="#top" class="icon icon-after icon-chevronup" data-smooth-scroll-item data-analytics-click>Back to Top</a> 
+  </div> 
+ </div> 
+</section>

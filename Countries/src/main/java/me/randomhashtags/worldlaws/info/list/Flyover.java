@@ -5,7 +5,7 @@ import me.randomhashtags.worldlaws.info.availability.AvailabilityCategory;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureAvailability;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureType;
 import me.randomhashtags.worldlaws.info.service.CountryServiceValue;
-import me.randomhashtags.worldlaws.location.*;
+import me.randomhashtags.worldlaws.country.*;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;

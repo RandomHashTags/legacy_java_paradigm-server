@@ -1,7 +1,8 @@
 package me.randomhashtags.worldlaws.observances;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -10,26 +11,24 @@ import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.Month;
 
-public interface IHoliday extends Jsoupable {
+public interface IHoliday extends Jsoupable, Jsonable {
     Enum<? extends IHoliday> getEnum();
     default String getName() {
-        final String wikipediaName = getWikipediaName();
+        final String wikipediaName = getOfficialName();
         return wikipediaName != null ? wikipediaName : LocalServer.toCorrectCapitalization(getEnum().name(), false, "of", "and", "de", "the", "it");
     }
-    String getWikipediaName();
+    String getOfficialName();
 
-    private Document getDocument(HolidayType holidayType) {
-        final String url = getWikipediaURL(), name = getName();
+    private String loadHolidayJSON(HolidayType holidayType) {
+        final String url = getURL(), name = getName();
         final String fileName = holidayType.name().replace("_EAST", "").replace("_WEST", "") + "_" + name;
-        return getDocument(Folder.UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS, fileName, url, true);
-    }
-    default void getDescription(HolidayType holidayType, CompletionHandler handler) {
-        final Document doc = getDocument(holidayType);
+        final Document doc = getDocument(Folder.UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS, fileName, url, false);
+        String description = null, imageURL = null;
         if(doc != null) {
+            final String mwParserOutput = "div.mw-content-ltr div.mw-parser-output ";
             final Elements elements = doc.getAllElements();
-            final String prefix = "div.mw-content-ltr div.mw-parser-output ";
-            final Elements paragraphs = elements.select(prefix + "p");
-            final Elements headings = elements.select(prefix + "h2");
+            final Elements paragraphs = elements.select(mwParserOutput + "p");
+            final Elements headings = elements.select(mwParserOutput + "h2");
             final int firstHeadingIndex = elements.indexOf(headings.get(0));
 
             final StringBuilder builder = new StringBuilder();
@@ -46,14 +45,9 @@ public interface IHoliday extends Jsoupable {
                     break;
                 }
             }
-            final String string = LocalServer.removeWikipediaTranslations(removeReferences(builder.toString()));
-            handler.handleString(string);
-        }
-    }
-    default void getImageURL(HolidayType holidayType, CompletionHandler handler) {
-        final Document doc = getDocument(holidayType);
-        if(doc != null) {
-            final Elements infoboxes = doc.select("div.mw-content-ltr div.mw-parser-output table.infobox");
+            description = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(removeReferences(builder.toString())));
+
+            final Elements infoboxes = doc.select(mwParserOutput + "table.infobox");
             if(!infoboxes.isEmpty()) {
                 final Element infobox = infoboxes.get(0);
                 final Elements images = infobox.select("a.image img");
@@ -62,19 +56,48 @@ public interface IHoliday extends Jsoupable {
                     final String src = image.attr("src");
                     final String[] endingValues = src.split("/");
                     final String endingValue = endingValues[endingValues.length-1];
-                    final String url = "https:" + src.split(endingValue)[0] + "%quality%px-" + endingValue.split("px-")[1];
-                    handler.handleString(url);
-                } else {
-                    handler.handleString(null);
+                    final String targetImageURL = src.contains("px-") ? src.split(endingValue)[0] + "%quality%px-" + endingValue.split("px-")[1] : src;
+                    imageURL = "https:" + targetImageURL;
                 }
-            } else {
-                handler.handleString(null);
             }
         }
+        return "{\"description\":\"" + description + "\",\"imageURL\":\"" + imageURL + "\"}";
     }
-    default String getWikipediaURL() {
-        final String name = getName().replace(" ", "_");
-        return "https://en.wikipedia.org/wiki/" + name;
+    private void getHolidayJSON(HolidayType holidayType, CompletionHandler handler) {
+        final String fileName = holidayType.name().replace("_EAST", "").replace("_WEST", "") + "_" + getName();
+        getJSONObject(Folder.UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS, fileName, new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+                handler.handleString(loadHolidayJSON(holidayType));
+            }
+
+            @Override
+            public void handleJSONObject(JSONObject json) {
+                handler.handleJSONObject(json);
+            }
+        });
+    }
+    default void getDescription(HolidayType holidayType, CompletionHandler handler) {
+        getHolidayJSON(holidayType, new CompletionHandler() {
+            @Override
+            public void handleJSONObject(JSONObject json) {
+                handler.handleString(json.getString("description"));
+            }
+        });
+    }
+    default void getImageURL(HolidayType holidayType, CompletionHandler handler) {
+        getHolidayJSON(holidayType, new CompletionHandler() {
+            @Override
+            public void handleJSONObject(JSONObject json) {
+                handler.handleString(json.getString("imageURL"));
+            }
+        });
+    }
+    default HolidaySource getSource() {
+        return HolidaySource.WIKIPEDIA;
+    }
+    default String getURL() {
+        return getSource().getURL(getName());
     }
     String[] getAliases();
     EventDate getDate(WLCountry country, int year);

@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.info.service;
 
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 
 import java.util.HashSet;
 

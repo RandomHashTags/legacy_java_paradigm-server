@@ -20,7 +20,7 @@ public enum MLB implements USAUpcomingEventController {
     INSTANCE;
 
     private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
-    private HashMap<String, String> upcomingEvents, loadedPreUpcomingEvents;
+    private HashMap<String, String> upcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -30,11 +30,6 @@ public enum MLB implements USAUpcomingEventController {
     @Override
     public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
         return preUpcomingEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getLoadedPreUpcomingEvents() {
-        return loadedPreUpcomingEvents;
     }
 
     @Override
@@ -50,7 +45,6 @@ public enum MLB implements USAUpcomingEventController {
     private void refresh(CompletionHandler handler) {
         preUpcomingEvents = new HashMap<>();
         upcomingEvents = new HashMap<>();
-        loadedPreUpcomingEvents = new HashMap<>();
 
         final LocalDate now = LocalDate.now();
         final int month = now.getMonthValue(), day = now.getDayOfMonth(), year = now.getYear();

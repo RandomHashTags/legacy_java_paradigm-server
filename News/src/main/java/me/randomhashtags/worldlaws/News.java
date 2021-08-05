@@ -29,4 +29,9 @@ public class News implements WLServer {
     public String[] getHomeRequests() {
         return null;
     }
+
+    @Override
+    public AutoUpdateSettings getAutoUpdateSettings() {
+        return null;
+    }
 }

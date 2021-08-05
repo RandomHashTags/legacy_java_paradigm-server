@@ -6,16 +6,15 @@ import org.apache.logging.log4j.Level;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.SocketException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
+import java.util.*;
 
 public final class LocalServer implements UserServer, DataValues {
     private final String serverName;
     private final int port;
     private CompletionHandler handler;
     private ServerSocket server;
+    private HashSet<Timer> timers;
+
     private HashMap<String, Integer> totalRequests;
     private HashMap<String, HashSet<String>> uniqueRequests;
     private HashSet<String> totalUniqueIdentifiers;
@@ -46,6 +45,11 @@ public final class LocalServer implements UserServer, DataValues {
     public void stop() {
         final long started = System.currentTimeMillis();
         WLLogger.log(Level.INFO, serverName + " - shutting down server...");
+        if(timers != null) {
+            for(Timer timer : timers) {
+                timer.cancel();
+            }
+        }
         stopListeningForUserInput();
         saveStatistics();
         try {
@@ -55,10 +59,23 @@ public final class LocalServer implements UserServer, DataValues {
             e.printStackTrace();
         }
     }
+    public void registerFixedTimer(long interval, CompletionHandler handler) {
+        final Timer timer = new Timer();
+        timer.scheduleAtFixedRate(new TimerTask() {
+            @Override
+            public void run() {
+                handler.handleObject(null);
+            }
+        }, interval, interval);
+        if(timers == null) {
+            timers = new HashSet<>();
+        }
+        timers.add(timer);
+    }
+
     public void madeRequest(String identifier, String target) {
         uniqueRequests.putIfAbsent(target, new HashSet<>());
-        final HashSet<String> set = uniqueRequests.get(target);
-        set.add(identifier);
+        uniqueRequests.get(target).add(identifier);
         totalRequests.put(target, totalRequests.getOrDefault(target, 0) + 1);
         totalUniqueIdentifiers.add(identifier);
     }

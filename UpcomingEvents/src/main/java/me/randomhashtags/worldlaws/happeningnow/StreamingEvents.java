@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.happeningnow;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.apache.logging.log4j.Level;
@@ -79,11 +79,6 @@ public enum StreamingEvents implements UpcomingEventController, DataValues {
 
     @Override
     public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
-        return null;
-    }
-
-    @Override
-    public HashMap<String, String> getLoadedPreUpcomingEvents() {
         return null;
     }
 

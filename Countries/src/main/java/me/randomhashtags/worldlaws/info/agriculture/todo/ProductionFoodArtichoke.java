@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.info.agriculture.todo;
 
 import me.randomhashtags.worldlaws.info.agriculture.CountryProductionService;
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 
 public enum ProductionFoodArtichoke implements CountryProductionService {
     INSTANCE;

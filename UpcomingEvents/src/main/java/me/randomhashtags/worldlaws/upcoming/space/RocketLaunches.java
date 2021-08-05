@@ -1,12 +1,13 @@
 package me.randomhashtags.worldlaws.upcoming.space;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.time.LocalDate;
 import java.util.HashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.StreamSupport;
@@ -14,7 +15,7 @@ import java.util.stream.StreamSupport;
 public enum RocketLaunches implements UpcomingEventController {
     INSTANCE;
 
-    private HashMap<String, String> upcomingEvents, loadedPreUpcomingEvents;
+    private HashMap<String, String> upcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -32,11 +33,6 @@ public enum RocketLaunches implements UpcomingEventController {
     }
 
     @Override
-    public HashMap<String, String> getLoadedPreUpcomingEvents() {
-        return loadedPreUpcomingEvents;
-    }
-
-    @Override
     public HashMap<String, String> getUpcomingEvents() {
         return upcomingEvents;
     }
@@ -48,12 +44,12 @@ public enum RocketLaunches implements UpcomingEventController {
 
     private void refresh(CompletionHandler handler) {
         upcomingEvents = new HashMap<>();
-        loadedPreUpcomingEvents = new HashMap<>();
 
         requestJSONObject("https://ll.thespacedevs.com/2.0.0/launch/upcoming/?format=json&limit=50&mode=detailed&offset=0", RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
                 if(json != null) {
+                    final LocalDate endingDate = LocalDate.now();
                     final JSONArray launches = json.getJSONArray("results");
                     final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
                     final AtomicInteger completed = new AtomicInteger(0);
@@ -81,9 +77,10 @@ public enum RocketLaunches implements UpcomingEventController {
                         final String dateString = getEventDateString(date), id = getEventDateIdentifier(dateString, name);
                         final RocketLaunch launch = new RocketLaunch(name, status, location, exactDay, exactTime, probability, rocketImageURL, mission, windowStart, windowEnd, sources);
                         final String string = launch.toJSON();
+                        if(date.getLocalDate().isEqual(endingDate)) {
+                            saveUpcomingEventToJSON(id, string);
+                        }
                         upcomingEvents.put(id, string);
-                        final String preUpcomingEventString = new PreUpcomingEvent(id, name, null, location).toStringWithImageURL(rocketImageURL);
-                        loadedPreUpcomingEvents.put(id, preUpcomingEventString);
 
                         if(completed.addAndGet(1) == max) {
                             handler.handleString(null);

@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.country.usa.federal;
 
-import me.randomhashtags.worldlaws.country.State;
-import me.randomhashtags.worldlaws.country.StateIndex;
+import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import me.randomhashtags.worldlaws.country.StateReference;
-import me.randomhashtags.worldlaws.country.StateStatute;
+import me.randomhashtags.worldlaws.country.SubdivisionStatute;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
-public enum FederalGovernment implements State {
+public enum FederalGovernment implements LawSubdivisionController {
     INSTANCE(
             "https://uscode.house.gov",
             "https://uscode.house.gov/browse/prelim@title%index%&edition=prelim",
@@ -76,8 +76,8 @@ public enum FederalGovernment implements State {
         list.add(new Element(value).appendChild(new TextNode(value)));
     }
     @Override
-    public List<StateIndex> getIndexes() {
-        final List<StateIndex> chapters = new ArrayList<>();
+    public List<SubdivisionStatuteIndex> getIndexes() {
+        final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         if(doc != null) {
             final Elements table = doc.select("table.table tbody tr td");
@@ -171,7 +171,7 @@ public enum FederalGovernment implements State {
                         isFirst = false;
                     }
                 }
-                final StateStatute statute = new StateStatute(StateReference.build(title, chapter, section, url), null, description.toString());
+                final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), null, description.toString());
                 final String string = statute.toString();
                 statutes.put(path, string);
                 return string;

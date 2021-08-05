@@ -35,7 +35,7 @@ public final class ProxyClient extends Thread implements RestAPI {
 
         final String[] headers = getHeaderList();
         final String ip = client.getInetAddress().toString(), platform = getPlatform(headers), identifier = getIdentifier(headers);
-        final boolean isValidRequest = true;//platform != null && identifier != null;
+        final boolean isValidRequest = platform != null && identifier != null;
         final String target = isValidRequest ? getTarget(headers) : null;
         final String prefix = "[" + platform + ", " + identifier + "] " + ip + " - ";
         if(target != null) {

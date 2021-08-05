@@ -51,6 +51,11 @@ public final class Technology implements WLServer {
         return null;
     }
 
+    @Override
+    public AutoUpdateSettings getAutoUpdateSettings() {
+        return null;
+    }
+
     private void getSmartphoneCompanyResponse(String target, CompletionHandler handler) {
         final String[] values = target.split("/");
         final String key = values[0];

@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.service.YouTubeService;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
@@ -13,17 +13,19 @@ import java.util.HashSet;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public interface UpcomingEventController extends YouTubeService, Jsoupable, DataValues {
+    HashMap<String, String> LOADED_PRE_UPCOMING_EVENTS = new HashMap<>();
+
     UpcomingEventType getType();
     default WLCountry getCountry() { // if null, it is worldwide/global
         return null;
     }
-    HashMap<String, String> getLoadedPreUpcomingEvents();
     HashMap<String, PreUpcomingEvent> getPreUpcomingEvents();
     HashMap<String, String> getUpcomingEvents();
     void load(CompletionHandler handler);
 
     default String getEventDateIdentifier(String dateString, String title) {
-        return dateString + "." + title.replace(" ", "").replace("|", "_").replace("/", "-");
+        final String id = LocalServer.fixEscapeValues(title).replaceAll("\\\\u[A-Fa-f\\d]{4}", "");
+        return dateString + "." + id.replace(" ", "").replace("|", "_").replace("/", "-").replace(":", "-");
     }
     default String getEventDateString(EventDate date) {
         return getEventDateString(date.getYear(), date.getMonth(), date.getDay());
@@ -44,12 +46,11 @@ public interface UpcomingEventController extends YouTubeService, Jsoupable, Data
                 @Override
                 public void handleString(String string) {
                     final HashMap<String, PreUpcomingEvent> newPreUpcomingEvents = getPreUpcomingEvents();
-                    final HashMap<String, String> newUpcomingEvents = getUpcomingEvents(), loadedPreUpcomingEvents = getLoadedPreUpcomingEvents();
+                    final HashMap<String, String> newUpcomingEvents = getUpcomingEvents();
                     final String preUpcomingEventsLoaded = newPreUpcomingEvents != null ? newPreUpcomingEvents.size() + " preUpcomingEvents" : "";
                     final String upcomingEventsLoaded = newUpcomingEvents != null ? newUpcomingEvents.size() + " upcomingEvents" : "";
-                    final String loadedPreUpcomingEventsLoaded = loadedPreUpcomingEvents != null ? loadedPreUpcomingEvents.size() + " loadedPreUpcomingEvents" : "";
-                    final boolean hasPreUpcomingEvents = !preUpcomingEventsLoaded.isEmpty(), hasUpcomingEvents = !upcomingEventsLoaded.isEmpty();
-                    final String amount = "(" + preUpcomingEventsLoaded + (hasPreUpcomingEvents ? ", " : "") + upcomingEventsLoaded + (hasPreUpcomingEvents || hasUpcomingEvents ? ", " : "") + loadedPreUpcomingEventsLoaded + ")";
+                    final boolean hasPreUpcomingEvents = !preUpcomingEventsLoaded.isEmpty();
+                    final String amount = "(" + preUpcomingEventsLoaded + (hasPreUpcomingEvents ? ", " : "") + upcomingEventsLoaded + ")";
                     WLLogger.log(Level.INFO, getType().name() + " - loaded " + amount + " events (took " + (System.currentTimeMillis()-started) + "ms)");
                     getEventsOnDate(date, handler);
                 }
@@ -75,14 +76,17 @@ public interface UpcomingEventController extends YouTubeService, Jsoupable, Data
                         events.add(string);
                     }
                     if(completed.addAndGet(1) == max) {
-                        final StringBuilder builder = new StringBuilder("{");
-                        boolean isFirst = true;
-                        for(String event : events) {
-                            builder.append(isFirst ? "" : ",").append(event);
-                            isFirst = false;
+                        String value = null;
+                        if(!events.isEmpty()) {
+                            final StringBuilder builder = new StringBuilder("{");
+                            boolean isFirst = true;
+                            for(String event : events) {
+                                builder.append(isFirst ? "" : ",").append(event);
+                                isFirst = false;
+                            }
+                            builder.append("}");
+                            value = builder.toString();
                         }
-                        builder.append("}");
-                        final String value = builder.toString();
                         handler.handleString(value);
                     }
                 }
@@ -90,28 +94,33 @@ public interface UpcomingEventController extends YouTubeService, Jsoupable, Data
         }
     }
     private void getPreUpcomingEvent(String id, CompletionHandler handler) {
-        final HashMap<String, String> loadedPreUpcomingEvents = getLoadedPreUpcomingEvents();
-        if(loadedPreUpcomingEvents.containsKey(id)) {
-            handler.handleString(loadedPreUpcomingEvents.get(id));
+        if(LOADED_PRE_UPCOMING_EVENTS.containsKey(id)) {
+            handler.handleString(LOADED_PRE_UPCOMING_EVENTS.get(id));
         } else {
             getUpcomingEvent(id, new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
-                    handler.handleString(loadedPreUpcomingEvents.get(id));
+                    handler.handleString(LOADED_PRE_UPCOMING_EVENTS.get(id));
                 }
             });
         }
     }
+    default void saveUpcomingEventToJSON(String id, String json) {
+        final Folder folder = Folder.UPCOMING_EVENTS_IDS;
+        final LocalDate now = WLUtilities.getNowUTC();
+        final int year = now.getYear();
+        folder.setCustomFolderName(folder.getFolderName(false).replace("%year%", Integer.toString(year)));
+        setFileJSON(folder, id, json);
+    }
     default void getUpcomingEvent(String id, CompletionHandler handler) {
         final HashMap<String, String> upcomingEvents = getUpcomingEvents();
-        if(upcomingEvents.containsKey(id)) {
+        if(upcomingEvents != null && upcomingEvents.containsKey(id)) {
             handler.handleString(upcomingEvents.get(id));
         } else {
-            final Folder folder = Folder.UPCOMING_EVENTS;
+            final Folder folder = Folder.UPCOMING_EVENTS_IDS;
             final LocalDate now = WLUtilities.getNowUTC();
             final int year = now.getYear();
-            final long epochDay = now.toEpochDay();
-            folder.setCustomFolderName(folder.getFolderName(false).replace("%year%", Integer.toString(year)).replace("%day%", Long.toString(epochDay)));
+            folder.setCustomFolderName(folder.getFolderName(false).replace("%year%", Integer.toString(year)));
             getJSONObject(folder, id, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
@@ -120,14 +129,19 @@ public interface UpcomingEventController extends YouTubeService, Jsoupable, Data
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvents().get(id);
-                    final String imageURL = json.has("imageURL") ? json.getString("imageURL") : null;
-                    final String string = preUpcomingEvent.toStringWithImageURL(imageURL);
-                    getLoadedPreUpcomingEvents().put(id, string);
+                    final String string = toLoadedPreUpcomingEvent(id, json);
+                    LOADED_PRE_UPCOMING_EVENTS.put(id, string);
                     handler.handleString(json.toString());
                 }
             });
         }
     }
     void loadUpcomingEvent(String id, CompletionHandler handler);
+
+    private String toLoadedPreUpcomingEvent(String id, JSONObject json) {
+        final HashMap<String, PreUpcomingEvent> preUpcomingEvents = getPreUpcomingEvents();
+        final String imageURL = json.has("imageURL") ? json.getString("imageURL") : null;
+        final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents != null ? preUpcomingEvents.get(id) : PreUpcomingEvent.fromUpcomingEventJSON(getType(), id, json);
+        return preUpcomingEvent.toStringWithImageURL(imageURL);
+    }
 }

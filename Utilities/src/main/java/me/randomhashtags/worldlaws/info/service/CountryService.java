@@ -3,9 +3,9 @@ package me.randomhashtags.worldlaws.info.service;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
-import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.location.SovereignStateService;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
+import me.randomhashtags.worldlaws.country.SovereignStateService;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
@@ -24,7 +24,7 @@ public interface CountryService extends SovereignStateService {
     SovereignStateInfo getInfo();
 
     default void getResources(String countryBackendID, CompletionHandler handler) {
-        handler.handleCountryResources(null);
+        handler.handleObject(null);
     }
     default void getCountryValue(String countryBackendID, CompletionHandler handler) {
         final SovereignStateInfo info = getInfo();

@@ -15,4 +15,5 @@ include 'Space'
 include 'Environment'
 include 'BandwidthTester'
 include 'Health'
+include 'Stories'
 

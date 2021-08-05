@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.observances.type;
 
 import me.randomhashtags.worldlaws.EventDate;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.Month;
@@ -32,7 +32,7 @@ public enum GregorianHoliday implements IHoliday {
     }
 
     @Override
-    public String getWikipediaName() {
+    public String getOfficialName() {
         return wikipediaName;
     }
 

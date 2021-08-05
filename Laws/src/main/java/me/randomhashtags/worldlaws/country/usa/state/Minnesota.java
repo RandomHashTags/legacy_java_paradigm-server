@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
+import me.randomhashtags.worldlaws.LawSubdivisionController;
 import me.randomhashtags.worldlaws.country.*;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -9,7 +10,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Minnesota implements State {
+public enum Minnesota implements LawSubdivisionController {
     INSTANCE(
             "https://www.revisor.mn.gov/statutes/",
             "https://www.revisor.mn.gov/statutes/part/%index%",
@@ -66,8 +67,8 @@ public enum Minnesota implements State {
     }
 
     @Override
-    public List<StateIndex> getIndexes() {
-        final List<StateIndex> chapters = new ArrayList<>();
+    public List<SubdivisionStatuteIndex> getIndexes() {
+        final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         if(doc != null) {
             final Elements table = doc.select("td");
@@ -157,7 +158,7 @@ public enum Minnesota implements State {
                         final List<Subdivision> subdivisions = getSubdivisions(chapter, section, element);
                         final String topic = breadcrumb.get(1).text();
 
-                        final StateStatute statute = new StateStatute(StateReference.build(title, chapter, section, url), title, description, subdivisions);
+                        final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), title, description, subdivisions);
                         final String string = statute.toString();
                         statutes.put(path, string);
                         return string;

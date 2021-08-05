@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
@@ -18,13 +18,12 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
     void refresh(CompletionHandler handler);
 
     default void startAutoUpdates(CompletionHandler handler, CompletionHandler autoUpdateHandler) {
-        final long interval = WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL;
-        new Timer().scheduleAtFixedRate(new TimerTask() {
+        Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL, new CompletionHandler() {
             @Override
-            public void run() {
+            public void handleObject(Object object) {
                 refresh(autoUpdateHandler);
             }
-        }, interval, interval);
+        });
         refresh(handler);
     }
 
@@ -73,9 +72,7 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
     }
     default void getPreAlerts(String event, CompletionHandler handler) {
         final HashMap<String, String> eventPreAlerts = getEventPreAlerts();
-        if(eventPreAlerts.containsKey(event)) {
-            handler.handleString(eventPreAlerts.get(event));
-        }
+        handler.handleString(eventPreAlerts.getOrDefault(event, null));
     }
     default void putTerritoryEvents(HashMap<String, String> territoryEvents, ConcurrentHashMap<String, HashSet<WeatherEvent>> hashmap) {
         boolean isFirst = true;

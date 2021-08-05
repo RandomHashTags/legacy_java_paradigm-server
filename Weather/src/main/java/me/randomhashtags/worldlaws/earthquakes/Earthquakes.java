@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.earthquakes;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.Location;
-import me.randomhashtags.worldlaws.location.SovereignStateSubdivision;
-import me.randomhashtags.worldlaws.location.WLSubdivisions;
+import me.randomhashtags.worldlaws.country.Location;
+import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.country.WLSubdivisions;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -12,7 +12,9 @@ import java.time.Instant;
 import java.time.LocalDate;
 import java.time.ZoneId;
 import java.time.ZoneOffset;
-import java.util.*;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.StreamSupport;
@@ -60,7 +62,7 @@ public enum Earthquakes implements RestAPI {
             final String value = getValue(isRecent, territory);
             handler.handleString(value);
         } else {
-            setupAutoUpdates();
+            registerAutoUpdates();
             final CompletionHandler completionHandler = new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
@@ -76,14 +78,13 @@ public enum Earthquakes implements RestAPI {
         return target == null || target.isEmpty() ? null : target;
     }
 
-    private void setupAutoUpdates() {
-        final long interval = WLUtilities.WEATHER_EARTHQUAKES_UPDATE_INTERVAL;
-        new Timer().scheduleAtFixedRate(new TimerTask() {
+    private void registerAutoUpdates() {
+        Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_EARTHQUAKES_UPDATE_INTERVAL, new CompletionHandler() {
             @Override
-            public void run() {
+            public void handleObject(Object object) {
                 refresh(false, null);
             }
-        }, interval, interval);
+        });
     }
 
     private String getURLRequest(LocalDate startDate, LocalDate endDate, float minMagnitude) {

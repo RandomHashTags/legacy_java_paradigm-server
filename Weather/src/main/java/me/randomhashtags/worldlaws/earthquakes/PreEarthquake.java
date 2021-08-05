@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.earthquakes;
 
 import me.randomhashtags.worldlaws.LocalServer;
-import me.randomhashtags.worldlaws.location.Location;
+import me.randomhashtags.worldlaws.country.Location;
 
 public final class PreEarthquake {
     private final String id, place, magnitude;

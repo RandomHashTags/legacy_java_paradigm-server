@@ -6,7 +6,7 @@ import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.info.CountryInfoKey;
 import me.randomhashtags.worldlaws.info.service.CountryService;
-import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
+import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.select.Elements;

@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.info.agriculture;
 
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 
 public enum ProductionFoods implements CountryProductionService {
     APPLE,

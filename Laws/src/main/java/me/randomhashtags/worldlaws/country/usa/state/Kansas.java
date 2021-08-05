@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
-import me.randomhashtags.worldlaws.country.State;
-import me.randomhashtags.worldlaws.country.StateIndex;
+import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import me.randomhashtags.worldlaws.country.StateReference;
-import me.randomhashtags.worldlaws.country.StateStatute;
+import me.randomhashtags.worldlaws.country.SubdivisionStatute;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Kansas implements State {
+public enum Kansas implements LawSubdivisionController {
     INSTANCE(
             "http://www.kslegislature.org/li_2020s/b2020s/statute/",
             "http://www.kslegislature.org/li_2020s/b2020s/statute/%index%_000_0000_chapter/",
@@ -68,8 +68,8 @@ public enum Kansas implements State {
     }
 
     @Override
-    public List<StateIndex> getIndexes() {
-        final List<StateIndex> chapters = new ArrayList<>();
+    public List<SubdivisionStatuteIndex> getIndexes() {
+        final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         if(doc != null) {
             final Elements table = doc.select("table tbody tr");
@@ -169,7 +169,7 @@ public enum Kansas implements State {
                     isFirst = false;
                 }
 
-                final StateStatute statute = new StateStatute(StateReference.build(title, chapter, section, url), topic.split(" ")[1], description.toString());
+                final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic.split(" ")[1], description.toString());
                 final String string = statute.toString();
                 statutes.put(path, string);
                 return string;

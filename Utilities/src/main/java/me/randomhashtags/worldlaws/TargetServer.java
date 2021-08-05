@@ -21,7 +21,6 @@ public enum TargetServer implements RestAPI, DataValues {
     WHATS_NEW,
     HOME,
     PING,
-    STATUS,
     ;
 
     private static final String WHATS_NEW_RESPONSE;
@@ -66,9 +65,6 @@ public enum TargetServer implements RestAPI, DataValues {
                 break;
             case PING:
                 handler.handleString("1");
-                break;
-            case STATUS:
-                handler.handleString("0");
                 break;
             case HOME:
                 getHomeResponse(version, method, headers, query, handler);
@@ -129,7 +125,7 @@ public enum TargetServer implements RestAPI, DataValues {
     private void updateHomeResponse(APIVersion version, boolean isUpdate, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         if(!isUpdate) {
-            final long interval = WLUtilities.PROXY_UPDATE_INTERVAL;
+            final long interval = WLUtilities.PROXY_HOME_RESPONSE_UPDATE_INTERVAL;
             new Timer().scheduleAtFixedRate(new TimerTask() {
                 @Override
                 public void run() {

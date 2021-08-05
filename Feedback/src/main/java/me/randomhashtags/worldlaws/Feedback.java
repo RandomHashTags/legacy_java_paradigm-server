@@ -50,6 +50,11 @@ public final class Feedback implements WLServer {
         return null;
     }
 
+    @Override
+    public AutoUpdateSettings getAutoUpdateSettings() {
+        return null;
+    }
+
     private String getText(String[] headers) {
         final String target = "Text: ";
         for(String string : headers) {

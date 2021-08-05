@@ -1,6 +1,8 @@
 package me.randomhashtags.worldlaws;
 
 import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
 
 public enum Folder {
     COUNTRIES("countries"),
@@ -29,12 +31,13 @@ public enum Folder {
 
     SUBDIVISIONS("subdivisions"),
     SUBDIVISIONS_CITIES("subdivisions" + File.separator + "cities"),
-    SUBDIVISIONS_SUBDIVISIONS("subdivisions" + File.separator + "subdivisions"),
+    SUBDIVISIONS_INFORMATION("subdivisions" + File.separator + "information" + File.separator + "%country%"),
 
     OTHER(null),
     LOGS("logs"),
 
     UPCOMING_EVENTS("upcoming events" + File.separator + "%year%" + File.separator + "%day%"),
+    UPCOMING_EVENTS_IDS("upcoming events" + File.separator + "%year%" + File.separator + "ids"),
     UPCOMING_EVENTS_HOLIDAYS("upcoming events" + File.separator + "holidays" + File.separator + "%year%"),
     UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS("upcoming events" + File.separator + "holidays" + File.separator + "descriptions"),
     WEATHER_USA_ZONES("weather" + File.separator + "usa" + File.separator + "zones"),
@@ -55,5 +58,26 @@ public enum Folder {
     }
     public void resetCustomFolderName() {
         customFolderName = null;
+    }
+
+    public List<String> getParentFolders() {
+        if(folderName != null) {
+            final List<String> list = new ArrayList<>();
+            final String separator = File.separator;
+            final String prefix = Jsonable.USER_DIR + "downloaded_pages" + separator;
+            String previousFolder = "";
+            final String targetFolder = customFolderName != null ? customFolderName : folderName;
+            for(String string : targetFolder.split(separator)) {
+                list.add(prefix + previousFolder + string);
+                previousFolder = previousFolder.concat(string + separator);
+            }
+            return list;
+        }
+        return null;
+    }
+
+    public String getFolderPath() {
+        final String folderName = getFolderName(true);
+        return Jsonable.USER_DIR + "downloaded_pages" + (folderName != null ? File.separator + folderName : "");
     }
 }

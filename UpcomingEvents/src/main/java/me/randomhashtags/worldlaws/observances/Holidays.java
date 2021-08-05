@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.observances;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
@@ -52,7 +52,7 @@ public enum Holidays implements Jsoupable, Jsonable {
     private void getAllHolidays(int year, CompletionHandler handler) {
         final HashMap<String, HashSet<String>> holidays = new HashMap<>();
         for(HolidayType type : HolidayType.values()) {
-            final String typeCountry = type.getCelebratingCountry();
+            final String typeCountry = type.getCelebratingCountry().getBackendID();
             type.getHolidaysJSONObject(year, new CompletionHandler() {
                 @Override
                 public void handleJSONObject(JSONObject json) {
@@ -94,7 +94,7 @@ public enum Holidays implements Jsoupable, Jsonable {
         final HashMap<String, HashMap<String, HolidayObj>> nearbyHolidays = new HashMap<>();
         HolidayType.insertNearbyHolidays(year, nearbyHolidayDays, descriptions, nearbyHolidays, new CompletionHandler() {
             @Override
-            public void handleString(String string) {
+            public void handleObject(Object object) {
                 final StringBuilder builder = new StringBuilder("{\"descriptions\":{");
                 boolean isFirst = true;
                 for(Map.Entry<String, String> map : descriptions.entrySet()) {
@@ -128,7 +128,7 @@ public enum Holidays implements Jsoupable, Jsonable {
         if(nearCountryHolidays.containsKey(countryBackendID)) {
             handler.handleString(nearCountryHolidays.get(countryBackendID));
         } else {
-            // TODO
+            // TODO: finish
             String string = null;
             nearCountryHolidays.put(countryBackendID, string);
         }

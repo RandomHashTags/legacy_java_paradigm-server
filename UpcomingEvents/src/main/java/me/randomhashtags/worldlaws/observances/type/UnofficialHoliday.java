@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.observances.type;
 
 import me.randomhashtags.worldlaws.EventDate;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.observances.IHoliday;
 import me.randomhashtags.worldlaws.observances.custom.NationalDonutDay;
 
@@ -15,29 +15,22 @@ public enum UnofficialHoliday implements IHoliday {
     APRIL_FOOLS_DAY(
             "April Fools' Day"
     ),
-    DARWIN_DAY,
     DISASTER_PREVENTION_DAY,
     EVOLUTION_DAY,
     GALACTIC_TICK_DAY,
-    INTERNATIONAL_DNA_DAY(
-            "DNA Day"
-    ),
     INTERNATIONAL_MENS_DAY(
             "International Men's Day"
     ),
-    MOLE_DAY,
     NATIONAL_CASHEW_DAY,
     NATIONAL_DONUT_DAY,
     NATIONAL_HONEY_BEE_DAY,
+    NATIONAL_INTERN_DAY,
     NATIONAL_NUDE_DAY,
-    PI_DAY,
     SPIRIT_DAY,
     SQUARE_ROOT_DAY,
-    STAR_WARS_DAY,
     SUPER_BOWL_SUNDAY,
     WEAR_IT_PURPLE_DAY,
     WORLD_CONTACT_DAY,
-    WORLD_EMOJI_DAY,
     ;
 
     private final String wikipediaName;
@@ -55,7 +48,7 @@ public enum UnofficialHoliday implements IHoliday {
     }
 
     @Override
-    public String getWikipediaName() {
+    public String getOfficialName() {
         return wikipediaName;
     }
 
@@ -63,7 +56,6 @@ public enum UnofficialHoliday implements IHoliday {
     public String[] getAliases() {
         switch (this) {
             case APRIL_FOOLS_DAY: return new String[] { "April Fool's Day" };
-            case INTERNATIONAL_DNA_DAY: return new String[] { "International DNA Day", "National DNA Day", "World DNA Day" };
             case INTERNATIONAL_MENS_DAY: return new String[] { "IMD", "Men's Day" };
             case NATIONAL_DONUT_DAY: return new String[] { "National Doughnut Day" };
             case SUPER_BOWL_SUNDAY: return new String[] { "Super Sunday" };
@@ -75,15 +67,13 @@ public enum UnofficialHoliday implements IHoliday {
     public EventDate getDate(WLCountry country, int year) {
         switch (this) {
             case APRIL_FOOLS_DAY: return new EventDate(Month.APRIL, 1, year);
-            case DARWIN_DAY: return new EventDate(Month.FEBRUARY, 12, year);
             case DISASTER_PREVENTION_DAY:
                 return country == WLCountry.JAPAN ? new EventDate(Month.SEPTEMBER, 1, year) : null;
             case EVOLUTION_DAY: return new EventDate(Month.NOVEMBER, 24, year);
             case GALACTIC_TICK_DAY: return getGalacticTickDay(year);
-            case INTERNATIONAL_DNA_DAY: return new EventDate(Month.APRIL, 25, year);
             case INTERNATIONAL_MENS_DAY:
                 return new EventDate(Month.NOVEMBER, 19, year);
-            case MOLE_DAY: return new EventDate(Month.OCTOBER, 23, year);
+
             case NATIONAL_CASHEW_DAY:
                 if(country != null) {
                     switch (country) {
@@ -95,8 +85,9 @@ public enum UnofficialHoliday implements IHoliday {
                 }
             case NATIONAL_DONUT_DAY: return NationalDonutDay.INSTANCE.getDate(country, year);
             case NATIONAL_HONEY_BEE_DAY: return country == WLCountry.UNITED_STATES ? getThird(DayOfWeek.SATURDAY, Month.AUGUST, year) : null;
+            case NATIONAL_INTERN_DAY: return country == WLCountry.UNITED_STATES ? getLast(DayOfWeek.THURSDAY, Month.JULY, year) : null;
             case NATIONAL_NUDE_DAY: return new EventDate(Month.JULY, 14, year);
-            case PI_DAY: return new EventDate(Month.MARCH, 14, year);
+
             case SPIRIT_DAY:
                 if(country != null) {
                     switch (country) {
@@ -124,13 +115,11 @@ public enum UnofficialHoliday implements IHoliday {
                     case "81": return new EventDate(Month.SEPTEMBER, 9, year);
                     default: return null;
                 }
-            case STAR_WARS_DAY: return new EventDate(Month.MAY, 4, year);
             case SUPER_BOWL_SUNDAY:
                 return year <= 2021 ? getFirst(DayOfWeek.SUNDAY, Month.FEBRUARY, year) : getSecond(DayOfWeek.SUNDAY, Month.FEBRUARY, year);
             case WEAR_IT_PURPLE_DAY:
                 return country == WLCountry.AUSTRALIA ? getLast(DayOfWeek.FRIDAY, Month.AUGUST, year) : null;
             case WORLD_CONTACT_DAY: return new EventDate(Month.MARCH, 15, year);
-            case WORLD_EMOJI_DAY: return new EventDate(Month.JULY, 17, year);
         }
         return null;
     }

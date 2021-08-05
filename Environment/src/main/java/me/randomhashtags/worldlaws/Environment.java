@@ -39,4 +39,9 @@ public final class Environment implements WLServer {
         return new String[] {
         };
     }
+
+    @Override
+    public AutoUpdateSettings getAutoUpdateSettings() {
+        return null;
+    }
 }

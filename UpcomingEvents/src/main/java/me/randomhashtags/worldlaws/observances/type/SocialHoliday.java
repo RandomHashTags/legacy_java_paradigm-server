@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.observances.type;
 
 import me.randomhashtags.worldlaws.EventDate;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.observances.IHoliday;
 import me.randomhashtags.worldlaws.observances.custom.*;
 
@@ -20,6 +20,7 @@ public enum SocialHoliday implements IHoliday {
     CONSTITUTION_DAY,
     CYBER_MONDAY,
     DAY_OF_VALOR,
+    EMANCIPATION_DAY,
     FARMERS_DAY(
             "Farmers' Day"
     ),
@@ -92,7 +93,7 @@ public enum SocialHoliday implements IHoliday {
     }
 
     @Override
-    public String getWikipediaName() {
+    public String getOfficialName() {
         return wikipediaName;
     }
 
@@ -129,6 +130,7 @@ public enum SocialHoliday implements IHoliday {
                 final EventDate blackFriday = BLACK_FRIDAY.getDate(country, year);
                 return blackFriday != null ? blackFriday.plusDays(3) : null;
             case DAY_OF_VALOR: return DayOfValor.INSTANCE.getDate(country, year);
+            case EMANCIPATION_DAY: return EmancipationDay.INSTANCE.getDate(country, year);
             case FARMERS_DAY: return FarmersDay.INSTANCE.getDate(country, year);
             case FATHERS_DAY: return FathersDay.INSTANCE.getDate(country, year);
             case GERMAN_UNITY_DAY:

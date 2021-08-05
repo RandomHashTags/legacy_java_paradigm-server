@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
-import me.randomhashtags.worldlaws.country.State;
-import me.randomhashtags.worldlaws.country.StateIndex;
+import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import me.randomhashtags.worldlaws.country.StateReference;
-import me.randomhashtags.worldlaws.country.StateStatute;
+import me.randomhashtags.worldlaws.country.SubdivisionStatute;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Pennsylvania implements State {
+public enum Pennsylvania implements LawSubdivisionController {
     INSTANCE(
             "https://www.legis.state.pa.us/cfdocs/legis/LI/Public/cons_index.cfm",
             "https://www.legis.state.pa.us//WU01/LI/LI/CT/HTM/%index%/%index%.HTM",
@@ -71,8 +71,8 @@ public enum Pennsylvania implements State {
     }
 
     @Override
-    public List<StateIndex> getIndexes() {
-        final List<StateIndex> chapters = new ArrayList<>();
+    public List<SubdivisionStatuteIndex> getIndexes() {
+        final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         if(doc != null) {
             final Elements table = doc.select("table.DataTable tbody tr");
@@ -200,7 +200,7 @@ public enum Pennsylvania implements State {
                     topic = commentTitles.size() > 0 ? commentTitles.get(0).text() : null;
                     description.append(elements.get(0).text());
                 }
-                final StateStatute statute = new StateStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
+                final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
                 final String string = statute.toString();
                 statutes.put(path, string);
                 return string;

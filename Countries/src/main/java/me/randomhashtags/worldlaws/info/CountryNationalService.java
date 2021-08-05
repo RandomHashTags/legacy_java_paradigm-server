@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.info;
 
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.info.service.CountryService;
-import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
+import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import org.jsoup.select.Elements;
 
 public interface CountryNationalService extends CountryService {

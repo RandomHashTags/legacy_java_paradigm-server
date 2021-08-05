@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.service.finance.stockmarket;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.service.JSONDataValue;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;

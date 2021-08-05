@@ -1,20 +1,19 @@
 package me.randomhashtags.worldlaws.info.availability.tech;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.info.availability.AvailabilityCategory;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailability;
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
-import org.apache.logging.log4j.Level;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
+import java.util.Set;
 
 public final class AppleAvailabilityObj implements AppleFeatureAvailability {
 
     private final AppleFeatureType type;
     private final SovereignStateInfo info;
-    private HashMap<String, String> countries;
+    private HashMap<String, CountryAvailability> countries;
 
     public AppleAvailabilityObj(AppleFeatureType type, SovereignStateInfo info) {
         this.type = type;
@@ -27,30 +26,10 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
     }
 
     @Override
-    public void getCountryValue(String countryBackendID, CompletionHandler handler) {
-        if(countries == null) {
-            loadData(new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    AppleAvailabilityObj.this.handleString(countryBackendID, handler);
-                }
-            });
-        } else {
-            handleString(countryBackendID, handler);
-        }
-    }
-
-    private void handleString(String countryBackendID, CompletionHandler handler) {
-        countries.putIfAbsent(countryBackendID, new CountryAvailability(info.getTitle(), getPrimaryCategory(), getImageURL(), false).toString());
-        handler.handleString(countries.get(countryBackendID));
-    }
-
-    @Override
     public void loadData(CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
         countries = new HashMap<>();
         final String infoName = info.name(), title = info.getTitle();
-        final String availability = new CountryAvailability(title, getPrimaryCategory(), getImageURL(), true).toString();
+        final CountryAvailability availability = new CountryAvailability(title, getPrimaryCategory(), getImageURL(), true);
         final String sectionID = getSectionID(infoName);
         final Elements elements = getSectionElements(type, sectionID);
         elements.parallelStream().forEach(element -> {
@@ -80,10 +59,8 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
             }
             countries.put(country, availability);
         });
-        WLLogger.log(Level.INFO, "AppleAvailabilityObj - " + infoName + " - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
-        if(handler != null) {
-            handler.handleString(null);
-        }
+        final Set<String> bruh = countries.keySet();
+        loadOnlyTrue(handler, bruh.toArray(new String[bruh.size()]));
     }
 
     private String getSectionID(String targetInfoName) {
@@ -102,6 +79,24 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
             case AVAILABILITY_APPLE_IOS_ITUNES_STORE_MOVIES:
             case AVAILABILITY_APPLE_IOS_ITUNES_STORE_TV_SHOWS:
                 return infoName.substring("apple-ios-".length());
+
+            case AVAILABILITY_APPLE_WATCH_OS_APPLE_MUSIC:
+                return infoName.substring("apple-watch-os-".length());
+            case AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY:
+                return "apple-pay-pay";
+            case AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY_IN_APP_PAYMENTS:
+                return "apple-pay-payments";
+            case AVAILABILITY_APPLE_WATCH_OS_BLOOD_OXYGEN_APP:
+                return "branded-blood-oxygen";
+            case AVAILABILITY_APPLE_WATCH_OS_SIRI:
+                return "siri-siri";
+            case AVAILABILITY_APPLE_WATCH_OS_STUDENT_ID_CARDS:
+                return "branded-student-id";
+            case AVAILABILITY_APPLE_WATCH_OS_ECG:
+            case AVAILABILITY_APPLE_WATCH_OS_WALKIE_TALKIE:
+                return "branded-" + infoName.substring("apple-watch-os-".length());
+            case AVAILABILITY_APPLE_WATCH_OS_IRREGULAR_RHYTHM_NOTIFICATION:
+                return "branded-atrail-fib";
             default:
                 return infoName.replace("-ios-", "-");
         }

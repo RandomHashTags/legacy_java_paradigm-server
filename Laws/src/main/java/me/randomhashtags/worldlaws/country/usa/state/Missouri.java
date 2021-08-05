@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
+import me.randomhashtags.worldlaws.LawSubdivisionController;
 import me.randomhashtags.worldlaws.country.*;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -10,7 +11,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Missouri implements State {
+public enum Missouri implements LawSubdivisionController {
     INSTANCE(
             "http://revisor.mo.gov/main/home.aspx",
             "http://revisor.mo.gov/main/home.aspx",
@@ -65,8 +66,8 @@ public enum Missouri implements State {
     }
 
     @Override
-    public List<StateIndex> getIndexes() {
-        final List<StateIndex> chapters = new ArrayList<>();
+    public List<SubdivisionStatuteIndex> getIndexes() {
+        final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         if(doc != null) {
             setupTableOfChapters(doc);
@@ -99,7 +100,7 @@ public enum Missouri implements State {
                     final int targetChapter = Integer.parseInt(values[2]);
                     if(i == targetChapter) {
                         final String title = values[3], chapter = Integer.toString(i);
-                        final StateChapter stateChapter = new StateChapter(chapter);
+                        final SubdivisionStatuteChapter stateChapter = new SubdivisionStatuteChapter(chapter);
                         stateChapter.setTitle(title);
                         builder.append(isFirst ? "" : ",").append(stateChapter.toString());
                         isFirst = false;
@@ -165,7 +166,7 @@ public enum Missouri implements State {
                     description.append(isFirst ? "" : "\n").append(element.text());
                     isFirst = false;
                 }
-                final StateStatute statute = new StateStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
+                final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
                 final String string = statute.toString();
                 statutes.put(path, string);
                 return string;

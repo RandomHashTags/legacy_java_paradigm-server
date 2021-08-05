@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws;
 
+import org.apache.logging.log4j.Level;
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -7,17 +9,35 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 public interface WLServer extends DataValues, Jsoupable, Jsonable {
     HashMap<TargetServer, HashMap<APIVersion, String>> CACHED_HOME_RESPONSES = new HashMap<>();
+    HashMap<TargetServer, LocalServer> LOCAL_SERVERS = new HashMap<>();
     TargetServer getServer();
+
+    default LocalServer getLocalServer() {
+        final TargetServer server = getServer();
+        if(LOCAL_SERVERS.containsKey(server)) {
+            return LOCAL_SERVERS.get(server);
+        } else {
+            final LocalServer localServer = LocalServer.get(getServer());
+            LOCAL_SERVERS.put(server, localServer);
+            return localServer;
+        }
+    }
+    default void registerFixedTimer(long interval, CompletionHandler handler) {
+        getLocalServer().registerFixedTimer(interval, handler);
+    }
 
     default void load() {
         startServer();
     }
     default void startServer() {
-        final LocalServer localServer = LocalServer.get(getServer());
+        final LocalServer localServer = getLocalServer();
         final CompletionHandler handler = new CompletionHandler() {
             @Override
             public void handleClient(WLClient client) {
                 final String target = client.getTarget();
+                if(target == null) {
+                    return;
+                }
                 if(target.startsWith("favicon")) {
                     client.sendResponse(HTTP_ERROR_404);
                     return;
@@ -55,19 +75,46 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         }
     }
     void getServerResponse(APIVersion version, String target, CompletionHandler handler);
+    AutoUpdateSettings getAutoUpdateSettings();
     String[] getHomeRequests();
-    default void getHomeResponse(APIVersion version, CompletionHandler handler) { // TODO: auto update home responses
+    default void getHomeResponse(APIVersion version, CompletionHandler handler) {
         final TargetServer server = getServer();
         CACHED_HOME_RESPONSES.putIfAbsent(server, new HashMap<>());
         final HashMap<APIVersion, String> map = CACHED_HOME_RESPONSES.get(server);
         if(map.containsKey(version)) {
             handler.handleString(map.get(version));
         } else {
-            refreshHome(server, version, handler);
+            refreshHome(server, version, new CompletionHandler() {
+                @Override
+                public void handleString(String string) {
+                    tryStartingAutoUpdates(server, version);
+                    handler.handleString(string);
+                }
+            });
         }
     }
-    default void refreshHome(APIVersion version, CompletionHandler handler) {
-        refreshHome(getServer(), version, handler);
+    private void tryStartingAutoUpdates(TargetServer server, APIVersion version) {
+        final AutoUpdateSettings settings = getAutoUpdateSettings();
+        if(settings != null) {
+            final String serverName = server.getName();
+            final long interval = settings.interval;
+            final CompletionHandler autoUpdateHandler = settings.handler;
+            registerFixedTimer(interval, new CompletionHandler() {
+                @Override
+                public void handleObject(Object object) {
+                    final long started = System.currentTimeMillis();
+                    if(autoUpdateHandler != null) {
+                        autoUpdateHandler.handleObject(null);
+                    }
+                    refreshHome(server, version, new CompletionHandler() {
+                        @Override
+                        public void handleString(String string) {
+                            WLLogger.log(Level.INFO, "WLServer - auto updated \"" + serverName + "\"'s home response (took " + (System.currentTimeMillis()-started) + "ms)");
+                        }
+                    });
+                }
+            });
+        }
     }
     private void refreshHome(TargetServer server, APIVersion version, CompletionHandler handler) {
         final String[] requests = getHomeRequests();

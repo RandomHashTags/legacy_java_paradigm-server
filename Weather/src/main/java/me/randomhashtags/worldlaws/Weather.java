@@ -3,14 +3,16 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.earthquakes.Earthquakes;
 import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
 import me.randomhashtags.worldlaws.tracker.NASA_EONET;
+import org.apache.logging.log4j.Level;
 
 public final class Weather implements WLServer {
+    public static final Weather INSTANCE = new Weather();
 
     public static void main(String[] args) {
-        new Weather();
+        INSTANCE.tryLoading();
     }
 
-    private Weather() {
+    private void tryLoading() {
         //test();
         load();
     }
@@ -21,6 +23,12 @@ public final class Weather implements WLServer {
     }
 
     private void test() {
+        getHomeResponse(APIVersion.getCurrent(), new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                WLLogger.log(Level.INFO, "Weather;test;string=" + string);
+            }
+        });
     }
 
     @Override
@@ -49,5 +57,12 @@ public final class Weather implements WLServer {
                 "earthquakes/recent",
                 "natural_events"
         };
+    }
+
+    @Override
+    public AutoUpdateSettings getAutoUpdateSettings() {
+        final long first = WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL, second = WLUtilities.WEATHER_EARTHQUAKES_UPDATE_INTERVAL;
+        final long interval = Math.min(first, second);
+        return new AutoUpdateSettings(interval, null);
     }
 }

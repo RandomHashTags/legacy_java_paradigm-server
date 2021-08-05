@@ -1,8 +1,9 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.service.IMDbService;
+import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
@@ -17,14 +18,14 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
-import java.util.concurrent.atomic.AtomicBoolean;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public enum Movies implements UpcomingEventController, IMDbService {
     INSTANCE;
 
     private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
-    private HashMap<String, String> loadedPreUpcomingEvents, upcomingEvents;
+    private HashMap<String, String> upcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -34,11 +35,6 @@ public enum Movies implements UpcomingEventController, IMDbService {
     @Override
     public WLCountry getCountry() {
         return null;
-    }
-
-    @Override
-    public HashMap<String, String> getLoadedPreUpcomingEvents() {
-        return loadedPreUpcomingEvents;
     }
 
     @Override
@@ -58,7 +54,6 @@ public enum Movies implements UpcomingEventController, IMDbService {
 
     private void refreshFilms(int year, Month startingMonth, CompletionHandler handler) {
         preUpcomingEvents = new HashMap<>();
-        loadedPreUpcomingEvents = new HashMap<>();
         upcomingEvents = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/List_of_American_films_of_" + year;
         final Document doc = getDocument(url);
@@ -125,7 +120,8 @@ public enum Movies implements UpcomingEventController, IMDbService {
         final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.get(id);
         final String url = preUpcomingEvent.getURL();
         final String title = preUpcomingEvent.getTitle(), productionCompany = preUpcomingEvent.getTag();
-        final Document wikidoc = getDocument(url);
+        final WikipediaDocument wikiDoc = new WikipediaDocument(url);
+        final Document wikidoc = wikiDoc.getDocument();
         if(wikidoc != null) {
             String releaseInfo = "", premise = "";
             final EventSources externalSources = new EventSources();
@@ -178,6 +174,7 @@ public enum Movies implements UpcomingEventController, IMDbService {
                                     case "official website":
                                         externalSource = new EventSource(hrefText, href.attr("href"));
                                         break;
+                                    case "adult swim":
                                     case "imdb":
                                     case "disney+":
                                     case "facebook":
@@ -208,8 +205,7 @@ public enum Movies implements UpcomingEventController, IMDbService {
                 premise = elements.select("p").get(0).text();
             }
 
-            final String wikiSuffix = url.split("/wiki/")[1].replace("_", " ");
-            final EventSource wikipage = new EventSource("Wikipedia: " + wikiSuffix, url);
+            final EventSource wikipage = new EventSource("Wikipedia: " + wikiDoc.getPageName(), url);
             final EventSources sources = new EventSources(wikipage);
             sources.addSources(externalSources);
             final Elements targetImage = wikidoc.select("div.mw-parser-output table.infobox tbody tr td a img");
@@ -315,27 +311,32 @@ public enum Movies implements UpcomingEventController, IMDbService {
         final AtomicInteger completion = new AtomicInteger(0);
         Arrays.stream(ratings).parallel().forEach(rating -> {
             final String ratingName = rating.getName();
-            rating.get(movieTitle, new CompletionHandler() {
+            rating.load(new CompletionHandler() {
                 @Override
-                public void handleString(String string) {
-                    if(string != null) {
-                        values.put(ratingName, string);
-                    }
-                    if(completion.addAndGet(1) == max) {
-                        String value = null;
-                        if(!values.isEmpty()) {
-                            final StringBuilder builder = new StringBuilder("{");
-                            boolean isFirst = true;
-                            for(Map.Entry<String, String> map : values.entrySet()) {
-                                final String targetRatingName = map.getKey();
-                                builder.append(isFirst ? "" : ",").append("\"").append(targetRatingName).append("\":").append(map.getValue());
-                                isFirst = false;
+                public void handleObject(Object object) {
+                    rating.get(movieTitle, new CompletionHandler() {
+                        @Override
+                        public void handleString(String string) {
+                            if(string != null) {
+                                values.put(ratingName, string);
                             }
-                            builder.append("}");
-                            value = builder.toString();
+                            if(completion.addAndGet(1) == max) {
+                                String value = null;
+                                if(!values.isEmpty()) {
+                                    final StringBuilder builder = new StringBuilder("{");
+                                    boolean isFirst = true;
+                                    for(Map.Entry<String, String> map : values.entrySet()) {
+                                        final String targetRatingName = map.getKey();
+                                        builder.append(isFirst ? "" : ",").append("\"").append(targetRatingName).append("\":").append(map.getValue());
+                                        isFirst = false;
+                                    }
+                                    builder.append("}");
+                                    value = builder.toString();
+                                }
+                                handler.handleString(value);
+                            }
                         }
-                        handler.handleString(value);
-                    }
+                    });
                 }
             });
         });
@@ -346,6 +347,12 @@ public enum Movies implements UpcomingEventController, IMDbService {
         ROTTEN_TOMATOES,
         ;
 
+        private ConcurrentHashMap<MovieRatingType, Elements> cacheElements;
+
+        MovieRatingType() {
+            cacheElements = new ConcurrentHashMap<>();
+        }
+
         public String getName() {
             switch (this) {
                 case ROTTEN_TOMATOES: return "Rotten Tomatoes";
@@ -353,40 +360,54 @@ public enum Movies implements UpcomingEventController, IMDbService {
             }
         }
 
-        public void get(String movieTitle, CompletionHandler handler) {
+        public void load(CompletionHandler handler) {
             switch (this) {
                 case ROTTEN_TOMATOES:
-                    getRottenTomatoesScore(movieTitle, handler);
+                    loadRottenTomatoesDocument(handler);
                     break;
                 default:
                     handler.handleString(null);
                     break;
             }
         }
+        public void get(String movieTitle, CompletionHandler handler) {
+            switch (this) {
+                case ROTTEN_TOMATOES:
+                    getRottenTomatoesScores(movieTitle, handler);
+                    break;
+                default:
+                    break;
+            }
+        }
 
-        private void getRottenTomatoesScore(String movieTitle, CompletionHandler handler) { // TODO: cache rotten tomatoes document so it doesn't spam requests to same url
-            final String url = "https://www.rottentomatoes.com/browse/opening";
-            final Elements elements = getDocumentElements(Folder.UPCOMING_EVENTS_HOLIDAYS, url, false, "body div.container main.container div div.layout div.layout__column div.media-list div.media-list__item div.media-list__movie-info a");
-            if(elements != null) {
-                final AtomicBoolean found = new AtomicBoolean(false);
-                elements.parallelStream().forEach(element -> {
-                    if(!found.get()) {
-                        final Element titleElement = element.selectFirst("div.media-list__title");
-                        if(movieTitle.equals(titleElement.text())) {
-                            found.set(true);
-                            final Elements meterScoreElements = element.selectFirst("div.media-list__meter-container span").select("span.tMeterScore");
-                            final Element meterScoreElement = !meterScoreElements.isEmpty() ? meterScoreElements.get(0) : null;
-                            String string = null;
-                            if(meterScoreElement != null) {
-                                string = meterScoreElement.selectFirst("span.tMeterScore").text().replace("%", "");
-                            }
-                            handler.handleString(string);
-                        }
-                    }
-                });
-                if(!found.get()) {
-                    handler.handleString(null);
+        private void loadRottenTomatoesDocument(CompletionHandler handler) {
+            if(!cacheElements.containsKey(ROTTEN_TOMATOES)) {
+                cacheElements.put(ROTTEN_TOMATOES, new Elements());
+
+                final String url = "https://www.rottentomatoes.com/browse/opening";
+                final Elements elements = getDocumentElements(Folder.OTHER, url, false, "body div.container main.container div div.layout div.layout__column div.media-list div.media-list__item div.media-list__movie-info a");
+                cacheElements.put(ROTTEN_TOMATOES, elements);
+            }
+            handler.handleObject(null);
+        }
+        public void getRottenTomatoesScores(String movieTitle, CompletionHandler handler) {
+            handleRottenTomatoes(movieTitle, handler);
+        }
+        private void handleRottenTomatoes(String movieTitle, CompletionHandler handler) {
+            final Elements elements = new Elements(cacheElements.get(ROTTEN_TOMATOES));
+            elements.removeIf(element -> {
+                final String titleElement = element.selectFirst("div.media-list__title").text();
+                return !movieTitle.equals(titleElement);
+            });
+            if(!elements.isEmpty()) {
+                final Element element = elements.get(0);
+                final Elements meterScoreElements = element.selectFirst("div.media-list__meter-container span").select("span.tMeterScore");
+                final Element meterScoreElement = !meterScoreElements.isEmpty() ? meterScoreElements.get(0) : null;
+                String string = null;
+                if(meterScoreElement != null) {
+                    string = meterScoreElement.selectFirst("span.tMeterScore").text().replace("%", "");
                 }
+                handler.handleString(string);
             } else {
                 handler.handleString(null);
             }

@@ -1,21 +1,24 @@
 package me.randomhashtags.worldlaws.upcoming.sports;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.PreUpcomingEvent;
-import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import org.jsoup.nodes.Node;
 import org.jsoup.select.Elements;
 
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.List;
 
 public enum Championships implements UpcomingEventController { // https://en.wikipedia.org/wiki/2021_in_sports
     INSTANCE;
+
+    private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -23,13 +26,8 @@ public enum Championships implements UpcomingEventController { // https://en.wik
     }
 
     @Override
-    public HashMap<String, String> getLoadedPreUpcomingEvents() {
-        return null;
-    }
-
-    @Override
     public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
-        return null;
+        return preUpcomingEvents;
     }
 
     @Override
@@ -43,24 +41,29 @@ public enum Championships implements UpcomingEventController { // https://en.wik
         final String url = "https://en.wikipedia.org/wiki/" + year + "_in_sports";
         final Document doc = getDocument(url);
         if(doc != null) {
+            preUpcomingEvents = new HashMap<>();
             final LocalDate date = LocalDate.now();
-            final int month = date.getMonth().getValue(), previousMonth = date.minusMonths(1).getMonth().getValue();
+            final Month thisMonth = date.getMonth(), previousMonth = date.minusMonths(1).getMonth();
+            final int thisMonthInt = thisMonth.getValue(), previousMonthInt = previousMonth.getValue();
             final Elements tables = doc.select("h3 + table.wikitable");
-            loadPreEventsFrom(tables.get(month-1));
-            loadPreEventsFrom(tables.get(previousMonth-1));
+            loadPreEventsFrom(year, thisMonth, tables.get(thisMonthInt-1));
+            loadPreEventsFrom(year, previousMonth, tables.get(previousMonthInt-1));
         }
+        handler.handleString(null);
     }
 
-    private void loadPreEventsFrom(Element table) {
+    private void loadPreEventsFrom(int year, Month month, Element table) {
         final Elements trs = table.select("tbody tr");
         trs.removeIf(tr -> {
             final Elements tds = tr.select("td");
-            final String text = tds.get(trs.size()-1).text().toLowerCase();
-            return text.equals("postponed") || text.contains("postponed to") || text.contains("cancelled") || text.contains("canceled");
+            if(tds.size() > 0) {
+                final String text = tds.get(tds.size()-1).text().toLowerCase();
+                return text.equals("postponed") || text.contains("postponed to") || text.contains("cancelled") || text.contains("canceled");
+            }
+            return true;
         });
         final String hyphen = "–", space = " ", urlPrefix = "https://en.wikipedia.org";
         for(Element tr : trs) {
-            boolean finished = false;
             final Elements tds = tr.select("td");
             String day = tds.get(0).text();
             Month endingMonth = null;
@@ -69,11 +72,14 @@ public enum Championships implements UpcomingEventController { // https://en.wik
                 endingMonth = WLUtilities.valueOfMonthFromInput(values[values.length-1]);
                 day = values[0];
             }
+            int startingDay = -1;
             if(day.contains(hyphen)) {
                 final String[] values = day.split(hyphen);
-                final int startingDay = Integer.parseInt(values[0]), endingDay = Integer.parseInt(values[1]);
+                startingDay = Integer.parseInt(values[0]);
+                final int endingDay = Integer.parseInt(values[1]);
             }
 
+            final String startingDateString = new EventDate(month, startingDay, year).getDateString();
             final String sport = tds.get(1).text();
 
             final Element eventElement = tds.get(2);
@@ -88,20 +94,54 @@ public enum Championships implements UpcomingEventController { // https://en.wik
                     final String country = href[href.length-1];
                     countries.add(country.toLowerCase().replace(" ", ""));
                 }
-                eventURL = urlPrefix + eventElementLinks.get(flagIconElements.size()).attr("href");
+                final int max = flagIconElements.size();
+                if(eventElementLinks.size() > max) {
+                    final Element element = eventElementLinks.get(max);
+                    if(!element.hasAttr("class") || !element.attr("class").equals("new")) {
+                        eventURL = urlPrefix + element.attr("href");
+                    }
+                }
             }
 
             final String winners = tds.get(tds.size()-1).text();
+            boolean finished = false;
             if(!winners.isEmpty()) {
                 finished = !winners.contains("postponed from");
             }
 
-            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(null, event, null, null);
+            if(!finished) {
+                final String id = getEventDateIdentifier(startingDateString, event);
+                final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, eventURL, sport);
+                preUpcomingEvents.put(id, preUpcomingEvent);
+            }
         }
     }
 
     @Override
     public void loadUpcomingEvent(String id, CompletionHandler handler) {
+        final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.get(id);
+        final String url = preUpcomingEvent.getURL();
+        if(url != null) {
+            final String title = preUpcomingEvent.getTitle();
+            final WikipediaDocument wikiDoc = new WikipediaDocument(url);
+            final EventSources sources = new EventSources(new EventSource("Wikipedia: " + wikiDoc.getPageName(), url));
 
+            final List<String> images = wikiDoc.getImages();
+            final String imageURL = images != null ? images.get(0) : null;
+            final StringBuilder builder = new StringBuilder();
+            final List<Node> paragraphs = wikiDoc.getConsecutiveParagraphs();
+            if(paragraphs != null) {
+                boolean isFirst = true;
+                for(Node node : paragraphs) {
+                    builder.append(isFirst ? "" : "\n").append(((Element) node).text());
+                    isFirst = false;
+                }
+            }
+            final String description = builder.length() == 0 ? null : builder.toString();
+            final String location = null;
+
+            final ChampionshipEvent event = new ChampionshipEvent(title, description, imageURL, location, sources);
+            handler.handleString(event.toJSON());
+        }
     }
 }

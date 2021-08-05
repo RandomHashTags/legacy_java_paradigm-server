@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.country.usa.state.unfinished;
 
-import me.randomhashtags.worldlaws.country.State;
-import me.randomhashtags.worldlaws.country.StateIndex;
+import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum NorthCarolina implements State {
+public enum NorthCarolina implements LawSubdivisionController {
     INSTANCE(
             "https://www.ncleg.gov/Laws/GeneralStatutesTOC",
             "https://www.ncleg.gov/Laws/GeneralStatuteSections/Chapter%index%",
@@ -68,8 +68,8 @@ public enum NorthCarolina implements State {
     }
 
     @Override
-    public List<StateIndex> getIndexes() {
-        final List<StateIndex> chapters = new ArrayList<>();
+    public List<SubdivisionStatuteIndex> getIndexes() {
+        final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         if(doc != null) {
             final Elements table = doc.select("div.col-9 a[href]");

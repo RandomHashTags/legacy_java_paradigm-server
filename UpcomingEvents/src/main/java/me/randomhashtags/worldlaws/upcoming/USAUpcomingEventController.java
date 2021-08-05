@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.upcoming;
 
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 
 public interface USAUpcomingEventController extends UpcomingEventController {
     @Override

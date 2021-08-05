@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.country.usa.state.unfinished;
 
-import me.randomhashtags.worldlaws.country.State;
-import me.randomhashtags.worldlaws.country.StateIndex;
+import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Connecticut implements State {
+public enum Connecticut implements LawSubdivisionController {
     INSTANCE(
             "https://www.cga.ct.gov/2019/pub/titles.htm",
             "https://www.cga.ct.gov/current/pub/title_%index%.htm",
@@ -66,8 +66,8 @@ public enum Connecticut implements State {
     }
 
     @Override
-    public List<StateIndex> getIndexes() {
-        final List<StateIndex> chapters = new ArrayList<>();
+    public List<SubdivisionStatuteIndex> getIndexes() {
+        final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         System.out.println("doc=" + doc);
         if(doc != null) {

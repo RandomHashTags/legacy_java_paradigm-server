@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.observances;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.observances.type.*;
 import org.json.JSONObject;
 
@@ -28,6 +28,11 @@ public enum HolidayType implements Jsonable {
     CHRISTIAN_WEST(
             "Western Orthodox Christians around the world",
             "✝️"
+    ),
+
+    FUN(
+            "Anyone",
+            ""
     ),
 
     GREGORIAN(
@@ -68,9 +73,10 @@ public enum HolidayType implements Jsonable {
                 @Override
                 public void handleJSONObject(JSONObject json) {
                     final JSONObject descriptionsJSON = json.getJSONObject("descriptions");
+                    final Set<String> keys = isCountries ? json.keySet() : null;
                     for(String holidayDay : nearbyHolidayDays) {
                         if(isCountries) {
-                            for(String country : json.keySet()) {
+                            for(String country : keys) {
                                 final JSONObject countryJSON = json.getJSONObject(country);
                                 insertNearbyHolidays(descriptionsJSON, country, holidayDay, countryJSON, descriptions, nearbyHolidays);
                             }
@@ -79,7 +85,7 @@ public enum HolidayType implements Jsonable {
                         }
                     }
                     if(completed.addAndGet(1) == max) {
-                        handler.handleString(null);
+                        handler.handleObject(null);
                     }
                 }
             });
@@ -97,13 +103,12 @@ public enum HolidayType implements Jsonable {
                 }
                 final String holidayEnglishName = holiday.getEnglishName(), description = descriptionsJSON.getString(holidayEnglishName);
                 descriptions.put(holidayEnglishName, description);
-                if(!nearbyHolidays.containsKey(holidayDay)) {
-                    nearbyHolidays.put(holidayDay, new HashMap<>());
-                }
-                if(isCountries && nearbyHolidays.get(holidayDay).containsKey(holidayEnglishName)) {
-                    nearbyHolidays.get(holidayDay).get(holidayEnglishName).addCountry(country);
+                nearbyHolidays.putIfAbsent(holidayDay, new HashMap<>());
+                final HashMap<String, HolidayObj> map = nearbyHolidays.get(holidayDay);
+                if(isCountries && map.containsKey(holidayEnglishName)) {
+                    map.get(holidayEnglishName).addCountry(country);
                 } else {
-                    nearbyHolidays.get(holidayDay).put(holidayEnglishName, holiday);
+                    map.put(holidayEnglishName, holiday);
                 }
             }
         }
@@ -117,6 +122,7 @@ public enum HolidayType implements Jsonable {
             case CHRISTIAN_EAST:
             case CHRISTIAN_WEST:
                 return ChristianHoliday.values();
+            case FUN: return FunHoliday.values();
             case GREGORIAN: return GregorianHoliday.values();
             case MEXICAN: return MexicanHoliday.values();
             case UNITED_NATIONS: return UnitedNationHoliday.values();
@@ -126,11 +132,11 @@ public enum HolidayType implements Jsonable {
             default: return null;
         }
     }
-    public String getCelebratingCountry() {
+    public WLCountry getCelebratingCountry() {
         switch (this) {
-            case AMERICAN: return WLCountry.UNITED_STATES.getBackendID();
-            case AUSTRALIAN: return WLCountry.AUSTRALIA.getBackendID();
-            case MEXICAN: return WLCountry.MEXICO.getBackendID();
+            case AMERICAN: return WLCountry.UNITED_STATES;
+            case AUSTRALIAN: return WLCountry.AUSTRALIA;
+            case MEXICAN: return WLCountry.MEXICO;
             default: return null;
         }
     }
@@ -168,9 +174,7 @@ public enum HolidayType implements Jsonable {
                                             public void handleString(String description) {
                                                 final HolidayObj customHoliday = getCustomHoliday(holiday, imageURL);
                                                 final String englishName = customHoliday.getEnglishName();
-                                                if(!descriptions.containsKey(englishName)) {
-                                                    descriptions.put(englishName, description);
-                                                }
+                                                descriptions.putIfAbsent(englishName, description);
 
                                                 final boolean isFirstDate = !values.containsKey(dateString);
                                                 if(isFirstDate) {
@@ -179,22 +183,17 @@ public enum HolidayType implements Jsonable {
                                                 final String holidayString = customHoliday.toString();
                                                 values.get(dateString).append(isFirstDate ? "" : ",").append(holidayString);
 
-                                                final int value = completed.addAndGet(1);
-                                                if(value == max) {
-                                                    final StringBuilder builder = new StringBuilder("{\"descriptions\":{");
-                                                    boolean isFirst = true;
+                                                if(completed.addAndGet(1) == max) {
+                                                    final JSONObject json = new JSONObject();
+                                                    final JSONObject descriptionsJSON = new JSONObject();
                                                     for(Map.Entry<String, String> map : descriptions.entrySet()) {
-                                                        final String name = map.getKey(), targetDescription = map.getValue();
-                                                        builder.append(isFirst ? "" : ",").append("\"").append(name).append("\":\"").append(targetDescription).append("\"");
-                                                        isFirst = false;
+                                                        descriptionsJSON.put(map.getKey(), map.getValue());
                                                     }
-                                                    builder.append("}");
+                                                    json.put("descriptions", descriptionsJSON);
                                                     for(Map.Entry<String, StringBuilder> map : values.entrySet()) {
-                                                        final String dateString = map.getKey();
-                                                        builder.append(",").append("\"").append(dateString).append("\":{").append(map.getValue()).append("}");
+                                                        json.put(map.getKey(), "{" + map.getValue() + "}");
                                                     }
-                                                    builder.append("}");
-                                                    handler.handleString(builder.toString());
+                                                    handler.handleJSONObject(json);
                                                 }
                                             }
                                         });
@@ -211,7 +210,6 @@ public enum HolidayType implements Jsonable {
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    folder.resetCustomFolderName();
                     cache = json;
                     handler.handleJSONObject(json);
                 }
@@ -220,12 +218,12 @@ public enum HolidayType implements Jsonable {
     }
 
     private CustomHoliday getCustomHoliday(IHoliday holiday, String imageURL) {
-        final String englishName = holiday.getName(), url = holiday.getWikipediaURL();
+        final String englishName = holiday.getName(), url = holiday.getURL();
         final String[] aliases = holiday.getAliases();
         return new CustomHoliday(celebrators, emoji, englishName, imageURL, aliases, url);
     }
     private HolidayObj getHolidayObj(IHoliday holiday, String imageURL, String description) {
-        final String englishName = holiday.getName(), url = holiday.getWikipediaURL();
+        final String englishName = holiday.getName(), url = holiday.getURL();
         final EventSources otherSources = holiday.getOtherSources();
         final String[] aliases = holiday.getAliases();
         return new HolidayObj(englishName, imageURL, aliases, description, url, otherSources);
@@ -241,7 +239,7 @@ public enum HolidayType implements Jsonable {
             loadCountryHolidays(descriptions, holidays, country, year, new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
-                    if(!string.equals("{}")) {
+                    if(string != null) {
                         countryHolidays.add("\"" + backendID + "\":" + string);
                     }
                     if(completed.addAndGet(1) == max) {
@@ -295,22 +293,26 @@ public enum HolidayType implements Jsonable {
     }
     private void tryCompletingCountryHolidays(AtomicInteger completed, int max, HashMap<String, HashSet<String>> holidays, CompletionHandler handler) {
         if(completed.addAndGet(1) == max) {
-            final StringBuilder builder = new StringBuilder("{");
-            boolean isFirst = true;
-            for(Map.Entry<String, HashSet<String>> map : holidays.entrySet()) {
-                final String dateKey = map.getKey();
-                final StringBuilder arrayBuilder = new StringBuilder("{");
-                boolean isFirstHoliday = true;
-                for(String holidayString : map.getValue()) {
-                    arrayBuilder.append(isFirstHoliday ? "" : ",").append(holidayString);
-                    isFirstHoliday = false;
+            String string = null;
+            if(!holidays.isEmpty()) {
+                final StringBuilder builder = new StringBuilder("{");
+                boolean isFirst = true;
+                for(Map.Entry<String, HashSet<String>> map : holidays.entrySet()) {
+                    final String dateKey = map.getKey();
+                    final StringBuilder arrayBuilder = new StringBuilder("{");
+                    boolean isFirstHoliday = true;
+                    for(String holidayString : map.getValue()) {
+                        arrayBuilder.append(isFirstHoliday ? "" : ",").append(holidayString);
+                        isFirstHoliday = false;
+                    }
+                    arrayBuilder.append("}");
+                    builder.append(isFirst ? "" : ",").append("\"").append(dateKey).append("\":").append(arrayBuilder);
+                    isFirst = false;
                 }
-                arrayBuilder.append("}");
-                builder.append(isFirst ? "" : ",").append("\"").append(dateKey).append("\":").append(arrayBuilder);
-                isFirst = false;
+                builder.append("}");
+                string = builder.toString();
             }
-            builder.append("}");
-            handler.handleString(builder.toString());
+            handler.handleString(string);
         }
     }
 }

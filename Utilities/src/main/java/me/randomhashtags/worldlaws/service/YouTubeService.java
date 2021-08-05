@@ -15,31 +15,35 @@ public interface YouTubeService extends RestAPI, Jsonable {
         requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
-                final String alternateTitle1 = titleLowercase.replace(":", "");
-                final String alternateTitle2 = titleLowercase.replace(" – ", " ");
-                final String alternateTitle3 = titleLowercase.replace(":", "").replace(" – ", " ");
+                if(json != null) {
+                    final String alternateTitle1 = titleLowercase.replace(":", "");
+                    final String alternateTitle2 = titleLowercase.replace(" – ", " ");
+                    final String alternateTitle3 = titleLowercase.replace(":", "").replace(" – ", " ");
 
-                final JSONArray resultsArray = json.getJSONArray("results");
-                final JSONArray array = new JSONArray();
-                for(Object obj : resultsArray) {
-                    final JSONObject resultJSON = (JSONObject) obj;
-                    if(resultJSON.has("video")) {
-                        final JSONObject uploaderJSON = resultJSON.getJSONObject("uploader");
-                        final boolean verified = uploaderJSON.getBoolean("verified");
-                        if(type.isLegitUploader(verified, uploaderJSON.getString("username"))) {
-                            final JSONObject videoJSON = resultJSON.getJSONObject("video");
-                            final String videoTitle = videoJSON.getString("title"), videoTitleLowercase = videoTitle.toLowerCase();
-                            if(videoTitleLowercase.contains(titleLowercase)
-                                    || videoTitleLowercase.contains(alternateTitle1)
-                                    || videoTitleLowercase.contains(alternateTitle2)
-                                    || videoTitleLowercase.contains(alternateTitle3)
-                            ) {
-                                array.put(videoJSON.getString("id"));
+                    final JSONArray resultsArray = json.getJSONArray("results");
+                    final JSONArray array = new JSONArray();
+                    for(Object obj : resultsArray) {
+                        final JSONObject resultJSON = (JSONObject) obj;
+                        if(resultJSON.has("video")) {
+                            final JSONObject uploaderJSON = resultJSON.getJSONObject("uploader");
+                            final boolean verified = uploaderJSON.getBoolean("verified");
+                            if(type.isLegitUploader(verified, uploaderJSON.getString("username"))) {
+                                final JSONObject videoJSON = resultJSON.getJSONObject("video");
+                                final String videoTitle = videoJSON.getString("title"), videoTitleLowercase = videoTitle.toLowerCase();
+                                if(videoTitleLowercase.contains(titleLowercase)
+                                        || videoTitleLowercase.contains(alternateTitle1)
+                                        || videoTitleLowercase.contains(alternateTitle2)
+                                        || videoTitleLowercase.contains(alternateTitle3)
+                                ) {
+                                    array.put(videoJSON.getString("id"));
+                                }
                             }
                         }
                     }
+                    handler.handleJSONArray(array.isEmpty() ? null : array);
+                } else {
+                    handler.handleJSONArray(null);
                 }
-                handler.handleJSONArray(array.isEmpty() ? null : array);
             }
         });
     }
@@ -130,6 +134,7 @@ public interface YouTubeService extends RestAPI, Jsonable {
                 case "apple tv":
                 case "disney plus":
                 case "hulu":
+                case "ifc films":
                 case "lionsgate movies":
                 case "marvel entertainment":
                 case "movieclips":
@@ -140,10 +145,12 @@ public interface YouTubeService extends RestAPI, Jsonable {
                 case "pixar":
                 case "sony pictures classic":
                 case "sony pictures entertainment":
+                case "strand releasing":
                 case "the fast saga":
                 case "the witcher netflix":
                 case "universal pictures":
                 case "vertical entertainment us":
+                case "walt disney studios":
                 case "warner bros. pictures":
                     return true;
                 default:

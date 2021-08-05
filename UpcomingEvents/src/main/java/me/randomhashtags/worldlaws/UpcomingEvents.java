@@ -7,6 +7,7 @@ import me.randomhashtags.worldlaws.upcoming.entertainment.Movies;
 import me.randomhashtags.worldlaws.upcoming.entertainment.MusicAlbums;
 import me.randomhashtags.worldlaws.upcoming.entertainment.VideoGames;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
+import me.randomhashtags.worldlaws.upcoming.sports.Championships;
 import me.randomhashtags.worldlaws.upcoming.sports.UFC;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
@@ -20,11 +21,12 @@ public final class UpcomingEvents implements WLServer {
 
     private static final HashSet<UpcomingEventController> CONTROLLERS = new HashSet<>() {{
         addAll(Arrays.asList(
+                Championships.INSTANCE,
                 //MLB.INSTANCE,
                 Movies.INSTANCE,
                 //NASANeo.INSTANCE,
                 //NFL.INSTANCE, // problem
-                //MusicAlbums.INSTANCE,
+                MusicAlbums.INSTANCE,
                 RocketLaunches.INSTANCE,
                 //SpaceX.INSTANCE,
                 UFC.INSTANCE,
@@ -40,8 +42,8 @@ public final class UpcomingEvents implements WLServer {
 
     UpcomingEvents() {
         dates = new HashMap<>();
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -50,12 +52,6 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        MusicAlbums.INSTANCE.getEventsFromDate(new EventDate(Month.JULY, 30, 2021), new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                WLLogger.log(Level.INFO, "UpcomingEvents;test;string=" + string);
-            }
-        });
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {
@@ -112,16 +108,16 @@ public final class UpcomingEvents implements WLServer {
         };
     }
 
-    private void setupAutoUpdates() {
-        final long interval = WLUtilities.UPCOMING_EVENTS_UPDATE_INTERVAL;
-        new Timer().scheduleAtFixedRate(new TimerTask() {
+    @Override
+    public AutoUpdateSettings getAutoUpdateSettings() {
+        return new AutoUpdateSettings(WLUtilities.UPCOMING_EVENTS_UPDATE_INTERVAL, new CompletionHandler() {
             @Override
-            public void run() {
+            public void handleObject(Object object) {
                 dates.clear();
-                refreshHome(null, null);
             }
-        }, interval, interval);
+        });
     }
+
     private void refreshEventsFromThisWeek(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final LocalDate now = WLUtilities.getNowUTC();
@@ -167,7 +163,6 @@ public final class UpcomingEvents implements WLServer {
 
             @Override
             public void handleJSONObject(JSONObject json) {
-                folder.resetCustomFolderName();
                 WLLogger.log(Level.INFO, "UpcomingEvent - refreshed events from this week (took " + (System.currentTimeMillis()-started) + "ms)");
                 handler.handleString(json.toString());
             }

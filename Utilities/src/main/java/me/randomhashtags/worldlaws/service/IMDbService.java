@@ -56,7 +56,10 @@ public interface IMDbService extends DataValues {
                 JSONObject certificateJSON = null, runtimeJSON = null;
                 JSONArray genresArray = null;
 
+                final int maximum = json.length();
+                int completed = 0;
                 for(String key : json.keySet()) {
+                    completed += 1;
                     final JSONObject idJSON = json.getJSONObject(key);
                     if(idJSON.has("data")) {
                         final JSONObject dataJSON = idJSON.getJSONObject("data");
@@ -84,32 +87,46 @@ public interface IMDbService extends DataValues {
                                 }
 
                                 if(primaryImageURL != null && certificateJSON != null && runtimeJSON != null && genresArray != null) {
-                                    final String rating = certificateJSON.getString("rating");
-                                    final String ratingReason = certificateJSON.get("ratingReason") instanceof String ? certificateJSON.getString("ratingReason") : "Unknown";
-                                    final int runtimeSeconds = runtimeJSON.getInt("seconds");
-
-                                    final JSONArray genres = new JSONArray();
-                                    for(Object obj : genresArray) {
-                                        final JSONObject genreJSON = (JSONObject) obj;
-                                        genres.put(genreJSON.getString("text"));
-                                    }
-
-                                    final JSONObject imdbJSON = new JSONObject();
-                                    imdbJSON.put("rating", rating);
-                                    imdbJSON.put("ratingReason", ratingReason);
-                                    imdbJSON.put("runtimeSeconds", runtimeSeconds);
-                                    imdbJSON.put("genres", genres);
-                                    imdbJSON.put("imageURL", primaryImageURL);
-                                    imdbJSON.put("source", url);
-                                    handler.handleJSONObject(imdbJSON);
+                                    complete(url, primaryImageURL, runtimeJSON, certificateJSON, genresArray, handler);
                                     return;
                                 }
                             }
                         }
                     }
+                    if(completed == maximum) {
+                        complete(url, primaryImageURL, runtimeJSON, certificateJSON, genresArray, handler);
+                        return;
+                    }
                 }
             }
         }
         handler.handleJSONObject(null);
+    }
+
+    private void complete(String url, String primaryImageURL, JSONObject runtimeJSON, JSONObject certificateJSON, JSONArray genresArray, CompletionHandler handler) {
+        final boolean hasCertificate = certificateJSON != null;
+        String rating = null, ratingReason = null;
+        if(hasCertificate) {
+            rating = certificateJSON.getString("rating");
+            ratingReason = certificateJSON.get("ratingReason") instanceof String ? certificateJSON.getString("ratingReason") : "Unknown";
+        }
+        final int runtimeSeconds = runtimeJSON.getInt("seconds");
+
+        final JSONArray genres = new JSONArray();
+        for(Object obj : genresArray) {
+            final JSONObject genreJSON = (JSONObject) obj;
+            genres.put(genreJSON.getString("text"));
+        }
+
+        final JSONObject imdbJSON = new JSONObject();
+        if(hasCertificate) {
+            imdbJSON.put("rating", rating);
+            imdbJSON.put("ratingReason", ratingReason);
+        }
+        imdbJSON.put("runtimeSeconds", runtimeSeconds);
+        imdbJSON.put("genres", genres);
+        imdbJSON.put("imageURL", primaryImageURL);
+        imdbJSON.put("source", url);
+        handler.handleJSONObject(imdbJSON);
     }
 }

@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.service.science.astronomy;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 

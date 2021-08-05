@@ -1,12 +1,12 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
-import me.randomhashtags.worldlaws.country.State;
-import me.randomhashtags.worldlaws.country.StateIndex;
+import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 
 import java.util.HashMap;
 import java.util.List;
 
-public class USState implements State {
+public class USState implements LawSubdivisionController {
 
     protected String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
     protected StringBuilder indexesJSON;
@@ -57,7 +57,7 @@ public class USState implements State {
     }
 
     @Override
-    public List<StateIndex> getIndexes() {
+    public List<SubdivisionStatuteIndex> getIndexes() {
         return null;
     }
 

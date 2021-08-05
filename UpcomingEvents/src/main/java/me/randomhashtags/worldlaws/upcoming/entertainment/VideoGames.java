@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
@@ -20,7 +20,7 @@ public enum VideoGames implements UpcomingEventController {
     INSTANCE;
 
     private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
-    private HashMap<String, String> upcomingEvents, loadedPreUpcomingEvents;
+    private HashMap<String, String> upcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -30,7 +30,6 @@ public enum VideoGames implements UpcomingEventController {
     @Override
     public void load(CompletionHandler handler) {
         preUpcomingEvents = new HashMap<>();
-        loadedPreUpcomingEvents = new HashMap<>();
         upcomingEvents = new HashMap<>();
 
         final int thisYear = WLUtilities.getTodayYear();
@@ -51,11 +50,6 @@ public enum VideoGames implements UpcomingEventController {
     @Override
     public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
         return preUpcomingEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getLoadedPreUpcomingEvents() {
-        return loadedPreUpcomingEvents;
     }
 
     @Override

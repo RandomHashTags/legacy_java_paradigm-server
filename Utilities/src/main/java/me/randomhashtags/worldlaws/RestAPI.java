@@ -56,6 +56,11 @@ public interface RestAPI {
                     handler.handleJSONObject(null);
                 }
             }
+
+            @Override
+            public void handleJSONObject(JSONObject json) {
+                handler.handleJSONObject(json);
+            }
         });
     }
 

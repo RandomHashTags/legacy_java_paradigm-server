@@ -1,23 +1,19 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.country.CountryHistory;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
 import me.randomhashtags.worldlaws.info.NationalCapitals;
 import me.randomhashtags.worldlaws.info.agriculture.ProductionFoods;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilities;
-import me.randomhashtags.worldlaws.info.availability.tech.AppleAvailabilityObj;
-import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureType;
 import me.randomhashtags.worldlaws.info.legal.CountryLegalities;
 import me.randomhashtags.worldlaws.info.legal.LegalityDrugs;
 import me.randomhashtags.worldlaws.info.list.Flyover;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankingServices;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankings;
 import me.randomhashtags.worldlaws.info.service.*;
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
-import me.randomhashtags.worldlaws.location.CustomCountry;
-import me.randomhashtags.worldlaws.location.SovereignStateSubdivision;
-import me.randomhashtags.worldlaws.location.WLCountry;
-import me.randomhashtags.worldlaws.location.history.CountryHistory;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -35,14 +31,15 @@ import java.util.stream.Collectors;
 public final class Countries implements WLServer {
 
     private HashMap<String, CustomCountry> countriesMap;
+    private String countriesCacheJSON;
 
     public static void main(String[] args) {
         new Countries();
     }
 
     private Countries() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -51,7 +48,7 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        CountryHistory.INSTANCE.getCountryValue(WLCountry.UNITED_STATES, new CompletionHandler() {
+        CountryAvailabilities.INSTANCE.getCountryAvailabilities("unitedstates", new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 WLLogger.log(Level.INFO, "Countries;test;string=" + string);
@@ -71,32 +68,14 @@ public final class Countries implements WLServer {
         startServer();
     }
 
+    @Override
+    public AutoUpdateSettings getAutoUpdateSettings() {
+        return null;
+    }
+
     private void loadServices() {
         final HashSet<CountryService> services = new HashSet<>() {{
-            addAll(Arrays.asList(CountryAvailabilities.values()));
-            addAll(Arrays.asList(
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_CARD),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_CARPLAY),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_PAY),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_APP_STORE_APPS),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_APP_STORE_GAMES),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ARCADE),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_CONGESTION_ZONES),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_DIRECTIONS),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_SPEED_CAMERAS),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_SPEED_LIMITS),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_NEARBY),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MUSIC),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_SIRI),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_MOVIES),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_MUSIC),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_TV_SHOWS),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_TV_APP),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_TV_PLUS),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_NEWS),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_NEWS_AUDIO),
-                    new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_NEWS_PLUS)
-            ));
+            addAll(Arrays.asList(CountryAvailabilities.INSTANCE));
             addAll(Arrays.asList(ProductionFoods.values()));
             addAll(Arrays.asList(
                     NationalCapitals.INSTANCE
@@ -120,7 +99,6 @@ public final class Countries implements WLServer {
 
     private void loadCountries(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
-        countriesMap = new HashMap<>();
         getJSONArray(Folder.COUNTRIES, "_List of sovereign states", new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
@@ -161,7 +139,7 @@ public final class Countries implements WLServer {
                             break;
                     }
                     final Country country = new Country(tag, targetURL, unStatus, sovereigntyDispute);
-                    builder.append(isFirst ? "" : ",").append(country);
+                    builder.append(isFirst ? "" : ",").append(country.toString());
                     isFirst = false;
                 }
                 builder.append("]");
@@ -170,29 +148,56 @@ public final class Countries implements WLServer {
 
             @Override
             public void handleJSONArray(JSONArray array) {
-                final Folder type = Folder.COUNTRIES;
-                final String fileName = "_Countries";
-                getJSONObject(type, fileName, new CompletionHandler() {
-                    @Override
-                    public void load(CompletionHandler handler) {
-                        handler.handleString("{}");
-                    }
+                loadCountries(started, array, handler);
+            }
+        });
+    }
+    private void loadCountries(long started, JSONArray array, CompletionHandler handler) {
+        final Folder folder = Folder.COUNTRIES;
+        final String fileName = "_Countries";
+        countriesMap = new HashMap<>();
 
+        getJSONObject(folder, fileName, new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+                final JSONObject countriesJSON = new JSONObject();
+                final CompletionHandler completionHandler = new CompletionHandler() {
                     @Override
-                    public void handleJSONObject(JSONObject countriesJSON) {
-                        for(Object obj : array) {
-                            final JSONObject json = (JSONObject) obj;
-                            final String tag = json.getString("tag"), url = json.getString("url");
-                            final String unStatus = json.has("unStatus") ? json.getString("unStatus") : null, sovereigntyDispute = json.has("sovereigntyDispute") ? json.getString("sovereigntyDispute") : null;
-                            createCountry(fileName, countriesJSON, tag, unStatus, sovereigntyDispute, url);
-                        }
-                        WLLogger.log(Level.INFO, "Countries - loaded " + array.length() + " countries (took " + (System.currentTimeMillis()-started) + "ms)");
-                        checkForMissingValues();
-                        if(handler != null) {
-                            handler.handleString(getCountriesJSON());
-                        }
+                    public void handleObject(Object object) {
+                        final CustomCountry country = (CustomCountry) object;
+                        final String name = country.getName();
+                        final int tagLength = name.length();
+                        final JSONObject countryJSON = new JSONObject(country.toString().substring(tagLength+3));
+                        countriesMap.put(country.getBackendID(), country);
+                        countriesJSON.put(name, countryJSON);
                     }
-                });
+                };
+                for(Object obj : array) {
+                    final JSONObject json = (JSONObject) obj;
+                    final String tag = json.getString("tag"), url = json.getString("url");
+                    final String unStatus = json.has("unStatus") ? json.getString("unStatus") : null, sovereigntyDispute = json.has("sovereigntyDispute") ? json.getString("sovereigntyDispute") : null;
+                    final Document doc = getDocument(Folder.COUNTRIES_COUNTRIES, url, true);
+                    final CustomCountry country = new CustomCountry(tag, unStatus, sovereigntyDispute, doc);
+                    completionHandler.handleObject(country);
+                }
+                handler.handleJSONObject(countriesJSON);
+            }
+
+            @Override
+            public void handleJSONObject(JSONObject countriesJSON) {
+                if(countriesMap.isEmpty()) {
+                    for(String name : countriesJSON.keySet()) {
+                        final JSONObject json = countriesJSON.getJSONObject(name);
+                        final CustomCountry country = new CustomCountry(name, json);
+                        countriesMap.put(country.getBackendID(), country);
+                    }
+                }
+                countriesCacheJSON = countriesJSON.toString();
+                WLLogger.log(Level.INFO, "Countries - loaded " + countriesJSON.length() + " countries (took " + (System.currentTimeMillis()-started) + "ms)");
+                checkForMissingValues();
+                if(handler != null) {
+                    handler.handleString(countriesCacheJSON);
+                }
             }
         });
     }
@@ -242,10 +247,10 @@ public final class Countries implements WLServer {
                 handler.handleString(getFilters());
                 break;
             case "countries":
-                handler.handleString(getCountriesJSON());
+                handler.handleString(countriesCacheJSON);
                 break;
             default:
-                final CustomCountry country = valueOfBackendID(key);
+                final CustomCountry country = countriesMap.getOrDefault(key, null);
                 if(country != null) {
                     if(values.length == 1) {
                         handler.handleString(country.toString());
@@ -278,6 +283,7 @@ public final class Countries implements WLServer {
                     }
                 } else {
                     WLLogger.log(Level.WARN, "Countries - failed to send response using key \"" + key + "\"!");
+                    handler.handleString(null);
                 }
                 break;
         }
@@ -291,33 +297,6 @@ public final class Countries implements WLServer {
         };
     }
 
-    private void createCountry(String fileName, JSONObject countriesJSON, String tag, String unStatus, String sovereigntyDispute, String url) {
-        if(countriesJSON.has(tag)) {
-            final JSONObject countryJSON = countriesJSON.getJSONObject(tag);
-            final CustomCountry country = new CustomCountry(countryJSON);
-            countriesMap.put(country.getBackendID(), country);
-        } else {
-            loadCountry(tag, unStatus, sovereigntyDispute, url, new CompletionHandler() {
-                @Override
-                public void handleCustomCountry(CustomCountry country) {
-                    final JSONObject countryJSON = new JSONObject(country.toServerJSON());
-                    countriesMap.put(country.getBackendID(), country);
-                    countriesJSON.put(tag, countryJSON);
-                    setFileJSONObject(Folder.COUNTRIES, fileName, countriesJSON);
-                }
-            });
-        }
-    }
-    private void loadCountry(String tag, String unStatus, String sovereigntyDispute, String url, CompletionHandler handler) {
-        final Document doc = getDocument(Folder.COUNTRIES_COUNTRIES, url, true);
-        if(doc != null) {
-            final CustomCountry country = new CustomCountry(tag, unStatus, sovereigntyDispute, doc);
-            handler.handleCustomCountry(country);
-        } else {
-            handler.handleCustomCountry(null);
-        }
-    }
-
     private String getFilters() {
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
@@ -329,19 +308,6 @@ public final class Countries implements WLServer {
         }
         builder.append("]");
         return builder.toString();
-    }
-    private String getCountriesJSON() {
-        final StringBuilder builder = new StringBuilder("{");
-        boolean isFirst = true;
-        for(CustomCountry country : countriesMap.values()) {
-            builder.append(isFirst ? "" : ",").append(country.toString());
-            isFirst = false;
-        }
-        builder.append("}");
-        return builder.toString();
-    }
-    public CustomCountry valueOfBackendID(String backendID) {
-        return countriesMap.getOrDefault(backendID.toLowerCase().replace(" ", ""), null);
     }
 
     private static final class Country {

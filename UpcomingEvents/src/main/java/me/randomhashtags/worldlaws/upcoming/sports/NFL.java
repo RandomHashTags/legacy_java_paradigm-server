@@ -15,7 +15,7 @@ public enum NFL implements USAUpcomingEventController {
     INSTANCE;
 
     private HashMap<String, PreUpcomingEvent> preEventURLS;
-    private HashMap<String, String> upcomingEvents, preUpcomingEvents;
+    private HashMap<String, String> upcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -28,11 +28,6 @@ public enum NFL implements USAUpcomingEventController {
     }
 
     @Override
-    public HashMap<String, String> getLoadedPreUpcomingEvents() {
-        return preUpcomingEvents;
-    }
-
-    @Override
     public HashMap<String, String> getUpcomingEvents() {
         return upcomingEvents;
     }
@@ -41,7 +36,6 @@ public enum NFL implements USAUpcomingEventController {
     public void load(CompletionHandler handler) {
         preEventURLS = new HashMap<>();
         upcomingEvents = new HashMap<>();
-        preUpcomingEvents = new HashMap<>();
         final String url = "https://www.nfl.com/schedules/";
         final Document doc = getDocument(url);
         if(doc != null) {

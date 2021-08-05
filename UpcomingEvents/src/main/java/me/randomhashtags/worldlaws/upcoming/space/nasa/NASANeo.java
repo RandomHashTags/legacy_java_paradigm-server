@@ -14,7 +14,7 @@ import java.util.List;
 public enum NASANeo implements USAUpcomingEventController {
     INSTANCE;
 
-    private HashMap<String, String> upcomingEvents, loadedPreUpcomingEvents;
+    private HashMap<String, String> upcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -27,18 +27,12 @@ public enum NASANeo implements USAUpcomingEventController {
     }
 
     @Override
-    public HashMap<String, String> getLoadedPreUpcomingEvents() {
-        return loadedPreUpcomingEvents;
-    }
-
-    @Override
     public HashMap<String, String> getUpcomingEvents() {
         return upcomingEvents;
     }
 
     @Override
     public void load(CompletionHandler handler) {
-        loadedPreUpcomingEvents = new HashMap<>();
         upcomingEvents = new HashMap<>();
 
         final LocalDate today = LocalDate.now();
@@ -71,8 +65,6 @@ public enum NASANeo implements USAUpcomingEventController {
                     final String id = (month + "-" + year + "-" + day) + "." + name.replace(" ", "");
                     final NearEarthObject neo = new NearEarthObject(name, closeApproachEpoch, isPotentiallyHazardousAsteroid, estimatedDiameterMin, estimatedDiameterMax, relativeVelocity);
                     upcomingEvents.put(id, neo.toJSON());
-                    final String preUpcomingEventString = new PreUpcomingEvent(id, name, null, "NEO: " + name).toStringWithImageURL(null);
-                    loadedPreUpcomingEvents.put(id, preUpcomingEventString);
                 });
                 handler.handleString(null);
             }

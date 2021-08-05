@@ -56,6 +56,7 @@ public interface QuotaHandler extends DataValues {
                     handler.handleObject(null);
                 } else {
                     WLLogger.log(Level.WARN, "QuotaHandler - cannot make \"" + identifier + "\" request due to reaching max allowed quota requests!");
+                    handler.handleFail();
                 }
             }
         });

@@ -2,8 +2,8 @@ package me.randomhashtags.worldlaws.country.ca;
 
 import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.country.LawController;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.LawController;
+import me.randomhashtags.worldlaws.country.WLCountry;
 
 public enum CanadaLaws implements LawController {
     INSTANCE;

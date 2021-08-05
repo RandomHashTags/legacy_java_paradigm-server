@@ -1,12 +1,12 @@
 package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.Month;
 
-public enum AfricaDay implements IHoliday { // hhttps://en.wikipedia.org/wiki/Africa_Day
+public enum AfricaDay implements IHoliday { // https://en.wikipedia.org/wiki/Africa_Day
     INSTANCE;
 
     @Override
@@ -15,7 +15,7 @@ public enum AfricaDay implements IHoliday { // hhttps://en.wikipedia.org/wiki/Af
     }
 
     @Override
-    public String getWikipediaName() {
+    public String getOfficialName() {
         return null;
     }
 

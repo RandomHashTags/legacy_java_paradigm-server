@@ -70,7 +70,7 @@ public enum WeatherAlerts {
                                 break;
                         }
                     } else {
-                        WLLogger.log(Level.WARN, "WeatherAlerts - missing WeatherController for country \"" + key + "\"!");
+                        handler.handleString(null);
                     }
                 }
                 break;
@@ -78,21 +78,34 @@ public enum WeatherAlerts {
     }
 
     private void getAllPreAlerts(String event, CompletionHandler handler) {
-        final StringBuilder builder = new StringBuilder("{");
         final WeatherController[] controllers = getCountries();
+        final HashSet<String> values = new HashSet<>();
         final int max = controllers.length;
         final AtomicInteger completed = new AtomicInteger(0);
         Arrays.asList(controllers).parallelStream().forEach(controller -> {
             controller.getPreAlerts(event, new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
-                    final String country = controller.getCountry().getBackendID();
-                    final String source = "\"source\":{" + controller.getSource().toString() + "}";
-                    final String alerts = "\"alerts\":" + string;
-                    final String value = "\"" + country + "\":{" + source + "," + alerts + "}";
-                    builder.append(completed.get() == 0 ? "" : ",").append(value);
+                    if(string != null) {
+                        final String country = controller.getCountry().getBackendID();
+                        final String source = "\"source\":{" + controller.getSource().toString() + "}";
+                        final String alerts = "\"alerts\":" + string;
+                        final String value = "\"" + country + "\":{" + source + "," + alerts + "}";
+                        values.add(value);
+                    }
                     if(completed.addAndGet(1) == max) {
-                        handler.handleString(builder.append("}").toString());
+                        String value = null;
+                        if(!values.isEmpty()) {
+                            final StringBuilder builder = new StringBuilder("{");
+                            boolean isFirst = true;
+                            for(String valueString : values) {
+                                builder.append(isFirst ? "" : ",").append(valueString);
+                                isFirst = false;
+                            }
+                            builder.append("}");
+                            value = builder.toString();
+                        }
+                        handler.handleString(value);
                     }
                 }
             });

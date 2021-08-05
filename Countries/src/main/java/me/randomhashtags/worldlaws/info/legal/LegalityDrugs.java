@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.info.legal;
 
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 
 public enum LegalityDrugs implements LegalityDrug {
     AYAHUASCA("https://en.wikipedia.org/wiki/Legal_status_of_ayahuasca_by_country"),

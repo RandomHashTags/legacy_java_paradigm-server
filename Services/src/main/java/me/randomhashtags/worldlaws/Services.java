@@ -64,6 +64,11 @@ public final class Services implements WLServer {
         };
     }
 
+    @Override
+    public AutoUpdateSettings getAutoUpdateSettings() {
+        return null;
+    }
+
     private void getStockMarketResponse(APIVersion version, String value, CompletionHandler handler) {
         stockService.makeQuotaRequest(stockService.getJSONDataValue(), new CompletionHandler() {
             @Override

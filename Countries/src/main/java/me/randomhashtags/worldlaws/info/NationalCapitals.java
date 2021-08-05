@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.info;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 

@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws.info.rankings;
 
-import me.randomhashtags.worldlaws.NumberType;
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 

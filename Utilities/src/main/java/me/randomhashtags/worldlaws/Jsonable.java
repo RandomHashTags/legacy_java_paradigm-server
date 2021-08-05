@@ -9,28 +9,25 @@ import java.io.FileWriter;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.List;
 import java.util.stream.Collectors;
 
 public interface Jsonable {
     String USER_DIR = System.getProperty("user.dir") + File.separator;
 
-    private static String getFolder(Folder type) {
-        return FolderUtils.getFolder(type);
-    }
-    private static String getJSONFilePath(Folder fileType, String fileName) {
-        final String folder = USER_DIR + getFolder(fileType);
-        return folder + File.separator + fileName + ".json";
+    private static String getJSONFilePath(Folder folder, String fileName) {
+        return folder.getFolderPath() + File.separator + fileName + ".json";
     }
     private String getLocalFileString(Folder type, String fileName) {
-        final String folder = USER_DIR + getFolder(type);
-        final File folderFile = new File(folder);
-        if(!folderFile.exists()) {
-            try {
-                Files.createDirectory(folderFile.toPath());
-            } catch (Exception e) {
-                e.printStackTrace();
+        final List<String> parentFolders = type.getParentFolders();
+        if(parentFolders != null) {
+            for(String folder : parentFolders) {
+                tryCreatingFolder(folder);
             }
         }
+
+        final String folder = type.getFolderPath();
+        tryCreatingFolder(folder);
 
         final String directory = folder + File.separator + fileName + ".json";
         final File file = new File(directory);
@@ -45,16 +42,27 @@ public interface Jsonable {
         }
         return null;
     }
-    private JSONObject getLocalFileJSONObject(Folder type, String fileName) {
-        final String string = getLocalFileString(type, fileName);
+    default void tryCreatingFolder(String folderPath) {
+        final File folderFile = new File(folderPath);
+        if(!folderFile.exists()) {
+            WLLogger.log(Level.INFO, "Jsonable - creating folder at \"" + folderPath + "\"!");
+            try {
+                Files.createDirectory(folderFile.toPath());
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }
+    private JSONObject getLocalFileJSONObject(Folder folder, String fileName) {
+        final String string = getLocalFileString(folder, fileName);
         return string != null ? new JSONObject(string) : null;
     }
     private JSONArray getLocalFileJSONArray(Folder type, String fileName) {
         final String string = getLocalFileString(type, fileName);
         return string != null ? new JSONArray(string) : null;
     }
-    default void getJSONObject(Folder type, String fileName, CompletionHandler handler) {
-        final JSONObject localFile = getLocalFileJSONObject(type, fileName);
+    default void getJSONObject(Folder folder, String fileName, CompletionHandler handler) {
+        final JSONObject localFile = getLocalFileJSONObject(folder, fileName);
         if(localFile != null) {
             handler.handleJSONObject(localFile);
         } else {
@@ -63,7 +71,7 @@ public interface Jsonable {
                 public void handleString(String string) {
                     JSONObject json = null;
                     if(string != null) {
-                        saveFileJSON(type, fileName, string);
+                        saveFileJSON(folder, fileName, string);
                         json = new JSONObject(string);
                     }
                     handler.handleJSONObject(json);
@@ -72,8 +80,9 @@ public interface Jsonable {
                 @Override
                 public void handleJSONObject(JSONObject json) {
                     if(json != null) {
-                        saveFileJSON(type, fileName, json.toString());
+                        saveFileJSON(folder, fileName, json.toString());
                     }
+                    folder.resetCustomFolderName();
                     handler.handleJSONObject(json);
                 }
             });
@@ -105,6 +114,9 @@ public interface Jsonable {
     }
     default void setFileJSONArray(Folder type, String fileName, JSONArray array) {
         setFileJSON(type, fileName, array);
+    }
+    default void setFileJSON(Folder type, String fileName, String value) {
+        setFileJSON(type, fileName, (Object) value);
     }
     private void setFileJSON(Folder type, String fileName, Object value) {
         final String path = getJSONFilePath(type, fileName);

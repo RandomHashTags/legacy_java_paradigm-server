@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.debt;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.RequestMethod;
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import org.json.JSONArray;
 import org.json.JSONObject;
 

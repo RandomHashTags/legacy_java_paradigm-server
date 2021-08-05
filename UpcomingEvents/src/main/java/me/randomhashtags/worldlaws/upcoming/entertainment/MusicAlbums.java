@@ -20,7 +20,7 @@ public enum MusicAlbums implements UpcomingEventController, SpotifyService {
     INSTANCE;
 
     private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
-    private HashMap<String, String> upcomingEvents, loadedPreUpcomingEvents;
+    private HashMap<String, String> upcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -33,11 +33,6 @@ public enum MusicAlbums implements UpcomingEventController, SpotifyService {
     }
 
     @Override
-    public HashMap<String, String> getLoadedPreUpcomingEvents() {
-        return loadedPreUpcomingEvents;
-    }
-
-    @Override
     public HashMap<String, String> getUpcomingEvents() {
         return upcomingEvents;
     }
@@ -45,7 +40,6 @@ public enum MusicAlbums implements UpcomingEventController, SpotifyService {
     @Override
     public void load(CompletionHandler handler) {
         preUpcomingEvents = new HashMap<>();
-        loadedPreUpcomingEvents = new HashMap<>();
         upcomingEvents = new HashMap<>();
 
         final int year = WLUtilities.getTodayYear();
@@ -103,7 +97,6 @@ public enum MusicAlbums implements UpcomingEventController, SpotifyService {
                             final String id = getEventDateIdentifier(dateString, album);
                             final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, album, albumURL, artist);
                             preUpcomingEvents.put(id, preUpcomingEvent);
-                            WLLogger.log(Level.INFO, "MusicAlbums - preUpcomingEvent=" + preUpcomingEvent.toStringWithImageURL(null));
                         }
                     }
                 }

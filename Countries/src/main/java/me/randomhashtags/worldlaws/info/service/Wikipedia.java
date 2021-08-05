@@ -2,8 +2,9 @@ package me.randomhashtags.worldlaws.info.service;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.info.WikipediaPicture;
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
-import me.randomhashtags.worldlaws.location.SovereignStateInformationType;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
+import me.randomhashtags.worldlaws.service.WikipediaService;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -67,16 +68,13 @@ public enum Wikipedia implements CountryService {
     private void loadWikipedia(String tag, CompletionHandler handler) {
         final String url = "https://en.wikipedia.org/wiki/" + tag.replace(" ", "_");
         final Folder folder = getFolder();
-        Document document = null;
-        try {
-            document = Jsoupable.getLocalDocument(folder, url);
+        Document document = Jsoupable.getLocalDocument(folder, url);
+        if(document == null) {
+            document = getDocument(folder, url);
             if(document == null) {
-                document = getDocument(folder, url);
+                handler.handleString(null);
+                return;
             }
-        } catch (Exception e) {
-            e.printStackTrace();
-            handler.handleString(null);
-            return;
         }
         final Elements infoboxParagraphs = document.select("div.mw-parser-output table.infobox + p");
         final Elements metadataParagraphs = document.select("div.mw-parser-output table.metadata + p");
@@ -146,7 +144,7 @@ public enum Wikipedia implements CountryService {
                             if(!href.isEmpty()) {
                                 final Element img = picture.selectFirst("img");
                                 final String imageTitle = img.attr("alt").replace(" ", "_");
-                                final String pictureURL = img.attr("src").replaceAll("/[0-9]+px-", "/%quality%px-");
+                                final String pictureURL = WikipediaService.getPictureThumbnailImageURL(img);
                                 if(!prefix.equals(pictureURL)) {
                                     /*final String mediaURL = prefix + "/wiki/File:" + imageTitle;
                                     final Elements descriptions = getDocumentElements(FileType.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES_MEDIA, mediaURL, "td.description");

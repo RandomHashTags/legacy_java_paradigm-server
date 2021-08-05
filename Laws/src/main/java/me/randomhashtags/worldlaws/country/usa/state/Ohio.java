@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
+import me.randomhashtags.worldlaws.LawSubdivisionController;
 import me.randomhashtags.worldlaws.country.*;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -10,7 +11,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Ohio implements State {
+public enum Ohio implements LawSubdivisionController {
     INSTANCE(
             "http://codes.ohio.gov/orc/",
             "http://codes.ohio.gov/orc/%index%",
@@ -65,8 +66,8 @@ public enum Ohio implements State {
     }
 
     @Override
-    public List<StateIndex> getIndexes() {
-        final List<StateIndex> chapters = new ArrayList<>();
+    public List<SubdivisionStatuteIndex> getIndexes() {
+        final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         if(doc != null) {
             final Elements table = doc.select("div.content h2");
@@ -172,7 +173,7 @@ public enum Ohio implements State {
                 if(previousSubdivision != null) {
                     subdivisions.add(previousSubdivision);
                 }
-                final StateStatute statute = new StateStatute(StateReference.build(title, chapter, section, url), topic, description.toString(), subdivisions);
+                final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString(), subdivisions);
                 final String string = statute.toString();
                 statutes.put(path, string);
                 return string;

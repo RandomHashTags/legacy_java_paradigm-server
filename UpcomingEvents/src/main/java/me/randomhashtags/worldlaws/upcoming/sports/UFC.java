@@ -15,7 +15,7 @@ public enum UFC implements USAUpcomingEventController {
     INSTANCE;
 
     private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
-    private HashMap<String, String> upcomingEvents, loadedPreUpcomingEvents;
+    private HashMap<String, String> upcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -28,11 +28,6 @@ public enum UFC implements USAUpcomingEventController {
     }
 
     @Override
-    public HashMap<String, String> getLoadedPreUpcomingEvents() {
-        return loadedPreUpcomingEvents;
-    }
-
-    @Override
     public HashMap<String, String> getUpcomingEvents() {
         return upcomingEvents;
     }
@@ -40,7 +35,6 @@ public enum UFC implements USAUpcomingEventController {
     @Override
     public void load(CompletionHandler handler) {
         preUpcomingEvents = new HashMap<>();
-        loadedPreUpcomingEvents = new HashMap<>();
         upcomingEvents = new HashMap<>();
 
         final String wikipagePrefix = "https://en.wikipedia.org";
@@ -96,8 +90,7 @@ public enum UFC implements USAUpcomingEventController {
             final String posterURL = !image.isEmpty() ? "https:" + image.attr("src") : null;
             final EventSource source = new EventSource("Wikipedia: " + title, url);
 
-            final EventSource listOfEventsSource = new EventSource("Wikipedia: List of UFC events", "https://en.wikipedia.org/wiki/List_of_UFC_events");
-            final EventSources sources = new EventSources(listOfEventsSource, source);
+            final EventSources sources = new EventSources(source);
             final SportEvent ufc = new SportEvent(title, description, location, posterURL, "unknown venue", sources);
             final String string = ufc.toJSON();
             upcomingEvents.put(id, string);

@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
-import me.randomhashtags.worldlaws.country.State;
-import me.randomhashtags.worldlaws.country.StateIndex;
+import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import me.randomhashtags.worldlaws.country.StateReference;
-import me.randomhashtags.worldlaws.country.StateStatute;
+import me.randomhashtags.worldlaws.country.SubdivisionStatute;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
@@ -14,7 +14,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Florida implements State {
+public enum Florida implements LawSubdivisionController {
     INSTANCE(
             "https://www.flsenate.gov/Laws/Statutes/2019",
             "https://www.flsenate.gov/Laws/Statutes/2019/Title%index%/#Title%index%",
@@ -69,8 +69,8 @@ public enum Florida implements State {
     }
 
     @Override
-    public List<StateIndex> getIndexes() {
-        final List<StateIndex> chapters = new ArrayList<>();
+    public List<SubdivisionStatuteIndex> getIndexes() {
+        final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         if(doc != null) {
             final Elements table = doc.select("div.statutesTOC li span");
@@ -162,7 +162,7 @@ public enum Florida implements State {
                         index++;
                     }
                 }
-                final StateStatute statute = new StateStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
+                final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
                 final String string = statute.toString();
                 statutesJSON.put(section, string);
                 return string;

@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
-import me.randomhashtags.worldlaws.country.State;
-import me.randomhashtags.worldlaws.country.StateIndex;
+import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import me.randomhashtags.worldlaws.country.StateReference;
-import me.randomhashtags.worldlaws.country.StateStatute;
+import me.randomhashtags.worldlaws.country.SubdivisionStatute;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum NewHampshire implements State {
+public enum NewHampshire implements LawSubdivisionController {
     INSTANCE(
             "http://www.gencourt.state.nh.us/rsa/html/nhtoc.htm",
             "http://www.gencourt.state.nh.us/rsa/html/NHTOC/NHTOC-%index%.htm",
@@ -68,8 +68,8 @@ public enum NewHampshire implements State {
     }
 
     @Override
-    public List<StateIndex> getIndexes() {
-        final List<StateIndex> chapters = new ArrayList<>();
+    public List<SubdivisionStatuteIndex> getIndexes() {
+        final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         if(doc != null) {
             final Elements table = doc.select("ul li");
@@ -146,11 +146,11 @@ public enum NewHampshire implements State {
                 final Elements titles = doc.select("body b"), titleDescriptions = doc.select("body codesect");
                 titles.remove(titles.size()-1);
                 final StateReference reference = StateReference.build(title, chapter, section, url);
-                final StateStatute statute;
+                final SubdivisionStatute statute;
                 if(titles.size() == 1) {
-                    statute = new StateStatute(reference, titles.get(0).text(), titleDescriptions.get(0).text(), null);
+                    statute = new SubdivisionStatute(reference, titles.get(0).text(), titleDescriptions.get(0).text(), null);
                 } else {
-                    statute = new StateStatute(reference, null, null, null);
+                    statute = new SubdivisionStatute(reference, null, null, null);
                 }
                 final String string = statute.toString();
                 statutes.put(path, string);

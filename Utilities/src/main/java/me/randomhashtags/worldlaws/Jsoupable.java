@@ -16,32 +16,33 @@ public interface Jsoupable {
     private static String fixURL(String url) {
         return url.replace("/", "-").replace(".", "_").replace(":", "-");
     }
-    private static String getFolder(Folder type) {
-        return FolderUtils.getFolder(type);
-    }
-    static Document getLocalDocument(Folder type, String url) throws Exception {
+    static Document getLocalDocument(Folder folder, String url) {
         final String fileSeparator = File.separator;
-        final String currentPath = System.getProperty("user.dir") + fileSeparator;
-
-        final String folder = currentPath + getFolder(type);
-        final File folderFile = new File(folder);
+        final String folderPath = folder.getFolderPath();
+        final File folderFile = new File(folderPath);
         if(!folderFile.exists()) {
-            Files.createDirectory(folderFile.toPath());
+            try {
+                Files.createDirectory(folderFile.toPath());
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
 
-        final String directory = folder + fileSeparator + fixURL(url) + ".txt";
+        final String directory = folderPath + fileSeparator + fixURL(url) + ".txt";
         final File file = new File(directory);
         if(file.exists()) {
-            return Jsoup.parse(file, null);
+            try {
+                return Jsoup.parse(file, null);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
         return null;
     }
-    private static void createDocument(Folder type, String url, String html) throws Exception {
+    private static void createDocument(Folder folder, String url, String html) throws Exception {
         final String fileSeparator = File.separator;
-        final String currentPath = System.getProperty("user.dir") + fileSeparator;
-
-        final String folder = currentPath + getFolder(type);
-        final String directory = folder + fileSeparator + fixURL(url) + ".txt";
+        final String folderPath = folder.getFolderPath();
+        final String directory = folderPath + fileSeparator + fixURL(url) + ".txt";
         final File file = new File(directory);
         if(!file.exists()) {
             final Path path = file.toPath();
@@ -59,54 +60,54 @@ public interface Jsoupable {
     default Document getDocument(String url) {
         return getDocument(Folder.OTHER, url, false);
     }
-    default Document getDocument(Folder type, String url) {
-        return getDocument(type, url, false);
+    default Document getDocument(Folder folder, String url) {
+        return getDocument(folder, url, false);
     }
-    default Document getDocument(Folder type, String url, boolean download) {
-        return getStaticDocument(type, url, download);
+    default Document getDocument(Folder folder, String url, boolean download) {
+        return getStaticDocument(folder, url, download);
     }
-    default Document getDocument(Folder type, String fileName, String url, boolean download) {
-        return getStaticDocument(type, fileName, url, download);
+    default Document getDocument(Folder folder, String fileName, String url, boolean download) {
+        return getStaticDocument(folder, fileName, url, download);
     }
-    default Elements getDocumentElements(Folder type, String url, String targetElements) {
-        return Jsoupable.getStaticDocumentElements(type, url, false, targetElements, -1);
+    default Elements getDocumentElements(Folder folder, String url, String targetElements) {
+        return Jsoupable.getStaticDocumentElements(folder, url, false, targetElements, -1);
     }
-    default Elements getDocumentElements(Folder type, String url, String targetElements, int index) {
-        return Jsoupable.getStaticDocumentElements(type, url, false, targetElements, index);
+    default Elements getDocumentElements(Folder folder, String url, String targetElements, int index) {
+        return Jsoupable.getStaticDocumentElements(folder, url, false, targetElements, index);
     }
-    default Elements getDocumentElements(Folder type, String url, boolean download, String targetElements) {
-        return Jsoupable.getStaticDocumentElements(type, url, download, targetElements, -1);
+    default Elements getDocumentElements(Folder folder, String url, boolean download, String targetElements) {
+        return Jsoupable.getStaticDocumentElements(folder, url, download, targetElements, -1);
     }
-    default Elements getDocumentElements(Folder type, String fileName, String url, boolean download, String targetElements) {
-        return Jsoupable.getStaticDocumentElements(type, fileName, url, download, targetElements, -1);
+    default Elements getDocumentElements(Folder folder, String fileName, String url, boolean download, String targetElements) {
+        return Jsoupable.getStaticDocumentElements(folder, fileName, url, download, targetElements, -1);
     }
-    default Elements getDocumentElements(Folder type, String url, boolean download, String targetElements, int index) {
-        return Jsoupable.getStaticDocumentElements(type, url, download, targetElements, index);
+    default Elements getDocumentElements(Folder folder, String url, boolean download, String targetElements, int index) {
+        return Jsoupable.getStaticDocumentElements(folder, url, download, targetElements, index);
     }
-    default Elements getDocumentElements(Folder type, String fileName, String url, boolean download, String targetElements, int index) {
-        return Jsoupable.getStaticDocumentElements(type, fileName, url, download, targetElements, index);
+    default Elements getDocumentElements(Folder folder, String fileName, String url, boolean download, String targetElements, int index) {
+        return Jsoupable.getStaticDocumentElements(folder, fileName, url, download, targetElements, index);
     }
-    static Elements getStaticDocumentElements(Folder type, String url, boolean download, String targetElements) {
-        return getStaticDocumentElements(type, url, download, targetElements, -1);
+    static Elements getStaticDocumentElements(Folder folder, String url, boolean download, String targetElements) {
+        return getStaticDocumentElements(folder, url, download, targetElements, -1);
     }
-    static Elements getStaticDocumentElements(Folder type, String url, boolean download, String targetElements, int index) {
-        return getStaticDocumentElements(type, null, url, download, targetElements, index);
+    static Elements getStaticDocumentElements(Folder folder, String url, boolean download, String targetElements, int index) {
+        return getStaticDocumentElements(folder, null, url, download, targetElements, index);
     }
-    static Elements getStaticDocumentElements(Folder type, String fileName, String url, boolean download, String targetElements, int index) {
+    static Elements getStaticDocumentElements(Folder folder, String fileName, String url, boolean download, String targetElements, int index) {
+        final Document local = getLocalDocument(folder, fileName != null ? fileName : url);
+        final boolean isList = targetElements.endsWith(" li"), isTR = targetElements.endsWith(" tr");
+        if(local != null) {
+            final boolean isUL = targetElements.endsWith(" ul");
+            final boolean isTableWikitable = targetElements.equals("table.wikitable") || targetElements.endsWith(" table.wikitable");
+            final boolean isTableSortable = targetElements.equals("table.sortable") || targetElements.endsWith(" table.sortable");
+            return isList ? local.select("li")
+                    : isUL ? local.select("ul")
+                    : isTableWikitable ? local.select("table.wikitable")
+                    : isTableSortable ? local.select("table.sortable")
+                    : isTR ? local.select("tr")
+                    : local.getAllElements();
+        }
         try {
-            final Document local = getLocalDocument(type, fileName != null ? fileName : url);
-            final boolean isList = targetElements.endsWith(" li"), isTR = targetElements.endsWith(" tr");
-            if(local != null) {
-                final boolean isUL = targetElements.endsWith(" ul");
-                final boolean isTableWikitable = targetElements.equals("table.wikitable") || targetElements.endsWith(" table.wikitable");
-                final boolean isTableSortable = targetElements.equals("table.sortable") || targetElements.endsWith(" table.sortable");
-                return isList ? local.select("li")
-                        : isUL ? local.select("ul")
-                        : isTableWikitable ? local.select("table.wikitable")
-                        : isTableSortable ? local.select("table.sortable")
-                        : isTR ? local.select("tr")
-                        : local.getAllElements();
-            }
             final boolean hasIndex = index != -1;
             final Document doc = requestDocument(url);
             if(doc != null) {
@@ -126,7 +127,7 @@ public interface Jsoupable {
                     } else {
                         html = element.outerHtml();
                     }
-                    createDocument(type, fileName != null ? fileName : url, html);
+                    createDocument(folder, fileName != null ? fileName : url, html);
                 }
                 return hasIndex ? element.getAllElements() : elements;
             }
@@ -136,19 +137,19 @@ public interface Jsoupable {
             return null;
         }
     }
-    static Document getStaticDocument(Folder type, String url, boolean download) {
-        return getStaticDocument(type, null, url, download);
+    static Document getStaticDocument(Folder folder, String url, boolean download) {
+        return getStaticDocument(folder, null, url, download);
     }
-    static Document getStaticDocument(Folder type, String fileName, String url, boolean download) {
+    static Document getStaticDocument(Folder folder, String fileName, String url, boolean download) {
+        final Document local = getLocalDocument(folder, fileName != null ? fileName : url);
+        if(local != null) {
+            return local;
+        }
         try {
-            final Document local = getLocalDocument(type, fileName != null ? fileName : url);
-            if(local != null) {
-                return local;
-            }
             final Document doc = requestDocument(url);
             if(download) {
                 final String html = doc.html();
-                createDocument(type, fileName != null ? fileName : url, html);
+                createDocument(folder, fileName != null ? fileName : url, html);
             }
             return doc;
         } catch (Exception e) {

@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.weather;
 
-import me.randomhashtags.worldlaws.location.Location;
+import me.randomhashtags.worldlaws.country.Location;
 
 import java.util.List;
 

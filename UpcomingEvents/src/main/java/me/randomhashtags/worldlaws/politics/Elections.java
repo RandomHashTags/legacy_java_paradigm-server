@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.politics;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.SovereignStateSubdivision;
-import me.randomhashtags.worldlaws.location.WLCountry;
-import me.randomhashtags.worldlaws.location.WLSubdivisions;
+import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.WLSubdivisions;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;

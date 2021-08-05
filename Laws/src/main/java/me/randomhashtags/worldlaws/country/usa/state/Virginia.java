@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
-import me.randomhashtags.worldlaws.country.State;
-import me.randomhashtags.worldlaws.country.StateIndex;
+import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import me.randomhashtags.worldlaws.country.StateReference;
-import me.randomhashtags.worldlaws.country.StateStatute;
+import me.randomhashtags.worldlaws.country.SubdivisionStatute;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Virginia implements State {
+public enum Virginia implements LawSubdivisionController {
     INSTANCE(
             "https://law.lis.virginia.gov/vacode/",
             "https://law.lis.virginia.gov/vacode/title%index%/",
@@ -68,8 +68,8 @@ public enum Virginia implements State {
     }
 
     @Override
-    public List<StateIndex> getIndexes() {
-        final List<StateIndex> chapters = new ArrayList<>();
+    public List<SubdivisionStatuteIndex> getIndexes() {
+        final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         if(doc != null) {
             int index = 0;
@@ -165,7 +165,7 @@ public enum Virginia implements State {
                     isFirst = false;
                 }
 
-                final StateStatute statute = new StateStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
+                final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
                 final String string = statute.toString();
                 statutes.put(path, string);
                 return string;

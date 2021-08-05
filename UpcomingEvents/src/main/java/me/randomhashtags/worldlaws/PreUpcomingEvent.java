@@ -1,10 +1,38 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import org.json.JSONObject;
+
 import java.util.HashMap;
 
 public final class PreUpcomingEvent {
     private final String id, title, url, tag;
     private final HashMap<String, Object> customValues;
+
+    public static PreUpcomingEvent fromUpcomingEventJSON(UpcomingEventType type, String id, JSONObject json) {
+        final String title = json.getString("title");
+        return new PreUpcomingEvent(id, title, null, getTag(type, title, json));
+    }
+    private static String getTag(UpcomingEventType type, String title, JSONObject json) {
+        final JSONObject properties = json.has("properties") ? json.getJSONObject("properties") : null;
+        switch (type) {
+            case MOVIE:
+                return properties.getString("productionCompany");
+            case MUSIC_ALBUM:
+                return properties.getString("artist");
+            case SPACE_NEAR_EARTH_OBJECT:
+                return "NEO: " + title;
+            case SPACE_ROCKET_LAUNCH:
+                return json.getString("location");
+            case SPORT_UFC:
+                return json.getString("location");
+            case VIDEO_GAME:
+                final String string = properties.getJSONArray("platforms").toString();
+                return string.substring(1, string.length()-1);
+            default:
+                return null;
+        }
+    }
 
     public PreUpcomingEvent(String id, String title, String url, String tag) {
         this(id, title, url, tag, null);

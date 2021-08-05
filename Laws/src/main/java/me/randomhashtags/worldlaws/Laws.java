@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.country.LawController;
 import me.randomhashtags.worldlaws.country.usa.USLaws;
 import org.apache.logging.log4j.Level;
 
@@ -32,10 +31,10 @@ public final class Laws implements WLServer {
     }
 
     private void test() {
-        getRecentActivity(APIVersion.v1, new CompletionHandler() {
+        getHomeResponse(APIVersion.getCurrent(), new CompletionHandler() {
             @Override
             public void handleString(String string) {
-                WLLogger.log(Level.INFO, "Laws;test;object=" + string);
+                WLLogger.log(Level.INFO, "Laws;test;string=" + string);
             }
         });
     }
@@ -70,7 +69,7 @@ public final class Laws implements WLServer {
                     final int keyLength = key.length()+1;
                     final String targetKey = values[1];
                     if(targetKey.matches("[0-9]+")) {
-                        final int administration = Integer.parseInt(key);
+                        final int administration = Integer.parseInt(targetKey);
                         controller.getGovernmentResponse(version, administration, target.substring(keyLength+targetKey.length()+1), handler);
                     } else {
                         controller.getResponse(version, target.substring(keyLength), handler);
@@ -85,6 +84,11 @@ public final class Laws implements WLServer {
         return new String[] {
                 "recent_activity"
         };
+    }
+
+    @Override
+    public AutoUpdateSettings getAutoUpdateSettings() {
+        return new AutoUpdateSettings(WLUtilities.LAWS_HOME_RESPONSE_UPDATE_INTERVAL, null);
     }
 
     private void getRecentActivity(APIVersion version, CompletionHandler handler) {

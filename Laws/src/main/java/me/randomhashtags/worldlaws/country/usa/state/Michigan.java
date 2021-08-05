@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
-import me.randomhashtags.worldlaws.country.State;
-import me.randomhashtags.worldlaws.country.StateIndex;
+import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import me.randomhashtags.worldlaws.country.StateReference;
-import me.randomhashtags.worldlaws.country.StateStatute;
+import me.randomhashtags.worldlaws.country.SubdivisionStatute;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Michigan implements State {
+public enum Michigan implements LawSubdivisionController {
     INSTANCE(
             "http://www.legislature.mi.gov/(S(51fchyizumt3j1zpocuttlkt))/mileg.aspx?page=ChapterIndex",
             "http://www.legislature.mi.gov/(S(5jwm0hrcibdqcxn2prf5wfgq))/mileg.aspx?page=GetObject&objectname=mcl-chap%index%",
@@ -68,8 +68,8 @@ public enum Michigan implements State {
     }
 
     @Override
-    public List<StateIndex> getIndexes() {
-        final List<StateIndex> chapters = new ArrayList<>();
+    public List<SubdivisionStatuteIndex> getIndexes() {
+        final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         if(doc != null) {
             final Elements table = doc.select("div form div article table tbody tr");
@@ -162,7 +162,7 @@ public enum Michigan implements State {
                     description.append(isFirst ? "" : "\n").append(element.text());
                     isFirst = false;
                 }
-                final StateStatute statute = new StateStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
+                final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
                 final String string = statute.toString();
                 statutes.put(path, string);
                 return string;

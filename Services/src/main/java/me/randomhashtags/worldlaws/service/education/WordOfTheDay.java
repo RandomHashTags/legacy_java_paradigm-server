@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.service.education;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.location.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 

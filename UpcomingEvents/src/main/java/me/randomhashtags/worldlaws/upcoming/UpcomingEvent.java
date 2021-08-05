@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.LocalServer;
 import org.json.JSONArray;
+import org.json.JSONObject;
 
 public interface UpcomingEvent extends Jsoupable {
     String getTitle();

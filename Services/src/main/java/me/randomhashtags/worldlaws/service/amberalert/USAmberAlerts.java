@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.service.amberalert;
 
-import me.randomhashtags.worldlaws.location.WLCountry;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import org.jsoup.nodes.Document;
 
 // https://amberalert.ojp.gov/news/active-AMBER-alerts
