@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.observances;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
+import org.apache.commons.text.StringEscapeUtils;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -13,6 +14,7 @@ public class HolidayObj implements Holiday {
     protected String imageURL;
     private final String englishName, description, learnMoreURL;
     private final EventSources otherSources;
+    private String celebrators, emoji;
 
     public HolidayObj(String englishName, String imageURL, String[] aliases, String description, String learnMoreURL, EventSources otherSources) {
         this.englishName = LocalServer.fixEscapeValues(englishName);
@@ -22,9 +24,16 @@ public class HolidayObj implements Holiday {
         this.learnMoreURL = learnMoreURL;
         this.otherSources = otherSources;
     }
+    public HolidayObj(String celebrators, String emoji, String englishName, String imageURL, String[] aliases, String learnMoreURL) {
+        this(englishName, imageURL, aliases, null, learnMoreURL, null);
+        this.celebrators = celebrators;
+        this.emoji = StringEscapeUtils.escapeJava(emoji);
+    }
     public HolidayObj(String englishName, JSONObject json) {
         this.englishName = englishName;
-        this.imageURL = json.has("imageURL") ? json.getString("imageURL") : null;
+        celebrators = json.has("celebrators") ? json.getString("celebrators") : null;
+        emoji = json.has("emoji") ? StringEscapeUtils.escapeJava(json.getString("emoji")) : null;
+        imageURL = json.has("imageURL") ? json.getString("imageURL") : null;
         if(json.has("aliases")) {
             final JSONArray array = json.getJSONArray("aliases");
             final HashSet<String> targetAliases = new HashSet<>();
@@ -104,6 +113,8 @@ public class HolidayObj implements Holiday {
         final String learnMoreURL = getLearnMoreURL();
         return "\"" + getEnglishName() + "\":{" +
                 (countries != null ? "\"countries\":" + getCountriesArray(countries) + "," : "") +
+                (celebrators != null ? "\"celebrators\":\"" + celebrators + "\"," : "") +
+                (emoji != null ? "\"emoji\":\"" + emoji + "\"," : "") +
                 (aliases != null ? "\"aliases\":" + getAliasesArray() + "," : "") +
                 (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"," : "") +
                 (otherSources != null ? "\"otherSources\":" + otherSources.toString() : "") +

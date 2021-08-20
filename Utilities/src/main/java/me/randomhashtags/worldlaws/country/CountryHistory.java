@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.country.history.UnitedStatesHistory;
 import org.json.JSONObject;
 
+import java.util.Arrays;
 import java.util.List;
 
 public enum CountryHistory implements SovereignStateHistory {
@@ -36,14 +37,18 @@ public enum CountryHistory implements SovereignStateHistory {
 
             @Override
             public void handleJSONObject(JSONObject json) {
-                handler.handleString(json != null ? json.toString() : null);
+                handler.handleServiceResponse(getInformationType(), json != null ? json.toString() : null);
             }
         });
     }
 
     private List<CountryHistorySection> loadHistory(WLCountry country) {
         final ICountryHistory history = getCountryHistory(country);
-        return history != null ? history.get() : null;
+        if(history != null) {
+            final CountryHistorySection eras = history.getEras();
+            return Arrays.asList(eras);
+        }
+        return null;
     }
     private ICountryHistory getCountryHistory(WLCountry country) {
         switch (country) {

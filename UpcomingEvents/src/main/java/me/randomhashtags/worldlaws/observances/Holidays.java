@@ -7,6 +7,7 @@ import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 public enum Holidays implements Jsoupable, Jsonable {
     INSTANCE;
@@ -90,8 +91,8 @@ public enum Holidays implements Jsoupable, Jsonable {
             final String dateString = new EventDate(date).getDateString();
             nearbyHolidayDays.add(dateString);
         }
-        final HashMap<String, String> descriptions = new HashMap<>();
-        final HashMap<String, HashMap<String, HolidayObj>> nearbyHolidays = new HashMap<>();
+        final ConcurrentHashMap<String, String> descriptions = new ConcurrentHashMap<>();
+        final ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> nearbyHolidays = new ConcurrentHashMap<>();
         HolidayType.insertNearbyHolidays(year, nearbyHolidayDays, descriptions, nearbyHolidays, new CompletionHandler() {
             @Override
             public void handleObject(Object object) {
@@ -103,12 +104,12 @@ public enum Holidays implements Jsoupable, Jsonable {
                     isFirst = false;
                 }
                 builder.append("}");
-                for(Map.Entry<String, HashMap<String, HolidayObj>> map : nearbyHolidays.entrySet()) {
+                for(Map.Entry<String, ConcurrentHashMap<String, HolidayObj>> map : nearbyHolidays.entrySet()) {
                     final String holidayDay = map.getKey();
                     final StringBuilder nearHolidayBuilder = new StringBuilder("\"").append(holidayDay).append("\":{");
                     isFirst = true;
 
-                    final HashMap<String, HolidayObj> holidays = map.getValue();
+                    final ConcurrentHashMap<String, HolidayObj> holidays = map.getValue();
                     for(HolidayObj holiday : holidays.values()) {
                         nearHolidayBuilder.append(isFirst ? "" : ",").append(holiday.toString());
                         isFirst = false;

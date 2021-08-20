@@ -56,7 +56,7 @@ public final class LocalServer implements UserServer, DataValues {
             server.close();
             WLLogger.log(Level.INFO, serverName + " - server has shut down (took " + (System.currentTimeMillis()-started) + "ms)");
         } catch (Exception e) {
-            e.printStackTrace();
+            WLUtilities.saveException(e);
         }
     }
     public void registerFixedTimer(long interval, CompletionHandler handler) {
@@ -64,7 +64,9 @@ public final class LocalServer implements UserServer, DataValues {
         timer.scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
-                handler.handleObject(null);
+                if(handler != null) {
+                    handler.handleObject(null);
+                }
             }
         }, interval, interval);
         if(timers == null) {
@@ -92,7 +94,7 @@ public final class LocalServer implements UserServer, DataValues {
             server = new ServerSocket(port);
             connectClients();
         } catch (Exception e) {
-            e.printStackTrace();
+            WLUtilities.saveException(e);
         }
     }
     private void connectClients() {
@@ -107,7 +109,7 @@ public final class LocalServer implements UserServer, DataValues {
                 new WLClient(socket, handler).start();
             } catch (SocketException ignored) {
             } catch (Exception e) {
-                e.printStackTrace();
+                WLUtilities.saveException(e);
             }
         }
     }

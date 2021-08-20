@@ -1,8 +1,9 @@
 package me.randomhashtags.worldlaws.observances;
 
 public enum HolidaySource {
-    WIKIPEDIA,
+    OTHER,
     TIME_AND_DATE_FUN,
+    WIKIPEDIA,
     ;
 
     public String getURL(String holiday) {

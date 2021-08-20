@@ -57,7 +57,7 @@ public enum MexicoSubdivisions implements SovereignStateSubdivision {
     }
 
     @Override
-    public String getGovernmentURL() {
+    public String getGovernmentWebsite() {
         return null;
     }
 

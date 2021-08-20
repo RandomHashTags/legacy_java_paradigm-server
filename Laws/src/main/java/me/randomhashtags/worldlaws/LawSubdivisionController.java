@@ -1,16 +1,21 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.country.SkipInterval;
+import me.randomhashtags.worldlaws.country.SubdivisionLegal;
+import me.randomhashtags.worldlaws.country.SubdivisionLegislationType;
 import me.randomhashtags.worldlaws.country.SubdivisionStatuteChapter;
 import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
-import me.randomhashtags.worldlaws.country.SubdivisionLegal;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 public interface LawSubdivisionController extends Jsoupable {
+    HashMap<LawSubdivisionController, StringBuilder> INDEX_BUILDERS = new HashMap<>();
+    HashMap<LawSubdivisionController, HashMap<String, String>> TABLE_OF_CHAPTERS_JSON = new HashMap<>();
+    HashMap<LawSubdivisionController, HashMap<String, String>> STATUTES_JSON = new HashMap<>();
+
     default String prefixZeros(String input, int amount) {
         final StringBuilder builder = new StringBuilder(input);
         for(int i = input.length(); i < amount; i++) {
@@ -19,23 +24,20 @@ public interface LawSubdivisionController extends Jsoupable {
         return builder.toString();
     }
 
-    default void iterateThroughChapterTable(Elements table, StringBuilder builder, boolean isIndex) {
-        iterateThroughChapterTable(table, builder, isIndex, SkipInterval.NONE);
+    default void iterateThroughIndexTable(Elements table) {
+        iterateThroughTable(null, table, SubdivisionLegislationType.INDEX, 0, null);
     }
-    default void iterateThroughChapterTable(Elements table, StringBuilder builder, boolean isIndex, int skipInterval) {
-        iterateThroughChapterTable(table, builder, isIndex, skipInterval, null);
+    default void iterateThroughIndexTable(Elements table, int skipInterval) {
+        iterateThroughTable(null, table, SubdivisionLegislationType.INDEX, skipInterval, null);
     }
-    default void iterateThroughChapterTable(Elements table, StringBuilder builder, boolean isIndex, SkipInterval skipInterval) {
-        switch (skipInterval) {
-            case ONLY_FIRST:
-                table.remove(0);
-                break;
-            default:
-                break;
-        }
-        iterateThroughChapterTable(table, builder, isIndex, skipInterval.getValue(), null);
+    default void iterateThroughChapterTable(String title, Elements table) {
+        iterateThroughTable(title, table, SubdivisionLegislationType.CHAPTER, 0, null);
     }
-    default void iterateThroughChapterTable(Elements table, StringBuilder builder, boolean isIndex, int skipInterval, List<String> values) {
+    default void iterateThroughStatuteTable(String path, Elements table) {
+        iterateThroughTable(path, table, SubdivisionLegislationType.STATUTE, 0, null);
+    }
+    private void iterateThroughTable(String targetTitle, Elements table, SubdivisionLegislationType type, int skipInterval, List<String> values) {
+        final StringBuilder builder = new StringBuilder("{");
         SubdivisionLegal previousChapter = null;
         int index = 1;
         boolean isFirst = true;
@@ -53,6 +55,7 @@ public interface LawSubdivisionController extends Jsoupable {
         }
         index = 0;
 
+        final boolean isIndex = type == SubdivisionLegislationType.INDEX;
         for(Element chapter : table) {
             String text = LocalServer.fixEscapeValues(chapter.text());
             if(index % 2 == 0) {
@@ -69,14 +72,40 @@ public interface LawSubdivisionController extends Jsoupable {
             }
             index++;
         }
+        builder.append("}");
+        switch (type) {
+            case INDEX:
+                INDEX_BUILDERS.put(this, builder);
+                break;
+            case CHAPTER:
+                TABLE_OF_CHAPTERS_JSON.putIfAbsent(this, new HashMap<>());
+                TABLE_OF_CHAPTERS_JSON.get(this).put(targetTitle, builder.toString());
+                break;
+            case STATUTE:
+                STATUTES_JSON.putIfAbsent(this, new HashMap<>());
+                STATUTES_JSON.get(this).put(targetTitle, builder.toString());
+                break;
+            default:
+                break;
+        }
     }
-    default void iterateIndexTable(Elements table, StringBuilder builder, boolean isIndex) {
-        iterateIndexTable(table, builder, isIndex, false);
+    default void iterateIndexTable(Elements table, boolean isIndex) {
+        iterateIndexTable(table, isIndex, false);
     }
-    default void iterateIndexTable(Elements table, StringBuilder builder, boolean isIndex, boolean skipFirst) {
-        iterateIndexTable(table, builder, isIndex, skipFirst, null);
+    default void iterateIndexTable(Elements table, boolean isIndex, boolean skipFirst) {
+        iterateIndexTable(table, isIndex, skipFirst, null);
     }
-    default void iterateIndexTable(Elements table, StringBuilder builder, boolean isIndex, boolean skipFirst, Elements titles) {
+    default void iterateIndexTable(Elements table, boolean isIndex, boolean skipFirst, Elements titles) {
+        final StringBuilder builder = getStringBuilder(table, isIndex, skipFirst, titles);
+        INDEX_BUILDERS.put(this, builder);
+    }
+    default void iterateChapterTable(String chapterTitle, Elements table, boolean skipFirst, Elements titles) {
+        final StringBuilder builder = getStringBuilder(table, false, skipFirst, titles);
+        TABLE_OF_CHAPTERS_JSON.putIfAbsent(this, new HashMap<>());
+        TABLE_OF_CHAPTERS_JSON.get(this).put(chapterTitle, builder.toString());
+    }
+    private StringBuilder getStringBuilder(Elements table, boolean isIndex, boolean skipFirst, Elements titles) {
+        final StringBuilder builder = new StringBuilder("{");
         final boolean isCustomTitle = titles != null;
         boolean isFirst = true, isFirstElement = true;
         int index = 0, maxRows = 0;
@@ -127,16 +156,36 @@ public interface LawSubdivisionController extends Jsoupable {
                 isFirstElement = false;
             }
         }
+        builder.append("}");
+        return builder;
     }
 
     String getIndexesURL();
     String getTableOfChaptersURL();
     String getStatutesListURL();
     String getStatuteURL();
-    String getIndexesJSON();
-    String getTableOfChaptersJSON();
+    default String getIndexesJSON() {
+        if(!INDEX_BUILDERS.containsKey(this)) {
+            getIndexes();
+        }
+        return INDEX_BUILDERS.get(this).toString();
+    }
     List<SubdivisionStatuteIndex> getIndexes();
-    String getTableOfChapters(String title);
-    String getStatuteList(String title, String chapter);
+    default String getTableOfChapters(String title) {
+        if(!TABLE_OF_CHAPTERS_JSON.containsKey(this) || !TABLE_OF_CHAPTERS_JSON.get(this).containsKey(title)) {
+            loadTableOfChapters(title);
+        }
+        return TABLE_OF_CHAPTERS_JSON.get(this).get(title);
+    }
+    void loadTableOfChapters(String title);
+    default String getStatuteList(String title, String chapter) {
+        final String path = title + "." + chapter;
+        if(!STATUTES_JSON.containsKey(this) || !STATUTES_JSON.get(this).containsKey(path)) {
+            loadStatuteList(title, chapter);
+        }
+        final HashMap<String, String> map = STATUTES_JSON.get(this);
+        return map.getOrDefault(path, map.getOrDefault(chapter, map.getOrDefault(title, null)));
+    }
+    void loadStatuteList(String title, String chapter);
     String getStatute(String title, String chapter, String section);
 }

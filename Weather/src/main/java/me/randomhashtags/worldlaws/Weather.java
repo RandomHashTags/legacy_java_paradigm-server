@@ -13,8 +13,8 @@ public final class Weather implements WLServer {
     }
 
     private void tryLoading() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -23,7 +23,7 @@ public final class Weather implements WLServer {
     }
 
     private void test() {
-        getHomeResponse(APIVersion.getCurrent(), new CompletionHandler() {
+        getHomeResponse(new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 WLLogger.log(Level.INFO, "Weather;test;string=" + string);

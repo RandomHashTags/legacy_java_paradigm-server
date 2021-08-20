@@ -100,9 +100,15 @@ public interface IHoliday extends Jsoupable, Jsonable {
         return getSource().getURL(getName());
     }
     String[] getAliases();
+    default String[] collectAliases(String...aliases) {
+        return aliases;
+    }
     EventDate getDate(WLCountry country, int year);
     default EventSources getOtherSources() {
         return null;
+    }
+    default EventSources collectSources(EventSource...sources) {
+        return new EventSources(sources);
     }
 
     default EventDate getFirst(DayOfWeek dayOfWeek, Month month, int year) {

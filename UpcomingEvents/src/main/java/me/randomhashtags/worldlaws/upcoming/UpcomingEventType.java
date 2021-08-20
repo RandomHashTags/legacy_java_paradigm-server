@@ -12,5 +12,6 @@ public enum UpcomingEventType {
 
     VIDEO_GAME,
     MUSIC_ALBUM,
+    TV_SHOW,
     ;
 }

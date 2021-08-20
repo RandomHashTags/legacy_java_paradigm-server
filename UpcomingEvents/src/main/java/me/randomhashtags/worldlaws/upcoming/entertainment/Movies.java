@@ -213,7 +213,7 @@ public enum Movies implements UpcomingEventController, IMDbService {
             final String imageURL = imageSourceURL != null ? "https:" + imageSourceURL : null;
 
             final String premiseFinal = premise, releaseInfoFinal = releaseInfo, urlLowercased = url.toLowerCase();
-            int year = url.contains("_(") && urlLowercased.endsWith("_film)") ? Integer.parseInt(urlLowercased.split("_film\\)")[0].split("_\\(")[1]) : -1;
+            int year = urlLowercased.contains("(upcoming_film)") ? -1 : url.contains("_(") && urlLowercased.endsWith("_film)") ? Integer.parseInt(urlLowercased.split("_film\\)")[0].split("_\\(")[1].split("_")[0]) : -1;
             if(year == -1) {
                 final Elements infoboxElements = wikidoc.select("table.infobox tbody tr");
                 infoboxElements.removeIf(element -> element.select("th.infobox-label").isEmpty());

@@ -1,7 +1,10 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
 import me.randomhashtags.worldlaws.LawSubdivisionController;
-import me.randomhashtags.worldlaws.country.*;
+import me.randomhashtags.worldlaws.country.StateReference;
+import me.randomhashtags.worldlaws.country.SubdivisionStatute;
+import me.randomhashtags.worldlaws.country.SubdivisionStatuteChapter;
+import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
@@ -20,8 +23,7 @@ public enum Missouri implements LawSubdivisionController {
     );
 
     private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private StringBuilder indexesJSON;
-    private HashMap<String, String> tableOfChaptersJSON, statutesJSON, statutes;
+    private HashMap<String, String> statutes;
 
     Missouri(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
         this.indexesURL = indexesURL;
@@ -29,8 +31,6 @@ public enum Missouri implements LawSubdivisionController {
         this.statutesListURL = statutesListURL;
         this.statuteURL = statuteURL;
 
-        tableOfChaptersJSON = new HashMap<>();
-        statutesJSON = new HashMap<>();
         statutes = new HashMap<>();
     }
 
@@ -52,20 +52,6 @@ public enum Missouri implements LawSubdivisionController {
     }
 
     @Override
-    public String getIndexesJSON() {
-        if(indexesJSON == null) {
-            indexesJSON = new StringBuilder("[");
-            getIndexes();
-            indexesJSON.append("]");
-        }
-        return indexesJSON.toString();
-    }
-    @Override
-    public String getTableOfChaptersJSON() {
-        return tableOfChaptersJSON.toString();
-    }
-
-    @Override
     public List<SubdivisionStatuteIndex> getIndexes() {
         final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
@@ -80,13 +66,14 @@ public enum Missouri implements LawSubdivisionController {
                 list.add(new Element(title).appendChild(new TextNode(title)));
                 list.add(new Element(value).appendChild(new TextNode(value)));
             }
-            iterateThroughChapterTable(new Elements(list), indexesJSON, true);
+            iterateThroughIndexTable(new Elements(list));
         }
         return chapters;
     }
     private void setupTableOfChapters(Document doc) {
         final Elements div = doc.select("div.lr-fl-s-all"), chapterList = div.select("summary span"), chapterTitles = div.select("details div a[href]");
         int index = 0, chapterIndex = 0;
+        TABLE_OF_CHAPTERS_JSON.putIfAbsent(this, new HashMap<>());
         for(Element element : chapterList) {
             if(index % 2 == 0) {
                 final String text = element.text();
@@ -109,43 +96,34 @@ public enum Missouri implements LawSubdivisionController {
                 }
                 builder.append("]");
                 final String string = builder.toString();
-                tableOfChaptersJSON.put(Integer.toString(index+1), string);
+                TABLE_OF_CHAPTERS_JSON.get(this).put(Integer.toString(index+1), string);
             }
             index++;
         }
     }
     @Override
-    public String getTableOfChapters(String title) {
-        return tableOfChaptersJSON.get(title);
+    public void loadTableOfChapters(String title) {
     }
     @Override
-    public String getStatuteList(String title, String chapter) {
-        if(statutesJSON.containsKey(chapter)) {
-            return statutesJSON.get(chapter);
-        } else {
-            final StringBuilder builder = new StringBuilder("[");
-            final Document doc = getDocument(statutesListURL.replace("%chapter%", chapter));
-            if(doc != null) {
-                final int substring = 1+chapter.length();
-                final Elements elements = doc.select("div.lr-fl-s-all table tbody tr");
-                final List<Element> list = new ArrayList<>();
-                for(Element element : elements) {
-                    final String text = element.text();
-                    if(text.startsWith(chapter + ".")) {
-                        final String separator = "   ";
-                        final String[] values = text.split(separator);
-                        final String statute = values[0], value = text.split(statute + separator)[1], statuteValue = statute.substring(substring);
-                        final String correctedStatute = statuteValue.substring(statuteValue.startsWith("00") ? 2 : statuteValue.startsWith("0") ? 1 : 0);
-                        list.add(new Element(correctedStatute).appendChild(new TextNode(correctedStatute)));
-                        list.add(new Element(value).appendChild(new TextNode(value)));
-                    }
+    public void loadStatuteList(String title, String chapter) {
+        final String path = title + "." + chapter;
+        final Document doc = getDocument(statutesListURL.replace("%chapter%", chapter));
+        if(doc != null) {
+            final int substring = 1+chapter.length();
+            final Elements elements = doc.select("div.lr-fl-s-all table tbody tr");
+            final List<Element> list = new ArrayList<>();
+            for(Element element : elements) {
+                final String text = element.text();
+                if(text.startsWith(chapter + ".")) {
+                    final String separator = "   ";
+                    final String[] values = text.split(separator);
+                    final String statute = values[0], value = text.split(statute + separator)[1], statuteValue = statute.substring(substring);
+                    final String correctedStatute = statuteValue.substring(statuteValue.startsWith("00") ? 2 : statuteValue.startsWith("0") ? 1 : 0);
+                    list.add(new Element(correctedStatute).appendChild(new TextNode(correctedStatute)));
+                    list.add(new Element(value).appendChild(new TextNode(value)));
                 }
-                iterateThroughChapterTable(new Elements(list), builder, false);
             }
-            builder.append("]");
-            final String string = builder.toString();
-            statutesJSON.put(chapter, string);
-            return string;
+            iterateThroughStatuteTable(path, new Elements(list));
         }
     }
     @Override

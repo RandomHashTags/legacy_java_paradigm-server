@@ -102,7 +102,7 @@ public enum Statistics implements Jsonable, QuotaHandler {
                 final List<TrendingRequest> trendingRequests = new ArrayList<>();
                 if(json.has("unique")) {
                     final JSONObject uniqueJSON = json.getJSONObject("unique");
-                    final String versionString = APIVersion.getCurrent().getName();
+                    final String versionString = APIVersion.v1.name();
                     if(uniqueJSON.has(versionString)) {
                         final List<TrendingRequest> trendingRequestsList = new ArrayList<>();
                         final JSONObject requestsJSON = uniqueJSON.getJSONObject(versionString);

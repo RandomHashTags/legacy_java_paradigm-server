@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.observances.type.*;
 import org.json.JSONObject;
 
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public enum HolidayType implements Jsonable {
@@ -31,8 +32,8 @@ public enum HolidayType implements Jsonable {
     ),
 
     FUN(
-            "Anyone",
-            ""
+            "Anyone who recognizes the importance of this holiday",
+            "\uD83E\uDD2A"
     ),
 
     GREGORIAN(
@@ -63,7 +64,7 @@ public enum HolidayType implements Jsonable {
         this.emoji = emoji;
     }
 
-    public static void insertNearbyHolidays(int year, Collection<String> nearbyHolidayDays, HashMap<String, String> descriptions, HashMap<String, HashMap<String, HolidayObj>> nearbyHolidays, CompletionHandler handler) {
+    public static void insertNearbyHolidays(int year, Collection<String> nearbyHolidayDays, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> nearbyHolidays, CompletionHandler handler) {
         final AtomicInteger completed = new AtomicInteger(0);
         final HolidayType[] types = HolidayType.values();
         final int max = types.length;
@@ -81,7 +82,8 @@ public enum HolidayType implements Jsonable {
                                 insertNearbyHolidays(descriptionsJSON, country, holidayDay, countryJSON, descriptions, nearbyHolidays);
                             }
                         } else {
-                            insertNearbyHolidays(descriptionsJSON, null, holidayDay, json, descriptions, nearbyHolidays);
+                            final String celebratingCountry = type.getCelebratingCountryBackendID();
+                            insertNearbyHolidays(descriptionsJSON, celebratingCountry, holidayDay, json, descriptions, nearbyHolidays);
                         }
                     }
                     if(completed.addAndGet(1) == max) {
@@ -91,20 +93,20 @@ public enum HolidayType implements Jsonable {
             });
         });
     }
-    private static void insertNearbyHolidays(JSONObject descriptionsJSON, String country, String holidayDay, JSONObject json, HashMap<String, String> descriptions, HashMap<String, HashMap<String, HolidayObj>> nearbyHolidays) {
+    private static void insertNearbyHolidays(JSONObject descriptionsJSON, String country, String holidayDay, JSONObject json, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> nearbyHolidays) {
         if(json.has(holidayDay)) {
             final JSONObject array = json.getJSONObject(holidayDay);
             final boolean isCountries = country != null;
             for(String key : array.keySet()) {
                 final JSONObject holidayJSON = array.getJSONObject(key);
-                final HolidayObj holiday = isCountries ? new HolidayObj(key, holidayJSON) : new CustomHoliday(key, holidayJSON);
+                final HolidayObj holiday = isCountries ? new HolidayObj(key, holidayJSON) : new HolidayObj(key, holidayJSON);
                 if(isCountries) {
                     holiday.addCountry(country);
                 }
                 final String holidayEnglishName = holiday.getEnglishName(), description = descriptionsJSON.getString(holidayEnglishName);
                 descriptions.put(holidayEnglishName, description);
-                nearbyHolidays.putIfAbsent(holidayDay, new HashMap<>());
-                final HashMap<String, HolidayObj> map = nearbyHolidays.get(holidayDay);
+                nearbyHolidays.putIfAbsent(holidayDay, new ConcurrentHashMap<>());
+                final ConcurrentHashMap<String, HolidayObj> map = nearbyHolidays.get(holidayDay);
                 if(isCountries && map.containsKey(holidayEnglishName)) {
                     map.get(holidayEnglishName).addCountry(country);
                 } else {
@@ -140,6 +142,10 @@ public enum HolidayType implements Jsonable {
             default: return null;
         }
     }
+    public String getCelebratingCountryBackendID() {
+        final WLCountry country = getCelebratingCountry();
+        return country != null ? country.getBackendID() : null;
+    }
 
     public void getHolidaysJSONObject(int year, CompletionHandler handler) {
         if(cache != null) {
@@ -148,20 +154,20 @@ public enum HolidayType implements Jsonable {
             final String fileName = year + "_" + name();
             final HolidayType holidayType = this;
             final Folder folder = Folder.UPCOMING_EVENTS_HOLIDAYS;
-            folder.setCustomFolderName(folder.getFolderName(false).replace("%year%", Integer.toString(year)));
+            folder.setCustomFolderName(fileName, folder.getFolderName().replace("%year%", Integer.toString(year)));
             getJSONObject(folder, fileName, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     final boolean isCountries = holidayType == COUNTRIES;
                     final IHoliday[] holidays = getHolidays();
-                    final HashMap<String, String> descriptions = new HashMap<>();
+                    final ConcurrentHashMap<String, String> descriptions = new ConcurrentHashMap<>();
                     if(isCountries) {
                         loadCountryHolidays(year, holidays, descriptions, handler);
                     } else if(holidays != null) {
                         final boolean isChristian = holidayType == CHRISTIAN_EAST || holidayType == CHRISTIAN_WEST, isWestChristian = isChristian && holidayType == CHRISTIAN_WEST;
                         final int max = holidays.length;
                         final AtomicInteger completed = new AtomicInteger(0);
-                        final HashMap<String, StringBuilder> values = new HashMap<>();
+                        final ConcurrentHashMap<String, StringBuilder> values = new ConcurrentHashMap<>();
                         Arrays.stream(holidays).parallel().forEach(holiday -> {
                             final EventDate date = isChristian ? ((ChristianHoliday) holiday).getDate(isWestChristian, null, year) : holiday.getDate(null, year);
                             if(date != null) {
@@ -183,24 +189,13 @@ public enum HolidayType implements Jsonable {
                                                 final String holidayString = customHoliday.toString();
                                                 values.get(dateString).append(isFirstDate ? "" : ",").append(holidayString);
 
-                                                if(completed.addAndGet(1) == max) {
-                                                    final JSONObject json = new JSONObject();
-                                                    final JSONObject descriptionsJSON = new JSONObject();
-                                                    for(Map.Entry<String, String> map : descriptions.entrySet()) {
-                                                        descriptionsJSON.put(map.getKey(), map.getValue());
-                                                    }
-                                                    json.put("descriptions", descriptionsJSON);
-                                                    for(Map.Entry<String, StringBuilder> map : values.entrySet()) {
-                                                        json.put(map.getKey(), "{" + map.getValue() + "}");
-                                                    }
-                                                    handler.handleJSONObject(json);
-                                                }
+                                                tryCompleting(completed, max, descriptions, values, handler);
                                             }
                                         });
                                     }
                                 });
                             } else {
-                                completed.addAndGet(1);
+                                tryCompleting(completed, max, descriptions, values, handler);
                             }
                         });
                     } else {
@@ -216,11 +211,25 @@ public enum HolidayType implements Jsonable {
             });
         }
     }
+    private void tryCompleting(AtomicInteger completed, int max, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, StringBuilder> values, CompletionHandler handler) {
+        if(completed.addAndGet(1) == max) {
+            final JSONObject json = new JSONObject();
+            final JSONObject descriptionsJSON = new JSONObject();
+            for(Map.Entry<String, String> map : descriptions.entrySet()) {
+                descriptionsJSON.put(map.getKey(), map.getValue());
+            }
+            json.put("descriptions", descriptionsJSON);
+            for(Map.Entry<String, StringBuilder> map : values.entrySet()) {
+                json.put(map.getKey(), "{" + map.getValue() + "}");
+            }
+            handler.handleJSONObject(json);
+        }
+    }
 
-    private CustomHoliday getCustomHoliday(IHoliday holiday, String imageURL) {
+    private HolidayObj getCustomHoliday(IHoliday holiday, String imageURL) {
         final String englishName = holiday.getName(), url = holiday.getURL();
         final String[] aliases = holiday.getAliases();
-        return new CustomHoliday(celebrators, emoji, englishName, imageURL, aliases, url);
+        return new HolidayObj(celebrators, emoji, englishName, imageURL, aliases, url);
     }
     private HolidayObj getHolidayObj(IHoliday holiday, String imageURL, String description) {
         final String englishName = holiday.getName(), url = holiday.getURL();
@@ -229,7 +238,7 @@ public enum HolidayType implements Jsonable {
         return new HolidayObj(englishName, imageURL, aliases, description, url, otherSources);
     }
 
-    private void loadCountryHolidays(int year, IHoliday[] holidays, HashMap<String, String> descriptions, CompletionHandler handler) {
+    private void loadCountryHolidays(int year, IHoliday[] holidays, ConcurrentHashMap<String, String> descriptions, CompletionHandler handler) {
         final WLCountry[] countries = WLCountry.values();
         final int max = countries.length;
         final HashSet<String> countryHolidays = new HashSet<>();
@@ -261,9 +270,9 @@ public enum HolidayType implements Jsonable {
             });
         });
     }
-    private void loadCountryHolidays(HashMap<String, String> descriptions, IHoliday[] socialHolidays, WLCountry country, int year, CompletionHandler handler) {
+    private void loadCountryHolidays(ConcurrentHashMap<String, String> descriptions, IHoliday[] socialHolidays, WLCountry country, int year, CompletionHandler handler) {
         final HolidayType holidayType = this;
-        final HashMap<String, HashSet<String>> holidays = new HashMap<>();
+        final ConcurrentHashMap<String, HashSet<String>> holidays = new ConcurrentHashMap<>();
         final int max = socialHolidays.length;
         final AtomicInteger completed = new AtomicInteger(0);
         Arrays.stream(socialHolidays).parallel().forEach(socialHoliday -> {
@@ -291,7 +300,7 @@ public enum HolidayType implements Jsonable {
             }
         });
     }
-    private void tryCompletingCountryHolidays(AtomicInteger completed, int max, HashMap<String, HashSet<String>> holidays, CompletionHandler handler) {
+    private void tryCompletingCountryHolidays(AtomicInteger completed, int max, ConcurrentHashMap<String, HashSet<String>> holidays, CompletionHandler handler) {
         if(completed.addAndGet(1) == max) {
             String string = null;
             if(!holidays.isEmpty()) {

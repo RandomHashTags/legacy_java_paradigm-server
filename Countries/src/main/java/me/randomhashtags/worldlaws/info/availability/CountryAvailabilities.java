@@ -1,12 +1,14 @@
 package me.randomhashtags.worldlaws.info.availability;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleAvailabilityObj;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureType;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
+import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -92,44 +94,55 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
     }
 
     public void getCountryAvailabilities(String countryBackendID, CompletionHandler handler) {
-        final ConcurrentHashMap<Boolean, ConcurrentHashMap<String, HashSet<String>>> values = new ConcurrentHashMap<>();
-        final int max = SERVICES.size();
-        final AtomicInteger completed = new AtomicInteger(0);
+        getJSONObject(Folder.COUNTRIES_AVAILABILITIES, countryBackendID, new CompletionHandler() {
 
-        SERVICES.parallelStream().forEach(service -> service.getCountryValue(countryBackendID, new CompletionHandler() {
             @Override
-            public void handleObject(Object object) {
-                final CountryAvailability availability = (CountryAvailability) object;
-                final String primaryCategory = availability.getPrimaryCategory().name();
-                final boolean availabilityIsAvailable = availability.isAvailable();
-                values.putIfAbsent(availabilityIsAvailable, new ConcurrentHashMap<>());
-                values.get(availabilityIsAvailable).putIfAbsent(primaryCategory, new HashSet<>());
-                values.get(availabilityIsAvailable).get(primaryCategory).add(availability.toString());
+            public void load(CompletionHandler handler) {
+                final ConcurrentHashMap<Boolean, ConcurrentHashMap<String, HashSet<String>>> values = new ConcurrentHashMap<>();
+                final int max = SERVICES.size();
+                final AtomicInteger completed = new AtomicInteger(0);
 
-                if(completed.addAndGet(1) == max) {
-                    final StringBuilder builder = new StringBuilder();
-                    boolean isFirstBoolean = true;
-                    for(Map.Entry<Boolean, ConcurrentHashMap<String, HashSet<String>>> map : values.entrySet()) {
-                        final boolean isAvailable = map.getKey();
-                        builder.append(isFirstBoolean ? "" : ",").append("\"").append(isAvailable).append("\":{");
-                        boolean isFirstCategory = true;
-                        for(Map.Entry<String, HashSet<String>> category : map.getValue().entrySet()) {
-                            builder.append(isFirstCategory ? "" : ",").append("\"").append(category.getKey()).append("\":{");
-                            boolean isFirst = true;
-                            for(String value : category.getValue()) {
-                                builder.append(isFirst ? "" : ",").append(value);
-                                isFirst = false;
+                SERVICES.parallelStream().forEach(service -> service.getCountryValue(countryBackendID, new CompletionHandler() {
+                    @Override
+                    public void handleObject(Object object) {
+                        final CountryAvailability availability = (CountryAvailability) object;
+                        final String primaryCategory = availability.getPrimaryCategory().name();
+                        final boolean availabilityIsAvailable = availability.isAvailable();
+                        values.putIfAbsent(availabilityIsAvailable, new ConcurrentHashMap<>());
+                        values.get(availabilityIsAvailable).putIfAbsent(primaryCategory, new HashSet<>());
+                        values.get(availabilityIsAvailable).get(primaryCategory).add(availability.toString());
+
+                        if(completed.addAndGet(1) == max) {
+                            final StringBuilder builder = new StringBuilder();
+                            boolean isFirstBoolean = true;
+                            for(Map.Entry<Boolean, ConcurrentHashMap<String, HashSet<String>>> map : values.entrySet()) {
+                                final boolean isAvailable = map.getKey();
+                                builder.append(isFirstBoolean ? "" : ",").append("\"").append(isAvailable).append("\":{");
+                                boolean isFirstCategory = true;
+                                for(Map.Entry<String, HashSet<String>> category : map.getValue().entrySet()) {
+                                    builder.append(isFirstCategory ? "" : ",").append("\"").append(category.getKey()).append("\":{");
+                                    boolean isFirst = true;
+                                    for(String value : category.getValue()) {
+                                        builder.append(isFirst ? "" : ",").append(value);
+                                        isFirst = false;
+                                    }
+                                    builder.append("}");
+                                    isFirstCategory = false;
+                                }
+                                builder.append("}");
+                                isFirstBoolean = false;
                             }
-                            builder.append("}");
-                            isFirstCategory = false;
+                            handler.handleString(builder.toString());
                         }
-                        builder.append("}");
-                        isFirstBoolean = false;
                     }
-                    handler.handleString(builder.toString());
-                }
+                }));
             }
-        }));
+
+            @Override
+            public void handleJSONObject(JSONObject json) {
+                handler.handleServiceResponse(getInformationType(), json.toString());
+            }
+        });
     }
 
     @Override

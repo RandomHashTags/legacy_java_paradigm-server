@@ -2,12 +2,10 @@ package me.randomhashtags.worldlaws.recent.software;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Jsoupable;
-import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
-import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -69,7 +67,6 @@ public enum AppleSoftwareUpdates implements RecentEventController, Jsoupable {
                 }
             });
         } else {
-            WLLogger.log(Level.ERROR, "AppleSoftwareUpdates - doc == nil!");
             handler.handleHashSetString(null);
         }
     }

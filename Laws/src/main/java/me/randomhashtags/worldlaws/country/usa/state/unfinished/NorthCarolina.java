@@ -20,8 +20,7 @@ public enum NorthCarolina implements LawSubdivisionController {
     );
 
     private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private StringBuilder indexesJSON;
-    private HashMap<String, String> tableOfChaptersJSON, statutesJSON, statutes;
+    private HashMap<String, String> statutes;
 
     NorthCarolina(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
         this.indexesURL = indexesURL;
@@ -29,8 +28,6 @@ public enum NorthCarolina implements LawSubdivisionController {
         this.statutesListURL = statutesListURL;
         this.statuteURL = statuteURL;
 
-        tableOfChaptersJSON = new HashMap<>();
-        statutesJSON = new HashMap<>();
         statutes = new HashMap<>();
     }
 
@@ -54,20 +51,6 @@ public enum NorthCarolina implements LawSubdivisionController {
     }
 
     @Override
-    public String getIndexesJSON() {
-        if(indexesJSON == null) {
-            indexesJSON = new StringBuilder("[");
-            getIndexes();
-            indexesJSON.append("]");
-        }
-        return indexesJSON.toString();
-    }
-    @Override
-    public String getTableOfChaptersJSON() {
-        return tableOfChaptersJSON.toString();
-    }
-
-    @Override
     public List<SubdivisionStatuteIndex> getIndexes() {
         final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
@@ -88,31 +71,21 @@ public enum NorthCarolina implements LawSubdivisionController {
                 }
                 index++;
             }
-            iterateIndexTable(new Elements(list), indexesJSON, true);
+            iterateIndexTable(new Elements(list), true);
         }
         return chapters;
     }
 
     @Override
-    public String getTableOfChapters(String title) {
-        if(tableOfChaptersJSON.containsKey(title)) {
-            return tableOfChaptersJSON.get(title);
-        } else {
-            final StringBuilder builder = new StringBuilder("[");
-            final Document doc = getDocument(tableOfChaptersURL.replace("%index%", title));
-            if(doc != null) {
-                // pdf decoder
-            }
-            builder.append("]");
-            final String string = builder.toString();
-            tableOfChaptersJSON.put(title, string);
-            return string;
+    public void loadTableOfChapters(String title) {
+        final Document doc = getDocument(tableOfChaptersURL.replace("%index%", title));
+        if(doc != null) {
+            // pdf decoder
         }
     }
 
     @Override
-    public String getStatuteList(String title, String chapter) {
-        return null;
+    public void loadStatuteList(String title, String chapter) {
     }
 
     @Override

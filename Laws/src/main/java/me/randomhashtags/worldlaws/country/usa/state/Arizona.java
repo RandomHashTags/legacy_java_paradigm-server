@@ -1,7 +1,10 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
 import me.randomhashtags.worldlaws.LawSubdivisionController;
-import me.randomhashtags.worldlaws.country.*;
+import me.randomhashtags.worldlaws.country.StateReference;
+import me.randomhashtags.worldlaws.country.Subdivision;
+import me.randomhashtags.worldlaws.country.SubdivisionStatute;
+import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
@@ -20,8 +23,7 @@ public enum Arizona implements LawSubdivisionController {
     );
 
     private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private StringBuilder indexesJSON;
-    private HashMap<String, String> tableOfChaptersJSON, statutesJSON, statutes;
+    private HashMap<String, String> statutesJSON, statutes;
 
     Arizona(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
         this.indexesURL = indexesURL;
@@ -29,7 +31,6 @@ public enum Arizona implements LawSubdivisionController {
         this.statutesListURL = statutesListURL;
         this.statuteURL = statuteURL;
 
-        tableOfChaptersJSON = new HashMap<>();
         statutesJSON = new HashMap<>();
         statutes = new HashMap<>();
     }
@@ -52,50 +53,28 @@ public enum Arizona implements LawSubdivisionController {
     }
 
     @Override
-    public String getIndexesJSON() {
-        if(indexesJSON == null) {
-            indexesJSON = new StringBuilder("[");
-            getIndexes();
-            indexesJSON.append("]");
-        }
-        return indexesJSON.toString();
-    }
-    @Override
-    public String getTableOfChaptersJSON() {
-        return tableOfChaptersJSON.toString();
-    }
-
-    @Override
     public List<SubdivisionStatuteIndex> getIndexes() {
         final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         if(doc != null) {
             final Elements table = doc.select("tr ~ tr");
-            iterateIndexTable(table, indexesJSON, true);
+            iterateIndexTable(table, true);
         }
         return chapters;
     }
     @Override
-    public String getTableOfChapters(String title) {
-        if(tableOfChaptersJSON.containsKey(title)) {
-            return tableOfChaptersJSON.get(title);
-        } else {
-            final StringBuilder builder = new StringBuilder("[");
-            final Document doc = getDocument(tableOfChaptersURL.replace("%index%", title));
-            if(doc != null) {
-                final Elements inner = doc.select("div.site-inner"), table = inner.select("h5");
-                final List<Element> list = new ArrayList<>();
-                for(Element element : table) {
-                    final String text = element.text(), string = text.substring("Chapter ".length());
-                    list.add(new Element(string).appendChild(new TextNode(string)));
-                }
-                iterateIndexTable(new Elements(table), builder, false);
-                new Thread(() -> loadStatuteList(inner, table)).start();
+    public void loadTableOfChapters(String title) {
+        final Document doc = getDocument(tableOfChaptersURL.replace("%index%", title));
+        if(doc != null) {
+            final Elements inner = doc.select("div.site-inner"), table = inner.select("h5");
+            final List<Element> list = new ArrayList<>();
+            for(Element element : table) {
+                final String text = element.text(), string = text.substring("Chapter ".length());
+                list.add(new Element(string).appendChild(new TextNode(string)));
             }
-            builder.append("]");
-            final String string = builder.toString();
-            tableOfChaptersJSON.put(title, string);
-            return string;
+
+            iterateChapterTable(title, new Elements(table), false, null);
+            new Thread(() -> loadStatuteList(inner, table)).start();
         }
     }
 
@@ -110,8 +89,6 @@ public enum Arizona implements LawSubdivisionController {
             final List<Element> test = new ArrayList<>(statutes);
             test.removeIf(string -> !string.text().startsWith(chapter));
             if(!test.isEmpty()) {
-                final StringBuilder statuteBuilder = new StringBuilder("[");
-
                 final List<Element> elements = new ArrayList<>();
                 for(Element element : test) {
                     final String  string = element.text();
@@ -120,15 +97,12 @@ public enum Arizona implements LawSubdivisionController {
                     elements.add(new Element(topic).appendChild(new TextNode(topic)));
                     elements.add(new Element(value).appendChild(new TextNode(value)));
                 }
-                iterateThroughChapterTable(new Elements(elements), statuteBuilder, false);
-                statuteBuilder.append("]");
-                statutesJSON.put(chapter, statuteBuilder.toString());
+                iterateThroughStatuteTable(chapter, new Elements(elements));
             }
         }
     }
     @Override
-    public String getStatuteList(String title, String chapter) {
-        return statutesJSON.get(chapter);
+    public void loadStatuteList(String title, String chapter) {
     }
     @Override
     public String getStatute(String title, String chapter, String section) {

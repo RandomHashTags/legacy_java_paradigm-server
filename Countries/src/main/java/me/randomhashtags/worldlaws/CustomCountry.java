@@ -1,11 +1,10 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.country.*;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilities;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
 import me.randomhashtags.worldlaws.law.LawUtilities;
-import me.randomhashtags.worldlaws.country.*;
-import me.randomhashtags.worldlaws.country.CountryHistory;
 import org.apache.commons.text.StringEscapeUtils;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
@@ -109,7 +108,7 @@ public final class CustomCountry implements SovereignState {
                     final WLCountry country = getWLCountry();
                     if(country != null) {
                         final HashSet<CountryService> services = new HashSet<>(CountryServices.SERVICES);
-                        final List<CountryResource> resources = new ArrayList<>();
+                        final List<SovereignStateResource> resources = new ArrayList<>();
 
                         final SovereignStateSubdivision[] subdivisions = country.getSubdivisions();
                         if(subdivisions != null) {
@@ -120,16 +119,16 @@ public final class CustomCountry implements SovereignState {
 
                         final WLConstitution constitution = country.getConstitution();
                         if(constitution != null) {
-                            resources.add(new CountryResource("Government Constitution", constitution.getURL()));
-                            resources.add(new CountryResource("Government Constitution (Wikipedia)", constitution.getWikipediaURL()));
+                            resources.add(new SovereignStateResource("Government Constitution", constitution.getURL()));
+                            resources.add(new SovereignStateResource("Government Constitution (Wikipedia)", constitution.getWikipediaURL()));
                         }
 
                         final String website = country.getGovernmentWebsite();
                         if(website != null) {
-                            resources.add(new CountryResource("Government Website", country.getGovernmentWebsite()));
+                            resources.add(new SovereignStateResource("Government Website", country.getGovernmentWebsite()));
                         }
                         final HashSet<String> set = new HashSet<>();
-                        for(CountryResource resource : resources) {
+                        for(SovereignStateResource resource : resources) {
                             set.add(resource.toString());
                         }
                         values.put(SovereignStateInformationType.RESOURCES, set);
@@ -154,19 +153,18 @@ public final class CustomCountry implements SovereignState {
         final String backendID = getBackendID();
         final AtomicInteger completed = new AtomicInteger(0);
         final int max = services.size();
+        final CompletionHandler serviceHandler = new CompletionHandler() {
+            @Override
+            public void handleServiceResponse(SovereignStateInformationType type, String string) {
+                if(string != null && !string.equals("null")) {
+                    values.putIfAbsent(type, new HashSet<>());
+                    values.get(type).add(string);
+                }
+                tryCompletingInformation(max, completed, values, handler);
+            }
+        };
         services.parallelStream().forEach(service -> {
             final SovereignStateInfo info = service.getInfo();
-            final CompletionHandler serviceHandler = new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    final SovereignStateInformationType informationType = service.getInformationType();
-                    if(string != null && !string.equals("null")) {
-                        values.putIfAbsent(informationType, new HashSet<>());
-                        values.get(informationType).add(string);
-                    }
-                    tryCompletingInformation(max, completed, values, handler);
-                }
-            };
             final String countryIdentifier;
             switch (info) {
                 case SERVICE_CIA_VALUES:
@@ -184,10 +182,10 @@ public final class CustomCountry implements SovereignState {
                         @Override
                         public void handleObject(Object object) {
                             @SuppressWarnings({ "unchecked" })
-                            final HashSet<CountryResource> resources = object != null ? (HashSet<CountryResource>) object : null;
+                            final HashSet<SovereignStateResource> resources = object != null ? (HashSet<SovereignStateResource>) object : null;
                             if(resources != null && !resources.isEmpty()) {
                                 values.putIfAbsent(resourcesInformationType, new HashSet<>());
-                                for(CountryResource resource : resources) {
+                                for(SovereignStateResource resource : resources) {
                                     values.get(resourcesInformationType).add(resource.toString());
                                 }
                             }
@@ -205,7 +203,7 @@ public final class CustomCountry implements SovereignState {
                     break;
                 case AVAILABILITIES:
                     countryIdentifier = null;
-                    ((CountryAvailabilities) service).getCountryAvailabilities(backendID, handler);
+                    ((CountryAvailabilities) service).getCountryAvailabilities(backendID, serviceHandler);
                     break;
                 default:
                     countryIdentifier = backendID;

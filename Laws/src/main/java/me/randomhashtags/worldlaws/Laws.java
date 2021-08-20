@@ -31,7 +31,7 @@ public final class Laws implements WLServer {
     }
 
     private void test() {
-        getHomeResponse(APIVersion.getCurrent(), new CompletionHandler() {
+        getHomeResponse(new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 WLLogger.log(Level.INFO, "Laws;test;string=" + string);

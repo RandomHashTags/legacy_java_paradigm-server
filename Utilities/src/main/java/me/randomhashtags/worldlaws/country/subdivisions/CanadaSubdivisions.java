@@ -45,7 +45,7 @@ public enum CanadaSubdivisions implements SovereignStateSubdivision {
     }
 
     @Override
-    public String getGovernmentURL() {
+    public String getGovernmentWebsite() {
         switch (this) {
             case NEW_BRUNSWICK: return "https://www2.gnb.ca";
             case NEWFOUNDLAND_AND_LABRADOR: return "https://www.gov.nl.ca";

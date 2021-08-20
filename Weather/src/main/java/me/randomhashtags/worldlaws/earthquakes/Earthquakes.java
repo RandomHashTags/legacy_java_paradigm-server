@@ -25,7 +25,7 @@ public enum Earthquakes implements RestAPI {
     private String recentEarthquakes, topRecentEarthquakes;
     private HashMap<String, String> recentTerritoryEarthquakes, topRecentTerritoryEarthquakes;
 
-    public void getResponse(String[] values, CompletionHandler handler) { // TODO: cache data for home response and setup auto update
+    public void getResponse(String[] values, CompletionHandler handler) {
         final String key = values[1];
         switch (key) {
             case "recent":

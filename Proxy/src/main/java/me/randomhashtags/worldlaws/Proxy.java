@@ -45,7 +45,7 @@ public final class Proxy implements RestAPI {
         try {
             connectClients(new ServerSocket(port), false);
         } catch (Exception e) {
-            e.printStackTrace();
+            WLUtilities.saveException(e);
         }
     }
 
@@ -56,7 +56,7 @@ public final class Proxy implements RestAPI {
             final SSLServerSocket server = (SSLServerSocket) socketFactory.createServerSocket(port);
             connectClients(server, true);
         } catch (Exception e) {
-            e.printStackTrace();
+            WLUtilities.saveException(e);
         }
     }
     private SSLContext getHttpsContext() {
@@ -78,7 +78,7 @@ public final class Proxy implements RestAPI {
             context.init(keyManagers, trustManagers, null);
             return context;
         } catch (Exception e) {
-            e.printStackTrace();
+            WLUtilities.saveException(e);
         }
         return null;
     }

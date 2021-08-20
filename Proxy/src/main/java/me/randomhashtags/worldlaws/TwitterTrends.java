@@ -16,7 +16,6 @@ public enum TwitterTrends implements RestAPI {
 
 
     public void getWorldwideTrendingTopics(CompletionHandler handler) {
-
     }
     public void getTrendingTopics(String country, CompletionHandler handler) {
         if(countries.containsKey(country)) {

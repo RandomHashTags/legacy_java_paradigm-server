@@ -53,6 +53,11 @@ public enum TargetServer implements RestAPI, DataValues {
     public int getPort() {
         return port;
     }
+    public APIVersion getAPIVersion() {
+        switch (this) {
+            default: return APIVersion.v1;
+        }
+    }
 
     public void sendResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query, CompletionHandler handler) {
         final HashMap<String, String> headers = new HashMap<>();
@@ -144,6 +149,7 @@ public enum TargetServer implements RestAPI, DataValues {
         };
         final HashMap<String, String> requests = new HashMap<>();
         requests.put("trending", null);
+        requests.put("apiVersions", null);
         for(TargetServer server : servers) {
             requests.put(server.name().toLowerCase(), server.ipAddress + "/" + versionName + "/home");
         }
@@ -178,20 +184,35 @@ public enum TargetServer implements RestAPI, DataValues {
         };
         requests.entrySet().parallelStream().forEach(entry -> {
             final String key = entry.getKey();
-            if(key.equals("trending")) {
-                Statistics.INSTANCE.getTrendingJSON(new CompletionHandler() {
-                    @Override
-                    public void handleJSONObject(JSONObject json) {
-                        completionHandler.handleStringValue("trending", json.isEmpty() ? null : json.toString());
+            switch (key) {
+                case "trending":
+                    Statistics.INSTANCE.getTrendingJSON(new CompletionHandler() {
+                        @Override
+                        public void handleJSONObject(JSONObject json) {
+                            completionHandler.handleStringValue("trending", json.isEmpty() ? null : json.toString());
+                        }
+                    });
+                    break;
+                case "apiVersions":
+                    final StringBuilder builder = new StringBuilder("{");
+                    boolean isFirst = true;
+                    for(TargetServer server : TargetServer.values()) {
+                        if(server.ipAddress != null) {
+                            builder.append(isFirst ? "" : ",").append("\"").append(server.getBackendID()).append("\":").append(server.getAPIVersion().getVersion());
+                            isFirst = false;
+                        }
                     }
-                });
-            } else {
-                request(entry.getValue(), method, headers, null, new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        completionHandler.handleStringValue(key, string);
-                    }
-                });
+                    builder.append("}");
+                    completionHandler.handleStringValue("apiVersions", builder.toString());
+                    break;
+                default:
+                    request(entry.getValue(), method, headers, null, new CompletionHandler() {
+                        @Override
+                        public void handleString(String string) {
+                            completionHandler.handleStringValue(key, string);
+                        }
+                    });
+                    break;
             }
         });
     }

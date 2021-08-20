@@ -27,10 +27,15 @@ public interface CountryService extends SovereignStateService {
         handler.handleObject(null);
     }
     default void getCountryValue(String countryBackendID, CompletionHandler handler) {
+        getCountryValueFromCountryJSONObject(countryBackendID, handler);
+    }
+    default void getCountryValueFromCountryJSONObject(String countryBackendID, CompletionHandler handler) {
         final SovereignStateInfo info = getInfo();
+        final SovereignStateInformationType type = getInformationType();
         if(COUNTRY_SERVICE_JSON_VALUES.containsKey(info)) {
             final JSONObject json = COUNTRY_SERVICE_JSON_VALUES.get(info);
-            handler.handleString(json.has(countryBackendID) ? json.getJSONObject(countryBackendID).toString() : null);
+            final String string = json.has(countryBackendID) ? json.getJSONObject(countryBackendID).toString() : null;
+            handler.handleServiceResponse(type, string);
         } else {
             final long started = System.currentTimeMillis();
             final String fileName = info.getTitle();
@@ -38,14 +43,17 @@ public interface CountryService extends SovereignStateService {
                 @Override
                 public void handleJSONObject(JSONObject json) {
                     COUNTRY_SERVICE_JSON_VALUES.put(info, json);
-                    final String value = json.has(countryBackendID) ? json.getJSONObject(countryBackendID).toString() : null;
+                    final String string = json.has(countryBackendID) ? json.getJSONObject(countryBackendID).toString() : null;
                     WLLogger.log(Level.INFO, fileName + " - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handleString(value);
+                    handler.handleServiceResponse(type, string);
                 }
             });
         }
     }
     default void getJSONData(Folder folder, String fileName, String countryBackendID, CompletionHandler handler) {
+        getJSONObjectData(folder, fileName, countryBackendID, handler);
+    }
+    default void getJSONObjectData(Folder folder, String fileName, String countryBackendID, CompletionHandler handler) {
         getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {

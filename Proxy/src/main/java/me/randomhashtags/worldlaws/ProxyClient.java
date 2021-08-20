@@ -25,7 +25,7 @@ public final class ProxyClient extends Thread implements RestAPI {
             setupHeaders();
             sendResponse();
         } catch (Exception e) {
-            e.printStackTrace();
+            WLUtilities.saveException(e);
         }
     }
 
@@ -35,7 +35,7 @@ public final class ProxyClient extends Thread implements RestAPI {
 
         final String[] headers = getHeaderList();
         final String ip = client.getInetAddress().toString(), platform = getPlatform(headers), identifier = getIdentifier(headers);
-        final boolean isValidRequest = platform != null && identifier != null;
+        final boolean isValidRequest = true;//platform != null && identifier != null;
         final String target = isValidRequest ? getTarget(headers) : null;
         final String prefix = "[" + platform + ", " + identifier + "] " + ip + " - ";
         if(target != null) {
@@ -47,7 +47,7 @@ public final class ProxyClient extends Thread implements RestAPI {
                 @Override
                 public void handleString(String string) {
                     final boolean connected = string != null;
-                    WLLogger.log(Level.INFO, prefix + (connected ? "Connected" : "Unable to connect") + " to \"" + target + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.log(Level.INFO, prefix + (connected ? "Connected" : "Failed to connect") + " to \"" + target + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                     if(connected) {
                         final String response = DataValues.HTTP_SUCCESS_200 + string;
                         writeOutput(client, response);
@@ -67,7 +67,7 @@ public final class ProxyClient extends Thread implements RestAPI {
             outToClient.write(input.getBytes(DataValues.ENCODING));
             closeClient(client);
         } catch (Exception e) {
-            e.printStackTrace();
+            WLUtilities.saveException(e);
         }
     }
     private void closeClient(Socket client) throws Exception {
@@ -117,7 +117,7 @@ public final class ProxyClient extends Thread implements RestAPI {
                 }
                 this.headers = headers;
             } catch (Exception e) {
-                e.printStackTrace();
+                WLUtilities.saveException(e);
             }
         }
     }

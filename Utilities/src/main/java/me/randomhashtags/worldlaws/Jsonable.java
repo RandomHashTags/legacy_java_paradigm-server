@@ -9,47 +9,50 @@ import java.io.FileWriter;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.List;
+import java.nio.file.Paths;
+import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.stream.Collectors;
 
 public interface Jsonable {
     String USER_DIR = System.getProperty("user.dir") + File.separator;
 
     private static String getJSONFilePath(Folder folder, String fileName) {
-        return folder.getFolderPath() + File.separator + fileName + ".json";
+        return getFilePath(folder, fileName, "json");
     }
-    private String getLocalFileString(Folder type, String fileName) {
-        final List<String> parentFolders = type.getParentFolders();
-        if(parentFolders != null) {
-            for(String folder : parentFolders) {
-                tryCreatingFolder(folder);
+    private static String getFilePath(Folder folder, String fileName, String extension) {
+        return folder.getFolderPath(fileName) + File.separator + fileName + "." + extension;
+    }
+    static void tryCreatingParentFolders(Path file) {
+        final Path parent = file.getParent();
+        if(!Files.exists(parent)) {
+            try {
+                Files.createDirectories(parent);
+            } catch (Exception e) {
+                WLUtilities.saveException(e);
             }
         }
+    }
 
-        final String folder = type.getFolderPath();
-        tryCreatingFolder(folder);
-
-        final String directory = folder + File.separator + fileName + ".json";
-        final File file = new File(directory);
-        if(file.exists()) {
-            final Path path = file.toPath();
+    private String getLocalFileString(Folder folder, String fileName) {
+        final String directory = getJSONFilePath(folder, fileName);
+        final Path path = Paths.get(directory);
+        if(Files.exists(path)) {
             try {
                 return Files.lines(path).collect(Collectors.joining(System.lineSeparator()));
             } catch (Exception e) {
-                e.printStackTrace();
-                return null;
+                WLUtilities.saveException(e);
             }
         }
         return null;
     }
-    default void tryCreatingFolder(String folderPath) {
-        final File folderFile = new File(folderPath);
-        if(!folderFile.exists()) {
+    private static void tryCreatingFolder(String folderPath) {
+        final Path path = Paths.get(folderPath);
+        if(!Files.exists(path)) {
             WLLogger.log(Level.INFO, "Jsonable - creating folder at \"" + folderPath + "\"!");
             try {
-                Files.createDirectory(folderFile.toPath());
+                Files.createDirectory(path);
             } catch (Exception e) {
-                e.printStackTrace();
+                WLUtilities.saveException(e);
             }
         }
     }
@@ -66,23 +69,25 @@ public interface Jsonable {
         if(localFile != null) {
             handler.handleJSONObject(localFile);
         } else {
+            final AtomicBoolean saved = new AtomicBoolean(false);
             handler.load(new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
                     JSONObject json = null;
                     if(string != null) {
-                        saveFileJSON(folder, fileName, string);
                         json = new JSONObject(string);
+                        saveFileJSON(folder, fileName, json.toString());
+                        saved.set(true);
                     }
                     handler.handleJSONObject(json);
                 }
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    if(json != null) {
+                    if(json != null && !saved.get()) {
                         saveFileJSON(folder, fileName, json.toString());
                     }
-                    folder.resetCustomFolderName();
+                    folder.removeCustomFolderName(fileName);
                     handler.handleJSONObject(json);
                 }
             });
@@ -94,16 +99,24 @@ public interface Jsonable {
         if(localFile != null) {
             handler.handleJSONArray(localFile);
         } else {
+            final AtomicBoolean saved = new AtomicBoolean(false);
             handler.load(new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
-                    saveFileJSON(type, fileName, string);
-                    handler.handleJSONArray(new JSONArray(string));
+                    JSONArray array = null;
+                    if(string != null) {
+                        saveFileJSON(type, fileName, string);
+                        array = new JSONArray(string);
+                        saved.set(true);
+                    }
+                    handler.handleJSONArray(array);
                 }
 
                 @Override
                 public void handleJSONArray(JSONArray array) {
-                    saveFileJSON(type, fileName, array.toString());
+                    if(!saved.get() && array != null) {
+                        saveFileJSON(type, fileName, array.toString());
+                    }
                     handler.handleJSONArray(array);
                 }
             });
@@ -126,24 +139,31 @@ public interface Jsonable {
             fileWriter.close();
             WLLogger.log(Level.INFO, "Jsonable - setting json file contents at path \"" + path + "\"");
         } catch (Exception e) {
-            e.printStackTrace();
+            WLUtilities.saveException(e);
             WLLogger.log(Level.ERROR, "Jsonable - failed setting json file contents at path \"" + path + "\" (" + e.getMessage() + ")!");
         }
     }
-    private void saveFileJSON(Folder type, String fileName, String value) {
+    static void saveFileJSON(Folder folder, String fileName, String value) {
+        saveFile(folder, fileName, value, "json");
+    }
+    static void saveFile(Folder folder, String fileName, String value, String extension) {
+        saveFile(null, Level.INFO, folder, fileName, value, extension);
+    }
+    static void saveFile(String sender, Level level, Folder folder, String fileName, String value, String extension) {
         if(value != null) {
-            final String directory = getJSONFilePath(type, fileName);
-            final File file = new File(directory);
-            if(!file.exists()) {
-                final Path path = file.toPath();
-                WLLogger.log(Level.INFO, "Jsonable - creating file at path " + path.toAbsolutePath().toString());
+            final String directory = getFilePath(folder, fileName, extension);
+            final Path path = Paths.get(directory);
+            sender = sender != null ? "[" + sender + "] " : "";
+            if(!Files.exists(path)) {
+                WLLogger.log(level, sender + "Jsonable - creating file with folder " + folder.name() + " at path " + path.toAbsolutePath().toString());
+                tryCreatingParentFolders(path);
                 try {
                     Files.writeString(path, value, StandardCharsets.UTF_8);
                 } catch (Exception e) {
-                    e.printStackTrace();
+                    WLUtilities.saveException(e);
                 }
             } else {
-                WLLogger.log(Level.WARN, "Jsonable - saveFileJSON(" + fileName + ") - already exists at " + directory + "!");
+                WLLogger.log(Level.WARN, sender + "Jsonable - saveFileJSON(" + fileName + ") - already exists at " + directory + " (folder=" + folder.name() + ")!");
             }
         }
     }

@@ -2,9 +2,12 @@ package me.randomhashtags.worldlaws;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 public enum Folder {
+    AVAILABILITIES("availabilities"),
+
     COUNTRIES("countries"),
     COUNTRIES_AVAILABILITIES("countries" + File.separator + "availabilities"),
     COUNTRIES_COUNTRIES("countries" + File.separator + "countries"),
@@ -21,6 +24,7 @@ public enum Folder {
     COUNTRIES_SERVICES_WIKIPEDIA("countries" + File.separator + "services" + File.separator + "wikipedia"),
     COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES("countries" + File.separator + "services" + File.separator + "wikipedia" + File.separator + "featured pictures"),
     COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES_MEDIA("countries" + File.separator + "services" + File.separator + "wikipedia" + File.separator + "featured pictures" + File.separator + "media"),
+
     COUNTRIES_VALUES("countries" + File.separator + "values"),
 
     LAWS_USA_MEMBERS("laws" + File.separator + "usa" + File.separator + "members"),
@@ -30,34 +34,44 @@ public enum Folder {
     SERVICES_FINANCE_YAHOO_FINANCE_CHARTS("services" + File.separator + "finance" + File.separator + "yahooFinance" + File.separator + "charts"),
 
     SUBDIVISIONS("subdivisions"),
+    SUBDIVISIONS_SUBDIVISIONS("subdivisions" + File.separator + "subdivisions"), // TODO: split into respective country
     SUBDIVISIONS_CITIES("subdivisions" + File.separator + "cities"),
     SUBDIVISIONS_INFORMATION("subdivisions" + File.separator + "information" + File.separator + "%country%"),
+    SUBDIVISIONS_SERVICES_WIKIPEDIA("subdivisions" + File.separator + "services" + File.separator + "wikipedia"),
 
     OTHER(null),
     LOGS("logs"),
+    LOGS_ERRORS("logs" + File.separator + "errors" + File.separator + "%errorName%"),
+    LOGS_WARNINGS("logs" + File.separator + "warnings"),
 
-    UPCOMING_EVENTS("upcoming events" + File.separator + "%year%" + File.separator + "%day%"),
-    UPCOMING_EVENTS_IDS("upcoming events" + File.separator + "%year%" + File.separator + "ids"),
+    UPCOMING_EVENTS("upcoming events"),
+    UPCOMING_EVENTS_YEAR_DAY("upcoming events" + File.separator + "%year%" + File.separator + "%day%"),
+    UPCOMING_EVENTS_IDS("upcoming events" + File.separator + "%year%" + File.separator + "ids" + File.separator + "%month%" + File.separator + "%day%"),
     UPCOMING_EVENTS_HOLIDAYS("upcoming events" + File.separator + "holidays" + File.separator + "%year%"),
     UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS("upcoming events" + File.separator + "holidays" + File.separator + "descriptions"),
+    UPCOMING_EVENTS_TV_SHOWS("upcoming events" + File.separator + "tv shows"),
     WEATHER_USA_ZONES("weather" + File.separator + "usa" + File.separator + "zones"),
     ;
 
     private final String folderName;
-    private String customFolderName;
+    private final HashMap<String, String> ids;
 
     Folder(String folderName) {
         this.folderName = folderName;
+        ids = new HashMap<>();
     }
 
-    public String getFolderName(boolean checkCustomFolderName) {
-        return checkCustomFolderName && customFolderName != null ? customFolderName : folderName;
+    public String getFolderName() {
+        return folderName;
     }
-    public void setCustomFolderName(String folderName) {
-        customFolderName = folderName;
+    public String getFolderName(String id) {
+        return ids.getOrDefault(id, id);
     }
-    public void resetCustomFolderName() {
-        customFolderName = null;
+    public void setCustomFolderName(String id, String folderName) {
+        ids.put(id, folderName);
+    }
+    public void removeCustomFolderName(String id) {
+        ids.remove(id);
     }
 
     public List<String> getParentFolders() {
@@ -66,8 +80,7 @@ public enum Folder {
             final String separator = File.separator;
             final String prefix = Jsonable.USER_DIR + "downloaded_pages" + separator;
             String previousFolder = "";
-            final String targetFolder = customFolderName != null ? customFolderName : folderName;
-            for(String string : targetFolder.split(separator)) {
+            for(String string : folderName.split(separator)) {
                 list.add(prefix + previousFolder + string);
                 previousFolder = previousFolder.concat(string + separator);
             }
@@ -77,7 +90,10 @@ public enum Folder {
     }
 
     public String getFolderPath() {
-        final String folderName = getFolderName(true);
+        return Jsonable.USER_DIR + "downloaded_pages" + (folderName != null ? File.separator + folderName : "");
+    }
+    public String getFolderPath(String id) {
+        final String folderName = getFolderName(id);
         return Jsonable.USER_DIR + "downloaded_pages" + (folderName != null ? File.separator + folderName : "");
     }
 }

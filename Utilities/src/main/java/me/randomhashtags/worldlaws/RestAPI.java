@@ -157,7 +157,7 @@ public interface RestAPI {
             if(!isLocal) {
                 final StackTraceElement[] stackTrace = e.getStackTrace();
                 WLLogger.log(Level.ERROR, "[REST API] - \"(" + stackTrace[0].getClassName() + ") " + e.getMessage() + " with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
-                e.printStackTrace();
+                WLUtilities.saveException(e);
             }
             handler.handleString(null);
         } finally {

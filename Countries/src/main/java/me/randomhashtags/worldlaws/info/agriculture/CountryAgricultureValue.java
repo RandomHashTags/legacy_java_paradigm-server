@@ -2,8 +2,8 @@ package me.randomhashtags.worldlaws.info.agriculture;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
-import me.randomhashtags.worldlaws.info.rankings.NumberType;
 import me.randomhashtags.worldlaws.ServerObject;
+import me.randomhashtags.worldlaws.info.rankings.NumberType;
 import org.json.JSONObject;
 
 public final class CountryAgricultureValue implements ServerObject {

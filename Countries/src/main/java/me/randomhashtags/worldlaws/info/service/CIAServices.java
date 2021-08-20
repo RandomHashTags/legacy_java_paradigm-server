@@ -6,7 +6,8 @@ import me.randomhashtags.worldlaws.ServerObject;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.CountryResource;
+import me.randomhashtags.worldlaws.country.SovereignStateResource;
+import me.randomhashtags.worldlaws.service.CountryServiceValue;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
@@ -18,7 +19,7 @@ import java.util.HashSet;
 public enum CIAServices implements CountryService {
     INSTANCE;
 
-    private HashMap<String, HashSet<CountryResource>> countries;
+    private HashMap<String, HashSet<SovereignStateResource>> countries;
 
     @Override
     public SovereignStateInformationType getInformationType() {
@@ -61,7 +62,7 @@ public enum CIAServices implements CountryService {
                 public void handleJSONObject(JSONObject json) {
                     if(json.has(shortName)) {
                         final CIAValues values = new CIAValues(json.getJSONObject(shortName));
-                        final HashSet<CountryResource> resources = getResourcesFrom(values);
+                        final HashSet<SovereignStateResource> resources = getResourcesFrom(values);
                         countries.put(shortName, resources);
                         handler.handleObject(resources);
                     } else {
@@ -70,7 +71,7 @@ public enum CIAServices implements CountryService {
                             public void handleString(String string) {
                                 final JSONObject ciaJSON = new JSONObject(string);
                                 final CIAValues values = new CIAValues(ciaJSON);
-                                final HashSet<CountryResource> resources = getResourcesFrom(values);
+                                final HashSet<SovereignStateResource> resources = getResourcesFrom(values);
                                 countries.put(shortName, resources);
                                 json.put(shortName, ciaJSON);
                                 setFileJSONObject(folder, fileName, json);
@@ -83,11 +84,11 @@ public enum CIAServices implements CountryService {
         }
     }
 
-    private HashSet<CountryResource> getResourcesFrom(CIAValues ciaValues) {
+    private HashSet<SovereignStateResource> getResourcesFrom(CIAValues ciaValues) {
         final String prefix = "https://www.cia.gov/the-world-factbook/static/";
-        final HashSet<CountryResource> set = new HashSet<>();
-        set.add(new CountryResource("CIA Summary", prefix + ciaValues.summaryURL));
-        set.add(new CountryResource("CIA Travel Facts", prefix + ciaValues.travelFactsURL));
+        final HashSet<SovereignStateResource> set = new HashSet<>();
+        set.add(new SovereignStateResource("CIA Summary", prefix + ciaValues.summaryURL));
+        set.add(new SovereignStateResource("CIA Travel Facts", prefix + ciaValues.travelFactsURL));
         return set;
     }
 

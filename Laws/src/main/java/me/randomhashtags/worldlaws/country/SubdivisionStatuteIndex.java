@@ -1,7 +1,8 @@
 package me.randomhashtags.worldlaws.country;
 
 public final class SubdivisionStatuteIndex implements SubdivisionLegal {
-    private String backendID, title;
+    private final String backendID;
+    private String title;
 
     public SubdivisionStatuteIndex(String backendID) {
         this.backendID = backendID;
@@ -21,9 +22,8 @@ public final class SubdivisionStatuteIndex implements SubdivisionLegal {
 
     @Override
     public String toString() {
-        return "{" +
-                "\"backendID\":\"" + backendID + "\"," +
-                "\"title\":\"" + title + "\"" +
+        return "\"" + title + "\":{" +
+                "\"backendID\":\"" + backendID + "\"" +
                 "}";
     }
 }

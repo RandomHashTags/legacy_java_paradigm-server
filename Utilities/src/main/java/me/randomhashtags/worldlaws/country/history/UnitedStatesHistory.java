@@ -5,23 +5,18 @@ import me.randomhashtags.worldlaws.country.CountryHistoryEra;
 import me.randomhashtags.worldlaws.country.CountryHistorySection;
 import me.randomhashtags.worldlaws.country.ICountryHistory;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
-import me.randomhashtags.worldlaws.service.WikipediaService;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Node;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public enum UnitedStatesHistory implements ICountryHistory {
     INSTANCE;
 
-    public List<CountryHistorySection> get() {
-        return Arrays.asList(getEras());
-    }
-
-    private CountryHistorySection getEras() {
+    @Override
+    public CountryHistorySection getEras() {
         final WikipediaDocument doc = getWikipediaDocument("https://en.wikipedia.org/wiki/History_of_the_United_States");
         if(doc != null) {
             final int todayYear = WLUtilities.getTodayYear();

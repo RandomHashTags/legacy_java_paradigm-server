@@ -2,9 +2,9 @@ package me.randomhashtags.worldlaws.info.availability;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
+import me.randomhashtags.worldlaws.info.service.CountryService;
 import org.json.JSONArray;
 import org.jsoup.select.Elements;
 
@@ -15,7 +15,7 @@ public interface CountryAvailabilityService extends CountryService {
 
     @Override
     default Folder getFolder() {
-        return Folder.COUNTRIES_AVAILABILITIES;
+        return Folder.AVAILABILITIES;
     }
 
     @Override
@@ -27,7 +27,7 @@ public interface CountryAvailabilityService extends CountryService {
         return getAvailabilityDocumentElements(url, targetElements, -1);
     }
     default Elements getAvailabilityDocumentElements(String url, String targetElements, int index) {
-        return getDocumentElements(Folder.COUNTRIES_AVAILABILITIES, url, targetElements, index);
+        return getDocumentElements(Folder.AVAILABILITIES, url, targetElements, index);
     }
 
     default CountryAvailability getAvailability(boolean value) {

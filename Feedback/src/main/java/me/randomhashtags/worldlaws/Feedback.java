@@ -76,7 +76,7 @@ public final class Feedback implements WLServer {
             WLLogger.log(Level.INFO, "Feedback;path=" + path.toAbsolutePath().toString());
             Files.write(path, lines, StandardCharsets.UTF_8);
         } catch (Exception e) {
-            e.printStackTrace();
+            WLUtilities.saveException(e);
         }
     }
     private void createFolder(Path folder) throws Exception {

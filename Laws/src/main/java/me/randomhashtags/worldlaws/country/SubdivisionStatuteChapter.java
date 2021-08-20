@@ -1,7 +1,8 @@
 package me.randomhashtags.worldlaws.country;
 
 public final class SubdivisionStatuteChapter implements SubdivisionLegal {
-    private String chapter, title;
+    private final String chapter;
+    private String title;
 
     public SubdivisionStatuteChapter(String chapter) {
         this.chapter = chapter;
@@ -21,8 +22,7 @@ public final class SubdivisionStatuteChapter implements SubdivisionLegal {
 
     @Override
     public String toString() {
-        return "{" +
-                "\"chapter\":\"" + chapter + "\"," +
+        return "\"" + chapter + "\":{" +
                 "\"title\":\"" + title + "\"" +
                 "}";
     }

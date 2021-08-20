@@ -116,7 +116,10 @@ public final class WikipediaDocument {
         return images.isEmpty() ? null : images;
     }
     private String getImageURLFrom(Element element) {
-        final Elements images = element.select("a[href] img");
-        return !images.isEmpty() ? "https:" + WikipediaService.getPictureThumbnailImageURL(images.get(0)) : null;
+        if(element != null) {
+            final Elements images = element.select("a[href] img");
+            return !images.isEmpty() ? "https:" + WikipediaService.getPictureThumbnailImageURL(images.get(0)) : null;
+        }
+        return null;
     }
 }

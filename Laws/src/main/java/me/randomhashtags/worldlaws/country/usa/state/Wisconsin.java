@@ -20,8 +20,7 @@ public enum Wisconsin implements LawSubdivisionController {
     );
 
     private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private StringBuilder indexesJSON;
-    private HashMap<String, String> tableOfChaptersJSON, statutesJSON, statutes;
+    private HashMap<String, String> statutes;
     private HashMap<Integer, List<String>> chapters;
 
     Wisconsin(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
@@ -30,8 +29,6 @@ public enum Wisconsin implements LawSubdivisionController {
         this.statutesListURL = statutesListURL;
         this.statuteURL = statuteURL;
 
-        tableOfChaptersJSON = new HashMap<>();
-        statutesJSON = new HashMap<>();
         statutes = new HashMap<>();
     }
 
@@ -53,20 +50,6 @@ public enum Wisconsin implements LawSubdivisionController {
     }
 
     @Override
-    public String getIndexesJSON() {
-        if(indexesJSON == null) {
-            indexesJSON = new StringBuilder("[");
-            getIndexes();
-            indexesJSON.append("]");
-        }
-        return indexesJSON.toString();
-    }
-    @Override
-    public String getTableOfChaptersJSON() {
-        return tableOfChaptersJSON.toString();
-    }
-
-    @Override
     public List<SubdivisionStatuteIndex> getIndexes() {
         final List<SubdivisionStatuteIndex> chapters = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
@@ -80,7 +63,7 @@ public enum Wisconsin implements LawSubdivisionController {
                 list.add(new Element(text).appendChild(new TextNode(text)));
                 index++;
             }
-            iterateThroughChapterTable(new Elements(list), indexesJSON, true);
+            iterateThroughIndexTable(new Elements(list));
             loadChapters(doc);
         }
         return chapters;
@@ -106,53 +89,36 @@ public enum Wisconsin implements LawSubdivisionController {
         }
     }
     @Override
-    public String getTableOfChapters(String title) {
-        if(tableOfChaptersJSON.containsKey(title)) {
-            return tableOfChaptersJSON.get(title);
-        } else {
-            final StringBuilder builder = new StringBuilder("[");
-            final int titleInt = Integer.parseInt(title);
-            final List<String> list = chapters.get(titleInt);
-            int startingChapter = 1;
-            for(int i = 1; i < titleInt; i++) {
-                startingChapter += chapters.get(i).size();
-            }
-            final List<Element> elements = new ArrayList<>();
-            for(String string : list) {
-                final String chapter = Integer.toString(startingChapter);
-                elements.add(new Element(chapter).appendChild(new TextNode(chapter)));
-                elements.add(new Element(string).appendChild(new TextNode(string)));
-                startingChapter += 1;
-            }
-            iterateThroughChapterTable(new Elements(elements), builder, false);
-            builder.append("]");
-            final String string = builder.toString();
-            tableOfChaptersJSON.put(title, string);
-            return string;
+    public void loadTableOfChapters(String title) {
+        final int titleInt = Integer.parseInt(title);
+        final List<String> list = chapters.get(titleInt);
+        int startingChapter = 1;
+        for(int i = 1; i < titleInt; i++) {
+            startingChapter += chapters.get(i).size();
         }
+        final List<Element> elements = new ArrayList<>();
+        for(String string : list) {
+            final String chapter = Integer.toString(startingChapter);
+            elements.add(new Element(chapter).appendChild(new TextNode(chapter)));
+            elements.add(new Element(string).appendChild(new TextNode(string)));
+            startingChapter += 1;
+        }
+        iterateThroughChapterTable(title, new Elements(elements));
     }
     @Override
-    public String getStatuteList(String title, String chapter) {
-        if(statutesJSON.containsKey(chapter)) {
-            return statutesJSON.get(chapter);
-        } else {
-            final StringBuilder builder = new StringBuilder("[");
-            final Document doc = getDocument(statutesListURL.replace("%index%", chapter));
-            if(doc != null) {
-                final List<Element> list = new ArrayList<>();
-                for(Element element : doc.select("div.statutes div.qs_toc_entry_")) {
-                    final String text = element.text();
-                    final String[] values = text.split(" ");
-                    final String statute = values[0], value = text.split(statute + " ")[1];
-                    list.add(new Element(statute).appendChild(new TextNode(statute)));
-                    list.add(new Element(value).appendChild(new TextNode(value)));
-                }
-                iterateThroughChapterTable(new Elements(list), builder, false);
+    public void loadStatuteList(String title, String chapter) {
+        final String path = title + "." + chapter;
+        final Document doc = getDocument(statutesListURL.replace("%index%", chapter));
+        if(doc != null) {
+            final List<Element> list = new ArrayList<>();
+            for(Element element : doc.select("div.statutes div.qs_toc_entry_")) {
+                final String text = element.text();
+                final String[] values = text.split(" ");
+                final String statute = values[0], value = text.split(statute + " ")[1];
+                list.add(new Element(statute).appendChild(new TextNode(statute)));
+                list.add(new Element(value).appendChild(new TextNode(value)));
             }
-            builder.append("]");
-            final String string = builder.toString();
-            statutesJSON.put(chapter, string);
-            return string;
+            iterateThroughStatuteTable(path, new Elements(list));
         }
     }
     @Override

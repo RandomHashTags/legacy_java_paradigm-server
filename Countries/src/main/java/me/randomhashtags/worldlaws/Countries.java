@@ -13,7 +13,11 @@ import me.randomhashtags.worldlaws.info.legal.LegalityDrugs;
 import me.randomhashtags.worldlaws.info.list.Flyover;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankingServices;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankings;
-import me.randomhashtags.worldlaws.info.service.*;
+import me.randomhashtags.worldlaws.info.service.CIAServices;
+import me.randomhashtags.worldlaws.info.service.CountryService;
+import me.randomhashtags.worldlaws.info.service.CountryServices;
+import me.randomhashtags.worldlaws.info.service.TravelBriefing;
+import me.randomhashtags.worldlaws.service.WikipediaCountryService;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -38,8 +42,8 @@ public final class Countries implements WLServer {
     }
 
     private Countries() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -48,12 +52,6 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        CountryAvailabilities.INSTANCE.getCountryAvailabilities("unitedstates", new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                WLLogger.log(Level.INFO, "Countries;test;string=" + string);
-            }
-        });
     }
 
     @Override
@@ -88,7 +86,7 @@ public final class Countries implements WLServer {
                     Flyover.INSTANCE,
                     TravelBriefing.INSTANCE,
                     CIAServices.INSTANCE,
-                    Wikipedia.INSTANCE
+                    new WikipediaCountryService(true)
             ));
             addAll(Arrays.asList(CountryRankings.values()));
             add(CountryHistory.INSTANCE);

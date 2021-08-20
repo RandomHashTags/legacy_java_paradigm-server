@@ -4,7 +4,6 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.country.WLSubdivisions;
 import me.randomhashtags.worldlaws.weather.*;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
@@ -77,7 +76,6 @@ public enum WeatherUSA implements WeatherController {
             public void handleJSONObject(JSONObject json) {
                 if(json != null) {
                     final JSONArray array = json.getJSONArray("features");
-                    final WLSubdivisions subdivisions = WLSubdivisions.INSTANCE;
                     final WLCountry unitedStates = WLCountry.UNITED_STATES;
                     StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
                         final JSONObject jsonAlert = (JSONObject) obj;

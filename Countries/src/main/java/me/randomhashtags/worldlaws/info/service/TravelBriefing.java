@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
+import me.randomhashtags.worldlaws.service.CountryServiceValue;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -79,8 +80,7 @@ public enum TravelBriefing implements CountryService {
                             json.getJSONObject("currency").remove("compare");
                             final List<String> neighbors = getNeighbors(json.getJSONArray("neighbors"));
                             json.put("neighbors", neighbors);
-                            final String string = json.toString();
-                            handler.handleString(string);
+                            handler.handleJSONObject(json);
                         }
                     });
                 }

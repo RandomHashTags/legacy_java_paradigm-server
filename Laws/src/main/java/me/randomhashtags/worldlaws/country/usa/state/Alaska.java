@@ -1,10 +1,10 @@
 package me.randomhashtags.worldlaws.country.usa.state;
 
-import me.randomhashtags.worldlaws.RomanNumeral;
 import me.randomhashtags.worldlaws.LawSubdivisionController;
-import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
+import me.randomhashtags.worldlaws.RomanNumeral;
 import me.randomhashtags.worldlaws.country.StateReference;
 import me.randomhashtags.worldlaws.country.SubdivisionStatute;
+import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
@@ -22,8 +22,7 @@ public enum Alaska implements LawSubdivisionController {
     );
 
     private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL, pageToken;
-    private StringBuilder indexesJSON;
-    private HashMap<String, String> tableOfChaptersJSON, statutesJSON, statutes, tokenIDs;
+    private HashMap<String, String> statutes, tokenIDs;
 
     Alaska(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
         this.indexesURL = indexesURL;
@@ -31,8 +30,6 @@ public enum Alaska implements LawSubdivisionController {
         this.statutesListURL = statutesListURL;
         this.statuteURL = statuteURL;
 
-        tableOfChaptersJSON = new HashMap<>();
-        statutesJSON = new HashMap<>();
         statutes = new HashMap<>();
         tokenIDs = new HashMap<>();
     }
@@ -55,26 +52,12 @@ public enum Alaska implements LawSubdivisionController {
     }
 
     @Override
-    public String getIndexesJSON() {
-        if(indexesJSON == null) {
-            indexesJSON = new StringBuilder("[");
-            getIndexes();
-            indexesJSON.append("]");
-        }
-        return indexesJSON.toString();
-    }
-    @Override
-    public String getTableOfChaptersJSON() {
-        return tableOfChaptersJSON.toString();
-    }
-
-    @Override
     public List<SubdivisionStatuteIndex> getIndexes() {
         final List<SubdivisionStatuteIndex> indexes = new ArrayList<>();
         final Document doc = getDocument(indexesURL);
         if(doc != null) {
             final Elements table = doc.select("option");
-            iterateIndexTable(table, indexesJSON, true, true);
+            iterateIndexTable(table, true, true);
             for(Element element : table) {
                 final String value = element.val();
                 if(value != null && !value.isEmpty()) {
@@ -88,90 +71,72 @@ public enum Alaska implements LawSubdivisionController {
         return indexes;
     }
     @Override
-    public String getTableOfChapters(String title) {
-        if(tableOfChaptersJSON.containsKey(title)) {
-            return tableOfChaptersJSON.get(title);
-        } else {
-            final StringBuilder builder = new StringBuilder("[");
-            final Document doc = getDocument(tableOfChaptersURL.replace("%token%", tokenIDs.get(title)));
+    public void loadTableOfChapters(String title) {
+        final Document doc = getDocument(tableOfChaptersURL.replace("%token%", tokenIDs.get(title)));
 
-            if(doc != null) {
-                final List<Element> table = new ArrayList<>();
-                for(int i = 1; i <= doc.select("tr a[href]").size(); i++) {
-                    final String string = Integer.toString(i);
+        if(doc != null) {
+            final List<Element> table = new ArrayList<>();
+            for(int i = 1; i <= doc.select("tr a[href]").size(); i++) {
+                final String string = Integer.toString(i);
+                table.add(new Element(string).appendChild(new TextNode(string)));
+            }
+
+            int index = 1;
+            final List<Element> list = new ArrayList<>();
+            for(Element element : doc.select("td.titlepage")) {
+                if(!element.text().equals("[RESERVED]")) {
+                    list.add(element);
+                } else {
+                    table.remove(index-1);
+                    index++;
+                    final String string = Integer.toString(index);
                     table.add(new Element(string).appendChild(new TextNode(string)));
                 }
-
-                int index = 1;
-                final List<Element> list = new ArrayList<>();
-                for(Element element : doc.select("td.titlepage")) {
-                    if(!element.text().equals("[RESERVED]")) {
-                        list.add(element);
-                    } else {
-                        table.remove(index-1);
-                        index++;
-                        final String string = Integer.toString(index);
-                        table.add(new Element(string).appendChild(new TextNode(string)));
-                    }
-                    index++;
-                }
-                iterateIndexTable(new Elements(table), builder, false, false, new Elements(list));
+                index++;
             }
-            builder.append("]");
-            final String string = builder.toString();
-            tableOfChaptersJSON.put(title, string);
-            return string;
+            iterateChapterTable(title, new Elements(table), false, new Elements(list));
         }
     }
 
     @Override
-    public String getStatuteList(String title, String chapter) {
+    public void loadStatuteList(String title, String chapter) {
         final String path = title + "." + chapter;
-        if(statutesJSON.containsKey(path)) {
-            return statutesJSON.get(path);
-        } else {
-            final StringBuilder builder = new StringBuilder("[");
-            final String zeroedTitle = prefixZeros(title, 2), romanChapter = RomanNumeral.toRoman(Integer.parseInt(chapter));
-            final String url = statutesListURL.replace("%token%", pageToken).replaceFirst("%title%", zeroedTitle).replace("%title%", title).replace("%chapter%", romanChapter);
-            final Document doc = getDocument(url);
-            if(doc != null) {
-                final Elements table = doc.select("div div div table tbody tr p ~ table");
-                table.remove(0);
-                table.remove(0);
+        final String zeroedTitle = prefixZeros(title, 2), romanChapter = RomanNumeral.toRoman(Integer.parseInt(chapter));
+        final String url = statutesListURL.replace("%token%", pageToken).replaceFirst("%title%", zeroedTitle).replace("%title%", title).replace("%chapter%", romanChapter);
+        final Document doc = getDocument(url);
+        if(doc != null) {
+            final Elements table = doc.select("div div div table tbody tr p ~ table");
+            table.remove(0);
+            table.remove(0);
 
-                final List<Element> list = new ArrayList<>();
-                for(Element element : table) {
-                    final String text = element.text();
-                    final boolean isReserved = text.contains("[RESERVED]");
-                    if(!isReserved) {
-                        final String indexString = text.split(" ")[0];
-                        final int index = Integer.parseInt(indexString);
-                        final String string = text.substring(indexString.length()+1);
-                        final String[] values = string.split(" ");
-                        final boolean isRange = values.length > 1 && values[1].equals("to");
-                        final String statutes = isRange ? values[0] + " " + values[1] + " " + values[2] : values[0], topic = text.split(statutes + " ")[1];
-                        final String statuteList = isRange ? statutes.replace(index + ".", "").replace(" to ", "-") : statutes;
-                        final Element topicElement = new Element(topic).appendChild(new TextNode(topic));
-                        if(isRange) {
-                            final String[] range = statuteList.split("-");
-                            final int starting = Integer.parseInt(range[0]), ending = Integer.parseInt(range[1]);
-                            for(int i = starting; i <= ending; i++) {
-                                final String value = index + "." + i;
-                                list.add(new Element(value).appendChild(new TextNode(value)));
-                                list.add(topicElement);
-                            }
-                        } else {
-                            list.add(new Element(statuteList).appendChild(new TextNode(statuteList)));
+            final List<Element> list = new ArrayList<>();
+            for(Element element : table) {
+                final String text = element.text();
+                final boolean isReserved = text.contains("[RESERVED]");
+                if(!isReserved) {
+                    final String indexString = text.split(" ")[0];
+                    final int index = Integer.parseInt(indexString);
+                    final String string = text.substring(indexString.length()+1);
+                    final String[] values = string.split(" ");
+                    final boolean isRange = values.length > 1 && values[1].equals("to");
+                    final String statutes = isRange ? values[0] + " " + values[1] + " " + values[2] : values[0], topic = text.split(statutes + " ")[1];
+                    final String statuteList = isRange ? statutes.replace(index + ".", "").replace(" to ", "-") : statutes;
+                    final Element topicElement = new Element(topic).appendChild(new TextNode(topic));
+                    if(isRange) {
+                        final String[] range = statuteList.split("-");
+                        final int starting = Integer.parseInt(range[0]), ending = Integer.parseInt(range[1]);
+                        for(int i = starting; i <= ending; i++) {
+                            final String value = index + "." + i;
+                            list.add(new Element(value).appendChild(new TextNode(value)));
                             list.add(topicElement);
                         }
+                    } else {
+                        list.add(new Element(statuteList).appendChild(new TextNode(statuteList)));
+                        list.add(topicElement);
                     }
                 }
-                iterateThroughChapterTable(new Elements(list), builder, false);
             }
-            builder.append("]");
-            final String string = builder.toString();
-            statutesJSON.put(path, string);
-            return string;
+            iterateThroughStatuteTable(path, new Elements(list));
         }
     }
     @Override

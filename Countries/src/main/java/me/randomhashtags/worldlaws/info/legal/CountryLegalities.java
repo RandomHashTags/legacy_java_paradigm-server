@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.info.legal;
 
 import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.info.CountryInfoKey;
 import me.randomhashtags.worldlaws.info.CountryInfoValue;
-import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;

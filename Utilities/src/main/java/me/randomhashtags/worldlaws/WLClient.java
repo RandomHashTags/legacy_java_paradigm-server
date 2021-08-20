@@ -25,7 +25,7 @@ public final class WLClient extends Thread {
                 handler.handleClient(this);
             }
         } catch (Exception e) {
-            e.printStackTrace();
+            WLUtilities.saveException(e);
         }
     }
 
@@ -62,7 +62,7 @@ public final class WLClient extends Thread {
             output.write(input.getBytes(DataValues.ENCODING));
             close();
         } catch (Exception e) {
-            e.printStackTrace();
+            WLUtilities.saveException(e);
         }
     }
     private void close() throws Exception {
@@ -88,12 +88,12 @@ public final class WLClient extends Thread {
                         }
                     }
                 } catch (Exception e) {
-                    e.printStackTrace();
+                    WLUtilities.saveException(e);
                 }
                 this.headers = headers;
                 setupTarget();
             } catch (Exception e) {
-                e.printStackTrace();
+                WLUtilities.saveException(e);
             }
         }
     }

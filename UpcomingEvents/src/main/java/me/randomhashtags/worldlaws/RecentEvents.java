@@ -1,8 +1,9 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.recent.software.AppleSoftwareUpdates;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
+import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
+import me.randomhashtags.worldlaws.recent.software.AppleSoftwareUpdates;
 import me.randomhashtags.worldlaws.recent.software.PlayStation4Updates;
 import me.randomhashtags.worldlaws.recent.software.PlayStation5Updates;
 import org.apache.logging.log4j.Level;
@@ -20,10 +21,18 @@ public enum RecentEvents {
     private final RecentEventController[] events = new RecentEventController[] {
             AppleSoftwareUpdates.INSTANCE,
             PlayStation4Updates.INSTANCE,
-            PlayStation5Updates.INSTANCE
+            PlayStation5Updates.INSTANCE,
+            VideoGameUpdates.INSTANCE
     };
 
     public void refresh(CompletionHandler handler) {
+        //test();
+        load(handler);
+    }
+
+    private void test() {
+    }
+    private void load(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final LocalDate lastWeek = LocalDate.now().minusDays(7);
         final int max = events.length;
@@ -35,7 +44,7 @@ public enum RecentEvents {
                 @Override
                 public void handleHashSetString(HashSet<String> hashset) {
                     final int amount = hashset != null ? hashset.size() : 0;
-                    WLLogger.log(Level.INFO, "RecentEvents - loaded " + amount + " recent events for " + event.getClass().getSimpleName() + " (took " + (System.currentTimeMillis()-eventStarted) + "ms)");
+                    WLLogger.log(Level.INFO, "RecentEvents - loaded " + amount + " for " + event.getClass().getSimpleName() + " (took " + (System.currentTimeMillis()-eventStarted) + "ms)");
                     if(amount > 0) {
                         final RecentEventType type = event.getType();
                         values.putIfAbsent(type, new HashSet<>());

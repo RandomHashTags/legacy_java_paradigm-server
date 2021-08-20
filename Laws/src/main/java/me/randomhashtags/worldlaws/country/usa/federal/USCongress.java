@@ -1,11 +1,11 @@
 package me.randomhashtags.worldlaws.country.usa.federal;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.country.usa.USPoliticians;
 import me.randomhashtags.worldlaws.country.PreEnactedBill;
 import me.randomhashtags.worldlaws.country.usa.BillStatus;
 import me.randomhashtags.worldlaws.country.usa.USChamber;
 import me.randomhashtags.worldlaws.country.usa.USLaws;
+import me.randomhashtags.worldlaws.country.usa.USPoliticians;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -58,9 +58,10 @@ public enum USCongress implements Jsoupable, Jsonable {
             final long started = System.currentTimeMillis();
             final String statusName = status.name(), suffix = " bills with status " + statusName + " for congress " + version + " (took %time%ms)";
             final Folder folder = Folder.LAWS_USA_CONGRESS;
-            final String folderName = folder.getFolderName(false).replace("%version%", "" + version);
-            folder.setCustomFolderName(folderName);
-            getJSONObject(folder, "bill status: " + statusName.toLowerCase(), new CompletionHandler() {
+            final String folderName = folder.getFolderName().replace("%version%", "" + version);
+            final String fileName = "bill status: " + statusName.toLowerCase();
+            folder.setCustomFolderName(fileName, folderName);
+            getJSONObject(folder, fileName, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     getBillsBySearch(status, handler);
@@ -168,9 +169,10 @@ public enum USCongress implements Jsoupable, Jsonable {
             final int versionInt = version;
             final String version = "" + versionInt;
             final Folder folder = Folder.LAWS_USA_CONGRESS;
-            final String folderName = folder.getFolderName(false).replace("%version%", version);
-            folder.setCustomFolderName(folderName);
-            getJSONObject(folder, "enacted bills", new CompletionHandler() {
+            final String folderName = folder.getFolderName().replace("%version%", version);
+            final String fileName = "enacted bills";
+            folder.setCustomFolderName(fileName, folderName);
+            getJSONObject(folder, fileName, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     final String version = getVersioned();
@@ -257,8 +259,8 @@ public enum USCongress implements Jsoupable, Jsonable {
             final String version = getVersioned();
             final Folder folder = Folder.LAWS_USA_CONGRESS;
             final String[] title = new String[1];
-            final String chamberName = chamber.name(), chamberNameLowercase = chamberName.toLowerCase(), folderName = folder.getFolderName(false).replace("%version%", "" + versionInt) + File.separator + chamberNameLowercase;
-            folder.setCustomFolderName(folderName);
+            final String chamberName = chamber.name(), chamberNameLowercase = chamberName.toLowerCase(), folderName = folder.getFolderName().replace("%version%", "" + versionInt) + File.separator + chamberNameLowercase;
+            folder.setCustomFolderName(id, folderName);
             getJSONObject(folder, id, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {

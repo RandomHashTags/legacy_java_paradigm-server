@@ -10,7 +10,9 @@ import org.json.JSONObject;
 public interface YouTubeService extends RestAPI, Jsonable {
     default void getVideosJSONArray(YouTubeVideoType type, String title, CompletionHandler handler) {
         final String suffix = type.getSearchSuffix(), titleLowercase = title.toLowerCase();
-        final String url = "http://youtube-scrape.herokuapp.com/api/search?q=" + titleLowercase.replace(" ", "+") + "+" + suffix;
+        final String serviceURL = "http://youtube-scrape.herokuapp.com/api/search?q=" + titleLowercase.replace(" ", "+") + "+" + suffix;
+        final String localServiceURL = "http://localhost:34580/api/search?q=" + titleLowercase.replace(" ", "+") + "+" + suffix;
+        final String url = false ? localServiceURL : serviceURL;
 
         requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
@@ -128,6 +130,7 @@ public interface YouTubeService extends RestAPI, Jsonable {
         }
         private boolean isLegitMovieUploader(String username) {
             switch (username.toLowerCase()) {
+                case "20th century studios":
                 case "a24":
                 case "adult swim":
                 case "amazon prime video":

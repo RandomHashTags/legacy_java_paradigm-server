@@ -1,11 +1,14 @@
 package me.randomhashtags.worldlaws.country.subdivisions;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.country.SovereignStateResource;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+
+import java.util.HashSet;
 
 public enum UnitedStatesSubdivisions implements SovereignStateSubdivision {
     ALABAMA,
@@ -129,7 +132,7 @@ public enum UnitedStatesSubdivisions implements SovereignStateSubdivision {
     }
 
     @Override
-    public String getGovernmentURL() {
+    public String getGovernmentWebsite() {
         switch (this) {
             case HAWAII: return "https://hawaii.gov";
             case TEXAS: return "https://texas.gov";
@@ -193,6 +196,58 @@ public enum UnitedStatesSubdivisions implements SovereignStateSubdivision {
             case WEST_VIRGINA: return collectNeighbors(OHIO, PENNSYLVANIA, MARYLAND, VIRGINIA, KENTUCKY);
             case WISCONSIN: return collectNeighbors(MINNESOTA, MICHIGAN, ILLINOIS, IOWA);
             case WYOMING: return collectNeighbors(MONTANA, SOUTH_DAKOTA, NEBRASKA, COLORADO, UTAH, IDAHO);
+            default: return null;
+        }
+    }
+
+    @Override
+    public HashSet<SovereignStateResource> getCustomResources() {
+        final HashSet<SovereignStateResource> resources = new HashSet<>();
+        final String governmentConstitution = getGovernmentConstitutionURL();
+        if(governmentConstitution != null) {
+            final boolean isPDF = governmentConstitution.endsWith(".pdf");
+            resources.add(new SovereignStateResource("Government Constitution" + (isPDF ? " PDF" : ""), governmentConstitution));
+        }
+        return resources.isEmpty() ? null : resources;
+    }
+    private String getGovernmentConstitutionURL() {
+        switch (this) {
+            case ALASKA: return "https://ltgov.alaska.gov/information/alaskas-constitution/";
+            case ARIZONA: return "https://www.azleg.gov/constitution/";
+            case CALIFORNIA: return "https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&tocTitle=+California+Constitution+-+CONS";
+            case COLORADO: return "http://leg.colorado.gov/colorado-constitution";
+            case DELAWARE: return "http://delcode.delaware.gov/constitution/";
+            case FLORIDA: return "https://www.flsenate.gov/Laws/Constitution";
+            case HAWAII: return "https://lrb.hawaii.gov/constitution";
+            case IDAHO: return "https://legislature.idaho.gov/statutesrules/idconst/";
+            case KENTUCKY: return "https://apps.legislature.ky.gov/law/constitution";
+            case LOUISIANA: return "https://senate.la.gov/Documents/LAConstitution.pdf";
+            case MAINE: return "https://www.maine.gov/legis/const/";
+            case MARYLAND: return "https://msa.maryland.gov/msa/mdmanual/43const/html/const.html";
+            case MICHIGAN: return "http://www.legislature.mi.gov/(S(nilfdmsunscqoewob1q3g53a))/mileg.aspx?page=GetObject&objectname=mcl-Constitution";
+            case MINNESOTA: return "https://www.revisor.mn.gov/constitution/";
+            case MISSISSIPPI: return "https://www.sos.ms.gov/content/documents/ed_pubs/pubs/Mississippi_Constitution.pdf";
+            case MONTANA: return "https://leg.mt.gov/bills/mca/title_0000/chapters_index.html";
+            case NEBRASKA: return "https://www.nebraskalegislature.gov/FloorDocs/Current/PDF/Constitution/constitution.pdf";
+            case NEVADA: return "https://www.leg.state.nv.us/Const/NvConst.html";
+            case NEW_HAMPSHIRE: return "https://www.nh.gov/glance/constitution.htm";
+            case NEW_JERSEY: return "https://www.nj.gov/state/archives/docconst47.html";
+            case NEW_MEXICO: return "https://nmonesource.com/nmos/c/en/item/5916/index.do#!fragment//BQCwhgziBcwMYgK4DsDWszIQewE4BUBTADwBdoByCgSgBpltTCIBFRQ3AT0otokLC4EbDtyp8BQkAGU8pAELcASgFEAMioBqAQQByAYRW1SYAEbRS2ONWpA";
+            case NEW_YORK: return "https://www.nysenate.gov/new-york-state-constitution";
+            case NORTH_CAROLINA: return "https://www.ncleg.gov/Laws/Constitution";
+            case NORTH_DAKOTA: return "https://www.legis.nd.gov/constitution";
+            case OHIO: return "https://www.sos.state.oh.us/globalassets/publications/election/constitution.pdf";
+            case OREGON: return "https://sos.oregon.gov/blue-book/Documents/oregon-constitution.pdf";
+            case SOUTH_CAROLINA: return "https://www.scstatehouse.gov/scconstitution/scconst.php";
+            case SOUTH_DAKOTA: return "https://sdlegislature.gov/Statutes/Constitution";
+            case TENNESSEE: return "https://www.capitol.tn.gov/about/docs/TN-Constitution.pdf";
+            case UTAH: return "https://le.utah.gov/xcode/constitution.html";
+            case VERMONT: return "https://legislature.vermont.gov/statutes/constitution-of-the-state-of-vermont/";
+            case VIRGINIA: return "https://law.lis.virginia.gov/constitution/";
+            case WASHINGTON: return "https://leg.wa.gov/CodeReviser/Pages/WAConstitution.aspx";
+            case WEST_VIRGINA: return "http://www.wvlegislature.gov/WVCODE/WV_CON.cfm";
+            case WISCONSIN: return "https://docs.legis.wisconsin.gov/constitution/wi_unannotated";
+            case WYOMING: return "https://sos.wyo.gov/Forms/Publications/WYConstitution.pdf";
             default: return null;
         }
     }

@@ -41,7 +41,7 @@ public enum NewZealandSubdivisions implements SovereignStateSubdivision {
     }
 
     @Override
-    public String getGovernmentURL() {
+    public String getGovernmentWebsite() {
         return null;
     }
 

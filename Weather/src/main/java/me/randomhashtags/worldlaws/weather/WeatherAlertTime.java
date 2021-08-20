@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws.weather;
 
+import me.randomhashtags.worldlaws.WLUtilities;
+
 import java.text.SimpleDateFormat;
 
 public final class WeatherAlertTime {
@@ -25,7 +27,7 @@ public final class WeatherAlertTime {
         try {
             return FORMAT.parse(input).getTime();
         } catch (Exception e) {
-            e.printStackTrace();
+            WLUtilities.saveException(e);
             return 0;
         }
     }

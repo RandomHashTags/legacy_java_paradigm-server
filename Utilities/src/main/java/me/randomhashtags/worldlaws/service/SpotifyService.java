@@ -9,10 +9,12 @@ import org.json.JSONObject;
 import java.util.Base64;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.StreamSupport;
 
 public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
+    ConcurrentHashMap<String, HashSet<CompletionHandler>> WAITING_FOR_ACCESS_TOKEN = new ConcurrentHashMap<>();
 
     default void getSpotifyAccessToken(CompletionHandler handler) {
         getSpotifyJSONValues(new CompletionHandler() {
@@ -21,6 +23,12 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
                 final String accessToken = json.getString("access_token"), tokenType = json.getString("token_type");
                 final String string = tokenType.substring(0, 1).toUpperCase() + tokenType.substring(1) + " " + accessToken;
                 handler.handleString(string);
+                final HashSet<CompletionHandler> completionHandlers = WAITING_FOR_ACCESS_TOKEN.getOrDefault("spotify", null);
+                if(completionHandlers != null) {
+                    for(CompletionHandler completionHandler : completionHandlers) {
+                        completionHandler.handleString(string);
+                    }
+                }
             }
         });
     }
@@ -29,13 +37,17 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
             @Override
             public void handleJSONObject(JSONObject json) {
                 if(json.isEmpty()) {
+                    if(WAITING_FOR_ACCESS_TOKEN.isEmpty()) {
+                        WAITING_FOR_ACCESS_TOKEN.put("spotify", new HashSet<>());
+                    } else {
+                        WAITING_FOR_ACCESS_TOKEN.get("spotify").add(handler);
+                        return;
+                    }
+                    requestSpotifyToken(getRequestSpotifyTokenCompletionHandler(handler));
+                } else if(System.currentTimeMillis() >= json.getLong("expiration")) {
                     requestSpotifyToken(getRequestSpotifyTokenCompletionHandler(handler));
                 } else {
-                    if(System.currentTimeMillis() >= json.getLong("expiration")) {
-                        requestSpotifyToken(getRequestSpotifyTokenCompletionHandler(handler));
-                    } else {
-                        handler.handleJSONObject(json);
-                    }
+                    handler.handleJSONObject(json);
                 }
             }
         });
@@ -131,7 +143,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
                                         }
                                     }
                                 }
-                                final String completedString = "SpotifyService - %status% album with name \"" + album + "\" (took %time%ms)";
+                                final String completedString = "SpotifyService - %status% album with name \"" + album + "\" with artists " + artists.toString() + " (took %time%ms)";
                                 if(targetJSON != null) {
                                     final String availableMarketsKey = "available_markets";
                                     final JSONArray availableMarketsArray = targetJSON.getJSONArray(availableMarketsKey);
@@ -153,7 +165,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
                                         }
                                     });
                                 } else {
-                                    WLLogger.log(Level.INFO, completedString.replace("%time%", "" + (System.currentTimeMillis()-started)).replace("%status%", "failed to load"));
+                                    WLLogger.log(Level.WARN, completedString.replace("%time%", "" + (System.currentTimeMillis()-started)).replace("%status%", "failed to load"));
                                     handler.handleJSONObject(null);
                                 }
                             }

@@ -37,7 +37,7 @@ public enum AustraliaSubdivisions implements SovereignStateSubdivision {
     }
 
     @Override
-    public String getGovernmentURL() {
+    public String getGovernmentWebsite() {
         return "https://www." + getPostalCodeAbbreviation().toLowerCase() + ".gov.au";
     }
 
