@@ -1,13 +1,16 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.iap.InAppPurchases;
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.entertainment.Movies;
 import me.randomhashtags.worldlaws.upcoming.entertainment.MusicAlbums;
 import me.randomhashtags.worldlaws.upcoming.entertainment.TVShows;
 import me.randomhashtags.worldlaws.upcoming.entertainment.VideoGames;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
+import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
 import me.randomhashtags.worldlaws.upcoming.sports.UFC;
 import org.apache.logging.log4j.Level;
@@ -28,6 +31,7 @@ public final class UpcomingEvents implements WLServer {
                 //NFL.INSTANCE, // problem
                 MusicAlbums.INSTANCE,
                 RocketLaunches.INSTANCE,
+                SpaceEvents.INSTANCE,
                 //SpaceX.INSTANCE,
                 TVShows.INSTANCE,
                 UFC.INSTANCE,
@@ -38,6 +42,8 @@ public final class UpcomingEvents implements WLServer {
     public static void main(String[] args) {
         INSTANCE.initialize();
     }
+
+    private String typesJSON;
 
     private void initialize() {
         test();
@@ -50,12 +56,8 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        Holidays.INSTANCE.getResponse("near", new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                WLLogger.log(Level.INFO, "UpcomingEvents;test;string=" + string);
-            }
-        });
+        final String ids = InAppPurchases.getProductIDs(APIVersion.v1);
+        WLLogger.log(Level.INFO, "UpcomingEvents;test;ids=" + ids);
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {
@@ -68,6 +70,9 @@ public final class UpcomingEvents implements WLServer {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
+            case "event_types":
+                handler.handleString(getEventTypesJSON());
+                break;
             case "happeningnow":
                 //StreamingEvents.TWITCH.getUpcomingEvents(handler);
                 break;
@@ -101,6 +106,7 @@ public final class UpcomingEvents implements WLServer {
     @Override
     public String[] getHomeRequests() {
         return new String[] {
+                "event_types",
                 "holidays/near",
                 "weekly_events",
                 "recent_events",
@@ -111,6 +117,13 @@ public final class UpcomingEvents implements WLServer {
     @Override
     public AutoUpdateSettings getAutoUpdateSettings() {
         return new AutoUpdateSettings(WLUtilities.UPCOMING_EVENTS_UPDATE_INTERVAL, null);
+    }
+
+    private String getEventTypesJSON() {
+        if(typesJSON == null) {
+            typesJSON = UpcomingEventType.getTypesJSON();
+        }
+        return typesJSON;
     }
 
     private void refreshEventsFromThisWeek(CompletionHandler handler) {
@@ -167,8 +180,6 @@ public final class UpcomingEvents implements WLServer {
                 }
             }
         };
-        CONTROLLERS.parallelStream().forEach(controller -> {
-            controller.getEventsFromDates(dateStrings, completionHandler);
-        });
+        CONTROLLERS.parallelStream().forEach(controller -> controller.getEventsFromDates(dateStrings, completionHandler));
     }
 }

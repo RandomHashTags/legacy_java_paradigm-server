@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.upcoming.space;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.EventDate;
+import me.randomhashtags.worldlaws.PreUpcomingEvent;
+import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
@@ -21,7 +24,7 @@ public enum SpaceX implements USAUpcomingEventController {
 
     @Override
     public UpcomingEventType getType() {
-        return UpcomingEventType.SPACE_X;
+        return null; // UpcomingEventType.SPACE_X
     }
 
     @Override
@@ -94,7 +97,7 @@ public enum SpaceX implements USAUpcomingEventController {
 
     @Override
     public void loadUpcomingEvent(String id, CompletionHandler handler) {
-        final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.get(id);
+        /*final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.get(id);
         final String launchpadID = preUpcomingEvent.getURL(), description = preUpcomingEvent.getTag();
         final String title = preUpcomingEvent.getTitle();
         getLaunchpad(launchpadID, new CompletionHandler() {
@@ -110,6 +113,6 @@ public enum SpaceX implements USAUpcomingEventController {
                 upcomingEvents.put(id, value);
                 handler.handleString(value);
             }
-        });
+        });*/
     }
 }

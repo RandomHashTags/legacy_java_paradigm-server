@@ -39,17 +39,13 @@ public enum RocketLaunches implements UpcomingEventController {
 
     @Override
     public void load(CompletionHandler handler) {
-        refresh(handler);
-    }
-
-    private void refresh(CompletionHandler handler) {
         upcomingEvents = new HashMap<>();
 
         requestJSONObject("https://ll.thespacedevs.com/2.0.0/launch/upcoming/?format=json&limit=50&mode=detailed&offset=0", RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
                 if(json != null) {
-                    final LocalDate endingDate = LocalDate.now();
+                    final LocalDate today = LocalDate.now(), endingDate ;
                     final JSONArray launches = json.getJSONArray("results");
                     final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
                     final AtomicInteger completed = new AtomicInteger(0);
@@ -77,9 +73,10 @@ public enum RocketLaunches implements UpcomingEventController {
                         final String dateString = getEventDateString(date), id = getEventDateIdentifier(dateString, name);
                         final RocketLaunch launch = new RocketLaunch(name, status, location, exactDay, exactTime, probability, rocketImageURL, mission, windowStart, windowEnd, sources);
                         final String string = launch.toJSON();
-                        if(date.getLocalDate().isEqual(endingDate)) {
+                        if(date.getLocalDate().isEqual(today)) {
                             saveUpcomingEventToJSON(id, string);
                         }
+                        LOADED_PRE_UPCOMING_EVENTS.put(id, launch.toPreUpcomingEventJSON(id, location));
                         upcomingEvents.put(id, string);
 
                         if(completed.addAndGet(1) == max) {

@@ -42,8 +42,8 @@ public final class Countries implements WLServer {
     }
 
     private Countries() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -247,42 +247,35 @@ public final class Countries implements WLServer {
             case "countries":
                 handler.handleString(countriesCacheJSON);
                 break;
-            default:
-                final CustomCountry country = countriesMap.getOrDefault(key, null);
+            case "information":
+                final String value = values[1];
+                final CustomCountry country = countriesMap.getOrDefault(value, null);
                 if(country != null) {
-                    if(values.length == 1) {
-                        handler.handleString(country.toString());
-                    } else {
-                        final String targetValue = values[1];
-                        switch (targetValue) {
-                            case "information":
-                                country.getInformation(version, handler);
-                                break;
-                            case "service":
-                                final String serviceID = values[2];
-                                final CountryService service = CountryServices.valueOfCountryInfo(serviceID);
-                                if(service != null) {
-                                    service.getCountryValue(country.getBackendID(), handler);
-                                }
-                                break;
-                            default:
-                                final SovereignStateSubdivision subdivision = country.getWLCountry().valueOfSovereignStateSubdivision(targetValue);
-                                if(subdivision != null) {
-                                    if(values[2].equals("information")) {
-                                        subdivision.getInformation(handler);
-                                        return;
-                                    }
-                                    handler.handleString(null);
-                                    return;
-                                }
-                                handler.handleString(country.toString());
-                                break;
-                        }
+                    final int length = values.length;
+                    switch (length) {
+                        case 2:
+                            country.getInformation(version, handler);
+                            break;
+                        case 3:
+                            final String subdivisionBackendID = values[2];
+                            final SovereignStateSubdivision subdivision = country.getWLCountry().valueOfSovereignStateSubdivision(subdivisionBackendID);
+                            if(subdivision != null) {
+                                subdivision.getInformation(handler);
+                            } else {
+                                WLLogger.log(Level.WARN, "Countries - failed to get information for subdivision \"" + subdivisionBackendID + "\" from country \"" + country.getBackendID() + "\"!");
+                            }
+                            break;
+                        default:
+                            handler.handleString(null);
+                            break;
                     }
                 } else {
-                    WLLogger.log(Level.WARN, "Countries - failed to send response using key \"" + key + "\"!");
                     handler.handleString(null);
                 }
+                break;
+            default:
+                WLLogger.log(Level.WARN, "Countries - failed to send response using target \"" + target + "\"!");
+                handler.handleString(null);
                 break;
         }
     }

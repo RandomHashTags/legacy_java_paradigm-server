@@ -166,16 +166,18 @@ public enum VideoGames implements UpcomingEventController {
         headlines.removeIf(headline -> !headline.select("span.mw-headline").text().equals("External links"));
         if(!headlines.isEmpty()) {
             final Element headline = headlines.get(0);
-            final int indexOfExternalLinks = elements.indexOf(headline);
+            final int indexOfExternalLinks = headline.elementSiblingIndex();
             if(indexOfExternalLinks != -1) {
                 for(int i = 1; i <= indexOfExternalLinks; i++) {
                     elements.remove(0);
                 }
                 final Element ul = elements.select("ul").get(0);
-                for(Element test : ul.select("li")) {
-                    final String text = test.text();
-                    for(Element externalLink : test.select("a.external")) {
-                        final EventSource source = new EventSource(text, externalLink.attr("href"));
+                final Element list = ul.selectFirst("li");
+                if(list != null) {
+                    final Elements hrefs = list.select("a.external");
+                    for(Element href : hrefs) {
+                        final String text = href.text();
+                        final EventSource source = new EventSource(text, href.attr("href"));
                         sources.addSource(source);
                     }
                 }

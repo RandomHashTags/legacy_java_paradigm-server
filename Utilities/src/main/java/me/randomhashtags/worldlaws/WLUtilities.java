@@ -13,7 +13,8 @@ public abstract class WLUtilities {
     public static final long UPCOMING_EVENTS_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
     public static final long UPCOMING_EVENTS_TV_SHOW_UPDATE_INTERVAL = TimeUnit.DAYS.toMillis(1);
     public static final long WEATHER_ALERTS_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);
-    public static final long WEATHER_EARTHQUAKES_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
+    public static final long WEATHER_EARTHQUAKES_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(30);
+    public static final long WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
 
     public static Month valueOfMonthFromInput(String input) {
         input = input.toLowerCase().substring(0, 3);
@@ -45,16 +46,15 @@ public abstract class WLUtilities {
     }
 
     public static void saveException(Exception exception) {
-        final StringBuilder builder = new StringBuilder();
-        boolean isFirst = true;
+        final StringBuilder builder = new StringBuilder(exception.getLocalizedMessage());
         for(StackTraceElement element : exception.getStackTrace()) {
-            builder.append(isFirst ? "" : "\n").append(element.toString());
-            isFirst = false;
+            builder.append("\n").append(element.toString());
         }
         final String errorName = exception.getClass().getSimpleName();
         final Folder folder = Folder.LOGS_ERRORS;
         final String fileName = Long.toString(System.currentTimeMillis());
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%errorName%", errorName));
         Jsonable.saveFile("WLUtilities.saveException", Level.ERROR, folder, fileName, builder.toString(), "txt");
+        folder.removeCustomFolderName(fileName);
     }
 }

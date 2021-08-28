@@ -1,48 +1,45 @@
 package me.randomhashtags.worldlaws;
 
 import java.io.File;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 
 public enum Folder {
     AVAILABILITIES("availabilities"),
 
-    COUNTRIES("countries"),
-    COUNTRIES_AVAILABILITIES("countries" + File.separator + "availabilities"),
-    COUNTRIES_COUNTRIES("countries" + File.separator + "countries"),
-    COUNTRIES_SUBDIVISIONS("countries" + File.separator + "subdivisions"),
-    COUNTRIES_HISTORY("countries" + File.separator + "history"),
-    COUNTRIES_LEGALITIES("countries" + File.separator + "legalities"),
-    COUNTRIES_NATIONAL("countries" + File.separator + "national"),
-    COUNTRIES_RANKINGS("countries" + File.separator + "rankings"),
-    COUNTRIES_RANKINGS_AGRICULTURE("countries" + File.separator + "rankings" + File.separator + "agriculture"),
-    COUNTRIES_INFO("countries" + File.separator + "info"),
-    COUNTRIES_INFORMATION("countries" + File.separator + "information"),
-    COUNTRIES_SERVICES("countries" + File.separator + "services"),
+    COUNTRIES,
+    COUNTRIES_AVAILABILITIES,
+    COUNTRIES_COUNTRIES,
+    COUNTRIES_SUBDIVISIONS,
+    COUNTRIES_HISTORY,
+    COUNTRIES_LEGALITIES,
+    COUNTRIES_NATIONAL,
+    COUNTRIES_RANKINGS,
+    COUNTRIES_RANKINGS_AGRICULTURE,
+    COUNTRIES_INFO,
+    COUNTRIES_INFORMATION,
+    COUNTRIES_SERVICES,
     COUNTRIES_SERVICES_TRAVEL_BRIEFING("countries" + File.separator + "services" + File.separator + "travel briefing"),
-    COUNTRIES_SERVICES_WIKIPEDIA("countries" + File.separator + "services" + File.separator + "wikipedia"),
+    COUNTRIES_SERVICES_WIKIPEDIA,
     COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES("countries" + File.separator + "services" + File.separator + "wikipedia" + File.separator + "featured pictures"),
     COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES_MEDIA("countries" + File.separator + "services" + File.separator + "wikipedia" + File.separator + "featured pictures" + File.separator + "media"),
 
-    COUNTRIES_VALUES("countries" + File.separator + "values"),
+    COUNTRIES_VALUES,
 
-    LAWS_USA_MEMBERS("laws" + File.separator + "usa" + File.separator + "members"),
+    LAWS_USA_MEMBERS,
     LAWS_USA_CONGRESS("laws" + File.separator + "usa" + File.separator + "congress" + File.separator + "%version%"),
 
     SERVICES_FINANCE_YAHOO_TWELVE_DATA_CHARTS("services" + File.separator + "finance" + File.separator + "twelveData" + File.separator + "charts"),
     SERVICES_FINANCE_YAHOO_FINANCE_CHARTS("services" + File.separator + "finance" + File.separator + "yahooFinance" + File.separator + "charts"),
 
-    SUBDIVISIONS("subdivisions"),
-    SUBDIVISIONS_SUBDIVISIONS("subdivisions" + File.separator + "subdivisions"), // TODO: split into respective country
-    SUBDIVISIONS_CITIES("subdivisions" + File.separator + "cities"),
+    SUBDIVISIONS,
+    SUBDIVISIONS_SUBDIVISIONS, // TODO: split into respective country
+    SUBDIVISIONS_CITIES,
     SUBDIVISIONS_INFORMATION("subdivisions" + File.separator + "information" + File.separator + "%country%"),
-    SUBDIVISIONS_SERVICES_WIKIPEDIA("subdivisions" + File.separator + "services" + File.separator + "wikipedia"),
+    SUBDIVISIONS_SERVICES_WIKIPEDIA,
 
     OTHER(null),
-    LOGS("logs"),
+    LOGS,
     LOGS_ERRORS("logs" + File.separator + "errors" + File.separator + "%errorName%"),
-    LOGS_WARNINGS("logs" + File.separator + "warnings"),
 
     UPCOMING_EVENTS("upcoming events"),
     UPCOMING_EVENTS_YEAR_DAY("upcoming events" + File.separator + "%year%" + File.separator + "%day%"),
@@ -50,12 +47,16 @@ public enum Folder {
     UPCOMING_EVENTS_HOLIDAYS("upcoming events" + File.separator + "holidays" + File.separator + "%year%"),
     UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS("upcoming events" + File.separator + "holidays" + File.separator + "descriptions"),
     UPCOMING_EVENTS_TV_SHOWS("upcoming events" + File.separator + "tv shows"),
-    WEATHER_USA_ZONES("weather" + File.separator + "usa" + File.separator + "zones"),
+    WEATHER_USA_ZONES,
     ;
 
     private final String folderName;
     private final HashMap<String, String> ids;
 
+    Folder() {
+        this.folderName = name().toLowerCase().replace("_", File.separator);
+        ids = new HashMap<>();
+    }
     Folder(String folderName) {
         this.folderName = folderName;
         ids = new HashMap<>();
@@ -65,7 +66,7 @@ public enum Folder {
         return folderName;
     }
     public String getFolderName(String id) {
-        return ids.getOrDefault(id, id);
+        return ids.get(id);
     }
     public void setCustomFolderName(String id, String folderName) {
         ids.put(id, folderName);
@@ -74,26 +75,8 @@ public enum Folder {
         ids.remove(id);
     }
 
-    public List<String> getParentFolders() {
-        if(folderName != null) {
-            final List<String> list = new ArrayList<>();
-            final String separator = File.separator;
-            final String prefix = Jsonable.USER_DIR + "downloaded_pages" + separator;
-            String previousFolder = "";
-            for(String string : folderName.split(separator)) {
-                list.add(prefix + previousFolder + string);
-                previousFolder = previousFolder.concat(string + separator);
-            }
-            return list;
-        }
-        return null;
-    }
-
-    public String getFolderPath() {
-        return Jsonable.USER_DIR + "downloaded_pages" + (folderName != null ? File.separator + folderName : "");
-    }
     public String getFolderPath(String id) {
         final String folderName = getFolderName(id);
-        return Jsonable.USER_DIR + "downloaded_pages" + (folderName != null ? File.separator + folderName : "");
+        return Jsonable.USER_DIR + "downloaded_pages" + File.separator + (folderName != null ? folderName :this.folderName);
     }
 }

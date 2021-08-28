@@ -18,6 +18,7 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
     INTERNATIONAL_DNA_DAY(
             "DNA Day"
     ),
+    INTERNATIONAL_DOG_DAY,
     MOLE_DAY,
     NATIONAL_GIRLFRIEND_DAY,
     NATIONAL_SCIENCE_FICTION_DAY,
@@ -58,6 +59,7 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
             case WIKIPEDIA_DAY:
             case WORLD_LOGIC_DAY:
                 return HolidaySource.WIKIPEDIA;
+            case INTERNATIONAL_DOG_DAY:
             case WORLD_PHOTOGRAPHY_DAY:
                 return HolidaySource.OTHER;
             default:
@@ -104,6 +106,7 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
             case FIBONACCI_DAY: return new EventDate(Month.NOVEMBER, 23, year);
             case INTERNATIONAL_BEER_DAY: return getFirst(DayOfWeek.FRIDAY, Month.AUGUST, year);
             case INTERNATIONAL_DNA_DAY: return new EventDate(Month.APRIL, 25, year);
+            case INTERNATIONAL_DOG_DAY: return new EventDate(Month.AUGUST, 26, year);
             case MOLE_DAY: return new EventDate(Month.OCTOBER, 23, year);
             case NATIONAL_GIRLFRIEND_DAY: return country == WLCountry.UNITED_STATES ? new EventDate(Month.AUGUST, 1, year) : null;
             case NATIONAL_SCIENCE_FICTION_DAY: return country == WLCountry.UNITED_STATES ? new EventDate(Month.JANUARY, 2, year) : null;

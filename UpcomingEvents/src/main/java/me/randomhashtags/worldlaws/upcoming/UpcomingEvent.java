@@ -3,8 +3,8 @@ package me.randomhashtags.worldlaws.upcoming;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.PreUpcomingEvent;
 import org.json.JSONArray;
-import org.json.JSONObject;
 
 public interface UpcomingEvent extends Jsoupable {
     String getTitle();
@@ -16,6 +16,10 @@ public interface UpcomingEvent extends Jsoupable {
     }
     EventSources getSources();
     String getPropertiesJSONObject();
+
+    default String toPreUpcomingEventJSON(String id, String tag) {
+        return new PreUpcomingEvent(id, getTitle(), null, tag).toStringWithImageURL(getImageURL());
+    }
 
     default String toJSON() {
         final String imageURL = getImageURL(), properties = getPropertiesJSONObject(), location = getLocation();

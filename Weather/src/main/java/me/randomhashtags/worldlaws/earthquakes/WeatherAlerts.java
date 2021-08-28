@@ -146,40 +146,38 @@ public enum WeatherAlerts {
         if(allAlertsJSON != null) {
             handler.handleString(allAlertsJSON);
         } else {
-            allAlertsJSON = "{}";
             refreshAllAlertEvents(handler);
         }
     }
     private void refreshAllAlertEvents(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
+        allAlertsJSON = "{}";
         countries.clear();
         final HashMap<String, Long> controllerLoadTimes = new HashMap<>();
         final WeatherController[] countries = getCountries();
         final int max = countries.length;
         final AtomicInteger completed = new AtomicInteger(0);
-        Arrays.asList(countries).parallelStream().forEach(weather -> {
-            getAlertEvents(weather, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    controllerLoadTimes.put(weather.getClass().getSimpleName(), System.currentTimeMillis()-started);
-                    if(completed.addAndGet(1) == max) {
-                        updateAllAlertsJSON();
-                        final StringBuilder loadTimes = new StringBuilder();
-                        boolean isFirst = true;
-                        for(Map.Entry<String, Long> map : controllerLoadTimes.entrySet()) {
-                            final String simpleName = map.getKey();
-                            final long time = map.getValue();
-                            loadTimes.append(isFirst ? "" : ",").append(simpleName).append(" took ").append(time).append("ms");
-                            isFirst = false;
-                        }
-                        WLLogger.log(Level.INFO, "WeatherAlerts - refreshed All Alert Events (took " + (System.currentTimeMillis()-started) + "ms total, " + loadTimes.toString() + ")");
-                        if(handler != null) {
-                            handler.handleString(allAlertsJSON);
-                        }
+        Arrays.asList(countries).parallelStream().forEach(weather -> getAlertEvents(weather, new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                controllerLoadTimes.put(weather.getClass().getSimpleName(), System.currentTimeMillis()-started);
+                if(completed.addAndGet(1) == max) {
+                    updateAllAlertsJSON();
+                    final StringBuilder loadTimes = new StringBuilder();
+                    boolean isFirst = true;
+                    for(Map.Entry<String, Long> map : controllerLoadTimes.entrySet()) {
+                        final String simpleName = map.getKey();
+                        final long time = map.getValue();
+                        loadTimes.append(isFirst ? "" : ",").append(simpleName).append(" took ").append(time).append("ms");
+                        isFirst = false;
+                    }
+                    WLLogger.log(Level.INFO, "WeatherAlerts - refreshed All Alert Events (took " + (System.currentTimeMillis()-started) + "ms total, " + loadTimes.toString() + ")");
+                    if(handler != null) {
+                        handler.handleString(allAlertsJSON);
                     }
                 }
-            });
-        });
+            }
+        }));
     }
     private void updateAllAlertsJSON() {
         final StringBuilder builder = new StringBuilder("{");

@@ -9,8 +9,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.HashMap;
-import java.util.Timer;
-import java.util.TimerTask;
+import java.util.LinkedHashMap;
 
 public enum StreamingEvents implements UpcomingEventController, DataValues {
     TWITCH(null,
@@ -18,15 +17,15 @@ public enum StreamingEvents implements UpcomingEventController, DataValues {
             "Client-ID",
             TWITCH_CLIENT_ID,
             TWITCH_ACCESS_TOKEN,
-            new HashMap<>() {{
+            new LinkedHashMap<>() {{
                 put("first", Integer.toString(TWITCH_REQUEST_LIMIT));
             }}
     ),
     YOUTUBE(null,
-            "https://www.googleapis.com/youtube/v3/search",
+            "https://youtube.googleapis.com/youtube/v3/search",
             YOUTUBE_KEY_IDENTIFIER,
             YOUTUBE_KEY_VALUE,
-            new HashMap<>() {{
+            new LinkedHashMap<>() {{
                 put("part", "id");
                 put("eventType", "live");
                 put("type", "video");
@@ -39,17 +38,23 @@ public enum StreamingEvents implements UpcomingEventController, DataValues {
 
     private final UpcomingEventType type;
     private String url, json;
-    private final HashMap<String, String> headers, query;
+    private final HashMap<String, String> headers;
+    private final LinkedHashMap<String, String> query;
 
-    StreamingEvents(UpcomingEventType type, String url, String key, String value, HashMap<String, String> query) {
+    StreamingEvents(UpcomingEventType type, String url, LinkedHashMap<String, String> query) {
+        this(type, url, null, null, query);
+    }
+    StreamingEvents(UpcomingEventType type, String url, String key, String value, LinkedHashMap<String, String> query) {
         this(type, url, key, value, null, query);
     }
-    StreamingEvents(UpcomingEventType type, String url, String key, String value, String accessToken, HashMap<String, String> query) {
+    StreamingEvents(UpcomingEventType type, String url, String key, String value, String accessToken, LinkedHashMap<String, String> query) {
         this.type = type;
         this.url = url;
         headers = new HashMap<>();
         headers.putAll(CONTENT_HEADERS);
-        headers.put(key, value);
+        if(key != null && value != null) {
+            headers.put(key, value);
+        }
         if(accessToken != null) {
             headers.put("Authorization", "Bearer " + accessToken);
         }
@@ -58,13 +63,13 @@ public enum StreamingEvents implements UpcomingEventController, DataValues {
     }
 
     private void autoupdate() {
-        final long THIRTY_MIN = 1000*60*30;
+        /*final long THIRTY_MIN = 1000*60*30;
         new Timer().scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
                 load(null);
             }
-        }, THIRTY_MIN, THIRTY_MIN);
+        }, THIRTY_MIN, THIRTY_MIN);*/
     }
 
     @Override

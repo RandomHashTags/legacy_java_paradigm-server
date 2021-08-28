@@ -20,44 +20,47 @@ public interface IHoliday extends Jsoupable, Jsonable {
     String getOfficialName();
 
     private String loadHolidayJSON(HolidayType holidayType) {
-        final String url = getURL(), name = getName();
-        final String fileName = holidayType.name().replace("_EAST", "").replace("_WEST", "") + "_" + name;
-        final Document doc = getDocument(Folder.UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS, fileName, url, false);
+        final String url = getURL();
         String description = null, imageURL = null;
-        if(doc != null) {
-            final String mwParserOutput = "div.mw-content-ltr div.mw-parser-output ";
-            final Elements elements = doc.getAllElements();
-            final Elements paragraphs = elements.select(mwParserOutput + "p");
-            final Elements headings = elements.select(mwParserOutput + "h2");
-            final int firstHeadingIndex = elements.indexOf(headings.get(0));
+        if(url != null) {
+            final String name = getName();
+            final String fileName = holidayType.name().replace("_EAST", "").replace("_WEST", "") + "_" + name;
+            final Document doc = getDocument(Folder.UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS, fileName, url, false);
+            if(doc != null) {
+                final String mwParserOutput = "div.mw-content-ltr div.mw-parser-output ";
+                final Elements elements = doc.getAllElements();
+                final Elements paragraphs = elements.select(mwParserOutput + "p");
+                final Elements headings = elements.select(mwParserOutput + "h2");
+                final int firstHeadingIndex = elements.indexOf(headings.get(0));
 
-            final StringBuilder builder = new StringBuilder();
-            boolean isFirst = true;
-            for(Element paragraph : paragraphs) {
-                final int index = elements.indexOf(paragraph);
-                if(index < firstHeadingIndex) {
-                    String text = paragraph.text();
-                    if(!text.isEmpty()) {
-                        builder.append(isFirst ? "" : "\n\n").append(text);
-                        isFirst = false;
+                final StringBuilder builder = new StringBuilder();
+                boolean isFirst = true;
+                for(Element paragraph : paragraphs) {
+                    final int index = elements.indexOf(paragraph);
+                    if(index < firstHeadingIndex) {
+                        String text = paragraph.text();
+                        if(!text.isEmpty()) {
+                            builder.append(isFirst ? "" : "\n\n").append(text);
+                            isFirst = false;
+                        }
+                    } else {
+                        break;
                     }
-                } else {
-                    break;
                 }
-            }
-            description = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(removeReferences(builder.toString())));
+                description = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(removeReferences(builder.toString())));
 
-            final Elements infoboxes = doc.select(mwParserOutput + "table.infobox");
-            if(!infoboxes.isEmpty()) {
-                final Element infobox = infoboxes.get(0);
-                final Elements images = infobox.select("a.image img");
-                if(!images.isEmpty()) {
-                    final Element image = images.get(0);
-                    final String src = image.attr("src");
-                    final String[] endingValues = src.split("/");
-                    final String endingValue = endingValues[endingValues.length-1];
-                    final String targetImageURL = src.contains("px-") ? src.split(endingValue)[0] + "%quality%px-" + endingValue.split("px-")[1] : src;
-                    imageURL = "https:" + targetImageURL;
+                final Elements infoboxes = doc.select(mwParserOutput + "table.infobox");
+                if(!infoboxes.isEmpty()) {
+                    final Element infobox = infoboxes.get(0);
+                    final Elements images = infobox.select("a.image img");
+                    if(!images.isEmpty()) {
+                        final Element image = images.get(0);
+                        final String src = image.attr("src");
+                        final String[] endingValues = src.split("/");
+                        final String endingValue = endingValues[endingValues.length-1];
+                        final String targetImageURL = src.contains("px-") ? src.split(endingValue)[0] + "%quality%px-" + endingValue.split("px-")[1] : src;
+                        imageURL = "https:" + targetImageURL;
+                    }
                 }
             }
         }

@@ -9,6 +9,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.util.AbstractMap;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -45,7 +46,7 @@ public interface RestAPI {
     default void requestJSONObject(String url, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
         requestJSONObject(url, method, headers, null, handler);
     }
-    default void requestJSONObject(String url, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query, CompletionHandler handler) {
+    default void requestJSONObject(String url, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query, CompletionHandler handler) {
         request(url, method, headers, query, new CompletionHandler() {
             @Override
             public void handleString(String string) {
@@ -64,7 +65,7 @@ public interface RestAPI {
         });
     }
 
-    default void request(String targetURL, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query, CompletionHandler handler) {
+    default void request(String targetURL, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query, CompletionHandler handler) {
         final boolean isLocal = targetURL.startsWith("http://localhost") || targetURL.startsWith("http://192.168.1.96:0");
 
         final StringBuilder target = new StringBuilder(targetURL);

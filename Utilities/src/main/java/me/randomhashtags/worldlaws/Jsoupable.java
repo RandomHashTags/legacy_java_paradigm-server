@@ -35,10 +35,10 @@ public interface Jsoupable {
         }
         return null;
     }
-    private static void createDocument(Folder folder, String url, String html) {
+    private static void createDocument(Folder folder, String fileName, String html) {
         final String fileSeparator = File.separator;
-        final String folderPath = folder.getFolderPath(url);
-        final String directory = folderPath + fileSeparator + fixURL(url) + ".txt";
+        final String folderPath = folder.getFolderPath(fileName);
+        final String directory = folderPath + fileSeparator + fixURL(fileName) + ".txt";
         final Path path = Paths.get(directory);
         if(!Files.exists(path)) {
             WLLogger.log(Level.INFO, "Jsoupable - creating document at path " + path.toAbsolutePath().toString());
@@ -46,11 +46,11 @@ public interface Jsoupable {
             try {
                 Files.writeString(path, html, StandardCharsets.UTF_8);
             } catch (Exception e) {
-                WLLogger.log(Level.WARN, "Jsoupable - createDocument(" + url + ") - error writing to file!");
+                WLLogger.log(Level.WARN, "Jsoupable - createDocument(" + fileName + ") - error writing to file!");
                 WLUtilities.saveException(e);
             }
         } else {
-            WLLogger.log(Level.WARN, "Jsoupable - createDocument(" + url + ") - already exists at " + directory + "!");
+            WLLogger.log(Level.WARN, "Jsoupable - createDocument(" + fileName + ") - already exists at " + directory + "!");
         }
     }
 

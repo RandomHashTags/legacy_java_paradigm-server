@@ -93,7 +93,8 @@ public enum Movies implements UpcomingEventController, IMDbService {
                 if(!rows.isEmpty()) {
                     rows.removeIf(row -> row.text().matches("[0-9]+"));
                     final Element titleElement = rows.get(0);
-                    final String wikipageURL = getWikipageURL(titleElement);
+                    final Element href = titleElement.select("i").get(0).selectFirst("a[href]");
+                    final String wikipageURL = href != null ? "https://en.wikipedia.org" + href.attr("href") : null;
                     if(wikipageURL != null) {
                         final String title = titleElement.text();
                         final String dateString = getEventDateString(year, month, day), id = getEventDateIdentifier(dateString, title);
@@ -105,14 +106,6 @@ public enum Movies implements UpcomingEventController, IMDbService {
             }
         }
         handler.handleString(null);
-    }
-    private String getWikipageURL(Element titleElement) {
-        final Elements hrefs = titleElement.select("i").get(0).select("a[href]");
-        if(!hrefs.isEmpty()) {
-            return "https://en.wikipedia.org" + hrefs.get(0).attr("href");
-        } else {
-            return null;
-        }
     }
 
     @Override
@@ -166,13 +159,15 @@ public enum Movies implements UpcomingEventController, IMDbService {
                     final boolean isUL = targetTagName.equals("ul");
                     if(isUL) {
                         for(Element list : target.select("li")) {
+                            final String listText = list.text();
+                            final boolean hasAt = listText.contains(" at ");
                             final Elements hrefs = list.select("a");
                             for(Element href : hrefs) {
                                 EventSource externalSource = null;
                                 final String hrefText = href.text(), hrefTextLowercase = hrefText.toLowerCase();
                                 switch (hrefTextLowercase) {
                                     case "official website":
-                                        externalSource = new EventSource(hrefText, href.attr("href"));
+                                        externalSource = new EventSource(hasAt ? listText : hrefText, href.attr("href"));
                                         break;
                                     case "adult swim":
                                     case "imdb":
@@ -222,7 +217,11 @@ public enum Movies implements UpcomingEventController, IMDbService {
                     final String label = element.select("th.infobox-label div").text();
                     if(label.equalsIgnoreCase("release date")) {
                         foundYear = true;
-                        year = Integer.parseInt(element.select("td.infobox-data div.plainlist ul li").get(0).text().split(" ")[2]);
+                        final Element infoboxData = element.selectFirst("td.infobox-data");
+                        final Element first = infoboxData.selectFirst("div.plainlist ul li");
+                        final String targetReleaseDate = first != null ? first.textNodes().get(0).text() : infoboxData.text();
+                        final String[] values = targetReleaseDate.split(" ");
+                        year = Integer.parseInt(values[values.length-1]);
                         break;
                     }
                 }

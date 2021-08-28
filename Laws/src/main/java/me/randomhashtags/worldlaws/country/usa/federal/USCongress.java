@@ -58,9 +58,8 @@ public enum USCongress implements Jsoupable, Jsonable {
             final long started = System.currentTimeMillis();
             final String statusName = status.name(), suffix = " bills with status " + statusName + " for congress " + version + " (took %time%ms)";
             final Folder folder = Folder.LAWS_USA_CONGRESS;
-            final String folderName = folder.getFolderName().replace("%version%", "" + version);
             final String fileName = "bill status: " + statusName.toLowerCase();
-            folder.setCustomFolderName(fileName, folderName);
+            folder.setCustomFolderName(fileName, folder.getFolderName().replace("%version%", "" + version));
             getJSONObject(folder, fileName, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
@@ -167,11 +166,10 @@ public enum USCongress implements Jsoupable, Jsonable {
         } else {
             final long started = System.currentTimeMillis();
             final int versionInt = version;
-            final String version = "" + versionInt;
+            final String version = Integer.toString(versionInt);
             final Folder folder = Folder.LAWS_USA_CONGRESS;
-            final String folderName = folder.getFolderName().replace("%version%", version);
             final String fileName = "enacted bills";
-            folder.setCustomFolderName(fileName, folderName);
+            folder.setCustomFolderName(fileName, folder.getFolderName().replace("%version%", version));
             getJSONObject(folder, fileName, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
@@ -259,8 +257,8 @@ public enum USCongress implements Jsoupable, Jsonable {
             final String version = getVersioned();
             final Folder folder = Folder.LAWS_USA_CONGRESS;
             final String[] title = new String[1];
-            final String chamberName = chamber.name(), chamberNameLowercase = chamberName.toLowerCase(), folderName = folder.getFolderName().replace("%version%", "" + versionInt) + File.separator + chamberNameLowercase;
-            folder.setCustomFolderName(id, folderName);
+            final String chamberName = chamber.name(), chamberNameLowercase = chamberName.toLowerCase();
+            folder.setCustomFolderName(id, folder.getFolderName().replace("%version%", "" + versionInt) + File.separator + chamberNameLowercase);
             getJSONObject(folder, id, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {

@@ -60,7 +60,7 @@ public interface UpcomingEventController extends YouTubeService, Jsoupable, Data
         final HashSet<String> set = new HashSet<>((preUpcomingEvents != null ? preUpcomingEvents : getUpcomingEvents()).keySet());
         set.removeIf(id -> {
             for(String date : dates) {
-                if(id.startsWith(date)) {
+                if(id.startsWith(date + ".")) {
                     return false;
                 }
             }
@@ -88,7 +88,7 @@ public interface UpcomingEventController extends YouTubeService, Jsoupable, Data
                             boolean isFirstDateString = true;
                             for(Map.Entry<String, HashSet<String>> entry : map.entrySet()) {
                                 builder.append(isFirstDateString ? "" : ",").append("\"").append(entry.getKey()).append("\":{");
-                                final HashSet<String> events = entry.getValue();;
+                                final HashSet<String> events = entry.getValue();
                                 boolean isFirst = true;
                                 for(String event : events) {
                                     builder.append(isFirst ? "" : ",").append(event);

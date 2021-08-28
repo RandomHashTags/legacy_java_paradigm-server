@@ -110,12 +110,14 @@ public interface IMDbService extends DataValues {
             rating = certificateJSON.getString("rating");
             ratingReason = certificateJSON.get("ratingReason") instanceof String ? certificateJSON.getString("ratingReason") : "Unknown";
         }
-        final int runtimeSeconds = runtimeJSON.getInt("seconds");
+        final int runtimeSeconds = runtimeJSON != null ? runtimeJSON.getInt("seconds") : 0;
 
         final JSONArray genres = new JSONArray();
-        for(Object obj : genresArray) {
-            final JSONObject genreJSON = (JSONObject) obj;
-            genres.put(genreJSON.getString("text"));
+        if(genresArray != null) {
+            for(Object obj : genresArray) {
+                final JSONObject genreJSON = (JSONObject) obj;
+                genres.put(genreJSON.getString("text"));
+            }
         }
 
         final JSONObject imdbJSON = new JSONObject();

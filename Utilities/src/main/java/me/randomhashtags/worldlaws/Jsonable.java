@@ -45,17 +45,6 @@ public interface Jsonable {
         }
         return null;
     }
-    private static void tryCreatingFolder(String folderPath) {
-        final Path path = Paths.get(folderPath);
-        if(!Files.exists(path)) {
-            WLLogger.log(Level.INFO, "Jsonable - creating folder at \"" + folderPath + "\"!");
-            try {
-                Files.createDirectory(path);
-            } catch (Exception e) {
-                WLUtilities.saveException(e);
-            }
-        }
-    }
     private JSONObject getLocalFileJSONObject(Folder folder, String fileName) {
         final String string = getLocalFileString(folder, fileName);
         return string != null ? new JSONObject(string) : null;
@@ -74,9 +63,9 @@ public interface Jsonable {
                 @Override
                 public void handleString(String string) {
                     JSONObject json = null;
-                    if(string != null) {
+                    if(string != null && !string.isEmpty()) {
+                        saveFileJSON(folder, fileName, string);
                         json = new JSONObject(string);
-                        saveFileJSON(folder, fileName, json.toString());
                         saved.set(true);
                     }
                     handler.handleJSONObject(json);
@@ -104,7 +93,7 @@ public interface Jsonable {
                 @Override
                 public void handleString(String string) {
                     JSONArray array = null;
-                    if(string != null) {
+                    if(string != null && !string.isEmpty()) {
                         saveFileJSON(type, fileName, string);
                         array = new JSONArray(string);
                         saved.set(true);
@@ -131,8 +120,8 @@ public interface Jsonable {
     default void setFileJSON(Folder type, String fileName, String value) {
         setFileJSON(type, fileName, (Object) value);
     }
-    private void setFileJSON(Folder type, String fileName, Object value) {
-        final String path = getJSONFilePath(type, fileName);
+    private void setFileJSON(Folder folder, String fileName, Object value) {
+        final String path = getJSONFilePath(folder, fileName);
         try {
             final FileWriter fileWriter = new FileWriter(path, false);
             fileWriter.write(value.toString());
@@ -142,6 +131,7 @@ public interface Jsonable {
             WLUtilities.saveException(e);
             WLLogger.log(Level.ERROR, "Jsonable - failed setting json file contents at path \"" + path + "\" (" + e.getMessage() + ")!");
         }
+        folder.removeCustomFolderName(fileName);
     }
     static void saveFileJSON(Folder folder, String fileName, String value) {
         saveFile(folder, fileName, value, "json");

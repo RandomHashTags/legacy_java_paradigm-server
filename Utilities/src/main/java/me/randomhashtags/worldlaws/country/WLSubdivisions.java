@@ -9,6 +9,7 @@ public enum WLSubdivisions {
         return new WLCountry[] {
                 WLCountry.AUSTRALIA,
                 WLCountry.CANADA,
+                WLCountry.ITALY,
                 WLCountry.MEXICO,
                 WLCountry.NEW_ZEALAND,
                 WLCountry.UNITED_STATES,
@@ -30,6 +31,7 @@ public enum WLSubdivisions {
         switch (country) {
             case AUSTRALIA: return AustraliaSubdivisions.values();
             case CANADA: return CanadaSubdivisions.values();
+            case ITALY: return ItalySubdivisions.values();
             case MEXICO: return MexicoSubdivisions.values();
             case NEW_ZEALAND: return NewZealandSubdivisions.values();
             case UNITED_STATES: return UnitedStatesSubdivisions.values();

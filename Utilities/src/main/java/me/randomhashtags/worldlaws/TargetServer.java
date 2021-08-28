@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.iap.InAppPurchases;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
@@ -21,6 +22,7 @@ public enum TargetServer implements RestAPI, DataValues {
     WHATS_NEW,
     HOME,
     PING,
+    INAPPPURCHASES
     ;
 
     private static final String WHATS_NEW_RESPONSE;
@@ -70,6 +72,9 @@ public enum TargetServer implements RestAPI, DataValues {
                 break;
             case PING:
                 handler.handleString("1");
+                break;
+            case INAPPPURCHASES:
+                handler.handleString(InAppPurchases.getProductIDs(version));
                 break;
             case HOME:
                 getHomeResponse(version, method, headers, query, handler);
@@ -149,7 +154,6 @@ public enum TargetServer implements RestAPI, DataValues {
         };
         final HashMap<String, String> requests = new HashMap<>();
         requests.put("trending", null);
-        requests.put("apiVersions", null);
         for(TargetServer server : servers) {
             requests.put(server.name().toLowerCase(), server.ipAddress + "/" + versionName + "/home");
         }
@@ -192,18 +196,6 @@ public enum TargetServer implements RestAPI, DataValues {
                             completionHandler.handleStringValue("trending", json.isEmpty() ? null : json.toString());
                         }
                     });
-                    break;
-                case "apiVersions":
-                    final StringBuilder builder = new StringBuilder("{");
-                    boolean isFirst = true;
-                    for(TargetServer server : TargetServer.values()) {
-                        if(server.ipAddress != null) {
-                            builder.append(isFirst ? "" : ",").append("\"").append(server.getBackendID()).append("\":").append(server.getAPIVersion().getVersion());
-                            isFirst = false;
-                        }
-                    }
-                    builder.append("}");
-                    completionHandler.handleStringValue("apiVersions", builder.toString());
                     break;
                 default:
                     request(entry.getValue(), method, headers, null, new CompletionHandler() {

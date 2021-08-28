@@ -12,7 +12,6 @@ import java.util.HashSet;
 public final class ProxyClient extends Thread implements RestAPI {
 
     private final Socket client;
-    private OutputStream outToClient;
     private String headers;
 
     ProxyClient(Socket client) {
@@ -21,56 +20,53 @@ public final class ProxyClient extends Thread implements RestAPI {
 
     @Override
     public void run() {
-        try {
-            setupHeaders();
-            sendResponse();
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-        }
+        setupHeaders();
+        sendResponse();
     }
 
-    private void sendResponse() throws Exception {
+    private void sendResponse() {
         final long started = System.currentTimeMillis();
-        outToClient = client.getOutputStream();
-
         final String[] headers = getHeaderList();
         final String ip = client.getInetAddress().toString(), platform = getPlatform(headers), identifier = getIdentifier(headers);
         final boolean isValidRequest = true;//platform != null && identifier != null;
         final String target = isValidRequest ? getTarget(headers) : null;
         final String prefix = "[" + platform + ", " + identifier + "] " + ip + " - ";
         if(target != null) {
-            final APIVersion version = APIVersion.valueOfInput(target.split("/")[0]);
-            final HashSet<String> query = getQuery(target);
             final String finalTarget = target.split("\\?q=")[0];
-            final TargetServer targetServer = TargetServer.valueOfBackendID(finalTarget.split("/")[1]);
-            targetServer.sendResponse(version, identifier, RequestMethod.GET, finalTarget, query, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    final boolean connected = string != null;
-                    WLLogger.log(Level.INFO, prefix + (connected ? "Connected" : "Failed to connect") + " to \"" + target + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                    if(connected) {
-                        final String response = DataValues.HTTP_SUCCESS_200 + string;
-                        writeOutput(client, response);
+            if(finalTarget.contains("/")) {
+                final APIVersion version = APIVersion.valueOfInput(target.split("/")[0]);
+                final HashSet<String> query = getQuery(target);
+                final TargetServer targetServer = TargetServer.valueOfBackendID(finalTarget.split("/")[1]);
+                targetServer.sendResponse(version, identifier, RequestMethod.GET, finalTarget, query, new CompletionHandler() {
+                    @Override
+                    public void handleString(String string) {
+                        final boolean connected = string != null;
+                        WLLogger.log(Level.INFO, prefix + (connected ? "Connected" : "Failed to connect") + " to \"" + target + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                        if(connected) {
+                            final String response = DataValues.HTTP_SUCCESS_200 + string;
+                            writeOutput(client, response);
+                        }
                     }
-                }
-            });
-        } else {
-            WLLogger.log(Level.WARN, prefix + "INVALID");
-            writeOutput(client, DataValues.HTTP_ERROR_404);
+                });
+                return;
+            }
         }
+        WLLogger.log(Level.WARN, prefix + "INVALID");
+        writeOutput(client, DataValues.HTTP_ERROR_404);
     }
     private void writeOutput(Socket client, String input) {
         if(client.isOutputShutdown() || client.isClosed()) {
             return;
         }
         try {
+            final OutputStream outToClient = client.getOutputStream();
             outToClient.write(input.getBytes(DataValues.ENCODING));
-            closeClient(client);
+            closeClient(outToClient, client);
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
     }
-    private void closeClient(Socket client) throws Exception {
+    private void closeClient(OutputStream outToClient, Socket client) throws Exception {
         outToClient.close();
         client.close();
     }
@@ -118,6 +114,7 @@ public final class ProxyClient extends Thread implements RestAPI {
                 this.headers = headers;
             } catch (Exception e) {
                 WLUtilities.saveException(e);
+                return;
             }
         }
     }
