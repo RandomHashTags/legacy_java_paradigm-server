@@ -1,8 +1,8 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.iap.InAppPurchases;
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
+import me.randomhashtags.worldlaws.recent.software.videogames.DeadByDaylight;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.entertainment.Movies;
@@ -12,6 +12,7 @@ import me.randomhashtags.worldlaws.upcoming.entertainment.VideoGames;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
+import me.randomhashtags.worldlaws.upcoming.sports.MLB;
 import me.randomhashtags.worldlaws.upcoming.sports.UFC;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
@@ -25,7 +26,7 @@ public final class UpcomingEvents implements WLServer {
     private static final HashSet<UpcomingEventController> CONTROLLERS = new HashSet<>() {{
         addAll(Arrays.asList(
                 Championships.INSTANCE,
-                //MLB.INSTANCE,
+                MLB.INSTANCE,
                 Movies.INSTANCE,
                 //NASANeo.INSTANCE,
                 //NFL.INSTANCE, // problem
@@ -56,8 +57,12 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final String ids = InAppPurchases.getProductIDs(APIVersion.v1);
-        WLLogger.log(Level.INFO, "UpcomingEvents;test;ids=" + ids);
+        DeadByDaylight.INSTANCE.refresh(LocalDate.now().minusWeeks(1), new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                WLLogger.log(Level.INFO, "UpcomingEvents;test;string=" + string);
+            }
+        });
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {

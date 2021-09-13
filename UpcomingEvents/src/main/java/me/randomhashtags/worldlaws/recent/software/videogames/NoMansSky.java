@@ -1,0 +1,76 @@
+package me.randomhashtags.worldlaws.recent.software.videogames;
+
+import me.randomhashtags.worldlaws.*;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
+import java.time.LocalDate;
+import java.time.Month;
+
+public enum NoMansSky implements VideoGameUpdateController {
+    INSTANCE;
+
+    @Override
+    public String getName() {
+        return "No Man's Sky";
+    }
+
+    @Override
+    public String getUpdatePageURL() {
+        return "https://www.nomanssky.com/release-log/";
+    }
+
+    @Override
+    public void refresh(LocalDate startingDate, CompletionHandler handler) {
+        final String url = getUpdatePageURL();
+        final Document doc = getDocument(url);
+        if(doc != null) {
+            final Elements elements = doc.select("main section.section div.section__content div.box div.grid div.grid__cell a.link");
+            final Element first = elements.get(0);
+            if(first != null) {
+                final String name = getName();
+                String ahref = first.attr("href");
+                final EventSources sources = new EventSources();
+                sources.addSource(new EventSource(name + ": Release log", url));
+
+                if(ahref.startsWith("/") && ahref.endsWith("/")) { // new major release
+                    final String slug = ahref.substring(1, ahref.length()-1).replace("-", " ");
+                    ahref = "https://www.nomanssky.com" + ahref;
+                    final Document targetDoc = getDocument(ahref);
+                    if(targetDoc != null) {
+                        final String imageURL = targetDoc.selectFirst("section.section div.section__content img.no-lazy").attr("src");
+                        final String description = targetDoc.selectFirst("section.section div.section__content div.box div.icons-header p.text--narrow").text();
+                        final String title = LocalServer.toCorrectCapitalization(slug.replace(" ", "_"));
+                        sources.addSource(new EventSource(name + ": " + title, ahref));
+                        final VideoGameUpdate update = new VideoGameUpdate(title.replace(" Update", ""), description, imageURL, sources);
+                        handler.handleString(update.toString());
+                        return;
+                    }
+                } else {
+                    final Document targetDoc = getDocument(ahref);
+                    if(targetDoc != null) {
+                        final Elements box = targetDoc.select("main section.section div.section__content div.box");
+                        final Elements targetElements = box.select("div.post-meta span.date");
+                        final Element dateElement = targetElements.first();
+                        if(dateElement != null) {
+                            final String[] dateValues = dateElement.text().replace(",", "").split(" ");
+                            final Month month = WLUtilities.valueOfMonthFromInput(dateValues[0]);
+                            final int day = Integer.parseInt(dateValues[1]), year = Integer.parseInt(dateValues[2]);
+                            final LocalDate targetDate = LocalDate.of(year, month, day);
+                            if(startingDate.isBefore(targetDate)) {
+                                final String title = box.select("h1").get(0).text();
+                                final String description = first.select("div.grid__cell-content p").get(0).text().replace(". Read more", "");
+                                sources.addSource(new EventSource(name + ": " + title, ahref));
+                                final VideoGameUpdate update = new VideoGameUpdate(title, description, null, sources);
+                                handler.handleString(update.toString());
+                                return;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        handler.handleString(null);
+    }
+}

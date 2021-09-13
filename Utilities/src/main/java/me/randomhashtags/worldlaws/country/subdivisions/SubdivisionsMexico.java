@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public enum MexicoSubdivisions implements SovereignStateSubdivision {
+public enum SubdivisionsMexico implements SovereignStateSubdivision {
     AGUASCALIENTES,
     BAJA_CALIFORNIA,
     BAJA_CALIFORNIA_SUR,

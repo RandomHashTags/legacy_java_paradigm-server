@@ -90,21 +90,21 @@ public enum UpcomingEventType {
         }
     }
     public String getSingularNotificationDescription() {
-        final String suffix = " Open to learn more.";
+        final String suffix = " Open for details.";
         switch (this) {
             case MOVIE: return "%title% is making its cinematic debut today!" + suffix;
-            case MUSIC_ALBUM: return "%title% by %artist% releases today/tonight!" + suffix;
+            case MUSIC_ALBUM: return "%title% by %artist% releases today!" + suffix;
 
-            case SPACE_EVENT: return "%title% is scheduled to occur today/tonight!" + suffix;
+            case SPACE_EVENT: return "%title% is scheduled for today!" + suffix;
             case SPACE_NEAR_EARTH_OBJECT: return "A near earth object is close by!" + suffix;
-            case SPACE_ROCKET_LAUNCH: return "Rocket Launch %title% is scheduled to take off today/tonight!" + suffix;
+            case SPACE_ROCKET_LAUNCH: return "%title% is scheduled to take off today!" + suffix;
 
             case SPORT_CHAMPIONSHIPS: return "%title% begins today!" + suffix;
-            case SPORT_MLB: return "%team% has a game today/tonight!" + suffix;
+            case SPORT_MLB: return "%team% has a game today!" + suffix;
             case SPORT_UFC: return "%title% is tonight!" + suffix;
 
-            case TV_SHOW: return "New episodes for %title% are available today/tonight!" + suffix;
-            case VIDEO_GAME: return "%title% is now available for %platforms%!" + suffix;
+            case TV_SHOW: return "%title% has new episodes available!" + suffix;
+            case VIDEO_GAME: return "%title% releases today!" + suffix;
             default: return "Unknown Notification Description!";
         }
     }

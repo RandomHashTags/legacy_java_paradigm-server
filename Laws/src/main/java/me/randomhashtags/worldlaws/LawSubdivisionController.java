@@ -168,7 +168,7 @@ public interface LawSubdivisionController extends Jsoupable {
         if(!INDEX_BUILDERS.containsKey(this)) {
             getIndexes();
         }
-        return INDEX_BUILDERS.get(this).toString();
+        return INDEX_BUILDERS.containsKey(this) ? INDEX_BUILDERS.get(this).toString() : null;
     }
     List<SubdivisionStatuteIndex> getIndexes();
     default String getTableOfChapters(String title) {

@@ -1,8 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming.space;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
+import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -12,7 +11,7 @@ import java.util.HashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.StreamSupport;
 
-public enum RocketLaunches implements UpcomingEventController {
+public enum RocketLaunches implements LoadedUpcomingEventController {
     INSTANCE;
 
     private HashMap<String, String> upcomingEvents;
@@ -20,16 +19,6 @@ public enum RocketLaunches implements UpcomingEventController {
     @Override
     public UpcomingEventType getType() {
         return UpcomingEventType.SPACE_ROCKET_LAUNCH;
-    }
-
-    @Override
-    public WLCountry getCountry() {
-        return null;
-    }
-
-    @Override
-    public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
-        return null;
     }
 
     @Override
@@ -45,7 +34,7 @@ public enum RocketLaunches implements UpcomingEventController {
             @Override
             public void handleJSONObject(JSONObject json) {
                 if(json != null) {
-                    final LocalDate today = LocalDate.now(), endingDate ;
+                    final LocalDate today = LocalDate.now();
                     final JSONArray launches = json.getJSONArray("results");
                     final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
                     final AtomicInteger completed = new AtomicInteger(0);
@@ -88,9 +77,5 @@ public enum RocketLaunches implements UpcomingEventController {
                 }
             }
         });
-    }
-
-    @Override
-    public void loadUpcomingEvent(String id, CompletionHandler handler) {
     }
 }

@@ -93,7 +93,7 @@ public enum WeatherUSA implements WeatherController {
                         final int senderNameLength = senderName.length;
                         final String territoryAbbreviation = senderName[senderNameLength-1];
                         final SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(territoryAbbreviation);
-                        final String territory = subdivision != null ? subdivision.getName() : "Unknown";
+                        final String subdivisionName = subdivision != null ? subdivision.getName() : "Unknown";
                         final String severityString = properties.getString("severity"), severity = severityString.equals("Unknown") ? "-1" : severityString;
                         final String certainty = properties.getString("certainty");
                         final String event = properties.getString("event");
@@ -118,8 +118,8 @@ public enum WeatherUSA implements WeatherController {
 
                         final int defcon = getSeverityDEFCON(severity);
                         eventsMap.putIfAbsent(event, defcon);
-                        territoryEventsMap.putIfAbsent(territory, new HashSet<>());
-                        final HashSet<WeatherEvent> territorySet = territoryEventsMap.get(territory);
+                        territoryEventsMap.putIfAbsent(subdivisionName, new HashSet<>());
+                        final HashSet<WeatherEvent> territorySet = territoryEventsMap.get(subdivisionName);
                         boolean hasEvent = false;
                         for(WeatherEvent newWeatherEvent : territorySet) {
                             if(event.equals(newWeatherEvent.getEvent())) {
@@ -129,18 +129,18 @@ public enum WeatherUSA implements WeatherController {
                         }
                         if(!hasEvent) {
                             final WeatherEvent weatherEvent = new WeatherEvent(event, defcon);
-                            territoryEventsMap.get(territory).add(weatherEvent);
+                            territoryEventsMap.get(subdivisionName).add(weatherEvent);
                         }
 
-                        final WeatherPreAlert preAlert = new WeatherPreAlert(defcon, event, id, territory, certainty, headline, instruction, description, zoneIDs, time);
+                        final WeatherPreAlert preAlert = new WeatherPreAlert(defcon, event, id, subdivisionName, certainty, headline, instruction, description, zoneIDs, time);
                         preAlertIDs.put(id, preAlert);
 
                         eventPreAlertsMap.putIfAbsent(event, new HashSet<>());
                         eventPreAlertsMap.get(event).add(preAlert);
 
-                        territoryPreAlertsMap.putIfAbsent(territory, new ConcurrentHashMap<>());
-                        territoryPreAlertsMap.get(territory).putIfAbsent(event, new HashSet<>());
-                        territoryPreAlertsMap.get(territory).get(event).add(preAlert);
+                        territoryPreAlertsMap.putIfAbsent(subdivisionName, new ConcurrentHashMap<>());
+                        territoryPreAlertsMap.get(subdivisionName).putIfAbsent(event, new HashSet<>());
+                        territoryPreAlertsMap.get(subdivisionName).get(event).add(preAlert);
                     });
                 }
 

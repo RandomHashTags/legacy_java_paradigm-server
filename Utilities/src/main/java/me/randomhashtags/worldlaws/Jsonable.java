@@ -5,7 +5,6 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.io.File;
-import java.io.FileWriter;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -121,17 +120,7 @@ public interface Jsonable {
         setFileJSON(type, fileName, (Object) value);
     }
     private void setFileJSON(Folder folder, String fileName, Object value) {
-        final String path = getJSONFilePath(folder, fileName);
-        try {
-            final FileWriter fileWriter = new FileWriter(path, false);
-            fileWriter.write(value.toString());
-            fileWriter.close();
-            WLLogger.log(Level.INFO, "Jsonable - setting json file contents at path \"" + path + "\"");
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-            WLLogger.log(Level.ERROR, "Jsonable - failed setting json file contents at path \"" + path + "\" (" + e.getMessage() + ")!");
-        }
-        folder.removeCustomFolderName(fileName);
+        writeFile(null, Level.INFO, folder, fileName, value, "json", true);
     }
     static void saveFileJSON(Folder folder, String fileName, String value) {
         saveFile(folder, fileName, value, "json");
@@ -140,21 +129,25 @@ public interface Jsonable {
         saveFile(null, Level.INFO, folder, fileName, value, extension);
     }
     static void saveFile(String sender, Level level, Folder folder, String fileName, String value, String extension) {
+        writeFile(sender, level, folder, fileName, value, extension, false);
+    }
+    private static void writeFile(String sender, Level level, Folder folder, String fileName, Object value, String extension, boolean canExist) {
         if(value != null) {
             final String directory = getFilePath(folder, fileName, extension);
             final Path path = Paths.get(directory);
             sender = sender != null ? "[" + sender + "] " : "";
             if(!Files.exists(path)) {
-                WLLogger.log(level, sender + "Jsonable - creating file with folder " + folder.name() + " at path " + path.toAbsolutePath().toString());
+                WLLogger.log(level, sender + "Jsonable - writing file with folder " + folder.name() + " at " + path.toAbsolutePath().toString());
                 tryCreatingParentFolders(path);
                 try {
-                    Files.writeString(path, value, StandardCharsets.UTF_8);
+                    Files.writeString(path, value.toString(), StandardCharsets.UTF_8);
                 } catch (Exception e) {
                     WLUtilities.saveException(e);
                 }
-            } else {
-                WLLogger.log(Level.WARN, sender + "Jsonable - saveFileJSON(" + fileName + ") - already exists at " + directory + " (folder=" + folder.name() + ")!");
+            } else if(!canExist) {
+                WLLogger.log(Level.WARN, sender + "Jsonable - writeFile(" + fileName + ") - already exists at " + directory + " (folder=" + folder.name() + ")!");
             }
         }
+        folder.removeCustomFolderName(fileName);
     }
 }

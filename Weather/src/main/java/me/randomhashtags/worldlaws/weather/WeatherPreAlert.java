@@ -6,15 +6,15 @@ import java.util.HashSet;
 
 public final class WeatherPreAlert {
     private final int defcon;
-    private final String event, id, territory, certainty, headline, instruction, description;
+    private final String event, id, subdivision, certainty, headline, instruction, description;
     private final HashSet<String> zoneIDs;
     private final WeatherAlertTime time;
 
-    public WeatherPreAlert(int defcon, String event, String id, String territory, String certainty, String headline, String instruction, String description, HashSet<String> zoneIDs, WeatherAlertTime time) {
+    public WeatherPreAlert(int defcon, String event, String id, String subdivision, String certainty, String headline, String instruction, String description, HashSet<String> zoneIDs, WeatherAlertTime time) {
         this.defcon = defcon;
         this.event = event;
         this.id = id;
-        this.territory = territory;
+        this.subdivision = subdivision;
         this.certainty = LocalServer.fixEscapeValues(certainty);
         this.headline = LocalServer.fixEscapeValues(headline);
         this.instruction = LocalServer.fixEscapeValues(instruction);
@@ -32,8 +32,8 @@ public final class WeatherPreAlert {
     public String getID() {
         return id;
     }
-    public String getTerritory() {
-        return territory;
+    public String getSubdivision() {
+        return subdivision;
     }
     public String getCertainty() {
         return certainty;

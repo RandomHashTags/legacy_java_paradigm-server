@@ -335,7 +335,7 @@ public enum WLCountry {
             final SovereignStateSubdivision[] subdivisions = getSubdivisions();
             if(subdivisions != null) {
                 for(SovereignStateSubdivision subdivision : subdivisions) {
-                    if(name.equalsIgnoreCase(subdivision.name()) || name.equalsIgnoreCase(subdivision.getName()) || name.equalsIgnoreCase(subdivision.getPostalCodeAbbreviation())) {
+                    if(name.equalsIgnoreCase(subdivision.name()) || name.equalsIgnoreCase(subdivision.getBackendID()) || name.equalsIgnoreCase(subdivision.getName()) || name.equalsIgnoreCase(subdivision.getPostalCodeAbbreviation())) {
                         return subdivision;
                     }
                 }

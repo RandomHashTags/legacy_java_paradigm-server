@@ -46,7 +46,9 @@ public abstract class WLUtilities {
     }
 
     public static void saveException(Exception exception) {
-        final StringBuilder builder = new StringBuilder(exception.getLocalizedMessage());
+        String message = exception.getLocalizedMessage();
+        message = message == null ? exception.getMessage() : null;
+        final StringBuilder builder = new StringBuilder(message != null ? message : "null message");
         for(StackTraceElement element : exception.getStackTrace()) {
             builder.append("\n").append(element.toString());
         }
@@ -54,7 +56,10 @@ public abstract class WLUtilities {
         final Folder folder = Folder.LOGS_ERRORS;
         final String fileName = Long.toString(System.currentTimeMillis());
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%errorName%", errorName));
-        Jsonable.saveFile("WLUtilities.saveException", Level.ERROR, folder, fileName, builder.toString(), "txt");
+        saveToFile(Level.ERROR, folder, fileName, builder.toString(), "txt");
+    }
+    public static void saveToFile(Level level, Folder folder, String fileName, String value, String extension) {
+        Jsonable.saveFile("WLUtilities.saveToFile", level, folder, fileName, value, extension);
         folder.removeCustomFolderName(fileName);
     }
 }

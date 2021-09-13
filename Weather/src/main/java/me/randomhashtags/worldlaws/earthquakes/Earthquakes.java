@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.earthquakes;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.WLSubdivisions;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
@@ -116,11 +117,10 @@ public enum Earthquakes implements RestAPI {
                     final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates = new ConcurrentHashMap<>();
                     final AtomicInteger completed = new AtomicInteger(0);
                     final int max = array.length();
-                    final WLSubdivisions subdivisions = WLSubdivisions.INSTANCE;
 
                     StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
                         final JSONObject earthquakeJSON = (JSONObject) obj;
-                        loadEarthquake(subdivisions, startDate, earthquakeJSON, preEarthquakeDates, territoryEarthquakesMap);
+                        loadEarthquake(startDate, earthquakeJSON, preEarthquakeDates, territoryEarthquakesMap);
                         if(completed.addAndGet(1) == max) {
                             topRecentEarthquakes = getEarthquakesJSON(null, preEarthquakeDates);
                             recentEarthquakes = getEarthquakesJSON(recentStartingDate, preEarthquakeDates);
@@ -176,7 +176,7 @@ public enum Earthquakes implements RestAPI {
         }
     }
 
-    private void loadEarthquake(WLSubdivisions subdivisions, LocalDate startingDate, JSONObject json, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates, ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap) {
+    private void loadEarthquake(LocalDate startingDate, JSONObject json, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates, ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap) {
         final JSONObject properties = json.getJSONObject("properties");
         final long time = properties.getLong("time");
         final EventDate date = new EventDate(time);
@@ -190,23 +190,25 @@ public enum Earthquakes implements RestAPI {
             final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
             final Location location = new Location(latitude, longitude);
 
-            final String place = properties.get("place") instanceof String ? properties.getString("place") : "null";
-            String territory = getTerritory(place, subdivisions);
-            final SovereignStateSubdivision subdivision = subdivisions.valueOfString(territory);
+            String place = properties.get("place") instanceof String ? properties.getString("place") : "null";
+
+            final String[] regionValues = getRegionValues(place);
+            place = regionValues[0];
+            final String country = regionValues[1], subdivision = regionValues[2];
 
             final String dateString = date.getDateString();
-            final PreEarthquake preEarthquake = new PreEarthquake(id, place, magnitude, location);
+            final PreEarthquake preEarthquake = new PreEarthquake(id, place, country, subdivision, magnitude, location);
             preEarthquakeDates.putIfAbsent(dateString, new ConcurrentHashMap<>());
             preEarthquakeDates.get(dateString).putIfAbsent(magnitude, new HashSet<>());
             preEarthquakeDates.get(dateString).get(magnitude).add(preEarthquake.toString());
 
-            territory = territory.toLowerCase().replace(" ", "");
-            territoryEarthquakesMap.putIfAbsent(territory, new HashSet<>());
-            territoryEarthquakesMap.get(territory).add(preEarthquake);
-            if(subdivision != null) {
-                final String country = subdivision.getCountry().getBackendID();
+            if(country != null) {
                 territoryEarthquakesMap.putIfAbsent(country, new HashSet<>());
                 territoryEarthquakesMap.get(country).add(preEarthquake);
+            }
+            if(subdivision != null) {
+                territoryEarthquakesMap.putIfAbsent(subdivision, new HashSet<>());
+                territoryEarthquakesMap.get(subdivision).add(preEarthquake);
             }
         }
     }
@@ -240,41 +242,41 @@ public enum Earthquakes implements RestAPI {
                 final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
                 final Location location = new Location(latitude, longitude);
 
-                final String url = properties.getString("url"), cause = properties.getString("type").toUpperCase(), place = properties.getString("place");
-                final String territory = getTerritory(place, WLSubdivisions.INSTANCE);
+                final String url = properties.getString("url"), cause = properties.getString("type").toUpperCase();
+
+                String place = properties.getString("place");
+                final String[] regionValues = getRegionValues(place);
+                place = regionValues[0];
+                final String country = regionValues[1], subdivision = regionValues[2];
+
                 final long time = properties.getLong("time"), lastUpdated = properties.getLong("updated");
-                final Earthquake earthquake = new Earthquake(territory, cause, magnitude, place, time, lastUpdated, 0, location, url);
+                final Earthquake earthquake = new Earthquake(country, subdivision, cause, magnitude, place, time, lastUpdated, 0, location, url);
                 final String string = earthquake.toString();
                 handler.handleString(string);
             }
         });
     }
 
-    private String getTerritory(String place, WLSubdivisions subdivisions) {
-        final boolean hasComma = place.contains(", ");
-        final String[] values = place.split(hasComma ? ", " : " ");
-        final int length = values.length;
-        String territory;
-        if(hasComma) {
-            territory = values[length-1];
-        } else {
-            final String target = values[length == 1 ? 0 : length-1];
-            switch (target.toLowerCase()) {
-                case "region":
-                    territory = place.split(" region")[0];
-                    break;
-                case "island":
-                    territory = values[length-2] + " " + target;
-                    break;
-                default:
-                    territory = target;
-                    break;
+    private String[] getRegionValues(String place) {
+        String country = null, territory = null;
+        if(place.contains(", ")) {
+            final String[] values = place.split(", ");
+            final String targetValue = values[values.length-1];
+            final String target = targetValue.toLowerCase().replace(" region", "").replace(" ", "");
+            WLCountry wlcountry = WLCountry.valueOfBackendID(target);
+            if(wlcountry != null) {
+                country = target;
+            } else {
+                final SovereignStateSubdivision subdivision = WLSubdivisions.INSTANCE.valueOfString(target);
+                if(subdivision != null) {
+                    country = subdivision.getCountry().getBackendID();
+                    territory = subdivision.getBackendID();
+                }
+            }
+            if(country != null) {
+                place = place.substring(0, place.length()-targetValue.length()-2);
             }
         }
-        final SovereignStateSubdivision subdivision = subdivisions.valueOfString(territory);
-        if(subdivision != null) {
-            territory = subdivision.getName();
-        }
-        return territory;
+        return new String[] { place, country, territory };
     }
 }

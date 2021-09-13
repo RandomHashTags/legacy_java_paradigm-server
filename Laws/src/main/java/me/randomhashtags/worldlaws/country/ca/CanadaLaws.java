@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.country.ca;
 
 import me.randomhashtags.worldlaws.APIVersion;
+import me.randomhashtags.worldlaws.BillStatus;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.LawController;
 import me.randomhashtags.worldlaws.country.WLCountry;
@@ -13,6 +14,11 @@ public enum CanadaLaws implements LawController {
     @Override
     public WLCountry getCountry() {
         return WLCountry.CANADA;
+    }
+
+    @Override
+    public BillStatus[] getBillStatuses() {
+        return null;
     }
 
     @Override

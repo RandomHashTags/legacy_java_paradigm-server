@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.country.usa.federal;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.PreEnactedBill;
-import me.randomhashtags.worldlaws.country.usa.BillStatus;
+import me.randomhashtags.worldlaws.country.usa.USBillStatus;
 import me.randomhashtags.worldlaws.country.usa.USChamber;
 import me.randomhashtags.worldlaws.country.usa.USLaws;
 import me.randomhashtags.worldlaws.country.usa.USPoliticians;
@@ -23,7 +23,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 public enum USCongress implements Jsoupable, Jsonable {
     INSTANCE;
 
-    private HashMap<BillStatus, String> statuses;
+    private HashMap<USBillStatus, String> statuses;
     private HashMap<String, String> bills;
     private HashMap<Integer, String> enactedBills;
     private int version;
@@ -46,7 +46,7 @@ public enum USCongress implements Jsoupable, Jsonable {
         return version.endsWith("3") && !version.endsWith("13") ? version + "rd" : version + "th";
     }
 
-    public void getBillsByStatus(BillStatus status, CompletionHandler handler) {
+    public void getBillsByStatus(USBillStatus status, CompletionHandler handler) {
         if(statuses == null) {
             statuses = new HashMap<>();
         }
@@ -76,7 +76,7 @@ public enum USCongress implements Jsoupable, Jsonable {
             });
         }
     }
-    private void getBillsBySearch(BillStatus status, CompletionHandler handler) {
+    private void getBillsBySearch(USBillStatus status, CompletionHandler handler) {
         getPreCongressBillsBySearch(status, new CompletionHandler() {
             @Override
             public void handleObject(Object object) {
@@ -97,9 +97,9 @@ public enum USCongress implements Jsoupable, Jsonable {
             }
         });
     }
-    public void getPreCongressBillsBySearch(BillStatus status, CompletionHandler handler) {
+    public void getPreCongressBillsBySearch(USBillStatus status, CompletionHandler handler) {
         final String version = getVersion();
-        final String url = "https://www.congress.gov/search?searchResultViewType=expanded&pageSize=250&q=%7B%22source%22%3A%22legislation%22%2C%22congress%22%3A%22" + version + "%22%2C%22bill-status%22%3A%22" + status.getBackendID() + "%22%7D";
+        final String url = "https://www.congress.gov/search?searchResultViewType=expanded&pageSize=250&q=%7B%22source%22%3A%22legislation%22%2C%22congress%22%3A%22" + version + "%22%2C%22bill-status%22%3A%22" + status.getSearchID() + "%22%7D";
         final Document doc = getDocument(url);
         if(doc != null) {
             final Elements items = doc.select("main.content div.basic-search-results-wrapper div.main-wrapper div.search-row div.search-column-main ol.basic-search-results-lists li.expanded");

@@ -1,9 +1,6 @@
 package me.randomhashtags.worldlaws.recent.software;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.EventDate;
-import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.Jsoupable;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
@@ -44,14 +41,14 @@ public enum PlayStation5Updates implements RecentEventController, Jsoupable {
                     description.append(isFirst ? "" : "\n").append(element.text());
                     isFirst = false;
                 }
-                final PreRecentEvent event = new PreRecentEvent(updateNotesTitle, description.toString(), null);
-                final HashSet<String> hashset = new HashSet<>() {{ add(event.toString()); }};
-                handler.handleHashSetString(hashset);
+                final PreRecentEvent event = new PreRecentEvent(date, updateNotesTitle, description.toString(), null, new EventSources(new EventSource("PlayStation Support: PS5 System Software", url)));
+                final HashSet<PreRecentEvent> hashset = new HashSet<>() {{ add(event); }};
+                handler.handleObject(hashset);
             } else {
-                handler.handleHashSetString(null);
+                handler.handleObject(null);
             }
         } else {
-            handler.handleHashSetString(null);
+            handler.handleObject(null);
         }
     }
 }

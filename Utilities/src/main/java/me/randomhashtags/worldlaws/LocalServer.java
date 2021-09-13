@@ -7,6 +7,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.SocketException;
 import java.util.*;
+import java.util.concurrent.TimeUnit;
 
 public final class LocalServer implements UserServer, DataValues {
     private final String serverName;
@@ -33,6 +34,13 @@ public final class LocalServer implements UserServer, DataValues {
         uniqueRequests = new HashMap<>();
         totalRequests = new HashMap<>();
         totalUniqueIdentifiers = new HashSet<>();
+        final long every30Minutes = TimeUnit.MINUTES.toMillis(30);
+        registerFixedTimer(every30Minutes, new CompletionHandler() {
+            @Override
+            public void handleObject(Object object) {
+                saveStatistics();
+            }
+        });
         setupHttpServer();
     }
 
@@ -83,10 +91,15 @@ public final class LocalServer implements UserServer, DataValues {
     }
     private void saveStatistics() {
         final long started = System.currentTimeMillis();
-        Statistics.INSTANCE.save(serverName, totalUniqueIdentifiers, uniqueRequests, totalRequests, null);
-        WLLogger.log(Level.INFO, serverName + " - Saved statistics (took " + (System.currentTimeMillis()-started) + "ms)");
-        totalRequests.clear();
-        totalUniqueIdentifiers.clear();
+        Statistics.INSTANCE.save(serverName, totalUniqueIdentifiers, uniqueRequests, totalRequests, new CompletionHandler() {
+            @Override
+            public void handleObject(Object object) {
+                WLLogger.log(Level.INFO, serverName + " - Saved statistics (took " + (System.currentTimeMillis()-started) + "ms)");
+                totalRequests.clear();
+                totalUniqueIdentifiers.clear();
+                uniqueRequests.clear();
+            }
+        });
     }
 
     private void setupHttpServer() {

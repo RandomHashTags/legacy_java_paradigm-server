@@ -1,11 +1,8 @@
 package me.randomhashtags.worldlaws.country.usa;
 
-import me.randomhashtags.worldlaws.APIVersion;
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.LawController;
-import me.randomhashtags.worldlaws.LawSubdivisionController;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.country.subdivisions.UnitedStatesSubdivisions;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionsUnitedStates;
 import me.randomhashtags.worldlaws.country.usa.federal.FederalGovernment;
 import me.randomhashtags.worldlaws.country.usa.federal.PreCongressBill;
 import me.randomhashtags.worldlaws.country.usa.federal.USCongress;
@@ -38,54 +35,64 @@ public enum USLaws implements LawController {
     }
 
     @Override
+    public BillStatus[] getBillStatuses() {
+        return USBillStatus.values();
+    }
+
+    @Override
     public void getRecentActivity(APIVersion version, CompletionHandler handler) {
         final LocalDate startingDate = LocalDate.now().minusDays(7);
         final USCongress congress = USCongress.getCongress(getCurrentAdministrationVersion());
-        final BillStatus[] statuses = new BillStatus[] {
-                BillStatus.BECAME_LAW,
-                BillStatus.VETO_ACTIONS
+        final USBillStatus[] statuses = new USBillStatus[] {
+                USBillStatus.BECAME_LAW,
+                USBillStatus.VETOED,
         };
 
         final int max = statuses.length;
-        final HashMap<BillStatus, HashSet<PreCongressBill>> values = new HashMap<>();
+        final HashMap<USBillStatus, HashSet<PreCongressBill>> values = new HashMap<>();
         final AtomicInteger completed = new AtomicInteger(0);
-        Arrays.asList(statuses).parallelStream().forEach(status -> {
-            congress.getPreCongressBillsBySearch(status, new CompletionHandler() {
-                @Override
-                public void handleObject(Object object) {
-                    if(object != null) {
-                        @SuppressWarnings({ "unchecked" })
-                        final HashSet<PreCongressBill> bills = (HashSet<PreCongressBill>) object;
-                        bills.removeIf(bill -> bill.getDate().getLocalDate().isBefore(startingDate));
-                        if(!bills.isEmpty()) {
-                            values.put(status, bills);
-                        }
-                    }
-                    if(completed.addAndGet(1) == max) {
-                        String string = null;
-                        if(!values.isEmpty()) {
-                            final StringBuilder builder = new StringBuilder("{");
-                            boolean isFirstStatus = true;
-                            for(Map.Entry<BillStatus, HashSet<PreCongressBill>> map : values.entrySet()) {
-                                final BillStatus status = map.getKey();
-                                builder.append(isFirstStatus ? "" : ",").append("\"").append(status.name().toLowerCase()).append("\":{");
-                                final HashSet<PreCongressBill> bills = map.getValue();
-                                boolean isFirst = true;
-                                for(PreCongressBill bill : bills) {
-                                    builder.append(isFirst ? "" : ",").append(bill.toString());
-                                    isFirst = false;
-                                }
-                                isFirstStatus = false;
-                                builder.append("}");
-                            }
-                            builder.append("}");
-                            string = builder.toString();
-                        }
-                        handler.handleString(string);
+        Arrays.asList(statuses).parallelStream().forEach(status -> congress.getPreCongressBillsBySearch(status, new CompletionHandler() {
+            @Override
+            public void handleObject(Object object) {
+                if(object != null) {
+                    @SuppressWarnings({ "unchecked" })
+                    final HashSet<PreCongressBill> bills = (HashSet<PreCongressBill>) object;
+                    bills.removeIf(bill -> bill.getDate().getLocalDate().isBefore(startingDate));
+                    if(!bills.isEmpty()) {
+                        values.put(status, bills);
                     }
                 }
-            });
-        });
+                if(completed.addAndGet(1) == max) {
+                    String string = null;
+                    if(!values.isEmpty()) {
+                        final StringBuilder builder = new StringBuilder("{");
+                        builder.append("\"statuses\":{");
+                        boolean isFirstBillStatus = true;
+                        for(BillStatus status : getBillStatuses()) {
+                            builder.append(isFirstBillStatus ? "" : ",").append(status.toJSON());
+                            isFirstBillStatus = false;
+                        }
+                        builder.append("},");
+                        boolean isFirstStatus = true;
+                        for(Map.Entry<USBillStatus, HashSet<PreCongressBill>> map : values.entrySet()) {
+                            final USBillStatus status = map.getKey();
+                            builder.append(isFirstStatus ? "" : ",").append("\"").append(status.getName()).append("\":{");
+                            final HashSet<PreCongressBill> bills = map.getValue();
+                            boolean isFirst = true;
+                            for(PreCongressBill bill : bills) {
+                                builder.append(isFirst ? "" : ",").append(bill.toString());
+                                isFirst = false;
+                            }
+                            isFirstStatus = false;
+                            builder.append("}");
+                        }
+                        builder.append("}");
+                        string = builder.toString();
+                    }
+                    handler.handleString(string);
+                }
+            }
+        }));
     }
 
     @Override
@@ -120,14 +127,14 @@ public enum USLaws implements LawController {
                 politicianService.getPolitician(values[1], handler);
                 break;
             default:
-                final BillStatus status = BillStatus.valueOf(key.toUpperCase());
+                final USBillStatus status = USBillStatus.valueOf(key.toUpperCase());
                 congress.getBillsByStatus(status, handler);
                 break;
         }
     }
 
     private String getLawResponse(String key, String[] values, int length) {
-        final UnitedStatesSubdivisions usstate = UnitedStatesSubdivisions.valueOf(key.toUpperCase());
+        final SubdivisionsUnitedStates usstate = SubdivisionsUnitedStates.valueOf(key.toUpperCase());
         final LawSubdivisionController state = getStateFrom(usstate);
         if(state != null) {
             switch (length) {
@@ -148,7 +155,7 @@ public enum USLaws implements LawController {
         return null;
     }
 
-    private LawSubdivisionController getStateFrom(UnitedStatesSubdivisions state) {
+    private LawSubdivisionController getStateFrom(SubdivisionsUnitedStates state) {
         switch (state) {
             case ALABAMA: return null; // incomplete - http://alisondb.legislature.state.al.us/alison/codeofalabama/1975/coatoc.htm
             case ALASKA: return Alaska.INSTANCE;

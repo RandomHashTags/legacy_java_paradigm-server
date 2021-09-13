@@ -12,22 +12,19 @@ import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public final class CustomCountry implements SovereignState {
 
     private final String unStatus, sovereigntyDispute, shortName, name;
-    private String isoAlpha2, flagURL, flagEmoji;
+    private String isoAlpha2, flagEmoji;
     private int currentGovernmentAdministration;
     private HashSet<Integer> governmentAdministrations;
     private WLTimeZone[] timezones;
-    private String information;
+    private String subdivisions, information;
 
     public CustomCountry(String tag, String unStatus, String sovereigntyDispute, Document page) {
         this.unStatus = unStatus;
@@ -56,7 +53,6 @@ public final class CustomCountry implements SovereignState {
         unStatus = json.has("unStatus") ? json.getString("unStatus") : null;
         sovereigntyDispute = json.has("sovereigntyDispute") ? json.getString("sovereigntyDispute") : null;
         shortName = json.has("shortName") ? json.getString("shortName") : tag;
-        flagURL = json.has("flagURL") && !json.getString("flagURL").equals("null") ? json.getString("flagURL") : null;
         flagEmoji = json.getString("flagEmoji");
 
         loadCountryDetails();
@@ -65,9 +61,6 @@ public final class CustomCountry implements SovereignState {
         final WLCountry wlcountry = getWLCountry();
         if(wlcountry != null) {
             isoAlpha2 = wlcountry.getISOAlpha2();
-            if(flagURL == null && isoAlpha2 != null) {
-                flagURL = "https://raw.githubusercontent.com/stsrki/country-flags/master/png1000px/" + isoAlpha2.toLowerCase() + ".png";
-            }
             if(flagEmoji == null) {
                 flagEmoji = wlcountry.getFlagEmoji();
             }
@@ -75,6 +68,18 @@ public final class CustomCountry implements SovereignState {
             governmentAdministrations = LawUtilities.getAdministrationVersions(wlcountry);
             if(governmentAdministrations != null) {
                 currentGovernmentAdministration = LawUtilities.getCurrentAdministrationVersion(wlcountry);
+            }
+
+            final SovereignStateSubdivision[] subdivisions = wlcountry.getSubdivisions();
+            if(subdivisions != null) {
+                final StringBuilder builder = new StringBuilder("{");
+                boolean isFirst = true;
+                for(SovereignStateSubdivision subdivision : subdivisions) {
+                    builder.append(isFirst ? "" : ",").append(subdivision.toJSON());
+                    isFirst = false;
+                }
+                builder.append("}");
+                this.subdivisions = builder.toString();
             }
         }
     }
@@ -89,7 +94,7 @@ public final class CustomCountry implements SovereignState {
     }
     @Override
     public String getFlagURL() {
-        return flagURL;
+        return null;
     }
     public String getFlagEmoji() {
         return StringEscapeUtils.escapeJava(flagEmoji);
@@ -109,13 +114,6 @@ public final class CustomCountry implements SovereignState {
                     if(country != null) {
                         final HashSet<CountryService> services = new HashSet<>(CountryServices.SERVICES);
                         final List<SovereignStateResource> resources = new ArrayList<>();
-
-                        final SovereignStateSubdivision[] subdivisions = country.getSubdivisions();
-                        if(subdivisions != null) {
-                            final Stream<String> stream = Arrays.stream(subdivisions).map(SovereignStateSubdivision::toJSON);
-                            final HashSet<String> territories = stream.parallel().collect(Collectors.toCollection(HashSet::new));
-                            values.put(SovereignStateInformationType.TERRITORIES, territories);
-                        }
 
                         final WLConstitution constitution = country.getConstitution();
                         if(constitution != null) {
@@ -234,8 +232,8 @@ public final class CustomCountry implements SovereignState {
                 return null;
             default:
                 switch (name.toLowerCase()) {
-                    case "congo, democratic republic of the": return WLCountry.DEMOCRATIC_REPUBLIC_OF_THE_CONGO;
-                    case "congo, republic of the": return WLCountry.REPUBLIC_OF_THE_CONGO;
+                    case "democratic republic of the congo": return WLCountry.DEMOCRATIC_REPUBLIC_OF_THE_CONGO;
+                    case "republic of the congo": return WLCountry.REPUBLIC_OF_THE_CONGO;
                     default:
                         return WLCountry.valueOf(shortName.toUpperCase().replace("ST. ", "SAINT ").replace("&", "AND").replace(" ", "_").replace("-", "_"));
                 }
@@ -274,7 +272,7 @@ public final class CustomCountry implements SovereignState {
                 (hasGovernmentAdministrations ? "\"governmentAdministrations\":" + getGovernmentAdministrationsJSON() + "," : "") +
                 (!name.equals(shortName) ? "\"shortName\":\"" + shortName + "\"," : "") +
                 (timezones != null ? "\"timezones\":" + getTimeZonesJSON() + "," : "") +
-                (flagURL != null ? "\"flagURL\":\"" + flagURL + "\"," : "") +
+                (subdivisions != null ? "\"subdivisions\":" + subdivisions + "," : "") +
                 "\"flagEmoji\":\"" + getFlagEmoji() + "\"" +
                 "}";
     }

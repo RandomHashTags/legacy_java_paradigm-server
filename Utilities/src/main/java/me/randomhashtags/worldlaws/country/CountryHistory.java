@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.country;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.country.history.UnitedStatesHistory;
+import me.randomhashtags.worldlaws.country.history.HistoryUnitedStates;
 import org.json.JSONObject;
 
 import java.util.Arrays;
@@ -52,7 +52,7 @@ public enum CountryHistory implements SovereignStateHistory {
     }
     private ICountryHistory getCountryHistory(WLCountry country) {
         switch (country) {
-            case UNITED_STATES: return UnitedStatesHistory.INSTANCE;
+            case UNITED_STATES: return HistoryUnitedStates.INSTANCE;
             default: return null;
         }
     }

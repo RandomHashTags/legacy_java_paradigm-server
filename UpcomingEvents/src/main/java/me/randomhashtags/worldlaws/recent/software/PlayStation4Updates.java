@@ -41,14 +41,14 @@ public enum PlayStation4Updates implements RecentEventController, Jsoupable {
                     description.append(isFirst ? "" : "\n").append(element.text());
                     isFirst = false;
                 }
-                final PreRecentEvent event = new PreRecentEvent(updateNotesTitle, description.toString(), null);
-                final HashSet<String> hashset = new HashSet<>() {{ add(event.toString()); }};
-                handler.handleHashSetString(hashset);
+                final PreRecentEvent event = new PreRecentEvent(date, updateNotesTitle, description.toString(), null, new EventSources(new EventSource("PlayStation Support: PS4 System Software", url)));
+                final HashSet<PreRecentEvent> hashset = new HashSet<>() {{ add(event); }};
+                handler.handleObject(hashset);
             } else {
-                handler.handleHashSetString(null);
+                handler.handleObject(null);
             }
         } else {
-            handler.handleHashSetString(null);
+            handler.handleObject(null);
         }
     }
 }

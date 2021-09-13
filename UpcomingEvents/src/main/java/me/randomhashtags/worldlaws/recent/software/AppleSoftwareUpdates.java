@@ -1,8 +1,6 @@
 package me.randomhashtags.worldlaws.recent.software;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.Jsoupable;
-import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
@@ -32,7 +30,7 @@ public enum AppleSoftwareUpdates implements RecentEventController, Jsoupable {
             updateElements.removeIf(element -> {
                 return element.select("td").isEmpty() || updateElements.indexOf(element) > 20;
             });
-            final HashSet<String> updates = new HashSet<>();
+            final HashSet<PreRecentEvent> updates = new HashSet<>();
             final int max = updateElements.size();
             final AtomicInteger completed = new AtomicInteger(0);
             updateElements.parallelStream().forEach(updateElement -> {
@@ -57,13 +55,14 @@ public enum AppleSoftwareUpdates implements RecentEventController, Jsoupable {
                             if(description != null) {
                                 name = name.replace(" (details available soon)", "");
                             }
-                            final PreRecentEvent preRecentEvent = new PreRecentEvent(name, description, null);
-                            updates.add(preRecentEvent.toString());
+                            final EventDate date = new EventDate(localDate);
+                            final PreRecentEvent preRecentEvent = new PreRecentEvent(date, name, description, null, new EventSources(new EventSource("Apple Security Updates", url)));
+                            updates.add(preRecentEvent);
                         }
                     }
                 }
                 if(completed.addAndGet(1) == max) {
-                    handler.handleHashSetString(updates);
+                    handler.handleObject(updates);
                 }
             });
         } else {

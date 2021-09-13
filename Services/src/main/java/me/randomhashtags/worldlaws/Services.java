@@ -76,6 +76,9 @@ public final class Services implements WLServer {
                 final String[] values = value.split("/");
                 final String key = values[0];
                 switch (key) {
+                    case "chart":
+                        stockService.getChart(version, values[1], handler);
+                        break;
                     case "movers":
                         stockService.getMovers(version, handler);
                         break;
@@ -84,20 +87,7 @@ public final class Services implements WLServer {
                         stockService.getQuotes(version, symbols, handler);
                         break;
                     default:
-                        switch (values.length) {
-                            case 2:
-                                final String target = values[1];
-                                switch (target) {
-                                    case "chart":
-                                        stockService.getChart(version, key, handler);
-                                        break;
-                                    default:
-                                        break;
-                                }
-                                break;
-                            default:
-                                break;
-                        }
+                        handler.handleString(null);
                         break;
                 }
             }

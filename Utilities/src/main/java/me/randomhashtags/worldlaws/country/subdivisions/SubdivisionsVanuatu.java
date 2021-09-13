@@ -4,33 +4,29 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public enum NewZealandSubdivisions implements SovereignStateSubdivision {
-    AUCKLAND,
-    BAY_OF_PLENTY,
-    CANTERBURY,
-    GISBORNE,
-    HAWKES_BAY, // TODO: add support for custom letters and punctuation
-    MANAWATU_WHANGANUI,
-    MARLBOROUGH,
-    NELSON,
-    NORTHLAND,
-    OTAGO,
-    SOUTHLAND,
-    TARANAKI,
-    TASMAN,
-    WAIKATO,
-    WELLINGTON,
-    WEST_COAST
+public enum SubdivisionsVanuatu implements SovereignStateSubdivision {
+    MALAMPA,
+    PENAMA,
+    SANMA,
+    SHEFA,
+    TAFEA,
+    TORBA,
     ;
 
     @Override
     public WLCountry getCountry() {
-        return WLCountry.NEW_ZEALAND;
+        return WLCountry.VANUATU;
     }
 
     @Override
     public String getPostalCodeAbbreviation() {
         switch (this) {
+            case MALAMPA: return "MAP";
+            case PENAMA: return "PAM";
+            case SANMA: return "SAM";
+            case SHEFA: return "SEE";
+            case TAFEA: return "TAE";
+            case TORBA: return "TOB";
             default: return null;
         }
     }

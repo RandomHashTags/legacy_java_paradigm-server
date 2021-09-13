@@ -4,31 +4,37 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public enum VanuatuSubdivisions implements SovereignStateSubdivision {
-    MALAMPA,
-    PENAMA,
-    SANMA,
-    SHEFA,
-    TAFEA,
-    TORBA,
+public enum SubdivisionsItaly implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Regions_of_Italy
+    ABRUZZO,
+    AOSTA_VALLEY,
+    APULIA,
+    BASILICATA,
+    CALABRIA,
+    CAMPANIA,
+    EMILIA_ROMAGNA,
+    FRIULI_VENEZLA_GIULIA,
+    LAZIO,
+    LIGURIA,
+    LOMBARDY,
+    MARCHE,
+    MOLISE,
+    PIEDMONT,
+    SARDINIA,
+    SICILY,
+    TRENTINO_SOUTH_TYROL,
+    TUSCANY,
+    UMBRIA,
+    VENETO,
     ;
 
     @Override
     public WLCountry getCountry() {
-        return WLCountry.VANUATU;
+        return WLCountry.ITALY;
     }
 
     @Override
     public String getPostalCodeAbbreviation() {
-        switch (this) {
-            case MALAMPA: return "MAP";
-            case PENAMA: return "PAM";
-            case SANMA: return "SAM";
-            case SHEFA: return "SEE";
-            case TAFEA: return "TAE";
-            case TORBA: return "TOB";
-            default: return null;
-        }
+        return null;
     }
 
     @Override

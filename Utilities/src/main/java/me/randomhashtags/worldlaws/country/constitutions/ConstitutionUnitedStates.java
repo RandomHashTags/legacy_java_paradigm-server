@@ -7,7 +7,7 @@ import me.randomhashtags.worldlaws.country.WLConstitution;
 import java.util.Arrays;
 import java.util.List;
 
-public enum UnitedStatesConstitution implements WLConstitution {
+public enum ConstitutionUnitedStates implements WLConstitution {
     INSTANCE;
 
     @Override

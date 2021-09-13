@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.law.LawUtilities;
 
 public interface LawController {
     WLCountry getCountry();
+    BillStatus[] getBillStatuses();
     default int getCurrentAdministrationVersion() {
         return LawUtilities.getCurrentAdministrationVersion(getCountry());
     }

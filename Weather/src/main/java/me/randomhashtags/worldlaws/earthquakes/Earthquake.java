@@ -4,13 +4,14 @@ import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.Location;
 
 public final class Earthquake {
-    private final String territory, cause, magnitude, place, url;
+    private final String country, subdivision, cause, magnitude, place, url;
     private final float depthKM;
     private final long time, lastUpdated;
     private final Location location;
 
-    public Earthquake(String territory, String cause, String magnitude, String place, long time, long lastUpdated, float depthKM, Location location, String url) {
-        this.territory = territory;
+    public Earthquake(String country, String subdivision, String cause, String magnitude, String place, long time, long lastUpdated, float depthKM, Location location, String url) {
+        this.country = country;
+        this.subdivision = subdivision;
         this.cause = cause;
         this.magnitude = magnitude;
         this.place = LocalServer.fixEscapeValues(place);
@@ -27,7 +28,8 @@ public final class Earthquake {
                 "\"cause\":\"" + cause + "\"," +
                 "\"magnitude\":" + magnitude + "," +
                 "\"place\":\"" + place + "\"," +
-                "\"territory\":\"" + territory + "\"," +
+                (country != null ? "\"country\":\"" + country + "\"," : "") +
+                (subdivision != null ? "\"subdivision\":\"" + subdivision + "\"," : "") +
                 "\"time\":" + time + "," +
                 "\"lastUpdated\":" + lastUpdated + "," +
                 "\"depthKM\":" + depthKM + "," +

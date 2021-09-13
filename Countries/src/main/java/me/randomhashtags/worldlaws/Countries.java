@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.country.CountryHistory;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionsUnitedStates;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
 import me.randomhashtags.worldlaws.info.NationalCapitals;
@@ -52,16 +53,16 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
+        SubdivisionsUnitedStates.MINNESOTA.getInformation(new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                WLLogger.log(Level.INFO, "Countries;test;string=" + string);
+            }
+        });
     }
 
     @Override
     public void load() {
-        final CompletionHandler handler = new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-            }
-        };
-        new Thread(() -> loadCountries(handler)).start();
         loadServices();
         startServer();
     }
@@ -95,6 +96,13 @@ public final class Countries implements WLServer {
         CountryServices.SERVICES.addAll(services);
     }
 
+    private void getCountries(CompletionHandler handler) {
+        if(countriesCacheJSON != null) {
+            handler.handleString(countriesCacheJSON);
+        } else {
+            loadCountries(handler);
+        }
+    }
     private void loadCountries(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         getJSONArray(Folder.COUNTRIES, "_List of sovereign states", new CompletionHandler() {
@@ -112,9 +120,7 @@ public final class Countries implements WLServer {
                     final Element nameElement = tds.get(0).select("b a[href]").get(0);
                     final String tag = nameElement.text();
                     final List<Node> sovereigntyElement = new ArrayList<>(tds.get(2).childNodes());
-                    sovereigntyElement.removeIf(element -> {
-                        return element.hasAttr("style") || element.hasParent() && element.parent().nodeName().equals("span");
-                    });
+                    sovereigntyElement.removeIf(element -> element.hasAttr("style") || element.hasParent() && element.parent().nodeName().equals("span"));
                     final StringBuilder sovereigntyBuilder = new StringBuilder();
                     for(Node node : sovereigntyElement) {
                         String string = node instanceof TextNode ? ((TextNode) node).text() : ((Element) node).text();
@@ -245,11 +251,11 @@ public final class Countries implements WLServer {
                 handler.handleString(getFilters());
                 break;
             case "countries":
-                handler.handleString(countriesCacheJSON);
+                getCountries(handler);
                 break;
             case "information":
                 final String value = values[1];
-                final CustomCountry country = countriesMap.getOrDefault(value, null);
+                final CustomCountry country = countriesMap.get(value);
                 if(country != null) {
                     final int length = values.length;
                     switch (length) {

@@ -23,7 +23,7 @@ public final class Weather implements WLServer {
     }
 
     private void test() {
-        getHomeResponse(APIVersion.v1, new CompletionHandler() {
+        getServerResponse(APIVersion.v1, "earthquakes/recent", new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 WLLogger.log(Level.INFO, "Weather;test;string=" + string);

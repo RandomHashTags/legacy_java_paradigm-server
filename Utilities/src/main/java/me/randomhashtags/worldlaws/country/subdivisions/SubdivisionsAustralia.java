@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public enum AustraliaSubdivisions implements SovereignStateSubdivision {
+public enum SubdivisionsAustralia implements SovereignStateSubdivision {
     NEW_SOUTH_WALES,
     QUEENSLAND,
     SOUTH_AUSTRALIA,

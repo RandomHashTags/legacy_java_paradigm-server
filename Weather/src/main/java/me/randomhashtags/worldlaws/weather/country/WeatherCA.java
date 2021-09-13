@@ -117,7 +117,7 @@ public enum WeatherCA implements WeatherController {
                                 final String headline = null;
                                 final String description = table.last().text().replace("\n", "\\n");
                                 final String instruction = null;//properties.has("instruction") && properties.get("instruction") instanceof String ? properties.getString("instruction").replace("\n", "\\n") : null;
-                                final boolean isTheSame = previousAlert != null && territory.equalsIgnoreCase(previousAlert.getTerritory()) && event.equalsIgnoreCase(previousAlert.getEvent()) && defcon == previousAlert.getDefcon() && description.equalsIgnoreCase(previousAlert.getDescription());
+                                final boolean isTheSame = previousAlert != null && territory.equalsIgnoreCase(previousAlert.getSubdivision()) && event.equalsIgnoreCase(previousAlert.getEvent()) && defcon == previousAlert.getDefcon() && description.equalsIgnoreCase(previousAlert.getDescription());
                                 if(!isTheSame) {
                                     if(previousAlert != null) {
                                         preAlertIDs.put(previousAlert.getID(), previousAlert);

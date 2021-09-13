@@ -31,7 +31,7 @@ public final class Laws implements WLServer {
     }
 
     private void test() {
-        getHomeResponse(new CompletionHandler() {
+        USLaws.INSTANCE.getRecentActivity(APIVersion.v1, new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 WLLogger.log(Level.INFO, "Laws;test;string=" + string);
@@ -58,6 +58,8 @@ public final class Laws implements WLServer {
                     final LawController controller = valueOfCountry(values[1]);
                     if(controller != null) {
                         controller.getRecentActivity(version, handler);
+                    } else {
+                        handler.handleString(null);
                     }
                 } else {
                     getRecentActivity(version, handler);
@@ -74,6 +76,8 @@ public final class Laws implements WLServer {
                     } else {
                         controller.getResponse(version, target.substring(keyLength), handler);
                     }
+                } else {
+                    handler.handleString(null);
                 }
                 break;
         }

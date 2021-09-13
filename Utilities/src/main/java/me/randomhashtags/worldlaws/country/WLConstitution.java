@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.country;
 
-import me.randomhashtags.worldlaws.country.constitutions.UnitedStatesConstitution;
+import me.randomhashtags.worldlaws.country.constitutions.ConstitutionUnitedStates;
 
 import java.util.List;
 
@@ -11,7 +11,7 @@ public interface WLConstitution {
 
     static WLConstitution get(WLCountry country) {
         switch (country) {
-            case UNITED_STATES: return UnitedStatesConstitution.INSTANCE;
+            case UNITED_STATES: return ConstitutionUnitedStates.INSTANCE;
             default: return null;
         }
     }

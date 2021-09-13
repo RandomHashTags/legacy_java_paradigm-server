@@ -78,7 +78,7 @@ public enum MLB implements USAUpcomingEventController {
                         put("awayTeam", awayTeamJSON.toString());
                         put("homeTeam", homeTeamJSON.toString());
                     }};
-                    final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, url, targetTimeET, customValues);
+                    final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, url, targetTimeET, null, customValues);
                     preUpcomingEvents.put(id, preUpcomingEvent);
                 });
                 if(completed.addAndGet(1) == max) {
@@ -95,6 +95,10 @@ public enum MLB implements USAUpcomingEventController {
         final Element ahrefElement = teamElement.selectFirst("div div a[href]");
         final String scheduleURL = ahrefElement.attr("href");
         json.put("scheduleURL", scheduleURL);
+
+        final Element teamLogoElement = ahrefElement.selectFirst("div.sc-fzpkJw img.sc-fznzOf");
+        final String teamLogoURL = teamLogoElement.attr("src");
+        json.put("logoURL", teamLogoURL);
 
         final Elements nameElement = ahrefElement.select("div div div.TeamWrappersstyle__DesktopTeamWrapper-uqs6qh-0");
         final String teamName = nameElement.text();

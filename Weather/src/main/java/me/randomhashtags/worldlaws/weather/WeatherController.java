@@ -3,7 +3,9 @@ package me.randomhashtags.worldlaws.weather;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
@@ -47,9 +49,9 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
 
             final HashMap<String, HashSet<String>> territoryPreAlerts = new HashMap<>();
             for(WeatherPreAlert preAlert : preAlerts) {
-                final String territory = preAlert.getTerritory();
-                territoryPreAlerts.putIfAbsent(territory, new HashSet<>());
-                territoryPreAlerts.get(territory).add(preAlert.toString());
+                final String subdivision = preAlert.getSubdivision();
+                territoryPreAlerts.putIfAbsent(subdivision, new HashSet<>());
+                territoryPreAlerts.get(subdivision).add(preAlert.toString());
             }
 
             final StringBuilder builder = new StringBuilder("{");

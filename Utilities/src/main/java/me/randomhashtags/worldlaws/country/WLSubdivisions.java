@@ -29,13 +29,13 @@ public enum WLSubdivisions {
 
     public SovereignStateSubdivision[] get(WLCountry country) {
         switch (country) {
-            case AUSTRALIA: return AustraliaSubdivisions.values();
-            case CANADA: return CanadaSubdivisions.values();
-            case ITALY: return ItalySubdivisions.values();
-            case MEXICO: return MexicoSubdivisions.values();
-            case NEW_ZEALAND: return NewZealandSubdivisions.values();
-            case UNITED_STATES: return UnitedStatesSubdivisions.values();
-            case VANUATU: return VanuatuSubdivisions.values();
+            case AUSTRALIA: return SubdivisionsAustralia.values();
+            case CANADA: return SubdivisionsCanada.values();
+            case ITALY: return SubdivisionsItaly.values();
+            case MEXICO: return SubdivisionsMexico.values();
+            case NEW_ZEALAND: return SubdivisionsNewZealand.values();
+            case UNITED_STATES: return SubdivisionsUnitedStates.values();
+            case VANUATU: return SubdivisionsVanuatu.values();
             default: return null;
         }
     }

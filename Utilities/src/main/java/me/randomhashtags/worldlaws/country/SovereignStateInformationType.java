@@ -15,7 +15,6 @@ public enum SovereignStateInformationType {
     RESOURCES,
     SERVICES,
     SINGLE_VALUES,
-    TERRITORIES,
 
     NEIGHBORS,
     ;

@@ -111,7 +111,7 @@ public enum Championships implements UpcomingEventController { // https://en.wik
 
             if(!finished) {
                 final String id = getEventDateIdentifier(startingDateString, event);
-                final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, eventURL, sport);
+                final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, eventURL, sport, countries);
                 preUpcomingEvents.put(id, preUpcomingEvent);
             }
         }

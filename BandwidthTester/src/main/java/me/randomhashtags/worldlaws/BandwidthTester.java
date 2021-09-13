@@ -3,31 +3,43 @@ package me.randomhashtags.worldlaws;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
-import java.io.PrintStream;
-import java.util.Timer;
-import java.util.TimerTask;
-import java.util.concurrent.atomic.AtomicInteger;
+import java.util.*;
 import java.util.stream.IntStream;
 
-public final class BandwidthTester implements RestAPI {
+public final class BandwidthTester implements UserServer, RestAPI {
 
     public static void main(String[] args) {
         new BandwidthTester();
     }
 
     private BandwidthTester() {
-        simulateRequestsPerSecond(1);
+        INPUT_SCANNERS.put(this, new Scanner(System.in));
+        WLLogger.log(Level.INFO, "How many requests per second should I simulate? (enter an integer value)");
+        final int amount = Integer.parseInt(getUserInput());
+        simulateRequestsPerSecond(amount);
         //simulatePayload();
+    }
+
+    @Override
+    public void start() {
+    }
+
+    @Override
+    public void stop() {
     }
 
     private void simulateRequestsPerSecond(int amount) {
         final Timer timer = new Timer();
+        final HashMap<String, String> headers = new HashMap<>();
+        final String uuid = "***REMOVED***";
+        headers.put("***REMOVED***", uuid);
+        headers.put("***REMOVED***", "BandwidthTester");
         timer.scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
-                for(int i = 1; i <= amount; i++) {
-                    makeRequest(i, amount);
-                }
+                IntStream.range(0, amount).parallel().forEach(i -> {
+                    makeRequest(headers, i, amount);
+                });
             }
         }, 0, 1_000);
     }
@@ -35,12 +47,12 @@ public final class BandwidthTester implements RestAPI {
     private void simulatePayload() {
         final int max = 1_000;
         IntStream.range(1, max).parallel().forEach(integer -> {
-            makeRequest(integer, max);
+            makeRequest(null, integer, max);
         });
     }
-    private void makeRequest(int number, int max) {
+    private void makeRequest(HashMap<String, String> headers, int number, int max) {
         final long started = System.currentTimeMillis();
-        requestJSONObject("http://localhost:34551/v1/unitedstates/information", RequestMethod.GET, new CompletionHandler() {
+        requestJSONObject("http://localhost:0/v1/home", false, RequestMethod.GET, headers, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
                 WLLogger.log(Level.INFO, "BandwidthTester - completed request #" + number + " out of " + max + " (took " + (System.currentTimeMillis()-started) + "ms)");

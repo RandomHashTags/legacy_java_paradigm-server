@@ -2,9 +2,12 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
+import me.randomhashtags.worldlaws.recent.software.videogames.VideoGameUpdateController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -19,6 +22,7 @@ import java.util.List;
 public enum VideoGames implements UpcomingEventController {
     INSTANCE;
 
+    private String videoGameListCache;
     private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
     private HashMap<String, String> upcomingEvents;
 
@@ -40,6 +44,26 @@ public enum VideoGames implements UpcomingEventController {
                 handler.handleString(null);
             }
         });
+    }
+
+    @Override
+    public void getResponse(String input, CompletionHandler handler) {
+        if(input.equals("list")) {
+            handler.handleString(getVideoGameList());
+        } else {
+            getUpcomingEvent(input, handler);
+        }
+    }
+
+    private String getVideoGameList() {
+        if(videoGameListCache == null) {
+            final JSONObject json = new JSONObject();
+            for(VideoGameUpdateController controller : VideoGameUpdates.getSupportedVideoGames()) {
+                json.put(controller.getName(), new JSONObject());
+            }
+            videoGameListCache = json.toString();
+        }
+        return videoGameListCache;
     }
 
     @Override

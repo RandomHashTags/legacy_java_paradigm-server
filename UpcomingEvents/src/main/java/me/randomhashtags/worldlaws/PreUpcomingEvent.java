@@ -4,9 +4,11 @@ import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONObject;
 
 import java.util.HashMap;
+import java.util.HashSet;
 
 public final class PreUpcomingEvent {
     private final String id, title, url, tag;
+    private final HashSet<String> countries;
     private final HashMap<String, Object> customValues;
 
     public static PreUpcomingEvent fromUpcomingEventJSON(UpcomingEventType type, String id, JSONObject json) {
@@ -37,11 +39,15 @@ public final class PreUpcomingEvent {
     public PreUpcomingEvent(String id, String title, String url, String tag) {
         this(id, title, url, tag, null);
     }
-    public PreUpcomingEvent(String id, String title, String url, String tag, HashMap<String, Object> customValues) {
+    public PreUpcomingEvent(String id, String title, String url, String tag, HashSet<String> countries) {
+        this(id, title, url, tag, countries, null);
+    }
+    public PreUpcomingEvent(String id, String title, String url, String tag, HashSet<String> countries, HashMap<String, Object> customValues) {
         this.id = id;
         this.title = LocalServer.fixEscapeValues(title);
         this.url = url;
         this.tag = LocalServer.fixEscapeValues(tag);
+        this.countries = countries;
         this.customValues = customValues;
     }
 
@@ -62,9 +68,21 @@ public final class PreUpcomingEvent {
         return customValues != null ? customValues.getOrDefault(key, null) : null;
     }
 
+    private String getCountriesArray() {
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        for(String country : countries) {
+            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
+            isFirst = false;
+        }
+        builder.append("]");
+        return builder.toString();
+    }
+
     public String toStringWithImageURL(String imageURL) {
         final String[] values = id.split("\\.");
         return "\"" + id.substring(values[0].length()+1) + "\":{" +
+                (countries != null ? "\"countries\":" + getCountriesArray() + "," : "") +
                 "\"title\":\"" + title + "\"," +
                 (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"," : "") +
                 "\"tag\":\"" + tag + "\"" +

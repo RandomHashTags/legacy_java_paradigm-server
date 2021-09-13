@@ -27,14 +27,7 @@ public enum Statistics implements Jsonable, QuotaHandler {
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    if(!json.has("unique")) {
-                        json.put("unique", new JSONObject());
-                    }
-                    if(!json.has("total")) {
-                        json.put("total", new JSONObject());
-                    }
-
-                    final JSONObject uniqueJSON = json.getJSONObject("unique");
+                    final JSONObject uniqueJSON = json.has("unique") ? json.getJSONObject("unique") : new JSONObject();
                     int totalUniqueRequests = 0;
                     final JSONObject uniqueServerValuesJSON = uniqueJSON.has(serverName) ? uniqueJSON.getJSONObject(serverName) : new JSONObject();
                     for(Map.Entry<String, HashSet<String>> value : uniqueRequests.entrySet()) {
@@ -56,7 +49,7 @@ public enum Statistics implements Jsonable, QuotaHandler {
                     }
                     json.put("unique", uniqueServerValuesJSON);
 
-                    final JSONObject totalJSON = json.getJSONObject("total");
+                    final JSONObject totalJSON = json.has("total") ? json.getJSONObject("total") : new JSONObject();
                     if(totalJSON.has("uniqueIdentifiers")) {
                         for(Object obj : totalJSON.getJSONArray("uniqueIdentifiers")) {
                             totalUniqueIdentifiers.add((String) obj);

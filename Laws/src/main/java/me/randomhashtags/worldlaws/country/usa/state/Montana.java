@@ -19,7 +19,7 @@ public enum Montana implements LawSubdivisionController {
             ""
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
+    private final String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
     private HashMap<String, String> statutes;
 
     Montana(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {

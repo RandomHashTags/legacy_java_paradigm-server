@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.weather;
 import me.randomhashtags.worldlaws.EventSource;
 
 public final class WeatherAlert {
-    private final String event, certainty, headline, instruction, description, zones;
+    private final String event, subdivision, certainty, headline, instruction, description, zones;
     private final int defcon;
     private final WeatherAlertTime time;
     private final EventSource source;
@@ -11,6 +11,7 @@ public final class WeatherAlert {
     public WeatherAlert(WeatherPreAlert preAlert, String zones, EventSource source) {
         this.event = preAlert.getEvent();
         this.defcon = preAlert.getDefcon();
+        this.subdivision = preAlert.getSubdivision();
         this.certainty = preAlert.getCertainty();
         this.headline = preAlert.getHeadline();
         this.instruction = preAlert.getInstruction();
@@ -25,6 +26,7 @@ public final class WeatherAlert {
         return "{" +
                 "\"defcon\":" + defcon + "," +
                 "\"event\":\"" + event + "\"," +
+                (subdivision != null ? "\"subdivision\":\"" + subdivision + "\"," : "") +
                 "\"certainty\":\"" + certainty + "\"," +
                 "\"headline\":\"" + headline + "\"," +
                 (instruction != null && !instruction.isEmpty() ? "\"instruction\":\"" + instruction + "\"," : "") +

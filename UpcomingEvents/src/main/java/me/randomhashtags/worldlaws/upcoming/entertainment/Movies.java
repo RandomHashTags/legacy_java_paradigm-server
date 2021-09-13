@@ -197,7 +197,12 @@ public enum Movies implements UpcomingEventController, IMDbService {
                 releaseInfo = null;
             }
             if(!setPremise) {
-                premise = elements.select("p").get(0).text();
+                for(Element element : elements.select("p")) {
+                    if(!element.hasAttr("class")) {
+                        premise = element.text();
+                        break;
+                    }
+                }
             }
 
             final EventSource wikipage = new EventSource("Wikipedia: " + wikiDoc.getPageName(), url);

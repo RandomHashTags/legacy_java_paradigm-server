@@ -46,8 +46,14 @@ public interface RestAPI {
     default void requestJSONObject(String url, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
         requestJSONObject(url, method, headers, null, handler);
     }
+    default void requestJSONObject(String url, boolean isLimited, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
+        requestJSONObject(url, isLimited, method, headers, null, handler);
+    }
     default void requestJSONObject(String url, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query, CompletionHandler handler) {
-        request(url, method, headers, query, new CompletionHandler() {
+        requestJSONObject(url, true, method, headers, query, handler);
+    }
+    default void requestJSONObject(String url, boolean isLimited, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query, CompletionHandler handler) {
+        request(url, isLimited, method, headers, query, new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 if(string != null) {
@@ -66,6 +72,9 @@ public interface RestAPI {
     }
 
     default void request(String targetURL, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query, CompletionHandler handler) {
+        request(targetURL, true, method, headers, query, handler);
+    }
+    default void request(String targetURL, boolean isLimited, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query, CompletionHandler handler) {
         final boolean isLocal = targetURL.startsWith("http://localhost") || targetURL.startsWith("http://192.168.1.96:0");
 
         final StringBuilder target = new StringBuilder(targetURL);
@@ -84,7 +93,7 @@ public interface RestAPI {
         targetURL = target.toString();
 
         WLLogger.log(Level.INFO, "RestAPI - making " + (isLocal ? "local " : "") + "request to \"" + targetURL + "\"");
-        if(!isLocal) {
+        if(isLimited && !isLocal) {
             if(PENDING_SAME_REQUESTS.containsKey(targetURL)) {
                 PENDING_SAME_REQUESTS.get(targetURL).add(handler);
                 return;

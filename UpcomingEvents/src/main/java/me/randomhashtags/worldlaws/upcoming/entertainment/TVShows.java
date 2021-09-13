@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
+import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -14,7 +14,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.StreamSupport;
 
-public enum TVShows implements UpcomingEventController {
+public enum TVShows implements LoadedUpcomingEventController {
     INSTANCE;
 
     private HashMap<String, String> upcomingEvents;
@@ -23,11 +23,6 @@ public enum TVShows implements UpcomingEventController {
     @Override
     public UpcomingEventType getType() {
         return UpcomingEventType.TV_SHOW;
-    }
-
-    @Override
-    public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
-        return null;
     }
 
     @Override
@@ -188,9 +183,5 @@ public enum TVShows implements UpcomingEventController {
                 }
             }
         });
-    }
-
-    @Override
-    public void loadUpcomingEvent(String id, CompletionHandler handler) {
     }
 }

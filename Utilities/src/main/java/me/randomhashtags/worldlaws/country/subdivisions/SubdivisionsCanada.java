@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public enum CanadaSubdivisions implements SovereignStateSubdivision {
+public enum SubdivisionsCanada implements SovereignStateSubdivision {
     ALBERTA,
     BRITISH_COLUMBIA,
     MANITOBA,

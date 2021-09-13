@@ -17,6 +17,9 @@ import java.util.concurrent.atomic.AtomicInteger;
 public interface SovereignStateSubdivision extends WikipediaService {
     String name();
     WLCountry getCountry();
+    default String getBackendID() {
+        return getName().toLowerCase().replace(" ", "");
+    }
     default String getName() {
         return LocalServer.toCorrectCapitalization(name());
     }
@@ -139,18 +142,18 @@ public interface SovereignStateSubdivision extends WikipediaService {
                 if(!values.containsKey(countryBackendID)) {
                     values.put(countryBackendID, new HashSet<>());
                 }
-                values.get(countryBackendID).add(subdivision.toJSON());
+                values.get(countryBackendID).add("\"" + subdivision.getName() + "\"");
             }
             final HashSet<String> set = new HashSet<>();
             for(Map.Entry<String, HashSet<String>> map : values.entrySet()) {
                 final String countryBackendID = map.getKey();
-                final StringBuilder builder = new StringBuilder("\"" + countryBackendID + "\":{");
+                final StringBuilder builder = new StringBuilder("\"" + countryBackendID + "\":[");
                 boolean isFirst = true;
                 for(String subdivision : map.getValue()) {
                     builder.append(isFirst ? "" : ",").append(subdivision);
                     isFirst = false;
                 }
-                builder.append("}");
+                builder.append("]");
                 set.add(builder.toString());
             }
             return set;

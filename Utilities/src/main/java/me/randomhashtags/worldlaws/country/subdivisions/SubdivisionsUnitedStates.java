@@ -10,7 +10,7 @@ import org.jsoup.select.Elements;
 
 import java.util.HashSet;
 
-public enum UnitedStatesSubdivisions implements SovereignStateSubdivision {
+public enum SubdivisionsUnitedStates implements SovereignStateSubdivision {
     ALABAMA,
     ALASKA,
     ARIZONA,
@@ -160,39 +160,39 @@ public enum UnitedStatesSubdivisions implements SovereignStateSubdivision {
             case DELAWARE: return collectNeighbors(PENNSYLVANIA, NEW_JERSEY, MARYLAND);
             case KANSAS: return collectNeighbors(NEBRASKA, MISSOURI, OKLAHOMA, COLORADO);
             case GEORGIA: return collectNeighbors(TENNESSEE, NORTH_CAROLINA, SOUTH_CAROLINA, FLORIDA, ALABAMA);
-            case IDAHO: return collectNeighbors(CanadaSubdivisions.BRITISH_COLUMBIA, MONTANA, WYOMING, UTAH, NEVADA, OREGON, WASHINGTON);
+            case IDAHO: return collectNeighbors(SubdivisionsCanada.BRITISH_COLUMBIA, MONTANA, WYOMING, UTAH, NEVADA, OREGON, WASHINGTON);
             case ILLINOIS: return collectNeighbors(WISCONSIN, MICHIGAN, INDIANA, KENTUCKY, MISSOURI, IOWA);
             case INDIANA: return collectNeighbors(ILLINOIS, MICHIGAN, OHIO, KENTUCKY);
             case IOWA: return collectNeighbors(MINNESOTA, WISCONSIN, ILLINOIS, MISSOURI, NEBRASKA, SOUTH_DAKOTA);
             case KENTUCKY: return collectNeighbors(ILLINOIS, INDIANA, OHIO, WEST_VIRGINA, VIRGINIA, TENNESSEE, MISSOURI);
             case LOUISIANA: return collectNeighbors(ARKANSAS, MISSISSIPPI, TEXAS);
-            case MAINE: return collectNeighbors(CanadaSubdivisions.QUEBEC, CanadaSubdivisions.NEW_BRUNSWICK, NEW_HAMPSHIRE);
+            case MAINE: return collectNeighbors(SubdivisionsCanada.QUEBEC, SubdivisionsCanada.NEW_BRUNSWICK, NEW_HAMPSHIRE);
             case MARYLAND: return collectNeighbors(PENNSYLVANIA, DELAWARE, VIRGINIA, WEST_VIRGINA);
             case MASSACHUSETTS: return collectNeighbors(VERMONT, NEW_HAMPSHIRE, RHODE_ISLAND, CONNECTICUT, NEW_YORK);
-            case MICHIGAN: return collectNeighbors(CanadaSubdivisions.ONTARIO, OHIO, INDIANA, ILLINOIS, WISCONSIN, MINNESOTA);
-            case MINNESOTA: return collectNeighbors(CanadaSubdivisions.MANITOBA, CanadaSubdivisions.ONTARIO, MICHIGAN, WISCONSIN, IOWA, SOUTH_DAKOTA, NORTH_DAKOTA);
+            case MICHIGAN: return collectNeighbors(SubdivisionsCanada.ONTARIO, OHIO, INDIANA, ILLINOIS, WISCONSIN, MINNESOTA);
+            case MINNESOTA: return collectNeighbors(SubdivisionsCanada.MANITOBA, SubdivisionsCanada.ONTARIO, MICHIGAN, WISCONSIN, IOWA, SOUTH_DAKOTA, NORTH_DAKOTA);
             case MISSISSIPPI: return collectNeighbors(ARKANSAS, TENNESSEE, ALABAMA, LOUISIANA);
             case MISSOURI: return collectNeighbors(IOWA, ILLINOIS, KENTUCKY, TENNESSEE, ARKANSAS, OKLAHOMA, KANSAS, NEBRASKA);
-            case MONTANA: return collectNeighbors(CanadaSubdivisions.ALBERTA, CanadaSubdivisions.SASKATCHEWAN, NORTH_DAKOTA, SOUTH_DAKOTA, WYOMING, IDAHO);
+            case MONTANA: return collectNeighbors(SubdivisionsCanada.ALBERTA, SubdivisionsCanada.SASKATCHEWAN, NORTH_DAKOTA, SOUTH_DAKOTA, WYOMING, IDAHO);
             case NEBRASKA: return collectNeighbors(SOUTH_DAKOTA, IOWA, MISSOURI, KANSAS, COLORADO, WYOMING);
             case NEVADA: return collectNeighbors(OREGON, IDAHO, UTAH, ARIZONA, CALIFORNIA);
             case NEW_JERSEY: return collectNeighbors(NEW_YORK, DELAWARE, PENNSYLVANIA);
             case NORTH_CAROLINA: return collectNeighbors(VIRGINIA, SOUTH_CAROLINA, GEORGIA, TENNESSEE);
-            case NORTH_DAKOTA: return collectNeighbors(CanadaSubdivisions.SASKATCHEWAN, CanadaSubdivisions.MANITOBA, MINNESOTA, SOUTH_DAKOTA, MONTANA);
-            case NEW_HAMPSHIRE: return collectNeighbors(CanadaSubdivisions.QUEBEC, MAINE, MASSACHUSETTS, VERMONT);
-            case NEW_YORK: return collectNeighbors(CanadaSubdivisions.ONTARIO, VERMONT, MASSACHUSETTS, CONNECTICUT, NEW_JERSEY, PENNSYLVANIA);
-            case OHIO: return collectNeighbors(MICHIGAN, CanadaSubdivisions.ONTARIO, PENNSYLVANIA, WEST_VIRGINA, KENTUCKY, INDIANA);
+            case NORTH_DAKOTA: return collectNeighbors(SubdivisionsCanada.SASKATCHEWAN, SubdivisionsCanada.MANITOBA, MINNESOTA, SOUTH_DAKOTA, MONTANA);
+            case NEW_HAMPSHIRE: return collectNeighbors(SubdivisionsCanada.QUEBEC, MAINE, MASSACHUSETTS, VERMONT);
+            case NEW_YORK: return collectNeighbors(SubdivisionsCanada.ONTARIO, VERMONT, MASSACHUSETTS, CONNECTICUT, NEW_JERSEY, PENNSYLVANIA);
+            case OHIO: return collectNeighbors(MICHIGAN, SubdivisionsCanada.ONTARIO, PENNSYLVANIA, WEST_VIRGINA, KENTUCKY, INDIANA);
             case OKLAHOMA: return collectNeighbors(COLORADO, KANSAS, MISSOURI, ARKANSAS, TEXAS, NEW_MEXICO);
             case OREGON: return collectNeighbors(WASHINGTON, IDAHO, NEVADA, CALIFORNIA);
-            case PENNSYLVANIA: return collectNeighbors(CanadaSubdivisions.ONTARIO, NEW_YORK, NEW_JERSEY, DELAWARE, MARYLAND, WEST_VIRGINA, OHIO);
+            case PENNSYLVANIA: return collectNeighbors(SubdivisionsCanada.ONTARIO, NEW_YORK, NEW_JERSEY, DELAWARE, MARYLAND, WEST_VIRGINA, OHIO);
             case RHODE_ISLAND: return collectNeighbors(MASSACHUSETTS, CONNECTICUT);
             case SOUTH_CAROLINA: return collectNeighbors(NORTH_CAROLINA, GEORGIA);
             case SOUTH_DAKOTA: return collectNeighbors(NORTH_DAKOTA, MINNESOTA, IOWA, NEBRASKA, WYOMING, MONTANA);
             case TENNESSEE: return collectNeighbors(KENTUCKY, VIRGINIA, NORTH_CAROLINA, GEORGIA, ALABAMA, MISSISSIPPI, ARKANSAS, MISSOURI);
             case UTAH: return collectNeighbors(IDAHO, WYOMING, COLORADO, NEW_MEXICO, ARIZONA, NEVADA);
-            case VERMONT: return collectNeighbors(CanadaSubdivisions.QUEBEC, NEW_HAMPSHIRE, MASSACHUSETTS, NEW_YORK);
+            case VERMONT: return collectNeighbors(SubdivisionsCanada.QUEBEC, NEW_HAMPSHIRE, MASSACHUSETTS, NEW_YORK);
             case VIRGINIA: return collectNeighbors(KENTUCKY, WEST_VIRGINA, MARYLAND, NORTH_CAROLINA, TENNESSEE);
-            case WASHINGTON: return collectNeighbors(CanadaSubdivisions.BRITISH_COLUMBIA, IDAHO, OREGON);
+            case WASHINGTON: return collectNeighbors(SubdivisionsCanada.BRITISH_COLUMBIA, IDAHO, OREGON);
             case WEST_VIRGINA: return collectNeighbors(OHIO, PENNSYLVANIA, MARYLAND, VIRGINIA, KENTUCKY);
             case WISCONSIN: return collectNeighbors(MINNESOTA, MICHIGAN, ILLINOIS, IOWA);
             case WYOMING: return collectNeighbors(MONTANA, SOUTH_DAKOTA, NEBRASKA, COLORADO, UTAH, IDAHO);
