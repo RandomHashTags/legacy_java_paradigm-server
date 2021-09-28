@@ -11,7 +11,7 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.util.HashSet;
 
-public enum PlayStation5Updates implements RecentEventController, Jsoupable {
+public enum PlayStation5Updates implements RecentEventController {
     INSTANCE;
 
     @Override

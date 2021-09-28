@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.country.CountryHistory;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
-import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionsUnitedStates;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
 import me.randomhashtags.worldlaws.info.NationalCapitals;
@@ -53,12 +52,6 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        SubdivisionsUnitedStates.MINNESOTA.getInformation(new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                WLLogger.log(Level.INFO, "Countries;test;string=" + string);
-            }
-        });
     }
 
     @Override

@@ -6,6 +6,7 @@ import org.apache.logging.log4j.Level;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.net.SocketException;
+import java.net.SocketTimeoutException;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
@@ -120,7 +121,7 @@ public final class LocalServer implements UserServer, DataValues {
             try {
                 final Socket socket = server.accept();
                 new WLClient(socket, handler).start();
-            } catch (SocketException ignored) {
+            } catch (SocketException | SocketTimeoutException ignored) {
             } catch (Exception e) {
                 WLUtilities.saveException(e);
             }

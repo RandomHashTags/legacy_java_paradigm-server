@@ -7,8 +7,7 @@ public enum GlobalWarming {
     INSTANCE;
     ;
 
-    public void getResponse(APIVersion version, String target, CompletionHandler handler) {
-        final String[] values = target.split("/");
+    public void getResponse(APIVersion version, String[] values, CompletionHandler handler) {
         final String key = values[0];
         switch (key) {
             case "causes":

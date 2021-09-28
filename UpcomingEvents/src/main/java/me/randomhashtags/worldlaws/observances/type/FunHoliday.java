@@ -8,6 +8,7 @@ import me.randomhashtags.worldlaws.observances.HolidaySource;
 import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.DayOfWeek;
+import java.time.LocalDate;
 import java.time.Month;
 
 public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holidays/fun/
@@ -19,6 +20,7 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
             "DNA Day"
     ),
     INTERNATIONAL_DOG_DAY,
+    INTERNATIONAL_PROGRAMMERS_DAY,
     MOLE_DAY,
     NATIONAL_GIRLFRIEND_DAY,
     NATIONAL_SCIENCE_FICTION_DAY,
@@ -55,6 +57,7 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
     public HolidaySource getSource() {
         switch (this) {
             case INTERNATIONAL_BEER_DAY:
+            case INTERNATIONAL_PROGRAMMERS_DAY:
             case POLAR_BEAR_PLUNGE_DAY:
             case WIKIPEDIA_DAY:
             case WORLD_LOGIC_DAY:
@@ -107,11 +110,21 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
             case INTERNATIONAL_BEER_DAY: return getFirst(DayOfWeek.FRIDAY, Month.AUGUST, year);
             case INTERNATIONAL_DNA_DAY: return new EventDate(Month.APRIL, 25, year);
             case INTERNATIONAL_DOG_DAY: return new EventDate(Month.AUGUST, 26, year);
+            case INTERNATIONAL_PROGRAMMERS_DAY:
+                if(country == WLCountry.CHINA) {
+                    return new EventDate(Month.OCTOBER, 24, year);
+                } else {
+                    final LocalDate date = LocalDate.ofYearDay(year, 256);
+                    return new EventDate(date.getMonth(), date.getDayOfMonth(), year);
+                }
             case MOLE_DAY: return new EventDate(Month.OCTOBER, 23, year);
             case NATIONAL_GIRLFRIEND_DAY: return country == WLCountry.UNITED_STATES ? new EventDate(Month.AUGUST, 1, year) : null;
             case NATIONAL_SCIENCE_FICTION_DAY: return country == WLCountry.UNITED_STATES ? new EventDate(Month.JANUARY, 2, year) : null;
             case PI_DAY: return new EventDate(Month.MARCH, 14, year);
             case POLAR_BEAR_PLUNGE_DAY:
+                if(country == null) {
+                    return null;
+                }
                 switch (country) {
                     case CANADA:
                     case UNITED_STATES:

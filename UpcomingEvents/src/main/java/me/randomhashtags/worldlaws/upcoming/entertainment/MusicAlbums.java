@@ -80,13 +80,13 @@ public enum MusicAlbums implements UpcomingEventController, SpotifyService {
                 trs.remove(0);
                 for(Element row : trs) {
                     final Elements tds = row.select("td");
-                    final String targetDay = tds.get(0).text().toUpperCase();
+                    final Element targetDayElement = row.selectFirst("th");
+                    final boolean isNewDay = targetDayElement != null;
+                    final String targetDay = isNewDay ? targetDayElement.text().toUpperCase() : null;
                     final int maxTDs = tds.size();
-                    final boolean isNewDay = maxTDs == 6;
+                    final int day = isNewDay ? targetDay.equals("TBA") ? -1 : Integer.parseInt(targetDay.split(monthName + " ")[1]) : previousDay;
+                    previousDay = day;
                     if(maxTDs >= 5) {
-                        final int day = targetDay.equals("TBA") ? -1 : isNewDay ? Integer.parseInt(targetDay.split(monthName + " ")[1]) : previousDay;
-                        previousDay = day;
-
                         final Element artistElement = tds.get(maxTDs-5), albumElement = tds.get(maxTDs-4);
                         final Elements hrefs = albumElement.select("i a");
                         final String albumURL = !hrefs.isEmpty() ? prefix + hrefs.get(0).attr("href") : null;

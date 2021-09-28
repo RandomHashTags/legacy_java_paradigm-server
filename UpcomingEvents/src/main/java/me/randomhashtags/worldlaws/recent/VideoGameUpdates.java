@@ -2,11 +2,14 @@ package me.randomhashtags.worldlaws.recent;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.recent.software.videogames.NoMansSky;
+import me.randomhashtags.worldlaws.recent.software.videogames.VideoGameUpdate;
 import me.randomhashtags.worldlaws.recent.software.videogames.VideoGameUpdateController;
 
 import java.time.LocalDate;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public enum VideoGameUpdates implements RecentEventController {
@@ -25,28 +28,36 @@ public enum VideoGameUpdates implements RecentEventController {
 
     @Override
     public void refresh(LocalDate startingDate, CompletionHandler handler) {
-        final HashSet<String> values = new HashSet<>();
         final VideoGameUpdateController[] controllers = getSupportedVideoGames();
         final int max = controllers.length;
         final AtomicInteger completed = new AtomicInteger(0);
-        final CompletionHandler completionHandler = new CompletionHandler() {
+        final HashMap<String, HashSet<String>> values = new HashMap<>();
+        Arrays.asList(controllers).parallelStream().forEach(controller -> controller.refresh(startingDate, new CompletionHandler() {
             @Override
-            public void handleStringValue(String key, String value) {
-                if(value != null) {
-                    values.add("\"" + key + "\":" + value);
+            public void handleObject(Object object) {
+                if(object != null) {
+                    final VideoGameUpdate update = (VideoGameUpdate) object;
+                    final String dateString = update.getDate().getDateString();
+                    values.putIfAbsent(dateString, new HashSet<>());
+                    values.get(dateString).add("\"" + controller.getName() + "\":" + update.toString());
                 }
                 if(completed.addAndGet(1) == max) {
-                    handler.handleHashSetString(values);
+                    final HashSet<String> set = new HashSet<>();
+                    if(!values.isEmpty()) {
+                        for(Map.Entry<String, HashSet<String>> map : values.entrySet()) {
+                            final StringBuilder builder = new StringBuilder("\"" + map.getKey() + "\":{");
+                            boolean isFirst = true;
+                            for(String value : map.getValue()) {
+                                builder.append(isFirst ? "" : ",").append(value);
+                                isFirst = false;
+                            }
+                            builder.append("}");
+                            set.add(builder.toString());
+                        }
+                    }
+                    handler.handleHashSetString(set);
                 }
             }
-        };
-        Arrays.asList(controllers).parallelStream().forEach(controller -> {
-            controller.refresh(startingDate, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    completionHandler.handleStringValue(controller.getName(), string);
-                }
-            });
-        });
+        }));
     }
 }

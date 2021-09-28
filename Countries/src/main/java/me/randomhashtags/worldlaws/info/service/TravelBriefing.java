@@ -90,7 +90,7 @@ public enum TravelBriefing implements CountryService {
                     final String string = new CountryServiceValue(TravelBriefing.INSTANCE, object.toString()).toString();
                     WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + country + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                     countries.put(targetCountry, string);
-                    handler.handleString(string);
+                    handler.handleServiceResponse(INSTANCE, string);
                 }
             });
         }

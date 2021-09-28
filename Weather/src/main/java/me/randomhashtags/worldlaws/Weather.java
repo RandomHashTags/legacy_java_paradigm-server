@@ -40,7 +40,7 @@ public final class Weather implements WLServer {
                 WeatherAlerts.INSTANCE.getResponse(target.substring(key.length()+1), handler);
                 break;
             case "earthquakes":
-                Earthquakes.INSTANCE.getResponse(values, handler);
+                Earthquakes.INSTANCE.getResponse(target.substring(key.length()+1).split("/"), handler);
                 break;
             case "natural_events":
                 NASA_EONET.INSTANCE.getCurrent(version, handler);

@@ -11,7 +11,7 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.util.HashSet;
 
-public enum PlayStation4Updates implements RecentEventController, Jsoupable {
+public enum PlayStation4Updates implements RecentEventController {
     INSTANCE;
 
     @Override
@@ -28,13 +28,13 @@ public enum PlayStation4Updates implements RecentEventController, Jsoupable {
             final String string = elements.get(0).text();
             final String[] values = string.split(" ");
             final String[] dateValues = values[values.length-1].replace(".", "").split("/");
-            final Month month = Month.of(Integer.parseInt(dateValues[1]));
-            final int day = Integer.parseInt(dateValues[0]), year = Integer.parseInt(dateValues[2]);
+            final Month month = Month.of(Integer.parseInt(dateValues[0]));
+            final int day = Integer.parseInt(dateValues[1]), year = Integer.parseInt(dateValues[2]);
             final EventDate date = new EventDate(month, day, year);
             if(date.getLocalDate().isAfter(startingDate)) {
                 final Elements updateNotesElements = box.select("div.inlineAccordion div.accordion div.accordion__item-description div div.textblock").get(0).select("div.text-block");
                 final String[] updateNotesValues = updateNotesElements.select("p").text().split(" ");
-                final String updateNotesTitle = updateNotesValues[0] + " " + updateNotesValues[1] + " system update";
+                final String updateNotesTitle = "PS4 " + updateNotesValues[1] + " system update";
                 final StringBuilder description = new StringBuilder();
                 boolean isFirst = true;
                 for(Element element : updateNotesElements.select("ul").select("li")) {

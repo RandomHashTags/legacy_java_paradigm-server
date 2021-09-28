@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws.country.history;
 
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.CountryHistoryEra;
 import me.randomhashtags.worldlaws.country.CountryHistorySection;
@@ -15,9 +17,13 @@ import java.util.List;
 public enum HistoryUnitedStates implements ICountryHistory {
     INSTANCE;
 
+    private String getURL() {
+        return "https://en.wikipedia.org/wiki/History_of_the_United_States";
+    }
+
     @Override
     public CountryHistorySection getEras() {
-        final WikipediaDocument doc = getWikipediaDocument("https://en.wikipedia.org/wiki/History_of_the_United_States");
+        final WikipediaDocument doc = getWikipediaDocument(getURL());
         if(doc != null) {
             final int todayYear = WLUtilities.getTodayYear();
             final String urlPrefix = "https://en.wikipedia.org";
@@ -52,5 +58,12 @@ public enum HistoryUnitedStates implements ICountryHistory {
             return section;
         }
         return null;
+    }
+
+    @Override
+    public EventSources getSources() {
+        return new EventSources(
+                new EventSource("Wikipedia: History of the United States", getURL())
+        );
     }
 }

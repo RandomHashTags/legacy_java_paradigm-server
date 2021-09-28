@@ -13,7 +13,7 @@ import java.time.Month;
 import java.util.HashSet;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public enum AppleSoftwareUpdates implements RecentEventController, Jsoupable {
+public enum AppleSoftwareUpdates implements RecentEventController {
     INSTANCE;
 
     @Override
@@ -56,7 +56,14 @@ public enum AppleSoftwareUpdates implements RecentEventController, Jsoupable {
                                 name = name.replace(" (details available soon)", "");
                             }
                             final EventDate date = new EventDate(localDate);
-                            final PreRecentEvent preRecentEvent = new PreRecentEvent(date, name, description, null, new EventSources(new EventSource("Apple Security Updates", url)));
+                            final EventSources sources = new EventSources(new EventSource("Apple Support: Security Updates", url));
+
+                            final Element link = nameElement.selectFirst("a[href]");
+                            if(link != null) {
+                                final String ahref = link.attr("href");
+                                sources.addSource(new EventSource("Apple Support: " + name, ahref));
+                            }
+                            final PreRecentEvent preRecentEvent = new PreRecentEvent(date, name, description, null, sources);
                             updates.add(preRecentEvent);
                         }
                     }
@@ -66,7 +73,7 @@ public enum AppleSoftwareUpdates implements RecentEventController, Jsoupable {
                 }
             });
         } else {
-            handler.handleHashSetString(null);
+            handler.handleObject(null);
         }
     }
 }

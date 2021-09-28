@@ -116,7 +116,7 @@ public class HolidayObj implements Holiday {
                 (celebrators != null ? "\"celebrators\":\"" + celebrators + "\"," : "") +
                 (emoji != null ? "\"emoji\":\"" + emoji + "\"," : "") +
                 (aliases != null ? "\"aliases\":" + getAliasesArray() + "," : "") +
-                (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"," : "") +
+                (imageURL != null && !imageURL.equals("null") ? "\"imageURL\":\"" + imageURL + "\"," : "") +
                 (otherSources != null ? "\"otherSources\":" + otherSources.toString() : "") +
                 "\"learnMoreURL\":\"" + learnMoreURL + "\"" +
                 "}";

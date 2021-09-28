@@ -1,17 +1,12 @@
 package me.randomhashtags.worldlaws.recent.software.videogames;
 
+import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 
-public final class VideoGameUpdate {
-    private final String title, description, imageURL;
-    private final EventSources sources;
-
-    public VideoGameUpdate(String title, String description, String imageURL, EventSources sources) {
-        this.title = LocalServer.fixEscapeValues(title);
-        this.description = LocalServer.fixEscapeValues(description);
-        this.imageURL = imageURL;
-        this.sources = sources;
+public final class VideoGameUpdate extends PreRecentEvent {
+    public VideoGameUpdate(EventDate date, String title, String description, String imageURL, EventSources sources) {
+        super(date, title, description, imageURL, sources);
     }
 
     @Override

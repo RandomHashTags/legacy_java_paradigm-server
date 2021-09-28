@@ -4,10 +4,10 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 
-public final class PreRecentEvent {
-    private final EventDate date;
-    private final String title, description, imageURL;
-    private final EventSources sources;
+public class PreRecentEvent {
+    protected final EventDate date;
+    protected final String title, description, imageURL;
+    protected final EventSources sources;
 
     public PreRecentEvent(EventDate date, String title, String description, String imageURL, EventSources sources) {
         this.date = date;

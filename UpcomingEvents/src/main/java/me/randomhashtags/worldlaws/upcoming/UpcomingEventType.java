@@ -23,7 +23,6 @@ public enum UpcomingEventType {
         final JSONObject json = new JSONObject();
         for(UpcomingEventType type : UpcomingEventType.values()) {
             final JSONObject typeJSON = new JSONObject();
-            typeJSON.put("folderName", type.getFolderName());
             typeJSON.put("singularName", type.getSingularName());
             typeJSON.put("pluralName", type.getPluralName());
             typeJSON.put("singularNotificationDescription", type.getSingularNotificationDescription());
@@ -34,24 +33,6 @@ public enum UpcomingEventType {
 
     public String getID() {
         return name().toLowerCase();
-    }
-    public String getFolderName() {
-        switch (this) {
-            case MOVIE: return "movies";
-            case MUSIC_ALBUM: return "music albums";
-
-            case SPACE_EVENT: return "space event";
-            case SPACE_NEAR_EARTH_OBJECT: return "near earth objects";
-            case SPACE_ROCKET_LAUNCH: return "rocket launches";
-
-            case SPORT_CHAMPIONSHIPS: return "sport championships";
-            case SPORT_MLB: return "sport mlb";
-            case SPORT_UFC: return "sport ufc";
-
-            case TV_SHOW: return "tv shows";
-            case VIDEO_GAME: return "video games";
-            default: return "other";
-        }
     }
     public String getSingularName() {
         switch (this) {

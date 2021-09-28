@@ -31,20 +31,22 @@ public interface IHoliday extends Jsoupable, Jsonable {
                 final Elements elements = doc.getAllElements();
                 final Elements paragraphs = elements.select(mwParserOutput + "p");
                 final Elements headings = elements.select(mwParserOutput + "h2");
-                final int firstHeadingIndex = elements.indexOf(headings.get(0));
 
                 final StringBuilder builder = new StringBuilder();
-                boolean isFirst = true;
-                for(Element paragraph : paragraphs) {
-                    final int index = elements.indexOf(paragraph);
-                    if(index < firstHeadingIndex) {
-                        String text = paragraph.text();
-                        if(!text.isEmpty()) {
-                            builder.append(isFirst ? "" : "\n\n").append(text);
-                            isFirst = false;
+                if(!headings.isEmpty()) {
+                    final int firstHeadingIndex = elements.indexOf(headings.get(0));
+                    boolean isFirst = true;
+                    for(Element paragraph : paragraphs) {
+                        final int index = elements.indexOf(paragraph);
+                        if(index < firstHeadingIndex) {
+                            String text = paragraph.text();
+                            if(!text.isEmpty()) {
+                                builder.append(isFirst ? "" : "\n\n").append(text);
+                                isFirst = false;
+                            }
+                        } else {
+                            break;
                         }
-                    } else {
-                        break;
                     }
                 }
                 description = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(removeReferences(builder.toString())));

@@ -43,8 +43,10 @@ public enum NoMansSky implements VideoGameUpdateController {
                         final String description = targetDoc.selectFirst("section.section div.section__content div.box div.icons-header p.text--narrow").text();
                         final String title = LocalServer.toCorrectCapitalization(slug.replace(" ", "_"));
                         sources.addSource(new EventSource(name + ": " + title, ahref));
-                        final VideoGameUpdate update = new VideoGameUpdate(title.replace(" Update", ""), description, imageURL, sources);
-                        handler.handleString(update.toString());
+                        final LocalDate now = WLUtilities.getNowUTC();
+                        final EventDate date = new EventDate(now.getMonth(), 1, now.getYear());
+                        final VideoGameUpdate update = new VideoGameUpdate(date, title.replace(" Update", ""), description, imageURL, sources);
+                        handler.handleObject(update);
                         return;
                     }
                 } else {
@@ -57,13 +59,13 @@ public enum NoMansSky implements VideoGameUpdateController {
                             final String[] dateValues = dateElement.text().replace(",", "").split(" ");
                             final Month month = WLUtilities.valueOfMonthFromInput(dateValues[0]);
                             final int day = Integer.parseInt(dateValues[1]), year = Integer.parseInt(dateValues[2]);
-                            final LocalDate targetDate = LocalDate.of(year, month, day);
-                            if(startingDate.isBefore(targetDate)) {
+                            final EventDate eventDate = new EventDate(month, day, year);
+                            if(startingDate.isBefore(eventDate.getLocalDate())) {
                                 final String title = box.select("h1").get(0).text();
                                 final String description = first.select("div.grid__cell-content p").get(0).text().replace(". Read more", "");
                                 sources.addSource(new EventSource(name + ": " + title, ahref));
-                                final VideoGameUpdate update = new VideoGameUpdate(title, description, null, sources);
-                                handler.handleString(update.toString());
+                                final VideoGameUpdate update = new VideoGameUpdate(eventDate, title, description, null, sources);
+                                handler.handleObject(update);
                                 return;
                             }
                         }
@@ -71,6 +73,6 @@ public enum NoMansSky implements VideoGameUpdateController {
                 }
             }
         }
-        handler.handleString(null);
+        handler.handleObject(null);
     }
 }

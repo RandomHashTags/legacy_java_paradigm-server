@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.observances;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import org.apache.logging.log4j.Level;
-import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.util.*;
@@ -12,11 +11,11 @@ import java.util.concurrent.ConcurrentHashMap;
 public enum Holidays implements Jsoupable, Jsonable {
     INSTANCE;
 
-    private String nearHolidays;
-    private final HashMap<String, String> nearCountryHolidays;
+    private String allHolidays, nearHolidays;
+    private final HashMap<String, String> countryHolidays;
 
     Holidays() {
-        nearCountryHolidays = new HashMap<>();
+        countryHolidays = new HashMap<>();
     }
 
     public void getResponse(String value, CompletionHandler handler) {
@@ -25,46 +24,19 @@ public enum Holidays implements Jsoupable, Jsonable {
         final String key = values[0];
         switch (key) {
             case "all":
+                final int year = WLUtilities.getTodayYear();
                 if(valueCount == 1) {
-                    getAllHolidays(WLUtilities.getTodayYear(), handler);
+                    getAllHolidays(year, handler);
                 } else {
                     final String countryBackendID = values[1];
-                    final WLCountry country = WLCountry.valueOfBackendID(countryBackendID);
-                    if(country != null) {
-                    }
+                    getCountryHolidays(year, countryBackendID, handler);
                 }
                 break;
             case "near":
-                if(valueCount == 1) {
-                    getNearHolidays(handler);
-                } else {
-                    final String countryBackendID = values[1];
-                    final WLCountry country = WLCountry.valueOfBackendID(countryBackendID);
-                    if(country != null) {
-                        getNearCountryHolidays(countryBackendID, handler);
-                    }
-                }
+                getNearHolidays(handler);
                 break;
             default:
                 break;
-        }
-    }
-
-    private void getAllHolidays(int year, CompletionHandler handler) {
-        final HashMap<String, HashSet<String>> holidays = new HashMap<>();
-        for(HolidayType type : HolidayType.values()) {
-            final String typeCountry = type.getCelebratingCountry().getBackendID();
-            type.getHolidaysJSONObject(year, new CompletionHandler() {
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    for(String key : json.keySet()) {
-                        if(!key.equals("descriptions")) {
-                            final JSONObject dayJSON = json.getJSONObject(key);
-                            // TODO: finish
-                        }
-                    }
-                }
-            });
         }
     }
 
@@ -83,6 +55,40 @@ public enum Holidays implements Jsoupable, Jsonable {
             });
         }
     }
+    private void getCountryHolidays(int year, String countryBackendID, CompletionHandler handler) {
+        if(countryHolidays.containsKey(countryBackendID)) {
+            handler.handleString(countryHolidays.get(countryBackendID));
+        } else {
+            final WLCountry country = WLCountry.valueOfBackendID(countryBackendID);
+            if(country != null) {
+                loadHolidays(year, countryBackendID, null, new ConcurrentHashMap<>(), new ConcurrentHashMap<>(), new CompletionHandler() {
+                    @Override
+                    public void handleString(String string) {
+                        countryHolidays.put(countryBackendID, string);
+                        handler.handleString(string);
+                    }
+                });
+            } else {
+                WLLogger.log(Level.WARN, "Holidays - no WLCountry found using backend id \"" + countryBackendID + "\"!");
+                handler.handleString(null);
+            }
+        }
+    }
+    private void getAllHolidays(int year, CompletionHandler handler) {
+        if(allHolidays != null) {
+            handler.handleString(allHolidays);
+        } else {
+            final ConcurrentHashMap<String, String> descriptions = new ConcurrentHashMap<>();
+            final ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> nearbyHolidays = new ConcurrentHashMap<>();
+            loadHolidays(year, null, null, descriptions, nearbyHolidays, new CompletionHandler() {
+                @Override
+                public void handleString(String string) {
+                    allHolidays = string;
+                    handler.handleString(string);
+                }
+            });
+        }
+    }
     private void loadNearbyHolidays(int year, CompletionHandler handler) {
         final LocalDate rightNow = LocalDate.now();
         final List<String> nearbyHolidayDays = new ArrayList<>();
@@ -93,9 +99,40 @@ public enum Holidays implements Jsoupable, Jsonable {
         }
         final ConcurrentHashMap<String, String> descriptions = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> nearbyHolidays = new ConcurrentHashMap<>();
-        HolidayType.insertNearbyHolidays(year, nearbyHolidayDays, descriptions, nearbyHolidays, new CompletionHandler() {
+        loadHolidays(year, null, nearbyHolidayDays, descriptions, nearbyHolidays, new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                nearHolidays = string;
+                handler.handleString(string);
+            }
+        });
+    }
+    private void loadHolidays(int year, String country, List<String> days, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> holidays, CompletionHandler handler) {
+        HolidayType.insertNearbyHolidays(year, days, descriptions, holidays, new CompletionHandler() {
             @Override
             public void handleObject(Object object) {
+                final StringBuilder dateBuilder = new StringBuilder();
+                for(Map.Entry<String, ConcurrentHashMap<String, HolidayObj>> map : holidays.entrySet()) {
+                    final String holidayDay = map.getKey();
+                    final StringBuilder holidayBuilder = new StringBuilder("\"").append(holidayDay).append("\":{");
+                    boolean isFirst = true;
+
+                    final ConcurrentHashMap<String, HolidayObj> holidays = map.getValue();
+                    boolean hasHoliday = false;
+                    for(HolidayObj holiday : holidays.values()) {
+                        final HashSet<String> countries = holiday.getCountries();
+                        if(countries == null || countries.contains(country)) {
+                            holidayBuilder.append(isFirst ? "" : ",").append(holiday.toString());
+                            isFirst = false;
+                            hasHoliday = true;
+                        }
+                    }
+                    if(hasHoliday) {
+                        holidayBuilder.append("}");
+                        dateBuilder.append(",").append(holidayBuilder);
+                    }
+                }
+
                 final StringBuilder builder = new StringBuilder("{\"descriptions\":{");
                 boolean isFirst = true;
                 for(Map.Entry<String, String> map : descriptions.entrySet()) {
@@ -104,34 +141,11 @@ public enum Holidays implements Jsoupable, Jsonable {
                     isFirst = false;
                 }
                 builder.append("}");
-                for(Map.Entry<String, ConcurrentHashMap<String, HolidayObj>> map : nearbyHolidays.entrySet()) {
-                    final String holidayDay = map.getKey();
-                    final StringBuilder nearHolidayBuilder = new StringBuilder("\"").append(holidayDay).append("\":{");
-                    isFirst = true;
-
-                    final ConcurrentHashMap<String, HolidayObj> holidays = map.getValue();
-                    for(HolidayObj holiday : holidays.values()) {
-                        nearHolidayBuilder.append(isFirst ? "" : ",").append(holiday.toString());
-                        isFirst = false;
-                    }
-                    nearHolidayBuilder.append("}");
-                    builder.append(",").append(nearHolidayBuilder);
-                }
+                builder.append(dateBuilder);
                 builder.append("}");
                 final String value = builder.toString();
-                nearHolidays = value;
                 handler.handleString(value);
             }
         });
-    }
-
-    public void getNearCountryHolidays(String countryBackendID, CompletionHandler handler) {
-        if(nearCountryHolidays.containsKey(countryBackendID)) {
-            handler.handleString(nearCountryHolidays.get(countryBackendID));
-        } else {
-            // TODO: finish
-            String string = null;
-            nearCountryHolidays.put(countryBackendID, string);
-        }
     }
 }

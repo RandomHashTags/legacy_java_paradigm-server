@@ -27,32 +27,20 @@ public enum Earthquakes implements RestAPI {
     private HashMap<String, String> recentTerritoryEarthquakes, topRecentTerritoryEarthquakes;
 
     public void getResponse(String[] values, CompletionHandler handler) {
-        final String key = values[1];
+        final String key = values[0];
         switch (key) {
             case "recent":
-                getFromTerritory(true, null, handler);
+                getFromTerritory(true, values.length == 1 ? null : values[1], handler);
                 break;
             case "top":
-                getFromTerritory(false, null, handler);
+                getFromTerritory(false, values.length == 1 ? null : values[1], handler);
                 break;
             case "id":
-                final String id = values[2];
+                final String id = values[1];
                 getEarthquake(id, handler);
                 break;
             default:
-                final int length = values.length;
-                if(length >= 3) {
-                    switch (values[2]) {
-                        case "recent":
-                            getFromTerritory(true, key, handler);
-                            break;
-                        case "top":
-                            getFromTerritory(false, key, handler);
-                            break;
-                        default:
-                            break;
-                    }
-                }
+                handler.handleString(null);
                 break;
         }
     }

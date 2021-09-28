@@ -94,6 +94,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
     }
 
     public void getCountryAvailabilities(String countryBackendID, CompletionHandler handler) {
+        final long started = System.currentTimeMillis();
         getJSONObject(Folder.COUNTRIES_AVAILABILITIES, countryBackendID, new CompletionHandler() {
 
             @Override
@@ -102,7 +103,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 final int max = SERVICES.size();
                 final AtomicInteger completed = new AtomicInteger(0);
 
-                SERVICES.parallelStream().forEach(service -> service.getCountryValue(countryBackendID, new CompletionHandler() {
+                final CompletionHandler completionHandler = new CompletionHandler() {
                     @Override
                     public void handleObject(Object object) {
                         final CountryAvailability availability = (CountryAvailability) object;
@@ -113,7 +114,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                         values.get(availabilityIsAvailable).get(primaryCategory).add(availability.toString());
 
                         if(completed.addAndGet(1) == max) {
-                            final StringBuilder builder = new StringBuilder();
+                            final StringBuilder builder = new StringBuilder("{");
                             boolean isFirstBoolean = true;
                             for(Map.Entry<Boolean, ConcurrentHashMap<String, HashSet<String>>> map : values.entrySet()) {
                                 final boolean isAvailable = map.getKey();
@@ -132,15 +133,18 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                                 builder.append("}");
                                 isFirstBoolean = false;
                             }
+                            builder.append("}");
                             handler.handleString(builder.toString());
                         }
                     }
-                }));
+                };
+                SERVICES.parallelStream().forEach(service -> service.getCountryValue(countryBackendID, completionHandler));
             }
 
             @Override
             public void handleJSONObject(JSONObject json) {
-                handler.handleServiceResponse(getInformationType(), json.toString());
+                WLLogger.log(Level.INFO, "CountryAvailabilities - loaded \"" + countryBackendID + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                handler.handleServiceResponse(INSTANCE, json.toString());
             }
         });
     }

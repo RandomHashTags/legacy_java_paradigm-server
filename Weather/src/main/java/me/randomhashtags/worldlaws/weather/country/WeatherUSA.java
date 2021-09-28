@@ -179,7 +179,7 @@ public enum WeatherUSA implements WeatherController {
             final HashSet<String> zones = preAlert.getZoneIDs(), values = new HashSet<>();
             final int max = zones.size();
             final AtomicInteger completed = new AtomicInteger(0);
-            zones.parallelStream().forEach(zoneID -> getZone(zoneID, new CompletionHandler() {
+            final CompletionHandler completionHandler = new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
                     values.add(string);
@@ -199,7 +199,10 @@ public enum WeatherUSA implements WeatherController {
                         handler.handleString(value);
                     }
                 }
-            }));
+            };
+            zones.parallelStream().forEach(zoneID -> getZone(zoneID, completionHandler));
+        } else {
+            handler.handleString(null);
         }
     }
 

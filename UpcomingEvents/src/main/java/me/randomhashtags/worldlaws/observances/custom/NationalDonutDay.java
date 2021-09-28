@@ -28,6 +28,9 @@ public enum NationalDonutDay implements IHoliday {
     }
 
     public EventDate getDate(WLCountry country, int year) {
+        if(country == null) {
+            return null;
+        }
         switch (country) {
             case AUSTRALIA: return new EventDate(Month.OCTOBER, 25, year);
             case UNITED_STATES: return getFirst(DayOfWeek.FRIDAY, Month.JUNE, year);

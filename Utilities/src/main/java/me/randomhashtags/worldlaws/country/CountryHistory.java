@@ -5,9 +5,6 @@ import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.country.history.HistoryUnitedStates;
 import org.json.JSONObject;
 
-import java.util.Arrays;
-import java.util.List;
-
 public enum CountryHistory implements SovereignStateHistory {
     INSTANCE;
 
@@ -20,36 +17,23 @@ public enum CountryHistory implements SovereignStateHistory {
         getJSONObject(Folder.COUNTRIES_HISTORY, country.getBackendID(), new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
-                final List<CountryHistorySection> history = loadHistory(country);
-                if(history != null && !history.isEmpty()) {
-                    final StringBuilder builder = new StringBuilder("{");
-                    boolean isFirst = true;
-                    for(CountryHistorySection section : history) {
-                        builder.append(isFirst ? "" : ",").append(section.toString());
-                        isFirst = false;
-                    }
-                    builder.append("}");
-                    handler.handleString(builder.toString());
-                } else {
-                    handler.handleString(null);
+                final ICountryHistory history = getCountryHistory(country);
+                String string = null;
+                if(history != null) {
+                    string = "{" + history.getEras().toString() +
+                            ",\"sources\":" + history.getSources().toString() +
+                            "}";
                 }
+                handler.handleString(string);
             }
 
             @Override
             public void handleJSONObject(JSONObject json) {
-                handler.handleServiceResponse(getInformationType(), json != null ? json.toString() : null);
+                handler.handleServiceResponse(INSTANCE, json != null ? json.toString() : null);
             }
         });
     }
 
-    private List<CountryHistorySection> loadHistory(WLCountry country) {
-        final ICountryHistory history = getCountryHistory(country);
-        if(history != null) {
-            final CountryHistorySection eras = history.getEras();
-            return Arrays.asList(eras);
-        }
-        return null;
-    }
     private ICountryHistory getCountryHistory(WLCountry country) {
         switch (country) {
             case UNITED_STATES: return HistoryUnitedStates.INSTANCE;

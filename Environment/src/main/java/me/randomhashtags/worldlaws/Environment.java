@@ -27,7 +27,7 @@ public final class Environment implements WLServer {
         final String key = values[0];
         switch (key) {
             case "globalwarming":
-                GlobalWarming.INSTANCE.getResponse(version, target.substring(key.length()+1), handler);
+                GlobalWarming.INSTANCE.getResponse(version, target.substring(key.length()+1).split("/"), handler);
                 break;
             default:
                 break;

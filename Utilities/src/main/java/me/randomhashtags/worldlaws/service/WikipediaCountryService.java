@@ -52,12 +52,11 @@ public final class WikipediaCountryService implements CountryService {
         if(sovereignStates == null) {
             sovereignStates = new HashMap<>();
         }
-        final SovereignStateInformationType type = getInformationType();
+        final WikipediaCountryService self = this;
         if(sovereignStates.containsKey(tag)) {
-            handler.handleServiceResponse(type, sovereignStates.get(tag));
+            handler.handleServiceResponse(self, sovereignStates.get(tag));
         } else {
             final long started = System.currentTimeMillis();
-            final WikipediaCountryService self = this;
             getJSONObject(folder, tag, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
@@ -69,7 +68,7 @@ public final class WikipediaCountryService implements CountryService {
                     final String string = new CountryServiceValue(self, object.toString()).toString();
                     WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + tag + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                     sovereignStates.put(tag, string);
-                    handler.handleServiceResponse(type, string);
+                    handler.handleServiceResponse(self, string);
                 }
             });
         }

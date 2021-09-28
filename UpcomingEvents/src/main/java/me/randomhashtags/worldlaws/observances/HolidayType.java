@@ -74,14 +74,19 @@ public enum HolidayType implements Jsonable {
                 @Override
                 public void handleJSONObject(JSONObject json) {
                     final JSONObject descriptionsJSON = json.getJSONObject("descriptions");
-                    final Set<String> keys = isCountries ? json.keySet() : null;
-                    for(String holidayDay : nearbyHolidayDays) {
-                        if(isCountries) {
-                            for(String country : keys) {
-                                final JSONObject countryJSON = json.getJSONObject(country);
+                    final Set<String> keys = json.keySet();
+                    keys.remove("descriptions");
+                    if(isCountries) {
+                        for(String country : keys) {
+                            final JSONObject countryJSON = json.getJSONObject(country);
+                            final Collection<String> days = nearbyHolidayDays != null ? nearbyHolidayDays : countryJSON.keySet();
+                            for(String holidayDay : days) {
                                 insertNearbyHolidays(descriptionsJSON, country, holidayDay, countryJSON, descriptions, nearbyHolidays);
                             }
-                        } else {
+                        }
+                    } else {
+                        final Collection<String> days = nearbyHolidayDays != null ? nearbyHolidayDays : keys;
+                        for(String holidayDay : days) {
                             final String celebratingCountry = type.getCelebratingCountryBackendID();
                             insertNearbyHolidays(descriptionsJSON, celebratingCountry, holidayDay, json, descriptions, nearbyHolidays);
                         }
@@ -152,19 +157,20 @@ public enum HolidayType implements Jsonable {
             handler.handleJSONObject(cache);
         } else {
             final String fileName = year + "_" + name();
-            final HolidayType holidayType = this;
+            final HolidayType self = this;
+            final boolean isCountries = self == COUNTRIES;
+
             final Folder folder = Folder.UPCOMING_EVENTS_HOLIDAYS;
             folder.setCustomFolderName(fileName, folder.getFolderName().replace("%year%", Integer.toString(year)));
             getJSONObject(folder, fileName, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
-                    final boolean isCountries = holidayType == COUNTRIES;
                     final IHoliday[] holidays = getHolidays();
                     final ConcurrentHashMap<String, String> descriptions = new ConcurrentHashMap<>();
                     if(isCountries) {
                         loadCountryHolidays(year, holidays, descriptions, handler);
                     } else if(holidays != null) {
-                        final boolean isChristian = holidayType == CHRISTIAN_EAST || holidayType == CHRISTIAN_WEST, isWestChristian = isChristian && holidayType == CHRISTIAN_WEST;
+                        final boolean isChristian = self == CHRISTIAN_EAST || self == CHRISTIAN_WEST, isWestChristian = isChristian && self == CHRISTIAN_WEST;
                         final int max = holidays.length;
                         final AtomicInteger completed = new AtomicInteger(0);
                         final ConcurrentHashMap<String, StringBuilder> values = new ConcurrentHashMap<>();
@@ -172,10 +178,10 @@ public enum HolidayType implements Jsonable {
                             final EventDate date = isChristian ? ((ChristianHoliday) holiday).getDate(isWestChristian, null, year) : holiday.getDate(null, year);
                             if(date != null) {
                                 final String dateString = date.getDateString();
-                                holiday.getImageURL(holidayType, new CompletionHandler() {
+                                holiday.getImageURL(self, new CompletionHandler() {
                                     @Override
                                     public void handleString(String imageURL) {
-                                        holiday.getDescription(holidayType, new CompletionHandler() {
+                                        holiday.getDescription(self, new CompletionHandler() {
                                             @Override
                                             public void handleString(String description) {
                                                 final HolidayObj customHoliday = getCustomHoliday(holiday, imageURL);
@@ -220,7 +226,8 @@ public enum HolidayType implements Jsonable {
             }
             json.put("descriptions", descriptionsJSON);
             for(Map.Entry<String, StringBuilder> map : values.entrySet()) {
-                json.put(map.getKey(), "{" + map.getValue() + "}");
+                final JSONObject targetJSON = new JSONObject("{" + map.getValue().toString() + "}");
+                json.put(map.getKey(), targetJSON);
             }
             handler.handleJSONObject(json);
         }

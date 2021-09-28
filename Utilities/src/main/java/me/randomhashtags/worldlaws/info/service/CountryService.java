@@ -31,11 +31,11 @@ public interface CountryService extends SovereignStateService {
     }
     default void getCountryValueFromCountryJSONObject(String countryBackendID, CompletionHandler handler) {
         final SovereignStateInfo info = getInfo();
-        final SovereignStateInformationType type = getInformationType();
+        final CountryService self = this;
         if(COUNTRY_SERVICE_JSON_VALUES.containsKey(info)) {
             final JSONObject json = COUNTRY_SERVICE_JSON_VALUES.get(info);
             final String string = json.has(countryBackendID) ? json.getJSONObject(countryBackendID).toString() : null;
-            handler.handleServiceResponse(type, string);
+            handler.handleServiceResponse(self, string);
         } else {
             final long started = System.currentTimeMillis();
             final String fileName = info.getTitle();
@@ -45,7 +45,7 @@ public interface CountryService extends SovereignStateService {
                     COUNTRY_SERVICE_JSON_VALUES.put(info, json);
                     final String string = json.has(countryBackendID) ? json.getJSONObject(countryBackendID).toString() : null;
                     WLLogger.log(Level.INFO, fileName + " - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handleServiceResponse(type, string);
+                    handler.handleServiceResponse(self, string);
                 }
             });
         }

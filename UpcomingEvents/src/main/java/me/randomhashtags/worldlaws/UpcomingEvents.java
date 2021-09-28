@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
-import me.randomhashtags.worldlaws.recent.software.videogames.DeadByDaylight;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.entertainment.Movies;
@@ -47,8 +46,8 @@ public final class UpcomingEvents implements WLServer {
     private String typesJSON;
 
     private void initialize() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -57,10 +56,16 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        DeadByDaylight.INSTANCE.refresh(LocalDate.now().minusWeeks(1), new CompletionHandler() {
+        final MusicAlbums music = MusicAlbums.INSTANCE;
+        final HashSet<String> dates = new HashSet<>();
+        final LocalDate now = LocalDate.now();
+        for(int i = -1; i < 7; i++) {
+            dates.add(getEventStringForDate(now.plusDays(i)));
+        }
+        music.getEventsFromDates(dates, new CompletionHandler() {
             @Override
-            public void handleString(String string) {
-                WLLogger.log(Level.INFO, "UpcomingEvents;test;string=" + string);
+            public void handleStringValue(String identifier, String value) {
+                WLLogger.log(Level.INFO, "UpcomingEvents;test;value=" + value);
             }
         });
     }
@@ -115,7 +120,7 @@ public final class UpcomingEvents implements WLServer {
                 "holidays/near",
                 "weekly_events",
                 "recent_events",
-                "elections"
+                //"elections"
         };
     }
 

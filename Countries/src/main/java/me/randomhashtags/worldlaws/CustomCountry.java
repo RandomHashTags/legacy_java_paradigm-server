@@ -101,7 +101,7 @@ public final class CustomCountry implements SovereignState {
     }
 
     @Override
-    public void getInformation(APIVersion version, CompletionHandler handler) {
+    public void getInformation(APIVersion version, CompletionHandler handler) { // TODO: fix this | 1 service doesn't complete handler
         if(information != null) {
             handler.handleString(information);
         } else {
@@ -153,14 +153,16 @@ public final class CustomCountry implements SovereignState {
         final int max = services.size();
         final CompletionHandler serviceHandler = new CompletionHandler() {
             @Override
-            public void handleServiceResponse(SovereignStateInformationType type, String string) {
+            public void handleServiceResponse(CountryService service, String string) {
                 if(string != null && !string.equals("null")) {
+                    final SovereignStateInformationType type = service.getInformationType();
                     values.putIfAbsent(type, new HashSet<>());
                     values.get(type).add(string);
                 }
                 tryCompletingInformation(max, completed, values, handler);
             }
         };
+
         services.parallelStream().forEach(service -> {
             final SovereignStateInfo info = service.getInfo();
             final String countryIdentifier;

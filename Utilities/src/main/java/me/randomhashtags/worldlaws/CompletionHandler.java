@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
+import me.randomhashtags.worldlaws.info.service.CountryService;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -16,7 +16,7 @@ public interface CompletionHandler {
     default void handleJSONArray(JSONArray array) { }
     default void handleJSONObject(JSONObject json) { }
     default void handleClient(@NotNull WLClient client) { }
-    default void handleServiceResponse(SovereignStateInformationType type, String string) { }
+    default void handleServiceResponse(CountryService service, String string) { }
 
     default void load(CompletionHandler handler) { handler.handleString(null); }
 }
