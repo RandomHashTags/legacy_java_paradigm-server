@@ -46,6 +46,9 @@ public enum USLaws implements LawController {
         final USBillStatus[] statuses = new USBillStatus[] {
                 USBillStatus.BECAME_LAW,
                 USBillStatus.VETOED,
+                USBillStatus.PASSED_ONE_CHAMBER,
+                USBillStatus.PASSED_BOTH_CHAMBERS,
+                USBillStatus.INTRODUCED
         };
 
         final int max = statuses.length;
@@ -76,15 +79,10 @@ public enum USLaws implements LawController {
                         boolean isFirstStatus = true;
                         for(Map.Entry<USBillStatus, HashSet<PreCongressBill>> map : values.entrySet()) {
                             final USBillStatus status = map.getKey();
-                            builder.append(isFirstStatus ? "" : ",").append("\"").append(status.getName()).append("\":{");
-                            final HashSet<PreCongressBill> bills = map.getValue();
-                            boolean isFirst = true;
-                            for(PreCongressBill bill : bills) {
-                                builder.append(isFirst ? "" : ",").append(bill.toString());
-                                isFirst = false;
-                            }
+                            builder.append(isFirstStatus ? "" : ",").append("\"").append(status.getName()).append("\":");
+                            final String json = USCongress.getPreCongressBillsJSON(map.getValue());
+                            builder.append(json);
                             isFirstStatus = false;
-                            builder.append("}");
                         }
                         builder.append("}");
                         string = builder.toString();

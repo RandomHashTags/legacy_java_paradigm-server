@@ -46,7 +46,8 @@ public interface UpcomingEventController extends YouTubeService, Jsoupable, Data
                     final HashMap<String, String> newUpcomingEvents = getUpcomingEvents();
                     final String preUpcomingEventsLoaded = newPreUpcomingEvents != null && !newPreUpcomingEvents.isEmpty() ? newPreUpcomingEvents.size() + " preUpcomingEvents" : null;
                     final String upcomingEventsLoaded = newUpcomingEvents != null && !newUpcomingEvents.isEmpty() ? newUpcomingEvents.size() + " upcomingEvents" : null;
-                    final String amount = "(" + (preUpcomingEventsLoaded != null ? preUpcomingEventsLoaded + (upcomingEventsLoaded != null ? ", " : "") : "") + (upcomingEventsLoaded != null ? upcomingEventsLoaded : "") + ")";
+                    String amount = "(" + (preUpcomingEventsLoaded != null ? preUpcomingEventsLoaded + (upcomingEventsLoaded != null ? ", " : "") : "") + (upcomingEventsLoaded != null ? upcomingEventsLoaded : "") + ")";
+                    amount = amount.equals("()") ? "0" : amount;
                     WLLogger.log(Level.INFO, getType().name() + " - loaded " + amount + " events (took " + (System.currentTimeMillis()-started) + "ms)");
                     getEventsOnDates(dates, handler);
                 }
@@ -158,7 +159,8 @@ public interface UpcomingEventController extends YouTubeService, Jsoupable, Data
         final String month = Month.of(Integer.parseInt(values[0])).name();
         final int year = Integer.parseInt(values[1]), day = Integer.parseInt(values[2]);
         final String fileName = id.substring(dateString.length()+1);
-        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%year%", Integer.toString(year)).replace("%month%", month).replace("%day%", Integer.toString(day)));
+        final String folderName = folder.getFolderName().replace("%year%", Integer.toString(year)).replace("%month%", month).replace("%day%", Integer.toString(day));
+        folder.setCustomFolderName(fileName, folderName);
         return fileName;
     }
     void loadUpcomingEvent(String id, CompletionHandler handler);

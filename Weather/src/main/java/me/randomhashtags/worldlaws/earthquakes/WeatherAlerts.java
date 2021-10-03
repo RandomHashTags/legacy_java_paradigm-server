@@ -41,41 +41,64 @@ public enum WeatherAlerts {
             case "event":
                 getAllPreAlerts(values[1], handler);
                 break;
+            case "country":
+                getAlertsForCountry(values[1], value.substring(key.length()+1).split("/"), handler);
+                break;
+            case "subdivision":
+                final String country = values[1], subdivision = values[2];
+                final String prefix = key + "/" + country + "/" + subdivision;
+                final String target = value.equals(prefix) ? "" : value.substring(prefix.length()+1);
+                WLLogger.log(Level.INFO, "WeatherAlerts;getResponse;subdivision;target=" + target);
+                getAlertsForSubdivision(country, subdivision, target.split("/"), handler);
+                break;
             default:
-                final int length = values.length;
-                if(length == 1) {
-                    getAlertEvents(key, handler);
-                } else {
-                    final WeatherController weather = getCountryWeather(key);
-                    if(weather != null) {
-                        final String countryValue = values[1];
-                        switch (countryValue) {
-                            case "id":
-                                weather.getAlert(values[2], handler);
-                                break;
-                            case "zone":
-                                final String zoneID = value.substring((key + "/zone/").length());
-                                weather.getZone(zoneID, handler);
-                            case "zones":
-                                final int prefix = (key + "/zones/").length();
-                                final String[] zoneIDs = value.substring(prefix).split(",");
-                                weather.getZones(zoneIDs, handler);
-                                break;
-                            default:
-                                if(length == 2) {
-                                    weather.getTerritoryEvents(countryValue, handler);
-                                } else {
-                                    weather.getTerritoryPreAlerts(countryValue, values[2], handler);
-                                }
-                                break;
-                        }
-                    } else {
-                        handler.handleString(null);
-                    }
-                }
                 break;
         }
     }
+    private void getAlertsForCountry(String country, String[] values, CompletionHandler handler) {
+        final WeatherController weather = getCountryWeather(country);
+        if(weather != null) {
+            switch (values[0]) {
+                case "event":
+                    weather.getEventPreAlerts().get(values[1]);
+                    break;
+                case "id":
+                    weather.getAlert(values[1], handler);
+                    break;
+                case "zone":
+                    weather.getZone(values[1], handler);
+                    break;
+                case "zones":
+                    final String[] zoneIDs = values[1].split(",");
+                    weather.getZones(zoneIDs, handler);
+                    break;
+                default:
+                    handler.handleString(null);
+                    break;
+            }
+        } else {
+            handler.handleString(null);
+        }
+    }
+    private void getAlertsForSubdivision(String country, String subdivision, String[] values, CompletionHandler handler) {
+        final WeatherController weather = getCountryWeather(country);
+        if(weather != null) {
+            switch (values[0]) {
+                case "":
+                    weather.getSubdivisionEvents(subdivision, handler);
+                    break;
+                case "event":
+                    weather.getSubdivisionPreAlerts(subdivision, values[1], handler);
+                    break;
+                default:
+                    handler.handleString(null);
+                    break;
+            }
+        } else {
+            handler.handleString(null);
+        }
+    }
+
 
     private void getAllPreAlerts(String event, CompletionHandler handler) {
         final WeatherController[] controllers = getCountries();

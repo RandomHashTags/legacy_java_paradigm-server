@@ -14,8 +14,8 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
     String getEvents();
 
     HashMap<String, String> getEventPreAlerts();
-    HashMap<String, String> getTerritoryEvents();
-    HashMap<String, HashMap<String, String>> getTerritoryPreAlerts();
+    HashMap<String, String> getSubdivisionEvents();
+    HashMap<String, HashMap<String, String>> getSubdivisionPreAlerts();
 
     void refresh(CompletionHandler handler);
 
@@ -57,8 +57,8 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
             final StringBuilder builder = new StringBuilder("{");
             boolean isFirstTerritory = true;
             for(Map.Entry<String, HashSet<String>> preAlert : territoryPreAlerts.entrySet()) {
-                final String territory = preAlert.getKey();
-                builder.append(isFirstTerritory ? "" : ",").append("\"").append(territory).append("\":{");
+                final String subdivision = preAlert.getKey();
+                builder.append(isFirstTerritory ? "" : ",").append("\"").append(subdivision).append("\":{");
                 isFirstTerritory = false;
 
                 boolean isFirst = true;
@@ -76,21 +76,36 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
         final HashMap<String, String> eventPreAlerts = getEventPreAlerts();
         handler.handleString(eventPreAlerts.getOrDefault(event, null));
     }
-    default void putTerritoryEvents(HashMap<String, String> territoryEvents, ConcurrentHashMap<String, HashSet<WeatherEvent>> hashmap) {
-        boolean isFirst = true;
+    default void putSubdivisionEvents(HashMap<String, String> territoryEvents, ConcurrentHashMap<String, HashSet<WeatherEvent>> hashmap) {
         for(Map.Entry<String, HashSet<WeatherEvent>> map : hashmap.entrySet()) {
             final String territory = map.getKey();
             final HashSet<WeatherEvent> events = map.getValue();
-            final StringBuilder builder = new StringBuilder("[");
-            for(WeatherEvent newWeatherEvent : events) {
-                builder.append(isFirst ? "" : ",").append(newWeatherEvent.toString());
-                isFirst = false;
+
+            final HashMap<Integer, HashSet<String>> defconMap = new HashMap<>();
+            for(WeatherEvent weatherEvent : events) {
+                final int defcon = weatherEvent.getDefcon();
+                defconMap.putIfAbsent(defcon, new HashSet<>());
+                defconMap.get(defcon).add(weatherEvent.getEvent());
             }
-            builder.append("]");
+
+            final StringBuilder builder = new StringBuilder("{");
+            boolean isFirstDefcon = true;
+            for(Map.Entry<Integer, HashSet<String>> entry : defconMap.entrySet()) {
+                final int defcon = entry.getKey();
+                builder.append(isFirstDefcon ? "" : ",").append("\"").append(defcon).append("\":[");
+                boolean isFirstEvent = true;
+                for(String string : entry.getValue()) {
+                    builder.append(isFirstEvent ? "" : ",").append("\"").append(string).append("\"");
+                    isFirstEvent = false;
+                }
+                builder.append("]");
+                isFirstDefcon = false;
+            }
+            builder.append("}");
             territoryEvents.put(territory.toLowerCase().replace(" ", ""), builder.toString());
         }
     }
-    default void putTerritoryPreAlerts(HashMap<String, HashMap<String, String>> territoryPreAlerts, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> hashmap) {
+    default void putSubdivisionPreAlerts(HashMap<String, HashMap<String, String>> territoryPreAlerts, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> hashmap) {
         for(Map.Entry<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> map : hashmap.entrySet()) {
             final String territory = map.getKey();
             final ConcurrentHashMap<String, HashSet<WeatherPreAlert>> eventsMap = map.getValue();
@@ -98,13 +113,13 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
             for(Map.Entry<String, HashSet<WeatherPreAlert>> eventMap : eventsMap.entrySet()) {
                 final String event = eventMap.getKey();
                 final HashSet<WeatherPreAlert> preAlerts = eventMap.getValue();
-                final StringBuilder builder = new StringBuilder("[");
+                final StringBuilder builder = new StringBuilder("{");
                 boolean isFirst = true;
                 for(WeatherPreAlert preAlert : preAlerts) {
                     builder.append(isFirst ? "" : ",").append(preAlert.toString());
                     isFirst = false;
                 }
-                final String string = builder.append("]").toString();
+                final String string = builder.append("}").toString();
                 preAlertsMap.put(event, string);
             }
             territoryPreAlerts.put(territory.toLowerCase().replace(" ", ""), preAlertsMap);
@@ -144,16 +159,17 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
     void getZone(String zoneID, CompletionHandler handler);
     void getAlert(String id, CompletionHandler handler);
 
-    default void getTerritoryEvents(String territory, CompletionHandler handler) {
-        final HashMap<String, String> territoryEvents = getTerritoryEvents();
-        if(territoryEvents.containsKey(territory)) {
-            handler.handleString(territoryEvents.get(territory));
-        }
+    default void getSubdivisionEvents(String subdivision, CompletionHandler handler) {
+        final HashMap<String, String> territoryEvents = getSubdivisionEvents();
+        final String value = territoryEvents.getOrDefault(subdivision, null);
+        handler.handleString(value);
     }
-    default void getTerritoryPreAlerts(String territory, String event, CompletionHandler handler) {
-        final HashMap<String, HashMap<String, String>> territoryPreAlerts = getTerritoryPreAlerts();
-        if(territoryPreAlerts.containsKey(territory) && territoryPreAlerts.get(territory).containsKey(event)) {
-            handler.handleString(territoryPreAlerts.get(territory).get(event));
+    default void getSubdivisionPreAlerts(String subdivision, String event, CompletionHandler handler) {
+        final HashMap<String, HashMap<String, String>> territoryPreAlerts = getSubdivisionPreAlerts();
+        if(territoryPreAlerts.containsKey(subdivision) && territoryPreAlerts.get(subdivision).containsKey(event)) {
+            handler.handleString(territoryPreAlerts.get(subdivision).get(event));
+        } else {
+            handler.handleString(null);
         }
     }
 

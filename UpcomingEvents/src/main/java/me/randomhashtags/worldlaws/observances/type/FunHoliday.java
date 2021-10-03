@@ -22,6 +22,7 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
     INTERNATIONAL_DOG_DAY,
     INTERNATIONAL_PROGRAMMERS_DAY,
     MOLE_DAY,
+    NATIONAL_BOYFRIEND_DAY,
     NATIONAL_GIRLFRIEND_DAY,
     NATIONAL_SCIENCE_FICTION_DAY,
     PI_DAY,
@@ -82,19 +83,29 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
 
     @Override
     public EventSources getOtherSources() {
+        final String timeAndDate = "Time and Date";
+        final String nationalToday = "National Today";
         switch (this) {
             case BOOK_LOVERS_DAY:
                 return collectSources(
-                        new EventSource("Time and Date", "https://www.timeanddate.com/holidays/fun/book-lovers-day")
+                        new EventSource(timeAndDate, "https://www.timeanddate.com/holidays/fun/book-lovers-day")
                 );
             case FIBONACCI_DAY:
                 return collectSources(
-                        new EventSource("Time and Date", "https://www.timeanddate.com/holidays/fun/fibonacci-day"),
-                        new EventSource("National Today", "https://nationaltoday.com/fibonacci-day/")
+                        new EventSource(timeAndDate, "https://www.timeanddate.com/holidays/fun/fibonacci-day"),
+                        new EventSource(nationalToday, "https://nationaltoday.com/fibonacci-day/")
                 );
             case WORLD_PHOTOGRAPHY_DAY:
                 return collectSources(
                         new EventSource("World Photography Day", "https://www.worldphotographyday.com")
+                );
+            case NATIONAL_BOYFRIEND_DAY:
+                return collectSources(
+                        new EventSource(nationalToday, "https://nationaltoday.com/national-boyfriend-day/")
+                );
+            case NATIONAL_GIRLFRIEND_DAY:
+                return collectSources(
+                        new EventSource(nationalToday, "https://nationaltoday.com/national-girlfriend-day/")
                 );
             default:
                 return null;
@@ -118,7 +129,10 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
                     return new EventDate(date.getMonth(), date.getDayOfMonth(), year);
                 }
             case MOLE_DAY: return new EventDate(Month.OCTOBER, 23, year);
-            case NATIONAL_GIRLFRIEND_DAY: return country == WLCountry.UNITED_STATES ? new EventDate(Month.AUGUST, 1, year) : null;
+            case NATIONAL_BOYFRIEND_DAY:
+                return new EventDate(Month.OCTOBER, 3, year);
+            case NATIONAL_GIRLFRIEND_DAY:
+                return new EventDate(Month.AUGUST, 1, year);
             case NATIONAL_SCIENCE_FICTION_DAY: return country == WLCountry.UNITED_STATES ? new EventDate(Month.JANUARY, 2, year) : null;
             case PI_DAY: return new EventDate(Month.MARCH, 14, year);
             case POLAR_BEAR_PLUNGE_DAY:

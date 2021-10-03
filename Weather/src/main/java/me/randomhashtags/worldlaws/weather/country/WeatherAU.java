@@ -32,12 +32,12 @@ public enum WeatherAU implements WeatherController {
     }
 
     @Override
-    public HashMap<String, String> getTerritoryEvents() {
+    public HashMap<String, String> getSubdivisionEvents() {
         return null;
     }
 
     @Override
-    public HashMap<String, HashMap<String, String>> getTerritoryPreAlerts() {
+    public HashMap<String, HashMap<String, String>> getSubdivisionPreAlerts() {
         return null;
     }
 

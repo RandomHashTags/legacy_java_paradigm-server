@@ -47,7 +47,9 @@ public abstract class WLUtilities {
 
     public static void saveException(Exception exception) {
         String message = exception.getLocalizedMessage();
-        message = message == null ? exception.getMessage() : null;
+        if(message == null) {
+            message = exception.getMessage();
+        }
         final StringBuilder builder = new StringBuilder(message != null ? message : "null message");
         for(StackTraceElement element : exception.getStackTrace()) {
             builder.append("\n").append(element.toString());

@@ -48,21 +48,12 @@ public final class CustomCountry implements SovereignState {
         name = infobox.size() > 0 ? removeReferences(infobox.get(0).select("th div.fn").get(0).text()) : shortName;
         loadCountryDetails();
     }
-    public CustomCountry(String tag, JSONObject json) {
-        this.name = tag;
-        unStatus = json.has("unStatus") ? json.getString("unStatus") : null;
-        sovereigntyDispute = json.has("sovereigntyDispute") ? json.getString("sovereigntyDispute") : null;
-        shortName = json.has("shortName") ? json.getString("shortName") : tag;
-        flagEmoji = json.getString("flagEmoji");
-
-        loadCountryDetails();
-    }
     private void loadCountryDetails() {
         final WLCountry wlcountry = getWLCountry();
         if(wlcountry != null) {
             isoAlpha2 = wlcountry.getISOAlpha2();
             if(flagEmoji == null) {
-                flagEmoji = wlcountry.getFlagEmoji();
+                flagEmoji = StringEscapeUtils.escapeJava(wlcountry.getFlagEmoji());
             }
             timezones = wlcountry.getTimeZones();
             governmentAdministrations = LawUtilities.getAdministrationVersions(wlcountry);
@@ -97,11 +88,11 @@ public final class CustomCountry implements SovereignState {
         return null;
     }
     public String getFlagEmoji() {
-        return StringEscapeUtils.escapeJava(flagEmoji);
+        return flagEmoji;
     }
 
     @Override
-    public void getInformation(APIVersion version, CompletionHandler handler) { // TODO: fix this | 1 service doesn't complete handler
+    public void getInformation(APIVersion version, CompletionHandler handler) {
         if(information != null) {
             handler.handleString(information);
         } else {
@@ -275,7 +266,7 @@ public final class CustomCountry implements SovereignState {
                 (!name.equals(shortName) ? "\"shortName\":\"" + shortName + "\"," : "") +
                 (timezones != null ? "\"timezones\":" + getTimeZonesJSON() + "," : "") +
                 (subdivisions != null ? "\"subdivisions\":" + subdivisions + "," : "") +
-                "\"flagEmoji\":\"" + getFlagEmoji() + "\"" +
+                "\"flagEmoji\":\"" + flagEmoji + "\"" +
                 "}";
     }
 }

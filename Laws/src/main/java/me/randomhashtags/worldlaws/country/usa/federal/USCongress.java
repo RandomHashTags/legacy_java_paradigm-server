@@ -83,19 +83,42 @@ public enum USCongress implements Jsoupable, Jsonable {
                 if(object != null) {
                     @SuppressWarnings({ "unchecked" })
                     final HashSet<PreCongressBill> bills = (HashSet<PreCongressBill>) object;
-                    final StringBuilder builder = new StringBuilder("{");
-                    boolean isFirst = true;
-                    for(PreCongressBill bill : bills) {
-                        builder.append(isFirst ? "" : ",").append(bill.toString());
-                        isFirst = false;
-                    }
-                    builder.append("}");
-                    handler.handleString(builder.toString());
+
+                    final String string = getPreCongressBillsJSON(bills);
+                    handler.handleString(string);
                 } else {
                     handler.handleString(null);
                 }
             }
         });
+    }
+    public static String getPreCongressBillsJSON(HashSet<PreCongressBill> bills) {
+        final HashMap<String, HashMap<String, StringBuilder>> map = new HashMap<>();
+        for(PreCongressBill bill : bills) {
+            final String chamber = bill.getChamber().getName();
+            map.putIfAbsent(chamber, new HashMap<>());
+
+            final String dateString = bill.getDate().getDateString();
+            final boolean isFirst = !map.get(chamber).containsKey(dateString);
+            map.get(chamber).putIfAbsent(dateString, new StringBuilder());
+            map.get(chamber).get(dateString).append(isFirst ? "" : ",").append(bill.toString());
+        }
+        final StringBuilder builder = new StringBuilder("{");
+        boolean isFirstDateString = true;
+        for(Map.Entry<String, HashMap<String, StringBuilder>> hashmap : map.entrySet()) {
+            final String dateString = hashmap.getKey();
+            builder.append(isFirstDateString ? "" : ",").append("\"").append(dateString).append("\":{");
+            boolean isFirstChamber = true;
+            for(Map.Entry<String, StringBuilder> builderMap : hashmap.getValue().entrySet()) {
+                final String chamber = builderMap.getKey();
+                builder.append(isFirstChamber ? "" : ",").append("\"").append(chamber).append("\":{").append(builderMap.getValue()).append("}");
+                isFirstChamber = false;
+            }
+            builder.append("}");
+            isFirstDateString = false;
+        }
+        builder.append("}");
+        return builder.toString();
     }
     public void getPreCongressBillsBySearch(USBillStatus status, CompletionHandler handler) {
         final String version = getVersion();

@@ -15,9 +15,6 @@ import java.util.stream.Collectors;
 public interface Jsonable {
     String USER_DIR = System.getProperty("user.dir") + File.separator;
 
-    private static String getJSONFilePath(Folder folder, String fileName) {
-        return getFilePath(folder, fileName, "json");
-    }
     private static String getFilePath(Folder folder, String fileName, String extension) {
         return folder.getFolderPath(fileName) + File.separator + fileName + "." + extension;
     }
@@ -32,8 +29,8 @@ public interface Jsonable {
         }
     }
 
-    private String getLocalFileString(Folder folder, String fileName) {
-        final String directory = getJSONFilePath(folder, fileName);
+    default String getLocalFileString(Folder folder, String fileName, String extension) {
+        final String directory = getFilePath(folder, fileName, extension);
         final Path path = Paths.get(directory);
         if(Files.exists(path)) {
             try {
@@ -45,11 +42,11 @@ public interface Jsonable {
         return null;
     }
     private JSONObject getLocalFileJSONObject(Folder folder, String fileName) {
-        final String string = getLocalFileString(folder, fileName);
+        final String string = getLocalFileString(folder, fileName, "json");
         return string != null ? new JSONObject(string) : null;
     }
     private JSONArray getLocalFileJSONArray(Folder type, String fileName) {
-        final String string = getLocalFileString(type, fileName);
+        final String string = getLocalFileString(type, fileName, "json");
         return string != null ? new JSONArray(string) : null;
     }
     default void getJSONObject(Folder folder, String fileName, CompletionHandler handler) {

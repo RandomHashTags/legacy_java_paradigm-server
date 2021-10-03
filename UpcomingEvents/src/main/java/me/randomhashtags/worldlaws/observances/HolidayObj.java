@@ -8,7 +8,7 @@ import org.json.JSONObject;
 
 import java.util.HashSet;
 
-public class HolidayObj implements Holiday {
+public final class HolidayObj implements Holiday { // TODO: replace the "other sources" and "learnMoreURL" with a dedicated "sources" object
     private HashSet<String> countries;
     protected String[] aliases;
     protected String imageURL;
@@ -65,7 +65,7 @@ public class HolidayObj implements Holiday {
         }
         countries.add(country);
     }
-    protected String getCountriesArray(HashSet<String> countries) {
+    private String getCountriesArray(HashSet<String> countries) {
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         for(String country : countries) {
@@ -91,7 +91,7 @@ public class HolidayObj implements Holiday {
         return aliases;
     }
 
-    protected String getAliasesArray() {
+    private String getAliasesArray() {
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         for(String alias : aliases) {
@@ -109,8 +109,6 @@ public class HolidayObj implements Holiday {
 
     @Override
     public String toString() {
-        final HashSet<String> countries = getCountries();
-        final String learnMoreURL = getLearnMoreURL();
         return "\"" + getEnglishName() + "\":{" +
                 (countries != null ? "\"countries\":" + getCountriesArray(countries) + "," : "") +
                 (celebrators != null ? "\"celebrators\":\"" + celebrators + "\"," : "") +

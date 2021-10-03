@@ -52,6 +52,12 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
+        getHomeResponse(new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                WLLogger.log(Level.INFO, "Countries;test;string=" + string);
+            }
+        });
     }
 
     @Override
@@ -157,41 +163,31 @@ public final class Countries implements WLServer {
         getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
-                final JSONObject countriesJSON = new JSONObject();
-                final CompletionHandler completionHandler = new CompletionHandler() {
-                    @Override
-                    public void handleObject(Object object) {
-                        final CustomCountry country = (CustomCountry) object;
-                        final String name = country.getName();
-                        final int tagLength = name.length();
-                        final JSONObject countryJSON = new JSONObject(country.toString().substring(tagLength+3));
-                        countriesMap.put(country.getBackendID(), country);
-                        countriesJSON.put(name, countryJSON);
-                    }
-                };
+                final StringBuilder builder = new StringBuilder("{");
+                boolean isFirst = true;
                 for(Object obj : array) {
                     final JSONObject json = (JSONObject) obj;
                     final String tag = json.getString("tag"), url = json.getString("url");
                     final String unStatus = json.has("unStatus") ? json.getString("unStatus") : null, sovereigntyDispute = json.has("sovereigntyDispute") ? json.getString("sovereigntyDispute") : null;
                     final Document doc = getDocument(Folder.COUNTRIES_COUNTRIES, url, true);
                     final CustomCountry country = new CustomCountry(tag, unStatus, sovereigntyDispute, doc);
-                    completionHandler.handleObject(country);
+                    countriesMap.put(country.getBackendID(), country);
+                    builder.append(isFirst ? "" : ",").append(country.toString());
+                    isFirst = false;
                 }
-                handler.handleJSONObject(countriesJSON);
+                builder.append("}");
+                final String string = builder.toString();
+                countriesCacheJSON = string;
+                handler.handleString(string);
             }
 
             @Override
             public void handleJSONObject(JSONObject countriesJSON) {
-                if(countriesMap.isEmpty()) {
-                    for(String name : countriesJSON.keySet()) {
-                        final JSONObject json = countriesJSON.getJSONObject(name);
-                        final CustomCountry country = new CustomCountry(name, json);
-                        countriesMap.put(country.getBackendID(), country);
-                    }
+                if(countriesCacheJSON == null) {
+                    countriesCacheJSON = getLocalFileString(folder, fileName, "json");
                 }
-                countriesCacheJSON = countriesJSON.toString();
-                WLLogger.log(Level.INFO, "Countries - loaded " + countriesJSON.length() + " countries (took " + (System.currentTimeMillis()-started) + "ms)");
                 checkForMissingValues();
+                WLLogger.log(Level.INFO, "Countries - loaded " + countriesJSON.length() + " countries (took " + (System.currentTimeMillis()-started) + "ms)");
                 if(handler != null) {
                     handler.handleString(countriesCacheJSON);
                 }

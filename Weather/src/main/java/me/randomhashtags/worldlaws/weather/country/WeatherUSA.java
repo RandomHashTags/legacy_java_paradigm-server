@@ -44,12 +44,12 @@ public enum WeatherUSA implements WeatherController {
     }
 
     @Override
-    public HashMap<String, String> getTerritoryEvents() {
+    public HashMap<String, String> getSubdivisionEvents() {
         return territoryEvents;
     }
 
     @Override
-    public HashMap<String, HashMap<String, String>> getTerritoryPreAlerts() {
+    public HashMap<String, HashMap<String, String>> getSubdivisionPreAlerts() {
         return territoryPreAlerts;
     }
 
@@ -65,7 +65,7 @@ public enum WeatherUSA implements WeatherController {
 
         final ConcurrentHashMap<String, Integer> eventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, HashSet<WeatherPreAlert>> eventPreAlertsMap = new ConcurrentHashMap<>();
-        final ConcurrentHashMap<String, HashSet<WeatherEvent>> territoryEventsMap = new ConcurrentHashMap<>();
+        final ConcurrentHashMap<String, HashSet<WeatherEvent>> subdivisionEventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> territoryPreAlertsMap = new ConcurrentHashMap<>();
 
         final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
@@ -118,8 +118,8 @@ public enum WeatherUSA implements WeatherController {
 
                         final int defcon = getSeverityDEFCON(severity);
                         eventsMap.putIfAbsent(event, defcon);
-                        territoryEventsMap.putIfAbsent(subdivisionName, new HashSet<>());
-                        final HashSet<WeatherEvent> territorySet = territoryEventsMap.get(subdivisionName);
+                        subdivisionEventsMap.putIfAbsent(subdivisionName, new HashSet<>());
+                        final HashSet<WeatherEvent> territorySet = subdivisionEventsMap.get(subdivisionName);
                         boolean hasEvent = false;
                         for(WeatherEvent newWeatherEvent : territorySet) {
                             if(event.equals(newWeatherEvent.getEvent())) {
@@ -129,7 +129,7 @@ public enum WeatherUSA implements WeatherController {
                         }
                         if(!hasEvent) {
                             final WeatherEvent weatherEvent = new WeatherEvent(event, defcon);
-                            territoryEventsMap.get(subdivisionName).add(weatherEvent);
+                            subdivisionEventsMap.get(subdivisionName).add(weatherEvent);
                         }
 
                         final WeatherPreAlert preAlert = new WeatherPreAlert(defcon, event, id, subdivisionName, certainty, headline, instruction, description, zoneIDs, time);
@@ -138,15 +138,16 @@ public enum WeatherUSA implements WeatherController {
                         eventPreAlertsMap.putIfAbsent(event, new HashSet<>());
                         eventPreAlertsMap.get(event).add(preAlert);
 
+                        final String eventLowercase = event.toLowerCase().replace(" ", "");
                         territoryPreAlertsMap.putIfAbsent(subdivisionName, new ConcurrentHashMap<>());
-                        territoryPreAlertsMap.get(subdivisionName).putIfAbsent(event, new HashSet<>());
-                        territoryPreAlertsMap.get(subdivisionName).get(event).add(preAlert);
+                        territoryPreAlertsMap.get(subdivisionName).putIfAbsent(eventLowercase, new HashSet<>());
+                        territoryPreAlertsMap.get(subdivisionName).get(eventLowercase).add(preAlert);
                     });
                 }
 
                 putEventPreAlerts(eventPreAlerts, eventPreAlertsMap);
-                putTerritoryEvents(territoryEvents, territoryEventsMap);
-                putTerritoryPreAlerts(territoryPreAlerts, territoryPreAlertsMap);
+                putSubdivisionEvents(territoryEvents, subdivisionEventsMap);
+                putSubdivisionPreAlerts(territoryPreAlerts, territoryPreAlertsMap);
 
                 eventsJSON = getEventsJSON(eventsMap);
 
@@ -211,24 +212,23 @@ public enum WeatherUSA implements WeatherController {
         final int max = zones.length;
         final HashSet<String> zoneJSONs = new HashSet<>();
         final AtomicInteger completed = new AtomicInteger(0);
-        Arrays.stream(zones).parallel().forEach(zoneID -> {
-            getZone(zoneID, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    zoneJSONs.add(string);
-                    if(completed.addAndGet(1) == max) {
-                        final StringBuilder builder = new StringBuilder("[");
-                        boolean isFirst = true;
-                        for(String zoneJSON : zoneJSONs) {
-                            builder.append(isFirst ? "" : ",").append(zoneJSON);
-                            isFirst = false;
-                        }
-                        builder.append("]");
-                        handler.handleString(builder.toString());
+        final CompletionHandler completionHandler = new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                zoneJSONs.add(string);
+                if(completed.addAndGet(1) == max) {
+                    final StringBuilder builder = new StringBuilder("[");
+                    boolean isFirst = true;
+                    for(String zoneJSON : zoneJSONs) {
+                        builder.append(isFirst ? "" : ",").append(zoneJSON);
+                        isFirst = false;
                     }
+                    builder.append("]");
+                    handler.handleString(builder.toString());
                 }
-            });
-        });
+            }
+        };
+        Arrays.stream(zones).parallel().forEach(zoneID -> getZone(zoneID, completionHandler));
     }
     @Override
     public void getZone(String zoneID, CompletionHandler handler) {

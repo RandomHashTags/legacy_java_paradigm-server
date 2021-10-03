@@ -53,38 +53,42 @@ public enum MLB implements USAUpcomingEventController {
         final EventSources sources = new EventSources(new EventSource("MLB Schedule", mlbScheduleURL));
         final Document doc = getDocument(mlbScheduleURL);
         if(doc != null) {
-            final Elements dates = doc.select("body main div div section section div div + div.ScheduleCollectionGridstyle__SectionWrapper-c0iua4-0");
+            final Elements dates = doc.select("div.ScheduleCollectionGridstyle__SectionWrapper-sc-c0iua4-0");
             final AtomicInteger completed = new AtomicInteger(0);
             final int max = dates.size();
-            dates.parallelStream().forEach(dateElement -> {
-                final String previousElementString = dateElement.previousElementSibling().text();
-                final String[] values = previousElementString.split(" ");
-                final Month targetMonth = Month.valueOf(values[1].toUpperCase());
-                final int targetDay = Integer.parseInt(values[2]);
-                final String dateString = getEventDateString(year, targetMonth, targetDay);
-                final Elements matches = dateElement.select("div.ScheduleGamestyle__DesktopScheduleGameWrapper-b76vp3-0");
-                matches.parallelStream().forEach(matchElement -> {
-                    final Element teamElement = matchElement.selectFirst("div.TeamMatchupLayerstyle__TeamMatchupLayerWrapper-ouprud-0");
-                    final Element awayTeamElement = teamElement.selectFirst("div.TeamMatchupLayerstyle__AwayWrapper-ouprud-1"), homeTeamElement = teamElement.selectFirst("div.TeamMatchupLayerstyle__HomeWrapper-ouprud-2");
-                    final JSONObject awayTeamJSON = getTeamJSON(awayTeamElement), homeTeamJSON = getTeamJSON(homeTeamElement);
-                    final String title = awayTeamJSON.getString("name") + " @ " + homeTeamJSON.getString("name");
+            if(max == 0) {
+                handler.handleString(null);
+            } else {
+                dates.parallelStream().forEach(dateElement -> {
+                    final String previousElementString = dateElement.previousElementSibling().text();
+                    final String[] values = previousElementString.split(" ");
+                    final Month targetMonth = Month.valueOf(values[1].toUpperCase());
+                    final int targetDay = Integer.parseInt(values[2]);
+                    final String dateString = getEventDateString(year, targetMonth, targetDay);
+                    final Elements matches = dateElement.select("div.ScheduleGamestyle__DesktopScheduleGameWrapper-sc-b76vp3-0");
+                    matches.parallelStream().forEach(matchElement -> {
+                        final Element teamElement = matchElement.selectFirst("div.TeamMatchupLayerstyle__TeamMatchupLayerWrapper-sc-ouprud-0");
+                        final Element awayTeamElement = teamElement.selectFirst("div.TeamMatchupLayerstyle__AwayWrapper-sc-ouprud-1"), homeTeamElement = teamElement.selectFirst("div.TeamMatchupLayerstyle__HomeWrapper-sc-ouprud-2");
+                        final JSONObject awayTeamJSON = getTeamJSON(awayTeamElement), homeTeamJSON = getTeamJSON(homeTeamElement);
+                        final String title = awayTeamJSON.getString("name") + " @ " + homeTeamJSON.getString("name");
 
-                    final Element timeElement = matchElement.selectFirst("div.GameInfoLayerstyle__GameInfoLayerWrapper-sc-1xxsnoa-0").selectFirst("div.GameInfoLayerstyle__GameInfoTextWrapper-sc-1xxsnoa-1").selectFirst("a[href]");
-                    final String url = timeElement.attr("href"), targetTimeET = timeElement.text();
+                        final Element timeElement = matchElement.selectFirst("div.GameInfoLayerstyle__GameInfoLayerWrapper-sc-1xxsnoa-0").selectFirst("div.GameInfoLayerstyle__GameInfoTextWrapper-sc-1xxsnoa-1").selectFirst("a[href]");
+                        final String url = timeElement.attr("href"), targetTimeET = timeElement.text();
 
-                    final String id = getEventDateIdentifier(dateString, title);
-                    final HashMap<String, Object> customValues = new HashMap<>() {{
-                        put("sources", sources);
-                        put("awayTeam", awayTeamJSON.toString());
-                        put("homeTeam", homeTeamJSON.toString());
-                    }};
-                    final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, url, targetTimeET, null, customValues);
-                    preUpcomingEvents.put(id, preUpcomingEvent);
+                        final String id = getEventDateIdentifier(dateString, title);
+                        final HashMap<String, Object> customValues = new HashMap<>() {{
+                            put("sources", sources);
+                            put("awayTeam", awayTeamJSON.toString());
+                            put("homeTeam", homeTeamJSON.toString());
+                        }};
+                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, url, targetTimeET, null, customValues);
+                        preUpcomingEvents.put(id, preUpcomingEvent);
+                    });
+                    if(completed.addAndGet(1) == max) {
+                        handler.handleString(null);
+                    }
                 });
-                if(completed.addAndGet(1) == max) {
-                    handler.handleString(null);
-                }
-            });
+            }
         } else {
             handler.handleString(null);
         }
@@ -96,11 +100,11 @@ public enum MLB implements USAUpcomingEventController {
         final String scheduleURL = ahrefElement.attr("href");
         json.put("scheduleURL", scheduleURL);
 
-        final Element teamLogoElement = ahrefElement.selectFirst("div.sc-fzpkJw img.sc-fznzOf");
+        final Element teamLogoElement = ahrefElement.selectFirst("div img");
         final String teamLogoURL = teamLogoElement.attr("src");
         json.put("logoURL", teamLogoURL);
 
-        final Elements nameElement = ahrefElement.select("div div div.TeamWrappersstyle__DesktopTeamWrapper-uqs6qh-0");
+        final Elements nameElement = ahrefElement.select("div div div.TeamWrappersstyle__DesktopTeamWrapper-sc-uqs6qh-0");
         final String teamName = nameElement.text();
         json.put("name", teamName);
 

@@ -16,6 +16,11 @@ public interface YouTubeService extends RestAPI, Jsonable {
 
         requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
+            public void handleString(String string) {
+                handler.handleJSONArray(null);
+            }
+
+            @Override
             public void handleJSONObject(JSONObject json) {
                 if(json != null) {
                     final String alternateTitle1 = titleLowercase.replace(":", "");

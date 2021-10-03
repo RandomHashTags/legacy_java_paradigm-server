@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import java.io.File;
-import java.util.HashMap;
+import java.util.concurrent.ConcurrentHashMap;
 
 public enum Folder {
     AVAILABILITIES("availabilities"),
@@ -51,15 +51,15 @@ public enum Folder {
     ;
 
     private final String folderName;
-    private final HashMap<String, String> ids;
+    private final ConcurrentHashMap<String, String> ids;
 
     Folder() {
         this.folderName = name().toLowerCase().replace("_", File.separator);
-        ids = new HashMap<>();
+        ids = new ConcurrentHashMap<>();
     }
     Folder(String folderName) {
         this.folderName = folderName;
-        ids = new HashMap<>();
+        ids = new ConcurrentHashMap<>();
     }
 
     public String getFolderName() {

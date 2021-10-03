@@ -25,7 +25,7 @@ public final class UpcomingEvents implements WLServer {
     private static final HashSet<UpcomingEventController> CONTROLLERS = new HashSet<>() {{
         addAll(Arrays.asList(
                 Championships.INSTANCE,
-                MLB.INSTANCE,
+                //MLB.INSTANCE,
                 Movies.INSTANCE,
                 //NASANeo.INSTANCE,
                 //NFL.INSTANCE, // problem
@@ -46,8 +46,8 @@ public final class UpcomingEvents implements WLServer {
     private String typesJSON;
 
     private void initialize() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -56,16 +56,14 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final MusicAlbums music = MusicAlbums.INSTANCE;
-        final HashSet<String> dates = new HashSet<>();
-        final LocalDate now = LocalDate.now();
-        for(int i = -1; i < 7; i++) {
-            dates.add(getEventStringForDate(now.plusDays(i)));
-        }
-        music.getEventsFromDates(dates, new CompletionHandler() {
+        final MLB mlb = MLB.INSTANCE;
+        final HashSet<String> dates = new HashSet<>() {{
+            add(getEventStringForDate(LocalDate.now()));
+        }};
+        mlb.getEventsFromDates(dates, new CompletionHandler() {
             @Override
-            public void handleStringValue(String identifier, String value) {
-                WLLogger.log(Level.INFO, "UpcomingEvents;test;value=" + value);
+            public void handleString(String string) {
+                WLLogger.log(Level.INFO, "UpcomingEvents;test;string=" + string);
             }
         });
     }

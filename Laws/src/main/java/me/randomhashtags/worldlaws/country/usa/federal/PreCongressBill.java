@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.country.usa.federal;
 
+import me.randomhashtags.worldlaws.Chamber;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.usa.USChamber;
@@ -18,6 +19,12 @@ public final class PreCongressBill {
         this.date = date;
     }
 
+    public Chamber getChamber() {
+        return chamber;
+    }
+    public String getID() {
+        return id;
+    }
     public EventDate getDate() {
         return date;
     }
@@ -25,11 +32,9 @@ public final class PreCongressBill {
     @Override
     public String toString() {
         return "\"" + id + "\":{" +
-                "\"chamber\":\"" + chamber.name() + "\"," +
+                (notes != null ? "\"notes\":\"" + notes + "\"," : "") +
                 "\"title\":\"" + title + "\"," +
-                "\"committees\":\"" + committees + "\"," +
-                (notes != null ? "\"" + notes + "\"," : "") +
-                "\"date\":\"" + date.getDateString() + "\"" +
+                "\"committees\":\"" + committees + "\"" +
                 "}";
     }
 }

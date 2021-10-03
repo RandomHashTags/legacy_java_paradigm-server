@@ -225,8 +225,12 @@ public enum Movies implements UpcomingEventController, IMDbService {
                         final Element infoboxData = element.selectFirst("td.infobox-data");
                         final Element first = infoboxData.selectFirst("div.plainlist ul li");
                         final String targetReleaseDate = first != null ? first.textNodes().get(0).text() : infoboxData.text();
-                        final String[] values = targetReleaseDate.split(" ");
-                        year = Integer.parseInt(values[values.length-1]);
+                        if(targetReleaseDate.toLowerCase().contains("present")) {
+                            foundYear = false;
+                        } else {
+                            final String[] values = targetReleaseDate.split(" ");
+                            year = Integer.parseInt(values[values.length - 1]);
+                        }
                         break;
                     }
                 }

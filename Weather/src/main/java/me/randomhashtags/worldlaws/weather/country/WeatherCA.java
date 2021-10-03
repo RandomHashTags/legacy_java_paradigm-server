@@ -41,12 +41,12 @@ public enum WeatherCA implements WeatherController {
     }
 
     @Override
-    public HashMap<String, String> getTerritoryEvents() {
+    public HashMap<String, String> getSubdivisionEvents() {
         return territoryEvents;
     }
 
     @Override
-    public HashMap<String, HashMap<String, String>> getTerritoryPreAlerts() {
+    public HashMap<String, HashMap<String, String>> getSubdivisionPreAlerts() {
         return territoryPreAlerts;
     }
 
@@ -133,8 +133,8 @@ public enum WeatherCA implements WeatherController {
         }
 
         putEventPreAlerts(eventPreAlerts, eventPreAlertsMap);
-        putTerritoryEvents(territoryEvents, territoryEventsMap);
-        putTerritoryPreAlerts(territoryPreAlerts, territoryPreAlertsMap);
+        putSubdivisionEvents(territoryEvents, territoryEventsMap);
+        putSubdivisionPreAlerts(territoryPreAlerts, territoryPreAlertsMap);
         eventsJSON = getEventsJSON(eventsMap);
 
         if(handler != null) {
