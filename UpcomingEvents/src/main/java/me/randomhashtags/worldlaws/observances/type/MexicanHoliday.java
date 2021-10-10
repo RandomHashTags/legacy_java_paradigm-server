@@ -6,7 +6,7 @@ import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.Month;
 
-public enum MexicanHoliday implements IHoliday {
+public enum MexicanHoliday implements IHoliday { // https://en.wikipedia.org/wiki/Public_holidays_in_Mexico
 
     CINCO_DE_MAYO,
     CRY_OF_DOLORES,

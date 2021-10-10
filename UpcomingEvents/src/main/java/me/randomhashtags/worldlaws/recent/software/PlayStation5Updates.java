@@ -33,13 +33,19 @@ public enum PlayStation5Updates implements RecentEventController {
             final EventDate date = new EventDate(month, day, year);
             if(date.getLocalDate().isAfter(startingDate)) {
                 final Elements updateNotesElements = box.select("div.inlineAccordion div.accordion div.accordion__item-description div div.textblock").get(1).select("div.text-block");
-                final String[] updateNotesValues = updateNotesElements.select("p").get(0).text().split(" ");
+                final Elements paragraphs = updateNotesElements.select("p");
+                final String[] updateNotesValues = paragraphs.get(0).text().split(" ");
                 final String updateNotesTitle = "PS5 " + updateNotesValues[1] + " system update";
                 final StringBuilder description = new StringBuilder();
                 boolean isFirst = true;
-                for(Element element : updateNotesElements.select("ul").get(0).select("li")) {
-                    description.append(isFirst ? "" : "\n").append(element.text());
-                    isFirst = false;
+                final Elements updateNotesList = updateNotesElements.select("ul");
+                if(!updateNotesList.isEmpty()) {
+                    for(Element element : updateNotesElements.select("ul").get(0).select("li")) {
+                        description.append(isFirst ? "" : "\n").append(element.text());
+                        isFirst = false;
+                    }
+                } else {
+                    description.append(paragraphs.get(1).text());
                 }
                 final PreRecentEvent event = new PreRecentEvent(date, updateNotesTitle, description.toString(), null, new EventSources(new EventSource("PlayStation Support: PS5 System Software", url)));
                 final HashSet<PreRecentEvent> hashset = new HashSet<>() {{ add(event); }};

@@ -22,10 +22,14 @@ public enum UpcomingEventType {
     public static String getTypesJSON() {
         final JSONObject json = new JSONObject();
         for(UpcomingEventType type : UpcomingEventType.values()) {
+            final String imageURLPrefix = type.getImageURLPrefix();
             final JSONObject typeJSON = new JSONObject();
             typeJSON.put("singularName", type.getSingularName());
             typeJSON.put("pluralName", type.getPluralName());
             typeJSON.put("singularNotificationDescription", type.getSingularNotificationDescription());
+            if(imageURLPrefix != null) {
+                typeJSON.put("imageURLPrefix", imageURLPrefix);
+            }
             json.put(type.getID(), typeJSON);
         }
         return json.toString();
@@ -33,6 +37,29 @@ public enum UpcomingEventType {
 
     public String getID() {
         return name().toLowerCase();
+    }
+
+    public String optimizeImageURL(String imageURL) {
+        if(imageURL != null) {
+            final String prefix = getImageURLPrefix();
+            if(prefix != null && imageURL.startsWith(prefix)) {
+                return imageURL.substring(prefix.length());
+            }
+        }
+        return imageURL;
+    }
+    public String getImageURLPrefix() {
+        switch (this) {
+            case MUSIC_ALBUM:
+            case SPORT_UFC:
+            case VIDEO_GAME:
+                return "https://upload.wikimedia.org/wikipedia/en/thumb/";
+            case SPACE_EVENT:
+            case SPACE_ROCKET_LAUNCH:
+                return "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/";
+            case TV_SHOW: return "https://static.tvmaze.com/uploads/images/original_untouched/";
+            default: return null;
+        }
     }
     public String getSingularName() {
         switch (this) {
@@ -73,8 +100,8 @@ public enum UpcomingEventType {
     public String getSingularNotificationDescription() {
         final String suffix = " Open for details.";
         switch (this) {
-            case MOVIE: return "%title% is making its cinematic debut today!" + suffix;
-            case MUSIC_ALBUM: return "%title% by %artist% releases today!" + suffix;
+            case MOVIE: return "\"%title%\" is making its cinematic debut today!" + suffix;
+            case MUSIC_ALBUM: return "\"%title%\" by %artist% releases today!" + suffix;
 
             case SPACE_EVENT: return "%title% is scheduled for today!" + suffix;
             case SPACE_NEAR_EARTH_OBJECT: return "A near earth object is close by!" + suffix;
@@ -84,8 +111,8 @@ public enum UpcomingEventType {
             case SPORT_MLB: return "%team% has a game today!" + suffix;
             case SPORT_UFC: return "%title% is tonight!" + suffix;
 
-            case TV_SHOW: return "%title% has new episodes available!" + suffix;
-            case VIDEO_GAME: return "%title% releases today!" + suffix;
+            case TV_SHOW: return "\"%title%\" has new episodes available!" + suffix;
+            case VIDEO_GAME: return "\"%title%\" releases today!" + suffix;
             default: return "Unknown Notification Description!";
         }
     }

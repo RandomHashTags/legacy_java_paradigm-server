@@ -89,7 +89,6 @@ public enum UnitedNationHoliday implements IHoliday {
     WORLD_WILDLIFE_DAY,
 
     ZERO_DISCRIMINATION_DAY,
-
     ;
 
     private final String wikipediaName;
@@ -114,7 +113,7 @@ public enum UnitedNationHoliday implements IHoliday {
     @Override
     public String[] getAliases() {
         switch (this) {
-            case INTERNATIONAL_DAY_OF_LIGHT: return new String[] { "Light Day" };
+            case INTERNATIONAL_DAY_OF_LIGHT: return collectAliases("Light Day");
             default: return null;
         }
     }
@@ -187,14 +186,14 @@ public enum UnitedNationHoliday implements IHoliday {
     }
 
     @Override
-    public EventSources getOtherSources() {
+    public EventSources getSources(WLCountry country) {
         switch (this) {
             case INTERNATIONAL_DAY_OF_LIGHT:
                 return new EventSources(
                         new EventSource("Official Website", "https://www.lightday.org")
                 );
             default:
-                return null;
+                return getDefaultSources();
         }
     }
 }

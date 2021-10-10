@@ -119,7 +119,7 @@ public enum MLB implements USAUpcomingEventController {
         final String awayTeam = (String) preUpcomingEvent.getCustomValue("awayTeam"), homeTeam = (String) preUpcomingEvent.getCustomValue("homeTeam");
 
         final MLBEvent event = new MLBEvent(title, awayTeam, homeTeam, null, sources);
-        final String string = event.toJSON();
+        final String string = event.toString();
         upcomingEvents.put(id, string);
         handler.handleString(string);
     }

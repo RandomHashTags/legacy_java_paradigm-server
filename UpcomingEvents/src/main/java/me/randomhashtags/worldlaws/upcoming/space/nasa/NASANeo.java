@@ -64,7 +64,7 @@ public enum NASANeo implements USAUpcomingEventController {
 
                     final String id = (month + "-" + year + "-" + day) + "." + name.replace(" ", "");
                     final NearEarthObject neo = new NearEarthObject(name, closeApproachEpoch, isPotentiallyHazardousAsteroid, estimatedDiameterMin, estimatedDiameterMax, relativeVelocity);
-                    upcomingEvents.put(id, neo.toJSON());
+                    upcomingEvents.put(id, neo.toString());
                 });
                 handler.handleString(null);
             }
@@ -75,13 +75,13 @@ public enum NASANeo implements USAUpcomingEventController {
     public void loadUpcomingEvent(String id, CompletionHandler handler) {
     }
 
-    private final class NearEarthObject implements UpcomingEvent {
-        private final String name, relativeVelocity;
+    private final class NearEarthObject extends UpcomingEvent {
+        private final String relativeVelocity;
         private final boolean potentiallyHazardous;
         private final float closeApproachEpoch, estimatedDiameterMin, estimatedDiameterMax;
 
         public NearEarthObject(String name, long closeApproachEpoch, boolean potentiallyHazardous, float estimatedDiameterMin, float estimatedDiameterMax, String relativeVelocity) {
-            this.name = name;
+            super("NEO: " + name, "Near earth object description??", null, null, null, new EventSources(new EventSource("NASA", "https://cneos.jpl.nasa.gov")));
             this.closeApproachEpoch = closeApproachEpoch;
             this.potentiallyHazardous = potentiallyHazardous;
             this.estimatedDiameterMin = estimatedDiameterMin;
@@ -90,28 +90,8 @@ public enum NASANeo implements USAUpcomingEventController {
         }
 
         @Override
-        public String getTitle() {
-            return "NEO: " + name;
-        }
-
-        @Override
-        public String getDescription() {
-            return "Near earth object description???";
-        }
-
-        @Override
-        public String getImageURL() {
-            return null;
-        }
-
-        @Override
-        public String getLocation() {
-            return null;
-        }
-
-        @Override
-        public EventSources getSources() {
-            return new EventSources(new EventSource("NASA", "https://cneos.jpl.nasa.gov"));
+        public UpcomingEventType getType() {
+            return UpcomingEventType.SPACE_NEAR_EARTH_OBJECT;
         }
 
         @Override

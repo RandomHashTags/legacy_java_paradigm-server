@@ -2,30 +2,20 @@ package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
 import me.randomhashtags.worldlaws.observances.type.ChristianHoliday;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum FathersDay implements IHoliday {
+public enum FathersDay implements CustomIHoliday {
     INSTANCE;
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return null;
-    }
-
-    @Override
     public String getOfficialName() {
-        return null;
+        return "Father's Day";
     }
 
     @Override
-    public String[] getAliases() {
-        return null;
-    }
-
     public EventDate getDate(WLCountry country, int year) {
         switch (country) {
             case AFGHANISTAN:

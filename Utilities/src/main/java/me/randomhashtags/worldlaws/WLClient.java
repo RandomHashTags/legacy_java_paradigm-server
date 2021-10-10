@@ -5,6 +5,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.Reader;
 import java.net.Socket;
+import java.net.SocketException;
 
 public final class WLClient extends Thread {
     private final Socket httpClient;
@@ -83,10 +84,11 @@ public final class WLClient extends Thread {
                     int c;
                     while ((c = reader.read()) != -1) {
                         headers += (char) c;
-                        if(headers.contains("\r\n\r\n")) {
+                        if (headers.contains("\r\n\r\n")) {
                             break;
                         }
                     }
+                } catch (SocketException ignored) {
                 } catch (Exception e) {
                     WLUtilities.saveException(e);
                 }

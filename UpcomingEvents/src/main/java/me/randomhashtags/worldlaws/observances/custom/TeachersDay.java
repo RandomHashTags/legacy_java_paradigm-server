@@ -1,30 +1,22 @@
 package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum TeachersDay implements IHoliday {
+public enum TeachersDay implements CustomIHoliday {
     INSTANCE;
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return null;
-    }
-
-    @Override
     public String getOfficialName() {
-        return null;
+        return "Teacher's Day";
     }
 
     @Override
-    public String[] getAliases() {
-        return null;
-    }
-
     public EventDate getDate(WLCountry country, int year) {
         switch (country) {
             case ALBANIA:
@@ -135,5 +127,10 @@ public enum TeachersDay implements IHoliday {
             case VIETNAM: return new EventDate(Month.NOVEMBER, 20, year);
         }
         return null;
+    }
+
+    @Override
+    public EventSources getSources(WLCountry country) {
+        return collectSources(new EventSource(WIKIPEDIA + "List of Teacher's Days", "https://en.wikipedia.org/wiki/List_of_Teachers'_Days"));
     }
 }

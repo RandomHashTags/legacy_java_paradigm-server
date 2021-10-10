@@ -14,8 +14,8 @@ public final class Weather implements WLServer {
     }
 
     private void tryLoading() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override

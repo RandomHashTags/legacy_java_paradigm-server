@@ -3,42 +3,24 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEvent;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONObject;
 
-public final class MusicAlbumEvent implements UpcomingEvent {
-    private final String artist, album, albumImageURL, description;
+public final class MusicAlbumEvent extends UpcomingEvent {
+    private final String artist;
     private final JSONObject spotifyDetails;
-    private final EventSources sources;
 
     public MusicAlbumEvent(String artist, String album, String albumImageURL, String description, JSONObject spotifyDetails, EventSources sources) {
+        super(album, description, albumImageURL, null, null, sources);
         this.artist = LocalServer.fixEscapeValues(artist);
-        this.album = LocalServer.fixEscapeValues(album);
-        this.albumImageURL = albumImageURL;
-        this.description = description;
         this.spotifyDetails = spotifyDetails;
-        this.sources = sources;
     }
 
     @Override
-    public String getTitle() {
-        return album;
+    public UpcomingEventType getType() {
+        return UpcomingEventType.MUSIC_ALBUM;
     }
-    @Override
-    public String getDescription() {
-        return description;
-    }
-    @Override
-    public String getImageURL() {
-        return albumImageURL;
-    }
-    @Override
-    public String getLocation() {
-        return null;
-    }
-    @Override
-    public EventSources getSources() {
-        return sources;
-    }
+
     @Override
     public String getPropertiesJSONObject() {
         return "{" +

@@ -4,12 +4,8 @@ import java.io.File;
 import java.util.concurrent.ConcurrentHashMap;
 
 public enum Folder {
-    AVAILABILITIES("availabilities"),
-
     COUNTRIES,
     COUNTRIES_AVAILABILITIES,
-    COUNTRIES_COUNTRIES,
-    COUNTRIES_SUBDIVISIONS,
     COUNTRIES_HISTORY,
     COUNTRIES_LEGALITIES,
     COUNTRIES_NATIONAL,
@@ -18,35 +14,37 @@ public enum Folder {
     COUNTRIES_INFO,
     COUNTRIES_INFORMATION,
     COUNTRIES_SERVICES,
+    COUNTRIES_SERVICES_AVAILABILITIES,
     COUNTRIES_SERVICES_TRAVEL_BRIEFING("countries" + File.separator + "services" + File.separator + "travel briefing"),
     COUNTRIES_SERVICES_WIKIPEDIA,
     COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES("countries" + File.separator + "services" + File.separator + "wikipedia" + File.separator + "featured pictures"),
     COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES_MEDIA("countries" + File.separator + "services" + File.separator + "wikipedia" + File.separator + "featured pictures" + File.separator + "media"),
-
+    COUNTRIES_SUBDIVISIONS,
+    COUNTRIES_SUBDIVISIONS_WIKIPEDIA_PAGES("countries" + File.separator + "subdivisions" + File.separator + "wikipediaPages"), // TODO: split into respective country
+    COUNTRIES_SUBDIVISIONS_CITIES,
+    COUNTRIES_SUBDIVISIONS_INFORMATION("countries" + File.separator + "subdivisions" + File.separator + "information" + File.separator + "%country%"),
+    COUNTRIES_SUBDIVISIONS_SERVICES_WIKIPEDIA,
     COUNTRIES_VALUES,
+    COUNTRIES_WIKIPEDIA_PAGES("countries" + File.separator + "wikipediaPages"),
 
     LAWS_USA_MEMBERS,
     LAWS_USA_CONGRESS("laws" + File.separator + "usa" + File.separator + "congress" + File.separator + "%version%"),
 
-    SERVICES_FINANCE_YAHOO_TWELVE_DATA_CHARTS("services" + File.separator + "finance" + File.separator + "twelveData" + File.separator + "charts"),
+    SERVICES_FINANCE_TWELVE_DATA_CHARTS("services" + File.separator + "finance" + File.separator + "twelveData" + File.separator + "charts"),
     SERVICES_FINANCE_YAHOO_FINANCE_CHARTS("services" + File.separator + "finance" + File.separator + "yahooFinance" + File.separator + "charts"),
 
-    SUBDIVISIONS,
-    SUBDIVISIONS_SUBDIVISIONS, // TODO: split into respective country
-    SUBDIVISIONS_CITIES,
-    SUBDIVISIONS_INFORMATION("subdivisions" + File.separator + "information" + File.separator + "%country%"),
-    SUBDIVISIONS_SERVICES_WIKIPEDIA,
-
-    OTHER(null),
+    ERRORS("errors" + File.separator + "%errorName%"),
+    FEEDBACK_BUG_REPORTS("feedback" + File.separator + "bug reports"),
+    FEEDBACK_FEATURE_REQUEST("feedback" + File.separator + "feature request"),
     LOGS,
-    LOGS_ERRORS("logs" + File.separator + "errors" + File.separator + "%errorName%"),
+    OTHER(null),
 
-    UPCOMING_EVENTS("upcoming events"),
+    UPCOMING_EVENTS,
     UPCOMING_EVENTS_YEAR_DAY("upcoming events" + File.separator + "%year%" + File.separator + "%day%"),
     UPCOMING_EVENTS_IDS("upcoming events" + File.separator + "%year%" + File.separator + "ids" + File.separator + "%month%" + File.separator + "%day%"),
     UPCOMING_EVENTS_HOLIDAYS("upcoming events" + File.separator + "holidays" + File.separator + "%year%"),
-    UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS("upcoming events" + File.separator + "holidays" + File.separator + "descriptions"),
-    UPCOMING_EVENTS_TV_SHOWS("upcoming events" + File.separator + "tv shows"),
+    UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS,
+    UPCOMING_EVENTS_TV_SHOWS,
     WEATHER_USA_ZONES,
     ;
 
@@ -54,7 +52,9 @@ public enum Folder {
     private final ConcurrentHashMap<String, String> ids;
 
     Folder() {
-        this.folderName = name().toLowerCase().replace("_", File.separator);
+        this.folderName = name().toLowerCase()
+                .replace("upcoming_events", "upcoming events")
+                .replace("_", File.separator);
         ids = new ConcurrentHashMap<>();
     }
     Folder(String folderName) {
@@ -76,7 +76,19 @@ public enum Folder {
     }
 
     public String getFolderPath(String id) {
-        final String folderName = getFolderName(id);
-        return Jsonable.USER_DIR + "downloaded_pages" + File.separator + (folderName != null ? folderName :this.folderName);
+        final String currentFolder = Jsonable.USER_DIR;
+        String folderName = getFolderName(id);
+        if(folderName == null) {
+            folderName = this.folderName;
+        }
+        switch (this) {
+            case FEEDBACK_BUG_REPORTS:
+            case FEEDBACK_FEATURE_REQUEST:
+            case LOGS:
+            case ERRORS:
+                return currentFolder + "_" + folderName;
+            default:
+                return currentFolder + "_downloaded_pages" + File.separator + folderName;
+        }
     }
 }

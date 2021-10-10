@@ -52,7 +52,7 @@ public interface SovereignStateSubdivision extends WikipediaService {
     }
 
     default void getInformation(CompletionHandler handler) {
-        final Folder folder = Folder.SUBDIVISIONS_INFORMATION;
+        final Folder folder = Folder.COUNTRIES_SUBDIVISIONS_INFORMATION;
         final String fileName = name();
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", getCountry().getBackendID()));
         getJSONObject(folder, fileName, new CompletionHandler() {

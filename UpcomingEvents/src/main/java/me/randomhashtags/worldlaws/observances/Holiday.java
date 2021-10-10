@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws.observances;
 
+import me.randomhashtags.worldlaws.EventSources;
+
 import java.util.HashSet;
 
 public interface Holiday {
@@ -7,5 +9,5 @@ public interface Holiday {
     String getEnglishName();
     String[] getAliases();
     String getDescription();
-    String getLearnMoreURL();
+    EventSources getSources();
 }

@@ -185,7 +185,7 @@ public enum Movies implements UpcomingEventController, IMDbService {
                                         break;
                                 }
                                 if(externalSource != null) {
-                                    externalSources.addSource(externalSource);
+                                    externalSources.append(externalSource);
                                 }
                             }
                         }
@@ -207,7 +207,7 @@ public enum Movies implements UpcomingEventController, IMDbService {
 
             final EventSource wikipage = new EventSource("Wikipedia: " + wikiDoc.getPageName(), url);
             final EventSources sources = new EventSources(wikipage);
-            sources.addSources(externalSources);
+            sources.append(externalSources);
             final Elements targetImage = wikidoc.select("div.mw-parser-output table.infobox tbody tr td a img");
             final String imageSourceURL = !targetImage.isEmpty() ? targetImage.get(0).attr("src") : null;
             final String imageURL = imageSourceURL != null ? "https:" + imageSourceURL : null;
@@ -254,7 +254,7 @@ public enum Movies implements UpcomingEventController, IMDbService {
                         movieImageURL = imageURL;
                     }
                     final MovieEvent movie = new MovieEvent(title, premiseFinal, movieImageURL, productionCompany, releaseInfoFinal, imdbJSON, ratingsString, youtubeVideoIDs, sources);
-                    final String string = movie.toJSON();
+                    final String string = movie.toString();
                     upcomingEvents.put(id, string);
                     handler.handleString(string);
                 }

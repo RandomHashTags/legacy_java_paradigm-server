@@ -118,7 +118,7 @@ public enum NASA_EONET implements WLService {
                             for(Object sourceObj : sourcesArray) {
                                 final JSONObject sourceJSON = (JSONObject) sourceObj;
                                 final String siteName = sourceJSON.getString("id"), url = sourceJSON.getString("url").replace("&amp;", "&");
-                                sources.addSource(new EventSource(siteName, url));
+                                sources.append(new EventSource(siteName, url));
                             }
 
                             final NaturalEvent naturalEvent = new NaturalEvent(id, place, country, location, sources);

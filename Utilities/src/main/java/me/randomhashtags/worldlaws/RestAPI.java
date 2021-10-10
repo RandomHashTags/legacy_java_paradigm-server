@@ -13,12 +13,13 @@ import java.util.AbstractMap;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 public interface RestAPI {
     HashMap<String, String> CONTENT_HEADERS = new HashMap<>() {{
         put("Content-Type", "application/json");
     }};
-    HashMap<String, HashSet<CompletionHandler>> PENDING_SAME_REQUESTS = new HashMap<>();
+    ConcurrentHashMap<String, HashSet<CompletionHandler>> PENDING_SAME_REQUESTS = new ConcurrentHashMap<>();
 
     default void requestJSONArray(String url, RequestMethod method, CompletionHandler handler) {
         requestJSONArray(url, method, CONTENT_HEADERS, handler);
@@ -75,7 +76,7 @@ public interface RestAPI {
         request(targetURL, true, method, headers, query, handler);
     }
     default void request(String targetURL, boolean isLimited, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query, CompletionHandler handler) {
-        final boolean isLocal = targetURL.startsWith("http://localhost") || targetURL.startsWith("http://192.168.1.96:0");
+        final boolean isLocal = targetURL.startsWith("http://localhost");
 
         final StringBuilder target = new StringBuilder(targetURL);
         int i = 0;

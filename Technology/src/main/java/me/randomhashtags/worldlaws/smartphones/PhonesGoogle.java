@@ -151,13 +151,13 @@ public enum PhonesGoogle implements SmartphoneCompany {
             final EventSource source = new EventSource("Wikipedia: " + os, "https://en.wikipedia.org" + element.select("a").get(0).attr("href"));
             if(span == -1) {
                 builders.get(index).setDetail(SmartphoneDetailType.OPERATING_SYSTEM_LATEST, os);
-                sources.get(index).addSource(source);
+                sources.get(index).append(source);
             } else {
                 final int max = Math.min(span, maxPhones);
                 for(int i = 0; i < max; i++) {
                     final int value = index+i;
                     builders.get(value).setDetail(SmartphoneDetailType.OPERATING_SYSTEM_LATEST, os);
-                    sources.get(value).addSource(source);
+                    sources.get(value).append(source);
                 }
             }
             index++;
@@ -201,7 +201,7 @@ public enum PhonesGoogle implements SmartphoneCompany {
         for(Map.Entry<Integer, Smartphone> map : builders.entrySet()) {
             index = map.getKey();
             final EventSources eventSources = sources.get(index);
-            eventSources.addSource(wikipedia);
+            eventSources.append(wikipedia);
             final Smartphone smartphone = map.getValue();
             smartphone.setDetail(SmartphoneDetailType.SOURCES, eventSources.toString());
             smartphones.add(smartphone);

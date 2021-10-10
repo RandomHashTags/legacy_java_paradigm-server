@@ -2,39 +2,22 @@ package me.randomhashtags.worldlaws.upcoming.sports;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEvent;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 
-public final class MLBEvent implements UpcomingEvent {
-    private final String event, awayTeam, homeTeam, location;
-    private final EventSources sources;
+public final class MLBEvent extends UpcomingEvent {
+    private final String awayTeam, homeTeam;
 
     public MLBEvent(String event, String awayTeam, String homeTeam, String location, EventSources sources) {
-        this.event = event;
+        super(event, null, null, location, null, sources);
         this.awayTeam = awayTeam;
         this.homeTeam = homeTeam;
-        this.location = location;
-        this.sources = sources;
     }
 
     @Override
-    public String getTitle() {
-        return event;
+    public UpcomingEventType getType() {
+        return UpcomingEventType.SPORT_MLB;
     }
-    @Override
-    public String getDescription() {
-        return null;
-    }
-    @Override
-    public String getImageURL() {
-        return null;
-    }
-    @Override
-    public String getLocation() {
-        return location;
-    }
-    @Override
-    public EventSources getSources() {
-        return sources;
-    }
+
     @Override
     public String getPropertiesJSONObject() {
         return "{" +

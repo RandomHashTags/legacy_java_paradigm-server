@@ -11,7 +11,6 @@ import me.randomhashtags.worldlaws.upcoming.entertainment.VideoGames;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
-import me.randomhashtags.worldlaws.upcoming.sports.MLB;
 import me.randomhashtags.worldlaws.upcoming.sports.UFC;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
@@ -46,8 +45,8 @@ public final class UpcomingEvents implements WLServer {
     private String typesJSON;
 
     private void initialize() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -56,11 +55,7 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final MLB mlb = MLB.INSTANCE;
-        final HashSet<String> dates = new HashSet<>() {{
-            add(getEventStringForDate(LocalDate.now()));
-        }};
-        mlb.getEventsFromDates(dates, new CompletionHandler() {
+        Holidays.INSTANCE.getResponse("all/unitedstates", new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 WLLogger.log(Level.INFO, "UpcomingEvents;test;string=" + string);

@@ -6,22 +6,49 @@ import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.PreUpcomingEvent;
 import org.json.JSONArray;
 
-public interface UpcomingEvent extends Jsoupable {
-    String getTitle();
-    String getDescription();
-    String getImageURL();
-    String getLocation();
-    default JSONArray getYouTubeVideoIDs() {
-        return null;
-    }
-    EventSources getSources();
-    String getPropertiesJSONObject();
+public abstract class UpcomingEvent implements Jsoupable {
 
-    default String toPreUpcomingEventJSON(String id, String tag) {
-        return new PreUpcomingEvent(id, getTitle(), null, tag).toStringWithImageURL(getImageURL());
+    private final String title, description, imageURL, location;
+    private final JSONArray youtubeVideoIDs;
+    private final EventSources sources;
+
+    public UpcomingEvent(String title, String description, String imageURL, String location, JSONArray youtubeVideoIDs, EventSources sources) {
+        this.title = title;
+        this.description = description;
+        this.imageURL = imageURL;
+        this.location = location;
+        this.youtubeVideoIDs = youtubeVideoIDs;
+        this.sources = sources;
     }
 
-    default String toJSON() {
+    public abstract UpcomingEventType getType();
+    public abstract String getPropertiesJSONObject();
+
+    public String getTitle() {
+        return title;
+    }
+    public String getDescription() {
+        return description;
+    }
+    public String getImageURL() {
+        return imageURL;
+    }
+    public String getLocation() {
+        return location;
+    }
+    public JSONArray getYouTubeVideoIDs() {
+        return youtubeVideoIDs;
+    }
+    public EventSources getSources() {
+        return sources;
+    }
+
+    public String toPreUpcomingEventJSON(UpcomingEventType type, String id, String tag) {
+        return new PreUpcomingEvent(id, getTitle(), null, tag).toStringWithImageURL(type, getImageURL());
+    }
+
+    @Override
+    public String toString() {
         final String imageURL = getImageURL(), properties = getPropertiesJSONObject(), location = getLocation();
         final String description = LocalServer.fixEscapeValues(removeReferences(getDescription()));
         final JSONArray youtubeVideoIDs = getYouTubeVideoIDs();

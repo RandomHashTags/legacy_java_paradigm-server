@@ -3,21 +3,17 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEvent;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
 
-public final class TVShowEvent implements UpcomingEvent {
+public final class TVShowEvent extends UpcomingEvent {
 
-    private final String title, description, imageURL, language, countryCode, officialSite, network, episodeName, episodeSummary;
-    private final JSONArray youtubeVideoIDs;
+    private final String language, countryCode, officialSite, network, episodeName, episodeSummary;
     private final int runtimeMinutes, season, episode;
     private final JSONArray genres;
-    private final EventSources sources;
 
     public TVShowEvent(String title, String description, String imageURL, JSONArray youtubeVideoIDs, String language, String countryCode, String officialSite, String network, int runtimeMinutes, int season, int episode, String episodeName, String episodeSummary, JSONArray genres, EventSources sources) {
-        this.title = LocalServer.fixEscapeValues(title);
-        this.description = LocalServer.fixEscapeValues(description);
-        this.imageURL = imageURL;
-        this.youtubeVideoIDs = youtubeVideoIDs;
+        super(title, description, imageURL, null, youtubeVideoIDs, sources);
         this.language = language;
         this.countryCode = countryCode;
         this.officialSite = officialSite;
@@ -28,37 +24,11 @@ public final class TVShowEvent implements UpcomingEvent {
         this.episodeName = LocalServer.fixEscapeValues(episodeName);
         this.episodeSummary = LocalServer.fixEscapeValues(episodeSummary);
         this.genres = genres;
-        this.sources = sources;
     }
 
     @Override
-    public String getTitle() {
-        return title;
-    }
-
-    @Override
-    public String getDescription() {
-        return description;
-    }
-
-    @Override
-    public String getImageURL() {
-        return imageURL;
-    }
-
-    @Override
-    public String getLocation() {
-        return null;
-    }
-
-    @Override
-    public JSONArray getYouTubeVideoIDs() {
-        return youtubeVideoIDs;
-    }
-
-    @Override
-    public EventSources getSources() {
-        return sources;
+    public UpcomingEventType getType() {
+        return UpcomingEventType.TV_SHOW;
     }
 
     @Override

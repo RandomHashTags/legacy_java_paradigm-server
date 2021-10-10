@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.observances.type;
 
 import me.randomhashtags.worldlaws.EventDate;
+import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.observances.IHoliday;
 import me.randomhashtags.worldlaws.observances.custom.*;
@@ -94,28 +95,36 @@ public enum SocialHoliday implements IHoliday {
 
     @Override
     public String getOfficialName() {
+        final IHoliday holiday = getHoliday();
+        if(holiday != null) {
+            final String name = holiday.getOfficialName();
+            if(name != null) {
+                return name;
+            }
+        }
         return wikipediaName;
     }
 
     @Override
     public String[] getAliases() {
+        final IHoliday holiday = getHoliday();
+        if(holiday != null) {
+            return holiday.getAliases();
+        }
         switch (this) {
-            case BLACK_AWARENESS_DAY: return new String[] { "Black Consciousness Day", "Zumbi Day" };
-            case BOXING_DAY: return new String[] { "Offering Day" };
-            case DAY_OF_VALOR: return new String[] { "Bataan Day", "Bataan and Corregidor Day" };
-            case HEROES_DAY: return new String[] { "National Heroes' Day" };
-            case INTERNATIONAL_WORKERS_DAY: return new String[] { "Labour Day", "May Day" };
-            case KOREAN_ALPHABET_DAY: return new String[] { "Hangul Day", "Chosŏn'gŭl Day" };
-            case VETERANS_DAY: return new String[] { "Armistice Day" };
+            case BLACK_AWARENESS_DAY: return collectAliases("Black Consciousness Day", "Zumbi Day");
+            case KOREAN_ALPHABET_DAY: return collectAliases("Hangul Day", "Chosŏn'gŭl Day");
             default: return null;
         }
     }
 
     @Override
     public EventDate getDate(WLCountry country, int year) {
+        final IHoliday holiday = getHoliday();
+        if(holiday != null) {
+            return holiday.getDate(country, year);
+        }
         switch (this) {
-            case AFRICA_DAY: return AfricaDay.INSTANCE.getDate(country, year);
-            case ARMED_FORCES_DAY: return ArmedForcesDay.INSTANCE.getDate(country, year);
             case BLACK_AWARENESS_DAY:
                 switch (country) {
                     case BRAZIL: return new EventDate(Month.NOVEMBER, 20, year);
@@ -124,15 +133,9 @@ public enum SocialHoliday implements IHoliday {
             case BLACK_FRIDAY:
                 final EventDate thanksgiving = THANKSGIVING.getDate(WLCountry.UNITED_STATES, year);
                 return thanksgiving != null ? thanksgiving.plusDays(1) : null;
-            case BOXING_DAY: return BoxingDay.INSTANCE.getDate(country, year);
-            case CONSTITUTION_DAY: return ConstitutionDay.INSTANCE.getDate(country, year);
             case CYBER_MONDAY:
                 final EventDate blackFriday = BLACK_FRIDAY.getDate(country, year);
                 return blackFriday != null ? blackFriday.plusDays(3) : null;
-            case DAY_OF_VALOR: return DayOfValor.INSTANCE.getDate(country, year);
-            case EMANCIPATION_DAY: return EmancipationDay.INSTANCE.getDate(country, year);
-            case FARMERS_DAY: return FarmersDay.INSTANCE.getDate(country, year);
-            case FATHERS_DAY: return FathersDay.INSTANCE.getDate(country, year);
             case GERMAN_UNITY_DAY:
                 switch (country) {
                     case GERMANY: return new EventDate(Month.OCTOBER, 3, year);
@@ -146,15 +149,7 @@ public enum SocialHoliday implements IHoliday {
                     default:
                         return null;
                 }
-            case HEROES_DAY: return HeroesDay.INSTANCE.getDate(country, year);
 
-            case INTERNATIONAL_WORKERS_DAY:
-                switch (country) {
-                    case GERMANY:
-                    case SWEDEN:
-                        return new EventDate(Month.MAY, 1, year);
-                    default: return null;
-                }
             case ORANGE_SHIRT_DAY:
                 switch (country) {
                     case CANADA: return new EventDate(Month.SEPTEMBER, 30, year);
@@ -166,28 +161,9 @@ public enum SocialHoliday implements IHoliday {
                     case SOUTH_KOREA: return new EventDate(Month.OCTOBER, 9, year);
                     default: return null;
                 }
-            case LABOUR_DAY: return LabourDay.INSTANCE.getDate(country, year);
             case LABOUR_SAFETY_DAY:
                 switch (country) {
                     case BANGLADESH: return new EventDate(Month.APRIL, 24, year);
-                    default: return null;
-                }
-            case LIBERATION_DAY: return LiberationDay.INSTANCE.getDate(country, year);
-            case MARTYRS_DAY: return MartyrsDay.INSTANCE.getDate(country, year);
-            case MAY_DAY:
-                switch (country) {
-                    case BULGARIA:
-                    case CANADA:
-                    case CZECH_REPUBLIC:
-                    case ESTONIA:
-                    case FINLAND:
-                    case FRANCE:
-                    case GERMANY:
-                    case GREECE:
-                    case IRELAND:
-                    case ITALY:
-                    case SCOTLAND:
-                        return new EventDate(Month.MAY, 1, year);
                     default: return null;
                 }
             case MOTHERHOOD_AND_BEAUTY_DAY:
@@ -195,7 +171,6 @@ public enum SocialHoliday implements IHoliday {
                     case ARMENIA: return new EventDate(Month.APRIL, 7, year);
                     default: return null;
                 }
-            case MOTHERS_DAY: return MothersDay.INSTANCE.getDate(country, year);
             case NATIONAL_CANCER_SURVIVORS_DAY:
                 switch (country) {
                     case ANTIGUA_AND_BARBUDA:
@@ -209,14 +184,41 @@ public enum SocialHoliday implements IHoliday {
                     case SPAIN: return new EventDate(Month.OCTOBER, 12, year);
                     default: return null;
                 }
-            case NATIONAL_SCIENCE_DAY: return NationalScienceDay.INSTANCE.getDate(country, year);
-            case REPUBLIC_DAY: return RepublicDay.INSTANCE.getDate(country, year);
-            case TEACHERS_DAY: return TeachersDay.INSTANCE.getDate(country, year);
-            case THANKSGIVING: return Thanksgiving.INSTANCE.getDate(country, year);
-            case VETERANS_DAY: return VeteransDay.INSTANCE.getDate(country, year);
-            case VICTORY_DAY: return VictoryDay.INSTANCE.getDate(country, year);
             default:
                 return null;
+        }
+    }
+
+    @Override
+    public EventSources getSources(WLCountry country) {
+        final IHoliday holiday = getHoliday();
+        return holiday != null ? holiday.getSources(country) : getDefaultSources();
+    }
+
+    private IHoliday getHoliday() {
+        switch (this) {
+            case AFRICA_DAY: return AfricaDay.INSTANCE;
+            case ARMED_FORCES_DAY: return ArmedForcesDay.INSTANCE;
+            case BOXING_DAY: return BoxingDay.INSTANCE;
+            case CONSTITUTION_DAY: return ConstitutionDay.INSTANCE;
+            case DAY_OF_VALOR: return DayOfValor.INSTANCE;
+            case EMANCIPATION_DAY: return EmancipationDay.INSTANCE;
+            case FARMERS_DAY: return FarmersDay.INSTANCE;
+            case FATHERS_DAY: return FathersDay.INSTANCE;
+            case HEROES_DAY: return HeroesDay.INSTANCE;
+            case INTERNATIONAL_WORKERS_DAY: return InternationalWorkersDay.INSTANCE;
+            case LABOUR_DAY: return LabourDay.INSTANCE;
+            case LIBERATION_DAY: return LiberationDay.INSTANCE;
+            case MARTYRS_DAY: return MartyrsDay.INSTANCE;
+            case MAY_DAY: return MayDay.INSTANCE;
+            case MOTHERS_DAY: return MothersDay.INSTANCE;
+            case NATIONAL_SCIENCE_DAY: return NationalScienceDay.INSTANCE;
+            case REPUBLIC_DAY: return RepublicDay.INSTANCE;
+            case TEACHERS_DAY: return TeachersDay.INSTANCE;
+            case THANKSGIVING: return Thanksgiving.INSTANCE;
+            case VETERANS_DAY: return VeteransDay.INSTANCE;
+            case VICTORY_DAY: return VictoryDay.INSTANCE;
+            default: return null;
         }
     }
 }

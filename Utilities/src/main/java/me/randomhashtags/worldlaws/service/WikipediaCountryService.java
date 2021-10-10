@@ -23,8 +23,8 @@ public final class WikipediaCountryService implements CountryService {
     private Elements featuredPicturesElements, nationalAnimalsElements;
 
     public WikipediaCountryService(boolean isCountries) {
-        this.folder = isCountries ? Folder.COUNTRIES_SERVICES_WIKIPEDIA : Folder.SUBDIVISIONS_SERVICES_WIKIPEDIA;
-        this.wikiFolder = isCountries ? Folder.COUNTRIES_COUNTRIES : Folder.SUBDIVISIONS_SUBDIVISIONS;
+        this.folder = isCountries ? Folder.COUNTRIES_SERVICES_WIKIPEDIA : Folder.COUNTRIES_SUBDIVISIONS_SERVICES_WIKIPEDIA;
+        this.wikiFolder = isCountries ? Folder.COUNTRIES_WIKIPEDIA_PAGES : Folder.COUNTRIES_SUBDIVISIONS_WIKIPEDIA_PAGES;
         this.featuredPicturesFolder = isCountries ? Folder.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES : null;
     }
 

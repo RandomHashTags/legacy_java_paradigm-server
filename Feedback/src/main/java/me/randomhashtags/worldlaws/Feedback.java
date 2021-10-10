@@ -1,16 +1,6 @@
 package me.randomhashtags.worldlaws;
 
-import org.apache.logging.log4j.Level;
-
-import java.io.File;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.Arrays;
-import java.util.List;
-
-public final class Feedback implements WLServer {
+public final class Feedback implements WLServer, Jsonable {
 
     public static void main(String[] args) {
         new Feedback();
@@ -33,16 +23,18 @@ public final class Feedback implements WLServer {
     public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
         final String[] values = target.split("/");
         final String key = values[0];
+        final String fileName = Long.toString(System.currentTimeMillis());
         switch (key) {
             case "bug_report":
+                setFileJSON(Folder.FEEDBACK_BUG_REPORTS, fileName, "{\"text\":\"test\"}");
+                break;
             case "feature_request":
-                final String text = "test";//getText(client.getHeaderList());
-                createFile(key + "s", text);
-                handler.handleString("{\"recorded\":true}");
+                setFileJSON(Folder.FEEDBACK_FEATURE_REQUEST, fileName, "{\"text\":\"test\"}");
                 break;
             default:
                 break;
         }
+        handler.handleString("{\"recorded\":true}");
     }
 
     @Override
@@ -63,23 +55,5 @@ public final class Feedback implements WLServer {
             }
         }
         return null;
-    }
-
-    private void createFile(String folder, String text) {
-        try {
-            final Path folderPath = Paths.get(folder);
-            if(!Files.exists(folderPath)) {
-                createFolder(folderPath);
-            }
-            final List<String> lines = Arrays.asList(text);
-            final Path path = Paths.get(folder + File.separator + System.currentTimeMillis() + ".txt");
-            WLLogger.log(Level.INFO, "Feedback;path=" + path.toAbsolutePath().toString());
-            Files.write(path, lines, StandardCharsets.UTF_8);
-        } catch (Exception e) {
-            WLUtilities.saveException(e);
-        }
-    }
-    private void createFolder(Path folder) throws Exception {
-        Files.createDirectory(folder);
     }
 }

@@ -169,7 +169,7 @@ public final class Countries implements WLServer {
                     final JSONObject json = (JSONObject) obj;
                     final String tag = json.getString("tag"), url = json.getString("url");
                     final String unStatus = json.has("unStatus") ? json.getString("unStatus") : null, sovereigntyDispute = json.has("sovereigntyDispute") ? json.getString("sovereigntyDispute") : null;
-                    final Document doc = getDocument(Folder.COUNTRIES_COUNTRIES, url, true);
+                    final Document doc = getDocument(Folder.COUNTRIES_WIKIPEDIA_PAGES, url, true);
                     final CustomCountry country = new CustomCountry(tag, unStatus, sovereigntyDispute, doc);
                     countriesMap.put(country.getBackendID(), country);
                     builder.append(isFirst ? "" : ",").append(country.toString());
@@ -185,9 +185,14 @@ public final class Countries implements WLServer {
             public void handleJSONObject(JSONObject countriesJSON) {
                 if(countriesCacheJSON == null) {
                     countriesCacheJSON = getLocalFileString(folder, fileName, "json");
+                    for(String name : countriesJSON.keySet()) {
+                        final JSONObject json = countriesJSON.getJSONObject(name);
+                        final CustomCountry country = new CustomCountry(name, json);
+                        countriesMap.put(country.getBackendID(), country);
+                    }
                 }
                 checkForMissingValues();
-                WLLogger.log(Level.INFO, "Countries - loaded " + countriesJSON.length() + " countries (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.log(Level.INFO, "Countries - loaded " + countriesMap.size() + " countries (took " + (System.currentTimeMillis()-started) + "ms)");
                 if(handler != null) {
                     handler.handleString(countriesCacheJSON);
                 }

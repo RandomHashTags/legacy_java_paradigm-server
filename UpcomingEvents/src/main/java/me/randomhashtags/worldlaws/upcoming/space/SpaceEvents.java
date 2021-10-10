@@ -30,6 +30,7 @@ public enum SpaceEvents implements LoadedUpcomingEventController {
     @Override
     public void load(CompletionHandler handler) {
         upcomingEvents = new HashMap<>();
+        final UpcomingEventType eventType = getType();
 
         final String url = "https://ll.thespacedevs.com/2.0.0/event/upcoming/?format=json&limit=50&offset=0";
         requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
@@ -59,8 +60,8 @@ public enum SpaceEvents implements LoadedUpcomingEventController {
 
                             final String id = getEventDateIdentifier(dateString, title);
                             final SpaceEvent event = new SpaceEvent(title, description, imageURL, location, sources);
-                            LOADED_PRE_UPCOMING_EVENTS.put(id, event.toPreUpcomingEventJSON(id, location));
-                            upcomingEvents.put(id, event.toJSON());
+                            putLoadedPreUpcomingEvent(id, event.toPreUpcomingEventJSON(eventType, id, location));
+                            upcomingEvents.put(id, event.toString());
                         }
 
                         if(completed.addAndGet(1) == max) {

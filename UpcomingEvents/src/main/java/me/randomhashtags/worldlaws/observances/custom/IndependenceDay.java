@@ -1,19 +1,15 @@
 package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum IndependenceDay implements IHoliday { // https://en.wikipedia.org/wiki/Category:Independence_days | https://en.wikipedia.org/wiki/List_of_national_independence_days
+public enum IndependenceDay implements CustomIHoliday {
     INSTANCE;
-
-    @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return null;
-    }
 
     @Override
     public String getOfficialName() {
@@ -21,10 +17,6 @@ public enum IndependenceDay implements IHoliday { // https://en.wikipedia.org/wi
     }
 
     @Override
-    public String[] getAliases() {
-        return null;
-    }
-
     public EventDate getDate(WLCountry country, int year) {
         switch (country) {
             case ABKHAZIA:
@@ -193,5 +185,12 @@ public enum IndependenceDay implements IHoliday { // https://en.wikipedia.org/wi
             case ZIMBABWE: return new EventDate(Month.APRIL, 18, year);
             default: return null;
         }
+    }
+
+    @Override
+    public EventSources getSources(WLCountry country) {
+        final EventSource category = new EventSource(WIKIPEDIA + "Category:Independence_days", "https://en.wikipedia.org/wiki/Category:Independence_days");
+        final EventSource list = new EventSource(WIKIPEDIA + "List of national independence days", "https://en.wikipedia.org/wiki/List_of_national_independence_days");
+        return collectSources(category, list);
     }
 }

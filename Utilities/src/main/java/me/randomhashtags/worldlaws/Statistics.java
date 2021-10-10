@@ -7,19 +7,19 @@ import org.json.JSONObject;
 import java.time.Clock;
 import java.time.LocalDate;
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 public enum Statistics implements Jsonable, QuotaHandler {
     INSTANCE;
 
-    public void save(String serverName, HashSet<String> totalUniqueIdentifiers, HashMap<String, HashSet<String>> uniqueRequests, HashMap<String, Integer> totalRequests, CompletionHandler handler) {
+    public void save(String serverName, HashSet<String> totalUniqueIdentifiers, ConcurrentHashMap<String, HashSet<String>> uniqueRequests, ConcurrentHashMap<String, Integer> totalRequests, CompletionHandler handler) {
         if(!QUOTA_REQUESTS.isEmpty()) {
             saveQuota();
         }
-        if(!totalRequests.isEmpty()) {
+        if(!totalRequests.isEmpty()) { // TODO: fix this | it doesn't save previous unique server entries
             final Folder folder = Folder.LOGS;
-            final LocalDate nowUTC = LocalDate.now(Clock.systemUTC());
-            final String nowEpoch = "" + nowUTC.toEpochDay();
-            getJSONObject(folder, nowEpoch, new CompletionHandler() {
+            final String fileName = "" + LocalDate.now(Clock.systemUTC()).toEpochDay();
+            getJSONObject(folder, fileName, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     handler.handleJSONObject(new JSONObject());
@@ -71,7 +71,7 @@ public enum Statistics implements Jsonable, QuotaHandler {
                     json.put("_totalRequests", totalTotalRequests);
                     json.put("_totalUniqueRequests", totalUniqueRequests);
                     json.put("_totalUniqueIdentifiers", totalUniqueIdentifiers.size());
-                    setFileJSONObject(folder, nowEpoch, json);
+                    setFileJSONObject(folder, fileName, json);
                     if(handler != null) {
                         handler.handleObject(null);
                     }

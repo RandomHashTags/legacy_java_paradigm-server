@@ -141,7 +141,7 @@ public enum Championships implements UpcomingEventController { // https://en.wik
             final String location = null;
 
             final ChampionshipEvent event = new ChampionshipEvent(title, description, imageURL, location, sources);
-            handler.handleString(event.toJSON());
+            handler.handleString(event.toString());
         } else {
             handler.handleString(null);
         }

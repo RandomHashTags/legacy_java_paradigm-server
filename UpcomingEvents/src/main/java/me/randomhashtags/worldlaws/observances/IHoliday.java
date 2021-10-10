@@ -12,6 +12,8 @@ import java.time.LocalDate;
 import java.time.Month;
 
 public interface IHoliday extends Jsoupable, Jsonable {
+    String WIKIPEDIA = "Wikipedia: ";
+
     Enum<? extends IHoliday> getEnum();
     default String getName() {
         final String wikipediaName = getOfficialName();
@@ -104,13 +106,26 @@ public interface IHoliday extends Jsoupable, Jsonable {
     default String getURL() {
         return getSource().getURL(getName());
     }
-    String[] getAliases();
+    default String[] getAliases() {
+        return null;
+    }
     default String[] collectAliases(String...aliases) {
         return aliases;
     }
     EventDate getDate(WLCountry country, int year);
-    default EventSources getOtherSources() {
-        return null;
+
+    default EventSources getDefaultSources() {
+        final HolidaySource source = getSource();
+        if(source != null) {
+            final String name = getName();
+            final EventSource eventSource = new EventSource(source.getName() + ": " + name, getURL());
+            return new EventSources(eventSource);
+        } else {
+            return new EventSources();
+        }
+    }
+    default EventSources getSources(WLCountry country) {
+        return getDefaultSources();
     }
     default EventSources collectSources(EventSource...sources) {
         return new EventSources(sources);

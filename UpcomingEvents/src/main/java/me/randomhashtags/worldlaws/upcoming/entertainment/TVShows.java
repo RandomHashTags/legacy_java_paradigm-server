@@ -113,6 +113,8 @@ public enum TVShows implements LoadedUpcomingEventController {
 
     private void refresh(CompletionHandler handler) {
         final String url = "https://api.tvmaze.com/schedule/full";
+        final UpcomingEventType eventType = getType();
+
         requestJSONArray(url, RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONArray(JSONArray array) {
@@ -145,7 +147,7 @@ public enum TVShows implements LoadedUpcomingEventController {
                                 final JSONArray genres = showJSON.getJSONArray("genres");
 
                                 final EventSources sources = new EventSources();
-                                sources.addSource(new EventSource("TVMaze: " + showTitle, showURL));
+                                sources.append(new EventSource("TVMaze: " + showTitle, showURL));
 
                                 final String identifier = getEventDateIdentifier(dateString, showID + "_" + tag);
                                 String imageURL = showJSON.has("image") && showJSON.get("image") instanceof JSONObject ? showJSON.getJSONObject("image").getString("original") : null;
@@ -165,12 +167,12 @@ public enum TVShows implements LoadedUpcomingEventController {
                                 }
 
                                 if(network != null && officialSite != null) {
-                                    sources.addSource(new EventSource(network + ": " + showTitle, officialSite));
+                                    sources.append(new EventSource(network + ": " + showTitle, officialSite));
                                 }
 
                                 final TVShowEvent tvShowEvent = new TVShowEvent(showTitle, null, imageURL, null, language, countryCode, officialSite, network, runtimeMinutes, season, episode, episodeName, episodeSummary, genres, sources);
-                                LOADED_PRE_UPCOMING_EVENTS.put(identifier, tvShowEvent.toPreUpcomingEventJSON(identifier, showTitle));
-                                upcomingEvents.put(identifier, tvShowEvent.toJSON());
+                                putLoadedPreUpcomingEvent(identifier, tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, showTitle));
+                                upcomingEvents.put(identifier, tvShowEvent.toString());
                             }
                         }
 

@@ -79,13 +79,13 @@ public final class PreUpcomingEvent {
         return builder.toString();
     }
 
-    public String toStringWithImageURL(String imageURL) {
+    public String toStringWithImageURL(UpcomingEventType type, String imageURL) {
         final String[] values = id.split("\\.");
         return "\"" + id.substring(values[0].length()+1) + "\":{" +
+                (tag != null && !tag.equals(title) ? "\"tag\":\"" + tag + "\"," : "") +
+                (imageURL != null ? "\"imageURL\":\"" + type.optimizeImageURL(imageURL) + "\"," : "") +
                 (countries != null ? "\"countries\":" + getCountriesArray() + "," : "") +
-                "\"title\":\"" + title + "\"," +
-                (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"," : "") +
-                "\"tag\":\"" + tag + "\"" +
+                "\"title\":\"" + title + "\"" +
                 "}";
     }
 }

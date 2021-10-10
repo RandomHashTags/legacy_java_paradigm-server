@@ -65,9 +65,9 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
                 return HolidaySource.WIKIPEDIA;
             case INTERNATIONAL_DOG_DAY:
             case WORLD_PHOTOGRAPHY_DAY:
-                return HolidaySource.OTHER;
+                return null;
             default:
-                return HolidaySource.TIME_AND_DATE_FUN;
+                return HolidaySource.TIME_AND_DATE;
         }
     }
 
@@ -77,12 +77,13 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
             case BOOK_LOVERS_DAY: return collectAliases("National Book Lovers Day");
             case INTERNATIONAL_DNA_DAY: return collectAliases("International DNA Day", "National DNA Day", "World DNA Day");
             case POLAR_BEAR_PLUNGE_DAY: return collectAliases("New Year's Dive", "Polar Bear Swim Day");
+            case WORLD_PHOTOGRAPHY_DAY: return collectAliases("World Photo Day");
             default: return null;
         }
     }
 
     @Override
-    public EventSources getOtherSources() {
+    public EventSources getSources(WLCountry country) {
         final String timeAndDate = "Time and Date";
         final String nationalToday = "National Today";
         switch (this) {
@@ -95,10 +96,6 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
                         new EventSource(timeAndDate, "https://www.timeanddate.com/holidays/fun/fibonacci-day"),
                         new EventSource(nationalToday, "https://nationaltoday.com/fibonacci-day/")
                 );
-            case WORLD_PHOTOGRAPHY_DAY:
-                return collectSources(
-                        new EventSource("World Photography Day", "https://www.worldphotographyday.com")
-                );
             case NATIONAL_BOYFRIEND_DAY:
                 return collectSources(
                         new EventSource(nationalToday, "https://nationaltoday.com/national-boyfriend-day/")
@@ -107,8 +104,12 @@ public enum FunHoliday implements IHoliday { // https://www.timeanddate.com/holi
                 return collectSources(
                         new EventSource(nationalToday, "https://nationaltoday.com/national-girlfriend-day/")
                 );
+            case WORLD_PHOTOGRAPHY_DAY:
+                return collectSources(
+                        new EventSource("World Photography Day", "https://www.worldphotographyday.com")
+                );
             default:
-                return null;
+                return new EventSources(new EventSource(timeAndDate + ": Fun Holidays", "https://www.timeanddate.com/holidays/fun/"));
         }
     }
 

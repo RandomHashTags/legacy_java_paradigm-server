@@ -2,29 +2,19 @@ package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum ArmedForcesDay implements IHoliday { // https://en.wikipedia.org/wiki/Armed_Forces_Day
+public enum ArmedForcesDay implements CustomIHoliday {
     INSTANCE;
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return null;
-    }
-
-    @Override
     public String getOfficialName() {
-        return null;
+        return "Armed Forces Day";
     }
 
     @Override
-    public String[] getAliases() {
-        return null;
-    }
-
     public EventDate getDate(WLCountry country, int year) {
         switch (country) {
             case AUSTRALIA:

@@ -32,7 +32,7 @@ public enum NoMansSky implements VideoGameUpdateController {
                 final String name = getName();
                 String ahref = first.attr("href");
                 final EventSources sources = new EventSources();
-                sources.addSource(new EventSource(name + ": Release log", url));
+                sources.append(new EventSource(name + ": Release log", url));
 
                 if(ahref.startsWith("/") && ahref.endsWith("/")) { // new major release
                     final String slug = ahref.substring(1, ahref.length()-1).replace("-", " ");
@@ -42,7 +42,7 @@ public enum NoMansSky implements VideoGameUpdateController {
                         final String imageURL = targetDoc.selectFirst("section.section div.section__content img.no-lazy").attr("src");
                         final String description = targetDoc.selectFirst("section.section div.section__content div.box div.icons-header p.text--narrow").text();
                         final String title = LocalServer.toCorrectCapitalization(slug.replace(" ", "_"));
-                        sources.addSource(new EventSource(name + ": " + title, ahref));
+                        sources.append(new EventSource(name + ": " + title, ahref));
                         final LocalDate now = WLUtilities.getNowUTC();
                         final EventDate date = new EventDate(now.getMonth(), 1, now.getYear());
                         final VideoGameUpdate update = new VideoGameUpdate(date, title.replace(" Update", ""), description, imageURL, sources);
@@ -63,7 +63,7 @@ public enum NoMansSky implements VideoGameUpdateController {
                             if(startingDate.isBefore(eventDate.getLocalDate())) {
                                 final String title = box.select("h1").get(0).text();
                                 final String description = first.select("div.grid__cell-content p").get(0).text().replace(". Read more", "");
-                                sources.addSource(new EventSource(name + ": " + title, ahref));
+                                sources.append(new EventSource(name + ": " + title, ahref));
                                 final VideoGameUpdate update = new VideoGameUpdate(eventDate, title, description, null, sources);
                                 handler.handleObject(update);
                                 return;

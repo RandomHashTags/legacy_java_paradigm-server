@@ -202,7 +202,7 @@ public enum VideoGames implements UpcomingEventController {
                     for(Element href : hrefs) {
                         final String text = href.text();
                         final EventSource source = new EventSource(text, href.attr("href"));
-                        sources.addSource(source);
+                        sources.append(source);
                     }
                 }
             }
@@ -240,7 +240,7 @@ public enum VideoGames implements UpcomingEventController {
                 @Override
                 public void handleJSONArray(JSONArray array) {
                     final VideoGameEvent event = new VideoGameEvent(title, desc, coverArtURL, realPlatforms, array, sources);
-                    final String string = event.toJSON();
+                    final String string = event.toString();
                     upcomingEvents.put(id, string);
                     handler.handleString(string);
                 }

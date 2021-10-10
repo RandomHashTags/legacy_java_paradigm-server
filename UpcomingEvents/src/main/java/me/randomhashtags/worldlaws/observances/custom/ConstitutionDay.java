@@ -2,27 +2,21 @@ package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum ConstitutionDay implements IHoliday { // https://en.wikipedia.org/wiki/Constitution_Day
+public enum ConstitutionDay implements CustomIHoliday {
     INSTANCE;
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return null;
-    }
-
-    @Override
     public String getOfficialName() {
-        return null;
+        return "Constitution Day";
     }
 
     @Override
     public String[] getAliases() {
-        return new String[] { "Citizenship Day" };
+        return collectAliases("Citizenship Day");
     }
 
     public EventDate getDate(WLCountry country, int year) {

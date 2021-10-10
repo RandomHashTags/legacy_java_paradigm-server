@@ -15,7 +15,7 @@ public interface CountryAvailabilityService extends CountryService {
 
     @Override
     default Folder getFolder() {
-        return Folder.AVAILABILITIES;
+        return Folder.COUNTRIES_SERVICES_AVAILABILITIES;
     }
 
     @Override
@@ -27,7 +27,7 @@ public interface CountryAvailabilityService extends CountryService {
         return getAvailabilityDocumentElements(url, targetElements, -1);
     }
     default Elements getAvailabilityDocumentElements(String url, String targetElements, int index) {
-        return getDocumentElements(Folder.AVAILABILITIES, url, targetElements, index);
+        return getDocumentElements(getFolder(), url, targetElements, index);
     }
 
     default CountryAvailability getAvailability(boolean value) {

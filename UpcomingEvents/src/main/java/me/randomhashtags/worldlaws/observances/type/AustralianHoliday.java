@@ -36,8 +36,8 @@ public enum AustralianHoliday implements IHoliday {
     @Override
     public String[] getAliases() {
         switch (this) {
-            case AUSTRALIA_DAY: return new String[] { "ANA Day", "Anniversary Day", "Foundation Day", "Invasion Day", "Survival Day", "Day of Mourning" };
-            case WESTERN_AUSTRALIA_DAY: return new String[] { "Foundation Day", "WA Day" };
+            case AUSTRALIA_DAY: return collectAliases("ANA Day", "Anniversary Day", "Foundation Day", "Invasion Day", "Survival Day", "Day of Mourning");
+            case WESTERN_AUSTRALIA_DAY: return collectAliases("Foundation Day", "WA Day");
             default: return null;
         }
     }

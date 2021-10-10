@@ -15,10 +15,10 @@ public final class EventSources {
     public List<EventSource> getSources() {
         return sources;
     }
-    public void addSources(EventSources sources) {
+    public void append(EventSources sources) {
         this.sources.addAll(sources.getSources());
     }
-    public void addSource(@NotNull EventSource source) {
+    public void append(@NotNull EventSource source) {
         sources.add(source);
     }
 

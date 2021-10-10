@@ -2,45 +2,20 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEvent;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
 
-public final class VideoGameEvent implements UpcomingEvent {
-    private final String title, description, coverArtURL, platforms;
-    private final JSONArray youtubeVideoIDs;
-    private final EventSources sources;
+public final class VideoGameEvent extends UpcomingEvent {
+    private final String platforms;
 
     public VideoGameEvent(String title, String description, String coverArtURL, String platforms, JSONArray youtubeVideoIDs, EventSources sources) {
-        this.title = title;
-        this.description = description;
-        this.coverArtURL = coverArtURL;
+        super(title, description, coverArtURL, null, youtubeVideoIDs, sources);
         this.platforms = platforms;
-        this.youtubeVideoIDs = youtubeVideoIDs;
-        this.sources = sources;
     }
 
     @Override
-    public String getTitle() {
-        return title;
-    }
-    @Override
-    public String getDescription() {
-        return description;
-    }
-    @Override
-    public String getImageURL() {
-        return coverArtURL;
-    }
-    @Override
-    public String getLocation() {
-        return null;
-    }
-    @Override
-    public JSONArray getYouTubeVideoIDs() {
-        return youtubeVideoIDs;
-    }
-    @Override
-    public EventSources getSources() {
-        return sources;
+    public UpcomingEventType getType() {
+        return UpcomingEventType.VIDEO_GAME;
     }
 
     @Override

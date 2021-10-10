@@ -22,9 +22,7 @@ public enum NationalDonutDay implements IHoliday {
 
     @Override
     public String[] getAliases() {
-        return new String[] {
-                "National Doughnut Day"
-        };
+        return collectAliases("National Doughnut Day");
     }
 
     public EventDate getDate(WLCountry country, int year) {

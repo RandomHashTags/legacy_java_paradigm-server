@@ -2,43 +2,17 @@ package me.randomhashtags.worldlaws.upcoming.sports;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEvent;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 
-public final class ChampionshipEvent implements UpcomingEvent {
-
-    private final String title, description, imageURL, location;
-    private final EventSources sources;
+public final class ChampionshipEvent extends UpcomingEvent {
 
     public ChampionshipEvent(String title, String description, String imageURL, String location, EventSources sources) {
-        this.title = title;
-        this.description = description;
-        this.imageURL = imageURL;
-        this.location = location;
-        this.sources = sources;
+        super(title, description, imageURL, location, null, sources);
     }
 
     @Override
-    public String getTitle() {
-        return title;
-    }
-
-    @Override
-    public String getDescription() {
-        return description;
-    }
-
-    @Override
-    public String getImageURL() {
-        return imageURL;
-    }
-
-    @Override
-    public String getLocation() {
-        return location;
-    }
-
-    @Override
-    public EventSources getSources() {
-        return sources;
+    public UpcomingEventType getType() {
+        return UpcomingEventType.SPORT_CHAMPIONSHIPS;
     }
 
     @Override

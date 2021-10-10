@@ -2,40 +2,19 @@ package me.randomhashtags.worldlaws.upcoming.space;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEvent;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 
-public final class SpaceEvent implements UpcomingEvent {
-    private final String title, description, imageURL, location;
-    private final EventSources source;
+public final class SpaceEvent extends UpcomingEvent {
 
-    public SpaceEvent(String title, String description, String imageURL, String location, EventSources source) {
-        this.title = title;
-        this.description = description;
-        this.imageURL = imageURL;
-        this.location = location;
-        this.source = source;
+    public SpaceEvent(String title, String description, String imageURL, String location, EventSources sources) {
+        super(title, description, imageURL, location, null, sources);
     }
 
     @Override
-    public String getTitle() {
-        return title;
+    public UpcomingEventType getType() {
+        return UpcomingEventType.SPACE_EVENT;
     }
 
-    @Override
-    public String getDescription() {
-        return description;
-    }
-    @Override
-    public String getImageURL() {
-        return imageURL;
-    }
-    @Override
-    public String getLocation() {
-        return location;
-    }
-    @Override
-    public EventSources getSources() {
-        return source;
-    }
     @Override
     public String getPropertiesJSONObject() {
         return null;

@@ -14,7 +14,10 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public interface UpcomingEventController extends YouTubeService, Jsoupable, DataValues {
-    HashMap<String, String> LOADED_PRE_UPCOMING_EVENTS = new HashMap<>();
+    enum LoadedPreUpcomingEvents {
+        ;
+        static final ConcurrentHashMap<String, String> CACHE = new ConcurrentHashMap<>();
+    }
 
     UpcomingEventType getType();
     default WLCountry getCountry() { // if null, it is worldwide/global
@@ -108,6 +111,7 @@ public interface UpcomingEventController extends YouTubeService, Jsoupable, Data
         }
     }
     private void getPreUpcomingEvent(String id, CompletionHandler handler) {
+        final ConcurrentHashMap<String, String> LOADED_PRE_UPCOMING_EVENTS = LoadedPreUpcomingEvents.CACHE;
         if(LOADED_PRE_UPCOMING_EVENTS.containsKey(id)) {
             handler.handleString(LOADED_PRE_UPCOMING_EVENTS.get(id));
         } else {
@@ -147,7 +151,9 @@ public interface UpcomingEventController extends YouTubeService, Jsoupable, Data
                     if(json != null) {
                         string = toLoadedPreUpcomingEvent(id, json);
                     }
-                    LOADED_PRE_UPCOMING_EVENTS.put(id, string);
+                    if(string != null) {
+                        LoadedPreUpcomingEvents.CACHE.put(id, string);
+                    }
                     handler.handleString(json != null ? json.toString() : null);
                 }
             });
@@ -167,8 +173,12 @@ public interface UpcomingEventController extends YouTubeService, Jsoupable, Data
 
     private String toLoadedPreUpcomingEvent(String id, JSONObject json) {
         final HashMap<String, PreUpcomingEvent> preUpcomingEvents = getPreUpcomingEvents();
+        final UpcomingEventType type = getType();
         final String imageURL = json.has("imageURL") ? json.getString("imageURL") : null;
-        final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents != null ? preUpcomingEvents.get(id) : PreUpcomingEvent.fromUpcomingEventJSON(getType(), id, json);
-        return preUpcomingEvent.toStringWithImageURL(imageURL);
+        final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents != null ? preUpcomingEvents.get(id) : PreUpcomingEvent.fromUpcomingEventJSON(type, id, json);
+        return preUpcomingEvent.toStringWithImageURL(getType(), imageURL);
+    }
+    default void putLoadedPreUpcomingEvent(String identifier, String value) {
+        LoadedPreUpcomingEvents.CACHE.put(identifier, value);
     }
 }

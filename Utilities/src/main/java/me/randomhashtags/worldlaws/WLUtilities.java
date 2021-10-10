@@ -55,7 +55,7 @@ public abstract class WLUtilities {
             builder.append("\n").append(element.toString());
         }
         final String errorName = exception.getClass().getSimpleName();
-        final Folder folder = Folder.LOGS_ERRORS;
+        final Folder folder = Folder.ERRORS;
         final String fileName = Long.toString(System.currentTimeMillis());
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%errorName%", errorName));
         saveToFile(Level.ERROR, folder, fileName, builder.toString(), "txt");

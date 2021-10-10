@@ -2,28 +2,23 @@ package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.Month;
 
-public enum DayOfValor implements IHoliday {
+public enum DayOfValor implements CustomIHoliday {
     INSTANCE;
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return null;
-    }
-
-    @Override
     public String getOfficialName() {
-        return null;
+        return "Day of Valor";
     }
 
     @Override
     public String[] getAliases() {
-        return null;
+        return collectAliases("Bataan Day", "Bataan and Corregidor Day");
     }
 
+    @Override
     public EventDate getDate(WLCountry country, int year) {
         switch (country) {
             case PHILIPPINES: return new EventDate(Month.APRIL, 9, year);

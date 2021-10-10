@@ -2,27 +2,16 @@ package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum FarmersDay implements IHoliday {
+public enum FarmersDay implements CustomIHoliday {
     INSTANCE;
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return null;
-    }
-
-    @Override
     public String getOfficialName() {
-        return null;
-    }
-
-    @Override
-    public String[] getAliases() {
-        return null;
+        return "Farmers' Day";
     }
 
     public EventDate getDate(WLCountry country, int year) {

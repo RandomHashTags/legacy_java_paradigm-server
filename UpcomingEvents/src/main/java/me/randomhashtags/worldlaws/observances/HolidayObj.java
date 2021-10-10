@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.observances;
 
+import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 import org.apache.commons.text.StringEscapeUtils;
@@ -8,24 +9,23 @@ import org.json.JSONObject;
 
 import java.util.HashSet;
 
-public final class HolidayObj implements Holiday { // TODO: replace the "other sources" and "learnMoreURL" with a dedicated "sources" object
+public final class HolidayObj implements Holiday {
     private HashSet<String> countries;
     protected String[] aliases;
     protected String imageURL;
-    private final String englishName, description, learnMoreURL;
-    private final EventSources otherSources;
+    private final String englishName, description;
+    private final EventSources sources;
     private String celebrators, emoji;
 
-    public HolidayObj(String englishName, String imageURL, String[] aliases, String description, String learnMoreURL, EventSources otherSources) {
+    public HolidayObj(String englishName, String imageURL, String[] aliases, String description, EventSources sources) {
         this.englishName = LocalServer.fixEscapeValues(englishName);
         this.imageURL = imageURL;
         this.aliases = aliases;
         this.description = LocalServer.fixEscapeValues(description);
-        this.learnMoreURL = learnMoreURL;
-        this.otherSources = otherSources;
+        this.sources = sources;
     }
-    public HolidayObj(String celebrators, String emoji, String englishName, String imageURL, String[] aliases, String learnMoreURL) {
-        this(englishName, imageURL, aliases, null, learnMoreURL, null);
+    public HolidayObj(String celebrators, String emoji, String englishName, String imageURL, String[] aliases, EventSources sources) {
+        this(englishName, imageURL, aliases, null, sources);
         this.celebrators = celebrators;
         this.emoji = StringEscapeUtils.escapeJava(emoji);
     }
@@ -50,8 +50,17 @@ public final class HolidayObj implements Holiday { // TODO: replace the "other s
                 countries.add((String) obj);
             }
         }
-        learnMoreURL = json.getString("learnMoreURL");
-        otherSources = null;
+        final EventSources sources = new EventSources();
+        if(json.has("sources")) {
+            final JSONObject sourcesJSON = json.getJSONObject("sources");
+            for(String key : sourcesJSON.keySet()) {
+                final JSONObject sourceJSON = sourcesJSON.getJSONObject(key);
+                final String url = sourceJSON.getString("homepageURL");
+                final EventSource source = new EventSource(key, url);
+                sources.append(source);
+            }
+        }
+        this.sources = sources;
     }
 
     @Override
@@ -103,8 +112,8 @@ public final class HolidayObj implements Holiday { // TODO: replace the "other s
     }
 
     @Override
-    public String getLearnMoreURL() {
-        return learnMoreURL;
+    public EventSources getSources() {
+        return sources;
     }
 
     @Override
@@ -115,8 +124,7 @@ public final class HolidayObj implements Holiday { // TODO: replace the "other s
                 (emoji != null ? "\"emoji\":\"" + emoji + "\"," : "") +
                 (aliases != null ? "\"aliases\":" + getAliasesArray() + "," : "") +
                 (imageURL != null && !imageURL.equals("null") ? "\"imageURL\":\"" + imageURL + "\"," : "") +
-                (otherSources != null ? "\"otherSources\":" + otherSources.toString() : "") +
-                "\"learnMoreURL\":\"" + learnMoreURL + "\"" +
+                "\"sources\":" + (sources != null ? sources : new EventSources()).toString() +
                 "}";
     }
 }

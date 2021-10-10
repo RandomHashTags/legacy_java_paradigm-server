@@ -2,28 +2,23 @@ package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.Month;
 
-public enum BoxingDay implements IHoliday { // https://en.wikipedia.org/wiki/Boxing_Day
+public enum BoxingDay implements CustomIHoliday {
     INSTANCE;
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return null;
-    }
-
-    @Override
     public String getOfficialName() {
-        return null;
+        return "Boxing Day";
     }
 
     @Override
     public String[] getAliases() {
-        return null;
+        return collectAliases("Offering Day");
     }
 
+    @Override
     public EventDate getDate(WLCountry country, int year) {
         switch (country) {
             case AUSTRALIA:

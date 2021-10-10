@@ -2,29 +2,19 @@ package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum LiberationDay implements IHoliday { // https://en.wikipedia.org/wiki/Liberation_Day
+public enum LiberationDay implements CustomIHoliday {
     INSTANCE;
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return null;
-    }
-
-    @Override
     public String getOfficialName() {
-        return null;
+        return "Liberation Day";
     }
 
     @Override
-    public String[] getAliases() {
-        return null;
-    }
-
     public EventDate getDate(WLCountry country, int year) {
         switch (country) {
             case ALBANIA: return new EventDate(Month.NOVEMBER, 29, year);

@@ -92,7 +92,7 @@ public enum Holidays implements Jsoupable, Jsonable {
     private void loadNearbyHolidays(int year, CompletionHandler handler) {
         final LocalDate rightNow = LocalDate.now();
         final List<String> nearbyHolidayDays = new ArrayList<>();
-        for(int i = 0; i <= 7; i++) {
+        for(int i = -1; i <= 7; i++) {
             final LocalDate date = rightNow.plusDays(i);
             final String dateString = new EventDate(date).getDateString();
             nearbyHolidayDays.add(dateString);
@@ -121,7 +121,7 @@ public enum Holidays implements Jsoupable, Jsonable {
                     boolean hasHoliday = false;
                     for(HolidayObj holiday : holidays.values()) {
                         final HashSet<String> countries = holiday.getCountries();
-                        if(countries == null || countries.contains(country)) {
+                        if(countries == null || country == null || countries.contains(country)) {
                             holidayBuilder.append(isFirst ? "" : ",").append(holiday.toString());
                             isFirst = false;
                             hasHoliday = true;

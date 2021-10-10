@@ -8,6 +8,7 @@ import java.net.Socket;
 import java.net.SocketException;
 import java.net.SocketTimeoutException;
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
 
 public final class LocalServer implements UserServer, DataValues {
@@ -17,8 +18,8 @@ public final class LocalServer implements UserServer, DataValues {
     private ServerSocket server;
     private HashSet<Timer> timers;
 
-    private HashMap<String, Integer> totalRequests;
-    private HashMap<String, HashSet<String>> uniqueRequests;
+    private ConcurrentHashMap<String, Integer> totalRequests;
+    private ConcurrentHashMap<String, HashSet<String>> uniqueRequests;
     private HashSet<String> totalUniqueIdentifiers;
 
     private LocalServer(TargetServer server) {
@@ -32,11 +33,11 @@ public final class LocalServer implements UserServer, DataValues {
 
     @Override
     public void start() {
-        uniqueRequests = new HashMap<>();
-        totalRequests = new HashMap<>();
+        uniqueRequests = new ConcurrentHashMap<>();
+        totalRequests = new ConcurrentHashMap<>();
         totalUniqueIdentifiers = new HashSet<>();
-        final long every30Minutes = TimeUnit.MINUTES.toMillis(30);
-        registerFixedTimer(every30Minutes, new CompletionHandler() {
+        final long interval = TimeUnit.MINUTES.toMillis(15);
+        registerFixedTimer(interval, new CompletionHandler() {
             @Override
             public void handleObject(Object object) {
                 saveStatistics();
@@ -90,7 +91,8 @@ public final class LocalServer implements UserServer, DataValues {
         totalRequests.put(target, totalRequests.getOrDefault(target, 0) + 1);
         totalUniqueIdentifiers.add(identifier);
     }
-    private void saveStatistics() {
+    @Override
+    public void saveStatistics() {
         final long started = System.currentTimeMillis();
         Statistics.INSTANCE.save(serverName, totalUniqueIdentifiers, uniqueRequests, totalRequests, new CompletionHandler() {
             @Override

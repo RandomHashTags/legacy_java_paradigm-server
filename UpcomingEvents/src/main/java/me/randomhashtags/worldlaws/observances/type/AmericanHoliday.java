@@ -78,12 +78,12 @@ public enum AmericanHoliday implements IHoliday {
     public String[] getAliases() {
         switch (this) {
             //case GOLD_STAR_MOTHERS_AND_FAMILYS_DAY: return new String[] { "Gold Star Mother's Day" };
-            case JUNETEENTH: return new String[]{ "Freedom Day", "Jubilee Day", "Liberation Day", "Emancipation Day" };
-            case PATRIOTS_DAY: return new String[] { "Patriot's Day" };
-            case MEMORIAL_DAY: return new String[] { "Decoration Day" };
-            case MARTIN_LUTHER_KING_JR_DAY: return new String[] { "Birthday of Martin Luther King, Jr.", "MLK Day" };
-            case WASHINGTONS_BIRTHDAY: return new String[] { "Presidents Day", "President's Day", "Presidents' Day" };
-            case WHITE_CANE_SAFETY_DAY: return new String[] { "Blind Americans Equality Day" };
+            case JUNETEENTH: return collectAliases("Freedom Day", "Jubilee Day", "Liberation Day", "Emancipation Day");
+            case PATRIOTS_DAY: return collectAliases("Patriot's Day");
+            case MEMORIAL_DAY: return collectAliases("Decoration Day");
+            case MARTIN_LUTHER_KING_JR_DAY: return collectAliases("Birthday of Martin Luther King, Jr.", "MLK Day");
+            case WASHINGTONS_BIRTHDAY: return collectAliases("Presidents Day", "President's Day", "Presidents' Day");
+            case WHITE_CANE_SAFETY_DAY: return collectAliases("Blind Americans Equality Day");
             default: return null;
         }
     }

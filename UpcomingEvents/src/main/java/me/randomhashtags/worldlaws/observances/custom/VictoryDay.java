@@ -2,28 +2,18 @@ package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.Month;
 
-public enum VictoryDay implements IHoliday { // https://en.wikipedia.org/wiki/Victory_Day / https://en.wikipedia.org/wiki/Liberation_Day
+public enum VictoryDay implements CustomIHoliday {
     INSTANCE;
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return null;
-    }
-
-    @Override
     public String getOfficialName() {
-        return null;
+        return "Victory Day";
     }
 
     @Override
-    public String[] getAliases() {
-        return null;
-    }
-
     public EventDate getDate(WLCountry country, int year) {
         switch (country) {
             case AFGHANISTAN: return new EventDate(Month.APRIL, 28, year);

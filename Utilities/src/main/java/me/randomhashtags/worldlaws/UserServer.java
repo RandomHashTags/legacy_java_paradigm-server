@@ -42,9 +42,15 @@ public interface UserServer {
                 stopListeningForUserInput();
                 start();
                 break;
+            case "save":
+                saveStatistics();
+                break;
             default:
                 break;
         }
         executeUserInput(getUserInput());
+    }
+
+    default void saveStatistics() {
     }
 }

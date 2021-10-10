@@ -133,18 +133,27 @@ public interface Jsonable {
             final String directory = getFilePath(folder, fileName, extension);
             final Path path = Paths.get(directory);
             sender = sender != null ? "[" + sender + "] " : "";
-            if(!Files.exists(path)) {
-                WLLogger.log(level, sender + "Jsonable - writing file with folder " + folder.name() + " at " + path.toAbsolutePath().toString());
-                tryCreatingParentFolders(path);
-                try {
-                    Files.writeString(path, value.toString(), StandardCharsets.UTF_8);
-                } catch (Exception e) {
-                    WLUtilities.saveException(e);
+            final boolean alreadyExists = Files.exists(path);
+            if(alreadyExists) {
+                if(!canExist) {
+                    WLLogger.log(Level.WARN, sender + "Jsonable - writeFile(" + fileName + ") - already exists at " + directory + " (folder=" + folder.name() + ")!");
+                } else {
+                    WLLogger.log(level, sender + "Jsonable - overriding file with folder " + folder.name() + " at " + path.toAbsolutePath().toString());
+                    write(path, value);
                 }
-            } else if(!canExist) {
-                WLLogger.log(Level.WARN, sender + "Jsonable - writeFile(" + fileName + ") - already exists at " + directory + " (folder=" + folder.name() + ")!");
+            } else {
+                WLLogger.log(level, sender + "Jsonable - creating file with folder " + folder.name() + " at " + path.toAbsolutePath().toString());
+                tryCreatingParentFolders(path);
+                write(path, value);
             }
         }
         folder.removeCustomFolderName(fileName);
+    }
+    private static void write(Path path, Object value) {
+        try {
+            Files.writeString(path, value.toString(), StandardCharsets.UTF_8);
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
+        }
     }
 }

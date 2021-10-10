@@ -2,29 +2,24 @@ package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.DayOfWeek;
 import java.time.Month;
 
-public enum HeroesDay implements IHoliday { // https://en.wikipedia.org/wiki/Heroes%27_Day
+public enum HeroesDay implements CustomIHoliday {
     INSTANCE;
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return null;
-    }
-
-    @Override
     public String getOfficialName() {
-        return null;
+        return "Heroes' Day";
     }
 
     @Override
     public String[] getAliases() {
-        return null;
+        return collectAliases("National Heroes' Day");
     }
 
+    @Override
     public EventDate getDate(WLCountry country, int year) {
         switch (country) {
             case ANGOLA: return new EventDate(Month.SEPTEMBER, 17, year);

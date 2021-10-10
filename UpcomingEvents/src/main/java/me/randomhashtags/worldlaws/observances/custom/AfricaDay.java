@@ -2,31 +2,26 @@ package me.randomhashtags.worldlaws.observances.custom;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.Month;
 
-public enum AfricaDay implements IHoliday { // https://en.wikipedia.org/wiki/Africa_Day
+public enum AfricaDay implements CustomIHoliday {
     INSTANCE;
 
     @Override
-    public Enum<? extends IHoliday> getEnum() {
-        return null;
-    }
-
-    @Override
     public String getOfficialName() {
-        return null;
+        return "Africa Day";
     }
 
     @Override
     public String[] getAliases() {
-        return new String[] {
+        return collectAliases(
                 "African Freedom Day",
                 "African Liberation Day"
-        };
+        );
     }
 
+    @Override
     public EventDate getDate(WLCountry country, int year) {
         switch (country) {
             case MAURITANIA: return new EventDate(Month.MAY, 25, year);

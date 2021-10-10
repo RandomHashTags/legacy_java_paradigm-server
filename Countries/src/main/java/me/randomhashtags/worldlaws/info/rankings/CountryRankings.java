@@ -60,7 +60,7 @@ public enum CountryRankings implements CountryRankingService {
     ),
     DIVORCE_RATE(
             "https://en.wikipedia.org/wiki/Divorce_demography",
-            " percent",
+            "%",
             NumberType.FLOAT,
             0,
             -1

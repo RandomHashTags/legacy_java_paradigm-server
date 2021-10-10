@@ -48,6 +48,15 @@ public final class CustomCountry implements SovereignState {
         name = infobox.size() > 0 ? removeReferences(infobox.get(0).select("th div.fn").get(0).text()) : shortName;
         loadCountryDetails();
     }
+    public CustomCountry(String tag, JSONObject json) {
+        this.name = tag;
+        unStatus = json.has("unStatus") ? json.getString("unStatus") : null;
+        sovereigntyDispute = json.has("sovereigntyDispute") ? json.getString("sovereigntyDispute") : null;
+        shortName = json.has("shortName") ? json.getString("shortName") : tag;
+        flagEmoji = json.getString("flagEmoji");
+
+        loadCountryDetails();
+    }
     private void loadCountryDetails() {
         final WLCountry wlcountry = getWLCountry();
         if(wlcountry != null) {

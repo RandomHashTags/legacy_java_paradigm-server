@@ -119,7 +119,7 @@ public enum MusicAlbums implements UpcomingEventController, SpotifyService {
 
             final String heading = albumDoc.select("div.mw-body h1.firstHeading").get(0).text();
             final EventSource source = new EventSource("Wikipedia: " + heading, url);
-            sources.addSource(source);
+            sources.append(source);
             final String description = albumDoc.select("div.mw-parser-output p").get(0).text();
             final String albumImageURL;
             final Elements infobox = albumDoc.select("table.infobox");
@@ -182,7 +182,7 @@ public enum MusicAlbums implements UpcomingEventController, SpotifyService {
     }
     private void putUpcomingEvent(String id, String artist, String album, String imageURL, String description, JSONObject spotifyDetails, EventSources sources, CompletionHandler handler) {
         final MusicAlbumEvent event = new MusicAlbumEvent(artist, album, imageURL, description, spotifyDetails, sources);
-        final String string = event.toJSON();
+        final String string = event.toString();
         upcomingEvents.put(id, string);
         handler.handleString(string);
     }
