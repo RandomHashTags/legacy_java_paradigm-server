@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.PreUpcomingEvent;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.MLBEvent;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -16,25 +17,11 @@ import java.time.Month;
 import java.util.HashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public enum MLB implements USAUpcomingEventController {
-    INSTANCE;
-
-    private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
-    private HashMap<String, String> upcomingEvents;
+public final class MLB extends USAUpcomingEventController {
 
     @Override
     public UpcomingEventType getType() {
         return UpcomingEventType.SPORT_MLB;
-    }
-
-    @Override
-    public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
-        return preUpcomingEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getUpcomingEvents() {
-        return upcomingEvents;
     }
 
     @Override
@@ -43,8 +30,8 @@ public enum MLB implements USAUpcomingEventController {
     }
 
     private void refresh(CompletionHandler handler) {
-        preUpcomingEvents = new HashMap<>();
-        upcomingEvents = new HashMap<>();
+        preUpcomingEvents.clear();
+        upcomingEvents.clear();
 
         final LocalDate now = LocalDate.now();
         final int month = now.getMonthValue(), day = now.getDayOfMonth(), year = now.getYear();

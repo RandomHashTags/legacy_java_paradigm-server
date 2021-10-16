@@ -8,6 +8,11 @@ public enum Minecraft implements VideoGameUpdateController {
     INSTANCE;
 
     @Override
+    public String getName() {
+        return "Minecraft";
+    }
+
+    @Override
     public String getUpdatePageURL() {
         return "https://feedback.minecraft.net/hc/en-us/sections/360001186971-Release-Changelogs";
     }

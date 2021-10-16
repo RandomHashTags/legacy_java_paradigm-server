@@ -242,16 +242,6 @@ public final class CustomCountry implements SovereignState {
         }
     }
 
-    private String getTimeZonesJSON() {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
-        for(WLTimeZone timezone : timezones) {
-            builder.append(isFirst ? "" : ",").append("\"").append(timezone.getIdentifier()).append("\"");
-            isFirst = false;
-        }
-        builder.append("]");
-        return builder.toString();
-    }
     private String getGovernmentAdministrationsJSON() {
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;

@@ -1,17 +1,16 @@
-package me.randomhashtags.worldlaws.upcoming.space;
+package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
-import me.randomhashtags.worldlaws.upcoming.UpcomingEvent;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 
-public final class RocketLaunch extends UpcomingEvent {
+public final class RocketLaunchEvent extends UpcomingEvent {
     private final String status, windowStart, windowEnd;
     private final boolean exactDay, exactTime;
     private final int probability;
     private final RocketLaunchMission mission;
 
-    RocketLaunch(String name, String status, String location, boolean exactDay, boolean exactTime, int probability, String rocketImageURL, RocketLaunchMission mission, String windowStart, String windowEnd, EventSources sources) {
+    public RocketLaunchEvent(String name, String status, String location, boolean exactDay, boolean exactTime, int probability, String rocketImageURL, RocketLaunchMission mission, String windowStart, String windowEnd, EventSources sources) {
         super(name, null, rocketImageURL, location, null, sources);
         this.status = status;
         this.exactDay = exactDay;

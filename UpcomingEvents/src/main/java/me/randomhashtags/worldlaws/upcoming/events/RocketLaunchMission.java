@@ -1,4 +1,4 @@
-package me.randomhashtags.worldlaws.upcoming.space;
+package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.LocalServer;
 

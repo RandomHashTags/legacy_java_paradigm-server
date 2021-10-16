@@ -1,8 +1,7 @@
-package me.randomhashtags.worldlaws.upcoming.entertainment;
+package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
-import me.randomhashtags.worldlaws.upcoming.UpcomingEvent;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONObject;
 

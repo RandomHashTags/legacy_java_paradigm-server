@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.recent;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.recent.software.videogames.NoMansSky;
-import me.randomhashtags.worldlaws.recent.software.videogames.Overwatch;
 import me.randomhashtags.worldlaws.recent.software.videogames.VideoGameUpdate;
 import me.randomhashtags.worldlaws.recent.software.videogames.VideoGameUpdateController;
 
@@ -19,7 +18,7 @@ public enum VideoGameUpdates implements RecentEventController {
     public static VideoGameUpdateController[] getSupportedVideoGames() {
         return new VideoGameUpdateController[] {
                 NoMansSky.INSTANCE,
-                Overwatch.INSTANCE
+                //Overwatch.INSTANCE
         };
     }
 

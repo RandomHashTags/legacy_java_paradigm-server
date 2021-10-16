@@ -1,11 +1,11 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.service.IMDbService;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.MovieEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -21,30 +21,11 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public enum Movies implements UpcomingEventController, IMDbService {
-    INSTANCE;
-
-    private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
-    private HashMap<String, String> upcomingEvents;
+public final class Movies extends UpcomingEventController implements IMDbService {
 
     @Override
     public UpcomingEventType getType() {
         return UpcomingEventType.MOVIE;
-    }
-
-    @Override
-    public WLCountry getCountry() {
-        return null;
-    }
-
-    @Override
-    public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
-        return preUpcomingEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getUpcomingEvents() {
-        return upcomingEvents;
     }
 
     @Override
@@ -53,15 +34,19 @@ public enum Movies implements UpcomingEventController, IMDbService {
     }
 
     private void refreshFilms(int year, Month startingMonth, CompletionHandler handler) {
-        preUpcomingEvents = new HashMap<>();
-        upcomingEvents = new HashMap<>();
+        preUpcomingEvents.clear();
+        upcomingEvents.clear();
         final String url = "https://en.wikipedia.org/wiki/List_of_American_films_of_" + year;
         final Document doc = getDocument(url);
         if(doc != null) {
             final Elements table = doc.select("div.mw-body-content div.mw-parser-output h2 + table.wikitable tbody tr");
             if(year >= 2016) { // supported format only until 2016
                 refreshUSAFilms2016(year, startingMonth, table, handler);
+            } else {
+                handler.handleString(null);
             }
+        } else {
+            handler.handleString(null);
         }
     }
     private void refreshUSAFilms2016(int year, Month startingMonth, Elements table, CompletionHandler handler) {

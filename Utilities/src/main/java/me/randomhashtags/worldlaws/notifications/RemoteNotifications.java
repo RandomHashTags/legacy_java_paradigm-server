@@ -18,6 +18,7 @@ public enum RemoteNotifications implements RestAPI {
 
         final JSONObject aps = new JSONObject();
         aps.put("alert", body);
+        aps.put("badge", "1");
         aps.put("sound", "default");
         aps.put("category", category.name());
 

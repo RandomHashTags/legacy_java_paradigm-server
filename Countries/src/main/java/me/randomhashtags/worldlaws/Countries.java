@@ -260,7 +260,7 @@ public final class Countries implements WLServer {
                             final String subdivisionBackendID = values[2];
                             final SovereignStateSubdivision subdivision = country.getWLCountry().valueOfSovereignStateSubdivision(subdivisionBackendID);
                             if(subdivision != null) {
-                                subdivision.getInformation(handler);
+                                subdivision.getInformation(version, handler);
                             } else {
                                 WLLogger.log(Level.WARN, "Countries - failed to get information for subdivision \"" + subdivisionBackendID + "\" from country \"" + country.getBackendID() + "\"!");
                             }

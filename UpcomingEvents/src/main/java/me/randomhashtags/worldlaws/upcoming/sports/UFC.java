@@ -3,19 +3,15 @@ package me.randomhashtags.worldlaws.upcoming.sports;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.SportEvent;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.time.Month;
-import java.util.HashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public enum UFC implements USAUpcomingEventController {
-    INSTANCE;
-
-    private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
-    private HashMap<String, String> upcomingEvents;
+public final class UFC extends USAUpcomingEventController {
 
     @Override
     public UpcomingEventType getType() {
@@ -23,19 +19,9 @@ public enum UFC implements USAUpcomingEventController {
     }
 
     @Override
-    public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
-        return preUpcomingEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getUpcomingEvents() {
-        return upcomingEvents;
-    }
-
-    @Override
     public void load(CompletionHandler handler) {
-        preUpcomingEvents = new HashMap<>();
-        upcomingEvents = new HashMap<>();
+        preUpcomingEvents.clear();
+        upcomingEvents.clear();
 
         final String wikipagePrefix = "https://en.wikipedia.org";
         final String url = wikipagePrefix + "/wiki/List_of_UFC_events";
@@ -48,33 +34,34 @@ public enum UFC implements USAUpcomingEventController {
                     elements.remove(0);
                     final AtomicInteger completed = new AtomicInteger(0);
                     final int max = elements.size();
-                    elements.parallelStream().forEach(element -> {
-                        final Elements rows = element.select("td");
-                        final int rowSize = rows.size();
-                        final Element eventElement = rows.get(0);
-                        final String event = eventElement.text(), dateElementString = rows.get(1).text(), location = rows.get(rowSize-2).text();
-                        final String[] dateValues = dateElementString.split(", "), dates = dateValues[0].split(" ");
-                        final Month month = WLUtilities.valueOfMonthFromInput(dates[0]);
-                        if(month != null) {
-                            final int day = Integer.parseInt(dates[1]), year = Integer.parseInt(dateValues[1]);
-                            final Elements hrefs = eventElement.select("a");
-                            if(!hrefs.isEmpty()) {
-                                final String wikipageURL = wikipagePrefix + hrefs.get(0).attr("href");
-                                final String dateString = getEventDateString(year, month, day), id = getEventDateIdentifier(dateString, event);
-                                final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, wikipageURL, location);
-                                preUpcomingEvents.put(id, preUpcomingEvent);
+                    if(max > 0) {
+                        elements.parallelStream().forEach(element -> {
+                            final Elements rows = element.select("td");
+                            final int rowSize = rows.size();
+                            final Element eventElement = rows.get(0);
+                            final String event = eventElement.text(), dateElementString = rows.get(1).text(), location = rows.get(rowSize-2).text();
+                            final String[] dateValues = dateElementString.split(", "), dates = dateValues[0].split(" ");
+                            final Month month = WLUtilities.valueOfMonthFromInput(dates[0]);
+                            if(month != null) {
+                                final int day = Integer.parseInt(dates[1]), year = Integer.parseInt(dateValues[1]);
+                                final Elements hrefs = eventElement.select("a");
+                                if(!hrefs.isEmpty()) {
+                                    final String wikipageURL = wikipagePrefix + hrefs.get(0).attr("href");
+                                    final String dateString = getEventDateString(year, month, day), id = getEventDateIdentifier(dateString, event);
+                                    final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, wikipageURL, location);
+                                    preUpcomingEvents.put(id, preUpcomingEvent);
+                                }
                             }
-                        }
-                        if(completed.addAndGet(1) == max) {
-                            handler.handleString(null);
-                        }
-                    });
-                    return;
+                            if(completed.addAndGet(1) == max) {
+                                handler.handleString(null);
+                            }
+                        });
+                        return;
+                    }
                 }
             }
-        } else {
-            handler.handleString(null);
         }
+        handler.handleString(null);
     }
 
     @Override

@@ -1,9 +1,12 @@
 package me.randomhashtags.worldlaws.upcoming.space.nasa;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
-import me.randomhashtags.worldlaws.upcoming.UpcomingEvent;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -11,10 +14,7 @@ import java.time.LocalDate;
 import java.util.HashMap;
 import java.util.List;
 
-public enum NASANeo implements USAUpcomingEventController {
-    INSTANCE;
-
-    private HashMap<String, String> upcomingEvents;
+public final class NASANeo extends USAUpcomingEventController {
 
     @Override
     public UpcomingEventType getType() {
@@ -22,18 +22,8 @@ public enum NASANeo implements USAUpcomingEventController {
     }
 
     @Override
-    public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
-        return null;
-    }
-
-    @Override
-    public HashMap<String, String> getUpcomingEvents() {
-        return upcomingEvents;
-    }
-
-    @Override
     public void load(CompletionHandler handler) {
-        upcomingEvents = new HashMap<>();
+        upcomingEvents.clear();
 
         final LocalDate today = LocalDate.now();
         final int year = today.getYear(), month = today.getMonthValue(), day = today.getDayOfMonth();

@@ -4,10 +4,7 @@ import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
-import me.randomhashtags.worldlaws.upcoming.entertainment.Movies;
-import me.randomhashtags.worldlaws.upcoming.entertainment.MusicAlbums;
-import me.randomhashtags.worldlaws.upcoming.entertainment.TVShows;
-import me.randomhashtags.worldlaws.upcoming.entertainment.VideoGames;
+import me.randomhashtags.worldlaws.upcoming.entertainment.*;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
@@ -23,18 +20,20 @@ public final class UpcomingEvents implements WLServer {
     public static final UpcomingEvents INSTANCE = new UpcomingEvents();
     private static final HashSet<UpcomingEventController> CONTROLLERS = new HashSet<>() {{
         addAll(Arrays.asList(
-                Championships.INSTANCE,
+                new Championships(),
                 //MLB.INSTANCE,
-                Movies.INSTANCE,
+                new Movies(),
                 //NASANeo.INSTANCE,
                 //NFL.INSTANCE, // problem
-                MusicAlbums.INSTANCE,
-                RocketLaunches.INSTANCE,
-                SpaceEvents.INSTANCE,
+                new MusicAlbums(),
+                new RocketLaunches(),
+                new SpaceEvents(),
                 //SpaceX.INSTANCE,
-                TVShows.INSTANCE,
-                UFC.INSTANCE,
-                VideoGames.INSTANCE
+                new TVShows(),
+                new UFC(),
+                new VideoGames(),
+
+                new Ticketmaster.Music()
         ));
     }};
 
@@ -55,10 +54,12 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        Holidays.INSTANCE.getResponse("all/unitedstates", new CompletionHandler() {
+        final HashSet<String> dates = getWeeklyEventDateStrings(LocalDate.now());
+        final Ticketmaster.Music music = new Ticketmaster.Music();
+        music.getEventsFromDates(dates, new CompletionHandler() {
             @Override
-            public void handleString(String string) {
-                WLLogger.log(Level.INFO, "UpcomingEvents;test;string=" + string);
+            public void handleStringValue(String key, String value) {
+                WLLogger.log(Level.INFO, "UpcomingEvents;test;value=" + value);
             }
         });
     }
@@ -128,6 +129,13 @@ public final class UpcomingEvents implements WLServer {
         }
         return typesJSON;
     }
+    private HashSet<String> getWeeklyEventDateStrings(LocalDate now) {
+        final HashSet<String> dates = new HashSet<>();
+        for(int i = -1; i < 7; i++) {
+            dates.add(getEventStringForDate(now.plusDays(i)));
+        }
+        return dates;
+    }
 
     private void refreshEventsFromThisWeek(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
@@ -139,11 +147,7 @@ public final class UpcomingEvents implements WLServer {
         getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
-                final HashSet<String> dates = new HashSet<>();
-                for(int i = -1; i < 7; i++) {
-                    dates.add(getEventStringForDate(now.plusDays(i)));
-                }
-
+                final HashSet<String> dates = getWeeklyEventDateStrings(now);
                 getEventsFromDates(dates, handler);
             }
 

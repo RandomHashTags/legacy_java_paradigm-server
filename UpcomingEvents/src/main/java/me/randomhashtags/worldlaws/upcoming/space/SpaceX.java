@@ -13,14 +13,9 @@ import java.util.HashMap;
 import java.util.Timer;
 import java.util.TimerTask;
 
-public enum SpaceX implements USAUpcomingEventController {
-    INSTANCE;
-
+public final class SpaceX extends USAUpcomingEventController {
     private Timer autoUpdateTimer;
     private HashMap<String, String> launchpads;
-
-    private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
-    private HashMap<String, String> upcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -28,19 +23,9 @@ public enum SpaceX implements USAUpcomingEventController {
     }
 
     @Override
-    public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
-        return preUpcomingEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getUpcomingEvents() {
-        return upcomingEvents;
-    }
-
-    @Override
     public void load(CompletionHandler handler) {
-        preUpcomingEvents = new HashMap<>();
-        upcomingEvents = new HashMap<>();
+        preUpcomingEvents.clear();
+        upcomingEvents.clear();
         launchpads = new HashMap<>();
 
         if(autoUpdateTimer == null) {
@@ -97,6 +82,7 @@ public enum SpaceX implements USAUpcomingEventController {
 
     @Override
     public void loadUpcomingEvent(String id, CompletionHandler handler) {
+        handler.handleString(null);
         /*final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.get(id);
         final String launchpadID = preUpcomingEvent.getURL(), description = preUpcomingEvent.getTag();
         final String title = preUpcomingEvent.getTitle();

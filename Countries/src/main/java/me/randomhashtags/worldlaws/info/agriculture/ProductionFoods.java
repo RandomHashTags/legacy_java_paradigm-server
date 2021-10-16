@@ -8,6 +8,7 @@ public enum ProductionFoods implements CountryProductionService {
     AVOCADO,
     CHERRY,
     COCONUT,
+    //COFFEE, // https://en.wikipedia.org/wiki/List_of_countries_by_coffee_production
     CUCUMBER,
     EGGPLANT,
     GARLIC,
@@ -17,9 +18,13 @@ public enum ProductionFoods implements CountryProductionService {
     PINEAPPLE,
     PLUM,
     POTATO,
+    //SALT, // https://en.wikipedia.org/wiki/List_of_countries_by_salt_production
     SOYBEAN,
+    //STEEL, //https://en.wikipedia.org/wiki/List_of_countries_by_steel_production
     TOMATO,
     ;
+
+    //
 
     @Override
     public SovereignStateInfo getInfo() {

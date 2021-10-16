@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
 import me.randomhashtags.worldlaws.recent.software.videogames.VideoGameUpdateController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.VideoGameEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -16,15 +17,10 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
 
-public enum VideoGames implements UpcomingEventController {
-    INSTANCE;
-
+public final class VideoGames extends UpcomingEventController {
     private String videoGameListCache;
-    private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
-    private HashMap<String, String> upcomingEvents;
 
     @Override
     public UpcomingEventType getType() {
@@ -33,8 +29,8 @@ public enum VideoGames implements UpcomingEventController {
 
     @Override
     public void load(CompletionHandler handler) {
-        preUpcomingEvents = new HashMap<>();
-        upcomingEvents = new HashMap<>();
+        preUpcomingEvents.clear();
+        upcomingEvents.clear();
 
         final int thisYear = WLUtilities.getTodayYear();
         final Month startingMonth = LocalDate.now().getMonth();
@@ -71,16 +67,6 @@ public enum VideoGames implements UpcomingEventController {
         return null;
     }
 
-    @Override
-    public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
-        return preUpcomingEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getUpcomingEvents() {
-        return upcomingEvents;
-    }
-
     private void refreshUpcomingVideoGames(int year, Month startingMonth, CompletionHandler handler) {
         final String url = "https://en.wikipedia.org/wiki/" + year + "_in_video_games";
         final Document doc = getDocument(url);
@@ -98,6 +84,8 @@ public enum VideoGames implements UpcomingEventController {
                 }
             }
             refreshUpcomingVideoGames(year, startingMonth, new Elements(elementList), handler);
+        } else {
+            handler.handleString(null);
         }
     }
     private void refreshUpcomingVideoGames(int year, Month startingMonth, Elements array, CompletionHandler handler) {

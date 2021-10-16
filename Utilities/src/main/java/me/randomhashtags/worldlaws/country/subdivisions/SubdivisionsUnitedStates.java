@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateResource;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.WLTimeZone;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -137,6 +138,68 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision {
             case HAWAII: return "https://hawaii.gov";
             case TEXAS: return "https://texas.gov";
             default: return "https://" + getPostalCodeAbbreviation().toLowerCase() + ".gov";
+        }
+    }
+
+    @Override
+    public WLTimeZone[] getTimeZones() {
+        final WLTimeZone centralStandardTime = WLTimeZone.AMERICA_CENTRAL_STANDARD_TIME;
+        final WLTimeZone easternStandardTime = WLTimeZone.AMERICA_EASTERN_STANDARD_TIME;
+        final WLTimeZone hawaiiStandardTime = WLTimeZone.AMERICA_HAWAII_STANDARD_TIME;
+        final WLTimeZone mountainStandardTime = WLTimeZone.AMERICA_MOUNTAIN_STANDARD_TIME;
+        final WLTimeZone pacificStandardTime = WLTimeZone.AMERICA_PACIFIC_STANDARD_TIME;
+        switch (this) {
+            case ALABAMA: return collectTimeZones(centralStandardTime, easternStandardTime);
+            case ALASKA: return collectTimeZones(WLTimeZone.AMERICA_ALASKA_STANDARD_TIME, hawaiiStandardTime);
+            case ARKANSAS: return collectTimeZones(centralStandardTime);
+            case ARIZONA: return collectTimeZones(mountainStandardTime);
+            case CALIFORNIA: return collectTimeZones(pacificStandardTime);
+            case COLORADO: return collectTimeZones(mountainStandardTime);
+            case CONNECTICUT: return collectTimeZones(easternStandardTime);
+            case DELAWARE: return collectTimeZones(easternStandardTime);
+            case FLORIDA: return collectTimeZones(easternStandardTime, centralStandardTime);
+            case GEORGIA: return collectTimeZones(easternStandardTime);
+            case HAWAII: return collectTimeZones(hawaiiStandardTime);
+            case IDAHO: return collectTimeZones(mountainStandardTime, pacificStandardTime);
+            case ILLINOIS: return collectTimeZones(centralStandardTime);
+            case INDIANA: return collectTimeZones(easternStandardTime, centralStandardTime);
+            case IOWA: return collectTimeZones(centralStandardTime);
+            case KANSAS: return collectTimeZones(centralStandardTime, mountainStandardTime);
+            case KENTUCKY: return collectTimeZones(easternStandardTime, centralStandardTime);
+            case LOUISIANA: return collectTimeZones(centralStandardTime);
+            case MAINE: return collectTimeZones(easternStandardTime);
+            case MARYLAND: return collectTimeZones(easternStandardTime);
+            case MASSACHUSETTS: return collectTimeZones(easternStandardTime);
+            case MICHIGAN: return collectTimeZones(easternStandardTime, centralStandardTime);
+            case MINNESOTA: return collectTimeZones(centralStandardTime);
+            case MISSISSIPPI: return collectTimeZones(centralStandardTime);
+            case MISSOURI: return collectTimeZones(centralStandardTime);
+            case MONTANA: return collectTimeZones(mountainStandardTime);
+            case NEBRASKA: return collectTimeZones(centralStandardTime, mountainStandardTime);
+            case NEVADA: return collectTimeZones(pacificStandardTime, mountainStandardTime);
+            case NEW_HAMPSHIRE: return collectTimeZones(easternStandardTime);
+            case NEW_JERSEY: return collectTimeZones(easternStandardTime);
+            case NEW_MEXICO: return collectTimeZones(mountainStandardTime, centralStandardTime);
+            case NEW_YORK: return collectTimeZones(easternStandardTime);
+            case NORTH_CAROLINA: return collectTimeZones(easternStandardTime);
+            case NORTH_DAKOTA: return collectTimeZones(centralStandardTime, mountainStandardTime);
+            case OHIO: return collectTimeZones(easternStandardTime);
+            case OKLAHOMA: return collectTimeZones(centralStandardTime, mountainStandardTime);
+            case OREGON: return collectTimeZones(pacificStandardTime, mountainStandardTime);
+            case PENNSYLVANIA: return collectTimeZones(easternStandardTime);
+            case RHODE_ISLAND: return collectTimeZones(easternStandardTime);
+            case SOUTH_CAROLINA: return collectTimeZones(easternStandardTime);
+            case SOUTH_DAKOTA: return collectTimeZones(centralStandardTime, mountainStandardTime);
+            case TENNESSEE: return collectTimeZones(easternStandardTime, centralStandardTime);
+            case TEXAS: return collectTimeZones(centralStandardTime, mountainStandardTime);
+            case UTAH: return collectTimeZones(mountainStandardTime);
+            case VERMONT: return collectTimeZones(easternStandardTime);
+            case VIRGINIA: return collectTimeZones(easternStandardTime);
+            case WASHINGTON: return collectTimeZones(pacificStandardTime);
+            case WEST_VIRGINA: return collectTimeZones(easternStandardTime);
+            case WISCONSIN: return collectTimeZones(centralStandardTime);
+            case WYOMING: return collectTimeZones(mountainStandardTime);
+            default: return null;
         }
     }
 

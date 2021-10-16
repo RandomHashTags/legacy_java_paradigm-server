@@ -220,50 +220,53 @@ public enum Earthquakes implements RestAPI {
         requestJSONObject("https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=" + id + "&format=geojson", RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
-                final JSONObject properties = json.getJSONObject("properties");
-                final Object mag = properties.get("mag");
-                final String magnitude = mag != null ? mag.toString() : "0";
+                if(json != null) {
+                    final JSONObject properties = json.getJSONObject("properties");
+                    final Object mag = properties.get("mag");
+                    final String magnitude = mag != null ? mag.toString() : "0";
 
-                final JSONObject geometry = json.getJSONObject("geometry");
-                final JSONArray coordinates = geometry.getJSONArray("coordinates");
-                final boolean isPoint = geometry.getString("type").equalsIgnoreCase("point");
-                final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
-                final Location location = new Location(latitude, longitude);
+                    final JSONObject geometry = json.getJSONObject("geometry");
+                    final JSONArray coordinates = geometry.getJSONArray("coordinates");
+                    final boolean isPoint = geometry.getString("type").equalsIgnoreCase("point");
+                    final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
+                    final Location location = new Location(latitude, longitude);
 
-                final String url = properties.getString("url"), cause = properties.getString("type").toUpperCase();
+                    final String url = properties.getString("url"), cause = properties.getString("type").toUpperCase();
 
-                String place = properties.getString("place");
-                final String[] regionValues = getRegionValues(place);
-                place = regionValues[0];
-                final String country = regionValues[1], subdivision = regionValues[2];
+                    String place = properties.getString("place");
+                    final String[] regionValues = getRegionValues(place);
+                    place = regionValues[0];
+                    final String country = regionValues[1], subdivision = regionValues[2];
 
-                final long time = properties.getLong("time"), lastUpdated = properties.getLong("updated");
-                final Earthquake earthquake = new Earthquake(country, subdivision, cause, magnitude, place, time, lastUpdated, 0, location, url);
-                final String string = earthquake.toString();
-                handler.handleString(string);
+                    final long time = properties.getLong("time"), lastUpdated = properties.getLong("updated");
+                    final Earthquake earthquake = new Earthquake(country, subdivision, cause, magnitude, place, time, lastUpdated, 0, location, url);
+                    final String string = earthquake.toString();
+                    handler.handleString(string);
+                } else {
+                    handler.handleString(null);
+                }
             }
         });
     }
 
     private String[] getRegionValues(String place) {
         String country = null, territory = null;
-        if(place.contains(", ")) {
-            final String[] values = place.split(", ");
-            final String targetValue = values[values.length-1];
-            final String target = targetValue.toLowerCase().replace(" region", "").replace(" ", "");
-            WLCountry wlcountry = WLCountry.valueOfBackendID(target);
-            if(wlcountry != null) {
-                country = target;
-            } else {
-                final SovereignStateSubdivision subdivision = WLSubdivisions.INSTANCE.valueOfString(target);
-                if(subdivision != null) {
-                    country = subdivision.getCountry().getBackendID();
-                    territory = subdivision.getBackendID();
-                }
+        final String[] values = place.split(", ");
+        final String targetValue = values[values.length-1];
+        final String targetValueLowercase = targetValue.toLowerCase();
+        final String target = targetValueLowercase.replace(" region", "").replace(" ", "");
+        WLCountry wlcountry = WLCountry.valueOfBackendID(target);
+        if(wlcountry != null) {
+            country = target;
+        } else {
+            final SovereignStateSubdivision subdivision = WLSubdivisions.INSTANCE.valueOfString(target);
+            if(subdivision != null) {
+                country = subdivision.getCountry().getBackendID();
+                territory = subdivision.getBackendID();
             }
-            if(country != null) {
-                place = place.substring(0, place.length()-targetValue.length()-2);
-            }
+        }
+        if(country != null && !place.equals(targetValue)) {
+            place = place.substring(0, place.length()-targetValue.length()-2);
         }
         return new String[] { place, country, territory };
     }

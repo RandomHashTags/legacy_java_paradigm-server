@@ -3,19 +3,16 @@ package me.randomhashtags.worldlaws.upcoming.space;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.SpaceEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.HashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.StreamSupport;
 
-public enum SpaceEvents implements LoadedUpcomingEventController {
-    INSTANCE;
-
-    private HashMap<String, String> upcomingEvents;
+public final class SpaceEvents extends LoadedUpcomingEventController {
 
     @Override
     public UpcomingEventType getType() {
@@ -23,15 +20,9 @@ public enum SpaceEvents implements LoadedUpcomingEventController {
     }
 
     @Override
-    public HashMap<String, String> getUpcomingEvents() {
-        return upcomingEvents;
-    }
-
-    @Override
     public void load(CompletionHandler handler) {
-        upcomingEvents = new HashMap<>();
+        upcomingEvents.clear();
         final UpcomingEventType eventType = getType();
-
         final String url = "https://ll.thespacedevs.com/2.0.0/event/upcoming/?format=json&limit=50&offset=0";
         requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
@@ -60,7 +51,7 @@ public enum SpaceEvents implements LoadedUpcomingEventController {
 
                             final String id = getEventDateIdentifier(dateString, title);
                             final SpaceEvent event = new SpaceEvent(title, description, imageURL, location, sources);
-                            putLoadedPreUpcomingEvent(id, event.toPreUpcomingEventJSON(eventType, id, location));
+                            LOADED_PRE_UPCOMING_EVENTS.put(id, event.toPreUpcomingEventJSON(eventType, id, location));
                             upcomingEvents.put(id, event.toString());
                         }
 

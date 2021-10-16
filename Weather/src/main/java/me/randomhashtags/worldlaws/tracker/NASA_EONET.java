@@ -1,9 +1,8 @@
 package me.randomhashtags.worldlaws.tracker;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.country.Location;
-import me.randomhashtags.worldlaws.country.SovereignStateInfo;
-import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.*;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionsUnitedStates;
 import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -71,13 +70,13 @@ public enum NASA_EONET implements WLService {
                                     break;
                                 }
                             }
-                            String country = null, territory = null;
-                            final String[] countryReplacements = new String[] {
+                            String country = null, subdivision = null;
+                            final String[] replacements = new String[] {
                                     ", ",
                                     " - ",
                                     " "
                             };
-                            for(String string : countryReplacements) {
+                            for(String string : replacements) {
                                 if(place.contains(string)) {
                                     final String[] values = place.split(string);
                                     final String value = values[values.length-1];
@@ -90,8 +89,23 @@ public enum NASA_EONET implements WLService {
                                     }
                                 }
                             }
+                            final WLSubdivisions subdivisions = WLSubdivisions.INSTANCE;
+                            for(String string : replacements) {
+                                if(place.contains(string)) {
+                                    final String[] values = place.split(string);
+                                    final String value = values[values.length-1];
+                                    final String targetSubdivision = value.toLowerCase().replace(" ", "");
+                                    final SovereignStateSubdivision sss = subdivisions.valueOfString(targetSubdivision);
+                                    if(sss != null) {
+                                        subdivision = sss.getName();
+                                        place = place.split(string + value)[0];
+                                        break;
+                                    }
+                                }
+                            }
                             if(place.endsWith("(CA)")) {
                                 country = WLCountry.UNITED_STATES.getBackendID();
+                                subdivision = SubdivisionsUnitedStates.CALIFORNIA.getName();
                             }
 
                             final String id = eventJSON.getString("id");
@@ -121,7 +135,7 @@ public enum NASA_EONET implements WLService {
                                 sources.append(new EventSource(siteName, url));
                             }
 
-                            final NaturalEvent naturalEvent = new NaturalEvent(id, place, country, location, sources);
+                            final NaturalEvent naturalEvent = new NaturalEvent(id, place, country, subdivision, location, sources);
                             homeValues.get(category).add(naturalEvent.toString());
                         }
 
@@ -159,14 +173,15 @@ public enum NASA_EONET implements WLService {
 
     private static final class NaturalEvent {
 
-        private final String id, place, country;
+        private final String id, place, country, subdivision;
         private final Location location;
         private final EventSources sources;
 
-        NaturalEvent(String id, String place, String country, Location location, EventSources sources) {
+        NaturalEvent(String id, String place, String country, String subdivision, Location location, EventSources sources) {
             this.id = id;
             this.place = LocalServer.fixEscapeValues(place);
             this.country = country;
+            this.subdivision = subdivision;
             this.location = location;
             this.sources = sources;
         }
@@ -176,6 +191,7 @@ public enum NASA_EONET implements WLService {
             return "\"" + id + "\":{" +
                     "\"place\":\"" + place + "\"," +
                     (country != null ? "\"country\":\"" + country + "\"," : "") +
+                    (subdivision != null ? "\"subdivision\":\"" + subdivision + "\"," : "") +
                     (location != null ? "\"location\":" + location.toString() + "," : "") +
                     "\"sources\":" + sources.toString() +
                     "}";

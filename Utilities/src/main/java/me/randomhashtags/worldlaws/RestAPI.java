@@ -142,18 +142,7 @@ public interface RestAPI {
                 reader.close();
                 responseString = response.toString();
             } else {
-                final StringBuilder builder = new StringBuilder("RestAPI ERROR!");
-                builder.append("\nDiagnoses = responseCode=").append(responseCode);
-                builder.append("\ntargeturl=").append(targetURL);
-                builder.append("\nheaderFields=").append(connection.getHeaderFields().toString());
-                try {
-                    final String string = connection.getRequestProperties().toString();
-                    builder.append("\nrequestProperties=").append(string);
-                } catch (Exception ignored) {
-                }
-                builder.append("\nheaders=").append(headers != null ? headers.toString() : "null");
-                builder.append("\nerrorStream=").append(connection.getErrorStream());
-                WLLogger.log(Level.WARN, builder.toString());
+                WLLogger.log(Level.WARN, "RestAPI - invalid response code (" + responseCode + ") for url \"" + targetURL + "\"!");
             }
             handler.handleString(responseString);
             if(PENDING_SAME_REQUESTS.containsKey(targetURL)) {

@@ -113,10 +113,8 @@ public final class WikipediaDocument {
         if(documentImageURL != null && !images.contains(documentImageURL)) {
             images.add(documentImageURL);
         }
-        images.remove("static/images/footer/wikimedia-button.png");
-        images.remove("/static/images/footer/wikimedia-button.png");
-        images.remove(":/static/images/footer/wikimedia-button.png");
-        images.remove("/static/images/footer/poweredby_mediawiki_88x31.png");
+        images.remove("https:/static/images/footer/poweredby_mediawiki_88x31.png");
+        images.remove("https:/static/images/footer/wikimedia-button.png");
         return images.isEmpty() ? null : images;
     }
     private String getImageURLFrom(Element element) {

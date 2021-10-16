@@ -1,9 +1,10 @@
-package me.randomhashtags.worldlaws.upcoming;
+package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.PreUpcomingEvent;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
 
 public abstract class UpcomingEvent implements Jsoupable {

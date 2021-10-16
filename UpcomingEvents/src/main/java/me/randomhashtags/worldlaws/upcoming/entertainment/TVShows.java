@@ -3,31 +3,23 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.TVShowEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.HashMap;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.StreamSupport;
 
-public enum TVShows implements LoadedUpcomingEventController {
-    INSTANCE;
-
-    private HashMap<String, String> upcomingEvents;
+public final class TVShows extends LoadedUpcomingEventController {
     private String allShowsCache;
 
     @Override
     public UpcomingEventType getType() {
         return UpcomingEventType.TV_SHOW;
-    }
-
-    @Override
-    public HashMap<String, String> getUpcomingEvents() {
-        return upcomingEvents;
     }
 
     @Override
@@ -114,12 +106,11 @@ public enum TVShows implements LoadedUpcomingEventController {
     private void refresh(CompletionHandler handler) {
         final String url = "https://api.tvmaze.com/schedule/full";
         final UpcomingEventType eventType = getType();
-
         requestJSONArray(url, RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONArray(JSONArray array) {
                 if(array != null) {
-                    upcomingEvents = new HashMap<>();
+                    upcomingEvents.clear();
                     final LocalDate nextWeek = LocalDate.now().plusWeeks(1);
                     final int max = array.length();
                     final AtomicInteger completed = new AtomicInteger(0);
@@ -171,7 +162,7 @@ public enum TVShows implements LoadedUpcomingEventController {
                                 }
 
                                 final TVShowEvent tvShowEvent = new TVShowEvent(showTitle, null, imageURL, null, language, countryCode, officialSite, network, runtimeMinutes, season, episode, episodeName, episodeSummary, genres, sources);
-                                putLoadedPreUpcomingEvent(identifier, tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, showTitle));
+                                LOADED_PRE_UPCOMING_EVENTS.put(identifier, tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, showTitle));
                                 upcomingEvents.put(identifier, tvShowEvent.toString());
                             }
                         }

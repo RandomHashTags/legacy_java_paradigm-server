@@ -34,6 +34,7 @@ public enum WeatherAlerts {
     public void getResponse(String value, CompletionHandler handler) {
         final String[] values = value.split("/");
         final String key = values[0];
+        String country = null;
         switch (key) {
             case "all":
                 getAllAlertEvents(handler);
@@ -42,10 +43,12 @@ public enum WeatherAlerts {
                 getAllPreAlerts(values[1], handler);
                 break;
             case "country":
-                getAlertsForCountry(values[1], value.substring(key.length()+1).split("/"), handler);
+                country = values[1];
+                getAlertsForCountry(country, value.substring(key.length()+country.length()+2).split("/"), handler);
                 break;
             case "subdivision":
-                final String country = values[1], subdivision = values[2];
+                country = values[1];
+                final String subdivision = values[2];
                 final String prefix = key + "/" + country + "/" + subdivision;
                 final String target = value.equals(prefix) ? "" : value.substring(prefix.length()+1);
                 WLLogger.log(Level.INFO, "WeatherAlerts;getResponse;subdivision;target=" + target);
@@ -99,40 +102,37 @@ public enum WeatherAlerts {
         }
     }
 
-
     private void getAllPreAlerts(String event, CompletionHandler handler) {
         final WeatherController[] controllers = getCountries();
         final HashSet<String> values = new HashSet<>();
         final int max = controllers.length;
         final AtomicInteger completed = new AtomicInteger(0);
-        Arrays.asList(controllers).parallelStream().forEach(controller -> {
-            controller.getPreAlerts(event, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    if(string != null) {
-                        final String country = controller.getCountry().getBackendID();
-                        final String source = "\"source\":{" + controller.getSource().toString() + "}";
-                        final String alerts = "\"alerts\":" + string;
-                        final String value = "\"" + country + "\":{" + source + "," + alerts + "}";
-                        values.add(value);
-                    }
-                    if(completed.addAndGet(1) == max) {
-                        String value = null;
-                        if(!values.isEmpty()) {
-                            final StringBuilder builder = new StringBuilder("{");
-                            boolean isFirst = true;
-                            for(String valueString : values) {
-                                builder.append(isFirst ? "" : ",").append(valueString);
-                                isFirst = false;
-                            }
-                            builder.append("}");
-                            value = builder.toString();
-                        }
-                        handler.handleString(value);
-                    }
+        Arrays.asList(controllers).parallelStream().forEach(controller -> controller.getPreAlerts(event, new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                if(string != null) {
+                    final String country = controller.getCountry().getBackendID();
+                    final String source = "\"source\":{" + controller.getSource().toString() + "}";
+                    final String alerts = "\"alerts\":" + string;
+                    final String value = "\"" + country + "\":{" + source + "," + alerts + "}";
+                    values.add(value);
                 }
-            });
-        });
+                if(completed.addAndGet(1) == max) {
+                    String value = null;
+                    if(!values.isEmpty()) {
+                        final StringBuilder builder = new StringBuilder("{");
+                        boolean isFirst = true;
+                        for(String valueString : values) {
+                            builder.append(isFirst ? "" : ",").append(valueString);
+                            isFirst = false;
+                        }
+                        builder.append("}");
+                        value = builder.toString();
+                    }
+                    handler.handleString(value);
+                }
+            }
+        }));
     }
 
     private void getAlertEvents(String countryBackendID, CompletionHandler handler) {

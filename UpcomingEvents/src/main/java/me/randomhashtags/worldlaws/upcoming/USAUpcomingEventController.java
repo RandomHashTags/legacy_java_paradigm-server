@@ -2,9 +2,9 @@ package me.randomhashtags.worldlaws.upcoming;
 
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public interface USAUpcomingEventController extends UpcomingEventController {
+public abstract class USAUpcomingEventController extends UpcomingEventController {
     @Override
-    default WLCountry getCountry() {
+    public WLCountry getCountry() {
         return WLCountry.UNITED_STATES;
     }
 }

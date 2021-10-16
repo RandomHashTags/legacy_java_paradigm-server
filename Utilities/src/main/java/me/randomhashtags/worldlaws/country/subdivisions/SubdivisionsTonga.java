@@ -5,11 +5,11 @@ import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
 public enum SubdivisionsTonga implements SovereignStateSubdivision {
+    EUA, // 'Eua
+    HA_APAI, // Ha'apai
+    ONGO_NIUA,
     TONGATAPU,
     VAVA_U, // Vava'u
-    HA_APAI, // Ha'apai
-    _EUA, // 'Eua
-    ONGO_NIUA,
     ;
 
     @Override

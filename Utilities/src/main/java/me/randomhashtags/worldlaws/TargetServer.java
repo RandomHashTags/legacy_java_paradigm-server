@@ -27,12 +27,12 @@ public enum TargetServer implements RestAPI, DataValues {
 
     private static final String WHATS_NEW_RESPONSE;
     private static final HashMap<APIVersion, JSONObject> HOME_JSON;
-    private static final HashMap<APIVersion, HashMap<HashSet<String>, String>> HOME_JSONS;
+    private static final HashMap<APIVersion, HashMap<HashSet<String>, String>> HOME_JSON_QUERIES;
 
     static {
         WHATS_NEW_RESPONSE = "";
         HOME_JSON = new HashMap<>();
-        HOME_JSONS = new HashMap<>();
+        HOME_JSON_QUERIES = new HashMap<>();
     }
 
     private String ipAddress;
@@ -101,16 +101,16 @@ public enum TargetServer implements RestAPI, DataValues {
         }
     }
     private String getHomeResponse(APIVersion version, HashSet<String> query) {
-        if(HOME_JSONS.containsKey(version)) {
-            return HOME_JSONS.get(version).containsKey(query) ? HOME_JSONS.get(version).get(query) : loadQueryJSON(version, query);
+        if(HOME_JSON_QUERIES.containsKey(version)) {
+            return HOME_JSON_QUERIES.get(version).containsKey(query) ? HOME_JSON_QUERIES.get(version).get(query) : loadQueryJSON(version, query);
         } else {
-            HOME_JSONS.put(version, new HashMap<>());
+            HOME_JSON_QUERIES.put(version, new HashMap<>());
             return loadQueryJSON(version, query);
         }
     }
     private String loadQueryJSON(APIVersion version, HashSet<String> query) {
         final String target = getQueryJSON(version, query);
-        HOME_JSONS.get(version).put(query, target);
+        HOME_JSON_QUERIES.get(version).put(query, target);
         return target;
     }
     private String getQueryJSON(APIVersion version, HashSet<String> query) {
@@ -179,6 +179,7 @@ public enum TargetServer implements RestAPI, DataValues {
                     final String string = builder.toString();
                     final JSONObject json = new JSONObject(string);
                     HOME_JSON.put(version, json);
+                    HOME_JSON_QUERIES.remove(version);
                     WLLogger.log(Level.INFO, "TargetServer - " + (isUpdate ? "auto-" : "") + "updated " + versionName + " home responses (took " + (System.currentTimeMillis()-started) + "ms)");
                     if(handler != null) {
                         handler.handleString(string);

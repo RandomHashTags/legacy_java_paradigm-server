@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.SpotifyService;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.MusicAlbumEvent;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -15,11 +16,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public enum MusicAlbums implements UpcomingEventController, SpotifyService {
-    INSTANCE;
-
-    private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
-    private HashMap<String, String> upcomingEvents;
+public final class MusicAlbums extends UpcomingEventController implements SpotifyService {
 
     @Override
     public UpcomingEventType getType() {
@@ -27,20 +24,9 @@ public enum MusicAlbums implements UpcomingEventController, SpotifyService {
     }
 
     @Override
-    public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
-        return preUpcomingEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getUpcomingEvents() {
-        return upcomingEvents;
-    }
-
-    @Override
     public void load(CompletionHandler handler) {
-        preUpcomingEvents = new HashMap<>();
-        upcomingEvents = new HashMap<>();
-
+        preUpcomingEvents.clear();
+        upcomingEvents.clear();
         final int year = WLUtilities.getTodayYear();
         final Month startingMonth = LocalDate.now().getMonth();
         refresh(year, startingMonth, handler);
@@ -64,48 +50,52 @@ public enum MusicAlbums implements UpcomingEventController, SpotifyService {
 
         final AtomicInteger completed = new AtomicInteger(0);
         final int max = urls.size();
-        urls.keySet().parallelStream().forEach(url -> {
-            final Document doc = getDocument(url);
-            if(doc != null) {
-                final Elements headers = doc.select("h3");
-                final Elements tables = doc.select("h3 + table.wikitable");
-                final int tableIndex = urls.get(url);
-                final Element table = tables.get(tableIndex);
-                int previousDay = 1;
-                final int header = tables.indexOf(table);
-                final Month month = Month.valueOf(headers.get(header).text().split("\\[")[0].toUpperCase());
-                final String monthName = month.name();
-                final Elements trs = table.select("tbody tr");
-                trs.remove(0);
-                trs.remove(0);
-                for(Element row : trs) {
-                    final Elements tds = row.select("td");
-                    final Element targetDayElement = row.selectFirst("th");
-                    final boolean isNewDay = targetDayElement != null;
-                    final String targetDay = isNewDay ? targetDayElement.text().toUpperCase() : null;
-                    final int maxTDs = tds.size();
-                    final int day = isNewDay ? targetDay.equals("TBA") ? -1 : Integer.parseInt(targetDay.split(monthName + " ")[1]) : previousDay;
-                    previousDay = day;
-                    if(maxTDs >= 5) {
-                        final Element artistElement = tds.get(maxTDs-5), albumElement = tds.get(maxTDs-4);
-                        final Elements hrefs = albumElement.select("i a");
-                        final String albumURL = !hrefs.isEmpty() ? prefix + hrefs.get(0).attr("href") : null;
-                        final String artist = artistElement.text(), album = albumElement.text();
+        if(max == 0) {
+            handler.handleString(null);
+        } else {
+            urls.keySet().parallelStream().forEach(url -> {
+                final Document doc = getDocument(url);
+                if(doc != null) {
+                    final Elements headers = doc.select("h3");
+                    final Elements tables = doc.select("h3 + table.wikitable");
+                    final int tableIndex = urls.get(url);
+                    final Element table = tables.get(tableIndex);
+                    int previousDay = 1;
+                    final int header = tables.indexOf(table);
+                    final Month month = Month.valueOf(headers.get(header).text().split("\\[")[0].toUpperCase());
+                    final String monthName = month.name();
+                    final Elements trs = table.select("tbody tr");
+                    trs.remove(0);
+                    trs.remove(0);
+                    for(Element row : trs) {
+                        final Elements tds = row.select("td");
+                        final Element targetDayElement = row.selectFirst("th");
+                        final boolean isNewDay = targetDayElement != null;
+                        final String targetDay = isNewDay ? targetDayElement.text().toUpperCase() : null;
+                        final int maxTDs = tds.size();
+                        final int day = isNewDay ? targetDay.equals("TBA") ? -1 : Integer.parseInt(targetDay.split(monthName + " ")[1]) : previousDay;
+                        previousDay = day;
+                        if(maxTDs >= 5) {
+                            final Element artistElement = tds.get(maxTDs-5), albumElement = tds.get(maxTDs-4);
+                            final Elements hrefs = albumElement.select("i a");
+                            final String albumURL = !hrefs.isEmpty() ? prefix + hrefs.get(0).attr("href") : null;
+                            final String artist = artistElement.text(), album = albumElement.text();
 
-                        if(albumURL != null) {
-                            final String dateString = getEventDateString(year, month, day);
-                            final String id = getEventDateIdentifier(dateString, album);
-                            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, album, albumURL, artist);
-                            preUpcomingEvents.put(id, preUpcomingEvent);
+                            if(albumURL != null) {
+                                final String dateString = getEventDateString(year, month, day);
+                                final String id = getEventDateIdentifier(dateString, album);
+                                final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, album, albumURL, artist);
+                                preUpcomingEvents.put(id, preUpcomingEvent);
+                            }
                         }
                     }
                 }
-            }
 
-            if(completed.addAndGet(1) == max) {
-                handler.handleString(null);
-            }
-        });
+                if(completed.addAndGet(1) == max) {
+                    handler.handleString(null);
+                }
+            });
+        }
     }
 
     @Override

@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.earthquakes.Earthquakes;
 import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
 import me.randomhashtags.worldlaws.tracker.NASA_EONET;
-import me.randomhashtags.worldlaws.weather.country.WeatherUSA;
 import org.apache.logging.log4j.Level;
 
 public final class Weather implements WLServer {
@@ -24,15 +23,10 @@ public final class Weather implements WLServer {
     }
 
     private void test() {
-        WeatherUSA.INSTANCE.refresh(new CompletionHandler() {
+        Earthquakes.INSTANCE.getResponse(new String[] { "recent" }, new CompletionHandler() {
             @Override
             public void handleString(String string) {
-                WeatherAlerts.INSTANCE.getResponse("country/unitedstates/id/urn:oid:2.49.0.1.840.0.d117a720e5b050ef5a350005de5206b7404ce645.001.1", new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        WLLogger.log(Level.INFO, "Weather;test;string=" + string);
-                    }
-                });
+                WLLogger.log(Level.INFO, "Weather;test;string=" + string);
             }
         });
     }

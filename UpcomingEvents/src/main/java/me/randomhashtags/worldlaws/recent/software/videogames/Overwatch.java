@@ -16,6 +16,11 @@ public enum Overwatch implements VideoGameUpdateController {
     INSTANCE;
 
     @Override
+    public String getName() {
+        return "Overwatch";
+    }
+
+    @Override
     public String getUpdatePageURL() {
         return "https://playoverwatch.com/en-us/news/patch-notes/";
     }

@@ -33,7 +33,7 @@ public enum AstronomyPictureOfTheDay implements WLService {
                     json.remove("service_version");
                     final String string = json.toString();
                     cache.put(version, string);
-                    WLLogger.log(Level.INFO, "APOD - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.log(Level.INFO, "AstronomyPictureOfTheDay - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
                     handler.handleString(string);
                 }
             });

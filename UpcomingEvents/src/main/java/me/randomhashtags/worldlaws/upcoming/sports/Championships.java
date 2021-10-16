@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.ChampionshipEvent;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Node;
@@ -11,28 +12,14 @@ import org.jsoup.select.Elements;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
-public enum Championships implements UpcomingEventController { // https://en.wikipedia.org/wiki/2021_in_sports
-    INSTANCE;
-
-    private HashMap<String, PreUpcomingEvent> preUpcomingEvents;
+public final class Championships extends UpcomingEventController { // https://en.wikipedia.org/wiki/2021_in_sports
 
     @Override
     public UpcomingEventType getType() {
         return UpcomingEventType.SPORT_CHAMPIONSHIPS;
-    }
-
-    @Override
-    public HashMap<String, PreUpcomingEvent> getPreUpcomingEvents() {
-        return preUpcomingEvents;
-    }
-
-    @Override
-    public HashMap<String, String> getUpcomingEvents() {
-        return null;
     }
 
     @Override
@@ -41,7 +28,7 @@ public enum Championships implements UpcomingEventController { // https://en.wik
         final String url = "https://en.wikipedia.org/wiki/" + year + "_in_sports";
         final Document doc = getDocument(url);
         if(doc != null) {
-            preUpcomingEvents = new HashMap<>();
+            preUpcomingEvents.clear();
             final LocalDate date = LocalDate.now();
             final Month thisMonth = date.getMonth(), previousMonth = date.minusMonths(1).getMonth();
             final int thisMonthInt = thisMonth.getValue(), previousMonthInt = previousMonth.getValue();
@@ -92,7 +79,7 @@ public enum Championships implements UpcomingEventController { // https://en.wik
                 for(Element flagIcon : flagIconElements) {
                     final String[] href = flagIcon.selectFirst("a[href]").attr("href").split("/");
                     final String country = href[href.length-1];
-                    countries.add(country.toLowerCase().replace(" ", ""));
+                    countries.add(country.toLowerCase().replace(" ", "").replace("_", ""));
                 }
                 final int max = flagIconElements.size();
                 if(eventElementLinks.size() > max) {

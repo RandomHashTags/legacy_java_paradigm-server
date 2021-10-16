@@ -5,6 +5,7 @@ import org.json.JSONObject;
 public enum UpcomingEventType {
     MOVIE,
     MUSIC_ALBUM,
+    TICKETMASTER_MUSIC_EVENT,
 
     SPACE_EVENT,
     //SPACE_X,
@@ -51,14 +52,19 @@ public enum UpcomingEventType {
     public String getImageURLPrefix() {
         switch (this) {
             case MUSIC_ALBUM:
+            case SPORT_CHAMPIONSHIPS:
             case SPORT_UFC:
             case VIDEO_GAME:
-                return "https://upload.wikimedia.org/wikipedia/en/thumb/";
+                return "https://upload.wikimedia.org/wikipedia/";
             case SPACE_EVENT:
             case SPACE_ROCKET_LAUNCH:
                 return "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/";
-            case TV_SHOW: return "https://static.tvmaze.com/uploads/images/original_untouched/";
-            default: return null;
+            case TICKETMASTER_MUSIC_EVENT:
+                return "https://s1.ticketm.net/dam/";
+            case TV_SHOW:
+                return "https://static.tvmaze.com/uploads/images/original_untouched/";
+            default:
+                return null;
         }
     }
     public String getSingularName() {

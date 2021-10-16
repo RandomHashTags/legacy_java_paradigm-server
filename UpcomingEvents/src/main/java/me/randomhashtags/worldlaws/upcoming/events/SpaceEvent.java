@@ -1,7 +1,6 @@
-package me.randomhashtags.worldlaws.upcoming.space;
+package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.upcoming.UpcomingEvent;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 
 public final class SpaceEvent extends UpcomingEvent {

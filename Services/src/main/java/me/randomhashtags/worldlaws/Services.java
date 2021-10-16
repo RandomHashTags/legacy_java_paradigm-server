@@ -58,7 +58,7 @@ public final class Services implements WLServer {
     @Override
     public String[] getHomeRequests() {
         return new String[] {
-                "stock_market",
+                //"stock_market",
                 "astronomy_picture_of_the_day",
                 "word_of_the_day"
         };
@@ -101,31 +101,29 @@ public final class Services implements WLServer {
         final int max = requests.size();
         final HashSet<String> values = new HashSet<>();
         final AtomicInteger completed = new AtomicInteger(0);
-        requests.parallelStream().forEach(request -> {
-            getStockMarketResponse(version, request, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    if(string != null) {
-                        final String target = "\"" + request + "\":" + string;
-                        values.add(target);
-                    }
-                    if(completed.addAndGet(1) == max) {
-                        String value = null;
-                        if(!values.isEmpty()) {
-                            final StringBuilder builder = new StringBuilder("{");
-                            boolean isFirst = true;
-                            for(String s : values) {
-                                builder.append(isFirst ? "" : ",").append(s);
-                                isFirst = false;
-                            }
-                            builder.append("}");
-                            value = builder.toString();
-                        }
-                        WLLogger.log(Level.INFO, "Services - loaded stock market home response (took " + (System.currentTimeMillis()-started) + "ms)");
-                        handler.handleString(value);
-                    }
+        requests.parallelStream().forEach(request -> getStockMarketResponse(version, request, new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                if(string != null) {
+                    final String target = "\"" + request + "\":" + string;
+                    values.add(target);
                 }
-            });
-        });
+                if(completed.addAndGet(1) == max) {
+                    String value = null;
+                    if(!values.isEmpty()) {
+                        final StringBuilder builder = new StringBuilder("{");
+                        boolean isFirst = true;
+                        for(String s : values) {
+                            builder.append(isFirst ? "" : ",").append(s);
+                            isFirst = false;
+                        }
+                        builder.append("}");
+                        value = builder.toString();
+                    }
+                    WLLogger.log(Level.INFO, "Services - loaded stock market home response (took " + (System.currentTimeMillis()-started) + "ms)");
+                    handler.handleString(value);
+                }
+            }
+        }));
     }
 }

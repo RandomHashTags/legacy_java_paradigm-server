@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.country;
 
+import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.LocalServer;
@@ -14,26 +15,24 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public interface SovereignStateSubdivision extends WikipediaService {
+public interface SovereignStateSubdivision extends SovereignState, WikipediaService {
     String name();
     WLCountry getCountry();
     default String getBackendID() {
         return getName().toLowerCase().replace(" ", "");
     }
+    default String getShortName() {
+        return null;
+    }
     default String getName() {
         return LocalServer.toCorrectCapitalization(name());
     }
     String getPostalCodeAbbreviation();
-    String getFlagURL();
     default String getGovernmentWebsite() {
         return null;
     }
     default String getWikipediaURL() {
         return "https://en.wikipedia.org/wiki/" + getName().replace(" ", "_");
-    }
-    //WLTimeZone[] getTimeZones(); // TODO: implement
-    default WLTimeZone[] collectTimeZones(WLTimeZone...timezones) {
-        return timezones;
     }
     //String[] getMottos(); // TODO: implement (https://en.wikipedia.org/wiki/List_of_U.S._state_and_territory_mottos)
     default String[] collectMottos(String...mottos) {
@@ -51,7 +50,7 @@ public interface SovereignStateSubdivision extends WikipediaService {
         return null;
     }
 
-    default void getInformation(CompletionHandler handler) {
+    default void getInformation(APIVersion version, CompletionHandler handler) {
         final Folder folder = Folder.COUNTRIES_SUBDIVISIONS_INFORMATION;
         final String fileName = name();
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", getCountry().getBackendID()));
@@ -164,7 +163,9 @@ public interface SovereignStateSubdivision extends WikipediaService {
 
     default String toJSON() {
         final String flagURL = getFlagURL();
+        final WLTimeZone[] timezones = getTimeZones();
         return "\"" + getName() + "\":{" +
+                (timezones != null ? "\"timezones\":" + getTimeZonesJSON(timezones) + (flagURL != null ? "," : "") : "") +
                 (flagURL != null ? "\"flagURL\":\"" + flagURL + "\"" : "") +
                 "}";
     }

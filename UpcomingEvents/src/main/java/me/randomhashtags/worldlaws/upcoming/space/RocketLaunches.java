@@ -3,18 +3,16 @@ package me.randomhashtags.worldlaws.upcoming.space;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.events.RocketLaunchEvent;
+import me.randomhashtags.worldlaws.upcoming.events.RocketLaunchMission;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
-import java.util.HashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.StreamSupport;
 
-public enum RocketLaunches implements LoadedUpcomingEventController {
-    INSTANCE;
-
-    private HashMap<String, String> upcomingEvents;
+public final class RocketLaunches extends LoadedUpcomingEventController {
 
     @Override
     public UpcomingEventType getType() {
@@ -22,15 +20,9 @@ public enum RocketLaunches implements LoadedUpcomingEventController {
     }
 
     @Override
-    public HashMap<String, String> getUpcomingEvents() {
-        return upcomingEvents;
-    }
-
-    @Override
     public void load(CompletionHandler handler) {
-        upcomingEvents = new HashMap<>();
+        upcomingEvents.clear();
         final UpcomingEventType eventType = getType();
-
         requestJSONObject("https://ll.thespacedevs.com/2.0.0/launch/upcoming/?format=json&limit=50&mode=detailed&offset=0", RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
@@ -61,12 +53,12 @@ public enum RocketLaunches implements LoadedUpcomingEventController {
 
                         final EventDate date = new EventDate(windowStart);
                         final String dateString = getEventDateString(date), id = getEventDateIdentifier(dateString, name);
-                        final RocketLaunch launch = new RocketLaunch(name, status, location, exactDay, exactTime, probability, rocketImageURL, mission, windowStart, windowEnd, sources);
+                        final RocketLaunchEvent launch = new RocketLaunchEvent(name, status, location, exactDay, exactTime, probability, rocketImageURL, mission, windowStart, windowEnd, sources);
                         final String string = launch.toString();
                         if(date.getLocalDate().isEqual(today)) {
                             saveUpcomingEventToJSON(id, string);
                         }
-                        putLoadedPreUpcomingEvent(id, launch.toPreUpcomingEventJSON(eventType, id, location));
+                        LOADED_PRE_UPCOMING_EVENTS.put(id, launch.toPreUpcomingEventJSON(eventType, id, location));
                         upcomingEvents.put(id, string);
 
                         if(completed.addAndGet(1) == max) {

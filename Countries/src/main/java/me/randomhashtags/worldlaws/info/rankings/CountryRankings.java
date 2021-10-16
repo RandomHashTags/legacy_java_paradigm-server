@@ -250,6 +250,17 @@ public enum CountryRankings implements CountryRankingService {
     ),
     ;
 
+    // TODO: UPDATE!!
+    // EMPLOYMENT_RATE, // https://en.wikipedia.org/wiki/List_of_countries_by_employment_rate
+    // EXPORTS, // https://en.wikipedia.org/wiki/List_of_countries_by_exports
+    // HEALTH_CARE_COST, // https://en.wikipedia.org/wiki/List_of_countries_by_total_health_expenditure_per_capita
+    // HOME_OWNERSHIP, // https://en.wikipedia.org/wiki/List_of_countries_by_home_ownership_rate
+    // IMPORTS, // https://en.wikipedia.org/wiki/List_of_countries_by_imports
+    // INTERNET_CONNECTION_SPEEDS, // https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds
+    // NUMBER_OF_BILLIONAIRES, // https://en.wikipedia.org/wiki/List_of_countries_by_number_of_billionaires
+    // NUMBER_OF_MILLIONAIRES, // https://en.wikipedia.org/wiki/List_of_countries_by_the_number_of_millionaires
+    // TARIFF_RATE, // https://en.wikipedia.org/wiki/List_of_countries_by_tariff_rate
+
     private final String url, siteName, suffix;
     private final NumberType valueType;
     private final int maxWorldRankOffset, yearOfData;
