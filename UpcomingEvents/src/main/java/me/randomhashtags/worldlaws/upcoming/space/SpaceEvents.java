@@ -21,7 +21,6 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
 
     @Override
     public void load(CompletionHandler handler) {
-        upcomingEvents.clear();
         final UpcomingEventType eventType = getType();
         final String url = "https://ll.thespacedevs.com/2.0.0/event/upcoming/?format=json&limit=50&offset=0";
         requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
@@ -46,13 +45,13 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
 
                             final String title = resultJSON.getString("name");
                             final String description = resultJSON.getString("description");
-                            final String location = resultJSON.getString("location");
+                            final String location = resultJSON.get("location") instanceof String ? resultJSON.getString("location") : null;
                             final String imageURL = resultJSON.getString("feature_image");
 
                             final String id = getEventDateIdentifier(dateString, title);
                             final SpaceEvent event = new SpaceEvent(title, description, imageURL, location, sources);
-                            LOADED_PRE_UPCOMING_EVENTS.put(id, event.toPreUpcomingEventJSON(eventType, id, location));
-                            upcomingEvents.put(id, event.toString());
+                            putLoadedPreUpcomingEvent(id, event.toPreUpcomingEventJSON(eventType, id, location));
+                            putUpcomingEvent(id, event.toString());
                         }
 
                         if(completed.addAndGet(1) == max) {

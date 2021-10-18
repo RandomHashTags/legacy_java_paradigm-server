@@ -34,8 +34,6 @@ public final class Movies extends UpcomingEventController implements IMDbService
     }
 
     private void refreshFilms(int year, Month startingMonth, CompletionHandler handler) {
-        preUpcomingEvents.clear();
-        upcomingEvents.clear();
         final String url = "https://en.wikipedia.org/wiki/List_of_American_films_of_" + year;
         final Document doc = getDocument(url);
         if(doc != null) {
@@ -85,7 +83,7 @@ public final class Movies extends UpcomingEventController implements IMDbService
                         final String dateString = getEventDateString(year, month, day), id = getEventDateIdentifier(dateString, title);
                         final String productionCompany = rows.get(1).text();
                         final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, wikipageURL, productionCompany);
-                        preUpcomingEvents.put(id, preUpcomingEvent);
+                        putPreUpcomingEvent(id, preUpcomingEvent);
                     }
                 }
             }
@@ -95,7 +93,7 @@ public final class Movies extends UpcomingEventController implements IMDbService
 
     @Override
     public void loadUpcomingEvent(String id, CompletionHandler handler) {
-        final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.get(id);
+        final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
         final String title = preUpcomingEvent.getTitle(), productionCompany = preUpcomingEvent.getTag();
         final WikipediaDocument wikiDoc = new WikipediaDocument(url);
@@ -240,7 +238,7 @@ public final class Movies extends UpcomingEventController implements IMDbService
                     }
                     final MovieEvent movie = new MovieEvent(title, premiseFinal, movieImageURL, productionCompany, releaseInfoFinal, imdbJSON, ratingsString, youtubeVideoIDs, sources);
                     final String string = movie.toString();
-                    upcomingEvents.put(id, string);
+                    putUpcomingEvent(id, string);
                     handler.handleString(string);
                 }
             });

@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.TicketmasterMusicEvent;
@@ -83,8 +84,8 @@ public enum Ticketmaster implements RestAPI {
                                     final String identifier = getEventDateIdentifier(eventDate.getDateString(), name);
                                     final String eventURL = eventJSON.getString("url"), imageURL = getImageURLFrom(eventJSON.getJSONArray("images"));
                                     if(eventJSON.has("priceRanges") && eventJSON.has("ticketLimit") && eventJSON.has("seatmap")) {
-                                        final JSONObject priceRangeJSON = getPriceRangeJSONFrom(eventJSON.getJSONArray("priceRanges"));
-                                        final JSONObject ticketLimitJSON = eventJSON.getJSONObject("ticketLimit");
+                                        final JSONObject priceRange = getPriceRangeJSONFrom(eventJSON.getJSONArray("priceRanges"));
+                                        final JSONObject ticketLimit = eventJSON.getJSONObject("ticketLimit");
                                         final String seatMapURL = eventJSON.getJSONObject("seatmap").getString("staticUrl");
 
                                         final JSONObject eventEmbeddedJSON = eventJSON.getJSONObject("_embedded");
@@ -93,9 +94,9 @@ public enum Ticketmaster implements RestAPI {
                                         final EventSources sources = new EventSources(new EventSource("Ticketmaster", "https://www.ticketmaster.com"));
                                         sources.append(new EventSource("Ticketmaster: " + name, eventURL));
                                         final HashSet<TicketmasterVenue> venues = getVenuesFrom(venuesArray);
-                                        final TicketmasterMusicEvent event = new TicketmasterMusicEvent(name, null, imageURL, ticketLimitJSON, priceRangeJSON, seatMapURL, venues, sources);
-                                        LOADED_PRE_UPCOMING_EVENTS.put(identifier, event.toPreUpcomingEventJSON(eventType, identifier, null));
-                                        upcomingEvents.put(identifier, event.toString());
+                                        final TicketmasterMusicEvent event = new TicketmasterMusicEvent(name, null, imageURL, ticketLimit, priceRange, seatMapURL, venues, sources);
+                                        putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(eventType, identifier, null));
+                                        putUpcomingEvent(identifier, event.toString());
                                     }
                                 }
                             }
@@ -134,7 +135,39 @@ public enum Ticketmaster implements RestAPI {
             final HashSet<TicketmasterVenue> venues = new HashSet<>();
             for(Object obj : array) {
                 final JSONObject json = (JSONObject) obj;
+                if(!json.getBoolean("test")) {
+                    final String name = json.getString("name");
+                    final String url = json.getString("url");
 
+                    String imageURL = null;
+                    int width = 0;
+                    if(json.has("images")) {
+                        for(Object imageObj : json.getJSONArray("images")) {
+                            final JSONObject imageJSON = (JSONObject) imageObj;
+                            final int imageWidth = imageJSON.getInt("width");
+                            if(width == 0 || imageWidth > 0) {
+                                width = imageWidth;
+                                imageURL = imageJSON.getString("url");
+                            }
+                        }
+                    }
+
+                    final String countryCode = json.getJSONObject("country").getString("countryCode");
+                    final String subdivisionName = json.getJSONObject("state").getString("name");
+                    final String cityName = json.getJSONObject("city").getString("name");
+
+                    final JSONObject locationJSON = json.getJSONObject("location");
+                    final double latitude = locationJSON.getDouble("latitude"), longitude = locationJSON.getDouble("longitude");
+                    final Location location = new Location(latitude, longitude);
+
+                    final JSONObject generalInfo = json.getJSONObject("generalInfo");
+                    final String generalRule = generalInfo.getString("generalRule"), childRule = generalInfo.getString("childRule");
+
+                    final String parkingDetail = json.has("parkingDetail") ? json.getString("parkingDetail") : null;
+                    final String accessibleSeatingDetail = json.has("accessibleSeatingDetail") ? json.getString("accessibleSeatingDetail") : null;
+                    final TicketmasterVenue venue = new TicketmasterVenue(name, imageURL, location, countryCode, subdivisionName, cityName, generalRule, childRule, parkingDetail, accessibleSeatingDetail);
+                    venues.add(venue);
+                }
             }
             return venues;
         }

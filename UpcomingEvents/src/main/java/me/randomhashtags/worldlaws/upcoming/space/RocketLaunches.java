@@ -21,7 +21,6 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
 
     @Override
     public void load(CompletionHandler handler) {
-        upcomingEvents.clear();
         final UpcomingEventType eventType = getType();
         requestJSONObject("https://ll.thespacedevs.com/2.0.0/launch/upcoming/?format=json&limit=50&mode=detailed&offset=0", RequestMethod.GET, new CompletionHandler() {
             @Override
@@ -58,8 +57,8 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
                         if(date.getLocalDate().isEqual(today)) {
                             saveUpcomingEventToJSON(id, string);
                         }
-                        LOADED_PRE_UPCOMING_EVENTS.put(id, launch.toPreUpcomingEventJSON(eventType, id, location));
-                        upcomingEvents.put(id, string);
+                        putLoadedPreUpcomingEvent(id, launch.toPreUpcomingEventJSON(eventType, id, location));
+                        putUpcomingEvent(id, string);
 
                         if(completed.addAndGet(1) == max) {
                             handler.handleString(null);

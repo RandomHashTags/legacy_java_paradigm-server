@@ -24,8 +24,13 @@ public final class TVShows extends LoadedUpcomingEventController {
 
     @Override
     public void load(CompletionHandler handler) {
-        UpcomingEvents.INSTANCE.registerFixedTimer(WLUtilities.UPCOMING_EVENTS_TV_SHOW_UPDATE_INTERVAL, null);
-        refresh(handler);
+        UpcomingEvents.INSTANCE.registerFixedTimer(WLUtilities.UPCOMING_EVENTS_TV_SHOW_UPDATE_INTERVAL, new CompletionHandler() {
+            @Override
+            public void handleObject(Object object) {
+                refreshSchedule(null);
+            }
+        });
+        refreshSchedule(handler);
     }
 
     @Override
@@ -70,7 +75,7 @@ public final class TVShows extends LoadedUpcomingEventController {
         final CompletionHandler completionHandler = new CompletionHandler() {
             @Override
             public void handleJSONArray(JSONArray array) {
-                if(array != null) {
+                if(array != null && !array.isEmpty()) {
                     for(Object obj : array) {
                         final JSONObject json = (JSONObject) obj;
                         showNames.put(json.getString("name"), json.getInt("id"));
@@ -87,31 +92,24 @@ public final class TVShows extends LoadedUpcomingEventController {
                 }
             }
         };
-        final CompletionHandler showHandler = new CompletionHandler() {
-            @Override
-            public void handleJSONArray(JSONArray array) {
-                handler.handleJSONArray(array == null || array.isEmpty() ? null : array);
-            }
-        };
         while (lock.get()) {
             final int pageNumber = page.get();
-            getShowsFromPage(pageNumber, completionHandler, showHandler);
+            getShowsFromPage(pageNumber, completionHandler);
         }
         handler.handleJSONObject(showNames);
     }
-    private void getShowsFromPage(int page, CompletionHandler handler, CompletionHandler showHandler) {
+    private void getShowsFromPage(int page, CompletionHandler showHandler) {
         final String url = "https://api.tvmaze.com/shows?page=" + page;
         requestJSONArray(url, RequestMethod.GET, showHandler);
     }
 
-    private void refresh(CompletionHandler handler) {
+    private void refreshSchedule(CompletionHandler handler) {
         final String url = "https://api.tvmaze.com/schedule/full";
         final UpcomingEventType eventType = getType();
         requestJSONArray(url, RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONArray(JSONArray array) {
                 if(array != null) {
-                    upcomingEvents.clear();
                     final LocalDate nextWeek = LocalDate.now().plusWeeks(1);
                     final int max = array.length();
                     final AtomicInteger completed = new AtomicInteger(0);
@@ -163,16 +161,16 @@ public final class TVShows extends LoadedUpcomingEventController {
                                 }
 
                                 final TVShowEvent tvShowEvent = new TVShowEvent(showTitle, null, imageURL, null, language, countryCode, officialSite, network, runtimeMinutes, season, episode, episodeName, episodeSummary, genres, sources);
-                                LOADED_PRE_UPCOMING_EVENTS.put(identifier, tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, showTitle));
-                                upcomingEvents.put(identifier, tvShowEvent.toString());
+                                putLoadedPreUpcomingEvent(identifier, tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, showTitle));
+                                putUpcomingEvent(identifier, tvShowEvent.toString());
                             }
                         }
 
-                        if(completed.addAndGet(1) == max) {
+                        if(completed.addAndGet(1) == max && handler != null) {
                             handler.handleString(null);
                         }
                     });
-                } else {
+                } else if(handler != null) {
                     handler.handleString(null);
                 }
             }

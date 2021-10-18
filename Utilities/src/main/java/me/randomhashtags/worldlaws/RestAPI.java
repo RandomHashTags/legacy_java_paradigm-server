@@ -142,7 +142,7 @@ public interface RestAPI {
                 reader.close();
                 responseString = response.toString();
             } else {
-                WLLogger.log(Level.WARN, "RestAPI - invalid response code (" + responseCode + ") for url \"" + targetURL + "\"!");
+                WLLogger.log(Level.ERROR, "RestAPI - invalid response code (" + responseCode + ") for url \"" + targetURL + "\"!");
             }
             handler.handleString(responseString);
             if(PENDING_SAME_REQUESTS.containsKey(targetURL)) {

@@ -7,25 +7,43 @@ import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
 import java.time.Month;
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public abstract class UpcomingEventController implements YouTubeService, Jsoupable, DataValues {
-    protected static final ConcurrentHashMap<String, String> LOADED_PRE_UPCOMING_EVENTS = new ConcurrentHashMap<>();
-    protected final HashMap<String, PreUpcomingEvent> preUpcomingEvents;
-    protected final HashMap<String, String> upcomingEvents;
+    private final ConcurrentHashMap<String, String> loadedPreUpcomingEvents;
+    private final ConcurrentHashMap<String, PreUpcomingEvent> preUpcomingEvents;
+    private final ConcurrentHashMap<String, String> upcomingEvents;
 
     public UpcomingEventController() {
-        preUpcomingEvents = new HashMap<>();
-        upcomingEvents = new HashMap<>();
+        loadedPreUpcomingEvents = new ConcurrentHashMap<>();
+        preUpcomingEvents = new ConcurrentHashMap<>();
+        upcomingEvents = new ConcurrentHashMap<>();
     }
 
     public abstract UpcomingEventType getType();
     public WLCountry getCountry() { // if null, it is worldwide/global
         return null;
+    }
+
+    public void refresh(CompletionHandler handler) {
+        final long started = System.currentTimeMillis();
+        loadedPreUpcomingEvents.clear();
+        preUpcomingEvents.clear();
+        upcomingEvents.clear();
+        load(new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                final String preUpcomingEventsLoaded = !preUpcomingEvents.isEmpty() ? preUpcomingEvents.size() + " preUpcomingEvents" : null;
+                final String upcomingEventsLoaded = !upcomingEvents.isEmpty() ? upcomingEvents.size() + " upcomingEvents" : null;
+                String amount = "(" + (preUpcomingEventsLoaded != null ? preUpcomingEventsLoaded + (upcomingEventsLoaded != null ? ", " : "") : "") + (upcomingEventsLoaded != null ? upcomingEventsLoaded : "") + ")";
+                amount = amount.equals("()") ? "0" : amount;
+                WLLogger.log(Level.INFO, getType().name() + " - loaded " + amount + " events (took " + (System.currentTimeMillis()-started) + "ms)");
+                handler.handleString(string);
+            }
+        });
     }
     public abstract void load(CompletionHandler handler);
 
@@ -41,15 +59,9 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     }
     public void getEventsFromDates(HashSet<String> dates, CompletionHandler handler) {
         if(preUpcomingEvents.isEmpty() && upcomingEvents.isEmpty()) {
-            final long started = System.currentTimeMillis();
-            load(new CompletionHandler() {
+            refresh(new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
-                    final String preUpcomingEventsLoaded = !preUpcomingEvents.isEmpty() ? preUpcomingEvents.size() + " preUpcomingEvents" : null;
-                    final String upcomingEventsLoaded = !upcomingEvents.isEmpty() ? upcomingEvents.size() + " upcomingEvents" : null;
-                    String amount = "(" + (preUpcomingEventsLoaded != null ? preUpcomingEventsLoaded + (upcomingEventsLoaded != null ? ", " : "") : "") + (upcomingEventsLoaded != null ? upcomingEventsLoaded : "") + ")";
-                    amount = amount.equals("()") ? "0" : amount;
-                    WLLogger.log(Level.INFO, getType().name() + " - loaded " + amount + " events (took " + (System.currentTimeMillis()-started) + "ms)");
                     getEventsOnDates(dates, handler);
                 }
             });
@@ -109,13 +121,13 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         }
     }
     private void getPreUpcomingEvent(String id, CompletionHandler handler) {
-        if(LOADED_PRE_UPCOMING_EVENTS.containsKey(id)) {
-            handler.handleStringValue(id, LOADED_PRE_UPCOMING_EVENTS.get(id));
+        if(loadedPreUpcomingEvents.containsKey(id)) {
+            handler.handleStringValue(id, loadedPreUpcomingEvents.get(id));
         } else {
             getUpcomingEvent(id, new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
-                    handler.handleStringValue(id, LOADED_PRE_UPCOMING_EVENTS.get(id));
+                    handler.handleStringValue(id, loadedPreUpcomingEvents.get(id));
                 }
             });
         }
@@ -148,7 +160,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
                         string = toLoadedPreUpcomingEvent(id, json);
                     }
                     if(string != null) {
-                        LOADED_PRE_UPCOMING_EVENTS.put(id, string);
+                        putLoadedPreUpcomingEvent(id, string);
                     }
                     handler.handleString(json != null ? json.toString() : null);
                 }
@@ -179,5 +191,20 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         final String imageURL = json.has("imageURL") ? json.getString("imageURL") : null;
         final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.getOrDefault(id, PreUpcomingEvent.fromUpcomingEventJSON(type, id, json));
         return preUpcomingEvent.toStringWithImageURL(getType(), imageURL);
+    }
+
+    public void putPreUpcomingEvent(String identifier, PreUpcomingEvent event) {
+        preUpcomingEvents.put(identifier, event);
+    }
+    public PreUpcomingEvent getPreUpcomingEvent(String identifier) {
+        return preUpcomingEvents.get(identifier);
+    }
+
+    public void putUpcomingEvent(String identifier, String value) {
+        upcomingEvents.put(identifier, value);
+    }
+
+    public void putLoadedPreUpcomingEvent(String identifier, String value) {
+        loadedPreUpcomingEvents.put(identifier, value);
     }
 }

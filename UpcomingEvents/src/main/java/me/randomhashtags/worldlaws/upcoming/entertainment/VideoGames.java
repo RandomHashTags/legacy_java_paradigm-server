@@ -29,9 +29,6 @@ public final class VideoGames extends UpcomingEventController {
 
     @Override
     public void load(CompletionHandler handler) {
-        preUpcomingEvents.clear();
-        upcomingEvents.clear();
-
         final int thisYear = WLUtilities.getTodayYear();
         final Month startingMonth = LocalDate.now().getMonth();
         refreshUpcomingVideoGames(thisYear, startingMonth, new CompletionHandler() {
@@ -161,7 +158,7 @@ public final class VideoGames extends UpcomingEventController {
                                     isFirst = false;
                                 }
                                 final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, wikipediaURL, builder.toString());
-                                preUpcomingEvents.put(id, preUpcomingEvent);
+                                putPreUpcomingEvent(id, preUpcomingEvent);
                             }
                         }
                     }
@@ -199,7 +196,7 @@ public final class VideoGames extends UpcomingEventController {
 
     @Override
     public void loadUpcomingEvent(String id, CompletionHandler handler) {
-        final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.get(id);
+        final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
         final String title = preUpcomingEvent.getTitle(), platforms = preUpcomingEvent.getTag();
         final Document wikidoc = getDocument(url);
@@ -229,7 +226,7 @@ public final class VideoGames extends UpcomingEventController {
                 public void handleJSONArray(JSONArray array) {
                     final VideoGameEvent event = new VideoGameEvent(title, desc, coverArtURL, realPlatforms, array, sources);
                     final String string = event.toString();
-                    upcomingEvents.put(id, string);
+                    putUpcomingEvent(id, string);
                     handler.handleString(string);
                 }
             });

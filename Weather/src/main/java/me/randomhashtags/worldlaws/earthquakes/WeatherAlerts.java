@@ -45,7 +45,12 @@ public enum WeatherAlerts {
                 break;
             case "country":
                 country = values[1];
-                getAlertsForCountry(country, value.substring(key.length()+country.length()+2).split("/"), handler);
+                String[] countryValues = null;
+                final int substring = key.length() + country.length() + 2;
+                if(value.length() > substring) {
+                    countryValues = value.substring(substring).split("/");
+                }
+                getAlertsForCountry(country, countryValues, handler);
                 break;
             case "subdivision":
                 country = values[1];
@@ -62,23 +67,33 @@ public enum WeatherAlerts {
     private void getAlertsForCountry(String country, String[] values, CompletionHandler handler) {
         final WeatherController weather = getCountryWeather(country);
         if(weather != null) {
-            switch (values[0]) {
-                case "event":
-                    weather.getEventPreAlerts().get(values[1]);
-                    break;
-                case "id":
-                    weather.getAlert(values[1], handler);
-                    break;
-                case "zone":
-                    weather.getZone(values[1], handler);
-                    break;
-                case "zones":
-                    final String[] zoneIDs = values[1].split(",");
-                    weather.getZones(zoneIDs, handler);
-                    break;
-                default:
-                    handler.handleString(null);
-                    break;
+            if(values == null) {
+                final String countryBackendID = weather.getCountry().getBackendID();
+                if(countries.containsKey(countryBackendID)) {
+                    final String string = countries.get(countryBackendID);
+                    handler.handleString(string);
+                } else {
+                    refreshCountry(weather, handler);
+                }
+            } else {
+                switch (values[0]) {
+                    case "event":
+                        weather.getEventPreAlerts().get(values[1]);
+                        break;
+                    case "id":
+                        weather.getAlert(values[1], handler);
+                        break;
+                    case "zone":
+                        weather.getZone(values[1], handler);
+                        break;
+                    case "zones":
+                        final String[] zoneIDs = values[1].split(",");
+                        weather.getZones(zoneIDs, handler);
+                        break;
+                    default:
+                        handler.handleString(null);
+                        break;
+                }
             }
         } else {
             handler.handleString(null);
@@ -149,19 +164,15 @@ public enum WeatherAlerts {
             refresh(handler);
         }
     }
-    private void getFrom(WeatherController controller, CompletionHandler handler) {
-        if(controller != null) {
-            final String country = controller.getCountry().getBackendID();
-            controller.refresh(new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    countries.put(country, string);
-                    handler.handleString(string);
-                }
-            });
-        } else {
-            handler.handleString(null);
-        }
+    private void refreshCountry(WeatherController controller, CompletionHandler handler) {
+        final String countryBackendID = controller.getCountry().getBackendID();
+        controller.refresh(new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                countries.put(countryBackendID, string);
+                handler.handleString(string);
+            }
+        });
     }
     private void refresh(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
@@ -169,7 +180,7 @@ public enum WeatherAlerts {
         final WeatherController[] countries = getCountries();
         final int max = countries.length;
         final AtomicInteger completed = new AtomicInteger(0);
-        Arrays.asList(countries).parallelStream().forEach(weather -> getFrom(weather, new CompletionHandler() {
+        Arrays.asList(countries).parallelStream().forEach(weather -> refreshCountry(weather, new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 controllerLoadTimes.put(weather.getClass().getSimpleName(), System.currentTimeMillis()-started);

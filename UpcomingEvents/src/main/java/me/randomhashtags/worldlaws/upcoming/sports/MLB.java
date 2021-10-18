@@ -26,13 +26,6 @@ public final class MLB extends USAUpcomingEventController {
 
     @Override
     public void load(CompletionHandler handler) {
-        refresh(handler);
-    }
-
-    private void refresh(CompletionHandler handler) {
-        preUpcomingEvents.clear();
-        upcomingEvents.clear();
-
         final LocalDate now = LocalDate.now();
         final int month = now.getMonthValue(), day = now.getDayOfMonth(), year = now.getYear();
         final String mlbScheduleDateString = now.getYear() + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : day);
@@ -69,7 +62,7 @@ public final class MLB extends USAUpcomingEventController {
                             put("homeTeam", homeTeamJSON.toString());
                         }};
                         final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, url, targetTimeET, null, customValues);
-                        preUpcomingEvents.put(id, preUpcomingEvent);
+                        putPreUpcomingEvent(id, preUpcomingEvent);
                     });
                     if(completed.addAndGet(1) == max) {
                         handler.handleString(null);
@@ -100,14 +93,14 @@ public final class MLB extends USAUpcomingEventController {
 
     @Override
     public void loadUpcomingEvent(String id, CompletionHandler handler) {
-        final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.get(id);
+        final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String title = preUpcomingEvent.getTitle();
         final EventSources sources = (EventSources) preUpcomingEvent.getCustomValue("sources");
         final String awayTeam = (String) preUpcomingEvent.getCustomValue("awayTeam"), homeTeam = (String) preUpcomingEvent.getCustomValue("homeTeam");
 
         final MLBEvent event = new MLBEvent(title, awayTeam, homeTeam, null, sources);
         final String string = event.toString();
-        upcomingEvents.put(id, string);
+        putUpcomingEvent(id, string);
         handler.handleString(string);
     }
 }

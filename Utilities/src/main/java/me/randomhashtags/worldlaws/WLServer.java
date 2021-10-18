@@ -46,8 +46,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 if(identifier == null) {
                     identifier = "null";
                 }
-                localServer.madeRequest(identifier, target);
-                getResponse(target, new CompletionHandler() {
+                getResponse(localServer, identifier, target, new CompletionHandler() {
                     @Override
                     public void handleString(String string) {
                         client.sendResponse(string);
@@ -58,7 +57,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         localServer.setCompletionHandler(handler);
     }
 
-    private void getResponse(String target, CompletionHandler handler) {
+    private void getResponse(LocalServer localServer, String identifier, String target, CompletionHandler handler) {
         final String[] values = target.split("/");
         final String versionString = values[0];
         final APIVersion version = APIVersion.valueOfInput(versionString);
@@ -70,6 +69,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 handler.handleString("1");
                 break;
             default:
+                localServer.madeRequest(identifier, target);
                 getServerResponse(version, target.substring(versionString.length()+1), handler);
                 break;
         }

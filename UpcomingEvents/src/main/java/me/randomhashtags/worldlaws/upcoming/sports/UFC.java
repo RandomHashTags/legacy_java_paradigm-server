@@ -20,9 +20,6 @@ public final class UFC extends USAUpcomingEventController {
 
     @Override
     public void load(CompletionHandler handler) {
-        preUpcomingEvents.clear();
-        upcomingEvents.clear();
-
         final String wikipagePrefix = "https://en.wikipedia.org";
         final String url = wikipagePrefix + "/wiki/List_of_UFC_events";
         final Document doc = getDocument(url);
@@ -49,7 +46,7 @@ public final class UFC extends USAUpcomingEventController {
                                     final String wikipageURL = wikipagePrefix + hrefs.get(0).attr("href");
                                     final String dateString = getEventDateString(year, month, day), id = getEventDateIdentifier(dateString, event);
                                     final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, wikipageURL, location);
-                                    preUpcomingEvents.put(id, preUpcomingEvent);
+                                    putPreUpcomingEvent(id, preUpcomingEvent);
                                 }
                             }
                             if(completed.addAndGet(1) == max) {
@@ -66,7 +63,7 @@ public final class UFC extends USAUpcomingEventController {
 
     @Override
     public void loadUpcomingEvent(String id, CompletionHandler handler) {
-        final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.get(id);
+        final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
         final String title = preUpcomingEvent.getTitle(), location = preUpcomingEvent.getTag();
         final Document wikidoc = getDocument(url);
@@ -80,7 +77,7 @@ public final class UFC extends USAUpcomingEventController {
             final EventSources sources = new EventSources(source);
             final SportEvent ufc = new SportEvent(title, description, location, posterURL, "unknown venue", sources);
             final String string = ufc.toString();
-            upcomingEvents.put(id, string);
+            putUpcomingEvent(id, string);
             handler.handleString(string);
         } else {
             handler.handleString(null);

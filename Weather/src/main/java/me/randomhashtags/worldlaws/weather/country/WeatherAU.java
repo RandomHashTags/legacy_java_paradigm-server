@@ -22,11 +22,6 @@ public enum WeatherAU implements WeatherController {
     }
 
     @Override
-    public String getEvents() {
-        return null;
-    }
-
-    @Override
     public HashMap<String, String> getEventPreAlerts() {
         return null;
     }

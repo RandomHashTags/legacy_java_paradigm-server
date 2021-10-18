@@ -28,7 +28,6 @@ public final class Championships extends UpcomingEventController { // https://en
         final String url = "https://en.wikipedia.org/wiki/" + year + "_in_sports";
         final Document doc = getDocument(url);
         if(doc != null) {
-            preUpcomingEvents.clear();
             final LocalDate date = LocalDate.now();
             final Month thisMonth = date.getMonth(), previousMonth = date.minusMonths(1).getMonth();
             final int thisMonthInt = thisMonth.getValue(), previousMonthInt = previousMonth.getValue();
@@ -99,14 +98,14 @@ public final class Championships extends UpcomingEventController { // https://en
             if(!finished) {
                 final String id = getEventDateIdentifier(startingDateString, event);
                 final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, eventURL, sport, countries);
-                preUpcomingEvents.put(id, preUpcomingEvent);
+                putPreUpcomingEvent(id, preUpcomingEvent);
             }
         }
     }
 
     @Override
     public void loadUpcomingEvent(String id, CompletionHandler handler) {
-        final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.get(id);
+        final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
         if(url != null) {
             final String title = preUpcomingEvent.getTitle();

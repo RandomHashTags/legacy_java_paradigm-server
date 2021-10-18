@@ -7,14 +7,14 @@ import org.json.JSONObject;
 import java.util.HashSet;
 
 public final class TicketmasterMusicEvent extends UpcomingEvent {
-    private final JSONObject ticketLimit, priceRangeJSON;
+    private final JSONObject ticketLimit, priceRange;
     private final String seatMapURL;
     private final HashSet<TicketmasterVenue> venues;
 
-    public TicketmasterMusicEvent(String title, String description, String imageURL, JSONObject ticketLimit, JSONObject priceRangeJSON, String seatMapURL, HashSet<TicketmasterVenue> venues, EventSources sources) {
+    public TicketmasterMusicEvent(String title, String description, String imageURL, JSONObject ticketLimit, JSONObject priceRange, String seatMapURL, HashSet<TicketmasterVenue> venues, EventSources sources) {
         super(title, description, imageURL, null, null, sources);
         this.ticketLimit = ticketLimit;
-        this.priceRangeJSON = priceRangeJSON;
+        this.priceRange = priceRange;
         this.seatMapURL = seatMapURL;
         this.venues = venues;
     }
@@ -40,7 +40,7 @@ public final class TicketmasterMusicEvent extends UpcomingEvent {
         return "{" +
                 "\"seatMapURL\":\"" + seatMapURL + "\"," +
                 "\"ticketLimit\":" + ticketLimit.toString() + "," +
-                "\"priceRangeJSON\":" + priceRangeJSON.toString() + "," +
+                "\"priceRange\":" + priceRange.toString() + "," +
                 "\"venues\":" + getVenuesJSON() +
                 "}";
     }

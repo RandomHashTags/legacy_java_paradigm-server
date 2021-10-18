@@ -16,7 +16,7 @@ public enum Statistics implements Jsonable, QuotaHandler {
         if(!QUOTA_REQUESTS.isEmpty()) {
             saveQuota();
         }
-        if(!totalRequests.isEmpty()) { // TODO: fix this | it doesn't save previous unique server entries
+        if(!totalRequests.isEmpty()) {
             final Folder folder = Folder.LOGS;
             final String fileName = "" + LocalDate.now(Clock.systemUTC()).toEpochDay();
             getJSONObject(folder, fileName, new CompletionHandler() {
@@ -47,7 +47,8 @@ public enum Statistics implements Jsonable, QuotaHandler {
                         versionJSON.put(request, targetJSON);
                         uniqueServerValuesJSON.put(version, versionJSON);
                     }
-                    json.put("unique", uniqueServerValuesJSON);
+                    uniqueJSON.put(serverName, uniqueServerValuesJSON);
+                    json.put("unique", uniqueJSON);
 
                     final JSONObject totalJSON = json.has("total") ? json.getJSONObject("total") : new JSONObject();
                     if(totalJSON.has("uniqueIdentifiers")) {

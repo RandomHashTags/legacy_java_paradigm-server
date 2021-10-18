@@ -148,7 +148,17 @@ public final class UpcomingEvents implements WLServer {
             @Override
             public void load(CompletionHandler handler) {
                 final HashSet<String> dates = getWeeklyEventDateStrings(now);
-                getEventsFromDates(dates, handler);
+                final int max = CONTROLLERS.size();
+                final AtomicInteger completed = new AtomicInteger(0);
+                final CompletionHandler completionHandler = new CompletionHandler() {
+                    @Override
+                    public void handleString(String string) {
+                        if(completed.addAndGet(1) == max) {
+                            getEventsFromDates(dates, handler);
+                        }
+                    }
+                };
+                CONTROLLERS.parallelStream().forEach(controller -> controller.refresh(completionHandler));
             }
 
             @Override

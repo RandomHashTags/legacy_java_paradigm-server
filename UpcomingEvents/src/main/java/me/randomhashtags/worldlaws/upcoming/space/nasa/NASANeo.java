@@ -23,8 +23,6 @@ public final class NASANeo extends USAUpcomingEventController {
 
     @Override
     public void load(CompletionHandler handler) {
-        upcomingEvents.clear();
-
         final LocalDate today = LocalDate.now();
         final int year = today.getYear(), month = today.getMonthValue(), day = today.getDayOfMonth();
         refreshNeo(year, month, day, handler);
@@ -54,7 +52,7 @@ public final class NASANeo extends USAUpcomingEventController {
 
                     final String id = (month + "-" + year + "-" + day) + "." + name.replace(" ", "");
                     final NearEarthObject neo = new NearEarthObject(name, closeApproachEpoch, isPotentiallyHazardousAsteroid, estimatedDiameterMin, estimatedDiameterMax, relativeVelocity);
-                    upcomingEvents.put(id, neo.toString());
+                    putUpcomingEvent(id, neo.toString());
                 });
                 handler.handleString(null);
             }

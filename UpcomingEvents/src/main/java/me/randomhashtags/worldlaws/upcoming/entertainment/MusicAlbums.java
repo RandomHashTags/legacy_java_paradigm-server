@@ -25,8 +25,6 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
 
     @Override
     public void load(CompletionHandler handler) {
-        preUpcomingEvents.clear();
-        upcomingEvents.clear();
         final int year = WLUtilities.getTodayYear();
         final Month startingMonth = LocalDate.now().getMonth();
         refresh(year, startingMonth, handler);
@@ -85,7 +83,7 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
                                 final String dateString = getEventDateString(year, month, day);
                                 final String id = getEventDateIdentifier(dateString, album);
                                 final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, album, albumURL, artist);
-                                preUpcomingEvents.put(id, preUpcomingEvent);
+                                putPreUpcomingEvent(id, preUpcomingEvent);
                             }
                         }
                     }
@@ -100,7 +98,7 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
 
     @Override
     public void loadUpcomingEvent(String id, CompletionHandler handler) {
-        final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.get(id);
+        final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
         final Document albumDoc = getDocument(url);
         if(albumDoc != null) {
@@ -173,7 +171,7 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
     private void putUpcomingEvent(String id, String artist, String album, String imageURL, String description, JSONObject spotifyDetails, EventSources sources, CompletionHandler handler) {
         final MusicAlbumEvent event = new MusicAlbumEvent(artist, album, imageURL, description, spotifyDetails, sources);
         final String string = event.toString();
-        upcomingEvents.put(id, string);
+        putUpcomingEvent(id, string);
         handler.handleString(string);
     }
 }

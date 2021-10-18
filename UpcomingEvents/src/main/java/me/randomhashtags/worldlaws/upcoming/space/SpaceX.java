@@ -24,10 +24,7 @@ public final class SpaceX extends USAUpcomingEventController {
 
     @Override
     public void load(CompletionHandler handler) {
-        preUpcomingEvents.clear();
-        upcomingEvents.clear();
         launchpads = new HashMap<>();
-
         if(autoUpdateTimer == null) {
             final long EVERY_HOUR = 1000*60*60;
             autoUpdateTimer = new Timer();
@@ -58,7 +55,7 @@ public final class SpaceX extends USAUpcomingEventController {
                     final String id = dateString + "." + title.replace(" ", "");
                     final String launchpadID = json.getString("launchpad");
                     final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, launchpadID, description);
-                    preUpcomingEvents.put(id, preUpcomingEvent);
+                    putPreUpcomingEvent(id, preUpcomingEvent);
                 }
                 handler.handleString(null);
             }

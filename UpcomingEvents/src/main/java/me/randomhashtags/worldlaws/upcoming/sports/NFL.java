@@ -17,8 +17,6 @@ public final class NFL extends USAUpcomingEventController {
 
     @Override
     public void load(CompletionHandler handler) {
-        preUpcomingEvents.clear();
-        upcomingEvents.clear();
         final String url = "https://www.nfl.com/schedules/";
         final Document doc = getDocument(url);
         if(doc != null) {

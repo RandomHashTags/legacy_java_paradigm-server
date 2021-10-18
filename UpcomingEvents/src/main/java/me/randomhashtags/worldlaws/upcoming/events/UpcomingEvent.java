@@ -14,8 +14,8 @@ public abstract class UpcomingEvent implements Jsoupable {
     private final EventSources sources;
 
     public UpcomingEvent(String title, String description, String imageURL, String location, JSONArray youtubeVideoIDs, EventSources sources) {
-        this.title = title;
-        this.description = description;
+        this.title = LocalServer.fixEscapeValues(title);
+        this.description = LocalServer.fixEscapeValues(removeReferences(description));
         this.imageURL = imageURL;
         this.location = location;
         this.youtubeVideoIDs = youtubeVideoIDs;
@@ -25,42 +25,21 @@ public abstract class UpcomingEvent implements Jsoupable {
     public abstract UpcomingEventType getType();
     public abstract String getPropertiesJSONObject();
 
-    public String getTitle() {
-        return title;
-    }
-    public String getDescription() {
-        return description;
-    }
-    public String getImageURL() {
-        return imageURL;
-    }
-    public String getLocation() {
-        return location;
-    }
-    public JSONArray getYouTubeVideoIDs() {
-        return youtubeVideoIDs;
-    }
-    public EventSources getSources() {
-        return sources;
-    }
-
     public String toPreUpcomingEventJSON(UpcomingEventType type, String id, String tag) {
-        return new PreUpcomingEvent(id, getTitle(), null, tag).toStringWithImageURL(type, getImageURL());
+        return new PreUpcomingEvent(id, title, null, tag).toStringWithImageURL(type, imageURL);
     }
 
     @Override
     public String toString() {
-        final String imageURL = getImageURL(), properties = getPropertiesJSONObject(), location = getLocation();
-        final String description = LocalServer.fixEscapeValues(removeReferences(getDescription()));
-        final JSONArray youtubeVideoIDs = getYouTubeVideoIDs();
+        final String properties = getPropertiesJSONObject();
         return "{" +
-                "\"title\":\"" + LocalServer.fixEscapeValues(getTitle()) + "\"," +
+                "\"title\":\"" + title + "\"," +
                 (description != null ? "\"description\":\"" + description + "\"," : "") +
                 (youtubeVideoIDs != null ? "\"youtubeVideoIDs\":" + youtubeVideoIDs.toString() + "," : "") +
                 (location != null ? "\"location\":\"" + location + "\"," : "") +
                 (imageURL != null ? "\"imageURL\":\"" + imageURL + "\"," : "") +
                 (properties != null ? "\"properties\":" + properties + "," : "") +
-                "\"sources\":" + getSources().toString() +
+                "\"sources\":" + sources.toString() +
                 "}";
     }
 }
