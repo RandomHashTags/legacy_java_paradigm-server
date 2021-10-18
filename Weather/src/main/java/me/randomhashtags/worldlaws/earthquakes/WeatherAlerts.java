@@ -2,6 +2,8 @@ package me.randomhashtags.worldlaws.earthquakes;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.Weather;
 import me.randomhashtags.worldlaws.weather.WeatherController;
 import me.randomhashtags.worldlaws.weather.country.WeatherUSA;
 import org.apache.logging.log4j.Level;
@@ -10,18 +12,17 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public enum WeatherAlerts {
     INSTANCE;
 
     private String allAlertsJSON;
-    private final HashSet<WeatherController> autoUpdating;
-    private final HashMap<String, String> countries;
+    private final ConcurrentHashMap<String, String> countries;
 
     WeatherAlerts() {
-        countries = new HashMap<>();
-        autoUpdating = new HashSet<>();
+        countries = new ConcurrentHashMap<>();
     }
 
     private WeatherController[] getCountries() {
@@ -37,7 +38,7 @@ public enum WeatherAlerts {
         String country = null;
         switch (key) {
             case "all":
-                getAllAlertEvents(handler);
+                getAll(handler);
                 break;
             case "event":
                 getAllPreAlerts(values[1], handler);
@@ -135,57 +136,45 @@ public enum WeatherAlerts {
         }));
     }
 
-    private void getAlertEvents(String countryBackendID, CompletionHandler handler) {
-        final WeatherController weather = getCountryWeather(countryBackendID);
-        getAlertEvents(weather, handler);
+    private void getAll(CompletionHandler handler) {
+        if(allAlertsJSON != null) {
+            handler.handleString(allAlertsJSON);
+        } else {
+            Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL, new CompletionHandler() {
+                @Override
+                public void handleObject(Object object) {
+                    refresh(null);
+                }
+            });
+            refresh(handler);
+        }
     }
-    private void getAlertEvents(WeatherController controller, CompletionHandler handler) {
+    private void getFrom(WeatherController controller, CompletionHandler handler) {
         if(controller != null) {
-            if(!autoUpdating.contains(controller)) {
-                autoUpdating.add(controller);
-                final String country = controller.getCountry().getBackendID();
-                controller.startAutoUpdates(new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        countries.put(country, string);
-                        handler.handleString(string);
-                    }
-                }, new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        countries.put(country, string);
-                        updateAllAlertsJSON();
-                    }
-                });
-            } else {
-                controller.getEvents(handler);
-            }
+            final String country = controller.getCountry().getBackendID();
+            controller.refresh(new CompletionHandler() {
+                @Override
+                public void handleString(String string) {
+                    countries.put(country, string);
+                    handler.handleString(string);
+                }
+            });
         } else {
             handler.handleString(null);
         }
     }
-
-    private void getAllAlertEvents(CompletionHandler handler) {
-        if(allAlertsJSON != null) {
-            handler.handleString(allAlertsJSON);
-        } else {
-            refreshAllAlertEvents(handler);
-        }
-    }
-    private void refreshAllAlertEvents(CompletionHandler handler) {
+    private void refresh(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
-        allAlertsJSON = "{}";
-        countries.clear();
         final HashMap<String, Long> controllerLoadTimes = new HashMap<>();
         final WeatherController[] countries = getCountries();
         final int max = countries.length;
         final AtomicInteger completed = new AtomicInteger(0);
-        Arrays.asList(countries).parallelStream().forEach(weather -> getAlertEvents(weather, new CompletionHandler() {
+        Arrays.asList(countries).parallelStream().forEach(weather -> getFrom(weather, new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 controllerLoadTimes.put(weather.getClass().getSimpleName(), System.currentTimeMillis()-started);
                 if(completed.addAndGet(1) == max) {
-                    updateAllAlertsJSON();
+                    updateJSON();
                     final StringBuilder loadTimes = new StringBuilder();
                     boolean isFirst = true;
                     for(Map.Entry<String, Long> map : controllerLoadTimes.entrySet()) {
@@ -202,7 +191,7 @@ public enum WeatherAlerts {
             }
         }));
     }
-    private void updateAllAlertsJSON() {
+    private void updateJSON() {
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
         for(Map.Entry<String, String> map : countries.entrySet()) {

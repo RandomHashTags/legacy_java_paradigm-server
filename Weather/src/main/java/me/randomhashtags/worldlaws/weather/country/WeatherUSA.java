@@ -18,7 +18,6 @@ import java.util.stream.StreamSupport;
 public enum WeatherUSA implements WeatherController {
     INSTANCE;
 
-    private String eventsJSON;
     private HashMap<String, String> alertIDs, zones, eventPreAlerts, territoryEvents;
     private HashMap<String, HashMap<String, String>> territoryPreAlerts;
     private HashMap<String, WeatherPreAlert> preAlertIDs;
@@ -31,11 +30,6 @@ public enum WeatherUSA implements WeatherController {
     @Override
     public EventSource getSource() {
         return new EventSource("U.S. National Weather Service", "https://www.weather.gov");
-    }
-
-    @Override
-    public String getEvents() {
-        return eventsJSON;
     }
 
     @Override
@@ -55,7 +49,6 @@ public enum WeatherUSA implements WeatherController {
 
     @Override
     public void refresh(CompletionHandler handler) {
-        eventsJSON = "{}";
         alertIDs = new HashMap<>();
         eventPreAlerts = new HashMap<>();
         territoryEvents = new HashMap<>();
@@ -149,8 +142,7 @@ public enum WeatherUSA implements WeatherController {
                 putSubdivisionEvents(territoryEvents, subdivisionEventsMap);
                 putSubdivisionPreAlerts(territoryPreAlerts, territoryPreAlertsMap);
 
-                eventsJSON = getEventsJSON(eventsMap);
-
+                final String eventsJSON = getEventsJSON(eventsMap);
                 if(handler != null) {
                     handler.handleString(eventsJSON);
                 }

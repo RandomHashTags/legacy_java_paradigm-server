@@ -45,10 +45,7 @@ public enum USLaws implements LawController {
         final USCongress congress = USCongress.getCongress(getCurrentAdministrationVersion());
         final USBillStatus[] statuses = new USBillStatus[] {
                 USBillStatus.BECAME_LAW,
-                USBillStatus.VETOED,
-                USBillStatus.PASSED_ONE_CHAMBER,
-                USBillStatus.PASSED_BOTH_CHAMBERS,
-                USBillStatus.INTRODUCED
+                USBillStatus.VETOED
         };
 
         final int max = statuses.length;

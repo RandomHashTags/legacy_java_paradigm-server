@@ -11,7 +11,6 @@ import java.util.concurrent.ConcurrentHashMap;
 public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
     WLCountry getCountry();
     EventSource getSource();
-    String getEvents();
 
     HashMap<String, String> getEventPreAlerts();
     HashMap<String, String> getSubdivisionEvents();
@@ -19,29 +18,6 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
 
     void refresh(CompletionHandler handler);
 
-    default void startAutoUpdates(CompletionHandler handler, CompletionHandler autoUpdateHandler) {
-        Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL, new CompletionHandler() {
-            @Override
-            public void handleObject(Object object) {
-                refresh(autoUpdateHandler);
-            }
-        });
-        refresh(handler);
-    }
-
-    default void getEvents(CompletionHandler handler) {
-        final String events = getEvents();
-        if(events != null) {
-            handler.handleString(events);
-        } else {
-            refresh(new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    handler.handleString(getEvents());
-                }
-            });
-        }
-    }
     default void putEventPreAlerts(HashMap<String, String> eventPreAlerts, ConcurrentHashMap<String, HashSet<WeatherPreAlert>> hashmap) {
         for(Map.Entry<String, HashSet<WeatherPreAlert>> map : hashmap.entrySet()) {
             final String event = map.getKey();

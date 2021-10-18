@@ -15,7 +15,6 @@ import java.util.concurrent.ConcurrentHashMap;
 public enum WeatherCA implements WeatherController {
     INSTANCE;
 
-    private String eventsJSON;
     private HashMap<String, String> alertIDs, eventPreAlerts, territoryEvents;
     private HashMap<String, HashMap<String, String>> territoryPreAlerts;
     private HashMap<String, WeatherPreAlert> preAlertIDs;
@@ -28,11 +27,6 @@ public enum WeatherCA implements WeatherController {
     @Override
     public EventSource getSource() {
         return new EventSource("Canadian Government", "https://weather.gc.ca/warnings/index_e.html");
-    }
-
-    @Override
-    public String getEvents() {
-        return eventsJSON;
     }
 
     @Override
@@ -52,7 +46,6 @@ public enum WeatherCA implements WeatherController {
 
     @Override
     public void refresh(CompletionHandler handler) {
-        eventsJSON = "[]";
         alertIDs = new HashMap<>();
         eventPreAlerts = new HashMap<>();
         territoryEvents = new HashMap<>();
@@ -135,8 +128,8 @@ public enum WeatherCA implements WeatherController {
         putEventPreAlerts(eventPreAlerts, eventPreAlertsMap);
         putSubdivisionEvents(territoryEvents, territoryEventsMap);
         putSubdivisionPreAlerts(territoryPreAlerts, territoryPreAlertsMap);
-        eventsJSON = getEventsJSON(eventsMap);
 
+        final String eventsJSON = getEventsJSON(eventsMap);
         if(handler != null) {
             handler.handleString(eventsJSON);
         }

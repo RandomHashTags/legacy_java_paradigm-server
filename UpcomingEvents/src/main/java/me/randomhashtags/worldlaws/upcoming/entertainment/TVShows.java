@@ -24,8 +24,8 @@ public final class TVShows extends LoadedUpcomingEventController {
 
     @Override
     public void load(CompletionHandler handler) {
-        refresh(handler);
         UpcomingEvents.INSTANCE.registerFixedTimer(WLUtilities.UPCOMING_EVENTS_TV_SHOW_UPDATE_INTERVAL, null);
+        refresh(handler);
     }
 
     @Override
@@ -45,7 +45,6 @@ public final class TVShows extends LoadedUpcomingEventController {
         if(allShowsCache != null) {
             handler.handleString(allShowsCache);
         } else {
-            allShowsCache = "{}";
             getJSONObject(Folder.UPCOMING_EVENTS_TV_SHOWS, "showNames", new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
@@ -68,39 +67,41 @@ public final class TVShows extends LoadedUpcomingEventController {
         final AtomicInteger page = new AtomicInteger(0);
         // RATE LIMIT IS 20 REQUESTS PER 10 SECONDS, PER IP ADDRESS
 
-        while (lock.get()) {
-            final int pageNumber = page.get();
-            getShowsFromPage(pageNumber, new CompletionHandler() {
-                @Override
-                public void handleJSONArray(JSONArray array) {
-                    if(array != null) {
-                        for(Object obj : array) {
-                            final JSONObject json = (JSONObject) obj;
-                            showNames.put(json.getString("name"), json.getInt("id"));
-                        }
-                        if(page.addAndGet(1) % 20 == 0) {
-                            try {
-                                Thread.sleep(sleepDuration);
-                            } catch (Exception e) {
-                                WLUtilities.saveException(e);
-                            }
-                        }
-                    } else {
-                        lock.set(false);
+        final CompletionHandler completionHandler = new CompletionHandler() {
+            @Override
+            public void handleJSONArray(JSONArray array) {
+                if(array != null) {
+                    for(Object obj : array) {
+                        final JSONObject json = (JSONObject) obj;
+                        showNames.put(json.getString("name"), json.getInt("id"));
                     }
+                    if(page.addAndGet(1) % 20 == 0) {
+                        try {
+                            Thread.sleep(sleepDuration);
+                        } catch (Exception e) {
+                            WLUtilities.saveException(e);
+                        }
+                    }
+                } else {
+                    lock.set(false);
                 }
-            });
-        }
-        handler.handleJSONObject(showNames);
-    }
-    private void getShowsFromPage(int page, CompletionHandler handler) {
-        final String url = "https://api.tvmaze.com/shows?page=" + page;
-        requestJSONArray(url, RequestMethod.GET, new CompletionHandler() {
+            }
+        };
+        final CompletionHandler showHandler = new CompletionHandler() {
             @Override
             public void handleJSONArray(JSONArray array) {
                 handler.handleJSONArray(array == null || array.isEmpty() ? null : array);
             }
-        });
+        };
+        while (lock.get()) {
+            final int pageNumber = page.get();
+            getShowsFromPage(pageNumber, completionHandler, showHandler);
+        }
+        handler.handleJSONObject(showNames);
+    }
+    private void getShowsFromPage(int page, CompletionHandler handler, CompletionHandler showHandler) {
+        final String url = "https://api.tvmaze.com/shows?page=" + page;
+        requestJSONArray(url, RequestMethod.GET, showHandler);
     }
 
     private void refresh(CompletionHandler handler) {

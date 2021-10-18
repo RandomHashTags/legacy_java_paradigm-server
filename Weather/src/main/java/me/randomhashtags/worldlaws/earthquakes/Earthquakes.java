@@ -51,7 +51,13 @@ public enum Earthquakes implements RestAPI {
             final String value = getValue(isRecent, territory);
             handler.handleString(value);
         } else {
-            registerAutoUpdates();
+            Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_EARTHQUAKES_UPDATE_INTERVAL, new CompletionHandler() {
+                @Override
+                public void handleObject(Object object) {
+                    refresh(false, null);
+                }
+            });
+
             final CompletionHandler completionHandler = new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
@@ -65,15 +71,6 @@ public enum Earthquakes implements RestAPI {
     private String getValue(boolean isRecent, String territory) {
         final String target = territory == null ? (isRecent ? recentEarthquakes : topRecentEarthquakes) : (isRecent ? recentTerritoryEarthquakes : topRecentTerritoryEarthquakes).getOrDefault(territory, null);
         return target == null || target.isEmpty() ? null : target;
-    }
-
-    private void registerAutoUpdates() {
-        Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_EARTHQUAKES_UPDATE_INTERVAL, new CompletionHandler() {
-            @Override
-            public void handleObject(Object object) {
-                refresh(false, null);
-            }
-        });
     }
 
     private String getURLRequest(LocalDate startDate, LocalDate endDate, float minMagnitude) {
