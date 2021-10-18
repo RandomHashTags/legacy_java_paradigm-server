@@ -54,7 +54,7 @@ public enum Earthquakes implements RestAPI {
             Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_EARTHQUAKES_UPDATE_INTERVAL, new CompletionHandler() {
                 @Override
                 public void handleObject(Object object) {
-                    refresh(false, null);
+                    refresh(true, false, null);
                 }
             });
 
@@ -65,7 +65,7 @@ public enum Earthquakes implements RestAPI {
                     handler.handleString(value);
                 }
             };
-            refresh(isRecent, completionHandler);
+            refresh(false, isRecent, completionHandler);
         }
     }
     private String getValue(boolean isRecent, String territory) {
@@ -85,7 +85,7 @@ public enum Earthquakes implements RestAPI {
         return date.getYear() + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : day);
     }
 
-    private void refresh(boolean isRecent, CompletionHandler handler) {
+    private void refresh(boolean isAutoUpdate, boolean isRecent, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final LocalDate now = Instant.ofEpochMilli(started).atZone(ZoneId.ofOffset("", ZoneOffset.UTC)).toLocalDate(), startDate = now.minusDays(30), recentStartingDate = now.minusDays(7);
         final String url = getURLRequest(startDate, now, 2.0f);
@@ -110,11 +110,11 @@ public enum Earthquakes implements RestAPI {
                             topRecentEarthquakes = getEarthquakesJSON(null, preEarthquakeDates);
                             recentEarthquakes = getEarthquakesJSON(recentStartingDate, preEarthquakeDates);
                             loadTerritoryEarthquakes(territoryEarthquakesMap);
-                            completeRefresh(started, isRecent ? recentEarthquakes : topRecentEarthquakes, handler);
+                            completeRefresh(isAutoUpdate, started, isRecent ? recentEarthquakes : topRecentEarthquakes, handler);
                         }
                     });
                 } else {
-                    completeRefresh(started, null, handler);
+                    completeRefresh(isAutoUpdate, started, null, handler);
                 }
             }
         });
@@ -154,8 +154,8 @@ public enum Earthquakes implements RestAPI {
         }
         return string;
     }
-    private void completeRefresh(long started, String string, CompletionHandler handler) {
-        WLLogger.log(Level.INFO, "Earthquakes - refreshed recent (took " + (System.currentTimeMillis()-started) + "ms)");
+    private void completeRefresh(boolean isAutoUpdate, long started, String string, CompletionHandler handler) {
+        WLLogger.log(Level.INFO, "Earthquakes - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
         if(handler != null) {
             handler.handleString(string);
         }

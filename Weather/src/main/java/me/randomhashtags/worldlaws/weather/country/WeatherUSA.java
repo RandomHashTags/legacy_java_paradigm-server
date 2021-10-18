@@ -69,82 +69,92 @@ public enum WeatherUSA implements WeatherController {
             public void handleJSONObject(JSONObject json) {
                 if(json != null) {
                     final JSONArray array = json.getJSONArray("features");
-                    final WLCountry unitedStates = WLCountry.UNITED_STATES;
-                    StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
-                        final JSONObject jsonAlert = (JSONObject) obj;
-                        final String id = jsonAlert.getString("id").split("/alerts/")[1];
-                        final JSONObject properties = jsonAlert.getJSONObject("properties");
-                        final JSONArray affectedZones = properties.getJSONArray("affectedZones");
-                        final HashSet<String> zoneIDs = new HashSet<>();
-                        for(Object object : affectedZones) {
-                            final String zoneURL = (String) object;
-                            final String zoneID = zoneURL.split(zonePrefix)[1];
-                            zoneIDs.add(zoneID);
-                        }
+                    final int max = array.length();
+                    if(max == 0) {
+                        handler.handleString(null);
+                    } else {
+                        final AtomicInteger completed = new AtomicInteger(0);
+                        final WLCountry unitedStates = WLCountry.UNITED_STATES;
+                        StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
+                            final JSONObject jsonAlert = (JSONObject) obj;
+                            final String id = jsonAlert.getString("id").split("/alerts/")[1];
+                            final JSONObject properties = jsonAlert.getJSONObject("properties");
+                            final JSONArray affectedZones = properties.getJSONArray("affectedZones");
+                            final HashSet<String> zoneIDs = new HashSet<>();
+                            for(Object object : affectedZones) {
+                                final String zoneURL = (String) object;
+                                final String zoneID = zoneURL.split(zonePrefix)[1];
+                                zoneIDs.add(zoneID);
+                            }
 
-                        final String[] senderName = properties.getString("senderName").split(" ");
-                        final int senderNameLength = senderName.length;
-                        final String territoryAbbreviation = senderName[senderNameLength-1];
-                        final SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(territoryAbbreviation);
-                        final String subdivisionName = subdivision != null ? subdivision.getName() : "Unknown";
-                        final String severityString = properties.getString("severity"), severity = severityString.equals("Unknown") ? "-1" : severityString;
-                        final String certainty = properties.getString("certainty");
-                        final String event = properties.getString("event");
-                        final String headline = properties.has("headline") ? properties.getString("headline") : null;
-                        final String description = properties.getString("description")
-                                .replace("\n\n", "%double_bruh%")
-                                .replace(".\n", "%bruh%")
-                                .replace("\n", " ")
-                                .replace("%bruh%", ".\n")
-                                .replace("%double_bruh%", "\n\n");
-                        final String instruction = properties.has("instruction") && properties.get("instruction") instanceof String
-                                ? properties.getString("instruction")
+                            final String[] senderName = properties.getString("senderName").split(" ");
+                            final int senderNameLength = senderName.length;
+                            final String territoryAbbreviation = senderName[senderNameLength-1];
+                            final SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(territoryAbbreviation);
+                            final String subdivisionName = subdivision != null ? subdivision.getName() : "Unknown";
+                            final String severityString = properties.getString("severity"), severity = severityString.equals("Unknown") ? "-1" : severityString;
+                            final String certainty = properties.getString("certainty");
+                            final String event = properties.getString("event");
+                            final String headline = properties.has("headline") ? properties.getString("headline") : null;
+                            final String description = properties.get("description") instanceof String ? properties.getString("description")
+                                    .replace("\n\n", "%double_bruh%")
                                     .replace(".\n", "%bruh%")
                                     .replace("\n", " ")
                                     .replace("%bruh%", ".\n")
-                                : null;
-                        final String sent = properties.getString("sent");
-                        final String effective = properties.getString("effective");
-                        final String expires = properties.getString("expires");
-                        final String ends = properties.get("ends") instanceof String ? properties.getString("ends") : null;
-                        final WeatherAlertTime time = new WeatherAlertTime(sent, effective, expires, ends);
+                                    .replace("%double_bruh%", "\n\n") : null;
+                            final String instruction = properties.has("instruction") && properties.get("instruction") instanceof String
+                                    ? properties.getString("instruction")
+                                    .replace(".\n", "%bruh%")
+                                    .replace("\n", " ")
+                                    .replace("%bruh%", ".\n")
+                                    : null;
+                            final String sent = properties.getString("sent");
+                            final String effective = properties.getString("effective");
+                            final String expires = properties.getString("expires");
+                            final String ends = properties.get("ends") instanceof String ? properties.getString("ends") : null;
+                            final WeatherAlertTime time = new WeatherAlertTime(sent, effective, expires, ends);
 
-                        final int defcon = getSeverityDEFCON(severity);
-                        eventsMap.putIfAbsent(event, defcon);
-                        subdivisionEventsMap.putIfAbsent(subdivisionName, new HashSet<>());
-                        final HashSet<WeatherEvent> territorySet = subdivisionEventsMap.get(subdivisionName);
-                        boolean hasEvent = false;
-                        for(WeatherEvent newWeatherEvent : territorySet) {
-                            if(event.equals(newWeatherEvent.getEvent())) {
-                                hasEvent = true;
-                                break;
+                            final int defcon = getSeverityDEFCON(severity);
+                            eventsMap.putIfAbsent(event, defcon);
+                            subdivisionEventsMap.putIfAbsent(subdivisionName, new HashSet<>());
+                            final HashSet<WeatherEvent> territorySet = subdivisionEventsMap.get(subdivisionName);
+                            boolean hasEvent = false;
+                            for(WeatherEvent newWeatherEvent : territorySet) {
+                                if(event.equals(newWeatherEvent.getEvent())) {
+                                    hasEvent = true;
+                                    break;
+                                }
                             }
-                        }
-                        if(!hasEvent) {
-                            final WeatherEvent weatherEvent = new WeatherEvent(event, defcon);
-                            subdivisionEventsMap.get(subdivisionName).add(weatherEvent);
-                        }
+                            if(!hasEvent) {
+                                final WeatherEvent weatherEvent = new WeatherEvent(event, defcon);
+                                subdivisionEventsMap.get(subdivisionName).add(weatherEvent);
+                            }
 
-                        final WeatherPreAlert preAlert = new WeatherPreAlert(defcon, event, id, subdivisionName, certainty, headline, instruction, description, zoneIDs, time);
-                        preAlertIDs.put(id, preAlert);
+                            final WeatherPreAlert preAlert = new WeatherPreAlert(defcon, event, id, subdivisionName, certainty, headline, instruction, description, zoneIDs, time);
+                            preAlertIDs.put(id, preAlert);
 
-                        eventPreAlertsMap.putIfAbsent(event, new HashSet<>());
-                        eventPreAlertsMap.get(event).add(preAlert);
+                            eventPreAlertsMap.putIfAbsent(event, new HashSet<>());
+                            eventPreAlertsMap.get(event).add(preAlert);
 
-                        final String eventLowercase = event.toLowerCase().replace(" ", "");
-                        territoryPreAlertsMap.putIfAbsent(subdivisionName, new ConcurrentHashMap<>());
-                        territoryPreAlertsMap.get(subdivisionName).putIfAbsent(eventLowercase, new HashSet<>());
-                        territoryPreAlertsMap.get(subdivisionName).get(eventLowercase).add(preAlert);
-                    });
-                }
+                            final String eventLowercase = event.toLowerCase().replace(" ", "");
+                            territoryPreAlertsMap.putIfAbsent(subdivisionName, new ConcurrentHashMap<>());
+                            territoryPreAlertsMap.get(subdivisionName).putIfAbsent(eventLowercase, new HashSet<>());
+                            territoryPreAlertsMap.get(subdivisionName).get(eventLowercase).add(preAlert);
 
-                putEventPreAlerts(eventPreAlerts, eventPreAlertsMap);
-                putSubdivisionEvents(territoryEvents, subdivisionEventsMap);
-                putSubdivisionPreAlerts(territoryPreAlerts, territoryPreAlertsMap);
+                            if(completed.addAndGet(1) == max) {
+                                putEventPreAlerts(eventPreAlerts, eventPreAlertsMap);
+                                putSubdivisionEvents(territoryEvents, subdivisionEventsMap);
+                                putSubdivisionPreAlerts(territoryPreAlerts, territoryPreAlertsMap);
 
-                final String eventsJSON = getEventsJSON(eventsMap);
-                if(handler != null) {
-                    handler.handleString(eventsJSON);
+                                final String eventsJSON = getEventsJSON(eventsMap);
+                                if(handler != null) {
+                                    handler.handleString(eventsJSON);
+                                }
+                            }
+                        });
+                    }
+                } else {
+                    handler.handleString(null);
                 }
             }
         });

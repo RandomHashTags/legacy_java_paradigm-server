@@ -57,7 +57,6 @@ public enum WeatherAlerts {
                 final String subdivision = values[2];
                 final String prefix = key + "/" + country + "/" + subdivision;
                 final String target = value.equals(prefix) ? "" : value.substring(prefix.length()+1);
-                WLLogger.log(Level.INFO, "WeatherAlerts;getResponse;subdivision;target=" + target);
                 getAlertsForSubdivision(country, subdivision, target.split("/"), handler);
                 break;
             default:
@@ -73,7 +72,12 @@ public enum WeatherAlerts {
                     final String string = countries.get(countryBackendID);
                     handler.handleString(string);
                 } else {
-                    refreshCountry(weather, handler);
+                    refreshCountry(weather, new CompletionHandler() {
+                        @Override
+                        public void handleStringValue(String key, String value) {
+                            handler.handleString(value);
+                        }
+                    });
                 }
             } else {
                 switch (values[0]) {
@@ -158,10 +162,10 @@ public enum WeatherAlerts {
             Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL, new CompletionHandler() {
                 @Override
                 public void handleObject(Object object) {
-                    refresh(null);
+                    refresh(true, null);
                 }
             });
-            refresh(handler);
+            refresh(false, handler);
         }
     }
     private void refreshCountry(WeatherController controller, CompletionHandler handler) {
@@ -170,20 +174,20 @@ public enum WeatherAlerts {
             @Override
             public void handleString(String string) {
                 countries.put(countryBackendID, string);
-                handler.handleString(string);
+                handler.handleStringValue(controller.getClass().getSimpleName(), string);
             }
         });
     }
-    private void refresh(CompletionHandler handler) {
+    private void refresh(boolean isAutoUpdate, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final HashMap<String, Long> controllerLoadTimes = new HashMap<>();
         final WeatherController[] countries = getCountries();
         final int max = countries.length;
         final AtomicInteger completed = new AtomicInteger(0);
-        Arrays.asList(countries).parallelStream().forEach(weather -> refreshCountry(weather, new CompletionHandler() {
+        final CompletionHandler completionHandler = new CompletionHandler() {
             @Override
-            public void handleString(String string) {
-                controllerLoadTimes.put(weather.getClass().getSimpleName(), System.currentTimeMillis()-started);
+            public void handleStringValue(String key, String value) {
+                controllerLoadTimes.put(key, System.currentTimeMillis()-started);
                 if(completed.addAndGet(1) == max) {
                     updateJSON();
                     final StringBuilder loadTimes = new StringBuilder();
@@ -194,13 +198,14 @@ public enum WeatherAlerts {
                         loadTimes.append(isFirst ? "" : ",").append(simpleName).append(" took ").append(time).append("ms");
                         isFirst = false;
                     }
-                    WLLogger.log(Level.INFO, "WeatherAlerts - refreshed All Alert Events (took " + (System.currentTimeMillis()-started) + "ms total, " + loadTimes.toString() + ")");
+                    WLLogger.log(Level.INFO, "WeatherAlerts - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + (System.currentTimeMillis()-started) + "ms total, " + loadTimes.toString() + ")");
                     if(handler != null) {
                         handler.handleString(allAlertsJSON);
                     }
                 }
             }
-        }));
+        };
+        Arrays.asList(countries).parallelStream().forEach(weather -> refreshCountry(weather, completionHandler));
     }
     private void updateJSON() {
         final StringBuilder builder = new StringBuilder("{");
