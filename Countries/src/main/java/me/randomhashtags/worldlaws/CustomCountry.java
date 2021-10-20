@@ -263,7 +263,7 @@ public final class CustomCountry implements SovereignState {
                 (hasGovernmentAdministrations ? "\"currentGovernmentAdministration\":" + currentGovernmentAdministration + "," : "") +
                 (hasGovernmentAdministrations ? "\"governmentAdministrations\":" + getGovernmentAdministrationsJSON() + "," : "") +
                 (!name.equals(shortName) ? "\"shortName\":\"" + shortName + "\"," : "") +
-                (timezones != null ? "\"timezones\":" + getTimeZonesJSON() + "," : "") +
+                (timezones != null ? "\"timezones\":" + getTimeZonesJSON(timezones) + "," : "") +
                 (subdivisions != null ? "\"subdivisions\":" + subdivisions + "," : "") +
                 "\"flagEmoji\":\"" + flagEmoji + "\"" +
                 "}";

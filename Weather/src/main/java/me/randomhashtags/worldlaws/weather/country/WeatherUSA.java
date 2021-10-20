@@ -18,7 +18,8 @@ import java.util.stream.StreamSupport;
 public enum WeatherUSA implements WeatherController {
     INSTANCE;
 
-    private HashMap<String, String> alertIDs, zones, eventPreAlerts, territoryEvents;
+    private HashMap<String, String> alertIDs, eventPreAlerts, territoryEvents;
+    private ConcurrentHashMap<String, String> zones;
     private HashMap<String, HashMap<String, String>> territoryPreAlerts;
     private HashMap<String, WeatherPreAlert> preAlertIDs;
 
@@ -235,7 +236,7 @@ public enum WeatherUSA implements WeatherController {
     @Override
     public void getZone(String zoneID, CompletionHandler handler) {
         if(zones == null) {
-            zones = new HashMap<>();
+            zones = new ConcurrentHashMap<>();
         }
         if(zones.containsKey(zoneID)) {
             handler.handleString(zones.get(zoneID));
@@ -251,16 +252,20 @@ public enum WeatherUSA implements WeatherController {
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    final JSONObject geometryJSON = json.getJSONObject("geometry"), properties = json.getJSONObject("properties");
-                    final Object state = properties.get("state");
-                    final String stateString = state instanceof String ? (String) state : null;
-                    final SovereignStateSubdivision subdivision = WLCountry.UNITED_STATES.valueOfSovereignStateSubdivision(stateString);
-                    final String name = properties.getString("name"), territory = subdivision != null ? subdivision.getName() : "Unknown";
-                    final List<Location> geometry = getGeometry(geometryJSON);
-                    final WeatherZone zone = new WeatherZone(zoneID, name, territory, geometry);
-                    final String string = zone.toString();
-                    zones.put(zoneID, string);
-                    handler.handleString(string);
+                    if(json != null) {
+                        final JSONObject geometryJSON = json.getJSONObject("geometry"), properties = json.getJSONObject("properties");
+                        final Object state = properties.get("state");
+                        final String stateString = state instanceof String ? (String) state : null;
+                        final SovereignStateSubdivision subdivision = WLCountry.UNITED_STATES.valueOfSovereignStateSubdivision(stateString);
+                        final String name = properties.getString("name"), territory = subdivision != null ? subdivision.getName() : "Unknown";
+                        final List<Location> geometry = getGeometry(geometryJSON);
+                        final WeatherZone zone = new WeatherZone(zoneID, name, territory, geometry);
+                        final String string = zone.toString();
+                        zones.put(zoneID, string);
+                        handler.handleString(string);
+                    } else {
+                        handler.handleString(null);
+                    }
                 }
             });
         }
@@ -287,7 +292,7 @@ public enum WeatherUSA implements WeatherController {
                 });
                 break;
             default:
-                WLLogger.log(Level.WARN, "WeatherUSA - uncaught geometryType \"" + geometryType + "\"!");
+                WLLogger.log(Level.ERROR, "WeatherUSA - uncaught geometryType \"" + geometryType + "\"!");
                 break;
         }
         return geometry;

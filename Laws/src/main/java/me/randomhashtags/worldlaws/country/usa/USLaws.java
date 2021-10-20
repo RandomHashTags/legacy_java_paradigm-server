@@ -142,9 +142,10 @@ public enum USLaws implements LawController {
                         case 1: return state.getTableOfChapters(zero);
                         case 2: return state.getStatuteList(zero, array[1]);
                         case 3: return state.getStatute(zero, array[1], array[2]);
-                        default: return "";
+                        default: return null;
                     }
-                default: return "";
+                default:
+                    return null;
             }
         }
         return null;

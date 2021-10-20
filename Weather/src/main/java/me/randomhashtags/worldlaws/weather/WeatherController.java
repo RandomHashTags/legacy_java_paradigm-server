@@ -137,7 +137,7 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
 
     default void getSubdivisionEvents(String subdivision, CompletionHandler handler) {
         final HashMap<String, String> territoryEvents = getSubdivisionEvents();
-        final String value = territoryEvents.getOrDefault(subdivision, null);
+        final String value = territoryEvents.getOrDefault(subdivision, "{}");
         handler.handleString(value);
     }
     default void getSubdivisionPreAlerts(String subdivision, String event, CompletionHandler handler) {

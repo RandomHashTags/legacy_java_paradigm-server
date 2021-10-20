@@ -37,8 +37,11 @@ public enum Statistics implements Jsonable, QuotaHandler {
                         final JSONObject versionJSON = uniqueServerValuesJSON.has(version) ? uniqueServerValuesJSON.getJSONObject(version) : new JSONObject();
                         final JSONObject targetJSON = versionJSON.has(request) ? versionJSON.getJSONObject(request) : new JSONObject();
                         final JSONArray existingRequestValue = targetJSON.has("identifiers") ? targetJSON.getJSONArray("identifiers") : new JSONArray();
+                        final List<Object> list = existingRequestValue.toList();
                         for(String string : value.getValue()) {
-                            existingRequestValue.put(string);
+                            if(!list.contains(string)) {
+                                existingRequestValue.put(string);
+                            }
                         }
                         final int uniqueRequests = existingRequestValue.length();
                         totalUniqueRequests += uniqueRequests;

@@ -37,9 +37,10 @@ public final class WLClient extends Thread {
         return headers;
     }
     public String getIdentifier() {
+        final String identifierKey = "***REMOVED***";
         for(String string : getHeaderList()) {
-            if(string.startsWith("***REMOVED***")) {
-                return string.substring("***REMOVED***".length());
+            if(string.startsWith(identifierKey)) {
+                return string.substring(identifierKey.length());
             }
         }
         return null;

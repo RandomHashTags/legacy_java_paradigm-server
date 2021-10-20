@@ -52,6 +52,7 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
+        loadServices();
         getHomeResponse(new CompletionHandler() {
             @Override
             public void handleString(String string) {

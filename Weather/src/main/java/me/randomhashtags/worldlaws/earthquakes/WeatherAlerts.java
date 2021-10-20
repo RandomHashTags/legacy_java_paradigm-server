@@ -35,7 +35,7 @@ public enum WeatherAlerts {
     public void getResponse(String value, CompletionHandler handler) {
         final String[] values = value.split("/");
         final String key = values[0];
-        String country = null;
+        String country = null, prefix = null, target = null;
         switch (key) {
             case "all":
                 getAll(handler);
@@ -45,18 +45,15 @@ public enum WeatherAlerts {
                 break;
             case "country":
                 country = values[1];
-                String[] countryValues = null;
-                final int substring = key.length() + country.length() + 2;
-                if(value.length() > substring) {
-                    countryValues = value.substring(substring).split("/");
-                }
+                prefix = key + "/" + country;
+                final String[] countryValues = value.equals(prefix) ? null : value.substring(prefix.length()+1).split("/");
                 getAlertsForCountry(country, countryValues, handler);
                 break;
             case "subdivision":
                 country = values[1];
                 final String subdivision = values[2];
-                final String prefix = key + "/" + country + "/" + subdivision;
-                final String target = value.equals(prefix) ? "" : value.substring(prefix.length()+1);
+                prefix = key + "/" + country + "/" + subdivision;
+                target = value.equals(prefix) ? "" : value.substring(prefix.length()+1);
                 getAlertsForSubdivision(country, subdivision, target.split("/"), handler);
                 break;
             default:

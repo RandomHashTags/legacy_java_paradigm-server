@@ -64,8 +64,8 @@ public final class WikipediaCountryService implements CountryService {
                 }
 
                 @Override
-                public void handleJSONObject(JSONObject object) {
-                    final String string = new CountryServiceValue(self, object.toString()).toString();
+                public void handleJSONObject(JSONObject json) {
+                    final String string = json != null ? new CountryServiceValue(self, json.toString()).toString() : null;
                     WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + tag + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                     sovereignStates.put(tag, string);
                     handler.handleServiceResponse(self, string);

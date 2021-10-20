@@ -13,9 +13,8 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public abstract class UpcomingEventController implements YouTubeService, Jsoupable, DataValues {
-    private final ConcurrentHashMap<String, String> loadedPreUpcomingEvents;
+    private final ConcurrentHashMap<String, String> loadedPreUpcomingEvents, upcomingEvents;
     private final ConcurrentHashMap<String, PreUpcomingEvent> preUpcomingEvents;
-    private final ConcurrentHashMap<String, String> upcomingEvents;
 
     public UpcomingEventController() {
         loadedPreUpcomingEvents = new ConcurrentHashMap<>();

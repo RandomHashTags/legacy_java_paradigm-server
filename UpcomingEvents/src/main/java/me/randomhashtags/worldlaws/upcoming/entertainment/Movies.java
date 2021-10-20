@@ -54,7 +54,11 @@ public final class Movies extends UpcomingEventController implements IMDbService
         Month month = null;
         for(Element element : table) {
             String text = element.text();
-            final Month targetMonth = WLUtilities.valueOfMonthFromInput(text.replace(" ", ""));
+            final Element monthElement = element.selectFirst("th");
+            Month targetMonth = null;
+            if(monthElement != null) {
+                targetMonth = WLUtilities.valueOfMonthFromInput(monthElement.text().replace(" ", ""));
+            }
             if(foundStartingMonth && targetMonth == endingMonth) {
                 break;
             } else if(!foundStartingMonth && targetMonth == startingMonth) {

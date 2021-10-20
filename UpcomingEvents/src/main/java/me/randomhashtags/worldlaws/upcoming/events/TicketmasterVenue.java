@@ -28,10 +28,10 @@ public final class TicketmasterVenue {
                 "\"subdivisionName\":\"" + subdivisionName + "\"," +
                 "\"cityName\":\"" + cityName + "\"," +
                 "\"location\":" + location.toString() + "," +
-                "\"generalRule\":\"" + generalRule + "\"," +
-                "\"childRule\":\"" + childRule + "\"," +
+                (generalRule != null ? "\"generalRule\":\"" + generalRule + "\"," : "") +
+                (childRule != null ? "\"childRule\":\"" + childRule + "\"," : "") +
                 "\"parkingDetail\":\"" + parkingDetail + "\"," +
-                "\"accessibilitySeatingInfo\":\"" + accessibleSeatingInfo + "\"" +
+                "\"accessibleSeatingInfo\":\"" + accessibleSeatingInfo + "\"" +
                 "}";
     }
 }

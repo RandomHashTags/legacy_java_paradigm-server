@@ -52,6 +52,8 @@ public enum UpcomingEventType {
     }
     public String getImageURLPrefix() {
         switch (this) {
+            case MOVIE:
+                return "https://m.media-amazon.com/images/";
             case MUSIC_ALBUM:
             case SPORT_CHAMPIONSHIPS:
             case SPORT_UFC:

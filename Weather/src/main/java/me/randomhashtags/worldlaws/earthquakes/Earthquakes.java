@@ -69,7 +69,7 @@ public enum Earthquakes implements RestAPI {
         }
     }
     private String getValue(boolean isRecent, String territory) {
-        final String target = territory == null ? (isRecent ? recentEarthquakes : topRecentEarthquakes) : (isRecent ? recentTerritoryEarthquakes : topRecentTerritoryEarthquakes).getOrDefault(territory, null);
+        final String target = territory == null ? (isRecent ? recentEarthquakes : topRecentEarthquakes) : (isRecent ? recentTerritoryEarthquakes : topRecentTerritoryEarthquakes).getOrDefault(territory, "{}");
         return target == null || target.isEmpty() ? null : target;
     }
 
@@ -201,15 +201,16 @@ public enum Earthquakes implements RestAPI {
         for(Map.Entry<String, HashSet<PreEarthquake>> territoryEarthquakeMap : territoryEarthquakesMap.entrySet()) {
             final String territory = territoryEarthquakeMap.getKey();
             final HashSet<PreEarthquake> territoryEarthquakes = territoryEarthquakeMap.getValue();
-            final StringBuilder builder = new StringBuilder("[");
+            final StringBuilder builder = new StringBuilder("{");
             boolean isFirst = true;
             for(PreEarthquake earthquake : territoryEarthquakes) {
                 builder.append(isFirst ? "" : ",").append(earthquake.toString());
                 isFirst = false;
             }
-            builder.append("]");
-            recentTerritoryEarthquakes.put(territory, builder.toString());
-            topRecentTerritoryEarthquakes.put(territory, builder.toString());
+            builder.append("}");
+            final String string = builder.toString();
+            recentTerritoryEarthquakes.put(territory, string);
+            topRecentTerritoryEarthquakes.put(territory, string);
         }
     }
 

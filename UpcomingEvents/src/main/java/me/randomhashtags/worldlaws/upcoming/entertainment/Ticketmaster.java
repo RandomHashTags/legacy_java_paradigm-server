@@ -160,8 +160,12 @@ public enum Ticketmaster implements RestAPI {
                     final double latitude = locationJSON.getDouble("latitude"), longitude = locationJSON.getDouble("longitude");
                     final Location location = new Location(latitude, longitude);
 
-                    final JSONObject generalInfo = json.getJSONObject("generalInfo");
-                    final String generalRule = generalInfo.getString("generalRule"), childRule = generalInfo.getString("childRule");
+                    String generalRule = null, childRule = null;
+                    if(json.has("generalInfo")) {
+                        final JSONObject generalInfo = json.getJSONObject("generalInfo");
+                        generalRule = generalInfo.has("generalRule") ? generalInfo.getString("generalRule") : null;
+                        childRule = generalInfo.has("childRule") ? generalInfo.getString("childRule") : null;
+                    }
 
                     final String parkingDetail = json.has("parkingDetail") ? json.getString("parkingDetail") : null;
                     final String accessibleSeatingDetail = json.has("accessibleSeatingDetail") ? json.getString("accessibleSeatingDetail") : null;

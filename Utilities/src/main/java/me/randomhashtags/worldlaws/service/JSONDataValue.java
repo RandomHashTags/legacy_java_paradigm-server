@@ -6,6 +6,8 @@ public enum JSONDataValue {
     SPOTIFY,
     FINANCE_YAHOO_FINANCE,
     FINANCE_TWELVE_DATA,
+
+    TV_SHOWS,
     ;
 
     public String getIdentifier() {

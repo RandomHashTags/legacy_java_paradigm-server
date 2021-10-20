@@ -12,6 +12,7 @@ public abstract class WLUtilities {
     public static final long PROXY_HOME_RESPONSE_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);
     public static final long UPCOMING_EVENTS_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
     public static final long UPCOMING_EVENTS_TV_SHOW_UPDATE_INTERVAL = TimeUnit.DAYS.toMillis(1);
+    public static final long UPCOMING_EVENTS_TV_SHOW_NAMES_UPDATE_INTERVAL = TimeUnit.DAYS.toMillis(7);
     public static final long WEATHER_ALERTS_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);
     public static final long WEATHER_EARTHQUAKES_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(30);
     public static final long WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);

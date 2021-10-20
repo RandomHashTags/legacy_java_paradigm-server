@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.io.Reader;
 import java.net.Socket;
+import java.net.SocketException;
 import java.util.Arrays;
 import java.util.HashSet;
 
@@ -62,6 +63,7 @@ public final class ProxyClient extends Thread implements RestAPI {
             final OutputStream outToClient = client.getOutputStream();
             outToClient.write(input.getBytes(DataValues.ENCODING));
             closeClient(outToClient, client);
+        } catch (SocketException ignored) {
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }

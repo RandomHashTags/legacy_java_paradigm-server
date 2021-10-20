@@ -55,11 +55,12 @@ public final class UpcomingEvents implements WLServer {
 
     private void test() {
         final HashSet<String> dates = getWeeklyEventDateStrings(LocalDate.now());
-        final Ticketmaster.Music music = new Ticketmaster.Music();
+        final Movies music = new Movies();
         music.getEventsFromDates(dates, new CompletionHandler() {
             @Override
             public void handleStringValue(String key, String value) {
                 WLLogger.log(Level.INFO, "UpcomingEvents;test;value=" + value);
+                //WLLogger.log(Level.INFO, "preUpcomingEvents.keys=" + music.preUpcomingEvents.keySet().toString());
             }
         });
     }
