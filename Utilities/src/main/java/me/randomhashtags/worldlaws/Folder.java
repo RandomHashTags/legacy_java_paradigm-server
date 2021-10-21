@@ -43,6 +43,7 @@ public enum Folder {
     UPCOMING_EVENTS_YEAR_DAY("upcoming events" + File.separator + "%year%" + File.separator + "%day%"),
     UPCOMING_EVENTS_IDS("upcoming events" + File.separator + "%year%" + File.separator + "ids" + File.separator + "%month%" + File.separator + "%day%"),
     UPCOMING_EVENTS_HOLIDAYS("upcoming events" + File.separator + "holidays" + File.separator + "%year%"),
+    UPCOMING_EVENTS_HOLIDAYS_COUNTRIES("upcoming events" + File.separator + "holidays" + File.separator + "%year%" + File.separator + "countries"),
     UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS("upcoming events" + File.separator + "holidays" + File.separator + "descriptions"),
     UPCOMING_EVENTS_TV_SHOWS("upcoming events" + File.separator + "tv shows"),
     WEATHER_USA_ZONES,

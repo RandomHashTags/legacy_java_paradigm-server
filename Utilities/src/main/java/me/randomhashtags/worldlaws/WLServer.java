@@ -129,7 +129,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             final HashSet<String> values = new HashSet<>();
             final AtomicInteger completed = new AtomicInteger(0);
             final int responseVersion = server.getResponseVersion();
-            final String versionString = responseVersion > 0 ? "\"version\":" + server.getResponseVersion() + "\"," : "";
+            final String versionString = responseVersion > 0 ? "\"version\":" + server.getResponseVersion() : "";
             Arrays.asList(requests).parallelStream().forEach(request -> {
                 getServerResponse(version, request, new CompletionHandler() {
                     @Override

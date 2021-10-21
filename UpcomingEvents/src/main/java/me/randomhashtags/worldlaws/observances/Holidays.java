@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.observances;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import org.apache.logging.log4j.Level;
+import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.util.*;
@@ -108,44 +109,71 @@ public enum Holidays implements Jsoupable, Jsonable {
         });
     }
     private void loadHolidays(int year, String country, List<String> days, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> holidays, CompletionHandler handler) {
-        HolidayType.insertNearbyHolidays(year, days, descriptions, holidays, new CompletionHandler() {
-            @Override
-            public void handleObject(Object object) {
-                final StringBuilder dateBuilder = new StringBuilder();
-                for(Map.Entry<String, ConcurrentHashMap<String, HolidayObj>> map : holidays.entrySet()) {
-                    final String holidayDay = map.getKey();
-                    final StringBuilder holidayBuilder = new StringBuilder("\"").append(holidayDay).append("\":{");
-                    boolean isFirst = true;
-
-                    final ConcurrentHashMap<String, HolidayObj> holidays = map.getValue();
-                    boolean hasHoliday = false;
-                    for(HolidayObj holiday : holidays.values()) {
-                        final HashSet<String> countries = holiday.getCountries();
-                        if(countries == null || country == null || countries.contains(country)) {
-                            holidayBuilder.append(isFirst ? "" : ",").append(holiday.toString());
-                            isFirst = false;
-                            hasHoliday = true;
+        if(country != null) {
+            final Folder folder = Folder.UPCOMING_EVENTS_HOLIDAYS_COUNTRIES;
+            final String fileName = folder.getFolderName().replace("%year%", Integer.toString(year));
+            folder.setCustomFolderName(country, fileName);
+            getJSONObject(folder, country, new CompletionHandler() {
+                @Override
+                public void load(CompletionHandler handler) {
+                    HolidayType.insertNearbyHolidays(year, days, descriptions, holidays, new CompletionHandler() {
+                        @Override
+                        public void handleObject(Object object) {
+                            final String value = getLoadedHolidays(country, descriptions, holidays);
+                            handler.handleString(value);
                         }
-                    }
-                    if(hasHoliday) {
-                        holidayBuilder.append("}");
-                        dateBuilder.append(",").append(holidayBuilder);
-                    }
+                    });
                 }
 
-                final StringBuilder builder = new StringBuilder("{\"descriptions\":{");
-                boolean isFirst = true;
-                for(Map.Entry<String, String> map : descriptions.entrySet()) {
-                    final String name = map.getKey(), description = LocalServer.fixEscapeValues(map.getValue());
-                    builder.append(isFirst ? "" : ",").append("\"").append(name).append("\":\"").append(description).append("\"");
-                    isFirst = false;
+                @Override
+                public void handleJSONObject(JSONObject json) {
+                    handler.handleString(json.toString());
                 }
-                builder.append("}");
-                builder.append(dateBuilder);
-                builder.append("}");
-                final String value = builder.toString();
-                handler.handleString(value);
+            });
+        } else {
+            HolidayType.insertNearbyHolidays(year, days, descriptions, holidays, new CompletionHandler() {
+                @Override
+                public void handleObject(Object object) {
+                    final String value = getLoadedHolidays(null, descriptions, holidays);
+                    handler.handleString(value);
+                }
+            });
+        }
+    }
+    private String getLoadedHolidays(String country, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> holidays) {
+        final StringBuilder dateBuilder = new StringBuilder();
+        final StringBuilder descriptionBuilder = new StringBuilder("{\"descriptions\":{");
+        final HashSet<String> loadedDescriptions = new HashSet<>();
+        boolean isFirstDescription = true;
+        for(Map.Entry<String, ConcurrentHashMap<String, HolidayObj>> map : holidays.entrySet()) {
+            final String holidayDay = map.getKey();
+            final StringBuilder holidayBuilder = new StringBuilder("\"").append(holidayDay).append("\":{");
+            boolean isFirst = true;
+
+            final ConcurrentHashMap<String, HolidayObj> holidaysMap = map.getValue();
+            boolean hasHoliday = false;
+            for(HolidayObj holiday : holidaysMap.values()) {
+                final HashSet<String> countries = holiday.getCountries();
+                if(countries == null || country == null || countries.contains(country)) {
+                    holidayBuilder.append(isFirst ? "" : ",").append(holiday);
+                    isFirst = false;
+                    hasHoliday = true;
+                    final String englishName = holiday.getEnglishName();
+                    if(!loadedDescriptions.contains(englishName)) {
+                        loadedDescriptions.add(englishName);
+                        final String description = LocalServer.fixEscapeValues(descriptions.get(englishName));
+                        descriptionBuilder.append(isFirstDescription ? "" : ",").append("\"").append(englishName).append("\":\"").append(description).append("\"");
+                        isFirstDescription = false;
+                    }
+                }
             }
-        });
+            if(hasHoliday) {
+                holidayBuilder.append("}");
+                dateBuilder.append(",").append(holidayBuilder);
+            }
+        }
+        descriptionBuilder.append("}");
+        dateBuilder.append("}");
+        return descriptionBuilder.toString() + dateBuilder.toString();
     }
 }

@@ -7,14 +7,8 @@ import org.json.JSONObject;
 import java.util.HashMap;
 
 public enum InAppPurchases {
-    FAMILY_PREMIUM_LIFETIME,
-    INDIVIDUAL_PREMIUM_LIFETIME,
-
     FAMILY_PREMIUM_ONE_MONTH,
-    FAMILY_PREMIUM_ONE_YEAR,
-
     INDIVIDUAL_PREMIUM_ONE_MONTH,
-    INDIVIDUAL_PREMIUM_ONE_YEAR,
     ;
 
     private static final HashMap<APIVersion, String> CACHE = new HashMap<>();
@@ -47,13 +41,8 @@ public enum InAppPurchases {
 
     public InAppPurchaseType getType() {
         switch (this) {
-            case INDIVIDUAL_PREMIUM_LIFETIME:
-            case FAMILY_PREMIUM_LIFETIME:
-                return InAppPurchaseType.NON_CONSUMABLE;
             case INDIVIDUAL_PREMIUM_ONE_MONTH:
-            case INDIVIDUAL_PREMIUM_ONE_YEAR:
             case FAMILY_PREMIUM_ONE_MONTH:
-            case FAMILY_PREMIUM_ONE_YEAR:
                 return InAppPurchaseType.AUTO_RENEWING_SUBSCRIPTION;
             default:
                 return InAppPurchaseType.UNKNOWN;
@@ -61,13 +50,9 @@ public enum InAppPurchases {
     }
     public InAppPurchaseCategory getCategory() {
         switch (this) {
-            case INDIVIDUAL_PREMIUM_LIFETIME:
             case INDIVIDUAL_PREMIUM_ONE_MONTH:
-            case INDIVIDUAL_PREMIUM_ONE_YEAR:
                 return InAppPurchaseCategory.INDIVIDUAL;
-            case FAMILY_PREMIUM_LIFETIME:
             case FAMILY_PREMIUM_ONE_MONTH:
-            case FAMILY_PREMIUM_ONE_YEAR:
                 return InAppPurchaseCategory.FAMILY;
             default:
                 return InAppPurchaseCategory.UNKNOWN;

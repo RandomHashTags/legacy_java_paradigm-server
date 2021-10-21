@@ -5,6 +5,7 @@ import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public enum TargetServer implements RestAPI, DataValues {
@@ -100,7 +101,7 @@ public enum TargetServer implements RestAPI, DataValues {
             final JSONObject json = new JSONObject(), responseVersions = new JSONObject();
 
             for(TargetServer server : values()) {
-                if(server.port != 0) {
+                if(server.port > 0) {
                     responseVersions.put(server.getBackendID(), server.getResponseVersion());
                 }
             }
@@ -181,7 +182,7 @@ public enum TargetServer implements RestAPI, DataValues {
         }
 
         final int max = requests.size();
-        final HashMap<String, String> values = new HashMap<>();
+        final ConcurrentHashMap<String, String> values = new ConcurrentHashMap<>();
         final AtomicInteger completed = new AtomicInteger(0);
         final CompletionHandler completionHandler = new CompletionHandler() {
             @Override

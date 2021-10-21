@@ -57,7 +57,6 @@ public enum HolidayType implements Jsonable {
     ;
 
     private final String celebrators, emoji;
-    private JSONObject cache;
 
     HolidayType(String celebrators, String emoji) {
         this.celebrators = celebrators;
@@ -74,7 +73,7 @@ public enum HolidayType implements Jsonable {
                 @Override
                 public void handleJSONObject(JSONObject json) {
                     final JSONObject descriptionsJSON = json.getJSONObject("descriptions");
-                    final Set<String> keys = json.keySet();
+                    final Set<String> keys = new HashSet<>(json.keySet());
                     keys.remove("descriptions");
                     if(isCountries) {
                         for(String country : keys) {
@@ -85,9 +84,9 @@ public enum HolidayType implements Jsonable {
                             }
                         }
                     } else {
+                        final String celebratingCountry = type.getCelebratingCountryBackendID();
                         final Collection<String> days = nearbyHolidayDays != null ? nearbyHolidayDays : keys;
                         for(String holidayDay : days) {
-                            final String celebratingCountry = type.getCelebratingCountryBackendID();
                             insertNearbyHolidays(descriptionsJSON, celebratingCountry, holidayDay, json, descriptions, nearbyHolidays);
                         }
                     }
@@ -104,7 +103,7 @@ public enum HolidayType implements Jsonable {
             final boolean isCountries = country != null;
             for(String key : array.keySet()) {
                 final JSONObject holidayJSON = array.getJSONObject(key);
-                final HolidayObj holiday = isCountries ? new HolidayObj(key, holidayJSON) : new HolidayObj(key, holidayJSON);
+                final HolidayObj holiday = new HolidayObj(key, holidayJSON);
                 if(isCountries) {
                     holiday.addCountry(country);
                 }
@@ -152,66 +151,61 @@ public enum HolidayType implements Jsonable {
         return country != null ? country.getBackendID() : null;
     }
 
-    public void getHolidaysJSONObject(int year, CompletionHandler handler) {
-        if(cache != null) {
-            handler.handleJSONObject(cache);
-        } else {
-            final String fileName = year + "_" + name();
-            final HolidayType self = this;
-            final boolean isCountries = self == COUNTRIES;
+    private void getHolidaysJSONObject(int year, CompletionHandler handler) {
+        final String fileName = year + "_" + name();
+        final HolidayType self = this;
+        final boolean isCountries = self == COUNTRIES;
 
-            final Folder folder = Folder.UPCOMING_EVENTS_HOLIDAYS;
-            folder.setCustomFolderName(fileName, folder.getFolderName().replace("%year%", Integer.toString(year)));
-            getJSONObject(folder, fileName, new CompletionHandler() {
-                @Override
-                public void load(CompletionHandler handler) {
-                    final IHoliday[] holidays = getHolidays();
-                    final ConcurrentHashMap<String, String> descriptions = new ConcurrentHashMap<>();
-                    if(isCountries) {
-                        loadCountryHolidays(year, holidays, descriptions, handler);
-                    } else if(holidays != null) {
-                        final boolean isChristian = self == CHRISTIAN_EAST || self == CHRISTIAN_WEST, isWestChristian = isChristian && self == CHRISTIAN_WEST;
-                        final int max = holidays.length;
-                        final AtomicInteger completed = new AtomicInteger(0);
-                        final ConcurrentHashMap<String, HashSet<String>> values = new ConcurrentHashMap<>();
-                        Arrays.stream(holidays).parallel().forEach(holiday -> {
-                            final EventDate date = isChristian ? ((ChristianHoliday) holiday).getDate(isWestChristian, null, year) : holiday.getDate(null, year);
-                            if(date != null) {
-                                final String dateString = date.getDateString();
-                                holiday.getImageURL(self, new CompletionHandler() {
-                                    @Override
-                                    public void handleString(String imageURL) {
-                                        holiday.getDescription(self, new CompletionHandler() {
-                                            @Override
-                                            public void handleString(String description) {
-                                                final HolidayObj customHoliday = getHolidayObj(holiday, imageURL);
-                                                final String englishName = customHoliday.getEnglishName();
-                                                descriptions.putIfAbsent(englishName, description);
+        final Folder folder = Folder.UPCOMING_EVENTS_HOLIDAYS;
+        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%year%", Integer.toString(year)));
+        getJSONObject(folder, fileName, new CompletionHandler() {
+            @Override
+            public void load(CompletionHandler handler) {
+                final IHoliday[] holidays = getHolidays();
+                final ConcurrentHashMap<String, String> descriptions = new ConcurrentHashMap<>();
+                if(isCountries) {
+                    loadCountryHolidays(year, holidays, descriptions, handler);
+                } else if(holidays != null) {
+                    final boolean isChristian = self == CHRISTIAN_EAST || self == CHRISTIAN_WEST, isWestChristian = isChristian && self == CHRISTIAN_WEST;
+                    final int max = holidays.length;
+                    final AtomicInteger completed = new AtomicInteger(0);
+                    final ConcurrentHashMap<String, HashSet<String>> values = new ConcurrentHashMap<>();
+                    Arrays.stream(holidays).parallel().forEach(holiday -> {
+                        final EventDate date = isChristian ? ((ChristianHoliday) holiday).getDate(isWestChristian, null, year) : holiday.getDate(null, year);
+                        if(date != null) {
+                            final String dateString = date.getDateString();
+                            holiday.getImageURL(self, new CompletionHandler() {
+                                @Override
+                                public void handleString(String imageURL) {
+                                    holiday.getDescription(self, new CompletionHandler() {
+                                        @Override
+                                        public void handleString(String description) {
+                                            final HolidayObj customHoliday = getHolidayObj(holiday, imageURL);
+                                            final String englishName = customHoliday.getEnglishName();
+                                            descriptions.putIfAbsent(englishName, description);
 
-                                                values.putIfAbsent(dateString, new HashSet<>());
-                                                values.get(dateString).add(customHoliday.toString());
+                                            values.putIfAbsent(dateString, new HashSet<>());
+                                            values.get(dateString).add(customHoliday.toString());
 
-                                                tryCompleting(completed, max, descriptions, values, handler);
-                                            }
-                                        });
-                                    }
-                                });
-                            } else {
-                                tryCompleting(completed, max, descriptions, values, handler);
-                            }
-                        });
-                    } else {
-                        handler.handleString(null);
-                    }
+                                            tryCompleting(completed, max, descriptions, values, handler);
+                                        }
+                                    });
+                                }
+                            });
+                        } else {
+                            tryCompleting(completed, max, descriptions, values, handler);
+                        }
+                    });
+                } else {
+                    handler.handleString(null);
                 }
+            }
 
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    cache = json;
-                    handler.handleJSONObject(json);
-                }
-            });
-        }
+            @Override
+            public void handleJSONObject(JSONObject json) {
+                handler.handleJSONObject(json);
+            }
+        });
     }
     private void tryCompleting(AtomicInteger completed, int max, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, HashSet<String>> values, CompletionHandler handler) {
         if(completed.addAndGet(1) == max) {
