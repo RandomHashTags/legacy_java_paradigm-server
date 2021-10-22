@@ -1,10 +1,9 @@
 package me.randomhashtags.worldlaws.country.subdivisions;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public enum SubdivisionsMadagascar implements SovereignStateSubdivision {
+public enum SubdivisionsMadagascar implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Regions_of_Madagascar
     ALAOTRA_MANGORO, // Alaotra-Mangoro
     AMORON_I_MANIA, // Amoron'i Mania
     ANALAMANGA,
@@ -50,9 +49,5 @@ public enum SubdivisionsMadagascar implements SovereignStateSubdivision {
     @Override
     public String getGovernmentWebsite() {
         return null;
-    }
-
-    @Override
-    public void getCitiesHashSet(CompletionHandler handler) {
     }
 }

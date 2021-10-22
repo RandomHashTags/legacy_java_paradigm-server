@@ -307,11 +307,14 @@ public enum USCongress implements Jsoupable, Jsonable {
                                 final Elements allInfoContent = doc.select("main.content div.main-wrapper div.all-info-content");
                                 final PolicyArea policyArea = getBillPolicyArea(allInfoContent);
                                 final String subjects = getBillSubjects(allInfoContent);
+                                final EventSources sources = new EventSources();
+                                sources.append(new EventSource("US Congress: Bill URL", targetURL));
+                                sources.append(new EventSource("US Congress: Bill PDF", pdfURL));
                                 getBillCosponsors(allInfoContent, new CompletionHandler() {
                                     @Override
                                     public void handleString(String cosponsors) {
                                         final String actions = getBillActions(allInfoContent);
-                                        final CongressBill bill = new CongressBill(sponsor, summary, policyArea, subjects, cosponsors, actions, targetURL, pdfURL, null);
+                                        final CongressBill bill = new CongressBill(sponsor, summary, policyArea, subjects, cosponsors, actions, null, sources);
                                         handler.handleString(bill.toString());
                                     }
                                 });

@@ -13,7 +13,9 @@ import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Optional;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public final class UpcomingEvents implements WLServer {
@@ -142,9 +144,9 @@ public final class UpcomingEvents implements WLServer {
         final long started = System.currentTimeMillis();
         final LocalDate now = WLUtilities.getNowUTC();
         final int targetYear = now.getYear(), day = now.getDayOfYear();
-        final Folder folder = Folder.UPCOMING_EVENTS_YEAR_DAY;
-        final String fileName = "weekly";
-        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%year%", Integer.toString(targetYear)).replace("%day%", Integer.toString(day)));
+        final Folder folder = Folder.UPCOMING_EVENTS_YEAR;
+        final String fileName = Integer.toString(day);
+        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%year%", Integer.toString(targetYear)));
         getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
@@ -174,7 +176,7 @@ public final class UpcomingEvents implements WLServer {
     }
     private void getEventsFromDates(HashSet<String> dateStrings, CompletionHandler handler) {
         final int max = CONTROLLERS.size();
-        final List<String> values = new ArrayList<>();
+        final HashSet<String> values = new HashSet<>();
         final AtomicInteger completed = new AtomicInteger(0);
         final CompletionHandler completionHandler = new CompletionHandler() {
             @Override

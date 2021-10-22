@@ -1,10 +1,9 @@
 package me.randomhashtags.worldlaws.country.subdivisions;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public enum SubdivisionsMexico implements SovereignStateSubdivision {
+public enum SubdivisionsMexico implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/List_of_states_of_Mexico
     AGUASCALIENTES,
     BAJA_CALIFORNIA,
     BAJA_CALIFORNIA_SUR,
@@ -59,9 +58,5 @@ public enum SubdivisionsMexico implements SovereignStateSubdivision {
     @Override
     public String getGovernmentWebsite() {
         return null;
-    }
-
-    @Override
-    public void getCitiesHashSet(CompletionHandler handler) {
     }
 }

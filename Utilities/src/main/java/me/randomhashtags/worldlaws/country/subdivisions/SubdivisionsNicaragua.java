@@ -1,10 +1,9 @@
 package me.randomhashtags.worldlaws.country.subdivisions;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public enum SubdivisionsNicaragua implements SovereignStateSubdivision {
+public enum SubdivisionsNicaragua implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Departments_of_Nicaragua
     BOACO,
     CARAZO,
     CHINANDEGA,
@@ -61,9 +60,5 @@ public enum SubdivisionsNicaragua implements SovereignStateSubdivision {
     @Override
     public String getGovernmentWebsite() {
         return null;
-    }
-
-    @Override
-    public void getCitiesHashSet(CompletionHandler handler) {
     }
 }

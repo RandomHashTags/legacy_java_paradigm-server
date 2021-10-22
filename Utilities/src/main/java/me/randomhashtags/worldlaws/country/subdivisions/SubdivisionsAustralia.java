@@ -1,10 +1,9 @@
 package me.randomhashtags.worldlaws.country.subdivisions;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public enum SubdivisionsAustralia implements SovereignStateSubdivision {
+public enum SubdivisionsAustralia implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/States_and_territories_of_Australia
     NEW_SOUTH_WALES,
     QUEENSLAND,
     SOUTH_AUSTRALIA,
@@ -39,9 +38,5 @@ public enum SubdivisionsAustralia implements SovereignStateSubdivision {
     @Override
     public String getGovernmentWebsite() {
         return "https://www." + getPostalCodeAbbreviation().toLowerCase() + ".gov.au";
-    }
-
-    @Override
-    public void getCitiesHashSet(CompletionHandler handler) {
     }
 }

@@ -1,10 +1,9 @@
 package me.randomhashtags.worldlaws.country.subdivisions;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public enum SubdivisionsVanuatu implements SovereignStateSubdivision {
+public enum SubdivisionsVanuatu implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Provinces_of_Vanuatu
     MALAMPA,
     PENAMA,
     SANMA,
@@ -39,9 +38,5 @@ public enum SubdivisionsVanuatu implements SovereignStateSubdivision {
     @Override
     public String getGovernmentWebsite() {
         return null;
-    }
-
-    @Override
-    public void getCitiesHashSet(CompletionHandler handler) {
     }
 }

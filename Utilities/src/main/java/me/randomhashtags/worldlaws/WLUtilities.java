@@ -61,6 +61,12 @@ public abstract class WLUtilities {
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%errorName%", errorName));
         saveToFile(Level.ERROR, folder, fileName, builder.toString(), "txt");
     }
+    public static void saveLoggedError(String value) {
+        final Folder folder = Folder.ERRORS;
+        final String fileName = Long.toString(System.currentTimeMillis());
+        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%errorName%", "LoggedError"));
+        saveToFile(Level.ERROR, folder, fileName, value, "txt");
+    }
     public static void saveToFile(Level level, Folder folder, String fileName, String value, String extension) {
         Jsonable.saveFile("WLUtilities.saveToFile", level, folder, fileName, value, extension);
         folder.removeCustomFolderName(fileName);

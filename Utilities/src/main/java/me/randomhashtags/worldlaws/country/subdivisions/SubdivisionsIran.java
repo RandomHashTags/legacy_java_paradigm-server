@@ -1,10 +1,9 @@
 package me.randomhashtags.worldlaws.country.subdivisions;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public enum SubdivisionsIran implements SovereignStateSubdivision {
+public enum SubdivisionsIran implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Administrative_divisions_of_Iran
     ALBORZ,
     ARDABIL,
     EAST_AZERBAIJAN,
@@ -58,9 +57,5 @@ public enum SubdivisionsIran implements SovereignStateSubdivision {
     @Override
     public String getGovernmentWebsite() {
         return null;
-    }
-
-    @Override
-    public void getCitiesHashSet(CompletionHandler handler) {
     }
 }

@@ -13,6 +13,10 @@ public abstract class WLLogger {
     }
 
     public static void log(Level level, String msg) {
-        LOGGER.log(level, msg);
+        if(level == Level.ERROR) {
+            WLUtilities.saveLoggedError(msg);
+        } else {
+            LOGGER.log(level, msg);
+        }
     }
 }

@@ -70,7 +70,7 @@ public enum Holidays implements Jsoupable, Jsonable {
                     }
                 });
             } else {
-                WLLogger.log(Level.WARN, "Holidays - no WLCountry found using backend id \"" + countryBackendID + "\"!");
+                WLLogger.log(Level.ERROR, "Holidays - no WLCountry found using backend id \"" + countryBackendID + "\"!");
                 handler.handleString(null);
             }
         }

@@ -91,8 +91,7 @@ public enum Ticketmaster implements RestAPI {
                                         final JSONObject eventEmbeddedJSON = eventJSON.getJSONObject("_embedded");
                                         final JSONArray venuesArray = eventEmbeddedJSON.getJSONArray("venues");
 
-                                        final EventSources sources = new EventSources(new EventSource("Ticketmaster", "https://www.ticketmaster.com"));
-                                        sources.append(new EventSource("Ticketmaster: " + name, eventURL));
+                                        final EventSources sources = new EventSources(new EventSource("Ticketmaster: " + name, eventURL));
                                         final HashSet<TicketmasterVenue> venues = getVenuesFrom(venuesArray);
                                         final TicketmasterMusicEvent event = new TicketmasterMusicEvent(name, null, imageURL, ticketLimit, priceRange, seatMapURL, venues, sources);
                                         putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(eventType, identifier, null));

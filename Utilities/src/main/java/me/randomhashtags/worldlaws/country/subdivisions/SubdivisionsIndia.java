@@ -1,10 +1,9 @@
 package me.randomhashtags.worldlaws.country.subdivisions;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public enum SubdivisionsIndia implements SovereignStateSubdivision {
+public enum SubdivisionsIndia implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Administrative_divisions_of_India
     ANDAMAN_AND_NICOBAR_ISLANDS,
     ANDHRA_PRADESH,
     ARUNACHAL_PRADESH,
@@ -99,9 +98,5 @@ public enum SubdivisionsIndia implements SovereignStateSubdivision {
     @Override
     public String getGovernmentWebsite() {
         return null;
-    }
-
-    @Override
-    public void getCitiesHashSet(CompletionHandler handler) {
     }
 }

@@ -131,7 +131,6 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
             handler.handleString(info.toString());
         }
     }
-    void getCitiesHashSet(CompletionHandler handler);
 
     private HashSet<String> getNeighborsJSON() {
         final SovereignStateSubdivision[] neighbors = getNeighbors();

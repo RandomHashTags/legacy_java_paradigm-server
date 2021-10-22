@@ -11,7 +11,7 @@ import org.jsoup.select.Elements;
 
 import java.util.HashSet;
 
-public enum SubdivisionsUnitedStates implements SovereignStateSubdivision {
+public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States
     ALABAMA,
     ALASKA,
     ARIZONA,
@@ -388,8 +388,7 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision {
         }
     }
 
-    @Override
-    public void getCitiesHashSet(CompletionHandler handler) {
+    private void getCitiesHashSet(CompletionHandler handler) {
         // https://en.wikipedia.org/wiki/Category:Lists_of_cities_in_the_United_States_by_state
         final String suffix = this == GEORGIA ? "_(U.S._state)" : "";
         final String url = "https://en.wikipedia.org/wiki/List_of_cities_in_" + getName().replace(" ", "_") + suffix;

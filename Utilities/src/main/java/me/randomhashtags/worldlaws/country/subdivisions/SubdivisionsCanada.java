@@ -1,10 +1,9 @@
 package me.randomhashtags.worldlaws.country.subdivisions;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public enum SubdivisionsCanada implements SovereignStateSubdivision {
+public enum SubdivisionsCanada implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Provinces_and_territories_of_Canada
     ALBERTA,
     BRITISH_COLUMBIA,
     MANITOBA,
@@ -109,9 +108,5 @@ public enum SubdivisionsCanada implements SovereignStateSubdivision {
                 );
             default: return null;
         }
-    }
-
-    @Override
-    public void getCitiesHashSet(CompletionHandler handler) {
     }
 }
