@@ -62,7 +62,7 @@ public enum TargetServer implements RestAPI, DataValues {
     public int getResponseVersion() { // Only used if the server doesn't auto update its content
         switch (this) {
             case COUNTRIES:
-                return 1;
+                return 2;
             case ENVIRONMENT:
                 return 1;
             case SPACE:
