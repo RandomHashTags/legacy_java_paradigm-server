@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws;
 
 import org.apache.logging.log4j.Level;
-import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -139,9 +138,8 @@ public interface Jsoupable {
     }
     private static Document requestDocument(String url) {
         WLLogger.log(Level.INFO, "Jsoupable - making request to \"" + url + "\"");
-        final Connection connection = Jsoup.connect(url);
         try {
-            return connection.get();
+            return WLUtilities.getJsoupDocumentFrom(url);
         } catch (Exception e) {
             WLLogger.log(Level.WARN, "Jsoupable - requestDocument(" + url + ") - error getting document! (" + e.getClass().getSimpleName() + ", " + e.getLocalizedMessage() + ")");
             WLUtilities.saveException(e);

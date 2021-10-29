@@ -14,42 +14,19 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Arizona implements LawSubdivisionController {
-    INSTANCE(
+public final class Arizona extends LawSubdivisionController {
+    public static final Arizona INSTANCE = new Arizona(
             "https://www.azleg.gov/ARStitle/",
             "https://www.azleg.gov/arsDetail/?title=%index%",
             "https://www.azleg.gov/arsDetail/?title=%chapter%",
             "https://www.azleg.gov/ars/%title%/%section%.htm"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private HashMap<String, String> statutesJSON, statutes;
+    private HashMap<String, String> statutesJSON;
 
     Arizona(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
         statutesJSON = new HashMap<>();
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
     }
 
     @Override

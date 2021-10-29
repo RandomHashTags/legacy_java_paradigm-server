@@ -50,7 +50,7 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
     }
     default void getPreAlerts(String event, CompletionHandler handler) {
         final HashMap<String, String> eventPreAlerts = getEventPreAlerts();
-        handler.handleString(eventPreAlerts.getOrDefault(event, null));
+        handler.handleString(eventPreAlerts.getOrDefault(event, "{}"));
     }
     default void putSubdivisionEvents(HashMap<String, String> territoryEvents, ConcurrentHashMap<String, HashSet<WeatherEvent>> hashmap) {
         for(Map.Entry<String, HashSet<WeatherEvent>> map : hashmap.entrySet()) {
@@ -145,7 +145,7 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
         if(territoryPreAlerts.containsKey(subdivision) && territoryPreAlerts.get(subdivision).containsKey(event)) {
             handler.handleString(territoryPreAlerts.get(subdivision).get(event));
         } else {
-            handler.handleString(null);
+            handler.handleString("{}");
         }
     }
 

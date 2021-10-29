@@ -231,7 +231,7 @@ public enum Earthquakes implements RestAPI {
 
                     final String url = properties.getString("url"), cause = properties.getString("type").toUpperCase();
 
-                    String place = properties.getString("place");
+                    String place = properties.get("place") instanceof String ? properties.getString("place") : "null";
                     final String[] regionValues = getRegionValues(place);
                     place = regionValues[0];
                     final String country = regionValues[1], subdivision = regionValues[2];

@@ -8,44 +8,18 @@ import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
-public enum Indiana implements LawSubdivisionController {
-    INSTANCE(
+public final class Indiana extends LawSubdivisionController {
+    public static final Indiana INSTANCE = new Indiana(
             "http://iga.in.gov/legislative/laws/2020/ic/titles/001",
             "http://iga.in.gov/legislative/laws/2020/ic/titles/%index%",
             "http://iga.in.gov/legislative/laws/2020/ic/titles/%index%#%index%-%chapter%",
             "http://iga.in.gov/legislative/laws/2020/ic/titles/%index%#%index%-%article%-%chapter%-%section%"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private HashMap<String, String> statutes;
-
     Indiana(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
     }
 
     @Override

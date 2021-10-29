@@ -8,44 +8,18 @@ import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
-public enum Utah implements LawSubdivisionController {
-    INSTANCE(
+public final class Utah extends LawSubdivisionController {
+    public static final Utah INSTANCE = new Utah(
             "https://le.utah.gov/xcode/code.html",
             "https://le.utah.gov/xcode/Title%index%/%index%.html",
             "https://le.utah.gov/xcode/Title%index%/Chapter%chapter%/%index%-%chapter%.html",
             ""
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private HashMap<String, String> statutes;
-
     Utah(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
     }
 
     @Override

@@ -22,7 +22,8 @@ public enum TargetServer implements RestAPI, DataValues {
 
     HOME,
     PING,
-    INAPPPURCHASES
+    INAPPPURCHASES,
+    COMBINE,
     ;
 
     private static final HashMap<APIVersion, JSONObject> HOME_JSON;
@@ -62,7 +63,7 @@ public enum TargetServer implements RestAPI, DataValues {
     public int getResponseVersion() { // Only used if the server doesn't auto update its content
         switch (this) {
             case COUNTRIES:
-                return 2;
+                return 3;
             case ENVIRONMENT:
                 return 1;
             case SPACE:
@@ -87,13 +88,18 @@ public enum TargetServer implements RestAPI, DataValues {
             case HOME:
                 getHomeResponse(version, method, headers, query, handler);
                 break;
+            case COMBINE:
+                break;
             default:
-                final String versionName = version.name(), serverName = getBackendID();
-                request = request.substring(versionName.length() + serverName.length() + 2);
-                final String url = ipAddress + "/" + version.name() + "/" + request;
-                request(url, method, headers, null, handler);
+                handleResponse(version, method, request, headers, handler);
                 break;
         }
+    }
+    private void handleResponse(APIVersion version, RequestMethod method, String request, HashMap<String, String> headers, CompletionHandler handler) {
+        final String versionName = version.name(), serverName = getBackendID();
+        request = request.substring(versionName.length() + serverName.length() + 2);
+        final String url = ipAddress + "/" + version.name() + "/" + request;
+        request(url, method, headers, null, handler);
     }
 
     private String getPingResponse() {
@@ -239,7 +245,7 @@ public enum TargetServer implements RestAPI, DataValues {
                 return server;
             }
         }
-        WLLogger.log(Level.WARN, "TargetServer - failed to find a server with backendID \"" + backendID + "\"!");
+        WLLogger.log(Level.ERROR, "TargetServer - failed to find a server with backendID \"" + backendID + "\"!");
         return null;
     }
 }

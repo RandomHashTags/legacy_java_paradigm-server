@@ -10,44 +10,18 @@ import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
-public enum SouthDakota implements LawSubdivisionController {
-    INSTANCE(
+public final class SouthDakota extends LawSubdivisionController {
+    public static final SouthDakota INSTANCE = new SouthDakota(
             "https://sdlegislature.gov/statutes/Codified_Laws/",
             "https://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=%index%",
             "https://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=%index%-%chapter%",
             "https://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=%index%-%chapter%-%section%"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private HashMap<String, String> statutes;
-
     SouthDakota(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
     }
 
     @Override

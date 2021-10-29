@@ -92,7 +92,7 @@ public enum WeatherUSA implements WeatherController {
                             final int senderNameLength = senderName.length;
                             final String territoryAbbreviation = senderName[senderNameLength-1];
                             final SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(territoryAbbreviation);
-                            final String subdivisionName = subdivision != null ? subdivision.getName() : "Unknown";
+                            final String subdivisionName = subdivision != null ? subdivision.getName() : null;
                             final String severityString = properties.getString("severity"), severity = severityString.equals("Unknown") ? "-1" : severityString;
                             final String certainty = properties.getString("certainty");
                             final String event = properties.getString("event");

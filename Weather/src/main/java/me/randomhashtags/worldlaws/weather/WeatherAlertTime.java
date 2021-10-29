@@ -2,10 +2,7 @@ package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.WLUtilities;
 
-import java.text.SimpleDateFormat;
-
 public final class WeatherAlertTime {
-    private static final SimpleDateFormat FORMAT = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssXXX");
     private long sent, effective, expires, ends;
 
     public WeatherAlertTime(String sent, String effective, String expires, String ends) {
@@ -25,7 +22,7 @@ public final class WeatherAlertTime {
 
     private long getTimeFrom(String input) {
         try {
-            return FORMAT.parse(input).getTime();
+            return WLUtilities.DATE_FORMAT.parse(input).getTime();
         } catch (Exception e) {
             WLUtilities.saveException(e);
             return 0;

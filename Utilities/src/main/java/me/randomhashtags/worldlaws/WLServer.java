@@ -99,7 +99,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     private void tryStartingAutoUpdates(TargetServer server, APIVersion version) {
         final AutoUpdateSettings settings = getAutoUpdateSettings();
         if(settings != null) {
-            final String serverName = server.getName();
+            final String serverName = server.getName(), simpleName = getClass().getSimpleName();
             final long interval = settings.interval;
             final CompletionHandler autoUpdateHandler = settings.handler;
             registerFixedTimer(interval, new CompletionHandler() {
@@ -112,7 +112,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                     refreshHome(server, version, new CompletionHandler() {
                         @Override
                         public void handleString(String string) {
-                            WLLogger.log(Level.INFO, "WLServer - auto updated \"" + serverName + "\"'s home response (took " + (System.currentTimeMillis()-started) + "ms)");
+                            WLLogger.log(Level.INFO, simpleName + " - auto updated \"" + serverName + "\"'s home response (took " + (System.currentTimeMillis()-started) + "ms)");
                         }
                     });
                 }

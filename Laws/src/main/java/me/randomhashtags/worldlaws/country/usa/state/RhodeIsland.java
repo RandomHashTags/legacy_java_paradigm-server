@@ -13,42 +13,19 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum RhodeIsland implements LawSubdivisionController {
-    INSTANCE(
+public final class RhodeIsland extends LawSubdivisionController {
+    public static final RhodeIsland INSTANCE = new RhodeIsland(
             "http://webserver.rilin.state.ri.us/Statutes/",
             "http://webserver.rilin.state.ri.us/Statutes/TITLE%index%/INDEX.HTM",
             "http://webserver.rilin.state.ri.us/Statutes/TITLE%index%/%index%-%chapter%/INDEX.HTM",
             "http://webserver.rilin.state.ri.us/Statutes/TITLE%index%/%index%-%chapter%/%index%-%chapter%-%section%.HTM"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private HashMap<String, String> statutesJSON, statutes;
+    private HashMap<String, String> statutesJSON;
 
     RhodeIsland(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
         statutesJSON = new HashMap<>();
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
     }
 
     @Override

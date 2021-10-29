@@ -35,7 +35,7 @@ public enum WeatherAlerts {
     public void getResponse(String value, CompletionHandler handler) {
         final String[] values = value.split("/");
         final String key = values[0];
-        String country = null, prefix = null, target = null;
+        String country, prefix, target;
         switch (key) {
             case "all":
                 getAll(handler);
@@ -79,7 +79,7 @@ public enum WeatherAlerts {
             } else {
                 switch (values[0]) {
                     case "event":
-                        weather.getEventPreAlerts().get(values[1]);
+                        weather.getEventPreAlerts().getOrDefault(values[1], "{}");
                         break;
                     case "id":
                         weather.getAlert(values[1], handler);
@@ -92,12 +92,12 @@ public enum WeatherAlerts {
                         weather.getZones(zoneIDs, handler);
                         break;
                     default:
-                        handler.handleString(null);
+                        handler.handleString("{}");
                         break;
                 }
             }
         } else {
-            handler.handleString(null);
+            handler.handleString("{}");
         }
     }
     private void getAlertsForSubdivision(String country, String subdivision, String[] values, CompletionHandler handler) {
@@ -111,11 +111,11 @@ public enum WeatherAlerts {
                     weather.getSubdivisionPreAlerts(subdivision, values[1], handler);
                     break;
                 default:
-                    handler.handleString(null);
+                    handler.handleString("{}");
                     break;
             }
         } else {
-            handler.handleString(null);
+            handler.handleString("{}");
         }
     }
 

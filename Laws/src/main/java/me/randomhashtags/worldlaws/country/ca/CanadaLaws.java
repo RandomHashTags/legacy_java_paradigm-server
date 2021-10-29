@@ -6,8 +6,8 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.LawController;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
-public enum CanadaLaws implements LawController {
-    INSTANCE;
+public final class CanadaLaws extends LawController {
+    public static CanadaLaws INSTANCE = new CanadaLaws();
 
     // https://laws.justice.gc.ca/eng/AnnualStatutes/index2020.html
 
@@ -22,7 +22,7 @@ public enum CanadaLaws implements LawController {
     }
 
     @Override
-    public void getRecentActivity(APIVersion version, CompletionHandler handler) {
+    public void loadRecentActivity(APIVersion version, CompletionHandler handler) {
         handler.handleString(null);
     }
 

@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
-import me.randomhashtags.worldlaws.recent.software.videogames.VideoGameUpdateController;
+import me.randomhashtags.worldlaws.recent.software.videogame.VideoGameUpdateController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.VideoGameEvent;
@@ -201,7 +201,8 @@ public final class VideoGames extends UpcomingEventController {
         final String title = preUpcomingEvent.getTitle(), platforms = preUpcomingEvent.getTag();
         final Document wikidoc = getDocument(url);
         if(wikidoc != null) {
-            final EventSource videoGameSource = new EventSource("Wikipedia: " + title, url);
+            final String wikipediaName = url.split("/wiki/")[1].replace("_", " ");
+            final EventSource videoGameSource = new EventSource("Wikipedia: " + wikipediaName, url);
             final EventSources sources = new EventSources(videoGameSource);
             addExternalLinks(wikidoc, sources);
 

@@ -10,44 +10,18 @@ import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
-public enum NorthDakota implements LawSubdivisionController {
-    INSTANCE(
+public final class NorthDakota extends LawSubdivisionController {
+    public static final NorthDakota INSTANCE = new NorthDakota(
             "https://www.legis.nd.gov/general-information/north-dakota-century-code",
             "https://www.legis.nd.gov/cencode/t%index%.html",
             "https://www.legis.nd.gov/cencode/t%index%c%chapter%.html",
             "https://www.legis.nd.gov/cencode/t%index%c%chapter%.pdf#nameddest=%index%-%chapter%-%section%"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private HashMap<String, String> statutes;
-
     NorthDakota(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
     }
 
     @Override

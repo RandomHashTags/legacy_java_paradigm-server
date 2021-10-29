@@ -11,12 +11,23 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public interface LawSubdivisionController extends Jsoupable {
-    HashMap<LawSubdivisionController, StringBuilder> INDEX_BUILDERS = new HashMap<>();
-    HashMap<LawSubdivisionController, HashMap<String, String>> TABLE_OF_CHAPTERS_JSON = new HashMap<>();
-    HashMap<LawSubdivisionController, HashMap<String, String>> STATUTES_JSON = new HashMap<>();
+public abstract class LawSubdivisionController implements Jsoupable {
+    private static final HashMap<LawSubdivisionController, StringBuilder> INDEX_BUILDERS = new HashMap<>();
+    protected static final HashMap<LawSubdivisionController, HashMap<String, String>> TABLE_OF_CHAPTERS_JSON = new HashMap<>();
+    private static final HashMap<LawSubdivisionController, HashMap<String, String>> STATUTES_JSON = new HashMap<>();
 
-    default String prefixZeros(String input, int amount) {
+    protected final String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
+    protected final HashMap<String, String> statutes;
+
+    public LawSubdivisionController(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
+        this.indexesURL = indexesURL;
+        this.tableOfChaptersURL = tableOfChaptersURL;
+        this.statutesListURL = statutesListURL;
+        this.statuteURL = statuteURL;
+        statutes = new HashMap<>();
+    }
+
+    public String prefixZeros(String input, int amount) {
         final StringBuilder builder = new StringBuilder(input);
         for(int i = input.length(); i < amount; i++) {
             builder.insert(0, "0");
@@ -24,16 +35,16 @@ public interface LawSubdivisionController extends Jsoupable {
         return builder.toString();
     }
 
-    default void iterateThroughIndexTable(Elements table) {
+    public void iterateThroughIndexTable(Elements table) {
         iterateThroughTable(null, table, SubdivisionLegislationType.INDEX, 0, null);
     }
-    default void iterateThroughIndexTable(Elements table, int skipInterval) {
+    public void iterateThroughIndexTable(Elements table, int skipInterval) {
         iterateThroughTable(null, table, SubdivisionLegislationType.INDEX, skipInterval, null);
     }
-    default void iterateThroughChapterTable(String title, Elements table) {
+    public void iterateThroughChapterTable(String title, Elements table) {
         iterateThroughTable(title, table, SubdivisionLegislationType.CHAPTER, 0, null);
     }
-    default void iterateThroughStatuteTable(String path, Elements table) {
+    public void iterateThroughStatuteTable(String path, Elements table) {
         iterateThroughTable(path, table, SubdivisionLegislationType.STATUTE, 0, null);
     }
     private void iterateThroughTable(String targetTitle, Elements table, SubdivisionLegislationType type, int skipInterval, List<String> values) {
@@ -89,17 +100,17 @@ public interface LawSubdivisionController extends Jsoupable {
                 break;
         }
     }
-    default void iterateIndexTable(Elements table, boolean isIndex) {
+    public void iterateIndexTable(Elements table, boolean isIndex) {
         iterateIndexTable(table, isIndex, false);
     }
-    default void iterateIndexTable(Elements table, boolean isIndex, boolean skipFirst) {
+    public void iterateIndexTable(Elements table, boolean isIndex, boolean skipFirst) {
         iterateIndexTable(table, isIndex, skipFirst, null);
     }
-    default void iterateIndexTable(Elements table, boolean isIndex, boolean skipFirst, Elements titles) {
+    public void iterateIndexTable(Elements table, boolean isIndex, boolean skipFirst, Elements titles) {
         final StringBuilder builder = getStringBuilder(table, isIndex, skipFirst, titles);
         INDEX_BUILDERS.put(this, builder);
     }
-    default void iterateChapterTable(String chapterTitle, Elements table, boolean skipFirst, Elements titles) {
+    public void iterateChapterTable(String chapterTitle, Elements table, boolean skipFirst, Elements titles) {
         final StringBuilder builder = getStringBuilder(table, false, skipFirst, titles);
         TABLE_OF_CHAPTERS_JSON.putIfAbsent(this, new HashMap<>());
         TABLE_OF_CHAPTERS_JSON.get(this).put(chapterTitle, builder.toString());
@@ -160,25 +171,34 @@ public interface LawSubdivisionController extends Jsoupable {
         return builder;
     }
 
-    String getIndexesURL();
-    String getTableOfChaptersURL();
-    String getStatutesListURL();
-    String getStatuteURL();
-    default String getIndexesJSON() {
+    public String getIndexesURL() {
+        return indexesURL;
+    }
+    public String getTableOfChaptersURL() {
+        return tableOfChaptersURL;
+    }
+    public String getStatutesListURL() {
+        return statutesListURL;
+    }
+    public String getStatuteURL() {
+        return statuteURL;
+    }
+
+    public String getIndexesJSON() {
         if(!INDEX_BUILDERS.containsKey(this)) {
             getIndexes();
         }
         return INDEX_BUILDERS.containsKey(this) ? INDEX_BUILDERS.get(this).toString() : null;
     }
-    List<SubdivisionStatuteIndex> getIndexes();
-    default String getTableOfChapters(String title) {
+    public abstract List<SubdivisionStatuteIndex> getIndexes();
+    public String getTableOfChapters(String title) {
         if(!TABLE_OF_CHAPTERS_JSON.containsKey(this) || !TABLE_OF_CHAPTERS_JSON.get(this).containsKey(title)) {
             loadTableOfChapters(title);
         }
         return TABLE_OF_CHAPTERS_JSON.get(this).get(title);
     }
-    void loadTableOfChapters(String title);
-    default String getStatuteList(String title, String chapter) {
+    public abstract void loadTableOfChapters(String title);
+    public String getStatuteList(String title, String chapter) {
         final String path = title + "." + chapter;
         if(!STATUTES_JSON.containsKey(this) || !STATUTES_JSON.get(this).containsKey(path)) {
             loadStatuteList(title, chapter);
@@ -186,6 +206,6 @@ public interface LawSubdivisionController extends Jsoupable {
         final HashMap<String, String> map = STATUTES_JSON.get(this);
         return map.getOrDefault(path, map.getOrDefault(chapter, map.getOrDefault(title, null)));
     }
-    void loadStatuteList(String title, String chapter);
-    String getStatute(String title, String chapter, String section);
+    public abstract void loadStatuteList(String title, String chapter);
+    public abstract String getStatute(String title, String chapter, String section);
 }

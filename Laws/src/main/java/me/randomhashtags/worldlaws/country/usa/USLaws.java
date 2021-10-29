@@ -12,6 +12,7 @@ import me.randomhashtags.worldlaws.country.usa.state.unfinished.Connecticut;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.Indiana;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.NorthCarolina;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.Oregon;
+import org.apache.logging.log4j.Level;
 
 import java.time.LocalDate;
 import java.util.Arrays;
@@ -20,12 +21,11 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public enum USLaws implements LawController {
-    INSTANCE;
-
+public final class USLaws extends LawController {
+    public static final USLaws INSTANCE = new USLaws();
     private final CongressService politicianService;
 
-    USLaws() {
+    private USLaws() {
         politicianService = UnitedStatesProject.INSTANCE;
     }
 
@@ -40,7 +40,7 @@ public enum USLaws implements LawController {
     }
 
     @Override
-    public void getRecentActivity(APIVersion version, CompletionHandler handler) {
+    public void loadRecentActivity(APIVersion version, CompletionHandler handler) {
         final LocalDate startingDate = LocalDate.now().minusDays(7);
         final USCongress congress = USCongress.getCongress(getCurrentAdministrationVersion());
         final USBillStatus[] statuses = new USBillStatus[] {
@@ -99,9 +99,18 @@ public enum USLaws implements LawController {
             case "federal":
                 FederalGovernment.INSTANCE.getIndexesJSON();
                 break;
-            default:
-                final String response = getLawResponse(key, values, length);
+            case "subdivision":
+                final String[] subdivisionValues = input.substring(key.length()+1).split("/");
+                String response = getSubdivisionResponse(key, subdivisionValues, length);
+                if(response == null) {
+                    WLLogger.log(Level.ERROR, "USLaws - getSubdivisionResponse(" + input + ") == null!");
+                    response = "{}";
+                }
                 handler.handleString(response);
+                break;
+            default:
+                WLLogger.log(Level.ERROR, "USLaws - getResponse(" + input + ") == null!");
+                handler.handleString("{}");
                 break;
         }
     }
@@ -128,7 +137,7 @@ public enum USLaws implements LawController {
         }
     }
 
-    private String getLawResponse(String key, String[] values, int length) {
+    private String getSubdivisionResponse(String key, String[] values, int length) {
         final SubdivisionsUnitedStates usstate = SubdivisionsUnitedStates.valueOf(key.toUpperCase());
         final LawSubdivisionController state = getStateFrom(usstate);
         if(state != null) {

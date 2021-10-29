@@ -10,44 +10,18 @@ import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
-public enum Virginia implements LawSubdivisionController {
-    INSTANCE(
+public final class Virginia extends LawSubdivisionController {
+    public static final Virginia INSTANCE = new Virginia(
             "https://law.lis.virginia.gov/vacode/",
             "https://law.lis.virginia.gov/vacode/title%index%/",
             "https://law.lis.virginia.gov/vacode/title%index%/chapter%chapter%/",
             "https://law.lis.virginia.gov/vacode/title%index%/chapter%chapter%/section%index%-%section%/"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private HashMap<String, String> statutes;
-
     Virginia(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
     }
 
     @Override

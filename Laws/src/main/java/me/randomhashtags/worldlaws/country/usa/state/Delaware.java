@@ -10,45 +10,19 @@ import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
-public enum Delaware implements LawSubdivisionController {
-    INSTANCE(
+public final class Delaware extends LawSubdivisionController {
+    public static final Delaware INSTANCE = new Delaware(
             "https://delcode.delaware.gov",
             "https://delcode.delaware.gov/title%index%/index.shtml#TopOfPage",
             "https://delcode.delaware.gov/title%index%/c%chapter%/index.shtml",
             "https://delcode.delaware.gov/title%index%/c%chapter%/index.shtml"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private HashMap<String, String> statutes;
-
     Delaware(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
     }
 
     private void addIndex(List<Element> list, Element element) {

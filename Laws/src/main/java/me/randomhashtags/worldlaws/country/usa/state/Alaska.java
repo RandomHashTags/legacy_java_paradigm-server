@@ -14,41 +14,19 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Alaska implements LawSubdivisionController {
-    INSTANCE("https://www.ecfr.gov/cgi-bin/ECFR?page=browse",
+public final class Alaska extends LawSubdivisionController {
+    public static final Alaska INSTANCE = new Alaska("https://www.ecfr.gov/cgi-bin/ECFR?page=browse",
             "https://www.ecfr.gov/%token%",
             "https://www.ecfr.gov/cgi-bin/text-idx?SID=%token%&mc=true&tpl=/ecfrbrowse/Title%title%/%title%chapter%chapter%.tpl",
             "https://www.ecfr.gov/cgi-bin/text-idx?SID=%token%&mc=true&node=se%index%.1.%chapter%_1%section%"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL, pageToken;
-    private HashMap<String, String> statutes, tokenIDs;
+    private String pageToken;
+    private final HashMap<String, String> tokenIDs;
 
-    Alaska(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
-        statutes = new HashMap<>();
+    public Alaska(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
         tokenIDs = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
     }
 
     @Override

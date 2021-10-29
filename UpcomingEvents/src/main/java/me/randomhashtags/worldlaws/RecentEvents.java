@@ -4,9 +4,9 @@ import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
 import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
-import me.randomhashtags.worldlaws.recent.software.AppleSoftwareUpdates;
-import me.randomhashtags.worldlaws.recent.software.PlayStation4Updates;
-import me.randomhashtags.worldlaws.recent.software.PlayStation5Updates;
+import me.randomhashtags.worldlaws.recent.software.console.PlayStation4Updates;
+import me.randomhashtags.worldlaws.recent.software.console.PlayStation5Updates;
+import me.randomhashtags.worldlaws.recent.software.other.AppleSoftwareUpdates;
 import org.apache.logging.log4j.Level;
 
 import java.time.LocalDate;

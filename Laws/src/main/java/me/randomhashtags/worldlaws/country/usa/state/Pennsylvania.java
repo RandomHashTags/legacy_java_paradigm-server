@@ -13,44 +13,19 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Pennsylvania implements LawSubdivisionController {
-    INSTANCE(
+public final class Pennsylvania extends LawSubdivisionController {
+    public static final Pennsylvania INSTANCE = new Pennsylvania(
             "https://www.legis.state.pa.us/cfdocs/legis/LI/Public/cons_index.cfm",
             "https://www.legis.state.pa.us//WU01/LI/LI/CT/HTM/%index%/%index%.HTM",
             "https://www.legis.state.pa.us/cfdocs/legis/LI/consCheck.cfm?txtType=HTM&ttl=%index%&div=0&chpt=%chapter%",
             "https://www.legis.state.pa.us//WU01/LI/LI/CT/HTM/%index%/00.%chapter%.%section%.000..HTM"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private HashMap<String, String> statutes;
-
     private HashMap<String, HashMap<String, List<String>>> chapterStatutes;
 
     Pennsylvania(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
-        statutes = new HashMap<>();
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
         chapterStatutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
     }
 
     @Override

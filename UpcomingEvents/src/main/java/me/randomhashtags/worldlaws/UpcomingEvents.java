@@ -2,17 +2,20 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
+import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.entertainment.*;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
+import me.randomhashtags.worldlaws.upcoming.sports.MLB;
 import me.randomhashtags.worldlaws.upcoming.sports.UFC;
 import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
+import java.time.Month;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Optional;
@@ -23,7 +26,7 @@ public final class UpcomingEvents implements WLServer {
     private static final HashSet<UpcomingEventController> CONTROLLERS = new HashSet<>() {{
         addAll(Arrays.asList(
                 new Championships(),
-                //MLB.INSTANCE,
+                new MLB(),
                 new Movies(),
                 //NASANeo.INSTANCE,
                 //NFL.INSTANCE, // problem
@@ -56,13 +59,11 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final HashSet<String> dates = getWeeklyEventDateStrings(LocalDate.now());
-        final Movies music = new Movies();
-        music.getEventsFromDates(dates, new CompletionHandler() {
+        final TVShows shows = new TVShows();
+        shows.getAllShowNames(new CompletionHandler() {
             @Override
-            public void handleStringValue(String key, String value) {
-                WLLogger.log(Level.INFO, "UpcomingEvents;test;value=" + value);
-                //WLLogger.log(Level.INFO, "preUpcomingEvents.keys=" + music.preUpcomingEvents.keySet().toString());
+            public void handleString(String string) {
+                WLLogger.log(Level.INFO, "UpcomingEvents;test;string=" + string);
             }
         });
     }
@@ -97,6 +98,9 @@ public final class UpcomingEvents implements WLServer {
             case "elections":
                 Elections.INSTANCE.refresh(handler);
                 break;
+            case "video_games":
+                handler.handleString(VideoGameUpdates.INSTANCE.getAllVideoGames());
+                break;
 
             default:
                 final UpcomingEventController controller = valueOfEventType(key);
@@ -123,7 +127,7 @@ public final class UpcomingEvents implements WLServer {
 
     @Override
     public AutoUpdateSettings getAutoUpdateSettings() {
-        return new AutoUpdateSettings(WLUtilities.UPCOMING_EVENTS_UPDATE_INTERVAL, null);
+        return new AutoUpdateSettings(WLUtilities.UPCOMING_EVENTS_HOME_UPDATE_INTERVAL, null);
     }
 
     private String getEventTypesJSON() {
@@ -142,11 +146,12 @@ public final class UpcomingEvents implements WLServer {
 
     private void refreshEventsFromThisWeek(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
-        final LocalDate now = WLUtilities.getNowUTC();
-        final int targetYear = now.getYear(), day = now.getDayOfYear();
-        final Folder folder = Folder.UPCOMING_EVENTS_YEAR;
-        final String fileName = Integer.toString(day);
-        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%year%", Integer.toString(targetYear)));
+        final LocalDate now = LocalDate.now();
+        final int targetYear = now.getYear(), day = now.getDayOfMonth();
+        final Month month = now.getMonth();
+        final Folder folder = Folder.UPCOMING_EVENTS_YEAR_MONTH_DAY;
+        final String fileName = "weekly";
+        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%year%", Integer.toString(targetYear)).replace("%month%", month.name()).replace("%day%", Integer.toString(day)));
         getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {

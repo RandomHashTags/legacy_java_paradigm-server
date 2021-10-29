@@ -1,12 +1,11 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.usa.USLaws;
+import me.randomhashtags.worldlaws.country.usa.state.Minnesota;
 import org.apache.logging.log4j.Level;
+import org.json.JSONObject;
 
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.Map;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public final class Laws implements WLServer {
 
@@ -21,8 +20,8 @@ public final class Laws implements WLServer {
     }
 
     private Laws() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -31,12 +30,13 @@ public final class Laws implements WLServer {
     }
 
     private void test() {
-        USLaws.INSTANCE.getRecentActivity(APIVersion.v1, new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                WLLogger.log(Level.INFO, "Laws;test;string=" + string);
-            }
-        });
+        final Minnesota minnesota = Minnesota.INSTANCE;
+        final JSONObject json = new JSONObject(minnesota.getIndexesJSON());
+        for(String key : json.keySet()) {
+            final String string = minnesota.getTableOfChapters(key);
+            WLLogger.log(Level.INFO, "Laws;test;string=" + string);
+            break;
+        }
     }
 
     @Override
@@ -58,12 +58,10 @@ public final class Laws implements WLServer {
                     final LawController controller = valueOfCountry(values[1]);
                     if(controller != null) {
                         controller.getRecentActivity(version, handler);
-                    } else {
-                        handler.handleString(null);
+                        return;
                     }
-                } else {
-                    getRecentActivity(version, handler);
                 }
+                handler.handleString("{}");
                 break;
             default:
                 if(values.length >= 2) {
@@ -85,56 +83,12 @@ public final class Laws implements WLServer {
 
     @Override
     public String[] getHomeRequests() {
-        return new String[] {
-                "recent_activity"
-        };
+        return null;
     }
 
     @Override
     public AutoUpdateSettings getAutoUpdateSettings() {
-        return new AutoUpdateSettings(WLUtilities.LAWS_HOME_RESPONSE_UPDATE_INTERVAL, null);
-    }
-
-    private void getRecentActivity(APIVersion version, CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
-        final int max = CONTROLLERS.length;
-        final HashMap<String, String> values = new HashMap<>();
-        final HashMap<String, Long> controllerLoadTimes = new HashMap<>();
-        final AtomicInteger completed = new AtomicInteger(0);
-        Arrays.asList(CONTROLLERS).parallelStream().forEach(controller -> {
-            controller.getRecentActivity(version, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    if(string != null) {
-                        values.put(controller.getCountry().getBackendID(), string);
-                    }
-                    controllerLoadTimes.put(controller.getClass().getSimpleName(), System.currentTimeMillis()-started);
-                    if(completed.addAndGet(1) == max) {
-                        String value = null;
-                        if(!values.isEmpty()) {
-                            final StringBuilder builder = new StringBuilder("{");
-                            boolean isFirst = true;
-                            for(Map.Entry<String, String> map : values.entrySet()) {
-                                builder.append(isFirst ? "" : ",").append("\"").append(map.getKey()).append("\":").append(map.getValue());
-                                isFirst = false;
-                            }
-                            builder.append("}");
-                            value = builder.toString();
-                        }
-                        final StringBuilder loadTimesBuilder = new StringBuilder();
-                        boolean isFirst = true;
-                        for(Map.Entry<String, Long> map : controllerLoadTimes.entrySet()) {
-                            final String simpleName = map.getKey();
-                            final long loadTime = map.getValue();
-                            loadTimesBuilder.append(isFirst ? "" : ", ").append(simpleName).append(" took ").append(loadTime).append("ms");
-                            isFirst = false;
-                        }
-                        WLLogger.log(Level.INFO, "Laws - loaded recent activity (took " + (System.currentTimeMillis()-started) + "ms total, " + loadTimesBuilder.toString() + ")");
-                        handler.handleString(value);
-                    }
-                }
-            });
-        });
+        return null;
     }
 
     private LawController valueOfCountry(String countryBackendID) {

@@ -17,6 +17,7 @@ public enum JSONDataValue {
             case SPOTIFY: return "spotify";
             case FINANCE_YAHOO_FINANCE: return "yahoo_finance";
             case FINANCE_TWELVE_DATA: return "twelve_data";
+            case TV_SHOWS: return "tv_shows";
             default: return "null";
         }
     }

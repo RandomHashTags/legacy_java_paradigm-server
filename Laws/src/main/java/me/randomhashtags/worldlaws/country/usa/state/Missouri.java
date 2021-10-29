@@ -14,41 +14,16 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Missouri implements LawSubdivisionController {
-    INSTANCE(
+public final class Missouri extends LawSubdivisionController {
+    public static final Missouri INSTANCE = new Missouri(
             "http://revisor.mo.gov/main/home.aspx",
             "http://revisor.mo.gov/main/home.aspx",
             "https://revisor.mo.gov/main/OneChapter.aspx?chapter=%chapter%",
             "https://revisor.mo.gov/main/OneSection.aspx?section=%chapter%.%section%"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private HashMap<String, String> statutes;
-
     Missouri(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
     }
 
     @Override

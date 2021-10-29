@@ -11,42 +11,18 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Wisconsin implements LawSubdivisionController {
-    INSTANCE(
+public final class Wisconsin extends LawSubdivisionController {
+    public static final Wisconsin INSTANCE = new Wisconsin(
             "https://docs.legis.wisconsin.gov/statutes/prefaces/toc",
             "https://docs.legis.wisconsin.gov/statutes/statutes/%index%",
             "https://docs.legis.wisconsin.gov/statutes/statutes/%index%",
             "https://docs.legis.wisconsin.gov/document/statutes/%index%/%chapter%"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private HashMap<String, String> statutes;
     private HashMap<Integer, List<String>> chapters;
 
     Wisconsin(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
     }
 
     @Override

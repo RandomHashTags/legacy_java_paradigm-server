@@ -10,45 +10,19 @@ import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
-public enum FederalGovernment implements LawSubdivisionController {
-    INSTANCE(
+public final class FederalGovernment extends LawSubdivisionController {
+    public static final FederalGovernment INSTANCE = new FederalGovernment(
             "https://uscode.house.gov",
             "https://uscode.house.gov/browse/prelim@title%index%&edition=prelim",
             "https://uscode.house.gov/browse/prelim@title%index%/chapter%chapter%&edition=prelim",
             "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title%index%-section%section%&num=0&edition=prelim"
     );
 
-    private final String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private final HashMap<String, String> statutes;
-
     FederalGovernment(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
     }
 
     private void addIndex(List<Element> list, Element element) {

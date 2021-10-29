@@ -14,42 +14,19 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Florida implements LawSubdivisionController {
-    INSTANCE(
+public final class Florida extends LawSubdivisionController {
+    public static Florida INSTANCE = new Florida(
             "https://www.flsenate.gov/Laws/Statutes/2019",
             "https://www.flsenate.gov/Laws/Statutes/2019/Title%index%/#Title%index%",
             "https://www.flsenate.gov/Laws/Statutes/2019/Chapter%chapter%",
             "https://www.flsenate.gov/Laws/Statutes/2019/%chapter%.%section%"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private HashMap<String, String> statutesJSON, statutes;
+    private final HashMap<String, String> statutesJSON;
 
     Florida(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
         statutesJSON = new HashMap<>();
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
     }
 
     @Override

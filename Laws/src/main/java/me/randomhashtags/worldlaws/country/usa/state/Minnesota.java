@@ -10,11 +10,10 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
-public enum Minnesota implements LawSubdivisionController {
-    INSTANCE(
+public final class Minnesota extends LawSubdivisionController {
+    public static final Minnesota INSTANCE = new Minnesota(
             "https://www.revisor.mn.gov/statutes/",
             "https://www.revisor.mn.gov/statutes/part/%index%",
             "https://www.revisor.mn.gov/statutes/cite/%chapter%",
@@ -23,33 +22,10 @@ public enum Minnesota implements LawSubdivisionController {
             "https://www.senate.mn/members/index.html"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL, title, description;
-    private HashMap<String, String> statutes;
+    private String title, description;
 
     Minnesota(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL, String houseMembersURL, String senateMembersURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
     }
 
     @Override

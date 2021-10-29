@@ -41,11 +41,11 @@ public interface Jsonable {
         }
         return null;
     }
-    private JSONObject getLocalFileJSONObject(Folder folder, String fileName) {
+    default JSONObject getLocalFileJSONObject(Folder folder, String fileName) {
         final String string = getLocalFileString(folder, fileName, "json");
         return string != null ? new JSONObject(string) : null;
     }
-    private JSONArray getLocalFileJSONArray(Folder type, String fileName) {
+    default JSONArray getLocalFileJSONArray(Folder type, String fileName) {
         final String string = getLocalFileString(type, fileName, "json");
         return string != null ? new JSONArray(string) : null;
     }
@@ -136,13 +136,13 @@ public interface Jsonable {
             final boolean alreadyExists = Files.exists(path);
             if(alreadyExists) {
                 if(!canExist) {
-                    WLLogger.log(Level.WARN, sender + "Jsonable - writeFile(" + fileName + ") - already exists at " + directory + " (folder=" + folder.name() + ")!");
+                    WLLogger.log(Level.ERROR, sender + "Jsonable - writeFile(" + fileName + ") - already exists at " + directory + " (folder=" + folder.name() + ")!");
                 } else {
-                    WLLogger.log(level, sender + "Jsonable - overriding file with folder " + folder.name() + " at " + path.toAbsolutePath().toString());
+                    WLLogger.log(level, sender + "Jsonable - overriding file with folder " + folder.name() + " at " + path.toAbsolutePath().toString(), false);
                     write(path, value);
                 }
             } else {
-                WLLogger.log(level, sender + "Jsonable - creating file with folder " + folder.name() + " at " + path.toAbsolutePath().toString());
+                WLLogger.log(level, sender + "Jsonable - creating file with folder " + folder.name() + " at " + path.toAbsolutePath().toString(), false);
                 tryCreatingParentFolders(path);
                 write(path, value);
             }

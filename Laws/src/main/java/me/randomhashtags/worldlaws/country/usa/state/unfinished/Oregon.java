@@ -11,42 +11,19 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public enum Oregon implements LawSubdivisionController {
-    INSTANCE(
+public final class Oregon extends LawSubdivisionController {
+    public static final Oregon INSTANCE = new Oregon(
             "https://www.oregonlegislature.gov/bills_laws/Pages/ORS.aspx",
             "http://www.wvlegislature.gov/WVCODE/code.cfm?chap=%index%&art=1",
             "http://www.wvlegislature.gov/WVCODE/code.cfm?chap=%index%&art=%chapter%#01",
             ""
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private HashMap<String, String> statutesJSON, statutes;
+    private HashMap<String, String> statutesJSON;
 
     Oregon(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
         statutesJSON = new HashMap<>();
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
     }
 
     @Override

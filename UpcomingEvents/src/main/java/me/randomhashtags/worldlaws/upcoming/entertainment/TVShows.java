@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.service.JSONDataValue;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.TVShowEvent;
@@ -59,7 +58,7 @@ public final class TVShows extends LoadedUpcomingEventController {
         if(showNamesCache != null) {
             handler.handleString(showNamesCache);
         } else {
-            getJSONObject(Folder.UPCOMING_EVENTS_TV_SHOWS, "showNames", new CompletionHandler() {
+            getJSONObject(Folder.UPCOMING_EVENTS_TV_SHOWS, "ids", new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
                     updateAllShowNames(handler);
@@ -67,14 +66,16 @@ public final class TVShows extends LoadedUpcomingEventController {
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
+                    showNamesCache = json.toString();
                     handler.handleString(showNamesCache);
                 }
             });
         }
     }
-    private void updateAllShowNames(CompletionHandler handler) {
+    public void updateAllShowNames(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final JSONObject showNames = new JSONObject();
+
         final long sleepDuration = TimeUnit.SECONDS.toMillis(15);
         final AtomicBoolean lock = new AtomicBoolean(true);
         final AtomicInteger page = new AtomicInteger(0);
@@ -85,7 +86,16 @@ public final class TVShows extends LoadedUpcomingEventController {
                 if(array != null && !array.isEmpty()) {
                     for(Object obj : array) {
                         final JSONObject json = (JSONObject) obj;
-                        showNames.put(json.getString("name"), json.getInt("id"));
+                        final String id = Integer.toString(json.getInt("id"));
+                        final String name = json.getString("name"), status = json.getString("status");
+                        final String imageURL = json.has("image") && json.get("image") instanceof JSONObject ? json.getJSONObject("image").getString("original") : null;
+                        final JSONObject show = new JSONObject();
+                        show.put("name", name);
+                        if(imageURL != null) {
+                            show.put("imageURL", imageURL);
+                        }
+                        show.put("status", status);
+                        showNames.put(id, show);
                     }
                     if(page.addAndGet(1) % 20 == 0) {
                         try {
@@ -99,25 +109,17 @@ public final class TVShows extends LoadedUpcomingEventController {
                 }
             }
         };
-        getJSONDataValue(JSONDataValue.TV_SHOWS, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                final int lastKnownPage = json.has("last_known_page") ? json.getInt("last_known_page") : 0;
-                page.set(lastKnownPage);
-
-                while (lock.get()) {
-                    final int pageNumber = page.get();
-                    getShowsFromPage(pageNumber, completionHandler);
-                }
-                json.put("last_known_page", lastKnownPage);
-                setJSONDataValue(JSONDataValue.TV_SHOWS, json);
-                showNamesCache = showNames.toString();
-                WLLogger.log(Level.INFO, "TVShows - updated all show names (took " + (System.currentTimeMillis()-started) +"ms)");
-                if(handler != null) {
-                    handler.handleJSONObject(showNames);
-                }
-            }
-        });
+        while (lock.get()) {
+            final int pageNumber = page.get();
+            getShowsFromPage(pageNumber, completionHandler);
+        }
+        final String string = showNames.toString();
+        showNamesCache = string;
+        setFileJSON(Folder.UPCOMING_EVENTS_TV_SHOWS, "ids", string);
+        WLLogger.log(Level.INFO, "TVShows - updated all show names (took " + (System.currentTimeMillis()-started) +"ms)");
+        if(handler != null) {
+            handler.handleJSONObject(showNames);
+        }
     }
     private void getShowsFromPage(int page, CompletionHandler showHandler) {
         final String url = "https://api.tvmaze.com/shows?page=" + page;

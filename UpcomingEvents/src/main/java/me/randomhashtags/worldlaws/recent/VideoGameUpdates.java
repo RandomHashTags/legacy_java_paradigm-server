@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.recent;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.recent.software.videogames.NoMansSky;
-import me.randomhashtags.worldlaws.recent.software.videogames.VideoGameUpdate;
-import me.randomhashtags.worldlaws.recent.software.videogames.VideoGameUpdateController;
+import me.randomhashtags.worldlaws.recent.software.videogame.NoMansSky;
+import me.randomhashtags.worldlaws.recent.software.videogame.VideoGameUpdate;
+import me.randomhashtags.worldlaws.recent.software.videogame.VideoGameUpdateController;
 
 import java.time.LocalDate;
 import java.util.Arrays;
@@ -21,6 +21,8 @@ public enum VideoGameUpdates implements RecentEventController {
                 //Overwatch.INSTANCE
         };
     }
+
+    private String allVideoGames;
 
     @Override
     public RecentEventType getType() {
@@ -60,5 +62,19 @@ public enum VideoGameUpdates implements RecentEventController {
                 }
             }
         }));
+    }
+
+    public String getAllVideoGames() {
+        if(allVideoGames == null) {
+            final StringBuilder builder = new StringBuilder("{");
+            boolean isFirst = true;
+            for(VideoGameUpdateController controller : getSupportedVideoGames()) {
+                builder.append(isFirst ? "" : ",").append(controller.toVideoGameJSON());
+                isFirst = false;
+            }
+            builder.append("}");
+            allVideoGames = builder.toString();
+        }
+        return allVideoGames;
     }
 }

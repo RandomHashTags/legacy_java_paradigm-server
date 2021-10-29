@@ -1,21 +1,80 @@
 package me.randomhashtags.worldlaws;
 
 import org.apache.logging.log4j.Level;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
 
+import javax.net.ssl.*;
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.URL;
+import java.security.SecureRandom;
+import java.security.cert.CertificateException;
+import java.security.cert.X509Certificate;
+import java.text.SimpleDateFormat;
 import java.time.Clock;
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.time.Month;
 import java.util.concurrent.TimeUnit;
 
 public abstract class WLUtilities {
-    public static final long LAWS_HOME_RESPONSE_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(30);
+    //public static final long LAWS_HOME_RESPONSE_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(30);
     public static final long PROXY_HOME_RESPONSE_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);
-    public static final long UPCOMING_EVENTS_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
+    public static final long UPCOMING_EVENTS_HOME_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
     public static final long UPCOMING_EVENTS_TV_SHOW_UPDATE_INTERVAL = TimeUnit.DAYS.toMillis(1);
     public static final long UPCOMING_EVENTS_TV_SHOW_NAMES_UPDATE_INTERVAL = TimeUnit.DAYS.toMillis(7);
     public static final long WEATHER_ALERTS_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);
     public static final long WEATHER_EARTHQUAKES_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(30);
     public static final long WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
+
+    private static SSLContext SLL_CONTEXT;
+    public static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssXXX");
+
+    public static Document getJsoupDocumentFrom(String url) throws Exception {
+        if(SLL_CONTEXT == null) {
+            final TrustManager[] trustManager = new TrustManager[] {
+                    new X509TrustManager() {
+                        @Override
+                        public void checkClientTrusted(X509Certificate[] x509Certificates, String s) throws CertificateException {
+                        }
+
+                        @Override
+                        public void checkServerTrusted(X509Certificate[] x509Certificates, String s) throws CertificateException {
+                        }
+
+                        @Override
+                        public X509Certificate[] getAcceptedIssuers() {
+                            return null;
+                        }
+                    }
+            };
+            SLL_CONTEXT = SSLContext.getInstance("TLS");
+            SLL_CONTEXT.init(null, trustManager, new SecureRandom());
+            HttpsURLConnection.setDefaultSSLSocketFactory(SLL_CONTEXT.getSocketFactory());
+            HttpsURLConnection.setDefaultHostnameVerifier(new HostnameVerifier() {
+                @Override
+                public boolean verify(String host, SSLSession session) {
+                    WLLogger.log(Level.ERROR, "WLUtilities;getJsoupDocumentFrom;url=" + url + ";hostnameVerifier called;host=" + host + ";returned true");
+                    return true;
+                }
+            });
+        }
+        final URL link = new URL(url);
+        final HttpsURLConnection connection = (HttpsURLConnection) link.openConnection();
+        connection.setHostnameVerifier(HttpsURLConnection.getDefaultHostnameVerifier());
+
+        String line = null;
+        final StringBuilder builder = new StringBuilder();
+        final InputStream is = connection.getInputStream();
+        final BufferedReader reader = new BufferedReader(new InputStreamReader(is));
+        while((line = reader.readLine()) != null)  {
+            builder.append(line);
+        }
+        reader.close();
+        return Jsoup.parse(builder.toString());
+    }
 
     public static Month valueOfMonthFromInput(String input) {
         input = input.toLowerCase().substring(0, 3);
@@ -56,19 +115,19 @@ public abstract class WLUtilities {
             builder.append("\n").append(element.toString());
         }
         final String errorName = exception.getClass().getSimpleName();
-        final Folder folder = Folder.ERRORS;
-        final String fileName = Long.toString(System.currentTimeMillis());
-        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%errorName%", errorName));
-        saveToFile(Level.ERROR, folder, fileName, builder.toString(), "txt");
+        saveError(errorName, builder.toString());
     }
     public static void saveLoggedError(String value) {
-        final Folder folder = Folder.ERRORS;
-        final String fileName = Long.toString(System.currentTimeMillis());
-        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%errorName%", "LoggedError"));
-        saveToFile(Level.ERROR, folder, fileName, value, "txt");
+        saveError("LoggedError", value);
     }
-    public static void saveToFile(Level level, Folder folder, String fileName, String value, String extension) {
-        Jsonable.saveFile("WLUtilities.saveToFile", level, folder, fileName, value, extension);
+    private static void saveError(String folderName, String value) {
+        final Folder folder = Folder.ERRORS;
+        final String fileName = LocalDateTime.now().toString();
+        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%errorName%", folderName));
+        saveErrorToFile(Level.ERROR, folder, fileName, value, "txt");
+    }
+    public static void saveErrorToFile(Level level, Folder folder, String fileName, String value, String extension) {
+        Jsonable.saveFile("WLUtilities.saveErrorToFile", level, folder, fileName, value, extension);
         folder.removeCustomFolderName(fileName);
     }
 }

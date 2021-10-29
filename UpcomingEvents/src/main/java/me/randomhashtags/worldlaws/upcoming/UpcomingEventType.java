@@ -22,13 +22,23 @@ public enum UpcomingEventType {
 
     public static String getTypesJSON() {
         final JSONObject json = new JSONObject();
-        final String suffix = " Open for details.";
         for(UpcomingEventType type : UpcomingEventType.values()) {
             final String imageURLPrefix = type.getImageURLPrefix();
             final JSONObject typeJSON = new JSONObject();
-            typeJSON.put("singularName", type.getSingularName());
-            typeJSON.put("pluralName", type.getPluralName());
-            typeJSON.put("singularNotificationDescription", type.getSingularNotificationDescription() + suffix);
+
+            final String name = "name";
+            final String notificationDescription = "notificationDescription";
+
+            final JSONObject singular = new JSONObject();
+            singular.put(name, type.getName(true));
+            singular.put(notificationDescription, type.getNotificationDescription(true));
+            typeJSON.put("singular", singular);
+
+            final JSONObject plural = new JSONObject();
+            plural.put(name, type.getName(false));
+            plural.put(notificationDescription, type.getNotificationDescription(false));
+            typeJSON.put("plural", plural);
+
             if(imageURLPrefix != null) {
                 typeJSON.put("imageURLPrefix", imageURLPrefix);
             }
@@ -37,19 +47,10 @@ public enum UpcomingEventType {
         return json.toString();
     }
 
-    public String getID() {
+    private String getID() {
         return name().toLowerCase();
     }
 
-    public String optimizeImageURL(String imageURL) {
-        if(imageURL != null) {
-            final String prefix = getImageURLPrefix();
-            if(prefix != null && imageURL.startsWith(prefix)) {
-                return imageURL.substring(prefix.length());
-            }
-        }
-        return imageURL;
-    }
     public String getImageURLPrefix() {
         switch (this) {
             case MOVIE:
@@ -70,61 +71,83 @@ public enum UpcomingEventType {
                 return null;
         }
     }
-    public String getSingularName() {
-        switch (this) {
-            case MOVIE: return "Movie Release";
-            case MUSIC_ALBUM: return "Music Album";
 
-            case SPACE_EVENT: return "Space Event";
-            case SPACE_NEAR_EARTH_OBJECT: return "Near Earth Object";
-            case SPACE_ROCKET_LAUNCH: return "Rocket Launch";
+    private String getName(boolean singular) {
+        if(singular) {
+            switch (this) {
+                case MOVIE: return "Movie Release";
+                case MUSIC_ALBUM: return "Music Album";
 
-            case SPORT_CHAMPIONSHIPS: return "Championship";
-            case SPORT_MLB: return "MLB Event";
-            case SPORT_UFC: return "UFC Event";
+                case SPACE_EVENT: return "Space Event";
+                case SPACE_NEAR_EARTH_OBJECT: return "Near Earth Object";
+                case SPACE_ROCKET_LAUNCH: return "Rocket Launch";
 
-            case TICKETMASTER_MUSIC_EVENT: return "Music Event";
-            case TV_SHOW: return "TV Show";
-            case VIDEO_GAME: return "Video Game Release";
-            default: return "Unknown Singular Name";
+                case SPORT_CHAMPIONSHIPS: return "Championship";
+                case SPORT_MLB: return "MLB Event";
+                case SPORT_UFC: return "UFC Event";
+
+                case TICKETMASTER_MUSIC_EVENT: return "Music Event";
+                case TV_SHOW: return "TV Show";
+                case VIDEO_GAME: return "Video Game Release";
+                default: return "Unknown Singular Name";
+            }
+        } else {
+            switch (this) {
+                case MOVIE: return "Movie Releases";
+                case MUSIC_ALBUM: return "Music Album Releases";
+
+                case SPACE_EVENT: return "Space Events";
+                case SPACE_NEAR_EARTH_OBJECT: return "Near Earth Objects";
+                case SPACE_ROCKET_LAUNCH: return "Rocket Launches";
+
+                case SPORT_CHAMPIONSHIPS: return "Championships";
+                case SPORT_MLB: return "MLB Schedule";
+                case SPORT_UFC: return "UFC Schedule";
+
+                case TICKETMASTER_MUSIC_EVENT: return "Music Events";
+                case TV_SHOW: return "TV Shows";
+                case VIDEO_GAME: return "Video Game Releases";
+                default: return "Unknown Plural Name";
+            }
         }
     }
-    public String getPluralName() {
-        switch (this) {
-            case MOVIE: return "Movie Releases";
-            case MUSIC_ALBUM: return "Music Album Releases";
+    private String getNotificationDescription(boolean singular) {
+        if(singular) {
+            switch (this) {
+                case MOVIE: return "\"%title%\" is making its cinematic debut today!";
+                case MUSIC_ALBUM: return "\"%title%\" by %artist% releases today!";
 
-            case SPACE_EVENT: return "Space Events";
-            case SPACE_NEAR_EARTH_OBJECT: return "Near Earth Objects";
-            case SPACE_ROCKET_LAUNCH: return "Rocket Launches";
+                case SPACE_EVENT: return "%title% is scheduled today!";
+                case SPACE_NEAR_EARTH_OBJECT: return "A near earth object is close by!";
+                case SPACE_ROCKET_LAUNCH: return "%title% is scheduled to take off today!";
 
-            case SPORT_CHAMPIONSHIPS: return "Championships";
-            case SPORT_MLB: return "MLB Schedule";
-            case SPORT_UFC: return "UFC Schedule";
+                case SPORT_CHAMPIONSHIPS: return "%title% begins today!";
+                case SPORT_MLB: return "%team% has a game today!";
+                case SPORT_UFC: return "%title% is tonight!";
 
-            case TICKETMASTER_MUSIC_EVENT: return "Music Events";
-            case TV_SHOW: return "TV Shows";
-            case VIDEO_GAME: return "Video Game Releases";
-            default: return "Unknown Plural Name";
-        }
-    }
-    public String getSingularNotificationDescription() {
-        switch (this) {
-            case MOVIE: return "\"%title%\" is making its cinematic debut today!";
-            case MUSIC_ALBUM: return "\"%title%\" by %artist% releases today!";
+                case TICKETMASTER_MUSIC_EVENT: return "\"%title%\" happens tonight!";
+                case TV_SHOW: return "A new episode for \"%title%\" is now available!";
+                case VIDEO_GAME: return "\"%title%\" releases today!";
+                default: return "Unknown Notification Description!";
+            }
+        } else {
+            switch (this) {
+                case MOVIE: return "\"%title%\" are making their cinematic debut today!";
+                case MUSIC_ALBUM: return "\"%title%\" by %artist% releases today!";
 
-            case SPACE_EVENT: return "%title% is scheduled for today!";
-            case SPACE_NEAR_EARTH_OBJECT: return "A near earth object is close by!";
-            case SPACE_ROCKET_LAUNCH: return "%title% is scheduled to take off today!";
+                case SPACE_EVENT: return "%title% are scheduled today!";
+                case SPACE_NEAR_EARTH_OBJECT: return "Near earth objects are close by!";
+                case SPACE_ROCKET_LAUNCH: return "%title% are scheduled to take off today!";
 
-            case SPORT_CHAMPIONSHIPS: return "%title% begins today!";
-            case SPORT_MLB: return "%team% has a game today!";
-            case SPORT_UFC: return "%title% is tonight!";
+                case SPORT_CHAMPIONSHIPS: return "%title% begins today!";
+                case SPORT_MLB: return "%team% have games today!";
+                case SPORT_UFC: return "%title% are tonight!";
 
-            case TICKETMASTER_MUSIC_EVENT: return "\"%title%\" happens tonight!";
-            case TV_SHOW: return "\"%title%\" has new episodes available!";
-            case VIDEO_GAME: return "\"%title%\" releases today!";
-            default: return "Unknown Notification Description!";
+                case TICKETMASTER_MUSIC_EVENT: return "\"%title%\" happens tonight!";
+                case TV_SHOW: return "New episodes for \"%title%\" are now available!";
+                case VIDEO_GAME: return "\"%title%\" release today!";
+                default: return "Unknown Notification Description!";
+            }
         }
     }
 }

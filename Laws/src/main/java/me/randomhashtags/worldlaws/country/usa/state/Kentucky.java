@@ -8,28 +8,20 @@ import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
-public enum Kentucky implements LawSubdivisionController {
-    INSTANCE(
+public final class Kentucky extends LawSubdivisionController {
+    public static final Kentucky INSTANCE = new Kentucky(
             "https://apps.legislature.ky.gov/law/kar/titles.htm",
             "https://apps.legislature.ky.gov/law/kar/TITLE%index%.HTM",
             "https://apps.legislature.ky.gov/law/kar/TITLE%chapter%.HTM",
             "https://www.revisor.mn.gov/statutes/cite/%chapter%.%section%"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
     private int chapters, sections;
-    private HashMap<String, String> statutes;
 
     Kentucky(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
-        statutes = new HashMap<>();
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
     }
 
     @Override

@@ -10,44 +10,18 @@ import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
-public enum Idaho implements LawSubdivisionController {
-    INSTANCE(
+public final class Idaho extends LawSubdivisionController {
+    public static final Idaho INSTANCE = new Idaho(
             "https://legislature.idaho.gov/statutesrules/idstat/",
             "https://legislature.idaho.gov/statutesrules/idstat/Title%index%",
             "https://legislature.idaho.gov/statutesrules/idstat/Title%index%/T%index%CH%chapter%/",
             "https://legislature.idaho.gov/statutesrules/idstat/Title%index%/T%index%CH%chapter%/SECT%index%-%chapter%%section%/"
     );
 
-    private String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
-    private HashMap<String, String> statutes;
-
     Idaho(String indexesURL, String tableOfChaptersURL, String statutesListURL, String statuteURL) {
-        this.indexesURL = indexesURL;
-        this.tableOfChaptersURL = tableOfChaptersURL;
-        this.statutesListURL = statutesListURL;
-        this.statuteURL = statuteURL;
-
-        statutes = new HashMap<>();
-    }
-
-    @Override
-    public String getIndexesURL() {
-        return indexesURL;
-    }
-    @Override
-    public String getTableOfChaptersURL() {
-        return tableOfChaptersURL;
-    }
-    @Override
-    public String getStatutesListURL() {
-        return statutesListURL;
-    }
-    @Override
-    public String getStatuteURL() {
-        return statuteURL;
+        super(indexesURL, tableOfChaptersURL, statutesListURL, statuteURL);
     }
 
     @Override
