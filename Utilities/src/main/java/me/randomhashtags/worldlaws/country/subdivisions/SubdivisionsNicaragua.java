@@ -29,7 +29,7 @@ public enum SubdivisionsNicaragua implements SovereignStateSubdivision { // http
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             case BOACO: return "BO";
             case CARAZO: return "CA";

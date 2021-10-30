@@ -23,7 +23,7 @@ public enum SubdivisionsNorway implements SovereignStateSubdivision { // https:/
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             default: return null;
         }

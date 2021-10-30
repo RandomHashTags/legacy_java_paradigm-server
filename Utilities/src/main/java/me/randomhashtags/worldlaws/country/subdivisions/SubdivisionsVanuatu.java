@@ -18,7 +18,7 @@ public enum SubdivisionsVanuatu implements SovereignStateSubdivision { // https:
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             case MALAMPA: return "MAP";
             case PENAMA: return "PAM";

@@ -19,7 +19,7 @@ public enum SubdivisionsCostaRica implements SovereignStateSubdivision { // http
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             default: return null;
         }

@@ -39,7 +39,7 @@ public enum SubdivisionsEgypt implements SovereignStateSubdivision { // https://
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             case ALEXANDRIA: return "ALX";
             case ASWAN: return "ASN";

@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.info.service.CountryService;
+import me.randomhashtags.worldlaws.stories.Story;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -17,6 +18,7 @@ public interface CompletionHandler {
     default void handleJSONObject(JSONObject json) { }
     default void handleClient(@NotNull WLClient client) { }
     default void handleServiceResponse(CountryService service, String string) { }
+    default void handleStories(HashSet<Story> stories) { }
 
     default void load(CompletionHandler handler) { handler.handleString(null); }
 }

@@ -104,68 +104,72 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
                         requestJSONObject(url, RequestMethod.GET, headers, query, new CompletionHandler() {
                             @Override
                             public void handleJSONObject(JSONObject json) {
-                                final JSONObject albumsJSON = json.getJSONObject("albums");
-                                final JSONArray itemsArray = albumsJSON.getJSONArray("items");
-                                JSONObject targetJSON = null;
-                                outer: for(Object obj : itemsArray) {
-                                    final JSONObject itemJSON = (JSONObject) obj;
-                                    final String albumName = itemJSON.getString("name");
-                                    if(album.equalsIgnoreCase(albumName)) {
-                                        final JSONArray artistsArray = itemJSON.getJSONArray("artists");
-                                        inner: for(Object artistObj : artistsArray) {
-                                            final JSONObject artistJSON = (JSONObject) artistObj;
-                                            final String artistName = artistJSON.getString("name");
-                                            artistJSON.remove("id");
-                                            artistJSON.remove("type");
-                                            if(hasArtist(artists, artistName)) {
-                                                String imageURL = null;
-                                                for(Object imageObj : artistJSON.getJSONArray("images")) {
-                                                    final JSONObject imageJSON = (JSONObject) imageObj;
-                                                    if(imageJSON.getInt("width") == 640) {
-                                                        imageURL = imageJSON.getString("url");
-                                                        break;
+                                if(json != null) {
+                                    final JSONObject albumsJSON = json.getJSONObject("albums");
+                                    final JSONArray itemsArray = albumsJSON.getJSONArray("items");
+                                    JSONObject targetJSON = null;
+                                    outer: for(Object obj : itemsArray) {
+                                        final JSONObject itemJSON = (JSONObject) obj;
+                                        final String albumName = itemJSON.getString("name");
+                                        if(album.equalsIgnoreCase(albumName)) {
+                                            final JSONArray artistsArray = itemJSON.getJSONArray("artists");
+                                            for(Object artistObj : artistsArray) {
+                                                final JSONObject artistJSON = (JSONObject) artistObj;
+                                                final String artistName = artistJSON.getString("name");
+                                                artistJSON.remove("id");
+                                                artistJSON.remove("type");
+                                                if(hasArtist(artists, artistName)) {
+                                                    String imageURL = null;
+                                                    for(Object imageObj : artistJSON.getJSONArray("images")) {
+                                                        final JSONObject imageJSON = (JSONObject) imageObj;
+                                                        if(imageJSON.getInt("width") == 640) {
+                                                            imageURL = imageJSON.getString("url");
+                                                            break;
+                                                        }
                                                     }
+                                                    itemJSON.put("imageURL", imageURL);
+                                                    itemJSON.remove("images");
+                                                    itemJSON.remove("name");
+                                                    itemJSON.remove("id");
+                                                    itemJSON.remove("type");
+                                                    itemJSON.remove("album_type");
+                                                    itemJSON.remove("href");
+                                                    itemJSON.remove("uri");
+                                                    itemJSON.remove("release_date");
+                                                    itemJSON.remove("release_date_precision");
+                                                    itemJSON.remove("artists");
+                                                    targetJSON = itemJSON;
+                                                    break outer;
                                                 }
-                                                itemJSON.put("imageURL", imageURL);
-                                                itemJSON.remove("images");
-                                                itemJSON.remove("name");
-                                                itemJSON.remove("id");
-                                                itemJSON.remove("type");
-                                                itemJSON.remove("album_type");
-                                                itemJSON.remove("href");
-                                                itemJSON.remove("uri");
-                                                itemJSON.remove("release_date");
-                                                itemJSON.remove("release_date_precision");
-                                                itemJSON.remove("artists");
-                                                targetJSON = itemJSON;
-                                                break outer;
                                             }
                                         }
                                     }
-                                }
-                                final String completedString = "SpotifyService - %status% album with name \"" + album + "\" with artists " + artists.toString() + " (took %time%ms)";
-                                if(targetJSON != null) {
-                                    final String availableMarketsKey = "available_markets";
-                                    final JSONArray availableMarketsArray = targetJSON.getJSONArray(availableMarketsKey);
-                                    final int max = availableMarketsArray.length();
-                                    final JSONArray availableCountries = new JSONArray();
-                                    final AtomicInteger completed = new AtomicInteger(0);
-                                    final JSONObject finalTargetJSON = targetJSON;
-                                    StreamSupport.stream(availableMarketsArray.spliterator(), true).forEach(marketObj -> {
-                                        final String countryAbbreviation = (String) marketObj;
-                                        final WLCountry country = WLCountry.valueOfISOAlpha2(countryAbbreviation);
-                                        if(country != null) {
-                                            availableCountries.put(country.getBackendID());
-                                        }
-                                        if(completed.addAndGet(1) == max) {
-                                            finalTargetJSON.remove(availableMarketsKey);
-                                            finalTargetJSON.put("available_countries", availableCountries);
-                                            WLLogger.log(Level.INFO, completedString.replace("%time%", "" + (System.currentTimeMillis()-started)).replace("%status%", "loaded"));
-                                            handler.handleJSONObject(finalTargetJSON);
-                                        }
-                                    });
+                                    final String completedString = "SpotifyService - %status% album with name \"" + album + "\" with artists " + artists.toString() + " (took %time%ms)";
+                                    if(targetJSON != null) {
+                                        final String availableMarketsKey = "available_markets";
+                                        final JSONArray availableMarketsArray = targetJSON.getJSONArray(availableMarketsKey);
+                                        final int max = availableMarketsArray.length();
+                                        final JSONArray availableCountries = new JSONArray();
+                                        final AtomicInteger completed = new AtomicInteger(0);
+                                        final JSONObject finalTargetJSON = targetJSON;
+                                        StreamSupport.stream(availableMarketsArray.spliterator(), true).forEach(marketObj -> {
+                                            final String countryAbbreviation = (String) marketObj;
+                                            final WLCountry country = WLCountry.valueOfISOAlpha2(countryAbbreviation);
+                                            if(country != null) {
+                                                availableCountries.put(country.getBackendID());
+                                            }
+                                            if(completed.addAndGet(1) == max) {
+                                                finalTargetJSON.remove(availableMarketsKey);
+                                                finalTargetJSON.put("available_countries", availableCountries);
+                                                WLLogger.log(Level.INFO, completedString.replace("%time%", "" + (System.currentTimeMillis()-started)).replace("%status%", "loaded"));
+                                                handler.handleJSONObject(finalTargetJSON);
+                                            }
+                                        });
+                                    } else {
+                                        WLLogger.log(Level.ERROR, completedString.replace("%time%", "" + (System.currentTimeMillis()-started)).replace("%status%", "failed to load"));
+                                        handler.handleJSONObject(null);
+                                    }
                                 } else {
-                                    WLLogger.log(Level.WARN, completedString.replace("%time%", "" + (System.currentTimeMillis()-started)).replace("%status%", "failed to load"));
                                     handler.handleJSONObject(null);
                                 }
                             }

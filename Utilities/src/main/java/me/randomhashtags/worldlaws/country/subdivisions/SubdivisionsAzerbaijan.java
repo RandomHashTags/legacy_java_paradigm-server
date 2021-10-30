@@ -87,7 +87,7 @@ public enum SubdivisionsAzerbaijan implements SovereignStateSubdivision { // htt
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             case ABSHERON: return "ABS";
             case AGDAM: return "AGM";

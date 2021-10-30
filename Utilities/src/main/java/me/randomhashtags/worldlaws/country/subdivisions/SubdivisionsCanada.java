@@ -25,7 +25,7 @@ public enum SubdivisionsCanada implements SovereignStateSubdivision { // https:/
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             case ALBERTA: return "AB";
             case BRITISH_COLUMBIA: return "BC";

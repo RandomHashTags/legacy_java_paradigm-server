@@ -18,7 +18,7 @@ public enum SubdivisionsAustralia implements SovereignStateSubdivision { // http
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             case NEW_SOUTH_WALES: return "NSW";
             case QUEENSLAND: return "QLD";
@@ -37,6 +37,6 @@ public enum SubdivisionsAustralia implements SovereignStateSubdivision { // http
 
     @Override
     public String getGovernmentWebsite() {
-        return "https://www." + getPostalCodeAbbreviation().toLowerCase() + ".gov.au";
+        return "https://www." + getISOAlpha2().toLowerCase() + ".gov.au";
     }
 }

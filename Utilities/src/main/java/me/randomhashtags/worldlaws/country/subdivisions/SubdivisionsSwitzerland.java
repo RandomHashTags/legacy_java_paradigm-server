@@ -38,7 +38,7 @@ public enum SubdivisionsSwitzerland implements SovereignStateSubdivision { // ht
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             default: return null;
         }

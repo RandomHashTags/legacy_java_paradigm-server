@@ -108,7 +108,9 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
             final String heading = albumDoc.select("div.mw-body h1.firstHeading").get(0).text();
             final EventSource source = new EventSource("Wikipedia: " + heading, url);
             sources.append(source);
-            final String description = albumDoc.select("div.mw-parser-output p").get(0).text();
+            final Elements paragraphs = albumDoc.select("div.mw-parser-output p");
+            paragraphs.removeIf(paragraph -> paragraph.hasClass("mw-empty-elt"));
+            final String description = paragraphs.get(0).text();
             final String albumImageURL;
             final Elements infobox = albumDoc.select("table.infobox");
             if(!infobox.isEmpty()) {

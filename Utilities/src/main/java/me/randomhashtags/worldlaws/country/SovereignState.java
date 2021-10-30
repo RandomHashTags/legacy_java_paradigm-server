@@ -12,6 +12,7 @@ public interface SovereignState extends Jsoupable, Jsonable {
 
     String getShortName();
     String getName();
+    String getISOAlpha2();
     String getFlagURL();
     default WLTimeZone[] getTimeZones() {
         return null;

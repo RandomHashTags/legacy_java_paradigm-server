@@ -27,7 +27,6 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
     default String getName() {
         return LocalServer.toCorrectCapitalization(name());
     }
-    String getPostalCodeAbbreviation();
     default String getGovernmentWebsite() {
         return null;
     }

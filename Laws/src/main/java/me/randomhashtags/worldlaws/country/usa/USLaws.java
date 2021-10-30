@@ -94,14 +94,13 @@ public final class USLaws extends LawController {
     public void getResponse(APIVersion version, String input, CompletionHandler handler) {
         final String[] values = input.replace("?", "").split("/");
         final String key = values[0];
-        final int length = values.length;
         switch (key) {
             case "federal":
                 FederalGovernment.INSTANCE.getIndexesJSON();
                 break;
             case "subdivision":
                 final String[] subdivisionValues = input.substring(key.length()+1).split("/");
-                String response = getSubdivisionResponse(key, subdivisionValues, length);
+                String response = getSubdivisionResponse(subdivisionValues);
                 if(response == null) {
                     WLLogger.log(Level.ERROR, "USLaws - getSubdivisionResponse(" + input + ") == null!");
                     response = "{}";
@@ -137,10 +136,11 @@ public final class USLaws extends LawController {
         }
     }
 
-    private String getSubdivisionResponse(String key, String[] values, int length) {
-        final SubdivisionsUnitedStates usstate = SubdivisionsUnitedStates.valueOf(key.toUpperCase());
+    private String getSubdivisionResponse(String[] values) {
+        final SubdivisionsUnitedStates usstate = SubdivisionsUnitedStates.valueOf(values[0].toUpperCase());
         final LawSubdivisionController state = getStateFrom(usstate);
         if(state != null) {
+            final int length = values.length;
             switch (length) {
                 case 1:
                     return state.getIndexesJSON();

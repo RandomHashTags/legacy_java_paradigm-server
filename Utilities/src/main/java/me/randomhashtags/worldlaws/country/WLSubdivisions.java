@@ -5,23 +5,23 @@ import me.randomhashtags.worldlaws.country.subdivisions.*;
 import java.util.HashSet;
 
 public enum WLSubdivisions {
-    INSTANCE;
+    ;
 
-    private HashSet<WLCountry> supportedCountries;
+    private static HashSet<WLCountry> SUPPORTED_COUNTRIES;
 
-    private HashSet<WLCountry> getSupportedCountries() {
-        if(supportedCountries == null) {
-            supportedCountries = new HashSet<>();
+    public static HashSet<WLCountry> getSupportedCountries() {
+        if(SUPPORTED_COUNTRIES == null) {
+            SUPPORTED_COUNTRIES = new HashSet<>();
             for(WLCountry country : WLCountry.values()) {
                 if(get(country) != null) {
-                    supportedCountries.add(country);
+                    SUPPORTED_COUNTRIES.add(country);
                 }
             }
         }
-        return supportedCountries;
+        return SUPPORTED_COUNTRIES;
     }
 
-    public SovereignStateSubdivision valueOfString(String string) {
+    public static SovereignStateSubdivision valueOfString(String string) {
         for(WLCountry country : getSupportedCountries()) {
             final SovereignStateSubdivision subdivision = country.valueOfSovereignStateSubdivision(string);
             if(subdivision != null) {
@@ -31,7 +31,7 @@ public enum WLSubdivisions {
         return null;
     }
 
-    public SovereignStateSubdivision[] get(WLCountry country) {
+    public static SovereignStateSubdivision[] get(WLCountry country) {
         switch (country) {
             case ALGERIA: return SubdivisionsAlgeria.values();
             case ARGENTINA: return SubdivisionsArgentina.values();

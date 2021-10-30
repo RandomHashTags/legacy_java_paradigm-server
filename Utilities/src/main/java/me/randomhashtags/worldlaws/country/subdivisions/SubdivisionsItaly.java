@@ -32,7 +32,7 @@ public enum SubdivisionsItaly implements SovereignStateSubdivision { // https://
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         return null;
     }
 

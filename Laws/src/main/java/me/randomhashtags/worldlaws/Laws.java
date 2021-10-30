@@ -20,8 +20,8 @@ public final class Laws implements WLServer {
     }
 
     private Laws() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override

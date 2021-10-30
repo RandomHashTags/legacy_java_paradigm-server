@@ -89,13 +89,12 @@ public enum NASA_EONET implements WLService {
                                     }
                                 }
                             }
-                            final WLSubdivisions subdivisions = WLSubdivisions.INSTANCE;
                             for(String string : replacements) {
                                 if(place.contains(string)) {
                                     final String[] values = place.split(string);
                                     final String value = values[values.length-1];
                                     final String targetSubdivision = value.toLowerCase().replace(" ", "");
-                                    final SovereignStateSubdivision sss = subdivisions.valueOfString(targetSubdivision);
+                                    final SovereignStateSubdivision sss = WLSubdivisions.valueOfString(targetSubdivision);
                                     if(sss != null) {
                                         subdivision = sss.getName();
                                         place = place.split(string + value)[0];

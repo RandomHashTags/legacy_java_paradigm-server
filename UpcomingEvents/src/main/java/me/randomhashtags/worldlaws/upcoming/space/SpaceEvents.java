@@ -51,8 +51,11 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
                                 final String location = resultJSON.get("location") instanceof String ? resultJSON.getString("location") : null;
                                 final String imageURL = resultJSON.getString("feature_image");
 
+                                final String newsURL = resultJSON.get("news_url") instanceof String ? resultJSON.getString("news_url") : null;
+                                final String videoURL = resultJSON.get("video_url") instanceof String ? resultJSON.getString("video_url") : null;
+
                                 final String id = getEventDateIdentifier(dateString, title);
-                                final SpaceEvent event = new SpaceEvent(title, description, imageURL, location, sources);
+                                final SpaceEvent event = new SpaceEvent(title, description, imageURL, location, newsURL, videoURL, sources);
                                 putLoadedPreUpcomingEvent(id, event.toPreUpcomingEventJSON(eventType, id, location));
                                 putUpcomingEvent(id, event.toString());
                             }

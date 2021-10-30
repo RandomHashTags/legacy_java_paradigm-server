@@ -28,7 +28,7 @@ public enum SubdivisionsNewZealand implements SovereignStateSubdivision { // htt
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             default: return null;
         }

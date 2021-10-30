@@ -88,11 +88,15 @@ public enum WeatherUSA implements WeatherController {
                                 zoneIDs.add(zoneID);
                             }
 
-                            final String[] senderName = properties.getString("senderName").split(" ");
+                            final String sender = properties.getString("senderName");
+                            final String[] senderName = properties.getString(sender).split(" ");
                             final int senderNameLength = senderName.length;
                             final String territoryAbbreviation = senderName[senderNameLength-1];
                             final SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(territoryAbbreviation);
-                            final String subdivisionName = subdivision != null ? subdivision.getName() : null;
+                            final String subdivisionName = subdivision != null ? subdivision.getName() : "Unknown";
+                            if(subdivisionName.equals("Unknown")) {
+                                WLLogger.log(Level.ERROR, "WeatherUSA - refresh, json != null - failed to find subdivision with string \"" + territoryAbbreviation + "\" from sender \"" + sender + "\"!");
+                            }
                             final String severityString = properties.getString("severity"), severity = severityString.equals("Unknown") ? "-1" : severityString;
                             final String certainty = properties.getString("certainty");
                             final String event = properties.getString("event");
@@ -206,7 +210,7 @@ public enum WeatherUSA implements WeatherController {
             };
             zones.parallelStream().forEach(zoneID -> getZone(zoneID, completionHandler));
         } else {
-            handler.handleString(null);
+            handler.handleString("{}");
         }
     }
 

@@ -257,7 +257,7 @@ public enum Earthquakes implements RestAPI {
         if(wlcountry != null) {
             country = target;
         } else {
-            final SovereignStateSubdivision subdivision = WLSubdivisions.INSTANCE.valueOfString(target);
+            final SovereignStateSubdivision subdivision = WLSubdivisions.valueOfString(target);
             if(subdivision != null) {
                 country = subdivision.getCountry().getBackendID();
                 territory = subdivision.getBackendID();

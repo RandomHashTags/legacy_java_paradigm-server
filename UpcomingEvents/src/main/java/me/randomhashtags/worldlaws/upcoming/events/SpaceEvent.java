@@ -5,8 +5,12 @@ import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 
 public final class SpaceEvent extends UpcomingEvent {
 
-    public SpaceEvent(String title, String description, String imageURL, String location, EventSources sources) {
+    private final String newsURL, videoURL;
+
+    public SpaceEvent(String title, String description, String imageURL, String location, String newsURL, String videoURL, EventSources sources) {
         super(title, description, imageURL, location, null, sources);
+        this.newsURL = newsURL;
+        this.videoURL = videoURL;
     }
 
     @Override
@@ -16,6 +20,10 @@ public final class SpaceEvent extends UpcomingEvent {
 
     @Override
     public String getPropertiesJSONObject() {
-        return null;
+        final boolean hasVideoURL = videoURL != null;
+        return "{" +
+                (newsURL != null ? "\"newsURL\":\"" + newsURL + "\"" + (hasVideoURL ? "," : "") : "") +
+                (hasVideoURL ? "\"videoURL\":\"" + videoURL + "\"" : "") +
+                "}";
     }
 }

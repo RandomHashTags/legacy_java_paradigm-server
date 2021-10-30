@@ -93,6 +93,10 @@ public final class CustomCountry implements SovereignState {
         return name;
     }
     @Override
+    public String getISOAlpha2() {
+        return null;
+    }
+    @Override
     public String getFlagURL() {
         return null;
     }

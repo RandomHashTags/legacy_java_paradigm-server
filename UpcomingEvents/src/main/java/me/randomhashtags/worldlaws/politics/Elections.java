@@ -26,7 +26,6 @@ public enum Elections implements RestAPI, DataValues {
             @Override
             public void handleJSONObject(JSONObject json) {
                 final JSONArray elections = json.getJSONArray("elections");
-                final WLSubdivisions subdivisions = WLSubdivisions.INSTANCE;
                 final HashMap<String, HashMap<String, HashMap<String, HashSet<String>>>> territoryElections = new HashMap<>();
                 for(Object obj : elections) {
                     final JSONObject electionJSON = (JSONObject) obj;
@@ -47,7 +46,7 @@ public enum Elections implements RestAPI, DataValues {
                                 country = targetCountry != null ? targetCountry.getBackendID() : "unknown";
                             } else if(string.startsWith("state:")) {
                                 final String abbreviation = string.split(":")[1].toUpperCase();
-                                final SovereignStateSubdivision subdivision = subdivisions.valueOfString(abbreviation);
+                                final SovereignStateSubdivision subdivision = WLSubdivisions.valueOfString(abbreviation);
                                 if(subdivision != null) {
                                     territory = subdivision.getName().toLowerCase().replace(" ", "");
                                 }

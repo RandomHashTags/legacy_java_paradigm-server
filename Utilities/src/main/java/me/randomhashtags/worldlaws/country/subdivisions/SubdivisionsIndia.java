@@ -48,7 +48,7 @@ public enum SubdivisionsIndia implements SovereignStateSubdivision { // https://
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             case ANDAMAN_AND_NICOBAR_ISLANDS: return "AN";
             case ANDHRA_PRADESH: return "AP";

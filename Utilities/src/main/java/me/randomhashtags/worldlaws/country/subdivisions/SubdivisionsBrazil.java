@@ -39,7 +39,7 @@ public enum SubdivisionsBrazil implements SovereignStateSubdivision { // https:/
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             case ACRE: return "AC";
             case ALAGOAS: return "AL";

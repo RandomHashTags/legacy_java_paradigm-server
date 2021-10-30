@@ -34,7 +34,7 @@ public enum SubdivisionsPapuaNewGuinea implements SovereignStateSubdivision { //
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             case BOUGAINVILLE: return "NSB";
             case CENTRAL: return "CPM";

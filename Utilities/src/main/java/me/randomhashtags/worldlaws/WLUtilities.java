@@ -29,38 +29,42 @@ public abstract class WLUtilities {
     public static final long WEATHER_EARTHQUAKES_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(30);
     public static final long WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
 
-    private static SSLContext SLL_CONTEXT;
-    public static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssXXX");
+     public static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssXXX");
 
-    public static Document getJsoupDocumentFrom(String url) throws Exception {
-        if(SLL_CONTEXT == null) {
-            final TrustManager[] trustManager = new TrustManager[] {
-                    new X509TrustManager() {
-                        @Override
-                        public void checkClientTrusted(X509Certificate[] x509Certificates, String s) throws CertificateException {
-                        }
-
-                        @Override
-                        public void checkServerTrusted(X509Certificate[] x509Certificates, String s) throws CertificateException {
-                        }
-
-                        @Override
-                        public X509Certificate[] getAcceptedIssuers() {
-                            return null;
-                        }
+    static {
+        final TrustManager[] trustManager = new TrustManager[] {
+                new X509TrustManager() {
+                    @Override
+                    public void checkClientTrusted(X509Certificate[] x509Certificates, String s) throws CertificateException {
                     }
-            };
-            SLL_CONTEXT = SSLContext.getInstance("TLS");
-            SLL_CONTEXT.init(null, trustManager, new SecureRandom());
-            HttpsURLConnection.setDefaultSSLSocketFactory(SLL_CONTEXT.getSocketFactory());
+
+                    @Override
+                    public void checkServerTrusted(X509Certificate[] x509Certificates, String s) throws CertificateException {
+                    }
+
+                    @Override
+                    public X509Certificate[] getAcceptedIssuers() {
+                        return null;
+                    }
+                }
+        };
+        try {
+            final SSLContext context = SSLContext.getInstance("TLSv1.2");
+            context.init(null, trustManager, new SecureRandom());
+            HttpsURLConnection.setDefaultSSLSocketFactory(context.getSocketFactory());
             HttpsURLConnection.setDefaultHostnameVerifier(new HostnameVerifier() {
                 @Override
                 public boolean verify(String host, SSLSession session) {
-                    WLLogger.log(Level.ERROR, "WLUtilities;getJsoupDocumentFrom;url=" + url + ";hostnameVerifier called;host=" + host + ";returned true");
+                    WLLogger.log(Level.ERROR, "WLUtilities;static;HttpsURLConnection.setDefaultHostnameVerifier;verify;host=" + host + ";returned true");
                     return true;
                 }
             });
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
         }
+    }
+
+    public static Document getJsoupDocumentFrom(String url) throws Exception {
         final URL link = new URL(url);
         final HttpsURLConnection connection = (HttpsURLConnection) link.openConnection();
         connection.setHostnameVerifier(HttpsURLConnection.getDefaultHostnameVerifier());

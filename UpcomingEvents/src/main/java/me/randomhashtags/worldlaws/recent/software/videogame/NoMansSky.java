@@ -18,7 +18,7 @@ public enum NoMansSky implements VideoGameUpdateController {
 
     @Override
     public String getCovertArtURL() {
-        return "https://upload.wikimedia.org/wikipedia/en/6/67/No_Man%27s_Sky.jpg";
+        return "https://nmswp.azureedge.net/wp-content/uploads/2021/09/nms-frontiers-book-cover-opt.png";
     }
 
     @Override
@@ -69,7 +69,7 @@ public enum NoMansSky implements VideoGameUpdateController {
                                 final String title = box.select("h1").get(0).text();
                                 final String description = first.select("div.grid__cell-content p").get(0).text().replace(". Read more", "");
                                 sources.append(new EventSource(name + ": " + title, ahref));
-                                final VideoGameUpdate update = new VideoGameUpdate(eventDate, title, description, null, sources);
+                                final VideoGameUpdate update = new VideoGameUpdate(eventDate, title, description, getLatestCoverArtURL(doc), sources);
                                 handler.handleObject(update);
                                 return;
                             }
@@ -79,5 +79,11 @@ public enum NoMansSky implements VideoGameUpdateController {
             }
         }
         handler.handleObject(null);
+    }
+
+    private String getLatestCoverArtURL(Document doc) {
+        final String href = "https://www.nomanssky.com" + doc.selectFirst("nav.nav").selectFirst("ul.menu").selectFirst("li a[href]").attr("href");
+        final Document latest = getDocument(href);
+        return latest.selectFirst("section.section div.section__content img.no-lazy").attr("src");
     }
 }

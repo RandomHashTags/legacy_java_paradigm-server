@@ -328,14 +328,14 @@ public enum WLCountry {
         return WLFlagEmoji.INSTANCE.get(this);
     }
     public SovereignStateSubdivision[] getSubdivisions() {
-        return WLSubdivisions.INSTANCE.get(this);
+        return WLSubdivisions.get(this);
     }
     public SovereignStateSubdivision valueOfSovereignStateSubdivision(String name) {
         if(name != null) {
             final SovereignStateSubdivision[] subdivisions = getSubdivisions();
             if(subdivisions != null) {
                 for(SovereignStateSubdivision subdivision : subdivisions) {
-                    if(name.equalsIgnoreCase(subdivision.name()) || name.equalsIgnoreCase(subdivision.getBackendID()) || name.equalsIgnoreCase(subdivision.getName()) || name.equalsIgnoreCase(subdivision.getPostalCodeAbbreviation())) {
+                    if(name.equalsIgnoreCase(subdivision.name()) || name.equalsIgnoreCase(subdivision.getBackendID()) || name.equalsIgnoreCase(subdivision.getName()) || name.equalsIgnoreCase(subdivision.getISOAlpha2())) {
                         return subdivision;
                     }
                 }

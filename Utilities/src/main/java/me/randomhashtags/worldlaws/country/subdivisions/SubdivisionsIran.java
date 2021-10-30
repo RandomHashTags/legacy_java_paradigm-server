@@ -43,7 +43,7 @@ public enum SubdivisionsIran implements SovereignStateSubdivision { // https://e
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             default: return null;
         }

@@ -70,7 +70,7 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             case ALABAMA: return "AL";
             case ALASKA: return "AK";
@@ -140,7 +140,7 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
             case TEXAS:
                 return "https://" + name().toLowerCase() + ".gov";
             default:
-                return "https://" + getPostalCodeAbbreviation().toLowerCase() + ".gov";
+                return "https://" + getISOAlpha2().toLowerCase() + ".gov";
         }
     }
 

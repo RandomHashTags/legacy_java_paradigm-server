@@ -44,7 +44,7 @@ public enum SubdivisionsDominicanRepublic implements SovereignStateSubdivision {
     }
 
     @Override
-    public String getPostalCodeAbbreviation() {
+    public String getISOAlpha2() {
         switch (this) {
             default: return null;
         }

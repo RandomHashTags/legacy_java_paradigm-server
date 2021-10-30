@@ -56,7 +56,6 @@ public enum Flyover implements AppleFeatureAvailability {
             @Override
             public void load(CompletionHandler handler) {
                 final Elements elements = getSectionElements(AppleFeatureType.IOS, "maps-flyover");
-                final WLSubdivisions subdivisions = WLSubdivisions.INSTANCE;
                 final HashMap<String, HashMap<String, List<FlyoverObj>>> flyoversMap = new HashMap<>();
                 for(Element element : elements) {
                     final String[] values = element.text().split(", ");
@@ -64,7 +63,7 @@ public enum Flyover implements AppleFeatureAvailability {
                     if(max == 2) {
                         String countryBackendID = values[1].replace("England", "United Kingdom");
                         final String territory;
-                        final SovereignStateSubdivision subdivision = subdivisions.valueOfString(countryBackendID);
+                        final SovereignStateSubdivision subdivision = WLSubdivisions.valueOfString(countryBackendID);
                         if(subdivision != null) {
                             territory = subdivision.getName();
                             countryBackendID = subdivision.getCountry().getShortName();
