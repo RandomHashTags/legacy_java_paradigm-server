@@ -121,14 +121,6 @@ public abstract class WLUtilities {
         return LocalDate.now(Clock.systemUTC());
     }
 
-    public static void catchErrors(CompletionErrorHandler handler) {
-        try {
-            handler.call();
-        } catch (Exception e) {
-            saveException(e);
-        }
-    }
-
     public static void saveException(Exception exception) {
         String message = exception.getLocalizedMessage();
         if(message == null) {

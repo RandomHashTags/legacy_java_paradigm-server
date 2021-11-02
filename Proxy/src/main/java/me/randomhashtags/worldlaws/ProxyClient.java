@@ -36,18 +36,20 @@ public final class ProxyClient extends Thread implements RestAPI {
                 final APIVersion version = APIVersion.valueOfInput(target.split("/")[0]);
                 final HashSet<String> query = getQuery(target);
                 final TargetServer targetServer = TargetServer.valueOfBackendID(finalTarget.split("/")[1]);
-                targetServer.sendResponse(version, identifier, RequestMethod.GET, finalTarget, query, new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        final boolean connected = string != null;
-                        WLLogger.logInfo(prefix + (connected ? "Connected" : "Failed to connect") + " to \"" + target + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                        if(connected) {
-                            final String response = DataValues.HTTP_SUCCESS_200 + string;
-                            writeOutput(client, response);
+                if(targetServer != null) {
+                    targetServer.sendResponse(version, identifier, RequestMethod.GET, finalTarget, query, new CompletionHandler() {
+                        @Override
+                        public void handleString(String string) {
+                            final boolean connected = string != null;
+                            WLLogger.logInfo(prefix + (connected ? "Connected" : "Failed to connect") + " to \"" + target + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                            if(connected) {
+                                final String response = DataValues.HTTP_SUCCESS_200 + string;
+                                writeOutput(client, response);
+                            }
                         }
-                    }
-                });
-                return;
+                    });
+                    return;
+                }
             }
         }
         WLLogger.logWarning(prefix + "INVALID");

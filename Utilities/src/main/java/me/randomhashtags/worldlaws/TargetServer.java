@@ -93,52 +93,54 @@ public enum TargetServer implements RestAPI, DataValues {
                 getHomeResponse(version, method, headers, query, handler);
                 break;
             case COMBINE:
-                final String versionName = version.name(), serverName = getBackendID();
-                request = request.substring(versionName.length() + serverName.length() + 2);
-                final String[] values = request.split("&&");
-                final int max = values.length;
-                final AtomicInteger completed = new AtomicInteger(0);
-                final ConcurrentHashMap<String, String> responses = new ConcurrentHashMap<>();
-                final CompletionHandler completionHandler = new CompletionHandler() {
-                    @Override
-                    public void handleStringValue(String key, String value) {
-                        if(value != null) {
-                            responses.put(key, value);
-                        }
-                        if(completed.addAndGet(1) == max) {
-                            final StringBuilder builder = new StringBuilder("{");
-                            boolean isFirst = true;
-                            for(Map.Entry<String, String> map : responses.entrySet()) {
-                                builder.append(isFirst ? "" : ",").append("\"").append(map.getKey()).append("\"").append(":").append(map.getValue());
-                                isFirst = false;
-                            }
-                            builder.append("}");
-                            handler.handleString(builder.toString());
-                        }
-                    }
-                };
-                Arrays.asList(values).parallelStream().forEach(value -> {
-                    final String[] target = value.split("/");
-                    final String apiVersionString = target[0], serverBackendID = target[1];
-                    final APIVersion apiVersion = APIVersion.valueOfInput(apiVersionString);
-                    final String url = value.substring(apiVersionString.length() + serverBackendID.length() + 2);
-                    final TargetServer server = TargetServer.valueOfBackendID(serverBackendID);
-                    if(server != null) {
-                        server.sendResponse(apiVersion, identifier, method, value, null, new CompletionHandler() {
-                            @Override
-                            public void handleString(String string) {
-                                completionHandler.handleStringValue(value, string);
-                            }
-                        });
-                    } else {
-                        completionHandler.handleStringValue(value, null);
-                    }
-                });
+                getCombinedResponse(version, identifier, method, request, handler);
                 break;
             default:
                 handleResponse(version, method, request, headers, handler);
                 break;
         }
+    }
+    private void getCombinedResponse(APIVersion version, String identifier, RequestMethod method, String request, CompletionHandler handler) {
+        final String versionName = version.name(), serverName = getBackendID();
+        request = request.substring(versionName.length() + serverName.length() + 2);
+        final String[] values = request.split("&&");
+        final int max = values.length;
+        final AtomicInteger completed = new AtomicInteger(0);
+        final ConcurrentHashMap<String, String> responses = new ConcurrentHashMap<>();
+        final CompletionHandler completionHandler = new CompletionHandler() {
+            @Override
+            public void handleStringValue(String key, String value) {
+                if(value != null) {
+                    responses.put(key, value);
+                }
+                if(completed.addAndGet(1) == max) {
+                    final StringBuilder builder = new StringBuilder("{");
+                    boolean isFirst = true;
+                    for(Map.Entry<String, String> map : responses.entrySet()) {
+                        builder.append(isFirst ? "" : ",").append("\"").append(map.getKey()).append("\"").append(":").append(map.getValue());
+                        isFirst = false;
+                    }
+                    builder.append("}");
+                    handler.handleString(builder.toString());
+                }
+            }
+        };
+        Arrays.asList(values).parallelStream().forEach(value -> {
+            final String[] target = value.split("/");
+            final String apiVersionString = target[0], serverBackendID = target[1];
+            final APIVersion apiVersion = APIVersion.valueOfInput(apiVersionString);
+            final TargetServer server = TargetServer.valueOfBackendID(serverBackendID);
+            if(server != null) {
+                server.sendResponse(apiVersion, identifier, method, value, null, new CompletionHandler() {
+                    @Override
+                    public void handleString(String string) {
+                        completionHandler.handleStringValue(value, string);
+                    }
+                });
+            } else {
+                completionHandler.handleStringValue(value, null);
+            }
+        });
     }
     private void handleResponse(APIVersion version, RequestMethod method, String request, HashMap<String, String> headers, CompletionHandler handler) {
         final String versionName = version.name(), serverName = getBackendID();
@@ -153,7 +155,6 @@ public enum TargetServer implements RestAPI, DataValues {
     private String getPingResponse() {
         if(pingResponseCache == null) {
             final JSONObject json = new JSONObject(), responseVersions = new JSONObject();
-
             for(TargetServer server : values()) {
                 if(server.port > 0) {
                     responseVersions.put(server.getBackendID(), server.getResponseVersion());
