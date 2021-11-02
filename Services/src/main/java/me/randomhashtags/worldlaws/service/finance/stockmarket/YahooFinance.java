@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.service.finance.stockmarket;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.service.JSONDataValue;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -153,7 +152,7 @@ public enum YahooFinance implements StockService {
                         }
                         builder.append("}");
                         final String string = builder.toString();
-                        WLLogger.log(Level.INFO, "YahooFinance - loaded " + max + " quotes (took " + (System.currentTimeMillis()-started) + "ms)");
+                        WLLogger.logInfo("YahooFinance - loaded " + max + " quotes (took " + (System.currentTimeMillis()-started) + "ms)");
                         handler.handleString(string);
                     }
                 }
@@ -212,7 +211,7 @@ public enum YahooFinance implements StockService {
                     jsonObject.put("" + timestamp, price);
                     if(completed.addAndGet(1) == max) {
                         jsonObject.put("request_epoch", started);
-                        WLLogger.log(Level.INFO, "YahooFinance - " + (refresh ? "refreshed" : "loaded") + " chart for symbol \"" + symbol + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                        WLLogger.logInfo("YahooFinance - " + (refresh ? "refreshed" : "loaded") + " chart for symbol \"" + symbol + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                         handler.handleJSONObject(jsonObject);
                     }
                 });

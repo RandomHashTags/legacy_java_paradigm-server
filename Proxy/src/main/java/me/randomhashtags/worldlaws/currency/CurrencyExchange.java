@@ -4,7 +4,6 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.WLLogger;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -77,7 +76,7 @@ public enum CurrencyExchange implements RestAPI {
                 builder.append("]");
                 final String string = builder.toString();
                 exchangeRates.put(year, string);
-                WLLogger.log(Level.INFO, "CurrencyExchange - refreshed rates for year " + year + " (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.logInfo("CurrencyExchange - refreshed rates for year " + year + " (took " + (System.currentTimeMillis()-started) + "ms)");
                 handler.handleString(string);
             }
         });

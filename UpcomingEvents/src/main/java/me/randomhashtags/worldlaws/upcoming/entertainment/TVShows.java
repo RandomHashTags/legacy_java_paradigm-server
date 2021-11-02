@@ -4,7 +4,6 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.TVShowEvent;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -116,7 +115,7 @@ public final class TVShows extends LoadedUpcomingEventController {
         final String string = showNames.toString();
         showNamesCache = string;
         setFileJSON(Folder.UPCOMING_EVENTS_TV_SHOWS, "ids", string);
-        WLLogger.log(Level.INFO, "TVShows - updated all show names (took " + (System.currentTimeMillis()-started) +"ms)");
+        WLLogger.logInfo("TVShows - updated all show names (took " + (System.currentTimeMillis()-started) +"ms)");
         if(handler != null) {
             handler.handleJSONObject(showNames);
         }

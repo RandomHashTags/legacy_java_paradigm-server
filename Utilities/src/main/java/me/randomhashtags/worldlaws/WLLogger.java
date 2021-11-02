@@ -12,14 +12,18 @@ public abstract class WLLogger {
         Configurator.setLevel("WLLogger", Level.DEBUG);
     }
 
-    public static void log(Level level, String msg) {
-        log(level, msg, true);
+    public static void logError(Object inputClass, String msg) {
+        log(Level.ERROR, msg);
+        final String name = inputClass instanceof String ? (String) inputClass : inputClass.getClass().getSimpleName();
+        WLUtilities.saveLoggedError(name, msg);
     }
-    public static void log(Level level, String msg, boolean validate) {
-        if(validate && level == Level.ERROR) {
-            WLUtilities.saveLoggedError(msg);
-        } else {
-            LOGGER.log(level, msg);
-        }
+    public static void logWarning(String msg) {
+        log(Level.WARN, msg);
+    }
+    public static void logInfo(String msg) {
+        log(Level.INFO, msg);
+    }
+    public static void log(Level level, String msg) {
+        LOGGER.log(level, msg);
     }
 }

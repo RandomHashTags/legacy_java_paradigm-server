@@ -12,7 +12,6 @@ import me.randomhashtags.worldlaws.country.usa.state.unfinished.Connecticut;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.Indiana;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.NorthCarolina;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.Oregon;
-import org.apache.logging.log4j.Level;
 
 import java.time.LocalDate;
 import java.util.Arrays;
@@ -102,14 +101,13 @@ public final class USLaws extends LawController {
                 final String[] subdivisionValues = input.substring(key.length()+1).split("/");
                 String response = getSubdivisionResponse(subdivisionValues);
                 if(response == null) {
-                    WLLogger.log(Level.ERROR, "USLaws - getSubdivisionResponse(" + input + ") == null!");
-                    response = "{}";
+                    WLLogger.logError(this, "getSubdivisionResponse(" + input + ") == null!");
                 }
                 handler.handleString(response);
                 break;
             default:
-                WLLogger.log(Level.ERROR, "USLaws - getResponse(" + input + ") == null!");
-                handler.handleString("{}");
+                WLLogger.logError(this, "getResponse(" + input + ") == null!");
+                handler.handleString(null);
                 break;
         }
     }

@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.service;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.DataValues;
 import me.randomhashtags.worldlaws.WLLogger;
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
 import java.time.Clock;
@@ -55,7 +54,7 @@ public interface QuotaHandler extends DataValues {
                     QUOTA_REQUESTS.put(identifier, QUOTA_REQUESTS.get(identifier) + amount);
                     handler.handleObject(null);
                 } else {
-                    WLLogger.log(Level.WARN, "QuotaHandler - cannot make \"" + identifier + "\" request due to reaching max allowed quota requests!");
+                    WLLogger.logError("QuotaHandler", "cannot make \"" + identifier + "\" request due to reaching max allowed quota requests!");
                     handler.handleFail();
                 }
             }

@@ -4,7 +4,6 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.info.service.CountryService;
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -66,7 +65,7 @@ public final class WikipediaCountryService implements CountryService {
                 @Override
                 public void handleJSONObject(JSONObject json) {
                     final String string = json != null ? new CountryServiceValue(self, json.toString()).toString() : null;
-                    WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + tag + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.logInfo(getInfo().name() + " - loaded \"" + tag + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                     sovereignStates.put(tag, string);
                     handler.handleServiceResponse(self, string);
                 }
@@ -88,7 +87,7 @@ public final class WikipediaCountryService implements CountryService {
         final Elements metadataParagraphs = document.select("div.mw-parser-output table.metadata + p");
         final Element element = !infoboxParagraphs.isEmpty() ? infoboxParagraphs.get(0) : !metadataParagraphs.isEmpty() ? metadataParagraphs.get(0) : null;
         if(element == null) {
-            WLLogger.log(Level.WARN, "WikipediaCountryService - missing paragraph for country \"" + tag + "\"!");
+            WLLogger.logError(this, "missing paragraph for country \"" + tag + "\"!");
             handler.handleString(null);
         } else {
             String firstParagraph = removeReferences(element.text()).replace(" (listen)", "").replace("(listen)", "").replace(" (listen to all)", "").replace("(listen to all)", "");
@@ -203,7 +202,7 @@ public final class WikipediaCountryService implements CountryService {
                     builder.append("}");
                     handler.handleString(builder.toString());
                 } else {
-                    WLLogger.log(Level.WARN, "WikipediaCountryService - missing Featured Pictures for country \"" + country + "\"");
+                    WLLogger.logError(this, "missing Featured Pictures for country \"" + country + "\"");
                     handler.handleString(null);
                 }
             }

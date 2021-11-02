@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws.service;
 
 import me.randomhashtags.worldlaws.*;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -70,7 +69,7 @@ public enum NewsAPIDotOrg implements NewsService {
                 builder.append("]");
                 final String json = builder.toString();
                 countryHeadlines.put(countryISOAlpha2, json);
-                WLLogger.log(Level.INFO, "NewsAPIDotOrg - refreshed top headlines" + (countryISOAlpha2 != null ? " for country ISO Alpha2 \"" + countryISOAlpha2 + "\"" : "") + " (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.logInfo("NewsAPIDotOrg - refreshed top headlines" + (countryISOAlpha2 != null ? " for country ISO Alpha2 \"" + countryISOAlpha2 + "\"" : "") + " (took " + (System.currentTimeMillis()-started) + "ms)");
                 handler.handleString(json);
             }
         });

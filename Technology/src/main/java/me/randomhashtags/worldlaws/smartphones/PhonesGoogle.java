@@ -4,7 +4,6 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLLogger;
-import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -77,7 +76,7 @@ public enum PhonesGoogle implements SmartphoneCompany {
         builder.append("]");
         final String string = builder.toString();
         modelsList = string;
-        WLLogger.log(Level.INFO, "PhonesGoogle - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("PhonesGoogle - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
         handler.handleString(string);
     }
     private List<Smartphone> getPhonesFromTable(Element table, String url) {

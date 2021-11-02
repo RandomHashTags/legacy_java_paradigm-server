@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.service.science.astronomy;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
 import java.util.HashMap;
@@ -33,7 +32,7 @@ public enum AstronomyPictureOfTheDay implements WLService {
                     json.remove("service_version");
                     final String string = json.toString();
                     cache.put(version, string);
-                    WLLogger.log(Level.INFO, "AstronomyPictureOfTheDay - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.logInfo("AstronomyPictureOfTheDay - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
                     handler.handleString(string);
                 }
             });

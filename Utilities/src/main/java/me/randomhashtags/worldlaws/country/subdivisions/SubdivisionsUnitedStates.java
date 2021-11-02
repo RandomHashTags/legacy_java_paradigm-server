@@ -62,6 +62,10 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
     WEST_VIRGINA,
     WISCONSIN,
     WYOMING,
+
+    WASHINGTON_DC,
+    PUERTO_RICO,
+    GUAM,
     ;
 
     @Override
@@ -122,6 +126,10 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
             case WEST_VIRGINA: return "WV";
             case WISCONSIN: return "WI";
             case WYOMING: return "WY";
+
+            case WASHINGTON_DC: return "DC";
+            case PUERTO_RICO: return WLCountry.PUERTO_RICO.getISOAlpha2();
+            case GUAM: return WLCountry.GUAM.getISOAlpha2();
             default: return null;
         }
     }

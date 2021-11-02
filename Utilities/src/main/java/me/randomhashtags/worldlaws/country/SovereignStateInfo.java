@@ -115,6 +115,7 @@ public enum SovereignStateInfo {
     LEGALITY_PROSTITUTION("Prostitution"),
     LEGALITY_SMOKING_AGE("Smoking"),
 
+    NATIONAL_ANTHEM("National Anthem"),
     NATIONAL_CAPITAL("National Capital"),
 
     RANKING_ADULT_HIV_PREVALENCE("Adult HIV Prevalence"),

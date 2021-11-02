@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import org.apache.logging.log4j.Level;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -40,16 +39,16 @@ public interface Jsoupable {
         final String directory = folderPath + fileSeparator + fixURL(fileName) + ".txt";
         final Path path = Paths.get(directory);
         if(!Files.exists(path)) {
-            WLLogger.log(Level.INFO, "Jsoupable - creating document at path " + path.toAbsolutePath().toString());
+            WLLogger.logInfo("Jsoupable - creating document at path " + path.toAbsolutePath().toString());
             Jsonable.tryCreatingParentFolders(path);
             try {
                 Files.writeString(path, html, StandardCharsets.UTF_8);
             } catch (Exception e) {
-                WLLogger.log(Level.WARN, "Jsoupable - createDocument(" + fileName + ") - error writing to file!");
+                WLLogger.logError("Jsoupable", "createDocument - error writing to file \"" + fileName + "\" at \"" + directory + "\"!");
                 WLUtilities.saveException(e);
             }
         } else {
-            WLLogger.log(Level.WARN, "Jsoupable - createDocument(" + fileName + ") - already exists at " + directory + "!");
+            WLLogger.logError("Jsoupable", "createDocument - file \"" + fileName + "\" already exists at " + directory + "!");
         }
     }
 
@@ -137,11 +136,11 @@ public interface Jsoupable {
         return doc;
     }
     private static Document requestDocument(String url) {
-        WLLogger.log(Level.INFO, "Jsoupable - making request to \"" + url + "\"");
+        WLLogger.logInfo("Jsoupable - making request to \"" + url + "\"");
         try {
             return WLUtilities.getJsoupDocumentFrom(url);
         } catch (Exception e) {
-            WLLogger.log(Level.WARN, "Jsoupable - requestDocument(" + url + ") - error getting document! (" + e.getClass().getSimpleName() + ", " + e.getLocalizedMessage() + ")");
+            WLLogger.logWarning("Jsoupable - requestDocument(" + url + ") - error getting document! (" + e.getClass().getSimpleName() + ", " + e.getLocalizedMessage() + ")");
             WLUtilities.saveException(e);
             return null;
         }

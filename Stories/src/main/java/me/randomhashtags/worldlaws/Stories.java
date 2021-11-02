@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.news.NewsCBS;
 import me.randomhashtags.worldlaws.stories.Story;
-import org.apache.logging.log4j.Level;
 
 import java.util.HashSet;
 
@@ -19,7 +18,7 @@ public final class Stories {
                     isFirst = false;
                 }
                 builder.append("}");
-                WLLogger.log(Level.INFO, "Stories;test;builder=" + builder.toString());
+                WLLogger.logInfo("Stories;test;builder=" + builder.toString());
             }
         });
     }

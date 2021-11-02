@@ -25,12 +25,24 @@ public final class Feedback implements WLServer, Jsonable {
         final String key = values[0];
         final String fileName = Long.toString(System.currentTimeMillis());
         switch (key) {
-            case "bug_report":
-                setFileJSON(Folder.FEEDBACK_BUG_REPORTS, fileName, "{\"text\":\"test\"}");
+            case "submit":
+                switch (values[1]) {
+                    case "bug_report":
+                        submit(Folder.FEEDBACK_BUG_REPORTS, fileName);
+                        break;
+                    case "feature_request":
+                        submit(Folder.FEEDBACK_FEATURE_REQUEST, fileName);
+                        break;
+                    default:
+                        break;
+                }
                 break;
-            case "feature_request":
-                setFileJSON(Folder.FEEDBACK_FEATURE_REQUEST, fileName, "{\"text\":\"test\"}");
-                break;
+            case "bug_reports":
+                handler.handleString(getAllBugReports());
+                return;
+            case "feature_requests":
+                handler.handleString(getAllFeatureRequests());
+                return;
             default:
                 break;
         }
@@ -47,6 +59,10 @@ public final class Feedback implements WLServer, Jsonable {
         return null;
     }
 
+    private void submit(Folder folder, String fileName) {
+        setFileJSON(folder, fileName, "{\"text\":\"test\"}");
+    }
+
     private String getText(String[] headers) {
         final String target = "Text: ";
         for(String string : headers) {
@@ -54,6 +70,13 @@ public final class Feedback implements WLServer, Jsonable {
                 return string.substring(target.length());
             }
         }
+        return null;
+    }
+
+    private String getAllBugReports() {
+        return null;
+    }
+    private String getAllFeatureRequests() {
         return null;
     }
 }

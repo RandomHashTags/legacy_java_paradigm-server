@@ -6,7 +6,6 @@ import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.country.SovereignStateService;
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -44,7 +43,7 @@ public interface CountryService extends SovereignStateService {
                 public void handleJSONObject(JSONObject json) {
                     COUNTRY_SERVICE_JSON_VALUES.put(info, json);
                     final String string = json.has(countryBackendID) ? json.getJSONObject(countryBackendID).toString() : null;
-                    WLLogger.log(Level.INFO, fileName + " - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.logInfo(fileName + " - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
                     handler.handleServiceResponse(self, string);
                 }
             });

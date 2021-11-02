@@ -4,7 +4,6 @@ import me.randomhashtags.worldlaws.service.education.WordOfTheDay;
 import me.randomhashtags.worldlaws.service.finance.stockmarket.StockService;
 import me.randomhashtags.worldlaws.service.finance.stockmarket.YahooFinance;
 import me.randomhashtags.worldlaws.service.science.astronomy.AstronomyPictureOfTheDay;
-import org.apache.logging.log4j.Level;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -120,7 +119,7 @@ public final class Services implements WLServer {
                         builder.append("}");
                         value = builder.toString();
                     }
-                    WLLogger.log(Level.INFO, "Services - loaded stock market home response (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.logInfo("Services - loaded stock market home response (took " + (System.currentTimeMillis()-started) + "ms)");
                     handler.handleString(value);
                 }
             }

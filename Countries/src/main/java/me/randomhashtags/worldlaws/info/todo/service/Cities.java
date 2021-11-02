@@ -6,7 +6,6 @@ import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.info.service.CountryService;
-import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -70,6 +69,6 @@ public enum Cities implements CountryService {
 
     private void loadCities(String country, CompletionHandler handler) {
         final String url = countries.get(country);
-        WLLogger.log(Level.INFO, "Cities;country=" + country + ";url=" + url);
+        WLLogger.logInfo("Cities;country=" + country + ";url=" + url);
     }
 }

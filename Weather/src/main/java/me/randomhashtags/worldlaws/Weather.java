@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.earthquakes.Earthquakes;
 import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
 import me.randomhashtags.worldlaws.tracker.NASA_EONET;
-import org.apache.logging.log4j.Level;
 
 public final class Weather implements WLServer {
     public static final Weather INSTANCE = new Weather();
@@ -26,7 +25,7 @@ public final class Weather implements WLServer {
         Earthquakes.INSTANCE.getResponse(new String[] { "recent" }, new CompletionHandler() {
             @Override
             public void handleString(String string) {
-                WLLogger.log(Level.INFO, "Weather;test;string=" + string);
+                WLLogger.logInfo("Weather;test;string=" + string);
             }
         });
     }

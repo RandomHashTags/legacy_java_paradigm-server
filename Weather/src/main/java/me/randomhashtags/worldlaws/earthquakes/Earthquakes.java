@@ -5,7 +5,6 @@ import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.WLSubdivisions;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -155,7 +154,7 @@ public enum Earthquakes implements RestAPI {
         return string;
     }
     private void completeRefresh(boolean isAutoUpdate, long started, String string, CompletionHandler handler) {
-        WLLogger.log(Level.INFO, "Earthquakes - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("Earthquakes - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
         if(handler != null) {
             handler.handleString(string);
         }

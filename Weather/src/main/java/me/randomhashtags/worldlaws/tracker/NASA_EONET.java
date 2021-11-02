@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.tracker;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.*;
 import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionsUnitedStates;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -157,7 +156,7 @@ public enum NASA_EONET implements WLService {
                                 string = builder.toString();
                             }
                             cache.put(version, string);
-                            WLLogger.log(Level.INFO, "NASA_EONET - loaded " + homeValues.size() + " events (took " + (System.currentTimeMillis()-started) + "ms)");
+                            WLLogger.logInfo("NASA_EONET - loaded " + homeValues.size() + " events (took " + (System.currentTimeMillis()-started) + "ms)");
                             if(handler != null) {
                                 handler.handleString(string);
                             }

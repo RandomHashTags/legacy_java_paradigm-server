@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -93,7 +92,7 @@ public interface RestAPI {
         }
         targetURL = target.toString();
 
-        WLLogger.log(Level.INFO, "RestAPI - making " + (isLocal ? "local " : "") + "request to \"" + targetURL + "\"");
+        WLLogger.logInfo("RestAPI - making " + (isLocal ? "local " : "") + "request to \"" + targetURL + "\"");
         if(isLimited && !isLocal) {
             if(PENDING_SAME_REQUESTS.containsKey(targetURL)) {
                 PENDING_SAME_REQUESTS.get(targetURL).add(handler);
@@ -142,7 +141,7 @@ public interface RestAPI {
                 reader.close();
                 responseString = response.toString();
             } else {
-                WLLogger.log(Level.ERROR, "RestAPI - invalid response code (" + responseCode + ") for url \"" + targetURL + "\"!");
+                WLLogger.logError("RestAPI", "invalid response code (" + responseCode + ") for url \"" + targetURL + "\"!");
             }
             handler.handleString(responseString);
             if(PENDING_SAME_REQUESTS.containsKey(targetURL)) {
@@ -156,7 +155,7 @@ public interface RestAPI {
         } catch (Exception e) {
             if(!isLocal) {
                 final StackTraceElement[] stackTrace = e.getStackTrace();
-                WLLogger.log(Level.ERROR, "[REST API] - \"(" + stackTrace[0].getClassName() + ") " + e.getMessage() + " with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
+                WLLogger.logWarning("[REST API] - \"(" + stackTrace[0].getClassName() + ") " + e.getMessage() + " with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
                 WLUtilities.saveException(e);
             }
             handler.handleString(null);

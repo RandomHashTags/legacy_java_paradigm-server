@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.usa.USLaws;
 import me.randomhashtags.worldlaws.country.usa.state.Minnesota;
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
 import java.util.HashMap;
@@ -34,7 +33,7 @@ public final class Laws implements WLServer {
         final JSONObject json = new JSONObject(minnesota.getIndexesJSON());
         for(String key : json.keySet()) {
             final String string = minnesota.getTableOfChapters(key);
-            WLLogger.log(Level.INFO, "Laws;test;string=" + string);
+            WLLogger.logInfo("Laws;test;string=" + string);
             break;
         }
     }
@@ -61,7 +60,7 @@ public final class Laws implements WLServer {
                         return;
                     }
                 }
-                handler.handleString("{}");
+                handler.handleString(null);
                 break;
             default:
                 if(values.length >= 2) {

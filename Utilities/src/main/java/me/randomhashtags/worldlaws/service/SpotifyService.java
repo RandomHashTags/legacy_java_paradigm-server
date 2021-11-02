@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.service;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -79,7 +78,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
                 final int expireDuration = json.getInt("expires_in") * 1_000;
                 json.put("expiration", requestTime + expireDuration);
                 json.remove("expires_in");
-                WLLogger.log(Level.INFO, "DataValues - refreshed Spotify Access Token (took " + (System.currentTimeMillis()-requestTime) + "ms)");
+                WLLogger.logInfo("DataValues - refreshed Spotify Access Token (took " + (System.currentTimeMillis()-requestTime) + "ms)");
                 handler.handleJSONObject(json);
             }
         });
@@ -144,7 +143,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
                                             }
                                         }
                                     }
-                                    final String completedString = "SpotifyService - %status% album with name \"" + album + "\" with artists " + artists.toString() + " (took %time%ms)";
+                                    final String completedString = "%status% album with name \"" + album + "\" with artists " + artists.toString() + " (took %time%ms)";
                                     if(targetJSON != null) {
                                         final String availableMarketsKey = "available_markets";
                                         final JSONArray availableMarketsArray = targetJSON.getJSONArray(availableMarketsKey);
@@ -161,12 +160,12 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
                                             if(completed.addAndGet(1) == max) {
                                                 finalTargetJSON.remove(availableMarketsKey);
                                                 finalTargetJSON.put("available_countries", availableCountries);
-                                                WLLogger.log(Level.INFO, completedString.replace("%time%", "" + (System.currentTimeMillis()-started)).replace("%status%", "loaded"));
+                                                WLLogger.logInfo(completedString.replace("%time%", "" + (System.currentTimeMillis()-started)).replace("%status%", "loaded"));
                                                 handler.handleJSONObject(finalTargetJSON);
                                             }
                                         });
                                     } else {
-                                        WLLogger.log(Level.ERROR, completedString.replace("%time%", "" + (System.currentTimeMillis()-started)).replace("%status%", "failed to load"));
+                                        WLLogger.logError("SpotifyService", completedString.replace("%time%", "" + (System.currentTimeMillis()-started)).replace("%status%", "failed to load"));
                                         handler.handleJSONObject(null);
                                     }
                                 } else {

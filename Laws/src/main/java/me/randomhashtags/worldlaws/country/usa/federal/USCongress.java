@@ -6,7 +6,6 @@ import me.randomhashtags.worldlaws.country.usa.USBillStatus;
 import me.randomhashtags.worldlaws.country.usa.USChamber;
 import me.randomhashtags.worldlaws.country.usa.USLaws;
 import me.randomhashtags.worldlaws.country.usa.USPoliticians;
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -70,7 +69,7 @@ public enum USCongress implements Jsoupable, Jsonable {
                 public void handleJSONObject(JSONObject json) {
                     final String string = json.toString();
                     statuses.put(status, string);
-                    WLLogger.log(Level.INFO, "USCongress - loaded" + suffix.replace("%time%", Long.toString(System.currentTimeMillis()-started)));
+                    WLLogger.logInfo("USCongress - loaded" + suffix.replace("%time%", Long.toString(System.currentTimeMillis()-started)));
                     handler.handleString(string);
                 }
             });
@@ -184,7 +183,7 @@ public enum USCongress implements Jsoupable, Jsonable {
         if(enactedBills.containsKey(version)) {
             handler.handleString(enactedBills.get(version));
         } else if(isCurrentAdministration()) {
-            WLLogger.log(Level.ERROR, "USCongress - tried to get enacted bills for current administration, which is illegal!");
+            WLLogger.logError(this, "getEnactedBills - tried to get enacted bills for current administration, which is illegal!");
             handler.handleString(null);
         } else {
             final long started = System.currentTimeMillis();
@@ -253,8 +252,8 @@ public enum USCongress implements Jsoupable, Jsonable {
                         builder.append("}");
                         handler.handleString(builder.toString());
                     } else {
-                        WLLogger.log(Level.ERROR, "USCongress - failed to get enacted bills document for congress " + version + "!");
-                        handler.handleString("{}");
+                        WLLogger.logError(this, "getEnactedBills - failed to get enacted bills document for congress " + version + "!");
+                        handler.handleString(null);
                     }
                 }
 
@@ -262,7 +261,7 @@ public enum USCongress implements Jsoupable, Jsonable {
                 public void handleJSONObject(JSONObject json) {
                     final String string = json.toString();
                     enactedBills.put(versionInt, string);
-                    WLLogger.log(Level.INFO, "USCongress - loaded enacted bills for congress " + version + " (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.logInfo("USCongress - loaded enacted bills for congress " + version + " (took " + (System.currentTimeMillis()-started) + "ms)");
                     handler.handleString(string);
                 }
             });
@@ -294,7 +293,7 @@ public enum USCongress implements Jsoupable, Jsonable {
                         final String billType = billTypeText.startsWith("S.J.RES.") ? "sjres" : billTypeText.startsWith("S.") ? "s" : billTypeText.startsWith("H.R.") ? "hr" : billTypeText.startsWith("H.J.RES.") ? "hjres" : null;
                         if(billType == null) {
                             pdfURL = null;
-                            WLLogger.log(Level.ERROR, "USCongress - failed to get billType for bill \"" + id + "\" (" + title[0] + "), billTypeText=\"" + billTypeText + "\"!");
+                            WLLogger.logError(this, "getBill - failed to get billType for bill \"" + id + "\" (" + title[0] + "), billTypeText=\"" + billTypeText + "\"!");
                         } else {
                             pdfURL = "https://www.congress.gov/" + versionInt + "/bills/" + billType + id + "/BILLS-" + versionInt + billType + id + "enr.pdf";
                         }
@@ -327,7 +326,7 @@ public enum USCongress implements Jsoupable, Jsonable {
                 public void handleJSONObject(JSONObject json) {
                     final String string = json.toString();
                     bills.put(id, string);
-                    WLLogger.log(Level.INFO, "USCongress - loaded bill from chamber \"" + chamberName + "\" with title \"" + title[0] + "\" for congress " + versionInt + " (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.logInfo("USCongress - loaded bill from chamber \"" + chamberName + "\" with title \"" + title[0] + "\" for congress " + versionInt + " (took " + (System.currentTimeMillis()-started) + "ms)");
                     handler.handleString(string);
                 }
             });
@@ -386,28 +385,29 @@ public enum USCongress implements Jsoupable, Jsonable {
                 final USPoliticians politicians = USPoliticians.INSTANCE;
                 final HashSet<String> cosponsors = new HashSet<>();
                 final AtomicInteger completed = new AtomicInteger(0);
+                final CompletionHandler completionHandler = new CompletionHandler() {
+                    @Override
+                    public void handleString(String string) {
+                        cosponsors.add(string);
+                        if(completed.addAndGet(1) == max) {
+                            String value = null;
+                            if(!cosponsors.isEmpty()) {
+                                final StringBuilder builder = new StringBuilder("[");
+                                boolean isFirst = true;
+                                for(String cosponsor : cosponsors) {
+                                    builder.append(isFirst ? "" : ",").append(cosponsor);
+                                    isFirst = false;
+                                }
+                                builder.append("]");
+                                value = builder.toString();
+                            }
+                            handler.handleString(value);
+                        }
+                    }
+                };
                 table.parallelStream().forEach(elements -> {
                     final String profileSlug = elements.attr("href").split("https://www\\.congress\\.gov")[1];
-                    politicians.get(elements, profileSlug, new CompletionHandler() {
-                        @Override
-                        public void handleString(String string) {
-                            cosponsors.add(string);
-                            if(completed.addAndGet(1) == max) {
-                                String value = null;
-                                if(!cosponsors.isEmpty()) {
-                                    final StringBuilder builder = new StringBuilder("[");
-                                    boolean isFirst = true;
-                                    for(String cosponsor : cosponsors) {
-                                        builder.append(isFirst ? "" : ",").append(cosponsor);
-                                        isFirst = false;
-                                    }
-                                    builder.append("]");
-                                    value = builder.toString();
-                                }
-                                handler.handleString(value);
-                            }
-                        }
-                    });
+                    politicians.get(elements, profileSlug, completionHandler);
                 });
             } else {
                 handler.handleString(null);

@@ -5,7 +5,6 @@ import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.weather.*;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -88,14 +87,14 @@ public enum WeatherUSA implements WeatherController {
                                 zoneIDs.add(zoneID);
                             }
 
-                            final String sender = properties.getString("senderName");
-                            final String[] senderName = properties.getString(sender).split(" ");
-                            final int senderNameLength = senderName.length;
-                            final String territoryAbbreviation = senderName[senderNameLength-1];
+                            final String senderName = properties.getString("senderName");
+                            final String[] senderNameValues = senderName.split(" ");
+                            final int senderNameLength = senderNameValues.length;
+                            final String territoryAbbreviation = senderNameValues[senderNameLength-1];
                             final SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(territoryAbbreviation);
                             final String subdivisionName = subdivision != null ? subdivision.getName() : "Unknown";
                             if(subdivisionName.equals("Unknown")) {
-                                WLLogger.log(Level.ERROR, "WeatherUSA - refresh, json != null - failed to find subdivision with string \"" + territoryAbbreviation + "\" from sender \"" + sender + "\"!");
+                                WLLogger.logError(this, "refresh - json != null - failed to find subdivision with string \"" + territoryAbbreviation + "\" from sender \"" + senderName + "\"!");
                             }
                             final String severityString = properties.getString("severity"), severity = severityString.equals("Unknown") ? "-1" : severityString;
                             final String certainty = properties.getString("certainty");
@@ -296,7 +295,7 @@ public enum WeatherUSA implements WeatherController {
                 });
                 break;
             default:
-                WLLogger.log(Level.ERROR, "WeatherUSA - uncaught geometryType \"" + geometryType + "\"!");
+                WLLogger.logError(this, "getGeometry - uncaught geometryType \"" + geometryType + "\"!");
                 break;
         }
         return geometry;

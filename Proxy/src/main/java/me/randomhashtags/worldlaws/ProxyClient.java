@@ -1,7 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import org.apache.logging.log4j.Level;
-
 import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.io.Reader;
@@ -42,7 +40,7 @@ public final class ProxyClient extends Thread implements RestAPI {
                     @Override
                     public void handleString(String string) {
                         final boolean connected = string != null;
-                        WLLogger.log(Level.INFO, prefix + (connected ? "Connected" : "Failed to connect") + " to \"" + target + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                        WLLogger.logInfo(prefix + (connected ? "Connected" : "Failed to connect") + " to \"" + target + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                         if(connected) {
                             final String response = DataValues.HTTP_SUCCESS_200 + string;
                             writeOutput(client, response);
@@ -52,7 +50,7 @@ public final class ProxyClient extends Thread implements RestAPI {
                 return;
             }
         }
-        WLLogger.log(Level.WARN, prefix + "INVALID");
+        WLLogger.logWarning(prefix + "INVALID");
         writeOutput(client, DataValues.HTTP_ERROR_404);
     }
     private void writeOutput(Socket client, String input) {

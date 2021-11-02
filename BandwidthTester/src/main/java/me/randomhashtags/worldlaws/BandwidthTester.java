@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
 import java.util.*;
@@ -14,7 +13,7 @@ public final class BandwidthTester implements UserServer, RestAPI {
 
     private BandwidthTester() {
         INPUT_SCANNERS.put(this, new Scanner(System.in));
-        WLLogger.log(Level.INFO, "How many requests per second should I simulate? (enter an integer value)");
+        WLLogger.logInfo("How many requests per second should I simulate? (enter an integer value)");
         final int amount = Integer.parseInt(getUserInput());
         simulateRequestsPerSecond(amount);
         //simulatePayload();
@@ -55,7 +54,7 @@ public final class BandwidthTester implements UserServer, RestAPI {
         requestJSONObject("http://localhost:0/v1/home", false, RequestMethod.GET, headers, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
-                WLLogger.log(Level.INFO, "BandwidthTester - completed request #" + number + " out of " + max + " (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.logInfo("BandwidthTester - completed request #" + number + " out of " + max + " (took " + (System.currentTimeMillis()-started) + "ms)");
             }
         });
     }

@@ -1,7 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import org.apache.logging.log4j.Level;
-
 import javax.net.ssl.*;
 import java.io.FileInputStream;
 import java.net.ServerSocket;
@@ -35,7 +33,7 @@ public final class Proxy implements RestAPI {
     }
 
     private void connectClients(ServerSocket server, boolean https) throws Exception {
-        WLLogger.log(Level.INFO, "Proxy - Listening for clients on port " + DataValues.WL_PROXY_PORT + "...");
+        WLLogger.logInfo("Proxy - Listening for clients on port " + DataValues.WL_PROXY_PORT + "...");
         while (true) {
             new ProxyClient(server.accept()).start();
         }

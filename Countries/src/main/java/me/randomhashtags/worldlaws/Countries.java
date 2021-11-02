@@ -5,12 +5,13 @@ import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
-import me.randomhashtags.worldlaws.info.NationalCapitals;
 import me.randomhashtags.worldlaws.info.agriculture.ProductionFoods;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilities;
 import me.randomhashtags.worldlaws.info.legal.CountryLegalities;
 import me.randomhashtags.worldlaws.info.legal.LegalityDrugs;
 import me.randomhashtags.worldlaws.info.list.Flyover;
+import me.randomhashtags.worldlaws.info.national.NationalAnthems;
+import me.randomhashtags.worldlaws.info.national.NationalCapitals;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankingServices;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankings;
 import me.randomhashtags.worldlaws.info.service.CIAServices;
@@ -18,7 +19,6 @@ import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
 import me.randomhashtags.worldlaws.info.service.TravelBriefing;
 import me.randomhashtags.worldlaws.service.WikipediaCountryService;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -53,10 +53,15 @@ public final class Countries implements WLServer {
 
     private void test() {
         loadServices();
-        getHomeResponse(new CompletionHandler() {
+        loadCountries(new CompletionHandler() {
             @Override
             public void handleString(String string) {
-                WLLogger.log(Level.INFO, "Countries;test;string=" + string);
+                getServerResponse(APIVersion.v1, "information/unitedstates", new CompletionHandler() {
+                    @Override
+                    public void handleString(String string) {
+                        WLLogger.logInfo("Countries;test;string=" + string);
+                    }
+                });
             }
         });
     }
@@ -77,6 +82,7 @@ public final class Countries implements WLServer {
             addAll(Arrays.asList(CountryAvailabilities.INSTANCE));
             addAll(Arrays.asList(ProductionFoods.values()));
             addAll(Arrays.asList(
+                    NationalAnthems.INSTANCE,
                     NationalCapitals.INSTANCE
             ));
             addAll(Arrays.asList(CountryInfoKeys.values()));
@@ -193,7 +199,7 @@ public final class Countries implements WLServer {
                     }
                 }
                 checkForMissingValues();
-                WLLogger.log(Level.INFO, "Countries - loaded " + countriesMap.size() + " countries (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.logInfo("Countries - loaded " + countriesMap.size() + " countries (took " + (System.currentTimeMillis()-started) + "ms)");
                 if(handler != null) {
                     handler.handleString(countriesCacheJSON);
                 }
@@ -230,7 +236,7 @@ public final class Countries implements WLServer {
         }
         final String string = builder.toString();
         if(!string.isEmpty()) {
-            WLLogger.log(Level.WARN, "Countries - missing emoji flag for countries: " + string);
+            WLLogger.logWarning("Countries - missing emoji flag for countries: " + string);
         }
     }
 
@@ -263,7 +269,7 @@ public final class Countries implements WLServer {
                             if(subdivision != null) {
                                 subdivision.getInformation(version, handler);
                             } else {
-                                WLLogger.log(Level.WARN, "Countries - failed to get information for subdivision \"" + subdivisionBackendID + "\" from country \"" + country.getBackendID() + "\"!");
+                                WLLogger.logError(this, "getServerResponse - failed to get information for subdivision \"" + subdivisionBackendID + "\" from country \"" + country.getBackendID() + "\"!");
                             }
                             break;
                         default:
@@ -275,7 +281,7 @@ public final class Countries implements WLServer {
                 }
                 break;
             default:
-                WLLogger.log(Level.WARN, "Countries - failed to send response using target \"" + target + "\"!");
+                WLLogger.logError(this, "getServerResponse - failed to send response using target \"" + target + "\"!");
                 handler.handleString(null);
                 break;
         }

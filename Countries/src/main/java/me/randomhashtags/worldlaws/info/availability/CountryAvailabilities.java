@@ -6,7 +6,6 @@ import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleAvailabilityObj;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureType;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
@@ -143,7 +142,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
 
             @Override
             public void handleJSONObject(JSONObject json) {
-                WLLogger.log(Level.INFO, "CountryAvailabilities - loaded \"" + countryBackendID + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.logInfo("CountryAvailabilities - loaded \"" + countryBackendID + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                 handler.handleServiceResponse(INSTANCE, json.toString());
             }
         });
@@ -320,7 +319,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 loadYouTubeTV(handler);
                 break;
             default:
-                WLLogger.log(Level.WARN, "CountryAvailabilities - reload - missing for " + name() + "!");
+                WLLogger.logError(this, "reload - missing completion handler for " + name() + "!");
                 handler.handleString(null);
                 break;
         }

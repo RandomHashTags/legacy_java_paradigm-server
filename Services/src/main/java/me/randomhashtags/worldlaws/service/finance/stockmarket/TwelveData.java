@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.service.finance.stockmarket;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.service.JSONDataValue;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -154,7 +153,7 @@ public enum TwelveData implements StockService {
                             isFirst = false;
                         }
                         final StockChart chart = new StockChart(started, builder.toString());
-                        WLLogger.log(Level.INFO, "TwelveData - loaded chart for symbol \"" + symbol + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                        WLLogger.logInfo("TwelveData - loaded chart for symbol \"" + symbol + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                         handler.handleString(chart.toString());
                     }
                 });

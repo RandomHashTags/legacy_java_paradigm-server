@@ -136,13 +136,13 @@ public interface Jsonable {
             final boolean alreadyExists = Files.exists(path);
             if(alreadyExists) {
                 if(!canExist) {
-                    WLLogger.log(Level.ERROR, sender + "Jsonable - writeFile(" + fileName + ") - already exists at " + directory + " (folder=" + folder.name() + ")!");
+                    WLLogger.logError("Jsonable", sender + "Jsonable - writeFile(" + fileName + ") - already exists at " + directory + " (folder=" + folder.name() + ")!");
                 } else {
-                    WLLogger.log(level, sender + "Jsonable - overriding file with folder " + folder.name() + " at " + path.toAbsolutePath().toString(), false);
+                    WLLogger.logInfo(sender + "Jsonable - overriding file with folder " + folder.name() + " at " + path.toAbsolutePath().toString());
                     write(path, value);
                 }
             } else {
-                WLLogger.log(level, sender + "Jsonable - creating file with folder " + folder.name() + " at " + path.toAbsolutePath().toString(), false);
+                WLLogger.logInfo(sender + "Jsonable - creating file with folder " + folder.name() + " at " + path.toAbsolutePath().toString());
                 tryCreatingParentFolders(path);
                 write(path, value);
             }

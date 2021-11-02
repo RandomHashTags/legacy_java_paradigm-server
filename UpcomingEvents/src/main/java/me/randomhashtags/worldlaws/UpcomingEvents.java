@@ -11,7 +11,6 @@ import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
 import me.randomhashtags.worldlaws.upcoming.sports.MLB;
 import me.randomhashtags.worldlaws.upcoming.sports.UFC;
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
@@ -63,7 +62,7 @@ public final class UpcomingEvents implements WLServer {
         shows.getAllShowNames(new CompletionHandler() {
             @Override
             public void handleString(String string) {
-                WLLogger.log(Level.INFO, "UpcomingEvents;test;string=" + string);
+                WLLogger.logInfo("UpcomingEvents;test;string=" + string);
             }
         });
     }
@@ -107,7 +106,7 @@ public final class UpcomingEvents implements WLServer {
                 if(controller != null) {
                     controller.getResponse(target.substring(key.length()+1), handler);
                 } else {
-                    WLLogger.log(Level.WARN, "UpcomingEvent - failed to getResponse for key \"" + key + "\", target=\"" + target + "\"!");
+                    WLLogger.logError(this, "getServerResponse - failed to get controller using key \"" + key + "\" with target \"" + target + "\"!");
                     handler.handleString(null);
                 }
                 break;
@@ -171,7 +170,7 @@ public final class UpcomingEvents implements WLServer {
 
             @Override
             public void handleJSONObject(JSONObject json) {
-                WLLogger.log(Level.INFO, "UpcomingEvent - refreshed events from this week (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.logInfo("UpcomingEvent - refreshed events from this week (took " + (System.currentTimeMillis()-started) + "ms)");
                 handler.handleString(json.toString());
             }
         });

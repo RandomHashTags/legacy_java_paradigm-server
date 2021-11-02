@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.observances;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
@@ -50,7 +49,7 @@ public enum Holidays implements Jsoupable, Jsonable {
             loadNearbyHolidays(year, new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
-                    WLLogger.log(Level.INFO, "Holidays - loaded near holidays (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.logInfo("Holidays - loaded near holidays (took " + (System.currentTimeMillis()-started) + "ms)");
                     handler.handleString(string);
                 }
             });
@@ -70,7 +69,7 @@ public enum Holidays implements Jsoupable, Jsonable {
                     }
                 });
             } else {
-                WLLogger.log(Level.ERROR, "Holidays - no WLCountry found using backend id \"" + countryBackendID + "\"!");
+                WLLogger.logError(this, "getCountryHolidays - no WLCountry found using backend id \"" + countryBackendID + "\"!");
                 handler.handleString(null);
             }
         }
@@ -174,6 +173,6 @@ public enum Holidays implements Jsoupable, Jsonable {
         }
         descriptionBuilder.append("}");
         dateBuilder.append("}");
-        return descriptionBuilder.toString() + dateBuilder.toString();
+        return descriptionBuilder.append(dateBuilder).toString();
     }
 }

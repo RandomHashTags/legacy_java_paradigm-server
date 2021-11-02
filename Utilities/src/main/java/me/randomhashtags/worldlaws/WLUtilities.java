@@ -6,6 +6,7 @@ import org.jsoup.nodes.Document;
 
 import javax.net.ssl.*;
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
@@ -29,7 +30,8 @@ public abstract class WLUtilities {
     public static final long WEATHER_EARTHQUAKES_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(30);
     public static final long WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
 
-     public static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssXXX");
+    public static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssXXX");
+    public static final String SERVER_EMPTY_JSON_RESPONSE = "{}";
 
     static {
         final TrustManager[] trustManager = new TrustManager[] {
@@ -55,7 +57,7 @@ public abstract class WLUtilities {
             HttpsURLConnection.setDefaultHostnameVerifier(new HostnameVerifier() {
                 @Override
                 public boolean verify(String host, SSLSession session) {
-                    WLLogger.log(Level.ERROR, "WLUtilities;static;HttpsURLConnection.setDefaultHostnameVerifier;verify;host=" + host + ";returned true");
+                    WLLogger.logError(this, "static{};HttpsURLConnection.setDefaultHostnameVerifier;verify;host=" + host + ";returned true");
                     return true;
                 }
             });
@@ -67,17 +69,27 @@ public abstract class WLUtilities {
     public static Document getJsoupDocumentFrom(String url) throws Exception {
         final URL link = new URL(url);
         final HttpsURLConnection connection = (HttpsURLConnection) link.openConnection();
+        connection.setConnectTimeout(10_000);
+        connection.setRequestMethod(RequestMethod.GET.name());
         connection.setHostnameVerifier(HttpsURLConnection.getDefaultHostnameVerifier());
+        connection.setUseCaches(false);
+        connection.setDoOutput(true);
 
-        String line = null;
-        final StringBuilder builder = new StringBuilder();
-        final InputStream is = connection.getInputStream();
-        final BufferedReader reader = new BufferedReader(new InputStreamReader(is));
-        while((line = reader.readLine()) != null)  {
-            builder.append(line);
+        final int responseCode = connection.getResponseCode();
+        if(responseCode >= 200 && responseCode < 400) {
+            String line = null;
+            final StringBuilder builder = new StringBuilder();
+            final InputStream is = connection.getInputStream();
+            final BufferedReader reader = new BufferedReader(new InputStreamReader(is));
+            while((line = reader.readLine()) != null)  {
+                builder.append(line);
+            }
+            reader.close();
+            return Jsoup.parse(builder.toString());
+        } else {
+            WLLogger.logError("WLUtilities", "getJsoupDocumentFrom - invalid response code (" + responseCode + ") for url \"" + url + "\"!");
+            return null;
         }
-        reader.close();
-        return Jsoup.parse(builder.toString());
     }
 
     public static Month valueOfMonthFromInput(String input) {
@@ -109,6 +121,14 @@ public abstract class WLUtilities {
         return LocalDate.now(Clock.systemUTC());
     }
 
+    public static void catchErrors(CompletionErrorHandler handler) {
+        try {
+            handler.call();
+        } catch (Exception e) {
+            saveException(e);
+        }
+    }
+
     public static void saveException(Exception exception) {
         String message = exception.getLocalizedMessage();
         if(message == null) {
@@ -119,19 +139,18 @@ public abstract class WLUtilities {
             builder.append("\n").append(element.toString());
         }
         final String errorName = exception.getClass().getSimpleName();
-        saveError(errorName, builder.toString());
+        saveError("WLUtilities.saveException", errorName, builder.toString());
     }
-    public static void saveLoggedError(String value) {
-        saveError("LoggedError", value);
+    public static void saveLoggedError(String folderName, String value) {
+        saveError("WLUtilities.saveLoggedError", "LoggedError" + File.separator + folderName, value);
     }
-    private static void saveError(String folderName, String value) {
+    private static void saveError(String sender, String folderName, String value) {
         final Folder folder = Folder.ERRORS;
         final String fileName = LocalDateTime.now().toString();
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%errorName%", folderName));
-        saveErrorToFile(Level.ERROR, folder, fileName, value, "txt");
+        saveErrorToFile(sender, folder, fileName, value);
     }
-    public static void saveErrorToFile(Level level, Folder folder, String fileName, String value, String extension) {
-        Jsonable.saveFile("WLUtilities.saveErrorToFile", level, folder, fileName, value, extension);
-        folder.removeCustomFolderName(fileName);
+    private static void saveErrorToFile(String sender, Folder folder, String fileName, String value) {
+        Jsonable.saveFile(sender, Level.ERROR, folder, fileName, value, "txt");
     }
 }

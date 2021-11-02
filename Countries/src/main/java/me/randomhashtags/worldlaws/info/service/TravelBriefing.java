@@ -7,7 +7,6 @@ import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.service.CountryServiceValue;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -88,7 +87,7 @@ public enum TravelBriefing implements CountryService {
                 @Override
                 public void handleJSONObject(JSONObject object) {
                     final String string = new CountryServiceValue(TravelBriefing.INSTANCE, object.toString()).toString();
-                    WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + country + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.logInfo(getInfo().name() + " - loaded \"" + country + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                     countries.put(targetCountry, string);
                     handler.handleServiceResponse(INSTANCE, string);
                 }

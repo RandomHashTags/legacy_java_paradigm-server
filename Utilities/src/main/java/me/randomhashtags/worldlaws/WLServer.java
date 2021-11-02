@@ -1,7 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import org.apache.logging.log4j.Level;
-
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -70,7 +68,15 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 break;
             default:
                 localServer.madeRequest(identifier, target);
-                getServerResponse(version, target.substring(versionString.length()+1), handler);
+                getServerResponse(version, target.substring(versionString.length() + 1), new CompletionHandler() {
+                    @Override
+                    public void handleString(String string) {
+                        if(string == null) {
+                            string = WLUtilities.SERVER_EMPTY_JSON_RESPONSE;
+                        }
+                        handler.handleString(string);
+                    }
+                });
                 break;
         }
     }
@@ -112,7 +118,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                     refreshHome(server, version, new CompletionHandler() {
                         @Override
                         public void handleString(String string) {
-                            WLLogger.log(Level.INFO, simpleName + " - auto updated \"" + serverName + "\"'s home response (took " + (System.currentTimeMillis()-started) + "ms)");
+                            WLLogger.logInfo(simpleName + " - auto updated \"" + serverName + "\"'s home response (took " + (System.currentTimeMillis()-started) + "ms)");
                         }
                     });
                 }

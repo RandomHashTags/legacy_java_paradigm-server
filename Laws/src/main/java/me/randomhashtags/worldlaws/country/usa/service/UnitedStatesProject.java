@@ -6,7 +6,6 @@ import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.usa.CongressService;
 import me.randomhashtags.worldlaws.people.HumanName;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -15,7 +14,7 @@ import java.util.HashMap;
 public enum UnitedStatesProject implements RestAPI, CongressService {
     INSTANCE;
 
-    private HashMap<String, String> politicians;
+    private final HashMap<String, String> politicians;
 
     UnitedStatesProject() {
         politicians = new HashMap<>();
@@ -33,7 +32,7 @@ public enum UnitedStatesProject implements RestAPI, CongressService {
                                 if(politicians.containsKey(target)) {
                                     handler.handleString(target);
                                 } else {
-                                    WLLogger.log(Level.WARN, "UnitedStatesProject - politician doesn't exist with id \"" + id + "\"!");
+                                    WLLogger.logError(this, "politician doesn't exist with id \"" + id + "\"!");
                                 }
                             }
                         });
@@ -61,7 +60,7 @@ public enum UnitedStatesProject implements RestAPI, CongressService {
                     final String id = name.getFirstName() + name.getMiddleName() + name.getLastName();
                     politicians.put(id, politician.toString());
                 }
-                WLLogger.log(Level.INFO, "UnitedStatesProject - loaded " + typeString + " politicians (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.logInfo("UnitedStatesProject - loaded " + typeString + " politicians (took " + (System.currentTimeMillis()-started) + "ms)");
                 handler.handleString(null);
             }
         });

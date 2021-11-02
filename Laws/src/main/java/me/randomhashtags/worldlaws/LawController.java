@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.law.LawUtilities;
-import org.apache.logging.log4j.Level;
 
 import java.util.HashMap;
 
@@ -27,7 +26,7 @@ public abstract class LawController {
             loadRecentActivity(version, new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
-                    WLLogger.log(Level.INFO, getClass().getSimpleName() + " - loaded recent activity (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.logInfo(getClass().getSimpleName() + " - loaded recent activity (took " + (System.currentTimeMillis()-started) + "ms)");
                     recentActivity.put(version, string);
                     handler.handleString(string);
                 }

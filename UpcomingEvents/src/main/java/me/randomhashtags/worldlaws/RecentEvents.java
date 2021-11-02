@@ -7,7 +7,6 @@ import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
 import me.randomhashtags.worldlaws.recent.software.console.PlayStation4Updates;
 import me.randomhashtags.worldlaws.recent.software.console.PlayStation5Updates;
 import me.randomhashtags.worldlaws.recent.software.other.AppleSoftwareUpdates;
-import org.apache.logging.log4j.Level;
 
 import java.time.LocalDate;
 import java.util.Arrays;
@@ -103,7 +102,7 @@ public enum RecentEvents {
             builder.append("}");
             value = builder.toString();
         }
-        WLLogger.log(Level.INFO, "RecentEvents - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("RecentEvents - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
         handler.handleString(value);
     }
 }

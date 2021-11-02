@@ -6,7 +6,6 @@ import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
 import me.randomhashtags.worldlaws.law.LawUtilities;
 import org.apache.commons.text.StringEscapeUtils;
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
@@ -143,7 +142,7 @@ public final class CustomCountry implements SovereignState {
                 @Override
                 public void handleJSONObject(JSONObject json) {
                     information = json.toString();
-                    WLLogger.log(Level.INFO, "CustomCountry - loaded information for country \"" + name + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.logInfo("CustomCountry - loaded information for country \"" + name + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                     handler.handleString(information);
                 }
             });

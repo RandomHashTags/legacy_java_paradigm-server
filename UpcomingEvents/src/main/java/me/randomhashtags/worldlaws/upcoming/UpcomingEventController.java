@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.upcoming;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.service.YouTubeService;
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
 import java.time.Month;
@@ -32,17 +31,23 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         loadedPreUpcomingEvents.clear();
         preUpcomingEvents.clear();
         upcomingEvents.clear();
-        load(new CompletionHandler() {
+        final CompletionErrorHandler errorHandler = new CompletionErrorHandler() {
             @Override
-            public void handleString(String string) {
-                final String preUpcomingEventsLoaded = !preUpcomingEvents.isEmpty() ? preUpcomingEvents.size() + " preUpcomingEvents" : null;
-                final String upcomingEventsLoaded = !upcomingEvents.isEmpty() ? upcomingEvents.size() + " upcomingEvents" : null;
-                String amount = "(" + (preUpcomingEventsLoaded != null ? preUpcomingEventsLoaded + (upcomingEventsLoaded != null ? ", " : "") : "") + (upcomingEventsLoaded != null ? upcomingEventsLoaded : "") + ")";
-                amount = amount.equals("()") ? "0" : amount;
-                WLLogger.log(Level.INFO, getType().name() + " - loaded " + amount + " events (took " + (System.currentTimeMillis()-started) + "ms)");
-                handler.handleString(string);
+            public void call() {
+                load(new CompletionHandler() {
+                    @Override
+                    public void handleString(String string) {
+                        final String preUpcomingEventsLoaded = !preUpcomingEvents.isEmpty() ? preUpcomingEvents.size() + " preUpcomingEvents" : null;
+                        final String upcomingEventsLoaded = !upcomingEvents.isEmpty() ? upcomingEvents.size() + " upcomingEvents" : null;
+                        String amount = "(" + (preUpcomingEventsLoaded != null ? preUpcomingEventsLoaded + (upcomingEventsLoaded != null ? ", " : "") : "") + (upcomingEventsLoaded != null ? upcomingEventsLoaded : "") + ")";
+                        amount = amount.equals("()") ? "0" : amount;
+                        WLLogger.logInfo(getType().name() + " - loaded " + amount + " events (took " + (System.currentTimeMillis()-started) + "ms)");
+                        handler.handleString(string);
+                    }
+                });
             }
-        });
+        };
+        WLUtilities.catchErrors(errorHandler);
     }
     public abstract void load(CompletionHandler handler);
 

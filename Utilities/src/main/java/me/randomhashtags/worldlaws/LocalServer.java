@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws;
 
 import org.apache.commons.text.StringEscapeUtils;
-import org.apache.logging.log4j.Level;
 
 import java.net.ServerSocket;
 import java.net.Socket;
@@ -54,7 +53,7 @@ public final class LocalServer implements UserServer, DataValues {
     @Override
     public void stop() {
         final long started = System.currentTimeMillis();
-        WLLogger.log(Level.INFO, serverName + " - shutting down server...");
+        WLLogger.logInfo(serverName + " - shutting down server...");
         if(timers != null) {
             for(Timer timer : timers) {
                 timer.cancel();
@@ -64,7 +63,7 @@ public final class LocalServer implements UserServer, DataValues {
         saveStatistics();
         try {
             server.close();
-            WLLogger.log(Level.INFO, serverName + " - server has shut down (took " + (System.currentTimeMillis()-started) + "ms)");
+            WLLogger.logInfo(serverName + " - server has shut down (took " + (System.currentTimeMillis()-started) + "ms)");
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
@@ -97,7 +96,7 @@ public final class LocalServer implements UserServer, DataValues {
         Statistics.INSTANCE.save(serverName, totalUniqueIdentifiers, uniqueRequests, totalRequests, new CompletionHandler() {
             @Override
             public void handleObject(Object object) {
-                WLLogger.log(Level.INFO, serverName + " - Saved statistics (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.logInfo(serverName + " - Saved statistics (took " + (System.currentTimeMillis()-started) + "ms)");
                 totalRequests.clear();
                 totalUniqueIdentifiers.clear();
                 uniqueRequests.clear();
@@ -115,7 +114,7 @@ public final class LocalServer implements UserServer, DataValues {
     }
     private void connectClients() {
         listenForUserInput();
-        WLLogger.log(Level.INFO, serverName + " - Listening for clients on port " + port + "...");
+        WLLogger.logInfo(serverName + " - Listening for clients on port " + port + "...");
         acceptClients();
     }
     private void acceptClients() {

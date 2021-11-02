@@ -2,14 +2,13 @@ package me.randomhashtags.worldlaws.country.usa;
 
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsoupable;
+import me.randomhashtags.worldlaws.LegislationType;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.usa.federal.PreCongressBill;
 import me.randomhashtags.worldlaws.country.usa.federal.USCongress;
-import me.randomhashtags.worldlaws.LegislationType;
 import me.randomhashtags.worldlaws.people.HumanName;
 import me.randomhashtags.worldlaws.people.PoliticalParty;
 import me.randomhashtags.worldlaws.people.Politician;
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -96,7 +95,7 @@ public final class USPolitician implements Politician {
             final String string = builder.toString();
             signedLegislation.get(type).put(administration, string);
             final HumanName name = getName();
-            WLLogger.log(Level.INFO, "USPolitician - loaded \"" + name.getFirstName() + " " + name.getMiddleName() + " " + name.getLastName() + "\"'s " + type.name() + " legislation for administration " + administration + " (took " + (System.currentTimeMillis()-started) + "ms)");
+            WLLogger.logInfo("USPolitician - loaded \"" + name.getFirstName() + " " + name.getMiddleName() + " " + name.getLastName() + "\"'s " + type.name() + " legislation for administration " + administration + " (took " + (System.currentTimeMillis()-started) + "ms)");
             return string;
         }
     }

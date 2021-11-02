@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.iap.InAppPurchases;
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
 import java.util.*;
@@ -28,10 +27,15 @@ public enum TargetServer implements RestAPI, DataValues {
 
     private static final HashMap<APIVersion, JSONObject> HOME_JSON;
     private static final HashMap<APIVersion, HashMap<HashSet<String>, String>> HOME_JSON_QUERIES;
+    private static final HashMap<String, TargetServer> BACKEND_IDS;
 
     static {
         HOME_JSON = new HashMap<>();
         HOME_JSON_QUERIES = new HashMap<>();
+        BACKEND_IDS = new HashMap<>();
+        for(TargetServer server : TargetServer.values()) {
+            BACKEND_IDS.put(server.getBackendID(), server);
+        }
     }
 
     private String ipAddress;
@@ -63,7 +67,7 @@ public enum TargetServer implements RestAPI, DataValues {
     public int getResponseVersion() { // Only used if the server doesn't auto update its content
         switch (this) {
             case COUNTRIES:
-                return 3;
+                return 4;
             case ENVIRONMENT:
                 return 1;
             case SPACE:
@@ -89,6 +93,47 @@ public enum TargetServer implements RestAPI, DataValues {
                 getHomeResponse(version, method, headers, query, handler);
                 break;
             case COMBINE:
+                final String versionName = version.name(), serverName = getBackendID();
+                request = request.substring(versionName.length() + serverName.length() + 2);
+                final String[] values = request.split("&&");
+                final int max = values.length;
+                final AtomicInteger completed = new AtomicInteger(0);
+                final ConcurrentHashMap<String, String> responses = new ConcurrentHashMap<>();
+                final CompletionHandler completionHandler = new CompletionHandler() {
+                    @Override
+                    public void handleStringValue(String key, String value) {
+                        if(value != null) {
+                            responses.put(key, value);
+                        }
+                        if(completed.addAndGet(1) == max) {
+                            final StringBuilder builder = new StringBuilder("{");
+                            boolean isFirst = true;
+                            for(Map.Entry<String, String> map : responses.entrySet()) {
+                                builder.append(isFirst ? "" : ",").append("\"").append(map.getKey()).append("\"").append(":").append(map.getValue());
+                                isFirst = false;
+                            }
+                            builder.append("}");
+                            handler.handleString(builder.toString());
+                        }
+                    }
+                };
+                Arrays.asList(values).parallelStream().forEach(value -> {
+                    final String[] target = value.split("/");
+                    final String apiVersionString = target[0], serverBackendID = target[1];
+                    final APIVersion apiVersion = APIVersion.valueOfInput(apiVersionString);
+                    final String url = value.substring(apiVersionString.length() + serverBackendID.length() + 2);
+                    final TargetServer server = TargetServer.valueOfBackendID(serverBackendID);
+                    if(server != null) {
+                        server.sendResponse(apiVersion, identifier, method, value, null, new CompletionHandler() {
+                            @Override
+                            public void handleString(String string) {
+                                completionHandler.handleStringValue(value, string);
+                            }
+                        });
+                    } else {
+                        completionHandler.handleStringValue(value, null);
+                    }
+                });
                 break;
             default:
                 handleResponse(version, method, request, headers, handler);
@@ -99,6 +144,9 @@ public enum TargetServer implements RestAPI, DataValues {
         final String versionName = version.name(), serverName = getBackendID();
         request = request.substring(versionName.length() + serverName.length() + 2);
         final String url = ipAddress + "/" + version.name() + "/" + request;
+        handleResponse(url, method, headers, handler);
+    }
+    private void handleResponse(String url, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
         request(url, method, headers, null, handler);
     }
 
@@ -209,7 +257,7 @@ public enum TargetServer implements RestAPI, DataValues {
                     final JSONObject json = new JSONObject(string);
                     HOME_JSON.put(version, json);
                     HOME_JSON_QUERIES.remove(version);
-                    WLLogger.log(Level.INFO, "TargetServer - " + (isUpdate ? "auto-" : "") + "updated " + versionName + " home responses (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.logInfo("TargetServer - " + (isUpdate ? "auto-" : "") + "updated " + versionName + " home responses (took " + (System.currentTimeMillis()-started) + "ms)");
                     if(handler != null) {
                         handler.handleString(string);
                     }
@@ -240,12 +288,10 @@ public enum TargetServer implements RestAPI, DataValues {
     }
 
     public static TargetServer valueOfBackendID(String backendID) {
-        for(TargetServer server : TargetServer.values()) {
-            if(backendID.equals(server.getBackendID())) {
-                return server;
-            }
+        final TargetServer server = BACKEND_IDS.get(backendID);
+        if(server == null) {
+            WLLogger.logError("TargetServer", "failed to find a server with backendID \"" + backendID + "\"!");
         }
-        WLLogger.log(Level.ERROR, "TargetServer - failed to find a server with backendID \"" + backendID + "\"!");
-        return null;
+        return server;
     }
 }

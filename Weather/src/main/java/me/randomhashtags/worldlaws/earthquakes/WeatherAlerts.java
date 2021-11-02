@@ -6,7 +6,6 @@ import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.Weather;
 import me.randomhashtags.worldlaws.weather.WeatherController;
 import me.randomhashtags.worldlaws.weather.country.WeatherUSA;
-import org.apache.logging.log4j.Level;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -195,7 +194,7 @@ public enum WeatherAlerts {
                         loadTimes.append(isFirst ? "" : ",").append(simpleName).append(" took ").append(time).append("ms");
                         isFirst = false;
                     }
-                    WLLogger.log(Level.INFO, "WeatherAlerts - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + (System.currentTimeMillis()-started) + "ms total, " + loadTimes.toString() + ")");
+                    WLLogger.logInfo("WeatherAlerts - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + (System.currentTimeMillis()-started) + "ms total, " + loadTimes.toString() + ")");
                     if(handler != null) {
                         handler.handleString(allAlertsJSON);
                     }

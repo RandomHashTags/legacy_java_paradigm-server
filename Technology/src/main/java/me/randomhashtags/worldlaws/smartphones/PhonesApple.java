@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws.smartphones;
 
 import me.randomhashtags.worldlaws.*;
-import org.apache.logging.log4j.Level;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -82,7 +81,7 @@ public enum PhonesApple implements SmartphoneCompany {
         builder.append("]");
         final String string = builder.toString();
         modelsList = string;
-        WLLogger.log(Level.INFO, "PhonesApple - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("PhonesApple - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
         handler.handleString(string);
     }
     private List<Smartphone> getPhonesFromTable(Element table, String url, boolean hasLIDAR) {

@@ -4,7 +4,6 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.WLSubdivisions;
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -91,7 +90,7 @@ public enum Elections implements RestAPI, DataValues {
                 }
                 builder.append("}");
                 final String string = builder.toString();
-                WLLogger.log(Level.INFO, "Elections - refreshed upcoming elections (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.logInfo("Elections - refreshed upcoming elections (took " + (System.currentTimeMillis()-started) + "ms)");
                 handler.handleString(string);
             }
         });
@@ -107,7 +106,7 @@ public enum Elections implements RestAPI, DataValues {
                 for(Object obj : offices) {
                     final JSONObject office = new JSONObject(obj.toString());
                     final JSONObject person = new JSONObject(officials.get(index).toString());
-                    WLLogger.log(Level.INFO, office.getString("name") + " - " + person.getString("name"));
+                    WLLogger.logInfo(office.getString("name") + " - " + person.getString("name"));
                     index += 1;
                 }
                 handler.handleString(null);

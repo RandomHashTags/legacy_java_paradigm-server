@@ -8,8 +8,8 @@ import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.country.SovereignStateResource;
 import me.randomhashtags.worldlaws.service.CountryServiceValue;
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
+import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -97,30 +97,35 @@ public enum CIAServices implements CountryService {
 
         final String prefix = "https://www.cia.gov/";
         final String url = prefix + "the-world-factbook/countries/" + shortName.toLowerCase().replace(" ", "-").replace(",", "") + "/";
-        final Elements elements = getDocumentElements(folder, url, "div.thee-link-container a");
-        final String string;
-        if(elements != null) {
-            for(Element element : elements) {
-                final String href = element.attr("href");
-                if(href.endsWith("-summary.pdf")) {
-                    final String text = href.split("/static/")[1];
-                    final String[] values = text.split("/");
-                    summaryURL = values[0];
-                    key = values[1].split("-")[0];
-                } else if(href.endsWith("-travel-facts.pdf")) {
-                    final String text = href.split("/static/")[1];
-                    final String[] values = text.split("/");
-                    travelFactsURL = values[0];
-                    key = values[1].split("-")[0];
+        final String missingMessage = "CIAServices - missing elements for country with short name \"" + shortName + "\", and url \"" + url + "\"!";
+        final Document doc = getDocument(folder, url, false);
+        String string = null;
+        if(doc != null) {
+            final Elements elements = doc.select("div.thee-link-container a");
+            if(elements != null && !elements.isEmpty()) {
+                for(Element element : elements) {
+                    final String href = element.attr("href");
+                    if(href.endsWith("-summary.pdf")) {
+                        final String text = href.split("/static/")[1];
+                        final String[] values = text.split("/");
+                        summaryURL = values[0];
+                        key = values[1].split("-")[0];
+                    } else if(href.endsWith("-travel-facts.pdf")) {
+                        final String text = href.split("/static/")[1];
+                        final String[] values = text.split("/");
+                        travelFactsURL = values[0];
+                        key = values[1].split("-")[0];
+                    }
                 }
+                final CIAValues values = new CIAValues(key, summaryURL, travelFactsURL);
+                string = values.toServerJSON();
+            } else {
+                WLLogger.logError(this, missingMessage);
             }
-            final CIAValues values = new CIAValues(key, summaryURL, travelFactsURL);
-            string = values.toServerJSON();
+            WLLogger.logInfo(getInfo().name() + " - loaded \"" + shortName + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
         } else {
-            WLLogger.log(Level.WARN, "CIAServices - missing elements for country with short name \"" + shortName + "\", and url \"" + url + "\"!");
-            string = null;
+            WLLogger.logError(this, missingMessage);
         }
-        WLLogger.log(Level.INFO, getInfo().name() + " - loaded \"" + shortName + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
         handler.handleString(string);
     }
 
