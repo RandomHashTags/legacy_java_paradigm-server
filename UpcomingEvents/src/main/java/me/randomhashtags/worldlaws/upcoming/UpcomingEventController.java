@@ -75,12 +75,8 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     private void getEventsOnDates(HashSet<String> dates, CompletionHandler handler) {
         final HashSet<String> set = new HashSet<>((!preUpcomingEvents.isEmpty() ? preUpcomingEvents : upcomingEvents).keySet());
         set.removeIf(id -> {
-            for(String date : dates) {
-                if(id.startsWith(date + ".")) {
-                    return false;
-                }
-            }
-            return true;
+            final String dateString = id.split("\\.")[0];
+            return !dates.contains(dateString);
         });
         final String identifier = getType().name().toLowerCase();
         final int max = set.size();

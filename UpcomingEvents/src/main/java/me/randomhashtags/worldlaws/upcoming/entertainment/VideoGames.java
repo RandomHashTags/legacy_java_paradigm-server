@@ -128,7 +128,8 @@ public final class VideoGames extends UpcomingEventController {
                             final Elements tdIs = tds.select("i");
                             final boolean isEmpty = tdIs.isEmpty();
                             final Element td0 = tds.get(0);
-                            final Element platformsElement = td0.hasAttr("style") ? tds.get(3) : td0.hasAttr("rowspan") || td0.text().matches("[0-9]+") || td0.text().equals("TBA") ? tds.get(2) : tds.get(1);
+                            final boolean hasStyle = td0.hasAttr("style"), hasRowspan = td0.hasAttr("rowspan"), hasMatches = td0.text().matches("[0-9]+"), isTBA = td0.text().equals("TBA");
+                            final Element platformsElement = hasStyle ? tds.get(3) : hasRowspan || hasMatches || isTBA ? tds.get(2) : tds.get(1);
                             final List<String> platforms = Arrays.asList(
                                     platformsElement.text()
                                             .replace("Win", "Windows")

@@ -50,7 +50,7 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
     }
     default void getPreAlerts(String event, CompletionHandler handler) {
         final HashMap<String, String> eventPreAlerts = getEventPreAlerts();
-        handler.handleString(eventPreAlerts.getOrDefault(event, "{}"));
+        handler.handleString(eventPreAlerts.get(event));
     }
     default void putSubdivisionEvents(HashMap<String, String> territoryEvents, ConcurrentHashMap<String, HashSet<WeatherEvent>> hashmap) {
         for(Map.Entry<String, HashSet<WeatherEvent>> map : hashmap.entrySet()) {

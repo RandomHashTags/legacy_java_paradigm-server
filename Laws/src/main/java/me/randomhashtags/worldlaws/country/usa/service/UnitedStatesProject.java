@@ -53,14 +53,20 @@ public enum UnitedStatesProject implements RestAPI, CongressService {
         requestJSONArray(url, RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONArray(JSONArray array) {
-                for(Object obj : array) {
-                    final JSONObject json = (JSONObject) obj;
-                    final UnitedStatesProjectPolitician politician = new UnitedStatesProjectPolitician(json);
-                    final HumanName name = politician.getName();
-                    final String id = name.getFirstName() + name.getMiddleName() + name.getLastName();
-                    politicians.put(id, politician.toString());
+                int amount = 0;
+                if(array != null) {
+                    amount = array.length();
+                    for(Object obj : array) {
+                        final JSONObject json = (JSONObject) obj;
+                        final UnitedStatesProjectPolitician politician = new UnitedStatesProjectPolitician(json);
+                        final HumanName name = politician.getName();
+                        final String id = name.getFirstName() + name.getMiddleName() + name.getLastName();
+                        politicians.put(id, politician.toString());
+                    }
+                } else {
+                    WLLogger.logError(this, "loadPoliticians - array == null!");
                 }
-                WLLogger.logInfo("UnitedStatesProject - loaded " + typeString + " politicians (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.logInfo("UnitedStatesProject - loaded " + amount + " " + typeString + " politicians (took " + (System.currentTimeMillis()-started) + "ms)");
                 handler.handleString(null);
             }
         });

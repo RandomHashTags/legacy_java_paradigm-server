@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
 import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
+import me.randomhashtags.worldlaws.service.ITunesSearchAPI;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.entertainment.*;
@@ -58,13 +59,32 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final TVShows shows = new TVShows();
-        shows.getAllShowNames(new CompletionHandler() {
+        ITunesSearchAPI.INSTANCE.searchForMusicAlbum("It'll All Make Sense in the End", "James Arthur", new CompletionHandler() {
             @Override
-            public void handleString(String string) {
-                WLLogger.logInfo("UpcomingEvents;test;string=" + string);
+            public void handleJSONObject(JSONObject json) {
+                WLLogger.logInfo("UpcomingEvents;test;json=" + json);
             }
         });
+        /*
+        final LocalDate now = LocalDate.now();
+        final HashSet<String> dates = new HashSet<>();
+        dates.add(getEventStringForDate(now));
+        dates.add(getEventStringForDate(now.plusDays(1)));
+        dates.add(getEventStringForDate(now.plusDays(2)));
+        dates.add(getEventStringForDate(now.plusDays(3)));
+        dates.add(getEventStringForDate(now.plusDays(4)));
+        dates.add(getEventStringForDate(now.plusDays(5)));
+        dates.add(getEventStringForDate(now.plusDays(6)));
+        dates.add(getEventStringForDate(now.plusDays(7)));
+        final VideoGamesSteam steam = new VideoGamesSteam();
+        steam.getEventsFromDates(dates, new CompletionHandler() {
+            @Override
+            public void handleStringValue(String key, String value) {
+                for(String test : steam.upcomingEvents.values()) {
+                    WLLogger.logInfo(test);
+                }
+            }
+        });*/
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {

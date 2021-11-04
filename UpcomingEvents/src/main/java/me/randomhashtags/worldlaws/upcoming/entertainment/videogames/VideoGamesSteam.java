@@ -1,0 +1,164 @@
+package me.randomhashtags.worldlaws.upcoming.entertainment.videogames;
+
+import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
+import java.time.Month;
+import java.util.HashSet;
+import java.util.concurrent.atomic.AtomicInteger;
+
+public final class VideoGamesSteam extends UpcomingEventController {
+
+    @Override
+    public UpcomingEventType getType() {
+        return UpcomingEventType.VIDEO_GAME;
+    }
+
+    @Override
+    public void load(CompletionHandler handler) {
+        loadUpcoming(handler);
+    }
+
+    @Override
+    public void loadUpcomingEvent(String id, CompletionHandler handler) {
+    }
+
+    private void loadUpcoming(CompletionHandler handler) {
+        final String url = "https://store.steampowered.com/search/?os=win%2Cmac%2Clinux&filter=popularcomingsoon";
+        final Document doc = getDocument(url);
+        if(doc != null) {
+            final Elements elements = doc.select("div.search_results div a[href]");
+            final int max = elements.size();
+            if(max == 0) {
+                handler.handleString(null);
+            } else {
+                final UpcomingEventType eventType = getType();
+                final AtomicInteger completed = new AtomicInteger(0);
+                final HashSet<VideoGameRelease> releases = new HashSet<>();
+                elements.parallelStream().forEach(element -> {
+                    String href = element.attr("href");
+                    final String[] hrefValues = href.split("/");
+                    href = href.substring(0, href.length()-hrefValues[hrefValues.length-1].length()-1);
+                    final Document page = getDocument(href);
+                    if(page != null) {
+                        final VideoGameRelease release = getPage(eventType, page, href);
+                        if(release != null) {
+                            releases.add(release);
+                        }
+                    }
+                    if(completed.addAndGet(1) == max) {
+                        final StringBuilder builder = new StringBuilder("{");
+                        boolean isFirst = true;
+                        for(VideoGameRelease release : releases) {
+                            builder.append(isFirst ? "" : ",").append(release.toString());
+                            isFirst = false;
+                        }
+                        builder.append("}");
+                        handler.handleString(builder.toString());
+                    }
+                });
+            }
+        } else {
+            handler.handleString(null);
+        }
+    }
+
+    private VideoGameRelease getPage(UpcomingEventType eventType, Element element, String pageURL) {
+        final Element pageContent = element.selectFirst("div.tablet_grid div.page_content_ctn");
+        if(pageContent != null) {
+            final String name = pageContent.select("div.page_title_area div.apphub_HomeHeaderContent div.apphub_HeaderStandardTop div.apphub_AppName").text();
+            final Element glance = element.selectFirst("div.block div.game_background_glow div.block_content div.rightcol div.glance_ctn");
+            if(glance != null) {
+                final Element releaseElement = glance.selectFirst("div.glance_ctn_responsive_left div.release_date div.date");
+                if(releaseElement != null) {
+                    final int year = WLUtilities.getTodayYear(), nextYear = year + 1;
+                    String releaseDate = releaseElement.text().replace(",", "");
+                    final boolean isCurrentYear = releaseDate.contains(" " + year), isNextYear = releaseDate.contains(" " + nextYear);
+                    final int targetYear = isCurrentYear ? year : isNextYear ? nextYear : -1;
+                    if(targetYear != -1) {
+                        releaseDate = releaseDate.replace(" " + targetYear, "");
+                    }
+                    final String[] values = releaseDate.split(" ");
+                    if(values.length >= 2) {
+                        final String key = values[0], value = values[1], dayPattern = "[0-9]+";
+                        final int day;
+                        final Month month;
+                        if(key.matches(dayPattern)) {
+                            day = Integer.parseInt(key);
+                            month = WLUtilities.valueOfMonthFromInput(value);
+                        } else if(value.matches(dayPattern)) {
+                            day = Integer.parseInt(value);
+                            month = WLUtilities.valueOfMonthFromInput(key);
+                        } else {
+                            WLLogger.logInfo("VideoGamesSteam;getPage;name=" + name + "; could not find release details with text \"" + releaseElement.text() + "\"!");
+                            return null;
+                        }
+                        final EventDate date = new EventDate(month, day, targetYear);
+                        final Element descriptionElement = glance.selectFirst("div.game_description_snippet");
+                        final String description = descriptionElement != null ? descriptionElement.text() : null;
+                        final HashSet<String> genres = new HashSet<>();
+                        final Elements genresElement = glance.select("div.glance_ctn_responsive_right div.glance_tags_ctn div.glance_tags a[href]");
+                        for(Element genre : genresElement) {
+                            genres.add(genre.text());
+                        }
+
+                        final Elements linkElements = pageContent.select("div.page_content div.rightcol div.block div.block_content div.block_content_inner div.details_block a.linkbar");
+                        String officialSite = null;
+                        for(Element linkElement : linkElements) {
+                            if(linkElement.text().toLowerCase().contains("visit the website")) {
+                                final String href = linkElement.attr("href");
+                                officialSite = href.split("url=")[1].replace("http://", "https://");
+                                break;
+                            }
+                        }
+
+                        final EventSources sources = new EventSources();
+                        sources.append(new EventSource("Steam Store: " + name, pageURL));
+                        if(officialSite != null) {
+                            sources.append(new EventSource("Official Site", officialSite));
+                        }
+                        final String wikipediaPageURL = getWikipediaArticleURL(name);
+                        if(wikipediaPageURL != null) {
+                            sources.append(new EventSource("Wikipedia: " + name, wikipediaPageURL));
+                        }
+
+                        final Element imageElement = glance.selectFirst("div.game_header_image_ctn img.game_header_image_full");
+                        String imageURL = null;
+                        if(imageElement != null) {
+                            imageURL = imageElement.attr("src");
+                        }
+                        final String identifier = getEventDateIdentifier(date.getDateString(), name);
+                        final VideoGameRelease release = new VideoGameRelease(name, description, imageURL, genres, sources);
+                        putLoadedPreUpcomingEvent(identifier, release.toPreUpcomingEventJSON(eventType, identifier, null));
+                        putUpcomingEvent(identifier, release.toString());
+                        return release;
+                    } else {
+                        WLLogger.logInfo("VideoGamesSteam;getPage;name=" + name + ";unconfirmed date =" + releaseDate);
+                    }
+                } else {
+                    WLLogger.logInfo("VideoGamesSteam;getPage;name=" + name + ";releaseDate==null");
+                }
+            }
+        }
+        return null;
+    }
+    private String getEpicGamesURL(String gameName) {
+        return null;
+    }
+    private String getWikipediaArticleURL(String gameName) {
+        gameName = gameName.replace(":", "").replace("–", "").replace(" ", "+");
+        final String searchURL = "https://en.wikipedia.org/w/index.php?search=" + gameName + "&title=Special:Search&profile=advanced&fulltext=1&ns0=1";
+        final Document doc = getDocument(searchURL);
+        if(doc != null) {
+            final Element pageElement = doc.selectFirst("div.mw-body-content div.searchresults p.mw-search-exists b a[href]");
+            if(pageElement != null) {
+                return "https://en.wikipedia.org" + pageElement.attr("href");
+            }
+        }
+        return null;
+    }
+}

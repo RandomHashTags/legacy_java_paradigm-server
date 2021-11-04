@@ -78,7 +78,7 @@ public enum WeatherAlerts {
             } else {
                 switch (values[0]) {
                     case "event":
-                        weather.getEventPreAlerts().getOrDefault(values[1], "{}");
+                        weather.getEventPreAlerts().get(values[1]);
                         break;
                     case "id":
                         weather.getAlert(values[1], handler);
@@ -91,12 +91,12 @@ public enum WeatherAlerts {
                         weather.getZones(zoneIDs, handler);
                         break;
                     default:
-                        handler.handleString("{}");
+                        handler.handleString(null);
                         break;
                 }
             }
         } else {
-            handler.handleString("{}");
+            handler.handleString(null);
         }
     }
     private void getAlertsForSubdivision(String country, String subdivision, String[] values, CompletionHandler handler) {
@@ -110,11 +110,11 @@ public enum WeatherAlerts {
                     weather.getSubdivisionPreAlerts(subdivision, values[1], handler);
                     break;
                 default:
-                    handler.handleString("{}");
+                    handler.handleString(null);
                     break;
             }
         } else {
-            handler.handleString("{}");
+            handler.handleString(null);
         }
     }
 
@@ -169,7 +169,11 @@ public enum WeatherAlerts {
         controller.refresh(new CompletionHandler() {
             @Override
             public void handleString(String string) {
-                countries.put(countryBackendID, string);
+                if(string != null) {
+                    countries.put(countryBackendID, string);
+                } else {
+                    countries.remove(countryBackendID);
+                }
                 handler.handleStringValue(controller.getClass().getSimpleName(), string);
             }
         });

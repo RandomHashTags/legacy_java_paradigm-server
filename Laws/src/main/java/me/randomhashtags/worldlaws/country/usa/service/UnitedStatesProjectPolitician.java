@@ -111,13 +111,13 @@ public final class UnitedStatesProjectPolitician {
         private final String wikipediaURL;
 
         private URLs(JSONObject json) {
-            wikipediaURL = "https://en.wikipedia.org/wiki/" + json.getString("wikipedia");
+            wikipediaURL = json.has("wikipedia") && json.get("wikipedia") instanceof String ? "https://en.wikipedia.org/wiki/" + json.getString("wikipedia") : null;
         }
 
         @Override
         public String toString() {
             return "{" +
-                    "\"wikipediaURL\":\"" + wikipediaURL + "\"" +
+                    (wikipediaURL != null ? "\"wikipediaURL\":\"" + wikipediaURL + "\"" : "") +
                     "}";
         }
     }
