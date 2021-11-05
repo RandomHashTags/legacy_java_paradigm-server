@@ -69,7 +69,7 @@ public enum CIAServices implements CountryService {
                         loadCIAValues(started, folder, shortName, new CompletionHandler() {
                             @Override
                             public void handleString(String string) {
-                                final JSONObject ciaJSON = new JSONObject(string);
+                                final JSONObject ciaJSON = string != null ? new JSONObject(string) : new JSONObject();
                                 final CIAValues values = new CIAValues(ciaJSON);
                                 final HashSet<SovereignStateResource> resources = getResourcesFrom(values);
                                 countries.put(shortName, resources);
@@ -119,10 +119,10 @@ public enum CIAServices implements CountryService {
                 }
                 final CIAValues values = new CIAValues(key, summaryURL, travelFactsURL);
                 string = values.toServerJSON();
+                WLLogger.logInfo(getInfo().name() + " - loaded \"" + shortName + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
             } else {
                 WLLogger.logError(this, missingMessage);
             }
-            WLLogger.logInfo(getInfo().name() + " - loaded \"" + shortName + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
         } else {
             WLLogger.logError(this, missingMessage);
         }

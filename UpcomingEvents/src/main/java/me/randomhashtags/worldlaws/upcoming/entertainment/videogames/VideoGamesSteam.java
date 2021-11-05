@@ -8,7 +8,9 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.time.Month;
+import java.util.Arrays;
 import java.util.HashSet;
+import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public final class VideoGamesSteam extends UpcomingEventController {
@@ -154,9 +156,21 @@ public final class VideoGamesSteam extends UpcomingEventController {
         final String searchURL = "https://en.wikipedia.org/w/index.php?search=" + gameName + "&title=Special:Search&profile=advanced&fulltext=1&ns0=1";
         final Document doc = getDocument(searchURL);
         if(doc != null) {
-            final Element pageElement = doc.selectFirst("div.mw-body-content div.searchresults p.mw-search-exists b a[href]");
+            final Element searchResults = doc.selectFirst("div.mw-body-content div.searchresults");
+            final Element pageElement = searchResults.selectFirst("p.mw-search-exists b a[href]");
             if(pageElement != null) {
                 return "https://en.wikipedia.org" + pageElement.attr("href");
+            }
+            final Element list = searchResults.selectFirst("ul.mw-search-results li.mw-search-result div.mw-search-result-heading a[href]");
+            if(list != null) {
+                final String[] targetText = list.text().toLowerCase().replace(":", "").split(" ");
+                final List<String> gameValues = Arrays.asList(gameName.toLowerCase().split("\\+"));
+                for(String term : targetText) {
+                    if(!gameValues.contains(term)) {
+                        return null;
+                    }
+                }
+                return "https://en.wikipedia.org" + list.attr("href");
             }
         }
         return null;

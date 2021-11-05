@@ -8,9 +8,7 @@ import org.json.JSONObject;
 
 import java.util.HashMap;
 
-public enum ITunesSearchAPI implements RestAPI {
-    INSTANCE;
-
+public interface ITunesSearchAPI extends RestAPI {
     private void search(String term, String media, String entity, CompletionHandler handler) {
         final String url = "https://itunes.apple.com/search";
         final HashMap<String, String> headers = new HashMap<>(), query = new HashMap<>();
@@ -22,7 +20,7 @@ public enum ITunesSearchAPI implements RestAPI {
         requestJSONObject(url, RequestMethod.GET, headers, query, handler);
     }
 
-    public void searchForMusicAlbum(String term, String artist, CompletionHandler handler) {
+    default void getITunesAlbum(String term, String artist, CompletionHandler handler) {
         search(term, "music", "album", new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
@@ -47,14 +45,13 @@ public enum ITunesSearchAPI implements RestAPI {
                             result.remove("currency");
                             result.remove("releaseDate");
                             result.remove("primaryGenreName");
+                            result.remove("country");
 
                             final String imageURL = result.getString("artworkUrl100").replace("/100x100bb.jpg", "/1000x1000bb.jpg");
                             result.put("imageURL", imageURL);
 
                             result.remove("artworkUrl60");
                             result.remove("artworkUrl100");
-                            result.put("url", result.getString("collectionViewUrl"));
-                            result.remove("collectionViewUrl");
                             handler.handleJSONObject(result);
                             return;
                         }

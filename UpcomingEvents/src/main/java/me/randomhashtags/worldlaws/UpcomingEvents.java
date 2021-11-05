@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
 import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
-import me.randomhashtags.worldlaws.service.ITunesSearchAPI;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.entertainment.*;
@@ -49,8 +48,8 @@ public final class UpcomingEvents implements WLServer {
     private String typesJSON;
 
     private void initialize() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -59,10 +58,36 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        ITunesSearchAPI.INSTANCE.searchForMusicAlbum("It'll All Make Sense in the End", "James Arthur", new CompletionHandler() {
+        final MusicAlbums musicAlbums = new MusicAlbums();
+        final String today = new EventDate(LocalDate.now()).getDateString();
+        musicAlbums.load(new CompletionHandler() {
             @Override
-            public void handleJSONObject(JSONObject json) {
-                WLLogger.logInfo("UpcomingEvents;test;json=" + json);
+            public void handleString(String string) {
+                final HashSet<String> values = new HashSet<>();
+                final HashSet<String> keys = new HashSet<>(musicAlbums.preUpcomingEvents.keySet());
+                keys.removeIf(id -> !id.startsWith(today + "."));
+                final int max = keys.size();
+                final AtomicInteger completed = new AtomicInteger(0);
+                for(String id : keys) {
+                    musicAlbums.loadUpcomingEvent(id, new CompletionHandler() {
+                        @Override
+                        public void handleString(String string) {
+                            if(string != null) {
+                                values.add(string);
+                            }
+                            if(completed.addAndGet(1) == max) {
+                                final StringBuilder builder = new StringBuilder("[");
+                                boolean isFirst = true;
+                                for(String value : values) {
+                                    builder.append(isFirst ? "" : ",").append(value);
+                                    isFirst = false;
+                                }
+                                builder.append("]");
+                                WLLogger.logInfo("UpcomingEvents;test;id=" + id + ";builder=" + builder.toString());
+                            }
+                        }
+                    });
+                }
             }
         });
         /*

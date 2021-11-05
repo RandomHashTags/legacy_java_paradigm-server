@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.service.ITunesSearchAPI;
 import me.randomhashtags.worldlaws.service.SpotifyService;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -16,7 +17,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public final class MusicAlbums extends UpcomingEventController implements SpotifyService {
+public final class MusicAlbums extends UpcomingEventController implements SpotifyService, ITunesSearchAPI {
 
     @Override
     public UpcomingEventType getType() {
@@ -155,23 +156,23 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
                 getSpotifyAlbum(artists, album, new CompletionHandler() {
                     @Override
                     public void handleJSONObject(JSONObject spotifyDetails) {
-                        String imageURL = albumImageURL;
-                        if(spotifyDetails != null && spotifyDetails.has("imageURL")) {
-                            imageURL = spotifyDetails.getString("imageURL");
-                            spotifyDetails.remove("imageURL");
-                        }
-                        putUpcomingEvent(id, artist, album, imageURL, description, spotifyDetails, sources, handler);
+                        getITunesAlbum(album, artist, new CompletionHandler() {
+                            @Override
+                            public void handleJSONObject(JSONObject itunesDetails) {
+                                putUpcomingEvent(id, artist, album, albumImageURL, description, spotifyDetails, itunesDetails, sources, handler);
+                            }
+                        });
                     }
                 });
             } else {
-                putUpcomingEvent(id, artist, album, albumImageURL, description, null, sources, handler);
+                putUpcomingEvent(id, artist, album, albumImageURL, description, null, null, sources, handler);
             }
         } else {
             handler.handleString(null);
         }
     }
-    private void putUpcomingEvent(String id, String artist, String album, String imageURL, String description, JSONObject spotifyDetails, EventSources sources, CompletionHandler handler) {
-        final MusicAlbumEvent event = new MusicAlbumEvent(artist, album, imageURL, description, spotifyDetails, sources);
+    private void putUpcomingEvent(String id, String artist, String album, String imageURL, String description, JSONObject spotifyDetails, JSONObject itunesDetails, EventSources sources, CompletionHandler handler) {
+        final MusicAlbumEvent event = new MusicAlbumEvent(artist, album, imageURL, description, spotifyDetails, itunesDetails, sources);
         final String string = event.toString();
         putUpcomingEvent(id, string);
         handler.handleString(string);

@@ -79,6 +79,8 @@ public final class TVShows extends LoadedUpcomingEventController {
         final AtomicBoolean lock = new AtomicBoolean(true);
         final AtomicInteger page = new AtomicInteger(0);
         // RATE LIMIT IS 20 REQUESTS PER 10 SECONDS, PER IP ADDRESS
+        final String imageURLPrefix = "https://static.tvmaze.com/uploads/images/original_untouched/";
+        final int imageURLPrefixLength = imageURLPrefix.length();
         final CompletionHandler completionHandler = new CompletionHandler() {
             @Override
             public void handleJSONArray(JSONArray array) {
@@ -87,14 +89,20 @@ public final class TVShows extends LoadedUpcomingEventController {
                         final JSONObject json = (JSONObject) obj;
                         final String id = Integer.toString(json.getInt("id"));
                         final String name = json.getString("name"), status = json.getString("status");
-                        final String imageURL = json.has("image") && json.get("image") instanceof JSONObject ? json.getJSONObject("image").getString("original") : null;
+                        String imageURL = json.has("image") && json.get("image") instanceof JSONObject ? json.getJSONObject("image").getString("original") : null;
+
                         final JSONObject show = new JSONObject();
                         show.put("name", name);
                         if(imageURL != null) {
+                            if(imageURL.startsWith(imageURLPrefix)) {
+                                imageURL = imageURL.substring(imageURLPrefixLength);
+                            }
                             show.put("imageURL", imageURL);
                         }
-                        show.put("status", status);
-                        showNames.put(id, show);
+                        if(!showNames.has(status)) {
+                            showNames.put(status, new JSONObject());
+                        }
+                        showNames.getJSONObject(status).put(id, show);
                     }
                     if(page.addAndGet(1) % 20 == 0) {
                         try {
