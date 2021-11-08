@@ -32,6 +32,7 @@ public interface UserServer {
             case "shutdown":
             case "exit":
             case "close":
+            case "end":
                 stop();
                 stopListeningForUserInput();
                 return;

@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.SubdivisionLegal;
-import me.randomhashtags.worldlaws.country.SubdivisionLegislationType;
 import me.randomhashtags.worldlaws.country.SubdivisionStatuteChapter;
 import me.randomhashtags.worldlaws.country.SubdivisionStatuteIndex;
+import me.randomhashtags.worldlaws.recode.SubdivisionLegislationType;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -12,9 +12,9 @@ import java.util.HashMap;
 import java.util.List;
 
 public abstract class LawSubdivisionController implements Jsoupable {
-    private static final HashMap<LawSubdivisionController, StringBuilder> INDEX_BUILDERS = new HashMap<>();
+    protected static final HashMap<LawSubdivisionController, StringBuilder> INDEX_BUILDERS = new HashMap<>();
     protected static final HashMap<LawSubdivisionController, HashMap<String, String>> TABLE_OF_CHAPTERS_JSON = new HashMap<>();
-    private static final HashMap<LawSubdivisionController, HashMap<String, String>> STATUTES_JSON = new HashMap<>();
+    protected static final HashMap<LawSubdivisionController, HashMap<String, String>> STATUTES_JSON = new HashMap<>();
 
     protected final String indexesURL, tableOfChaptersURL, statutesListURL, statuteURL;
     protected final HashMap<String, String> statutes;
@@ -171,34 +171,34 @@ public abstract class LawSubdivisionController implements Jsoupable {
         return builder;
     }
 
-    public String getIndexesURL() {
+    public final String getIndexesURL() {
         return indexesURL;
     }
-    public String getTableOfChaptersURL() {
+    public final String getTableOfChaptersURL() {
         return tableOfChaptersURL;
     }
-    public String getStatutesListURL() {
+    public final String getStatutesListURL() {
         return statutesListURL;
     }
-    public String getStatuteURL() {
+    public final String getStatuteURL() {
         return statuteURL;
     }
 
-    public String getIndexesJSON() {
+    public final String getIndexesJSON() {
         if(!INDEX_BUILDERS.containsKey(this)) {
-            getIndexes();
+            final List<SubdivisionStatuteIndex> indexes = getIndexes();
         }
         return INDEX_BUILDERS.containsKey(this) ? INDEX_BUILDERS.get(this).toString() : null;
     }
     public abstract List<SubdivisionStatuteIndex> getIndexes();
-    public String getTableOfChapters(String title) {
+    public final String getTableOfChapters(String title) {
         if(!TABLE_OF_CHAPTERS_JSON.containsKey(this) || !TABLE_OF_CHAPTERS_JSON.get(this).containsKey(title)) {
             loadTableOfChapters(title);
         }
         return TABLE_OF_CHAPTERS_JSON.get(this).get(title);
     }
     public abstract void loadTableOfChapters(String title);
-    public String getStatuteList(String title, String chapter) {
+    public final String getStatuteList(String title, String chapter) {
         final String path = title + "." + chapter;
         if(!STATUTES_JSON.containsKey(this) || !STATUTES_JSON.get(this).containsKey(path)) {
             loadStatuteList(title, chapter);

@@ -10,6 +10,7 @@ import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
 import me.randomhashtags.worldlaws.upcoming.sports.MLB;
+import me.randomhashtags.worldlaws.upcoming.sports.NFL;
 import me.randomhashtags.worldlaws.upcoming.sports.UFC;
 import org.json.JSONObject;
 
@@ -58,58 +59,13 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final MusicAlbums musicAlbums = new MusicAlbums();
-        final String today = new EventDate(LocalDate.now()).getDateString();
-        musicAlbums.load(new CompletionHandler() {
+        final NFL nfl = new NFL();
+        nfl.load(new CompletionHandler() {
             @Override
             public void handleString(String string) {
-                final HashSet<String> values = new HashSet<>();
-                final HashSet<String> keys = new HashSet<>(musicAlbums.preUpcomingEvents.keySet());
-                keys.removeIf(id -> !id.startsWith(today + "."));
-                final int max = keys.size();
-                final AtomicInteger completed = new AtomicInteger(0);
-                for(String id : keys) {
-                    musicAlbums.loadUpcomingEvent(id, new CompletionHandler() {
-                        @Override
-                        public void handleString(String string) {
-                            if(string != null) {
-                                values.add(string);
-                            }
-                            if(completed.addAndGet(1) == max) {
-                                final StringBuilder builder = new StringBuilder("[");
-                                boolean isFirst = true;
-                                for(String value : values) {
-                                    builder.append(isFirst ? "" : ",").append(value);
-                                    isFirst = false;
-                                }
-                                builder.append("]");
-                                WLLogger.logInfo("UpcomingEvents;test;id=" + id + ";builder=" + builder.toString());
-                            }
-                        }
-                    });
-                }
+                WLLogger.logInfo("UpcomingEvents;test;string=" + string);
             }
         });
-        /*
-        final LocalDate now = LocalDate.now();
-        final HashSet<String> dates = new HashSet<>();
-        dates.add(getEventStringForDate(now));
-        dates.add(getEventStringForDate(now.plusDays(1)));
-        dates.add(getEventStringForDate(now.plusDays(2)));
-        dates.add(getEventStringForDate(now.plusDays(3)));
-        dates.add(getEventStringForDate(now.plusDays(4)));
-        dates.add(getEventStringForDate(now.plusDays(5)));
-        dates.add(getEventStringForDate(now.plusDays(6)));
-        dates.add(getEventStringForDate(now.plusDays(7)));
-        final VideoGamesSteam steam = new VideoGamesSteam();
-        steam.getEventsFromDates(dates, new CompletionHandler() {
-            @Override
-            public void handleStringValue(String key, String value) {
-                for(String test : steam.upcomingEvents.values()) {
-                    WLLogger.logInfo(test);
-                }
-            }
-        });*/
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {

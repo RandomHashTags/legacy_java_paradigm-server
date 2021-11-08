@@ -10,6 +10,7 @@ import java.io.File;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
+import java.net.URLConnection;
 import java.security.SecureRandom;
 import java.security.cert.CertificateException;
 import java.security.cert.X509Certificate;
@@ -68,14 +69,19 @@ public abstract class WLUtilities {
 
     public static Document getJsoupDocumentFrom(String url) throws Exception {
         final URL link = new URL(url);
-        final HttpsURLConnection connection = (HttpsURLConnection) link.openConnection();
+        final URLConnection connection = link.openConnection();
         connection.setConnectTimeout(10_000);
-        connection.setRequestMethod(RequestMethod.GET.name());
-        connection.setHostnameVerifier(HttpsURLConnection.getDefaultHostnameVerifier());
         connection.setUseCaches(false);
         connection.setDoOutput(true);
+        connection.setRequestProperty("User-Agent", "Chromium/939171 (platform; rv:raspbian)");
+        int responseCode = 200;
+        if(connection instanceof HttpsURLConnection) {
+            final HttpsURLConnection httpsConnection = (HttpsURLConnection) connection;
+            httpsConnection.setRequestMethod(RequestMethod.GET.name());
+            httpsConnection.setHostnameVerifier(HttpsURLConnection.getDefaultHostnameVerifier());
+            responseCode = httpsConnection.getResponseCode();
+        }
 
-        final int responseCode = connection.getResponseCode();
         if(responseCode >= 200 && responseCode < 400) {
             String line = null;
             final StringBuilder builder = new StringBuilder();

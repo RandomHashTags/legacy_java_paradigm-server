@@ -23,7 +23,7 @@ public abstract class WLLogger {
     public static void logInfo(String msg) {
         log(Level.INFO, msg);
     }
-    public static void log(Level level, String msg) {
+    private static void log(Level level, String msg) {
         LOGGER.log(level, msg);
     }
 }

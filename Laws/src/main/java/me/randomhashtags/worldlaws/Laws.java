@@ -1,8 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.usa.USLaws;
-import me.randomhashtags.worldlaws.country.usa.state.Minnesota;
-import org.json.JSONObject;
+import me.randomhashtags.worldlaws.country.usa.state.recode.Vermont;
 
 import java.util.HashMap;
 
@@ -19,8 +18,8 @@ public final class Laws implements WLServer {
     }
 
     private Laws() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -29,13 +28,13 @@ public final class Laws implements WLServer {
     }
 
     private void test() {
-        final Minnesota minnesota = Minnesota.INSTANCE;
-        final JSONObject json = new JSONObject(minnesota.getIndexesJSON());
-        for(String key : json.keySet()) {
-            final String string = minnesota.getTableOfChapters(key);
-            WLLogger.logInfo("Laws;test;string=" + string);
-            break;
-        }
+        final Vermont minnesota = Vermont.INSTANCE;
+        minnesota.getStatute("16APPENDIX", "1", "6", new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                WLLogger.logInfo("Laws;test;string=" + string);
+            }
+        });
     }
 
     @Override
@@ -54,7 +53,7 @@ public final class Laws implements WLServer {
         switch (key) {
             case "recent_activity":
                 if(values.length >= 2) {
-                    final LawController controller = valueOfCountry(values[1]);
+                    final LawController controller = countries.get(values[1]);
                     if(controller != null) {
                         controller.getRecentActivity(version, handler);
                         return;
@@ -87,15 +86,6 @@ public final class Laws implements WLServer {
 
     @Override
     public AutoUpdateSettings getAutoUpdateSettings() {
-        return null;
-    }
-
-    private LawController valueOfCountry(String countryBackendID) {
-        for(LawController controller : CONTROLLERS) {
-            if(controller.getCountry().getBackendID().equals(countryBackendID)) {
-                return controller;
-            }
-        }
         return null;
     }
 }

@@ -55,6 +55,7 @@ public final class UFC extends USAUpcomingEventController {
                         });
                         return;
                     }
+                    break;
                 }
             }
         }

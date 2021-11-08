@@ -7,6 +7,31 @@ import java.util.stream.IntStream;
 
 public final class BandwidthTester implements UserServer, RestAPI {
 
+    private static final Random RANDOM = new Random();
+    private static final List<String> REQUESTS = Arrays.asList(
+            "ping",
+            "home",
+            "home?q=countries",
+
+            "countries/home",
+            "countries/filters",
+            "countries/countries",
+            "countries/information/unitedstates",
+            "countries/information/mexico",
+            "countries/information/japan",
+
+            "weather/alerts/all",
+            "weather/alerts/country/unitedstates",
+            "weather/alerts/subdivision/unitedstates/minnesota",
+            "weather/earthquakes/recent",
+
+            "upcomingevents/home",
+            "upcomingevents/event_types",
+            "upcomingevents/holidays/all",
+            "upcomingevents/holidays/all/unitedstates",
+            "upcomingevents/holidays/near"
+    );
+
     public static void main(String[] args) {
         new BandwidthTester();
     }
@@ -51,7 +76,8 @@ public final class BandwidthTester implements UserServer, RestAPI {
     }
     private void makeRequest(HashMap<String, String> headers, int number, int max) {
         final long started = System.currentTimeMillis();
-        requestJSONObject("http://localhost:0/v1/home", false, RequestMethod.GET, headers, new CompletionHandler() {
+        final String target = REQUESTS.get(RANDOM.nextInt(REQUESTS.size()));
+        requestJSONObject("http://localhost:0/v1/" + target, false, RequestMethod.GET, headers, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
                 WLLogger.logInfo("BandwidthTester - completed request #" + number + " out of " + max + " (took " + (System.currentTimeMillis()-started) + "ms)");

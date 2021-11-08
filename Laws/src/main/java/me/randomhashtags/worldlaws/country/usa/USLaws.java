@@ -8,10 +8,12 @@ import me.randomhashtags.worldlaws.country.usa.federal.PreCongressBill;
 import me.randomhashtags.worldlaws.country.usa.federal.USCongress;
 import me.randomhashtags.worldlaws.country.usa.service.UnitedStatesProject;
 import me.randomhashtags.worldlaws.country.usa.state.*;
+import me.randomhashtags.worldlaws.country.usa.state.recode.*;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.Connecticut;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.Indiana;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.NorthCarolina;
 import me.randomhashtags.worldlaws.country.usa.state.unfinished.Oregon;
+import me.randomhashtags.worldlaws.recode.TestLawSubdivisionController;
 
 import java.time.LocalDate;
 import java.util.Arrays;
@@ -99,11 +101,14 @@ public final class USLaws extends LawController {
                 break;
             case "subdivision":
                 final String[] subdivisionValues = input.substring(key.length()+1).split("/");
-                String response = getSubdivisionResponse(subdivisionValues);
-                if(response == null) {
-                    WLLogger.logError(this, "getSubdivisionResponse(" + input + ") == null!");
+                try {
+                    final SubdivisionsUnitedStates usstate = SubdivisionsUnitedStates.valueOf(subdivisionValues[0].toUpperCase());
+                    handleSubdivisionResponse(usstate, subdivisionValues, handler);
+                    return;
+                } catch (Exception e) {
+                    WLUtilities.saveException(e);
                 }
-                handler.handleString(response);
+                handler.handleString(null);
                 break;
             default:
                 WLLogger.logError(this, "getResponse(" + input + ") == null!");
@@ -134,8 +139,43 @@ public final class USLaws extends LawController {
         }
     }
 
-    private String getSubdivisionResponse(String[] values) {
-        final SubdivisionsUnitedStates usstate = SubdivisionsUnitedStates.valueOf(values[0].toUpperCase());
+    private void handleSubdivisionResponse(SubdivisionsUnitedStates usstate, String[] values, CompletionHandler handler) {
+        final TestLawSubdivisionController controller = getSubdivisionFrom(usstate);
+        if(controller != null) {
+            final int length = values.length;
+            switch (length) {
+                case 1:
+                    controller.getIndexes(handler);
+                    return;
+                case 2:
+                    final String[] array = values[1].split("\\+");
+                    final String zero = array[0];
+                    switch (array.length) {
+                        case 1:
+                            controller.getTableOfChapters(zero, handler);
+                            return;
+                        case 2:
+                            controller.getStatutesList(zero, array[1], handler);
+                            return;
+                        case 3:
+                            controller.getStatute(zero, array[1], array[2], handler);
+                            return;
+                        default:
+                            break;
+                    }
+                default:
+                    break;
+            }
+        } else {
+            final String response = getSubdivisionResponse(usstate, values);
+            if(response != null) {
+                handler.handleString(response);
+                return;
+            }
+        }
+        handler.handleString(null);
+    }
+    private String getSubdivisionResponse(SubdivisionsUnitedStates usstate, String[] values) {
         final LawSubdivisionController state = getStateFrom(usstate);
         if(state != null) {
             final int length = values.length;
@@ -158,20 +198,31 @@ public final class USLaws extends LawController {
         return null;
     }
 
+    private TestLawSubdivisionController getSubdivisionFrom(SubdivisionsUnitedStates state) {
+        switch (state) {
+            case ARIZONA: return Arizona.INSTANCE;
+            case DELAWARE: return Delaware.INSTANCE;
+            case FLORIDA: return Florida.INSTANCE;
+            case IDAHO: return Idaho.INSTANCE;
+            case MICHIGAN: return Michigan.INSTANCE;
+            case MINNESOTA: return Minnesota.INSTANCE;
+            case NEW_HAMPSHIRE: return NewHampshire.INSTANCE;
+            case OHIO: return Ohio.INSTANCE;
+            case VERMONT: return Vermont.INSTANCE;
+            case WASHINGTON: return Washington.INSTANCE;
+            default: return null;
+        }
+    }
     private LawSubdivisionController getStateFrom(SubdivisionsUnitedStates state) {
         switch (state) {
             case ALABAMA: return null; // incomplete - http://alisondb.legislature.state.al.us/alison/codeofalabama/1975/coatoc.htm
             case ALASKA: return Alaska.INSTANCE;
             case ARKANSAS: return null; // incomplete - https://advance.lexis.com/container?config=00JAA3ZTU0NTIzYy0zZDEyLTRhYmQtYmRmMS1iMWIxNDgxYWMxZTQKAFBvZENhdGFsb2cubRW4ifTiwi5vLw6cI1uX&crid=c09db75f-5410-4ac2-9710-5f75d54774b2
-            case ARIZONA: return Arizona.INSTANCE;
             case CALIFORNIA: return null;
             case COLORADO: return null;
             case CONNECTICUT: return Connecticut.INSTANCE; // incomplete - unable to get correct index document
-            case DELAWARE: return Delaware.INSTANCE;
-            case FLORIDA: return Florida.INSTANCE;
             case GEORGIA: return null; // incomplete - https://advance.lexis.com/container?config=00JAAzZDgzNzU2ZC05MDA0LTRmMDItYjkzMS0xOGY3MjE3OWNlODIKAFBvZENhdGFsb2fcIFfJnJ2IC8XZi1AYM4Ne&crid=7e31b0f3-f5ae-469c-aaab-6dc43140c8b2
             case HAWAII: return null;
-            case IDAHO: return Idaho.INSTANCE;
             case ILLINOIS: return null;
             case INDIANA: return Indiana.INSTANCE; // incomplete - unable to get correct index document
             case IOWA: return Iowa.INSTANCE; // completed - fix statutes (pdf/rtf)
@@ -181,20 +232,16 @@ public final class USLaws extends LawController {
             case MAINE: return null; // incomplete - http://www.mainelegislature.org/legis/statutes/
             case MARYLAND: return null; // incomplete - doesn't have titles, only chapters (http://mgaleg.maryland.gov/mgawebsite/Laws/Statutes)
             case MASSACHUSETTS: return null; // TODO: support parts
-            case MICHIGAN: return Michigan.INSTANCE;
-            case MINNESOTA: return Minnesota.INSTANCE;
             case MISSISSIPPI: return null;
             case MISSOURI: return Missouri.INSTANCE;
             case MONTANA: return Montana.INSTANCE; // completed - fix statutes list (support parts)
             case NEBRASKA: return null; // incomplete - doesn't have titles, only chapters (https://www.nebraskalegislature.gov/laws/browse-statutes.php)
             case NEVADA: return null;
-            case NEW_HAMPSHIRE: return NewHampshire.INSTANCE;
             case NEW_JERSEY: return null;
             case NEW_MEXICO: return null; // incomplete - doesn't have titles, only chapters (https://nmonesource.com/nmos/nmsa/en/nav_alpha.do)
             case NEW_YORK: return null; // incomplete - doesn't have titles (http://public.leginfo.state.ny.us/lawssrch.cgi?NVLWO:)
             case NORTH_CAROLINA: return NorthCarolina.INSTANCE; // incomplete - pdf
             case NORTH_DAKOTA: return NorthDakota.INSTANCE; // completed - fix statutes (pdf)
-            case OHIO: return Ohio.INSTANCE;
             case OKLAHOMA: return null; // only available to download as rtf
             case OREGON: return Oregon.INSTANCE; // incomplete - unable to get correct index document
             case PENNSYLVANIA: return Pennsylvania.INSTANCE;
@@ -204,9 +251,7 @@ public final class USLaws extends LawController {
             case TENNESSEE: return null; // incomplete - https://advance.lexis.com/container?config=014CJAA5ZGVhZjA3NS02MmMzLTRlZWQtOGJjNC00YzQ1MmZlNzc2YWYKAFBvZENhdGFsb2e9zYpNUjTRaIWVfyrur9ud&crid=bac664b6-23a1-4129-b54b-a8f0e6612a09
             case TEXAS: return null;
             case UTAH: return Utah.INSTANCE; // incomplete - index unable to get correct index document
-            case VERMONT: return Vermont.INSTANCE;
             case VIRGINIA: return Virginia.INSTANCE;
-            case WASHINGTON: return Washington.INSTANCE;
             case WEST_VIRGINA: return WestVirginia.INSTANCE;
             case WISCONSIN: return Wisconsin.INSTANCE; // completed - fix statutes
             case WYOMING: return null;

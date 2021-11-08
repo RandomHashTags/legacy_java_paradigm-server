@@ -1,10 +1,11 @@
 package me.randomhashtags.worldlaws;
 
+import java.util.LinkedHashMap;
 import java.util.TreeMap;
 
 public final class RomanNumeral {
     private final static TreeMap<Integer, String> INTEGERS;
-    private final static TreeMap<String, Integer> STRINGS;
+    private final static LinkedHashMap<String, Integer> STRINGS;
     static {
         INTEGERS = new TreeMap<>();
         INTEGERS.put(1000, "M");
@@ -21,7 +22,7 @@ public final class RomanNumeral {
         INTEGERS.put(4, "IV");
         INTEGERS.put(1, "I");
 
-        STRINGS = new TreeMap<>();
+        STRINGS = new LinkedHashMap<>();
         STRINGS.put("CM", 900);
         STRINGS.put("M", 1000);
         STRINGS.put("CD", 400);

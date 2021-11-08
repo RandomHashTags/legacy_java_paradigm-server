@@ -11,20 +11,18 @@ public final class NFL extends USAUpcomingEventController {
 
     @Override
     public UpcomingEventType getType() {
-        return null;
+        return UpcomingEventType.SPORT_NFL;
     }
 
     @Override
     public void load(CompletionHandler handler) {
-        final String url = "https://www.nfl.com/schedules/";
+        final String url = "https://www.nfl.com/schedules/2021/REG10/";
         final Document doc = getDocument(url);
         if(doc != null) {
-            WLLogger.logInfo("doc=" + doc.toString());
-            final Elements dates = doc.select("div.d3-l-wrap main div section.d3-l-grid-outer");
-            handler.handleString(null);
-        } else {
-            handler.handleString(null);
+            final Elements dates = doc.select("div.d3-l-wrap main div section.d3-l-grid--outer");
+            WLLogger.logInfo("NFL;dates=" + dates.toString());
         }
+        handler.handleString(null);
     }
 
     @Override

@@ -14,6 +14,7 @@ public enum UpcomingEventType {
 
     SPORT_CHAMPIONSHIPS,
     SPORT_MLB,
+    SPORT_NFL,
     SPORT_UFC,
 
     TV_SHOW,

@@ -13,7 +13,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 public abstract class UpcomingEventController implements YouTubeService, Jsoupable, DataValues {
     private final ConcurrentHashMap<String, String> loadedPreUpcomingEvents, upcomingEvents;
-    public final ConcurrentHashMap<String, PreUpcomingEvent> preUpcomingEvents;
+    private final ConcurrentHashMap<String, PreUpcomingEvent> preUpcomingEvents;
 
     public UpcomingEventController() {
         loadedPreUpcomingEvents = new ConcurrentHashMap<>();
@@ -52,7 +52,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
 
     public String getEventDateIdentifier(String dateString, String title) {
         final String id = LocalServer.fixEscapeValues(title).replaceAll("\\\\u[A-Fa-f\\d]{4}", "");
-        return dateString + "." + id.replace(" ", "").replace("|", "_").replace("/", "-").replace(":", "-");
+        return dateString + "." + id.replace(" ", "").replace("|", "_").replace("/", "-").replace(":", "-").replace("\"", "_").replace("'", "_");
     }
     public String getEventDateString(EventDate date) {
         return getEventDateString(date.getYear(), date.getMonth(), date.getDay());
