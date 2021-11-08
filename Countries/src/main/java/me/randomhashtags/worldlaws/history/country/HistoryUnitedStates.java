@@ -1,11 +1,11 @@
-package me.randomhashtags.worldlaws.country.history;
+package me.randomhashtags.worldlaws.history.country;
 
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLUtilities;
-import me.randomhashtags.worldlaws.country.CountryHistoryEra;
-import me.randomhashtags.worldlaws.country.CountryHistorySection;
-import me.randomhashtags.worldlaws.country.ICountryHistory;
+import me.randomhashtags.worldlaws.history.CountryHistoryEra;
+import me.randomhashtags.worldlaws.history.CountryHistorySection;
+import me.randomhashtags.worldlaws.history.ICountryHistory;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Node;

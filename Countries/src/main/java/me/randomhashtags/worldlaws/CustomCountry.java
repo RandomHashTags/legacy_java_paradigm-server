@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.*;
+import me.randomhashtags.worldlaws.history.CountryHistory;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilities;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
@@ -19,7 +20,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 public final class CustomCountry implements SovereignState {
 
     private final String unStatus, sovereigntyDispute, shortName, name;
-    private String isoAlpha2, flagEmoji;
+    private String isoAlpha2, isoAlpha3, flagEmoji;
     private int currentGovernmentAdministration;
     private HashSet<Integer> governmentAdministrations;
     private WLTimeZone[] timezones;
@@ -60,6 +61,7 @@ public final class CustomCountry implements SovereignState {
         final WLCountry wlcountry = getWLCountry();
         if(wlcountry != null) {
             isoAlpha2 = wlcountry.getISOAlpha2();
+            isoAlpha3 = wlcountry.getISOAlpha3();
             if(flagEmoji == null) {
                 flagEmoji = StringEscapeUtils.escapeJava(wlcountry.getFlagEmoji());
             }
@@ -117,12 +119,6 @@ public final class CustomCountry implements SovereignState {
                     if(country != null) {
                         final HashSet<CountryService> services = new HashSet<>(CountryServices.SERVICES);
                         final List<SovereignStateResource> resources = new ArrayList<>();
-
-                        final WLConstitution constitution = country.getConstitution();
-                        if(constitution != null) {
-                            resources.add(new SovereignStateResource("Government Constitution", constitution.getURL()));
-                            resources.add(new SovereignStateResource("Government Constitution (Wikipedia)", constitution.getWikipediaURL()));
-                        }
 
                         final String website = country.getGovernmentWebsite();
                         if(website != null) {
@@ -261,6 +257,7 @@ public final class CustomCountry implements SovereignState {
         final boolean hasGovernmentAdministrations = governmentAdministrations != null;
         return "\"" + name + "\":{" +
                 (isoAlpha2 != null ? "\"isoAlpha2\":\"" + isoAlpha2 + "\"," : "") +
+                (isoAlpha3 != null ? "\"isoAlpha3\":\"" + isoAlpha3 + "\"," : "") +
                 (unStatus != null ? "\"unStatus\":\"" + unStatus + "\"," : "") +
                 (sovereigntyDispute != null ? "\"sovereigntyDispute\":\"" + sovereigntyDispute + "\"," : "") +
                 (hasGovernmentAdministrations ? "\"currentGovernmentAdministration\":" + currentGovernmentAdministration + "," : "") +

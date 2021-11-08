@@ -1,8 +1,8 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.country.CountryHistory;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.history.CountryHistory;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
 import me.randomhashtags.worldlaws.info.agriculture.ProductionFoods;
@@ -52,18 +52,6 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        loadServices();
-        loadCountries(new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                getServerResponse(APIVersion.v1, "information/unitedstates", new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        WLLogger.logInfo("Countries;test;string=" + string);
-                    }
-                });
-            }
-        });
     }
 
     @Override

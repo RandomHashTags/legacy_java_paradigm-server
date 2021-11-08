@@ -8,16 +8,16 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public enum TargetServer implements RestAPI, DataValues {
-    COUNTRIES(WL_COUNTRIES_SERVER_IP),
-    ENVIRONMENT(WL_ENVIRONMENT_SERVER_IP),
-    FEEDBACK(WL_FEEDBACK_SERVER_IP),
-    LAWS(WL_LAWS_SERVER_IP),
-    NEWS(WL_NEWS_SERVER_IP),
-    SERVICES(WL_SERVICES_SERVER_IP),
-    SPACE(WL_SPACE_SERVER_IP),
-    TECHNOLOGY(WL_TECHNOLOGY_SERVER_IP),
-    UPCOMING_EVENTS(WL_UPCOMING_EVENTS_SERVER_IP),
-    WEATHER(WL_WEATHER_SERVER_IP),
+    COUNTRIES,
+    ENVIRONMENT,
+    FEEDBACK,
+    LAWS,
+    NEWS,
+    SERVICES,
+    SPACE,
+    TECHNOLOGY,
+    UPCOMING_EVENTS,
+    WEATHER,
 
     HOME,
     PING,
@@ -25,6 +25,7 @@ public enum TargetServer implements RestAPI, DataValues {
     COMBINE,
     ;
 
+    private static final JSONObject SERVER_JSON = Jsonable.getSettingsJSON().getJSONObject("server");
     private static final HashMap<APIVersion, JSONObject> HOME_JSON;
     private static final HashMap<APIVersion, HashMap<HashSet<String>, String>> HOME_JSON_QUERIES;
     private static final HashMap<String, TargetServer> BACKEND_IDS;
@@ -38,16 +39,35 @@ public enum TargetServer implements RestAPI, DataValues {
         }
     }
 
-    private String ipAddress;
+    private final String ipAddress;
     private int port;
     private String pingResponseCache;
 
     TargetServer() {
+        ipAddress = getIpAddress();
     }
-    TargetServer(String ipAddress) {
-        this.ipAddress = ipAddress;
-        final String[] values = ipAddress.split(":");
-        this.port = Integer.parseInt(values[values.length-1]);
+
+    private String getIpAddress()  {
+        if(isRealServer()) {
+            final JSONObject target = SERVER_JSON.getJSONObject("servers").getJSONObject(name().toLowerCase());
+            port = target.getInt("port");
+            final String addressKey = "address";
+            final String ip = target.has(addressKey) ? target.getString(addressKey) : SERVER_JSON.getString("default_address");
+            return ip + ":" + port;
+        }
+        return null;
+    }
+
+    public boolean isRealServer() {
+        switch (this) {
+            case HOME:
+            case PING:
+            case INAPPPURCHASES:
+            case COMBINE:
+                return false;
+            default:
+                return true;
+        }
     }
 
     public String getBackendID() {
@@ -67,7 +87,7 @@ public enum TargetServer implements RestAPI, DataValues {
     public int getResponseVersion() { // Only used if the server doesn't auto update its content
         switch (this) {
             case COUNTRIES:
-                return 4;
+                return 5;
             case ENVIRONMENT:
                 return 1;
             case SPACE:
@@ -156,7 +176,7 @@ public enum TargetServer implements RestAPI, DataValues {
         if(pingResponseCache == null) {
             final JSONObject json = new JSONObject(), responseVersions = new JSONObject();
             for(TargetServer server : values()) {
-                if(server.port > 0) {
+                if(server.isRealServer()) {
                     responseVersions.put(server.getBackendID(), server.getResponseVersion());
                 }
             }
@@ -291,7 +311,7 @@ public enum TargetServer implements RestAPI, DataValues {
     public static TargetServer valueOfBackendID(String backendID) {
         final TargetServer server = BACKEND_IDS.get(backendID);
         if(server == null) {
-            WLLogger.logError("TargetServer", "failed to find a server with backendID \"" + backendID + "\"!");
+            WLLogger.logError("TargetServer", "failed to find server with backendID \"" + backendID + "\"!");
         }
         return server;
     }

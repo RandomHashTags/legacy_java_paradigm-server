@@ -33,6 +33,9 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
     default String getWikipediaURL() {
         return "https://en.wikipedia.org/wiki/" + getName().replace(" ", "_");
     }
+    default boolean hasStatutes() {
+        return false;
+    }
     //String[] getMottos(); // TODO: implement (https://en.wikipedia.org/wiki/List_of_U.S._state_and_territory_mottos)
     default String[] collectMottos(String...mottos) {
         return mottos;
@@ -162,9 +165,11 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
     default String toJSON() {
         final String flagURL = getFlagURL();
         final WLTimeZone[] timezones = getTimeZones();
+        final boolean hasStatutes = hasStatutes();
         return "\"" + getName() + "\":{" +
-                (timezones != null ? "\"timezones\":" + getTimeZonesJSON(timezones) + (flagURL != null ? "," : "") : "") +
-                (flagURL != null ? "\"flagURL\":\"" + flagURL + "\"" : "") +
+                (timezones != null ? "\"timezones\":" + getTimeZonesJSON(timezones) + (flagURL != null || hasStatutes ? "," : "") : "") +
+                (flagURL != null ? "\"flagURL\":\"" + flagURL + "\"" + (hasStatutes ? "," : "") : "") +
+                (hasStatutes ? "\"hasStatutes\":true" : "") +
                 "}";
     }
 }

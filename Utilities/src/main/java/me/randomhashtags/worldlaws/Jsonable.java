@@ -29,7 +29,39 @@ public interface Jsonable {
         }
     }
 
-    default String getLocalFileString(Folder folder, String fileName, String extension) {
+    private static JSONObject getDefaultSettingsJSON() {
+        final JSONObject json = new JSONObject();
+
+        final JSONObject serverJSON = new JSONObject();
+        serverJSON.put("proxy_port", 0);
+        serverJSON.put("default_address", "http://localhost");
+        final JSONObject serversJSON = new JSONObject();
+        serversJSON.put("countries", getDefaultServerSettingsJSON(34551));
+        serversJSON.put("environment", getDefaultServerSettingsJSON(34552));
+        serversJSON.put("feedback", getDefaultServerSettingsJSON(34553));
+        serversJSON.put("laws", getDefaultServerSettingsJSON(34554));
+        serversJSON.put("news", getDefaultServerSettingsJSON(34555));
+        serversJSON.put("services", getDefaultServerSettingsJSON(34556));
+        serversJSON.put("space", getDefaultServerSettingsJSON(34557));
+        serversJSON.put("technology", getDefaultServerSettingsJSON(34558));
+        serversJSON.put("upcoming_events", getDefaultServerSettingsJSON(34559));
+        serversJSON.put("weather", getDefaultServerSettingsJSON(34560));
+        serverJSON.put("servers", serversJSON);
+
+        json.put("server", serverJSON);
+        return json;
+    }
+    private static JSONObject getDefaultServerSettingsJSON(int defaultPort) {
+        final JSONObject json = new JSONObject();
+        json.put("port", defaultPort);
+        return json;
+    }
+
+    static JSONObject getSettingsJSON() {
+        final JSONObject existing = getStaticLocalFileJSONObject(Folder.OTHER, "settings");
+        return existing != null ? existing : getDefaultSettingsJSON();
+    }
+    static String getStaticLocalFileString(Folder folder, String fileName, String extension) {
         final String directory = getFilePath(folder, fileName, extension);
         final Path path = Paths.get(directory);
         if(Files.exists(path)) {
@@ -41,13 +73,23 @@ public interface Jsonable {
         }
         return null;
     }
-    default JSONObject getLocalFileJSONObject(Folder folder, String fileName) {
-        final String string = getLocalFileString(folder, fileName, "json");
+    static JSONObject getStaticLocalFileJSONObject(Folder folder, String fileName) {
+        final String string = getStaticLocalFileString(folder, fileName, "json");
         return string != null ? new JSONObject(string) : null;
     }
-    default JSONArray getLocalFileJSONArray(Folder type, String fileName) {
-        final String string = getLocalFileString(type, fileName, "json");
+    static JSONArray getStaticFileJSONArray(Folder folder, String fileName) {
+        final String string = getStaticLocalFileString(folder, fileName, "json");
         return string != null ? new JSONArray(string) : null;
+    }
+
+    default String getLocalFileString(Folder folder, String fileName, String extension) {
+        return getStaticLocalFileString(folder, fileName, extension);
+    }
+    default JSONObject getLocalFileJSONObject(Folder folder, String fileName) {
+        return getStaticLocalFileJSONObject(folder, fileName);
+    }
+    default JSONArray getLocalFileJSONArray(Folder folder, String fileName) {
+        return getStaticFileJSONArray(folder, fileName);
     }
     default void getJSONObject(Folder folder, String fileName, CompletionHandler handler) {
         final JSONObject localFile = getLocalFileJSONObject(folder, fileName);

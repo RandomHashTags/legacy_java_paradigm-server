@@ -1,8 +1,11 @@
-package me.randomhashtags.worldlaws.country;
+package me.randomhashtags.worldlaws.history;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.country.history.HistoryUnitedStates;
+import me.randomhashtags.worldlaws.country.SovereignStateHistory;
+import me.randomhashtags.worldlaws.country.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.history.country.HistoryUnitedStates;
 import org.json.JSONObject;
 
 public enum CountryHistory implements SovereignStateHistory {

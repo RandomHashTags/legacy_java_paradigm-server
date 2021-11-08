@@ -306,14 +306,14 @@ public enum WLCountry {
     }
 
     public String getGovernmentWebsite() {
-        return WLGovernmentWebsite.INSTANCE.get(this);
+        return WLGovernmentWebsite.get(this);
     }
 
-    public WLConstitution getConstitution() {
-        return WLConstitution.get(this);
-    }
     public String getISOAlpha2() {
-        return WLCountryISOAlpha2.INSTANCE.get(this);
+        return WLCountryISOAlpha2.get(this);
+    }
+    public String getISOAlpha3() {
+        return WLCountryISOAlpha3.get(this);
     }
     public static WLCountry valueOfISOAlpha2(String isoAlpha2) {
         final WLCountry[] countries = WLCountry.values();

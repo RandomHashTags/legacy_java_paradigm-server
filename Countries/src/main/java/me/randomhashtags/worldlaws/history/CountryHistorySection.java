@@ -1,4 +1,4 @@
-package me.randomhashtags.worldlaws.country;
+package me.randomhashtags.worldlaws.history;
 
 import me.randomhashtags.worldlaws.LocalServer;
 

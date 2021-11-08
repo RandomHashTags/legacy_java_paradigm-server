@@ -1,9 +1,9 @@
 package me.randomhashtags.worldlaws.country;
 
 public enum WLCountryISOAlpha2 {
-    INSTANCE;
+    ;
 
-    public String get(WLCountry country) {
+    public static String get(WLCountry country) {
         switch (country) {
             case ABKHAZIA: return null;
             case ARTSAKH: return null;

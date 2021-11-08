@@ -1,0 +1,38 @@
+{
+  "server": {
+    "proxy_port": 0,
+    "default_address": "http://localhost",
+    "servers": {
+      "countries": {
+        "port": 0
+      },
+      "environment": {
+        "port": 0
+      },
+      "feedback": {
+        "port": 0
+      },
+      "laws": {
+        "port": 0
+      },
+      "news": {
+        "port": 0
+      },
+      "services": {
+        "port": 0
+      },
+      "space": {
+        "port": 0
+      },
+      "technology": {
+        "port": 0
+      },
+      "upcoming_events": {
+        "port": 0
+      },
+      "weather": {
+        "port": 0
+      }
+    }
+  }
+}
