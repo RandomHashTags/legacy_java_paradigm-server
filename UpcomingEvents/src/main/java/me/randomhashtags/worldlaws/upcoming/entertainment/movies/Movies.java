@@ -1,4 +1,4 @@
-package me.randomhashtags.worldlaws.upcoming.entertainment;
+package me.randomhashtags.worldlaws.upcoming.entertainment.movies;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.IMDbService;
@@ -93,6 +93,24 @@ public final class Movies extends UpcomingEventController implements IMDbService
             }
         }
         handler.handleString(null);
+    }
+
+    @Override
+    public void getResponse(String input, CompletionHandler handler) {
+        final String[] values = input.split("/");
+        final String key = values[0];
+        switch (key) {
+            case "productionCompanies":
+                MovieProductionCompanies.getResponse(input.substring(key.length()), handler);
+                break;
+            default:
+                super.getResponse(input, handler);
+                break;
+        }
+    }
+
+    private void getProductionCompanies(CompletionHandler handler) {
+
     }
 
     @Override

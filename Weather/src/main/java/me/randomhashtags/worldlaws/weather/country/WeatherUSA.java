@@ -209,7 +209,7 @@ public enum WeatherUSA implements WeatherController {
             };
             zones.parallelStream().forEach(zoneID -> getZone(zoneID, completionHandler));
         } else {
-            handler.handleString("{}");
+            handler.handleString(null);
         }
     }
 
@@ -221,7 +221,9 @@ public enum WeatherUSA implements WeatherController {
         final CompletionHandler completionHandler = new CompletionHandler() {
             @Override
             public void handleString(String string) {
-                zoneJSONs.add(string);
+                if(string != null) {
+                    zoneJSONs.add(string);
+                }
                 if(completed.addAndGet(1) == max) {
                     final StringBuilder builder = new StringBuilder("[");
                     boolean isFirst = true;
