@@ -6,7 +6,7 @@ import me.randomhashtags.worldlaws.country.usa.state.recode.Vermont;
 import java.util.HashMap;
 
 public final class Laws implements WLServer {
-
+    public static final Laws INSTANCE = new Laws();
     private HashMap<String, LawController> countries;
 
     private final LawController[] CONTROLLERS = new LawController[] {
@@ -14,10 +14,10 @@ public final class Laws implements WLServer {
     };
 
     public static void main(String[] args) {
-        new Laws();
+        INSTANCE.init();
     }
 
-    private Laws() {
+    private void init() {
         test();
         //load();
     }

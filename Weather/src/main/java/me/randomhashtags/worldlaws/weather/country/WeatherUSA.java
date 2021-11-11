@@ -94,7 +94,7 @@ public enum WeatherUSA implements WeatherController {
                             final SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(territoryAbbreviation);
                             final String subdivisionName = subdivision != null ? subdivision.getName() : "Unknown";
                             if(subdivisionName.equals("Unknown")) {
-                                WLLogger.logError(this, "refresh - json != null - failed to find subdivision with string \"" + territoryAbbreviation + "\" from sender \"" + senderName + "\"!");
+                                WLLogger.logError(INSTANCE, "refresh - json != null - failed to find subdivision with string \"" + territoryAbbreviation + "\" from sender \"" + senderName + "\"!");
                             }
                             final String severityString = properties.getString("severity"), severity = severityString.equals("Unknown") ? "-1" : severityString;
                             final String certainty = properties.getString("certainty");
@@ -297,7 +297,7 @@ public enum WeatherUSA implements WeatherController {
                 });
                 break;
             default:
-                WLLogger.logError(this, "getGeometry - uncaught geometryType \"" + geometryType + "\"!");
+                WLLogger.logError(INSTANCE, "getGeometry - uncaught geometryType \"" + geometryType + "\"!");
                 break;
         }
         return geometry;

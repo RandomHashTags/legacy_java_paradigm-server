@@ -22,7 +22,7 @@ public final class CanadaLaws extends LawController {
     }
 
     @Override
-    public void loadRecentActivity(APIVersion version, CompletionHandler handler) {
+    public void refreshRecentActivity(APIVersion version, CompletionHandler handler) {
         handler.handleString(null);
     }
 

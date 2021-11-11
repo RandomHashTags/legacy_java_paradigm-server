@@ -21,7 +21,7 @@ import java.time.Month;
 import java.util.concurrent.TimeUnit;
 
 public abstract class WLUtilities {
-    //public static final long LAWS_HOME_RESPONSE_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(30);
+    public static final long LAWS_RECENT_ACTIVITY_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(30);
     public static final long SAVE_STATISTICS_INTERVAL = TimeUnit.MINUTES.toMillis(15);
     public static final long PROXY_PING_RESPONSE_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);
     public static final long PROXY_HOME_RESPONSE_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);

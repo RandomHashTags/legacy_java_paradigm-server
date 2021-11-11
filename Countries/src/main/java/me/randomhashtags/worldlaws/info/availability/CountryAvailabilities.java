@@ -95,7 +95,6 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
     public void getCountryAvailabilities(String countryBackendID, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         getJSONObject(Folder.COUNTRIES_AVAILABILITIES, countryBackendID, new CompletionHandler() {
-
             @Override
             public void load(CompletionHandler handler) {
                 final ConcurrentHashMap<Boolean, ConcurrentHashMap<String, HashSet<String>>> values = new ConcurrentHashMap<>();

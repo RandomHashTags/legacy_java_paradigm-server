@@ -90,7 +90,7 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
             case IDAHO: return "ID";
             case ILLINOIS: return "IL";
             case INDIANA: return "IN";
-            case IOWA: return "IO";
+            case IOWA: return "IA";
             case KANSAS: return "KS";
             case KENTUCKY: return "KY";
             case LOUISIANA: return "LA";

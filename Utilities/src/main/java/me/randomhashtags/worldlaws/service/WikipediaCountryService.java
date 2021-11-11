@@ -163,7 +163,6 @@ public final class WikipediaCountryService implements CountryService {
     }
 
     private void getFeaturedPictures(String tag, CompletionHandler handler) {
-        final WikipediaCountryService self = this;
         getJSONObject(featuredPicturesFolder, tag, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
@@ -203,7 +202,6 @@ public final class WikipediaCountryService implements CountryService {
                     builder.append("}");
                     handler.handleString(builder.toString());
                 } else {
-                    WLLogger.logError(self, "missing Featured Pictures for country \"" + country + "\"");
                     handler.handleString(null);
                 }
             }
