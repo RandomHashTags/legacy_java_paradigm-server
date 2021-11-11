@@ -1,10 +1,10 @@
 package me.randomhashtags.worldlaws;
 
-import java.util.HashMap;
 import java.util.Scanner;
+import java.util.concurrent.ConcurrentHashMap;
 
 public interface UserServer {
-    HashMap<UserServer, Scanner> INPUT_SCANNERS = new HashMap<>();
+    ConcurrentHashMap<UserServer, Scanner> INPUT_SCANNERS = new ConcurrentHashMap<>();
 
     void start();
     void stop();
@@ -21,13 +21,15 @@ public interface UserServer {
     }
     default String getUserInput() {
         final Scanner scanner = INPUT_SCANNERS.get(this);
-        return scanner.hasNext() ? scanner.next() : null;
+        return scanner != null && scanner.hasNextLine() ? scanner.nextLine() : null;
     }
     private void executeUserInput(String input) {
         if(input == null) {
             return;
         }
-        switch (input.toLowerCase()) {
+        final String[] values = input.split(" ");
+        final String key = values[0];
+        switch (key) {
             case "stop":
             case "shutdown":
             case "exit":
@@ -45,6 +47,12 @@ public interface UserServer {
                 break;
             case "save":
                 saveStatistics();
+                break;
+            case "startmaintenance":
+                TargetServer.setMaintenanceMode(true, input.substring(key.length()+1));
+                break;
+            case "endmaintenance":
+                TargetServer.setMaintenanceMode(false, null);
                 break;
             default:
                 break;

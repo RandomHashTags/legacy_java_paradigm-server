@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import org.apache.logging.log4j.Level;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -36,24 +35,26 @@ public interface Jsonable {
         serverJSON.put("proxy_port", 0);
         serverJSON.put("default_address", "http://localhost");
         final JSONObject serversJSON = new JSONObject();
-        serversJSON.put("countries", getDefaultServerSettingsJSON(34551));
-        serversJSON.put("environment", getDefaultServerSettingsJSON(34552));
-        serversJSON.put("feedback", getDefaultServerSettingsJSON(34553));
-        serversJSON.put("laws", getDefaultServerSettingsJSON(34554));
-        serversJSON.put("news", getDefaultServerSettingsJSON(34555));
-        serversJSON.put("services", getDefaultServerSettingsJSON(34556));
-        serversJSON.put("space", getDefaultServerSettingsJSON(34557));
-        serversJSON.put("technology", getDefaultServerSettingsJSON(34558));
-        serversJSON.put("upcoming_events", getDefaultServerSettingsJSON(34559));
-        serversJSON.put("weather", getDefaultServerSettingsJSON(34560));
+        for(TargetServer server : TargetServer.values()) {
+            if(server.isRealServer()) {
+                serversJSON.put(server.getNameLowercase(), getDefaultServerSettingsJSON(server));
+            }
+        }
         serverJSON.put("servers", serversJSON);
 
         json.put("server", serverJSON);
         return json;
     }
-    private static JSONObject getDefaultServerSettingsJSON(int defaultPort) {
+    private static JSONObject getDefaultServerSettingsJSON(TargetServer server) {
         final JSONObject json = new JSONObject();
-        json.put("port", defaultPort);
+        json.put("port", server.getDefaultPort());
+        switch (server) {
+            case COUNTRIES:
+                json.put("response_version", 5);
+                break;
+            default:
+                break;
+        }
         return json;
     }
 
@@ -81,18 +82,8 @@ public interface Jsonable {
         final String string = getStaticLocalFileString(folder, fileName, "json");
         return string != null ? new JSONArray(string) : null;
     }
-
-    default String getLocalFileString(Folder folder, String fileName, String extension) {
-        return getStaticLocalFileString(folder, fileName, extension);
-    }
-    default JSONObject getLocalFileJSONObject(Folder folder, String fileName) {
-        return getStaticLocalFileJSONObject(folder, fileName);
-    }
-    default JSONArray getLocalFileJSONArray(Folder folder, String fileName) {
-        return getStaticFileJSONArray(folder, fileName);
-    }
-    default void getJSONObject(Folder folder, String fileName, CompletionHandler handler) {
-        final JSONObject localFile = getLocalFileJSONObject(folder, fileName);
+    static void getStaticJSONObject(Folder folder, String fileName, CompletionHandler handler) {
+        final JSONObject localFile = getStaticLocalFileJSONObject(folder, fileName);
         if(localFile != null) {
             handler.handleJSONObject(localFile);
         } else {
@@ -119,6 +110,16 @@ public interface Jsonable {
                 }
             });
         }
+    }
+
+    default String getLocalFileString(Folder folder, String fileName, String extension) {
+        return getStaticLocalFileString(folder, fileName, extension);
+    }
+    default JSONArray getLocalFileJSONArray(Folder folder, String fileName) {
+        return getStaticFileJSONArray(folder, fileName);
+    }
+    default void getJSONObject(Folder folder, String fileName, CompletionHandler handler) {
+        getStaticJSONObject(folder, fileName, handler);
     }
 
     default void getJSONArray(Folder type, String fileName, CompletionHandler handler) {
@@ -149,28 +150,28 @@ public interface Jsonable {
             });
         }
     }
-    default void setFileJSONObject(Folder type, String fileName, JSONObject json) {
-        setFileJSON(type, fileName, json);
+    default void setFileJSONObject(Folder folder, String fileName, JSONObject json) {
+        setFileJSON(folder, fileName, json);
     }
-    default void setFileJSONArray(Folder type, String fileName, JSONArray array) {
-        setFileJSON(type, fileName, array);
+    default void setFileJSONArray(Folder folder, String fileName, JSONArray array) {
+        setFileJSON(folder, fileName, array);
     }
-    default void setFileJSON(Folder type, String fileName, String value) {
-        setFileJSON(type, fileName, (Object) value);
+    default void setFileJSON(Folder folder, String fileName, String value) {
+        setFileJSON(folder, fileName, (Object) value);
     }
     private void setFileJSON(Folder folder, String fileName, Object value) {
-        writeFile(null, Level.INFO, folder, fileName, value, "json", true);
+        writeFile(null, folder, fileName, value, "json", true);
     }
     static void saveFileJSON(Folder folder, String fileName, String value) {
         saveFile(folder, fileName, value, "json");
     }
     static void saveFile(Folder folder, String fileName, String value, String extension) {
-        saveFile(null, Level.INFO, folder, fileName, value, extension);
+        saveFile(null, folder, fileName, value, extension);
     }
-    static void saveFile(String sender, Level level, Folder folder, String fileName, String value, String extension) {
-        writeFile(sender, level, folder, fileName, value, extension, false);
+    static void saveFile(String sender, Folder folder, String fileName, String value, String extension) {
+        writeFile(sender, folder, fileName, value, extension, false);
     }
-    private static void writeFile(String sender, Level level, Folder folder, String fileName, Object value, String extension, boolean canExist) {
+    private static void writeFile(String sender, Folder folder, String fileName, Object value, String extension, boolean canExist) {
         if(value != null) {
             final String directory = getFilePath(folder, fileName, extension);
             final Path path = Paths.get(directory);

@@ -17,8 +17,11 @@ public final class WikipediaDocument {
     private final Document document;
 
     public WikipediaDocument(String url) {
+        this(Folder.OTHER, url, false);
+    }
+    public WikipediaDocument(Folder folder, String url, boolean download) {
         this.url = url;
-        document = Jsoupable.getStaticDocument(Folder.OTHER, url, false);
+        document = Jsoupable.getStaticDocument(folder, url, download);
     }
 
     public String getPageName() {

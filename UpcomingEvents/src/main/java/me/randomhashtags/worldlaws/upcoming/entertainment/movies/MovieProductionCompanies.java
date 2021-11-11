@@ -1,7 +1,15 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment.movies;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.service.WikipediaDocument;
+import org.json.JSONObject;
+import org.jsoup.nodes.Element;
+import org.jsoup.nodes.Node;
+
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.List;
+import java.util.concurrent.atomic.AtomicInteger;
 
 public enum MovieProductionCompanies {
 
@@ -36,7 +44,7 @@ public enum MovieProductionCompanies {
     BLUMHOUSE_PRODUCTIONS,
     BRON_STUDIOS("Bron Studios", "Bron Creative", "BRON"),
 
-    CBS_FILMS,
+    CBS_FILMS("CBS Films"),
     CHERNIN_ENTERTAINMENT,
     CONSTANTIN_FILM,
     CROSS_CREEK_PICTURES,
@@ -150,8 +158,8 @@ public enum MovieProductionCompanies {
     SCREEN_GEMS,
     SONY_PICTURES("Sony Pictures", "Sony Pictures Entertainment", "SPE", "Columbia Pictures", "Columbia Pictures Entertainment"),
     SONY_PICTURES_ANIMATION,
-    SONG_PICTURES_CLASSICS,
-    SONG_PICTURES_IMAGEWORKS,
+    SONY_PICTURES_CLASSICS,
+    SONY_PICTURES_IMAGEWORKS,
     TRISTAR_PICTURES("TriStar Pictures"),
     TRISTAR_PRODUCTIONS("TriStar Productions"),
 
@@ -187,7 +195,7 @@ public enum MovieProductionCompanies {
     WARNER_ANIMATION_GROUP("Warner Animation Group", "WAG"),
     WARNER_BROS_ANIMATION("Warner Bros. Animation"),
     WARNER_BROS_ENTERTAINMENT("Warner Bros.", "Warmer Bros. Entertainment", "WB"),
-    WARNER_BROS_PICTURES,
+    WARNER_BROS_PICTURES("Warner Bros. Pictures"),
 
     WINGNUT_FILMS("WingNut Films"),
     WWE_STUDIOS("WWE Studios", "WWE Films"),
@@ -197,6 +205,84 @@ public enum MovieProductionCompanies {
     ;
 
     private static String CACHE;
+
+    public static void getResponse(String input, CompletionHandler handler) {
+        getJSON(handler);
+    }
+    private static void getJSON(CompletionHandler handler) {
+        if(CACHE != null) {
+            handler.handleString(CACHE);
+        } else {
+            Jsonable.getStaticJSONObject(Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies", new CompletionHandler() {
+                @Override
+                public void load(CompletionHandler handler) {
+                    final MovieProductionCompanies[] companies = values();
+                    final int max = companies.length;
+                    final HashSet<String> values = new HashSet<>();
+                    final AtomicInteger completed = new AtomicInteger(0);
+                    final CompletionHandler completionHandler = new CompletionHandler() {
+                        @Override
+                        public void handleStringValue(String key, String value) {
+                            values.add("\"" + key + "\":" + value);
+                            if(completed.addAndGet(1) == max) {
+                                final StringBuilder builder = new StringBuilder("{");
+                                boolean isFirst = true;
+                                for(String json : values) {
+                                    builder.append(isFirst ? "" : ",").append(json);
+                                    isFirst = false;
+                                }
+                                builder.append("}");
+                                handler.handleString(builder.toString());
+                            }
+                        }
+                    };
+                    Arrays.stream(companies).parallel().forEach(company -> company.getDetails(completionHandler));
+                }
+
+                @Override
+                public void handleJSONObject(JSONObject json) {
+                    CACHE = json.toString();
+                    handler.handleString(CACHE);
+                }
+            });
+        }
+    }
+    private void getDetails(CompletionHandler handler) {
+        final String originalWikipediaName = wikipediaName;
+        final String url = "https://en.wikipedia.org/wiki/" + wikipediaName.replace(" ", "_");
+        final WikipediaDocument doc = new WikipediaDocument(url);
+        final StringBuilder builder = new StringBuilder();
+        final List<Node> paragraphs = doc.getConsecutiveParagraphs();
+        if(paragraphs != null) {
+            boolean isFirst = true;
+            for(Node paragraph : paragraphs) {
+                String text = LocalServer.removeWikipediaReferences(((Element) paragraph).text());
+                text = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(text));
+                builder.append(isFirst ? "" : "\\n").append(text);
+                isFirst = false;
+            }
+        }
+        final List<String> images = doc.getImages();
+        final String imageURL = images != null ? images.get(0) : null;
+
+        final JSONObject json = new JSONObject();
+        final String[] aliases = getAliases();
+        if(aliases != null) {
+            json.put("aliases", getAliasesArray());
+        }
+        json.put("description", builder.toString());
+        if(imageURL != null) {
+            json.put("imageURL", imageURL);
+        }
+
+        final EventSources sources = new EventSources();
+        sources.append(new EventSource("Wikipedia: " + originalWikipediaName, url));
+        final JSONObject sourcesJSON = new JSONObject(sources.toString());
+        json.put("sources", sourcesJSON);
+
+        handler.handleStringValue(originalWikipediaName, json.toString());
+    }
+
     private final String wikipediaName;
     private final String[] aliases;
 
@@ -209,37 +295,8 @@ public enum MovieProductionCompanies {
         this.aliases = aliases;
     }
 
-    public static void getResponse(String input, CompletionHandler handler) {
-        if(input.isEmpty()) {
-            handler.handleString(getJSON());
-        } else {
-            final String[] values = input.split("/");
-            final String key = values[0];
-            switch (key) {
-                default:
-                    break;
-            }
-        }
-    }
-    public static String getJSON() {
-        if(CACHE != null) {
-            return CACHE;
-        } else {
-            final StringBuilder builder = new StringBuilder("{");
-            boolean isFirst = true;
-            for(MovieProductionCompanies company : MovieProductionCompanies.values()) {
-                builder.append(isFirst ? "" : ",").append(company.toString());
-                isFirst = false;
-            }
-            builder.append("}");
-            final String string = builder.toString();
-            CACHE = string;
-            return string;
-        }
-    }
-
     public String getName() {
-        return LocalServer.toCorrectCapitalization(name().replace("_PLUS", "+"));
+        return wikipediaName.split(" \\(")[0];
     }
     public String getWikipediaName() {
         return wikipediaName;
@@ -257,12 +314,5 @@ public enum MovieProductionCompanies {
         }
         builder.append("]");
         return builder.toString();
-    }
-
-    @Override
-    public String toString() {
-        return "\"" + getName() + "\":{" +
-                (aliases != null ? "\"aliases\":" + getAliasesArray() : "") +
-                "}";
     }
 }

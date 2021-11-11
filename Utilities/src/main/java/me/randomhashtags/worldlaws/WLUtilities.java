@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import org.apache.logging.log4j.Level;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
@@ -23,6 +22,8 @@ import java.util.concurrent.TimeUnit;
 
 public abstract class WLUtilities {
     //public static final long LAWS_HOME_RESPONSE_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(30);
+    public static final long SAVE_STATISTICS_INTERVAL = TimeUnit.MINUTES.toMillis(15);
+    public static final long PROXY_PING_RESPONSE_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);
     public static final long PROXY_HOME_RESPONSE_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);
     public static final long UPCOMING_EVENTS_HOME_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
     public static final long UPCOMING_EVENTS_TV_SHOW_UPDATE_INTERVAL = TimeUnit.DAYS.toMillis(1);
@@ -149,6 +150,6 @@ public abstract class WLUtilities {
         saveErrorToFile(sender, folder, fileName, value);
     }
     private static void saveErrorToFile(String sender, Folder folder, String fileName, String value) {
-        Jsonable.saveFile(sender, Level.ERROR, folder, fileName, value, "txt");
+        Jsonable.saveFile(sender, folder, fileName, value, "txt");
     }
 }

@@ -25,10 +25,14 @@ public enum TargetServer implements RestAPI, DataValues {
     COMBINE,
     ;
 
-    private static final JSONObject SERVER_JSON = Jsonable.getSettingsJSON().getJSONObject("server");
+    private static JSONObject SERVER_JSON = Jsonable.getSettingsJSON().getJSONObject("server");
     private static final HashMap<APIVersion, JSONObject> HOME_JSON;
     private static final HashMap<APIVersion, HashMap<HashSet<String>, String>> HOME_JSON_QUERIES;
     private static final HashMap<String, TargetServer> BACKEND_IDS;
+
+    private static boolean MAINTENANCE_MODE;
+    private static String MAINTENANCE_MESSAGE;
+    private static String PING_RESPONSE;
 
     static {
         HOME_JSON = new HashMap<>();
@@ -39,25 +43,69 @@ public enum TargetServer implements RestAPI, DataValues {
         }
     }
 
-    private final String ipAddress;
-    private int port;
-    private String pingResponseCache;
+    public static void setMaintenanceMode(boolean active, String reason) {
+        if(MAINTENANCE_MODE == active) {
+            return;
+        }
+        WLLogger.logInfo("TargetServer - " + (active ? "started" : "ended") + " maintenance mode");
+        MAINTENANCE_MODE = active;
+        MAINTENANCE_MESSAGE = reason;
+        updatePingResponse();
 
-    TargetServer() {
-        ipAddress = getIpAddress();
+        if(!active) {
+            updateDetails();
+        }
+    }
+    private static void updateDetails() {
+        HOME_JSON.clear();
+        HOME_JSON_QUERIES.clear();
+        SERVER_JSON = Jsonable.getSettingsJSON().getJSONObject("server");
+        final JSONObject serversJSON = SERVER_JSON.getJSONObject("servers");
+        for(TargetServer server : TargetServer.values()) {
+            server.updateAddressDetails(serversJSON);
+        }
     }
 
-    private String getIpAddress()  {
+    private String ipAddressCache;
+    private int port, responseVersion;
+    private APIVersion apiVersion;
+
+    private String getIpAddress() {
+        if(ipAddressCache == null && isRealServer()) {
+            updateAddressDetails(SERVER_JSON.getJSONObject("servers"));
+        }
+        return ipAddressCache;
+    }
+    public int getPort() {
+        if(port == 0) {
+            updateAddressDetails(SERVER_JSON.getJSONObject("servers"));
+        }
+        return port;
+    }
+    public int getDefaultPort() {
+        switch (this) {
+            case COUNTRIES: return 0;
+            case ENVIRONMENT: return 0;
+            case FEEDBACK: return 0;
+            case LAWS: return 0;
+            case NEWS: return 0;
+            case SERVICES: return 0;
+            case SPACE: return 0;
+            case TECHNOLOGY: return 0;
+            case UPCOMING_EVENTS: return 0;
+            case WEATHER: return 0;
+            default: return -1;
+        }
+    }
+    private void updateAddressDetails(JSONObject serversJSON) {
         if(isRealServer()) {
-            final JSONObject target = SERVER_JSON.getJSONObject("servers").getJSONObject(name().toLowerCase());
-            port = target.getInt("port");
+            final JSONObject target = serversJSON.getJSONObject(getNameLowercase());
+            port = target.has("port") ? target.getInt("port") : getDefaultPort();
             final String addressKey = "address";
             final String ip = target.has(addressKey) ? target.getString(addressKey) : SERVER_JSON.getString("default_address");
-            return ip + ":" + port;
+            ipAddressCache = ip + ":" + port;
         }
-        return null;
     }
-
     public boolean isRealServer() {
         switch (this) {
             case HOME:
@@ -76,32 +124,40 @@ public enum TargetServer implements RestAPI, DataValues {
     public String getName() {
         return LocalServer.toCorrectCapitalization(name()).replace(" ", "");
     }
-    public int getPort() {
-        return port;
+    public String getNameLowercase() {
+        return name().toLowerCase();
     }
     public APIVersion getAPIVersion() {
-        switch (this) {
-            default: return APIVersion.v1;
+        if(apiVersion == null) {
+            final String key = "api_version", defaultKey = "default_" + key;
+            final JSONObject serverJSON = getServerJSON();
+            final int target = serverJSON != null && serverJSON.has(key) ? serverJSON.getInt(key) : SERVER_JSON.has(defaultKey) ? SERVER_JSON.getInt(defaultKey) : 1;
+            apiVersion = APIVersion.valueOfVersion(target);
         }
+        return apiVersion;
     }
-    public int getResponseVersion() { // Only used if the server doesn't auto update its content
-        switch (this) {
-            case COUNTRIES:
-                return 5;
-            case ENVIRONMENT:
-                return 1;
-            case SPACE:
-                return 1;
-            default:
-                return -1;
+
+    public int getResponseVersion() { // Only used if the server doesn't auto update its content (AKA: content is hard-coded)
+        if(responseVersion == 0) {
+            responseVersion = -1;
+            final String name = name().toLowerCase();
+            final JSONObject servers = SERVER_JSON.getJSONObject("servers");
+            if(servers.has(name)) {
+                final String key = "response_version";
+                final JSONObject json = servers.getJSONObject(name);
+                responseVersion = json.has(key) ? json.getInt(key) : -1;
+            }
         }
+        return responseVersion;
+    }
+
+    private JSONObject getServerJSON() {
+        final String name = getNameLowercase();
+        final JSONObject serversJSON = SERVER_JSON.getJSONObject("servers");
+        return serversJSON.has(name) ? serversJSON.getJSONObject(name) : null;
     }
 
     public void sendResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query, CompletionHandler handler) {
-        final HashMap<String, String> headers = new HashMap<>();
-        headers.put("Content-Type", "application/json");
-        headers.put("Charset", DataValues.ENCODING.name());
-        headers.put("***REMOVED***", identifier);
         switch (this) {
             case PING:
                 handler.handleString(getPingResponse());
@@ -109,17 +165,34 @@ public enum TargetServer implements RestAPI, DataValues {
             case INAPPPURCHASES:
                 handler.handleString(InAppPurchases.getProductIDs(version));
                 break;
-            case HOME:
-                getHomeResponse(version, method, headers, query, handler);
-                break;
-            case COMBINE:
-                getCombinedResponse(version, identifier, method, request, handler);
-                break;
             default:
-                handleResponse(version, method, request, headers, handler);
+                tryHandlingResponse(version, identifier, method, request, query, handler);
                 break;
         }
     }
+
+    private void tryHandlingResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query, CompletionHandler handler) {
+        if(MAINTENANCE_MODE) {
+            handler.handleString(null);
+        } else {
+            final HashMap<String, String> headers = new HashMap<>();
+            headers.put("Content-Type", "application/json");
+            headers.put("Charset", DataValues.ENCODING.name());
+            headers.put("***REMOVED***", identifier);
+            switch (this) {
+                case HOME:
+                    getHomeResponse(version, method, headers, query, handler);
+                    break;
+                case COMBINE:
+                    getCombinedResponse(version, identifier, method, request, handler);
+                    break;
+                default:
+                    handleResponse(version, method, request, headers, handler);
+                    break;
+            }
+        }
+    }
+
     private void getCombinedResponse(APIVersion version, String identifier, RequestMethod method, String request, CompletionHandler handler) {
         final String versionName = version.name(), serverName = getBackendID();
         request = request.substring(versionName.length() + serverName.length() + 2);
@@ -165,7 +238,7 @@ public enum TargetServer implements RestAPI, DataValues {
     private void handleResponse(APIVersion version, RequestMethod method, String request, HashMap<String, String> headers, CompletionHandler handler) {
         final String versionName = version.name(), serverName = getBackendID();
         request = request.substring(versionName.length() + serverName.length() + 2);
-        final String url = ipAddress + "/" + version.name() + "/" + request;
+        final String url = getIpAddress() + "/" + version.name() + "/" + request;
         handleResponse(url, method, headers, handler);
     }
     private void handleResponse(String url, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
@@ -173,17 +246,41 @@ public enum TargetServer implements RestAPI, DataValues {
     }
 
     private String getPingResponse() {
-        if(pingResponseCache == null) {
-            final JSONObject json = new JSONObject(), responseVersions = new JSONObject();
-            for(TargetServer server : values()) {
-                if(server.isRealServer()) {
-                    responseVersions.put(server.getBackendID(), server.getResponseVersion());
+        if(PING_RESPONSE == null) {
+            final long interval = WLUtilities.PROXY_PING_RESPONSE_UPDATE_INTERVAL;
+            final Timer timer = new Timer();
+            timer.scheduleAtFixedRate(new TimerTask() {
+                @Override
+                public void run() {
+                    updatePingResponse();
+                }
+            }, interval, interval);
+
+            updatePingResponse();
+        }
+        return PING_RESPONSE;
+    }
+    private static void updatePingResponse() {
+        final JSONObject json = new JSONObject();
+
+        final JSONObject maintenanceJSON = new JSONObject();
+        if(MAINTENANCE_MODE) {
+            maintenanceJSON.put("active", true);
+            maintenanceJSON.put("msg", MAINTENANCE_MESSAGE);
+        }
+        json.put("maintenance", maintenanceJSON);
+
+        final JSONObject responseVersions = new JSONObject();
+        for(TargetServer server : TargetServer.values()) {
+            if(server.isRealServer()) {
+                final int responseVersion = server.getResponseVersion();
+                if(responseVersion > 0) {
+                    responseVersions.put(server.getBackendID(), responseVersion);
                 }
             }
-            json.put("response_versions", responseVersions);
-            pingResponseCache = json.toString();
         }
-        return pingResponseCache;
+        json.put("response_versions", responseVersions);
+        PING_RESPONSE = json.toString();
     }
 
     private void getHomeResponse(APIVersion version, RequestMethod method, HashMap<String, String> headers, HashSet<String> query, CompletionHandler handler) {
@@ -253,7 +350,7 @@ public enum TargetServer implements RestAPI, DataValues {
         final HashMap<String, String> requests = new HashMap<>();
         requests.put("trending", null);
         for(TargetServer server : servers) {
-            requests.put(server.name().toLowerCase(), server.ipAddress + "/" + versionName + "/home");
+            requests.put(server.name().toLowerCase(), server.getIpAddress() + "/" + versionName + "/home");
         }
 
         final int max = requests.size();

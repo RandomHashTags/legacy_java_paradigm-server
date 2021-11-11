@@ -53,7 +53,7 @@ public interface Jsoupable {
     }
 
     default String removeReferences(String string) {
-        return string != null && !string.isEmpty() ? string.replaceAll("\\[.*?]", "") : string;
+        return LocalServer.removeWikipediaReferences(string);
     }
 
     default Document getDocument(String url) {

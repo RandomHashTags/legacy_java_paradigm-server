@@ -3,23 +3,28 @@ package me.randomhashtags.worldlaws;
 import javax.net.ssl.*;
 import java.io.FileInputStream;
 import java.net.ServerSocket;
+import java.net.Socket;
 import java.security.KeyStore;
 
-public final class Proxy implements RestAPI {
+public final class Proxy implements UserServer, RestAPI {
+
+    private static ServerSocket SOCKET;
 
     public static void main(String[] args) {
-        new Proxy();
+        new Proxy().start();
     }
 
-    private Proxy() {
-        //test();
+    @Override
+    public void start() {
         setupServer(false);
     }
 
-    private void test() {
-        final String id = "countries";
-        for(int i = 1; i <= 100; i++) {
-            final TargetServer server = TargetServer.valueOfBackendID(id);
+    @Override
+    public void stop() {
+        try {
+            SOCKET.close();
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
         }
     }
 
@@ -31,28 +36,33 @@ public final class Proxy implements RestAPI {
             setupHttpServer(port);
         }
     }
-
-    private void connectClients(ServerSocket server, boolean https) throws Exception {
-        WLLogger.logInfo("Proxy - Listening for clients on port " + server.getLocalPort() + "...");
-        while (true) {
-            new ProxyClient(server.accept()).start();
+    private void connectClients(boolean https) throws Exception {
+        WLLogger.logInfo("Proxy - Listening for clients on port " + SOCKET.getLocalPort() + "...");
+        listenForUserInput();
+        try {
+            while (true) {
+                final Socket client = SOCKET.accept();
+                new ProxyClient(client).start();
+            }
+        } catch (Exception e) {
+            WLLogger.logInfo("Proxy - stopped listening for clients");
         }
     }
 
     private void setupHttpServer(int port) {
         try {
-            connectClients(new ServerSocket(port), false);
+            SOCKET = new ServerSocket(port);
+            connectClients(false);
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
     }
-
     private void setupHttpsServer(int port) {
         try {
             final SSLContext context = getHttpsContext();
             final SSLServerSocketFactory socketFactory = context.getServerSocketFactory();
-            final SSLServerSocket server = (SSLServerSocket) socketFactory.createServerSocket(port);
-            connectClients(server, true);
+            SOCKET = socketFactory.createServerSocket(port);
+            connectClients(true);
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }

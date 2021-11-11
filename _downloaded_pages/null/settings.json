@@ -2,9 +2,11 @@
   "server": {
     "proxy_port": 0,
     "default_address": "http://localhost",
+    "default_api_version": 1,
     "servers": {
       "countries": {
-        "port": 0
+        "port": 0,
+        "response_version": 5
       },
       "environment": {
         "port": 0

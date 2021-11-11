@@ -14,7 +14,6 @@ import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
 import me.randomhashtags.worldlaws.upcoming.sports.MLB;
-import me.randomhashtags.worldlaws.upcoming.sports.NFL;
 import me.randomhashtags.worldlaws.upcoming.sports.UFC;
 import org.json.JSONObject;
 
@@ -63,8 +62,8 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final NFL nfl = new NFL();
-        nfl.load(new CompletionHandler() {
+        final Movies movies = new Movies();
+        movies.getResponse("productionCompanies", new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 WLLogger.logInfo("UpcomingEvents;test;string=" + string);

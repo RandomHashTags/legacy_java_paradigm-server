@@ -18,4 +18,12 @@ public enum APIVersion {
         }
         return null;
     }
+    public static APIVersion valueOfVersion(int version) {
+        for(APIVersion apiVersion : values()) {
+            if(version == apiVersion.getVersion()) {
+                return apiVersion;
+            }
+        }
+        return null;
+    }
 }

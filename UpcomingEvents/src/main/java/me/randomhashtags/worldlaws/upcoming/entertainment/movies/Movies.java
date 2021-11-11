@@ -14,10 +14,7 @@ import org.jsoup.select.Elements;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
+import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -85,8 +82,20 @@ public final class Movies extends UpcomingEventController implements IMDbService
                     if(wikipageURL != null) {
                         final String title = titleElement.text();
                         final String dateString = getEventDateString(year, month, day), id = getEventDateIdentifier(dateString, title);
-                        final String productionCompany = rows.get(1).text();
-                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, wikipageURL, productionCompany);
+
+                        final HashSet<String> productionCompanies = new HashSet<>(Arrays.asList(rows.get(1).text().split(" / ")));
+                        final StringBuilder builder = new StringBuilder("[");
+                        boolean isFirst = true;
+                        for(String company : productionCompanies) {
+                            builder.append(isFirst ? "" : ",").append("\"").append(company).append("\"");
+                            isFirst = false;
+                        }
+                        builder.append("]");
+
+                        final HashMap<String, Object> customValues = new HashMap<>();
+                        customValues.put("productionCompanies", builder.toString());
+
+                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, wikipageURL, null, null, customValues);
                         putPreUpcomingEvent(id, preUpcomingEvent);
                     }
                 }
@@ -117,7 +126,7 @@ public final class Movies extends UpcomingEventController implements IMDbService
     public void loadUpcomingEvent(String id, CompletionHandler handler) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
-        final String title = preUpcomingEvent.getTitle(), productionCompany = preUpcomingEvent.getTag();
+        final String title = preUpcomingEvent.getTitle();
         final WikipediaDocument wikiDoc = new WikipediaDocument(url);
         final Document wikidoc = wikiDoc.getDocument();
         if(wikidoc != null) {
@@ -258,7 +267,15 @@ public final class Movies extends UpcomingEventController implements IMDbService
                     } else {
                         movieImageURL = imageURL;
                     }
-                    final MovieEvent movie = new MovieEvent(title, premiseFinal, movieImageURL, productionCompany, releaseInfoFinal, imdbJSON, ratingsString, youtubeVideoIDs, sources);
+
+                    final String productionCompany = (String) preUpcomingEvent.getCustomValue("productionCompanies");
+                    final JSONArray array = new JSONArray(productionCompany);
+                    final Collection<String> productionCompanies = new HashSet<>();
+                    for(Object obj : array) {
+                        productionCompanies.add((String) obj);
+                    }
+
+                    final MovieEvent movie = new MovieEvent(title, premiseFinal, movieImageURL, productionCompanies, releaseInfoFinal, imdbJSON, ratingsString, youtubeVideoIDs, sources);
                     final String string = movie.toString();
                     putUpcomingEvent(id, string);
                     handler.handleString(string);

@@ -8,7 +8,6 @@ import java.net.SocketException;
 import java.net.SocketTimeoutException;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.TimeUnit;
 
 public final class LocalServer implements UserServer, DataValues {
     private final String serverName;
@@ -35,7 +34,7 @@ public final class LocalServer implements UserServer, DataValues {
         uniqueRequests = new ConcurrentHashMap<>();
         totalRequests = new ConcurrentHashMap<>();
         totalUniqueIdentifiers = new HashSet<>();
-        final long interval = TimeUnit.MINUTES.toMillis(15);
+        final long interval = WLUtilities.SAVE_STATISTICS_INTERVAL;
         registerFixedTimer(interval, new CompletionHandler() {
             @Override
             public void handleObject(Object object) {
@@ -134,6 +133,9 @@ public final class LocalServer implements UserServer, DataValues {
     }
     public static String removeWikipediaTranslations(String input) {
         return input.replaceAll(" \\(.*?:.*?\\)", "");
+    }
+    public static String removeWikipediaReferences(String string) {
+        return string != null && !string.isEmpty() ? string.replaceAll("\\[.*?]", "") : string;
     }
 
     public static String toCorrectCapitalization(String input, String...excludedWords) {

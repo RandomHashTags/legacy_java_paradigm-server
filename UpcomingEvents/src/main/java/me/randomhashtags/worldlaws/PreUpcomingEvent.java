@@ -5,6 +5,7 @@ import org.json.JSONObject;
 
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 
 public final class PreUpcomingEvent {
     private final String id, title, url, tag;
@@ -19,7 +20,7 @@ public final class PreUpcomingEvent {
         final JSONObject properties = json.has("properties") ? json.getJSONObject("properties") : null;
         switch (type) {
             case MOVIE:
-                return properties.getString("productionCompany");
+                return properties.get("productionCompanies").toString();
             case MUSIC_ALBUM:
                 return properties.getString("artist");
             case SPACE_NEAR_EARTH_OBJECT:
@@ -89,12 +90,24 @@ public final class PreUpcomingEvent {
         return imageURL;
     }
 
+    private String getCustomValuesJSON() {
+        final StringBuilder builder = new StringBuilder("{");
+        boolean isFirst = true;
+        for(Map.Entry<String, Object> map : customValues.entrySet()) {
+            builder.append(isFirst ? "" : ",").append("\"").append(map.getKey()).append("\":").append(map.getValue().toString());
+            isFirst = false;
+        }
+        builder.append("}");
+        return builder.toString();
+    }
+
     public String toStringWithImageURL(UpcomingEventType type, String imageURL) {
         final String[] values = id.split("\\.");
         return "\"" + id.substring(values[0].length()+1) + "\":{" +
                 (tag != null && !tag.equals(title) ? "\"tag\":\"" + tag + "\"," : "") +
                 (imageURL != null ? "\"imageURL\":\"" + optimizeImageURL(type, imageURL) + "\"," : "") +
                 (countries != null ? "\"countries\":" + getCountriesArray() + "," : "") +
+                (customValues != null ? "\"customValues\":" + getCustomValuesJSON() + "," : "") +
                 "\"title\":\"" + title + "\"" +
                 "}";
     }
