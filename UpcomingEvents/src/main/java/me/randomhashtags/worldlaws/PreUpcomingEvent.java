@@ -4,12 +4,12 @@ import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONObject;
 
 import java.util.HashMap;
-import java.util.HashSet;
+import java.util.List;
 import java.util.Map;
 
 public final class PreUpcomingEvent {
     private final String id, title, url, tag;
-    private final HashSet<String> countries;
+    private final List<String> countries;
     private final HashMap<String, Object> customValues;
 
     public static PreUpcomingEvent fromUpcomingEventJSON(UpcomingEventType type, String id, JSONObject json) {
@@ -40,10 +40,10 @@ public final class PreUpcomingEvent {
     public PreUpcomingEvent(String id, String title, String url, String tag) {
         this(id, title, url, tag, null);
     }
-    public PreUpcomingEvent(String id, String title, String url, String tag, HashSet<String> countries) {
+    public PreUpcomingEvent(String id, String title, String url, String tag, List<String> countries) {
         this(id, title, url, tag, countries, null);
     }
-    public PreUpcomingEvent(String id, String title, String url, String tag, HashSet<String> countries, HashMap<String, Object> customValues) {
+    public PreUpcomingEvent(String id, String title, String url, String tag, List<String> countries, HashMap<String, Object> customValues) {
         this.id = id;
         this.title = LocalServer.fixEscapeValues(title);
         this.url = url;
@@ -63,6 +63,9 @@ public final class PreUpcomingEvent {
     }
     public String getTag() {
         return tag;
+    }
+    public List<String> getCountries() {
+        return countries;
     }
 
     public Object getCustomValue(String key) {

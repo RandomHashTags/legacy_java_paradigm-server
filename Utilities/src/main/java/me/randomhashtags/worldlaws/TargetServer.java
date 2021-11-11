@@ -30,9 +30,8 @@ public enum TargetServer implements RestAPI, DataValues {
     private static final HashMap<APIVersion, HashMap<HashSet<String>, String>> HOME_JSON_QUERIES;
     private static final HashMap<String, TargetServer> BACKEND_IDS;
 
-    private static boolean MAINTENANCE_MODE;
-    private static String MAINTENANCE_MESSAGE;
-    private static String PING_RESPONSE;
+    private static String PING_RESPONSE, MAINTENANCE_MESSAGE;
+    private static boolean MAINTENANCE_MODE = false;
 
     static {
         HOME_JSON = new HashMap<>();
@@ -43,6 +42,9 @@ public enum TargetServer implements RestAPI, DataValues {
         }
     }
 
+    public static boolean isMaintenanceMode() {
+        return MAINTENANCE_MODE;
+    }
     public static void setMaintenanceMode(boolean active, String reason) {
         if(MAINTENANCE_MODE == active) {
             return;
@@ -194,8 +196,6 @@ public enum TargetServer implements RestAPI, DataValues {
     }
 
     private void getCombinedResponse(APIVersion version, String identifier, RequestMethod method, String request, CompletionHandler handler) {
-        final String versionName = version.name(), serverName = getBackendID();
-        request = request.substring(versionName.length() + serverName.length() + 2);
         final String[] values = request.split("&&");
         final int max = values.length;
         final AtomicInteger completed = new AtomicInteger(0);
@@ -236,8 +236,6 @@ public enum TargetServer implements RestAPI, DataValues {
         });
     }
     private void handleResponse(APIVersion version, RequestMethod method, String request, HashMap<String, String> headers, CompletionHandler handler) {
-        final String versionName = version.name(), serverName = getBackendID();
-        request = request.substring(versionName.length() + serverName.length() + 2);
         final String url = getIpAddress() + "/" + version.name() + "/" + request;
         handleResponse(url, method, headers, handler);
     }

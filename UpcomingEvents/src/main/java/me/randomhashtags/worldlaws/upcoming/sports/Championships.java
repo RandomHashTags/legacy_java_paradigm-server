@@ -12,7 +12,7 @@ import org.jsoup.select.Elements;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.HashSet;
+import java.util.ArrayList;
 import java.util.List;
 
 public final class Championships extends UpcomingEventController { // https://en.wikipedia.org/wiki/2021_in_sports
@@ -72,7 +72,7 @@ public final class Championships extends UpcomingEventController { // https://en
             final String event = eventElement.text();
             final Elements eventElementLinks = eventElement.select("a[href]");
             String eventURL = null;
-            final HashSet<String> countries = new HashSet<>();
+            final List<String> countries = new ArrayList<>();
             if(!eventElementLinks.isEmpty()) {
                 final Elements flagIconElements = eventElement.select("span.flagicon");
                 for(Element flagIcon : flagIconElements) {
@@ -124,7 +124,8 @@ public final class Championships extends UpcomingEventController { // https://en
                 }
             }
             final String description = builder.length() == 0 ? null : builder.toString();
-            final String location = null;
+            final List<String> countries = preUpcomingEvent.getCountries();
+            final String location = countries != null && !countries.isEmpty() ? countries.get(0) : null;
 
             final ChampionshipEvent event = new ChampionshipEvent(title, description, imageURL, location, sources);
             handler.handleString(event.toString());
