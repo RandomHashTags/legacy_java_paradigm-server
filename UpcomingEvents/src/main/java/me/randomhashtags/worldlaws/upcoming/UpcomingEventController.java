@@ -52,7 +52,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
 
     public String getEventDateIdentifier(String dateString, String title) {
         final String id = LocalServer.fixEscapeValues(title).replaceAll("\\\\u[A-Fa-f\\d]{4}", "");
-        return dateString + "." + id.replace(" ", "").replace("|", "_").replace("/", "-").replace(":", "-").replace("\"", "_").replace("'", "_");
+        return dateString + "." + id.replace(" ", "").replace("|", "_").replace("/", "-").replace(":", "-").replace("\"", "_").replace("'", "_").replace("\\", "_");
     }
     public String getEventDateString(EventDate date) {
         return getEventDateString(date.getYear(), date.getMonth(), date.getDay());

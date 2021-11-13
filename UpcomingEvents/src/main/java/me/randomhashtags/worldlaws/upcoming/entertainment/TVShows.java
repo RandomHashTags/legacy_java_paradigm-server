@@ -53,7 +53,7 @@ public final class TVShows extends LoadedUpcomingEventController {
         }
     }
 
-    public void getAllShowNames(CompletionHandler handler) {
+    private void getAllShowNames(CompletionHandler handler) {
         if(showNamesCache != null) {
             handler.handleString(showNamesCache);
         } else {

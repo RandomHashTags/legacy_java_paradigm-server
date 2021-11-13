@@ -189,7 +189,7 @@ public enum TargetServer implements RestAPI, DataValues {
                     getCombinedResponse(version, identifier, method, request, handler);
                     break;
                 default:
-                    handleResponse(version, method, request, headers, handler);
+                    handleProxyResponse(version, method, request, headers, handler);
                     break;
             }
         }
@@ -235,11 +235,11 @@ public enum TargetServer implements RestAPI, DataValues {
             }
         });
     }
-    private void handleResponse(APIVersion version, RequestMethod method, String request, HashMap<String, String> headers, CompletionHandler handler) {
+    private void handleProxyResponse(APIVersion version, RequestMethod method, String request, HashMap<String, String> headers, CompletionHandler handler) {
         final String url = getIpAddress() + "/" + version.name() + "/" + request;
-        handleResponse(url, method, headers, handler);
+        handleProxyResponse(url, method, headers, handler);
     }
-    private void handleResponse(String url, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
+    private void handleProxyResponse(String url, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
         request(url, method, headers, null, handler);
     }
 

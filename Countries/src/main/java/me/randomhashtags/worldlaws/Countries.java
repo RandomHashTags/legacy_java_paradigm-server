@@ -52,6 +52,12 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
+        loadServices();
+        loadCountries(new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+            }
+        });
     }
 
     @Override

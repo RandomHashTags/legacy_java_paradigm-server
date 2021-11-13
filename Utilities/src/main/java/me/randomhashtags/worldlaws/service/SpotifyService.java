@@ -81,6 +81,19 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
         });
     }
 
+    default void getSpotifyPlaylistJSON(String id, CompletionHandler handler) {
+        getSpotifyAccessToken(new CompletionHandler() {
+            @Override
+            public void handleString(String accessToken) {
+                final String url = "https://api.spotify.com/v1/playlists/" + id;
+                final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
+                headers.put("Authorization", "Basic " + accessToken);
+                final HashMap<String, String> query = new HashMap<>();
+                query.put("market", "US");
+                requestJSONObject(url, RequestMethod.GET, headers, query, handler);
+            }
+        });
+    }
     default void getSpotifyAlbum(HashSet<String> artists, String album, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         tryRequesting(album, new CompletionHandler() {

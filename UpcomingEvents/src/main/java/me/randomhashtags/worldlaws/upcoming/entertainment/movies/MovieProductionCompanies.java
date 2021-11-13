@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment.movies;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
+import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Node;
@@ -134,7 +135,7 @@ public enum MovieProductionCompanies {
     PARAMOUNT_PLAYERS,
 
     PARTICIPANT("Participant (company)", "Participant Media"),
-    PEACOCK,
+    PEACOCK("Peacock (streaming service)"),
     PERFECT_WORLD_PICTURES,
     PLATINUM_DUNES,
     POINT_GREY_PICTURES,
@@ -248,7 +249,7 @@ public enum MovieProductionCompanies {
         }
     }
     private void getDetails(CompletionHandler handler) {
-        final String originalWikipediaName = wikipediaName;
+        final String originalWikipediaName = wikipediaName.replace("_", " ");
         final String url = "https://en.wikipedia.org/wiki/" + wikipediaName.replace(" ", "_");
         final WikipediaDocument doc = new WikipediaDocument(url);
         final StringBuilder builder = new StringBuilder();
@@ -267,8 +268,8 @@ public enum MovieProductionCompanies {
 
         final JSONObject json = new JSONObject();
         final String[] aliases = getAliases();
-        if(aliases != null) {
-            json.put("aliases", getAliasesArray());
+        if(aliases != null && aliases.length > 0) {
+            json.put("aliases", new JSONArray(aliases));
         }
         json.put("description", builder.toString());
         if(imageURL != null) {
@@ -303,16 +304,5 @@ public enum MovieProductionCompanies {
     }
     public String[] getAliases() {
         return aliases;
-    }
-
-    private String getAliasesArray() {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
-        for(String alias : aliases) {
-            builder.append(isFirst ? "" : ",").append("\"").append(alias).append("\"");
-            isFirst = false;
-        }
-        builder.append("]");
-        return builder.toString();
     }
 }

@@ -18,8 +18,8 @@ public final class Laws implements WLServer {
     }
 
     private void init() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override

@@ -1,4 +1,4 @@
-package me.randomhashtags.worldlaws.upcoming.entertainment;
+package me.randomhashtags.worldlaws.upcoming.entertainment.music;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.ITunesSearchAPI;

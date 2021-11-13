@@ -34,11 +34,16 @@ public final class ProxyClient extends Thread implements RestAPI {
             final String finalTarget = target.split("\\?q=")[0];
             if(finalTarget.contains("/")) {
                 final String[] finalTargetValues = finalTarget.split("/");
-                final TargetServer targetServer = TargetServer.valueOfBackendID(finalTargetValues[1]);
+                final String serverString = finalTargetValues[1];
+                final TargetServer targetServer = TargetServer.valueOfBackendID(serverString);
                 if(targetServer != null) {
-                    final APIVersion version = APIVersion.valueOfInput(finalTargetValues[0]);
+                    final String versionString = finalTargetValues[0];
+                    final APIVersion version = APIVersion.valueOfInput(versionString);
                     final HashSet<String> query = getQuery(target);
-                    final String targetRequest = finalTarget.substring(finalTargetValues[0].length() + finalTargetValues[1].length() + 2);
+                    String targetRequest = finalTarget.substring(versionString.length() + 1);
+                    if(targetRequest.startsWith("/")) {
+                        targetRequest = target.substring(1);
+                    }
                     targetServer.sendResponse(version, identifier, RequestMethod.GET, targetRequest, query, new CompletionHandler() {
                         @Override
                         public void handleString(String string) {
