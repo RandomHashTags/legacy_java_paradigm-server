@@ -280,6 +280,7 @@ public enum WeatherUSA implements WeatherController {
         final List<Location> geometry = new ArrayList<>();
         switch (geometryType) {
             case "MultiPolygon":
+            case "Polygon":
                 final JSONArray coordinates = geometryJSON.getJSONArray("coordinates").getJSONArray(0).getJSONArray(0);
                 StreamSupport.stream(coordinates.spliterator(), true).forEach(coordinate -> {
                     final JSONArray array = (JSONArray) coordinate;

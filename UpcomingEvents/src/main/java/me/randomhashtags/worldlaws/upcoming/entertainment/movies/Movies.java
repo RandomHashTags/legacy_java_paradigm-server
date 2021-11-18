@@ -118,10 +118,6 @@ public final class Movies extends UpcomingEventController implements IMDbService
         }
     }
 
-    private void getProductionCompanies(CompletionHandler handler) {
-
-    }
-
     @Override
     public void loadUpcomingEvent(String id, CompletionHandler handler) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);

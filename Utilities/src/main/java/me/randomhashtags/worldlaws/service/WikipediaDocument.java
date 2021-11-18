@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws.service;
 
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsoupable;
 import org.jsoup.nodes.Document;
@@ -119,7 +121,7 @@ public final class WikipediaDocument {
         images.removeIf(img -> {
             return img.endsWith("static/images/footer/wikimedia-button.png") || img.contains("static/images/footer/poweredby_mediawiki_");
         });
-        return images.isEmpty() ? null : images;
+        return images;
     }
     private String getImageURLFrom(Element element) {
         if(element != null) {
@@ -127,5 +129,72 @@ public final class WikipediaDocument {
             return !images.isEmpty() ? "https:" + WikipediaService.getPictureThumbnailImageURL(images.get(0)) : null;
         }
         return null;
+    }
+
+    public EventSources getExternalLinks() {
+        final EventSources sources = new EventSources();
+        final Elements elements = document.select("div.mw-parser-output > *");
+        final Elements headlines = elements.select("h2");
+        headlines.removeIf(headline -> !headline.select("span.mw-headline").text().equalsIgnoreCase("External links"));
+        if(!headlines.isEmpty()) {
+            final Element headline = headlines.get(0);
+            final int indexOfExternalLinks = headline.elementSiblingIndex();
+            if(indexOfExternalLinks != -1) {
+                for(int i = 1; i <= indexOfExternalLinks; i++) {
+                    elements.remove(0);
+                }
+                final Element ul = elements.select("ul").get(0);
+                final Elements lists = ul.select("li");
+                for(Element list : lists) {
+                    final Elements hrefs = list.select("a[href]");
+                    hrefs.removeIf(href -> href.attr("href").startsWith("https://www.wikidata.org/wiki/"));
+
+                    if(!hrefs.isEmpty()) {
+                        final String listText = list.text();
+                        final int totalLinks = hrefs.size();
+                        final boolean hasAt = listText.contains(" at ");
+                        EventSource externalSource = null;
+                        final Element href = hrefs.get(0);
+                        String hrefText = href.text(), hrefTextLowercase = hrefText.toLowerCase();
+                        switch (hrefTextLowercase) {
+                            case "official website":
+                            case "official uk website":
+                            case "linkedin page":
+                                externalSource = new EventSource(hasAt ? listText : hrefText, href.attr("href"));
+                                break;
+                            default:
+                                if(totalLinks >= 2) {
+                                    hrefText = hrefs.get(1).text();
+                                    hrefTextLowercase = hrefText.toLowerCase();
+                                    switch (hrefTextLowercase) {
+                                        case "adult swim":
+                                        case "imdb":
+                                        case "disney+":
+                                        case "facebook":
+                                        case "allmovie":
+                                        case "history vs. hollywood":
+                                        case "netflix":
+                                        case "rotten tomatoes":
+                                        case "metacritic":
+                                        case "box office mojo":
+                                        case "twitter":
+                                        case "youtube":
+                                        case "instagram":
+                                            externalSource = new EventSource(hrefText + ": " + href.text(), href.attr("href"));
+                                            break;
+                                        default:
+                                            break;
+                                    }
+                                }
+                                break;
+                        }
+                        if(externalSource != null) {
+                            sources.append(externalSource);
+                        }
+                    }
+                }
+            }
+        }
+        return sources;
     }
 }

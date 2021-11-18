@@ -41,6 +41,9 @@ public final class ProxyClient extends Thread implements RestAPI {
                     final APIVersion version = APIVersion.valueOfInput(versionString);
                     final HashSet<String> query = getQuery(target);
                     String targetRequest = finalTarget.substring(versionString.length() + 1);
+                    if(targetServer.isRealServer()) {
+                        targetRequest = targetRequest.substring(serverString.length() + 1);
+                    }
                     if(targetRequest.startsWith("/")) {
                         targetRequest = target.substring(1);
                     }

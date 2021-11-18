@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.usa.USLaws;
-import me.randomhashtags.worldlaws.country.usa.state.recode.Vermont;
+import me.randomhashtags.worldlaws.country.usa.state.recode.Minnesota;
 
 import java.util.HashMap;
 
@@ -28,8 +28,8 @@ public final class Laws implements WLServer {
     }
 
     private void test() {
-        final Vermont minnesota = Vermont.INSTANCE;
-        minnesota.getStatute("16APPENDIX", "1", "6", new CompletionHandler() {
+        final Minnesota minnesota = Minnesota.INSTANCE;
+        minnesota.getIndexes(new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 WLLogger.logInfo("Laws;test;string=" + string);

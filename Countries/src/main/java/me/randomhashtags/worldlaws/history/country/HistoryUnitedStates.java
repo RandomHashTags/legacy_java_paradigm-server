@@ -50,7 +50,7 @@ public enum HistoryUnitedStates implements ICountryHistory {
                     final String description = ((Element) wikiElements.get(0)).text();
 
                     final List<String> images = urlDoc.getImages();
-                    final String imageURL = images != null ? images.get(0) : null;
+                    final String imageURL = !images.isEmpty() ? images.get(0) : null;
                     final CountryHistoryEra era = new CountryHistoryEra(title, startingYear, endingYear, description, imageURL, url);
                     section.addEra(era);
                 }

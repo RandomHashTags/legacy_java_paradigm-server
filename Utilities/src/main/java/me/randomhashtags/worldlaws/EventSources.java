@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws;
 
+import org.json.JSONObject;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -20,6 +22,14 @@ public final class EventSources {
     }
     public void append(@NotNull EventSource source) {
         sources.add(source);
+    }
+
+    public JSONObject getJSON() {
+        final JSONObject json = new JSONObject();
+        for(EventSource source : sources) {
+            json.put(source.getSiteName(), source.getJSON());
+        }
+        return json;
     }
 
     @Override

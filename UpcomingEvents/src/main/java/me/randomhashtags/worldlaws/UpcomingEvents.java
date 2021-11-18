@@ -1,6 +1,8 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.observances.HolidayType;
 import me.randomhashtags.worldlaws.observances.Holidays;
+import me.randomhashtags.worldlaws.observances.type.AmericanHoliday;
 import me.randomhashtags.worldlaws.politics.Elections;
 import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
@@ -10,7 +12,6 @@ import me.randomhashtags.worldlaws.upcoming.entertainment.Ticketmaster;
 import me.randomhashtags.worldlaws.upcoming.entertainment.VideoGames;
 import me.randomhashtags.worldlaws.upcoming.entertainment.movies.Movies;
 import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicAlbums;
-import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicSpotify;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
@@ -53,8 +54,8 @@ public final class UpcomingEvents implements WLServer {
     private String typesJSON;
 
     private void initialize() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -63,10 +64,10 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        MusicSpotify.INSTANCE.getNewMusicFriday(new CompletionHandler() {
+        AmericanHoliday.HARRIET_TUBMAN_DAY.getHolidayJSON(HolidayType.AMERICAN, new CompletionHandler() {
             @Override
-            public void handleString(String string) {
-                WLLogger.logInfo("UpcomingEvents;test;string=" + string);
+            public void handleJSONObject(JSONObject json) {
+                WLLogger.logInfo("UpcomingEvents;test;string=" + json.toString());
             }
         });
     }

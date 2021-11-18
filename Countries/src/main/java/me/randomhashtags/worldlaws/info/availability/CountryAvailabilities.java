@@ -208,7 +208,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
             case PLAYSTATION_NOW: return "https://upload.wikimedia.org/wikipedia/commons/4/4c/Playstation-now.png";
             case SAMSUNG_PAY: return "https://upload.wikimedia.org/wikipedia/commons/7/7e/Samsung_Pay_icon.svg";
             case SHOWTIME: return "https://upload.wikimedia.org/wikipedia/commons/2/22/Showtime.svg";
-            case SPOTIFY: return "https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg";
+            case SPOTIFY: return "https://upload.wikimedia.org/wikipedia/commons/3/33/Spotify_logo13.png";
             case STADIA: return "https://upload.wikimedia.org/wikipedia/commons/9/98/Stadia_logo.svg";
             case TIDAL: return "https://upload.wikimedia.org/wikipedia/commons/1/18/Tidal_%28service%29_logo.svg";
             case VENMO: return "https://upload.wikimedia.org/wikipedia/commons/4/45/Venmo_Logo.svg";

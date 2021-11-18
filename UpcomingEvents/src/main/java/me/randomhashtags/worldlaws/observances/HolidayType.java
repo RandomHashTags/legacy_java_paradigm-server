@@ -174,22 +174,18 @@ public enum HolidayType implements Jsonable {
                         final EventDate date = isChristian ? ((ChristianHoliday) holiday).getDate(isWestChristian, null, year) : holiday.getDate(null, year);
                         if(date != null) {
                             final String dateString = date.getDateString();
-                            holiday.getImageURL(self, new CompletionHandler() {
+                            holiday.getHolidayJSON(self, new CompletionHandler() {
                                 @Override
-                                public void handleString(String imageURL) {
-                                    holiday.getDescription(self, new CompletionHandler() {
-                                        @Override
-                                        public void handleString(String description) {
-                                            final HolidayObj customHoliday = getHolidayObj(holiday, imageURL);
-                                            final String englishName = customHoliday.getEnglishName();
-                                            descriptions.putIfAbsent(englishName, description);
+                                public void handleJSONObject(JSONObject json) {
+                                    final String imageURL = json.getString("imageURL"), description = json.getString("description");
+                                    final HolidayObj customHoliday = getHolidayObj(holiday, imageURL);
+                                    final String englishName = customHoliday.getEnglishName();
+                                    descriptions.putIfAbsent(englishName, description);
 
-                                            values.putIfAbsent(dateString, new HashSet<>());
-                                            values.get(dateString).add(customHoliday.toString());
+                                    values.putIfAbsent(dateString, new HashSet<>());
+                                    values.get(dateString).add(customHoliday.toString());
 
-                                            tryCompleting(completed, max, descriptions, values, handler);
-                                        }
-                                    });
+                                    tryCompleting(completed, max, descriptions, values, handler);
                                 }
                             });
                         } else {
@@ -249,65 +245,59 @@ public enum HolidayType implements Jsonable {
         final int max = countries.length;
         final HashSet<String> countryHolidays = new HashSet<>();
         final AtomicInteger completed = new AtomicInteger(0);
-
-        Arrays.stream(countries).parallel().forEach(country -> {
-            final String backendID = country.getBackendID();
-            loadCountryHolidays(descriptions, holidays, country, year, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    if(string != null) {
-                        countryHolidays.add("\"" + backendID + "\":" + string);
-                    }
-                    if(completed.addAndGet(1) == max) {
-                        final StringBuilder builder = new StringBuilder("{\"descriptions\":{");
-                        boolean isFirst = true;
-                        for(Map.Entry<String, String> map : descriptions.entrySet()) {
-                            final String name = map.getKey(), description = LocalServer.fixEscapeValues(map.getValue());
-                            builder.append(isFirst ? "" : ",").append("\"").append(name).append("\":\"").append(description).append("\"");
-                            isFirst = false;
-                        }
-                        builder.append("}");
-                        for(String countryHoliday : countryHolidays) {
-                            builder.append(",").append(countryHoliday);
-                        }
-                        builder.append("}");
-                        handler.handleString(builder.toString());
-                    }
+        final CompletionHandler completionHandler = new CompletionHandler() {
+            @Override
+            public void handleStringValue(String backendID, String value) {
+                if(value != null) {
+                    countryHolidays.add("\"" + backendID + "\":" + value);
                 }
-            });
-        });
+                if(completed.addAndGet(1) == max) {
+                    final StringBuilder builder = new StringBuilder("{\"descriptions\":{");
+                    boolean isFirst = true;
+                    for(Map.Entry<String, String> map : descriptions.entrySet()) {
+                        final String name = map.getKey(), description = LocalServer.fixEscapeValues(map.getValue());
+                        builder.append(isFirst ? "" : ",").append("\"").append(name).append("\":\"").append(description).append("\"");
+                        isFirst = false;
+                    }
+                    builder.append("}");
+                    for(String countryHoliday : countryHolidays) {
+                        builder.append(",").append(countryHoliday);
+                    }
+                    builder.append("}");
+                    handler.handleString(builder.toString());
+                }
+            }
+        };
+        Arrays.stream(countries).parallel().forEach(country -> loadCountryHolidays(descriptions, holidays, country, year, completionHandler));
     }
     private void loadCountryHolidays(ConcurrentHashMap<String, String> descriptions, IHoliday[] socialHolidays, WLCountry country, int year, CompletionHandler handler) {
         final HolidayType holidayType = this;
         final ConcurrentHashMap<String, HashSet<String>> holidays = new ConcurrentHashMap<>();
         final int max = socialHolidays.length;
         final AtomicInteger completed = new AtomicInteger(0);
+        final String backendID = country != null ? country.getBackendID() : null;
         Arrays.stream(socialHolidays).parallel().forEach(socialHoliday -> {
             final EventDate date = socialHoliday.getDate(country, year);
             if(date != null) {
                 final String dateString = date.getDateString();
                 holidays.putIfAbsent(dateString, new HashSet<>());
-                socialHoliday.getImageURL(holidayType, new CompletionHandler() {
+                socialHoliday.getHolidayJSON(holidayType, new CompletionHandler() {
                     @Override
-                    public void handleString(String imageURL) {
-                        socialHoliday.getDescription(holidayType, new CompletionHandler() {
-                            @Override
-                            public void handleString(String description) {
-                                final HolidayObj holiday = getHolidayObj(country, socialHoliday, imageURL, description);
-                                final String englishName = holiday.getEnglishName();
-                                descriptions.putIfAbsent(englishName, description);
-                                holidays.get(dateString).add(holiday.toString());
-                                tryCompletingCountryHolidays(completed, max, holidays, handler);
-                            }
-                        });
+                    public void handleJSONObject(JSONObject json) {
+                        final String imageURL = json.getString("imageURL"), description = json.getString("description");
+                        final HolidayObj holiday = getHolidayObj(country, socialHoliday, imageURL, description);
+                        final String englishName = holiday.getEnglishName();
+                        descriptions.putIfAbsent(englishName, description);
+                        holidays.get(dateString).add(holiday.toString());
+                        tryCompletingCountryHolidays(completed, max, holidays, backendID, handler);
                     }
                 });
             } else {
-                tryCompletingCountryHolidays(completed, max, holidays, handler);
+                tryCompletingCountryHolidays(completed, max, holidays, backendID, handler);
             }
         });
     }
-    private void tryCompletingCountryHolidays(AtomicInteger completed, int max, ConcurrentHashMap<String, HashSet<String>> holidays, CompletionHandler handler) {
+    private void tryCompletingCountryHolidays(AtomicInteger completed, int max, ConcurrentHashMap<String, HashSet<String>> holidays, String backendID, CompletionHandler handler) {
         if(completed.addAndGet(1) == max) {
             String string = null;
             if(!holidays.isEmpty()) {
@@ -328,7 +318,7 @@ public enum HolidayType implements Jsonable {
                 builder.append("}");
                 string = builder.toString();
             }
-            handler.handleString(string);
+            handler.handleStringValue(backendID, string);
         }
     }
 }

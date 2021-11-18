@@ -1,9 +1,6 @@
 package me.randomhashtags.worldlaws.country.usa.state.recode;
 
-import me.randomhashtags.worldlaws.CompletionHandlerLaws;
-import me.randomhashtags.worldlaws.EventSource;
-import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionsUnitedStates;
 import me.randomhashtags.worldlaws.recode.*;
@@ -42,14 +39,9 @@ public final class Minnesota extends TestLawSubdivisionController {
     }
 
     @Override
-    public void loadTableOfChapters(String index, CompletionHandlerLaws handler) {
-        index = index.replace("_", "+")
-                .replace(" ", "+")
-                .replace(":", "%253A")
-                .replace(";", "%253B")
-                .replace(",", "%252C")
-        ;
-        super.loadTableOfChapters(index, handler);
+    public void getTableOfChapters(String index, CompletionHandler handler) {
+        index = index.replace("$", "+");
+        super.getTableOfChapters(index, handler);
     }
 
     @Override
@@ -69,10 +61,16 @@ public final class Minnesota extends TestLawSubdivisionController {
                             id = id.substring(sectionValues[0].length()+1);
                         }
                         final String title = tds.get(1).text();
+                        if(isIndex) {
+                            id = title.replace(" ", "$")
+                                    .replace(":", "%253A")
+                                    .replace(";", "%253B")
+                                    .replace(",", "%252C");
+                        }
                         final String titleLowercase = title.toLowerCase();
                         if(titleLowercase.contains("repealed")) {
                         }
-                        final TestStatuteAbstract statuteAbstract = isIndex ? new TestStatuteIndex(title, title) : isChapter ? new TestStatuteChapter(id, title) : isStatute ? new TestStatuteStatute(id, title) : null;
+                        final TestStatuteAbstract statuteAbstract = isIndex ? new TestStatuteIndex(id, title) : isChapter ? new TestStatuteChapter(id, title) : isStatute ? new TestStatuteStatute(id, title) : null;
                         if(statuteAbstract != null) {
                             values.add(statuteAbstract);
                         }

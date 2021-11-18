@@ -227,12 +227,14 @@ public enum MovieProductionCompanies {
                             values.add("\"" + key + "\":" + value);
                             if(completed.addAndGet(1) == max) {
                                 final StringBuilder builder = new StringBuilder("{");
+                                builder.append("\"imageURLPrefix\":\"").append(getImageURLPrefix()).append("\",");
+                                builder.append("\"companies\":{");
                                 boolean isFirst = true;
                                 for(String json : values) {
                                     builder.append(isFirst ? "" : ",").append(json);
                                     isFirst = false;
                                 }
-                                builder.append("}");
+                                builder.append("}}");
                                 handler.handleString(builder.toString());
                             }
                         }
@@ -248,7 +250,10 @@ public enum MovieProductionCompanies {
             });
         }
     }
-    private void getDetails(CompletionHandler handler) {
+    private static String getImageURLPrefix() {
+        return "https://upload.wikimedia.org/wikipedia/en/thumb/";
+    }
+    public void getDetails(CompletionHandler handler) {
         final String originalWikipediaName = wikipediaName.replace("_", " ");
         final String url = "https://en.wikipedia.org/wiki/" + wikipediaName.replace(" ", "_");
         final WikipediaDocument doc = new WikipediaDocument(url);
@@ -259,12 +264,18 @@ public enum MovieProductionCompanies {
             for(Node paragraph : paragraphs) {
                 String text = LocalServer.removeWikipediaReferences(((Element) paragraph).text());
                 text = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(text));
-                builder.append(isFirst ? "" : "\\n").append(text);
+                builder.append(isFirst ? "" : "\n").append(text);
                 isFirst = false;
             }
         }
         final List<String> images = doc.getImages();
-        final String imageURL = images != null ? images.get(0) : null;
+        String imageURL = !images.isEmpty() ? images.get(0) : null;
+        if(imageURL != null) {
+            final String imageURLPrefix = getImageURLPrefix();
+            if(imageURL.startsWith(imageURLPrefix)) {
+                imageURL = imageURL.substring(imageURLPrefix.length());
+            }
+        }
 
         final JSONObject json = new JSONObject();
         final String[] aliases = getAliases();
@@ -276,8 +287,9 @@ public enum MovieProductionCompanies {
             json.put("imageURL", imageURL);
         }
 
-        final EventSources sources = new EventSources();
+        final EventSources sources = doc.getExternalLinks();
         sources.append(new EventSource("Wikipedia: " + originalWikipediaName, url));
+
         final JSONObject sourcesJSON = new JSONObject(sources.toString());
         json.put("sources", sourcesJSON);
 

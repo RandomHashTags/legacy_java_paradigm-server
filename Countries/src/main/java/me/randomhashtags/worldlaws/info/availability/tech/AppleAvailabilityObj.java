@@ -157,9 +157,9 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
         switch (info) {
             case AVAILABILITY_APPLE_IOS_APP_STORE_APPS:
             case AVAILABILITY_APPLE_IOS_APP_STORE_GAMES:
-                return "https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg";
+                return "https://upload.wikimedia.org/wikipedia/commons/a/ab/App_Store_%282017%29_Logo.png";
             case AVAILABILITY_APPLE_IOS_ARCADE: return "https://upload.wikimedia.org/wikipedia/commons/b/b9/Apple-arcade-logo.svg";
-            case AVAILABILITY_APPLE_IOS_CARD: return "https://upload.wikimedia.org/wikipedia/commons/2/28/Apple_Card.svg";
+            case AVAILABILITY_APPLE_IOS_CARD: return "https://upload.wikimedia.org/wikipedia/commons/c/cd/Apple_card_logo.png";
             case AVAILABILITY_APPLE_IOS_CARPLAY: return "https://upload.wikimedia.org/wikipedia/commons/9/92/Apple_CarPlay_Logo.png";
             case AVAILABILITY_APPLE_IOS_ITUNES_STORE_MOVIES:
             case AVAILABILITY_APPLE_IOS_ITUNES_STORE_MUSIC:
@@ -175,8 +175,8 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
             case AVAILABILITY_APPLE_IOS_NEWS: return "https://upload.wikimedia.org/wikipedia/commons/f/f3/Apple_News_2019_icon_%28iOS%29.png";
             case AVAILABILITY_APPLE_IOS_PAY: return "https://upload.wikimedia.org/wikipedia/commons/b/b0/Apple_Pay_logo.svg";
             case AVAILABILITY_APPLE_IOS_SIRI: return "https://upload.wikimedia.org/wikipedia/en/8/8e/AppleSiriIcon2017.png";
-            case AVAILABILITY_APPLE_IOS_TV_APP: return "https://upload.wikimedia.org/wikipedia/commons/3/39/Apple_TV.svg";
-            case AVAILABILITY_APPLE_IOS_TV_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/2/28/Apple_TV_Plus_Logo.svg";
+            case AVAILABILITY_APPLE_IOS_TV_APP: return "https://upload.wikimedia.org/wikipedia/commons/1/16/AppleTVLogo.png";
+            case AVAILABILITY_APPLE_IOS_TV_PLUS: return "https://upload.wikimedia.org/wikipedia/commons/3/37/Apple_TV%2B_logo.png";
             default: return null;
         }
     }

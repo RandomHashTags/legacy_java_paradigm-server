@@ -14,6 +14,15 @@ public final class EventSource {
         homepageURL = json.getString("homepageURL");
     }
 
+    public String getSiteName() {
+        return siteName;
+    }
+    public JSONObject getJSON() {
+        final JSONObject json = new JSONObject();
+        json.put("homepageURL", homepageURL);
+        return json;
+    }
+
     @Override
     public String toString() {
         return "\"" + siteName + "\":{" +

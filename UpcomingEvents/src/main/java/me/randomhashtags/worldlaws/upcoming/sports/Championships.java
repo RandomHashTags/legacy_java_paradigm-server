@@ -113,7 +113,7 @@ public final class Championships extends UpcomingEventController { // https://en
             final EventSources sources = new EventSources(new EventSource("Wikipedia: " + wikiDoc.getPageName(), url));
 
             final List<String> images = wikiDoc.getImages();
-            final String imageURL = images != null ? images.get(0) : null;
+            final String imageURL = !images.isEmpty() ? images.get(0) : null;
             final StringBuilder builder = new StringBuilder();
             final List<Node> paragraphs = wikiDoc.getConsecutiveParagraphs();
             if(paragraphs != null) {

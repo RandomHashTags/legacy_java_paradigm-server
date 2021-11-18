@@ -225,11 +225,6 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
     }
 
     @Override
-    public boolean hasStatutes() {
-        return true;
-    }
-
-    @Override
     public SovereignStateSubdivision[] getNeighbors() {
         switch (this) {
             case ARIZONA:
