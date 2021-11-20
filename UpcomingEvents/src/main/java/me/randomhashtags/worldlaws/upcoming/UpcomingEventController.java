@@ -9,7 +9,6 @@ import java.time.Month;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public abstract class UpcomingEventController implements YouTubeService, Jsoupable, DataValues {
     private final ConcurrentHashMap<String, String> loadedPreUpcomingEvents, upcomingEvents;
@@ -83,7 +82,6 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         if(max == 0) {
             handler.handleStringValue(identifier, null);
         } else {
-            final AtomicInteger completed = new AtomicInteger(0);
             final ConcurrentHashMap<String, HashSet<String>> map = new ConcurrentHashMap<>();
             final CompletionHandler completionHandler = new CompletionHandler() {
                 @Override
@@ -93,30 +91,29 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
                         map.putIfAbsent(dateString, new HashSet<>());
                         map.get(dateString).add(value);
                     }
-                    if(completed.addAndGet(1) == max) {
-                        String stringValue = null;
-                        if(!map.isEmpty()) {
-                            final StringBuilder builder = new StringBuilder("{");
-                            boolean isFirstDateString = true;
-                            for(Map.Entry<String, HashSet<String>> entry : map.entrySet()) {
-                                builder.append(isFirstDateString ? "" : ",").append("\"").append(entry.getKey()).append("\":{");
-                                final HashSet<String> events = entry.getValue();
-                                boolean isFirst = true;
-                                for(String event : events) {
-                                    builder.append(isFirst ? "" : ",").append(event);
-                                    isFirst = false;
-                                }
-                                builder.append("}");
-                                isFirstDateString = false;
-                            }
-                            builder.append("}");
-                            stringValue = builder.toString();
-                        }
-                        handler.handleStringValue(identifier, stringValue);
-                    }
                 }
             };
             set.parallelStream().forEach(id -> getPreUpcomingEvent(id, completionHandler));
+
+            String stringValue = null;
+            if(!map.isEmpty()) {
+                final StringBuilder builder = new StringBuilder("{");
+                boolean isFirstDateString = true;
+                for(Map.Entry<String, HashSet<String>> entry : map.entrySet()) {
+                    builder.append(isFirstDateString ? "" : ",").append("\"").append(entry.getKey()).append("\":{");
+                    final HashSet<String> events = entry.getValue();
+                    boolean isFirst = true;
+                    for(String event : events) {
+                        builder.append(isFirst ? "" : ",").append(event);
+                        isFirst = false;
+                    }
+                    builder.append("}");
+                    isFirstDateString = false;
+                }
+                builder.append("}");
+                stringValue = builder.toString();
+            }
+            handler.handleStringValue(identifier, stringValue);
         }
     }
     private void getPreUpcomingEvent(String id, CompletionHandler handler) {

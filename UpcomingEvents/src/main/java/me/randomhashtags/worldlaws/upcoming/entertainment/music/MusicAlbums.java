@@ -15,7 +15,6 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public final class MusicAlbums extends UpcomingEventController implements SpotifyService, ITunesSearchAPI {
 
@@ -47,11 +46,7 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
             urls.put(getURL(baseURL, nextMonth), nextMonth.getValue()-6);
         }
 
-        final AtomicInteger completed = new AtomicInteger(0);
-        final int max = urls.size();
-        if(max == 0) {
-            handler.handleString(null);
-        } else {
+        if(urls.size() > 0) {
             urls.keySet().parallelStream().forEach(url -> {
                 final Document doc = getDocument(url);
                 if(doc != null) {
@@ -89,12 +84,9 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
                         }
                     }
                 }
-
-                if(completed.addAndGet(1) == max) {
-                    handler.handleString(null);
-                }
             });
         }
+        handler.handleString(null);
     }
 
     @Override

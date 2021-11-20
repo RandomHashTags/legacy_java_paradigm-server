@@ -145,7 +145,7 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
         if(territoryPreAlerts.containsKey(subdivision) && territoryPreAlerts.get(subdivision).containsKey(event)) {
             handler.handleString(territoryPreAlerts.get(subdivision).get(event));
         } else {
-            handler.handleString("{}");
+            handler.handleString(null);
         }
     }
 

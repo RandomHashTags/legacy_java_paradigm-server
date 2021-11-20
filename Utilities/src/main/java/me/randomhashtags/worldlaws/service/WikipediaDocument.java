@@ -143,7 +143,15 @@ public final class WikipediaDocument {
                 for(int i = 1; i <= indexOfExternalLinks; i++) {
                     elements.remove(0);
                 }
-                final Element ul = elements.select("ul").get(0);
+                final Elements uls = elements.select("ul");
+                int index = 0;
+                for(Element ul : uls) {
+                    if(!ul.hasAttr("style")) {
+                        break;
+                    }
+                    index += 1;
+                }
+                final Element ul = uls.get(index);
                 final Elements lists = ul.select("li");
                 for(Element list : lists) {
                     final Elements hrefs = list.select("a[href]");
@@ -177,6 +185,7 @@ public final class WikipediaDocument {
                                         case "rotten tomatoes":
                                         case "metacritic":
                                         case "box office mojo":
+                                        case "the big cartoon database":
                                         case "twitter":
                                         case "youtube":
                                         case "instagram":

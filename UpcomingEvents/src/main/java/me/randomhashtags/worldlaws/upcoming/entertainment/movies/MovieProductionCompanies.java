@@ -264,7 +264,7 @@ public enum MovieProductionCompanies {
             for(Node paragraph : paragraphs) {
                 String text = LocalServer.removeWikipediaReferences(((Element) paragraph).text());
                 text = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(text));
-                builder.append(isFirst ? "" : "\n").append(text);
+                builder.append(isFirst ? "" : "\n\n").append(text);
                 isFirst = false;
             }
         }
@@ -293,7 +293,7 @@ public enum MovieProductionCompanies {
         final JSONObject sourcesJSON = new JSONObject(sources.toString());
         json.put("sources", sourcesJSON);
 
-        handler.handleStringValue(originalWikipediaName, json.toString());
+        handler.handleStringValue(originalWikipediaName.split(" \\(")[0], json.toString());
     }
 
     private final String wikipediaName;

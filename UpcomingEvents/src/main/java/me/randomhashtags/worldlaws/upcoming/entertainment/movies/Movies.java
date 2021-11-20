@@ -127,10 +127,9 @@ public final class Movies extends UpcomingEventController implements IMDbService
         final Document wikidoc = wikiDoc.getDocument();
         if(wikidoc != null) {
             String releaseInfo = "", premise = "";
-            final EventSources externalSources = new EventSources();
             final Elements elements = wikidoc.select("div.mw-parser-output > *");
             final Elements headlines = elements.select("h2");
-            boolean isRelease = false, isPremise = false, isExternalLinks = false, setPremise = false;
+            boolean isRelease = false, isPremise = false, setPremise = false;
             for(Element target : elements) {
                 final String targetTagName = target.tagName();
                 final boolean isHeadline = headlines.contains(target);
@@ -144,9 +143,6 @@ public final class Movies extends UpcomingEventController implements IMDbService
                             break;
                         case "Release":
                             isRelease = true;
-                            break;
-                        case "External links":
-                            isExternalLinks = true;
                             break;
                     }
                 }
@@ -165,43 +161,6 @@ public final class Movies extends UpcomingEventController implements IMDbService
                         releaseInfo = releaseInfo.concat(target.text());
                     }
                 }
-                if(isExternalLinks) {
-                    final boolean isUL = targetTagName.equals("ul");
-                    if(isUL) {
-                        for(Element list : target.select("li")) {
-                            final String listText = list.text();
-                            final boolean hasAt = listText.contains(" at ");
-                            final Elements hrefs = list.select("a");
-                            for(Element href : hrefs) {
-                                EventSource externalSource = null;
-                                final String hrefText = href.text(), hrefTextLowercase = hrefText.toLowerCase();
-                                switch (hrefTextLowercase) {
-                                    case "official website":
-                                        externalSource = new EventSource(hasAt ? listText : hrefText, href.attr("href"));
-                                        break;
-                                    case "adult swim":
-                                    case "imdb":
-                                    case "disney+":
-                                    case "facebook":
-                                    case "allmovie":
-                                    case "history vs. hollywood":
-                                    case "netflix":
-                                    case "rotten tomatoes":
-                                    case "metacritic":
-                                    case "box office mojo":
-                                        externalSource = new EventSource(hrefText + ": " + title, hrefs.first().attr("href"));
-                                        break;
-                                    default:
-                                        break;
-                                }
-                                if(externalSource != null) {
-                                    externalSources.append(externalSource);
-                                }
-                            }
-                        }
-                        isExternalLinks = false;
-                    }
-                }
             }
             if(releaseInfo.isEmpty()) {
                 releaseInfo = null;
@@ -215,9 +174,8 @@ public final class Movies extends UpcomingEventController implements IMDbService
                 }
             }
 
-            final EventSource wikipage = new EventSource("Wikipedia: " + wikiDoc.getPageName(), url);
-            final EventSources sources = new EventSources(wikipage);
-            sources.append(externalSources);
+            final EventSources sources = wikiDoc.getExternalLinks();
+            sources.append(new EventSource("Wikipedia: " + wikiDoc.getPageName(), url));
             final Elements targetImage = wikidoc.select("div.mw-parser-output table.infobox tbody tr td a img");
             final String imageSourceURL = !targetImage.isEmpty() ? targetImage.get(0).attr("src") : null;
             final String imageURL = imageSourceURL != null ? "https:" + imageSourceURL : null;

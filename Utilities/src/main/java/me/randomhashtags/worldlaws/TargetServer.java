@@ -32,6 +32,7 @@ public enum TargetServer implements RestAPI, DataValues {
 
     private static String PING_RESPONSE, MAINTENANCE_MESSAGE;
     private static boolean MAINTENANCE_MODE = false;
+    private static long MAINTENANCE_STARTED;
 
     static {
         HOME_JSON = new HashMap<>();
@@ -52,6 +53,9 @@ public enum TargetServer implements RestAPI, DataValues {
         WLLogger.logInfo("TargetServer - " + (active ? "started" : "ended") + " maintenance mode");
         MAINTENANCE_MODE = active;
         MAINTENANCE_MESSAGE = reason;
+        if(active) {
+            MAINTENANCE_STARTED = System.currentTimeMillis();
+        }
         updatePingResponse();
 
         if(!active) {
@@ -265,6 +269,7 @@ public enum TargetServer implements RestAPI, DataValues {
         if(MAINTENANCE_MODE) {
             maintenanceJSON.put("active", true);
             maintenanceJSON.put("msg", MAINTENANCE_MESSAGE);
+            maintenanceJSON.put("started", MAINTENANCE_STARTED);
         }
         json.put("maintenance", maintenanceJSON);
 

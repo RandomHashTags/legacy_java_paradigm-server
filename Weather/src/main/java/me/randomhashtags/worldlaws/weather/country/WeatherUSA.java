@@ -73,7 +73,6 @@ public enum WeatherUSA implements WeatherController {
                     if(max == 0) {
                         handler.handleString(null);
                     } else {
-                        final AtomicInteger completed = new AtomicInteger(0);
                         final WLCountry unitedStates = WLCountry.UNITED_STATES;
                         StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
                             final JSONObject jsonAlert = (JSONObject) obj;
@@ -144,18 +143,15 @@ public enum WeatherUSA implements WeatherController {
                             territoryPreAlertsMap.putIfAbsent(subdivisionName, new ConcurrentHashMap<>());
                             territoryPreAlertsMap.get(subdivisionName).putIfAbsent(eventLowercase, new HashSet<>());
                             territoryPreAlertsMap.get(subdivisionName).get(eventLowercase).add(preAlert);
-
-                            if(completed.addAndGet(1) == max) {
-                                putEventPreAlerts(eventPreAlerts, eventPreAlertsMap);
-                                putSubdivisionEvents(territoryEvents, subdivisionEventsMap);
-                                putSubdivisionPreAlerts(territoryPreAlerts, territoryPreAlertsMap);
-
-                                final String eventsJSON = getEventsJSON(eventsMap);
-                                if(handler != null) {
-                                    handler.handleString(eventsJSON);
-                                }
-                            }
                         });
+                        putEventPreAlerts(eventPreAlerts, eventPreAlertsMap);
+                        putSubdivisionEvents(territoryEvents, subdivisionEventsMap);
+                        putSubdivisionPreAlerts(territoryPreAlerts, territoryPreAlertsMap);
+
+                        final String eventsJSON = getEventsJSON(eventsMap);
+                        if(handler != null) {
+                            handler.handleString(eventsJSON);
+                        }
                     }
                 } else {
                     handler.handleString(null);
@@ -280,15 +276,14 @@ public enum WeatherUSA implements WeatherController {
         final List<Location> geometry = new ArrayList<>();
         switch (geometryType) {
             case "MultiPolygon":
-            case "Polygon":
-                final JSONArray coordinates = geometryJSON.getJSONArray("coordinates").getJSONArray(0).getJSONArray(0);
-                StreamSupport.stream(coordinates.spliterator(), true).forEach(coordinate -> {
-                    final JSONArray array = (JSONArray) coordinate;
-                    final double longitude = array.getDouble(0), latitude = array.getDouble(1);
-                    final Location location = new Location(latitude, longitude);
-                    geometry.add(location);
+                final JSONArray coordinates = geometryJSON.getJSONArray("coordinates");
+                StreamSupport.stream(coordinates.spliterator(), true).forEach(coordinateArray -> {
+                    final JSONArray array = (JSONArray) coordinateArray;
+                    geometry.addAll(getGeometryFromArray(array.getJSONArray(0)));
                 });
-                break;
+                return geometry;
+            case "Polygon":
+                return getGeometryFromArray(geometryJSON.getJSONArray("coordinates").getJSONArray(0));
             case "GeometryCollection":
                 final JSONArray array = geometryJSON.getJSONArray("geometries");
                 StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
@@ -301,6 +296,16 @@ public enum WeatherUSA implements WeatherController {
                 WLLogger.logError(INSTANCE, "getGeometry - uncaught geometryType \"" + geometryType + "\"!");
                 break;
         }
+        return geometry;
+    }
+    private List<Location> getGeometryFromArray(JSONArray array) {
+        final List<Location> geometry = new ArrayList<>();
+        StreamSupport.stream(array.spliterator(), true).forEach(coordinate -> {
+            final JSONArray coordinateArray = (JSONArray) coordinate;
+            final double longitude = coordinateArray.getDouble(0), latitude = coordinateArray.getDouble(1);
+            final Location location = new Location(latitude, longitude);
+            geometry.add(location);
+        });
         return geometry;
     }
 }

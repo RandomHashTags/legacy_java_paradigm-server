@@ -27,7 +27,7 @@ public interface UserServer {
         if(input == null) {
             return;
         }
-        final String[] values = input.split(" ");
+        final String[] values = input.toLowerCase().split(" ");
         final String key = values[0];
         switch (key) {
             case "stop":

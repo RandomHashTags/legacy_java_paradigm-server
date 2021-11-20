@@ -11,7 +11,6 @@ import java.time.Month;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public final class VideoGamesSteam extends UpcomingEventController {
 
@@ -39,7 +38,6 @@ public final class VideoGamesSteam extends UpcomingEventController {
                 handler.handleString(null);
             } else {
                 final UpcomingEventType eventType = getType();
-                final AtomicInteger completed = new AtomicInteger(0);
                 final HashSet<VideoGameRelease> releases = new HashSet<>();
                 elements.parallelStream().forEach(element -> {
                     String href = element.attr("href");
@@ -52,17 +50,15 @@ public final class VideoGamesSteam extends UpcomingEventController {
                             releases.add(release);
                         }
                     }
-                    if(completed.addAndGet(1) == max) {
-                        final StringBuilder builder = new StringBuilder("{");
-                        boolean isFirst = true;
-                        for(VideoGameRelease release : releases) {
-                            builder.append(isFirst ? "" : ",").append(release.toString());
-                            isFirst = false;
-                        }
-                        builder.append("}");
-                        handler.handleString(builder.toString());
-                    }
                 });
+                final StringBuilder builder = new StringBuilder("{");
+                boolean isFirst = true;
+                for(VideoGameRelease release : releases) {
+                    builder.append(isFirst ? "" : ",").append(release.toString());
+                    isFirst = false;
+                }
+                builder.append("}");
+                handler.handleString(builder.toString());
             }
         } else {
             handler.handleString(null);

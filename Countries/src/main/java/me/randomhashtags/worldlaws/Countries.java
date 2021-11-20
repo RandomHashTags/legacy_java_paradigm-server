@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.generators.LegatumProsperityIndexGenerator;
 import me.randomhashtags.worldlaws.history.CountryHistory;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
@@ -52,12 +53,8 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        loadServices();
-        loadCountries(new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-            }
-        });
+        final String string = LegatumProsperityIndexGenerator.INSTANCE.get();
+        WLLogger.logInfo("Countries;test;string=" + string);
     }
 
     @Override
