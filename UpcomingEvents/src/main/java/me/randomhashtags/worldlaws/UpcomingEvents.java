@@ -10,7 +10,6 @@ import me.randomhashtags.worldlaws.upcoming.entertainment.Ticketmaster;
 import me.randomhashtags.worldlaws.upcoming.entertainment.VideoGames;
 import me.randomhashtags.worldlaws.upcoming.entertainment.movies.Movies;
 import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicAlbums;
-import me.randomhashtags.worldlaws.upcoming.entertainment.videogames.VideoGamesSteam;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
@@ -63,10 +62,16 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        new VideoGamesSteam().load(new CompletionHandler() {
+        final TVShows shows = new TVShows();
+        shows.refresh(new CompletionHandler() {
             @Override
             public void handleString(String string) {
-                WLLogger.logInfo("UpcomingEvents;test;string=" + string);
+                shows.getEventsFromDates(getWeeklyEventDateStrings(LocalDate.now()), new CompletionHandler() {
+                    @Override
+                    public void handleStringValue(String key, String value) {
+                        WLLogger.logInfo("UpcomingEvents;test;value=" + value);
+                    }
+                });
             }
         });
         /*AmericanHoliday.HARRIET_TUBMAN_DAY.getHolidayJSON(HolidayType.AMERICAN, new CompletionHandler() {

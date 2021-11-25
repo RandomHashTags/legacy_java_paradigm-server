@@ -119,7 +119,11 @@ public final class WikipediaDocument {
             images.add(documentImageURL);
         }
         images.removeIf(img -> {
-            return img.endsWith("static/images/footer/wikimedia-button.png") || img.contains("static/images/footer/poweredby_mediawiki_");
+            return img.endsWith("static/images/footer/wikimedia-button.png")
+                    || img.contains("static/images/footer/poweredby_mediawiki_")
+                    || img.endsWith("px-Question_book-new.svg.png")
+                    || img.endsWith("px-OOjs_UI_icon_edit-ltr-progressive.svg.png")
+                    ;
         });
         return images;
     }

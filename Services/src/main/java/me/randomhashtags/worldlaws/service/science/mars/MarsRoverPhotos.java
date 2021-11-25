@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.WLService;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
+import me.randomhashtags.worldlaws.service.NASAService;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -30,8 +31,8 @@ public enum MarsRoverPhotos implements WLService {
         } else {
             final LocalDate today = LocalDate.now().minusDays(1);
             final int year = today.getYear(), month = today.getMonthValue(), day = today.getDayOfMonth();
-            final String rover = "curiosity";
-            requestJSONObject("https://api.nasa.gov/mars-photos/api/v1/rovers/" + rover + "/photos?earth_date=" + year + "-" + month + "-" + day + "&api_key=" + NASA_API_KEY, RequestMethod.GET, CONTENT_HEADERS, new CompletionHandler() {
+            final String rover = "curiosity", apiKey = NASAService.getNASA_APIKey();
+            requestJSONObject("https://api.nasa.gov/mars-photos/api/v1/rovers/" + rover + "/photos?earth_date=" + year + "-" + month + "-" + day + "&api_key=" + apiKey, RequestMethod.GET, CONTENT_HEADERS, new CompletionHandler() {
                 @Override
                 public void handleJSONObject(JSONObject json) {
                     final JSONArray photos = json.getJSONArray("photos");

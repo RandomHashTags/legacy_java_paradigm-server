@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.RequestMethod;
+import me.randomhashtags.worldlaws.service.NASAService;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
@@ -29,8 +30,8 @@ public final class NASANeo extends USAUpcomingEventController {
     }
 
     private void refreshNeo(int year, int month, int day, CompletionHandler handler) {
-        final String date = year + "-" + month + "-" + day;
-        final String url = "https://api.nasa.gov/neo/rest/v1/feed?start_date=" + date + "&end_date=" + date + "&detailed=true&api_key=" + NASA_API_KEY;
+        final String date = year + "-" + month + "-" + day, apiKey = NASAService.getNASA_APIKey();
+        final String url = "https://api.nasa.gov/neo/rest/v1/feed?start_date=" + date + "&end_date=" + date + "&detailed=true&api_key=" + apiKey;
         requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject jsonobject) {

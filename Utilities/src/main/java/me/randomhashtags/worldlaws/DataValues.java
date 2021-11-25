@@ -13,21 +13,6 @@ public interface DataValues extends Jsonable {
     String HTTP_SUCCESS_200 = HTTP_PREFIX.replace("%status%", "200 OK");
     String HTTP_ERROR_404 = HTTP_PREFIX.replace("%status%", "404 ERROR") + "Access Denied. Your IP has been logged and will be banned if you continue trying to connect.";
 
-    int TWITCH_REQUEST_LIMIT = 100;
-    String TWITCH_CLIENT_ID = "***REMOVED***";
-    String TWITCH_ACCESS_TOKEN = "***REMOVED***";
-
-    int YOUTUBE_REQUEST_LIMIT = 49;
-    String YOUTUBE_KEY = "***REMOVED***";
-    String YOUTUBE_KEY_IDENTIFIER = "***REMOVED***";
-    String YOUTUBE_KEY_VALUE = "***REMOVED***";
-
-    String GOOGLE_CIVIC_API_KEY = "***REMOVED***";
-
-    String YAHOO_FINANCE_RAPID_API_KEY = "***REMOVED***";
-
-    String NASA_API_KEY = "***REMOVED***";
-
     default void getJSONDataValue(JSONDataValue value, CompletionHandler handler) {
         final String identifier = value.getIdentifier();
         getDataValuesJSON(new CompletionHandler() {

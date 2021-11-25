@@ -15,11 +15,20 @@ import java.util.Map;
 public enum Elections implements RestAPI, DataValues {
     INSTANCE;
 
+    private String googleCivicAPIKey;
+
+    public String getGoogleCivicAPIKey() {
+        if(googleCivicAPIKey == null) {
+            googleCivicAPIKey = Jsonable.getSettingsPrivateValuesJSON().getJSONObject("google").getString("civic_api_key");
+        }
+        return googleCivicAPIKey;
+    }
+
     public void refresh(CompletionHandler handler) {
         // https://developers.google.com/civic-information/docs/v2
         final long started = System.currentTimeMillis();
         final HashMap<String, String> query = new HashMap<>();
-        query.put("key", GOOGLE_CIVIC_API_KEY);
+        query.put("key", getGoogleCivicAPIKey());
 
         requestJSONObject("https://www.googleapis.com/civicinfo/v2/elections", RequestMethod.GET, CONTENT_HEADERS, query, new CompletionHandler() {
             @Override
@@ -97,7 +106,7 @@ public enum Elections implements RestAPI, DataValues {
     }
     private void getRepresentatives(String ocdDivisionId, CompletionHandler handler) {
         final HashMap<String, String> query = new HashMap<>();
-        query.put("key", GOOGLE_CIVIC_API_KEY);
+        query.put("key", getGoogleCivicAPIKey());
         requestJSONObject("https://www.googleapis.com/civicinfo/v2/representatives/" + ocdDivisionId.replace("/", "%2F").replace(":", "%3A"), RequestMethod.GET, CONTENT_HEADERS, query, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {

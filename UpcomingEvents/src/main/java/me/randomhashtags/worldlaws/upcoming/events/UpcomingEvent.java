@@ -7,6 +7,9 @@ import me.randomhashtags.worldlaws.PreUpcomingEvent;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.json.JSONArray;
 
+import java.util.HashMap;
+import java.util.List;
+
 public abstract class UpcomingEvent implements Jsoupable {
 
     private final String title, description, imageURL, location;
@@ -26,7 +29,10 @@ public abstract class UpcomingEvent implements Jsoupable {
     public abstract String getPropertiesJSONObject();
 
     public String toPreUpcomingEventJSON(UpcomingEventType type, String id, String tag) {
-        return new PreUpcomingEvent(id, title, null, tag).toStringWithImageURL(type, imageURL);
+        return toPreUpcomingEventJSON(type, id, tag, null, null);
+    }
+    public String toPreUpcomingEventJSON(UpcomingEventType type, String id, String tag, List<String> countries, HashMap<String, Object> customValues) {
+        return new PreUpcomingEvent(id, title, null, tag, countries, customValues).toStringWithImageURL(type, imageURL);
     }
 
     @Override

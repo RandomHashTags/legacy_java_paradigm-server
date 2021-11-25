@@ -110,7 +110,7 @@ public enum MovieProductionCompanies {
     // Metro-Goldwyn-Mayer
     METRO_GOLDWYN_MAYER("Metro-Goldwyn-Mayer", "Metro-Goldwyn-Mayer Studios", "MGM"),
     ORION_CLASSICS,
-    ORION_PICTURES("Orion Pictures", "Orion Releasing"),
+    ORION_PICTURES("Orion Pictures", "Orion Releasing", "Orion Pictures Corporation"),
 
     MILLENNIUM_MEDIA("Millennium Media", "Millennium Films"),
     MRC("MRC (company)", "Media Rights Capital", "MRC Film"),
@@ -149,7 +149,7 @@ public enum MovieProductionCompanies {
     SCOTT_FREE_PRODUCTIONS,
     SCREEN_MEDIA_FILMS,
     SEVEN_BUCKS_PRODUCTIONS,
-    SHOWTIME,
+    SHOWTIME("Showtime (TV network)"),
     SKYDANCE_MEDIA,
     SMOKEHOUSE_PICTURES,
     STX_ENTERTAINMENT("STX Entertainment", "STX Financing", "STX Films"),
@@ -195,7 +195,7 @@ public enum MovieProductionCompanies {
     NEW_LINE_CINEMA("New Line Cinema", "New Line Productions"),
     WARNER_ANIMATION_GROUP("Warner Animation Group", "WAG"),
     WARNER_BROS_ANIMATION("Warner Bros. Animation"),
-    WARNER_BROS_ENTERTAINMENT("Warner Bros.", "Warmer Bros. Entertainment", "WB"),
+    WARNER_BROS_ENTERTAINMENT("Warner Bros.", "Warner Bros. Entertainment", "WB"),
     WARNER_BROS_PICTURES("Warner Bros. Pictures"),
 
     WINGNUT_FILMS("WingNut Films"),

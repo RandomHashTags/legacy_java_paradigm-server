@@ -9,6 +9,7 @@ import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.time.Month;
+import java.util.HashMap;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -153,6 +154,7 @@ public final class TVShows extends LoadedUpcomingEventController {
                             final EventDate eventDate = new EventDate(Month.of(airMonth), airDay, airYear);
                             if(eventDate.getLocalDate().isBefore(nextWeek)) {
                                 final String dateString = eventDate.getDateString();
+                                final int popularity = showJSON.getInt("weight");
 
                                 final String episodeName = json.getString("name");
                                 final int episode = json.get("number") instanceof Integer ? json.getInt("number") : -1;
@@ -190,8 +192,15 @@ public final class TVShows extends LoadedUpcomingEventController {
                                     sources.append(new EventSource(network + ": " + showTitle, officialSite));
                                 }
 
-                                final TVShowEvent tvShowEvent = new TVShowEvent(showTitle, null, imageURL, null, language, countryCode, officialSite, network, runtimeMinutes, season, episode, episodeName, episodeSummary, genres, sources);
-                                putLoadedPreUpcomingEvent(identifier, tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, showTitle));
+                                final TVShowEvent tvShowEvent = new TVShowEvent(showTitle, null, imageURL, null, popularity, language, countryCode, officialSite, network, runtimeMinutes, season, episode, episodeName, episodeSummary, genres, sources);
+                                HashMap<String, Object> customValues = null;
+                                if(popularity > 0) {
+                                    customValues = new HashMap<>();
+                                    customValues.put("popularity", popularity);
+                                }
+
+                                final String preUpcomingEvent = tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, showTitle, null, customValues);
+                                putLoadedPreUpcomingEvent(identifier, preUpcomingEvent);
                                 putUpcomingEvent(identifier, tvShowEvent.toString());
                             }
                         }

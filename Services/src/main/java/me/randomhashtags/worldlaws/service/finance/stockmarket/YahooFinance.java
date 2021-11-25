@@ -15,9 +15,17 @@ import java.util.stream.IntStream;
 public enum YahooFinance implements StockService {
     INSTANCE;
 
+    private String rapidAPIKey;
+
+    private String getRapidAPIKey() {
+        if(rapidAPIKey == null) {
+            rapidAPIKey = Jsonable.getSettingsPrivateValuesJSON().getJSONObject("yahoo_finance").getString("rapid_api_key");
+        }
+        return rapidAPIKey;
+    }
     private HashMap<String, String> getHeaders() {
         final HashMap<String, String> headers = new HashMap<>();
-        headers.put("x-rapidapi-key", YAHOO_FINANCE_RAPID_API_KEY);
+        headers.put("x-rapidapi-key", getRapidAPIKey());
         headers.put("x-rapidapi-host", "apidojo-yahoo-finance-v1.p.rapidapi.com");
         return headers;
     }

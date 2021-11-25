@@ -58,7 +58,6 @@ public final class LocalServer implements UserServer, DataValues {
                 timer.cancel();
             }
         }
-        stopListeningForUserInput();
         saveStatistics();
         try {
             server.close();

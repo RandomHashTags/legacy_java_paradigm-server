@@ -36,5 +36,27 @@
         "port": 0
       }
     }
+  },
+  "private_values": {
+    "google": {
+      "civic_api_key": "***REMOVED***"
+    },
+    "nasa": {
+      "api_key": "***REMOVED***"
+    },
+    "twitch": {
+      "request_limit": 100,
+      "client_id": "***REMOVED***",
+      "access_token": "***REMOVED***"
+    },
+    "yahoo_finance": {
+      "rapid_api_key": "***REMOVED***"
+    },
+    "youtube": {
+      "request_limit": 49,
+      "key": "***REMOVED***",
+      "key_identifier": "***REMOVED***",
+      "key_value": "***REMOVED***"
+    }
   }
 }

@@ -8,11 +8,12 @@ import org.json.JSONArray;
 public final class TVShowEvent extends UpcomingEvent {
 
     private final String language, countryCode, officialSite, network, episodeName, episodeSummary;
-    private final int runtimeMinutes, season, episode;
+    private final int popularity, runtimeMinutes, season, episode;
     private final JSONArray genres;
 
-    public TVShowEvent(String title, String description, String imageURL, JSONArray youtubeVideoIDs, String language, String countryCode, String officialSite, String network, int runtimeMinutes, int season, int episode, String episodeName, String episodeSummary, JSONArray genres, EventSources sources) {
+    public TVShowEvent(String title, String description, String imageURL, JSONArray youtubeVideoIDs, int popularity, String language, String countryCode, String officialSite, String network, int runtimeMinutes, int season, int episode, String episodeName, String episodeSummary, JSONArray genres, EventSources sources) {
         super(title, description, imageURL, null, youtubeVideoIDs, sources);
+        this.popularity = popularity;
         this.language = language;
         this.countryCode = countryCode;
         this.officialSite = officialSite;
@@ -33,6 +34,7 @@ public final class TVShowEvent extends UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
+                (popularity > 0 ? "\"popularity\":" + popularity + "," : "") +
                 (language != null ? "\"language\":\"" + language + "\"," : "") +
                 (countryCode != null ? "\"countryCode\":\"" + countryCode + "\"," : "") +
                 (officialSite != null ? "\"officialSite\":\"" + officialSite + "\"," : "") +

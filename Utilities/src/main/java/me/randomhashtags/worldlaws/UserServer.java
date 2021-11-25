@@ -41,18 +41,21 @@ public interface UserServer {
             case "restart":
             case "reload":
             case "reboot":
-                stop();
-                stopListeningForUserInput();
-                start();
-                break;
+                restart();
+                return;
             case "save":
                 saveStatistics();
                 break;
+            case "beginmaintenance":
             case "startmaintenance":
                 TargetServer.setMaintenanceMode(true, input.substring(key.length()+1));
                 break;
             case "endmaintenance":
+            case "stopmaintenance":
                 TargetServer.setMaintenanceMode(false, null);
+                break;
+            case "execute":
+                executeCommand(input.substring(key.length()+1));
                 break;
             default:
                 break;
@@ -61,5 +64,16 @@ public interface UserServer {
     }
 
     default void saveStatistics() {
+    }
+    private void restart() {
+        stop();
+        start();
+    }
+    private void executeCommand(String command) {
+        try {
+            new ProcessBuilder(command).start().waitFor();
+        } catch (Exception e) {
+            WLUtilities.saveException(e);
+        }
     }
 }
