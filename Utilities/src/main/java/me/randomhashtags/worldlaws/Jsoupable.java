@@ -136,7 +136,6 @@ public interface Jsoupable {
         return doc;
     }
     private static Document requestDocument(String url) {
-        WLLogger.logInfo("Jsoupable - making request to \"" + url + "\"");
         try {
             return WLUtilities.getJsoupDocumentFrom(url);
         } catch (Exception e) {

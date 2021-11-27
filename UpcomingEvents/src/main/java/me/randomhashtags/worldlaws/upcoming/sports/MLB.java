@@ -34,11 +34,11 @@ public final class MLB extends USAUpcomingEventController {
         final Document doc = getDocument(mlbScheduleURL);
         if(doc != null) {
             final Elements dates = doc.select("div.ScheduleCollectionGridstyle__SectionWrapper-sc-c0iua4-0");
-            final AtomicInteger completed = new AtomicInteger(0);
             final int max = dates.size();
             if(max == 0) {
                 handler.handleString(null);
             } else {
+                final AtomicInteger completed = new AtomicInteger(0);
                 dates.parallelStream().forEach(dateElement -> {
                     final String previousElementString = dateElement.previousElementSibling().text();
                     final String[] values = previousElementString.split(" ");

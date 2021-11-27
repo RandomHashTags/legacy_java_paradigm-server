@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.service.YouTubeService;
 import org.json.JSONObject;
 
+import java.time.LocalDate;
 import java.time.Month;
 import java.util.HashSet;
 import java.util.Map;
@@ -80,10 +81,10 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
             final String dateString = id.split("\\.")[0];
             return !dates.contains(dateString);
         });
-        final String identifier = getType().name().toLowerCase();
+        final String typeIdentifier = getType().name().toLowerCase();
         final int max = set.size();
         if(max == 0) {
-            handler.handleStringValue(identifier, null);
+            handler.handleStringValue(typeIdentifier, null);
         } else {
             final AtomicInteger completed = new AtomicInteger(0);
             final ConcurrentHashMap<String, HashSet<String>> map = new ConcurrentHashMap<>();
@@ -114,21 +115,21 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
                             builder.append("}");
                             stringValue = builder.toString();
                         }
-                        handler.handleStringValue(identifier, stringValue);
+                        handler.handleStringValue(typeIdentifier, stringValue);
                     }
                 }
             };
-            set.parallelStream().forEach(id -> getPreUpcomingEvent(id, completionHandler));
+            set.parallelStream().forEach(identifier -> getPreUpcomingEvent(identifier, completionHandler));
         }
     }
-    private void getPreUpcomingEvent(String id, CompletionHandler handler) {
-        if(loadedPreUpcomingEvents.containsKey(id)) {
-            handler.handleStringValue(id, loadedPreUpcomingEvents.get(id));
+    private void getPreUpcomingEvent(String identifier, CompletionHandler handler) {
+        if(loadedPreUpcomingEvents.containsKey(identifier)) {
+            handler.handleStringValue(identifier, loadedPreUpcomingEvents.get(identifier));
         } else {
-            getUpcomingEvent(id, new CompletionHandler() {
+            getUpcomingEvent(identifier, new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
-                    handler.handleStringValue(id, loadedPreUpcomingEvents.get(id));
+                    handler.handleStringValue(identifier, loadedPreUpcomingEvents.get(identifier));
                 }
             });
         }
@@ -142,30 +143,43 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
     public void getResponse(String input, CompletionHandler handler) {
         getUpcomingEvent(input, handler);
     }
-    public void getUpcomingEvent(String id, CompletionHandler handler) {
-        if(upcomingEvents.containsKey(id)) {
-            handler.handleString(upcomingEvents.get(id));
+    public void getUpcomingEvent(String identifier, CompletionHandler handler) {
+        if(upcomingEvents.containsKey(identifier)) {
+            final String string = upcomingEvents.get(identifier);
+            handler.handleString(string.isEmpty() ? null : string);
         } else {
             final Folder folder = Folder.UPCOMING_EVENTS_IDS;
-            final String fileName = getUpcomingEventFileName(folder, id);
-            getJSONObject(folder, fileName, new CompletionHandler() {
-                @Override
-                public void load(CompletionHandler handler) {
-                    tryLoadingUpcomingEvent(id, handler);
-                }
+            final String fileName = getUpcomingEventFileName(folder, identifier);
+            final String string = getLocalFileString(folder, fileName, "json");
+            if(string != null) {
+                handler.handleString(string);
+            } else {
+                final String todayEventDateString = new EventDate(LocalDate.now()).getDateString() + ".";
+                tryLoadingUpcomingEvent(identifier, new CompletionHandler() {
+                    @Override
+                    public void handleString(String string) {
+                        final JSONObject json = string != null && string.startsWith("{") ? new JSONObject(string) : null;
+                        handleJSONObject(json);
+                    }
 
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    String string = null;
-                    if(json != null) {
-                        string = toLoadedPreUpcomingEvent(id, json);
+                    @Override
+                    public void handleJSONObject(JSONObject json) {
+                        String string = null;
+                        final String jsonString = json != null ? json.toString() : "";
+                        if(json != null) {
+                            string = toLoadedPreUpcomingEvent(identifier, json);
+                        }
+                        if(string != null) {
+                            putLoadedPreUpcomingEvent(identifier, string);
+                        }
+                        if(!jsonString.isEmpty() && identifier.startsWith(todayEventDateString)) {
+                            saveUpcomingEventToJSON(identifier, jsonString);
+                        }
+                        upcomingEvents.put(identifier, jsonString);
+                        handler.handleString(jsonString);
                     }
-                    if(string != null) {
-                        putLoadedPreUpcomingEvent(id, string);
-                    }
-                    handler.handleString(json != null ? json.toString() : null);
-                }
-            });
+                });
+            }
         }
     }
     private String getUpcomingEventFileName(Folder folder, String id) {

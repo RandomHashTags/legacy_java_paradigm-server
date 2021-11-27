@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.service;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.RestAPI;
+import me.randomhashtags.worldlaws.WLLogger;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -21,15 +22,17 @@ public interface ITunesSearchAPI extends RestAPI {
     }
 
     default void getITunesAlbum(String term, String artist, CompletionHandler handler) {
+        final long started = System.currentTimeMillis();
         search(term, "music", "album", new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
                 if(json != null) {
+                    final String termLowercase = term.toLowerCase();
                     final JSONArray array = json.getJSONArray("results");
                     for(Object obj : array) {
                         final JSONObject result = (JSONObject) obj;
                         final String artistName = result.getString("artistName"), collectionName = result.getString("collectionName");
-                        if(artist.equalsIgnoreCase(artistName) && collectionName.equalsIgnoreCase(term)) {
+                        if(artist.equalsIgnoreCase(artistName) && (collectionName.equalsIgnoreCase(term) || collectionName.toLowerCase().startsWith(termLowercase))) {
                             result.remove("wrapperType");
                             result.remove("collectionType");
                             result.remove("artistId");
@@ -57,6 +60,7 @@ public interface ITunesSearchAPI extends RestAPI {
                         }
                     }
                 }
+                WLLogger.logError("ITunesSearchAPI", "failed to load album with name \"" + term + "\" with artist " + artist + " (took " + (System.currentTimeMillis()-started) + "ms)");
                 handler.handleJSONObject(null);
             }
         });

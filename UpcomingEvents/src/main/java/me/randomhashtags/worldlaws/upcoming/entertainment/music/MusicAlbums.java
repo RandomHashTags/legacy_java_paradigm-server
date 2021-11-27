@@ -90,8 +90,8 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
     }
 
     @Override
-    public void loadUpcomingEvent(String id, CompletionHandler handler) {
-        final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
+    public void loadUpcomingEvent(String identifier, CompletionHandler handler) {
+        final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(identifier);
         final String url = preUpcomingEvent.getURL();
         final Document albumDoc = getDocument(url);
         if(albumDoc != null) {
@@ -116,8 +116,8 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
             final LocalDate now = LocalDate.now();
             final Month month = now.getMonth();
             final int day = now.getDayOfMonth(), year = now.getYear();
-            final String todayDateString = getEventDateString(new EventDate(month, day, year));
-            if(id.startsWith(todayDateString)) {
+            final String todayDateString = getEventDateString(new EventDate(month, day, year)) + ".";
+            if(identifier.startsWith(todayDateString)) {
                 final HashSet<String> artists = new HashSet<>();
                 if(artist.contains(" (") && artist.endsWith(")")) {
                     artists.add(artist.split(" \\(")[0].toLowerCase());
@@ -151,13 +151,13 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
                         getITunesAlbum(album, artist, new CompletionHandler() {
                             @Override
                             public void handleJSONObject(JSONObject itunesDetails) {
-                                putUpcomingEvent(id, artist, album, albumImageURL, description, spotifyDetails, itunesDetails, sources, handler);
+                                putUpcomingEvent(identifier, artist, album, albumImageURL, description, spotifyDetails, itunesDetails, sources, handler);
                             }
                         });
                     }
                 });
             } else {
-                putUpcomingEvent(id, artist, album, albumImageURL, description, null, null, sources, handler);
+                putUpcomingEvent(identifier, artist, album, albumImageURL, description, null, null, sources, handler);
             }
         } else {
             handler.handleString(null);

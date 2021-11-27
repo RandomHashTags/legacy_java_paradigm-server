@@ -92,7 +92,7 @@ public interface RestAPI {
         }
         targetURL = target.toString();
 
-        WLLogger.logInfo("RestAPI - making " + (isLocal ? "local " : "") + "request to \"" + targetURL + "\"");
+        //WLLogger.logInfo("RestAPI - making " + (isLocal ? "local " : "") + "request to \"" + targetURL + "\"");
         if(isLimited && !isLocal) {
             if(PENDING_SAME_REQUESTS.containsKey(targetURL)) {
                 PENDING_SAME_REQUESTS.get(targetURL).add(handler);

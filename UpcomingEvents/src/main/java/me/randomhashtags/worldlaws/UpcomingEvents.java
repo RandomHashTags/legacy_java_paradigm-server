@@ -62,16 +62,10 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final TVShows shows = new TVShows();
-        shows.refresh(new CompletionHandler() {
+        refreshEventsFromThisWeek(new CompletionHandler() {
             @Override
             public void handleString(String string) {
-                shows.getEventsFromDates(getWeeklyEventDateStrings(LocalDate.now()), new CompletionHandler() {
-                    @Override
-                    public void handleStringValue(String key, String value) {
-                        WLLogger.logInfo("UpcomingEvents;test;value=" + value);
-                    }
-                });
+                WLLogger.logInfo("UpcomingEvents;test;string=" + string);
             }
         });
         /*AmericanHoliday.HARRIET_TUBMAN_DAY.getHolidayJSON(HolidayType.AMERICAN, new CompletionHandler() {
@@ -176,7 +170,7 @@ public final class UpcomingEvents implements WLServer {
                     @Override
                     public void handleString(String string) {
                         if(completed.addAndGet(1) == max) {
-                            getEventsFromDates(dates, handler);
+                            getEventsFromDates(max, dates, handler);
                         }
                     }
                 };
@@ -193,8 +187,7 @@ public final class UpcomingEvents implements WLServer {
     private String getEventStringForDate(LocalDate date) {
         return date.getMonthValue() + "-" + date.getYear() + "-" + date.getDayOfMonth();
     }
-    private void getEventsFromDates(HashSet<String> dateStrings, CompletionHandler handler) {
-        final int max = CONTROLLERS.size();
+    private void getEventsFromDates(int max, HashSet<String> dateStrings, CompletionHandler handler) {
         final HashSet<String> values = new HashSet<>();
         final AtomicInteger completed = new AtomicInteger(0);
         final CompletionHandler completionHandler = new CompletionHandler() {

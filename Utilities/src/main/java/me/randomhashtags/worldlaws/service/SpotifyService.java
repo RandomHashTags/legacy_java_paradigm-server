@@ -131,14 +131,20 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
                     }
                 });
             }
+
+            @Override
+            public void handleFail() {
+                handler.handleJSONObject(null);
+            }
         });
     }
     private JSONObject getAlbumFromItems(String album, HashSet<String> artists, JSONArray itemsArray) {
         // TODO: support accents on letters in the album or artist name
+        album = album.toLowerCase();
         for(Object obj : itemsArray) {
             final JSONObject itemJSON = (JSONObject) obj;
-            final String albumName = itemJSON.getString("name");
-            if(album.equalsIgnoreCase(albumName)) {
+            final String targetAlbumName = itemJSON.getString("name").toLowerCase();
+            if(album.equals(targetAlbumName) || targetAlbumName.startsWith(album)) {
                 final JSONArray artistsArray = itemJSON.getJSONArray("artists");
                 for(Object artistObj : artistsArray) {
                     final JSONObject artistJSON = (JSONObject) artistObj;
