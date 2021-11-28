@@ -110,17 +110,26 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 public void handleObject(Object object) {
                     final long started = System.currentTimeMillis();
                     if(autoUpdateHandler != null) {
-                        autoUpdateHandler.handleObject(null);
+                        autoUpdateHandler.handleCompletionHandler(new CompletionHandler() {
+                            @Override
+                            public void handleObject(Object object) {
+                                refreshHome(simpleName, started, serverName, server, version);
+                            }
+                        });
+                    } else {
+                        refreshHome(simpleName, started, serverName, server, version);
                     }
-                    refreshHome(server, version, new CompletionHandler() {
-                        @Override
-                        public void handleString(String string) {
-                            WLLogger.logInfo(simpleName + " - auto updated \"" + serverName + "\"'s home response (took " + (System.currentTimeMillis()-started) + "ms)");
-                        }
-                    });
                 }
             });
         }
+    }
+    private void refreshHome(String simpleName, long started, String serverName, TargetServer server, APIVersion version) {
+        refreshHome(server, version, new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                WLLogger.logInfo(simpleName + " - auto updated \"" + serverName + "\"'s home response (took " + (System.currentTimeMillis()-started) + "ms)");
+            }
+        });
     }
     private void refreshHome(TargetServer server, APIVersion version, CompletionHandler handler) {
         final String[] requests = getHomeRequests();

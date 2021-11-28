@@ -9,10 +9,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Optional;
+import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public final class WikipediaCountryService implements CountryService {
@@ -83,14 +80,10 @@ public final class WikipediaCountryService implements CountryService {
                 return;
             }
         }
-        final Elements infoboxParagraphs = document.select("div.mw-parser-output table.infobox + p");
-        final Elements metadataParagraphs = document.select("div.mw-parser-output table.metadata + p");
-        final Element element = !infoboxParagraphs.isEmpty() ? infoboxParagraphs.get(0) : !metadataParagraphs.isEmpty() ? metadataParagraphs.get(0) : null;
-        if(element == null) {
-            WLLogger.logError(this, "missing paragraph for country \"" + tag + "\"!");
-            handler.handleString(null);
-        } else {
-            String firstParagraph = removeReferences(element.text()).replace(" (listen)", "").replace("(listen)", "").replace(" (listen to all)", "").replace("(listen to all)", "");
+        final WikipediaDocument wikiDoc = new WikipediaDocument(url, document);
+        final List<Element> paragraphs = wikiDoc.getConsecutiveParagraphs();
+        if(paragraphs != null && !paragraphs.isEmpty()) {
+            String firstParagraph = removeReferences(paragraphs.get(0).text()).replace(" (listen)", "").replace("(listen)", "").replace(" (listen to all)", "").replace("(listen to all)", "");
             firstParagraph = LocalServer.removeWikipediaTranslations(firstParagraph);
             final String paragraph = LocalServer.fixEscapeValues(firstParagraph);
             getPictures(tag, new CompletionHandler() {
@@ -105,6 +98,9 @@ public final class WikipediaCountryService implements CountryService {
                     handler.handleString(value);
                 }
             });
+        } else {
+            WLLogger.logError(this, "missing paragraph for country \"" + tag + "\"!");
+            handler.handleString(null);
         }
     }
 

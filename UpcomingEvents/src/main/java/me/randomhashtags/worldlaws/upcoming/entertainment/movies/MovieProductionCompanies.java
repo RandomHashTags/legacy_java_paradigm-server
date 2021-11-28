@@ -5,7 +5,6 @@ import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
-import org.jsoup.nodes.Node;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -258,11 +257,11 @@ public enum MovieProductionCompanies {
         final String url = "https://en.wikipedia.org/wiki/" + wikipediaName.replace(" ", "_");
         final WikipediaDocument doc = new WikipediaDocument(url);
         final StringBuilder builder = new StringBuilder();
-        final List<Node> paragraphs = doc.getConsecutiveParagraphs();
+        final List<Element> paragraphs = doc.getConsecutiveParagraphs();
         if(paragraphs != null) {
             boolean isFirst = true;
-            for(Node paragraph : paragraphs) {
-                String text = LocalServer.removeWikipediaReferences(((Element) paragraph).text());
+            for(Element paragraph : paragraphs) {
+                String text = LocalServer.removeWikipediaReferences(paragraph.text());
                 text = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(text));
                 builder.append(isFirst ? "" : "\n\n").append(text);
                 isFirst = false;

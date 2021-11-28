@@ -100,14 +100,18 @@ public final class UpcomingEvents implements WLServer {
             case "weekly_events":
                 refreshEventsFromThisWeek(handler);
                 break;
+            case "music_artists":
+                handler.handleString(null);
+                break;
+            case "video_games":
+                handler.handleString(VideoGameUpdates.INSTANCE.getAllVideoGames());
+                break;
+
             case "recent_events":
                 RecentEvents.INSTANCE.refresh(handler);
                 break;
             case "elections":
                 Elections.INSTANCE.refresh(handler);
-                break;
-            case "video_games":
-                handler.handleString(VideoGameUpdates.INSTANCE.getAllVideoGames());
                 break;
 
             default:
@@ -135,7 +139,17 @@ public final class UpcomingEvents implements WLServer {
 
     @Override
     public AutoUpdateSettings getAutoUpdateSettings() {
-        return new AutoUpdateSettings(WLUtilities.UPCOMING_EVENTS_HOME_UPDATE_INTERVAL, null);
+        return new AutoUpdateSettings(WLUtilities.UPCOMING_EVENTS_HOME_UPDATE_INTERVAL, new CompletionHandler() {
+            @Override
+            public void handleCompletionHandler(CompletionHandler handler) {
+                Holidays.INSTANCE.refreshNearHolidays(new CompletionHandler() {
+                    @Override
+                    public void handleString(String string) {
+                        handler.handleObject(null);
+                    }
+                });
+            }
+        });
     }
 
     private String getEventTypesJSON() {

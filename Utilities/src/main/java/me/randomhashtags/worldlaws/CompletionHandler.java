@@ -21,4 +21,5 @@ public interface CompletionHandler {
     default void handleStories(HashSet<Story> stories) { }
 
     default void load(CompletionHandler handler) { handler.handleString(null); }
+    default void handleCompletionHandler(CompletionHandler handler) { handler.handleObject(null); }
 }

@@ -19,8 +19,10 @@ public final class WeatherZone {
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         for(Location point : geometry) {
-            builder.append(isFirst ? "" : ",").append(point.toString());
-            isFirst = false;
+            if(point != null) {
+                builder.append(isFirst ? "" : ",").append(point.toString());
+                isFirst = false;
+            }
         }
         return builder.append("]").toString();
     }

@@ -102,7 +102,7 @@ public enum CIAServices implements CountryService {
         String string = null;
         if(doc != null) {
             final Elements elements = doc.select("div.thee-link-container a");
-            if(elements != null && !elements.isEmpty()) {
+            if(!elements.isEmpty()) {
                 for(Element element : elements) {
                     final String href = element.attr("href");
                     if(href.endsWith("-summary.pdf")) {

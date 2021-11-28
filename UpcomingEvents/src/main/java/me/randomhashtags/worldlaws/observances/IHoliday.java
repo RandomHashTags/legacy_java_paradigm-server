@@ -5,7 +5,6 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
-import org.jsoup.nodes.Node;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
@@ -31,11 +30,11 @@ public interface IHoliday extends Jsoupable, Jsonable {
             final String pageName = doc.getPageName();
             sources.append(doc.getExternalLinks());
             sources.append(new EventSource("Wikipedia: " + pageName, url));
-            final List<Node> paragraphs = doc.getConsecutiveParagraphs();
+            final List<Element> paragraphs = doc.getConsecutiveParagraphs();
             final StringBuilder builder = new StringBuilder();
             boolean isFirst = true;
-            for(Node paragraph : paragraphs) {
-                builder.append(isFirst ? "" : "\n\n").append(((Element) paragraph).text());
+            for(Element paragraph : paragraphs) {
+                builder.append(isFirst ? "" : "\n\n").append(paragraph.text());
                 isFirst = false;
             }
             description = LocalServer.fixEscapeValues(LocalServer.removeWikipediaTranslations(removeReferences(builder.toString())));

@@ -162,7 +162,8 @@ public abstract class TestLawSubdivisionController implements Jsoupable, Jsonabl
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    handler.handleString(json.toString());
+                    final String string = json != null ? json.toString() : null;
+                    handler.handleString(string);
                 }
             });
         } else {

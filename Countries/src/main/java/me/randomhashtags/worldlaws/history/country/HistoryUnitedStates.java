@@ -8,7 +8,6 @@ import me.randomhashtags.worldlaws.history.CountryHistorySection;
 import me.randomhashtags.worldlaws.history.ICountryHistory;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import org.jsoup.nodes.Element;
-import org.jsoup.nodes.Node;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
@@ -46,8 +45,8 @@ public enum HistoryUnitedStates implements ICountryHistory {
                     final String url = links.isEmpty() ? sectionURL : urlPrefix + links.get(0).attr("href");
 
                     final WikipediaDocument urlDoc = getWikipediaDocument(url);
-                    final List<Node> wikiElements = urlDoc.getAllParagraphs();
-                    final String description = ((Element) wikiElements.get(0)).text();
+                    final List<Element> wikiElements = urlDoc.getAllParagraphs();
+                    final String description = wikiElements.get(0).text();
 
                     final List<String> images = urlDoc.getImages();
                     final String imageURL = !images.isEmpty() ? images.get(0) : null;

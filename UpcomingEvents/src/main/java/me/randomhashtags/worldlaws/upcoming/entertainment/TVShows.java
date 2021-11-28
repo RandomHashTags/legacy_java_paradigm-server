@@ -17,6 +17,11 @@ import java.util.stream.StreamSupport;
 
 public final class TVShows extends LoadedUpcomingEventController {
     private String showNamesCache;
+    private boolean hasScheduledTasks;
+
+    public TVShows() {
+        hasScheduledTasks = false;
+    }
 
     @Override
     public UpcomingEventType getType() {
@@ -25,19 +30,22 @@ public final class TVShows extends LoadedUpcomingEventController {
 
     @Override
     public void load(CompletionHandler handler) {
-        final UpcomingEvents events = UpcomingEvents.INSTANCE;
-        events.registerFixedTimer(WLUtilities.UPCOMING_EVENTS_TV_SHOW_UPDATE_INTERVAL, new CompletionHandler() {
-            @Override
-            public void handleObject(Object object) {
-                refreshSchedule(null);
-            }
-        });
-        events.registerFixedTimer(WLUtilities.UPCOMING_EVENTS_TV_SHOW_NAMES_UPDATE_INTERVAL, new CompletionHandler() {
-            @Override
-            public void handleObject(Object object) {
-                updateAllShowNames(null);
-            }
-        });
+        if(!hasScheduledTasks) {
+            hasScheduledTasks = true;
+            final UpcomingEvents events = UpcomingEvents.INSTANCE;
+            events.registerFixedTimer(WLUtilities.UPCOMING_EVENTS_TV_SHOW_UPDATE_INTERVAL, new CompletionHandler() {
+                @Override
+                public void handleObject(Object object) {
+                    refreshSchedule(null);
+                }
+            });
+            events.registerFixedTimer(WLUtilities.UPCOMING_EVENTS_TV_SHOW_IDS_UPDATE_INTERVAL, new CompletionHandler() {
+                @Override
+                public void handleObject(Object object) {
+                    updateAllShowNames(null);
+                }
+            });
+        }
         refreshSchedule(handler);
     }
 

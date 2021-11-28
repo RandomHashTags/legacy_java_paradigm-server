@@ -7,7 +7,6 @@ import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.ChampionshipEvent;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-import org.jsoup.nodes.Node;
 import org.jsoup.select.Elements;
 
 import java.time.LocalDate;
@@ -115,11 +114,11 @@ public final class Championships extends UpcomingEventController { // https://en
             final List<String> images = wikiDoc.getImages();
             final String imageURL = !images.isEmpty() ? images.get(0) : null;
             final StringBuilder builder = new StringBuilder();
-            final List<Node> paragraphs = wikiDoc.getConsecutiveParagraphs();
+            final List<Element> paragraphs = wikiDoc.getConsecutiveParagraphs();
             if(paragraphs != null) {
                 boolean isFirst = true;
-                for(Node node : paragraphs) {
-                    builder.append(isFirst ? "" : "\n").append(((Element) node).text());
+                for(Element node : paragraphs) {
+                    builder.append(isFirst ? "" : "\n").append(node.text());
                     isFirst = false;
                 }
             }

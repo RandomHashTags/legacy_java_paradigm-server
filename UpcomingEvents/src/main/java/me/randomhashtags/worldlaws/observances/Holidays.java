@@ -40,19 +40,24 @@ public enum Holidays implements Jsoupable, Jsonable {
         }
     }
 
+    public void refreshNearHolidays(CompletionHandler handler) {
+        final long started = System.currentTimeMillis();
+        final int year = WLUtilities.getTodayYear();
+        loadNearbyHolidays(year, new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                WLLogger.logInfo("Holidays - refreshed near holidays (took " + (System.currentTimeMillis()-started) + "ms)");
+                if(handler != null) {
+                    handler.handleString(string);
+                }
+            }
+        });
+    }
     private void getNearHolidays(CompletionHandler handler) {
         if(nearHolidays != null) {
             handler.handleString(nearHolidays);
         } else {
-            final long started = System.currentTimeMillis();
-            final int year = WLUtilities.getTodayYear();
-            loadNearbyHolidays(year, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    WLLogger.logInfo("Holidays - loaded near holidays (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handleString(string);
-                }
-            });
+            refreshNearHolidays(handler);
         }
     }
     private void getCountryHolidays(int year, String countryBackendID, CompletionHandler handler) {

@@ -25,6 +25,10 @@ public final class WikipediaDocument {
         this.url = url;
         document = Jsoupable.getStaticDocument(folder, url, download);
     }
+    public WikipediaDocument(String url, Document document) {
+        this.url = url;
+        this.document = document;
+    }
 
     public String getPageName() {
         return url.split("/wiki/")[1].replace("_", " ");
@@ -47,24 +51,27 @@ public final class WikipediaDocument {
         return selectFirst("table.sidebar");
     }
 
-    public List<Node> getAllParagraphs() {
-        final List<Node> paragraphs = getFirstElementsOfTagName("p");
+    public List<Element> getAllParagraphs() {
+        final List<Element> paragraphs = getFirstElementsOfTagName("p");
         if(paragraphs != null) {
             paragraphs.removeIf(paragraph -> paragraph.hasAttr("class") && paragraph.attr("class").equals("mw-empty-elt"));
         }
         return paragraphs;
     }
-    public List<Node> getConsecutiveParagraphs() {
-        return getConsecutiveNodes(paragraph -> paragraph.hasAttr("class") && paragraph.attr("class").equals("mw-empty-elt"), "p");
+    public List<Element> getConsecutiveParagraphs() {
+        return getConsecutiveNodes(paragraph -> {
+            final Elements span = paragraph.select("span span.plainlinks span.geo-nondefault");
+            return paragraph.hasAttr("class") && paragraph.attr("class").equals("mw-empty-elt") || !span.isEmpty();
+        }, "p");
     }
 
-    private List<Node> getConsecutiveNodes(Predicate<? super Node> removeIf, String tagName) {
-        final List<Node> targetNodes = getFirstElementsOfTagName(tagName);
+    private List<Element> getConsecutiveNodes(Predicate<? super Element> removeIf, String tagName) {
+        final List<Element> targetNodes = getFirstElementsOfTagName(tagName);
         if(targetNodes != null) {
             targetNodes.removeIf(removeIf);
-            final List<Node> nodes = new ArrayList<>();
+            final List<Element> nodes = new ArrayList<>();
             int previousIndex = -1;
-            for(Node node : targetNodes) {
+            for(Element node : targetNodes) {
                 if(previousIndex == -1) {
                     previousIndex = node.siblingIndex();
                     nodes.add(node);
@@ -83,18 +90,18 @@ public final class WikipediaDocument {
         return null;
     }
 
-    public List<Node> getFirstElementsOfTagName(String tagName) {
+    public List<Element> getFirstElementsOfTagName(String tagName) {
         final Element output = selectFirst("body div div div div.mw-parser-output");
         if(output != null) {
-            final List<Node> children = output.childNodes();
-            final List<Node> wikiElements = new ArrayList<>(children);
-            wikiElements.removeIf(node -> {
-                if(node instanceof Element) {
-                    final Element wikiElement = (Element) node;
-                    return !wikiElement.tagName().equals(tagName);
+            final List<Node> children = new ArrayList<>(output.childNodes());
+            children.removeIf(child -> !(child instanceof Element));
+            final List<Element> wikiElements = new ArrayList<>();
+            for(Node node : children) {
+                final Element wikiElement = (Element) node;
+                if(wikiElement.tagName().equals(tagName)) {
+                    wikiElements.add(wikiElement);
                 }
-                return true;
-            });
+            }
             return wikiElements;
         }
         return null;

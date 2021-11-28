@@ -99,19 +99,14 @@ public enum Earthquakes implements RestAPI {
                     final JSONArray array = json.getJSONArray("features");
                     final ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap = new ConcurrentHashMap<>();
                     final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates = new ConcurrentHashMap<>();
-                    final AtomicInteger completed = new AtomicInteger(0);
-                    final int max = array.length();
-
                     StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
                         final JSONObject earthquakeJSON = (JSONObject) obj;
                         loadEarthquake(startDate, earthquakeJSON, preEarthquakeDates, territoryEarthquakesMap);
-                        if(completed.addAndGet(1) == max) {
-                            topRecentEarthquakes = getEarthquakesJSON(null, preEarthquakeDates);
-                            recentEarthquakes = getEarthquakesJSON(recentStartingDate, preEarthquakeDates);
-                            loadTerritoryEarthquakes(territoryEarthquakesMap);
-                            completeRefresh(isAutoUpdate, started, isRecent ? recentEarthquakes : topRecentEarthquakes, handler);
-                        }
                     });
+                    topRecentEarthquakes = getEarthquakesJSON(null, preEarthquakeDates);
+                    recentEarthquakes = getEarthquakesJSON(recentStartingDate, preEarthquakeDates);
+                    loadTerritoryEarthquakes(territoryEarthquakesMap);
+                    completeRefresh(isAutoUpdate, started, isRecent ? recentEarthquakes : topRecentEarthquakes, handler);
                 } else {
                     completeRefresh(isAutoUpdate, started, null, handler);
                 }
