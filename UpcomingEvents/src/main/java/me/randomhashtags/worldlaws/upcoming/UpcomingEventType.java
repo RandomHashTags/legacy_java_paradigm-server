@@ -43,10 +43,6 @@ public enum UpcomingEventType {
             if(imageURLPrefix != null) {
                 typeJSON.put("imageURLPrefix", imageURLPrefix);
             }
-            final int responseVersion = type.getResponseVersion();
-            if(responseVersion > 0) {
-                typeJSON.put("responseVersion", responseVersion);
-            }
             json.put(type.getID(), typeJSON);
         }
         return json.toString();
@@ -74,15 +70,6 @@ public enum UpcomingEventType {
                 return "https://static.tvmaze.com/uploads/images/original_untouched/";
             default:
                 return null;
-        }
-    }
-
-    public int getResponseVersion() {
-        switch (this) {
-            case MOVIE:
-                return 1;
-            default:
-                return 0;
         }
     }
 

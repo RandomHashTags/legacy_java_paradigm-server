@@ -35,17 +35,15 @@ public enum MusicSpotify implements SpotifyService {
                         if(externalURLs.has("spotify")) {
                             sources.append(new EventSource("Spotify: " + name, externalURLs.getString("spotify")));
                         }
-                        if(completed.addAndGet(1) == max) {
-                            final StringBuilder builder = new StringBuilder("{");
-                            builder.append("\"description\":\"").append(description).append("\"");
-                            for(String value : values) {
-                                builder.append(",").append(value);
-                            }
-                            builder.append("}");
-
-                            handler.handleString(builder.toString());
-                        }
                     });
+                    final StringBuilder builder = new StringBuilder("{");
+                    builder.append("\"description\":\"").append(description).append("\"");
+                    for(String value : values) {
+                        builder.append(",").append(value);
+                    }
+                    builder.append("}");
+
+                    handler.handleString(builder.toString());
                 } else {
                     handler.handleString(null);
                 }

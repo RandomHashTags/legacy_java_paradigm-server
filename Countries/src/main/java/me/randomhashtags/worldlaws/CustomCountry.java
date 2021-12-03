@@ -25,6 +25,7 @@ public final class CustomCountry implements SovereignState {
     private HashSet<Integer> governmentAdministrations;
     private WLTimeZone[] timezones;
     private String subdivisions, information;
+    private WLCountry wlCountryCache;
 
     public CustomCountry(String tag, String unStatus, String sovereigntyDispute, Document page) {
         this.unStatus = unStatus;
@@ -222,6 +223,12 @@ public final class CustomCountry implements SovereignState {
     }
 
     public WLCountry getWLCountry() {
+        if(wlCountryCache == null) {
+            wlCountryCache = returnWLCountry();
+        }
+        return wlCountryCache;
+    }
+    private WLCountry returnWLCountry() {
         switch (shortName.toLowerCase()) {
             case "east timor": return WLCountry.TIMOR_LESTE;
             case "são tomé & príncipe": return WLCountry.SAO_TOME_AND_PRINCIPE;

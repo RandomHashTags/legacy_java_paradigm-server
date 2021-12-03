@@ -55,14 +55,14 @@ public final class TVShows extends LoadedUpcomingEventController {
         final String key = values[0];
         switch (key) {
             case "ids":
-                getAllShowNames(handler);
+                getAllShowIDs(handler);
                 break;
             default:
                 break;
         }
     }
 
-    private void getAllShowNames(CompletionHandler handler) {
+    private void getAllShowIDs(CompletionHandler handler) {
         if(showNamesCache != null) {
             handler.handleString(showNamesCache);
         } else {

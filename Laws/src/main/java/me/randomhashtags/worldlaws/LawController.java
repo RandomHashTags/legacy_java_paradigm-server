@@ -24,10 +24,11 @@ public abstract class LawController {
             handler.handleString(recentActivity.get(version));
         } else {
             final AtomicLong started = new AtomicLong(System.currentTimeMillis());
+            final String simpleName = getClass().getSimpleName();
             final CompletionHandler completionHandler = new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
-                    WLLogger.logInfo(getClass().getSimpleName() + " - refreshed recent activity (took " + (System.currentTimeMillis()-started.get()) + "ms)");
+                    WLLogger.logInfo(simpleName + " - refreshed recent activity (took " + (System.currentTimeMillis()-started.get()) + "ms)");
                     recentActivity.put(version, string);
                     handler.handleString(string);
                 }

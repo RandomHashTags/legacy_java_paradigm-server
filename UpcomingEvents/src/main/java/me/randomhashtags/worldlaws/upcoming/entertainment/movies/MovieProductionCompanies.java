@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment.movies;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
+import me.randomhashtags.worldlaws.settings.CustomResponseVersion;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
@@ -226,6 +227,8 @@ public enum MovieProductionCompanies {
                             values.add("\"" + key + "\":" + value);
                             if(completed.addAndGet(1) == max) {
                                 final StringBuilder builder = new StringBuilder("{");
+                                final int responseVersion = CustomResponseVersion.MOVIE_PRODUCTION_COMPANIES.getValue();
+                                builder.append("\"version\":").append(responseVersion).append(",");
                                 builder.append("\"imageURLPrefix\":\"").append(getImageURLPrefix()).append("\",");
                                 builder.append("\"companies\":{");
                                 boolean isFirst = true;

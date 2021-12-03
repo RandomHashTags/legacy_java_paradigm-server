@@ -10,8 +10,7 @@ import java.util.List;
 public final class CountryRankingInfoValue implements ServerObject {
     public String country;
     private final int defcon;
-    private int maxWorldRank, yearOfData;
-    private final int worldRank;
+    private int worldRank, maxWorldRank, yearOfData;
     private final Number value;
     private NumberType valueType;
     private final boolean isEstimate;
@@ -38,6 +37,10 @@ public final class CountryRankingInfoValue implements ServerObject {
 
     public int getDefcon() {
         return defcon;
+    }
+
+    public void setWorldRank(int worldRank) {
+        this.worldRank = worldRank;
     }
 
     public int getMaxWorldRank() {
@@ -105,6 +108,29 @@ public final class CountryRankingInfoValue implements ServerObject {
     }
     public void setSources(EventSources sources) {
         this.sources = sources;
+    }
+
+    public JSONObject toJSONObject() {
+        final JSONObject json = new JSONObject();
+        if(defcon != -1) {
+            json.put("defcon", defcon);
+        }
+        if(yearOfData > 0) {
+            json.put("yearOfData", yearOfData);
+        }
+        if(isEstimate) {
+            json.put("isEstimate", true);
+        }
+        if(otherValues != null) {
+            final JSONObject otherValuesJSON = new JSONObject(otherValues);
+            json.put("otherValues", otherValuesJSON);
+        }
+        json.put("value", value);
+        json.put("worldRank", worldRank);
+        if(maxWorldRank > 0) {
+            json.put("maxWorldRank", maxWorldRank);
+        }
+        return json;
     }
 
     @Override

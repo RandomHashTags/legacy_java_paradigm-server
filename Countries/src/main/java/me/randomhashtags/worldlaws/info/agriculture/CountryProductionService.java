@@ -28,69 +28,59 @@ public interface CountryProductionService extends CountryService {
 
     @Override
     default void loadData(CompletionHandler handler) {
-        getJSONObject(new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                final SovereignStateInfo info = getInfo();
-                final String url = getURL();
-                final Elements tables = getDocumentElements(Folder.COUNTRIES_RANKINGS_AGRICULTURE, url, "div.mw-parser-output table.wikitable");
-                switch (info) {
-                    case AGRICULTURE_FOOD_APPLE_PRODUCTION:
-                        tables.remove(tables.size()-1);
-                        break;
-                    default:
-                        break;
-                }
+        final SovereignStateInfo info = getInfo();
+        final String url = getURL();
+        final Elements tables = getDocumentElements(Folder.COUNTRIES_RANKINGS_AGRICULTURE, url, "div.mw-parser-output table.wikitable");
+        switch (info) {
+            case AGRICULTURE_FOOD_APPLE_PRODUCTION:
+                tables.remove(tables.size()-1);
+                break;
+            default:
+                break;
+        }
 
-                for(Element table : tables) {
-                    final Elements trs = table.select("tbody tr");
-                    trs.removeIf(tr -> {
-                        final Elements tds = tr.select("td");
-                        return tds.isEmpty() || tds.get(0).text().equals("–");
-                    });
-                }
+        for(Element table : tables) {
+            final Elements trs = table.select("tbody tr");
+            trs.removeIf(tr -> {
+                final Elements tds = tr.select("td");
+                return tds.isEmpty() || tds.get(0).text().equals("–");
+            });
+        }
 
-                final StringBuilder builder = new StringBuilder("[");
-                boolean isFirst = true;
-                for(Element table : tables) {
-                    String data = loadTable(table);
-                    if(isFirst) {
-                        data = data.substring(1);
-                        isFirst = false;
-                    }
-                    builder.append(data);
-                }
-                builder.append("]");
-
-                final JSONArray array = new JSONArray(builder.toString());
-                final int maxWorldRank = array.length();
-                final String title = getInfo().getTitle(), suffix = getSuffix();
-                final String siteName = url.split("/wiki/")[1].replace("_", " ");
-                final EventSource source = new EventSource("Wikipedia: " + siteName, url);
-                final EventSources sources = new EventSources(source);
-
-                final StringBuilder jsonBuilder = new StringBuilder("{");
-                isFirst = true;
-                for(Object object : array) {
-                    final JSONObject valueJSON = (JSONObject) object;
-                    final String country = valueJSON.getString("country");
-                    final CountryAgricultureValue value = new CountryAgricultureValue(valueJSON);
-                    value.setMaxWorldRank(maxWorldRank);
-                    value.setDescription(title);
-                    value.setSuffix(suffix);
-                    value.setSources(sources);
-                    jsonBuilder.append(isFirst ? "" : ",").append("\"").append(country).append("\":{").append(value.toString()).append("}");
-                    isFirst = false;
-                }
-                jsonBuilder.append("}");
-                handler.handleString(jsonBuilder.toString());
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        for(Element table : tables) {
+            String data = loadTable(table);
+            if(isFirst) {
+                data = data.substring(1);
+                isFirst = false;
             }
+            builder.append(data);
+        }
+        builder.append("]");
 
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                handler.handleJSONObject(json);
-            }
-        });
+        final JSONArray array = new JSONArray(builder.toString());
+        final int maxWorldRank = array.length();
+        final String title = getInfo().getTitle(), suffix = getSuffix();
+        final String siteName = url.split("/wiki/")[1].replace("_", " ");
+        final EventSource source = new EventSource("Wikipedia: " + siteName, url);
+        final EventSources sources = new EventSources(source);
+
+        final StringBuilder jsonBuilder = new StringBuilder("{");
+        isFirst = true;
+        for(Object object : array) {
+            final JSONObject valueJSON = (JSONObject) object;
+            final String country = valueJSON.getString("country");
+            final CountryAgricultureValue value = new CountryAgricultureValue(valueJSON);
+            value.setMaxWorldRank(maxWorldRank);
+            value.setDescription(title);
+            value.setSuffix(suffix);
+            value.setSources(sources);
+            jsonBuilder.append(isFirst ? "" : ",").append("\"").append(country).append("\":{").append(value.toString()).append("}");
+            isFirst = false;
+        }
+        jsonBuilder.append("}");
+        handler.handleString(jsonBuilder.toString());
     }
 
     private String loadTable(Element table) {

@@ -32,8 +32,13 @@ public interface CountryService extends SovereignStateService {
         final SovereignStateInfo info = getInfo();
         final CountryService self = this;
         if(COUNTRY_SERVICE_JSON_VALUES.containsKey(info)) {
-            final JSONObject json = COUNTRY_SERVICE_JSON_VALUES.get(info);
-            final String string = json.has(countryBackendID) ? json.getJSONObject(countryBackendID).toString() : null;
+            final JSONObject cachedJSON = COUNTRY_SERVICE_JSON_VALUES.get(info);
+            final JSONObject json = cachedJSON.has(countryBackendID) ? cachedJSON.getJSONObject(countryBackendID) : null;
+            String string = null;
+            if(json != null) {
+                insertValuesIntoCountryValueJSONObject(json);
+                string = json.toString();
+            }
             handler.handleServiceResponse(self, string);
         } else {
             final long started = System.currentTimeMillis();
@@ -42,12 +47,19 @@ public interface CountryService extends SovereignStateService {
                 @Override
                 public void handleJSONObject(JSONObject json) {
                     COUNTRY_SERVICE_JSON_VALUES.put(info, json);
-                    final String string = json.has(countryBackendID) ? json.getJSONObject(countryBackendID).toString() : null;
+                    final JSONObject targetJSON = json.has(countryBackendID) ? json.getJSONObject(countryBackendID) : null;
+                    String string = null;
+                    if(targetJSON != null) {
+                        insertValuesIntoCountryValueJSONObject(targetJSON);
+                        string = targetJSON.toString();
+                    }
                     WLLogger.logInfo(fileName + " - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
                     handler.handleServiceResponse(self, string);
                 }
             });
         }
+    }
+    default void insertValuesIntoCountryValueJSONObject(JSONObject json) {
     }
     default void getJSONData(Folder folder, String fileName, String countryBackendID, CompletionHandler handler) {
         getJSONObjectData(folder, fileName, countryBackendID, handler);

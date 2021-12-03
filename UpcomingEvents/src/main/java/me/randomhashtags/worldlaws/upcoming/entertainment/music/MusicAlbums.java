@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment.music;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.ITunesSearchAPI;
 import me.randomhashtags.worldlaws.service.SpotifyService;
+import me.randomhashtags.worldlaws.settings.CustomResponseVersion;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.MusicAlbumEvent;
@@ -18,6 +19,8 @@ import java.util.HashSet;
 
 public final class MusicAlbums extends UpcomingEventController implements SpotifyService, ITunesSearchAPI {
 
+    private String artists;
+
     @Override
     public UpcomingEventType getType() {
         return UpcomingEventType.MUSIC_ALBUM;
@@ -28,6 +31,34 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
         final int year = WLUtilities.getTodayYear();
         final Month startingMonth = LocalDate.now().getMonth();
         refresh(year, startingMonth, handler);
+    }
+
+    @Override
+    public void getResponse(String input, CompletionHandler handler) {
+        final String key = input.split("/")[0];
+        switch (key) {
+            case "artists":
+                getArtists(handler);
+                break;
+            default:
+                super.getResponse(input, handler);
+                break;
+        }
+    }
+
+    private void getArtists(CompletionHandler handler) {
+        if(artists != null) {
+            handler.handleString(artists);
+        } else {
+            final StringBuilder builder = new StringBuilder("{");
+            final int version = CustomResponseVersion.MUSIC_ARTISTS.getValue();
+            builder.append("\"version\":").append(version).append(",");
+            builder.append("\"artists\":{");
+            builder.append("}}");
+            final String string = builder.toString();
+            artists = string;
+            handler.handleString(string);
+        }
     }
 
     private String getURL(String baseURL, Month startingMonth) {

@@ -29,6 +29,8 @@ public final class Proxy implements UserServer, RestAPI {
     }
 
     private void setupServer(boolean https) {
+        listenForUserInput();
+
         final int port = Jsonable.getSettingsJSON().getJSONObject("server").getInt("proxy_port");
         if(https) {
             setupHttpsServer(port);
@@ -37,12 +39,13 @@ public final class Proxy implements UserServer, RestAPI {
         }
     }
     private void connectClients(boolean https) throws Exception {
-        WLLogger.logInfo("Proxy - Listening for clients on port " + SOCKET.getLocalPort() + "...");
-        listenForUserInput();
+        WLLogger.logInfo("Proxy - Listening for http" + (https ? "s" : "") + " clients on port " + SOCKET.getLocalPort() + "...");
         try {
             while (true) {
                 final Socket client = SOCKET.accept();
-                new ProxyClient(client).start();
+                if(!TargetServer.isMaintenanceMode()) {
+                    new ProxyClient(client).start();
+                }
             }
         } catch (Exception e) {
             WLLogger.logInfo("Proxy - stopped listening for clients");

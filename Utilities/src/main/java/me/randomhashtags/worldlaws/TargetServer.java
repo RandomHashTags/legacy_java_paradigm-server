@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.iap.InAppPurchases;
+import me.randomhashtags.worldlaws.settings.CustomResponseVersion;
 import org.json.JSONObject;
 
 import java.util.*;
@@ -50,11 +51,12 @@ public enum TargetServer implements RestAPI, DataValues {
         if(MAINTENANCE_MODE == active) {
             return;
         }
-        WLLogger.logInfo("TargetServer - " + (active ? "started" : "ended") + " maintenance mode");
+        final long now = System.currentTimeMillis();
+        WLLogger.logInfo("TargetServer - " + (active ? "started" : "ended") + " maintenance mode (active for " + (now-MAINTENANCE_STARTED) + "ms)");
         MAINTENANCE_MODE = active;
         MAINTENANCE_MESSAGE = reason;
         if(active) {
-            MAINTENANCE_STARTED = System.currentTimeMillis();
+            MAINTENANCE_STARTED = now;
         }
         updatePingResponse();
 
@@ -265,13 +267,12 @@ public enum TargetServer implements RestAPI, DataValues {
     private static void updatePingResponse() {
         final JSONObject json = new JSONObject();
 
-        final JSONObject maintenanceJSON = new JSONObject();
         if(MAINTENANCE_MODE) {
-            maintenanceJSON.put("active", true);
+            final JSONObject maintenanceJSON = new JSONObject();
             maintenanceJSON.put("msg", MAINTENANCE_MESSAGE);
             maintenanceJSON.put("started", MAINTENANCE_STARTED);
+            json.put("maintenance", maintenanceJSON);
         }
-        json.put("maintenance", maintenanceJSON);
 
         final JSONObject responseVersions = new JSONObject();
         for(TargetServer server : TargetServer.values()) {
@@ -281,6 +282,9 @@ public enum TargetServer implements RestAPI, DataValues {
                     responseVersions.put(server.getBackendID(), responseVersion);
                 }
             }
+        }
+        for(CustomResponseVersion responseVersion : CustomResponseVersion.values()) {
+            responseVersions.put(responseVersion.getKey(), responseVersion.getValue());
         }
         json.put("response_versions", responseVersions);
         PING_RESPONSE = json.toString();
@@ -366,20 +370,18 @@ public enum TargetServer implements RestAPI, DataValues {
                     values.put(key, value);
                 }
                 if(completed.addAndGet(1) == max) {
-                    final StringBuilder builder = new StringBuilder("{");
-                    builder.append("\"request_epoch\":").append(started);
+                    final JSONObject json = new JSONObject();
+                    json.put("request_epoch", started);
                     for(Map.Entry<String, String> map : values.entrySet()) {
                         final String serverName = map.getKey();
                         final String keyValue = map.getValue();
-                        builder.append(",").append("\"").append(serverName).append("\":").append(keyValue);
+                        json.put(serverName, keyValue);
                     }
-                    builder.append("}");
-                    final String string = builder.toString();
-                    final JSONObject json = new JSONObject(string);
                     HOME_JSON.put(version, json);
                     HOME_JSON_QUERIES.remove(version);
                     WLLogger.logInfo("TargetServer - " + (isUpdate ? "auto-" : "") + "updated " + versionName + " home responses (took " + (System.currentTimeMillis()-started) + "ms)");
                     if(handler != null) {
+                        final String string = json.toString();
                         handler.handleString(string);
                     }
                 }

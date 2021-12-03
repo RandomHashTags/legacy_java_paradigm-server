@@ -27,7 +27,7 @@ public final class ProxyClient extends Thread implements RestAPI {
         final long started = System.currentTimeMillis();
         final String[] headers = getHeaderList();
         final String ip = client.getInetAddress().toString(), platform = getPlatform(headers), identifier = getIdentifier(headers);
-        final boolean isValidRequest = true;//platform != null && identifier != null;
+        final boolean isValidRequest = platform != null && identifier != null;
         final String target = isValidRequest ? getTarget(headers) : null;
         final String prefix = "[" + platform + ", " + identifier + "] " + ip + " - ";
         if(target != null) {
@@ -52,13 +52,11 @@ public final class ProxyClient extends Thread implements RestAPI {
                         @Override
                         public void handleString(String string) {
                             final boolean connected = string != null;
-                            if(!connected && TargetServer.isMaintenanceMode()) {
-                                return;
-                            }
-                            WLLogger.logInfo(prefix + (connected ? "Connected" : "Failed to connect") + " to \"" + request + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                             if(connected) {
                                 final String response = DataValues.HTTP_SUCCESS_200 + string;
                                 writeOutput(client, response);
+                            } else {
+                                WLLogger.logInfo(prefix + "Failed to connect to \"" + request + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                             }
                         }
                     });

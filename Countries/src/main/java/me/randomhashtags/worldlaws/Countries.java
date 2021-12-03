@@ -42,8 +42,8 @@ public final class Countries implements WLServer {
     }
 
     private Countries() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -52,9 +52,10 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        new WikipediaCountryService(true).getCountryValue("France", new CompletionHandler() {
+        final ProductionFoods ranking = ProductionFoods.APPLE;
+        ranking.getCountryValueFromCountryJSONObject("brazil", new CompletionHandler() {
             @Override
-            public void handleString(String string) {
+            public void handleServiceResponse(CountryService service, String string) {
                 WLLogger.logInfo("Countries;test;string=" + string);
             }
         });
