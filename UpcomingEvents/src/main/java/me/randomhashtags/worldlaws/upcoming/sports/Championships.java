@@ -52,19 +52,33 @@ public final class Championships extends UpcomingEventController { // https://en
             final Elements tds = tr.select("td");
             String day = tds.get(0).text();
             Month endingMonth = null;
+            int endingYear = -1;
             if(day.contains(space)) {
                 final String[] values = day.split(space);
-                endingMonth = WLUtilities.valueOfMonthFromInput(values[values.length-1]);
+                final int length = values.length;
+                String targetEndingMonth = values[length-1];
+                if(targetEndingMonth.matches("[0-9]+")) {
+                    endingYear = Integer.parseInt(targetEndingMonth);
+                    targetEndingMonth = values[length-2];
+                }
+                endingMonth = WLUtilities.valueOfMonthFromInput(targetEndingMonth);
                 day = values[0];
             }
-            int startingDay = -1;
+            int startingDay = -1, endingDay = -1;
             if(day.contains(hyphen)) {
                 final String[] values = day.split(hyphen);
                 startingDay = Integer.parseInt(values[0]);
-                final int endingDay = Integer.parseInt(values[1]);
+                endingDay = Integer.parseInt(values[1]);
+                if(endingMonth == null) {
+                    endingMonth = month;
+                }
+                if(endingYear == -1) {
+                    endingYear = year;
+                }
             }
 
-            final String startingDateString = new EventDate(month, startingDay, year).getDateString();
+            final EventDate startingDate = new EventDate(month, startingDay, year);
+            final String startingDateString = startingDate.getDateString();
             final String sport = tds.get(1).text();
 
             final Element eventElement = tds.get(2);
@@ -95,9 +109,26 @@ public final class Championships extends UpcomingEventController { // https://en
             }
 
             if(!finished) {
-                final String id = getEventDateIdentifier(startingDateString, event);
-                final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, eventURL, sport, countries);
-                putPreUpcomingEvent(id, preUpcomingEvent);
+                if(endingMonth != null && endingDay != -1 && endingYear != -1) {
+                    final EventDate endingDate = new EventDate(endingMonth, endingDay, endingYear);
+                    final LocalDate endingLocalDate = endingDate.getLocalDate();
+                    LocalDate startingLocalDate = startingDate.getLocalDate();
+                    int usages = 0;
+                    while (startingLocalDate.isBefore(endingLocalDate) || startingLocalDate.equals(endingLocalDate)) {
+                        final EventDate eventDate = new EventDate(startingLocalDate);
+                        final String id = getEventDateIdentifier(eventDate.getDateString(), event);
+                        final String suffix = ", " + (usages == 0 ? "BEGINS TODAY" : startingLocalDate.equals(endingLocalDate) ? "ENDS TODAY" : "CONTINUED");
+                        final String tag = sport + suffix;
+                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, eventURL, tag, countries);
+                        putPreUpcomingEvent(id, preUpcomingEvent);
+                        startingLocalDate = startingLocalDate.plusDays(1);
+                        usages += 1;
+                    }
+                } else {
+                    final String id = getEventDateIdentifier(startingDateString, event);
+                    final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, event, eventURL, sport, countries);
+                    putPreUpcomingEvent(id, preUpcomingEvent);
+                }
             }
         }
     }
@@ -107,9 +138,13 @@ public final class Championships extends UpcomingEventController { // https://en
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
         if(url != null) {
-            final String title = preUpcomingEvent.getTitle();
+            final String title = preUpcomingEvent.getTitle(), tag = preUpcomingEvent.getTag();
             final WikipediaDocument wikiDoc = new WikipediaDocument(url);
             final EventSources sources = new EventSources(new EventSource("Wikipedia: " + wikiDoc.getPageName(), url));
+            if(tag.toLowerCase().startsWith("chess")) {
+                sources.append(new EventSource("Chess: Events", "https://www.chess.com/events"));
+                sources.append(new EventSource("Twitch: Chess", "https://www.twitch.tv/chess"));
+            }
 
             final List<String> images = wikiDoc.getImages();
             final String imageURL = !images.isEmpty() ? images.get(0) : null;
