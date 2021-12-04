@@ -13,7 +13,6 @@ import java.time.Month;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public enum AppleSoftwareUpdates implements RecentEventController {
     INSTANCE;
@@ -35,7 +34,10 @@ public enum AppleSoftwareUpdates implements RecentEventController {
                 handler.handleObject(null);
             } else {
                 final HashSet<PreRecentEvent> updates = new HashSet<>();
-                final AtomicInteger completed = new AtomicInteger(0);
+                final HashMap<String, String> descriptionValues = new HashMap<>() {{
+                    put(" (Details available soon)", "Details available soon");
+                    put(" This update has no published CVE entries.", null);
+                }};
                 updateElements.parallelStream().forEach(updateElement -> {
                     final Elements tds = updateElement.select("td");
                     final Element releaseDateElement = tds.get(2);
@@ -55,10 +57,6 @@ public enum AppleSoftwareUpdates implements RecentEventController {
                                     || name.startsWith("***REMOVED***")
                             ) {
                                 final String nameLowercase = name.toLowerCase().replace(" ", "");
-                                final HashMap<String, String> descriptionValues = new HashMap<>() {{
-                                    put(" (Details available soon)", "Details available soon");
-                                    put(" This update has no published CVE entries.", null);
-                                }};
                                 String description = null;
                                 for(Map.Entry<String, String> map : descriptionValues.entrySet()) {
                                     final String key = map.getKey();
@@ -82,10 +80,8 @@ public enum AppleSoftwareUpdates implements RecentEventController {
                             }
                         }
                     }
-                    if(completed.addAndGet(1) == max) {
-                        handler.handleObject(updates);
-                    }
                 });
+                handler.handleObject(updates);
             }
         } else {
             handler.handleObject(null);

@@ -361,20 +361,25 @@ public enum TargetServer implements RestAPI, DataValues {
         }
 
         final int max = requests.size();
-        final ConcurrentHashMap<String, String> values = new ConcurrentHashMap<>();
+        final ConcurrentHashMap<String, JSONObject> values = new ConcurrentHashMap<>();
         final AtomicInteger completed = new AtomicInteger(0);
         final CompletionHandler completionHandler = new CompletionHandler() {
             @Override
             public void handleStringValue(String key, String value) {
                 if(value != null) {
-                    values.put(key, value);
+                    try {
+                        final JSONObject json = new JSONObject(value);
+                        values.put(key, json);
+                    } catch (Exception e) {
+                        WLUtilities.saveException(e);
+                    }
                 }
                 if(completed.addAndGet(1) == max) {
                     final JSONObject json = new JSONObject();
                     json.put("request_epoch", started);
-                    for(Map.Entry<String, String> map : values.entrySet()) {
+                    for(Map.Entry<String, JSONObject> map : values.entrySet()) {
                         final String serverName = map.getKey();
-                        final String keyValue = map.getValue();
+                        final JSONObject keyValue = map.getValue();
                         json.put(serverName, keyValue);
                     }
                     HOME_JSON.put(version, json);
@@ -394,7 +399,7 @@ public enum TargetServer implements RestAPI, DataValues {
                     Statistics.INSTANCE.getTrendingJSON(new CompletionHandler() {
                         @Override
                         public void handleJSONObject(JSONObject json) {
-                            completionHandler.handleStringValue("trending", json.isEmpty() ? null : json.toString());
+                            completionHandler.handleStringValue(key, json.isEmpty() ? null : json.toString());
                         }
                     });
                     break;

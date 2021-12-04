@@ -7,9 +7,9 @@ import me.randomhashtags.worldlaws.recent.software.videogame.VideoGameUpdateCont
 
 import java.time.LocalDate;
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public enum VideoGameUpdates implements RecentEventController {
@@ -34,7 +34,7 @@ public enum VideoGameUpdates implements RecentEventController {
         final VideoGameUpdateController[] controllers = getSupportedVideoGames();
         final int max = controllers.length;
         final AtomicInteger completed = new AtomicInteger(0);
-        final HashMap<String, HashSet<String>> values = new HashMap<>();
+        final ConcurrentHashMap<String, HashSet<String>> values = new ConcurrentHashMap<>();
         Arrays.asList(controllers).parallelStream().forEach(controller -> controller.refresh(startingDate, new CompletionHandler() {
             @Override
             public void handleObject(Object object) {

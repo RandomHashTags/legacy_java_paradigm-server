@@ -3,10 +3,11 @@ package me.randomhashtags.worldlaws;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public interface WLServer extends DataValues, Jsoupable, Jsonable {
-    HashMap<TargetServer, HashMap<APIVersion, String>> CACHED_HOME_RESPONSES = new HashMap<>();
+    ConcurrentHashMap<TargetServer, HashMap<APIVersion, String>> CACHED_HOME_RESPONSES = new ConcurrentHashMap<>();
     HashMap<TargetServer, LocalServer> LOCAL_SERVERS = new HashMap<>();
     TargetServer getServer();
 
