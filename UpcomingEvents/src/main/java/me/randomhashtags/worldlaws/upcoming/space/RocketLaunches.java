@@ -9,7 +9,6 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
-import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.StreamSupport;
 
 public final class RocketLaunches extends LoadedUpcomingEventController {
@@ -29,8 +28,6 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
                     final LocalDate today = LocalDate.now();
                     final JSONArray launches = json.getJSONArray("results");
                     final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
-                    final AtomicInteger completed = new AtomicInteger(0);
-                    final int max = launches.length();
                     StreamSupport.stream(launches.spliterator(), true).forEach(obj -> {
                         final JSONObject launchJSON = (JSONObject) obj;
                         final JSONObject rocketConfigurationJSON = launchJSON.getJSONObject("rocket").getJSONObject("configuration"), padJSON = launchJSON.getJSONObject("pad");
@@ -59,14 +56,9 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
                         }
                         putLoadedPreUpcomingEvent(id, launch.toPreUpcomingEventJSON(eventType, id, location));
                         putUpcomingEvent(id, string);
-
-                        if(completed.addAndGet(1) == max) {
-                            handler.handleString(null);
-                        }
                     });
-                } else {
-                    handler.handleString(null);
                 }
+                handler.handleString(null);
             }
         });
     }

@@ -12,7 +12,6 @@ import org.json.JSONObject;
 import java.time.LocalDate;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.StreamSupport;
 
 public enum Ticketmaster implements RestAPI {
@@ -69,8 +68,6 @@ public enum Ticketmaster implements RestAPI {
                 public void handleJSONObject(JSONObject json) {
                     if(json != null) {
                         final JSONArray embeddedEvents = json.getJSONObject("_embedded").getJSONArray("events");
-                        final int max = embeddedEvents.length();
-                        final AtomicInteger completed = new AtomicInteger(0);
                         StreamSupport.stream(embeddedEvents.spliterator(), true).forEach(objectJSON -> {
                             final JSONObject eventJSON = (JSONObject) objectJSON;
                             if(!eventJSON.getBoolean("test")) {
@@ -99,13 +96,9 @@ public enum Ticketmaster implements RestAPI {
                                     }
                                 }
                             }
-                            if(completed.addAndGet(1) == max) {
-                                handler.handleString(null);
-                            }
                         });
-                    } else {
-                        handler.handleString(null);
                     }
+                    handler.handleString(null);
                 }
             });
         }

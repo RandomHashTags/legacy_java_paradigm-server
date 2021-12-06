@@ -16,7 +16,6 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.StreamSupport;
 
 public enum Earthquakes implements RestAPI {
@@ -119,14 +118,12 @@ public enum Earthquakes implements RestAPI {
             final boolean doesntHaveDate = date == null;
             final StringBuilder builder = new StringBuilder("{");
             boolean isFirst = true;
-            final AtomicInteger count = new AtomicInteger(0);
             for(Map.Entry<String, ConcurrentHashMap<String, HashSet<String>>> map : preEarthquakeDates.entrySet()) {
                 final String dateString = map.getKey();
                 if(doesntHaveDate || EventDate.valueOfDateString(dateString).getLocalDate().isAfter(date)) {
                     builder.append(isFirst ? "" : ",").append("\"").append(dateString).append("\":{");
                     final ConcurrentHashMap<String, HashSet<String>> value = map.getValue();
                     boolean isFirstMagnitude = true;
-                    count.addAndGet(value.size());
                     for(Map.Entry<String, HashSet<String>> map2 : value.entrySet()) {
                         final String magnitude = map2.getKey();
                         builder.append(isFirstMagnitude ? "" : ",").append("\"").append(magnitude).append("\"").append(":{");

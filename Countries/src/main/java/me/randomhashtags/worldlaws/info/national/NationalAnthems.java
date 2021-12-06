@@ -14,7 +14,6 @@ import org.jsoup.select.Elements;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public enum NationalAnthems implements CountryNationalService { // https://en.wikipedia.org/wiki/List_of_national_anthems | https://www.navyband.navy.mil/media/ceremonial
     INSTANCE;
@@ -36,8 +35,6 @@ public enum NationalAnthems implements CountryNationalService { // https://en.wi
             sources.append(source);
 
             final Elements elements = doc.select("body div div div.custom-page div div main div div div div.list-group a[href]");
-            final int max = elements.size();
-            final AtomicInteger completed = new AtomicInteger(0);
             elements.parallelStream().forEach(element -> {
                 final Element targetElement = element.selectFirst("div.col-9");
                 if(targetElement != null) {
@@ -49,20 +46,18 @@ public enum NationalAnthems implements CountryNationalService { // https://en.wi
                         countries.put(countryBackendID, href);
                     }
                 }
-                if(completed.addAndGet(1) == max) {
-                    final StringBuilder builder = new StringBuilder("{");
-                    boolean isFirst = true;
-                    for(Map.Entry<String, String> map : countries.entrySet()) {
-                        final String country = map.getKey(), audioURL = map.getValue();
-                        final CountrySingleValue value = new CountrySingleValue(null, audioURL, null, -1);
-                        value.setSources(sources);
-                        builder.append(isFirst ? "" : ",").append("\"").append(country).append("\":{\"").append(title).append("\":").append(value.toString().substring("\"null\":".length())).append("}");
-                        isFirst = false;
-                    }
-                    builder.append("}");
-                    handler.handleString(builder.toString());
-                }
             });
+            final StringBuilder builder = new StringBuilder("{");
+            boolean isFirst = true;
+            for(Map.Entry<String, String> map : countries.entrySet()) {
+                final String country = map.getKey(), audioURL = map.getValue();
+                final CountrySingleValue value = new CountrySingleValue(null, audioURL, null, -1);
+                value.setSources(sources);
+                builder.append(isFirst ? "" : ",").append("\"").append(country).append("\":{\"").append(title).append("\":").append(value.toString().substring("\"null\":".length())).append("}");
+                isFirst = false;
+            }
+            builder.append("}");
+            handler.handleString(builder.toString());
         } else {
             handler.handleString(null);
         }

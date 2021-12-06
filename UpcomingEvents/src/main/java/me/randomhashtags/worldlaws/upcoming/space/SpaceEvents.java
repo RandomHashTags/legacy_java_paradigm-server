@@ -9,7 +9,6 @@ import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.StreamSupport;
 
 public final class SpaceEvents extends LoadedUpcomingEventController {
@@ -34,7 +33,6 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
                     } else {
                         final LocalDate endingDate = LocalDate.now().plusWeeks(1);
                         final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
-                        final AtomicInteger completed = new AtomicInteger(0);
                         StreamSupport.stream(resultsArray.spliterator(), true).forEach(obj -> {
                             final JSONObject resultJSON = (JSONObject) obj;
 
@@ -59,15 +57,10 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
                                 putLoadedPreUpcomingEvent(id, event.toPreUpcomingEventJSON(eventType, id, location));
                                 putUpcomingEvent(id, event.toString());
                             }
-
-                            if(completed.addAndGet(1) == max) {
-                                handler.handleString(null);
-                            }
                         });
                     }
-                } else {
-                    handler.handleString(null);
                 }
+                handler.handleString(null);
             }
         });
     }

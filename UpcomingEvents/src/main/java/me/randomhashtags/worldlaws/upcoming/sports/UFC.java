@@ -9,7 +9,6 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.time.Month;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public final class UFC extends USAUpcomingEventController {
 
@@ -29,9 +28,7 @@ public final class UFC extends USAUpcomingEventController {
                 if(tableElement.attr("id").equals("Scheduled_events")) {
                     final Elements elements = tableElement.select("tbody tr");
                     elements.remove(0);
-                    final AtomicInteger completed = new AtomicInteger(0);
-                    final int max = elements.size();
-                    if(max > 0) {
+                    if(elements.size() > 0) {
                         elements.parallelStream().forEach(element -> {
                             final Elements rows = element.select("td");
                             final int rowSize = rows.size();
@@ -49,11 +46,7 @@ public final class UFC extends USAUpcomingEventController {
                                     putPreUpcomingEvent(id, preUpcomingEvent);
                                 }
                             }
-                            if(completed.addAndGet(1) == max) {
-                                handler.handleString(null);
-                            }
                         });
-                        return;
                     }
                     break;
                 }
