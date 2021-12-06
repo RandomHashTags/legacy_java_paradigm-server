@@ -90,8 +90,8 @@ public final class Championships extends UpcomingEventController { // https://en
                 final Elements flagIconElements = eventElement.select("span.flagicon");
                 for(Element flagIcon : flagIconElements) {
                     final String[] href = flagIcon.selectFirst("a[href]").attr("href").split("/");
-                    final String country = href[href.length-1];
-                    countries.add(country.toLowerCase().replace(" ", "").replace("_", ""));
+                    final String country = href[href.length-1].toLowerCase().replace("(country)", "");
+                    countries.add(country.replace(" ", "").replace("_", ""));
                 }
                 final int max = flagIconElements.size();
                 if(eventElementLinks.size() > max) {
@@ -145,6 +145,7 @@ public final class Championships extends UpcomingEventController { // https://en
                 sources.append(new EventSource("Chess: Events", "https://www.chess.com/events"));
                 sources.append(new EventSource("Twitch: Chess", "https://www.twitch.tv/chess"));
             }
+            sources.append(wikiDoc.getExternalLinks());
 
             final List<String> images = wikiDoc.getImages();
             final String imageURL = !images.isEmpty() ? images.get(0) : null;

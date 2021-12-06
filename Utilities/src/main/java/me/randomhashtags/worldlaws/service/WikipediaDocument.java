@@ -31,7 +31,7 @@ public final class WikipediaDocument {
     }
 
     public String getPageName() {
-        return url.split("/wiki/")[1].replace("_", " ");
+        return url.split("/wiki/")[1].replace("_", " ").replace("%27", "'");
     }
     public Document getDocument() {
         return document;

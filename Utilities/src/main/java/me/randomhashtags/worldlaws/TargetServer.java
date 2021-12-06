@@ -371,6 +371,7 @@ public enum TargetServer implements RestAPI, DataValues {
                         final JSONObject json = new JSONObject(value);
                         values.put(key, json);
                     } catch (Exception e) {
+                        WLLogger.logInfo("TargetServer - ERROR - updateHomeResponse - isUpdate=" + isUpdate + ";key=" + key + ";value=" + value);
                         WLUtilities.saveException(e);
                     }
                 }
