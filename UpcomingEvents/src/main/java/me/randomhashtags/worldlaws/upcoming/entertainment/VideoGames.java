@@ -16,7 +16,7 @@ import org.jsoup.select.Elements;
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
 
 public final class VideoGames extends UpcomingEventController {
@@ -93,6 +93,7 @@ public final class VideoGames extends UpcomingEventController {
         boolean isMonth = false, foundStartingMonth = false;
         Month month = null;
         int day = 0;
+        final HashMap<String, String> platforms = getPlatforms();
         outer : for(Element element : array) {
             if(months.contains(element)) {
                 isMonth = true;
@@ -130,20 +131,12 @@ public final class VideoGames extends UpcomingEventController {
                             final Element td0 = tds.get(0);
                             final boolean hasStyle = td0.hasAttr("style"), hasRowspan = td0.hasAttr("rowspan"), hasMatches = td0.text().matches("[0-9]+"), isTBA = td0.text().equals("TBA");
                             final Element platformsElement = hasStyle ? tds.get(3) : hasRowspan || hasMatches || isTBA ? tds.get(2) : tds.get(1);
-                            final List<String> platforms = Arrays.asList(
-                                    platformsElement.text()
-                                            .replace("Win", "Windows")
-                                            .replace("XBO", "Xbox One")
-                                            .replace("NS", "Nintendo Switch")
-                                            .replace("XSX", "Xbox Series X/S")
-                                            .replace("Mac", "***REMOVED***")
-                                            .replace("Lin", "Linux")
-                                            .replace("Droid", "***REMOVED***")
-                                            .replace("PS4", "PlayStation 4")
-                                            .replace("PS5", "PlayStation 5")
-                                            .replace("PSVita", "PlayStation Vita")
-                                            .replace(", ", ",").split(",")
-                            );
+                            final String[] platformValues = platformsElement.text().replace(", ", ",").split(",");
+                            final List<String> realPlatforms = new ArrayList<>();
+                            for(String platform : platformValues) {
+                                final String value = platforms.getOrDefault(platform, "Unknown");
+                                realPlatforms.add(value);
+                            }
 
                             final Element titleElement = isEmpty ? tds.get(0) : tdIs.get(0);
                             final String title = titleElement.text();
@@ -154,7 +147,7 @@ public final class VideoGames extends UpcomingEventController {
                                 final String id = getEventDateIdentifier(dateString, title);
                                 final StringBuilder builder = new StringBuilder();
                                 boolean isFirst = true;
-                                for(String platform : platforms) {
+                                for(String platform : realPlatforms) {
                                     builder.append(isFirst ? "" : ", ").append(platform);
                                     isFirst = false;
                                 }
@@ -168,6 +161,46 @@ public final class VideoGames extends UpcomingEventController {
             }
         }
         handler.handleString(null);
+    }
+    private HashMap<String, String> getPlatforms() {
+        return new HashMap<>() {{
+            put("Win", "Windows");
+            put("Mac", "***REMOVED***");
+            put("Lin", "Linux");
+
+            put("DC", "Dreamcast");
+
+            put("XBLA", "Xbox Live Arcade");
+            put("X360", "Xbox 360");
+            put("XBO", "Xbox One");
+            put("XSX", "Xbox Series X and S");
+
+            put("PSN", "PlayStation Network");
+            put("PSVita", "PlayStation Vita");
+            put("PSP", "PlayStation Portable");
+            put("PS4", "PlayStation 4");
+            put("PS5", "PlayStation 5");
+            put("PS6", "PlayStation 6");
+            put("PS7", "PlayStation 7");
+            put("PS8", "PlayStation 8");
+            put("PS9", "PlayStation 9");
+
+            put("NS", "Nintendo Switch");
+            put("3DS", "Nintendo 3DS");
+            put("NDS", "Nintendo DS");
+            put("SNES", "Super Nintendo");
+
+            put("Droid", "***REMOVED***");
+            put("***REMOVED***", "***REMOVED***");
+            put("WP", "Windows Phone");
+
+            put("Stadia", "Stadia");
+
+            put("Wii", "Wii");
+            put("WiiU", "WiiU");
+
+            put("Amico", "Amico");
+        }};
     }
 
     private void addExternalLinks(Document doc, EventSources sources) {

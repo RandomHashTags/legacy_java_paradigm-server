@@ -7,47 +7,61 @@ import me.randomhashtags.worldlaws.RestAPI;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.util.HashMap;
+import java.util.stream.StreamSupport;
+
 public interface YouTubeService extends RestAPI, Jsonable {
     default void getVideosJSONArray(YouTubeVideoType type, String title, CompletionHandler handler) {
-        final String suffix = type.getSearchSuffix(), titleLowercase = title.toLowerCase();
-        final String serviceURL = "http://youtube-scrape.herokuapp.com/api/search?q=" + titleLowercase.replace(" ", "+") + "+" + suffix;
-        final String localServiceURL = "http://localhost:34580/api/search?q=" + titleLowercase.replace(" ", "+") + "+" + suffix;
-        final String url = false ? localServiceURL : serviceURL;
-
-        requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
+        final JSONObject youtubePrivateValues = Jsonable.getSettingsPrivateValuesJSON().getJSONObject("youtube");
+        final String apiKey = youtubePrivateValues.getString("key");
+        final String url = "https://youtube.googleapis.com/youtube/v3/search";
+        final int requestLimit = youtubePrivateValues.getInt("request_limit");
+        final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
+        final HashMap<String, String> query = new HashMap<>();
+        query.put("part", "snippet");
+        query.put("maxResults", Integer.toString(requestLimit));
+        query.put("order", "relevance");
+        final String q = (title + " " + type.getSearchSuffix()).replace(" ", "%20");
+        query.put("q", q);
+        query.put("type", "video");
+        query.put("key", apiKey);
+        requestJSONObject(url, RequestMethod.GET, headers, query, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
+                JSONArray array = null;
                 if(json != null) {
-                    final String alternateTitle1 = titleLowercase.replace(":", "");
-                    final String alternateTitle2 = titleLowercase.replace(" – ", " ");
-                    final String alternateTitle3 = titleLowercase.replace(":", "").replace(" – ", " ");
+                    final JSONArray items = json.getJSONArray("items");
+                    array = filterResults(type, title, items);
+                }
+                handler.handleJSONArray(array != null && array.isEmpty() ? null : array);
+            }
+        });
+    }
+    private JSONArray filterResults(YouTubeVideoType type, String title, JSONArray items) {
+        final JSONArray array = new JSONArray();
+        final String titleLowercase = title.toLowerCase();
+        final String alternateTitle1 = titleLowercase.replace(":", "");
+        final String alternateTitle2 = titleLowercase.replace(" – ", " ");
+        final String alternateTitle3 = titleLowercase.replace(":", "").replace(" – ", " ");
 
-                    final JSONArray resultsArray = json.getJSONArray("results");
-                    final JSONArray array = new JSONArray();
-                    for(Object obj : resultsArray) {
-                        final JSONObject resultJSON = (JSONObject) obj;
-                        if(resultJSON.has("video")) {
-                            final JSONObject uploaderJSON = resultJSON.getJSONObject("uploader");
-                            final boolean verified = uploaderJSON.getBoolean("verified");
-                            if(type.isLegitUploader(verified, uploaderJSON.getString("username"))) {
-                                final JSONObject videoJSON = resultJSON.getJSONObject("video");
-                                final String videoTitle = videoJSON.getString("title"), videoTitleLowercase = videoTitle.toLowerCase();
-                                if(videoTitleLowercase.contains(titleLowercase)
-                                        || videoTitleLowercase.contains(alternateTitle1)
-                                        || videoTitleLowercase.contains(alternateTitle2)
-                                        || videoTitleLowercase.contains(alternateTitle3)
-                                ) {
-                                    array.put(videoJSON.getString("id"));
-                                }
-                            }
-                        }
-                    }
-                    handler.handleJSONArray(array.isEmpty() ? null : array);
-                } else {
-                    handler.handleJSONArray(null);
+        StreamSupport.stream(items.spliterator(), true).forEach(obj -> {
+            final JSONObject itemJSON = (JSONObject) obj;
+            final JSONObject snippet = itemJSON.getJSONObject("snippet");
+            final String uploader = snippet.getString("channelTitle");
+            if(type.isLegitUploader(uploader)) {
+                final String videoTitle = snippet.getString("title"), videoTitleLowercase = videoTitle.toLowerCase();
+                if(videoTitleLowercase.contains(titleLowercase)
+                        || videoTitleLowercase.contains(alternateTitle1)
+                        || videoTitleLowercase.contains(alternateTitle2)
+                        || videoTitleLowercase.contains(alternateTitle3)
+                ) {
+                    final JSONObject idJSON = itemJSON.getJSONObject("id");
+                    final String videoID = idJSON.getString("videoId");
+                    array.put(videoID);
                 }
             }
         });
+        return array;
     }
 
     enum YouTubeVideoType {
@@ -60,16 +74,18 @@ public interface YouTubeService extends RestAPI, Jsonable {
                 default: return "trailer";
             }
         }
-        public boolean isLegitUploader(boolean verified, String username) {
+        public boolean isLegitUploader(String username) {
             switch (this) {
                 case MOVIE: return isLegitMovieUploader(username);
-                case VIDEO_GAME: return isLegitVideoGameUploader(verified, username);
+                case VIDEO_GAME: return isLegitVideoGameUploader(username);
                 default: return false;
             }
         }
-        private boolean isLegitVideoGameUploader(boolean verified, String username) {
+        private boolean isLegitVideoGameUploader(String username) {
             switch (username.toLowerCase()) {
                 case "7th beat games":
+                case "amanita design":
+                case "animu game":
                 case "apex legends":
                 case "bandai namco entertainment america":
                 case "bandai namco entertainment europe":
@@ -87,35 +103,48 @@ public interface YouTubeService extends RestAPI, Jsonable {
                 case "ea star wars":
                 case "electronic arts":
                 case "epic games":
+                case "fatbot games":
                 case "fireflyworlds":
                 case "fortnite":
+                case "futurlab":
+                case "gamious":
                 case "genshin impact":
                 case "halo":
                 case "hellogamestube":
                 case "hitman":
                 case "hytale":
+                case "idea factory international":
                 case "kingdom hearts":
                 case "klei entertainment":
                 case "life is strange":
+                case "lowiro":
+                case "mad mimic":
+                case "magnus games":
+                case "marmalade game studio":
                 case "marvel entertainment":
                 case "minecraft":
                 case "modus games":
                 case "mwm interactive":
                 case "nintendo":
+                case "nintendo uk":
                 case "oddworld inhabitants":
                 case "outriders":
                 case "overkill software":
                 case "plants vs. zombies":
                 case "playdigious":
+                case "playism":
                 case "playoverwatch":
                 case "playstation":
+                case "pqube":
                 case "resident evil":
                 case "running with scissors":
                 case "segaamerica":
                 case "signalstudiosgames":
                 case "skookum arts":
                 case "skyforge":
+                case "staxel":
                 case "studio fow":
+                case "studio hg":
                 case "team meat":
                 case "team woodsalt":
                 case "total war":

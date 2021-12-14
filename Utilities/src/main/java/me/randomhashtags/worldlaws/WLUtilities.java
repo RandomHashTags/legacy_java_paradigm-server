@@ -152,4 +152,7 @@ public abstract class WLUtilities {
     private static void saveErrorToFile(String sender, Folder folder, String fileName, String value) {
         Jsonable.saveFile(sender, folder, fileName, value, "txt");
     }
+
+    static void postRemoteNotification(String title, String message) {
+    }
 }
