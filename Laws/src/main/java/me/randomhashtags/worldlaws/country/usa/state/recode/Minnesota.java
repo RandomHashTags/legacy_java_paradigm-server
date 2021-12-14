@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.country.usa.state.recode;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
-import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionsUnitedStates;
+import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
 import me.randomhashtags.worldlaws.recode.*;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;

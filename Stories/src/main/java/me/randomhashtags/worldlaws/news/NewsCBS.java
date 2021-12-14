@@ -7,7 +7,7 @@ import me.randomhashtags.worldlaws.StoryObj;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.WLSubdivisions;
-import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionsUnitedStates;
+import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
 import me.randomhashtags.worldlaws.stories.Story;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;

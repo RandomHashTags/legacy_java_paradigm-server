@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.tracker;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.*;
-import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionsUnitedStates;
+import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
 import org.json.JSONArray;
 import org.json.JSONObject;
 

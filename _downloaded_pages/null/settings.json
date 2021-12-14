@@ -5,8 +5,7 @@
     "default_api_version": 1,
     "servers": {
       "countries": {
-        "port": 0,
-        "response_version": 5
+        "port": 0
       },
       "environment": {
         "port": 0

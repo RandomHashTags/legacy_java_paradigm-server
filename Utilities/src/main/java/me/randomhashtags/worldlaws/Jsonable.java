@@ -76,13 +76,6 @@ public interface Jsonable {
     private static JSONObject getDefaultServerSettingsJSON(TargetServer server) {
         final JSONObject json = new JSONObject();
         json.put("port", server.getDefaultPort());
-        switch (server) {
-            case COUNTRIES:
-                json.put("response_version", 5);
-                break;
-            default:
-                break;
-        }
         return json;
     }
 
@@ -145,6 +138,9 @@ public interface Jsonable {
 
     default String getLocalFileString(Folder folder, String fileName, String extension) {
         return getStaticLocalFileString(folder, fileName, extension);
+    }
+    default JSONObject getLocalFileJSONObject(Folder folder, String fileName) {
+        return getStaticLocalFileJSONObject(folder, fileName);
     }
     default JSONArray getLocalFileJSONArray(Folder folder, String fileName) {
         return getStaticFileJSONArray(folder, fileName);

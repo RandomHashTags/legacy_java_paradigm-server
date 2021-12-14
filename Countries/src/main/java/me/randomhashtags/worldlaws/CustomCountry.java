@@ -7,11 +7,13 @@ import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
 import me.randomhashtags.worldlaws.law.LawUtilities;
 import org.apache.commons.text.StringEscapeUtils;
+import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
@@ -24,7 +26,8 @@ public final class CustomCountry implements SovereignState {
     private int currentGovernmentAdministration;
     private HashSet<Integer> governmentAdministrations;
     private WLTimeZone[] timezones;
-    private String subdivisions, information;
+    private JSONObject subdivisions;
+    private String information;
     private WLCountry wlCountryCache;
 
     public CustomCountry(String tag, String unStatus, String sovereigntyDispute, Document page) {
@@ -54,7 +57,7 @@ public final class CustomCountry implements SovereignState {
         unStatus = json.has("unStatus") ? json.getString("unStatus") : null;
         sovereigntyDispute = json.has("sovereigntyDispute") ? json.getString("sovereigntyDispute") : null;
         shortName = json.has("shortName") ? json.getString("shortName") : tag;
-        flagEmoji = json.getString("flagEmoji");
+        flagEmoji = json.has("flagEmoji") ? json.getString("flagEmoji") : null;
 
         loadCountryDetails();
     }
@@ -74,14 +77,15 @@ public final class CustomCountry implements SovereignState {
 
             final SovereignStateSubdivision[] subdivisions = wlcountry.getSubdivisions();
             if(subdivisions != null) {
-                final StringBuilder builder = new StringBuilder("{");
-                boolean isFirst = true;
-                for(SovereignStateSubdivision subdivision : subdivisions) {
-                    builder.append(isFirst ? "" : ",").append(subdivision.toJSON());
-                    isFirst = false;
-                }
-                builder.append("}");
-                this.subdivisions = builder.toString();
+                final JSONObject json = new JSONObject();
+                Arrays.stream(subdivisions).parallel().forEach(subdivision -> {
+                    String name = subdivision.getRealName();
+                    if(name == null) {
+                        name = subdivision.getName();
+                    }
+                    json.put(name, subdivision.toJSONObject());
+                });
+                this.subdivisions = json;
             }
         }
     }
@@ -248,31 +252,39 @@ public final class CustomCountry implements SovereignState {
         }
     }
 
-    private String getGovernmentAdministrationsJSON() {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
-        for(int version : governmentAdministrations) {
-            builder.append(isFirst ? "" : ",").append(version);
-            isFirst = false;
-        }
-        builder.append("]");
-        return builder.toString();
+    private JSONArray getGovernmentAdministrationsJSONArray() {
+        return new JSONArray(governmentAdministrations);
     }
 
-    @Override
-    public String toString() {
+    public JSONObject toJSONObject() {
         final boolean hasGovernmentAdministrations = governmentAdministrations != null;
-        return "\"" + name + "\":{" +
-                (isoAlpha2 != null ? "\"isoAlpha2\":\"" + isoAlpha2 + "\"," : "") +
-                (isoAlpha3 != null ? "\"isoAlpha3\":\"" + isoAlpha3 + "\"," : "") +
-                (unStatus != null ? "\"unStatus\":\"" + unStatus + "\"," : "") +
-                (sovereigntyDispute != null ? "\"sovereigntyDispute\":\"" + sovereigntyDispute + "\"," : "") +
-                (hasGovernmentAdministrations ? "\"currentGovernmentAdministration\":" + currentGovernmentAdministration + "," : "") +
-                (hasGovernmentAdministrations ? "\"governmentAdministrations\":" + getGovernmentAdministrationsJSON() + "," : "") +
-                (!name.equals(shortName) ? "\"shortName\":\"" + shortName + "\"," : "") +
-                (timezones != null ? "\"timezones\":" + getTimeZonesJSON(timezones) + "," : "") +
-                (subdivisions != null ? "\"subdivisions\":" + subdivisions + "," : "") +
-                "\"flagEmoji\":\"" + flagEmoji + "\"" +
-                "}";
+        final JSONObject json = new JSONObject();
+        if(isoAlpha2 != null) {
+            json.put("isoAlpha2", isoAlpha2);
+        }
+        if(isoAlpha3 != null) {
+            json.put("isoAlpha3", isoAlpha3);
+        }
+        if(unStatus != null) {
+            json.put("unStatus", unStatus);
+        }
+        if(sovereigntyDispute != null) {
+            json.put("sovereigntyDispute", sovereigntyDispute);
+        }
+        if(hasGovernmentAdministrations) {
+            json.put("currentGovernmentAdministration", currentGovernmentAdministration);
+            json.put("governmentAdministrations", getGovernmentAdministrationsJSONArray());
+        }
+        if(!name.equals(shortName)) {
+            json.put("shortName", shortName);
+        }
+        if(timezones != null) {
+            json.put("timezones", getTimeZonesJSONArray(timezones));
+        }
+        if(subdivisions != null) {
+            json.put("subdivisions", subdivisions);
+        }
+        json.put("flagEmoji", flagEmoji);
+        return json;
     }
 }

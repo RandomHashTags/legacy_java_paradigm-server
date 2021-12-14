@@ -19,6 +19,7 @@ import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
 import me.randomhashtags.worldlaws.info.service.TravelBriefing;
 import me.randomhashtags.worldlaws.service.WikipediaCountryService;
+import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -42,8 +43,8 @@ public final class Countries implements WLServer {
     }
 
     private Countries() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -52,10 +53,9 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        final ProductionFoods ranking = ProductionFoods.APPLE;
-        ranking.getCountryValueFromCountryJSONObject("brazil", new CompletionHandler() {
+        getCountries(new CompletionHandler() {
             @Override
-            public void handleServiceResponse(CountryService service, String string) {
+            public void handleString(String string) {
                 WLLogger.logInfo("Countries;test;string=" + string);
             }
         });
@@ -161,46 +161,45 @@ public final class Countries implements WLServer {
         final Folder folder = Folder.COUNTRIES;
         final String fileName = "_Countries";
         countriesMap = new HashMap<>();
-
-        getJSONObject(folder, fileName, new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                final StringBuilder builder = new StringBuilder("{");
-                boolean isFirst = true;
-                for(Object obj : array) {
-                    final JSONObject json = (JSONObject) obj;
-                    final String tag = json.getString("tag"), url = json.getString("url");
-                    final String unStatus = json.has("unStatus") ? json.getString("unStatus") : null, sovereigntyDispute = json.has("sovereigntyDispute") ? json.getString("sovereigntyDispute") : null;
-                    final Document doc = getDocument(Folder.COUNTRIES_WIKIPEDIA_PAGES, url, true);
-                    final CustomCountry country = new CustomCountry(tag, unStatus, sovereigntyDispute, doc);
-                    countriesMap.put(country.getBackendID(), country);
-                    builder.append(isFirst ? "" : ",").append(country.toString());
-                    isFirst = false;
-                }
-                builder.append("}");
-                final String string = builder.toString();
-                countriesCacheJSON = string;
-                handler.handleString(string);
-            }
-
-            @Override
-            public void handleJSONObject(JSONObject countriesJSON) {
-                if(countriesCacheJSON == null) {
-                    countriesCacheJSON = getLocalFileString(folder, fileName, "json");
-                    for(String name : countriesJSON.keySet()) {
-                        final JSONObject json = countriesJSON.getJSONObject(name);
-                        final CustomCountry country = new CustomCountry(name, json);
-                        countriesMap.put(country.getBackendID(), country);
-                    }
-                }
-                checkForMissingValues();
-                WLLogger.logInfo("Countries - loaded " + countriesMap.size() + " countries (took " + (System.currentTimeMillis()-started) + "ms)");
-                if(handler != null) {
-                    handler.handleString(countriesCacheJSON);
-                }
-            }
-        });
+        JSONObject countriesJSON = getLocalFileJSONObject(folder, fileName);
+        final int responseVersion = countriesJSON != null ? countriesJSON.has("response_version") ? countriesJSON.getInt("response_version") : 1 : 0;
+        if(countriesJSON == null || responseVersion != ResponseVersions.COUNTRIES.getValue()) {
+            countriesJSON = loadCountriesJSON(folder, fileName, array);
+        }
+        loadCountriesFromJSON(started, countriesJSON, handler);
     }
+    private JSONObject loadCountriesJSON(Folder folder, String fileName, JSONArray array) {
+        final JSONObject json = new JSONObject();
+        json.put("response_version", ResponseVersions.COUNTRIES.getValue());
+        for(Object obj : array) {
+            final JSONObject countryJSON = (JSONObject) obj;
+            final String tag = countryJSON.getString("tag"), url = countryJSON.getString("url");
+            final String unStatus = countryJSON.has("unStatus") ? countryJSON.getString("unStatus") : null, sovereigntyDispute = countryJSON.has("sovereigntyDispute") ? countryJSON.getString("sovereigntyDispute") : null;
+            final Document doc = getDocument(Folder.COUNTRIES_WIKIPEDIA_PAGES, url, true);
+            final CustomCountry country = new CustomCountry(tag, unStatus, sovereigntyDispute, doc);
+            countriesMap.put(country.getBackendID(), country);
+            json.put(country.getName(), country.toJSONObject());
+        }
+        setFileJSON(folder, fileName, json.toString());
+        return json;
+    }
+    private void loadCountriesFromJSON(long started, JSONObject countriesJSON, CompletionHandler handler) {
+        countriesJSON.remove("response_version");
+        countriesCacheJSON = countriesJSON.toString();
+        if(countriesMap.isEmpty()) {
+            for(String name : countriesJSON.keySet()) {
+                final JSONObject json = countriesJSON.getJSONObject(name);
+                final CustomCountry country = new CustomCountry(name, json);
+                countriesMap.put(country.getBackendID(), country);
+            }
+        }
+        checkForMissingValues();
+        WLLogger.logInfo("Countries - loaded " + countriesMap.size() + " countries (took " + (System.currentTimeMillis()-started) + "ms)");
+        if(handler != null) {
+            handler.handleString(countriesCacheJSON);
+        }
+    }
+
     private String getUNStatus(String input) {
         final String uppercaseInput = input.toUpperCase();
         if(uppercaseInput.contains("UN MEMBER STATE")) {

@@ -27,6 +27,9 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
     default String getName() {
         return LocalServer.toCorrectCapitalization(name());
     }
+    default String getRealName() {
+        return null;
+    }
     default String getGovernmentWebsite() {
         return null;
     }
@@ -159,12 +162,16 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
         return null;
     }
 
-    default String toJSON() {
+    default JSONObject toJSONObject() {
         final String flagURL = getFlagURL();
         final WLTimeZone[] timezones = getTimeZones();
-        return "\"" + getName() + "\":{" +
-                (timezones != null ? "\"timezones\":" + getTimeZonesJSON(timezones) + (flagURL != null ? "," : "") : "") +
-                (flagURL != null ? "\"flagURL\":\"" + flagURL + "\"" : "") +
-                "}";
+        final JSONObject json = new JSONObject();
+        if(timezones != null) {
+            json.put("timezones", getTimeZonesJSONArray(timezones));
+        }
+        if(flagURL != null) {
+            json.put("flagURL", flagURL);
+        }
+        return json;
     }
 }

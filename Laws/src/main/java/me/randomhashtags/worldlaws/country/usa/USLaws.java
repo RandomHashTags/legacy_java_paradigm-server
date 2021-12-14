@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.country.usa;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionsUnitedStates;
+import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
 import me.randomhashtags.worldlaws.country.usa.federal.FederalGovernment;
 import me.randomhashtags.worldlaws.country.usa.federal.PreCongressBill;
 import me.randomhashtags.worldlaws.country.usa.federal.USCongress;

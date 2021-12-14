@@ -141,8 +141,6 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             final int max = requests.length;
             final HashSet<String> values = new HashSet<>();
             final AtomicInteger completed = new AtomicInteger(0);
-            final int responseVersion = server.getResponseVersion();
-            final String versionString = responseVersion > 0 ? "\"version\":" + server.getResponseVersion() : "";
             Arrays.asList(requests).parallelStream().forEach(request -> {
                 getServerResponse(version, request, new CompletionHandler() {
                     @Override
@@ -154,8 +152,8 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                         if(completed.addAndGet(1) == max) {
                             String value = null;
                             if(!values.isEmpty()) {
-                                final StringBuilder builder = new StringBuilder("{" + versionString);
-                                boolean isFirst = versionString.isEmpty();
+                                final StringBuilder builder = new StringBuilder("{");
+                                boolean isFirst = true;
                                 for(String stringValue : values) {
                                     builder.append(isFirst ? "" : ",").append(stringValue);
                                     isFirst = false;

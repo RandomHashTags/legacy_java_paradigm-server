@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment.music;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.ITunesSearchAPI;
 import me.randomhashtags.worldlaws.service.SpotifyService;
-import me.randomhashtags.worldlaws.settings.CustomResponseVersion;
+import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.MusicAlbumEvent;
@@ -51,7 +51,7 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
             handler.handleString(artists);
         } else {
             final StringBuilder builder = new StringBuilder("{");
-            final int version = CustomResponseVersion.MUSIC_ARTISTS.getValue();
+            final int version = ResponseVersions.MUSIC_ARTISTS.getValue();
             builder.append("\"version\":").append(version).append(",");
             builder.append("\"artists\":{");
             builder.append("}}");

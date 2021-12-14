@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.iap.InAppPurchases;
-import me.randomhashtags.worldlaws.settings.CustomResponseVersion;
+import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import org.json.JSONObject;
 
 import java.util.*;
@@ -75,7 +75,7 @@ public enum TargetServer implements RestAPI, DataValues {
     }
 
     private String ipAddressCache;
-    private int port, responseVersion;
+    private int port;
     private APIVersion apiVersion;
 
     private String getIpAddress() {
@@ -143,20 +143,6 @@ public enum TargetServer implements RestAPI, DataValues {
             apiVersion = APIVersion.valueOfVersion(target);
         }
         return apiVersion;
-    }
-
-    public int getResponseVersion() { // Only used if the server doesn't auto update its content (AKA: content is hard-coded)
-        if(responseVersion == 0) {
-            responseVersion = -1;
-            final String name = name().toLowerCase();
-            final JSONObject servers = SERVER_JSON.getJSONObject("servers");
-            if(servers.has(name)) {
-                final String key = "response_version";
-                final JSONObject json = servers.getJSONObject(name);
-                responseVersion = json.has(key) ? json.getInt(key) : -1;
-            }
-        }
-        return responseVersion;
     }
 
     private JSONObject getServerJSON() {
@@ -275,15 +261,7 @@ public enum TargetServer implements RestAPI, DataValues {
         }
 
         final JSONObject responseVersions = new JSONObject();
-        for(TargetServer server : TargetServer.values()) {
-            if(server.isRealServer()) {
-                final int responseVersion = server.getResponseVersion();
-                if(responseVersion > 0) {
-                    responseVersions.put(server.getBackendID(), responseVersion);
-                }
-            }
-        }
-        for(CustomResponseVersion responseVersion : CustomResponseVersion.values()) {
+        for(ResponseVersions responseVersion : ResponseVersions.values()) {
             responseVersions.put(responseVersion.getKey(), responseVersion.getValue());
         }
         json.put("response_versions", responseVersions);
