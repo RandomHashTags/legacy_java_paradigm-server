@@ -4,13 +4,20 @@ import me.randomhashtags.worldlaws.country.subdivisions.a.SubdivisionsAlgeria;
 import me.randomhashtags.worldlaws.country.subdivisions.a.SubdivisionsArgentina;
 import me.randomhashtags.worldlaws.country.subdivisions.a.SubdivisionsAustralia;
 import me.randomhashtags.worldlaws.country.subdivisions.a.SubdivisionsAzerbaijan;
+import me.randomhashtags.worldlaws.country.subdivisions.b.SubdivisionsBelarus;
 import me.randomhashtags.worldlaws.country.subdivisions.b.SubdivisionsBrazil;
 import me.randomhashtags.worldlaws.country.subdivisions.b.SubdivisionsBulgaria;
 import me.randomhashtags.worldlaws.country.subdivisions.c.SubdivisionsCanada;
 import me.randomhashtags.worldlaws.country.subdivisions.c.SubdivisionsChile;
 import me.randomhashtags.worldlaws.country.subdivisions.c.SubdivisionsCostaRica;
+import me.randomhashtags.worldlaws.country.subdivisions.c.SubdivisionsCuba;
+import me.randomhashtags.worldlaws.country.subdivisions.d.SubdivisionsDenmark;
+import me.randomhashtags.worldlaws.country.subdivisions.d.SubdivisionsDjibouti;
+import me.randomhashtags.worldlaws.country.subdivisions.d.SubdivisionsDominica;
 import me.randomhashtags.worldlaws.country.subdivisions.d.SubdivisionsDominicanRepublic;
+import me.randomhashtags.worldlaws.country.subdivisions.e.SubdivisionsEcuador;
 import me.randomhashtags.worldlaws.country.subdivisions.e.SubdivisionsEgypt;
+import me.randomhashtags.worldlaws.country.subdivisions.e.SubdivisionsEthiopia;
 import me.randomhashtags.worldlaws.country.subdivisions.f.SubdivisionsFiji;
 import me.randomhashtags.worldlaws.country.subdivisions.f.SubdivisionsFrance;
 import me.randomhashtags.worldlaws.country.subdivisions.g.SubdivisionsGermany;
@@ -75,16 +82,23 @@ public enum WLSubdivisions {
             case AUSTRALIA: return SubdivisionsAustralia.values();
             case AZERBAIJAN: return SubdivisionsAzerbaijan.values();
 
+            case BELARUS: return SubdivisionsBelarus.values();
             case BRAZIL: return SubdivisionsBrazil.values();
             case BULGARIA: return SubdivisionsBulgaria.values();
 
             case CANADA: return SubdivisionsCanada.values();
             case CHILE: return SubdivisionsChile.values();
             case COSTA_RICA: return SubdivisionsCostaRica.values();
+            case CUBA: return SubdivisionsCuba.values();
 
+            case DENMARK: return SubdivisionsDenmark.values();
+            case DJIBOUTI: return SubdivisionsDjibouti.values();
+            case DOMINICA: return SubdivisionsDominica.values();
             case DOMINICAN_REPUBLIC: return SubdivisionsDominicanRepublic.values();
 
+            case ECUADOR: return SubdivisionsEcuador.values();
             case EGYPT: return SubdivisionsEgypt.values();
+            case ETHIOPIA: return SubdivisionsEthiopia.values();
 
             case FIJI: return SubdivisionsFiji.values();
             case FRANCE: return SubdivisionsFrance.values();

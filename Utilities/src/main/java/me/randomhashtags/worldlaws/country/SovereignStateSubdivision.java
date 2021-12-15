@@ -25,7 +25,7 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
         return null;
     }
     default String getName() {
-        return LocalServer.toCorrectCapitalization(name());
+        return LocalServer.toCorrectCapitalization(name(), "del", "de", "la", "of");
     }
     default String getRealName() {
         return null;

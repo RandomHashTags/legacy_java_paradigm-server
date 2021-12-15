@@ -150,7 +150,7 @@ public final class LocalServer implements UserServer, DataValues {
         boolean first = true;
         for(String string : values) {
             builder.append(first ? "" : " ");
-            if(!excluded.contains(string)) {
+            if(first || !excluded.contains(string)) {
                 builder.append(string.substring(0, 1).toUpperCase()).append(string.substring(1));
                 first = false;
             } else {
