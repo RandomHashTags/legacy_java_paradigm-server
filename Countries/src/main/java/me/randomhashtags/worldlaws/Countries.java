@@ -43,8 +43,8 @@ public final class Countries implements WLServer {
     }
 
     private Countries() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override

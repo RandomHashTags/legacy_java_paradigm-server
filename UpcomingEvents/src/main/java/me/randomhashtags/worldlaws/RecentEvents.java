@@ -49,35 +49,17 @@ public enum RecentEvents {
                 }
 
                 if(completed.addAndGet(1) == max) {
-                    final ConcurrentHashMap<RecentEventType, HashSet<String>> values = new ConcurrentHashMap<>();
-                    for(Map.Entry<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> map : allValues.entrySet()) {
-                        final RecentEventType type = map.getKey();
-                        final HashSet<String> set = new HashSet<>();
-                        for(Map.Entry<String, HashSet<String>> dateMap : map.getValue().entrySet()) {
-                            final StringBuilder builder = new StringBuilder("{");
-                            builder.append("\"").append(dateMap.getKey()).append("\":{");
-                            boolean isFirst = true;
-                            for(String value : dateMap.getValue()) {
-                                builder.append(isFirst ? "" : ",").append(value);
-                                isFirst = false;
-                            }
-                            builder.append("}");
-                            set.add(builder.toString());
-                        }
-                        values.put(type, set);
-                    }
-                    completeHandler(started, values, handler);
+                    completeHandler(started, allValues, handler);
                 }
             }
 
             @Override
-            public void handleHashSetString(HashSet<String> hashset) {
-                final ConcurrentHashMap<RecentEventType, HashSet<String>> allValues = new ConcurrentHashMap<>();
-                final int amount = hashset != null ? hashset.size() : 0;
+            public void handleConcurrentHashMapHashSetString(ConcurrentHashMap<String, HashSet<String>> hashmap) {
+                final int amount = hashmap != null ? hashmap.size() : 0;
                 if(amount > 0) {
                     final RecentEventType type = event.getType();
-                    allValues.putIfAbsent(type, new HashSet<>());
-                    allValues.get(type).addAll(hashset);
+                    allValues.putIfAbsent(type, new ConcurrentHashMap<>());
+                    allValues.get(type).putAll(hashmap);
                 }
                 if(completed.addAndGet(1) == max) {
                     completeHandler(started, allValues, handler);
@@ -85,20 +67,29 @@ public enum RecentEvents {
             }
         }));
     }
-    private void completeHandler(long started, ConcurrentHashMap<RecentEventType, HashSet<String>> values, CompletionHandler handler) {
+    private void completeHandler(long started, ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> values, CompletionHandler handler) {
         String value = null;
         if(!values.isEmpty()) {
             final StringBuilder builder = new StringBuilder("{");
             boolean isFirstType = true;
-            for(Map.Entry<RecentEventType, HashSet<String>> map : values.entrySet()) {
+            for(Map.Entry<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> map : values.entrySet()) {
                 final RecentEventType type = map.getKey();
-                final HashSet<String> set = map.getValue();
                 builder.append(isFirstType ? "" : ",").append("\"").append(type.name().toLowerCase()).append("\":{");
                 isFirstType = false;
-                boolean isFirst = true;
-                for(String s : set) {
-                    builder.append(isFirst ? "" : ",").append(s);
-                    isFirst = false;
+
+                boolean isFirstDateString = true;
+                final ConcurrentHashMap<String, HashSet<String>> dateMap = map.getValue();
+                for(Map.Entry<String, HashSet<String>> dates : dateMap.entrySet()) {
+                    final String dateString = dates.getKey();
+                    builder.append(isFirstDateString ? "" : ",").append("\"").append(dateString).append("\":{");
+                    isFirstDateString = false;
+                    final HashSet<String> set = dates.getValue();
+                    boolean isFirst = true;
+                    for(String s : set) {
+                        builder.append(isFirst ? "" : ",").append(s);
+                        isFirst = false;
+                    }
+                    builder.append("}");
                 }
                 builder.append("}");
             }

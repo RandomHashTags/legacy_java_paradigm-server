@@ -6,7 +6,6 @@ import me.randomhashtags.worldlaws.info.availability.CountryAvailabilities;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
 import me.randomhashtags.worldlaws.law.LawUtilities;
-import org.apache.commons.text.StringEscapeUtils;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -67,7 +66,7 @@ public final class CustomCountry implements SovereignState {
             isoAlpha2 = wlcountry.getISOAlpha2();
             isoAlpha3 = wlcountry.getISOAlpha3();
             if(flagEmoji == null) {
-                flagEmoji = StringEscapeUtils.escapeJava(wlcountry.getFlagEmoji());
+                flagEmoji = wlcountry.getFlagEmoji();
             }
             timezones = wlcountry.getTimeZones();
             governmentAdministrations = LawUtilities.getAdministrationVersions(wlcountry);

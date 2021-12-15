@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
 import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
-import me.randomhashtags.worldlaws.service.YouTubeService;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.entertainment.TVShows;
@@ -16,7 +15,6 @@ import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
 import me.randomhashtags.worldlaws.upcoming.sports.MLB;
 import me.randomhashtags.worldlaws.upcoming.sports.UFC;
-import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
@@ -64,10 +62,10 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        new VideoGames().getVideosJSONArray(YouTubeService.YouTubeVideoType.VIDEO_GAME, "Halo Infinite", new CompletionHandler() {
+        RecentEvents.INSTANCE.refresh(new CompletionHandler() {
             @Override
-            public void handleJSONArray(JSONArray array) {
-                WLLogger.logInfo("UpcomingEvents;test;array=" + (array != null ? array.toString() : "null"));
+            public void handleString(String string) {
+                WLLogger.logInfo("UpcomingEvents;test;string=" + string);
             }
         });
         /*AmericanHoliday.HARRIET_TUBMAN_DAY.getHolidayJSON(HolidayType.AMERICAN, new CompletionHandler() {

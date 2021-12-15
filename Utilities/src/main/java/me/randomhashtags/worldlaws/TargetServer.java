@@ -344,7 +344,7 @@ public enum TargetServer implements RestAPI, DataValues {
         final CompletionHandler completionHandler = new CompletionHandler() {
             @Override
             public void handleStringValue(String key, String value) {
-                if(value != null) {
+                if(value != null && !value.equals("null")) {
                     try {
                         final JSONObject json = new JSONObject(value);
                         values.put(key, json);

@@ -8,7 +8,6 @@ import me.randomhashtags.worldlaws.recent.software.videogame.VideoGameUpdateCont
 import java.time.LocalDate;
 import java.util.Arrays;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -45,20 +44,7 @@ public enum VideoGameUpdates implements RecentEventController {
                     values.get(dateString).add("\"" + controller.getName() + "\":" + update.toString());
                 }
                 if(completed.addAndGet(1) == max) {
-                    final HashSet<String> set = new HashSet<>();
-                    if(!values.isEmpty()) {
-                        for(Map.Entry<String, HashSet<String>> map : values.entrySet()) {
-                            final StringBuilder builder = new StringBuilder("\"" + map.getKey() + "\":{");
-                            boolean isFirst = true;
-                            for(String value : map.getValue()) {
-                                builder.append(isFirst ? "" : ",").append(value);
-                                isFirst = false;
-                            }
-                            builder.append("}");
-                            set.add(builder.toString());
-                        }
-                    }
-                    handler.handleHashSetString(set);
+                    handler.handleConcurrentHashMapHashSetString(values);
                 }
             }
         }));
