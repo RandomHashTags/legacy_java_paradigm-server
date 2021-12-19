@@ -327,7 +327,6 @@ public enum TargetServer implements RestAPI, DataValues {
         final String versionName = version.name();
         final TargetServer[] servers = {
             COUNTRIES,
-            LAWS,
             SERVICES,
             UPCOMING_EVENTS,
             WEATHER
@@ -344,7 +343,7 @@ public enum TargetServer implements RestAPI, DataValues {
         final CompletionHandler completionHandler = new CompletionHandler() {
             @Override
             public void handleStringValue(String key, String value) {
-                if(value != null && !value.equals("null")) {
+                if(value != null) {
                     try {
                         final JSONObject json = new JSONObject(value);
                         values.put(key, json);
