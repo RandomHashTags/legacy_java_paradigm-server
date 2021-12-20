@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.info.availability.CountryAvailabilities;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
 import me.randomhashtags.worldlaws.law.LawUtilities;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -77,7 +78,8 @@ public final class CustomCountry implements SovereignState {
             final SovereignStateSubdivision[] subdivisions = wlcountry.getSubdivisions();
             if(subdivisions != null) {
                 final JSONObject json = new JSONObject();
-                Arrays.stream(subdivisions).parallel().forEach(subdivision -> {
+                ParallelStream.stream(Arrays.asList(subdivisions), subdivisionObj -> {
+                    final SovereignStateSubdivision subdivision = (SovereignStateSubdivision) subdivisionObj;
                     String name = subdivision.getRealName();
                     if(name == null) {
                         name = subdivision.getName();
@@ -166,7 +168,8 @@ public final class CustomCountry implements SovereignState {
             }
         };
 
-        services.parallelStream().forEach(service -> {
+        ParallelStream.stream(services, serviceObj -> {
+            final CountryService service = (CountryService) serviceObj;
             final SovereignStateInfo info = service.getInfo();
             final String countryIdentifier;
             switch (info) {

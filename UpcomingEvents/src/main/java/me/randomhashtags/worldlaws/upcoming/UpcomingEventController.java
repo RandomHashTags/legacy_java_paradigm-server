@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.upcoming;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.service.YouTubeService;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
@@ -119,7 +120,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
                     }
                 }
             };
-            set.parallelStream().forEach(identifier -> getPreUpcomingEvent(identifier, completionHandler));
+            ParallelStream.stream(set, identifier -> getPreUpcomingEvent((String) identifier, completionHandler));
         }
     }
     private void getPreUpcomingEvent(String identifier, CompletionHandler handler) {

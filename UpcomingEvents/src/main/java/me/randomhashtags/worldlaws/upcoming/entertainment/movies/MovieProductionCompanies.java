@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment.movies;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
@@ -241,7 +242,7 @@ public enum MovieProductionCompanies {
                             }
                         }
                     };
-                    Arrays.stream(companies).parallel().forEach(company -> company.getDetails(completionHandler));
+                    ParallelStream.stream(Arrays.asList(companies), company -> ((MovieProductionCompanies) company).getDetails(completionHandler));
                 }
 
                 @Override

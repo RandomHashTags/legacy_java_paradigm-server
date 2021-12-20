@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.recent.software.videogame.NoMansSky;
 import me.randomhashtags.worldlaws.recent.software.videogame.VideoGameUpdate;
 import me.randomhashtags.worldlaws.recent.software.videogame.VideoGameUpdateController;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 
 import java.time.LocalDate;
 import java.util.Arrays;
@@ -34,20 +35,23 @@ public enum VideoGameUpdates implements RecentEventController {
         final int max = controllers.length;
         final AtomicInteger completed = new AtomicInteger(0);
         final ConcurrentHashMap<String, HashSet<String>> values = new ConcurrentHashMap<>();
-        Arrays.asList(controllers).parallelStream().forEach(controller -> controller.refresh(startingDate, new CompletionHandler() {
-            @Override
-            public void handleObject(Object object) {
-                if(object != null) {
-                    final VideoGameUpdate update = (VideoGameUpdate) object;
-                    final String dateString = update.getDate().getDateString();
-                    values.putIfAbsent(dateString, new HashSet<>());
-                    values.get(dateString).add("\"" + controller.getName() + "\":" + update.toString());
+        ParallelStream.stream(Arrays.asList(controllers), controllerObj -> {
+            final VideoGameUpdateController controller = (VideoGameUpdateController) controllerObj;
+            controller.refresh(startingDate, new CompletionHandler() {
+                @Override
+                public void handleObject(Object object) {
+                    if(object != null) {
+                        final VideoGameUpdate update = (VideoGameUpdate) object;
+                        final String dateString = update.getDate().getDateString();
+                        values.putIfAbsent(dateString, new HashSet<>());
+                        values.get(dateString).add("\"" + controller.getName() + "\":" + update.toString());
+                    }
+                    if(completed.addAndGet(1) == max) {
+                        handler.handleConcurrentHashMapHashSetString(values);
+                    }
                 }
-                if(completed.addAndGet(1) == max) {
-                    handler.handleConcurrentHashMapHashSetString(values);
-                }
-            }
-        }));
+            });
+        });
     }
 
     public String getAllVideoGames() {

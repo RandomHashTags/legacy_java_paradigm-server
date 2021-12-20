@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.stream.ParallelStream;
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -141,7 +143,8 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             final int max = requests.length;
             final HashSet<String> values = new HashSet<>();
             final AtomicInteger completed = new AtomicInteger(0);
-            Arrays.asList(requests).parallelStream().forEach(request -> {
+            ParallelStream.stream(Arrays.asList(requests), requestObj -> {
+                final String request = (String) requestObj;
                 getServerResponse(version, request, new CompletionHandler() {
                     @Override
                     public void handleString(String string) {

@@ -7,6 +7,7 @@ import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
 import me.randomhashtags.worldlaws.recent.software.console.PlayStation4Updates;
 import me.randomhashtags.worldlaws.recent.software.console.PlayStation5Updates;
 import me.randomhashtags.worldlaws.recent.software.other.AppleSoftwareUpdates;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 
 import java.time.LocalDate;
 import java.util.Arrays;
@@ -31,41 +32,44 @@ public enum RecentEvents {
         final int max = events.length;
         final ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> allValues = new ConcurrentHashMap<>();
         final AtomicInteger completed = new AtomicInteger(0);
-        Arrays.stream(events).parallel().forEach(event -> event.refresh(lastWeek, new CompletionHandler() {
-            @Override
-            public void handleObject(Object object) {
-                if(object != null) {
-                    @SuppressWarnings({ "unchecked" })
-                    final HashSet<PreRecentEvent> recentEvents = (HashSet<PreRecentEvent>) object;
-                    if(!recentEvents.isEmpty()) {
-                        final RecentEventType type = event.getType();
-                        allValues.putIfAbsent(type, new ConcurrentHashMap<>());
-                        for(PreRecentEvent recentEvent : recentEvents) {
-                            final String dateString = recentEvent.getDate().getDateString();
-                            allValues.get(type).putIfAbsent(dateString, new HashSet<>());
-                            allValues.get(type).get(dateString).add(recentEvent.toString());
+        ParallelStream.stream(Arrays.asList(events), eventObj -> {
+            final RecentEventController event = (RecentEventController) eventObj;
+            event.refresh(lastWeek, new CompletionHandler() {
+                @Override
+                public void handleObject(Object object) {
+                    if(object != null) {
+                        @SuppressWarnings({ "unchecked" })
+                        final HashSet<PreRecentEvent> recentEvents = (HashSet<PreRecentEvent>) object;
+                        if(!recentEvents.isEmpty()) {
+                            final RecentEventType type = event.getType();
+                            allValues.putIfAbsent(type, new ConcurrentHashMap<>());
+                            for(PreRecentEvent recentEvent : recentEvents) {
+                                final String dateString = recentEvent.getDate().getDateString();
+                                allValues.get(type).putIfAbsent(dateString, new HashSet<>());
+                                allValues.get(type).get(dateString).add(recentEvent.toString());
+                            }
                         }
+                    }
+
+                    if(completed.addAndGet(1) == max) {
+                        completeHandler(started, allValues, handler);
                     }
                 }
 
-                if(completed.addAndGet(1) == max) {
-                    completeHandler(started, allValues, handler);
+                @Override
+                public void handleConcurrentHashMapHashSetString(ConcurrentHashMap<String, HashSet<String>> hashmap) {
+                    final int amount = hashmap != null ? hashmap.size() : 0;
+                    if(amount > 0) {
+                        final RecentEventType type = event.getType();
+                        allValues.putIfAbsent(type, new ConcurrentHashMap<>());
+                        allValues.get(type).putAll(hashmap);
+                    }
+                    if(completed.addAndGet(1) == max) {
+                        completeHandler(started, allValues, handler);
+                    }
                 }
-            }
-
-            @Override
-            public void handleConcurrentHashMapHashSetString(ConcurrentHashMap<String, HashSet<String>> hashmap) {
-                final int amount = hashmap != null ? hashmap.size() : 0;
-                if(amount > 0) {
-                    final RecentEventType type = event.getType();
-                    allValues.putIfAbsent(type, new ConcurrentHashMap<>());
-                    allValues.get(type).putAll(hashmap);
-                }
-                if(completed.addAndGet(1) == max) {
-                    completeHandler(started, allValues, handler);
-                }
-            }
-        }));
+            });
+        });
     }
     private void completeHandler(long started, ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> values, CompletionHandler handler) {
         String value = null;

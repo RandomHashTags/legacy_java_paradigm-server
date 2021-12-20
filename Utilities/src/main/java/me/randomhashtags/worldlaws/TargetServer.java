@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.iap.InAppPurchases;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONObject;
 
 import java.util.*;
@@ -210,7 +211,8 @@ public enum TargetServer implements RestAPI, DataValues {
                 }
             }
         };
-        Arrays.asList(values).parallelStream().forEach(value -> {
+        ParallelStream.stream(Arrays.asList(values), valueObj -> {
+            final String value = (String) valueObj;
             final String[] target = value.split("/");
             final String apiVersionString = target[0], serverBackendID = target[1];
             final APIVersion apiVersion = APIVersion.valueOfInput(apiVersionString);
@@ -370,8 +372,10 @@ public enum TargetServer implements RestAPI, DataValues {
                 }
             }
         };
-        requests.entrySet().parallelStream().forEach(entry -> {
-            final String key = entry.getKey();
+        ParallelStream.stream(requests.entrySet(), entryObj -> {
+            @SuppressWarnings({ "unchecked" })
+            final Map.Entry<String, String> entry = (Map.Entry<String, String>) entryObj;
+            final String key = entry.getKey(), value = entry.getValue();
             switch (key) {
                 case "trending":
                     Statistics.INSTANCE.getTrendingJSON(new CompletionHandler() {
@@ -382,7 +386,7 @@ public enum TargetServer implements RestAPI, DataValues {
                     });
                     break;
                 default:
-                    request(entry.getValue(), method, headers, null, new CompletionHandler() {
+                    request(value, method, headers, null, new CompletionHandler() {
                         @Override
                         public void handleString(String string) {
                             completionHandler.handleStringValue(key, string);

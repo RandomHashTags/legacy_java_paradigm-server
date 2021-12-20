@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.Location;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.TicketmasterMusicEvent;
@@ -12,7 +13,6 @@ import org.json.JSONObject;
 import java.time.LocalDate;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.stream.StreamSupport;
 
 public enum Ticketmaster implements RestAPI {
     INSTANCE;
@@ -68,7 +68,7 @@ public enum Ticketmaster implements RestAPI {
                 public void handleJSONObject(JSONObject json) {
                     if(json != null) {
                         final JSONArray embeddedEvents = json.getJSONObject("_embedded").getJSONArray("events");
-                        StreamSupport.stream(embeddedEvents.spliterator(), true).forEach(objectJSON -> {
+                        ParallelStream.stream(embeddedEvents.spliterator(), objectJSON -> {
                             final JSONObject eventJSON = (JSONObject) objectJSON;
                             if(!eventJSON.getBoolean("test")) {
                                 final String name = eventJSON.getString("name");
@@ -145,7 +145,7 @@ public enum Ticketmaster implements RestAPI {
                     }
 
                     final String countryCode = json.getJSONObject("country").getString("countryCode");
-                    final String subdivisionName = json.getJSONObject("state").getString("name");
+                    final String subdivisionName = json.has("state") ? json.getJSONObject("state").getString("name") : null;
                     final String cityName = json.getJSONObject("city").getString("name");
 
                     final JSONObject locationJSON = json.getJSONObject("location");

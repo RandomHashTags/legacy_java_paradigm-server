@@ -1,4 +1,7 @@
 {
+  "performance": {
+    "maximum_parallel_threads": 18
+  },
   "server": {
     "proxy_port": 0,
     "default_address": "http://localhost",

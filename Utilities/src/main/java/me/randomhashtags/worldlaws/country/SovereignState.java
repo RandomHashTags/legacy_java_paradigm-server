@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.Jsoupable;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 
 import java.util.Arrays;
@@ -27,8 +28,8 @@ public interface SovereignState extends Jsoupable, Jsonable {
 
     default JSONArray getTimeZonesJSONArray(WLTimeZone...timezones) {
         final JSONArray array = new JSONArray();
-        Arrays.stream(timezones).parallel().forEach(timezone -> {
-            array.put(timezone.getIdentifier());
+        ParallelStream.stream(Arrays.asList(timezones), timezone -> {
+            array.put(((WLTimeZone) timezone).getIdentifier());
         });
         return array;
     }

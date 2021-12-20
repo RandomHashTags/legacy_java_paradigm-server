@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.Weather;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.weather.WeatherController;
 import me.randomhashtags.worldlaws.weather.country.WeatherUSA;
 
@@ -123,32 +124,35 @@ public enum WeatherAlerts {
         final HashSet<String> values = new HashSet<>();
         final int max = controllers.length;
         final AtomicInteger completed = new AtomicInteger(0);
-        Arrays.asList(controllers).parallelStream().forEach(controller -> controller.getPreAlerts(event, new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                if(string != null) {
-                    final String country = controller.getCountry().getBackendID();
-                    final String source = "\"source\":{" + controller.getSource().toString() + "}";
-                    final String alerts = "\"alerts\":" + string;
-                    final String value = "\"" + country + "\":{" + source + "," + alerts + "}";
-                    values.add(value);
-                }
-                if(completed.addAndGet(1) == max) {
-                    String value = null;
-                    if(!values.isEmpty()) {
-                        final StringBuilder builder = new StringBuilder("{");
-                        boolean isFirst = true;
-                        for(String valueString : values) {
-                            builder.append(isFirst ? "" : ",").append(valueString);
-                            isFirst = false;
-                        }
-                        builder.append("}");
-                        value = builder.toString();
+        ParallelStream.stream(Arrays.asList(controllers), controllerObj -> {
+            final WeatherController controller = (WeatherController) controllerObj;
+            controller.getPreAlerts(event, new CompletionHandler() {
+                @Override
+                public void handleString(String string) {
+                    if(string != null) {
+                        final String country = controller.getCountry().getBackendID();
+                        final String source = "\"source\":{" + controller.getSource().toString() + "}";
+                        final String alerts = "\"alerts\":" + string;
+                        final String value = "\"" + country + "\":{" + source + "," + alerts + "}";
+                        values.add(value);
                     }
-                    handler.handleString(value);
+                    if(completed.addAndGet(1) == max) {
+                        String value = null;
+                        if(!values.isEmpty()) {
+                            final StringBuilder builder = new StringBuilder("{");
+                            boolean isFirst = true;
+                            for(String valueString : values) {
+                                builder.append(isFirst ? "" : ",").append(valueString);
+                                isFirst = false;
+                            }
+                            builder.append("}");
+                            value = builder.toString();
+                        }
+                        handler.handleString(value);
+                    }
                 }
-            }
-        }));
+            });
+        });
     }
 
     private void getAll(CompletionHandler handler) {
@@ -205,7 +209,7 @@ public enum WeatherAlerts {
                 }
             }
         };
-        Arrays.asList(countries).parallelStream().forEach(weather -> refreshCountry(weather, completionHandler));
+        ParallelStream.stream(Arrays.asList(countries), weather -> refreshCountry((WeatherController) weather, completionHandler));
     }
     private void updateJSON() {
         final StringBuilder builder = new StringBuilder("{");

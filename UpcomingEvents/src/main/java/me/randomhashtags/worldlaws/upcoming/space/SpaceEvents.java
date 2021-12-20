@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming.space;
 
 import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.SpaceEvent;
@@ -9,7 +10,6 @@ import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.stream.StreamSupport;
 
 public final class SpaceEvents extends LoadedUpcomingEventController {
 
@@ -33,7 +33,7 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
                     } else {
                         final LocalDate endingDate = LocalDate.now().plusWeeks(1);
                         final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
-                        StreamSupport.stream(resultsArray.spliterator(), true).forEach(obj -> {
+                        ParallelStream.stream(resultsArray.spliterator(), obj -> {
                             final JSONObject resultJSON = (JSONObject) obj;
 
                             final String[] dateValues = resultJSON.getString("date").split("T")[0].split("-");

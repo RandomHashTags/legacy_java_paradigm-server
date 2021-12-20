@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -38,7 +39,8 @@ public enum AppleSoftwareUpdates implements RecentEventController {
                     put(" (Details available soon)", "Details available soon");
                     put(" This update has no published CVE entries.", null);
                 }};
-                updateElements.parallelStream().forEach(updateElement -> {
+                ParallelStream.stream(updateElements, updateElementObj -> {
+                    final Element updateElement = (Element) updateElementObj;
                     final Elements tds = updateElement.select("td");
                     final Element releaseDateElement = tds.get(2);
                     final String releaseDateString = releaseDateElement.text();

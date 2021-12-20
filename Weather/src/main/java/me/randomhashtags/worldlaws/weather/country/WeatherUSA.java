@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.weather.*;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -74,7 +75,7 @@ public enum WeatherUSA implements WeatherController {
                         handler.handleString(null);
                     } else {
                         final WLCountry unitedStates = WLCountry.UNITED_STATES;
-                        StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
+                        ParallelStream.stream(array.spliterator(), obj -> {
                             final JSONObject jsonAlert = (JSONObject) obj;
                             final String id = jsonAlert.getString("id").split("/alerts/")[1];
                             final JSONObject properties = jsonAlert.getJSONObject("properties");
@@ -203,7 +204,7 @@ public enum WeatherUSA implements WeatherController {
                     }
                 }
             };
-            zones.parallelStream().forEach(zoneID -> getZone(zoneID, completionHandler));
+            ParallelStream.stream(zones, zoneID -> getZone((String) zoneID, completionHandler));
         } else {
             handler.handleString(null);
         }
@@ -232,7 +233,7 @@ public enum WeatherUSA implements WeatherController {
                 }
             }
         };
-        Arrays.stream(zones).parallel().forEach(zoneID -> getZone(zoneID, completionHandler));
+        ParallelStream.stream(Arrays.asList(zones), zoneID -> getZone((String) zoneID, completionHandler));
     }
     @Override
     public void getZone(String zoneID, CompletionHandler handler) {

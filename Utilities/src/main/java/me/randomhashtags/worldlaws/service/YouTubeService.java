@@ -4,11 +4,11 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.RestAPI;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.HashMap;
-import java.util.stream.StreamSupport;
 
 public interface YouTubeService extends RestAPI, Jsonable {
     default void getVideosJSONArray(YouTubeVideoType type, String title, CompletionHandler handler) {
@@ -44,7 +44,7 @@ public interface YouTubeService extends RestAPI, Jsonable {
         final String alternateTitle2 = titleLowercase.replace(" – ", " ");
         final String alternateTitle3 = titleLowercase.replace(":", "").replace(" – ", " ");
 
-        StreamSupport.stream(items.spliterator(), true).forEach(obj -> {
+        ParallelStream.stream(items.spliterator(), obj -> {
             final JSONObject itemJSON = (JSONObject) obj;
             final JSONObject snippet = itemJSON.getJSONObject("snippet");
             final String uploader = snippet.getString("channelTitle");

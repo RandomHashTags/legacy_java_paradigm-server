@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming.space;
 
 import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.RocketLaunchEvent;
@@ -9,7 +10,6 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.time.LocalDate;
-import java.util.stream.StreamSupport;
 
 public final class RocketLaunches extends LoadedUpcomingEventController {
 
@@ -28,7 +28,7 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
                     final LocalDate today = LocalDate.now();
                     final JSONArray launches = json.getJSONArray("results");
                     final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
-                    StreamSupport.stream(launches.spliterator(), true).forEach(obj -> {
+                    ParallelStream.stream(launches.spliterator(), obj -> {
                         final JSONObject launchJSON = (JSONObject) obj;
                         final JSONObject rocketConfigurationJSON = launchJSON.getJSONObject("rocket").getJSONObject("configuration"), padJSON = launchJSON.getJSONObject("pad");
                         final JSONObject serviceProvider = launchJSON.getJSONObject("launch_service_provider");

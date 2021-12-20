@@ -5,12 +5,11 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.service.SpotifyService;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.HashSet;
-import java.util.concurrent.atomic.AtomicInteger;
-import java.util.stream.StreamSupport;
 
 public enum MusicSpotify implements SpotifyService {
     INSTANCE;
@@ -22,10 +21,8 @@ public enum MusicSpotify implements SpotifyService {
                 if(json != null) {
                     final String description = LocalServer.fixEscapeValues(json.getString("description"));
                     final JSONArray tracks = json.getJSONObject("tracks").getJSONArray("items");
-                    final int max = tracks.length();
-                    final AtomicInteger completed = new AtomicInteger(0);
                     final HashSet<String> values = new HashSet<>();
-                    StreamSupport.stream(tracks.spliterator(), true).forEach(track -> {
+                    ParallelStream.stream(tracks.spliterator(), track -> {
                         final JSONObject trackJSON = ((JSONObject) track).getJSONObject("track");
                         final String name = trackJSON.getString("name");
                         final boolean isExplicit = trackJSON.getBoolean("explicit");

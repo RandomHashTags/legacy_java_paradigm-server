@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.info.service.CountryService;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -110,7 +111,8 @@ public final class WikipediaCountryService implements CountryService {
             final int max = types.length;
             final AtomicInteger completed = new AtomicInteger(0);
             final HashSet<String> values = new HashSet<>();
-            Arrays.stream(types).parallel().forEach(type -> {
+            ParallelStream.stream(Arrays.asList(types), typeObj -> {
+                final String type = (String) typeObj;
                 getPictures(type, tag, new CompletionHandler() {
                     @Override
                     public void handleJSONObject(JSONObject json) {

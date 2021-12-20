@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
 import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.entertainment.TVShows;
@@ -62,18 +63,18 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        RecentEvents.INSTANCE.refresh(new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                WLLogger.logInfo("UpcomingEvents;test;string=" + string);
-            }
-        });
         /*AmericanHoliday.HARRIET_TUBMAN_DAY.getHolidayJSON(HolidayType.AMERICAN, new CompletionHandler() {
             @Override
             public void handleJSONObject(JSONObject json) {
                 WLLogger.logInfo("UpcomingEvents;test;string=" + json.toString());
             }
         });*/
+        getHomeResponse(APIVersion.v1, new CompletionHandler() {
+            @Override
+            public void handleString(String string) {
+                WLLogger.logInfo("UpcomingEvents;test;string=" + string);
+            }
+        });
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {
@@ -188,7 +189,7 @@ public final class UpcomingEvents implements WLServer {
                         }
                     }
                 };
-                CONTROLLERS.parallelStream().forEach(controller -> controller.refresh(completionHandler));
+                ParallelStream.stream(CONTROLLERS, controller -> ((UpcomingEventController) controller).refresh(completionHandler));
             }
 
             @Override
@@ -226,6 +227,6 @@ public final class UpcomingEvents implements WLServer {
                 }
             }
         };
-        CONTROLLERS.parallelStream().forEach(controller -> controller.getEventsFromDates(dateStrings, completionHandler));
+        ParallelStream.stream(CONTROLLERS, controller -> ((UpcomingEventController) controller).getEventsFromDates(dateStrings, completionHandler));
     }
 }

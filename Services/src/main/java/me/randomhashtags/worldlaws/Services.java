@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.service.education.WordOfTheDay;
 import me.randomhashtags.worldlaws.service.finance.stockmarket.StockService;
 import me.randomhashtags.worldlaws.service.finance.stockmarket.YahooFinance;
 import me.randomhashtags.worldlaws.service.science.astronomy.AstronomyPictureOfTheDay;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -100,29 +101,32 @@ public final class Services implements WLServer {
         final int max = requests.size();
         final HashSet<String> values = new HashSet<>();
         final AtomicInteger completed = new AtomicInteger(0);
-        requests.parallelStream().forEach(request -> getStockMarketResponse(version, request, new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                if(string != null) {
-                    final String target = "\"" + request + "\":" + string;
-                    values.add(target);
-                }
-                if(completed.addAndGet(1) == max) {
-                    String value = null;
-                    if(!values.isEmpty()) {
-                        final StringBuilder builder = new StringBuilder("{");
-                        boolean isFirst = true;
-                        for(String s : values) {
-                            builder.append(isFirst ? "" : ",").append(s);
-                            isFirst = false;
-                        }
-                        builder.append("}");
-                        value = builder.toString();
+        ParallelStream.stream(requests, requestObj -> {
+            final String request = (String) requestObj;
+            getStockMarketResponse(version, request, new CompletionHandler() {
+                @Override
+                public void handleString(String string) {
+                    if(string != null) {
+                        final String target = "\"" + request + "\":" + string;
+                        values.add(target);
                     }
-                    WLLogger.logInfo("Services - loaded stock market home response (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handleString(value);
+                    if(completed.addAndGet(1) == max) {
+                        String value = null;
+                        if(!values.isEmpty()) {
+                            final StringBuilder builder = new StringBuilder("{");
+                            boolean isFirst = true;
+                            for(String s : values) {
+                                builder.append(isFirst ? "" : ",").append(s);
+                                isFirst = false;
+                            }
+                            builder.append("}");
+                            value = builder.toString();
+                        }
+                        WLLogger.logInfo("Services - loaded stock market home response (took " + (System.currentTimeMillis()-started) + "ms)");
+                        handler.handleString(value);
+                    }
                 }
-            }
-        }));
+            });
+        });
     }
 }

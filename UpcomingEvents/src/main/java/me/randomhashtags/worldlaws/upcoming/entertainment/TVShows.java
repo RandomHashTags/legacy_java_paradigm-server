@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.TVShowEvent;
@@ -13,7 +14,6 @@ import java.util.HashMap;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.stream.StreamSupport;
 
 public final class TVShows extends LoadedUpcomingEventController {
     private String showNamesCache;
@@ -155,7 +155,7 @@ public final class TVShows extends LoadedUpcomingEventController {
                     } else {
                         final LocalDate nextWeek = LocalDate.now().plusWeeks(1);
                         final AtomicInteger completed = new AtomicInteger(0);
-                        StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
+                        ParallelStream.stream(array.spliterator(), obj -> {
                             final JSONObject json = (JSONObject) obj;
                             final int season = json.getInt("season");
                             final JSONObject showJSON = json.getJSONObject("_embedded").getJSONObject("show");

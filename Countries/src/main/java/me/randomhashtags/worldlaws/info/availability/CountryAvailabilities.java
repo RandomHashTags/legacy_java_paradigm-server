@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleAvailabilityObj;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureType;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
@@ -136,7 +137,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                         }
                     }
                 };
-                SERVICES.parallelStream().forEach(service -> service.getCountryValue(countryBackendID, completionHandler));
+                ParallelStream.stream(SERVICES, service -> ((CountryAvailabilityService) service).getCountryValue(countryBackendID, completionHandler));
             }
 
             @Override

@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.country.Location;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.WLSubdivisions;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -16,7 +17,6 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.stream.StreamSupport;
 
 public enum Earthquakes implements RestAPI {
     INSTANCE;
@@ -98,7 +98,7 @@ public enum Earthquakes implements RestAPI {
                     final JSONArray array = json.getJSONArray("features");
                     final ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap = new ConcurrentHashMap<>();
                     final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates = new ConcurrentHashMap<>();
-                    StreamSupport.stream(array.spliterator(), true).forEach(obj -> {
+                    ParallelStream.stream(array.spliterator(), obj -> {
                         final JSONObject earthquakeJSON = (JSONObject) obj;
                         loadEarthquake(startDate, earthquakeJSON, preEarthquakeDates, territoryEarthquakesMap);
                     });

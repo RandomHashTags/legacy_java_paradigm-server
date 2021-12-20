@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.observances;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.observances.type.*;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONObject;
 
 import java.util.*;
@@ -67,7 +68,8 @@ public enum HolidayType implements Jsonable {
         final AtomicInteger completed = new AtomicInteger(0);
         final HolidayType[] types = HolidayType.values();
         final int max = types.length;
-        Arrays.stream(types).parallel().forEach(type -> {
+        ParallelStream.stream(Arrays.asList(types), typeObj -> {
+            final HolidayType type = (HolidayType) typeObj;
             final boolean isCountries = type == COUNTRIES;
             type.getHolidaysJSONObject(year, new CompletionHandler() {
                 @Override
@@ -170,7 +172,8 @@ public enum HolidayType implements Jsonable {
                     final int max = holidays.length;
                     final AtomicInteger completed = new AtomicInteger(0);
                     final ConcurrentHashMap<String, HashSet<String>> values = new ConcurrentHashMap<>();
-                    Arrays.stream(holidays).parallel().forEach(holiday -> {
+                    ParallelStream.stream(Arrays.asList(holidays), holidayObj -> {
+                        final IHoliday holiday = (IHoliday) holidayObj;
                         final EventDate date = isChristian ? ((ChristianHoliday) holiday).getDate(isWestChristian, null, year) : holiday.getDate(null, year);
                         if(date != null) {
                             final String dateString = date.getDateString();
@@ -268,7 +271,10 @@ public enum HolidayType implements Jsonable {
                 }
             }
         };
-        Arrays.stream(countries).parallel().forEach(country -> loadCountryHolidays(descriptions, holidays, country, year, completionHandler));
+        ParallelStream.stream(Arrays.asList(countries), countryObj -> {
+            final WLCountry country = (WLCountry) countryObj;
+            loadCountryHolidays(descriptions, holidays, country, year, completionHandler);
+        });
     }
     private void loadCountryHolidays(ConcurrentHashMap<String, String> descriptions, IHoliday[] socialHolidays, WLCountry country, int year, CompletionHandler handler) {
         final HolidayType holidayType = this;
@@ -276,7 +282,8 @@ public enum HolidayType implements Jsonable {
         final int max = socialHolidays.length;
         final AtomicInteger completed = new AtomicInteger(0);
         final String backendID = country != null ? country.getBackendID() : null;
-        Arrays.stream(socialHolidays).parallel().forEach(socialHoliday -> {
+        ParallelStream.stream(Arrays.asList(socialHolidays), socialHolidayObj -> {
+            final IHoliday socialHoliday = (IHoliday) socialHolidayObj;
             final EventDate date = socialHoliday.getDate(country, year);
             if(date != null) {
                 final String dateString = date.getDateString();

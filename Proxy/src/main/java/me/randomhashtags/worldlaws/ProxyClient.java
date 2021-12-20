@@ -126,9 +126,9 @@ public final class ProxyClient extends Thread implements RestAPI {
                     }
                 }
                 this.headers = headers;
+            } catch (SocketException ignored) {
             } catch (Exception e) {
                 WLUtilities.saveException(e);
-                return;
             }
         }
     }

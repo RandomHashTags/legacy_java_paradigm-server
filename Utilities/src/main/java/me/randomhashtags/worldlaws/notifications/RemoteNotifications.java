@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.notifications;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.RestAPI;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONObject;
 
 import java.util.HashSet;
@@ -24,7 +25,8 @@ public enum RemoteNotifications implements RestAPI {
 
         json.put("aps", aps);
 
-        deviceTokens.parallelStream().forEach(deviceToken -> {
+        ParallelStream.stream(deviceTokens, deviceTokenObj -> {
+            final String deviceToken = (String) deviceTokenObj;
             requestJSONObject(serverIP, RequestMethod.POST, new CompletionHandler() {
                 @Override
                 public void handleJSONObject(JSONObject json) {

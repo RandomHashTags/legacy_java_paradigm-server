@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.country.usa.USBillStatus;
 import me.randomhashtags.worldlaws.country.usa.USChamber;
 import me.randomhashtags.worldlaws.country.usa.USLaws;
 import me.randomhashtags.worldlaws.country.usa.USPoliticians;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -131,7 +132,8 @@ public enum USCongress implements Jsoupable, Jsonable {
             } else {
                 final HashSet<PreCongressBill> bills = new HashSet<>();
                 final AtomicInteger completed = new AtomicInteger(0);
-                items.parallelStream().forEach(element -> {
+                ParallelStream.stream(items, elementObj -> {
+                    final Element element = (Element) elementObj;
                     final PreCongressBill bill = getPreCongressBillFrom(element);
                     bills.add(bill);
                     if(completed.addAndGet(1) == max) {
@@ -364,9 +366,7 @@ public enum USCongress implements Jsoupable, Jsonable {
     private String getBillSubjects(Elements allInfoContent) {
         final Elements table = allInfoContent.get(6).select("div.search-column-main div ul.plain li a[href]");
         final HashSet<String> subjects = new HashSet<>();
-        table.parallelStream().forEach(element -> {
-            subjects.add(element.text());
-        });
+        table.parallelStream().forEach(element -> subjects.add(element.text()));
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         for(String subject : subjects) {
@@ -405,7 +405,8 @@ public enum USCongress implements Jsoupable, Jsonable {
                         }
                     }
                 };
-                table.parallelStream().forEach(elements -> {
+                ParallelStream.stream(table, elementObj -> {
+                    final Element elements = (Element) elementObj;
                     final String profileSlug = elements.attr("href").split("https://www\\.congress\\.gov")[1];
                     politicians.get(elements, profileSlug, completionHandler);
                 });

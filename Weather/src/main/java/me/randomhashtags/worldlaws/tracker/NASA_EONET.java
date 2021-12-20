@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.tracker;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.*;
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -10,7 +11,6 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.stream.StreamSupport;
 
 public enum NASA_EONET implements WLService {
     // https://eonet.sci.gsfc.nasa.gov/docs/v3#eventsAPI
@@ -54,7 +54,7 @@ public enum NASA_EONET implements WLService {
                     final JSONArray eventsArray = json.getJSONArray("events");
                     final int max = eventsArray.length();
                     final AtomicInteger completed = new AtomicInteger(0);
-                    StreamSupport.stream(eventsArray.spliterator(), true).forEach(obj -> {
+                    ParallelStream.stream(eventsArray.spliterator(), obj -> {
                         final JSONObject eventJSON = (JSONObject) obj;
                         String place = eventJSON.getString("title");
                         if(!place.startsWith("Iceberg ")) {

@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment.movies;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.service.IMDbService;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.MovieEvent;
@@ -249,7 +250,8 @@ public final class Movies extends UpcomingEventController implements IMDbService
         final int max = set.size();
         final HashMap<String, Object> values = new HashMap<>();
         final AtomicInteger completed = new AtomicInteger();
-        set.parallelStream().forEach(request -> {
+        ParallelStream.stream(set, requestObj -> {
+            final String request = (String) requestObj;
             final CompletionHandler completionHandler = new CompletionHandler() {
                 @Override
                 public void handleJSONObject(JSONObject json) {
@@ -293,7 +295,8 @@ public final class Movies extends UpcomingEventController implements IMDbService
         final int max = ratings.length;
         final HashMap<String, String> values = new HashMap<>();
         final AtomicInteger completion = new AtomicInteger(0);
-        Arrays.stream(ratings).parallel().forEach(rating -> {
+        ParallelStream.stream(Arrays.asList(ratings), ratingObj -> {
+            final MovieRatingType rating = (MovieRatingType) ratingObj;
             final String ratingName = rating.getName();
             rating.load(new CompletionHandler() {
                 @Override
