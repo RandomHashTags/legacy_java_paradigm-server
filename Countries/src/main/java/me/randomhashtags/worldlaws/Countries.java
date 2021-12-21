@@ -53,10 +53,16 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        getCountries(new CompletionHandler() {
+        loadServices();
+        loadCountries(new CompletionHandler() {
             @Override
             public void handleString(String string) {
-                WLLogger.logInfo("Countries;test;string=" + string);
+                getServerResponse(APIVersion.v1, "information/unitedstates", new CompletionHandler() {
+                    @Override
+                    public void handleString(String string) {
+                        WLLogger.logInfo("Countries;test;string=" + string);
+                    }
+                });
             }
         });
     }

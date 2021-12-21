@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.country.*;
 import me.randomhashtags.worldlaws.history.CountryHistory;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilities;
+import me.randomhashtags.worldlaws.info.rankings.CountryRankingService;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
 import me.randomhashtags.worldlaws.law.LawUtilities;
@@ -162,6 +163,14 @@ public final class CustomCountry implements SovereignState {
                 if(string != null && !string.equals("null")) {
                     final SovereignStateInformationType type = service.getInformationType();
                     values.putIfAbsent(type, new HashSet<>());
+
+                    // TODO: make all CountryService's conform to this
+                    if(service instanceof CountryRankingService) {
+                        final String key = "\"" + service.getInfo().getTitle() + "\":";
+                        if(!string.startsWith(key)) {
+                            string = key + string;
+                        }
+                    }
                     values.get(type).add(string);
                 }
                 tryCompletingInformation(max, completed, values, handler);

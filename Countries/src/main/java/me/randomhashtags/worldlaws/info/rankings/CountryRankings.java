@@ -231,7 +231,6 @@ public enum CountryRankings implements CountryRankingService {
     private final String url, siteName, suffix;
     private final NumberType valueType;
     private final int yearOfData;
-
     private String rankedJSON;
 
     CountryRankings(String url, String suffix, NumberType valueType, int yearOfData) {
@@ -287,10 +286,10 @@ public enum CountryRankings implements CountryRankingService {
     @Override
     public JSONObject loadData() {
         final JSONObject json = new JSONObject();
-        getJSONData(json);
+        loadJSONData(json);
         return json;
     }
-    private void getJSONData(JSONObject json) {
+    private void loadJSONData(JSONObject json) {
         switch (this) {
             case ADULT_HIV_PREVALENCE:
                 loadAdultHIVPrevalence(json);
