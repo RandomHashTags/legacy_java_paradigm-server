@@ -28,9 +28,7 @@ public final class SpaceEvents extends LoadedUpcomingEventController {
                 if(json != null) {
                     final JSONArray resultsArray = json.getJSONArray("results");
                     final int max = resultsArray.length();
-                    if(max == 0) {
-                        handler.handleString(null);
-                    } else {
+                    if(max > 0) {
                         final LocalDate endingDate = LocalDate.now().plusWeeks(1);
                         final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
                         ParallelStream.stream(resultsArray.spliterator(), obj -> {

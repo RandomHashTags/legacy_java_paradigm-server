@@ -13,7 +13,7 @@ public enum RainbowSixSiege implements VideoGameUpdateController {
     }
 
     @Override
-    public String getCovertArtURL() {
+    public String getCoverArtURL() {
         return "https://upload.wikimedia.org/wikipedia/en/4/47/Tom_Clancy%27s_Rainbow_Six_Siege_cover_art.jpg";
     }
 

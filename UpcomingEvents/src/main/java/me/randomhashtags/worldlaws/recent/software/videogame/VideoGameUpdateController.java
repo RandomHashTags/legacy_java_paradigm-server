@@ -2,19 +2,22 @@ package me.randomhashtags.worldlaws.recent.software.videogame;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Jsoupable;
-import me.randomhashtags.worldlaws.LocalServer;
+import org.json.JSONObject;
 
 import java.time.LocalDate;
 
 public interface VideoGameUpdateController extends Jsoupable {
     String getName();
-    String getCovertArtURL();
+    String getCoverArtURL();
     String getUpdatePageURL();
     void refresh(LocalDate startingDate, CompletionHandler handler);
 
-    default String toVideoGameJSON() {
-        return "\"" + LocalServer.fixEscapeValues(getName()) + "\":{" +
-                "\"imageURL\":\"" + getCovertArtURL() + "\"" +
-                "}";
+    default JSONObject getDetailsJSONObject() {
+        final JSONObject json = new JSONObject();
+        final String coverArtURL = getCoverArtURL();
+        if(coverArtURL != null) {
+            json.put("imageURL", coverArtURL);
+        }
+        return json;
     }
 }

@@ -22,7 +22,7 @@ public final class Weather implements WLServer {
     }
 
     private void test() {
-        Earthquakes.INSTANCE.getResponse(new String[] { "recent" }, new CompletionHandler() {
+        WeatherAlerts.INSTANCE.getResponse("all", new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 WLLogger.logInfo("Weather;test;string=" + string);

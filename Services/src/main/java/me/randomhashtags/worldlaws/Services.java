@@ -8,7 +8,6 @@ import me.randomhashtags.worldlaws.stream.ParallelStream;
 
 import java.util.Arrays;
 import java.util.HashSet;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public final class Services implements WLServer {
 
@@ -98,9 +97,7 @@ public final class Services implements WLServer {
         final HashSet<String> requests = new HashSet<>() {{
             add("movers");
         }};
-        final int max = requests.size();
         final HashSet<String> values = new HashSet<>();
-        final AtomicInteger completed = new AtomicInteger(0);
         ParallelStream.stream(requests, requestObj -> {
             final String request = (String) requestObj;
             getStockMarketResponse(version, request, new CompletionHandler() {
@@ -110,23 +107,22 @@ public final class Services implements WLServer {
                         final String target = "\"" + request + "\":" + string;
                         values.add(target);
                     }
-                    if(completed.addAndGet(1) == max) {
-                        String value = null;
-                        if(!values.isEmpty()) {
-                            final StringBuilder builder = new StringBuilder("{");
-                            boolean isFirst = true;
-                            for(String s : values) {
-                                builder.append(isFirst ? "" : ",").append(s);
-                                isFirst = false;
-                            }
-                            builder.append("}");
-                            value = builder.toString();
-                        }
-                        WLLogger.logInfo("Services - loaded stock market home response (took " + (System.currentTimeMillis()-started) + "ms)");
-                        handler.handleString(value);
-                    }
                 }
             });
         });
+
+        String value = null;
+        if(!values.isEmpty()) {
+            final StringBuilder builder = new StringBuilder("{");
+            boolean isFirst = true;
+            for(String s : values) {
+                builder.append(isFirst ? "" : ",").append(s);
+                isFirst = false;
+            }
+            builder.append("}");
+            value = builder.toString();
+        }
+        WLLogger.logInfo("Services - loaded stock market home response (took " + (System.currentTimeMillis()-started) + "ms)");
+        handler.handleString(value);
     }
 }

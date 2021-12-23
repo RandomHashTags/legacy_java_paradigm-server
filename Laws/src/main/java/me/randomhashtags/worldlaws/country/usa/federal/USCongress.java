@@ -18,7 +18,6 @@ import java.time.Month;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public enum USCongress implements Jsoupable, Jsonable {
     INSTANCE;
@@ -131,15 +130,12 @@ public enum USCongress implements Jsoupable, Jsonable {
                 handler.handleObject(null);
             } else {
                 final HashSet<PreCongressBill> bills = new HashSet<>();
-                final AtomicInteger completed = new AtomicInteger(0);
                 ParallelStream.stream(items, elementObj -> {
                     final Element element = (Element) elementObj;
                     final PreCongressBill bill = getPreCongressBillFrom(element);
                     bills.add(bill);
-                    if(completed.addAndGet(1) == max) {
-                        handler.handleObject(bills);
-                    }
                 });
+                handler.handleObject(bills);
             }
         } else {
             handler.handleObject(null);
@@ -381,28 +377,12 @@ public enum USCongress implements Jsoupable, Jsonable {
         if(table.size() > 0) {
             table.remove(0);
             if(!table.isEmpty()) {
-                final int max = table.size();
                 final USPoliticians politicians = USPoliticians.INSTANCE;
                 final HashSet<String> cosponsors = new HashSet<>();
-                final AtomicInteger completed = new AtomicInteger(0);
                 final CompletionHandler completionHandler = new CompletionHandler() {
                     @Override
                     public void handleString(String string) {
                         cosponsors.add(string);
-                        if(completed.addAndGet(1) == max) {
-                            String value = null;
-                            if(!cosponsors.isEmpty()) {
-                                final StringBuilder builder = new StringBuilder("[");
-                                boolean isFirst = true;
-                                for(String cosponsor : cosponsors) {
-                                    builder.append(isFirst ? "" : ",").append(cosponsor);
-                                    isFirst = false;
-                                }
-                                builder.append("]");
-                                value = builder.toString();
-                            }
-                            handler.handleString(value);
-                        }
                     }
                 };
                 ParallelStream.stream(table, elementObj -> {
@@ -410,6 +390,19 @@ public enum USCongress implements Jsoupable, Jsonable {
                     final String profileSlug = elements.attr("href").split("https://www\\.congress\\.gov")[1];
                     politicians.get(elements, profileSlug, completionHandler);
                 });
+
+                String value = null;
+                if(!cosponsors.isEmpty()) {
+                    final StringBuilder builder = new StringBuilder("[");
+                    boolean isFirst = true;
+                    for(String cosponsor : cosponsors) {
+                        builder.append(isFirst ? "" : ",").append(cosponsor);
+                        isFirst = false;
+                    }
+                    builder.append("]");
+                    value = builder.toString();
+                }
+                handler.handleString(value);
             } else {
                 handler.handleString(null);
             }

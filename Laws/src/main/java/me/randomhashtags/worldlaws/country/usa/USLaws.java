@@ -21,7 +21,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public final class USLaws extends LawController {
     public static final USLaws INSTANCE = new USLaws();
@@ -50,9 +49,7 @@ public final class USLaws extends LawController {
                 USBillStatus.VETOED
         };
 
-        final int max = statuses.length;
         final HashMap<USBillStatus, HashSet<PreCongressBill>> values = new HashMap<>();
-        final AtomicInteger completed = new AtomicInteger(0);
         ParallelStream.stream(Arrays.asList(statuses), statusObj -> {
             final USBillStatus status = (USBillStatus) statusObj;
             congress.getPreCongressBillsBySearch(status, new CompletionHandler() {
@@ -66,33 +63,32 @@ public final class USLaws extends LawController {
                             values.put(status, bills);
                         }
                     }
-                    if(completed.addAndGet(1) == max) {
-                        String string = null;
-                        if(!values.isEmpty()) {
-                            final StringBuilder builder = new StringBuilder("{");
-                            builder.append("\"statuses\":{");
-                            boolean isFirstBillStatus = true;
-                            for(BillStatus status : getBillStatuses()) {
-                                builder.append(isFirstBillStatus ? "" : ",").append(status.toJSON());
-                                isFirstBillStatus = false;
-                            }
-                            builder.append("},");
-                            boolean isFirstStatus = true;
-                            for(Map.Entry<USBillStatus, HashSet<PreCongressBill>> map : values.entrySet()) {
-                                final USBillStatus status = map.getKey();
-                                builder.append(isFirstStatus ? "" : ",").append("\"").append(status.getName()).append("\":");
-                                final String json = USCongress.getPreCongressBillsJSON(map.getValue());
-                                builder.append(json);
-                                isFirstStatus = false;
-                            }
-                            builder.append("}");
-                            string = builder.toString();
-                        }
-                        handler.handleString(string);
-                    }
                 }
             });
         });
+
+        String string = null;
+        if(!values.isEmpty()) {
+            final StringBuilder builder = new StringBuilder("{");
+            builder.append("\"statuses\":{");
+            boolean isFirstBillStatus = true;
+            for(BillStatus status : getBillStatuses()) {
+                builder.append(isFirstBillStatus ? "" : ",").append(status.toJSON());
+                isFirstBillStatus = false;
+            }
+            builder.append("},");
+            boolean isFirstStatus = true;
+            for(Map.Entry<USBillStatus, HashSet<PreCongressBill>> map : values.entrySet()) {
+                final USBillStatus status = map.getKey();
+                builder.append(isFirstStatus ? "" : ",").append("\"").append(status.getName()).append("\":");
+                final String json = USCongress.getPreCongressBillsJSON(map.getValue());
+                builder.append(json);
+                isFirstStatus = false;
+            }
+            builder.append("}");
+            string = builder.toString();
+        }
+        handler.handleString(string);
     }
 
     @Override

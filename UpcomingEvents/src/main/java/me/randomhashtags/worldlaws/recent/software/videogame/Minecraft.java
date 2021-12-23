@@ -13,7 +13,7 @@ public enum Minecraft implements VideoGameUpdateController {
     }
 
     @Override
-    public String getCovertArtURL() {
+    public String getCoverArtURL() {
         return "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png";
     }
 

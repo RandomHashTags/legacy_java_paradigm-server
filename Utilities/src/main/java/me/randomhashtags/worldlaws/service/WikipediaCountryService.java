@@ -11,7 +11,6 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.*;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public final class WikipediaCountryService implements CountryService {
 
@@ -108,8 +107,6 @@ public final class WikipediaCountryService implements CountryService {
     private void getPictures(String tag, CompletionHandler handler) {
         if(featuredPicturesFolder != null) {
             final String[] types = new String[] { "nationalAnimal", "nationalTree", "featured" };
-            final int max = types.length;
-            final AtomicInteger completed = new AtomicInteger(0);
             final HashSet<String> values = new HashSet<>();
             ParallelStream.stream(Arrays.asList(types), typeObj -> {
                 final String type = (String) typeObj;
@@ -124,23 +121,22 @@ public final class WikipediaCountryService implements CountryService {
                         if(string != null) {
                             values.add("\"" + type + "\":" + string);
                         }
-                        if(completed.addAndGet(1) == max) {
-                            String value = null;
-                            if(!values.isEmpty()) {
-                                final StringBuilder builder = new StringBuilder("{");
-                                boolean isFirst = true;
-                                for(String valueString : values) {
-                                    builder.append(isFirst ? "" : ",").append(valueString);
-                                    isFirst = false;
-                                }
-                                builder.append("}");
-                                value = builder.toString();
-                            }
-                            handler.handleString(value);
-                        }
                     }
                 });
             });
+
+            String value = null;
+            if(!values.isEmpty()) {
+                final StringBuilder builder = new StringBuilder("{");
+                boolean isFirst = true;
+                for(String valueString : values) {
+                    builder.append(isFirst ? "" : ",").append(valueString);
+                    isFirst = false;
+                }
+                builder.append("}");
+                value = builder.toString();
+            }
+            handler.handleString(value);
         } else {
             handler.handleString(null);
         }

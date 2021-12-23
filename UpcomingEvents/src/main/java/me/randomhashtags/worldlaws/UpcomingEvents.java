@@ -23,7 +23,6 @@ import java.time.Month;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Optional;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public final class UpcomingEvents implements WLServer {
     public static final UpcomingEvents INSTANCE = new UpcomingEvents();
@@ -69,12 +68,6 @@ public final class UpcomingEvents implements WLServer {
                 WLLogger.logInfo("UpcomingEvents;test;string=" + json.toString());
             }
         });*/
-        getHomeResponse(APIVersion.v1, new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                WLLogger.logInfo("UpcomingEvents;test;string=" + string);
-            }
-        });
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {
@@ -179,17 +172,13 @@ public final class UpcomingEvents implements WLServer {
             @Override
             public void load(CompletionHandler handler) {
                 final HashSet<String> dates = getWeeklyEventDateStrings(now);
-                final int max = CONTROLLERS.size();
-                final AtomicInteger completed = new AtomicInteger(0);
                 final CompletionHandler completionHandler = new CompletionHandler() {
                     @Override
                     public void handleString(String string) {
-                        if(completed.addAndGet(1) == max) {
-                            getEventsFromDates(max, dates, handler);
-                        }
                     }
                 };
                 ParallelStream.stream(CONTROLLERS, controller -> ((UpcomingEventController) controller).refresh(completionHandler));
+                getEventsFromDates(dates, handler);
             }
 
             @Override
@@ -202,9 +191,8 @@ public final class UpcomingEvents implements WLServer {
     private String getEventStringForDate(LocalDate date) {
         return date.getMonthValue() + "-" + date.getYear() + "-" + date.getDayOfMonth();
     }
-    private void getEventsFromDates(int max, HashSet<String> dateStrings, CompletionHandler handler) {
+    private void getEventsFromDates(HashSet<String> dateStrings, CompletionHandler handler) {
         final HashSet<String> values = new HashSet<>();
-        final AtomicInteger completed = new AtomicInteger(0);
         final CompletionHandler completionHandler = new CompletionHandler() {
             @Override
             public void handleStringValue(String key, String string) {
@@ -212,21 +200,20 @@ public final class UpcomingEvents implements WLServer {
                     final String value = "\"" + key + "\":" + string;
                     values.add(value);
                 }
-                if(completed.addAndGet(1) == max) {
-                    String stringValue = null;
-                    if(!values.isEmpty()) {
-                        final StringBuilder builder = new StringBuilder("{");
-                        boolean isFirst = true;
-                        for(String value : values) {
-                            builder.append(isFirst ? "" : ",").append(value);
-                            isFirst = false;
-                        }
-                        stringValue = builder.append("}").toString();
-                    }
-                    handler.handleString(stringValue);
-                }
             }
         };
         ParallelStream.stream(CONTROLLERS, controller -> ((UpcomingEventController) controller).getEventsFromDates(dateStrings, completionHandler));
+
+        String stringValue = null;
+        if(!values.isEmpty()) {
+            final StringBuilder builder = new StringBuilder("{");
+            boolean isFirst = true;
+            for(String value : values) {
+                builder.append(isFirst ? "" : ",").append(value);
+                isFirst = false;
+            }
+            stringValue = builder.append("}").toString();
+        }
+        handler.handleString(stringValue);
     }
 }

@@ -11,7 +11,6 @@ import org.jsoup.nodes.Element;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public enum MovieProductionCompanies {
 
@@ -219,30 +218,27 @@ public enum MovieProductionCompanies {
                 @Override
                 public void load(CompletionHandler handler) {
                     final MovieProductionCompanies[] companies = values();
-                    final int max = companies.length;
                     final HashSet<String> values = new HashSet<>();
-                    final AtomicInteger completed = new AtomicInteger(0);
                     final CompletionHandler completionHandler = new CompletionHandler() {
                         @Override
                         public void handleStringValue(String key, String value) {
                             values.add("\"" + key + "\":" + value);
-                            if(completed.addAndGet(1) == max) {
-                                final StringBuilder builder = new StringBuilder("{");
-                                final int responseVersion = ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue();
-                                builder.append("\"version\":").append(responseVersion).append(",");
-                                builder.append("\"imageURLPrefix\":\"").append(getImageURLPrefix()).append("\",");
-                                builder.append("\"companies\":{");
-                                boolean isFirst = true;
-                                for(String json : values) {
-                                    builder.append(isFirst ? "" : ",").append(json);
-                                    isFirst = false;
-                                }
-                                builder.append("}}");
-                                handler.handleString(builder.toString());
-                            }
                         }
                     };
                     ParallelStream.stream(Arrays.asList(companies), company -> ((MovieProductionCompanies) company).getDetails(completionHandler));
+
+                    final StringBuilder builder = new StringBuilder("{");
+                    final int responseVersion = ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue();
+                    builder.append("\"version\":").append(responseVersion).append(",");
+                    builder.append("\"imageURLPrefix\":\"").append(getImageURLPrefix()).append("\",");
+                    builder.append("\"companies\":{");
+                    boolean isFirst = true;
+                    for(String json : values) {
+                        builder.append(isFirst ? "" : ",").append(json);
+                        isFirst = false;
+                    }
+                    builder.append("}}");
+                    handler.handleString(builder.toString());
                 }
 
                 @Override

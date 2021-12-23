@@ -75,7 +75,7 @@ public interface RestAPI {
         request(targetURL, true, method, headers, query, handler);
     }
     default void request(String targetURL, boolean isLimited, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query, CompletionHandler handler) {
-        final boolean isLocal = targetURL.startsWith("http://localhost");
+        final boolean isLocal = targetURL.startsWith("http://localhost") || targetURL.startsWith("http://192.168");
 
         final StringBuilder target = new StringBuilder(targetURL);
         int i = 0;
@@ -128,20 +128,26 @@ public interface RestAPI {
             connection.setUseCaches(false);
             connection.setDoOutput(true);
 
-            final int responseCode = connection.getResponseCode();
             String responseString = null;
-            if(responseCode >= 200 && responseCode < 400) {
-                final InputStream is = connection.getInputStream();
-                final BufferedReader reader = new BufferedReader(new InputStreamReader(is));
-                final StringBuilder response = new StringBuilder();
-                String line;
-                while ((line = reader.readLine()) != null) {
-                    response.append(line).append('\r');
+            try {
+                final int responseCode = connection.getResponseCode();
+                if(responseCode >= 200 && responseCode < 400) {
+                    final InputStream is = connection.getInputStream();
+                    final BufferedReader reader = new BufferedReader(new InputStreamReader(is));
+                    final StringBuilder response = new StringBuilder();
+                    String line;
+                    while ((line = reader.readLine()) != null) {
+                        response.append(line).append('\r');
+                    }
+                    reader.close();
+                    responseString = response.toString();
+                } else {
+                    WLLogger.logError("RestAPI", "invalid response code (" + responseCode + ") for url \"" + targetURL + "\"!");
                 }
-                reader.close();
-                responseString = response.toString();
-            } else {
-                WLLogger.logError("RestAPI", "invalid response code (" + responseCode + ") for url \"" + targetURL + "\"!");
+            } catch (Exception e) {
+                if(!isLocal) {
+                    WLUtilities.saveException(e);
+                }
             }
             handler.handleString(responseString);
             if(PENDING_SAME_REQUESTS.containsKey(targetURL)) {

@@ -11,6 +11,7 @@ import org.json.JSONObject;
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.HashMap;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -82,19 +83,19 @@ public final class TVShows extends LoadedUpcomingEventController {
     }
     public void updateAllShowNames(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
-        final JSONObject showNames = new JSONObject();
-
         final long sleepDuration = TimeUnit.SECONDS.toMillis(15);
         final AtomicBoolean lock = new AtomicBoolean(true);
         final AtomicInteger page = new AtomicInteger(0);
         // RATE LIMIT IS 20 REQUESTS PER 10 SECONDS, PER IP ADDRESS
         final String imageURLPrefix = "https://static.tvmaze.com/uploads/images/original_untouched/";
         final int imageURLPrefixLength = imageURLPrefix.length();
+
+        final ConcurrentHashMap<String, HashMap<String, JSONObject>> statuses = new ConcurrentHashMap<>();
         final CompletionHandler completionHandler = new CompletionHandler() {
             @Override
             public void handleJSONArray(JSONArray array) {
                 if(array != null && !array.isEmpty()) {
-                    for(Object obj : array) {
+                    ParallelStream.stream(array.spliterator(), obj -> {
                         final JSONObject json = (JSONObject) obj;
                         final String id = Integer.toString(json.getInt("id"));
                         final String name = json.getString("name"), status = json.getString("status");
@@ -108,11 +109,9 @@ public final class TVShows extends LoadedUpcomingEventController {
                             }
                             show.put("imageURL", imageURL);
                         }
-                        if(!showNames.has(status)) {
-                            showNames.put(status, new JSONObject());
-                        }
-                        showNames.getJSONObject(status).put(id, show);
-                    }
+                        statuses.putIfAbsent(status, new HashMap<>());
+                        statuses.get(status).put(id, show);
+                    });
                     if(page.addAndGet(1) % 20 == 0) {
                         try {
                             Thread.sleep(sleepDuration);
@@ -129,6 +128,8 @@ public final class TVShows extends LoadedUpcomingEventController {
             final int pageNumber = page.get();
             getShowsFromPage(pageNumber, completionHandler);
         }
+
+        final JSONObject showNames = new JSONObject(statuses);;
         final String string = showNames.toString();
         showNamesCache = string;
         setFileJSON(Folder.UPCOMING_EVENTS_TV_SHOWS, "ids", string);
@@ -150,11 +151,8 @@ public final class TVShows extends LoadedUpcomingEventController {
             public void handleJSONArray(JSONArray array) {
                 if(array != null) {
                     final int max = array.length();
-                    if(max == 0) {
-                        handler.handleString(null);
-                    } else {
+                    if(max > 0) {
                         final LocalDate nextWeek = LocalDate.now().plusWeeks(1);
-                        final AtomicInteger completed = new AtomicInteger(0);
                         ParallelStream.stream(array.spliterator(), obj -> {
                             final JSONObject json = (JSONObject) obj;
                             final int season = json.getInt("season");
@@ -215,13 +213,10 @@ public final class TVShows extends LoadedUpcomingEventController {
                                     putUpcomingEvent(identifier, tvShowEvent.toString());
                                 }
                             }
-
-                            if(completed.addAndGet(1) == max && handler != null) {
-                                handler.handleString(null);
-                            }
                         });
                     }
-                } else if(handler != null) {
+                }
+                if(handler != null) {
                     handler.handleString(null);
                 }
             }

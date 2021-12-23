@@ -14,7 +14,6 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public interface SovereignStateSubdivision extends SovereignState, WikipediaService {
     String name();
@@ -89,8 +88,6 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
                     add(new WikipediaCountryService(false));
                 }};
 
-                final AtomicInteger completed = new AtomicInteger(0);
-                final int max = services.size();
                 final CompletionHandler serviceHandler = new CompletionHandler() {
                     @Override
                     public void handleServiceResponse(CountryService service, String string) {
@@ -99,7 +96,6 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
                             values.putIfAbsent(type, new HashSet<>());
                             values.get(type).add(string);
                         }
-                        tryCompletingInformation(max, completed, values, handler);
                     }
                 };
                 final String name = getName();
@@ -120,6 +116,9 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
                         service.getCountryValue(territory, serviceHandler);
                     }
                 });
+
+                final SovereignStateInformation info = new SovereignStateInformation(values);
+                handler.handleString(info.toString());
             }
 
             @Override
@@ -128,12 +127,6 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
                 handler.handleString(string);
             }
         });
-    }
-    private void tryCompletingInformation(int max, AtomicInteger completed, ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values, CompletionHandler handler) {
-        if(completed.addAndGet(1) == max) {
-            final SovereignStateInformation info = new SovereignStateInformation(values);
-            handler.handleString(info.toString());
-        }
     }
 
     private HashSet<String> getNeighborsJSON() {

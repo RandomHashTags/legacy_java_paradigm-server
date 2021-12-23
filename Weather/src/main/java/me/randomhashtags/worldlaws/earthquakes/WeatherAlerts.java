@@ -13,7 +13,6 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public enum WeatherAlerts {
     INSTANCE;
@@ -122,8 +121,6 @@ public enum WeatherAlerts {
     private void getAllPreAlerts(String event, CompletionHandler handler) {
         final WeatherController[] controllers = getCountries();
         final HashSet<String> values = new HashSet<>();
-        final int max = controllers.length;
-        final AtomicInteger completed = new AtomicInteger(0);
         ParallelStream.stream(Arrays.asList(controllers), controllerObj -> {
             final WeatherController controller = (WeatherController) controllerObj;
             controller.getPreAlerts(event, new CompletionHandler() {
@@ -136,23 +133,22 @@ public enum WeatherAlerts {
                         final String value = "\"" + country + "\":{" + source + "," + alerts + "}";
                         values.add(value);
                     }
-                    if(completed.addAndGet(1) == max) {
-                        String value = null;
-                        if(!values.isEmpty()) {
-                            final StringBuilder builder = new StringBuilder("{");
-                            boolean isFirst = true;
-                            for(String valueString : values) {
-                                builder.append(isFirst ? "" : ",").append(valueString);
-                                isFirst = false;
-                            }
-                            builder.append("}");
-                            value = builder.toString();
-                        }
-                        handler.handleString(value);
-                    }
                 }
             });
         });
+
+        String value = null;
+        if(!values.isEmpty()) {
+            final StringBuilder builder = new StringBuilder("{");
+            boolean isFirst = true;
+            for(String valueString : values) {
+                builder.append(isFirst ? "" : ",").append(valueString);
+                isFirst = false;
+            }
+            builder.append("}");
+            value = builder.toString();
+        }
+        handler.handleString(value);
     }
 
     private void getAll(CompletionHandler handler) {
@@ -186,30 +182,27 @@ public enum WeatherAlerts {
         final long started = System.currentTimeMillis();
         final HashMap<String, Long> controllerLoadTimes = new HashMap<>();
         final WeatherController[] countries = getCountries();
-        final int max = countries.length;
-        final AtomicInteger completed = new AtomicInteger(0);
         final CompletionHandler completionHandler = new CompletionHandler() {
             @Override
             public void handleStringValue(String key, String value) {
                 controllerLoadTimes.put(key, System.currentTimeMillis()-started);
-                if(completed.addAndGet(1) == max) {
-                    updateJSON();
-                    final StringBuilder loadTimes = new StringBuilder();
-                    boolean isFirst = true;
-                    for(Map.Entry<String, Long> map : controllerLoadTimes.entrySet()) {
-                        final String simpleName = map.getKey();
-                        final long time = map.getValue();
-                        loadTimes.append(isFirst ? "" : ",").append(simpleName).append(" took ").append(time).append("ms");
-                        isFirst = false;
-                    }
-                    WLLogger.logInfo("WeatherAlerts - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + (System.currentTimeMillis()-started) + "ms total, " + loadTimes.toString() + ")");
-                    if(handler != null) {
-                        handler.handleString(allAlertsJSON);
-                    }
-                }
             }
         };
         ParallelStream.stream(Arrays.asList(countries), weather -> refreshCountry((WeatherController) weather, completionHandler));
+
+        updateJSON();
+        final StringBuilder loadTimes = new StringBuilder();
+        boolean isFirst = true;
+        for(Map.Entry<String, Long> map : controllerLoadTimes.entrySet()) {
+            final String simpleName = map.getKey();
+            final long time = map.getValue();
+            loadTimes.append(isFirst ? "" : ",").append(simpleName).append(" took ").append(time).append("ms");
+            isFirst = false;
+        }
+        WLLogger.logInfo("WeatherAlerts - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + (System.currentTimeMillis()-started) + "ms total, " + loadTimes.toString() + ")");
+        if(handler != null) {
+            handler.handleString(allAlertsJSON);
+        }
     }
     private void updateJSON() {
         final StringBuilder builder = new StringBuilder("{");

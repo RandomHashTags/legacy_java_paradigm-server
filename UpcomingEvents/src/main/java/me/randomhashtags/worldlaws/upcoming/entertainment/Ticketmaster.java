@@ -70,30 +70,29 @@ public enum Ticketmaster implements RestAPI {
                         final JSONArray embeddedEvents = json.getJSONObject("_embedded").getJSONArray("events");
                         ParallelStream.stream(embeddedEvents.spliterator(), objectJSON -> {
                             final JSONObject eventJSON = (JSONObject) objectJSON;
-                            if(!eventJSON.getBoolean("test")) {
-                                final String name = eventJSON.getString("name");
+                            if(!eventJSON.getBoolean("test") && eventJSON.has("priceRanges") && eventJSON.has("ticketLimit") && eventJSON.has("seatmap")) {
                                 final JSONObject dateStartJSON = eventJSON.getJSONObject("dates").getJSONObject("start");
                                 if(dateStartJSON.has("dateTime")) {
+                                    final JSONObject priceRange = getPriceRangeJSONFrom(eventJSON.getJSONArray("priceRanges"));
+                                    final JSONObject ticketLimit = eventJSON.getJSONObject("ticketLimit");
+                                    final String seatMapURL = eventJSON.getJSONObject("seatmap").getString("staticUrl");
+                                    final JSONObject eventEmbeddedJSON = eventJSON.getJSONObject("_embedded");
+                                    final JSONArray venuesArray = eventEmbeddedJSON.getJSONArray("venues");
+
                                     final String[] dateTimeValues = dateStartJSON.getString("dateTime").split("T"), dateValues = dateTimeValues[0].split("-"), timeValues = dateTimeValues[1].replace("Z", "").split(":");
                                     final int year = Integer.parseInt(dateValues[0]), month = Integer.parseInt(dateValues[1]), day = Integer.parseInt(dateValues[2]);
                                     final LocalDate date = LocalDate.of(year, month, day);
                                     final EventDate eventDate = new EventDate(date);
+
+                                    final String name = eventJSON.getString("name");
                                     final String identifier = getEventDateIdentifier(eventDate.getDateString(), name);
+
                                     final String eventURL = eventJSON.getString("url"), imageURL = getImageURLFrom(eventJSON.getJSONArray("images"));
-                                    if(eventJSON.has("priceRanges") && eventJSON.has("ticketLimit") && eventJSON.has("seatmap")) {
-                                        final JSONObject priceRange = getPriceRangeJSONFrom(eventJSON.getJSONArray("priceRanges"));
-                                        final JSONObject ticketLimit = eventJSON.getJSONObject("ticketLimit");
-                                        final String seatMapURL = eventJSON.getJSONObject("seatmap").getString("staticUrl");
-
-                                        final JSONObject eventEmbeddedJSON = eventJSON.getJSONObject("_embedded");
-                                        final JSONArray venuesArray = eventEmbeddedJSON.getJSONArray("venues");
-
-                                        final EventSources sources = new EventSources(new EventSource("Ticketmaster: " + name, eventURL));
-                                        final HashSet<TicketmasterVenue> venues = getVenuesFrom(venuesArray);
-                                        final TicketmasterMusicEvent event = new TicketmasterMusicEvent(name, null, imageURL, ticketLimit, priceRange, seatMapURL, venues, sources);
-                                        putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(eventType, identifier, null));
-                                        putUpcomingEvent(identifier, event.toString());
-                                    }
+                                    final EventSources sources = new EventSources(new EventSource("Ticketmaster: " + name, eventURL));
+                                    final HashSet<TicketmasterVenue> venues = getVenuesFrom(venuesArray);
+                                    final TicketmasterMusicEvent event = new TicketmasterMusicEvent(name, null, imageURL, ticketLimit, priceRange, seatMapURL, venues, sources);
+                                    putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(eventType, identifier, null));
+                                    putUpcomingEvent(identifier, event.toString());
                                 }
                             }
                         });
@@ -108,11 +107,13 @@ public enum Ticketmaster implements RestAPI {
             int maxWidth = -1;
             for(Object obj : imagesArray) {
                 final JSONObject imageJSON = (JSONObject) obj;
-                if(imageJSON.getString("ratio").equals("16_9")) {
-                    final int width = imageJSON.getInt("width");
-                    if(maxWidth == -1 || width > maxWidth) {
-                        maxWidth = width;
-                        imageURL = imageJSON.getString("url");
+                if(imageJSON.has("ratio")) {
+                    if(imageJSON.getString("ratio").equals("16_9")) {
+                        final int width = imageJSON.getInt("width");
+                        if(maxWidth == -1 || width > maxWidth) {
+                            maxWidth = width;
+                            imageURL = imageJSON.getString("url");
+                        }
                     }
                 }
             }
@@ -125,7 +126,7 @@ public enum Ticketmaster implements RestAPI {
         }
         private HashSet<TicketmasterVenue> getVenuesFrom(JSONArray array) {
             final HashSet<TicketmasterVenue> venues = new HashSet<>();
-            for(Object obj : array) {
+            ParallelStream.stream(array.spliterator(), obj -> {
                 final JSONObject json = (JSONObject) obj;
                 if(!json.getBoolean("test")) {
                     final String name = json.getString("name");
@@ -164,7 +165,7 @@ public enum Ticketmaster implements RestAPI {
                     final TicketmasterVenue venue = new TicketmasterVenue(name, imageURL, location, countryCode, subdivisionName, cityName, generalRule, childRule, parkingDetail, accessibleSeatingDetail);
                     venues.add(venue);
                 }
-            }
+            });
             return venues;
         }
     }

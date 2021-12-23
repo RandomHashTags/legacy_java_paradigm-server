@@ -10,7 +10,6 @@ import org.json.JSONObject;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public enum NASA_EONET implements WLService {
     // https://eonet.sci.gsfc.nasa.gov/docs/v3#eventsAPI
@@ -52,8 +51,6 @@ public enum NASA_EONET implements WLService {
             public void handleJSONObject(JSONObject json) {
                 if(json != null) {
                     final JSONArray eventsArray = json.getJSONArray("events");
-                    final int max = eventsArray.length();
-                    final AtomicInteger completed = new AtomicInteger(0);
                     ParallelStream.stream(eventsArray.spliterator(), obj -> {
                         final JSONObject eventJSON = (JSONObject) obj;
                         String place = eventJSON.getString("title");
@@ -136,32 +133,30 @@ public enum NASA_EONET implements WLService {
                             final NaturalEvent naturalEvent = new NaturalEvent(id, place, country, subdivision, location, sources);
                             homeValues.get(category).add(naturalEvent.toString());
                         }
-
-                        if(completed.addAndGet(1) == max) {
-                            String string = null;
-                            if(!homeValues.isEmpty()) {
-                                final StringBuilder builder = new StringBuilder("{");
-                                boolean isFirstCategory = true;
-                                for(Map.Entry<String, HashSet<String>> map : homeValues.entrySet()) {
-                                    builder.append(isFirstCategory ? "" : ",").append("\"").append(map.getKey()).append("\":{");
-                                    boolean isFirstValue = true;
-                                    for(String value : map.getValue()) {
-                                        builder.append(isFirstValue ? "" : ",").append(value);
-                                        isFirstValue = false;
-                                    }
-                                    isFirstCategory = false;
-                                    builder.append("}");
-                                }
-                                builder.append("}");
-                                string = builder.toString();
-                            }
-                            cache.put(version, string);
-                            WLLogger.logInfo("NASA_EONET - loaded " + homeValues.size() + " events (took " + (System.currentTimeMillis()-started) + "ms)");
-                            if(handler != null) {
-                                handler.handleString(string);
-                            }
-                        }
                     });
+
+                    String string = null;
+                    if(!homeValues.isEmpty()) {
+                        final StringBuilder builder = new StringBuilder("{");
+                        boolean isFirstCategory = true;
+                        for(Map.Entry<String, HashSet<String>> map : homeValues.entrySet()) {
+                            builder.append(isFirstCategory ? "" : ",").append("\"").append(map.getKey()).append("\":{");
+                            boolean isFirstValue = true;
+                            for(String value : map.getValue()) {
+                                builder.append(isFirstValue ? "" : ",").append(value);
+                                isFirstValue = false;
+                            }
+                            isFirstCategory = false;
+                            builder.append("}");
+                        }
+                        builder.append("}");
+                        string = builder.toString();
+                    }
+                    cache.put(version, string);
+                    WLLogger.logInfo("NASA_EONET - loaded " + homeValues.size() + " events (took " + (System.currentTimeMillis()-started) + "ms)");
+                    if(handler != null) {
+                        handler.handleString(string);
+                    }
                 } else if(handler != null) {
                     handler.handleString(null);
                 }

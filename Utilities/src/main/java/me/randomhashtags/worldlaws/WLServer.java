@@ -6,7 +6,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public interface WLServer extends DataValues, Jsoupable, Jsonable {
     ConcurrentHashMap<TargetServer, HashMap<APIVersion, String>> CACHED_HOME_RESPONSES = new ConcurrentHashMap<>();
@@ -140,9 +139,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             CACHED_HOME_RESPONSES.get(server).put(version, null);
             handler.handleString(null);
         } else {
-            final int max = requests.length;
             final HashSet<String> values = new HashSet<>();
-            final AtomicInteger completed = new AtomicInteger(0);
             ParallelStream.stream(Arrays.asList(requests), requestObj -> {
                 final String request = (String) requestObj;
                 getServerResponse(version, request, new CompletionHandler() {
@@ -152,24 +149,23 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                             final String target = "\"" + request + "\":" + string;
                             values.add(target);
                         }
-                        if(completed.addAndGet(1) == max) {
-                            String value = null;
-                            if(!values.isEmpty()) {
-                                final StringBuilder builder = new StringBuilder("{");
-                                boolean isFirst = true;
-                                for(String stringValue : values) {
-                                    builder.append(isFirst ? "" : ",").append(stringValue);
-                                    isFirst = false;
-                                }
-                                builder.append("}");
-                                value = builder.toString();
-                            }
-                            CACHED_HOME_RESPONSES.get(server).put(version, value);
-                            handler.handleString(value);
-                        }
                     }
                 });
             });
+
+            String value = null;
+            if(!values.isEmpty()) {
+                final StringBuilder builder = new StringBuilder("{");
+                boolean isFirst = true;
+                for(String stringValue : values) {
+                    builder.append(isFirst ? "" : ",").append(stringValue);
+                    isFirst = false;
+                }
+                builder.append("}");
+                value = builder.toString();
+            }
+            CACHED_HOME_RESPONSES.get(server).put(version, value);
+            handler.handleString(value);
         }
     }
 }

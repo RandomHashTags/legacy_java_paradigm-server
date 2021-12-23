@@ -1,16 +1,17 @@
 package me.randomhashtags.worldlaws.recent;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.recent.software.videogame.NoMansSky;
 import me.randomhashtags.worldlaws.recent.software.videogame.VideoGameUpdate;
 import me.randomhashtags.worldlaws.recent.software.videogame.VideoGameUpdateController;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
+import org.json.JSONObject;
 
 import java.time.LocalDate;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public enum VideoGameUpdates implements RecentEventController {
     INSTANCE;
@@ -32,8 +33,6 @@ public enum VideoGameUpdates implements RecentEventController {
     @Override
     public void refresh(LocalDate startingDate, CompletionHandler handler) {
         final VideoGameUpdateController[] controllers = getSupportedVideoGames();
-        final int max = controllers.length;
-        final AtomicInteger completed = new AtomicInteger(0);
         final ConcurrentHashMap<String, HashSet<String>> values = new ConcurrentHashMap<>();
         ParallelStream.stream(Arrays.asList(controllers), controllerObj -> {
             final VideoGameUpdateController controller = (VideoGameUpdateController) controllerObj;
@@ -46,24 +45,19 @@ public enum VideoGameUpdates implements RecentEventController {
                         values.putIfAbsent(dateString, new HashSet<>());
                         values.get(dateString).add("\"" + controller.getName() + "\":" + update.toString());
                     }
-                    if(completed.addAndGet(1) == max) {
-                        handler.handleConcurrentHashMapHashSetString(values);
-                    }
                 }
             });
         });
+        handler.handleConcurrentHashMapHashSetString(values);
     }
 
     public String getAllVideoGames() {
         if(allVideoGames == null) {
-            final StringBuilder builder = new StringBuilder("{");
-            boolean isFirst = true;
+            final JSONObject json = new JSONObject();
             for(VideoGameUpdateController controller : getSupportedVideoGames()) {
-                builder.append(isFirst ? "" : ",").append(controller.toVideoGameJSON());
-                isFirst = false;
+                json.put(LocalServer.fixEscapeValues(controller.getName()), controller.getDetailsJSONObject());
             }
-            builder.append("}");
-            allVideoGames = builder.toString();
+            allVideoGames = json.toString();
         }
         return allVideoGames;
     }

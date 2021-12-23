@@ -51,18 +51,19 @@ import java.util.HashSet;
 public enum WLSubdivisions {
     ;
 
-    private static HashSet<WLCountry> SUPPORTED_COUNTRIES;
+    private static final HashSet<WLCountry> SUPPORTED_COUNTRIES = loadSupportedCountries();
 
     public static HashSet<WLCountry> getSupportedCountries() {
-        if(SUPPORTED_COUNTRIES == null) {
-            SUPPORTED_COUNTRIES = new HashSet<>();
-            for(WLCountry country : WLCountry.values()) {
-                if(get(country) != null) {
-                    SUPPORTED_COUNTRIES.add(country);
-                }
+        return SUPPORTED_COUNTRIES;
+    }
+    private static HashSet<WLCountry> loadSupportedCountries() {
+        final HashSet<WLCountry> countries = new HashSet<>();
+        for(WLCountry country : WLCountry.values()) {
+            if(get(country) != null) {
+                countries.add(country);
             }
         }
-        return SUPPORTED_COUNTRIES;
+        return countries;
     }
 
     public static SovereignStateSubdivision valueOfString(String string) {

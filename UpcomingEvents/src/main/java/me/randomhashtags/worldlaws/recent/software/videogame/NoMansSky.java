@@ -17,7 +17,7 @@ public enum NoMansSky implements VideoGameUpdateController {
     }
 
     @Override
-    public String getCovertArtURL() {
+    public String getCoverArtURL() {
         return "https://nmswp.azureedge.net/wp-content/uploads/2021/09/nms-frontiers-book-cover-opt.png";
     }
 

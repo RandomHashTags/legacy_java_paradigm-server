@@ -17,7 +17,6 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public final class Movies extends UpcomingEventController implements IMDbService {
 
@@ -247,9 +246,7 @@ public final class Movies extends UpcomingEventController implements IMDbService
             add("ratings");
             add("youtubeVideoIDs");
         }};
-        final int max = set.size();
         final HashMap<String, Object> values = new HashMap<>();
-        final AtomicInteger completed = new AtomicInteger();
         ParallelStream.stream(set, requestObj -> {
             final String request = (String) requestObj;
             final CompletionHandler completionHandler = new CompletionHandler() {
@@ -269,9 +266,6 @@ public final class Movies extends UpcomingEventController implements IMDbService
                 @Override
                 public void handleObject(Object object) {
                     values.put(request, object);
-                    if(completed.addAndGet(1) == max) {
-                        handler.handleObject(values);
-                    }
                 }
             };
             switch (request) {
@@ -288,13 +282,12 @@ public final class Movies extends UpcomingEventController implements IMDbService
                     break;
             }
         });
+        handler.handleObject(values);
     }
 
     private void getRatings(String movieTitle, CompletionHandler handler) {
         final MovieRatingType[] ratings = MovieRatingType.values();
-        final int max = ratings.length;
         final HashMap<String, String> values = new HashMap<>();
-        final AtomicInteger completion = new AtomicInteger(0);
         ParallelStream.stream(Arrays.asList(ratings), ratingObj -> {
             final MovieRatingType rating = (MovieRatingType) ratingObj;
             final String ratingName = rating.getName();
@@ -307,26 +300,25 @@ public final class Movies extends UpcomingEventController implements IMDbService
                             if(string != null) {
                                 values.put(ratingName, string);
                             }
-                            if(completion.addAndGet(1) == max) {
-                                String value = null;
-                                if(!values.isEmpty()) {
-                                    final StringBuilder builder = new StringBuilder("{");
-                                    boolean isFirst = true;
-                                    for(Map.Entry<String, String> map : values.entrySet()) {
-                                        final String targetRatingName = map.getKey();
-                                        builder.append(isFirst ? "" : ",").append("\"").append(targetRatingName).append("\":").append(map.getValue());
-                                        isFirst = false;
-                                    }
-                                    builder.append("}");
-                                    value = builder.toString();
-                                }
-                                handler.handleString(value);
-                            }
                         }
                     });
                 }
             });
         });
+
+        String value = null;
+        if(!values.isEmpty()) {
+            final StringBuilder builder = new StringBuilder("{");
+            boolean isFirst = true;
+            for(Map.Entry<String, String> map : values.entrySet()) {
+                final String targetRatingName = map.getKey();
+                builder.append(isFirst ? "" : ",").append("\"").append(targetRatingName).append("\":").append(map.getValue());
+                isFirst = false;
+            }
+            builder.append("}");
+            value = builder.toString();
+        }
+        handler.handleString(value);
     }
 
 

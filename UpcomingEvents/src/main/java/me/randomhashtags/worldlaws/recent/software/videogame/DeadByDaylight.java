@@ -13,7 +13,7 @@ public enum DeadByDaylight implements VideoGameUpdateController {
     }
 
     @Override
-    public String getCovertArtURL() {
+    public String getCoverArtURL() {
         return "https://upload.wikimedia.org/wikipedia/en/b/b7/Dead_by_Daylight_Steam_header.jpg";
     }
 

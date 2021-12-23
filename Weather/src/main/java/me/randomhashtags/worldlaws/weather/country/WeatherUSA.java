@@ -12,7 +12,6 @@ import org.json.JSONObject;
 import java.io.File;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.StreamSupport;
 
 public enum WeatherUSA implements WeatherController {
@@ -72,7 +71,9 @@ public enum WeatherUSA implements WeatherController {
                     final JSONArray array = json.getJSONArray("features");
                     final int max = array.length();
                     if(max == 0) {
-                        handler.handleString(null);
+                        if(handler != null) {
+                            handler.handleString(null);
+                        }
                     } else {
                         final WLCountry unitedStates = WLCountry.UNITED_STATES;
                         ParallelStream.stream(array.spliterator(), obj -> {
@@ -181,30 +182,27 @@ public enum WeatherUSA implements WeatherController {
             final EventSource source = getSource();
             final WeatherPreAlert preAlert = preAlertIDs.get(id);
             final HashSet<String> zones = preAlert.getZoneIDs(), values = new HashSet<>();
-            final int max = zones.size();
-            final AtomicInteger completed = new AtomicInteger(0);
             final CompletionHandler completionHandler = new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
                     values.add(string);
-                    if(completed.addAndGet(1) == max) {
-                        final StringBuilder builder = new StringBuilder("[");
-                        boolean isFirst = true;
-                        for(String value : values) {
-                            builder.append(isFirst ? "" : ",").append(value);
-                            isFirst = false;
-                        }
-                        builder.append("]");
-                        final String zonesJSON = builder.toString();
-                        final WeatherAlert alert = new WeatherAlert(preAlert, zonesJSON, source);
-                        final String value = alert.toString();
-                        alertIDs.put(id, value);
-                        preAlertIDs.remove(id);
-                        handler.handleString(value);
-                    }
                 }
             };
             ParallelStream.stream(zones, zoneID -> getZone((String) zoneID, completionHandler));
+
+            final StringBuilder builder = new StringBuilder("[");
+            boolean isFirst = true;
+            for(String value : values) {
+                builder.append(isFirst ? "" : ",").append(value);
+                isFirst = false;
+            }
+            builder.append("]");
+            final String zonesJSON = builder.toString();
+            final WeatherAlert alert = new WeatherAlert(preAlert, zonesJSON, source);
+            final String value = alert.toString();
+            alertIDs.put(id, value);
+            preAlertIDs.remove(id);
+            handler.handleString(value);
         } else {
             handler.handleString(null);
         }
@@ -212,28 +210,25 @@ public enum WeatherUSA implements WeatherController {
 
     @Override
     public void getZones(String[] zones, CompletionHandler handler) {
-        final int max = zones.length;
         final HashSet<String> zoneJSONs = new HashSet<>();
-        final AtomicInteger completed = new AtomicInteger(0);
         final CompletionHandler completionHandler = new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 if(string != null) {
                     zoneJSONs.add(string);
                 }
-                if(completed.addAndGet(1) == max) {
-                    final StringBuilder builder = new StringBuilder("[");
-                    boolean isFirst = true;
-                    for(String zoneJSON : zoneJSONs) {
-                        builder.append(isFirst ? "" : ",").append(zoneJSON);
-                        isFirst = false;
-                    }
-                    builder.append("]");
-                    handler.handleString(builder.toString());
-                }
             }
         };
         ParallelStream.stream(Arrays.asList(zones), zoneID -> getZone((String) zoneID, completionHandler));
+
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        for(String zoneJSON : zoneJSONs) {
+            builder.append(isFirst ? "" : ",").append(zoneJSON);
+            isFirst = false;
+        }
+        builder.append("]");
+        handler.handleString(builder.toString());
     }
     @Override
     public void getZone(String zoneID, CompletionHandler handler) {

@@ -18,7 +18,6 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public final class CustomCountry implements SovereignState {
 
@@ -155,8 +154,6 @@ public final class CustomCountry implements SovereignState {
     private void loadNew(WLCountry country, HashSet<CountryService> services, ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values, CompletionHandler handler) {
         final SovereignStateInformationType resourcesInformationType = SovereignStateInformationType.RESOURCES;
         final String backendID = getBackendID();
-        final AtomicInteger completed = new AtomicInteger(0);
-        final int max = services.size();
         final CompletionHandler serviceHandler = new CompletionHandler() {
             @Override
             public void handleServiceResponse(CountryService service, String string) {
@@ -173,7 +170,6 @@ public final class CustomCountry implements SovereignState {
                     }
                     values.get(type).add(string);
                 }
-                tryCompletingInformation(max, completed, values, handler);
             }
         };
 
@@ -204,7 +200,6 @@ public final class CustomCountry implements SovereignState {
                                     values.get(resourcesInformationType).add(resource.toString());
                                 }
                             }
-                            tryCompletingInformation(max, completed, values, handler);
                         }
                     });
                     break;
@@ -228,13 +223,9 @@ public final class CustomCountry implements SovereignState {
                 service.getCountryValue(countryIdentifier, serviceHandler);
             }
         });
-    }
 
-    private void tryCompletingInformation(int max, AtomicInteger completed, ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values, CompletionHandler handler) {
-        if(completed.addAndGet(1) == max) {
-            final SovereignStateInformation info = new SovereignStateInformation(values);
-            handler.handleString(info.toString());
-        }
+        final SovereignStateInformation info = new SovereignStateInformation(values);
+        handler.handleString(info.toString());
     }
 
     public WLCountry getWLCountry() {

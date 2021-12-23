@@ -7,7 +7,6 @@ import org.json.JSONObject;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public enum TargetServer implements RestAPI, DataValues {
     COUNTRIES,
@@ -190,24 +189,12 @@ public enum TargetServer implements RestAPI, DataValues {
 
     private void getCombinedResponse(APIVersion version, String identifier, RequestMethod method, String request, CompletionHandler handler) {
         final String[] values = request.split("&&");
-        final int max = values.length;
-        final AtomicInteger completed = new AtomicInteger(0);
         final ConcurrentHashMap<String, String> responses = new ConcurrentHashMap<>();
         final CompletionHandler completionHandler = new CompletionHandler() {
             @Override
             public void handleStringValue(String key, String value) {
                 if(value != null) {
                     responses.put(key, value);
-                }
-                if(completed.addAndGet(1) == max) {
-                    final StringBuilder builder = new StringBuilder("{");
-                    boolean isFirst = true;
-                    for(Map.Entry<String, String> map : responses.entrySet()) {
-                        builder.append(isFirst ? "" : ",").append("\"").append(map.getKey()).append("\"").append(":").append(map.getValue());
-                        isFirst = false;
-                    }
-                    builder.append("}");
-                    handler.handleString(builder.toString());
                 }
             }
         };
@@ -228,6 +215,15 @@ public enum TargetServer implements RestAPI, DataValues {
                 completionHandler.handleStringValue(value, null);
             }
         });
+
+        final StringBuilder builder = new StringBuilder("{");
+        boolean isFirst = true;
+        for(Map.Entry<String, String> map : responses.entrySet()) {
+            builder.append(isFirst ? "" : ",").append("\"").append(map.getKey()).append("\"").append(":").append(map.getValue());
+            isFirst = false;
+        }
+        builder.append("}");
+        handler.handleString(builder.toString());
     }
     private void handleProxyResponse(APIVersion version, RequestMethod method, String request, HashMap<String, String> headers, CompletionHandler handler) {
         final String url = getIpAddress() + "/" + version.name() + "/" + request;
@@ -339,9 +335,7 @@ public enum TargetServer implements RestAPI, DataValues {
             requests.put(server.name().toLowerCase(), server.getIpAddress() + "/" + versionName + "/home");
         }
 
-        final int max = requests.size();
         final ConcurrentHashMap<String, JSONObject> values = new ConcurrentHashMap<>();
-        final AtomicInteger completed = new AtomicInteger(0);
         final CompletionHandler completionHandler = new CompletionHandler() {
             @Override
             public void handleStringValue(String key, String value) {
@@ -352,22 +346,6 @@ public enum TargetServer implements RestAPI, DataValues {
                     } catch (Exception e) {
                         WLLogger.logInfo("TargetServer - ERROR - updateHomeResponse - isUpdate=" + isUpdate + ";key=" + key + ";value=" + value);
                         WLUtilities.saveException(e);
-                    }
-                }
-                if(completed.addAndGet(1) == max) {
-                    final JSONObject json = new JSONObject();
-                    json.put("request_epoch", started);
-                    for(Map.Entry<String, JSONObject> map : values.entrySet()) {
-                        final String serverName = map.getKey();
-                        final JSONObject keyValue = map.getValue();
-                        json.put(serverName, keyValue);
-                    }
-                    HOME_JSON.put(version, json);
-                    HOME_JSON_QUERIES.remove(version);
-                    WLLogger.logInfo("TargetServer - " + (isUpdate ? "auto-" : "") + "updated " + versionName + " home responses (took " + (System.currentTimeMillis()-started) + "ms)");
-                    if(handler != null) {
-                        final String string = json.toString();
-                        handler.handleString(string);
                     }
                 }
             }
@@ -395,6 +373,20 @@ public enum TargetServer implements RestAPI, DataValues {
                     break;
             }
         });
+        final JSONObject json = new JSONObject();
+        json.put("request_epoch", started);
+        for(Map.Entry<String, JSONObject> map : values.entrySet()) {
+            final String serverName = map.getKey();
+            final JSONObject keyValue = map.getValue();
+            json.put(serverName, keyValue);
+        }
+        HOME_JSON.put(version, json);
+        HOME_JSON_QUERIES.remove(version);
+        WLLogger.logInfo("TargetServer - " + (isUpdate ? "auto-" : "") + "updated " + versionName + " home responses (took " + (System.currentTimeMillis()-started) + "ms)");
+        if(handler != null) {
+            final String string = json.toString();
+            handler.handleString(string);
+        }
     }
 
     public static TargetServer valueOfBackendID(String backendID) {

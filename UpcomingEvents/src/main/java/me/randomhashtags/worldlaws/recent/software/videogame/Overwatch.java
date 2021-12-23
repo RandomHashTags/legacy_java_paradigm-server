@@ -21,7 +21,7 @@ public enum Overwatch implements VideoGameUpdateController {
     }
 
     @Override
-    public String getCovertArtURL() {
+    public String getCoverArtURL() {
         return "https://upload.wikimedia.org/wikipedia/en/5/51/Overwatch_cover_art.jpg";
     }
 

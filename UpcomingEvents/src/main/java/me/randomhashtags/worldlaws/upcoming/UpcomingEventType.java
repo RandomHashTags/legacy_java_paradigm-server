@@ -85,6 +85,7 @@ public enum UpcomingEventType {
 
                 case SPORT_CHAMPIONSHIPS: return "Championship";
                 case SPORT_MLB: return "MLB Event";
+                case SPORT_NFL: return "NFL Event";
                 case SPORT_UFC: return "UFC Event";
 
                 case TICKETMASTER_MUSIC_EVENT: return "Music Event";
@@ -103,6 +104,7 @@ public enum UpcomingEventType {
 
                 case SPORT_CHAMPIONSHIPS: return "Championships";
                 case SPORT_MLB: return "MLB Schedule";
+                case SPORT_NFL: return "NFL Schedule";
                 case SPORT_UFC: return "UFC Schedule";
 
                 case TICKETMASTER_MUSIC_EVENT: return "Music Events";
@@ -124,6 +126,7 @@ public enum UpcomingEventType {
 
                 case SPORT_CHAMPIONSHIPS: return "%title% begins today!";
                 case SPORT_MLB: return "%team% has a game today!";
+                case SPORT_NFL: return "%team% has a game today!";
                 case SPORT_UFC: return "%title% is tonight!";
 
                 case TICKETMASTER_MUSIC_EVENT: return "\"%title%\" happens tonight!";
@@ -142,6 +145,7 @@ public enum UpcomingEventType {
 
                 case SPORT_CHAMPIONSHIPS: return "%title% begins today!";
                 case SPORT_MLB: return "%team% have games today!";
+                case SPORT_NFL: return "%team% have games today!";
                 case SPORT_UFC: return "%title% are tonight!";
 
                 case TICKETMASTER_MUSIC_EVENT: return "\"%title%\" happens tonight!";

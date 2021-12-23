@@ -16,7 +16,6 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public enum CountryAvailabilities implements CountryAvailabilityService {
     INSTANCE,
@@ -99,9 +98,6 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
             @Override
             public void load(CompletionHandler handler) {
                 final ConcurrentHashMap<Boolean, ConcurrentHashMap<String, HashSet<String>>> values = new ConcurrentHashMap<>();
-                final int max = SERVICES.size();
-                final AtomicInteger completed = new AtomicInteger(0);
-
                 final CompletionHandler completionHandler = new CompletionHandler() {
                     @Override
                     public void handleObject(Object object) {
@@ -111,33 +107,31 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                         values.putIfAbsent(availabilityIsAvailable, new ConcurrentHashMap<>());
                         values.get(availabilityIsAvailable).putIfAbsent(primaryCategory, new HashSet<>());
                         values.get(availabilityIsAvailable).get(primaryCategory).add(availability.toString());
-
-                        if(completed.addAndGet(1) == max) {
-                            final StringBuilder builder = new StringBuilder("{");
-                            boolean isFirstBoolean = true;
-                            for(Map.Entry<Boolean, ConcurrentHashMap<String, HashSet<String>>> map : values.entrySet()) {
-                                final boolean isAvailable = map.getKey();
-                                builder.append(isFirstBoolean ? "" : ",").append("\"").append(isAvailable).append("\":{");
-                                boolean isFirstCategory = true;
-                                for(Map.Entry<String, HashSet<String>> category : map.getValue().entrySet()) {
-                                    builder.append(isFirstCategory ? "" : ",").append("\"").append(category.getKey()).append("\":{");
-                                    boolean isFirst = true;
-                                    for(String value : category.getValue()) {
-                                        builder.append(isFirst ? "" : ",").append(value);
-                                        isFirst = false;
-                                    }
-                                    builder.append("}");
-                                    isFirstCategory = false;
-                                }
-                                builder.append("}");
-                                isFirstBoolean = false;
-                            }
-                            builder.append("}");
-                            handler.handleString(builder.toString());
-                        }
                     }
                 };
                 ParallelStream.stream(SERVICES, service -> ((CountryAvailabilityService) service).getCountryValue(countryBackendID, completionHandler));
+
+                final StringBuilder builder = new StringBuilder("{");
+                boolean isFirstBoolean = true;
+                for(Map.Entry<Boolean, ConcurrentHashMap<String, HashSet<String>>> map : values.entrySet()) {
+                    final boolean isAvailable = map.getKey();
+                    builder.append(isFirstBoolean ? "" : ",").append("\"").append(isAvailable).append("\":{");
+                    boolean isFirstCategory = true;
+                    for(Map.Entry<String, HashSet<String>> category : map.getValue().entrySet()) {
+                        builder.append(isFirstCategory ? "" : ",").append("\"").append(category.getKey()).append("\":{");
+                        boolean isFirst = true;
+                        for(String value : category.getValue()) {
+                            builder.append(isFirst ? "" : ",").append(value);
+                            isFirst = false;
+                        }
+                        builder.append("}");
+                        isFirstCategory = false;
+                    }
+                    builder.append("}");
+                    isFirstBoolean = false;
+                }
+                builder.append("}");
+                handler.handleString(builder.toString());
             }
 
             @Override

@@ -14,7 +14,6 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public enum RecentEvents {
     INSTANCE;
@@ -29,9 +28,7 @@ public enum RecentEvents {
     public void refresh(CompletionHandler handler) {
         final long started = System.currentTimeMillis();
         final LocalDate lastWeek = LocalDate.now().minusDays(7);
-        final int max = events.length;
         final ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> allValues = new ConcurrentHashMap<>();
-        final AtomicInteger completed = new AtomicInteger(0);
         ParallelStream.stream(Arrays.asList(events), eventObj -> {
             final RecentEventController event = (RecentEventController) eventObj;
             event.refresh(lastWeek, new CompletionHandler() {
@@ -50,10 +47,6 @@ public enum RecentEvents {
                             }
                         }
                     }
-
-                    if(completed.addAndGet(1) == max) {
-                        completeHandler(started, allValues, handler);
-                    }
                 }
 
                 @Override
@@ -64,12 +57,10 @@ public enum RecentEvents {
                         allValues.putIfAbsent(type, new ConcurrentHashMap<>());
                         allValues.get(type).putAll(hashmap);
                     }
-                    if(completed.addAndGet(1) == max) {
-                        completeHandler(started, allValues, handler);
-                    }
                 }
             });
         });
+        completeHandler(started, allValues, handler);
     }
     private void completeHandler(long started, ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> values, CompletionHandler handler) {
         String value = null;

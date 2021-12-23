@@ -3,12 +3,12 @@ package me.randomhashtags.worldlaws.service.finance.stockmarket;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.service.JSONDataValue;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.IntStream;
 
 // https://rapidapi.com/apidojo/api/yahoo-finance1/
@@ -113,7 +113,6 @@ public enum YahooFinance implements StockService {
         }
         query.put("symbols", symbolBuilder.toString());
 
-        final AtomicInteger completed = new AtomicInteger(0);
         final HashSet<Stock> stocks = new HashSet<>();
         requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-quotes", RequestMethod.GET, headers, query, new CompletionHandler() {
             @Override
@@ -121,7 +120,7 @@ public enum YahooFinance implements StockService {
                 final JSONObject quoteResponse = json.getJSONObject("quoteResponse");
                 final JSONArray results = quoteResponse.getJSONArray("result");
                 final int max = results.length();
-                for(Object obj : results) {
+                ParallelStream.stream(results.spliterator(), obj -> {
                     final JSONObject targetQuote = (JSONObject) obj;
                     final String symbol = targetQuote.getString("symbol");
                     final String shortName = targetQuote.getString("shortName");
@@ -150,20 +149,18 @@ public enum YahooFinance implements StockService {
 
                     final Stock symbolStock = new Stock(symbol, shortName, longName, regularMarket, postMarket);
                     stocks.add(symbolStock);
+                });
 
-                    if(completed.addAndGet(1) == max) {
-                        final StringBuilder builder = new StringBuilder("{");
-                        boolean isFirst = true;
-                        for(Stock stock : stocks) {
-                            builder.append(isFirst ? "" : ",").append(stock.toString());
-                            isFirst = false;
-                        }
-                        builder.append("}");
-                        final String string = builder.toString();
-                        WLLogger.logInfo("YahooFinance - loaded " + max + " quotes (took " + (System.currentTimeMillis()-started) + "ms)");
-                        handler.handleString(string);
-                    }
+                final StringBuilder builder = new StringBuilder("{");
+                boolean isFirst = true;
+                for(Stock stock : stocks) {
+                    builder.append(isFirst ? "" : ",").append(stock.toString());
+                    isFirst = false;
                 }
+                builder.append("}");
+                final String string = builder.toString();
+                WLLogger.logInfo("YahooFinance - loaded " + max + " quotes (took " + (System.currentTimeMillis()-started) + "ms)");
+                handler.handleString(string);
             }
         });
     }
@@ -211,18 +208,16 @@ public enum YahooFinance implements StockService {
                 final JSONArray closeArray = quotesJSON.getJSONArray("close");
                 final JSONArray timestampsArray = resultsJSON.getJSONArray("timestamp");
                 final int max = timestampsArray.length()-1;
-                final AtomicInteger completed = new AtomicInteger(0);
                 final JSONObject jsonObject = new JSONObject();
                 IntStream.range(0, max).parallel().forEach(index -> {
                     final long timestamp = timestampsArray.getLong(index);
                     final float price = (float) closeArray.getDouble(index);
                     jsonObject.put("" + timestamp, price);
-                    if(completed.addAndGet(1) == max) {
-                        jsonObject.put("request_epoch", started);
-                        WLLogger.logInfo("YahooFinance - " + (refresh ? "refreshed" : "loaded") + " chart for symbol \"" + symbol + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                        handler.handleJSONObject(jsonObject);
-                    }
                 });
+
+                jsonObject.put("request_epoch", started);
+                WLLogger.logInfo("YahooFinance - " + (refresh ? "refreshed" : "loaded") + " chart for symbol \"" + symbol + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                handler.handleJSONObject(jsonObject);
             }
         });
     }

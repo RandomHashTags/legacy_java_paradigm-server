@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.PreUpcomingEvent;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.MLBEvent;
@@ -15,7 +16,6 @@ import org.jsoup.select.Elements;
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.HashMap;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public final class MLB extends USAUpcomingEventController {
 
@@ -38,8 +38,8 @@ public final class MLB extends USAUpcomingEventController {
             if(max == 0) {
                 handler.handleString(null);
             } else {
-                final AtomicInteger completed = new AtomicInteger(0);
-                dates.parallelStream().forEach(dateElement -> {
+                ParallelStream.stream(dates, dateElementObj -> {
+                    final Element dateElement = (Element) dateElementObj;
                     final String previousElementString = dateElement.previousElementSibling().text();
                     final String[] values = previousElementString.split(" ");
                     final Month targetMonth = Month.valueOf(values[1].toUpperCase());
@@ -64,10 +64,8 @@ public final class MLB extends USAUpcomingEventController {
                         final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, url, targetTimeET, null, customValues);
                         putPreUpcomingEvent(id, preUpcomingEvent);
                     });
-                    if(completed.addAndGet(1) == max) {
-                        handler.handleString(null);
-                    }
                 });
+                handler.handleString(null);
             }
         } else {
             handler.handleString(null);
