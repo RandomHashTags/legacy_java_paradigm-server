@@ -13,7 +13,6 @@ public enum ParallelStream {
     ;
 
     private static final int MAXIMUM_PARALLEL_THREADS;
-
     static {
         MAXIMUM_PARALLEL_THREADS = Jsonable.getSettingsJSON().getJSONObject("performance").getInt("maximum_parallel_threads");
     }

@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.p;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsPakistan implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Administrative_units_of_Pakistan
     AZAD_JAMMU_AND_KASHMIR,
@@ -16,6 +17,28 @@ public enum SubdivisionsPakistan implements SovereignStateSubdivision { // https
     @Override
     public WLCountry getCountry() {
         return WLCountry.PAKISTAN;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PROVINCES;
+    }
+
+    @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case ISLAMABAD_CAPITAL_TERRITORY: return SubdivisionType.FEDERAL_TERRITORIES;
+            default: return null;
+        }
+    }
+
+    @Override
+    public String getRealName() {
+        switch (this) {
+            case AZAD_JAMMU_AND_KASHMIR: return "Azad Jammu and Kashmir";
+            case GILGIT_BALTISTAN: return "Gilgit-Baltistan";
+            default: return null;
+        }
     }
 
     @Override

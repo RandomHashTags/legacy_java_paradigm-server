@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.m;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsMadagascar implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Regions_of_Madagascar
     ALAOTRA_MANGORO,
@@ -32,6 +33,11 @@ public enum SubdivisionsMadagascar implements SovereignStateSubdivision { // htt
     @Override
     public WLCountry getCountry() {
         return WLCountry.MADAGASCAR;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.REGIONS;
     }
 
     @Override

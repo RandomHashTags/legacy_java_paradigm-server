@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.d;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsDominica implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Parishes_of_Dominica
     SAINT_ANDREW,
@@ -19,6 +20,11 @@ public enum SubdivisionsDominica implements SovereignStateSubdivision { // https
     @Override
     public WLCountry getCountry() {
         return WLCountry.DOMINICA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PARISHES;
     }
 
     @Override

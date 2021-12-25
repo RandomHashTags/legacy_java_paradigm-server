@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.n;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsNorway implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Counties_of_Norway
     AGDER,
@@ -20,6 +21,11 @@ public enum SubdivisionsNorway implements SovereignStateSubdivision { // https:/
     @Override
     public WLCountry getCountry() {
         return WLCountry.NORWAY;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.COUNTIES;
     }
 
     @Override

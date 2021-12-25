@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.j;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsJamaica implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Parishes_of_Jamaica
     HANOVER,
@@ -23,6 +24,11 @@ public enum SubdivisionsJamaica implements SovereignStateSubdivision { // https:
     @Override
     public WLCountry getCountry() {
         return WLCountry.JAMAICA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PARISHES;
     }
 
     @Override

@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.j;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsJapan implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Administrative_divisions_of_Japan
     AICHI,
@@ -56,6 +57,11 @@ public enum SubdivisionsJapan implements SovereignStateSubdivision { // https://
     @Override
     public WLCountry getCountry() {
         return WLCountry.JAPAN;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PREFECTURES;
     }
 
     @Override

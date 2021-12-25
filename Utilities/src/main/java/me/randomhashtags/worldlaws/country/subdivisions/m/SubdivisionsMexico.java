@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.m;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsMexico implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/List_of_states_of_Mexico
     AGUASCALIENTES,
@@ -41,6 +42,19 @@ public enum SubdivisionsMexico implements SovereignStateSubdivision { // https:/
     @Override
     public WLCountry getCountry() {
         return WLCountry.MEXICO;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.STATES;
+    }
+
+    @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case MEXICO_CITY: return SubdivisionType.FEDERAL_ENTITIES;
+            default: return null;
+        }
     }
 
     @Override

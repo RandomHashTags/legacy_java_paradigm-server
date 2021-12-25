@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.e;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsEcuador implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Provinces_of_Ecuador
     AZUAY,
@@ -33,6 +34,11 @@ public enum SubdivisionsEcuador implements SovereignStateSubdivision { // https:
     @Override
     public WLCountry getCountry() {
         return WLCountry.ECUADOR;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PROVINCES;
     }
 
     @Override

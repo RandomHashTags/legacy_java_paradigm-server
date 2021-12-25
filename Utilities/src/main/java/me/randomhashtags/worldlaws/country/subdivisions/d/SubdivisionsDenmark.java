@@ -2,8 +2,9 @@ package me.randomhashtags.worldlaws.country.subdivisions.d;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
-public enum SubdivisionsDenmark implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Region_of_Southern_Denmark
+public enum SubdivisionsDenmark implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Regions_of_Denmark
     HOVEDSTADEN,
     MIDTJYLLAND,
     NORDJYLLAND,
@@ -14,6 +15,11 @@ public enum SubdivisionsDenmark implements SovereignStateSubdivision { // https:
     @Override
     public WLCountry getCountry() {
         return WLCountry.DENMARK;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.REGIONS;
     }
 
     @Override

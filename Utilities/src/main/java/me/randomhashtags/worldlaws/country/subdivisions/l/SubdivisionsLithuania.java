@@ -1,36 +1,30 @@
-package me.randomhashtags.worldlaws.country.subdivisions.c;
+package me.randomhashtags.worldlaws.country.subdivisions.l;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
-public enum SubdivisionsCostaRica implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Provinces_of_Costa_Rica
-    ALAJUELA,
-    CARTAGO,
-    GUANACASTE,
-    HEREDIA,
-    LIMON,
-    PUNTARENAS,
-    SAN_JOSE,
+public enum SubdivisionsLithuania implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Counties_of_Lithuania
+    ALYTUS,
+    KAUNAS,
+    KLAIPEDA,
+    MARIJAMPOLE,
+    PANEVEZYS,
+    SIAULIAI,
+    TAURAGE,
+    TELSIAI,
+    UTENA,
+    VILNIUS,
     ;
 
     @Override
     public WLCountry getCountry() {
-        return WLCountry.COSTA_RICA;
+        return WLCountry.LITHUANIA;
     }
 
     @Override
     public SubdivisionType getDefaultType() {
-        return SubdivisionType.PROVINCES;
-    }
-
-    @Override
-    public String getRealName() {
-        switch (this) {
-            case LIMON: return "Limón";
-            case SAN_JOSE: return "San José";
-            default: return null;
-        }
+        return SubdivisionType.COUNTIES;
     }
 
     @Override

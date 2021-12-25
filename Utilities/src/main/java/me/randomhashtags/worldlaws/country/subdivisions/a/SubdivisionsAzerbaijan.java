@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.a;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsAzerbaijan implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Administrative_divisions_of_Azerbaijan
     ABSHERON,
@@ -84,6 +85,29 @@ public enum SubdivisionsAzerbaijan implements SovereignStateSubdivision { // htt
     @Override
     public WLCountry getCountry() {
         return WLCountry.AZERBAIJAN;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.DISTRICTS;
+    }
+
+    @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case BAKU:
+            case GANJA:
+            case KHANKENDI:
+            case LANKARAN:
+            case MINGACHEVIR:
+            case NAFTALAN:
+            case SHAKI_CITY:
+            case SHIRVAN:
+            case SUMQAYIT:
+            case YEVLAKH_CITY:;
+                return SubdivisionType.CITIES;
+            default: return null;
+        }
     }
 
     @Override

@@ -22,13 +22,18 @@ import me.randomhashtags.worldlaws.country.subdivisions.f.SubdivisionsFiji;
 import me.randomhashtags.worldlaws.country.subdivisions.f.SubdivisionsFrance;
 import me.randomhashtags.worldlaws.country.subdivisions.g.SubdivisionsGermany;
 import me.randomhashtags.worldlaws.country.subdivisions.g.SubdivisionsGreece;
+import me.randomhashtags.worldlaws.country.subdivisions.g.SubdivisionsGuadeloupe;
+import me.randomhashtags.worldlaws.country.subdivisions.g.SubdivisionsGuatemala;
 import me.randomhashtags.worldlaws.country.subdivisions.h.SubdivisionsHaiti;
+import me.randomhashtags.worldlaws.country.subdivisions.h.SubdivisionsHonduras;
+import me.randomhashtags.worldlaws.country.subdivisions.h.SubdivisionsHungary;
 import me.randomhashtags.worldlaws.country.subdivisions.i.*;
 import me.randomhashtags.worldlaws.country.subdivisions.j.SubdivisionsJamaica;
 import me.randomhashtags.worldlaws.country.subdivisions.j.SubdivisionsJapan;
 import me.randomhashtags.worldlaws.country.subdivisions.j.SubdivisionsJordan;
 import me.randomhashtags.worldlaws.country.subdivisions.k.SubdivisionsKazakhstan;
 import me.randomhashtags.worldlaws.country.subdivisions.l.SubdivisionsLibya;
+import me.randomhashtags.worldlaws.country.subdivisions.l.SubdivisionsLithuania;
 import me.randomhashtags.worldlaws.country.subdivisions.m.SubdivisionsMadagascar;
 import me.randomhashtags.worldlaws.country.subdivisions.m.SubdivisionsMalaysia;
 import me.randomhashtags.worldlaws.country.subdivisions.m.SubdivisionsMexico;
@@ -106,8 +111,12 @@ public enum WLSubdivisions {
 
             case GERMANY: return SubdivisionsGermany.values();
             case GREECE: return SubdivisionsGreece.values();
+            case GUADELOUPE: return SubdivisionsGuadeloupe.values();
+            case GUATEMALA: return SubdivisionsGuatemala.values();
 
             case HAITI: return SubdivisionsHaiti.values();
+            case HONDURAS: return SubdivisionsHonduras.values();
+            case HUNGARY: return SubdivisionsHungary.values();
 
             case INDIA: return SubdivisionsIndia.values();
             case INDONESIA: return SubdivisionsIndonesia.values();
@@ -122,6 +131,7 @@ public enum WLSubdivisions {
             case KAZAKHSTAN: return SubdivisionsKazakhstan.values();
 
             case LIBYA: return SubdivisionsLibya.values();
+            case LITHUANIA: return SubdivisionsLithuania.values();
 
             case MADAGASCAR: return SubdivisionsMadagascar.values();
             case MALAYSIA: return SubdivisionsMalaysia.values();

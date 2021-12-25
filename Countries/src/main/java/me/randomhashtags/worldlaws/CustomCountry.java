@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.*;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 import me.randomhashtags.worldlaws.history.CountryHistory;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailabilities;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankingService;
@@ -78,6 +79,9 @@ public final class CustomCountry implements SovereignState {
             final SovereignStateSubdivision[] subdivisions = wlcountry.getSubdivisions();
             if(subdivisions != null) {
                 final JSONObject json = new JSONObject();
+                final SubdivisionType defaultType = subdivisions[0].getDefaultType();
+                json.put("default_name_plural", defaultType.getPluralName());
+                json.put("default_name_singular", defaultType.getSingularName());
                 ParallelStream.stream(Arrays.asList(subdivisions), subdivisionObj -> {
                     final SovereignStateSubdivision subdivision = (SovereignStateSubdivision) subdivisionObj;
                     String name = subdivision.getRealName();

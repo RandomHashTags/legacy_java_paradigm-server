@@ -2,12 +2,14 @@ package me.randomhashtags.worldlaws.country.subdivisions.g;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsGermany implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/States_of_Germany
     BADEN_WURTTEMBERG,
     BAVARIA,
     BERLIN,
     BRANDENBURG,
+    BREMEN,
     HAMBURG,
     HESSE,
     LOWER_SAXONY,
@@ -15,8 +17,8 @@ public enum SubdivisionsGermany implements SovereignStateSubdivision { // https:
     NORTH_RHINE_WESTPHALIA,
     RHINELAND_PALATINATE,
     SAARLAND,
-    SAXONY_ANHALT,
     SAXONY,
+    SAXONY_ANHALT,
     SCHLESWIG_HOLSTEIN,
     THURINGIA,
     ;
@@ -24,6 +26,11 @@ public enum SubdivisionsGermany implements SovereignStateSubdivision { // https:
     @Override
     public WLCountry getCountry() {
         return WLCountry.GERMANY;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.STATES;
     }
 
     @Override

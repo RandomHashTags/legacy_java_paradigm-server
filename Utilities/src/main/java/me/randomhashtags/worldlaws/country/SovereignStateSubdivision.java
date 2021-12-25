@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.service.WikipediaCountryService;
 import me.randomhashtags.worldlaws.service.WikipediaService;
@@ -18,6 +19,10 @@ import java.util.concurrent.ConcurrentHashMap;
 public interface SovereignStateSubdivision extends SovereignState, WikipediaService {
     String name();
     WLCountry getCountry();
+    SubdivisionType getDefaultType();
+    default SubdivisionType getType() {
+        return null;
+    }
     default String getBackendID() {
         return getName().toLowerCase().replace(" ", "");
     }
@@ -25,7 +30,7 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
         return null;
     }
     default String getName() {
-        return LocalServer.toCorrectCapitalization(name(), "del", "de", "la", "of");
+        return LocalServer.toCorrectCapitalization(name(), "del", "de", "la", "of", "al", "and");
     }
     default String getRealName() {
         return null;
@@ -160,7 +165,12 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
     default JSONObject toJSONObject() {
         final String flagURL = getFlagURL();
         final WLTimeZone[] timezones = getTimeZones();
+        final SubdivisionType type = getType();
+
         final JSONObject json = new JSONObject();
+        if(type != null) {
+            json.put("type", type.getSingularName());
+        }
         if(timezones != null) {
             json.put("timezones", getTimeZonesJSONArray(timezones));
         }

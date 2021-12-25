@@ -2,8 +2,9 @@ package me.randomhashtags.worldlaws.country.subdivisions.i;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
-public enum SubdivisionsIran implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Administrative_divisions_of_Iran
+public enum SubdivisionsIran implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Provinces_of_Iran
     ALBORZ,
     ARDABIL,
     EAST_AZERBAIJAN,
@@ -40,6 +41,11 @@ public enum SubdivisionsIran implements SovereignStateSubdivision { // https://e
     @Override
     public WLCountry getCountry() {
         return WLCountry.IRAN;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PROVINCES;
     }
 
     @Override

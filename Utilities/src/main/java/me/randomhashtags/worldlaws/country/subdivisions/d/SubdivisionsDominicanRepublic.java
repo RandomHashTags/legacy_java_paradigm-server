@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.d;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsDominicanRepublic implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Provinces_of_the_Dominican_Republic
     AZUA,
@@ -41,6 +42,11 @@ public enum SubdivisionsDominicanRepublic implements SovereignStateSubdivision {
     @Override
     public WLCountry getCountry() {
         return WLCountry.DOMINICAN_REPUBLIC;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PROVINCES;
     }
 
     @Override

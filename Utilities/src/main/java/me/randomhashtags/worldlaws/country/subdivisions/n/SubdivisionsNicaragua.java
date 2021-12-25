@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.n;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsNicaragua implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Departments_of_Nicaragua
     BOACO,
@@ -26,6 +27,21 @@ public enum SubdivisionsNicaragua implements SovereignStateSubdivision { // http
     @Override
     public WLCountry getCountry() {
         return WLCountry.NICARAGUA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.DEPARTMENTS;
+    }
+
+    @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case NORTH_CARIBBEAN_COAST:
+            case SOUTH_CARIBBEAN_COAST:
+                return SubdivisionType.AUTONOMOUS_REGIONS;
+            default: return null;
+        }
     }
 
     @Override

@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.country.SovereignStateResource;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.WLTimeZone;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 import me.randomhashtags.worldlaws.country.subdivisions.c.SubdivisionsCanada;
 import me.randomhashtags.worldlaws.country.subdivisions.m.SubdivisionsMexico;
 import org.jsoup.nodes.Document;
@@ -73,6 +74,22 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
     @Override
     public WLCountry getCountry() {
         return WLCountry.UNITED_STATES;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.STATES;
+    }
+
+    @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case PUERTO_RICO:
+            case GUAM:
+                return SubdivisionType.TERRITORIES;
+            case WASHINGTON_DC: return SubdivisionType.FEDERAL_DISTRICTS;
+            default: return null;
+        }
     }
 
     @Override

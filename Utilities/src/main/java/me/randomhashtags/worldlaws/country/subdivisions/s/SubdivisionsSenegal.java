@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.s;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsSenegal implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Regions_of_Senegal
     DAKAR,
@@ -23,6 +24,11 @@ public enum SubdivisionsSenegal implements SovereignStateSubdivision { // https:
     @Override
     public WLCountry getCountry() {
         return WLCountry.SENEGAL;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.REGIONS;
     }
 
     @Override

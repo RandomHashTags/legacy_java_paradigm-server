@@ -28,10 +28,10 @@ public final class Feedback implements WLServer, Jsonable {
             case "submit":
                 switch (values[1]) {
                     case "bug_report":
-                        submit(Folder.FEEDBACK_BUG_REPORTS, fileName);
+                        submit(Folder.FEEDBACK_BUG_REPORTS, fileName, values[2], handler);
                         break;
                     case "feature_request":
-                        submit(Folder.FEEDBACK_FEATURE_REQUEST, fileName);
+                        submit(Folder.FEEDBACK_FEATURE_REQUEST, fileName, values[2], handler);
                         break;
                     default:
                         break;
@@ -39,14 +39,13 @@ public final class Feedback implements WLServer, Jsonable {
                 break;
             case "bug_reports":
                 handler.handleString(getAllBugReports());
-                return;
+                break;
             case "feature_requests":
                 handler.handleString(getAllFeatureRequests());
-                return;
+                break;
             default:
                 break;
         }
-        handler.handleString("{\"recorded\":true}");
     }
 
     @Override
@@ -59,8 +58,8 @@ public final class Feedback implements WLServer, Jsonable {
         return null;
     }
 
-    private void submit(Folder folder, String fileName) {
-        setFileJSON(folder, fileName, "{\"text\":\"test\"}");
+    private void submit(Folder folder, String fileName, String value, CompletionHandler handler) {
+        setFileJSON(folder, fileName, value);
     }
 
     private String getText(String[] headers) {

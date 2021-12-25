@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.g;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsGreece implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Administrative_regions_of_Greece
     ATTICA,
@@ -23,6 +24,11 @@ public enum SubdivisionsGreece implements SovereignStateSubdivision { // https:/
     @Override
     public WLCountry getCountry() {
         return WLCountry.GREECE;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.REGIONS;
     }
 
     @Override

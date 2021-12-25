@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.a;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsAustralia implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/States_and_territories_of_Australia
     NEW_SOUTH_WALES,
@@ -10,11 +11,56 @@ public enum SubdivisionsAustralia implements SovereignStateSubdivision { // http
     TASMANIA,
     VICTORIA,
     WESTERN_AUSTRALIA,
+
+    AUSTRALIAN_CAPITAL_TERRITORY,
+    JERVIS_BAY_TERRITORY,
+    NORTHERN_TERRITORY,
+
+    ASHMORE_AND_CARTIER_ISLANDS,
+    AUSTRALIAN_ANTARCTIC_TERRITORY,
+    CHRISTMAS_ISLAND,
+    COCOS_KEELING_ISLANDS,
+    CORAL_SEA_ISLANDS,
+    HEARD_ISLAND_AND_MCDONALD_ISLANDS,
+    NORFOLK_ISLAND,
     ;
 
     @Override
     public WLCountry getCountry() {
         return WLCountry.AUSTRALIA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.STATES;
+    }
+
+    @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case AUSTRALIAN_CAPITAL_TERRITORY:
+            case JERVIS_BAY_TERRITORY:
+            case NORTHERN_TERRITORY:
+
+            case ASHMORE_AND_CARTIER_ISLANDS:
+            case AUSTRALIAN_ANTARCTIC_TERRITORY:
+            case CHRISTMAS_ISLAND:
+            case COCOS_KEELING_ISLANDS:
+            case CORAL_SEA_ISLANDS:
+            case HEARD_ISLAND_AND_MCDONALD_ISLANDS:
+            case NORFOLK_ISLAND:
+                return SubdivisionType.FEDERAL_TERRITORIES;
+            default: return null;
+        }
+    }
+
+    @Override
+    public String getRealName() {
+        switch (this) {
+            case COCOS_KEELING_ISLANDS: return "Cocos (Keeling) Islands";
+            case HEARD_ISLAND_AND_MCDONALD_ISLANDS: return "Heard Island and McDonald Islands";
+            default: return null;
+        }
     }
 
     @Override

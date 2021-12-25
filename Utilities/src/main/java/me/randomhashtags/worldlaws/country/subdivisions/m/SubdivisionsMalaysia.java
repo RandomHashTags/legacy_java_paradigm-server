@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.m;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsMalaysia implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/States_and_federal_territories_of_Malaysia
     JOHOR,
@@ -26,6 +27,22 @@ public enum SubdivisionsMalaysia implements SovereignStateSubdivision { // https
     @Override
     public WLCountry getCountry() {
         return WLCountry.MALAYSIA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.STATES;
+    }
+
+    @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case KUALA_LUMPUR:
+            case LABUAN:
+            case PUTRAJAYA:
+                return SubdivisionType.FEDERAL_TERRITORIES;
+            default: return null;
+        }
     }
 
     @Override

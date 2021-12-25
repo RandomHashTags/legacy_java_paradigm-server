@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.l;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsLibya implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Districts_of_Libya
     AL_BUTNAN,
@@ -30,6 +31,19 @@ public enum SubdivisionsLibya implements SovereignStateSubdivision { // https://
     @Override
     public WLCountry getCountry() {
         return WLCountry.LIBYA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.DISTRICTS;
+    }
+
+    @Override
+    public String getRealName() {
+        switch (this) {
+            case WADI_ASH_SHATI: return "Wadi ash Shati'";
+            default: return null;
+        }
     }
 
     @Override

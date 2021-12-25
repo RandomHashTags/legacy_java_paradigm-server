@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.p;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsPoland implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Voivodeships_of_Poland
     GREATER_POLAND,
@@ -25,6 +26,11 @@ public enum SubdivisionsPoland implements SovereignStateSubdivision { // https:/
     @Override
     public WLCountry getCountry() {
         return WLCountry.POLAND;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PROVINCES;
     }
 
     @Override

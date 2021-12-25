@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.t;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsTonga implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Administrative_divisions_of_Tonga
     EUA,
@@ -14,6 +15,11 @@ public enum SubdivisionsTonga implements SovereignStateSubdivision { // https://
     @Override
     public WLCountry getCountry() {
         return WLCountry.TONGA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.DISTRICTS;
     }
 
     @Override

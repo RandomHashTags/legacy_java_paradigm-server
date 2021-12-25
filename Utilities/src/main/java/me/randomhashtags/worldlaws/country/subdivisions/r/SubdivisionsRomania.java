@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.r;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsRomania implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Counties_of_Romania
     ALBA,
@@ -51,6 +52,19 @@ public enum SubdivisionsRomania implements SovereignStateSubdivision { // https:
     @Override
     public WLCountry getCountry() {
         return WLCountry.ROMANIA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.COUNTIES;
+    }
+
+    @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case BUCHAREST: return SubdivisionType.MUNICIPALITIES;
+            default: return null;
+        }
     }
 
     @Override

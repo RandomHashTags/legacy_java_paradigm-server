@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.c;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
 
 public enum SubdivisionsCanada implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Provinces_and_territories_of_Canada
@@ -23,6 +24,22 @@ public enum SubdivisionsCanada implements SovereignStateSubdivision { // https:/
     @Override
     public WLCountry getCountry() {
         return WLCountry.CANADA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PROVINCES;
+    }
+
+    @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case NORTHWEST_TERRITORIES:
+            case NUNAVUT:
+            case YUKON:
+                return SubdivisionType.TERRITORIES;
+            default: return null;
+        }
     }
 
     @Override

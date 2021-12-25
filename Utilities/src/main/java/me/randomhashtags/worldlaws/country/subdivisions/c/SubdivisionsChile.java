@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.c;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsChile implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Regions_of_Chile
     ANTOFAGASTA,
@@ -25,6 +26,26 @@ public enum SubdivisionsChile implements SovereignStateSubdivision { // https://
     @Override
     public WLCountry getCountry() {
         return WLCountry.CHILE;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.REGIONS;
+    }
+
+    @Override
+    public String getRealName() {
+        switch (this) {
+            case ARAUCANIA: return "Araucanía";
+            case AYSEN: return "Aysén";
+            case BIOBIO: return "Biobío";
+            case LOS_RIOS: return "Los Ríos";
+            case NUBLE: return "Ñuble";
+            case O_HIGGINES: return "O'Higgins";
+            case TARAPACA: return "Tarapacá";
+            case VALPARAISO: return "Valparaíso";
+            default: return null;
+        }
     }
 
     @Override

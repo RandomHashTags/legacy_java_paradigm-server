@@ -130,11 +130,9 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         }
     }
     public void saveUpcomingEventToJSON(String id, String json) {
-        new Thread(() -> {
-            final Folder folder = Folder.UPCOMING_EVENTS_IDS;
-            final String fileName = getUpcomingEventFileName(folder, id);
-            setFileJSON(folder, fileName, json);
-        }).start();
+        final Folder folder = Folder.UPCOMING_EVENTS_IDS;
+        final String fileName = getUpcomingEventFileName(folder, id);
+        setFileJSON(folder, fileName, json);
     }
 
     public void getResponse(String input, CompletionHandler handler) {

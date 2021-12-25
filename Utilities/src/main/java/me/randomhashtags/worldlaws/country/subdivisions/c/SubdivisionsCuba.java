@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.c;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsCuba implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Provinces_of_Cuba
     ARTEMISA,
@@ -25,6 +26,19 @@ public enum SubdivisionsCuba implements SovereignStateSubdivision { // https://e
     @Override
     public WLCountry getCountry() {
         return WLCountry.CUBA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PROVINCES;
+    }
+
+    @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case ISLA_DE_LA_JUVENTUD: return SubdivisionType.SPECIAL_MUNICIPALITIES;
+            default: return null;
+        }
     }
 
     @Override

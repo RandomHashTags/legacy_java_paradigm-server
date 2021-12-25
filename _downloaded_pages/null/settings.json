@@ -1,11 +1,10 @@
 {
   "performance": {
-    "maximum_parallel_threads": 18
+    "maximum_parallel_threads": 25
   },
   "server": {
     "proxy_port": 0,
     "default_address": "http://localhost",
-    "default_api_version": 1,
     "servers": {
       "countries": {
         "port": 0

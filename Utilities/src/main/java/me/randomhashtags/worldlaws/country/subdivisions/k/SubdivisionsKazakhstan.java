@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.k;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsKazakhstan implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Regions_of_Kazakhstan
     AKMOLA_REGION,
@@ -27,6 +28,11 @@ public enum SubdivisionsKazakhstan implements SovereignStateSubdivision { // htt
     @Override
     public WLCountry getCountry() {
         return WLCountry.KAZAKHSTAN;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.REGIONS;
     }
 
     @Override

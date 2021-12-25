@@ -2,27 +2,21 @@ package me.randomhashtags.worldlaws.country.subdivisions.i;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
-public enum SubdivisionsIndia implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Administrative_divisions_of_India
-    ANDAMAN_AND_NICOBAR_ISLANDS,
+public enum SubdivisionsIndia implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/States_and_union_territories_of_India
     ANDHRA_PRADESH,
     ARUNACHAL_PRADESH,
     ASSAM,
     BIHAR,
-    CHANDIGARH,
     CHHATTISGARH,
-    DADRA_AND_NAGAR_HAVELI_AND_DAMAN_AND_DIU,
-    DELHI,
     GOA,
     GUJARAT,
     HARYANA,
     HIMACHAL_PRADESH,
-    JAMMU_AND_KASHMIR,
     JHARKHAND,
     KARNATAKA,
     KERALA,
-    LADAKH,
-    LAKSHADWEEP,
     MADHYA_PRADESH,
     MAHARASHTRA,
     MANIPUR,
@@ -30,7 +24,6 @@ public enum SubdivisionsIndia implements SovereignStateSubdivision { // https://
     MIZORAM,
     NAGALAND,
     ODISHA,
-    PUDUCHERRY,
     PUNJAB,
     RAJASTHAN,
     SIKKIM,
@@ -40,11 +33,41 @@ public enum SubdivisionsIndia implements SovereignStateSubdivision { // https://
     UTTAR_PRADESH,
     UTTARAKHAND,
     WEST_BENGAL,
+
+    ANDAMAN_AND_NICOBAR_ISLANDS,
+    CHANDIGARH,
+    DADRA_AND_NAGAR_HAVELI_AND_DAMAN_AND_DIU,
+    DELHI,
+    JAMMU_AND_KASHMIR,
+    LADAKH,
+    LAKSHADWEEP,
+    PUDUCHERRY,
     ;
 
     @Override
     public WLCountry getCountry() {
         return WLCountry.INDIA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.STATES;
+    }
+
+    @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case ANDAMAN_AND_NICOBAR_ISLANDS:
+            case CHANDIGARH:
+            case DADRA_AND_NAGAR_HAVELI_AND_DAMAN_AND_DIU:
+            case DELHI:
+            case JAMMU_AND_KASHMIR:
+            case LADAKH:
+            case LAKSHADWEEP:
+            case PUDUCHERRY:
+                return SubdivisionType.UNION_TERRITORIES;
+            default: return null;
+        }
     }
 
     @Override

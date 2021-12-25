@@ -2,13 +2,14 @@ package me.randomhashtags.worldlaws.country.subdivisions.s;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsSwitzerland implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Cantons_of_Switzerland
-    APPENZELL_INNERRHODEN,
-    APPENZELL_AUSSERRHODEN,
     AARGAU,
-    BASLE_STADT,
+    APPENZELL_AUSSERRHODEN,
+    APPENZELL_INNERRHODEN,
     BASLE_LANDSCHAFT,
+    BASLE_STADT,
     BERN,
     FRIBOURG,
     GENEVA,
@@ -23,8 +24,8 @@ public enum SubdivisionsSwitzerland implements SovereignStateSubdivision { // ht
     SCHWYZ,
     SOLOTHURN,
     ST_GALLEN,
-    TICINO,
     THURGAU,
+    TICINO,
     URI,
     VALAIS,
     VAUD,
@@ -35,6 +36,22 @@ public enum SubdivisionsSwitzerland implements SovereignStateSubdivision { // ht
     @Override
     public WLCountry getCountry() {
         return WLCountry.SWITZERLAND;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.CANTONS;
+    }
+
+    @Override
+    public String getRealName() {
+        switch (this) {
+            case BASLE_LANDSCHAFT: return "Basel-Landschaft";
+            case BASLE_STADT: return "Basel-Stadt";
+            case NEUCHATEL: return "Neuchâtel";
+            case ST_GALLEN: return "St. Gallen";
+            default: return null;
+        }
     }
 
     @Override

@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.n;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsNepal implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Provinces_of_Nepal
     BAGMATI,
@@ -16,6 +17,11 @@ public enum SubdivisionsNepal implements SovereignStateSubdivision { // https://
     @Override
     public WLCountry getCountry() {
         return WLCountry.NEPAL;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PROVINCES;
     }
 
     @Override

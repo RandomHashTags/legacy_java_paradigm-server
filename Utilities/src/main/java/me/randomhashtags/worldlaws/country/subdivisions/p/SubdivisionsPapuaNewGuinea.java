@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.p;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsPapuaNewGuinea implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Administrative_divisions_of_Papua_New_Guinea
     BOUGAINVILLE,
@@ -31,6 +32,20 @@ public enum SubdivisionsPapuaNewGuinea implements SovereignStateSubdivision { //
     @Override
     public WLCountry getCountry() {
         return WLCountry.PAPUA_NEW_GUINEA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PROVINCES;
+    }
+
+    @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case BOUGAINVILLE: return SubdivisionType.AUTONOMOUS_REGIONS;
+            case NATIONAL_CAPITAL_DISTRICT: return SubdivisionType.INCORPORATED_AREAS;
+            default: return null;
+        }
     }
 
     @Override
@@ -69,6 +84,9 @@ public enum SubdivisionsPapuaNewGuinea implements SovereignStateSubdivision { //
 
     @Override
     public String getGovernmentWebsite() {
-        return null;
+        switch (this) {
+            case NATIONAL_CAPITAL_DISTRICT: return "https://ncdc.gov.pg";
+            default: return null;
+        }
     }
 }

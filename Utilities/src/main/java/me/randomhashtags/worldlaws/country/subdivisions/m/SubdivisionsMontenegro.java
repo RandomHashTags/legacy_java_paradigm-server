@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.m;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsMontenegro implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Municipalities_of_Montenegro
     ANDRIJEVICA,
@@ -9,7 +10,6 @@ public enum SubdivisionsMontenegro implements SovereignStateSubdivision { // htt
     BERANE,
     BIJELO_POLJE,
     BUDVA,
-    CETINJE,
     DANILOVGRAD,
     GUSINJE,
     HERCEG_NOVI,
@@ -17,11 +17,12 @@ public enum SubdivisionsMontenegro implements SovereignStateSubdivision { // htt
     KOTOR,
     MOJKOVAC,
     NIKSIC,
+    OLD_ROYAL_CAPITAL_CETINJE,
     PETNJICA,
     PLAV,
     PLIJEVLJA,
     PLUZINE,
-    PODGORICA,
+    PODGORICA_CAPITAL_CITY,
     ROZAJE,
     SAVNIK,
     TIVAT,
@@ -33,6 +34,11 @@ public enum SubdivisionsMontenegro implements SovereignStateSubdivision { // htt
     @Override
     public WLCountry getCountry() {
         return WLCountry.MONTENEGRO;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.MUNICIPALITIES;
     }
 
     @Override

@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.b;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsBulgaria implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Provinces_of_Bulgaria
     BLAGOEVGRAD,
@@ -37,6 +38,11 @@ public enum SubdivisionsBulgaria implements SovereignStateSubdivision { // https
     @Override
     public WLCountry getCountry() {
         return WLCountry.BULGARIA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PROVINCES;
     }
 
     @Override

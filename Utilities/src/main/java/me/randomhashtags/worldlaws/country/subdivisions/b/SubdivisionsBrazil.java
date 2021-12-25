@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.b;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsBrazil implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Federative_units_of_Brazil
     ACRE,
@@ -30,12 +31,26 @@ public enum SubdivisionsBrazil implements SovereignStateSubdivision { // https:/
     SAO_PAULO,
     SERGIPE,
     TOCANTINS,
+
     DISTRITO_FEDERAL,
     ;
 
     @Override
     public WLCountry getCountry() {
         return WLCountry.BRAZIL;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.STATES;
+    }
+
+    @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case DISTRITO_FEDERAL: return SubdivisionType.FEDERAL_DISTRICTS;
+            default: return null;
+        }
     }
 
     @Override

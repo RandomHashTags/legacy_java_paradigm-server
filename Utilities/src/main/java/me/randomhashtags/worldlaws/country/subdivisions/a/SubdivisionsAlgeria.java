@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.a;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsAlgeria implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Provinces_of_Algeria
     ADRAR,
@@ -67,6 +68,35 @@ public enum SubdivisionsAlgeria implements SovereignStateSubdivision { // https:
     @Override
     public WLCountry getCountry() {
         return WLCountry.ALGERIA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PROVINCES;
+    }
+
+    @Override
+    public String getRealName() {
+        switch (this) {
+            case AIN_DEFLA: return "Aïn Defla";
+            case AIN_TEMOUCHENT: return "Aïn Témouchent";
+            case BECHAR: return "Béchar";
+            case BEJAIA: return "Béjaïa";
+            case BENI_ABBES: return "Béni Abbès";
+            case BORDJ_BOU_ARRERIDJ: return "Bordj Bou Arréridj";
+            case BOUIRA: return "Bouïra";
+            case BOUMERDES: return "Boumerdès";
+            case EL_MGHAIR: return "El M'Ghair";
+            case GHARDAIA: return "Ghardaïa";
+            case MSILA: return "M'Sila";
+            case MEDEA: return "Médéa";
+            case NAAMA: return "Naâma";
+            case SAIDA: return "Saïda";
+            case SETIF: return "Sétif";
+            case SIDI_BEL_ABBES: return "Sidi Bel Abbès";
+            case TEBESSA: return "Tébessa";
+            default: return null;
+        }
     }
 
     @Override

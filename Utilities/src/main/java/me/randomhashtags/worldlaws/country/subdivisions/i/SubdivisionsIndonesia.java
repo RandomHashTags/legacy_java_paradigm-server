@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.i;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsIndonesia implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Provinces_of_Indonesia
     ACEH,
@@ -37,12 +38,17 @@ public enum SubdivisionsIndonesia implements SovereignStateSubdivision { // http
     WEST_PAPUA,
     WEST_SULAWESI,
     WEST_SUMATRA,
-    YOGYAKARTA,
+    SPECIAL_REGION_OF_YOGYAKARTA,
     ;
 
     @Override
     public WLCountry getCountry() {
         return WLCountry.INDONESIA;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.PROVINCES;
     }
 
     @Override

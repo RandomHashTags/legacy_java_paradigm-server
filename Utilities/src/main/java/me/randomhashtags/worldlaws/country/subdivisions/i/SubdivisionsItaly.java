@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.i;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsItaly implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Regions_of_Italy
     ABRUZZO,
@@ -29,6 +30,34 @@ public enum SubdivisionsItaly implements SovereignStateSubdivision { // https://
     @Override
     public WLCountry getCountry() {
         return WLCountry.ITALY;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.REGIONS;
+    }
+
+    @Override
+    public SubdivisionType getType() {
+        switch (this) {
+            case AOSTA_VALLEY:
+            case FRIULI_VENEZLA_GIULIA:
+            case SARDINIA:
+            case SICILY:
+            case TRENTINO_SOUTH_TYROL:
+                return SubdivisionType.AUTONOMOUS_REGIONS;
+            default: return null;
+        }
+    }
+
+    @Override
+    public String getRealName() {
+        switch (this) {
+            case EMILIA_ROMAGNA: return "Emilia-Romagna";
+            case FRIULI_VENEZLA_GIULIA: return "Friuli-Venezia Giulia";
+            case TRENTINO_SOUTH_TYROL: return "Trentino-South Tyrol";
+            default: return null;
+        }
     }
 
     @Override

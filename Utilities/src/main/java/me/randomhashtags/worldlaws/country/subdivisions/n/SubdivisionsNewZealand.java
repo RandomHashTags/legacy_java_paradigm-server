@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.country.subdivisions.n;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.subdivisions.SubdivisionType;
 
 public enum SubdivisionsNewZealand implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/Regions_of_New_Zealand
     AUCKLAND,
@@ -25,6 +26,11 @@ public enum SubdivisionsNewZealand implements SovereignStateSubdivision { // htt
     @Override
     public WLCountry getCountry() {
         return WLCountry.NEW_ZEALAND;
+    }
+
+    @Override
+    public SubdivisionType getDefaultType() {
+        return SubdivisionType.REGIONS;
     }
 
     @Override
