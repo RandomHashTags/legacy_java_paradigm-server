@@ -1,4 +1,4 @@
-package me.randomhashtags.worldlaws.info.service;
+package me.randomhashtags.worldlaws.info.service.nonstatic;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Folder;
@@ -7,6 +7,7 @@ import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.country.SovereignStateResource;
+import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.service.CountryServiceValue;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -19,7 +20,11 @@ import java.util.HashSet;
 public enum CIAServices implements CountryService {
     INSTANCE;
 
-    private HashMap<String, HashSet<SovereignStateResource>> countries;
+    private final HashMap<String, HashSet<SovereignStateResource>> countries;
+
+    CIAServices() {
+        countries = new HashMap<>();
+    }
 
     @Override
     public SovereignStateInformationType getInformationType() {
@@ -38,49 +43,15 @@ public enum CIAServices implements CountryService {
     @Override
     public void getResources(String shortName, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
-        if(countries == null) {
-            countries = new HashMap<>();
-        }
         if(countries.containsKey(shortName)) {
             handler.handleObject(countries.get(shortName));
         } else {
-            final Folder folder = getFolder();
-            final String fileName = "CIA";
-            getJSONObject(folder, fileName, new CompletionHandler() {
-                @Override
-                public void load(CompletionHandler handler) {
-                    loadCIAValues(started, folder, shortName, new CompletionHandler() {
-                        @Override
-                        public void handleString(String string) {
-                            final String value = "{\"" + shortName + "\":" + string + "}";
-                            handler.handleString(value);
-                        }
-                    });
-                }
-
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    if(json.has(shortName)) {
-                        final CIAValues values = new CIAValues(json.getJSONObject(shortName));
-                        final HashSet<SovereignStateResource> resources = getResourcesFrom(values);
-                        countries.put(shortName, resources);
-                        handler.handleObject(resources);
-                    } else {
-                        loadCIAValues(started, folder, shortName, new CompletionHandler() {
-                            @Override
-                            public void handleString(String string) {
-                                final JSONObject ciaJSON = string != null ? new JSONObject(string) : new JSONObject();
-                                final CIAValues values = new CIAValues(ciaJSON);
-                                final HashSet<SovereignStateResource> resources = getResourcesFrom(values);
-                                countries.put(shortName, resources);
-                                json.put(shortName, ciaJSON);
-                                setFileJSONObject(folder, fileName, json);
-                                handler.handleObject(resources);
-                            }
-                        });
-                    }
-                }
-            });
+            final String string = loadCIAValues(started, shortName);
+            final JSONObject ciaJSON = string != null ? new JSONObject(string) : new JSONObject();
+            final CIAValues values = new CIAValues(ciaJSON);
+            final HashSet<SovereignStateResource> resources = getResourcesFrom(values);
+            countries.put(shortName, resources);
+            handler.handleObject(resources);
         }
     }
 
@@ -92,13 +63,13 @@ public enum CIAServices implements CountryService {
         return set;
     }
 
-    private void loadCIAValues(long started, Folder folder, String shortName, CompletionHandler handler) {
+    private String loadCIAValues(long started, String shortName) {
         String summaryURL = null, travelFactsURL = null, key = null;
 
         final String prefix = "https://www.cia.gov/";
         final String url = prefix + "the-world-factbook/countries/" + shortName.toLowerCase().replace(" ", "-").replace(",", "") + "/";
         final String missingMessage = "CIAServices - missing elements for country with short name \"" + shortName + "\", and url \"" + url + "\"!";
-        final Document doc = getDocument(folder, url, false);
+        final Document doc = getDocument(Folder.OTHER, url, false);
         String string = null;
         if(doc != null) {
             final Elements elements = doc.select("div.thee-link-container a");
@@ -126,7 +97,7 @@ public enum CIAServices implements CountryService {
         } else {
             WLLogger.logError(this, missingMessage);
         }
-        handler.handleString(string);
+        return string;
     }
 
     private final class CIAValues implements ServerObject {

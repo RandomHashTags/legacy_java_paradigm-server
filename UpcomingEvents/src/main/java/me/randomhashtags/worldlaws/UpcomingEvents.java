@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.entertainment.ProfessionalWrestling;
 import me.randomhashtags.worldlaws.upcoming.entertainment.TVShows;
 import me.randomhashtags.worldlaws.upcoming.entertainment.Ticketmaster;
 import me.randomhashtags.worldlaws.upcoming.entertainment.VideoGames;
@@ -31,9 +32,10 @@ public final class UpcomingEvents implements WLServer {
                 new Championships(),
                 new MLB(),
                 new Movies(),
+                new MusicAlbums(),
                 //NASANeo.INSTANCE,
                 //NFL.INSTANCE, // problem
-                new MusicAlbums(),
+                new ProfessionalWrestling(),
                 new RocketLaunches(),
                 new SpaceEvents(),
                 //SpaceX.INSTANCE,
@@ -68,6 +70,15 @@ public final class UpcomingEvents implements WLServer {
                 WLLogger.logInfo("UpcomingEvents;test;string=" + json.toString());
             }
         });*/
+
+        final ProfessionalWrestling instance = new ProfessionalWrestling();
+        final HashSet<String> dateStrings = getWeeklyEventDateStrings(LocalDate.now());
+        instance.getEventsFromDates(dateStrings, new CompletionHandler() {
+            @Override
+            public void handleStringValue(String key, String value) {
+                WLLogger.logInfo("UpcomingEvents;test;value=" + value);
+            }
+        });
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {

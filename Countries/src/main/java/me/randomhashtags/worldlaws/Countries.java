@@ -14,10 +14,11 @@ import me.randomhashtags.worldlaws.info.national.NationalAnthems;
 import me.randomhashtags.worldlaws.info.national.NationalCapitals;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankingServices;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankings;
-import me.randomhashtags.worldlaws.info.service.CIAServices;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
 import me.randomhashtags.worldlaws.info.service.TravelBriefing;
+import me.randomhashtags.worldlaws.info.service.nonstatic.CIAServices;
+import me.randomhashtags.worldlaws.info.service.nonstatic.CountryYearlyEvents;
 import me.randomhashtags.worldlaws.service.WikipediaCountryService;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import org.json.JSONArray;
@@ -94,14 +95,18 @@ public final class Countries implements WLServer {
             addAll(Arrays.asList(
                     Flyover.INSTANCE,
                     TravelBriefing.INSTANCE,
-                    CIAServices.INSTANCE,
                     new WikipediaCountryService(true)
             ));
             addAll(Arrays.asList(CountryRankings.values()));
             add(CountryHistory.INSTANCE);
         }};
 
-        CountryServices.SERVICES.addAll(services);
+        CountryServices.STATIC_SERVICES.addAll(services);
+
+        CountryServices.NONSTATIC_SERVICES.addAll(Arrays.asList(
+                CIAServices.INSTANCE,
+                CountryYearlyEvents.INSTANCE
+        ));
     }
 
     private void getCountries(CompletionHandler handler) {

@@ -27,16 +27,17 @@ public final class Movies extends UpcomingEventController implements IMDbService
 
     @Override
     public void load(CompletionHandler handler) {
-        refreshFilms(WLUtilities.getTodayYear(), LocalDate.now().getMonth(), handler);
+        final LocalDate now = LocalDate.now();
+        refreshFilms(WLUtilities.getTodayYear(), now.getMonth(), now.getDayOfMonth(), handler);
     }
 
-    private void refreshFilms(int year, Month startingMonth, CompletionHandler handler) {
+    private void refreshFilms(int year, Month startingMonth, int startingDay, CompletionHandler handler) {
         final String url = "https://en.wikipedia.org/wiki/List_of_American_films_of_" + year;
         final Document doc = getDocument(url);
         if(doc != null) {
             final Elements table = doc.select("div.mw-body-content div.mw-parser-output h2 + table.wikitable tbody tr");
             if(year >= 2016) { // supported format only until 2016
-                refreshUSAFilms2016(year, startingMonth, table, handler);
+                refreshUSAFilms2016(year, startingMonth, startingDay, table, handler);
             } else {
                 handler.handleString(null);
             }
@@ -44,7 +45,7 @@ public final class Movies extends UpcomingEventController implements IMDbService
             handler.handleString(null);
         }
     }
-    private void refreshUSAFilms2016(int year, Month startingMonth, Elements table, CompletionHandler handler) {
+    private void refreshUSAFilms2016(int year, Month startingMonth, int startingDay, Elements table, CompletionHandler handler) {
         int day = 1;
         boolean foundStartingMonth = false;
         final Month endingMonth = startingMonth.plus(2);
@@ -73,30 +74,32 @@ public final class Movies extends UpcomingEventController implements IMDbService
                 final String value0 = values[0];
                 day = value0.matches("[0-9]+") ? Integer.parseInt(value0) : day;
 
-                final Elements rows = element.select("td");
-                if(!rows.isEmpty()) {
-                    rows.removeIf(row -> row.text().matches("[0-9]+"));
-                    final Element titleElement = rows.get(0);
-                    final Element href = titleElement.select("i").get(0).selectFirst("a[href]");
-                    final String wikipageURL = href != null ? "https://en.wikipedia.org" + href.attr("href") : null;
-                    if(wikipageURL != null) {
-                        final String title = titleElement.text();
-                        final String dateString = getEventDateString(year, month, day), id = getEventDateIdentifier(dateString, title);
+                if(targetMonth != startingMonth || day >= startingDay) {
+                    final Elements rows = element.select("td");
+                    if(!rows.isEmpty()) {
+                        rows.removeIf(row -> row.text().matches("[0-9]+"));
+                        final Element titleElement = rows.get(0);
+                        final Element href = titleElement.select("i").get(0).selectFirst("a[href]");
+                        final String wikipageURL = href != null ? "https://en.wikipedia.org" + href.attr("href") : null;
+                        if(wikipageURL != null) {
+                            final String title = titleElement.text();
+                            final String dateString = getEventDateString(year, month, day), identifier = getEventDateIdentifier(dateString, title);
 
-                        final HashSet<String> productionCompanies = new HashSet<>(Arrays.asList(rows.get(1).text().split(" / ")));
-                        final StringBuilder builder = new StringBuilder("[");
-                        boolean isFirst = true;
-                        for(String company : productionCompanies) {
-                            builder.append(isFirst ? "" : ",").append("\"").append(company).append("\"");
-                            isFirst = false;
+                            final HashSet<String> productionCompanies = new HashSet<>(Arrays.asList(rows.get(1).text().split(" / ")));
+                            final StringBuilder builder = new StringBuilder("[");
+                            boolean isFirst = true;
+                            for(String company : productionCompanies) {
+                                builder.append(isFirst ? "" : ",").append("\"").append(company).append("\"");
+                                isFirst = false;
+                            }
+                            builder.append("]");
+
+                            final HashMap<String, Object> customValues = new HashMap<>();
+                            customValues.put("productionCompanies", builder.toString());
+
+                            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(identifier, title, wikipageURL, null, null, customValues);
+                            putPreUpcomingEvent(identifier, preUpcomingEvent);
                         }
-                        builder.append("]");
-
-                        final HashMap<String, Object> customValues = new HashMap<>();
-                        customValues.put("productionCompanies", builder.toString());
-
-                        final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, wikipageURL, null, null, customValues);
-                        putPreUpcomingEvent(id, preUpcomingEvent);
                     }
                 }
             }

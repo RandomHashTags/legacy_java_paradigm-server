@@ -27,7 +27,7 @@ public final class TicketmasterVenue {
                 "\"countryCode\":\"" + countryCode + "\"," +
                 (subdivisionName != null ? "\"subdivisionName\":\"" + subdivisionName + "\"," : "") +
                 "\"cityName\":\"" + cityName + "\"," +
-                "\"location\":" + location.toString() + "," +
+                (location != null ? "\"location\":" + location.toString() + "," : "") +
                 (generalRule != null ? "\"generalRule\":\"" + generalRule + "\"," : "") +
                 (childRule != null ? "\"childRule\":\"" + childRule + "\"," : "") +
                 "\"parkingDetail\":\"" + parkingDetail + "\"," +

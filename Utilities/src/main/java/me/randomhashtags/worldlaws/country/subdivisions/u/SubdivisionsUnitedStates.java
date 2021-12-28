@@ -93,6 +93,14 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
     }
 
     @Override
+    public String getRealName() {
+        switch (this) {
+            case WASHINGTON_DC: return "Washington D.C.";
+            default: return null;
+        }
+    }
+
+    @Override
     public String getISOAlpha2() {
         switch (this) {
             case ALABAMA: return "AL";

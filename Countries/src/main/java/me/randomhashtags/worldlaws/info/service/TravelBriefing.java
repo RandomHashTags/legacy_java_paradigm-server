@@ -1,9 +1,6 @@
 package me.randomhashtags.worldlaws.info.service;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.RequestMethod;
-import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.service.CountryServiceValue;
@@ -51,8 +48,8 @@ public enum TravelBriefing implements CountryService {
             getJSONObject(Folder.COUNTRIES_SERVICES_TRAVEL_BRIEFING, country, new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
-                    String country = targetCountry;
-                    switch (country) {
+                    final String country;
+                    switch (targetCountry) {
                         case "british_virgin_islands":
                             country = "virgin_islands-british";
                             break;
@@ -63,30 +60,36 @@ public enum TravelBriefing implements CountryService {
                             country = "congo-brazzaville";
                             break;
                         default:
+                            country = targetCountry;
                             break;
                     }
                     final String url = "https://travelbriefing.org/" + country + "?format=json";
                     requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
                         @Override
                         public void handleJSONObject(JSONObject json) {
-                            json.remove("names");
-                            json.remove("timezone");
-                            json.remove("electricity");
-                            json.remove("water");
-                            if(json.getJSONArray("vaccinations").isEmpty()) {
-                                json.remove("vaccinations");
+                            if(json != null) {
+                                json.remove("names");
+                                json.remove("timezone");
+                                json.remove("electricity");
+                                json.remove("water");
+                                if(json.getJSONArray("vaccinations").isEmpty()) {
+                                    json.remove("vaccinations");
+                                }
+                                json.getJSONObject("currency").remove("compare");
+                                final List<String> neighbors = getNeighbors(json.getJSONArray("neighbors"));
+                                json.put("neighbors", neighbors);
+                            } else {
+                                WLUtilities.saveLoggedError("TravelBriefing", "Failed to get details for country \"" + country + "\", targetCountry=\"" + targetCountry + "\"!");
+                                json = new JSONObject();
                             }
-                            json.getJSONObject("currency").remove("compare");
-                            final List<String> neighbors = getNeighbors(json.getJSONArray("neighbors"));
-                            json.put("neighbors", neighbors);
                             handler.handleJSONObject(json);
                         }
                     });
                 }
 
                 @Override
-                public void handleJSONObject(JSONObject object) {
-                    final String string = new CountryServiceValue(TravelBriefing.INSTANCE, object.toString()).toString();
+                public void handleJSONObject(JSONObject json) {
+                    final String string = new CountryServiceValue(TravelBriefing.INSTANCE, json.toString()).toString();
                     WLLogger.logInfo(getInfo().name() + " - loaded \"" + country + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                     countries.put(targetCountry, string);
                     handler.handleServiceResponse(INSTANCE, string);

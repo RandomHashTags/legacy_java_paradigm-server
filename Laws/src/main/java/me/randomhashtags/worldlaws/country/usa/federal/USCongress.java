@@ -18,11 +18,13 @@ import java.time.Month;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.atomic.AtomicReference;
 
 public enum USCongress implements Jsoupable, Jsonable {
     INSTANCE;
 
-    private HashMap<USBillStatus, String> statuses;
+    private ConcurrentHashMap<Integer, HashMap<USBillStatus, String>> statuses;
     private HashMap<String, String> bills;
     private HashMap<Integer, String> enactedBills;
     private int version;
@@ -47,12 +49,20 @@ public enum USCongress implements Jsoupable, Jsonable {
 
     public void getBillsByStatus(USBillStatus status, CompletionHandler handler) {
         if(statuses == null) {
-            statuses = new HashMap<>();
+            statuses = new ConcurrentHashMap<>();
         }
-        if(statuses.containsKey(status)) {
-            handler.handleString(statuses.get(status));
+        final int version = this.version;
+        if(statuses.containsKey(version) && statuses.get(version).containsKey(status)) {
+            handler.handleString(statuses.get(version).get(status));
         } else if(version == USLaws.INSTANCE.getCurrentAdministrationVersion()) {
-            getBillsBySearch(status, handler);
+            getBillsBySearch(status, new CompletionHandler() {
+                @Override
+                public void handleString(String string) {
+                    statuses.putIfAbsent(version, new HashMap<>());
+                    statuses.get(version).put(status, string);
+                    handler.handleString(string);
+                }
+            });
         } else {
             final long started = System.currentTimeMillis();
             final String statusName = status.name(), suffix = " bills with status " + statusName + " for congress " + version + " (took %time%ms)";
@@ -67,8 +77,9 @@ public enum USCongress implements Jsoupable, Jsonable {
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
+                    statuses.putIfAbsent(version, new HashMap<>());
                     final String string = json.toString();
-                    statuses.put(status, string);
+                    statuses.get(version).put(status, string);
                     WLLogger.logInfo("USCongress - loaded" + suffix.replace("%time%", Long.toString(System.currentTimeMillis()-started)));
                     handler.handleString(string);
                 }
@@ -79,15 +90,13 @@ public enum USCongress implements Jsoupable, Jsonable {
         getPreCongressBillsBySearch(status, new CompletionHandler() {
             @Override
             public void handleObject(Object object) {
+                String string = null;
                 if(object != null) {
                     @SuppressWarnings({ "unchecked" })
                     final HashSet<PreCongressBill> bills = (HashSet<PreCongressBill>) object;
-
-                    final String string = getPreCongressBillsJSON(bills);
-                    handler.handleString(string);
-                } else {
-                    handler.handleString(null);
+                    string = getPreCongressBillsJSON(bills);
                 }
+                handler.handleString(string);
             }
         });
     }
@@ -273,61 +282,56 @@ public enum USCongress implements Jsoupable, Jsonable {
             handler.handleString(bills.get(id));
         } else {
             final long started = System.currentTimeMillis();
-            final int versionInt = this.version;
-            final String version = getVersioned();
             final Folder folder = Folder.LAWS_USA_CONGRESS;
             final String[] title = new String[1];
             final String chamberName = chamber.name(), chamberNameLowercase = chamberName.toLowerCase();
-            folder.setCustomFolderName(id, folder.getFolderName().replace("%version%", "" + versionInt) + File.separator + chamberNameLowercase);
-            getJSONObject(folder, id, new CompletionHandler() {
-                @Override
-                public void load(CompletionHandler handler) {
-                    final String targetURL = "https://www.congress.gov/bill/" + version + "-congress/" + chamberNameLowercase + "-bill/" + id + "/all-info";
-                    final Document doc = getDocument(targetURL);
-                    if(doc != null) {
-                        final String[] splitValues = doc.select("h1.legDetail").get(0).textNodes().get(0).text().split(id + " - ");
-                        title[0] = splitValues[1];
-                        final String pdfURL, billTypeText = splitValues[0].substring("All Information (Except Text) for ".length()).toUpperCase();
-                        final String billType = billTypeText.startsWith("S.J.RES.") ? "sjres" : billTypeText.startsWith("S.") ? "s" : billTypeText.startsWith("H.R.") ? "hr" : billTypeText.startsWith("H.J.RES.") ? "hjres" : null;
-                        if(billType == null) {
-                            pdfURL = null;
-                            WLLogger.logError(this, "getBill - failed to get billType for bill \"" + id + "\" (" + title[0] + "), billTypeText=\"" + billTypeText + "\"!");
-                        } else {
-                            pdfURL = "https://www.congress.gov/" + versionInt + "/bills/" + billType + id + "/BILLS-" + versionInt + billType + id + "enr.pdf";
-                        }
-                        final Element element = doc.select("div.overview_wrapper div.overview table.standard01 tbody tr td a[href]").get(0);
-                        final String profileSlug = element.attr("href");
-                        USPoliticians.INSTANCE.get(element, profileSlug, new CompletionHandler() {
-                            @Override
-                            public void handleString(String sponsor) {
-                                final String summary = getBillSummary(doc);
-                                final Elements allInfoContent = doc.select("main.content div.main-wrapper div.all-info-content");
-                                final PolicyArea policyArea = getBillPolicyArea(allInfoContent);
-                                final String subjects = getBillSubjects(allInfoContent);
-                                final EventSources sources = new EventSources();
-                                sources.append(new EventSource("US Congress: Bill URL", targetURL));
-                                sources.append(new EventSource("US Congress: Bill PDF", pdfURL));
-                                getBillCosponsors(allInfoContent, new CompletionHandler() {
-                                    @Override
-                                    public void handleString(String cosponsors) {
-                                        final String actions = getBillActions(allInfoContent);
-                                        final CongressBill bill = new CongressBill(sponsor, summary, policyArea, subjects, cosponsors, actions, null, sources);
-                                        handler.handleString(bill.toString());
-                                    }
-                                });
-                            }
-                        });
+            folder.setCustomFolderName(id, folder.getFolderName().replace("%version%", "" + version) + File.separator + chamberNameLowercase);
+            final JSONObject localJSON = getLocalFileJSONObject(folder, id);
+            AtomicReference<String> stringAtomic = new AtomicReference<>();
+            if(localJSON != null) {
+                 stringAtomic.set(localJSON.toString());
+            } else {
+                final String targetURL = "https://www.congress.gov/bill/" + getVersioned() + "-congress/" + chamberNameLowercase + "-bill/" + id + "/all-info";
+                final Document doc = getDocument(targetURL);
+                if(doc != null) {
+                    final String[] splitValues = doc.select("h1.legDetail").get(0).textNodes().get(0).text().split(id + " - ");
+                    title[0] = splitValues[1];
+                    final String pdfURL, billTypeText = splitValues[0].substring("All Information (Except Text) for ".length()).toUpperCase();
+                    final String billType = billTypeText.startsWith("S.J.RES.") ? "sjres" : billTypeText.startsWith("S.") ? "s" : billTypeText.startsWith("H.R.") ? "hr" : billTypeText.startsWith("H.J.RES.") ? "hjres" : null;
+                    if(billType == null) {
+                        pdfURL = null;
+                        WLLogger.logError(this, "getBill - failed to get billType for bill \"" + id + "\" (" + title[0] + "), billTypeText=\"" + billTypeText + "\"!");
+                    } else {
+                        pdfURL = "https://www.congress.gov/" + version + "/bills/" + billType + id + "/BILLS-" + version + billType + id + "enr.pdf";
                     }
+                    final Element element = doc.select("div.overview_wrapper div.overview table.standard01 tbody tr td a[href]").get(0);
+                    final String profileSlug = element.attr("href");
+                    USPoliticians.INSTANCE.get(element, profileSlug, new CompletionHandler() {
+                        @Override
+                        public void handleString(String sponsor) {
+                            final String summary = getBillSummary(doc);
+                            final Elements allInfoContent = doc.select("main.content div.main-wrapper div.all-info-content");
+                            final PolicyArea policyArea = getBillPolicyArea(allInfoContent);
+                            final String subjects = getBillSubjects(allInfoContent);
+                            final EventSources sources = new EventSources();
+                            sources.append(new EventSource("US Congress: Bill URL", targetURL));
+                            sources.append(new EventSource("US Congress: Bill PDF", pdfURL));
+                            final String cosponsors = getBillCosponsors(allInfoContent);
+                            final String actions = getBillActions(allInfoContent);
+                            final CongressBill bill = new CongressBill(sponsor, summary, policyArea, subjects, cosponsors, actions, null, sources);
+                            final String billString = bill.toString();
+                            stringAtomic.set(billString);
+                            if(!summary.equalsIgnoreCase("a summary is in progress.")) {
+                                setFileJSON(folder, id, billString);
+                            }
+                        }
+                    });
                 }
-
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    final String string = json.toString();
-                    bills.put(id, string);
-                    WLLogger.logInfo("USCongress - loaded bill from chamber \"" + chamberName + "\" with title \"" + title[0] + "\" for congress " + versionInt + " (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handleString(string);
-                }
-            });
+            }
+            final String string = stringAtomic.get();
+            bills.put(id, string);
+            WLLogger.logInfo("USCongress - loaded bill from chamber \"" + chamberName + "\" with title \"" + title[0] + "\" for congress " + version + " (took " + (System.currentTimeMillis()-started) + "ms)");
+            handler.handleString(string);
         }
     }
     private String getBillSummary(Document doc) {
@@ -372,8 +376,9 @@ public enum USCongress implements Jsoupable, Jsonable {
         builder.append("]");
         return builder.toString();
     }
-    private void getBillCosponsors(Elements allInfoContent, CompletionHandler handler) {
+    private String getBillCosponsors(Elements allInfoContent) {
         final Elements table = allInfoContent.get(3).select("div.main-wrapper table.item_table tbody tr td.actions a[href]");
+        String value = null;
         if(table.size() > 0) {
             table.remove(0);
             if(!table.isEmpty()) {
@@ -391,7 +396,6 @@ public enum USCongress implements Jsoupable, Jsonable {
                     politicians.get(elements, profileSlug, completionHandler);
                 });
 
-                String value = null;
                 if(!cosponsors.isEmpty()) {
                     final StringBuilder builder = new StringBuilder("[");
                     boolean isFirst = true;
@@ -402,13 +406,9 @@ public enum USCongress implements Jsoupable, Jsonable {
                     builder.append("]");
                     value = builder.toString();
                 }
-                handler.handleString(value);
-            } else {
-                handler.handleString(null);
             }
-        } else {
-            handler.handleString(null);
         }
+        return value;
     }
     private String getBillActions(Elements allInfoContent) {
         final Elements table = allInfoContent.get(2).select("table.expanded-actions tbody tr");

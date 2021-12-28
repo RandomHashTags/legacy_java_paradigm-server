@@ -17,7 +17,7 @@ public abstract class CountryRankingServices {
     }
 
     public static Stream<CountryService> getRankingsServices() {
-        return CountryServices.SERVICES.parallelStream().filter(service -> service instanceof CountryRankingService);
+        return CountryServices.STATIC_SERVICES.parallelStream().filter(service -> service instanceof CountryRankingService);
     }
     private static CountryRankingService valueOf(String backendID) {
         final Optional<CountryService> optional = getRankingsServices().filter(service -> backendID.equals(service.getInfo().getTitle().toLowerCase().replace(" ", ""))).findFirst();

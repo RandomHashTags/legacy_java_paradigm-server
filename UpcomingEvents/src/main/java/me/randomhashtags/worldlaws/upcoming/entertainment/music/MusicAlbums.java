@@ -29,9 +29,8 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
 
     @Override
     public void load(CompletionHandler handler) {
-        final int year = WLUtilities.getTodayYear();
-        final Month startingMonth = LocalDate.now().getMonth();
-        refresh(year, startingMonth, handler);
+        final LocalDate now = WLUtilities.getNow();
+        refresh(now.getYear(), now.getMonth(), now.getDayOfMonth(), handler);
     }
 
     @Override
@@ -65,7 +64,7 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
     private String getURL(String baseURL, Month startingMonth) {
         return baseURL + "_(" + (startingMonth.getValue() <= 6 ? "January–June" : "July–December") + ")";
     }
-    private void refresh(int year, Month startingMonth, CompletionHandler handler) {
+    private void refresh(int year, Month startingMonth, int startingDay, CompletionHandler handler) {
         final Month nextMonth = startingMonth.plus(1);
         final boolean isBoth = nextMonth == Month.JULY;
         final String prefix = "https://en.wikipedia.org", baseURL = prefix + "/wiki/List_of_" + year + "_albums";
@@ -102,7 +101,7 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
                         final int maxTDs = tds.size();
                         final int day = isNewDay ? targetDay.equals("TBA") ? -1 : Integer.parseInt(targetDay.split(monthName + " ")[1]) : previousDay;
                         previousDay = day;
-                        if(maxTDs >= 5) {
+                        if(maxTDs >= 5 && (startingMonth != month || day >= startingDay)) {
                             final Element artistElement = tds.get(maxTDs-5), albumElement = tds.get(maxTDs-4);
                             final Elements hrefs = albumElement.select("i a");
                             final String albumURL = !hrefs.isEmpty() ? prefix + hrefs.get(0).attr("href") : null;

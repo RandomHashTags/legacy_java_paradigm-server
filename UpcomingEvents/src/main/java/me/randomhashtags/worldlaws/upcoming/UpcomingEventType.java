@@ -16,6 +16,7 @@ public enum UpcomingEventType {
     SPORT_MLB,
     SPORT_NFL,
     SPORT_UFC,
+    SPORT_PROFESSIONAL_WRESTLING,
 
     TV_SHOW,
     VIDEO_GAME,
@@ -59,6 +60,7 @@ public enum UpcomingEventType {
             case MUSIC_ALBUM:
             case SPORT_CHAMPIONSHIPS:
             case SPORT_UFC:
+            case SPORT_PROFESSIONAL_WRESTLING:
             case VIDEO_GAME:
                 return "https://upload.wikimedia.org/wikipedia/";
             case SPACE_EVENT:
@@ -87,6 +89,7 @@ public enum UpcomingEventType {
                 case SPORT_MLB: return "MLB Event";
                 case SPORT_NFL: return "NFL Event";
                 case SPORT_UFC: return "UFC Event";
+                case SPORT_PROFESSIONAL_WRESTLING: return "Professional Wrestling";
 
                 case TICKETMASTER_MUSIC_EVENT: return "Music Event";
                 case TV_SHOW: return "TV Show";
@@ -106,6 +109,7 @@ public enum UpcomingEventType {
                 case SPORT_MLB: return "MLB Schedule";
                 case SPORT_NFL: return "NFL Schedule";
                 case SPORT_UFC: return "UFC Schedule";
+                case SPORT_PROFESSIONAL_WRESTLING: return "Professional Wrestling";
 
                 case TICKETMASTER_MUSIC_EVENT: return "Music Events";
                 case TV_SHOW: return "TV Shows";
@@ -128,6 +132,7 @@ public enum UpcomingEventType {
                 case SPORT_MLB: return "%team% has a game today!";
                 case SPORT_NFL: return "%team% has a game today!";
                 case SPORT_UFC: return "%title% is tonight!";
+                case SPORT_PROFESSIONAL_WRESTLING: return "%title% is tonight!";
 
                 case TICKETMASTER_MUSIC_EVENT: return "\"%title%\" happens tonight!";
                 case TV_SHOW: return "A new episode for \"%title%\" is now available!";
@@ -147,6 +152,7 @@ public enum UpcomingEventType {
                 case SPORT_MLB: return "%team% have games today!";
                 case SPORT_NFL: return "%team% have games today!";
                 case SPORT_UFC: return "%title% are tonight!";
+                case SPORT_PROFESSIONAL_WRESTLING: return "%title% are tonight!";
 
                 case TICKETMASTER_MUSIC_EVENT: return "\"%title%\" happens tonight!";
                 case TV_SHOW: return "New episodes for \"%title%\" are now available!";

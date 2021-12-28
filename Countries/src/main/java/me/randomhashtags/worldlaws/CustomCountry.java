@@ -127,7 +127,7 @@ public final class CustomCountry implements SovereignState {
                     final ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values = new ConcurrentHashMap<>();
                     final WLCountry country = getWLCountry();
                     if(country != null) {
-                        final HashSet<CountryService> services = new HashSet<>(CountryServices.SERVICES);
+                        final HashSet<CountryService> services = new HashSet<>(CountryServices.STATIC_SERVICES);
                         final List<SovereignStateResource> resources = new ArrayList<>();
 
                         final String website = country.getGovernmentWebsite();
@@ -147,6 +147,9 @@ public final class CustomCountry implements SovereignState {
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
+                    ParallelStream.stream(CountryServices.NONSTATIC_SERVICES, serviceObj -> {
+                        final CountryService service = (CountryService) serviceObj;
+                    });
                     information = json.toString();
                     WLLogger.logInfo("CustomCountry - loaded information for country \"" + name + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
                     handler.handleString(information);

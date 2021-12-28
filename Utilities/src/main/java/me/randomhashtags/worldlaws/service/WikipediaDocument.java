@@ -33,6 +33,9 @@ public final class WikipediaDocument {
     public String getPageName() {
         return url.split("/wiki/")[1].replace("_", " ").replace("%27", "'");
     }
+    public EventSource getEventSource() {
+        return new EventSource("Wikipedia: " + getPageName(), url);
+    }
     public Document getDocument() {
         return document;
     }
