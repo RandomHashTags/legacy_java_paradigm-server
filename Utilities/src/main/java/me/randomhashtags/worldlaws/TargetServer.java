@@ -52,7 +52,7 @@ public enum TargetServer implements RestAPI, DataValues {
             return;
         }
         final long now = System.currentTimeMillis();
-        WLLogger.logInfo("TargetServer - " + (active ? "started" : "ended") + " maintenance mode (active for " + (now-MAINTENANCE_STARTED) + "ms)");
+        WLLogger.logInfo("TargetServer - " + (active ? "started" : "ended") + " maintenance mode" + (active ? "" : " (active for " + (now-MAINTENANCE_STARTED) + "ms)"));
         MAINTENANCE_MODE = active;
         MAINTENANCE_MESSAGE = reason;
         if(active) {
@@ -233,7 +233,7 @@ public enum TargetServer implements RestAPI, DataValues {
         request(url, method, headers, null, handler);
     }
 
-    private String getPingResponse() {
+    public static String getPingResponse() {
         if(PING_RESPONSE == null) {
             final long interval = WLUtilities.PROXY_PING_RESPONSE_UPDATE_INTERVAL;
             final Timer timer = new Timer();
@@ -297,11 +297,16 @@ public enum TargetServer implements RestAPI, DataValues {
         if(!query.isEmpty()) {
             for(String string : query) {
                 if(string.contains("/")) {
-                    final String[] values = string.split("/");
-                    final String key = values[0];
-                    if(json.has(key)) {
-                        json.getJSONObject(key).remove(values[1]);
+                    final String[] preValues = string.split("/");
+                    final String lastValue = preValues[preValues.length-1];
+                    final String[] values = string.substring(0, string.length()-lastValue.length()-1).split("/");
+                    JSONObject lastJSON = json;
+                    for(String key : values) {
+                        if(lastJSON.has(key)) {
+                            lastJSON = lastJSON.getJSONObject(key);
+                        }
                     }
+                    lastJSON.remove(lastValue);
                 } else {
                     json.remove(string);
                 }

@@ -21,6 +21,7 @@ public final class Proxy implements UserServer, RestAPI {
 
     @Override
     public void stop() {
+        stopListeningForUserInput();
         try {
             SOCKET.close();
         } catch (Exception e) {
@@ -38,14 +39,12 @@ public final class Proxy implements UserServer, RestAPI {
             setupHttpServer(port);
         }
     }
-    private void connectClients(boolean https) throws Exception {
+    private void connectClients(boolean https) {
         WLLogger.logInfo("Proxy - Listening for http" + (https ? "s" : "") + " clients on port " + SOCKET.getLocalPort() + "...");
         try {
-            while (true) {
+            while (!SOCKET.isClosed()) {
                 final Socket client = SOCKET.accept();
-                if(!TargetServer.isMaintenanceMode()) {
-                    new ProxyClient(client).start();
-                }
+                new ProxyClient(client).start();
             }
         } catch (Exception e) {
             WLLogger.logInfo("Proxy - stopped listening for clients");
@@ -104,5 +103,9 @@ public final class Proxy implements UserServer, RestAPI {
             final String target = value.length() == length ? "" : value.substring(length+1);
             server.sendResponse(RequestMethod.POST, target, handler);
         }*/
+    }
+
+
+    private void restartServers() {
     }
 }
