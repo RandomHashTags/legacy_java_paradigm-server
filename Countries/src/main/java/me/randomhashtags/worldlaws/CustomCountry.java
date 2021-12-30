@@ -80,16 +80,21 @@ public final class CustomCountry implements SovereignState {
             if(subdivisions != null) {
                 final JSONObject json = new JSONObject();
                 final SubdivisionType defaultType = subdivisions[0].getDefaultType();
-                json.put("default_name_plural", defaultType.getPluralName());
-                json.put("default_name_singular", defaultType.getSingularName());
+                json.put("default_type_name_plural", defaultType.getPluralName());
+                json.put("default_type_name_singular", defaultType.getSingularName());
+                if(LawUtilities.hasSubdivisionGovernmentsSupported(wlcountry)) {
+                    json.put("default_supports_government", true);
+                }
+                final JSONObject subdivisionsJSON = new JSONObject();
                 ParallelStream.stream(Arrays.asList(subdivisions), subdivisionObj -> {
                     final SovereignStateSubdivision subdivision = (SovereignStateSubdivision) subdivisionObj;
                     String name = subdivision.getRealName();
                     if(name == null) {
                         name = subdivision.getName();
                     }
-                    json.put(name, subdivision.toJSONObject());
+                    subdivisionsJSON.put(name, subdivision.toJSONObject());
                 });
+                json.put("subdivisions", subdivisionsJSON);
                 this.subdivisions = json;
             }
         }

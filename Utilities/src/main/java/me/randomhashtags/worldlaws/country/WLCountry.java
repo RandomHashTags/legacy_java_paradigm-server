@@ -335,7 +335,12 @@ public enum WLCountry {
             final SovereignStateSubdivision[] subdivisions = getSubdivisions();
             if(subdivisions != null) {
                 for(SovereignStateSubdivision subdivision : subdivisions) {
-                    if(name.equalsIgnoreCase(subdivision.name()) || name.equalsIgnoreCase(subdivision.getBackendID()) || name.equalsIgnoreCase(subdivision.getName()) || name.equalsIgnoreCase(subdivision.getISOAlpha2())) {
+                    if(name.equalsIgnoreCase(subdivision.name())
+                            || name.equalsIgnoreCase(subdivision.getBackendID())
+                            || name.equalsIgnoreCase(subdivision.getName())
+                            || name.equalsIgnoreCase(subdivision.getRealName())
+                            || name.equalsIgnoreCase(subdivision.getISOAlpha2())
+                    ) {
                         return subdivision;
                     }
                 }

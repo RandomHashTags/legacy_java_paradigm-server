@@ -169,7 +169,8 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
 
         final JSONObject json = new JSONObject();
         if(type != null) {
-            json.put("type", type.getSingularName());
+            json.put("type_name_singular", type.getSingularName());
+            json.put("type_name_plural", type.getPluralName());
         }
         if(timezones != null) {
             json.put("timezones", getTimeZonesJSONArray(timezones));
