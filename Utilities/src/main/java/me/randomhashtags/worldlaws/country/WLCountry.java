@@ -232,6 +232,7 @@ public enum WLCountry {
     TANZANIA,
     THAILAND,
     TIMOR_LESTE(
+            "Timor-Leste",
             "East Timor"
     ),
     TOGO,
@@ -273,7 +274,7 @@ public enum WLCountry {
     private final HashSet<String> aliases;
 
     WLCountry(String...aliases) {
-        this.aliases =  aliases != null ? new HashSet<>(Arrays.asList(aliases)) : null;
+        this.aliases =  aliases != null && aliases.length > 0 ? new HashSet<>(Arrays.asList(aliases)) : null;
     }
 
     public static WLCountry valueOfBackendID(String backendID) {

@@ -22,7 +22,7 @@ public final class Weather implements WLServer {
     }
 
     private void test() {
-        WeatherAlerts.INSTANCE.getResponse("all", new CompletionHandler() {
+        NASA_EONET.INSTANCE.getCurrent(APIVersion.v1, new CompletionHandler() {
             @Override
             public void handleString(String string) {
                 WLLogger.logInfo("Weather;test;string=" + string);

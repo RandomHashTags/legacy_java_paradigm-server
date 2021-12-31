@@ -12,7 +12,7 @@ repositories {
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
     compile 'org.jsoup:jsoup:1.14.3'
-    compile 'org.json:json:20210307'
+    compile 'org.json:json:20211205'
     compile group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.14.0'
     compile group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.14.0'
     compile 'org.apache.commons:commons-text:1.9'

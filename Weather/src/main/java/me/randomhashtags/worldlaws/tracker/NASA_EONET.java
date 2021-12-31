@@ -6,10 +6,14 @@ import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStat
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.nodes.TextNode;
 
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 public enum NASA_EONET implements WLService {
     // https://eonet.sci.gsfc.nasa.gov/docs/v3#eventsAPI
@@ -44,7 +48,7 @@ public enum NASA_EONET implements WLService {
     }
     private void refresh(APIVersion version, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
-        final HashMap<String, HashSet<String>> homeValues = new HashMap<>();
+        final ConcurrentHashMap<String, HashSet<String>> homeValues = new ConcurrentHashMap<>();
         final String url = "https://eonet.sci.gsfc.nasa.gov/api/v3/events?status=open&days=30";
         requestJSONObject(url, RequestMethod.GET, CONTENT_HEADERS, new CompletionHandler() {
             @Override
@@ -53,7 +57,7 @@ public enum NASA_EONET implements WLService {
                     final JSONArray eventsArray = json.getJSONArray("events");
                     ParallelStream.stream(eventsArray.spliterator(), obj -> {
                         final JSONObject eventJSON = (JSONObject) obj;
-                        String place = eventJSON.getString("title");
+                        String place = eventJSON.getString("title").replace("&#039;", "'");
                         if(!place.startsWith("Iceberg ")) {
                             final String[] startingReplacements = new String[] {
                                     "Wildfires - ",
@@ -124,13 +128,21 @@ public enum NASA_EONET implements WLService {
 
                             final EventSources sources = new EventSources();
                             final JSONArray sourcesArray = eventJSON.getJSONArray("sources");
+                            String description = null;
                             for(Object sourceObj : sourcesArray) {
                                 final JSONObject sourceJSON = (JSONObject) sourceObj;
                                 final String siteName = sourceJSON.getString("id"), url = sourceJSON.getString("url").replace("&amp;", "&");
+                                switch (siteName) {
+                                    case "SIVolcano":
+                                        description = getLatestVolcanoDescription(url);
+                                        break;
+                                    default:
+                                        break;
+                                }
                                 sources.append(new EventSource(siteName, url));
                             }
 
-                            final NaturalEvent naturalEvent = new NaturalEvent(id, place, country, subdivision, location, sources);
+                            final NaturalEvent naturalEvent = new NaturalEvent(id, place, country, subdivision, location, description, sources);
                             homeValues.get(category).add(naturalEvent.toString());
                         }
                     });
@@ -163,19 +175,36 @@ public enum NASA_EONET implements WLService {
             }
         });
     }
+    private String getLatestVolcanoDescription(String url) {
+        final Document doc = getDocument(url);
+        if(doc != null) {
+            final Element paragraph = doc.selectFirst("p.tab");
+            if(paragraph != null) {
+                final StringBuilder builder = new StringBuilder();
+                boolean isFirst = true;
+                for(TextNode node : paragraph.textNodes()) {
+                    builder.append(isFirst ? "" : "\n\n").append(node.text());
+                    isFirst = false;
+                }
+                return builder.toString();
+            }
+        }
+        return null;
+    }
 
     private static final class NaturalEvent {
 
-        private final String id, place, country, subdivision;
+        private final String id, place, country, subdivision, description;
         private final Location location;
         private final EventSources sources;
 
-        NaturalEvent(String id, String place, String country, String subdivision, Location location, EventSources sources) {
+        NaturalEvent(String id, String place, String country, String subdivision, Location location, String description, EventSources sources) {
             this.id = id;
             this.place = LocalServer.fixEscapeValues(place);
             this.country = country;
             this.subdivision = subdivision;
             this.location = location;
+            this.description = LocalServer.fixEscapeValues(description);
             this.sources = sources;
         }
 
@@ -186,6 +215,7 @@ public enum NASA_EONET implements WLService {
                     (country != null ? "\"country\":\"" + country + "\"," : "") +
                     (subdivision != null ? "\"subdivision\":\"" + subdivision + "\"," : "") +
                     (location != null ? "\"location\":" + location.toString() + "," : "") +
+                    (description != null ? "\"description\":\"" + description + "\"," : "") +
                     "\"sources\":" + sources.toString() +
                     "}";
         }

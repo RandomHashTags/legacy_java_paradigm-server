@@ -23,6 +23,7 @@ import java.util.concurrent.ConcurrentHashMap;
 public final class CustomCountry implements SovereignState {
 
     private final String unStatus, sovereigntyDispute, shortName, name;
+    private HashSet<String> aliases;
     private String isoAlpha2, isoAlpha3, flagEmoji;
     private int currentGovernmentAdministration;
     private HashSet<Integer> governmentAdministrations;
@@ -65,6 +66,7 @@ public final class CustomCountry implements SovereignState {
     private void loadCountryDetails() {
         final WLCountry wlcountry = getWLCountry();
         if(wlcountry != null) {
+            aliases = wlcountry.getAliases();
             isoAlpha2 = wlcountry.getISOAlpha2();
             isoAlpha3 = wlcountry.getISOAlpha3();
             if(flagEmoji == null) {
@@ -273,6 +275,13 @@ public final class CustomCountry implements SovereignState {
     public JSONObject toJSONObject() {
         final boolean hasGovernmentAdministrations = governmentAdministrations != null;
         final JSONObject json = new JSONObject();
+        if(aliases != null) {
+            aliases.removeIf(alias -> alias.equalsIgnoreCase(shortName) || alias.equalsIgnoreCase(name));
+            if(!aliases.isEmpty()) {
+                final JSONArray array = new JSONArray(aliases);
+                json.put("aliases", array);
+            }
+        }
         if(isoAlpha2 != null) {
             json.put("isoAlpha2", isoAlpha2);
         }

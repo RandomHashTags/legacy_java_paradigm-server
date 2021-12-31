@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.EventDate;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.service.WikipediaDocument;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -31,6 +34,7 @@ public final class ProfessionalWrestling extends LoadedUpcomingEventController {
         final String url = "https://en.wikipedia.org/wiki/" + year + "_in_professional_wrestling";
         final Document doc = getDocument(url);
         if(doc != null) {
+            final UpcomingEventType type = getType();
             final HashSet<String> promoters = getPromoters();
             final Elements headers = doc.select("h3");
             final Elements monthElements = doc.select("h3 + table.wikitable");
@@ -92,11 +96,9 @@ public final class ProfessionalWrestling extends LoadedUpcomingEventController {
                                 notes = null;
                             }
 
-                            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(identifier, title, eventURL, location, null);
-                            putPreUpcomingEvent(identifier, preUpcomingEvent);
-
                             final EventSources sources = new EventSources(eventDoc.getEventSource());
                             final ProWrestlingEvent event = new ProWrestlingEvent(title, paragraph, imageURL, location, mainEvent, notes, sources);
+                            putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, location));
                             putUpcomingEvent(identifier, event.toString());
                         }
                     }
