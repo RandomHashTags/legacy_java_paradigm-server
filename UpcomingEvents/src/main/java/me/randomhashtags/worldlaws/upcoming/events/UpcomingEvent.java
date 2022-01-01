@@ -12,7 +12,8 @@ import java.util.List;
 
 public abstract class UpcomingEvent implements Jsoupable {
 
-    private final String title, description, imageURL, location;
+    private String title;
+    private final String description, imageURL, location;
     private final JSONArray youtubeVideoIDs;
     private final EventSources sources;
 
@@ -33,6 +34,9 @@ public abstract class UpcomingEvent implements Jsoupable {
     }
     public String toPreUpcomingEventJSON(UpcomingEventType type, String id, String tag, List<String> countries, HashMap<String, Object> customValues) {
         return new PreUpcomingEvent(id, title, null, tag, countries, customValues).toStringWithImageURL(type, imageURL);
+    }
+    public void setTitle(String title) {
+        this.title = title;
     }
 
     @Override

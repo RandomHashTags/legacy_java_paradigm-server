@@ -1,15 +1,17 @@
 package me.randomhashtags.worldlaws.earthquakes;
 
+import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.Location;
 
 public final class Earthquake {
-    private final String country, subdivision, cause, magnitude, place, url;
+    private final String country, subdivision, cause, magnitude, place;
     private final float depthKM;
     private final long time, lastUpdated;
     private final Location location;
+    private final EventSources sources;
 
-    public Earthquake(String country, String subdivision, String cause, String magnitude, String place, long time, long lastUpdated, float depthKM, Location location, String url) {
+    public Earthquake(String country, String subdivision, String cause, String magnitude, String place, long time, long lastUpdated, float depthKM, Location location, EventSources sources) {
         this.country = country;
         this.subdivision = subdivision;
         this.cause = cause;
@@ -19,7 +21,7 @@ public final class Earthquake {
         this.lastUpdated = lastUpdated;
         this.depthKM = depthKM;
         this.location = location;
-        this.url = url;
+        this.sources = sources;
     }
 
     @Override
@@ -34,7 +36,7 @@ public final class Earthquake {
                 "\"lastUpdated\":" + lastUpdated + "," +
                 "\"depthKM\":" + depthKM + "," +
                 "\"location\":" + location.toString() + "," +
-                "\"url\":\"" + url + "\"" +
+                "\"sources\":" + sources.toString() +
                 "}";
     }
 }

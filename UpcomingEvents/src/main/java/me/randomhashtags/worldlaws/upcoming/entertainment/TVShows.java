@@ -208,6 +208,7 @@ public final class TVShows extends LoadedUpcomingEventController {
                                         customValues.put("popularity", popularity);
                                     }
 
+                                    tvShowEvent.setTitle(showTitle);
                                     final String preUpcomingEvent = tvShowEvent.toPreUpcomingEventJSON(eventType, identifier, tag, null, customValues);
                                     putLoadedPreUpcomingEvent(identifier, preUpcomingEvent);
                                     putUpcomingEvent(identifier, tvShowEvent.toString());

@@ -71,7 +71,7 @@ public final class UpcomingEvents implements WLServer {
             }
         });*/
 
-        final ProfessionalWrestling instance = new ProfessionalWrestling();
+        final TVShows instance = new TVShows();
         final HashSet<String> dateStrings = getWeeklyEventDateStrings(LocalDate.now());
         instance.getEventsFromDates(dateStrings, new CompletionHandler() {
             @Override

@@ -23,6 +23,7 @@ public enum Earthquakes implements RestAPI {
 
     private String recentEarthquakes, topRecentEarthquakes;
     private HashMap<String, String> recentTerritoryEarthquakes, topRecentTerritoryEarthquakes;
+    private HashMap<String, String> cachedEarthquakes;
 
     public void getResponse(String[] values, CompletionHandler handler) {
         final String key = values[0];
@@ -90,6 +91,7 @@ public enum Earthquakes implements RestAPI {
 
         recentTerritoryEarthquakes = new HashMap<>();
         topRecentTerritoryEarthquakes = new HashMap<>();
+        cachedEarthquakes = new HashMap<>();
 
         requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
             @Override
@@ -206,36 +208,55 @@ public enum Earthquakes implements RestAPI {
     }
 
     private void getEarthquake(String id, CompletionHandler handler) {
-        requestJSONObject("https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=" + id + "&format=geojson", RequestMethod.GET, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                if(json != null) {
-                    final JSONObject properties = json.getJSONObject("properties");
-                    final Object mag = properties.get("mag");
-                    final String magnitude = mag != null ? mag.toString() : "0";
+        if(cachedEarthquakes.containsKey(id)) {
+            handler.handleString(cachedEarthquakes.get(id));
+        } else {
+            requestJSONObject("https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=" + id + "&format=geojson", RequestMethod.GET, new CompletionHandler() {
+                @Override
+                public void handleJSONObject(JSONObject json) {
+                    String string = null;
+                    if(json != null) {
+                        final JSONObject properties = json.getJSONObject("properties");
+                        final Object mag = properties.get("mag");
+                        final String magnitude = mag != null ? mag.toString() : "0";
 
-                    final JSONObject geometry = json.getJSONObject("geometry");
-                    final JSONArray coordinates = geometry.getJSONArray("coordinates");
-                    final boolean isPoint = geometry.getString("type").equalsIgnoreCase("point");
-                    final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
-                    final Location location = new Location(latitude, longitude);
+                        final JSONObject geometry = json.getJSONObject("geometry");
+                        final JSONArray coordinates = geometry.getJSONArray("coordinates");
+                        final boolean isPoint = geometry.getString("type").equalsIgnoreCase("point");
+                        final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
+                        final Location location = new Location(latitude, longitude);
 
-                    final String url = properties.getString("url"), cause = properties.getString("type").toUpperCase();
+                        final String url = properties.getString("url"), cause = properties.getString("type").toUpperCase();
 
-                    String place = properties.get("place") instanceof String ? properties.getString("place") : "null";
-                    final String[] regionValues = getRegionValues(place);
-                    place = regionValues[0];
-                    final String country = regionValues[1], subdivision = regionValues[2];
+                        String place = properties.get("place") instanceof String ? properties.getString("place") : "null";
+                        final String[] regionValues = getRegionValues(place);
+                        place = regionValues[0];
+                        final String country = regionValues[1], subdivision = regionValues[2];
 
-                    final long time = properties.getLong("time"), lastUpdated = properties.getLong("updated");
-                    final Earthquake earthquake = new Earthquake(country, subdivision, cause, magnitude, place, time, lastUpdated, 0, location, url);
-                    final String string = earthquake.toString();
+                        final JSONObject productsJSON = json.has("products") ? json.getJSONObject("products") : null;
+                        float depthKM = 0.00f;
+                        if(productsJSON != null) {
+                            final JSONArray origin = productsJSON.has("origin") ? productsJSON.getJSONArray("origin") : null;
+                            if(origin != null) {
+                                final JSONObject targetJSON = origin.getJSONObject(0);
+                                final JSONObject targetProperties = targetJSON.has("properties") ? targetJSON.getJSONObject("properties") : null;
+                                if(targetProperties != null) {
+                                    depthKM = Float.parseFloat(targetProperties.getString("depth"));
+                                }
+                            }
+                        }
+
+                        final long time = properties.getLong("time"), lastUpdated = properties.getLong("updated");
+                        final EventSources sources = new EventSources();
+                        sources.append(new EventSource("United States Geological Survey: Earthquakes", url));
+                        final Earthquake earthquake = new Earthquake(country, subdivision, cause, magnitude, place, time, lastUpdated, depthKM, location, sources);
+                        string = earthquake.toString();
+                        cachedEarthquakes.put(id, string);
+                    }
                     handler.handleString(string);
-                } else {
-                    handler.handleString(null);
                 }
-            }
-        });
+            });
+        }
     }
 
     private String[] getRegionValues(String place) {

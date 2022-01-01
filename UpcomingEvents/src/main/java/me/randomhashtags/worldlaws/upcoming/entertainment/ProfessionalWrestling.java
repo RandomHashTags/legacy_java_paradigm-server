@@ -57,7 +57,8 @@ public final class ProfessionalWrestling extends LoadedUpcomingEventController {
                 for(Element element : dayElements) {
                     final Elements tds = element.select("td");
 
-                    final String dayString = tds.get(0).text();
+                    final Element dayElement = tds.get(0);
+                    final String dayString = dayElement.text();
                     final boolean hasDay = dayString.matches("[0-9]+");
                     int day = previousDay;
                     if(hasDay) {
@@ -65,7 +66,7 @@ public final class ProfessionalWrestling extends LoadedUpcomingEventController {
                         previousDay = day;
                     }
                     if(day >= dayValue) {
-                        final boolean hasPromoter = promoters.contains(!hasDay ? dayString : tds.get(1).text());
+                        final boolean hasPromoter = promoters.contains((!hasDay ? dayElement : tds.get(1)).selectFirst("a[href]").text());
                         final Element eventElement = tds.get(hasDay ? hasPromoter ? 2 : 1 : hasPromoter ? 1 : 0).selectFirst("a[href]");
                         if(eventElement != null) {
                             final EventDate eventDate = new EventDate(Month.of(targetMonthValue), day, year);

@@ -126,7 +126,7 @@ public enum NASA_EONET implements WLService {
                                     break;
                             }
 
-                            final EventSources sources = new EventSources();
+                            final EventSources sources = new EventSources(new EventSource("NASA: Earth Observatory Natural Event Tracker", "https://eonet.gsfc.nasa.gov"));
                             final JSONArray sourcesArray = eventJSON.getJSONArray("sources");
                             String description = null;
                             for(Object sourceObj : sourcesArray) {
