@@ -21,7 +21,7 @@ public abstract class UpcomingEvent implements Jsoupable {
         this.title = LocalServer.fixEscapeValues(title);
         this.description = LocalServer.fixEscapeValues(removeReferences(description));
         this.imageURL = imageURL;
-        this.location = location;
+        this.location = LocalServer.fixEscapeValues(location);
         this.youtubeVideoIDs = youtubeVideoIDs;
         this.sources = sources;
     }

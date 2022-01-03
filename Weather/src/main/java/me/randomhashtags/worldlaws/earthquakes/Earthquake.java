@@ -34,7 +34,7 @@ public final class Earthquake {
                 (subdivision != null ? "\"subdivision\":\"" + subdivision + "\"," : "") +
                 "\"time\":" + time + "," +
                 "\"lastUpdated\":" + lastUpdated + "," +
-                "\"depthKM\":" + depthKM + "," +
+                (depthKM > 0.00 ? "\"depthKM\":" + depthKM + "," : "") +
                 "\"location\":" + location.toString() + "," +
                 "\"sources\":" + sources.toString() +
                 "}";

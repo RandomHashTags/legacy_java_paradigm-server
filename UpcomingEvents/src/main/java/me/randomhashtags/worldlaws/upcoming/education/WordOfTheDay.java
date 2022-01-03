@@ -74,8 +74,8 @@ public final class WordOfTheDay extends LoadedUpcomingEventController {
         private final String word, description;
 
         public WordOfTheDayObj(String word, String description) {
-            this.word = LocalServer.toCorrectCapitalization(LocalServer.fixEscapeValues(word));
-            this.description = LocalServer.fixEscapeValues(description);
+            this.word = LocalServer.toCorrectCapitalization(word);
+            this.description = description;
         }
     }
 }

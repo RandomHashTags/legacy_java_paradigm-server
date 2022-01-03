@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 
 public final class APODEvent extends UpcomingEvent {
@@ -9,7 +10,7 @@ public final class APODEvent extends UpcomingEvent {
 
     public APODEvent(String title, String description, String imageURL, String copyright, EventSources sources) {
         super(title, description, imageURL, null, null, sources);
-        this.copyright = copyright;
+        this.copyright = LocalServer.fixEscapeValues(copyright);
     }
 
     @Override

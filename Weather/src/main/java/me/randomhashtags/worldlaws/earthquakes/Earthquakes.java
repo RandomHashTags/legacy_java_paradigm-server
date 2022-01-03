@@ -233,8 +233,8 @@ public enum Earthquakes implements RestAPI {
                         place = regionValues[0];
                         final String country = regionValues[1], subdivision = regionValues[2];
 
-                        final JSONObject productsJSON = json.has("products") ? json.getJSONObject("products") : null;
-                        float depthKM = 0.00f;
+                        final JSONObject productsJSON = properties.has("products") ? properties.getJSONObject("products") : null;
+                        float depthKM = -1;
                         if(productsJSON != null) {
                             final JSONArray origin = productsJSON.has("origin") ? productsJSON.getJSONArray("origin") : null;
                             if(origin != null) {
