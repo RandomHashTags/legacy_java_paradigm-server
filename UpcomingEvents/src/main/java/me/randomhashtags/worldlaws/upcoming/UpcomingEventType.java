@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.upcoming;
 import org.json.JSONObject;
 
 public enum UpcomingEventType {
+    ASTRONOMY_PICTURE_OF_THE_DAY,
     MOVIE,
     MUSIC_ALBUM,
     TICKETMASTER_MUSIC_EVENT,
@@ -20,6 +21,7 @@ public enum UpcomingEventType {
 
     TV_SHOW,
     VIDEO_GAME,
+    WORD_OF_THE_DAY,
     ;
 
     public static String getTypesJSON() {
@@ -55,6 +57,8 @@ public enum UpcomingEventType {
 
     public String getImageURLPrefix() {
         switch (this) {
+            case ASTRONOMY_PICTURE_OF_THE_DAY:
+                return "https://apod.nasa.gov/apod/image/";
             case MOVIE:
                 return "https://m.media-amazon.com/images/";
             case MUSIC_ALBUM:
@@ -78,6 +82,7 @@ public enum UpcomingEventType {
     private String getName(boolean singular) {
         if(singular) {
             switch (this) {
+                case ASTRONOMY_PICTURE_OF_THE_DAY: return "Astronomy Picture of the Day";
                 case MOVIE: return "Movie Release";
                 case MUSIC_ALBUM: return "Music Album";
 
@@ -94,10 +99,12 @@ public enum UpcomingEventType {
                 case TICKETMASTER_MUSIC_EVENT: return "Music Event";
                 case TV_SHOW: return "TV Show";
                 case VIDEO_GAME: return "Video Game Release";
+                case WORD_OF_THE_DAY: return "Word of the Day";
                 default: return "Unknown Singular Name";
             }
         } else {
             switch (this) {
+                case ASTRONOMY_PICTURE_OF_THE_DAY: return "Astronomy Picture of the Day";
                 case MOVIE: return "Movie Releases";
                 case MUSIC_ALBUM: return "Music Album Releases";
 
@@ -114,6 +121,7 @@ public enum UpcomingEventType {
                 case TICKETMASTER_MUSIC_EVENT: return "Music Events";
                 case TV_SHOW: return "TV Shows";
                 case VIDEO_GAME: return "Video Game Releases";
+                case WORD_OF_THE_DAY: return "Word of the Day";
                 default: return "Unknown Plural Name";
             }
         }
@@ -121,6 +129,7 @@ public enum UpcomingEventType {
     private String getNotificationDescription(boolean singular) {
         if(singular) {
             switch (this) {
+                case ASTRONOMY_PICTURE_OF_THE_DAY: return "\"%title%\" is today's APOD!";
                 case MOVIE: return "\"%title%\" is making its cinematic debut today!";
                 case MUSIC_ALBUM: return "\"%title%\" by %artist% releases today!";
 
@@ -137,10 +146,12 @@ public enum UpcomingEventType {
                 case TICKETMASTER_MUSIC_EVENT: return "\"%title%\" happens tonight!";
                 case TV_SHOW: return "A new episode for \"%title%\" is now available!";
                 case VIDEO_GAME: return "\"%title%\" releases today!";
-                default: return "Unknown Notification Description!";
+                case WORD_OF_THE_DAY: return "Today's Word of the Day is \"%title%\"!";
+                default: return "Unknown Singular Notification Description!";
             }
         } else {
             switch (this) {
+                case ASTRONOMY_PICTURE_OF_THE_DAY: return "\"%title%\" are today's APODs!";
                 case MOVIE: return "\"%title%\" are making their cinematic debut today!";
                 case MUSIC_ALBUM: return "\"%title%\" by %artist% releases today!";
 
@@ -157,7 +168,8 @@ public enum UpcomingEventType {
                 case TICKETMASTER_MUSIC_EVENT: return "\"%title%\" happens tonight!";
                 case TV_SHOW: return "New episodes for \"%title%\" are now available!";
                 case VIDEO_GAME: return "\"%title%\" release today!";
-                default: return "Unknown Notification Description!";
+                case WORD_OF_THE_DAY: return "Today's Words of the Day are \"%title%\"!";
+                default: return "Unknown Plural Notification Description!";
             }
         }
     }

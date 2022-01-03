@@ -1,9 +1,7 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.service.education.WordOfTheDay;
 import me.randomhashtags.worldlaws.service.finance.stockmarket.StockService;
 import me.randomhashtags.worldlaws.service.finance.stockmarket.YahooFinance;
-import me.randomhashtags.worldlaws.service.science.astronomy.AstronomyPictureOfTheDay;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 
 import java.util.Arrays;
@@ -43,12 +41,6 @@ public final class Services implements WLServer {
                     getStockMarketResponse(version, value.substring(key.length()+1), handler);
                 }
                 break;
-            case "astronomy_picture_of_the_day":
-                AstronomyPictureOfTheDay.INSTANCE.get(version, handler);
-                break;
-            case "word_of_the_day":
-                WordOfTheDay.INSTANCE.refresh(handler);
-                break;
             default:
                 break;
         }
@@ -57,9 +49,7 @@ public final class Services implements WLServer {
     @Override
     public String[] getHomeRequests() {
         return new String[] {
-                //"stock_market",
-                "astronomy_picture_of_the_day",
-                "word_of_the_day"
+                //"stock_market"
         };
     }
 

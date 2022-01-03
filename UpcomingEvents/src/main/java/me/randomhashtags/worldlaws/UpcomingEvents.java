@@ -2,18 +2,18 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
-import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
-import me.randomhashtags.worldlaws.recent.software.other.AppleSoftwareUpdates;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.education.WordOfTheDay;
 import me.randomhashtags.worldlaws.upcoming.entertainment.ProfessionalWrestling;
 import me.randomhashtags.worldlaws.upcoming.entertainment.TVShows;
 import me.randomhashtags.worldlaws.upcoming.entertainment.Ticketmaster;
 import me.randomhashtags.worldlaws.upcoming.entertainment.VideoGames;
 import me.randomhashtags.worldlaws.upcoming.entertainment.movies.Movies;
 import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicAlbums;
+import me.randomhashtags.worldlaws.upcoming.science.AstronomyPictureOfTheDay;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
@@ -45,7 +45,10 @@ public final class UpcomingEvents implements WLServer {
                 new UFC(),
                 new VideoGames(),
 
-                new Ticketmaster.Music()
+                new Ticketmaster.Music(),
+
+                new AstronomyPictureOfTheDay(),
+                new WordOfTheDay()
         ));
     }};
 
@@ -72,16 +75,11 @@ public final class UpcomingEvents implements WLServer {
                 WLLogger.logInfo("UpcomingEvents;test;string=" + json.toString());
             }
         });*/
-
-        AppleSoftwareUpdates.INSTANCE.refresh(LocalDate.now().minusMonths(2), new CompletionHandler() {
+        final HashSet<String> dates = getWeeklyEventDateStrings(LocalDate.now());
+        new AstronomyPictureOfTheDay().getEventsFromDates(dates, new CompletionHandler() {
             @Override
-            public void handleObject(Object object) {
-                if(object != null) {
-                    final HashSet<PreRecentEvent> updates = (HashSet<PreRecentEvent>) object;
-                    for(PreRecentEvent event : updates) {
-                        WLLogger.logInfo("UpcomingEvents;test;string=" + event.toString());
-                    }
-                }
+            public void handleStringValue(String key, String value) {
+                WLLogger.logInfo("UpcomingEvents;test;string=" + value);
             }
         });
     }

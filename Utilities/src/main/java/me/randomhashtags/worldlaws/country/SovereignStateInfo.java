@@ -160,8 +160,6 @@ public enum SovereignStateInfo {
     SERVICE_TRAVEL_BRIEFING("Travel Briefing"),
     SERVICE_WIKIPEDIA("Wikipedia"),
 
-    SERVICE_NASA_ASTRONOMY_PICTURE_OF_THE_DAY("Astronomy Picture of the Day"),
-    SERVICE_WORD_OF_THE_DAY("Word of the Day"),
     SERVICE_YAHOO_FINANCE("Yahoo Finance"),
     SERVICE_TWELVE_DATA("Twelve Data"),
 
