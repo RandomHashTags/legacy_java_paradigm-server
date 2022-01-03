@@ -61,10 +61,22 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
         }
     }
 
-    private String getURL(String baseURL, Month startingMonth) {
-        return baseURL + "_(" + (startingMonth.getValue() <= 6 ? "January–June" : "July–December") + ")";
-    }
     private void refresh(int year, Month startingMonth, int startingDay, CompletionHandler handler) {
+        switch (year) {
+            case 2021:
+                refreshMultiList(year, startingMonth, startingDay, handler);
+                break;
+            default:
+                refreshSingularList(year, startingMonth, startingDay, handler);
+                break;
+        }
+    }
+    private void refreshSingularList(int year, Month startingMonth, int startingDay, CompletionHandler handler) {
+        final String url = "https://en.wikipedia.org/wiki/List_of_" + year + "_albums";
+        refreshList(url, 0, year, startingMonth, startingDay);
+        handler.handleString(null);
+    }
+    private void refreshMultiList(int year, Month startingMonth, int startingDay, CompletionHandler handler) {
         final Month nextMonth = startingMonth.plus(1);
         final boolean isBoth = nextMonth == Month.JULY;
         final String prefix = "https://en.wikipedia.org", baseURL = prefix + "/wiki/List_of_" + year + "_albums";
@@ -81,11 +93,19 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
             ParallelStream.stream(urls.keySet(), urlObj -> {
                 final String url = (String) urlObj;
                 final int tableIndex = urls.get(url);
-                final Document doc = getDocument(url);
-                loadPreUpcomingEvents(doc, tableIndex, startingMonth, startingDay, prefix, year);
+                refreshList(url, tableIndex, year, startingMonth, startingDay);
             });
         }
         handler.handleString(null);
+    }
+    private String getURL(String baseURL, Month startingMonth) {
+        return baseURL + "_(" + (startingMonth.getValue() <= 6 ? "January–June" : "July–December") + ")";
+    }
+
+    private void refreshList(String url, int tableIndex, int year, Month startingMonth, int startingDay) {
+        final String prefix = "https://en.wikipedia.org";
+        final Document doc = getDocument(url);
+        loadPreUpcomingEvents(doc, tableIndex, startingMonth, startingDay, prefix, year);
     }
 
     private void loadPreUpcomingEvents(Document doc, int tableIndex, Month startingMonth, int startingDay, String prefix, int year) {

@@ -6,16 +6,16 @@ public final class WeatherAlertTime {
     private long sent, effective, expires, ends;
 
     public WeatherAlertTime(String sent, String effective, String expires, String ends) {
-        if(sent != null) {
+        if(sent != null && !sent.isEmpty()) {
             this.sent = getTimeFrom(sent);
         }
-        if(effective != null) {
+        if(effective != null && !effective.isEmpty()) {
             this.effective = getTimeFrom(effective);
         }
-        if(expires != null) {
+        if(expires != null && !expires.isEmpty()) {
             this.expires = getTimeFrom(expires);
         }
-        if(ends != null) {
+        if(ends != null && !ends.isEmpty()) {
             this.ends = getTimeFrom(ends);
         }
     }

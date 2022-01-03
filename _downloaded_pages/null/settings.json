@@ -35,10 +35,17 @@
       },
       "weather": {
         "port": 0
+      },
+      "premium": {
+        "port": 0
       }
     }
   },
   "private_values": {
+    "apple": {
+      "production_mode": false,
+      "app_specific_shared_secret": ""
+    },
     "google": {
       "civic_api_key": "***REMOVED***"
     },

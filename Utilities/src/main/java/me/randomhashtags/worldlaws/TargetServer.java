@@ -1,8 +1,8 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.iap.InAppPurchases;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.*;
@@ -19,10 +19,10 @@ public enum TargetServer implements RestAPI, DataValues {
     TECHNOLOGY,
     UPCOMING_EVENTS,
     WEATHER,
+    PREMIUM,
 
     HOME,
     PING,
-    INAPPPURCHASES,
     COMBINE,
     ;
 
@@ -102,6 +102,7 @@ public enum TargetServer implements RestAPI, DataValues {
             case TECHNOLOGY: return 0;
             case UPCOMING_EVENTS: return 0;
             case WEATHER: return 0;
+            case PREMIUM: return 01;
             default: return -1;
         }
     }
@@ -118,7 +119,6 @@ public enum TargetServer implements RestAPI, DataValues {
         switch (this) {
             case HOME:
             case PING:
-            case INAPPPURCHASES:
             case COMBINE:
                 return false;
             default:
@@ -155,9 +155,6 @@ public enum TargetServer implements RestAPI, DataValues {
         switch (this) {
             case PING:
                 handler.handleString(getPingResponse());
-                break;
-            case INAPPPURCHASES:
-                handler.handleString(InAppPurchases.getProductIDs(version));
                 break;
             default:
                 tryHandlingResponse(version, identifier, method, request, query, handler);
@@ -263,6 +260,23 @@ public enum TargetServer implements RestAPI, DataValues {
             responseVersions.put(responseVersion.getKey(), responseVersion.getValue());
         }
         json.put("response_versions", responseVersions);
+        final JSONArray offlineServers = new JSONArray();
+        for(TargetServer server : TargetServer.values()) {
+            if(server.isRealServer()) {
+                final String url = server.getIpAddress() + "/ping";
+                server.request(url, RequestMethod.GET, null, null, new CompletionHandler() {
+                    @Override
+                    public void handleString(String string) {
+                        if(string == null) {
+                            offlineServers.put(server.getBackendID());
+                        }
+                    }
+                });
+            }
+        }
+        if(!offlineServers.isEmpty()) {
+            json.put("offline_servers", offlineServers);
+        }
         PING_RESPONSE = json.toString();
     }
 

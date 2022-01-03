@@ -8,7 +8,7 @@ import java.security.KeyStore;
 
 public final class Proxy implements UserServer, RestAPI {
 
-    private static ServerSocket SOCKET;
+    private ServerSocket server;
 
     public static void main(String[] args) {
         new Proxy().start();
@@ -23,7 +23,7 @@ public final class Proxy implements UserServer, RestAPI {
     public void stop() {
         stopListeningForUserInput();
         try {
-            SOCKET.close();
+            server.close();
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
@@ -40,10 +40,10 @@ public final class Proxy implements UserServer, RestAPI {
         }
     }
     private void connectClients(boolean https) {
-        WLLogger.logInfo("Proxy - Listening for http" + (https ? "s" : "") + " clients on port " + SOCKET.getLocalPort() + "...");
+        WLLogger.logInfo("Proxy - Listening for http" + (https ? "s" : "") + " clients on port " + server.getLocalPort() + "...");
         try {
-            while (!SOCKET.isClosed()) {
-                final Socket client = SOCKET.accept();
+            while (!server.isClosed()) {
+                final Socket client = server.accept();
                 new ProxyClient(client).start();
             }
         } catch (Exception e) {
@@ -53,7 +53,7 @@ public final class Proxy implements UserServer, RestAPI {
 
     private void setupHttpServer(int port) {
         try {
-            SOCKET = new ServerSocket(port);
+            server = new ServerSocket(port);
             connectClients(false);
         } catch (Exception e) {
             WLUtilities.saveException(e);
@@ -63,7 +63,7 @@ public final class Proxy implements UserServer, RestAPI {
         try {
             final SSLContext context = getHttpsContext();
             final SSLServerSocketFactory socketFactory = context.getServerSocketFactory();
-            SOCKET = socketFactory.createServerSocket(port);
+            server = socketFactory.createServerSocket(port);
             connectClients(true);
         } catch (Exception e) {
             WLUtilities.saveException(e);

@@ -16,4 +16,5 @@ include 'Environment'
 include 'BandwidthTester'
 include 'Health'
 include 'Stories'
+include 'Premium'
 

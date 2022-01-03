@@ -1,0 +1,18 @@
+{
+  "Auto-renewing Subscriptions": {
+    "INDIVIDUAL": {
+      "Individual Premium One Month": {
+      }
+    },
+    "FAMILY": {
+      "Family Premium One Month": {
+      }
+    }
+  },
+  "One-time Purchases": {
+    "Individual Premium Lifetime": {
+    },
+    "Family Premium Lifetime": {
+    }
+  }
+}

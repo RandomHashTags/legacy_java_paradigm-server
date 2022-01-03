@@ -2,7 +2,9 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
+import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
+import me.randomhashtags.worldlaws.recent.software.other.AppleSoftwareUpdates;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -71,12 +73,15 @@ public final class UpcomingEvents implements WLServer {
             }
         });*/
 
-        final TVShows instance = new TVShows();
-        final HashSet<String> dateStrings = getWeeklyEventDateStrings(LocalDate.now());
-        instance.getEventsFromDates(dateStrings, new CompletionHandler() {
+        AppleSoftwareUpdates.INSTANCE.refresh(LocalDate.now().minusMonths(2), new CompletionHandler() {
             @Override
-            public void handleStringValue(String key, String value) {
-                WLLogger.logInfo("UpcomingEvents;test;value=" + value);
+            public void handleObject(Object object) {
+                if(object != null) {
+                    final HashSet<PreRecentEvent> updates = (HashSet<PreRecentEvent>) object;
+                    for(PreRecentEvent event : updates) {
+                        WLLogger.logInfo("UpcomingEvents;test;string=" + event.toString());
+                    }
+                }
             }
         });
     }

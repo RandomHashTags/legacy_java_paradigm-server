@@ -37,7 +37,7 @@ public enum AppleSoftwareUpdates implements RecentEventController {
                 final HashSet<PreRecentEvent> updates = new HashSet<>();
                 final HashMap<String, String> descriptionValues = new HashMap<>() {{
                     put(" (Details available soon)", "Details available soon");
-                    put(" This update has no published CVE entries.", null);
+                    put(" This update has no published CVE entries.", "This update doesn't share its patch notes");
                 }};
                 ParallelStream.stream(updateElements, updateElementObj -> {
                     final Element updateElement = (Element) updateElementObj;
@@ -69,6 +69,10 @@ public enum AppleSoftwareUpdates implements RecentEventController {
                                         name = name.replace(descriptionValue, "");
                                     }
                                 }
+
+                                final HashMap<String, Object> customValues = new HashMap<>();
+                                customValues.put("availableFor", tds.get(1).text());
+
                                 final EventDate date = new EventDate(localDate);
                                 final EventSources sources = new EventSources(new EventSource("Apple Support: Security Updates", url));
 
@@ -77,7 +81,7 @@ public enum AppleSoftwareUpdates implements RecentEventController {
                                     final String ahref = link.attr("href");
                                     sources.append(new EventSource("Apple Support: " + name, ahref));
                                 }
-                                final PreRecentEvent preRecentEvent = new PreRecentEvent(date, name, description, null, sources);
+                                final PreRecentEvent preRecentEvent = new PreRecentEvent(date, name, description, null, sources, customValues);
                                 updates.add(preRecentEvent);
                             }
                         }

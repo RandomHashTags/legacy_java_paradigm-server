@@ -38,6 +38,10 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 if(target == null) {
                     return;
                 }
+                if(target.equals("ping")) {
+                    client.sendResponse("1");
+                    return;
+                }
                 if(target.startsWith("favicon")) {
                     client.sendResponse(HTTP_ERROR_404);
                     return;
