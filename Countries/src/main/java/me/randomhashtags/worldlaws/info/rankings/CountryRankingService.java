@@ -57,7 +57,7 @@ public interface CountryRankingService extends CountryService {
         final String siteName = url.startsWith("https://en.wikipedia.org/wiki/") ? url.split("/wiki/")[1].replace("_", " ") : getSiteName();
         final EventSource source = new EventSource("Wikipedia: " + siteName, url);
         final EventSources sources = new EventSources(source);
-        json.put("sources", sources.getJSON());
+        json.put("sources", sources.toJSONObject());
     }
 
     default void getRankedJSON(CompletionHandler handler) {

@@ -157,6 +157,7 @@ public enum SovereignStateInfo {
     SERVICE_CIA_VALUES("CIA Values"),
     SERVICE_COUNTRY_HISTORY("Country History"),
     SERVICE_COUNTRY_YEARLY_EVENTS("Country Events"),
+    SERVICE_TRAVEL_ADVISORIES("Travel Advisories"),
     SERVICE_TRAVEL_BRIEFING("Travel Briefing"),
     SERVICE_WIKIPEDIA("Wikipedia"),
 

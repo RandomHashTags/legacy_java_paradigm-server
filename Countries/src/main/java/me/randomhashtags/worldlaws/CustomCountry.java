@@ -23,13 +23,10 @@ import java.util.concurrent.ConcurrentHashMap;
 public final class CustomCountry implements SovereignState {
 
     private final String unStatus, sovereigntyDispute, shortName, name;
-    private HashSet<String> aliases;
-    private String isoAlpha2, isoAlpha3, flagEmoji;
-    private int currentGovernmentAdministration;
+    private String flagEmoji;
     private HashSet<Integer> governmentAdministrations;
-    private WLTimeZone[] timezones;
-    private JSONObject subdivisions;
-    private String information;
+    private SovereignStateInformation information;
+    private String informationCache;
     private WLCountry wlCountryCache;
 
     public CustomCountry(String tag, String unStatus, String sovereigntyDispute, Document page) {
@@ -66,39 +63,10 @@ public final class CustomCountry implements SovereignState {
     private void loadCountryDetails() {
         final WLCountry wlcountry = getWLCountry();
         if(wlcountry != null) {
-            aliases = wlcountry.getAliases();
-            isoAlpha2 = wlcountry.getISOAlpha2();
-            isoAlpha3 = wlcountry.getISOAlpha3();
             if(flagEmoji == null) {
                 flagEmoji = wlcountry.getFlagEmoji();
             }
-            timezones = wlcountry.getTimeZones();
             governmentAdministrations = LawUtilities.getAdministrationVersions(wlcountry);
-            if(governmentAdministrations != null) {
-                currentGovernmentAdministration = LawUtilities.getCurrentAdministrationVersion(wlcountry);
-            }
-
-            final SovereignStateSubdivision[] subdivisions = wlcountry.getSubdivisions();
-            if(subdivisions != null) {
-                final JSONObject json = new JSONObject();
-                final SubdivisionType defaultType = subdivisions[0].getDefaultType();
-                json.put("default_type_name_plural", defaultType.getPluralName());
-                json.put("default_type_name_singular", defaultType.getSingularName());
-                if(LawUtilities.hasSubdivisionGovernmentsSupported(wlcountry)) {
-                    json.put("default_supports_government", true);
-                }
-                final JSONObject subdivisionsJSON = new JSONObject();
-                ParallelStream.stream(Arrays.asList(subdivisions), subdivisionObj -> {
-                    final SovereignStateSubdivision subdivision = (SovereignStateSubdivision) subdivisionObj;
-                    String name = subdivision.getRealName();
-                    if(name == null) {
-                        name = subdivision.getName();
-                    }
-                    subdivisionsJSON.put(name, subdivision.toJSONObject());
-                });
-                json.put("subdivisions", subdivisionsJSON);
-                this.subdivisions = json;
-            }
         }
     }
 
@@ -124,8 +92,8 @@ public final class CustomCountry implements SovereignState {
 
     @Override
     public void getInformation(APIVersion version, CompletionHandler handler) {
-        if(information != null) {
-            handler.handleString(information);
+        if(informationCache != null) {
+            handler.handleString(informationCache);
         } else {
             final long started = System.currentTimeMillis();
             getJSONObject(Folder.COUNTRIES_INFORMATION, shortName, new CompletionHandler() {
@@ -145,7 +113,7 @@ public final class CustomCountry implements SovereignState {
                         for(SovereignStateResource resource : resources) {
                             set.add(resource.toString());
                         }
-                        values.put(SovereignStateInformationType.RESOURCES, set);
+                        values.put(SovereignStateInformationType.RESOURCES_STATIC, set);
                         loadNew(country, services, values, handler);
                     } else {
                         handler.handleString("{}");
@@ -154,19 +122,76 @@ public final class CustomCountry implements SovereignState {
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    ParallelStream.stream(CountryServices.NONSTATIC_SERVICES, serviceObj -> {
-                        final CountryService service = (CountryService) serviceObj;
-                    });
-                    information = json.toString();
+                    if(information == null) {
+                        information = new SovereignStateInformation(json);
+                    }
+                    updateNonStaticInformation();
+                    informationCache = information.toString();
                     WLLogger.logInfo("CustomCountry - loaded information for country \"" + name + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handleString(information);
+                    handler.handleString(informationCache);
                 }
             });
         }
     }
 
+    public void updateNonStaticInformation() {
+        final SovereignStateInformationType resourcesType = SovereignStateInformationType.RESOURCES_NONSTATIC;
+        final String backendID = getBackendID();
+        final CompletionHandler serviceHandler = new CompletionHandler() {
+            @Override
+            public void handleServiceResponse(CountryService service, String string) {
+                final SovereignStateInformationType type = service.getInformationType();
+                if(string != null && !string.equals("null")) {
+                    information.putIfAbsent(type, new HashSet<>());
+                    information.get(type).add(string);
+                }
+            }
+        };
+
+        for(SovereignStateInformationType type : SovereignStateInformationType.values()) {
+            if(type.isNonStatic()) {
+                information.remove(type);
+            }
+        }
+        ParallelStream.stream(CountryServices.NONSTATIC_SERVICES, serviceObj -> {
+            final CountryService service = (CountryService) serviceObj;
+            final WLCountry country = getWLCountry();
+            final SovereignStateInfo info = service.getInfo();
+            final String countryIdentifier;
+            switch (info) {
+                case SERVICE_CIA_VALUES:
+                    final String targetName;
+                    switch (country) {
+                        case BAHAMAS:
+                            targetName = "Bahamas the";
+                            break;
+                        default:
+                            targetName = shortName;
+                            break;
+                    }
+                    countryIdentifier = targetName;
+                    break;
+                default:
+                    countryIdentifier = backendID;
+                    break;
+            }
+
+            information.remove(resourcesType);
+            final HashSet<SovereignStateResource> resources = service.getResources(countryIdentifier);
+            if(resources != null && !resources.isEmpty()) {
+                information.putIfAbsent(resourcesType, new HashSet<>());
+                for(SovereignStateResource resource : resources) {
+                    information.get(resourcesType).add(resource.toString());
+                }
+            }
+
+            service.getCountryValue(countryIdentifier, serviceHandler);
+        });
+        informationCache = information.toString();
+    }
+
     private void loadNew(WLCountry country, HashSet<CountryService> services, ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values, CompletionHandler handler) {
-        final SovereignStateInformationType resourcesInformationType = SovereignStateInformationType.RESOURCES;
+        final SovereignStateInformationType resourcesInformationType = SovereignStateInformationType.RESOURCES_STATIC;
         final String backendID = getBackendID();
         final CompletionHandler serviceHandler = new CompletionHandler() {
             @Override
@@ -192,31 +217,6 @@ public final class CustomCountry implements SovereignState {
             final SovereignStateInfo info = service.getInfo();
             final String countryIdentifier;
             switch (info) {
-                case SERVICE_CIA_VALUES:
-                    final String targetName;
-                    switch (country) {
-                        case BAHAMAS:
-                            targetName = "Bahamas the";
-                            break;
-                        default:
-                            targetName = shortName;
-                            break;
-                    }
-                    countryIdentifier = null;
-                    service.getResources(targetName, new CompletionHandler() {
-                        @Override
-                        public void handleObject(Object object) {
-                            @SuppressWarnings({ "unchecked" })
-                            final HashSet<SovereignStateResource> resources = object != null ? (HashSet<SovereignStateResource>) object : null;
-                            if(resources != null && !resources.isEmpty()) {
-                                values.putIfAbsent(resourcesInformationType, new HashSet<>());
-                                for(SovereignStateResource resource : resources) {
-                                    values.get(resourcesInformationType).add(resource.toString());
-                                }
-                            }
-                        }
-                    });
-                    break;
                 case SERVICE_TRAVEL_BRIEFING:
                 case SERVICE_WIKIPEDIA:
                     countryIdentifier = shortName;
@@ -234,12 +234,19 @@ public final class CustomCountry implements SovereignState {
                     break;
             }
             if(countryIdentifier != null) {
+                final HashSet<SovereignStateResource> resources = service.getResources(countryIdentifier);
+                if(resources != null && !resources.isEmpty()) {
+                    values.putIfAbsent(resourcesInformationType, new HashSet<>());
+                    for(SovereignStateResource resource : resources) {
+                        values.get(resourcesInformationType).add(resource.toString());
+                    }
+                }
+
                 service.getCountryValue(countryIdentifier, serviceHandler);
             }
         });
-
-        final SovereignStateInformation info = new SovereignStateInformation(values);
-        handler.handleString(info.toString());
+        information = new SovereignStateInformation(values);
+        handler.handleString(information.toString());
     }
 
     public WLCountry getWLCountry() {
@@ -272,8 +279,49 @@ public final class CustomCountry implements SovereignState {
         return new JSONArray(governmentAdministrations);
     }
 
+    private JSONObject getSubdivisionsJSON() {
+        final WLCountry wlcountry = getWLCountry();
+        JSONObject returnedJSON = null;
+        final SovereignStateSubdivision[] subdivisions = wlcountry != null ? wlcountry.getSubdivisions() : null;
+        if(subdivisions != null) {
+            final JSONObject json = new JSONObject();
+            final SubdivisionType defaultType = subdivisions[0].getDefaultType();
+            json.put("default_type_name_plural", defaultType.getPluralName());
+            json.put("default_type_name_singular", defaultType.getSingularName());
+            if(LawUtilities.hasSubdivisionGovernmentsSupported(wlcountry)) {
+                json.put("default_supports_government", true);
+            }
+            final JSONObject subdivisionsJSON = new JSONObject();
+            ParallelStream.stream(Arrays.asList(subdivisions), subdivisionObj -> {
+                final SovereignStateSubdivision subdivision = (SovereignStateSubdivision) subdivisionObj;
+                String name = subdivision.getRealName();
+                if(name == null) {
+                    name = subdivision.getName();
+                }
+                subdivisionsJSON.put(name, subdivision.toJSONObject());
+            });
+            json.put("subdivisions", subdivisionsJSON);
+            returnedJSON = json;
+        }
+        return returnedJSON;
+    }
+
     public JSONObject toJSONObject() {
         final boolean hasGovernmentAdministrations = governmentAdministrations != null;
+        final WLCountry wlcountry = getWLCountry();
+        HashSet<String> aliases = null;
+        WLTimeZone[] timezones = null;
+        String isoAlpha2 = null, isoAlpha3 = null;
+        int currentGovernmentAdministration = -1;
+        if(wlcountry != null) {
+            aliases = wlcountry.getAliases();
+            timezones = wlcountry.getTimeZones();
+            isoAlpha2 = wlcountry.getISOAlpha2();
+            isoAlpha3 = wlcountry.getISOAlpha3();
+            currentGovernmentAdministration = LawUtilities.getCurrentAdministrationVersion(wlcountry);
+        }
+        final JSONObject subdivisions = getSubdivisionsJSON();
+
         final JSONObject json = new JSONObject();
         if(aliases != null) {
             aliases.removeIf(alias -> alias.equalsIgnoreCase(shortName) || alias.equalsIgnoreCase(name));

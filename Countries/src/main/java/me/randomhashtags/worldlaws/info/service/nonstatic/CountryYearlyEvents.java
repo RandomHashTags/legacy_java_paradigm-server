@@ -10,7 +10,7 @@ public enum CountryYearlyEvents implements CountryService {
 
     @Override
     public SovereignStateInformationType getInformationType() {
-        return SovereignStateInformationType.SERVICES;
+        return SovereignStateInformationType.SERVICES_STATIC;
     }
 
     @Override

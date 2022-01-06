@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
-import me.randomhashtags.worldlaws.history.CountryHistory;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
 import me.randomhashtags.worldlaws.info.agriculture.ProductionFoods;
@@ -16,9 +15,8 @@ import me.randomhashtags.worldlaws.info.rankings.CountryRankingServices;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankings;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
-import me.randomhashtags.worldlaws.info.service.TravelBriefing;
 import me.randomhashtags.worldlaws.info.service.nonstatic.CIAServices;
-import me.randomhashtags.worldlaws.info.service.nonstatic.CountryYearlyEvents;
+import me.randomhashtags.worldlaws.info.service.nonstatic.TravelAdvisories;
 import me.randomhashtags.worldlaws.service.WikipediaCountryService;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import org.json.JSONArray;
@@ -54,19 +52,31 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
+        TravelAdvisories.INSTANCE.loadData(new CompletionHandler() {
+            @Override
+            public void handleServiceResponse(CountryService service, String string) {
+                TravelAdvisories.INSTANCE.getCountryValue("italy", new CompletionHandler() {
+                    @Override
+                    public void handleString(String string) {
+                        WLLogger.logInfo("Countries;test;string=" + string);
+                    }
+                });
+            }
+        });
+        /*
         loadServices();
         loadCountries(new CompletionHandler() {
             @Override
             public void handleString(String string) {
-                /*
+
                 getServerResponse(APIVersion.v1, "information/unitedstates", new CompletionHandler() {
                     @Override
                     public void handleString(String string) {
                         WLLogger.logInfo("Countries;test;string=" + string);
                     }
-                });*/
+                });
             }
-        });
+        });*/
     }
 
     @Override
@@ -94,19 +104,26 @@ public final class Countries implements WLServer {
             addAll(Arrays.asList(LegalityDrugs.values()));
             addAll(Arrays.asList(
                     Flyover.INSTANCE,
-                    TravelBriefing.INSTANCE,
                     new WikipediaCountryService(true)
             ));
             addAll(Arrays.asList(CountryRankings.values()));
-            add(CountryHistory.INSTANCE);
         }};
-
         CountryServices.STATIC_SERVICES.addAll(services);
 
         CountryServices.NONSTATIC_SERVICES.addAll(Arrays.asList(
-                CIAServices.INSTANCE,
-                CountryYearlyEvents.INSTANCE
+                CIAServices.INSTANCE
         ));
+
+        registerFixedTimer(WLUtilities.COUNTRIES_NON_STATIC_VALUES_UPDATE_INTERVAL, new CompletionHandler() {
+            @Override
+            public void handleObject(Object object) {
+                final long started = System.currentTimeMillis();
+                for(CustomCountry country : countriesMap.values()) {
+                    country.updateNonStaticInformation();
+                }
+                WLLogger.logInfo("Countries - refreshed " + countriesMap.size() + " non-static country information (took " + (System.currentTimeMillis()-started) + "ms)");
+            }
+        });
     }
 
     private void getCountries(CompletionHandler handler) {

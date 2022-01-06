@@ -20,7 +20,7 @@ public final class APODEvent extends UpcomingEvent {
 
     @Override
     public String getPropertiesJSONObject() {
-        return "{" +
+        return copyright == null ? null : "{" +
                 "\"copyright\":\"" + copyright + "\"" +
                 "}";
     }

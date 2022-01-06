@@ -12,8 +12,10 @@ public enum SovereignStateInformationType {
     NATIONAL,
     POLITICS,
     RANKINGS,
-    RESOURCES,
-    SERVICES,
+    RESOURCES_NONSTATIC,
+    RESOURCES_STATIC,
+    SERVICES_STATIC,
+    SERVICES_NONSTATIC,
     SINGLE_VALUES,
 
     NEIGHBORS,
@@ -21,5 +23,9 @@ public enum SovereignStateInformationType {
 
     public String getName() {
         return name();
+    }
+
+    public boolean isNonStatic() {
+        return name().endsWith("NONSTATIC");
     }
 }

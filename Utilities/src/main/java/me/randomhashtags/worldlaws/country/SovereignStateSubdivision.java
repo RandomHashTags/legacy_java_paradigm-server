@@ -52,7 +52,6 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
     default SovereignStateSubdivision[] collectNeighbors(SovereignStateSubdivision...subdivisions) {
         return subdivisions;
     }
-
     default HashSet<SovereignStateResource> getCustomResources() {
         return null;
     }
@@ -71,22 +70,22 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
                     values.put(SovereignStateInformationType.NEIGHBORS, neighbors);
                 }
 
-                final HashSet<SovereignStateResource> resources = new HashSet<>();
+                final HashSet<SovereignStateResource> resources = new HashSet<>(), customResources = getCustomResources();
                 final String governmentWebsite = getGovernmentWebsite();
                 if(governmentWebsite != null) {
                     resources.add(new SovereignStateResource("Government Website", governmentWebsite));
                 }
-                final HashSet<SovereignStateResource> customResources = getCustomResources();
                 if(customResources != null) {
                     resources.addAll(customResources);
                 }
 
                 final HashSet<String> set = new HashSet<>();
+                final SovereignStateInformationType resourcesInformationType = SovereignStateInformationType.RESOURCES_STATIC;
                 if(!resources.isEmpty()) {
                     for(SovereignStateResource resource : resources) {
                         set.add(resource.toString());
                     }
-                    values.put(SovereignStateInformationType.RESOURCES, set);
+                    values.put(resourcesInformationType, set);
                 }
 
                 final HashSet<CountryService> services = new HashSet<>() {{
@@ -118,6 +117,14 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
                             break;
                     }
                     if(territory != null) {
+                        final HashSet<SovereignStateResource> nonStaticResources = service.getResources(territory);
+                        if(nonStaticResources != null && !nonStaticResources.isEmpty()) {
+                            values.putIfAbsent(resourcesInformationType, new HashSet<>());
+                            for(SovereignStateResource resource : nonStaticResources) {
+                                values.get(resourcesInformationType).add(resource.toString());
+                            }
+                        }
+
                         service.getCountryValue(territory, serviceHandler);
                     }
                 });

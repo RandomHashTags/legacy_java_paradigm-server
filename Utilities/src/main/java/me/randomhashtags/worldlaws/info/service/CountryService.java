@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
+import me.randomhashtags.worldlaws.country.SovereignStateResource;
 import me.randomhashtags.worldlaws.country.SovereignStateService;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
@@ -22,8 +23,8 @@ public interface CountryService extends SovereignStateService {
     SovereignStateInformationType getInformationType();
     SovereignStateInfo getInfo();
 
-    default void getResources(String countryBackendID, CompletionHandler handler) {
-        handler.handleObject(null);
+    default HashSet<SovereignStateResource> getResources(String countryBackendID) {
+        return null;
     }
     default void getCountryValue(String countryBackendID, CompletionHandler handler) {
         getCountryValueFromCountryJSONObject(countryBackendID, handler);

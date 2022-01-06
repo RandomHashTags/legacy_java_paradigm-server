@@ -16,6 +16,7 @@ import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicAlbums;
 import me.randomhashtags.worldlaws.upcoming.science.AstronomyPictureOfTheDay;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
+import me.randomhashtags.worldlaws.upcoming.space.nasa.NASANeo;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
 import me.randomhashtags.worldlaws.upcoming.sports.MLB;
 import me.randomhashtags.worldlaws.upcoming.sports.UFC;
@@ -76,7 +77,7 @@ public final class UpcomingEvents implements WLServer {
             }
         });*/
         final HashSet<String> dates = getWeeklyEventDateStrings(LocalDate.now());
-        new AstronomyPictureOfTheDay().getEventsFromDates(dates, new CompletionHandler() {
+        new NASANeo().getEventsFromDates(dates, new CompletionHandler() {
             @Override
             public void handleStringValue(String key, String value) {
                 WLLogger.logInfo("UpcomingEvents;test;string=" + value);

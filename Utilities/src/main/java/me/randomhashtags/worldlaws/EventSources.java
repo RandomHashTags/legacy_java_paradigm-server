@@ -24,7 +24,7 @@ public final class EventSources {
         sources.add(source);
     }
 
-    public JSONObject getJSON() {
+    public JSONObject toJSONObject() {
         final JSONObject json = new JSONObject();
         for(EventSource source : sources) {
             json.put(source.getSiteName(), source.getJSON());

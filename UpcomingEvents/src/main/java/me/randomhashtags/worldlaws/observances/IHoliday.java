@@ -50,7 +50,7 @@ public interface IHoliday extends Jsoupable, Jsonable {
         final JSONObject json = new JSONObject();
         json.put("description", description);
         json.put("imageURL", imageURL);
-        json.put("sources", sources.getJSON());
+        json.put("sources", sources.toJSONObject());
         return json;
     }
     default void getHolidayJSON(HolidayType holidayType, CompletionHandler handler) {

@@ -21,6 +21,7 @@ import java.time.Month;
 import java.util.concurrent.TimeUnit;
 
 public abstract class WLUtilities {
+    public static final long COUNTRIES_NON_STATIC_VALUES_UPDATE_INTERVAL = TimeUnit.DAYS.toMillis(3);
     public static final long LAWS_RECENT_ACTIVITY_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(3);
     public static final long SAVE_STATISTICS_INTERVAL = TimeUnit.MINUTES.toMillis(15);
     public static final long PROXY_PING_RESPONSE_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);
@@ -74,7 +75,7 @@ public abstract class WLUtilities {
         connection.setConnectTimeout(10_000);
         connection.setUseCaches(false);
         connection.setDoOutput(true);
-        connection.setRequestProperty("User-Agent", "Chromium/939171 (platform; rv:raspbian)");
+        connection.setRequestProperty("User-Agent", "Java Application/11 (application: Paradigm; contact:***REMOVED***)");
         int responseCode = 200;
         if(connection instanceof HttpsURLConnection) {
             final HttpsURLConnection httpsConnection = (HttpsURLConnection) connection;

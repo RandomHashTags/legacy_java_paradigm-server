@@ -24,7 +24,9 @@ public enum WLCountry {
     AUSTRIA,
     AZERBAIJAN,
 
-    BAHAMAS,
+    BAHAMAS(
+            "The Bahamas"
+    ),
     BAHRAIN,
     BANGLADESH,
     BARBADOS,
@@ -47,7 +49,9 @@ public enum WLCountry {
     CAMBODIA,
     CAMEROON,
     CANADA,
-    CAPE_VERDE,
+    CAPE_VERDE(
+            "Cabo Verde"
+    ),
     CAYMAN_ISLANDS,
     CENTRAL_AFRICAN_REPUBLIC,
     CHAD,
@@ -57,7 +61,7 @@ public enum WLCountry {
     COMOROS,
     COOK_ISLANDS,
     COSTA_RICA,
-    IVORY_COAST("Côte d'Ivoire"),
+    IVORY_COAST("Côte d'Ivoire", "Cote d'Ivoire"),
     CROATIA,
     CUBA,
     CYPRUS,
@@ -84,7 +88,9 @@ public enum WLCountry {
     FRANCE,
 
     GABON,
-    GAMBIA,
+    GAMBIA(
+            "The Gambia"
+    ),
     GEORGIA,
     GERMANY,
     GHANA,
@@ -213,7 +219,9 @@ public enum WLCountry {
     SINGAPORE,
     SLOVAKIA,
     SLOVENIA,
-    SOLOMON_ISLANDS,
+    SOLOMON_ISLANDS(
+            "Soloman Island"
+    ),
     SOMALIA,
     SOMALILAND,
     SOUTH_AFRICA,
