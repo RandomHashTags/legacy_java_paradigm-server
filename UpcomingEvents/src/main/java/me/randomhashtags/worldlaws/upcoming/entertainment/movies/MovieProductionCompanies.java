@@ -9,7 +9,6 @@ import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 
 import java.util.Arrays;
-import java.util.HashSet;
 import java.util.List;
 
 public enum MovieProductionCompanies {
@@ -26,6 +25,8 @@ public enum MovieProductionCompanies {
     AMAZON_STUDIOS,
     AMERICAN_ZOETROPE,
     ANIMAL_LOGIC,
+    ANNAPURNA_PICTURES,
+    ATOMIC_MONSTER_PRODUCTIONS,
 
     // Amblin
     AMBLIN_ENTERTAINMENT,
@@ -41,11 +42,15 @@ public enum MovieProductionCompanies {
     APPLE_TV_PLUS("Apple TV+"),
 
     BAD_ROBOT_PRODUCTIONS("Bad Robot Productions", "Bad Robot"),
-    BALBOA_PRODUCTIONS,
+    BALBOA_PRODUCTIONS("Balboa Productions", "Sylvester Stallone"),
+    BARDEL_ENTERTAINMENT,
+    BLACK_BEAR_PICTURES,
+    BLISS_MEDIA,
     BLUMHOUSE_PRODUCTIONS,
     BRON_STUDIOS("Bron Studios", "Bron Creative", "BRON"),
 
     CBS_FILMS("CBS Films"),
+    CENTROPOLIS_ENTERTAINMENT,
     CHERNIN_ENTERTAINMENT,
     CONSTANTIN_FILM,
     CROSS_CREEK_PICTURES,
@@ -58,12 +63,14 @@ public enum MovieProductionCompanies {
     _20TH_CENTURY_ANIMATION("20th Century Animation"),
     _20TH_CENTURY_STUDIOS("20th Century Studios", "20th Century Fox"),
     DISCOVERY_PLUS("Discovery+"),
+    DISNEY_CHANNEL("Disney Channel", "The Disney Channel", "Disney"),
     DISNEY_PLUS("Disney+"),
     DISNEY_TELEVISION_ANIMATION,
     LUCASFILM,
     MARVEL_STUDIOS,
     MARVEL_ENTERTAINMENT,
     PIXAR("Pixar", "Pixar Animation Studios"),
+    REGENCY_ENTERPRISES("Regency Enterprises", "Regency", "Regency Entertainment", "Monarchy Enterprises"),
     SEARCHLIGHT_PICTURES("Searchlight Pictures", "Searchlight"),
     TOUCHSTONE_PICTURES,
     WALT_DISNEY_ANIMATION_STUDIOS,
@@ -79,11 +86,14 @@ public enum MovieProductionCompanies {
     ESCAPE_ARTISTS("Escape Artists", "Escape Artists Productions"),
     EUROPACORP("EuropaCorp"),
 
+    FILMNATION_ENTERTAINMENT("FilmNation Entertainment"),
     FORTIS_FILMS,
 
     GHOST_HOUSE_PICTURES,
     GK_FILMS("GK Films"),
+    GOLD_CIRCLE_FILMS("Gold Circle Films", "Gold Circle Entertainment"),
     GOOD_UNIVERSE,
+    GRAVITAS_VENTURES,
 
     HAPPY_MADISON_PRODUCTIONS,
 
@@ -91,15 +101,17 @@ public enum MovieProductionCompanies {
     HBO_FILMS("HBO Films", "HBO Pictures"),
     HBO_MAX("HBO Max"),
 
-    HEYDEY_FILMS("Heyday Films"),
+    HELLO_SUNSHINE("Hello Sunshine (company)", "Reese Witherspoon"),
+    HEYDAY_FILMS("Heyday Films"),
     HULU,
 
-    ILLUMINATION("Illumination (company)", "Illumination Entertainment"),
+    IAC_FILMS("IAC (company)", "IAC"),
     IMAGEMOVERS("ImageMovers", "ImageMovers Digital"),
+    IMAGINE_ENTERTAINMENT("Imagine Entertainment", "Imagine", "Imagine Films Entertainment"),
     INTREPID_PICTURES,
 
     LEGENDARY("Legendary Entertainment", "Legendary Pictures Productions", "Legendary Entertainment", "Legendary Pictures"),
-    LIGHTSTORM_ENTERTAINMENT,
+    LIGHTSTORM_ENTERTAINMENT("Lightstorm Entertainment", "James Cameron", "Lawrence Kasanoff"),
 
     // Lionsgate
     LIONSGATE,
@@ -107,19 +119,26 @@ public enum MovieProductionCompanies {
     LIONSGATE_PREMIERE,
     SUMMIT_ENTERTAINMENT,
 
+    MANDEVILLE_FILMS,
+
     // Metro-Goldwyn-Mayer
     METRO_GOLDWYN_MAYER("Metro-Goldwyn-Mayer", "Metro-Goldwyn-Mayer Studios", "MGM"),
     ORION_CLASSICS,
     ORION_PICTURES("Orion Pictures", "Orion Releasing", "Orion Pictures Corporation"),
 
     MILLENNIUM_MEDIA("Millennium Media", "Millennium Films"),
+    MIRAMAX("Miramax", "Miramax Films"),
     MRC("MRC (company)", "Media Rights Capital", "MRC Film"),
+    MTV_ENTERTAINMENT_STUDIOS("MTV Entertainment Studios"),
 
     NEON("Neon (company)", "NEON"),
 
     // Netflix
     NETFLIX,
     NETFLIX_ANIMATION,
+
+    NEW_REPUBLIC_PICTURES,
+    NINTENDO,
 
     ONE_RACE_FILMS("One Race Films", "One Race Productions"),
     OPEN_ROAD_FILMS,
@@ -134,9 +153,11 @@ public enum MovieProductionCompanies {
     PARAMOUNT_PLUS("Paramount+"),
     PARAMOUNT_PLAYERS,
 
-    PARTICIPANT("Participant (company)", "Participant Media"),
+    PARTICIPANT("Participant (company)", "Participant Media", "Participant Productions"),
     PEACOCK("Peacock (streaming service)"),
     PERFECT_WORLD_PICTURES,
+    PINNACLE_PEAK_PICTURES("Pinnacle Peak Pictures", "Pure Flix Entertainment"),
+    PLAN_B_ENTERTAINMENT("Plan B Entertainment", "Plan B", "Brad Pitt"),
     PLATINUM_DUNES,
     POINT_GREY_PICTURES,
 
@@ -144,23 +165,29 @@ public enum MovieProductionCompanies {
 
     RADIO_SILENCE("Radio Silence Productions", "Radio Silence"),
     RATPAC_DUNE_ENTERTAINMENT("RatPac-Dune Entertainment"),
+    RVK_STUDIOS("RVK Studios"),
 
     SABAN_FILMS,
+    SATURN_FILMS("Saturn Films", "Nicolas Cage"),
+    SEGA_SAMMY_GROUP("Sega Sammy Holdings", "Sega Sammy"),
     SCOTT_FREE_PRODUCTIONS,
     SCREEN_MEDIA_FILMS,
     SEVEN_BUCKS_PRODUCTIONS,
     SHOWTIME("Showtime (TV network)"),
+    SKYDANCE_ANIMATION("Skydance Media#Skydance Animation"),
     SKYDANCE_MEDIA,
     SMOKEHOUSE_PICTURES,
-    STX_ENTERTAINMENT("STX Entertainment", "STX Financing", "STX Films"),
+    STX_ENTERTAINMENT("STX Entertainment", "STX Financing", "STX Films", "STXfilms"),
 
     // Sony
     GHOST_CORPS,
+    PLAYSTATION_PRODUCTIONS("PlayStation Productions", "PlayStation Originals"),
     SCREEN_GEMS,
     SONY_PICTURES("Sony Pictures", "Sony Pictures Entertainment", "SPE", "Columbia Pictures", "Columbia Pictures Entertainment"),
     SONY_PICTURES_ANIMATION,
     SONY_PICTURES_CLASSICS,
     SONY_PICTURES_IMAGEWORKS,
+    SONY_PICTURES_MOTION_PICTURE_GROUP("Sony Pictures Motion Picture Group", "3000 Pictures", "Sony Pictures Entertainment Motion Picture Group", "Columbia TriStar Motion Picture Group", "SPMPG"),
     TRISTAR_PICTURES("TriStar Pictures"),
     TRISTAR_PRODUCTIONS("TriStar Productions"),
 
@@ -179,7 +206,13 @@ public enum MovieProductionCompanies {
     TSG_ENTERTAINMENT("TSG Entertainment"),
     TWISTED_PICTURES,
 
+    // NBC Universal
+    CARNIVAL_FILMS,
+    FOCUS_FEATURES,
+    ILLUMINATION("Illumination (company)", "Illumination Entertainment"),
+    UNIVERSAL_ANIMATION_STUDIOS("Universal Animation Studios", "Universal Cartoon Studios"),
     UNIVERSAL_PICTURES("Universal Pictures", "Universal", "Universal Studios", "Universal City Studios", "Universal Pictures Home Entertainment"),
+    WORKING_TITLE_FILMS("Working Title Films", "Working Title"),
 
     VERTICAL_ENTERTAINMENT,
     VERTIGO_ENTERTAINMENT,
@@ -198,6 +231,7 @@ public enum MovieProductionCompanies {
     WARNER_BROS_ENTERTAINMENT("Warner Bros.", "Warner Bros. Entertainment", "WB"),
     WARNER_BROS_PICTURES("Warner Bros. Pictures"),
 
+    WILL_PACKER_PRODUCTIONS,
     WINGNUT_FILMS("WingNut Films"),
     WWE_STUDIOS("WWE Studios", "WWE Films"),
 
@@ -217,37 +251,45 @@ public enum MovieProductionCompanies {
             Jsonable.getStaticJSONObject(Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies", new CompletionHandler() {
                 @Override
                 public void load(CompletionHandler handler) {
-                    final MovieProductionCompanies[] companies = values();
-                    final HashSet<String> values = new HashSet<>();
-                    final CompletionHandler completionHandler = new CompletionHandler() {
-                        @Override
-                        public void handleStringValue(String key, String value) {
-                            values.add("\"" + key + "\":" + value);
-                        }
-                    };
-                    ParallelStream.stream(Arrays.asList(companies), company -> ((MovieProductionCompanies) company).getDetails(completionHandler));
-
-                    final StringBuilder builder = new StringBuilder("{");
-                    final int responseVersion = ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue();
-                    builder.append("\"version\":").append(responseVersion).append(",");
-                    builder.append("\"imageURLPrefix\":\"").append(getImageURLPrefix()).append("\",");
-                    builder.append("\"companies\":{");
-                    boolean isFirst = true;
-                    for(String json : values) {
-                        builder.append(isFirst ? "" : ",").append(json);
-                        isFirst = false;
-                    }
-                    builder.append("}}");
-                    handler.handleString(builder.toString());
+                    loadJSON(handler);
                 }
 
                 @Override
                 public void handleJSONObject(JSONObject json) {
-                    CACHE = json.toString();
-                    handler.handleString(CACHE);
+                    final int responseVersion = ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue();
+                    if(json.getInt("response_version") < responseVersion) {
+                        loadJSON(new CompletionHandler() {
+                            @Override
+                            public void handleJSONObject(JSONObject json) {
+                                CACHE = json.toString();
+                                handler.handleString(CACHE);
+                            }
+                        });
+                    } else {
+                        CACHE = json.toString();
+                        handler.handleString(CACHE);
+                    }
                 }
             });
         }
+    }
+    private static void loadJSON(CompletionHandler handler) {
+        final MovieProductionCompanies[] companies = values();
+        final JSONObject companiesJSON = new JSONObject();
+        final CompletionHandler completionHandler = new CompletionHandler() {
+            @Override
+            public void handleJSONValue(String key, JSONObject json) {
+                companiesJSON.put(key, json);
+            }
+        };
+        ParallelStream.stream(Arrays.asList(companies), company -> ((MovieProductionCompanies) company).getDetails(completionHandler));
+
+        final JSONObject json = new JSONObject();
+        final int responseVersion = ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue();
+        json.put("response_version", responseVersion);
+        json.put("imageURLPrefix", getImageURLPrefix());
+        json.put("companies", companiesJSON);
+        handler.handleJSONObject(json);
     }
     private static String getImageURLPrefix() {
         return "https://upload.wikimedia.org/wikipedia/en/thumb/";
@@ -287,12 +329,12 @@ public enum MovieProductionCompanies {
         }
 
         final EventSources sources = doc.getExternalLinks();
-        sources.append(new EventSource("Wikipedia: " + originalWikipediaName, url));
+        sources.add(new EventSource("Wikipedia: " + originalWikipediaName, url));
 
         final JSONObject sourcesJSON = new JSONObject(sources.toString());
         json.put("sources", sourcesJSON);
 
-        handler.handleStringValue(originalWikipediaName.split(" \\(")[0], json.toString());
+        handler.handleJSONValue(originalWikipediaName.split(" \\(")[0], json);
     }
 
     private final String wikipediaName;

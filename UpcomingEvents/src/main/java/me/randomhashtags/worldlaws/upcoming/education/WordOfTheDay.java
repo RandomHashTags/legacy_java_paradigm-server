@@ -51,7 +51,7 @@ public final class WordOfTheDay extends LoadedUpcomingEventController {
     public void loadUpcomingEvent(String id, CompletionHandler handler) {
     }
 
-    private WordOfTheDayObj getWordOfTheDay(String url) {
+    private WordOfTheDayObj getWordOfTheDay(String url) { // TODO: more in-depth properties (+"see entry")
         final Elements mainArticle = getDocumentElements(Folder.OTHER, url, "main article");
         WordOfTheDayObj obj = null;
         if(mainArticle != null) {

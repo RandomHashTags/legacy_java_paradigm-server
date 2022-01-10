@@ -104,7 +104,7 @@ public final class Florida extends TestLawSubdivisionController {
             }
 
             final EventSources sources = new EventSources();
-            sources.append(new EventSource("Florida Legislature: Statute Page", url));
+            sources.add(new EventSource("Florida Legislature: Statute Page", url));
             statute = new TestStatute(topic, description.toString(), null, sources);
         }
         handler.handleStatute(statute);

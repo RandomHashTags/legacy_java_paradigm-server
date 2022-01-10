@@ -129,7 +129,7 @@ public final class Arizona extends TestLawSubdivisionController {
                 }
                 final String topic = doc.select("p font u").get(0).text();
                 final EventSources sources = new EventSources();
-                sources.append(new EventSource("Arizona Legislature: Statute Page", url));
+                sources.add(new EventSource("Arizona Legislature: Statute Page", url));
                 final TestStatute statute = new TestStatute(topic, description, subdivisions, sources);
                 handler.handleStatute(statute);
                 return;

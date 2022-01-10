@@ -106,7 +106,7 @@ public final class Ohio extends TestLawSubdivisionController {
             }
 
             final EventSources sources = new EventSources();
-            sources.append(new EventSource("Ohio Legislature: Statute Page", url));
+            sources.add(new EventSource("Ohio Legislature: Statute Page", url));
             statute = new TestStatute(topic, description.toString(), subdivisions, sources);
         }
         handler.handleStatute(statute);

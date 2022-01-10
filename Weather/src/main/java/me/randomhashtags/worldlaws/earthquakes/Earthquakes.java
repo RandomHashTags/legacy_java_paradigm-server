@@ -248,7 +248,7 @@ public enum Earthquakes implements RestAPI {
 
                         final long time = properties.getLong("time"), lastUpdated = properties.getLong("updated");
                         final EventSources sources = new EventSources();
-                        sources.append(new EventSource("United States Geological Survey: Earthquakes", url));
+                        sources.add(new EventSource("United States Geological Survey: Earthquakes", url));
                         final Earthquake earthquake = new Earthquake(country, subdivision, cause, magnitude, place, time, lastUpdated, depthKM, location, sources);
                         string = earthquake.toString();
                         cachedEarthquakes.put(id, string);

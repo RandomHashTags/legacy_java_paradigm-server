@@ -16,7 +16,6 @@ import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicAlbums;
 import me.randomhashtags.worldlaws.upcoming.science.AstronomyPictureOfTheDay;
 import me.randomhashtags.worldlaws.upcoming.space.RocketLaunches;
 import me.randomhashtags.worldlaws.upcoming.space.SpaceEvents;
-import me.randomhashtags.worldlaws.upcoming.space.nasa.NASANeo;
 import me.randomhashtags.worldlaws.upcoming.sports.Championships;
 import me.randomhashtags.worldlaws.upcoming.sports.MLB;
 import me.randomhashtags.worldlaws.upcoming.sports.UFC;
@@ -60,8 +59,8 @@ public final class UpcomingEvents implements WLServer {
     private String typesJSON;
 
     private void initialize() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -77,10 +76,10 @@ public final class UpcomingEvents implements WLServer {
             }
         });*/
         final HashSet<String> dates = getWeeklyEventDateStrings(LocalDate.now());
-        new NASANeo().getEventsFromDates(dates, new CompletionHandler() {
+        new Movies().getResponse("productionCompanies", new CompletionHandler() {
             @Override
-            public void handleStringValue(String key, String value) {
-                WLLogger.logInfo("UpcomingEvents;test;string=" + value);
+            public void handleString(String string) {
+                WLLogger.logInfo("UpcomingEvents;test;string=" + string);
             }
         });
     }

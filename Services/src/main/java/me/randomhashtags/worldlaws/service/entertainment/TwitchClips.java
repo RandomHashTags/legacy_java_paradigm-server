@@ -67,7 +67,7 @@ public enum TwitchClips implements RestAPI {
                         final ClipBroadcaster broadcaster = new ClipBroadcaster(broadcasterName, channelURL, broadcasterProfileImageURL);
 
                         final EventSources sources = new EventSources();
-                        sources.append(new EventSource("Twitch: Clip URL", clipURL));
+                        sources.add(new EventSource("Twitch: Clip URL", clipURL));
 
                         final Clip clip = new Clip(title, broadcaster, game, thumbnail, viewCount, duration, embedHTML, sources);
                         clips.put(slug, clip.toJSONObject());

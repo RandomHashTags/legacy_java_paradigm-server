@@ -142,10 +142,10 @@ public final class Championships extends UpcomingEventController { // https://en
             final WikipediaDocument wikiDoc = new WikipediaDocument(url);
             final EventSources sources = new EventSources(new EventSource("Wikipedia: " + wikiDoc.getPageName(), url));
             if(tag.toLowerCase().startsWith("chess")) {
-                sources.append(new EventSource("Chess: Events", "https://www.chess.com/events"));
-                sources.append(new EventSource("Twitch: Chess", "https://www.twitch.tv/chess"));
+                sources.add(new EventSource("Chess: Events", "https://www.chess.com/events"));
+                sources.add(new EventSource("Twitch: Chess", "https://www.twitch.tv/chess"));
             }
-            sources.append(wikiDoc.getExternalLinks());
+            sources.addAll(wikiDoc.getExternalLinks());
 
             final List<String> images = wikiDoc.getImages();
             final String imageURL = !images.isEmpty() ? images.get(0) : null;

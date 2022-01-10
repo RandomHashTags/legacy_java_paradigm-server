@@ -33,7 +33,7 @@ public enum NationalAnthems implements CountryNationalService { // https://en.wi
             final HashMap<String, String> countries = new HashMap<>();
             final EventSources sources = new EventSources();
             final EventSource source = new EventSource("United States Navy Band: Ceremonial Music", "https://www.navyband.navy.mil/media/ceremonial");
-            sources.append(source);
+            sources.add(source);
 
             final Elements elements = doc.select("body div div div.custom-page div div main div div div div.list-group a[href]");
             ParallelStream.stream(elements, elementObj -> {

@@ -196,7 +196,7 @@ public final class VideoGames extends UpcomingEventController {
                     for(Element href : hrefs) {
                         final String text = href.text();
                         final EventSource source = new EventSource(text, href.attr("href"));
-                        sources.append(source);
+                        sources.add(source);
                     }
                 }
             }

@@ -28,8 +28,8 @@ public interface IHoliday extends Jsoupable, Jsonable {
         if(url != null) {
             final WikipediaDocument doc = new WikipediaDocument(Folder.UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS, url, false);
             final String pageName = doc.getPageName();
-            sources.append(doc.getExternalLinks());
-            sources.append(new EventSource("Wikipedia: " + pageName, url));
+            sources.addAll(doc.getExternalLinks());
+            sources.add(new EventSource("Wikipedia: " + pageName, url));
             final List<Element> paragraphs = doc.getConsecutiveParagraphs();
             final StringBuilder builder = new StringBuilder();
             boolean isFirst = true;

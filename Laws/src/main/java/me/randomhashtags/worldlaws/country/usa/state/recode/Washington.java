@@ -94,7 +94,7 @@ public final class Washington extends TestLawSubdivisionController {
                         isFirst = false;
                     }
                     final EventSources sources = new EventSources();
-                    sources.append(new EventSource("Washington Legislature: Statute Page", url));
+                    sources.add(new EventSource("Washington Legislature: Statute Page", url));
                     statute = new TestStatute(topic, description.toString(), null, sources);
                     break;
                 }

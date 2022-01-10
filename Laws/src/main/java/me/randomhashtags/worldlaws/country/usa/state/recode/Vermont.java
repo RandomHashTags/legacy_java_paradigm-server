@@ -116,7 +116,7 @@ public final class Vermont extends TestLawSubdivisionController {
             }
 
             final EventSources sources = new EventSources();
-            sources.append(new EventSource("Vermont Legislature: Statute Page", url));
+            sources.add(new EventSource("Vermont Legislature: Statute Page", url));
             statute = new TestStatute(topic, description.toString(), null, sources);
         }
         handler.handleStatute(statute);

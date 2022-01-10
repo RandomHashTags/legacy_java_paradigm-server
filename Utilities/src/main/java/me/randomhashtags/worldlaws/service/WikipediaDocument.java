@@ -212,7 +212,7 @@ public final class WikipediaDocument {
                                 break;
                         }
                         if(externalSource != null) {
-                            sources.append(externalSource);
+                            sources.add(externalSource);
                         }
                     }
                 }

@@ -178,7 +178,7 @@ public final class Movies extends UpcomingEventController implements IMDbService
             }
 
             final EventSources sources = wikiDoc.getExternalLinks();
-            sources.append(new EventSource("Wikipedia: " + wikiDoc.getPageName(), url));
+            sources.add(new EventSource("Wikipedia: " + wikiDoc.getPageName(), url));
             final Elements targetImage = wikidoc.select("div.mw-parser-output table.infobox tbody tr td a img");
             final String imageSourceURL = !targetImage.isEmpty() ? targetImage.get(0).attr("src") : null;
             final String imageURL = imageSourceURL != null ? "https:" + imageSourceURL : null;

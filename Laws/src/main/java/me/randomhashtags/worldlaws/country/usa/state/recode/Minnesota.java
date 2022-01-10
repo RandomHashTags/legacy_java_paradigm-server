@@ -95,7 +95,7 @@ public final class Minnesota extends TestLawSubdivisionController {
                 WLLogger.logError(this, "loadStatute;index=" + index + ";chapter=" + chapter + ";section=" + section + ";sections.isEmpty !");
             } else {
                 final EventSources sources = new EventSources();
-                sources.append(new EventSource("Minnesota Legislature: Statute Publication", url));
+                sources.add(new EventSource("Minnesota Legislature: Statute Publication", url));
                 final int size = sections.size();
                 if(size == 1) {
                     final Element element = sections.get(0);

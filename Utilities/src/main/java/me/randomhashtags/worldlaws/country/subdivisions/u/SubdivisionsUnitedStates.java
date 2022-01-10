@@ -1,7 +1,8 @@
 package me.randomhashtags.worldlaws.country.subdivisions.u;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.country.SovereignStateResource;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.WLTimeZone;
@@ -11,8 +12,6 @@ import me.randomhashtags.worldlaws.country.subdivisions.m.SubdivisionsMexico;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
-import java.util.HashSet;
 
 public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States
     ALABAMA,
@@ -372,12 +371,12 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
     }
 
     @Override
-    public HashSet<SovereignStateResource> getCustomResources() {
-        final HashSet<SovereignStateResource> resources = new HashSet<>();
+    public EventSources getCustomResources() {
+        final EventSources resources = new EventSources();
         final String governmentConstitution = getGovernmentConstitutionURL();
         if(governmentConstitution != null) {
             final boolean isPDF = governmentConstitution.endsWith(".pdf");
-            resources.add(new SovereignStateResource("Government Constitution" + (isPDF ? " PDF" : ""), governmentConstitution));
+            resources.add(new EventSource("Government Constitution" + (isPDF ? " PDF" : ""), governmentConstitution));
         }
         return resources.isEmpty() ? null : resources;
     }

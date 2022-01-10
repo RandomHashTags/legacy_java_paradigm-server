@@ -48,6 +48,8 @@ public enum NASA_EONET implements WLService {
     }
     private void refresh(APIVersion version, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
+        final String wikipediaPrefix = "https://en.wikipedia.org/wiki/";
+        final HashMap<String, String> volcanoWikipediaPages = getVolcanoWikipediaPages();
         final ConcurrentHashMap<String, HashSet<String>> homeValues = new ConcurrentHashMap<>();
         final String url = "https://eonet.sci.gsfc.nasa.gov/api/v3/events?status=open&days=30";
         requestJSONObject(url, RequestMethod.GET, CONTENT_HEADERS, new CompletionHandler() {
@@ -139,7 +141,14 @@ public enum NASA_EONET implements WLService {
                                     default:
                                         break;
                                 }
-                                sources.append(new EventSource(siteName, url));
+                                sources.add(new EventSource(siteName, url));
+                            }
+                            if(place.contains(" Volcano")) {
+                                final String targetVolcano = place.split(" Volcano")[0];
+                                if(volcanoWikipediaPages.containsKey(targetVolcano)) {
+                                    final String value = volcanoWikipediaPages.get(targetVolcano);
+                                    sources.add(new EventSource("Wikipedia: " + targetVolcano + " Volcano", wikipediaPrefix + value));
+                                }
                             }
 
                             final NaturalEvent naturalEvent = new NaturalEvent(id, place, country, subdivision, location, description, sources);
@@ -174,6 +183,16 @@ public enum NASA_EONET implements WLService {
                 }
             }
         });
+    }
+    private HashMap<String, String> getVolcanoWikipediaPages() {
+        return new HashMap<>() {{
+            put("Ambae", "Manaro_Voui");
+            put("Aira", "Aira_Caldera");
+            put("Shiveluch", "Shiveluch");
+            put("San Cristóbal", "San_Cristóbal_Volcano");
+            put("Hunga Tonga Hunga Ha'apai", "Hunga_Tonga");
+            put("Piton de la Fournaise", "Piton_de_la_Fournaise");
+        }};
     }
     private String getLatestVolcanoDescription(String url) {
         final Document doc = getDocument(url);

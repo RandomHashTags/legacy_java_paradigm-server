@@ -79,7 +79,7 @@ public enum AppleSoftwareUpdates implements RecentEventController {
                                 final Element link = nameElement.selectFirst("a[href]");
                                 if(link != null) {
                                     final String ahref = link.attr("href");
-                                    sources.append(new EventSource("Apple Support: " + name, ahref));
+                                    sources.add(new EventSource("Apple Support: " + name, ahref));
                                 }
                                 final PreRecentEvent preRecentEvent = new PreRecentEvent(date, name, description, null, sources, customValues);
                                 updates.add(preRecentEvent);

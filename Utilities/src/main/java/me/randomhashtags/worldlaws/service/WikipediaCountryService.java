@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.service;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.country.SovereignStateResource;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONObject;
@@ -45,10 +44,10 @@ public final class WikipediaCountryService implements CountryService {
     }
 
     @Override
-    public HashSet<SovereignStateResource> getResources(String countryBackendID) {
-        return new HashSet<>() {{
-            add(new SovereignStateResource("Wikipedia: " + countryBackendID, "https://en.wikipedia.org/wiki/" + countryBackendID.replace(" ", "_")));
-        }};
+    public EventSources getResources(String countryBackendID) {
+        return new EventSources(
+            new EventSource("Wikipedia: " + countryBackendID, "https://en.wikipedia.org/wiki/" + countryBackendID.replace(" ", "_"))
+        );
     }
 
     @Override

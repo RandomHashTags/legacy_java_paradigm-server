@@ -16,9 +16,6 @@ public final class Premium implements WLServer {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
-            case "inapppurchases":
-                InAppPurchases.getResponse(version, handler);
-                break;
             case "verify":
                 Verification.INSTANCE.verifyApple(null, handler);
                 break;

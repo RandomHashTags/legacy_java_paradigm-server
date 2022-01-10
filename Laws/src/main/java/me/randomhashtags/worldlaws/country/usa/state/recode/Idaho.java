@@ -88,7 +88,7 @@ public final class Idaho extends TestLawSubdivisionController {
                 isFirst = false;
             }
             final EventSources sources = new EventSources();
-            sources.append(new EventSource("Idaho Legislature: Statute Page", url));
+            sources.add(new EventSource("Idaho Legislature: Statute Page", url));
             statute = new TestStatute(topic, description.toString(), null, sources);
         }
         handler.handleStatute(statute);

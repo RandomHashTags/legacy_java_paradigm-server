@@ -103,7 +103,7 @@ public final class NewHampshire extends TestLawSubdivisionController {
             titles.remove(titles.size()-1);
             final TestStatute statute;
             final EventSources sources = new EventSources();
-            sources.append(new EventSource("New Hampshire Legislature: Statute Page", url));
+            sources.add(new EventSource("New Hampshire Legislature: Statute Page", url));
             if(titles.size() == 1) {
                 String title = titles.get(0).text().substring(titleKey.length());
                 if(title.endsWith(" –")) {

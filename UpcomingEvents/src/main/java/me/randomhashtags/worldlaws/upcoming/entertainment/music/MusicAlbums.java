@@ -156,7 +156,7 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
 
             final String heading = albumDoc.select("div.mw-body h1.firstHeading").get(0).text();
             final EventSource source = new EventSource("Wikipedia: " + heading, url);
-            sources.append(source);
+            sources.add(source);
             final Elements paragraphs = albumDoc.select("div.mw-parser-output p");
             paragraphs.removeIf(paragraph -> paragraph.hasClass("mw-empty-elt"));
             final String description = paragraphs.get(0).text();
@@ -220,7 +220,22 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
         }
     }
     private void putUpcomingEvent(String id, String artist, String album, String imageURL, String description, JSONObject spotifyDetails, JSONObject itunesDetails, EventSources sources, CompletionHandler handler) {
-        final MusicAlbumEvent event = new MusicAlbumEvent(artist, album, imageURL, description, spotifyDetails, itunesDetails, sources);
+        String customImageURL = null;
+        if(spotifyDetails != null) {
+            customImageURL = spotifyDetails.getString("imageURL");
+            final String url = spotifyDetails.getString("url");
+            sources.add(new EventSource("Spotify: " + album, url));
+        }
+        if(itunesDetails != null) {
+            customImageURL = itunesDetails.getString("imageURL");
+            final String url = itunesDetails.getString("collectionViewUrl"), artistURL = itunesDetails.getString("artistViewUrl");
+            sources.add(new EventSource("iTunes: " + album, url));
+            sources.add(new EventSource("iTunes: " + artist, artistURL));
+        }
+        if(customImageURL == null) {
+            customImageURL = imageURL;
+        }
+        final MusicAlbumEvent event = new MusicAlbumEvent(artist, album, customImageURL, description, spotifyDetails, itunesDetails, sources);
         final String string = event.toString();
         putUpcomingEvent(id, string);
         handler.handleString(string);

@@ -14,10 +14,8 @@ import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
-import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 
 public final class CustomCountry implements SovereignState {
@@ -103,17 +101,26 @@ public final class CustomCountry implements SovereignState {
                     final WLCountry country = getWLCountry();
                     if(country != null) {
                         final HashSet<CountryService> services = new HashSet<>(CountryServices.STATIC_SERVICES);
-                        final List<SovereignStateResource> resources = new ArrayList<>();
+                        final EventSources resources = new EventSources();
 
                         final String website = country.getGovernmentWebsite();
                         if(website != null) {
-                            resources.add(new SovereignStateResource("Government Website", country.getGovernmentWebsite()));
+                            resources.add(new EventSource("Government Website", country.getGovernmentWebsite()));
                         }
                         final HashSet<String> set = new HashSet<>();
-                        for(SovereignStateResource resource : resources) {
+                        for(EventSource resource : resources) {
                             set.add(resource.toString());
                         }
                         values.put(SovereignStateInformationType.RESOURCES_STATIC, set);
+
+                        final WLCountry[] neighbors = WLCountryNeighbors.getNeighbors(country);
+                        if(neighbors != null) {
+                            final HashSet<String> neighborsArray = new HashSet<>();
+                            for(WLCountry neighbor : neighbors) {
+                                neighborsArray.add(neighbor.getBackendID());
+                            }
+                            values.put(SovereignStateInformationType.NEIGHBORS, neighborsArray);
+                        }
                         loadNew(country, services, values, handler);
                     } else {
                         handler.handleString("{}");
@@ -177,10 +184,10 @@ public final class CustomCountry implements SovereignState {
             }
 
             information.remove(resourcesType);
-            final HashSet<SovereignStateResource> resources = service.getResources(countryIdentifier);
+            final EventSources resources = service.getResources(countryIdentifier);
             if(resources != null && !resources.isEmpty()) {
                 information.putIfAbsent(resourcesType, new HashSet<>());
-                for(SovereignStateResource resource : resources) {
+                for(EventSource resource : resources) {
                     information.get(resourcesType).add(resource.toString());
                 }
             }
@@ -234,10 +241,10 @@ public final class CustomCountry implements SovereignState {
                     break;
             }
             if(countryIdentifier != null) {
-                final HashSet<SovereignStateResource> resources = service.getResources(countryIdentifier);
+                final EventSources resources = service.getResources(countryIdentifier);
                 if(resources != null && !resources.isEmpty()) {
                     values.putIfAbsent(resourcesInformationType, new HashSet<>());
-                    for(SovereignStateResource resource : resources) {
+                    for(EventSource resource : resources) {
                         values.get(resourcesInformationType).add(resource.toString());
                     }
                 }

@@ -178,7 +178,7 @@ public final class TVShows extends LoadedUpcomingEventController {
                                     final JSONArray genres = showJSON.getJSONArray("genres");
 
                                     final EventSources sources = new EventSources();
-                                    sources.append(new EventSource("TVMaze: " + showTitle, showURL));
+                                    sources.add(new EventSource("TVMaze: " + showTitle, showURL));
 
                                     final String identifier = getEventDateIdentifier(dateString, showID + "_" + tag);
                                     String imageURL = showJSON.has("image") && showJSON.get("image") instanceof JSONObject ? showJSON.getJSONObject("image").getString("original") : null;
@@ -198,7 +198,7 @@ public final class TVShows extends LoadedUpcomingEventController {
                                     }
 
                                     if(network != null && officialSite != null) {
-                                        sources.append(new EventSource(network + ": " + showTitle, officialSite));
+                                        sources.add(new EventSource(network + ": " + showTitle, officialSite));
                                     }
 
                                     final TVShowEvent tvShowEvent = new TVShowEvent(showTitle, null, imageURL, null, popularity, language, countryCode, officialSite, network, runtimeMinutes, season, episode, episodeName, episodeSummary, genres, sources);

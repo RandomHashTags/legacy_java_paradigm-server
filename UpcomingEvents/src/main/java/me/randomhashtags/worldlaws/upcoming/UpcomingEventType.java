@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.upcoming;
 
+import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import org.json.JSONObject;
 
 public enum UpcomingEventType {
@@ -26,6 +27,8 @@ public enum UpcomingEventType {
 
     public static String getTypesJSON() {
         final JSONObject json = new JSONObject();
+        json.put("version", ResponseVersions.UPCOMING_EVENT_TYPES.getValue());
+        final JSONObject typesJSON = new JSONObject();
         for(UpcomingEventType type : UpcomingEventType.values()) {
             final String imageURLPrefix = type.getImageURLPrefix();
             final JSONObject typeJSON = new JSONObject();
@@ -43,16 +46,49 @@ public enum UpcomingEventType {
             plural.put(notificationDescription, type.getNotificationDescription(false));
             typeJSON.put("plural", plural);
 
+            final JSONObject priorities = new JSONObject();
+            priorities.put("widget", type.getPriority(true));
+            priorities.put("app", type.getPriority(false));
+            typeJSON.put("priorities", priorities);
+
             if(imageURLPrefix != null) {
                 typeJSON.put("imageURLPrefix", imageURLPrefix);
             }
-            json.put(type.getID(), typeJSON);
+            typesJSON.put(type.getID(), typeJSON);
         }
+        json.put("types", typesJSON);
         return json.toString();
     }
 
     private String getID() {
         return name().toLowerCase();
+    }
+
+    private int getPriority(boolean widget) {
+        if(widget) {
+            switch (this) {
+                case WORD_OF_THE_DAY:
+                    return 1;
+                case TICKETMASTER_MUSIC_EVENT:
+                    return 3;
+                case TV_SHOW:
+                    return 4;
+                default:
+                    return 2;
+            }
+        } else {
+            switch (this) {
+                case ASTRONOMY_PICTURE_OF_THE_DAY:
+                case WORD_OF_THE_DAY:
+                    return 1;
+                case TICKETMASTER_MUSIC_EVENT:
+                    return 3;
+                case TV_SHOW:
+                    return 4;
+                default:
+                    return 2;
+            }
+        }
     }
 
     public String getImageURLPrefix() {
@@ -74,6 +110,8 @@ public enum UpcomingEventType {
                 return "https://s1.ticketm.net/dam/";
             case TV_SHOW:
                 return "https://static.tvmaze.com/uploads/images/original_untouched/";
+            case WORD_OF_THE_DAY:
+                return "https://www.trendingpod.com/wp-content/uploads/2017/12/1200px-Merriam-Webster_logo-1024x1024.png";
             default:
                 return null;
         }

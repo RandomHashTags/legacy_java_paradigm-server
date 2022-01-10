@@ -17,6 +17,7 @@ public interface CompletionHandler {
     default void handleBoolean(boolean success) { }
     default void handleJSONArray(JSONArray array) { }
     default void handleJSONObject(JSONObject json) { }
+    default void handleJSONValue(String key, JSONObject json) { }
     default void handleClient(@NotNull WLClient client) { }
     default void handleServiceResponse(CountryService service, String string) { }
     default void handleStories(HashSet<Story> stories) { }

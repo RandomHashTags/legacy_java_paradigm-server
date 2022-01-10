@@ -30,7 +30,7 @@ public enum MusicSpotify implements SpotifyService {
                         final EventSources sources = new EventSources();
                         final JSONObject externalURLs = trackJSON.getJSONObject("external_urls");
                         if(externalURLs.has("spotify")) {
-                            sources.append(new EventSource("Spotify: " + name, externalURLs.getString("spotify")));
+                            sources.add(new EventSource("Spotify: " + name, externalURLs.getString("spotify")));
                         }
                     });
                     final StringBuilder builder = new StringBuilder("{");

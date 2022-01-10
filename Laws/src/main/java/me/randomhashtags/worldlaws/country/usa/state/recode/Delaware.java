@@ -125,7 +125,7 @@ public final class Delaware extends TestLawSubdivisionController {
             }
 
             final EventSources sources = new EventSources();
-            sources.append(new EventSource("Delaware Legislature: Statute Page", url));
+            sources.add(new EventSource("Delaware Legislature: Statute Page", url));
 
             final TestStatute statute = new TestStatute(element.text().substring(section.length()+4), description, subdivisions, sources);
             handler.handleStatute(statute);

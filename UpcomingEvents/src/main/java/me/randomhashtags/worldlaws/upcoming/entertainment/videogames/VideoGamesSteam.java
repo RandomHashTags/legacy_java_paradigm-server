@@ -115,13 +115,13 @@ public final class VideoGamesSteam extends UpcomingEventController {
                         }
 
                         final EventSources sources = new EventSources();
-                        sources.append(new EventSource("Steam Store: " + name, pageURL));
+                        sources.add(new EventSource("Steam Store: " + name, pageURL));
                         if(officialSite != null) {
-                            sources.append(new EventSource("Official Site", officialSite));
+                            sources.add(new EventSource("Official Site", officialSite));
                         }
                         final String wikipediaPageURL = getWikipediaArticleURL(name);
                         if(wikipediaPageURL != null) {
-                            sources.append(new EventSource("Wikipedia: " + name, wikipediaPageURL));
+                            sources.add(new EventSource("Wikipedia: " + name, wikipediaPageURL));
                         }
 
                         final Element imageElement = glance.selectFirst("div.game_header_image_ctn img.game_header_image_full");

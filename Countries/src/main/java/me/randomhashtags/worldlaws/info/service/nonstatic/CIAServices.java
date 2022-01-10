@@ -1,17 +1,12 @@
 package me.randomhashtags.worldlaws.info.service.nonstatic;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.country.SovereignStateResource;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
-import java.util.HashSet;
 
 public enum CIAServices implements CountryService {
     INSTANCE;
@@ -31,17 +26,18 @@ public enum CIAServices implements CountryService {
     }
 
     @Override
-    public HashSet<SovereignStateResource> getResources(String shortName) {
+    public EventSources getResources(String shortName) {
         final CIAValues values = loadCIAValues(shortName);
         return getResourcesFrom(values);
     }
 
-    private HashSet<SovereignStateResource> getResourcesFrom(CIAValues ciaValues) {
+    private EventSources getResourcesFrom(CIAValues ciaValues) {
         final String domain = "https://www.cia.gov";
-        final HashSet<SovereignStateResource> set = new HashSet<>();
-        set.add(new SovereignStateResource("CIA Summary", domain + ciaValues.summaryURL));
-        set.add(new SovereignStateResource("CIA Travel Facts", domain + ciaValues.travelFactsURL));
-        return set;
+        return new EventSources(
+                new EventSource("CIA Summary", domain + ciaValues.summaryURL),
+                new EventSource("CIA Travel Facts", domain + ciaValues.travelFactsURL)
+
+        );
     }
 
     private CIAValues loadCIAValues(String shortName) {

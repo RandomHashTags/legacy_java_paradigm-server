@@ -394,8 +394,8 @@ public enum PhonesApple implements SmartphoneCompany {
         for(Map.Entry<Integer, Smartphone> map : builders.entrySet()) {
             index = map.getKey();
             final EventSources eventSources = sources.get(index);
-            eventSources.append(wikipedia);
-            eventSources.append(geekbench);
+            eventSources.add(wikipedia);
+            eventSources.add(geekbench);
             final Smartphone smartphone = map.getValue();
             final String model = smartphone.getDetail(SmartphoneDetailType.MODEL);
             final int singleCore = getGeekbenchSingleCore(model), multiCore = getGeekbenchMultiCore(model), metal = getGeekbenchMetal(model);

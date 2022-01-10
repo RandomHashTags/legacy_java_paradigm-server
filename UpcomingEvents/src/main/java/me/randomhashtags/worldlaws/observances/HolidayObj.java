@@ -57,7 +57,7 @@ public final class HolidayObj implements Holiday {
                 final JSONObject sourceJSON = sourcesJSON.getJSONObject(key);
                 final String url = sourceJSON.getString("homepageURL");
                 final EventSource source = new EventSource(key, url);
-                sources.append(source);
+                sources.add(source);
             }
         }
         this.sources = sources;
