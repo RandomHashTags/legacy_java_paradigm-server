@@ -34,7 +34,7 @@ public enum Cities implements CountryService {
 
     public void getCitiesFrom(String countryBackendID, String territory, CompletionHandler handler) {
         if(countries == null) {
-            loadData(null);
+            loadData();
         }
         if(cities.containsKey(countryBackendID)) {
             final HashMap<String, String> map = cities.get(countryBackendID);
@@ -48,7 +48,7 @@ public enum Cities implements CountryService {
     }
 
     @Override
-    public void loadData(CompletionHandler handler) {
+    public String loadData() {
         cities = new HashMap<>();
         countries = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Lists_of_cities_by_country";
@@ -62,9 +62,7 @@ public enum Cities implements CountryService {
             final String country = (!target.isEmpty() ? text.split(target)[1] : text).replace(" ", "").split("\\(")[0];
             countries.put(country, targetURL);
         }
-        if(handler != null) {
-            handler.handleString(null);
-        }
+        return null;
     }
 
     private void loadCities(String country, CompletionHandler handler) {

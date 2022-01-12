@@ -1,10 +1,14 @@
 package me.randomhashtags.worldlaws.info.service.nonstatic;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.info.service.CountryService;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -14,14 +18,24 @@ import java.util.HashMap;
 public enum TravelAdvisories implements CountryService {
     INSTANCE;
 
-    private final HashMap<String, String> urls;
+    private HashMap<String, String> usTravelAdvisories;
 
     TravelAdvisories() {
-        urls = new HashMap<>();
+        usTravelAdvisories = new HashMap<>();
     }
 
     @Override
-    public void loadData(CompletionHandler handler) {
+    public EventSources getResources(String countryBackendID) {
+        final EventSources sources = new EventSources();
+        if(usTravelAdvisories.containsKey(countryBackendID)) {
+            final String url = "https://travel.state.gov" + usTravelAdvisories.get(countryBackendID);
+            sources.add(new EventSource("U.S. Department of State: Travel", url));
+        }
+        return sources;
+    }
+
+    @Override
+    public String loadData() {
         final String url = "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/";
         final Document doc = getDocument(url);
         if(doc != null) {
@@ -29,6 +43,7 @@ public enum TravelAdvisories implements CountryService {
             if(element != null) {
                 final Elements trs = element.select("tr");
                 trs.remove(0);
+                final HashMap<String, String> urls = new HashMap<>();
                 for(Element tr : trs) {
                     final Elements tds = tr.select("td");
                     final Element advisoryElement = tds.get(0);
@@ -49,9 +64,10 @@ public enum TravelAdvisories implements CountryService {
                         }
                     }
                 }
+                this.usTravelAdvisories = urls;
             }
         }
-        handler.handleServiceResponse(this, null);
+        return null;
     }
 
     @Override
@@ -66,17 +82,56 @@ public enum TravelAdvisories implements CountryService {
 
     @Override
     public void getCountryValue(String countryBackendID, CompletionHandler handler) {
-        String string = null;
-        if(urls.containsKey(countryBackendID)) {
-            final String url = "https://travel.state.gov" + urls.get(countryBackendID);
+        final TravelAdvisory advisory = new TravelAdvisory();
+        if(usTravelAdvisories.containsKey(countryBackendID)) {
+            final String url = "https://travel.state.gov" + usTravelAdvisories.get(countryBackendID);
             final Document doc = getDocument(url);
             if(doc != null) {
-                final Element htmlElement = doc.selectFirst( "div.tsg-rwd-content-page-parsysxxx div.EmergencyAlert div.tsg-rwd-emergency-alert-frame div.tsg-rwd-emergency-alert-text");
+                final Element htmlElement = doc.selectFirst("div.tsg-rwd-content-page-parsysxxx div.EmergencyAlert div.tsg-rwd-emergency-alert-frame div.tsg-rwd-emergency-alert-text");
                 if(htmlElement != null) {
-                    string = htmlElement.html();
+                    final UnitedStatesTravelStateGovAdvisory usTravelAdvisory = new UnitedStatesTravelStateGovAdvisory(htmlElement.html());
+                    advisory.setUSTravelAdvisory(usTravelAdvisory);
                 }
             }
         }
-        handler.handleString(string);
+        String string = null;
+        if(!advisory.isEmpty()) {
+            string = "\"Travel Advisories\":" + advisory.toString();
+        }
+        handler.handleServiceResponse(this, string);
+    }
+
+    private final class TravelAdvisory {
+        private UnitedStatesTravelStateGovAdvisory usTravelAdvisory;
+
+        public void setUSTravelAdvisory(UnitedStatesTravelStateGovAdvisory usTravelAdvisory) {
+            this.usTravelAdvisory = usTravelAdvisory;
+        }
+        public boolean isEmpty() {
+            return usTravelAdvisories == null;
+        }
+
+        @Override
+        public String toString() {
+            return toJSONObject().toString();
+        }
+        public JSONObject toJSONObject() {
+            final JSONObject json = new JSONObject();
+            json.put("U.S. Department of State", usTravelAdvisory.toJSONObject());
+            return json;
+        }
+    }
+    private final class UnitedStatesTravelStateGovAdvisory {
+        private final String html;
+
+        public UnitedStatesTravelStateGovAdvisory(String html) {
+            this.html = LocalServer.fixEscapeValues(html);
+        }
+
+        public JSONObject toJSONObject() {
+            final JSONObject json = new JSONObject();
+            json.put("html", html);
+            return json;
+        }
     }
 }

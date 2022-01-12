@@ -32,7 +32,8 @@ public enum TravelBriefing implements CountryService {
     }
 
     @Override
-    public void loadData(CompletionHandler handler) {
+    public String loadData() {
+        return null;
     }
 
     private void getCountryTravelBriefing(String country, CompletionHandler handler) {

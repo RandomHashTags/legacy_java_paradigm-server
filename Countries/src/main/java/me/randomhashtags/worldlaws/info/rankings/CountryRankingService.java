@@ -39,12 +39,6 @@ public interface CountryRankingService extends CountryService {
     void setRankedJSON(String rankedJSON);
 
     @Override
-    default void loadData(CompletionHandler handler) {
-        handler.handleJSONObject(loadData());
-    }
-    JSONObject loadData();
-
-    @Override
     default void insertValuesIntoCountryValueJSONObject(JSONObject json) {
         final int yearOfData = getYearOfData();
         final String url = getURL().replace("%year%", Integer.toString(yearOfData)), suffix = getSuffix();
@@ -65,12 +59,8 @@ public interface CountryRankingService extends CountryService {
         if(rankedJSON != null) {
             handler.handleString(rankedJSON);
         } else {
-            loadData(new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    handler.handleString(getRankedJSON());
-                }
-            });
+            loadData();
+            handler.handleString(getRankedJSON());
         }
     }
 

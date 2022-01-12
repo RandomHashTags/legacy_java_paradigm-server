@@ -11,13 +11,8 @@ import org.json.JSONObject;
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.HashMap;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.TimeUnit;
-import java.util.concurrent.atomic.AtomicBoolean;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public final class TVShows extends LoadedUpcomingEventController {
-    private String showNamesCache;
     private boolean hasScheduledTasks;
 
     public TVShows() {
@@ -40,107 +35,8 @@ public final class TVShows extends LoadedUpcomingEventController {
                     refreshSchedule(null);
                 }
             });
-            events.registerFixedTimer(WLUtilities.UPCOMING_EVENTS_TV_SHOW_IDS_UPDATE_INTERVAL, new CompletionHandler() {
-                @Override
-                public void handleObject(Object object) {
-                    updateAllShowNames(null);
-                }
-            });
         }
         refreshSchedule(handler);
-    }
-
-    @Override
-    public void getResponse(String input, CompletionHandler handler) {
-        final String[] values = input.split("/");
-        final String key = values[0];
-        switch (key) {
-            case "ids":
-                getAllShowIDs(handler);
-                break;
-            default:
-                break;
-        }
-    }
-
-    private void getAllShowIDs(CompletionHandler handler) {
-        if(showNamesCache != null) {
-            handler.handleString(showNamesCache);
-        } else {
-            getJSONObject(Folder.UPCOMING_EVENTS_TV_SHOWS, "ids", new CompletionHandler() {
-                @Override
-                public void load(CompletionHandler handler) {
-                    updateAllShowNames(handler);
-                }
-
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    showNamesCache = json.toString();
-                    handler.handleString(showNamesCache);
-                }
-            });
-        }
-    }
-    public void updateAllShowNames(CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
-        final long sleepDuration = TimeUnit.SECONDS.toMillis(15);
-        final AtomicBoolean lock = new AtomicBoolean(true);
-        final AtomicInteger page = new AtomicInteger(0);
-        // RATE LIMIT IS 20 REQUESTS PER 10 SECONDS, PER IP ADDRESS
-        final String imageURLPrefix = "https://static.tvmaze.com/uploads/images/original_untouched/";
-        final int imageURLPrefixLength = imageURLPrefix.length();
-
-        final ConcurrentHashMap<String, HashMap<String, JSONObject>> statuses = new ConcurrentHashMap<>();
-        final CompletionHandler completionHandler = new CompletionHandler() {
-            @Override
-            public void handleJSONArray(JSONArray array) {
-                if(array != null && !array.isEmpty()) {
-                    ParallelStream.stream(array.spliterator(), obj -> {
-                        final JSONObject json = (JSONObject) obj;
-                        final String id = Integer.toString(json.getInt("id"));
-                        final String name = json.getString("name"), status = json.getString("status");
-                        String imageURL = json.has("image") && json.get("image") instanceof JSONObject ? json.getJSONObject("image").getString("original") : null;
-
-                        final JSONObject show = new JSONObject();
-                        show.put("name", name);
-                        if(imageURL != null) {
-                            if(imageURL.startsWith(imageURLPrefix)) {
-                                imageURL = imageURL.substring(imageURLPrefixLength);
-                            }
-                            show.put("imageURL", imageURL);
-                        }
-                        statuses.putIfAbsent(status, new HashMap<>());
-                        statuses.get(status).put(id, show);
-                    });
-                    if(page.addAndGet(1) % 20 == 0) {
-                        try {
-                            Thread.sleep(sleepDuration);
-                        } catch (Exception e) {
-                            WLUtilities.saveException(e);
-                        }
-                    }
-                } else {
-                    lock.set(false);
-                }
-            }
-        };
-        while (lock.get()) {
-            final int pageNumber = page.get();
-            getShowsFromPage(pageNumber, completionHandler);
-        }
-
-        final JSONObject showNames = new JSONObject(statuses);;
-        final String string = showNames.toString();
-        showNamesCache = string;
-        setFileJSON(Folder.UPCOMING_EVENTS_TV_SHOWS, "ids", string);
-        WLLogger.logInfo("TVShows - updated all show names (took " + (System.currentTimeMillis()-started) +"ms)");
-        if(handler != null) {
-            handler.handleJSONObject(showNames);
-        }
-    }
-    private void getShowsFromPage(int page, CompletionHandler showHandler) {
-        final String url = "https://api.tvmaze.com/shows?page=" + page;
-        requestJSONArray(url, RequestMethod.GET, showHandler);
     }
 
     private void refreshSchedule(CompletionHandler handler) {

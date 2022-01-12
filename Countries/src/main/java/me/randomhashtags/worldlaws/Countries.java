@@ -52,10 +52,11 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        TravelAdvisories.INSTANCE.loadData(new CompletionHandler() {
+        loadServices();
+        loadCountries(new CompletionHandler() {
             @Override
-            public void handleServiceResponse(CountryService service, String string) {
-                TravelAdvisories.INSTANCE.getCountryValue("italy", new CompletionHandler() {
+            public void handleString(String string) {
+                getServerResponse(APIVersion.v1, "information/canada", new CompletionHandler() {
                     @Override
                     public void handleString(String string) {
                         WLLogger.logInfo("Countries;test;string=" + string);
@@ -63,20 +64,6 @@ public final class Countries implements WLServer {
                 });
             }
         });
-        /*
-        loadServices();
-        loadCountries(new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-
-                getServerResponse(APIVersion.v1, "information/unitedstates", new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        WLLogger.logInfo("Countries;test;string=" + string);
-                    }
-                });
-            }
-        });*/
     }
 
     @Override
@@ -111,7 +98,8 @@ public final class Countries implements WLServer {
         CountryServices.STATIC_SERVICES.addAll(services);
 
         CountryServices.NONSTATIC_SERVICES.addAll(Arrays.asList(
-                CIAServices.INSTANCE
+                CIAServices.INSTANCE,
+                TravelAdvisories.INSTANCE
         ));
 
         registerFixedTimer(WLUtilities.COUNTRIES_NON_STATIC_VALUES_UPDATE_INTERVAL, new CompletionHandler() {

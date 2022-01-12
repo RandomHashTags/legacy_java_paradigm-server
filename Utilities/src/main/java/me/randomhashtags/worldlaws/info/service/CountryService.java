@@ -69,7 +69,8 @@ public interface CountryService extends SovereignStateService {
         getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
-                loadData(handler);
+                final String data = loadData();
+                handler.handleString(data);
             }
 
             @Override

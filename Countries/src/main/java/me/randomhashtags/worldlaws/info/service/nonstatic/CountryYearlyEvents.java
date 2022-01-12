@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.info.service.nonstatic;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.info.service.CountryService;
@@ -19,6 +18,7 @@ public enum CountryYearlyEvents implements CountryService {
     }
 
     @Override
-    public void loadData(CompletionHandler handler) {
+    public String loadData() {
+        return null;
     }
 }

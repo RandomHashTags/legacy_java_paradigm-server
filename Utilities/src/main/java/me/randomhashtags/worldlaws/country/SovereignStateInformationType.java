@@ -18,6 +18,7 @@ public enum SovereignStateInformationType {
     SERVICES_NONSTATIC,
     SINGLE_VALUES,
 
+    CURRENCIES,
     NEIGHBORS,
     ;
 
@@ -27,5 +28,14 @@ public enum SovereignStateInformationType {
 
     public boolean isNonStatic() {
         return name().endsWith("NONSTATIC");
+    }
+    public boolean isArray() {
+        switch (this) {
+            case CURRENCIES:
+            case NEIGHBORS:
+                return true;
+            default:
+                return false;
+        }
     }
 }

@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.info.agriculture;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
@@ -27,7 +26,7 @@ public interface CountryProductionService extends CountryService {
     String getSuffix();
 
     @Override
-    default void loadData(CompletionHandler handler) {
+    default String loadData() {
         final SovereignStateInfo info = getInfo();
         final String url = getURL();
         final Elements tables = getDocumentElements(Folder.COUNTRIES_RANKINGS_AGRICULTURE, url, "div.mw-parser-output table.wikitable");
@@ -80,7 +79,7 @@ public interface CountryProductionService extends CountryService {
             isFirst = false;
         }
         jsonBuilder.append("}");
-        handler.handleString(jsonBuilder.toString());
+        return jsonBuilder.toString();
     }
 
     private String loadTable(Element table) {

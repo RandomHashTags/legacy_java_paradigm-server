@@ -33,7 +33,7 @@ public interface CountryAvailabilityService extends CountryService {
     default CountryAvailability getAvailability(boolean value) {
         return new CountryAvailability(getInfo().getTitle(), getPrimaryCategory(), getImageURL(), value);
     }
-    default void loadOnlyTrue(CompletionHandler handler, String...countries) {
+    default String loadOnlyTrue(String...countries) {
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         for(String country : countries) {
@@ -41,7 +41,7 @@ public interface CountryAvailabilityService extends CountryService {
             isFirst = false;
         }
         builder.append("]");
-        handler.handleJSONArray(new JSONArray(builder.toString()));
+        return builder.toString();
     }
 
     AvailabilityCategory getPrimaryCategory();
@@ -52,7 +52,8 @@ public interface CountryAvailabilityService extends CountryService {
         getJSONArray(folder, fileName, new CompletionHandler() {
             @Override
             public void load(CompletionHandler handler) {
-                loadData(handler);
+                final JSONArray array = new JSONArray(loadData());
+                handler.handleJSONArray(array);
             }
 
             @Override

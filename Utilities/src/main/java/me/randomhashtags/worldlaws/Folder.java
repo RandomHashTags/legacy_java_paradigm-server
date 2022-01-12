@@ -5,8 +5,6 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public enum Folder {
     COUNTRIES,
-    COUNTRIES_AVAILABILITIES,
-    COUNTRIES_HISTORY,
     COUNTRIES_LEGALITIES,
     COUNTRIES_NATIONAL,
     COUNTRIES_RANKINGS,

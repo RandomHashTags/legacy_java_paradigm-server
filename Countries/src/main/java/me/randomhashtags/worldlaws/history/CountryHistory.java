@@ -1,12 +1,10 @@
 package me.randomhashtags.worldlaws.history;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.country.SovereignStateHistory;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.history.country.HistoryUnitedStates;
-import org.json.JSONObject;
 
 public enum CountryHistory implements SovereignStateHistory {
     INSTANCE;
@@ -17,24 +15,14 @@ public enum CountryHistory implements SovereignStateHistory {
     }
 
     public void getCountryValue(WLCountry country, CompletionHandler handler) {
-        getJSONObject(Folder.COUNTRIES_HISTORY, country.getBackendID(), new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                final ICountryHistory history = getCountryHistory(country);
-                String string = null;
-                if(history != null) {
-                    string = "{" + history.getEras().toString() +
-                            ",\"sources\":" + history.getSources().toString() +
-                            "}";
-                }
-                handler.handleString(string);
-            }
-
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                handler.handleServiceResponse(INSTANCE, json != null ? json.toString() : null);
-            }
-        });
+        final ICountryHistory history = getCountryHistory(country);
+        String string = null;
+        if(history != null) {
+            string = "{" + history.getEras().toString() +
+                    ",\"sources\":" + history.getSources().toString() +
+                    "}";
+        }
+        handler.handleServiceResponse(INSTANCE, string);
     }
 
     private ICountryHistory getCountryHistory(WLCountry country) {

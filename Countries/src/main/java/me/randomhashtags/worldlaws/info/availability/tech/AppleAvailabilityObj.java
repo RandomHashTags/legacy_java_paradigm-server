@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.info.availability.tech;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.info.availability.AvailabilityCategory;
 import me.randomhashtags.worldlaws.info.availability.CountryAvailability;
@@ -26,7 +25,7 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
     }
 
     @Override
-    public void loadData(CompletionHandler handler) {
+    public String loadData() {
         countries = new HashMap<>();
         final String infoName = info.name(), title = info.getTitle();
         final CountryAvailability availability = new CountryAvailability(title, getPrimaryCategory(), getImageURL(), true);
@@ -60,7 +59,7 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
             countries.put(country, availability);
         });
         final Set<String> bruh = countries.keySet();
-        loadOnlyTrue(handler, bruh.toArray(new String[bruh.size()]));
+        return loadOnlyTrue(bruh.toArray(new String[bruh.size()]));
     }
 
     private String getSectionID(String targetInfoName) {

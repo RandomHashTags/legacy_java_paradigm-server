@@ -1,14 +1,11 @@
 package me.randomhashtags.worldlaws.info.availability;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleAvailabilityObj;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleFeatureType;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
-import org.json.JSONArray;
-import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -94,52 +91,42 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
 
     public void getCountryAvailabilities(String countryBackendID, CompletionHandler handler) {
         final long started = System.currentTimeMillis();
-        getJSONObject(Folder.COUNTRIES_AVAILABILITIES, countryBackendID, new CompletionHandler() {
+        final ConcurrentHashMap<Boolean, ConcurrentHashMap<String, HashSet<String>>> values = new ConcurrentHashMap<>();
+        final CompletionHandler completionHandler = new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
-                final ConcurrentHashMap<Boolean, ConcurrentHashMap<String, HashSet<String>>> values = new ConcurrentHashMap<>();
-                final CompletionHandler completionHandler = new CompletionHandler() {
-                    @Override
-                    public void handleObject(Object object) {
-                        final CountryAvailability availability = (CountryAvailability) object;
-                        final String primaryCategory = availability.getPrimaryCategory().name();
-                        final boolean availabilityIsAvailable = availability.isAvailable();
-                        values.putIfAbsent(availabilityIsAvailable, new ConcurrentHashMap<>());
-                        values.get(availabilityIsAvailable).putIfAbsent(primaryCategory, new HashSet<>());
-                        values.get(availabilityIsAvailable).get(primaryCategory).add(availability.toString());
-                    }
-                };
-                ParallelStream.stream(SERVICES, service -> ((CountryAvailabilityService) service).getCountryValue(countryBackendID, completionHandler));
+            public void handleObject(Object object) {
+                final CountryAvailability availability = (CountryAvailability) object;
+                final String primaryCategory = availability.getPrimaryCategory().name();
+                final boolean availabilityIsAvailable = availability.isAvailable();
+                values.putIfAbsent(availabilityIsAvailable, new ConcurrentHashMap<>());
+                values.get(availabilityIsAvailable).putIfAbsent(primaryCategory, new HashSet<>());
+                values.get(availabilityIsAvailable).get(primaryCategory).add(availability.toString());
+            }
+        };
+        ParallelStream.stream(SERVICES, service -> ((CountryAvailabilityService) service).getCountryValue(countryBackendID, completionHandler));
 
-                final StringBuilder builder = new StringBuilder("{");
-                boolean isFirstBoolean = true;
-                for(Map.Entry<Boolean, ConcurrentHashMap<String, HashSet<String>>> map : values.entrySet()) {
-                    final boolean isAvailable = map.getKey();
-                    builder.append(isFirstBoolean ? "" : ",").append("\"").append(isAvailable).append("\":{");
-                    boolean isFirstCategory = true;
-                    for(Map.Entry<String, HashSet<String>> category : map.getValue().entrySet()) {
-                        builder.append(isFirstCategory ? "" : ",").append("\"").append(category.getKey()).append("\":{");
-                        boolean isFirst = true;
-                        for(String value : category.getValue()) {
-                            builder.append(isFirst ? "" : ",").append(value);
-                            isFirst = false;
-                        }
-                        builder.append("}");
-                        isFirstCategory = false;
-                    }
-                    builder.append("}");
-                    isFirstBoolean = false;
+        final StringBuilder builder = new StringBuilder("{");
+        boolean isFirstBoolean = true;
+        for(Map.Entry<Boolean, ConcurrentHashMap<String, HashSet<String>>> map : values.entrySet()) {
+            final boolean isAvailable = map.getKey();
+            builder.append(isFirstBoolean ? "" : ",").append("\"").append(isAvailable).append("\":{");
+            boolean isFirstCategory = true;
+            for(Map.Entry<String, HashSet<String>> category : map.getValue().entrySet()) {
+                builder.append(isFirstCategory ? "" : ",").append("\"").append(category.getKey()).append("\":{");
+                boolean isFirst = true;
+                for(String value : category.getValue()) {
+                    builder.append(isFirst ? "" : ",").append(value);
+                    isFirst = false;
                 }
                 builder.append("}");
-                handler.handleString(builder.toString());
+                isFirstCategory = false;
             }
-
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                WLLogger.logInfo("CountryAvailabilities - loaded \"" + countryBackendID + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                handler.handleServiceResponse(INSTANCE, json.toString());
-            }
-        });
+            builder.append("}");
+            isFirstBoolean = false;
+        }
+        builder.append("}");
+        WLLogger.logInfo("CountryAvailabilities - loaded \"" + countryBackendID + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+        handler.handleServiceResponse(INSTANCE, builder.toString());
     }
 
     @Override
@@ -219,107 +206,44 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
     }
 
     @Override
-    public void loadData(CompletionHandler handler) {
-        reload(handler);
-    }
-
-    private void reload(CompletionHandler handler) {
+    public String loadData() {
         switch (this) {
-            case ALEXA:
-                loadAlexa(handler);
-                break;
-            case AMC_PLUS:
-                loadAMCPlus(handler);
-                break;
-            case AT_AND_T_TV:
-                loadAT_AND_T(handler);
-                break;
-            case DAZN:
-                loadDAZN(handler);
-                break;
-            case DISCOVERY_PLUS:
-                loadDiscoveryPlus(handler);
-                break;
-            case DISNEY_PLUS:
-                loadDisneyPlus(handler);
-                break;
-            case ESPN_PLUS:
-                loadESPNPlus(handler);
-                break;
-            case GOOGLE_ASSISTANT:
-                loadGoogleAssistant(handler);
-                break;
-            case GOOGLE_PAY:
-                loadGooglePay(handler);
-                break;
-            case GOOGLE_PLAY_PASS:
-                loadGooglePlayPass(handler);
-                break;
-            case HBO_MAX:
-                loadHBOMax(handler);
-                break;
-            case HULU:
-                loadHulu(handler);
-                break;
-            case NVIDIA_GEFORCE_NOW:
-                loadNvidiaGeforceNOW(handler);
-                break;
-            case PARAMOUNT_PLUS:
-                loadParamountPlus(handler);
-                break;
-            case PEACOCK:
-                loadPeacock(handler);
-                break;
-            case PLAYSTATION_NOW:
-                loadPlayStationNow(handler);
-                break;
-            case SAMSUNG_PAY:
-                loadSamsungPay(handler);
-                break;
-            case SHOWTIME:
-                loadShowtime(handler);
-                break;
-            case SPOTIFY:
-                loadSpotify(handler);
-                break;
-            case STADIA:
-                loadStadia(handler);
-                break;
-            case STARZ:
-                loadStarz(handler);
-                break;
-            case STARZPLAY:
-                loadStarzplay(handler);
-                break;
-            case TIDAL:
-                loadTidal(handler);
-                break;
-            case VENMO:
-                loadVenmo(handler);
-                break;
-            case XBOX_CLOUD_GAMING:
-                loadXboxCloudGaming(handler);
-                break;
-            case XBOX_GAME_PASS:
-                loadXboxGamePass(handler);
-                break;
-            case XBOX_LIVE:
-                loadXboxLive(handler);
-                break;
-            case YOUTUBE_PREMIUM:
-                loadYouTubePremium(handler);
-                break;
-            case YOUTUBE_TV:
-                loadYouTubeTV(handler);
-                break;
+            case ALEXA: return loadAlexa();
+            case AMC_PLUS: return loadAMCPlus();
+            case AT_AND_T_TV: return loadAT_AND_T();
+            case DAZN: return loadDAZN();
+            case DISCOVERY_PLUS: return loadDiscoveryPlus();
+            case DISNEY_PLUS: return loadDisneyPlus();
+            case ESPN_PLUS: return loadESPNPlus();
+            case GOOGLE_ASSISTANT: return loadGoogleAssistant();
+            case GOOGLE_PAY: return loadGooglePay();
+            case GOOGLE_PLAY_PASS: return loadGooglePlayPass();
+            case HBO_MAX: return loadHBOMax();
+            case HULU: return loadHulu();
+            case NVIDIA_GEFORCE_NOW: return loadNvidiaGeforceNOW();
+            case PARAMOUNT_PLUS: return loadParamountPlus();
+            case PEACOCK: return loadPeacock();
+            case PLAYSTATION_NOW: return loadPlayStationNow();
+            case SAMSUNG_PAY: return loadSamsungPay();
+            case SHOWTIME: return loadShowtime();
+            case SPOTIFY: return loadSpotify();
+            case STADIA: return loadStadia();
+            case STARZ: return loadStarz();
+            case STARZPLAY: return loadStarzplay();
+            case TIDAL: return loadTidal();
+            case VENMO: return loadVenmo();
+            case XBOX_CLOUD_GAMING: return loadXboxCloudGaming();
+            case XBOX_GAME_PASS: return loadXboxGamePass();
+            case XBOX_LIVE: return loadXboxLive();
+            case YOUTUBE_PREMIUM: return loadYouTubePremium();
+            case YOUTUBE_TV: return loadYouTubeTV();
             default:
                 WLLogger.logError(this, "reload - missing completion handler for " + name() + "!");
-                handler.handleString(null);
-                break;
+                return null;
         }
     }
 
-    private void loadAlexa(CompletionHandler handler) {
+    private String loadAlexa() {
         // https://en.wikipedia.org/wiki/Amazon_Alexa
         final String[] array = {
                 "unitedstates",
@@ -364,17 +288,17 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 "mexico",
                 "brazil"
         };
-        loadOnlyTrue(handler, array);
+        return loadOnlyTrue(array);
     }
-    private void loadAMCPlus(CompletionHandler handler) {
+    private String loadAMCPlus() {
         // https://www.amcplus.com/faqs
-        loadOnlyTrue(handler, "unitedstates");
+        return loadOnlyTrue("unitedstates");
     }
-    private void loadAT_AND_T(CompletionHandler handler) {
+    private String loadAT_AND_T() {
         // https://en.wikipedia.org/wiki/AT%26T_TV
-        loadOnlyTrue(handler, "unitedstates");
+        return loadOnlyTrue("unitedstates");
     }
-    private void loadDAZN(CompletionHandler handler) {
+    private String loadDAZN() {
         // https://www.dazn.com/en-DE/help/articles/where-is-dazn-available
         final String[] array = {
                 "austria",
@@ -387,9 +311,9 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 "switzerland",
                 "unitedstates",
         };
-        loadOnlyTrue(handler, array);
+        return loadOnlyTrue(array);
     }
-    private void loadDiscoveryPlus(CompletionHandler handler) {
+    private String loadDiscoveryPlus() {
         // https://www.discoveryplus.com
         final String[] array = {
                 "denmark",
@@ -406,42 +330,32 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 "unitedkingdom",
                 "unitedstates",
         };
-        loadOnlyTrue(handler, array);
+        return loadOnlyTrue(array);
     }
-    private void loadDisneyPlus(CompletionHandler handler) {
-        getJSONArray(new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                final String url = "https://en.wikipedia.org/wiki/Disney%2B";
-                final Elements trs = getAvailabilityDocumentElements(url, "div.mw-parser-output table.wikitable").get(0).select("tbody tr");
-                trs.remove(0);
+    private String loadDisneyPlus() {
+        final String url = "https://en.wikipedia.org/wiki/Disney%2B";
+        final Elements trs = getAvailabilityDocumentElements(url, "div.mw-parser-output table.wikitable").get(0).select("tbody tr");
+        trs.remove(0);
 
-                final StringBuilder builder = new StringBuilder("[");
-                boolean isFirst = true;
-                for(Element element : trs) {
-                    final Elements tds = element.select("td");
-                    final String targetCountry = tds.get(0).select("a").get(0).text().toLowerCase().replace(" ", "");
-                    final HashSet<String> countries = getCountriesFromText(targetCountry);
-                    for(String country : countries) {
-                        builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-                        isFirst = false;
-                    }
-                }
-                builder.append("]");
-                handler.handleString(builder.toString());
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        for(Element element : trs) {
+            final Elements tds = element.select("td");
+            final String targetCountry = tds.get(0).select("a").get(0).text().toLowerCase().replace(" ", "");
+            final HashSet<String> countries = getCountriesFromText(targetCountry);
+            for(String country : countries) {
+                builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
+                isFirst = false;
             }
-
-            @Override
-            public void handleJSONArray(JSONArray array) {
-                handler.handleJSONArray(array);
-            }
-        });
+        }
+        builder.append("]");
+        return builder.toString();
     }
-    private void loadESPNPlus(CompletionHandler handler) {
+    private String loadESPNPlus() {
         // https://en.wikipedia.org/wiki/ESPN%2B
-        loadOnlyTrue(handler, "unitedstates");
+        return loadOnlyTrue("unitedstates");
     }
-    private void loadGoogleAssistant(CompletionHandler handler) {
+    private String loadGoogleAssistant() {
         // https://www.androidauthority.com/google-assistant-countries-864554/ | https://events.google.com/io2018/recap/
         final String[] array = {
                 // africa
@@ -527,68 +441,48 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 "unitedstates",
                 "venezuela"
         };
-        loadOnlyTrue(handler, array);
+        return loadOnlyTrue(array);
     }
-    private void loadGooglePay(CompletionHandler handler) {
-        getJSONArray(new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                final String url = "https://en.wikipedia.org/wiki/Google_Pay";
-                final Elements trs = getAvailabilityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
-                trs.remove(0);
+    private String loadGooglePay() {
+        final String url = "https://en.wikipedia.org/wiki/Google_Pay";
+        final Elements trs = getAvailabilityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        trs.remove(0);
 
-                final StringBuilder builder = new StringBuilder("[");
-                boolean isFirst = true;
-                for(Element element : trs) {
-                    final Elements tds = element.select("td");
-                    final int size = tds.size();
-                    final String country = tds.get(1-(size == 3 || size == 4 ? 1 : 0)).select("a").get(0).text().toLowerCase().replace(" ", "");
-                    builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-                    isFirst = false;
-                }
-                builder.append("]");
-                handler.handleString(builder.toString());
-            }
-
-            @Override
-            public void handleJSONArray(JSONArray array) {
-                handler.handleJSONArray(array);
-            }
-        });
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        for(Element element : trs) {
+            final Elements tds = element.select("td");
+            final int size = tds.size();
+            final String country = tds.get(1-(size == 3 || size == 4 ? 1 : 0)).select("a").get(0).text().toLowerCase().replace(" ", "");
+            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
+            isFirst = false;
+        }
+        builder.append("]");
+        return builder.toString();
     }
-    private void loadGooglePlayPass(CompletionHandler handler) {
-        getJSONArray(new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                final String url = "https://play.google.com/about/pass-availability/";
-                final Elements elements = getAvailabilityDocumentElements(url, "body main.h-c-page ul li");
+    private String loadGooglePlayPass() {
+        final String url = "https://play.google.com/about/pass-availability/";
+        final Elements elements = getAvailabilityDocumentElements(url, "body main.h-c-page ul li");
 
-                final StringBuilder builder = new StringBuilder("[");
-                boolean isFirst = true;
-                for(Element element : elements) {
-                    final String country = element.text().toLowerCase().replace(" ", "");
-                    builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-                    isFirst = false;
-                }
-                builder.append("]");
-                handler.handleString(builder.toString());
-            }
-
-            @Override
-            public void handleJSONArray(JSONArray array) {
-                handler.handleJSONArray(array);
-            }
-        });
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        for(Element element : elements) {
+            final String country = element.text().toLowerCase().replace(" ", "");
+            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
+            isFirst = false;
+        }
+        builder.append("]");
+        return builder.toString();
     }
-    private void loadHBOMax(CompletionHandler handler) {
+    private String loadHBOMax() {
         // https://en.wikipedia.org/wiki/HBO_Max
-        loadOnlyTrue(handler, "unitedstates");
+        return loadOnlyTrue("unitedstates");
     }
-    private void loadHulu(CompletionHandler handler) {
+    private String loadHulu() {
         // https://en.wikipedia.org/wiki/Hulu#International_availability
-        loadOnlyTrue(handler, "unitedstates");
+        return loadOnlyTrue("unitedstates");
     }
-    private void loadNvidiaGeforceNOW(CompletionHandler handler) {
+    private String loadNvidiaGeforceNOW() {
         // https://nvidia.custhelp.com/app/answers/detail/a_id/5023
         final String[] array = {
                 "albania",
@@ -649,9 +543,9 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 "unitedkingdom",
                 "unitedstates",
         };
-        loadOnlyTrue(handler, array);
+        return loadOnlyTrue(array);
     }
-    private void loadParamountPlus(CompletionHandler handler) {
+    private String loadParamountPlus() {
         // https://en.wikipedia.org/wiki/Paramount%2B
         // https://help.cbs.com/s/article/I-m-traveling-out-of-the-country-Can-I-watch-CBSN
         final String[] array = {
@@ -659,13 +553,13 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 "canada",
                 "unitedstates",
         };
-        loadOnlyTrue(handler, array);
+        return loadOnlyTrue(array);
     }
-    private void loadPeacock(CompletionHandler handler) {
+    private String loadPeacock() {
         // https://en.wikipedia.org/wiki/Peacock_(streaming_service)
-        loadOnlyTrue(handler, "unitedstates");
+        return loadOnlyTrue("unitedstates");
     }
-    private void loadPlayStationNow(CompletionHandler handler) {
+    private String loadPlayStationNow() {
         // https://en.wikipedia.org/wiki/PlayStation_Now
         // https://www.playstation.com/en-us/support/subscriptions/playstation-now-support/
         final String[] array = {
@@ -689,67 +583,42 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 "unitedkingdom",
                 "unitedstates",
         };
-        loadOnlyTrue(handler, array);
+        return loadOnlyTrue(array);
     }
-    private void loadSamsungPay(CompletionHandler handler) {
+    private String loadSamsungPay() {
         final String url = "https://en.wikipedia.org/wiki/Samsung_Pay";
-        getJSONArray(new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                final Elements trs = getAvailabilityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
-                trs.remove(0);
-                final StringBuilder builder = new StringBuilder("[");
-                boolean isFirst = true;
-                for(Element element : trs) {
-                    final Elements tds = element.select("td");
-                    final int size = tds.size();
-                    final String country = tds.get(1-(size == 1 ? 1 : 0)).select("a").get(1).text().toLowerCase().replace(" ", "");
-                    builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-                    isFirst = false;
-                }
-                builder.append("]");
-                handler.handleString(builder.toString());
-            }
-
-            @Override
-            public void handleJSONArray(JSONArray array) {
-                handler.handleJSONArray(array);
-            }
-        });
+        final Elements trs = getAvailabilityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
+        trs.remove(0);
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        for(Element element : trs) {
+            final Elements tds = element.select("td");
+            final int size = tds.size();
+            final String country = tds.get(1-(size == 1 ? 1 : 0)).select("a").get(1).text().toLowerCase().replace(" ", "");
+            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
+            isFirst = false;
+        }
+        builder.append("]");
+        return builder.toString();
     }
-    private void loadShowtime(CompletionHandler handler) {
+    private String loadShowtime() {
         // https://en.wikipedia.org/wiki/Showtime_(TV_network)
-        loadOnlyTrue(handler, "unitedstates");
+        return loadOnlyTrue("unitedstates");
     }
-    private void loadSpotify(CompletionHandler handler) {
-        getJSONArray(new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                final String url = "https://support.spotify.com/us/article/full-list-of-territories-where-spotify-is-available/";
-                final Elements trs = getAvailabilityDocumentElements(url, "body.type-normal div div.mainContainer div.container div.Layout_main__3m1yK div.raw-content div.RawContent_tableWrapper__3mA43 table tbody tr");
-                final StringBuilder builder = new StringBuilder("[");
-                boolean isFirst = true;
-
-                for(Element element : trs) {
-                    final Elements tds = element.select("td");
-                    final String[] countries = tds.get(1).text().split("\\.")[0].split(", ");
-                    for(String country : countries) {
-                        country = country.toLowerCase().replace(" ", "");
-                        builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-                        isFirst = false;
-                    }
-                }
-                builder.append("]");
-                handler.handleString(builder.toString());
-            }
-
-            @Override
-            public void handleJSONArray(JSONArray array) {
-                handler.handleJSONArray(array);
-            }
-        });
+    private String loadSpotify() {
+        final String url = "https://support.spotify.com/us/article/full-list-of-territories-where-spotify-is-available/";
+        final Elements trs = getAvailabilityDocumentElements(url, "div.raw-content ul li");
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        for(Element element : trs) {
+            final String country = element.text().toLowerCase().replace(" ", "");
+            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
+            isFirst = false;
+        }
+        builder.append("]");
+        return builder.toString();
     }
-    private void loadStadia(CompletionHandler handler) {
+    private String loadStadia() {
         // https://support.google.com/stadia/answer/9566513?hl=en
         // https://en.wikipedia.org/wiki/Google_Stadia
         final String[] array = {
@@ -776,13 +645,13 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 "unitedkingdom",
                 "unitedstates",
         };
-        loadOnlyTrue(handler, array);
+        return loadOnlyTrue(array);
     }
-    private void loadStarz(CompletionHandler handler) {
+    private String loadStarz() {
         // https://en.wikipedia.org/wiki/Starz
-        loadOnlyTrue(handler, "unitedstates");
+        return loadOnlyTrue("unitedstates");
     }
-    private void loadStarzplay(CompletionHandler handler) {
+    private String loadStarzplay() {
         // https://en.wikipedia.org/wiki/Starz#Starzplay
         final String[] array = {
                 "argentina",
@@ -812,42 +681,32 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 "unitedarabemirates",
                 "unitedkingdom"
         };
-        loadOnlyTrue(handler, array);
+        return loadOnlyTrue(array);
     }
-    private void loadTidal(CompletionHandler handler) {
-        getJSONArray(new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                final String url = "https://support.tidal.com/hc/en-us/articles/202453191-Which-countries-is-TIDAL-available-";
-                final Elements trs = getAvailabilityDocumentElements(url, "section.categories-wrapper div ul li.txt-content", 0).select("p");
-                for(int i = 0; i < 2; i++) {
-                    trs.remove(0);
-                }
-                trs.remove(trs.size()-1);
-                trs.remove(trs.size()-1);
+    private String loadTidal() {
+        final String url = "https://support.tidal.com/hc/en-us/articles/202453191-Which-countries-is-TIDAL-available-";
+        final Elements trs = getAvailabilityDocumentElements(url, "section.categories-wrapper div ul li.txt-content", 0).select("p");
+        for(int i = 0; i < 2; i++) {
+            trs.remove(0);
+        }
+        trs.remove(trs.size()-1);
+        trs.remove(trs.size()-1);
 
-                final StringBuilder builder = new StringBuilder("[");
-                boolean isFirst = true;
-                for(Element element : trs) {
-                    final String country = element.text().toLowerCase().replace(" ", "").replace("ofamerica", "");
-                    builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-                    isFirst = false;
-                }
-                builder.append("]");
-                handler.handleString(builder.toString());
-            }
-
-            @Override
-            public void handleJSONArray(JSONArray array) {
-                handler.handleJSONArray(array);
-            }
-        });
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        for(Element element : trs) {
+            final String country = element.text().toLowerCase().replace(" ", "").replace("ofamerica", "");
+            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
+            isFirst = false;
+        }
+        builder.append("]");
+        return builder.toString();
     }
-    private void loadVenmo(CompletionHandler handler) {
+    private String loadVenmo() {
         // https://help.venmo.com/hc/en-us/articles/209690188-Requirements
-        loadOnlyTrue(handler, "unitedstates");
+        return loadOnlyTrue("unitedstates");
     }
-    private void loadXboxCloudGaming(CompletionHandler handler) {
+    private String loadXboxCloudGaming() {
         // https://en.wikipedia.org/wiki/Xbox_Cloud_Gaming
         final String[] array = {
                 "austria",
@@ -874,9 +733,9 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 "unitedkingdom",
                 "unitedstates",
         };
-        loadOnlyTrue(handler, array);
+        return loadOnlyTrue(array);
     }
-    private void loadXboxGamePass(CompletionHandler handler) {
+    private String loadXboxGamePass() {
         // https://en.wikipedia.org/wiki/Xbox_Game_Pass
         final String[] array = {
                 "argentina",
@@ -921,9 +780,9 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 "unitedkingdom",
                 "unitedstates",
         };
-        loadOnlyTrue(handler, array);
+        return loadOnlyTrue(array);
     }
-    private void loadXboxLive(CompletionHandler handler) {
+    private String loadXboxLive() {
         // https://www.xbox.com/en-us/Shell/ChangeLocale?rtc=1
         // https://en.wikipedia.org/wiki/Xbox_Live
         final String[] array = {
@@ -970,34 +829,24 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
                 "unitedkingdom",
                 "unitedstates",
         };
-        loadOnlyTrue(handler, array);
+        return loadOnlyTrue(array);
     }
-    private void loadYouTubePremium(CompletionHandler handler) {
-        getJSONArray(new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                final String url = "https://en.wikipedia.org/wiki/YouTube_Premium";
-                final Elements lis = getAvailabilityDocumentElements(url, "div.mw-parser-output table.infobox", 0).select("tbody tr td div.NavFrame ul.NavContent li");
+    private String loadYouTubePremium() {
+        final String url = "https://support.google.com/youtube/answer/6307365?hl=en#zippy=%2Cpremium-memberships-available-locations";
+        final Elements list = getAvailabilityDocumentElements(url, "div table.no-stripes", 0).select("tbody tr td");
 
-                final StringBuilder builder = new StringBuilder("[");
-                boolean isFirst = true;
-                for(Element li : lis) {
-                    final String country = li.select("a").get(0).text().toLowerCase().replace(" ", "");
-                    builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-                    isFirst = false;
-                }
-                builder.append("]");
-                handler.handleString(builder.toString());
-            }
-
-            @Override
-            public void handleJSONArray(JSONArray array) {
-                handler.handleJSONArray(array);
-            }
-        });
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        for(Element li : list) {
+            final String country = li.text().toLowerCase().replace(" ", "").replace("&", "and").replace(".", "");
+            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
+            isFirst = false;
+        }
+        builder.append("]");
+        return builder.toString();
     }
-    private void loadYouTubeTV(CompletionHandler handler) {
+    private String loadYouTubeTV() {
         // https://support.google.com/youtubetv/answer/7370552?hl=en
-        loadOnlyTrue(handler, "unitedstates");
+        return loadOnlyTrue("unitedstates");
     }
 }

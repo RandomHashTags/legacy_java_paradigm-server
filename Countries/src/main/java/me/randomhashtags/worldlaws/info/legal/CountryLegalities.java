@@ -1,9 +1,11 @@
 package me.randomhashtags.worldlaws.info.legal;
 
+import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.info.CountryInfoKey;
 import me.randomhashtags.worldlaws.info.CountryInfoValue;
+import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
@@ -82,17 +84,19 @@ public enum CountryLegalities implements CountryLegalityService {
     @Override
     public String loadData() {
         loadStyles();
+        final String title = getInfo().getTitle();
+        final EventSources sources = getSources();
         switch (this) {
-            case ABORTION: return loadAbortion();
-            case BITCOIN: return loadBitcoin();
-            case CANNABIS: return loadCannabis();
-            case DRINKING_AGE: return loadDrinkingAge();
-            //case GUNS: return loadGuns();
-            case INCEST: return loadIncest();
-            case MARITAL_RAPE: return loadMaritalRape();
-            //case PORNOGRAPHY: return loadPornography();
-            case PROSTITUTION: return loadProstitution();
-            case SMOKING_AGE: return loadSmokingAge();
+            case ABORTION: return loadAbortion(title, sources);
+            case BITCOIN: return loadBitcoin(title, sources);
+            case CANNABIS: return loadCannabis(title, sources);
+            case DRINKING_AGE: return loadDrinkingAge(title, sources);
+            //case GUNS: return loadGuns(title, sources);
+            case INCEST: return loadIncest(title, sources);
+            case MARITAL_RAPE: return loadMaritalRape(title, sources);
+            //case PORNOGRAPHY: return loadPornography(title, sources);
+            case PROSTITUTION: return loadProstitution(title, sources);
+            case SMOKING_AGE: return loadSmokingAge(title, sources);
             default: return null;
         }
     }
@@ -141,14 +145,13 @@ public enum CountryLegalities implements CountryLegalityService {
         }
     }
 
-    private String loadAbortion() {
+    private String loadAbortion(String title, EventSources sources) {
         final Elements trs = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable", 2).select("tbody tr");
         trs.removeIf(row -> {
             return row.hasAttr("id") && row.attr("id").startsWith("mw-customcollapsible-") || row.select("td").size() == 0;
         });
 
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONObject json = new JSONObject();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().split("\\[")[0].replace(" ", "");
@@ -161,30 +164,20 @@ public enum CountryLegalities implements CountryLegalityService {
             final CountryInfoValue economicOrSocialValue = new CountryInfoValue("Economic or Social", getValue(economicOrSocialElement), null);
             final CountryInfoValue onRequestValue = new CountryInfoValue("On Request", getValue(onRequestElement), null);
 
-            final CountryInfoKey info = new CountryInfoKey(null, -1, saveLifeValue, preserveHealthValue, rapeValue, fetalImpairmentValue, economicOrSocialValue, onRequestValue);
-            info.country = country;
-            final String string = info.toServerJSON();
-            builder.append(isFirst ? "" : ",").append(string);
-            isFirst = false;
+            final CountryInfoKey info = new CountryInfoKey(title, null, yearOfData, sources, saveLifeValue, preserveHealthValue, rapeValue, fetalImpairmentValue, economicOrSocialValue, onRequestValue);
+            json.put(country, info.toJSONObject());
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadBitcoin() {
-        final StringBuilder builder = new StringBuilder("[");
+    private String loadBitcoin(String title, EventSources sources) {
+        final JSONObject json = new JSONObject();
         final Elements tables = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable");
         for(int i = 1; i <= 20; i++) {
-            String data = loadBitcoinData(tables.get(i));
-            if(i == 1) {
-                data = data.substring(1);
-            }
-            builder.append(data);
+            loadBitcoinData(json, tables.get(i), title, sources);
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadBitcoinData(Element table) {
-        final StringBuilder builder = new StringBuilder();
+    private void loadBitcoinData(JSONObject json, Element table, String title, EventSources sources) {
         final Elements trs = table.select("tbody tr");
         trs.remove(0);
         final String legal = "/wiki/File:Yes_check.svg";
@@ -217,20 +210,17 @@ public enum CountryLegalities implements CountryLegalityService {
                     isFirst = false;
                 }
                 final String notes = noteBuilder.toString();
-                final CountryInfoKey info = new CountryInfoKey(notes, -1, legality, illegality);
-                info.country = country;
-                builder.append(",").append(info.toServerJSON());
+                final CountryInfoKey info = new CountryInfoKey(title, notes, yearOfData, sources, legality, illegality);
+                json.put(country, info.toJSONObject());
             }
         }
-        return builder.toString();
     }
-    private String loadCannabis() {
+    private String loadCannabis(String title, EventSources sources) {
         final Elements trs = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.removeIf(row -> row.hasAttr("class") && row.attr("class").equals("sortbottom"));
         trs.remove(trs.size()-1);
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONObject json = new JSONObject();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().split("\\(")[0].replace(" ", "");
@@ -245,30 +235,20 @@ public enum CountryLegalities implements CountryLegalityService {
             final String medicinalString = getValue(medicalElement);
             final CountryInfoValue medicinalValue = new CountryInfoValue("Medicinal Use", medicinalString, medicalText);
 
-            final CountryInfoKey info = new CountryInfoKey(notes, -1, recreationalValue, medicinalValue);
-            info.country = country;
-            builder.append(isFirst ? "" : ",").append(info.toServerJSON());
-            isFirst = false;
+            final CountryInfoKey info = new CountryInfoKey(title, notes, yearOfData, sources, recreationalValue, medicinalValue);
+            json.put(country, info.toJSONObject());
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadDrinkingAge() {
+    private String loadDrinkingAge(String title, EventSources sources) {
+        final JSONObject json = new JSONObject();
         final Elements tables = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable");
-
-        final StringBuilder builder = new StringBuilder("[");
         for(int i = 0; i < 5; i++) {
-            String data = loadDrinkingAgeData(tables.get(i), i == 3);
-            if(i == 0) {
-                data = data.substring(1);
-            }
-            builder.append(data);
+            loadDrinkingAgeData(json, tables.get(i), i == 3, title, sources);
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadDrinkingAgeData(Element table, boolean propertyBased) {
-        final StringBuilder builder = new StringBuilder();
+    private void loadDrinkingAgeData(JSONObject json, Element table, boolean propertyBased, String title, EventSources sources) {
         final Elements trs = table.select("tbody tr");
         trs.remove(0);
         trs.remove(0);
@@ -298,13 +278,11 @@ public enum CountryLegalities implements CountryLegalityService {
             }
             final CountryInfoValue purchasingAge = new CountryInfoValue("Purchasing Age", purchasingAgeText, null);
 
-            final CountryInfoKey info = new CountryInfoKey(notes, -1, drinkingAge, purchasingAge);
-            info.country = country;
-            builder.append(",").append(info.toServerJSON());
+            final CountryInfoKey info = new CountryInfoKey(title, notes, yearOfData, sources, drinkingAge, purchasingAge);
+            json.put(country, info.toJSONObject());
         }
-        return builder.toString();
     }
-    private String loadGuns() {
+    private String loadGuns(String title, EventSources sources) {
         final Elements trs = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.remove(0);
@@ -323,8 +301,7 @@ public enum CountryLegalities implements CountryLegalityService {
         final String registrationText = "Are firearms not required to be registered (\"yes\" means \"not required\")?";
         final String maxPenaltyText = "Maximum prison penalty for illicit firearm possession";
 
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONObject json = new JSONObject();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().split("\\(")[0].split("\\[")[0].replace(" ", "");
@@ -352,32 +329,24 @@ public enum CountryLegalities implements CountryLegalityService {
             final CountryInfoValue freeOfRegistrationValue = new CountryInfoValue("Registration Required", getGunValue(freeOfRegistrationElement), registrationText);
             final CountryInfoValue maxPenaltyValue = new CountryInfoValue("Max penalty (years)", getGunValue(maxPenaltyElement), maxPenaltyText);
 
-            final CountryInfoKey info = new CountryInfoKey(null, -1, goodReasonRequiredValue, personalProtectionValue, longGunsValue, handgunsValue, semiAutomaticRiflesValue, fullAutomaticFirearmsValue, openCarryValue, concealedCarryValue, magazineCapacityLimitsValue, freeOfRegistrationValue, maxPenaltyValue);
-            info.country = country;
-            builder.append(isFirst ? "" : ",").append(info.toServerJSON());
-            isFirst = false;
+            final CountryInfoKey info = new CountryInfoKey(title, null, yearOfData, sources, goodReasonRequiredValue, personalProtectionValue, longGunsValue, handgunsValue, semiAutomaticRiflesValue, fullAutomaticFirearmsValue, openCarryValue, concealedCarryValue, magazineCapacityLimitsValue, freeOfRegistrationValue, maxPenaltyValue);
+            json.put(country, info.toJSONObject());
         }
-        return builder.toString();
+        return json.toString();
     }
     private String getGunValue(Element element) {
         final String text = element.text();
         return text.isEmpty() ? "Unknown" : removeReferences(text);
     }
-    private String loadIncest() {
-        final StringBuilder builder = new StringBuilder("[");
+    private String loadIncest(String title, EventSources sources) {
+        final JSONObject json = new JSONObject();
         final Elements tables = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable");
         for(int i = 1; i <= 1; i++) {
-            String data = loadIncestData(tables.get(i));
-            if(i == 1) {
-                data = data.substring(1);
-            }
-            builder.append(data);
+            loadIncestData(json, tables.get(i), title, sources);
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadIncestData(Element table) {
-        final StringBuilder builder = new StringBuilder();
+    private void loadIncestData(JSONObject json, Element table, String title, EventSources sources) {
         final Elements trs = table.select("tbody tr");
         trs.remove(0);
         final String legal = "/wiki/File:Yes_check.svg";
@@ -411,29 +380,20 @@ public enum CountryLegalities implements CountryLegalityService {
                 final String penaltiesValue = penaltiesText.isEmpty() ? "Unknown" : penaltiesText;
                 final CountryInfoValue penalties = new CountryInfoValue("Penalties", penaltiesValue, null);
 
-                final CountryInfoKey info = new CountryInfoKey(null, -1, legality, illegality, prohibitedRelationships, penalties);
-                info.country = country;
-                builder.append(",").append(info.toServerJSON());
+                final CountryInfoKey info = new CountryInfoKey(title, null, yearOfData, sources, legality, illegality, prohibitedRelationships, penalties);
+                json.put(title, info.toJSONObject());
             }
         }
-        return builder.toString();
     }
-    private String loadMaritalRape() {
-        final StringBuilder builder = new StringBuilder("[");
-        final String title = getInfo().getTitle();
+    private String loadMaritalRape(String title, EventSources sources) {
+        final JSONObject json = new JSONObject();
         final Elements tables = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable");
         for(int i = 0; i < 24; i++) {
-            String data = loadMaritalRapeData(title, tables.get(i));
-            if(i == 0) {
-                data = data.substring(1);
-            }
-            builder.append(data);
+            loadMaritalRapeData(json, tables.get(i), title, sources);
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadMaritalRapeData(String title, Element table) {
-        final StringBuilder builder = new StringBuilder();
+    private void loadMaritalRapeData(JSONObject json, Element table, String title, EventSources sources) {
         final Elements trs = table.select("tbody tr");
         trs.remove(0);
         for(Element element : trs) {
@@ -444,17 +404,14 @@ public enum CountryLegalities implements CountryLegalityService {
             final String notes = getNotesFromElement(tds.get(2));
 
             final CountryInfoValue value = new CountryInfoValue(title, getValue(legalElement), null);
-            final CountryInfoKey info = new CountryInfoKey(notes, -1, value);
-            info.country = country;
-            builder.append(",").append(info.toServerJSON());
+            final CountryInfoKey info = new CountryInfoKey(title, notes, yearOfData, sources, value);
+            json.put(country, info.toJSONObject());
         }
-        return builder.toString();
     }
-    private String loadPornography() {
+    private String loadPornography(String title, EventSources sources) {
+        final JSONObject json = new JSONObject();
         final Elements trs = getLegalityDocumentElements(url, "div.mw-parser-output table.wikitable tbody tr");
         trs.remove(0);
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final Element saleElement = tds.get(1), possessionElement = tds.get(2), internetElement = tds.get(3);
@@ -477,18 +434,13 @@ public enum CountryLegalities implements CountryLegalityService {
                 final String penaltyText = textNodes.isEmpty() || textNodes.get(0).text().equals(" ") ? "Unknown" : textNodes.get(0).text();
                 final CountryInfoValue penaltyValue = new CountryInfoValue("Penalty", penaltyText, null);
 
-                final CountryInfoKey info = new CountryInfoKey(notes, -1, saleValue, possessionValue, internetValue, penaltyValue);
-                info.country = country;
-                builder.append(isFirst ? "" : ",").append(info.toServerJSON());
-                isFirst = false;
+                final CountryInfoKey info = new CountryInfoKey(title, notes, yearOfData, sources, saleValue, possessionValue, internetValue, penaltyValue);
+                json.put(country, info.toJSONObject());
             }
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadProstitution() {
-        final StringBuilder builder = new StringBuilder("[");
-
+    private String loadProstitution(String title, EventSources sources) {
         final HashMap<Integer, String> descriptions = new HashMap<>(), values = new HashMap<>();
         descriptions.put(0, "Prostitution itself (exchanging sex for money) is illegal. The punishment for prostitution varies considerably: in some countries, it can incur the death penalty, in other jurisdictions, it is a crime punishable with a prison sentence, while in others it is a lesser administrative offense punishable only with a fine.");
         descriptions.put(1, "Although prostitutes themselves commit no crime, clients and any third party involvement is criminalised. Also called the \"Swedish model\" or \"Nordic model\".");
@@ -503,20 +455,15 @@ public enum CountryLegalities implements CountryLegalityService {
         values.put(4, "Legal");
         values.put(5, "Decriminalized");
 
+        final JSONObject json = new JSONObject();
         final Elements hrefs = getLegalityDocumentElements(url, "div.mw-parser-output h3 + p + ul");
         for(int i = 0; i < 6; i++) {
             final String description = descriptions.get(i), value = values.get(i);
-            String data = loadProstitutionData(hrefs.get(i), value, description);
-            if(i == 0) {
-                data = data.substring(1);
-            }
-            builder.append(data);
+            loadProstitutionData(json, hrefs.get(i), value, description, title, sources);
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadProstitutionData(Element list, String value, String description) {
-        final StringBuilder builder = new StringBuilder();
+    private String loadProstitutionData(JSONObject json, Element list, String value, String description, String title, EventSources sources) {
         final Elements elements = list.select("li a");
         elements.removeIf(row -> !row.attr("href").startsWith("/wiki/Prostitution_in"));
         for(Element element : elements) {
@@ -526,29 +473,20 @@ public enum CountryLegalities implements CountryLegalityService {
                     ;
 
             final CountryInfoValue infoValue = new CountryInfoValue("Prostitution", value, null);
-            final CountryInfoKey info = new CountryInfoKey(description, -1, infoValue);
-            info.country = country;
-            builder.append(",").append(info.toServerJSON());
+            final CountryInfoKey info = new CountryInfoKey(title, description, yearOfData, sources, infoValue);
+            json.put(country, info.toJSONObject());
         }
-        return builder.toString();
+        return json.toString();
     }
-    private String loadSmokingAge() {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+    private String loadSmokingAge(String title, EventSources sources) {
+        final JSONObject json = new JSONObject();
         final Elements tables = getLegalityDocumentElements(url, "div.mw-parser-output div + table.wikitable");
         for(Element table : tables) {
-            String data = loadSmokingAgeData(table);
-            if(isFirst) {
-                data = data.substring(1);
-            }
-            builder.append(data);
-            isFirst = false;
+            loadSmokingAgeData(json, table, title, sources);
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadSmokingAgeData(Element table) {
-        final StringBuilder builder = new StringBuilder();
+    private void loadSmokingAgeData(JSONObject json, Element table, String title, EventSources sources) {
         final Elements trs = table.select("tbody tr");
         trs.remove(0);
         trs.remove(0);
@@ -575,12 +513,10 @@ public enum CountryLegalities implements CountryLegalityService {
                     }
                     final CountryInfoValue purchasingAge = new CountryInfoValue("Purchasing Age", purchasingAgeText, null);
 
-                    final CountryInfoKey info = new CountryInfoKey(notes, -1, smokingAge, purchasingAge);
-                    info.country = country;
-                    builder.append(",").append(info.toServerJSON());
+                    final CountryInfoKey info = new CountryInfoKey(title, notes, yearOfData, sources, smokingAge, purchasingAge);
+                    json.put(title, info.toJSONObject());
                 }
             }
         }
-        return builder.toString();
     }
 }

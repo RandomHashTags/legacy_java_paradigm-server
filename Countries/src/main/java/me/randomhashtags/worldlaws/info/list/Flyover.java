@@ -50,70 +50,68 @@ public enum Flyover implements AppleFeatureAvailability {
     }
 
     @Override
-    public void loadData(CompletionHandler handler) {
+    public String loadData() {
         final String fileName = getInfo().getTitle();
-        getJSONObject(getFolder(), fileName, new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                final Elements elements = getSectionElements(AppleFeatureType.IOS, "maps-flyover");
-                final HashMap<String, HashMap<String, List<FlyoverObj>>> flyoversMap = new HashMap<>();
-                for(Element element : elements) {
-                    final String[] values = element.text().split(", ");
-                    final int max = values.length;
-                    if(max == 2) {
-                        String countryBackendID = values[1].replace("England", "United Kingdom");
-                        final String territory;
-                        final SovereignStateSubdivision subdivision = WLSubdivisions.valueOfString(countryBackendID);
-                        if(subdivision != null) {
-                            territory = subdivision.getName();
-                            countryBackendID = subdivision.getCountry().getShortName();
-                        } else {
-                            territory = null;
-                        }
-                        countryBackendID = countryBackendID.toLowerCase().replace(" ", "");
-                        String city = values[0].split("/")[0];
-                        final FlyoverObj flyoverObj = valueOf(countryBackendID, territory, city);
-                        if(flyoverObj != null) {
-                            flyoversMap.putIfAbsent(countryBackendID, new HashMap<>());
-                            flyoversMap.get(countryBackendID).putIfAbsent(territory, new ArrayList<>());
-                            flyoversMap.get(countryBackendID).get(territory).add(flyoverObj);
-                        }
+        final Folder folder = getFolder();
+        final JSONObject localJSON = getLocalFileJSONObject(folder, fileName);
+        if(localJSON != null) {
+            return localJSON.toString();
+        } else {
+            final Elements elements = getSectionElements(AppleFeatureType.IOS, "maps-flyover");
+            final HashMap<String, HashMap<String, List<FlyoverObj>>> flyoversMap = new HashMap<>();
+            for(Element element : elements) {
+                final String[] values = element.text().split(", ");
+                final int max = values.length;
+                if(max == 2) {
+                    String countryBackendID = values[1].replace("England", "United Kingdom");
+                    final String territory;
+                    final SovereignStateSubdivision subdivision = WLSubdivisions.valueOfString(countryBackendID);
+                    if(subdivision != null) {
+                        territory = subdivision.getName();
+                        countryBackendID = subdivision.getCountry().getShortName();
+                    } else {
+                        territory = null;
+                    }
+                    countryBackendID = countryBackendID.toLowerCase().replace(" ", "");
+                    String city = values[0].split("/")[0];
+                    final FlyoverObj flyoverObj = valueOf(countryBackendID, territory, city);
+                    if(flyoverObj != null) {
+                        flyoversMap.putIfAbsent(countryBackendID, new HashMap<>());
+                        flyoversMap.get(countryBackendID).putIfAbsent(territory, new ArrayList<>());
+                        flyoversMap.get(countryBackendID).get(territory).add(flyoverObj);
                     }
                 }
-                final StringBuilder builder = new StringBuilder("{");
-                boolean isFirstCountry = true;
-                for(Map.Entry<String, HashMap<String, List<FlyoverObj>>> map : flyoversMap.entrySet()) {
-                    final String country = map.getKey();
-                    final HashMap<String, List<FlyoverObj>> territoriesMap = map.getValue();
-                    final StringBuilder countryBuilder = new StringBuilder("{");
-                    boolean isFirstTerritory = true;
-                    for(Map.Entry<String, List<FlyoverObj>> territoryMap : territoriesMap.entrySet()) {
-                        final String territory = territoryMap.getKey();
-                        final List<FlyoverObj> flyovers = territoryMap.getValue();
-                        countryBuilder.append(isFirstTerritory ? "" : ",").append("\"").append(territory).append("\":{");
-                        boolean isFirstFlyover = true;
-                        for(FlyoverObj flyoverObj : flyovers) {
-                            final String string = flyoverObj.toString();
-                            countryBuilder.append(isFirstFlyover ? "" : ",").append(string);
-                            isFirstFlyover = false;
-                        }
-                        countryBuilder.append("}");
-                        isFirstTerritory = false;
+            }
+            final StringBuilder builder = new StringBuilder("{");
+            boolean isFirstCountry = true;
+            for(Map.Entry<String, HashMap<String, List<FlyoverObj>>> map : flyoversMap.entrySet()) {
+                final String country = map.getKey();
+                final HashMap<String, List<FlyoverObj>> territoriesMap = map.getValue();
+                final StringBuilder countryBuilder = new StringBuilder("{");
+                boolean isFirstTerritory = true;
+                for(Map.Entry<String, List<FlyoverObj>> territoryMap : territoriesMap.entrySet()) {
+                    final String territory = territoryMap.getKey();
+                    final List<FlyoverObj> flyovers = territoryMap.getValue();
+                    countryBuilder.append(isFirstTerritory ? "" : ",").append("\"").append(territory).append("\":{");
+                    boolean isFirstFlyover = true;
+                    for(FlyoverObj flyoverObj : flyovers) {
+                        final String string = flyoverObj.toString();
+                        countryBuilder.append(isFirstFlyover ? "" : ",").append(string);
+                        isFirstFlyover = false;
                     }
                     countryBuilder.append("}");
-                    final String string = new CountryServiceValue(Flyover.INSTANCE, countryBuilder.toString()).toString();
-                    builder.append(isFirstCountry ? "" : ",").append("\"").append(country).append("\":{").append(string).append("}");
-                    isFirstCountry = false;
+                    isFirstTerritory = false;
                 }
-                builder.append("}");
-                handler.handleString(builder.toString());
+                countryBuilder.append("}");
+                final String string = new CountryServiceValue(Flyover.INSTANCE, countryBuilder.toString()).toString();
+                builder.append(isFirstCountry ? "" : ",").append("\"").append(country).append("\":{").append(string).append("}");
+                isFirstCountry = false;
             }
-
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                handler.handleString(json.toString());
-            }
-        });
+            builder.append("}");
+            final String string = builder.toString();
+            setFileJSON(folder, fileName, string);
+            return string;
+        }
     }
 
     private FlyoverObj valueOf(String countryBackendID, String territory, String city) {

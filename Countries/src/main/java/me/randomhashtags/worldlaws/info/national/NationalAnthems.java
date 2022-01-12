@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.info.national;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
@@ -9,6 +8,7 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.info.CountryNationalService;
 import me.randomhashtags.worldlaws.info.CountrySingleValue;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -25,9 +25,10 @@ public enum NationalAnthems implements CountryNationalService { // https://en.wi
     }
 
     @Override
-    public void loadData(CompletionHandler handler) {
+    public String loadData() {
         final String url = "https://www.navyband.navy.mil/media/ceremonial";
         final Document doc = getDocument(Folder.COUNTRIES_NATIONAL, url, false);
+        String string = null;
         if(doc != null) {
             final String title = getInfo().getTitle();
             final HashMap<String, String> countries = new HashMap<>();
@@ -49,19 +50,14 @@ public enum NationalAnthems implements CountryNationalService { // https://en.wi
                     }
                 }
             });
-            final StringBuilder builder = new StringBuilder("{");
-            boolean isFirst = true;
+            final JSONObject json = new JSONObject();
             for(Map.Entry<String, String> map : countries.entrySet()) {
                 final String country = map.getKey(), audioURL = map.getValue();
-                final CountrySingleValue value = new CountrySingleValue(null, audioURL, null, -1);
-                value.setSources(sources);
-                builder.append(isFirst ? "" : ",").append("\"").append(country).append("\":{\"").append(title).append("\":").append(value.toString().substring("\"null\":".length())).append("}");
-                isFirst = false;
+                final CountrySingleValue value = new CountrySingleValue(title, null, audioURL, null, -1, sources);
+                json.put(country, value.toJSONObject());
             }
-            builder.append("}");
-            handler.handleString(builder.toString());
-        } else {
-            handler.handleString(null);
+            string = json.toString();
         }
+        return string;
     }
 }

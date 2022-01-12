@@ -1,7 +1,9 @@
 package me.randomhashtags.worldlaws.info;
 
+import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
+import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
@@ -61,18 +63,20 @@ public enum CountryValues implements CountryValueService {
 
     @Override
     public String loadData() {
+        final String title = getInfo().getTitle();
+        final EventSources sources = getSources();
         switch (this) {
-            case HEALTH_CARE_SYSTEM: return loadHealthCareSystem();
-            case MILITARY_ENLISTMENT_AGE: return loadMilitaryEnlistmentAge();
-            case MINIMUM_DRIVING_AGE: return loadMinimumDrivingAge();
-            case SYSTEM_OF_GOVERNMENT: return loadSystemOfGovernment();
-            case TRAFFIC_SIDE: return loadTrafficSide();
-            case VOTING_AGE: return loadVotingAge();
+            case HEALTH_CARE_SYSTEM: return loadHealthCareSystem(title, sources);
+            case MILITARY_ENLISTMENT_AGE: return loadMilitaryEnlistmentAge(title, sources);
+            case MINIMUM_DRIVING_AGE: return loadMinimumDrivingAge(title, sources);
+            case SYSTEM_OF_GOVERNMENT: return loadSystemOfGovernment(title, sources);
+            case TRAFFIC_SIDE: return loadTrafficSide(title, sources);
+            case VOTING_AGE: return loadVotingAge(title, sources);
             default: return null;
         }
     }
 
-    private String loadHealthCareSystem() {
+    private String loadHealthCareSystem(String title, EventSources sources) {
         final Element output = getValueDocumentElements(url, "div.mw-parser-output").get(0);
         final Elements trs = output.select("div.div-col");
         for(int i = 0; i < trs.size()-5; i++) {
@@ -96,8 +100,7 @@ public enum CountryValues implements CountryValueService {
         }
         index = 0;
 
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONObject json = new JSONObject();
         for(Element element : trs) {
             final Elements list = element.select("ul li");
             final String type = types.get(index), note = notes.get(index);
@@ -107,44 +110,38 @@ public enum CountryValues implements CountryValueService {
                 if(description != null && description.contains("(")) {
                     description = description.split("\\(")[1];
                 }
-                final CountrySingleValue value = new CountrySingleValue(note, type, description, -1);
+                final CountrySingleValue value = new CountrySingleValue(title, note, type, description, yearOfData, sources);
                 for(Element hrefElement : li.select("a")) {
                     final String href = hrefElement.attr("href");
                     if(!href.startsWith("#cite_note")) {
-                        value.country = hrefElement.text().toLowerCase().split("\\[")[0].split("\\(")[0].replace(" ", "");
-                        builder.append(isFirst ? "" : ",").append(value.toServerJSON());
-                        isFirst = false;
+                        final String country = hrefElement.text().toLowerCase().split("\\[")[0].split("\\(")[0].replace(" ", "");
+                        json.put(country, value.toJSONObject());
                     }
                 }
             }
             index += 1;
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadMilitaryEnlistmentAge() {
+    private String loadMilitaryEnlistmentAge(String title, EventSources sources) {
         final Elements lists = getValueDocumentElements(url, "h2 + ul li");
         lists.remove(lists.size()-1);
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONObject json = new JSONObject();
         for(Element element : lists) {
             final String country = element.select("a").get(0).text().toLowerCase().replace(" ", "");
             final int substring = country.length() + 3;
             final String text = removeReferences(element.text().substring(substring));
-            final CountrySingleValue value = new CountrySingleValue(null, text, null, -1);
-            value.country = country;
-            builder.append(isFirst ? "" : ",").append(value.toServerJSON());
-            isFirst = false;
+            final CountrySingleValue value = new CountrySingleValue(title, null, text, null, yearOfData, sources);
+            json.put(country, value.toJSONObject());
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadMinimumDrivingAge() {
+    private String loadMinimumDrivingAge(String title, EventSources sources) {
         final Elements tables = getValueDocumentElements(url, "div.mw-parser-output table.wikitable");
-        final StringBuilder builder = new StringBuilder("[");
+        final StringBuilder builder = new StringBuilder("["); // TODO: make JSONObject
         boolean isFirst = true;
         for(Element table : tables) {
-            String data = loadMinimumDrivingAgeData(table);
+            String data = loadMinimumDrivingAgeData(table, title, sources);
             if(isFirst) {
                 data = data.substring(1);
             }
@@ -154,21 +151,20 @@ public enum CountryValues implements CountryValueService {
         builder.append("]");
         return builder.toString();
     }
-    private String loadMinimumDrivingAgeData(Element table) {
+    private String loadMinimumDrivingAgeData(Element table, String title, EventSources sources) {
         final Elements trs = table.select("tbody tr");
         trs.remove(0);
-        final StringBuilder builder = new StringBuilder();
+        final JSONObject json = new JSONObject();
         for(Element tr : trs) {
             final Elements tds = tr.select("td");
             final String country = tds.get(0).select("a").get(0).text().toLowerCase().replace(" ", "");
             final String age = removeReferences(tds.get(1).text()), notes = getNotesFromElement(tds.get(2));
-            final CountrySingleValue value = new CountrySingleValue(notes, age, null, -1);
-            value.country = country;
-            builder.append(",").append(value.toServerJSON());
+            final CountrySingleValue value = new CountrySingleValue(title, notes, age, null, yearOfData, sources);
+            json.put(country, value.toJSONObject());
         }
-        return builder.toString();
+        return json.toString();
     }
-    private String loadSystemOfGovernment() {
+    private String loadSystemOfGovernment(String title, EventSources sources) {
         final Elements tables = getValueDocumentElements(url, "div.mw-parser-output table.wikitable");
 
         final HashMap<String, String> styles = new HashMap<>();
@@ -192,9 +188,9 @@ public enum CountryValues implements CountryValueService {
         styleDescriptions.put("Absolute Monarchy", "Head of state is executive; all authority vested in absolute monarch");
         styleDescriptions.put("One-party state", "Head of state is executive or ceremonial; power constitutionally linked to a single political movement");
 
-        final StringBuilder builder = new StringBuilder("[");
+        final StringBuilder builder = new StringBuilder("["); // TODO: make JSONObject
         for(int i = 0; i <= 2; i++) {
-            String data = loadSystemOfGovernmentData(tables.get(i), styles, styleDescriptions);
+            String data = loadSystemOfGovernmentData(tables.get(i), styles, styleDescriptions, title, sources);
             if(i == 0) {
                 data = data.substring(1);
             }
@@ -203,72 +199,66 @@ public enum CountryValues implements CountryValueService {
         builder.append("]");
         return builder.toString();
     }
-    private String loadSystemOfGovernmentData(Element table, HashMap<String, String> styles, HashMap<String, String> styleDescriptions) {
+    private String loadSystemOfGovernmentData(Element table, HashMap<String, String> styles, HashMap<String, String> styleDescriptions, String title, EventSources sources) {
         final Elements trs = table.select("tbody tr");
         trs.remove(0);
 
-        final StringBuilder builder = new StringBuilder();
+        final JSONObject json = new JSONObject();
         for(Element element : trs) {
             final String style = styles.getOrDefault(element.attr("style"), "Unknown"), styleDescription = styleDescriptions.getOrDefault(style, "Unknown");
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().replace(",", "").replace(" ", "").split("people'srepublicof")[0];
             final String notes = getNotesFromElement(tds.get(3));
-            final CountrySingleValue value = new CountrySingleValue(notes, style, styleDescription, -1);
-            value.country = country;
-            builder.append(",").append(value.toServerJSON());
+            final CountrySingleValue value = new CountrySingleValue(title, notes, style, styleDescription, yearOfData, sources);
+            json.put(country, value.toJSONObject());
         }
-        return builder.toString();
+        return json.toString();
     }
-    private String loadTrafficSide() {
+    private String loadTrafficSide(String title, EventSources sources) {
         final Elements trs = getValueDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         String previousCountry = null;
         int rowspanCount = 0;
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONObject json = new JSONObject();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final Element firstElement = tds.get(0), notesElement = tds.get(tds.size()-1);
             final String notes = getNotesFromElement(notesElement), secondElementText = tds.get(1).text();
             final Elements links = firstElement.select("a");
-            final String data;
+            final String country;
+            final JSONObject data;
             if(rowspanCount != 0) {
                 rowspanCount -= 1;
                 final boolean isMainland = links.size() == 0 && firstElement.text().equalsIgnoreCase("Mainland");
-                final String country = isMainland ? previousCountry : links.get(0).text().toLowerCase().split("\\(")[0].replace(" ", "").replace(",", "");
-                data = loadTrafficSideData(country, secondElementText, notes);
+                country = isMainland ? previousCountry : links.get(0).text().toLowerCase().split("\\(")[0].replace(" ", "").replace(",", "");
+                data = loadTrafficSideData(title, secondElementText, notes, sources);
             } else {
-                final String country = links.get(0).text().toLowerCase().split("\\(")[0].replace(" ", "").replace(",", "").replace(".", "");
+                country = links.get(0).text().toLowerCase().split("\\(")[0].replace(" ", "").replace(",", "").replace(".", "");
                 if(firstElement.hasAttr("rowspan")) {
                     rowspanCount = Integer.parseInt(firstElement.attr("rowspan"));
                     if(secondElementText.equalsIgnoreCase("Mainland")) {
                         previousCountry = country;
                     }
-                    data = loadTrafficSideData(country, tds.get(2).text(), notes);
+                    data = loadTrafficSideData(title, tds.get(2).text(), notes, sources);
                 } else {
-                    data = loadTrafficSideData(country, secondElementText, notes);
+                    data = loadTrafficSideData(title, secondElementText, notes, sources);
                 }
             }
-            builder.append(isFirst ? "" : ",").append(data);
-            isFirst = false;
+            json.put(country, data);
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadTrafficSideData(String country, String value, String notes) {
+    private JSONObject loadTrafficSideData(String title, String value, String notes, EventSources sources) {
         final String realValue = value.startsWith("RHT") ? "Right" : "Left";
-        final CountrySingleValue singleValue = new CountrySingleValue(notes, realValue, null, -1);
-        singleValue.country = country;
-        return singleValue.toServerJSON();
+        return new CountrySingleValue(title, notes, realValue, null, yearOfData, sources).toJSONObject();
     }
-    private String loadVotingAge() {
+    private String loadVotingAge(String title, EventSources sources) {
         // https://en.wikipedia.org/wiki/Voting_age
         final Elements trs = getValueDocumentElements(url, "div.documentContent table.CDlisting tbody tr");
         trs.remove(0);
         trs.remove(0);
 
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONObject json = new JSONObject();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).select("a").get(0).text().toLowerCase().replace(" ", "").replace(",", "").split("\\(")[0]
@@ -291,12 +281,9 @@ public enum CountryValues implements CountryValueService {
             if(valueDescription.contains(" Source:")) {
                 valueDescription = valueDescription.split(" Source:")[0];
             }
-            final CountrySingleValue singleValue = new CountrySingleValue(null, value, valueDescription, yearOfData);
-            singleValue.country = country;
-            builder.append(isFirst ? "" : ",").append(singleValue.toServerJSON());
-            isFirst = false;
+            final CountrySingleValue singleValue = new CountrySingleValue(title, null, value, valueDescription, yearOfData, sources);
+            json.put(country, singleValue.toJSONObject());
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
 }

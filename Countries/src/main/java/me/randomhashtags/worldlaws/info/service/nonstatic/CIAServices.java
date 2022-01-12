@@ -22,7 +22,13 @@ public enum CIAServices implements CountryService {
     }
 
     @Override
-    public void loadData(CompletionHandler handler) {
+    public String loadData() {
+        return null;
+    }
+
+    @Override
+    public void getCountryValue(String countryBackendID, CompletionHandler handler) {
+        handler.handleServiceResponse(this, null);
     }
 
     @Override

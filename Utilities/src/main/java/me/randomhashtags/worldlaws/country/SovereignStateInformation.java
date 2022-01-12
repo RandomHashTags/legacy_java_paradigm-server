@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws.country;
 
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.HashSet;
@@ -12,11 +13,19 @@ public final class SovereignStateInformation extends ConcurrentHashMap<Sovereign
         for(String key : json.keySet()) {
             final SovereignStateInformationType type = SovereignStateInformationType.valueOf(key);
             final HashSet<String> values = new HashSet<>();
-            final JSONObject innerJSON = json.getJSONObject(key);
-            for(String jsonKey : innerJSON.keySet()) {
-                values.add("\"" + jsonKey + "\":" + innerJSON.getJSONObject(jsonKey).toString());
+            final Object obj = json.get(key);
+            if(obj instanceof JSONObject) {
+                final JSONObject innerJSON = (JSONObject) obj;
+                for(String jsonKey : innerJSON.keySet()) {
+                    values.add("\"" + jsonKey + "\":" + innerJSON.getJSONObject(jsonKey).toString());
+                }
+            } else if(obj instanceof JSONArray) {
+                final JSONArray array = (JSONArray) obj;
+                values.add(array.toString());
             }
-            put(type, values);
+            if(!values.isEmpty()) {
+                put(type, values);
+            }
         }
     }
     public SovereignStateInformation(ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> info) {
@@ -31,9 +40,9 @@ public final class SovereignStateInformation extends ConcurrentHashMap<Sovereign
         boolean isFirst = true;
         for(Map.Entry<SovereignStateInformationType, HashSet<String>> entry : entrySet()) {
             final SovereignStateInformationType informationType = entry.getKey();
-            final boolean isNeighbors = informationType == SovereignStateInformationType.NEIGHBORS;
+            final boolean isArray = informationType.isArray();
             final HashSet<String> hashset = entry.getValue();
-            builder.append(isFirst ? "" : ",").append("\"").append(informationType.getName()).append("\":").append(isNeighbors ? "[" : "{");
+            builder.append(isFirst ? "" : ",").append("\"").append(informationType.getName()).append("\":").append(isArray ? "[" : "{");
             boolean isFirstString = true;
             for(String string : hashset) {
                 final String realString = string.startsWith("{") ? string.substring(1, string.length()-1) : string;
@@ -41,7 +50,7 @@ public final class SovereignStateInformation extends ConcurrentHashMap<Sovereign
                 isFirstString = false;
             }
             isFirst = false;
-            builder.append(isNeighbors ? "]" : "}");
+            builder.append(isArray ? "]" : "}");
         }
         builder.append("}");
         return builder.toString();

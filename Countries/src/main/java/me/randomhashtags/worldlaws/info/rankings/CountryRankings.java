@@ -284,10 +284,10 @@ public enum CountryRankings implements CountryRankingService {
     }
 
     @Override
-    public JSONObject loadData() {
+    public String loadData() {
         final JSONObject json = new JSONObject();
         loadJSONData(json);
-        return json;
+        return json.toString();
     }
     private void loadJSONData(JSONObject json) {
         switch (this) {

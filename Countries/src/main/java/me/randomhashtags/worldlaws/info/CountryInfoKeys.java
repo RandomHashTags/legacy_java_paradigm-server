@@ -1,7 +1,9 @@
 package me.randomhashtags.worldlaws.info;
 
+import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
+import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
@@ -53,22 +55,23 @@ public enum CountryInfoKeys implements CountryInfoService {
 
     @Override
     public String loadData() {
+        final String title = getInfo().getTitle();
+        final EventSources sources = getSources();
         switch (this) {
-            case AGE_STRUCTURE: return loadAgeStructure();
-            case BLOOD_TYPE_DISTRIBUTION: return loadBloodTypeDistribution();
-            case MEDIAN_AGE: return loadMedianAge();
-            case MINIMUM_ANNUAL_LEAVE: return loadMinimumAnnualLeave();
-            case MINIMUM_WAGE: return loadMinimumWage();
+            case AGE_STRUCTURE: return loadAgeStructure(title, sources);
+            case BLOOD_TYPE_DISTRIBUTION: return loadBloodTypeDistribution(title, sources);
+            case MEDIAN_AGE: return loadMedianAge(title, sources);
+            case MINIMUM_ANNUAL_LEAVE: return loadMinimumAnnualLeave(title, sources);
+            case MINIMUM_WAGE: return loadMinimumWage(title, sources);
             default: return null;
         }
     }
 
-    private String loadAgeStructure() {
+    private String loadAgeStructure(String title, EventSources sources) {
         final Elements trs = getInfoDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.remove(0);
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONObject json = new JSONObject();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().split("\\(")[0].replace(" ", "");
@@ -76,20 +79,16 @@ public enum CountryInfoKeys implements CountryInfoService {
             final CountryInfoValue fifteenTo64 = new CountryInfoValue("15-64", tds.get(2).text().replace(" ", ""), "Working population or population in education");
             final CountryInfoValue over65 = new CountryInfoValue("65+", tds.get(3).text().replace(" ", ""), "Retirees and elderly");
 
-            final CountryInfoKey info = new CountryInfoKey(null, -1, zeroTo14, fifteenTo64, over65);
-            info.country = country;
-            builder.append(isFirst ? "" : ",").append(info.toServerJSON());
-            isFirst = false;
+            final CountryInfoKey info = new CountryInfoKey(title, null, yearOfData, sources, zeroTo14, fifteenTo64, over65);
+            json.put(country, info.toJSONObject());
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadBloodTypeDistribution() {
+    private String loadBloodTypeDistribution(String title, EventSources sources) {
         final Elements trs = getInfoDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.remove(trs.size()-1);
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONObject json = new JSONObject();
         for(Element element : trs) {
             final String country = element.select("th a").get(0).text().toLowerCase().split("\\[")[0].split("\\(")[0].replace(" ", "");
 
@@ -103,24 +102,18 @@ public enum CountryInfoKeys implements CountryInfoService {
             final CountryInfoValue bNegative = new CountryInfoValue("B-", tds.get(7).text(), null);
             final CountryInfoValue abNegative = new CountryInfoValue("AB-", tds.get(8).text(), null);
 
-            final CountryInfoKey info = new CountryInfoKey(null, -1, oPositive, aPositive, bPositive, abPositive, oNegative, aNegative, bNegative, abNegative);
-            info.country = country;
-            builder.append(isFirst ? "" : ",").append(info.toServerJSON());
-            isFirst = false;
+            final CountryInfoKey info = new CountryInfoKey(title, null, yearOfData, sources, oPositive, aPositive, bPositive, abPositive, oNegative, aNegative, bNegative, abNegative);
+            json.put(country, info.toJSONObject());
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadMedianAge() {
+    private String loadMedianAge(String title, EventSources sources) {
         final Elements trs = getInfoDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.remove(0);
         trs.remove(0);
-        trs.removeIf(element -> {
-            return element.select("a[href]").size() == 0;
-        });
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        trs.removeIf(element -> element.select("a[href]").size() == 0);
+        final JSONObject json = new JSONObject();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = element.selectFirst("a[href]").text().toLowerCase().split("\\(")[0].replace(" ", "");
@@ -128,19 +121,15 @@ public enum CountryInfoKeys implements CountryInfoService {
             final CountryInfoValue male = new CountryInfoValue("Male", tds.get(3).text().replace(" ", ""), null);
             final CountryInfoValue female = new CountryInfoValue("Female", tds.get(4).text().replace(" ", ""), null);
 
-            final CountryInfoKey info = new CountryInfoKey(null, -1, combined, male, female);
-            info.country = country;
-            builder.append(isFirst ? "" : ",").append(info.toServerJSON());
-            isFirst = false;
+            final CountryInfoKey info = new CountryInfoKey(title, null, yearOfData, sources, combined, male, female);
+            json.put(country, info.toJSONObject());
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadMinimumAnnualLeave() {
+    private String loadMinimumAnnualLeave(String title, EventSources sources) {
         final Elements trs = getInfoDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONObject json = new JSONObject();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             if(tds.size() > 0 && tds.get(0).select("a").size() > 0) {
@@ -157,21 +146,17 @@ public enum CountryInfoKeys implements CountryInfoService {
                 final String totalPaidLeaveText = removeReferences(tds.get(4).text());
                 final CountryInfoValue totalPaidLeave = new CountryInfoValue("Total Paid Leave", totalPaidLeaveText, null);
 
-                final CountryInfoKey info = new CountryInfoKey(null, -1, annualLeave, paidVacationDays, paidPublicHolidays, totalPaidLeave);
-                info.country = country;
-                builder.append(isFirst ? "" : ",").append(info.toServerJSON());
-                isFirst = false;
+                final CountryInfoKey info = new CountryInfoKey(title, null, yearOfData, sources, annualLeave, paidVacationDays, paidPublicHolidays, totalPaidLeave);
+                json.put(country, info.toJSONObject());
             }
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
-    private String loadMinimumWage() {
+    private String loadMinimumWage(String title, EventSources sources) {
         final Elements trs = getInfoDocumentElements(url, "div.mw-parser-output table.wikitable", 0).select("tbody tr");
         trs.remove(0);
         trs.remove(0);
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+        final JSONObject json = new JSONObject();
         for(Element element : trs) {
             final Elements tds = element.select("td");
             final String country = tds.get(0).text().toLowerCase().split("\\[")[0].split("\\(")[0].replace(" ", "");
@@ -190,12 +175,9 @@ public enum CountryInfoKeys implements CountryInfoService {
             final String effectivePer = tds.get(8).text();
             final String[] effectiveValues = effectivePer.split(" ");
             final int yearOfData = Integer.parseInt(effectiveValues[effectiveValues.length-1]);
-            final CountryInfoKey info = new CountryInfoKey(notes, yearOfData, workweekHours, annual, hourly);
-            info.country = country;
-            builder.append(isFirst ? "" : ",").append(info.toServerJSON());
-            isFirst = false;
+            final CountryInfoKey info = new CountryInfoKey(title, notes, yearOfData, sources, workweekHours, annual, hourly);
+            json.put(country, info.toJSONObject());
         }
-        builder.append("]");
-        return builder.toString();
+        return json.toString();
     }
 }

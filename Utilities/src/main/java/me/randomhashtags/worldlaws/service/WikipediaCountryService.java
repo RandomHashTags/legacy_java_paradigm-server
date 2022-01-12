@@ -40,7 +40,8 @@ public final class WikipediaCountryService implements CountryService {
     }
 
     @Override
-    public void loadData(CompletionHandler handler) {
+    public String loadData() {
+        return null;
     }
 
     @Override

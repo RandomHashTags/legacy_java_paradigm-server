@@ -59,8 +59,8 @@ public final class UpcomingEvents implements WLServer {
     private String typesJSON;
 
     private void initialize() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -75,13 +75,7 @@ public final class UpcomingEvents implements WLServer {
                 WLLogger.logInfo("UpcomingEvents;test;string=" + json.toString());
             }
         });*/
-        final HashSet<String> dates = getWeeklyEventDateStrings(LocalDate.now());
-        new Movies().getResponse("productionCompanies", new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                WLLogger.logInfo("UpcomingEvents;test;string=" + string);
-            }
-        });
+        WLLogger.logInfo("UpcomingEvents;test;string=" + UpcomingEventType.getTypesJSON());
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {
