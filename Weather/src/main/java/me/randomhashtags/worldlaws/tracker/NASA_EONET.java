@@ -189,7 +189,8 @@ public enum NASA_EONET implements WLService {
             put("Ambae", "Manaro_Voui");
             put("Aira", "Aira_Caldera");
             put("Shiveluch", "Shiveluch");
-            put("San Cristóbal", "San_Cristóbal_Volcano");
+            put("Sheveluch", "Shiveluch");
+            put("San Cristóbal", "San_Cristobal_Volcano");
             put("Hunga Tonga Hunga Ha'apai", "Hunga_Tonga");
             put("Piton de la Fournaise", "Piton_de_la_Fournaise");
         }};

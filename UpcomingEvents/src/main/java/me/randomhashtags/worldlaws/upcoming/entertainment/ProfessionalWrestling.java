@@ -66,7 +66,8 @@ public final class ProfessionalWrestling extends LoadedUpcomingEventController {
                         previousDay = day;
                     }
                     if(day >= dayValue) {
-                        final boolean hasPromoter = promoters.contains((!hasDay ? dayElement : tds.get(1)).selectFirst("a[href]").text());
+                        final Element promoterElement = (!hasDay ? dayElement : tds.get(1)).selectFirst("a[href]");
+                        final boolean hasPromoter = promoterElement != null && promoters.contains(promoterElement.text());
                         final Element eventElement = tds.get(hasDay ? hasPromoter ? 2 : 1 : hasPromoter ? 1 : 0).selectFirst("a[href]");
                         if(eventElement != null) {
                             final EventDate eventDate = new EventDate(Month.of(targetMonthValue), day, year);

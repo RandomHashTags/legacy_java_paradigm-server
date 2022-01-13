@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.service;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.DataValues;
+import me.randomhashtags.worldlaws.Folder;
+import me.randomhashtags.worldlaws.Jsoupable;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -75,8 +78,9 @@ public interface IMDbService extends DataValues {
                 ratingReason = metadataList.selectFirst("li.ipc-metadata-list__item ul.ipc-inline-list li.ipc-inline-list__item").text();
             } else {
                 final Elements elements = metadataList.select("li.ipc-metadata-list__item");
-                genreElements = elements.get(1).select("a");
-                ratingReason = elements.get(2).text().substring("Motion Picture Rating (MPAA) ".length());
+                final boolean hasTaglines = elements.first().attr("data-testid").equalsIgnoreCase("storyline-taglines");
+                genreElements = elements.get(hasTaglines ? 1 : 0).select("a");
+                ratingReason = elements.get(hasTaglines ? 2 : 1).text().substring("Motion Picture Rating (MPAA) ".length());
             }
             for(Element element : genreElements) {
                 genres.put(element.text());
@@ -89,7 +93,6 @@ public interface IMDbService extends DataValues {
             json.put("imageURL", imageURL);
             json.put("genres", genres);
             json.put("source", url);
-            WLLogger.logInfo("IMDbService;title=" + title + ";rating=" + rating + ";runtimeSeconds=" + runtimeSeconds + ";imageURL=" + imageURL + ";genres=" + genres.toString() + ";ratingReason=" + ratingReason);
         }
         handler.handleJSONObject(json);
     }
