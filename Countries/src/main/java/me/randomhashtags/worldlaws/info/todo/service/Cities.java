@@ -28,10 +28,6 @@ public enum Cities implements CountryService {
         return SovereignStateInformationType.LISTS;
     }
 
-    @Override
-    public void getCountryValue(String countryBackendID, CompletionHandler handler) {
-    }
-
     public void getCitiesFrom(String countryBackendID, String territory, CompletionHandler handler) {
         if(countries == null) {
             loadData();

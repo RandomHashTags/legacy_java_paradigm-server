@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.country.usa.state.recode;
 
-import me.randomhashtags.worldlaws.CompletionHandlerLaws;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLLogger;
@@ -38,9 +37,9 @@ public final class Delaware extends TestLawSubdivisionController {
     }
 
     @Override
-    public void loadStatutesList(String index, String chapter, CompletionHandlerLaws handler) {
+    public HashSet<? extends TestStatuteStatute> loadStatutesList(String index, String chapter) {
         chapter = prefixZeros(chapter, 3);
-        super.loadStatutesList(index, chapter, handler);
+        return super.loadStatutesList(index, chapter);
     }
 
     @Override
@@ -78,10 +77,11 @@ public final class Delaware extends TestLawSubdivisionController {
     }
 
     @Override
-    public void loadStatute(String index, String chapter, String section, CompletionHandlerLaws handler) {
+    public TestStatute loadStatute(String index, String chapter, String section) {
         chapter = prefixZeros(chapter, 3);
         final String url = statuteURL.replace("%index%", index).replace("%chapter%", chapter);
         final Document doc = getDocument(url);
+        TestStatute statute = null;
         if(doc != null) {
             final Elements allElements = doc.getAllElements();
             final Elements elements = doc.select("div.SectionHead"), elementsCopy = new Elements(elements), paragraphs = doc.select("p");
@@ -126,12 +126,9 @@ public final class Delaware extends TestLawSubdivisionController {
 
             final EventSources sources = new EventSources();
             sources.add(new EventSource("Delaware Legislature: Statute Page", url));
-
-            final TestStatute statute = new TestStatute(element.text().substring(section.length()+4), description, subdivisions, sources);
-            handler.handleStatute(statute);
-            return;
+            statute = new TestStatute(element.text().substring(section.length()+4), description, subdivisions, sources);
         }
-        handler.handleStatute(null);
+        return statute;
     }
 
     /*

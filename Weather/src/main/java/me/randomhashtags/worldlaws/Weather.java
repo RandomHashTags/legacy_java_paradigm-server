@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws;
 import me.randomhashtags.worldlaws.earthquakes.Earthquakes;
 import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
 import me.randomhashtags.worldlaws.tracker.NASA_EONET;
+import me.randomhashtags.worldlaws.weather.country.WeatherUSA;
 
 public final class Weather implements WLServer {
     public static final Weather INSTANCE = new Weather();
@@ -22,30 +23,23 @@ public final class Weather implements WLServer {
     }
 
     private void test() {
-        NASA_EONET.INSTANCE.getCurrent(APIVersion.v1, new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                WLLogger.logInfo("Weather;test;string=" + string);
-            }
-        });
+        final String string = WeatherUSA.INSTANCE.refresh();
+        WLLogger.logInfo("Weather;test;string=" + string);
     }
 
     @Override
-    public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
+    public String getServerResponse(APIVersion version, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
             case "alerts":
-                WeatherAlerts.INSTANCE.getResponse(target.substring(key.length()+1), handler);
-                break;
+                return WeatherAlerts.INSTANCE.getResponse(target.substring(key.length()+1));
             case "earthquakes":
-                Earthquakes.INSTANCE.getResponse(target.substring(key.length()+1).split("/"), handler);
-                break;
+                return Earthquakes.INSTANCE.getResponse(target.substring(key.length()+1).split("/"));
             case "natural_events":
-                NASA_EONET.INSTANCE.getCurrent(version, handler);
-                break;
+                return NASA_EONET.INSTANCE.getCurrent(version);
             default:
-                break;
+                return null;
         }
     }
 

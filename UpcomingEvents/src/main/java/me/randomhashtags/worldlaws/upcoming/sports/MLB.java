@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.upcoming.sports;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.PreUpcomingEvent;
@@ -25,7 +24,7 @@ public final class MLB extends USAUpcomingEventController {
     }
 
     @Override
-    public void load(CompletionHandler handler) {
+    public void load() {
         final LocalDate now = LocalDate.now();
         final int month = now.getMonthValue(), day = now.getDayOfMonth(), year = now.getYear();
         final String mlbScheduleDateString = now.getYear() + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : day);
@@ -35,9 +34,7 @@ public final class MLB extends USAUpcomingEventController {
         if(doc != null) {
             final Elements dates = doc.select("div.ScheduleCollectionGridstyle__SectionWrapper-sc-c0iua4-0");
             final int max = dates.size();
-            if(max == 0) {
-                handler.handleString(null);
-            } else {
+            if(max > 0) {
                 ParallelStream.stream(dates, dateElementObj -> {
                     final Element dateElement = (Element) dateElementObj;
                     final String previousElementString = dateElement.previousElementSibling().text();
@@ -65,10 +62,7 @@ public final class MLB extends USAUpcomingEventController {
                         putPreUpcomingEvent(id, preUpcomingEvent);
                     });
                 });
-                handler.handleString(null);
             }
-        } else {
-            handler.handleString(null);
         }
     }
 
@@ -90,7 +84,7 @@ public final class MLB extends USAUpcomingEventController {
     }
 
     @Override
-    public void loadUpcomingEvent(String id, CompletionHandler handler) {
+    public String loadUpcomingEvent(String id) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String title = preUpcomingEvent.getTitle();
         final EventSources sources = (EventSources) preUpcomingEvent.getCustomValue("sources");
@@ -99,6 +93,6 @@ public final class MLB extends USAUpcomingEventController {
         final MLBEvent event = new MLBEvent(title, awayTeam, homeTeam, null, sources);
         final String string = event.toString();
         putUpcomingEvent(id, string);
-        handler.handleString(string);
+        return string;
     }
 }

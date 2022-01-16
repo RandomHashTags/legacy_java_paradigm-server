@@ -1,6 +1,8 @@
 package me.randomhashtags.worldlaws.country.usa.state.recode;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
 import me.randomhashtags.worldlaws.recode.*;
@@ -39,9 +41,9 @@ public final class Minnesota extends TestLawSubdivisionController {
     }
 
     @Override
-    public void getTableOfChapters(String index, CompletionHandler handler) {
+    public String getTableOfChapters(String index) {
         index = index.replace("$", "+");
-        super.getTableOfChapters(index, handler);
+        return super.getTableOfChapters(index);
     }
 
     @Override
@@ -83,11 +85,12 @@ public final class Minnesota extends TestLawSubdivisionController {
     }
 
     @Override
-    public void loadStatute(String index, String chapter, String section, CompletionHandlerLaws handler) {
+    public TestStatute loadStatute(String index, String chapter, String section) {
         final String originalSection = section;
         section = chapter + "." + section;
         final String url = statuteURL.replace("%section%", section);
         final Document doc = getDocument(url);
+        TestStatute statute = null;
         if(doc != null) {
             final Elements breadcrumb = doc.select("div.mb-3 a[href]");
             final Elements sections = doc.select("div.section");
@@ -104,13 +107,11 @@ public final class Minnesota extends TestLawSubdivisionController {
                     if(title.endsWith(".")) {
                         title = title.substring(0, title.length()-1);
                     }
-                    final TestStatute statute = new TestStatute(title, description, subdivisions, sources);
-                    handler.handleStatute(statute);
-                    return;
+                    statute = new TestStatute(title, description, subdivisions, sources);
                 }
             }
         }
-        handler.handleStatute(null);
+        return statute;
     }
 
     private List<TestSubdivision> getSubdivisions(Element sectionElement) {

@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.info.list;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.country.*;
 import me.randomhashtags.worldlaws.info.availability.AvailabilityCategory;
@@ -37,16 +36,6 @@ public enum Flyover implements AppleFeatureAvailability {
     @Override
     public SovereignStateInformationType getInformationType() {
         return SovereignStateInformationType.SERVICES_STATIC;
-    }
-
-    @Override
-    public void getCountryValue(String countryBackendID, CompletionHandler handler) {
-        getCountryValueFromCountryJSONObject(countryBackendID, handler);
-    }
-
-    @Override
-    public void getJSONData(Folder folder, String fileName, String countryBackendID, CompletionHandler handler) {
-        getJSONObjectData(folder, fileName, countryBackendID, handler);
     }
 
     @Override

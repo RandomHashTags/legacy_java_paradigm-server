@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.PreUpcomingEvent;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -23,15 +26,10 @@ public final class VideoGames extends UpcomingEventController {
     }
 
     @Override
-    public void load(CompletionHandler handler) {
+    public void load() {
         final int thisYear = WLUtilities.getTodayYear();
         final Month startingMonth = LocalDate.now().getMonth();
-        refreshUpcomingVideoGames(thisYear, startingMonth, new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                handler.handleString(null);
-            }
-        });
+        refreshUpcomingVideoGames(thisYear, startingMonth);
     }
 
     @Override
@@ -39,7 +37,7 @@ public final class VideoGames extends UpcomingEventController {
         return null;
     }
 
-    private void refreshUpcomingVideoGames(int year, Month startingMonth, CompletionHandler handler) {
+    private void refreshUpcomingVideoGames(int year, Month startingMonth) {
         final String url = "https://en.wikipedia.org/wiki/" + year + "_in_video_games";
         final Document doc = getDocument(url);
         if(doc != null) {
@@ -55,12 +53,10 @@ public final class VideoGames extends UpcomingEventController {
                     elementList.add(element);
                 }
             }
-            refreshUpcomingVideoGames(year, startingMonth, new Elements(elementList), handler);
-        } else {
-            handler.handleString(null);
+            refreshUpcomingVideoGames(year, startingMonth, new Elements(elementList));
         }
     }
-    private void refreshUpcomingVideoGames(int year, Month startingMonth, Elements array, CompletionHandler handler) {
+    private void refreshUpcomingVideoGames(int year, Month startingMonth, Elements array) {
         final Month endingMonth = startingMonth.plus(2);
         final Elements months = array.select("h3");
         months.removeIf(month -> month.select("span").size() != 5);
@@ -135,7 +131,6 @@ public final class VideoGames extends UpcomingEventController {
                 }
             }
         }
-        handler.handleString(null);
     }
     private HashMap<String, String> getPlatforms() {
         return new HashMap<>() {{
@@ -204,11 +199,12 @@ public final class VideoGames extends UpcomingEventController {
     }
 
     @Override
-    public void loadUpcomingEvent(String id, CompletionHandler handler) {
+    public String loadUpcomingEvent(String id) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
         final String title = preUpcomingEvent.getTitle(), platforms = preUpcomingEvent.getTag();
         final Document wikidoc = getDocument(url);
+        String string = null;
         if(wikidoc != null) {
             final String wikipediaName = url.split("/wiki/")[1].replace("_", " ");
             final EventSource videoGameSource = new EventSource("Wikipedia: " + wikipediaName, url);
@@ -224,24 +220,18 @@ public final class VideoGames extends UpcomingEventController {
 
             final StringBuilder builder = new StringBuilder("[");
             boolean isFirst = true;
-            for(String string : platforms.split(", ")) {
-                builder.append(isFirst ? "" : ",").append("\"").append(string).append("\"");
+            for(String platform : platforms.split(", ")) {
+                builder.append(isFirst ? "" : ",").append("\"").append(platform).append("\"");
                 isFirst = false;
             }
             builder.append("]");
 
             final String realPlatforms = builder.toString();
-            getVideosJSONArray(YouTubeVideoType.VIDEO_GAME, title, new CompletionHandler() {
-                @Override
-                public void handleJSONArray(JSONArray array) {
-                    final VideoGameEvent event = new VideoGameEvent(title, desc, coverArtURL, realPlatforms, array, sources);
-                    final String string = event.toString();
-                    putUpcomingEvent(id, string);
-                    handler.handleString(string);
-                }
-            });
-        } else {
-            handler.handleString(null);
+            final JSONArray array = getVideosJSONArray(YouTubeVideoType.VIDEO_GAME, title);
+            final VideoGameEvent event = new VideoGameEvent(title, desc, coverArtURL, realPlatforms, array, sources);
+            string = event.toString();
+            putUpcomingEvent(id, string);
         }
+        return string;
     }
 }

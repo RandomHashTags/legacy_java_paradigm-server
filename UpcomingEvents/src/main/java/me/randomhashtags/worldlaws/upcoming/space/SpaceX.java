@@ -23,7 +23,7 @@ public final class SpaceX extends USAUpcomingEventController {
     }
 
     @Override
-    public void load(CompletionHandler handler) {
+    public void load() {
         launchpads = new HashMap<>();
         if(autoUpdateTimer == null) {
             final long EVERY_HOUR = 1000*60*60;
@@ -31,55 +31,46 @@ public final class SpaceX extends USAUpcomingEventController {
             autoUpdateTimer.scheduleAtFixedRate(new TimerTask() {
                 @Override
                 public void run() {
-                    refreshUpcomingLaunches(null);
+                    refreshUpcomingLaunches();
                 }
             }, EVERY_HOUR, EVERY_HOUR);
         }
-        refreshUpcomingLaunches(handler);
+        refreshUpcomingLaunches();
     }
 
-    private void refreshUpcomingLaunches(CompletionHandler handler) {
+    private void refreshUpcomingLaunches() {
         final String url = "https://api.spacexdata.com/v4/launches/upcoming";
-        requestJSONArray(url, RequestMethod.GET, new CompletionHandler() {
-            @Override
-            public void handleJSONArray(JSONArray array) {
-                for(Object obj : array) {
-                    final JSONObject json = (JSONObject) obj;
-                    final String title = json.getString("name");
+        final JSONArray array = requestJSONArray(url, RequestMethod.GET);
+        for(Object obj : array) {
+            final JSONObject json = (JSONObject) obj;
+            final String title = json.getString("name");
 
-                    final String description = json.get("details") instanceof String ? json.getString("details") : "null";
-                    final long dateUnix = json.getLong("date_unix");
-                    final EventDate date = new EventDate(dateUnix*1000);
+            final String description = json.get("details") instanceof String ? json.getString("details") : "null";
+            final long dateUnix = json.getLong("date_unix");
+            final EventDate date = new EventDate(dateUnix*1000);
 
-                    final String dateString =  date.getMonth().getValue() + "-" + date.getYear() + "-" + date.getDay();
-                    final String id = dateString + "." + title.replace(" ", "");
-                    final String launchpadID = json.getString("launchpad");
-                    final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, launchpadID, description);
-                    putPreUpcomingEvent(id, preUpcomingEvent);
-                }
-                handler.handleString(null);
-            }
-        });
+            final String dateString =  date.getMonth().getValue() + "-" + date.getYear() + "-" + date.getDay();
+            final String id = dateString + "." + title.replace(" ", "");
+            final String launchpadID = json.getString("launchpad");
+            final PreUpcomingEvent preUpcomingEvent = new PreUpcomingEvent(id, title, launchpadID, description);
+            putPreUpcomingEvent(id, preUpcomingEvent);
+        }
     }
     private void getLaunchpad(String id, CompletionHandler handler) {
         if(launchpads.containsKey(id)) {
             handler.handleString(launchpads.get(id));
         } else {
             final String launchpadURL = "https://api.spacexdata.com/v4/launchpads/" + id;
-            requestJSONObject(launchpadURL, RequestMethod.GET, new CompletionHandler() {
-                @Override
-                public void handleJSONObject(JSONObject object) {
-                    final String string = object.toString();
-                    launchpads.put(id, string);
-                    handler.handleString(string);
-                }
-            });
+            final JSONObject json = requestJSONObject(launchpadURL, RequestMethod.GET);
+            final String string = json.toString();
+            launchpads.put(id, string);
+            handler.handleString(string);
         }
     }
 
     @Override
-    public void loadUpcomingEvent(String id, CompletionHandler handler) {
-        handler.handleString(null);
+    public String loadUpcomingEvent(String id) {
+        return null;
         /*final PreUpcomingEvent preUpcomingEvent = preUpcomingEvents.get(id);
         final String launchpadID = preUpcomingEvent.getURL(), description = preUpcomingEvent.getTag();
         final String title = preUpcomingEvent.getTitle();

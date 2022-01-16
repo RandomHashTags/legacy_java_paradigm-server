@@ -151,20 +151,18 @@ public enum TargetServer implements RestAPI, DataValues {
         return serversJSON.has(name) ? serversJSON.getJSONObject(name) : null;
     }
 
-    public void sendResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query, CompletionHandler handler) {
+    public String sendResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query) {
         switch (this) {
             case PING:
-                handler.handleString(getPingResponse());
-                break;
+                return getPingResponse();
             default:
-                tryHandlingResponse(version, identifier, method, request, query, handler);
-                break;
+                return tryHandlingResponse(version, identifier, method, request, query);
         }
     }
 
-    private void tryHandlingResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query, CompletionHandler handler) {
+    private String tryHandlingResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query) {
         if(MAINTENANCE_MODE) {
-            handler.handleString(null);
+            return null;
         } else {
             final HashMap<String, String> headers = new HashMap<>();
             headers.put("Content-Type", "application/json");
@@ -172,44 +170,27 @@ public enum TargetServer implements RestAPI, DataValues {
             headers.put("***REMOVED***", identifier);
             switch (this) {
                 case HOME:
-                    getHomeResponse(version, method, headers, query, handler);
-                    break;
+                    return getHomeResponse(version, method, headers, query);
                 case COMBINE:
-                    getCombinedResponse(version, identifier, method, request, handler);
-                    break;
+                    return getCombinedResponse(version, identifier, method, request);
                 default:
-                    handleProxyResponse(version, method, request, headers, handler);
-                    break;
+                    return handleProxyResponse(version, method, request, headers);
             }
         }
     }
 
-    private void getCombinedResponse(APIVersion version, String identifier, RequestMethod method, String request, CompletionHandler handler) {
+    private String getCombinedResponse(APIVersion version, String identifier, RequestMethod method, String request) {
         final String[] values = request.split("&&");
         final ConcurrentHashMap<String, String> responses = new ConcurrentHashMap<>();
-        final CompletionHandler completionHandler = new CompletionHandler() {
-            @Override
-            public void handleStringValue(String key, String value) {
-                if(value != null) {
-                    responses.put(key, value);
-                }
-            }
-        };
         ParallelStream.stream(Arrays.asList(values), valueObj -> {
             final String value = (String) valueObj;
             final String[] target = value.split("/");
             final String apiVersionString = target[0], serverBackendID = target[1];
             final APIVersion apiVersion = APIVersion.valueOfInput(apiVersionString);
             final TargetServer server = TargetServer.valueOfBackendID(serverBackendID);
-            if(server != null) {
-                server.sendResponse(apiVersion, identifier, method, value, null, new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        completionHandler.handleStringValue(value, string);
-                    }
-                });
-            } else {
-                completionHandler.handleStringValue(value, null);
+            final String string = server != null ? server.sendResponse(apiVersion, identifier, method, value, null) : null;
+            if(string != null) {
+                responses.put(value, string);
             }
         });
 
@@ -220,14 +201,14 @@ public enum TargetServer implements RestAPI, DataValues {
             isFirst = false;
         }
         builder.append("}");
-        handler.handleString(builder.toString());
+        return builder.toString();
     }
-    private void handleProxyResponse(APIVersion version, RequestMethod method, String request, HashMap<String, String> headers, CompletionHandler handler) {
+    private String handleProxyResponse(APIVersion version, RequestMethod method, String request, HashMap<String, String> headers) {
         final String url = getIpAddress() + "/" + version.name() + "/" + request;
-        handleProxyResponse(url, method, headers, handler);
+        return handleProxyResponse(url, method, headers);
     }
-    private void handleProxyResponse(String url, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
-        request(url, method, headers, null, handler);
+    private String handleProxyResponse(String url, RequestMethod method, HashMap<String, String> headers) {
+        return request(url, method, headers, null);
     }
 
     public static String getPingResponse() {
@@ -264,14 +245,10 @@ public enum TargetServer implements RestAPI, DataValues {
         for(TargetServer server : TargetServer.values()) {
             if(server.isRealServer()) {
                 final String url = server.getIpAddress() + "/ping";
-                server.request(url, RequestMethod.GET, null, null, new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        if(string == null) {
-                            offlineServers.put(server.getBackendID());
-                        }
-                    }
-                });
+                final String string = server.request(url, RequestMethod.GET, null, null);
+                if(string == null) {
+                    offlineServers.put(server.getBackendID());
+                }
             }
         }
         if(!offlineServers.isEmpty()) {
@@ -280,16 +257,12 @@ public enum TargetServer implements RestAPI, DataValues {
         PING_RESPONSE = json.toString();
     }
 
-    private void getHomeResponse(APIVersion version, RequestMethod method, HashMap<String, String> headers, HashSet<String> query, CompletionHandler handler) {
+    private String getHomeResponse(APIVersion version, RequestMethod method, HashMap<String, String> headers, HashSet<String> query) {
         if(HOME_JSON.containsKey(version)) {
-            handler.handleString(getHomeResponse(version, query));
+            return getHomeResponse(version, query);
         } else {
-            updateHomeResponse(version, false, method, headers, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    handler.handleString(getHomeResponse(version, query));
-                }
-            });
+            final String string = updateHomeResponse(version, false, method, headers);
+            return getHomeResponse(version, query);
         }
     }
     private String getHomeResponse(APIVersion version, HashSet<String> query) {
@@ -329,14 +302,14 @@ public enum TargetServer implements RestAPI, DataValues {
         return json.toString();
     }
 
-    private void updateHomeResponse(APIVersion version, boolean isUpdate, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
+    private String updateHomeResponse(APIVersion version, boolean isUpdate, RequestMethod method, HashMap<String, String> headers) {
         final long started = System.currentTimeMillis();
         if(!isUpdate) {
             final long interval = WLUtilities.PROXY_HOME_RESPONSE_UPDATE_INTERVAL;
             new Timer().scheduleAtFixedRate(new TimerTask() {
                 @Override
                 public void run() {
-                    updateHomeResponse(version, true, method, headers, null);
+                    updateHomeResponse(version, true, method, headers);
                 }
             }, interval, interval);
         }
@@ -375,20 +348,12 @@ public enum TargetServer implements RestAPI, DataValues {
             final String key = entry.getKey(), value = entry.getValue();
             switch (key) {
                 case "trending":
-                    Statistics.INSTANCE.getTrendingJSON(new CompletionHandler() {
-                        @Override
-                        public void handleJSONObject(JSONObject json) {
-                            completionHandler.handleStringValue(key, json.isEmpty() ? null : json.toString());
-                        }
-                    });
+                    final JSONObject json = Statistics.INSTANCE.getTrendingJSON();
+                    completionHandler.handleStringValue(key, json.isEmpty() ? null : json.toString());
                     break;
                 default:
-                    request(value, method, headers, null, new CompletionHandler() {
-                        @Override
-                        public void handleString(String string) {
-                            completionHandler.handleStringValue(key, string);
-                        }
-                    });
+                    final String string = request(value, method, headers, null);
+                    completionHandler.handleStringValue(key, string);
                     break;
             }
         });
@@ -402,10 +367,7 @@ public enum TargetServer implements RestAPI, DataValues {
         HOME_JSON.put(version, json);
         HOME_JSON_QUERIES.remove(version);
         WLLogger.logInfo("TargetServer - " + (isUpdate ? "auto-" : "") + "updated " + versionName + " home responses (took " + (System.currentTimeMillis()-started) + "ms)");
-        if(handler != null) {
-            final String string = json.toString();
-            handler.handleString(string);
-        }
+        return json.toString();
     }
 
     public static TargetServer valueOfBackendID(String backendID) {

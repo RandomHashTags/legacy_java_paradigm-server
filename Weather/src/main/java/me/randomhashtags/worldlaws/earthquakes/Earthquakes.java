@@ -25,47 +25,33 @@ public enum Earthquakes implements RestAPI {
     private HashMap<String, String> recentTerritoryEarthquakes, topRecentTerritoryEarthquakes;
     private HashMap<String, String> cachedEarthquakes;
 
-    public void getResponse(String[] values, CompletionHandler handler) {
+    public String getResponse(String[] values) {
         final String key = values[0];
         switch (key) {
             case "recent":
-                getFromTerritory(true, values.length == 1 ? null : values[1], handler);
-                break;
+                return getFromTerritory(true, values.length == 1 ? null : values[1]);
             case "top":
-                getFromTerritory(false, values.length == 1 ? null : values[1], handler);
-                break;
+                return getFromTerritory(false, values.length == 1 ? null : values[1]);
             case "id":
                 final String id = values[1];
-                getEarthquake(id, handler);
-                break;
+                return getEarthquake(id);
             default:
-                handler.handleString(null);
-                break;
+                return null;
         }
     }
 
-    private void getFromTerritory(boolean isRecent, String territory, CompletionHandler handler) {
+    private String getFromTerritory(boolean isRecent, String territory) {
         final String string = isRecent ? recentEarthquakes : topRecentEarthquakes;
-        if(string != null) {
-            final String value = getValue(isRecent, territory);
-            handler.handleString(value);
-        } else {
+        if(string == null) {
             Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_EARTHQUAKES_UPDATE_INTERVAL, new CompletionHandler() {
                 @Override
                 public void handleObject(Object object) {
-                    refresh(true, false, null);
+                    refresh(true, false);
                 }
             });
-
-            final CompletionHandler completionHandler = new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    final String value = getValue(isRecent, territory);
-                    handler.handleString(value);
-                }
-            };
-            refresh(false, isRecent, completionHandler);
+            refresh(false, isRecent);
         }
+        return getValue(isRecent, territory);
     }
     private String getValue(boolean isRecent, String territory) {
         final String target = territory == null ? (isRecent ? recentEarthquakes : topRecentEarthquakes) : (isRecent ? recentTerritoryEarthquakes : topRecentTerritoryEarthquakes).getOrDefault(territory, "{}");
@@ -84,7 +70,7 @@ public enum Earthquakes implements RestAPI {
         return date.getYear() + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : day);
     }
 
-    private void refresh(boolean isAutoUpdate, boolean isRecent, CompletionHandler handler) {
+    private void refresh(boolean isAutoUpdate, boolean isRecent) {
         final long started = System.currentTimeMillis();
         final LocalDate now = Instant.ofEpochMilli(started).atZone(ZoneId.ofOffset("", ZoneOffset.UTC)).toLocalDate(), startDate = now.minusDays(30), recentStartingDate = now.minusDays(7);
         final String url = getURLRequest(startDate, now, 2.0f);
@@ -93,26 +79,22 @@ public enum Earthquakes implements RestAPI {
         topRecentTerritoryEarthquakes = new HashMap<>();
         cachedEarthquakes = new HashMap<>();
 
-        requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                if(json != null) {
-                    final JSONArray array = json.getJSONArray("features");
-                    final ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap = new ConcurrentHashMap<>();
-                    final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates = new ConcurrentHashMap<>();
-                    ParallelStream.stream(array.spliterator(), obj -> {
-                        final JSONObject earthquakeJSON = (JSONObject) obj;
-                        loadEarthquake(startDate, earthquakeJSON, preEarthquakeDates, territoryEarthquakesMap);
-                    });
-                    topRecentEarthquakes = getEarthquakesJSON(null, preEarthquakeDates);
-                    recentEarthquakes = getEarthquakesJSON(recentStartingDate, preEarthquakeDates);
-                    loadTerritoryEarthquakes(territoryEarthquakesMap);
-                    completeRefresh(isAutoUpdate, started, isRecent ? recentEarthquakes : topRecentEarthquakes, handler);
-                } else {
-                    completeRefresh(isAutoUpdate, started, null, handler);
-                }
-            }
-        });
+        final JSONObject json = requestJSONObject(url, RequestMethod.GET);
+        if(json != null) {
+            final JSONArray array = json.getJSONArray("features");
+            final ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap = new ConcurrentHashMap<>();
+            final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates = new ConcurrentHashMap<>();
+            ParallelStream.stream(array.spliterator(), obj -> {
+                final JSONObject earthquakeJSON = (JSONObject) obj;
+                loadEarthquake(startDate, earthquakeJSON, preEarthquakeDates, territoryEarthquakesMap);
+            });
+            topRecentEarthquakes = getEarthquakesJSON(null, preEarthquakeDates);
+            recentEarthquakes = getEarthquakesJSON(recentStartingDate, preEarthquakeDates);
+            loadTerritoryEarthquakes(territoryEarthquakesMap);
+            completeRefresh(isAutoUpdate, started, isRecent ? recentEarthquakes : topRecentEarthquakes);
+        } else {
+            completeRefresh(isAutoUpdate, started, null);
+        }
     }
     private String getEarthquakesJSON(LocalDate date, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates) {
         String string = null;
@@ -147,11 +129,8 @@ public enum Earthquakes implements RestAPI {
         }
         return string;
     }
-    private void completeRefresh(boolean isAutoUpdate, long started, String string, CompletionHandler handler) {
+    private void completeRefresh(boolean isAutoUpdate, long started, String string) {
         WLLogger.logInfo("Earthquakes - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
-        if(handler != null) {
-            handler.handleString(string);
-        }
     }
 
     private void loadEarthquake(LocalDate startingDate, JSONObject json, ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates, ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap) {
@@ -207,56 +186,52 @@ public enum Earthquakes implements RestAPI {
         }
     }
 
-    private void getEarthquake(String id, CompletionHandler handler) {
+    private String getEarthquake(String id) {
         if(cachedEarthquakes.containsKey(id)) {
-            handler.handleString(cachedEarthquakes.get(id));
+            return cachedEarthquakes.get(id);
         } else {
-            requestJSONObject("https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=" + id + "&format=geojson", RequestMethod.GET, new CompletionHandler() {
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    String string = null;
-                    if(json != null) {
-                        final JSONObject properties = json.getJSONObject("properties");
-                        final Object mag = properties.get("mag");
-                        final String magnitude = mag != null ? mag.toString() : "0";
+            String string = null;
+            final JSONObject json = requestJSONObject("https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=" + id + "&format=geojson", RequestMethod.GET);
+            if(json != null) {
+                final JSONObject properties = json.getJSONObject("properties");
+                final Object mag = properties.get("mag");
+                final String magnitude = mag != null ? mag.toString() : "0";
 
-                        final JSONObject geometry = json.getJSONObject("geometry");
-                        final JSONArray coordinates = geometry.getJSONArray("coordinates");
-                        final boolean isPoint = geometry.getString("type").equalsIgnoreCase("point");
-                        final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
-                        final Location location = new Location(latitude, longitude);
+                final JSONObject geometry = json.getJSONObject("geometry");
+                final JSONArray coordinates = geometry.getJSONArray("coordinates");
+                final boolean isPoint = geometry.getString("type").equalsIgnoreCase("point");
+                final double latitude = isPoint ? coordinates.getDouble(1) : -1, longitude = isPoint ? coordinates.getDouble(0) : -1;
+                final Location location = new Location(latitude, longitude);
 
-                        final String url = properties.getString("url"), cause = properties.getString("type").toUpperCase();
+                final String url = properties.getString("url"), cause = properties.getString("type").toUpperCase();
 
-                        String place = properties.get("place") instanceof String ? properties.getString("place") : "null";
-                        final String[] regionValues = getRegionValues(place);
-                        place = regionValues[0];
-                        final String country = regionValues[1], subdivision = regionValues[2];
+                String place = properties.get("place") instanceof String ? properties.getString("place") : "null";
+                final String[] regionValues = getRegionValues(place);
+                place = regionValues[0];
+                final String country = regionValues[1], subdivision = regionValues[2];
 
-                        final JSONObject productsJSON = properties.has("products") ? properties.getJSONObject("products") : null;
-                        float depthKM = -1;
-                        if(productsJSON != null) {
-                            final JSONArray origin = productsJSON.has("origin") ? productsJSON.getJSONArray("origin") : null;
-                            if(origin != null) {
-                                final JSONObject targetJSON = origin.getJSONObject(0);
-                                final JSONObject targetProperties = targetJSON.has("properties") ? targetJSON.getJSONObject("properties") : null;
-                                if(targetProperties != null) {
-                                    depthKM = Float.parseFloat(targetProperties.getString("depth"));
-                                }
-                            }
+                final JSONObject productsJSON = properties.has("products") ? properties.getJSONObject("products") : null;
+                float depthKM = -1;
+                if(productsJSON != null) {
+                    final JSONArray origin = productsJSON.has("origin") ? productsJSON.getJSONArray("origin") : null;
+                    if(origin != null) {
+                        final JSONObject targetJSON = origin.getJSONObject(0);
+                        final JSONObject targetProperties = targetJSON.has("properties") ? targetJSON.getJSONObject("properties") : null;
+                        if(targetProperties != null) {
+                            depthKM = Float.parseFloat(targetProperties.getString("depth"));
                         }
-
-                        final long time = properties.getLong("time"), lastUpdated = properties.getLong("updated");
-                        final EventSources sources = new EventSources();
-                        sources.add(new EventSource("United States Geological Survey: Earthquakes", url));
-                        final Earthquake earthquake = new Earthquake(country, subdivision, cause, magnitude, place, time, lastUpdated, depthKM, location, sources);
-                        string = earthquake.toString();
-                        cachedEarthquakes.put(id, string);
                     }
-                    handler.handleString(string);
                 }
-            });
-        }
+
+                final long time = properties.getLong("time"), lastUpdated = properties.getLong("updated");
+                final EventSources sources = new EventSources();
+                sources.add(new EventSource("United States Geological Survey: Earthquakes", url));
+                final Earthquake earthquake = new Earthquake(country, subdivision, cause, magnitude, place, time, lastUpdated, depthKM, location, sources);
+                string = earthquake.toString();
+                cachedEarthquakes.put(id, string);
+            }
+            return string;
+         }
     }
 
     private String[] getRegionValues(String place) {

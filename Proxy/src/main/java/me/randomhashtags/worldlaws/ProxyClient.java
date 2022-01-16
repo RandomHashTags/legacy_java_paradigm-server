@@ -32,18 +32,14 @@ public final class ProxyClient extends Thread implements RestAPI {
                 final APIVersion version = headers.getAPIVersion();
                 final HashSet<String> query = headers.getQuery();
                 final String request = headers.getRequest();
-                server.sendResponse(version, identifier, RequestMethod.GET, request, query, new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        final boolean connected = string != null;
-                        if(connected) {
-                            final String response = DataValues.HTTP_SUCCESS_200 + string;
-                            writeOutput(client, response);
-                        } else if(!TargetServer.isMaintenanceMode()) {
-                            WLLogger.logInfo(prefix + "Failed to connect to \"" + request + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                        }
-                    }
-                });
+                final String string = server.sendResponse(version, identifier, RequestMethod.GET, request, query);
+                final boolean connected = string != null;
+                if(connected) {
+                    final String response = DataValues.HTTP_SUCCESS_200 + string;
+                    writeOutput(client, response);
+                } else if(!TargetServer.isMaintenanceMode()) {
+                    WLLogger.logInfo(prefix + "Failed to connect to \"" + request + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                }
                 return;
             }
         }

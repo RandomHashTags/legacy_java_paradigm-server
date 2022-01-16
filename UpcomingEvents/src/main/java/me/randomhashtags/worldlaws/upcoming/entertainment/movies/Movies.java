@@ -26,26 +26,22 @@ public final class Movies extends UpcomingEventController implements IMDbService
     }
 
     @Override
-    public void load(CompletionHandler handler) {
+    public void load() {
         final LocalDate now = LocalDate.now();
-        refreshFilms(WLUtilities.getTodayYear(), now.getMonth(), now.getDayOfMonth(), handler);
+        refreshFilms(WLUtilities.getTodayYear(), now.getMonth(), now.getDayOfMonth());
     }
 
-    private void refreshFilms(int year, Month startingMonth, int startingDay, CompletionHandler handler) {
+    private void refreshFilms(int year, Month startingMonth, int startingDay) {
         final String url = "https://en.wikipedia.org/wiki/List_of_American_films_of_" + year;
         final Document doc = getDocument(url);
         if(doc != null) {
             final Elements table = doc.select("div.mw-body-content div.mw-parser-output h2 + table.wikitable tbody tr");
             if(year >= 2016) { // supported format only until 2016
-                refreshUSAFilms2016(year, startingMonth, startingDay, table, handler);
-            } else {
-                handler.handleString(null);
+                refreshUSAFilms2016(year, startingMonth, startingDay, table);
             }
-        } else {
-            handler.handleString(null);
         }
     }
-    private void refreshUSAFilms2016(int year, Month startingMonth, int startingDay, Elements table, CompletionHandler handler) {
+    private void refreshUSAFilms2016(int year, Month startingMonth, int startingDay, Elements table) {
         int day = 1;
         boolean foundStartingMonth = false;
         final Month endingMonth = startingMonth.plus(2);
@@ -104,25 +100,22 @@ public final class Movies extends UpcomingEventController implements IMDbService
                 }
             }
         }
-        handler.handleString(null);
     }
 
     @Override
-    public void getResponse(String input, CompletionHandler handler) {
+    public String getResponse(String input) {
         final String[] values = input.split("/");
         final String key = values[0];
         switch (key) {
             case "productionCompanies":
-                MovieProductionCompanies.getResponse(input.substring(key.length()), handler);
-                break;
+                return MovieProductionCompanies.getResponse(input.substring(key.length()));
             default:
-                super.getResponse(input, handler);
-                break;
+                return super.getResponse(input);
         }
     }
 
     @Override
-    public void loadUpcomingEvent(String id, CompletionHandler handler) {
+    public String loadUpcomingEvent(String id) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
         final String title = preUpcomingEvent.getTitle();
@@ -209,41 +202,36 @@ public final class Movies extends UpcomingEventController implements IMDbService
                     year = WLUtilities.getTodayYear();
                 }
             }
-            getMovieDetails(title, year, new CompletionHandler() {
-                @Override
-                public void handleObject(Object object) {
-                    @SuppressWarnings({ "unchecked" })
-                    final HashMap<String, Object> values = (HashMap<String, Object>) object;
-                    final JSONObject imdbJSON = (JSONObject) values.get("imdbInfo");
-                    final JSONArray youtubeVideoIDs = (JSONArray) values.get("youtubeVideoIDs");
-                    final String ratingsString = (String) values.get("ratings");
-                    final String movieImageURL;
-                    if(imdbJSON != null && imdbJSON.has("imageURL")) {
-                        movieImageURL = imdbJSON.getString("imageURL");
-                        imdbJSON.remove("imageURL");
-                    } else {
-                        movieImageURL = imageURL;
-                    }
+            final Object object = getMovieDetails(title, year);
+            @SuppressWarnings({ "unchecked" })
+            final HashMap<String, Object> values = (HashMap<String, Object>) object;
+            final JSONObject imdbJSON = (JSONObject) values.get("imdbInfo");
+            final JSONArray youtubeVideoIDs = (JSONArray) values.get("youtubeVideoIDs");
+            final String ratingsString = (String) values.get("ratings");
+            final String movieImageURL;
+            if(imdbJSON != null && imdbJSON.has("imageURL")) {
+                movieImageURL = imdbJSON.getString("imageURL");
+                imdbJSON.remove("imageURL");
+            } else {
+                movieImageURL = imageURL;
+            }
 
-                    final String productionCompany = (String) preUpcomingEvent.getCustomValue("productionCompanies");
-                    final JSONArray array = new JSONArray(productionCompany);
-                    final Collection<String> productionCompanies = new HashSet<>();
-                    for(Object obj : array) {
-                        productionCompanies.add((String) obj);
-                    }
+            final String productionCompany = (String) preUpcomingEvent.getCustomValue("productionCompanies");
+            final JSONArray array = new JSONArray(productionCompany);
+            final Collection<String> productionCompanies = new HashSet<>();
+            for(Object obj : array) {
+                productionCompanies.add((String) obj);
+            }
 
-                    final MovieEvent movie = new MovieEvent(title, premiseFinal, movieImageURL, productionCompanies, releaseInfoFinal, imdbJSON, ratingsString, youtubeVideoIDs, sources);
-                    final String string = movie.toString();
-                    putUpcomingEvent(id, string);
-                    handler.handleString(string);
-                }
-            });
-        } else {
-            handler.handleString(null);
+            final MovieEvent movie = new MovieEvent(title, premiseFinal, movieImageURL, productionCompanies, releaseInfoFinal, imdbJSON, ratingsString, youtubeVideoIDs, sources);
+            final String string = movie.toString();
+            putUpcomingEvent(id, string);
+            return string;
         }
+        return null;
     }
 
-    private void getMovieDetails(String title, int year, CompletionHandler handler) {
+    private HashMap<String, Object> getMovieDetails(String title, int year) {
         final HashSet<String> set = new HashSet<>() {{
             add("imdbInfo");
             add("ratings");
@@ -252,61 +240,38 @@ public final class Movies extends UpcomingEventController implements IMDbService
         final HashMap<String, Object> values = new HashMap<>();
         ParallelStream.stream(set, requestObj -> {
             final String request = (String) requestObj;
-            final CompletionHandler completionHandler = new CompletionHandler() {
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    handleObject(json);
-                }
-                @Override
-                public void handleJSONArray(JSONArray array) {
-                    handleObject(array);
-                }
-                @Override
-                public void handleString(String string) {
-                    handleObject(string);
-                }
-
-                @Override
-                public void handleObject(Object object) {
-                    values.put(request, object);
-                }
-            };
+            Object object = null;
             switch (request) {
                 case "imdbInfo":
-                    getIMDbMovieDetails(title, year, completionHandler);
+                    object = getIMDbMovieDetails(title, year);
                     break;
                 case "ratings":
-                    getRatings(title, completionHandler);
+                    object = getRatings(title);
                     break;
                 case "youtubeVideoIDs":
-                    getVideosJSONArray(YouTubeVideoType.MOVIE, title, completionHandler);
+                    object = getVideosJSONArray(YouTubeVideoType.MOVIE, title);
                     break;
                 default:
                     break;
             }
+            if(object != null) {
+                values.put(request, object);
+            }
         });
-        handler.handleObject(values);
+        return values;
     }
 
-    private void getRatings(String movieTitle, CompletionHandler handler) {
+    private String getRatings(String movieTitle) {
         final MovieRatingType[] ratings = MovieRatingType.values();
         final HashMap<String, String> values = new HashMap<>();
         ParallelStream.stream(Arrays.asList(ratings), ratingObj -> {
             final MovieRatingType rating = (MovieRatingType) ratingObj;
             final String ratingName = rating.getName();
-            rating.load(new CompletionHandler() {
-                @Override
-                public void handleObject(Object object) {
-                    rating.get(movieTitle, new CompletionHandler() {
-                        @Override
-                        public void handleString(String string) {
-                            if(string != null) {
-                                values.put(ratingName, string);
-                            }
-                        }
-                    });
-                }
-            });
+            rating.load();
+            final String string = rating.get(movieTitle);
+            if(string != null) {
+                values.put(ratingName, string);
+            }
         });
 
         String value = null;
@@ -321,7 +286,7 @@ public final class Movies extends UpcomingEventController implements IMDbService
             builder.append("}");
             value = builder.toString();
         }
-        handler.handleString(value);
+        return value;
     }
 
 
@@ -342,27 +307,25 @@ public final class Movies extends UpcomingEventController implements IMDbService
             }
         }
 
-        public void load(CompletionHandler handler) {
+        public void load() {
             switch (this) {
                 case ROTTEN_TOMATOES:
-                    loadRottenTomatoesDocument(handler);
+                    loadRottenTomatoesDocument();
                     break;
                 default:
-                    handler.handleString(null);
                     break;
             }
         }
-        public void get(String movieTitle, CompletionHandler handler) {
+        public String get(String movieTitle) {
             switch (this) {
                 case ROTTEN_TOMATOES:
-                    getRottenTomatoesScores(movieTitle, handler);
-                    break;
+                    return getRottenTomatoesScores(movieTitle);
                 default:
-                    break;
+                    return null;
             }
         }
 
-        private void loadRottenTomatoesDocument(CompletionHandler handler) {
+        private void loadRottenTomatoesDocument() {
             if(!cacheElements.containsKey(ROTTEN_TOMATOES)) {
                 cacheElements.put(ROTTEN_TOMATOES, new Elements());
 
@@ -370,29 +333,26 @@ public final class Movies extends UpcomingEventController implements IMDbService
                 final Elements elements = getDocumentElements(Folder.OTHER, url, false, "body div.container main.container div div.layout div.layout__column div.media-list div.media-list__item div.media-list__movie-info a");
                 cacheElements.put(ROTTEN_TOMATOES, elements);
             }
-            handler.handleObject(null);
         }
-        public void getRottenTomatoesScores(String movieTitle, CompletionHandler handler) {
-            handleRottenTomatoes(movieTitle, handler);
+        public String getRottenTomatoesScores(String movieTitle) {
+            return handleRottenTomatoes(movieTitle);
         }
-        private void handleRottenTomatoes(String movieTitle, CompletionHandler handler) {
+        private String handleRottenTomatoes(String movieTitle) {
             final Elements elements = new Elements(cacheElements.get(ROTTEN_TOMATOES));
             elements.removeIf(element -> {
                 final String titleElement = element.selectFirst("div.media-list__title").text();
                 return !movieTitle.equals(titleElement);
             });
+            String string = null;
             if(!elements.isEmpty()) {
                 final Element element = elements.get(0);
                 final Elements meterScoreElements = element.selectFirst("div.media-list__meter-container span").select("span.tMeterScore");
                 final Element meterScoreElement = !meterScoreElements.isEmpty() ? meterScoreElements.get(0) : null;
-                String string = null;
                 if(meterScoreElement != null) {
                     string = meterScoreElement.selectFirst("span.tMeterScore").text().replace("%", "");
                 }
-                handler.handleString(string);
-            } else {
-                handler.handleString(null);
             }
+            return string;
         }
     }
 }

@@ -241,39 +241,22 @@ public enum MovieProductionCompanies {
 
     private static String CACHE;
 
-    public static void getResponse(String input, CompletionHandler handler) {
-        getJSON(handler);
+    public static String getResponse(String input) {
+        return getJSON();
     }
-    private static void getJSON(CompletionHandler handler) {
-        if(CACHE != null) {
-            handler.handleString(CACHE);
-        } else {
-            Jsonable.getStaticJSONObject(Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies", new CompletionHandler() {
+    private static String getJSON() {
+        if(CACHE == null) {
+            final JSONObject json = Jsonable.getStaticJSONObject(Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies", new CompletionHandler() {
                 @Override
-                public void load(CompletionHandler handler) {
-                    loadJSON(handler);
-                }
-
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    final int responseVersion = ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue();
-                    if(json.getInt("response_version") < responseVersion) {
-                        loadJSON(new CompletionHandler() {
-                            @Override
-                            public void handleJSONObject(JSONObject json) {
-                                CACHE = json.toString();
-                                handler.handleString(CACHE);
-                            }
-                        });
-                    } else {
-                        CACHE = json.toString();
-                        handler.handleString(CACHE);
-                    }
+                public JSONObject loadJSONObject() {
+                    return loadJSON();
                 }
             });
+            CACHE = json.toString();
         }
+        return CACHE;
     }
-    private static void loadJSON(CompletionHandler handler) {
+    private static JSONObject loadJSON() {
         final MovieProductionCompanies[] companies = values();
         final JSONObject companiesJSON = new JSONObject();
         final CompletionHandler completionHandler = new CompletionHandler() {
@@ -289,7 +272,7 @@ public enum MovieProductionCompanies {
         json.put("response_version", responseVersion);
         json.put("imageURLPrefix", getImageURLPrefix());
         json.put("companies", companiesJSON);
-        handler.handleJSONObject(json);
+        return json;
     }
     private static String getImageURLPrefix() {
         return "https://upload.wikimedia.org/wikipedia/en/thumb/";

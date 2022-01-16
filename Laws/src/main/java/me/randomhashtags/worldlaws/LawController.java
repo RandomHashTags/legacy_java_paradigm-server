@@ -19,10 +19,8 @@ public abstract class LawController {
     public int getCurrentAdministrationVersion() {
         return LawUtilities.getCurrentAdministrationVersion(getCountry());
     }
-    public void getRecentActivity(APIVersion version, CompletionHandler handler) {
-        if(recentActivity.containsKey(version)) {
-            handler.handleString(recentActivity.get(version));
-        } else {
+    public String getRecentActivity(APIVersion version) {
+        if(!recentActivity.containsKey(version)) {
             final AtomicLong started = new AtomicLong(System.currentTimeMillis());
             final String simpleName = getClass().getSimpleName();
             final CompletionHandler completionHandler = new CompletionHandler() {
@@ -30,20 +28,22 @@ public abstract class LawController {
                 public void handleString(String string) {
                     WLLogger.logInfo(simpleName + " - refreshed recent activity (took " + (System.currentTimeMillis()-started.get()) + "ms)");
                     recentActivity.put(version, string);
-                    handler.handleString(string);
                 }
             };
             Laws.INSTANCE.registerFixedTimer(WLUtilities.LAWS_RECENT_ACTIVITY_UPDATE_INTERVAL, new CompletionHandler() {
                 @Override
                 public void handleObject(Object object) {
                     started.set(System.currentTimeMillis());
-                    refreshRecentActivity(version, completionHandler);
+                    final String string = refreshRecentActivity(version);
+                    completionHandler.handleString(string);
                 }
             });
-            refreshRecentActivity(version, completionHandler);
+            final String string = refreshRecentActivity(version);
+            completionHandler.handleString(string);
         }
+        return recentActivity.get(version);
     }
-    public abstract void refreshRecentActivity(APIVersion version, CompletionHandler handler);
-    public abstract void getResponse(APIVersion version, String value, CompletionHandler handler);
-    public abstract void getGovernmentResponse(APIVersion version, int administration, String value, CompletionHandler handler);
+    public abstract String refreshRecentActivity(APIVersion version);
+    public abstract String getResponse(APIVersion version, String value);
+    public abstract String getGovernmentResponse(APIVersion version, int administration, String value);
 }

@@ -8,7 +8,6 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.stream.Collectors;
 
 public interface Jsonable {
@@ -106,34 +105,26 @@ public interface Jsonable {
         final String string = getStaticLocalFileString(folder, fileName, "json");
         return string != null ? new JSONArray(string) : null;
     }
-    static void getStaticJSONObject(Folder folder, String fileName, CompletionHandler handler) {
-        final JSONObject localFile = getStaticLocalFileJSONObject(folder, fileName);
-        if(localFile != null) {
-            handler.handleJSONObject(localFile);
-        } else {
-            final AtomicBoolean saved = new AtomicBoolean(false);
-            handler.load(new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    JSONObject json = null;
-                    if(string != null && !string.isEmpty()) {
-                        saveFileJSON(folder, fileName, string);
-                        json = new JSONObject(string);
-                        saved.set(true);
-                    }
-                    handler.handleJSONObject(json);
+    static JSONObject getStaticJSONObject(Folder folder, String fileName, CompletionHandler handler) {
+        JSONObject json = getStaticLocalFileJSONObject(folder, fileName);
+        if(json == null) {
+            String string = handler.loadJSONObjectString();
+            if(string != null) {
+                if(string.startsWith("{") && string.endsWith("}")) {
+                    json = new JSONObject(string);
+                } else {
+                    WLUtilities.saveLoggedError("Jsonable", "failed loading JSONObject from string\n\n" + string);
                 }
-
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    if(json != null && !saved.get()) {
-                        saveFileJSON(folder, fileName, json.toString());
-                    }
-                    folder.removeCustomFolderName(fileName);
-                    handler.handleJSONObject(json);
-                }
-            });
+            } else {
+                json = handler.loadJSONObject();
+                string = json != null ? json.toString() : null;
+            }
+            if(json != null) {
+                saveFileJSON(folder, fileName, string);
+            }
+            return json;
         }
+        return json;
     }
 
     default String getLocalFileString(Folder folder, String fileName, String extension) {
@@ -145,37 +136,29 @@ public interface Jsonable {
     default JSONArray getLocalFileJSONArray(Folder folder, String fileName) {
         return getStaticFileJSONArray(folder, fileName);
     }
-    default void getJSONObject(Folder folder, String fileName, CompletionHandler handler) {
-        getStaticJSONObject(folder, fileName, handler);
+    default JSONObject getJSONObject(Folder folder, String fileName, CompletionHandler handler) {
+        return getStaticJSONObject(folder, fileName, handler);
     }
 
-    default void getJSONArray(Folder type, String fileName, CompletionHandler handler) {
-        final JSONArray localFile = getLocalFileJSONArray(type, fileName);
-        if(localFile != null) {
-            handler.handleJSONArray(localFile);
-        } else {
-            final AtomicBoolean saved = new AtomicBoolean(false);
-            handler.load(new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    JSONArray array = null;
-                    if(string != null && !string.isEmpty()) {
-                        saveFileJSON(type, fileName, string);
-                        array = new JSONArray(string);
-                        saved.set(true);
-                    }
-                    handler.handleJSONArray(array);
+    default JSONArray getJSONArray(Folder type, String fileName, CompletionHandler handler) {
+        JSONArray array = getLocalFileJSONArray(type, fileName);
+        if(array == null) {
+            String string = handler.loadJSONArrayString();
+            if(string != null) {
+                if(string.startsWith("[") && string.endsWith("]")) {
+                    array = new JSONArray(string);
+                } else {
+                    WLUtilities.saveLoggedError("Jsonable", "failed loading JSONArray from string\n\n" + string);
                 }
-
-                @Override
-                public void handleJSONArray(JSONArray array) {
-                    if(!saved.get() && array != null) {
-                        saveFileJSON(type, fileName, array.toString());
-                    }
-                    handler.handleJSONArray(array);
-                }
-            });
+            } else {
+                array = handler.loadJSONArray();
+                string = array != null ? array.toString() : null;
+            }
+            if(array != null) {
+                saveFileJSON(type, fileName, string);
+            }
         }
+        return array;
     }
     default void setFileJSONObject(Folder folder, String fileName, JSONObject json) {
         setFileJSON(folder, fileName, json);

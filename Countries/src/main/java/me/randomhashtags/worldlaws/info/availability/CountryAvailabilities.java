@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.info.availability;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.info.availability.tech.AppleAvailabilityObj;
@@ -89,21 +88,17 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         ));
     }
 
-    public void getCountryAvailabilities(String countryBackendID, CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
+    public String getCountryAvailabilities(String countryBackendID) {
         final ConcurrentHashMap<Boolean, ConcurrentHashMap<String, HashSet<String>>> values = new ConcurrentHashMap<>();
-        final CompletionHandler completionHandler = new CompletionHandler() {
-            @Override
-            public void handleObject(Object object) {
-                final CountryAvailability availability = (CountryAvailability) object;
-                final String primaryCategory = availability.getPrimaryCategory().name();
-                final boolean availabilityIsAvailable = availability.isAvailable();
-                values.putIfAbsent(availabilityIsAvailable, new ConcurrentHashMap<>());
-                values.get(availabilityIsAvailable).putIfAbsent(primaryCategory, new HashSet<>());
-                values.get(availabilityIsAvailable).get(primaryCategory).add(availability.toString());
-            }
-        };
-        ParallelStream.stream(SERVICES, service -> ((CountryAvailabilityService) service).getCountryValue(countryBackendID, completionHandler));
+        ParallelStream.stream(SERVICES, serviceObj -> {
+            final CountryAvailabilityService service = (CountryAvailabilityService) serviceObj;
+            final CountryAvailability availability = service.getAvailability(countryBackendID);
+            final String primaryCategory = availability.getPrimaryCategory().name();
+            final boolean availabilityIsAvailable = availability.isAvailable();
+            values.putIfAbsent(availabilityIsAvailable, new ConcurrentHashMap<>());
+            values.get(availabilityIsAvailable).putIfAbsent(primaryCategory, new HashSet<>());
+            values.get(availabilityIsAvailable).get(primaryCategory).add(availability.toString());
+        });
 
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirstBoolean = true;
@@ -125,8 +120,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
             isFirstBoolean = false;
         }
         builder.append("}");
-        WLLogger.logInfo("CountryAvailabilities - loaded \"" + countryBackendID + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-        handler.handleServiceResponse(INSTANCE, builder.toString());
+        return builder.toString();
     }
 
     @Override

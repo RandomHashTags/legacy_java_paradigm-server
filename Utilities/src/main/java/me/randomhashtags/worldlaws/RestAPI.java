@@ -10,71 +10,45 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.AbstractMap;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
 
 public interface RestAPI {
     HashMap<String, String> CONTENT_HEADERS = new HashMap<>() {{
         put("Content-Type", "application/json");
     }};
-    ConcurrentHashMap<String, HashSet<CompletionHandler>> PENDING_SAME_REQUESTS = new ConcurrentHashMap<>();
 
-    default void requestJSONArray(String url, RequestMethod method, CompletionHandler handler) {
-        requestJSONArray(url, method, CONTENT_HEADERS, handler);
+    default JSONArray requestJSONArray(String url, RequestMethod method) {
+        return requestJSONArray(url, method, CONTENT_HEADERS);
     }
-    default void requestJSONArray(String url, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
-        requestJSONArray(url, method, headers, null, handler);
+    default JSONArray requestJSONArray(String url, RequestMethod method, HashMap<String, String> headers) {
+        return requestJSONArray(url, method, headers, null);
     }
-    default void requestJSONArray(String url, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query, CompletionHandler handler) {
-        request(url, method, headers, query, new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                if(string != null) {
-                    final JSONArray json = new JSONArray(string);
-                    handler.handleJSONArray(json);
-                } else {
-                    handler.handleJSONArray(null);
-                }
-            }
-        });
+    default JSONArray requestJSONArray(String url, RequestMethod method, HashMap<String, String> headers, HashMap<String, String> query) {
+        final String string = request(url, method, headers, query);
+        return string != null ? new JSONArray(string) : null;
     }
 
-    default void requestJSONObject(String url, RequestMethod method, CompletionHandler handler) {
-        requestJSONObject(url, method, CONTENT_HEADERS, handler);
+    default JSONObject requestJSONObject(String url, RequestMethod method) {
+        return requestJSONObject(url, method, CONTENT_HEADERS);
     }
-    default void requestJSONObject(String url, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
-        requestJSONObject(url, method, headers, null, handler);
+    default JSONObject requestJSONObject(String url, RequestMethod method, HashMap<String, String> headers) {
+        return requestJSONObject(url, method, headers, null);
     }
-    default void requestJSONObject(String url, boolean isLimited, RequestMethod method, HashMap<String, String> headers, CompletionHandler handler) {
-        requestJSONObject(url, isLimited, method, headers, null, handler);
+    default JSONObject requestJSONObject(String url, boolean isLimited, RequestMethod method, HashMap<String, String> headers) {
+        return requestJSONObject(url, isLimited, method, headers, null);
     }
-    default void requestJSONObject(String url, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query, CompletionHandler handler) {
-        requestJSONObject(url, true, method, headers, query, handler);
+    default JSONObject requestJSONObject(String url, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query) {
+        return requestJSONObject(url, true, method, headers, query);
     }
-    default void requestJSONObject(String url, boolean isLimited, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query, CompletionHandler handler) {
-        request(url, isLimited, method, headers, query, new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                if(string != null) {
-                    final JSONObject json = new JSONObject(string);
-                    handler.handleJSONObject(json);
-                } else {
-                    handler.handleJSONObject(null);
-                }
-            }
-
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                handler.handleJSONObject(json);
-            }
-        });
+    default JSONObject requestJSONObject(String url, boolean isLimited, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query) {
+        final String string = request(url, isLimited, method, headers, query);
+        return string != null ? new JSONObject(string) : null;
     }
 
-    default void request(String targetURL, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query, CompletionHandler handler) {
-        request(targetURL, true, method, headers, query, handler);
+    default String request(String targetURL, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query) {
+        return request(targetURL, true, method, headers, query);
     }
-    default void request(String targetURL, boolean isLimited, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query, CompletionHandler handler) {
+    default String request(String targetURL, boolean isLimited, RequestMethod method, HashMap<String, String> headers, AbstractMap<String, String> query) {
         final boolean isLocal = targetURL.startsWith("http://localhost") || targetURL.startsWith("http://192.168");
 
         final StringBuilder target = new StringBuilder(targetURL);
@@ -92,15 +66,6 @@ public interface RestAPI {
         }
         targetURL = target.toString();
 
-        //WLLogger.logInfo("RestAPI - making " + (isLocal ? "local " : "") + "request to \"" + targetURL + "\"");
-        if(isLimited && !isLocal) {
-            if(PENDING_SAME_REQUESTS.containsKey(targetURL)) {
-                PENDING_SAME_REQUESTS.get(targetURL).add(handler);
-                return;
-            } else {
-                PENDING_SAME_REQUESTS.put(targetURL, new HashSet<>());
-            }
-        }
         HttpURLConnection connection = null;
         try {
             final URL url = new URL(targetURL);
@@ -149,22 +114,14 @@ public interface RestAPI {
                     WLUtilities.saveException(e);
                 }
             }
-            handler.handleString(responseString);
-            if(PENDING_SAME_REQUESTS.containsKey(targetURL)) {
-                final HashSet<CompletionHandler> sameRequests = PENDING_SAME_REQUESTS.get(targetURL);
-                for(CompletionHandler pendingHandler : sameRequests) {
-                    pendingHandler.handleString(responseString);
-                }
-                PENDING_SAME_REQUESTS.remove(targetURL);
-            }
-
+            return responseString;
         } catch (Exception e) {
             if(!isLocal) {
                 final StackTraceElement[] stackTrace = e.getStackTrace();
                 WLLogger.logWarning("[REST API] - \"(" + stackTrace[0].getClassName() + ") " + e.getMessage() + " with url \"" + targetURL + "\" with headers: " + (headers != null ? headers.toString() : "null") + ", and query: " + (query != null ? query.toString() : "null"));
                 WLUtilities.saveException(e);
             }
-            handler.handleString(null);
+            return null;
         } finally {
             if(connection != null) {
                 connection.disconnect();

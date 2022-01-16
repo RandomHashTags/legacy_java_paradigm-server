@@ -33,156 +33,153 @@ public enum NASA_EONET implements WLService {
         return null;
     }
 
-    public void getCurrent(APIVersion version, CompletionHandler handler) {
-        if(cache.containsKey(version)) {
-            handler.handleString(cache.get(version));
-        } else {
+    public String getCurrent(APIVersion version) {
+        if(!cache.containsKey(version)) {
             Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL, new CompletionHandler() {
                 @Override
                 public void handleObject(Object object) {
-                    refresh(version, null);
+                    refresh(version);
                 }
             });
-            refresh(version, handler);
+            refresh(version);
         }
+        return cache.get(version);
     }
-    private void refresh(APIVersion version, CompletionHandler handler) {
+    private void refresh(APIVersion version) {
         final long started = System.currentTimeMillis();
         final String wikipediaPrefix = "https://en.wikipedia.org/wiki/";
         final HashMap<String, String> volcanoWikipediaPages = getVolcanoWikipediaPages();
         final ConcurrentHashMap<String, HashSet<String>> homeValues = new ConcurrentHashMap<>();
         final String url = "https://eonet.sci.gsfc.nasa.gov/api/v3/events?status=open&days=30";
-        requestJSONObject(url, RequestMethod.GET, CONTENT_HEADERS, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                if(json != null) {
-                    final JSONArray eventsArray = json.getJSONArray("events");
-                    ParallelStream.stream(eventsArray.spliterator(), obj -> {
-                        final JSONObject eventJSON = (JSONObject) obj;
-                        String place = eventJSON.getString("title").replace("&#039;", "'");
-                        if(!place.startsWith("Iceberg ")) {
-                            final String[] startingReplacements = new String[] {
-                                    "Wildfires - ",
-                                    "Wildfire - ",
-                                    "Wildfire "
-                            };
-                            for(String replacement : startingReplacements) {
-                                if(place.startsWith(replacement)) {
-                                    place = place.substring(replacement.length());
-                                    break;
-                                }
-                            }
-                            String country = null, subdivision = null;
-                            final String[] replacements = new String[] {
-                                    ", ",
-                                    " - ",
-                                    " "
-                            };
-                            for(String string : replacements) {
-                                if(place.contains(string)) {
-                                    final String[] values = place.split(string);
-                                    final String value = values[values.length-1];
-                                    final String targetCountry = value.toLowerCase().replace(" ", "");
-                                    final WLCountry wlcountry = WLCountry.valueOfBackendID(targetCountry);
-                                    if(wlcountry != null) {
-                                        country = wlcountry.getBackendID();
-                                        place = place.split(string + value)[0];
-                                        break;
-                                    }
-                                }
-                            }
-                            for(String string : replacements) {
-                                if(place.contains(string)) {
-                                    final String[] values = place.split(string);
-                                    final String value = values[values.length-1];
-                                    final String targetSubdivision = value.toLowerCase().replace(" ", "");
-                                    final SovereignStateSubdivision sss = WLSubdivisions.valueOfString(targetSubdivision);
-                                    if(sss != null) {
-                                        subdivision = sss.getName();
-                                        place = place.split(string + value)[0];
-                                        break;
-                                    }
-                                }
-                            }
-                            if(place.endsWith("(CA)")) {
-                                country = WLCountry.UNITED_STATES.getBackendID();
-                                subdivision = SubdivisionsUnitedStates.CALIFORNIA.getName();
-                            }
+        final JSONObject json = requestJSONObject(url, RequestMethod.GET, CONTENT_HEADERS);
+        if(json != null) {
+            final String unitedStatesBackendID = WLCountry.UNITED_STATES.getBackendID();
 
-                            final String id = eventJSON.getString("id");
-                            final String category = eventJSON.getJSONArray("categories").getJSONObject(0).getString("title");
-                            homeValues.putIfAbsent(category, new HashSet<>());
-
-                            final JSONArray geometriesArray = eventJSON.getJSONArray("geometry");
-                            final JSONObject targetGeometryJSON = geometriesArray.getJSONObject(geometriesArray.length()-1);
-                            final String geometryType = targetGeometryJSON.getString("type");
-                            Location location = null;
-                            switch (geometryType) {
-                                case "Point":
-                                    final JSONArray targetGeometry = targetGeometryJSON.getJSONArray("coordinates");
-                                    location = new Location(targetGeometry.getDouble(1), targetGeometry.getDouble(0));
-                                    break;
-                                case "Polygon":
-                                    break;
-                                default:
-                                    break;
-                            }
-
-                            final EventSources sources = new EventSources(new EventSource("NASA: Earth Observatory Natural Event Tracker", "https://eonet.gsfc.nasa.gov"));
-                            final JSONArray sourcesArray = eventJSON.getJSONArray("sources");
-                            String description = null;
-                            for(Object sourceObj : sourcesArray) {
-                                final JSONObject sourceJSON = (JSONObject) sourceObj;
-                                final String siteName = sourceJSON.getString("id"), url = sourceJSON.getString("url").replace("&amp;", "&");
-                                switch (siteName) {
-                                    case "SIVolcano":
-                                        description = getLatestVolcanoDescription(url);
-                                        break;
-                                    default:
-                                        break;
-                                }
-                                sources.add(new EventSource(siteName, url));
-                            }
-                            if(place.contains(" Volcano")) {
-                                final String targetVolcano = place.split(" Volcano")[0];
-                                if(volcanoWikipediaPages.containsKey(targetVolcano)) {
-                                    final String value = volcanoWikipediaPages.get(targetVolcano);
-                                    sources.add(new EventSource("Wikipedia: " + targetVolcano + " Volcano", wikipediaPrefix + value));
-                                }
-                            }
-
-                            final NaturalEvent naturalEvent = new NaturalEvent(id, place, country, subdivision, location, description, sources);
-                            homeValues.get(category).add(naturalEvent.toString());
+            final JSONArray eventsArray = json.getJSONArray("events");
+            ParallelStream.stream(eventsArray.spliterator(), obj -> {
+                final JSONObject eventJSON = (JSONObject) obj;
+                String place = eventJSON.getString("title").replace("&#039;", "'");
+                if(!place.startsWith("Iceberg ")) {
+                    final String[] startingReplacements = new String[] {
+                            "Wildfires - ",
+                            "Wildfire - ",
+                            "Wildfire "
+                    };
+                    for(String replacement : startingReplacements) {
+                        if(place.startsWith(replacement)) {
+                            place = place.substring(replacement.length());
+                            break;
                         }
-                    });
-
-                    String string = null;
-                    if(!homeValues.isEmpty()) {
-                        final StringBuilder builder = new StringBuilder("{");
-                        boolean isFirstCategory = true;
-                        for(Map.Entry<String, HashSet<String>> map : homeValues.entrySet()) {
-                            builder.append(isFirstCategory ? "" : ",").append("\"").append(map.getKey()).append("\":{");
-                            boolean isFirstValue = true;
-                            for(String value : map.getValue()) {
-                                builder.append(isFirstValue ? "" : ",").append(value);
-                                isFirstValue = false;
+                    }
+                    String country = null, subdivision = null;
+                    final String[] replacements = new String[] {
+                            ", ",
+                            " - ",
+                            " "
+                    };
+                    for(String string : replacements) {
+                        if(place.contains(string)) {
+                            final String[] values = place.split(string);
+                            final String value = values[values.length-1];
+                            final String targetCountry = value.toLowerCase().replace(" ", "");
+                            final WLCountry wlcountry = WLCountry.valueOfBackendID(targetCountry);
+                            if(wlcountry != null) {
+                                country = wlcountry.getBackendID();
+                                place = place.split(string + value)[0];
+                                break;
                             }
-                            isFirstCategory = false;
-                            builder.append("}");
                         }
-                        builder.append("}");
-                        string = builder.toString();
                     }
-                    cache.put(version, string);
-                    WLLogger.logInfo("NASA_EONET - loaded " + homeValues.size() + " events (took " + (System.currentTimeMillis()-started) + "ms)");
-                    if(handler != null) {
-                        handler.handleString(string);
+                    for(String string : replacements) {
+                        if(place.contains(string)) {
+                            final String[] values = place.split(string);
+                            final String value = values[values.length-1];
+                            final String targetSubdivision = value.toLowerCase().replace(" ", "");
+                            final SovereignStateSubdivision sss = WLSubdivisions.valueOfString(targetSubdivision);
+                            if(sss != null) {
+                                subdivision = sss.getName();
+                                place = place.split(string + value)[0];
+                                break;
+                            }
+                        }
                     }
-                } else if(handler != null) {
-                    handler.handleString(null);
+                    if(place.endsWith("(CA)")) {
+                        country = unitedStatesBackendID;
+                        subdivision = SubdivisionsUnitedStates.CALIFORNIA.getName();
+                    }
+
+                    final String id = eventJSON.getString("id");
+                    final String category = eventJSON.getJSONArray("categories").getJSONObject(0).getString("title");
+                    homeValues.putIfAbsent(category, new HashSet<>());
+
+                    final JSONArray geometriesArray = eventJSON.getJSONArray("geometry");
+                    final JSONObject targetGeometryJSON = geometriesArray.getJSONObject(geometriesArray.length()-1);
+                    final String geometryType = targetGeometryJSON.getString("type");
+                    Location location = null;
+                    switch (geometryType) {
+                        case "Point":
+                            final JSONArray targetGeometry = targetGeometryJSON.getJSONArray("coordinates");
+                            location = new Location(targetGeometry.getDouble(1), targetGeometry.getDouble(0));
+                            break;
+                        case "Polygon":
+                            break;
+                        default:
+                            break;
+                    }
+
+                    final EventSources sources = new EventSources(new EventSource("NASA: Earth Observatory Natural Event Tracker", "https://eonet.gsfc.nasa.gov"));
+                    final JSONArray sourcesArray = eventJSON.getJSONArray("sources");
+                    String description = null;
+                    for(Object sourceObj : sourcesArray) {
+                        final JSONObject sourceJSON = (JSONObject) sourceObj;
+                        String siteName = sourceJSON.getString("id");
+                        final String sourceURL = sourceJSON.getString("url").replace("&amp;", "&");
+                        switch (siteName) {
+                            case "SIVolcano":
+                                siteName = "Global Volcanism Program, Smithsonian Institution";
+                                description = getLatestVolcanoDescription(sourceURL);
+                                break;
+                            default:
+                                break;
+                        }
+                        sources.add(new EventSource(siteName, sourceURL));
+                    }
+                    if(place.contains(" Volcano")) {
+                        final String targetVolcano = place.split(" Volcano")[0];
+                        if(volcanoWikipediaPages.containsKey(targetVolcano)) {
+                            final String value = volcanoWikipediaPages.get(targetVolcano);
+                            sources.add(new EventSource("Wikipedia: " + targetVolcano + " Volcano", wikipediaPrefix + value));
+                        }
+                    }
+
+                    final NaturalEvent naturalEvent = new NaturalEvent(id, place, country, subdivision, location, description, sources);
+                    homeValues.get(category).add(naturalEvent.toString());
                 }
+            });
+
+            String string = null;
+            int amount = 0;
+            if(!homeValues.isEmpty()) {
+                final StringBuilder builder = new StringBuilder("{");
+                boolean isFirstCategory = true;
+                for(Map.Entry<String, HashSet<String>> map : homeValues.entrySet()) {
+                    builder.append(isFirstCategory ? "" : ",").append("\"").append(map.getKey()).append("\":{");
+                    boolean isFirstValue = true;
+                    final HashSet<String> values = map.getValue();
+                    amount += values.size();
+                    for(String value : values) {
+                        builder.append(isFirstValue ? "" : ",").append(value);
+                        isFirstValue = false;
+                    }
+                    isFirstCategory = false;
+                    builder.append("}");
+                }
+                builder.append("}");
+                string = builder.toString();
             }
-        });
+            cache.put(version, string);
+            WLLogger.logInfo("NASA_EONET - loaded " + amount + " events (took " + (System.currentTimeMillis()-started) + "ms)");
+        }
     }
     private HashMap<String, String> getVolcanoWikipediaPages() {
         return new HashMap<>() {{
@@ -193,23 +190,31 @@ public enum NASA_EONET implements WLService {
             put("San Cristóbal", "San_Cristobal_Volcano");
             put("Hunga Tonga Hunga Ha'apai", "Hunga_Tonga");
             put("Piton de la Fournaise", "Piton_de_la_Fournaise");
+            put("Wolf", "Wolf_Volcano");
         }};
     }
     private String getLatestVolcanoDescription(String url) {
         final Document doc = getDocument(url);
+        String string = null;
         if(doc != null) {
-            final Element paragraph = doc.selectFirst("p.tab");
-            if(paragraph != null) {
-                final StringBuilder builder = new StringBuilder();
-                boolean isFirst = true;
-                for(TextNode node : paragraph.textNodes()) {
-                    builder.append(isFirst ? "" : "\n\n").append(node.text());
-                    isFirst = false;
+            final Element tabbedContent = doc.selectFirst("div.tabbed-content");
+            if(tabbedContent != null) {
+                final Element paragraph = tabbedContent.selectFirst("p.tab");
+                if(paragraph != null) {
+                    final StringBuilder builder = new StringBuilder();
+                    boolean isFirst = true;
+                    for(TextNode node : paragraph.textNodes()) {
+                        builder.append(isFirst ? "" : "\n\n").append(node.text());
+                        isFirst = false;
+                    }
+                    string = builder.toString();
                 }
-                return builder.toString();
             }
         }
-        return null;
+        if(string == null) {
+            WLUtilities.saveLoggedError("Weather", "failed to getLatestVolcanoDescription for \"" + url + "\"!");
+        }
+        return string;
     }
 
     private static final class NaturalEvent {

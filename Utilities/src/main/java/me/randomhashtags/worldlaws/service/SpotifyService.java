@@ -1,63 +1,31 @@
 package me.randomhashtags.worldlaws.service;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.DataValues;
+import me.randomhashtags.worldlaws.RequestMethod;
+import me.randomhashtags.worldlaws.RestAPI;
+import me.randomhashtags.worldlaws.WLLogger;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.Base64;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.concurrent.ConcurrentHashMap;
 
 public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
-    ConcurrentHashMap<String, HashSet<CompletionHandler>> WAITING_FOR_ACCESS_TOKEN = new ConcurrentHashMap<>();
-
-    default void getSpotifyAccessToken(CompletionHandler handler) {
-        getSpotifyJSONValues(new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                final String accessToken = json.getString("access_token"), tokenType = json.getString("token_type");
-                final String string = tokenType + " " + accessToken;
-                handler.handleString(string);
-                final HashSet<CompletionHandler> completionHandlers = WAITING_FOR_ACCESS_TOKEN.getOrDefault("spotify", null);
-                if(completionHandlers != null) {
-                    for(CompletionHandler completionHandler : completionHandlers) {
-                        completionHandler.handleString(string);
-                    }
-                }
-            }
-        });
+    default String getSpotifyAccessToken() {
+        final JSONObject json = getSpotifyJSONValues();
+        final String accessToken = json.getString("access_token"), tokenType = json.getString("token_type");
+        return tokenType + " " + accessToken;
     }
-    private void getSpotifyJSONValues(CompletionHandler handler) {
-        getJSONDataValue(JSONDataValue.SPOTIFY, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                if(json.isEmpty()) {
-                    if(WAITING_FOR_ACCESS_TOKEN.isEmpty()) {
-                        WAITING_FOR_ACCESS_TOKEN.put("spotify", new HashSet<>());
-                    } else {
-                        WAITING_FOR_ACCESS_TOKEN.get("spotify").add(handler);
-                        return;
-                    }
-                    requestSpotifyToken(getRequestSpotifyTokenCompletionHandler(handler));
-                } else if(System.currentTimeMillis() >= json.getLong("expiration")) {
-                    requestSpotifyToken(getRequestSpotifyTokenCompletionHandler(handler));
-                } else {
-                    handler.handleJSONObject(json);
-                }
-            }
-        });
+    private JSONObject getSpotifyJSONValues() {
+        final JSONObject json = getJSONDataValue(JSONDataValue.SPOTIFY);
+        if(json.isEmpty() || System.currentTimeMillis() >= json.getLong("expiration")) {
+            return refreshSpotifyToken();
+        } else {
+            return json;
+        }
     }
-    private CompletionHandler getRequestSpotifyTokenCompletionHandler(CompletionHandler handler) {
-        return new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                setJSONDataValue(JSONDataValue.SPOTIFY, json);
-                handler.handleJSONObject(json);
-            }
-        };
-    }
-    private void requestSpotifyToken(CompletionHandler handler) {
+    private JSONObject requestSpotifyToken() {
         final String clientID = "***REMOVED***";
         final String clientSecret = "***REMOVED***";
         final String url = "https://accounts.spotify.com/api/token";
@@ -69,74 +37,57 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
         final HashMap<String, String> query = new HashMap<>();
         query.put("grant_type", "client_credentials");
         final long requestTime = System.currentTimeMillis();
-        requestJSONObject(url, RequestMethod.POST, headers, query, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                final int expireDuration = json.getInt("expires_in") * 1_000;
-                json.put("expiration", requestTime + expireDuration);
-                json.remove("expires_in");
-                WLLogger.logInfo("DataValues - refreshed Spotify Access Token (took " + (System.currentTimeMillis()-requestTime) + "ms)");
-                handler.handleJSONObject(json);
-            }
-        });
+        final JSONObject json = requestJSONObject(url, RequestMethod.POST, headers, query);
+        final int expireDuration = json.getInt("expires_in") * 1_000;
+        json.put("expiration", requestTime + expireDuration);
+        json.remove("expires_in");
+        WLLogger.logInfo("DataValues - refreshed Spotify Access Token (took " + (System.currentTimeMillis()-requestTime) + "ms)");
+        return json;
+    }
+    private JSONObject refreshSpotifyToken() {
+        final JSONObject json = requestSpotifyToken();
+        setJSONDataValue(JSONDataValue.SPOTIFY, json);
+        return json;
     }
 
-    default void getSpotifyPlaylistJSON(String id, CompletionHandler handler) {
-        getSpotifyAccessToken(new CompletionHandler() {
-            @Override
-            public void handleString(String accessToken) {
-                final String url = "https://api.spotify.com/v1/playlists/" + id;
-                final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
-                headers.put("Authorization", "Basic " + accessToken);
-                final HashMap<String, String> query = new HashMap<>();
-                query.put("market", "US");
-                requestJSONObject(url, RequestMethod.GET, headers, query, handler);
-            }
-        });
+    default JSONObject getSpotifyPlaylistJSON(String id) {
+        final String accessToken = getSpotifyAccessToken();
+        final String url = "https://api.spotify.com/v1/playlists/" + id;
+        final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
+        headers.put("Authorization", "Basic " + accessToken);
+        final HashMap<String, String> query = new HashMap<>();
+        query.put("market", "US");
+        return requestJSONObject(url, RequestMethod.GET, headers, query);
     }
-    default void getSpotifyAlbum(HashSet<String> artists, String album, CompletionHandler handler) {
+    default JSONObject getSpotifyAlbum(HashSet<String> artists, String album) {
         final long started = System.currentTimeMillis();
-        tryRequesting(album, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                if(json != null) {
-                    final JSONObject albumsJSON = json.getJSONObject("albums");
-                    final JSONArray itemsArray = albumsJSON.getJSONArray("items");
-                    final JSONObject targetJSON = getAlbumFromItems(album, artists, itemsArray);
-                    if(targetJSON != null) {
-                        handler.handleJSONObject(targetJSON);
-                        return;
-                    }
-                }
-                WLLogger.logError("SpotifyService", "failed to load album with name \"" + album + "\" with artists " + artists.toString() + " (took " + (System.currentTimeMillis()-started) + "ms)");
-                handler.handleJSONObject(null);
+        final JSONObject json = tryRequesting(album);
+        if(json != null) {
+            final JSONObject albumsJSON = json.getJSONObject("albums");
+            final JSONArray itemsArray = albumsJSON.getJSONArray("items");
+            final JSONObject targetJSON = getAlbumFromItems(album, artists, itemsArray);
+            if(targetJSON != null) {
+                return targetJSON;
             }
-        });
+        }
+        WLLogger.logError("SpotifyService", "failed to load album with name \"" + album + "\" with artists " + artists.toString() + " (took " + (System.currentTimeMillis()-started) + "ms)");
+        return null;
     }
-    private void tryRequesting(String album, CompletionHandler handler) {
-        makeQuotaRequest(JSONDataValue.SPOTIFY, new CompletionHandler() {
-            @Override
-            public void handleObject(Object object) {
-                getSpotifyAccessToken(new CompletionHandler() {
-                    @Override
-                    public void handleString(String accessToken) {
-                        final String url = "https://api.spotify.com/v1/search";
-                        final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
-                        headers.put("Authorization", accessToken);
-                        final HashMap<String, String> query = new HashMap<>();
-                        query.put("q", album.replace(" ", "%20"));
-                        query.put("limit", "50");
-                        query.put("type", "album");
-                        requestJSONObject(url, RequestMethod.GET, headers, query, handler);
-                    }
-                });
-            }
-
-            @Override
-            public void handleFail() {
-                handler.handleJSONObject(null);
-            }
-        });
+    private JSONObject tryRequesting(String album) {
+        final boolean success = makeQuotaRequest(JSONDataValue.SPOTIFY);
+        JSONObject json = null;
+        if(success) {
+            final String accessToken = getSpotifyAccessToken();
+            final String url = "https://api.spotify.com/v1/search";
+            final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
+            headers.put("Authorization", accessToken);
+            final HashMap<String, String> query = new HashMap<>();
+            query.put("q", album.replace(" ", "%20"));
+            query.put("limit", "50");
+            query.put("type", "album");
+            json = requestJSONObject(url, RequestMethod.GET, headers, query);
+        }
+        return json;
     }
     private JSONObject getAlbumFromItems(String album, HashSet<String> artists, JSONArray itemsArray) {
         // TODO: support accents on letters in the album or artist name

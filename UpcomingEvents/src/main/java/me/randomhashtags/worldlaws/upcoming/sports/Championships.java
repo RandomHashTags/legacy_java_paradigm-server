@@ -22,7 +22,7 @@ public final class Championships extends UpcomingEventController { // https://en
     }
 
     @Override
-    public void load(CompletionHandler handler) {
+    public void load() {
         final int year = WLUtilities.getTodayYear();
         final String url = "https://en.wikipedia.org/wiki/" + year + "_in_sports";
         final Document doc = getDocument(url);
@@ -34,7 +34,6 @@ public final class Championships extends UpcomingEventController { // https://en
             loadPreEventsFrom(year, thisMonth, tables.get(thisMonthInt-1));
             loadPreEventsFrom(year, previousMonth, tables.get(previousMonthInt-1));
         }
-        handler.handleString(null);
     }
 
     private void loadPreEventsFrom(int year, Month month, Element table) {
@@ -134,9 +133,10 @@ public final class Championships extends UpcomingEventController { // https://en
     }
 
     @Override
-    public void loadUpcomingEvent(String id, CompletionHandler handler) {
+    public String loadUpcomingEvent(String id) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
+        String string = null;
         if(url != null) {
             final String title = preUpcomingEvent.getTitle(), tag = preUpcomingEvent.getTag();
             final WikipediaDocument wikiDoc = new WikipediaDocument(url);
@@ -163,9 +163,8 @@ public final class Championships extends UpcomingEventController { // https://en
             final String location = countries != null && !countries.isEmpty() ? countries.get(0) : null;
 
             final ChampionshipEvent event = new ChampionshipEvent(title, description, imageURL, location, sources);
-            handler.handleString(event.toString());
-        } else {
-            handler.handleString(null);
+            string = event.toString();
         }
+        return string;
     }
 }

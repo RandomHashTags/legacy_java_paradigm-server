@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.country.usa.state.recode;
 
-import me.randomhashtags.worldlaws.CompletionHandlerLaws;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
@@ -88,10 +87,11 @@ public final class Arizona extends TestLawSubdivisionController {
     }
 
     @Override
-    public void loadStatute(String index, String chapter, String section, CompletionHandlerLaws handler) {
+    public TestStatute loadStatute(String index, String chapter, String section) {
         section = prefixZeros(section, 5);
         final String url = statuteURL.replace("%index%", index).replace("%section%", section);
         final Document doc = getDocument(url);
+        TestStatute statute = null;
         if(doc != null) {
             final Elements sections = doc.select("p");
             sections.remove(0);
@@ -130,11 +130,9 @@ public final class Arizona extends TestLawSubdivisionController {
                 final String topic = doc.select("p font u").get(0).text();
                 final EventSources sources = new EventSources();
                 sources.add(new EventSource("Arizona Legislature: Statute Page", url));
-                final TestStatute statute = new TestStatute(topic, description, subdivisions, sources);
-                handler.handleStatute(statute);
-                return;
+                statute = new TestStatute(topic, description, subdivisions, sources);
             }
         }
-        handler.handleStatute(null);
+        return statute;
     }
 }

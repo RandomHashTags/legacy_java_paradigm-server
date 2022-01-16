@@ -275,7 +275,6 @@ public enum WLCountry {
     ZAMBIA,
     ZIMBABWE,
 
-
     PUERTO_RICO,
     ;
 
@@ -359,6 +358,13 @@ public enum WLCountry {
     }
 
     public WLTimeZone[] getTimeZones() {
-        return WLTimeZone.getFromCountry(this);
+        return WLTimeZone.get(this);
+    }
+
+    public WLCountry[] getNeighbors() {
+        return WLCountryNeighbors.get(this);
+    }
+    public WLCurrency[] getCurrencies() {
+        return WLCountryCurrencies.get(this);
     }
 }

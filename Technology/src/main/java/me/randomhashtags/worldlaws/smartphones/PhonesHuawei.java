@@ -1,7 +1,5 @@
 package me.randomhashtags.worldlaws.smartphones;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-
 public enum PhonesHuawei implements SmartphoneCompany {
     INSTANCE;
 
@@ -11,12 +9,12 @@ public enum PhonesHuawei implements SmartphoneCompany {
     }
 
     @Override
-    public void getSmartphoneListJSON(CompletionHandler handler) {
-
+    public String getSmartphoneListJSON() {
+        return null;
     }
 
     @Override
-    public void getSmartphoneDetails(String model, CompletionHandler handler) {
-
+    public String getSmartphoneDetails(String model) {
+        return null;
     }
 }

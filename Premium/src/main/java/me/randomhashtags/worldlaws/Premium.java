@@ -12,16 +12,15 @@ public final class Premium implements WLServer {
     }
 
     @Override
-    public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
+    public String getServerResponse(APIVersion version, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
             case "verify":
-                Verification.INSTANCE.verifyApple(null, handler);
-                break;
+                Verification.INSTANCE.verifyApple(null);
+                return null;
             default:
-                handler.handleString(null);
-                break;
+                return null;
         }
     }
 

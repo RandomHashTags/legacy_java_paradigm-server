@@ -43,51 +43,41 @@ public enum YahooFinance implements StockService {
     @Override
     public void getAutoComplete(APIVersion version, String input, CompletionHandler handler) {
         final String term = input.toLowerCase();
-        getJSONObject(Folder.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS, "_Auto completes", new CompletionHandler() {
-            @Override
-            public void load(CompletionHandler handler) {
-                final HashMap<String, String> query = new HashMap<>();
-                query.put("q", term);
-                requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/auto-complete", RequestMethod.GET, getHeaders(), query, new CompletionHandler() {
-                    @Override
-                    public void handleJSONObject(JSONObject json) {
-                        final JSONArray quotes = json.getJSONArray("quotes");
-                        for(Object obj : quotes) {
-                            final JSONObject quoteJSON = (JSONObject) obj;
-                        }
-                    }
-                });
-            }
+        final JSONObject json = getJSONObject(Folder.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS, "_Auto completes", new CompletionHandler() {
 
             @Override
-            public void handleJSONObject(JSONObject json) {
+            public String loadJSONObjectString() {
+                final HashMap<String, String> query = new HashMap<>();
+                query.put("q", term);
+                final JSONObject json = requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/auto-complete", RequestMethod.GET, getHeaders(), query);
+                final JSONArray quotes = json.getJSONArray("quotes");
+                for(Object obj : quotes) {
+                    final JSONObject quoteJSON = (JSONObject) obj;
+                }
+                return null;
             }
         });
     }
     @Override
-    public void getMovers(APIVersion version, CompletionHandler handler) {
-        getMovers(version, 0, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                final JSONObject finance = json.getJSONObject("finance");
-                final JSONArray results = finance.getJSONArray("result");
-                final JSONArray dayGainers = results.getJSONObject(0).getJSONArray("quotes");
-                final JSONArray dayLosers = results.getJSONObject(1).getJSONArray("quotes");
-                final JSONArray mostActive = results.getJSONObject(2).getJSONArray("quotes");
+    public String getMovers(APIVersion version) {
+        final JSONObject json = getMovers(version, 0);
+        final JSONObject finance = json.getJSONObject("finance");
+        final JSONArray results = finance.getJSONArray("result");
+        final JSONArray dayGainers = results.getJSONObject(0).getJSONArray("quotes");
+        final JSONArray dayLosers = results.getJSONObject(1).getJSONArray("quotes");
+        final JSONArray mostActive = results.getJSONObject(2).getJSONArray("quotes");
 
-                final HashSet<String> symbols = getQuoteSymbols(dayGainers);
-                symbols.addAll(getQuoteSymbols(dayLosers));
-                symbols.addAll(getQuoteSymbols(mostActive));
-                getQuotes(version, symbols, handler);
-            }
-        });
+        final HashSet<String> symbols = getQuoteSymbols(dayGainers);
+        symbols.addAll(getQuoteSymbols(dayLosers));
+        symbols.addAll(getQuoteSymbols(mostActive));
+        return getQuotes(version, symbols);
     }
-    private void getMovers(APIVersion version, int offset, CompletionHandler handler) {
+    private JSONObject getMovers(APIVersion version, int offset) {
         final HashMap<String, String> query = new HashMap<>();
         query.put("region", "US");
         query.put("count", "25");
         query.put("start", Integer.toString(offset));
-        requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-movers", RequestMethod.GET, getHeaders(), query, handler);
+        return requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-movers", RequestMethod.GET, getHeaders(), query);
     }
     private HashSet<String> getQuoteSymbols(JSONArray array) {
         final HashSet<String> symbols = new HashSet<>();
@@ -100,7 +90,7 @@ public enum YahooFinance implements StockService {
     }
 
     @Override
-    public void getQuotes(APIVersion version, HashSet<String> symbols, CompletionHandler handler) { // 50 symbols limit per request
+    public String getQuotes(APIVersion version, HashSet<String> symbols) { // 50 symbols limit per request
         final long started = System.currentTimeMillis();
         final HashMap<String, String> headers = getHeaders();
         final HashMap<String, String> query = new HashMap<>();
@@ -114,84 +104,72 @@ public enum YahooFinance implements StockService {
         query.put("symbols", symbolBuilder.toString());
 
         final HashSet<Stock> stocks = new HashSet<>();
-        requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-quotes", RequestMethod.GET, headers, query, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                final JSONObject quoteResponse = json.getJSONObject("quoteResponse");
-                final JSONArray results = quoteResponse.getJSONArray("result");
-                final int max = results.length();
-                ParallelStream.stream(results.spliterator(), obj -> {
-                    final JSONObject targetQuote = (JSONObject) obj;
-                    final String symbol = targetQuote.getString("symbol");
-                    final String shortName = targetQuote.getString("shortName");
-                    final String longName = targetQuote.getString("longName");
+        final JSONObject json = requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/v2/get-quotes", RequestMethod.GET, headers, query);
+        final JSONObject quoteResponse = json.getJSONObject("quoteResponse");
+        final JSONArray results = quoteResponse.getJSONArray("result");
+        final int max = results.length();
+        ParallelStream.stream(results.spliterator(), obj -> {
+            final JSONObject targetQuote = (JSONObject) obj;
+            final String symbol = targetQuote.getString("symbol");
+            final String shortName = targetQuote.getString("shortName");
+            final String longName = targetQuote.getString("longName");
 
-                    final StockQuote regularMarket = new StockQuote(
-                            targetQuote.getFloat("regularMarketOpen"),
-                            targetQuote.getFloat("regularMarketChange"),
-                            targetQuote.getFloat("regularMarketChangePercent"),
-                            targetQuote.getFloat("regularMarketPrice"),
-                            targetQuote.getFloat("regularMarketDayHigh"),
-                            targetQuote.getFloat("regularMarketDayLow")
-                    );
+            final StockQuote regularMarket = new StockQuote(
+                    targetQuote.getFloat("regularMarketOpen"),
+                    targetQuote.getFloat("regularMarketChange"),
+                    targetQuote.getFloat("regularMarketChangePercent"),
+                    targetQuote.getFloat("regularMarketPrice"),
+                    targetQuote.getFloat("regularMarketDayHigh"),
+                    targetQuote.getFloat("regularMarketDayLow")
+            );
 
-                    StockQuote postMarket = null;
-                    if(targetQuote.has("postMarketPrice")) {
-                        postMarket = new StockQuote(
-                                -1,
-                                targetQuote.getFloat("postMarketChange"),
-                                targetQuote.getFloat("postMarketChangePercent"),
-                                targetQuote.getFloat("postMarketPrice"),
-                                -1,
-                                -1
-                        );
-                    }
-
-                    final Stock symbolStock = new Stock(symbol, shortName, longName, regularMarket, postMarket);
-                    stocks.add(symbolStock);
-                });
-
-                final StringBuilder builder = new StringBuilder("{");
-                boolean isFirst = true;
-                for(Stock stock : stocks) {
-                    builder.append(isFirst ? "" : ",").append(stock.toString());
-                    isFirst = false;
-                }
-                builder.append("}");
-                final String string = builder.toString();
-                WLLogger.logInfo("YahooFinance - loaded " + max + " quotes (took " + (System.currentTimeMillis()-started) + "ms)");
-                handler.handleString(string);
+            StockQuote postMarket = null;
+            if(targetQuote.has("postMarketPrice")) {
+                postMarket = new StockQuote(
+                        -1,
+                        targetQuote.getFloat("postMarketChange"),
+                        targetQuote.getFloat("postMarketChangePercent"),
+                        targetQuote.getFloat("postMarketPrice"),
+                        -1,
+                        -1
+                );
             }
+
+            final Stock symbolStock = new Stock(symbol, shortName, longName, regularMarket, postMarket);
+            stocks.add(symbolStock);
         });
+
+        final StringBuilder builder = new StringBuilder("{");
+        boolean isFirst = true;
+        for(Stock stock : stocks) {
+            builder.append(isFirst ? "" : ",").append(stock.toString());
+            isFirst = false;
+        }
+        builder.append("}");
+        final String string = builder.toString();
+        WLLogger.logInfo("YahooFinance - loaded " + max + " quotes (took " + (System.currentTimeMillis()-started) + "ms)");
+        return string;
     }
 
     @Override
-    public void getChart(APIVersion version, String symbol, CompletionHandler handler) {
+    public String getChart(APIVersion version, String symbol) {
         final Folder folder = Folder.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS;
-        getJSONObject(folder, symbol, new CompletionHandler() {
+        final JSONObject json = getJSONObject(folder, symbol, new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
-                requestChart(false, version, symbol, handler);
-            }
-
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                final long elapsedTime = System.currentTimeMillis() - json.getLong("request_epoch");
-                if(elapsedTime >= 604_800) {
-                    requestChart(true, version, symbol, new CompletionHandler() {
-                        @Override
-                        public void handleJSONObject(JSONObject json) {
-                            setFileJSONObject(folder, symbol, json);
-                            handler.handleString(json.toString());
-                        }
-                    });
-                } else {
-                    handler.handleString(json.toString());
-                }
+            public JSONObject loadJSONObject() {
+                return requestChart(false, version, symbol);
             }
         });
+        final long elapsedTime = System.currentTimeMillis() - json.getLong("request_epoch");
+        if(elapsedTime >= 604_800) {
+            final JSONObject chartJSON = requestChart(true, version, symbol);
+            setFileJSONObject(folder, symbol, chartJSON);
+            return chartJSON.toString();
+        } else {
+            return json.toString();
+        }
     }
-    private void requestChart(boolean refresh, APIVersion version, String symbol, CompletionHandler handler) {
+    private JSONObject requestChart(boolean refresh, APIVersion version, String symbol) {
         final long started = System.currentTimeMillis();
         final HashMap<String, String> headers = getHeaders();
         final HashMap<String, String> query = new HashMap<>();
@@ -199,60 +177,43 @@ public enum YahooFinance implements StockService {
         query.put("symbol", symbol);
         query.put("range", "10y");
         final String url = "https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v2/get-chart";
-        requestJSONObject(url, RequestMethod.GET, headers, query, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                final JSONObject chartJSON = json.getJSONObject("chart");
-                final JSONObject resultsJSON = chartJSON.getJSONArray("result").getJSONObject(0);
-                final JSONObject quotesJSON = resultsJSON.getJSONObject("indicators").getJSONArray("quote").getJSONObject(0);
-                final JSONArray closeArray = quotesJSON.getJSONArray("close");
-                final JSONArray timestampsArray = resultsJSON.getJSONArray("timestamp");
-                final int max = timestampsArray.length()-1;
-                final JSONObject jsonObject = new JSONObject();
-                IntStream.range(0, max).parallel().forEach(index -> {
-                    final long timestamp = timestampsArray.getLong(index);
-                    final float price = (float) closeArray.getDouble(index);
-                    jsonObject.put("" + timestamp, price);
-                });
-
-                jsonObject.put("request_epoch", started);
-                WLLogger.logInfo("YahooFinance - " + (refresh ? "refreshed" : "loaded") + " chart for symbol \"" + symbol + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                handler.handleJSONObject(jsonObject);
-            }
+        final JSONObject json = requestJSONObject(url, RequestMethod.GET, headers, query);
+        final JSONObject chartJSON = json.getJSONObject("chart");
+        final JSONObject resultsJSON = chartJSON.getJSONArray("result").getJSONObject(0);
+        final JSONObject quotesJSON = resultsJSON.getJSONObject("indicators").getJSONArray("quote").getJSONObject(0);
+        final JSONArray closeArray = quotesJSON.getJSONArray("close");
+        final JSONArray timestampsArray = resultsJSON.getJSONArray("timestamp");
+        final int max = timestampsArray.length()-1;
+        final JSONObject jsonObject = new JSONObject();
+        IntStream.range(0, max).parallel().forEach(index -> {
+            final long timestamp = timestampsArray.getLong(index);
+            final float price = (float) closeArray.getDouble(index);
+            jsonObject.put("" + timestamp, price);
         });
+
+        jsonObject.put("request_epoch", started);
+        WLLogger.logInfo("YahooFinance - " + (refresh ? "refreshed" : "loaded") + " chart for symbol \"" + symbol + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+        return jsonObject;
     }
 
     private void getStockProfile(String symbol, CompletionHandler handler) {
-        getJSONObject(Folder.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS, symbol, new CompletionHandler() {
+        final JSONObject json = getJSONObject(Folder.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS, symbol, new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
+            public String loadJSONArrayString() {
                 final HashMap<String, String> query = new HashMap<>();
                 query.put("symbol", symbol);
                 query.put("region", "US");
-                requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v2/get-profile", RequestMethod.GET, getHeaders(), query, new CompletionHandler() {
-                    @Override
-                    public void handleJSONObject(JSONObject json) {
-                        final JSONObject quoteType = json.getJSONObject("quoteType");
-                        final String shortName = quoteType.getString("shortName"), longName = quoteType.getString("longName");
+                final JSONObject json = requestJSONObject("https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v2/get-profile", RequestMethod.GET, getHeaders(), query);
+                final JSONObject quoteType = json.getJSONObject("quoteType");
+                final String shortName = quoteType.getString("shortName"), longName = quoteType.getString("longName");
 
-                        final JSONObject assetProfile = json.getJSONObject("assetProfile");
-                    }
-                });
-            }
-
-            @Override
-            public void handleJSONObject(JSONObject json) {
-
+                final JSONObject assetProfile = json.getJSONObject("assetProfile");
+                return null;
             }
         });
     }
 
-    private void requestYahooFinanceJSONObject(String url, HashMap<String, String> headers, HashMap<String, String> query, CompletionHandler handler) {
-        requestJSONObject(url, RequestMethod.GET, headers, query, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                handler.handleJSONObject(json);
-            }
-        });
+    private JSONObject requestYahooFinanceJSONObject(String url, HashMap<String, String> headers, HashMap<String, String> query) {
+        return requestJSONObject(url, RequestMethod.GET, headers, query);
     }
 }

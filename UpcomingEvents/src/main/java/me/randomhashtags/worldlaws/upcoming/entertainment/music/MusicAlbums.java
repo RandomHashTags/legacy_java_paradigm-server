@@ -28,55 +28,49 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
     }
 
     @Override
-    public void load(CompletionHandler handler) {
+    public void load() {
         final LocalDate now = WLUtilities.getNow();
-        refresh(now.getYear(), now.getMonth(), now.getDayOfMonth(), handler);
+        refresh(now.getYear(), now.getMonth(), now.getDayOfMonth());
     }
 
     @Override
-    public void getResponse(String input, CompletionHandler handler) {
+    public String getResponse(String input) {
         final String key = input.split("/")[0];
         switch (key) {
             case "artists":
-                getArtists(handler);
-                break;
+                return getArtists();
             default:
-                super.getResponse(input, handler);
-                break;
+                return super.getResponse(input);
         }
     }
 
-    private void getArtists(CompletionHandler handler) {
-        if(artists != null) {
-            handler.handleString(artists);
-        } else {
+    private String getArtists() {
+        if(artists == null) {
             final StringBuilder builder = new StringBuilder("{");
             final int version = ResponseVersions.MUSIC_ARTISTS.getValue();
             builder.append("\"version\":").append(version).append(",");
             builder.append("\"artists\":{");
             builder.append("}}");
-            final String string = builder.toString();
-            artists = string;
-            handler.handleString(string);
+            artists = builder.toString();
         }
+        return artists;
     }
 
-    private void refresh(int year, Month startingMonth, int startingDay, CompletionHandler handler) {
+    private void refresh(int year, Month startingMonth, int startingDay) {
         switch (year) {
             case 2021:
-                refreshMultiList(year, startingMonth, startingDay, handler);
+                refreshMultiList(year, startingMonth, startingDay);
                 break;
             default:
-                refreshSingularList(year, startingMonth, startingDay, handler);
+                refreshSingularList(year, startingMonth, startingDay);
                 break;
         }
     }
-    private void refreshSingularList(int year, Month startingMonth, int startingDay, CompletionHandler handler) {
+    private void refreshSingularList(int year, Month startingMonth, int startingDay) {
         final String url = "https://en.wikipedia.org/wiki/List_of_" + year + "_albums";
         refreshList(url, 0, year, startingMonth, startingDay);
-        handler.handleString(null);
     }
-    private void refreshMultiList(int year, Month startingMonth, int startingDay, CompletionHandler handler) {
+    private void refreshMultiList(int year, Month startingMonth, int startingDay) {
         final Month nextMonth = startingMonth.plus(1);
         final boolean isBoth = nextMonth == Month.JULY;
         final String prefix = "https://en.wikipedia.org", baseURL = prefix + "/wiki/List_of_" + year + "_albums";
@@ -96,7 +90,6 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
                 refreshList(url, tableIndex, year, startingMonth, startingDay);
             });
         }
-        handler.handleString(null);
     }
     private String getURL(String baseURL, Month startingMonth) {
         return baseURL + "_(" + (startingMonth.getValue() <= 6 ? "January–June" : "July–December") + ")";
@@ -146,10 +139,11 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
     }
 
     @Override
-    public void loadUpcomingEvent(String identifier, CompletionHandler handler) {
+    public String loadUpcomingEvent(String identifier) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(identifier);
         final String url = preUpcomingEvent.getURL();
         final Document albumDoc = getDocument(url);
+        String string = null;
         if(albumDoc != null) {
             final String artist = preUpcomingEvent.getTag(), album = preUpcomingEvent.getTitle();
             final EventSources sources = new EventSources();
@@ -182,44 +176,35 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
                 } else if(artist.contains(", and ")) {
                     if(!artist.contains("(")) {
                         final String[] targetArtists = artist.replace(", and ", ", ").split(", ");
-                        for(String string : targetArtists) {
-                            artists.add(string.toLowerCase());
+                        for(String targetArtist : targetArtists) {
+                            artists.add(targetArtist.toLowerCase());
                         }
                     }
                 } else if(artist.contains(" and ")) {
                     artists.add(artist.toLowerCase());
                     final String[] targetArtists = artist.split(" and ");
-                    for(String string : targetArtists) {
-                        artists.add(string.toLowerCase());
+                    for(String targetArtist : targetArtists) {
+                        artists.add(targetArtist.toLowerCase());
                     }
                 } else if(artist.contains(" & ")) {
                     artists.add(artist.toLowerCase());
                     final String[] targetArtists = artist.split(" & ");
-                    for(String string : targetArtists) {
-                        artists.add(string.toLowerCase());
+                    for(String targetArtist : targetArtists) {
+                        artists.add(targetArtist.toLowerCase());
                     }
                 } else {
                     artists.add(artist);
                 }
-                getSpotifyAlbum(artists, album, new CompletionHandler() {
-                    @Override
-                    public void handleJSONObject(JSONObject spotifyDetails) {
-                        getITunesAlbum(album, artist, new CompletionHandler() {
-                            @Override
-                            public void handleJSONObject(JSONObject itunesDetails) {
-                                putUpcomingEvent(identifier, artist, album, albumImageURL, description, spotifyDetails, itunesDetails, sources, handler);
-                            }
-                        });
-                    }
-                });
+                final JSONObject spotifyDetails = getSpotifyAlbum(artists, album);
+                final JSONObject itunesDetails = getITunesAlbum(album, artist);
+                string = putUpcomingEvent(identifier, artist, album, albumImageURL, description, spotifyDetails, itunesDetails, sources);
             } else {
-                putUpcomingEvent(identifier, artist, album, albumImageURL, description, null, null, sources, handler);
+                string = putUpcomingEvent(identifier, artist, album, albumImageURL, description, null, null, sources);
             }
-        } else {
-            handler.handleString(null);
         }
+        return string;
     }
-    private void putUpcomingEvent(String id, String artist, String album, String imageURL, String description, JSONObject spotifyDetails, JSONObject itunesDetails, EventSources sources, CompletionHandler handler) {
+    private String putUpcomingEvent(String id, String artist, String album, String imageURL, String description, JSONObject spotifyDetails, JSONObject itunesDetails, EventSources sources) {
         String customImageURL = null;
         if(spotifyDetails != null) {
             customImageURL = spotifyDetails.getString("imageURL");
@@ -238,6 +223,6 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
         final MusicAlbumEvent event = new MusicAlbumEvent(artist, album, customImageURL, description, spotifyDetails, itunesDetails, sources);
         final String string = event.toString();
         putUpcomingEvent(id, string);
-        handler.handleString(string);
+        return string;
     }
 }

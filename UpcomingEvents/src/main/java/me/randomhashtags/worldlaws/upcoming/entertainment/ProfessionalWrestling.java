@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLUtilities;
@@ -25,11 +24,11 @@ public final class ProfessionalWrestling extends LoadedUpcomingEventController {
     }
 
     @Override
-    public void load(CompletionHandler handler) {
-        refreshFromWikipedia(handler);
+    public void load() {
+        refreshFromWikipedia();
     }
 
-    private void refreshFromWikipedia(CompletionHandler handler) {
+    private void refreshFromWikipedia() {
         final int year = WLUtilities.getTodayYear();
         final String url = "https://en.wikipedia.org/wiki/" + year + "_in_professional_wrestling";
         final Document doc = getDocument(url);
@@ -107,7 +106,6 @@ public final class ProfessionalWrestling extends LoadedUpcomingEventController {
                 }
             }
         }
-        handler.handleString(null);
     }
 
     private HashSet<String> getPromoters() {

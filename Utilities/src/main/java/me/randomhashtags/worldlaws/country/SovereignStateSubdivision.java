@@ -14,6 +14,8 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 public interface SovereignStateSubdivision extends SovereignState, WikipediaService {
+    HashMap<String, String> INFORMATION_CACHE = new HashMap<>();
+
     String name();
     WLCountry getCountry();
     SubdivisionType getDefaultType();
@@ -53,13 +55,17 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
         return null;
     }
 
-    default void getInformation(APIVersion version, CompletionHandler handler) {
-        final Folder folder = Folder.COUNTRIES_SUBDIVISIONS_INFORMATION;
+    @Override
+    default String getInformation(APIVersion version) {
         final String fileName = name();
+        if(INFORMATION_CACHE.containsKey(fileName)) {
+            return INFORMATION_CACHE.get(fileName);
+        }
+        final Folder folder = Folder.COUNTRIES_SUBDIVISIONS_INFORMATION;
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", getCountry().getBackendID()));
-        getJSONObject(folder, fileName, new CompletionHandler() {
+        final JSONObject json = getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
+            public String loadJSONObjectString() {
                 final ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values = new ConcurrentHashMap<>();
 
                 final HashSet<String> neighbors = getNeighborsJSON();
@@ -89,22 +95,13 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
                     add(new WikipediaCountryService(false));
                 }};
 
-                final CompletionHandler serviceHandler = new CompletionHandler() {
-                    @Override
-                    public void handleServiceResponse(CountryService service, String string) {
-                        if(string != null && !string.equals("null")) {
-                            final SovereignStateInformationType type = service.getInformationType();
-                            values.putIfAbsent(type, new HashSet<>());
-                            values.get(type).add(string);
-                        }
-                    }
-                };
                 final String name = getName();
                 final String backendID = name.toLowerCase().replace(" ", "");
                 ParallelStream.stream(services, serviceObj -> {
                     final CountryService service = (CountryService) serviceObj;
                     final SovereignStateInfo info = service.getInfo();
                     final String territory;
+                    String string = null;
                     switch (info) {
                         case SERVICE_WIKIPEDIA:
                             territory = name;
@@ -121,21 +118,23 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
                                 values.get(resourcesInformationType).add(resource.toString());
                             }
                         }
-
-                        service.getCountryValue(territory, serviceHandler);
+                        string = service.getCountryValue(territory);
+                    }
+                    if(string != null && !string.equals("null")) {
+                        final SovereignStateInformationType type = service.getInformationType();
+                        values.putIfAbsent(type, new HashSet<>());
+                        values.get(type).add(string);
                     }
                 });
 
                 final SovereignStateInformation info = new SovereignStateInformation(values);
-                handler.handleString(info.toString());
-            }
-
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                final String string = json != null ? json.toString() : null;
-                handler.handleString(string);
+                return info.toString();
             }
         });
+
+        final String string = json.toString();
+        INFORMATION_CACHE.put(fileName, string);
+        return string;
     }
 
     private HashSet<String> getNeighborsJSON() {

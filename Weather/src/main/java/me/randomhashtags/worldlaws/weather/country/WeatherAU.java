@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.weather.country;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.weather.WeatherController;
@@ -37,26 +36,29 @@ public enum WeatherAU implements WeatherController {
     }
 
     @Override
-    public void refresh(CompletionHandler handler) {
+    public String refresh() {
         final String url = "https://weather.news.com.au";
         final Document doc = getDocument(url);
+        String string = null;
         if(doc != null) {
             final StringBuilder builder = new StringBuilder("[");
-            final String string = builder.append("]").toString();
-            handler.handleString(string);
+            string = builder.append("]").toString();
         }
+        return string;
     }
 
     @Override
-    public void getZones(String[] zones, CompletionHandler handler) {
+    public String getZones(String[] zones) {
+        return null;
     }
 
     @Override
-    public void getZone(String zoneID, CompletionHandler handler) {
+    public String getZone(String zoneID) {
+        return null;
     }
 
     @Override
-    public void getAlert(String id, CompletionHandler handler) {
-
+    public String getAlert(String id) {
+        return null;
     }
 }

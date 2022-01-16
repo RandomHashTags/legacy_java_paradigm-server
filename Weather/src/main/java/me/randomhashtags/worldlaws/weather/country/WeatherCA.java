@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.weather.country;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.weather.*;
@@ -45,7 +44,7 @@ public enum WeatherCA implements WeatherController {
     }
 
     @Override
-    public void refresh(CompletionHandler handler) {
+    public String refresh() {
         alertIDs = new HashMap<>();
         eventPreAlerts = new HashMap<>();
         territoryEvents = new HashMap<>();
@@ -129,41 +128,34 @@ public enum WeatherCA implements WeatherController {
         putSubdivisionEvents(territoryEvents, territoryEventsMap);
         putSubdivisionPreAlerts(territoryPreAlerts, territoryPreAlertsMap);
 
-        final String eventsJSON = getEventsJSON(eventsMap);
-        if(handler != null) {
-            handler.handleString(eventsJSON);
-        }
+        return getEventsJSON(eventsMap);
     }
 
     @Override
-    public void getZones(String[] zones, CompletionHandler handler) {
+    public String getZones(String[] zones) {
+        return null;
     }
 
     @Override
-    public void getZone(String zoneID, CompletionHandler handler) {
+    public String getZone(String zoneID) {
+        return null;
     }
 
     @Override
-    public void getAlert(String id, CompletionHandler handler) {
+    public String getAlert(String id) {
         if(alertIDs == null) {
-            refresh(new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    tryGettingAlert(id, handler);
-                }
-            });
-        } else {
-            tryGettingAlert(id, handler);
+            final String string = refresh();
         }
+        return tryGettingAlert(id);
     }
-    private void tryGettingAlert(String id, CompletionHandler handler) {
+    private String tryGettingAlert(String id) {
         if(alertIDs.containsKey(id)) {
-            handler.handleString(alertIDs.get(id));
+            return alertIDs.get(id);
         } else if(preAlertIDs.containsKey(id)) {
             final EventSource source = getSource();
             final WeatherPreAlert preAlert = preAlertIDs.get(id);
             final WeatherAlert alert = new WeatherAlert(preAlert, null, source);
-            handler.handleString(alert.toString());
+            return alert.toString();
             /*
             final HashSet<String> zones = preAlert.getZoneIDs();
             final int max = zones.size();
@@ -185,6 +177,8 @@ public enum WeatherCA implements WeatherController {
                     }
                 }
             }));*/
+        } else {
+            return null;
         }
     }
 }

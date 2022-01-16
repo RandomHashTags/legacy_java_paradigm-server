@@ -25,7 +25,7 @@ public enum RecentEvents {
             VideoGameUpdates.INSTANCE
     };
 
-    public void refresh(CompletionHandler handler) {
+    public String refresh() {
         final long started = System.currentTimeMillis();
         final LocalDate lastWeek = LocalDate.now().minusDays(7);
         final ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> allValues = new ConcurrentHashMap<>();
@@ -60,9 +60,9 @@ public enum RecentEvents {
                 }
             });
         });
-        completeHandler(started, allValues, handler);
+        return completeHandler(started, allValues);
     }
-    private void completeHandler(long started, ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> values, CompletionHandler handler) {
+    private String completeHandler(long started, ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> values) {
         String value = null;
         if(!values.isEmpty()) {
             final StringBuilder builder = new StringBuilder("{");
@@ -92,6 +92,6 @@ public enum RecentEvents {
             value = builder.toString();
         }
         WLLogger.logInfo("RecentEvents - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
-        handler.handleString(value);
+        return value;
     }
 }

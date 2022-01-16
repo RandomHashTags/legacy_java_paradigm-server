@@ -29,12 +29,8 @@ public final class Laws implements WLServer {
 
     private void test() {
         final Minnesota minnesota = Minnesota.INSTANCE;
-        minnesota.getIndexes(new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                WLLogger.logInfo("Laws;test;string=" + string);
-            }
-        });
+        final String string = minnesota.getIndexes();
+        WLLogger.logInfo("Laws;test;string=" + string);
     }
 
     @Override
@@ -47,7 +43,7 @@ public final class Laws implements WLServer {
     }
 
     @Override
-    public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
+    public String getServerResponse(APIVersion version, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
@@ -55,12 +51,10 @@ public final class Laws implements WLServer {
                 if(values.length >= 2) {
                     final LawController controller = countries.get(values[1]);
                     if(controller != null) {
-                        controller.getRecentActivity(version, handler);
-                        return;
+                        return controller.getRecentActivity(version);
                     }
                 }
-                handler.handleString(null);
-                break;
+                return null;
             default:
                 if(values.length >= 2) {
                     final LawController controller = countries.get(key);
@@ -68,14 +62,12 @@ public final class Laws implements WLServer {
                     final String targetKey = values[1];
                     if(targetKey.matches("[0-9]+")) {
                         final int administration = Integer.parseInt(targetKey);
-                        controller.getGovernmentResponse(version, administration, target.substring(keyLength+targetKey.length()+1), handler);
+                        return controller.getGovernmentResponse(version, administration, target.substring(keyLength+targetKey.length()+1));
                     } else {
-                        controller.getResponse(version, target.substring(keyLength), handler);
+                        return controller.getResponse(version, target.substring(keyLength));
                     }
-                } else {
-                    handler.handleString(null);
                 }
-                break;
+                return null;
         }
     }
 

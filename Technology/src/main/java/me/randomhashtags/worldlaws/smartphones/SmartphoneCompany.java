@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.smartphones;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Jsoupable;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -10,8 +9,8 @@ import java.util.List;
 
 public interface SmartphoneCompany extends Jsoupable {
     String getBackendID();
-    void getSmartphoneListJSON(CompletionHandler handler);
-    void getSmartphoneDetails(String model, CompletionHandler handler);
+    String getSmartphoneListJSON();
+    String getSmartphoneDetails(String model);
 
     default List<String> getRowValues(Elements row) {
         final List<String> values = new ArrayList<>();

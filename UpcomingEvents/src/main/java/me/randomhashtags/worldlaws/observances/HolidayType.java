@@ -63,36 +63,31 @@ public enum HolidayType implements Jsonable {
         this.emoji = emoji;
     }
 
-    public static void insertNearbyHolidays(int year, Collection<String> nearbyHolidayDays, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> nearbyHolidays, CompletionHandler handler) {
+    public static void insertNearbyHolidays(int year, Collection<String> nearbyHolidayDays, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> nearbyHolidays) {
         final HolidayType[] types = HolidayType.values();
         ParallelStream.stream(Arrays.asList(types), typeObj -> {
             final HolidayType type = (HolidayType) typeObj;
             final boolean isCountries = type == COUNTRIES;
-            type.getHolidaysJSONObject(year, new CompletionHandler() {
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    final JSONObject descriptionsJSON = json.getJSONObject("descriptions");
-                    final Set<String> keys = new HashSet<>(json.keySet());
-                    keys.remove("descriptions");
-                    if(isCountries) {
-                        for(String country : keys) {
-                            final JSONObject countryJSON = json.getJSONObject(country);
-                            final Collection<String> days = nearbyHolidayDays != null ? nearbyHolidayDays : countryJSON.keySet();
-                            for(String holidayDay : days) {
-                                insertNearbyHolidays(descriptionsJSON, country, holidayDay, countryJSON, descriptions, nearbyHolidays);
-                            }
-                        }
-                    } else {
-                        final String celebratingCountry = type.getCelebratingCountryBackendID();
-                        final Collection<String> days = nearbyHolidayDays != null ? nearbyHolidayDays : keys;
-                        for(String holidayDay : days) {
-                            insertNearbyHolidays(descriptionsJSON, celebratingCountry, holidayDay, json, descriptions, nearbyHolidays);
-                        }
+            final JSONObject json = type.getHolidaysJSONObject(year);
+            final JSONObject descriptionsJSON = json.getJSONObject("descriptions");
+            final Set<String> keys = new HashSet<>(json.keySet());
+            keys.remove("descriptions");
+            if(isCountries) {
+                for(String country : keys) {
+                    final JSONObject countryJSON = json.getJSONObject(country);
+                    final Collection<String> days = nearbyHolidayDays != null ? nearbyHolidayDays : countryJSON.keySet();
+                    for(String holidayDay : days) {
+                        insertNearbyHolidays(descriptionsJSON, country, holidayDay, countryJSON, descriptions, nearbyHolidays);
                     }
                 }
-            });
+            } else {
+                final String celebratingCountry = type.getCelebratingCountryBackendID();
+                final Collection<String> days = nearbyHolidayDays != null ? nearbyHolidayDays : keys;
+                for(String holidayDay : days) {
+                    insertNearbyHolidays(descriptionsJSON, celebratingCountry, holidayDay, json, descriptions, nearbyHolidays);
+                }
+            }
         });
-        handler.handleObject(null);
     }
     private static void insertNearbyHolidays(JSONObject descriptionsJSON, String country, String holidayDay, JSONObject json, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> nearbyHolidays) {
         if(json.has(holidayDay)) {
@@ -148,20 +143,20 @@ public enum HolidayType implements Jsonable {
         return country != null ? country.getBackendID() : null;
     }
 
-    private void getHolidaysJSONObject(int year, CompletionHandler handler) {
+    private JSONObject getHolidaysJSONObject(int year) {
         final String fileName = year + "_" + name();
         final HolidayType self = this;
         final boolean isCountries = self == COUNTRIES;
 
         final Folder folder = Folder.UPCOMING_EVENTS_HOLIDAYS;
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%year%", Integer.toString(year)));
-        getJSONObject(folder, fileName, new CompletionHandler() {
+        return getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
+            public JSONObject loadJSONObject() {
                 final IHoliday[] holidays = getHolidays();
                 final ConcurrentHashMap<String, String> descriptions = new ConcurrentHashMap<>();
                 if(isCountries) {
-                    loadCountryHolidays(year, holidays, descriptions, handler);
+                    return loadCountryHolidays(year, holidays, descriptions);
                 } else if(holidays != null) {
                     final boolean isChristian = self == CHRISTIAN_EAST || self == CHRISTIAN_WEST, isWestChristian = isChristian && self == CHRISTIAN_WEST;
                     final ConcurrentHashMap<String, HashSet<String>> values = new ConcurrentHashMap<>();
@@ -170,33 +165,24 @@ public enum HolidayType implements Jsonable {
                         final EventDate date = isChristian ? ((ChristianHoliday) holiday).getDate(isWestChristian, null, year) : holiday.getDate(null, year);
                         if(date != null) {
                             final String dateString = date.getDateString();
-                            holiday.getHolidayJSON(self, new CompletionHandler() {
-                                @Override
-                                public void handleJSONObject(JSONObject json) {
-                                    final String imageURL = json.getString("imageURL"), description = json.getString("description");
-                                    final HolidayObj customHoliday = getHolidayObj(holiday, imageURL);
-                                    final String englishName = customHoliday.getEnglishName();
-                                    descriptions.putIfAbsent(englishName, description);
+                            final JSONObject json = holiday.getHolidayJSON(self);
+                            final String imageURL = json.getString("imageURL"), description = json.getString("description");
+                            final HolidayObj customHoliday = getHolidayObj(holiday, imageURL);
+                            final String englishName = customHoliday.getEnglishName();
+                            descriptions.putIfAbsent(englishName, description);
 
-                                    values.putIfAbsent(dateString, new HashSet<>());
-                                    values.get(dateString).add(customHoliday.toString());
-                                }
-                            });
+                            values.putIfAbsent(dateString, new HashSet<>());
+                            values.get(dateString).add(customHoliday.toString());
                         }
                     });
-                    completeHolidayJSONObject(descriptions, values, handler);
+                    return completeHolidayJSONObject(descriptions, values);
                 } else {
-                    handler.handleString(null);
+                    return null;
                 }
-            }
-
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                handler.handleJSONObject(json);
             }
         });
     }
-    private void completeHolidayJSONObject(ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, HashSet<String>> values, CompletionHandler handler) {
+    private JSONObject completeHolidayJSONObject(ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, HashSet<String>> values) {
         final JSONObject json = new JSONObject();
         final JSONObject descriptionsJSON = new JSONObject();
         for(Map.Entry<String, String> map : descriptions.entrySet()) {
@@ -215,7 +201,7 @@ public enum HolidayType implements Jsonable {
             final JSONObject targetJSON = new JSONObject(string);
             json.put(map.getKey(), targetJSON);
         }
-        handler.handleJSONObject(json);
+        return json;
     }
 
     private HolidayObj getHolidayObj(IHoliday holiday, String imageURL) {
@@ -231,7 +217,7 @@ public enum HolidayType implements Jsonable {
         return new HolidayObj(englishName, imageURL, aliases, description, sources);
     }
 
-    private void loadCountryHolidays(int year, IHoliday[] holidays, ConcurrentHashMap<String, String> descriptions, CompletionHandler handler) {
+    private JSONObject loadCountryHolidays(int year, IHoliday[] holidays, ConcurrentHashMap<String, String> descriptions) {
         final WLCountry[] countries = WLCountry.values();
         final HashSet<String> countryHolidays = new HashSet<>();
         final CompletionHandler completionHandler = new CompletionHandler() {
@@ -258,7 +244,7 @@ public enum HolidayType implements Jsonable {
             builder.append(",").append(countryHoliday);
         }
         builder.append("}");
-        handler.handleString(builder.toString());
+        return new JSONObject(builder.toString());
     }
     private void loadCountryHolidays(ConcurrentHashMap<String, String> descriptions, IHoliday[] socialHolidays, WLCountry country, int year, CompletionHandler handler) {
         final HolidayType holidayType = this;
@@ -270,16 +256,12 @@ public enum HolidayType implements Jsonable {
             if(date != null) {
                 final String dateString = date.getDateString();
                 holidays.putIfAbsent(dateString, new HashSet<>());
-                socialHoliday.getHolidayJSON(holidayType, new CompletionHandler() {
-                    @Override
-                    public void handleJSONObject(JSONObject json) {
-                        final String imageURL = json.getString("imageURL"), description = json.getString("description");
-                        final HolidayObj holiday = getHolidayObj(country, socialHoliday, imageURL, description);
-                        final String englishName = holiday.getEnglishName();
-                        descriptions.putIfAbsent(englishName, description);
-                        holidays.get(dateString).add(holiday.toString());
-                    }
-                });
+                final JSONObject json = socialHoliday.getHolidayJSON(holidayType);
+                final String imageURL = json.getString("imageURL"), description = json.getString("description");
+                final HolidayObj holiday = getHolidayObj(country, socialHoliday, imageURL, description);
+                final String englishName = holiday.getEnglishName();
+                descriptions.putIfAbsent(englishName, description);
+                holidays.get(dateString).add(holiday.toString());
             }
         });
         completeCountryHolidays(holidays, backendID, handler);

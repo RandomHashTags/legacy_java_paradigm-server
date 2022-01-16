@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.upcoming.space.nasa;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.RequestMethod;
@@ -24,49 +23,45 @@ public final class NASANeo extends USAUpcomingEventController {
     }
 
     @Override
-    public void load(CompletionHandler handler) {
+    public void load() {
         final LocalDate today = LocalDate.now();
         final int year = today.getYear(), month = today.getMonthValue(), day = today.getDayOfMonth();
-        refreshNeo(year, month, day, handler);
+        refreshNeo(year, month, day);
     }
 
-    private void refreshNeo(int year, int month, int day, CompletionHandler handler) {
+    private void refreshNeo(int year, int month, int day) {
         final String date = year + "-" + month + "-" + day, apiKey = NASAService.getNASA_APIKey();
         final String url = "https://api.nasa.gov/neo/rest/v1/feed?start_date=" + date + "&end_date=" + date + "&detailed=true&api_key=" + apiKey;
-        requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                if(json != null) {
-                    final UpcomingEventType type = getType();
-                    final String formattedDateString = year + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : "" + day);
-                    final JSONArray nearEarthObjects = json.getJSONObject("near_earth_objects").getJSONArray(formattedDateString);
-                    final List<Object> list = nearEarthObjects.toList();
-                    ParallelStream.stream(list, hashmap -> {
-                        @SuppressWarnings("unchecked")
-                        final JSONObject mapJSON = new JSONObject((HashMap<String, Object>) hashmap);
-                        final String name = mapJSON.getString("name");
-                        final boolean isPotentiallyHazardousAsteroid = mapJSON.getBoolean("is_potentially_hazardous_asteroid");
+        final JSONObject json = requestJSONObject(url, RequestMethod.GET);
+        if(json != null) {
+            final UpcomingEventType type = getType();
+            final String formattedDateString = year + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : "" + day);
+            final JSONArray nearEarthObjects = json.getJSONObject("near_earth_objects").getJSONArray(formattedDateString);
+            final List<Object> list = nearEarthObjects.toList();
+            ParallelStream.stream(list, hashmap -> {
+                @SuppressWarnings("unchecked")
+                final JSONObject mapJSON = new JSONObject((HashMap<String, Object>) hashmap);
+                final String name = mapJSON.getString("name");
+                final boolean isPotentiallyHazardousAsteroid = mapJSON.getBoolean("is_potentially_hazardous_asteroid");
 
-                        final JSONObject estimatedDiameter = mapJSON.getJSONObject("estimated_diameter").getJSONObject("meters");
-                        final float estimatedDiameterMin = estimatedDiameter.getFloat("estimated_diameter_min"), estimatedDiameterMax = estimatedDiameter.getFloat("estimated_diameter_max");
+                final JSONObject estimatedDiameter = mapJSON.getJSONObject("estimated_diameter").getJSONObject("meters");
+                final float estimatedDiameterMin = estimatedDiameter.getFloat("estimated_diameter_min"), estimatedDiameterMax = estimatedDiameter.getFloat("estimated_diameter_max");
 
-                        final JSONObject closeApproach = mapJSON.getJSONArray("close_approach_data").getJSONObject(0);
-                        final long closeApproachEpoch = closeApproach.getLong("epoch_date_close_approach");
-                        final String relativeVelocity = closeApproach.getJSONObject("relative_velocity").getString("kilometers_per_hour");
+                final JSONObject closeApproach = mapJSON.getJSONArray("close_approach_data").getJSONObject(0);
+                final long closeApproachEpoch = closeApproach.getLong("epoch_date_close_approach");
+                final String relativeVelocity = closeApproach.getJSONObject("relative_velocity").getString("kilometers_per_hour");
 
-                        final String id = (month + "-" + year + "-" + day) + "." + name.replace(" ", "");
-                        final NearEarthObject neo = new NearEarthObject(name, closeApproachEpoch, isPotentiallyHazardousAsteroid, estimatedDiameterMin, estimatedDiameterMax, relativeVelocity);
-                        putLoadedPreUpcomingEvent(id, neo.toPreUpcomingEventJSON(type, id, null));
-                        putUpcomingEvent(id, neo.toString());
-                    });
-                }
-                handler.handleString(null);
-            }
-        });
+                final String id = (month + "-" + year + "-" + day) + "." + name.replace(" ", "");
+                final NearEarthObject neo = new NearEarthObject(name, closeApproachEpoch, isPotentiallyHazardousAsteroid, estimatedDiameterMin, estimatedDiameterMax, relativeVelocity);
+                putLoadedPreUpcomingEvent(id, neo.toPreUpcomingEventJSON(type, id, null));
+                putUpcomingEvent(id, neo.toString());
+            });
+        }
     }
 
     @Override
-    public void loadUpcomingEvent(String id, CompletionHandler handler) {
+    public String loadUpcomingEvent(String id) {
+        return null;
     }
 
     private final class NearEarthObject extends UpcomingEvent {

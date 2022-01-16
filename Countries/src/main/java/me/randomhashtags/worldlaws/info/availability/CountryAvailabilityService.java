@@ -48,39 +48,27 @@ public interface CountryAvailabilityService extends CountryService {
     String getImageURL();
 
     @Override
-    default void getJSONData(Folder folder, String fileName, String countryBackendID, CompletionHandler handler) {
-        getJSONArray(folder, fileName, new CompletionHandler() {
+    default Object getJSONData(Folder folder, String fileName, String countryBackendID) {
+        return getJSONArray(folder, fileName, new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
-                final JSONArray array = new JSONArray(loadData());
-                handler.handleJSONArray(array);
-            }
-
-            @Override
-            public void handleJSONArray(JSONArray array) {
-                handler.handleJSONArray(array);
+            public JSONArray loadJSONArray() {
+                final String string = loadData();
+                return string != null && string.startsWith("[") && string.endsWith("]") ? new JSONArray(string) : null;
             }
         });
     }
 
-    @Override
-    default void getCountryValue(String countryBackendID, CompletionHandler handler) {
+    default CountryAvailability getAvailability(String countryBackendID) {
         final SovereignStateInfo info = getInfo();
+        final boolean isTrue;
         if(AVAILABILITY_VALUES.containsKey(info)) {
-            final boolean isTrue = isTrue(countryBackendID, AVAILABILITY_VALUES.get(info));
-            final CountryAvailability value = getAvailability(isTrue);
-            handler.handleObject(value);
+            isTrue = isTrue(countryBackendID, AVAILABILITY_VALUES.get(info));
         } else {
-            getJSONData(getFolder(), info.getTitle(), countryBackendID, new CompletionHandler() {
-                @Override
-                public void handleJSONArray(JSONArray array) {
-                    AVAILABILITY_VALUES.put(info, array);
-                    final boolean isTrue = isTrue(countryBackendID, array);
-                    final CountryAvailability value = getAvailability(isTrue);
-                    handler.handleObject(value);
-                }
-            });
+            final JSONArray array = (JSONArray) getJSONData(getFolder(), info.getTitle(), countryBackendID);
+            AVAILABILITY_VALUES.put(info, array);
+            isTrue = isTrue(countryBackendID, array);
         }
+        return getAvailability(isTrue);
     }
 
     default boolean isTrue(String countryBackendID, JSONArray array) {

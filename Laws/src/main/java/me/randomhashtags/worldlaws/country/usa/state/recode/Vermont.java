@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.country.usa.state.recode;
 
-import me.randomhashtags.worldlaws.CompletionHandlerLaws;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
@@ -35,9 +34,9 @@ public final class Vermont extends TestLawSubdivisionController {
     }
 
     @Override
-    public void loadStatutesList(String index, String chapter, CompletionHandlerLaws handler) {
+    public HashSet<? extends TestStatuteStatute> loadStatutesList(String index, String chapter) {
         chapter = prefixZeros(chapter, 3);
-        super.loadStatutesList(index, chapter, handler);
+        return super.loadStatutesList(index, chapter);
     }
 
     @Override
@@ -97,7 +96,7 @@ public final class Vermont extends TestLawSubdivisionController {
     }
 
     @Override
-    public void loadStatute(String index, String chapter, String section, CompletionHandlerLaws handler) {
+    public TestStatute loadStatute(String index, String chapter, String section) {
         final String originalChapter = chapter;
         chapter = prefixZeros(chapter, 3);
         section = prefixZeros(section, 5);
@@ -119,7 +118,7 @@ public final class Vermont extends TestLawSubdivisionController {
             sources.add(new EventSource("Vermont Legislature: Statute Page", url));
             statute = new TestStatute(topic, description.toString(), null, sources);
         }
-        handler.handleStatute(statute);
+        return statute;
     }
 
     /*

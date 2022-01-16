@@ -84,47 +84,39 @@ public final class UpcomingEvents implements WLServer {
     }
 
     @Override
-    public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
+    public String getServerResponse(APIVersion version, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
             case "event_types":
-                handler.handleString(getEventTypesJSON());
-                break;
+                return getEventTypesJSON();
             case "happeningnow":
                 //StreamingEvents.TWITCH.getUpcomingEvents(handler);
-                break;
+                return null;
             case "holidays":
                 final String value = target.substring(key.length()+1);
-                Holidays.INSTANCE.getResponse(value, handler);
-                break;
+                return Holidays.INSTANCE.getResponse(value);
 
             case "weekly_events":
-                refreshEventsFromThisWeek(handler);
-                break;
+                return refreshEventsFromThisWeek().toString();
             case "music_artists":
-                handler.handleString(null);
-                break;
+                return null;
             case "video_games":
-                handler.handleString(VideoGameUpdates.INSTANCE.getAllVideoGames());
-                break;
+                return VideoGameUpdates.INSTANCE.getAllVideoGames();
 
             case "recent_events":
-                RecentEvents.INSTANCE.refresh(handler);
-                break;
+                return RecentEvents.INSTANCE.refresh();
             case "elections":
-                Elections.INSTANCE.refresh(handler);
-                break;
+                return Elections.INSTANCE.refresh();
 
             default:
                 final UpcomingEventController controller = valueOfEventType(key);
                 if(controller != null) {
-                    controller.getResponse(target.substring(key.length()+1), handler);
+                    return controller.getResponse(target.substring(key.length()+1));
                 } else {
                     WLLogger.logError(this, "getServerResponse - failed to get controller using key \"" + key + "\" with target \"" + target + "\"!");
-                    handler.handleString(null);
                 }
-                break;
+                return null;
         }
     }
 
@@ -144,12 +136,7 @@ public final class UpcomingEvents implements WLServer {
         return new AutoUpdateSettings(WLUtilities.UPCOMING_EVENTS_HOME_UPDATE_INTERVAL, new CompletionHandler() {
             @Override
             public void handleCompletionHandler(CompletionHandler handler) {
-                Holidays.INSTANCE.refreshNearHolidays(new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        handler.handleObject(null);
-                    }
-                });
+                Holidays.INSTANCE.refreshNearHolidays();
             }
         });
     }
@@ -168,7 +155,7 @@ public final class UpcomingEvents implements WLServer {
         return dates;
     }
 
-    private void refreshEventsFromThisWeek(CompletionHandler handler) {
+    private JSONObject refreshEventsFromThisWeek() {
         final long started = System.currentTimeMillis();
         final LocalDate now = LocalDate.now();
         final int targetYear = now.getYear(), day = now.getDayOfMonth();
@@ -176,41 +163,35 @@ public final class UpcomingEvents implements WLServer {
         final Folder folder = Folder.UPCOMING_EVENTS_YEAR_MONTH_DAY;
         final String fileName = "weekly";
         folder.setCustomFolderName(fileName, folder.getFolderName().replace("%year%", Integer.toString(targetYear)).replace("%month%", month.name()).replace("%day%", Integer.toString(day)));
-        getJSONObject(folder, fileName, new CompletionHandler() {
+        return getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
+            public JSONObject loadJSONObject() {
                 final HashSet<String> dates = getWeeklyEventDateStrings(now);
-                final CompletionHandler completionHandler = new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                    }
-                };
-                ParallelStream.stream(CONTROLLERS, controller -> ((UpcomingEventController) controller).refresh(completionHandler));
-                getEventsFromDates(dates, handler);
-            }
+                ParallelStream.stream(CONTROLLERS, controllerObj -> {
+                    final UpcomingEventController controller = (UpcomingEventController) controllerObj;
+                    controller.refresh();
+                });
 
-            @Override
-            public void handleJSONObject(JSONObject json) {
+                final JSONObject json = getEventsFromDates(dates);
                 WLLogger.logInfo("UpcomingEvent - refreshed events from this week (took " + (System.currentTimeMillis()-started) + "ms)");
-                handler.handleString(json.toString());
+                return json;
             }
         });
     }
     private String getEventStringForDate(LocalDate date) {
         return date.getMonthValue() + "-" + date.getYear() + "-" + date.getDayOfMonth();
     }
-    private void getEventsFromDates(HashSet<String> dateStrings, CompletionHandler handler) {
+    private JSONObject getEventsFromDates(HashSet<String> dateStrings) {
         final HashSet<String> values = new HashSet<>();
-        final CompletionHandler completionHandler = new CompletionHandler() {
-            @Override
-            public void handleStringValue(String key, String string) {
-                if(string != null) {
-                    final String value = "\"" + key + "\":" + string;
-                    values.add(value);
-                }
+        ParallelStream.stream(CONTROLLERS, controllerObj -> {
+            final UpcomingEventController controller = (UpcomingEventController) controllerObj;
+            final String string = controller.getEventsFromDates(dateStrings);
+            if(string != null) {
+                final String key = controller.getType().name().toLowerCase();
+                final String value = "\"" + key + "\":" + string;
+                values.add(value);
             }
-        };
-        ParallelStream.stream(CONTROLLERS, controller -> ((UpcomingEventController) controller).getEventsFromDates(dateStrings, completionHandler));
+        });
 
         String stringValue = null;
         if(!values.isEmpty()) {
@@ -222,6 +203,6 @@ public final class UpcomingEvents implements WLServer {
             }
             stringValue = builder.append("}").toString();
         }
-        handler.handleString(stringValue);
+        return stringValue != null ? new JSONObject(stringValue) : null;
     }
 }

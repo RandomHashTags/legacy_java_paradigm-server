@@ -17,7 +17,7 @@ import java.util.HashSet;
 public enum Ticketmaster implements RestAPI {
     INSTANCE;
 
-    private void getEvents(String segmentID, CompletionHandler handler) {
+    private JSONObject getEvents(String segmentID) {
         final String apiKey = "***REMOVED***";
         final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
         final HashMap<String, String> query = new HashMap<>();
@@ -33,7 +33,7 @@ public enum Ticketmaster implements RestAPI {
         query.put("segmentId", segmentID);
 
         final String url = "https://app.ticketmaster.com/discovery/v2/events";
-        requestJSONObject(url, RequestMethod.GET, headers, query, handler);
+        return requestJSONObject(url, RequestMethod.GET, headers, query);
     }
     private String getFormattedDateString(LocalDate date) {
         final int monthValue = date.getMonthValue(), day = date.getDayOfMonth();
@@ -43,8 +43,8 @@ public enum Ticketmaster implements RestAPI {
     private static abstract class TicketmasterController extends LoadedUpcomingEventController {
         public abstract String getSegmentID();
 
-        public void getEvents(CompletionHandler handler) {
-            Ticketmaster.INSTANCE.getEvents(getSegmentID(), handler);
+        public JSONObject getEvents() {
+            return Ticketmaster.INSTANCE.getEvents(getSegmentID());
         }
     }
 
@@ -61,45 +61,40 @@ public enum Ticketmaster implements RestAPI {
         }
 
         @Override
-        public void load(CompletionHandler handler) {
+        public void load() {
             final UpcomingEventType eventType = getType();
-            getEvents(new CompletionHandler() {
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    if(json != null) {
-                        final JSONArray embeddedEvents = json.getJSONObject("_embedded").getJSONArray("events");
-                        ParallelStream.stream(embeddedEvents.spliterator(), objectJSON -> {
-                            final JSONObject eventJSON = (JSONObject) objectJSON;
-                            if(!eventJSON.getBoolean("test") && eventJSON.has("priceRanges") && eventJSON.has("ticketLimit") && eventJSON.has("seatmap")) {
-                                final JSONObject dateStartJSON = eventJSON.getJSONObject("dates").getJSONObject("start");
-                                if(dateStartJSON.has("dateTime")) {
-                                    final JSONObject priceRange = getPriceRangeJSONFrom(eventJSON.getJSONArray("priceRanges"));
-                                    final JSONObject ticketLimit = eventJSON.getJSONObject("ticketLimit");
-                                    final String seatMapURL = eventJSON.getJSONObject("seatmap").getString("staticUrl");
-                                    final JSONObject eventEmbeddedJSON = eventJSON.getJSONObject("_embedded");
-                                    final JSONArray venuesArray = eventEmbeddedJSON.getJSONArray("venues");
+            final JSONObject json = getEvents();
+            if(json != null) {
+                final JSONArray embeddedEvents = json.getJSONObject("_embedded").getJSONArray("events");
+                ParallelStream.stream(embeddedEvents.spliterator(), objectJSON -> {
+                    final JSONObject eventJSON = (JSONObject) objectJSON;
+                    if(!eventJSON.getBoolean("test") && eventJSON.has("priceRanges") && eventJSON.has("ticketLimit") && eventJSON.has("seatmap")) {
+                        final JSONObject dateStartJSON = eventJSON.getJSONObject("dates").getJSONObject("start");
+                        if(dateStartJSON.has("dateTime")) {
+                            final JSONObject priceRange = getPriceRangeJSONFrom(eventJSON.getJSONArray("priceRanges"));
+                            final JSONObject ticketLimit = eventJSON.getJSONObject("ticketLimit");
+                            final String seatMapURL = eventJSON.getJSONObject("seatmap").getString("staticUrl");
+                            final JSONObject eventEmbeddedJSON = eventJSON.getJSONObject("_embedded");
+                            final JSONArray venuesArray = eventEmbeddedJSON.getJSONArray("venues");
 
-                                    final String[] dateTimeValues = dateStartJSON.getString("dateTime").split("T"), dateValues = dateTimeValues[0].split("-"), timeValues = dateTimeValues[1].replace("Z", "").split(":");
-                                    final int year = Integer.parseInt(dateValues[0]), month = Integer.parseInt(dateValues[1]), day = Integer.parseInt(dateValues[2]);
-                                    final LocalDate date = LocalDate.of(year, month, day);
-                                    final EventDate eventDate = new EventDate(date);
+                            final String[] dateTimeValues = dateStartJSON.getString("dateTime").split("T"), dateValues = dateTimeValues[0].split("-"), timeValues = dateTimeValues[1].replace("Z", "").split(":");
+                            final int year = Integer.parseInt(dateValues[0]), month = Integer.parseInt(dateValues[1]), day = Integer.parseInt(dateValues[2]);
+                            final LocalDate date = LocalDate.of(year, month, day);
+                            final EventDate eventDate = new EventDate(date);
 
-                                    final String name = eventJSON.getString("name");
-                                    final String identifier = getEventDateIdentifier(eventDate.getDateString(), name);
+                            final String name = eventJSON.getString("name");
+                            final String identifier = getEventDateIdentifier(eventDate.getDateString(), name);
 
-                                    final String eventURL = eventJSON.getString("url"), imageURL = getImageURLFrom(eventJSON.getJSONArray("images"));
-                                    final EventSources sources = new EventSources(new EventSource("Ticketmaster: " + name, eventURL));
-                                    final HashSet<TicketmasterVenue> venues = getVenuesFrom(venuesArray);
-                                    final TicketmasterMusicEvent event = new TicketmasterMusicEvent(name, null, imageURL, ticketLimit, priceRange, seatMapURL, venues, sources);
-                                    putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(eventType, identifier, null));
-                                    putUpcomingEvent(identifier, event.toString());
-                                }
-                            }
-                        });
+                            final String eventURL = eventJSON.getString("url"), imageURL = getImageURLFrom(eventJSON.getJSONArray("images"));
+                            final EventSources sources = new EventSources(new EventSource("Ticketmaster: " + name, eventURL));
+                            final HashSet<TicketmasterVenue> venues = getVenuesFrom(venuesArray);
+                            final TicketmasterMusicEvent event = new TicketmasterMusicEvent(name, null, imageURL, ticketLimit, priceRange, seatMapURL, venues, sources);
+                            putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(eventType, identifier, null));
+                            putUpcomingEvent(identifier, event.toString());
+                        }
                     }
-                    handler.handleString(null);
-                }
-            });
+                });
+            }
         }
 
         private String getImageURLFrom(JSONArray imagesArray) {

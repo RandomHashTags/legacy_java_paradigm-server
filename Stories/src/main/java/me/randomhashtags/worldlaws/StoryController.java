@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws;
 
+import java.util.HashSet;
+
 public interface StoryController extends Jsoupable {
-    void refresh(CompletionHandler handler);
+    HashSet<Story> refresh();
 }

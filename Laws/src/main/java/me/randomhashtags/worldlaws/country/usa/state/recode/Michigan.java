@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.country.usa.state.recode;
 
-import me.randomhashtags.worldlaws.CompletionHandlerLaws;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
@@ -75,7 +74,7 @@ public final class Michigan extends TestLawSubdivisionController {
     }
 
     @Override
-    public void loadStatute(String index, String chapter, String section, CompletionHandlerLaws handler) {
+    public TestStatute loadStatute(String index, String chapter, String section) {
         final String url = statuteURL.replace("%index%", index).replace("%section%", section);
         final Document doc = getDocument(url);
         TestStatute statute = null;
@@ -92,6 +91,6 @@ public final class Michigan extends TestLawSubdivisionController {
             sources.add(new EventSource("Michigan Legislature: Statute Page", url));
             statute = new TestStatute(topic, description.toString(), null, sources);
         }
-        handler.handleStatute(statute);
+        return statute;
     }
 }

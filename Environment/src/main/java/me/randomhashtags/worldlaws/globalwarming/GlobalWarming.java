@@ -1,29 +1,28 @@
 package me.randomhashtags.worldlaws.globalwarming;
 
 import me.randomhashtags.worldlaws.APIVersion;
-import me.randomhashtags.worldlaws.CompletionHandler;
 
 public enum GlobalWarming {
     INSTANCE;
     ;
 
-    public void getResponse(APIVersion version, String[] values, CompletionHandler handler) {
+    public String getResponse(APIVersion version, String[] values) {
         final String key = values[0];
         switch (key) {
             case "causes":
-                getCauses(version, handler);
-                break;
+                return getCauses(version);
             case "projections":
-                getProjections(version, handler);
-                break;
+                return getProjections(version);
             default:
-                break;
+                return null;
         }
     }
 
-    private void getCauses(APIVersion version, CompletionHandler handler) {
+    private String getCauses(APIVersion version) {
+        return null;
     }
 
-    private void getProjections(APIVersion version, CompletionHandler handler) {
+    private String getProjections(APIVersion version) {
+        return null;
     }
 }

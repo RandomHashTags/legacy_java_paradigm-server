@@ -65,6 +65,7 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
     WISCONSIN,
     WYOMING,
 
+    AMERICAN_SAMOA,
     WASHINGTON_DC,
     PUERTO_RICO,
     GUAM,
@@ -83,6 +84,7 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
     @Override
     public SubdivisionType getType() {
         switch (this) {
+            case AMERICAN_SAMOA:
             case PUERTO_RICO:
             case GUAM:
                 return SubdivisionType.TERRITORIES;
@@ -153,6 +155,7 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
             case WISCONSIN: return "WI";
             case WYOMING: return "WY";
 
+            case AMERICAN_SAMOA: return WLCountry.AMERICAN_SAMOA.getISOAlpha2();
             case WASHINGTON_DC: return "DC";
             case PUERTO_RICO: return WLCountry.PUERTO_RICO.getISOAlpha2();
             case GUAM: return WLCountry.GUAM.getISOAlpha2();

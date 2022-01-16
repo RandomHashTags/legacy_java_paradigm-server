@@ -16,17 +16,13 @@ public enum Verification implements RestAPI {
         appleSharedSecret = json.getString("app_specific_shared_secret");
     }
 
-    public void verifyApple(String value, CompletionHandler handler) {
+    public void verifyApple(String value) {
         final String prefix = appleProductionMode ? "buy" : "sandbox";
         final String url = "https://" + prefix + ".itunes.apple.com/verifyReceipt";
         final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
         headers.put("receipt-data", value);
         headers.put("password", appleSharedSecret);
-        requestJSONObject(url, RequestMethod.POST, headers, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                final int status = json.getInt("status");
-            }
-        });
+        final JSONObject json = requestJSONObject(url, RequestMethod.POST, headers);
+        final int status = json.getInt("status");
     }
 }

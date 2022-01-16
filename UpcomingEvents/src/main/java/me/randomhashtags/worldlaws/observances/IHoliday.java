@@ -53,17 +53,12 @@ public interface IHoliday extends Jsoupable, Jsonable {
         json.put("sources", sources.toJSONObject());
         return json;
     }
-    default void getHolidayJSON(HolidayType holidayType, CompletionHandler handler) {
+    default JSONObject getHolidayJSON(HolidayType holidayType) {
         final String fileName = holidayType.name().replace("_EAST", "").replace("_WEST", "") + "_" + getName();
-        getJSONObject(Folder.UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS, fileName, new CompletionHandler() {
+        return getJSONObject(Folder.UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS, fileName, new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
-                handler.handleJSONObject(loadHolidayJSON());
-            }
-
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                handler.handleJSONObject(json);
+            public JSONObject loadJSONObject() {
+                return loadHolidayJSON();
             }
         });
     }

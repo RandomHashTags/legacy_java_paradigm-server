@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.weather;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.Jsonable;
+import me.randomhashtags.worldlaws.Jsoupable;
+import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
 import java.util.HashMap;
@@ -16,7 +19,7 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
     HashMap<String, String> getSubdivisionEvents();
     HashMap<String, HashMap<String, String>> getSubdivisionPreAlerts();
 
-    void refresh(CompletionHandler handler);
+    String refresh();
 
     default void putEventPreAlerts(HashMap<String, String> eventPreAlerts, ConcurrentHashMap<String, HashSet<WeatherPreAlert>> hashmap) {
         for(Map.Entry<String, HashSet<WeatherPreAlert>> map : hashmap.entrySet()) {
@@ -48,9 +51,9 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
             eventPreAlerts.put(event.toLowerCase().replace(" ", ""), string);
         }
     }
-    default void getPreAlerts(String event, CompletionHandler handler) {
+    default String getPreAlerts(String event) {
         final HashMap<String, String> eventPreAlerts = getEventPreAlerts();
-        handler.handleString(eventPreAlerts.get(event));
+        return eventPreAlerts.get(event);
     }
     default void putSubdivisionEvents(HashMap<String, String> territoryEvents, ConcurrentHashMap<String, HashSet<WeatherEvent>> hashmap) {
         for(Map.Entry<String, HashSet<WeatherEvent>> map : hashmap.entrySet()) {
@@ -131,22 +134,21 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
         return builder.toString();
     }
 
-    void getZones(String[] zones, CompletionHandler handler);
-    void getZone(String zoneID, CompletionHandler handler);
-    void getAlert(String id, CompletionHandler handler);
+    String getZones(String[] zones);
+    String getZone(String zoneID);
+    String getAlert(String id);
 
-    default void getSubdivisionEvents(String subdivision, CompletionHandler handler) {
+    default String getSubdivisionEvents(String subdivision) {
         final HashMap<String, String> territoryEvents = getSubdivisionEvents();
-        final String value = territoryEvents.getOrDefault(subdivision, "{}");
-        handler.handleString(value);
+        return territoryEvents.get(subdivision);
     }
-    default void getSubdivisionPreAlerts(String subdivision, String event, CompletionHandler handler) {
+    default String getSubdivisionPreAlerts(String subdivision, String event) {
         final HashMap<String, HashMap<String, String>> territoryPreAlerts = getSubdivisionPreAlerts();
+        String string = null;
         if(territoryPreAlerts.containsKey(subdivision) && territoryPreAlerts.get(subdivision).containsKey(event)) {
-            handler.handleString(territoryPreAlerts.get(subdivision).get(event));
-        } else {
-            handler.handleString(null);
+            string = territoryPreAlerts.get(subdivision).get(event);
         }
+        return string;
     }
 
     default int getSeverityDEFCON(String severity) {

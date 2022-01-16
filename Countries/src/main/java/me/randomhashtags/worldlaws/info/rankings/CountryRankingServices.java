@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.info.rankings;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.info.service.CountryService;
 import me.randomhashtags.worldlaws.info.service.CountryServices;
 
@@ -9,11 +8,9 @@ import java.util.stream.Stream;
 
 public abstract class CountryRankingServices {
 
-    public static void getRanked(String serviceBackendID, CompletionHandler handler) {
+    public static String getRanked(String serviceBackendID) {
         final CountryRankingService service = valueOf(serviceBackendID);
-        if(service != null) {
-            service.getRankedJSON(handler);
-        }
+        return service != null ? service.getRankedJSON() : null;
     }
 
     public static Stream<CountryService> getRankingsServices() {

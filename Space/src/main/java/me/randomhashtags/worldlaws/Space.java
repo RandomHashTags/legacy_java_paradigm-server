@@ -22,18 +22,16 @@ public final class Space implements WLServer {
     }
 
     @Override
-    public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
+    public String getServerResponse(APIVersion version, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
             case "constellation":
-                getConstellationResponse(version, target.substring(key.length()+1), handler);
-                break;
+                return getConstellationResponse(version, target.substring(key.length()+1));
             case "planet":
-                getPlanetResponse(version, target.substring(key.length()+1), handler);
-                break;
+                return getPlanetResponse(version, target.substring(key.length()+1));
             default:
-                break;
+                return null;
         }
     }
 
@@ -48,22 +46,21 @@ public final class Space implements WLServer {
         return null;
     }
 
-    private void getConstellationResponse(APIVersion version, String target, CompletionHandler handler) {
+    private String getConstellationResponse(APIVersion version, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
             default:
-                Constellations.INSTANCE.getByName(values[1], handler);
-                break;
+                return Constellations.INSTANCE.getByName(values[1]);
         }
     }
 
-    private void getPlanetResponse(APIVersion version, String target, CompletionHandler handler) {
+    private String getPlanetResponse(APIVersion version, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
             default:
-                break;
+                return null;
         }
     }
 }

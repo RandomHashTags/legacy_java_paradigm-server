@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.info.service.nonstatic;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.Folder;
+import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.info.service.CountryService;
@@ -27,8 +30,8 @@ public enum CIAServices implements CountryService {
     }
 
     @Override
-    public void getCountryValue(String countryBackendID, CompletionHandler handler) {
-        handler.handleServiceResponse(this, null);
+    public String getCountryValue(String countryBackendID) {
+        return null;
     }
 
     @Override

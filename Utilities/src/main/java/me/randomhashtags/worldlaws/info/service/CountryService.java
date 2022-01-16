@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.info.service;
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.country.SovereignStateService;
@@ -26,56 +26,47 @@ public interface CountryService extends SovereignStateService {
     default EventSources getResources(String countryBackendID) {
         return null;
     }
-    default void getCountryValue(String countryBackendID, CompletionHandler handler) {
-        getCountryValueFromCountryJSONObject(countryBackendID, handler);
+    default String getCountryValue(String countryBackendID) {
+        return getCountryValueFromCountryJSONObject(countryBackendID);
     }
-    default void getCountryValueFromCountryJSONObject(String countryBackendID, CompletionHandler handler) {
+    default String getCountryValueFromCountryJSONObject(String countryBackendID) {
         final SovereignStateInfo info = getInfo();
-        final CountryService self = this;
+        String string = null;
         if(COUNTRY_SERVICE_JSON_VALUES.containsKey(info)) {
             final JSONObject cachedJSON = COUNTRY_SERVICE_JSON_VALUES.get(info);
             final JSONObject json = cachedJSON.has(countryBackendID) ? cachedJSON.getJSONObject(countryBackendID) : null;
-            String string = null;
             if(json != null) {
                 insertValuesIntoCountryValueJSONObject(json);
                 string = json.toString();
             }
-            handler.handleServiceResponse(self, string);
         } else {
-            final long started = System.currentTimeMillis();
             final String fileName = info.getTitle();
-            getJSONData(getFolder(), fileName, countryBackendID, new CompletionHandler() {
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    COUNTRY_SERVICE_JSON_VALUES.put(info, json);
-                    final JSONObject targetJSON = json.has(countryBackendID) ? json.getJSONObject(countryBackendID) : null;
-                    String string = null;
-                    if(targetJSON != null) {
-                        insertValuesIntoCountryValueJSONObject(targetJSON);
-                        string = targetJSON.toString();
-                    }
-                    WLLogger.logInfo(fileName + " - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handleServiceResponse(self, string);
+            final Object object = getJSONData(getFolder(), fileName, countryBackendID);
+            final boolean exists = object != null;
+            if(exists) {
+                final JSONObject json = (JSONObject) object;
+                COUNTRY_SERVICE_JSON_VALUES.put(info, json);
+                final JSONObject targetJSON = json.has(countryBackendID) ? json.getJSONObject(countryBackendID) : null;
+                if(targetJSON != null) {
+                    insertValuesIntoCountryValueJSONObject(targetJSON);
+                    string = targetJSON.toString();
                 }
-            });
+            } else {
+                WLUtilities.saveLoggedError("CountryService", "failed to load JSONObject for CountryService " + info.name());
+            }
         }
+        return string;
     }
     default void insertValuesIntoCountryValueJSONObject(JSONObject json) {
     }
-    default void getJSONData(Folder folder, String fileName, String countryBackendID, CompletionHandler handler) {
-        getJSONObjectData(folder, fileName, countryBackendID, handler);
+    default Object getJSONData(Folder folder, String fileName, String countryBackendID) {
+        return getJSONObjectData(folder, fileName, countryBackendID);
     }
-    default void getJSONObjectData(Folder folder, String fileName, String countryBackendID, CompletionHandler handler) {
-        getJSONObject(folder, fileName, new CompletionHandler() {
+    default JSONObject getJSONObjectData(Folder folder, String fileName, String countryBackendID) {
+        return getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
-                final String data = loadData();
-                handler.handleString(data);
-            }
-
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                handler.handleJSONObject(json);
+            public String loadJSONObjectString() {
+                return loadData();
             }
         });
     }

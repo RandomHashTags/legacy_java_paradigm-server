@@ -231,7 +231,6 @@ public enum CountryRankings implements CountryRankingService {
     private final String url, siteName, suffix;
     private final NumberType valueType;
     private final int yearOfData;
-    private String rankedJSON;
 
     CountryRankings(String url, String suffix, NumberType valueType, int yearOfData) {
         this(url, null, suffix, valueType, yearOfData);
@@ -272,15 +271,6 @@ public enum CountryRankings implements CountryRankingService {
     @Override
     public int getYearOfData() {
         return yearOfData;
-    }
-
-    @Override
-    public String getRankedJSON() {
-        return rankedJSON;
-    }
-    @Override
-    public void setRankedJSON(String rankedJSON) {
-        this.rankedJSON = rankedJSON;
     }
 
     @Override

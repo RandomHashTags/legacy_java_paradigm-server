@@ -18,7 +18,7 @@ public enum TwitchClips implements RestAPI {
         clientID = Jsonable.getSettingsPrivateValuesJSON().getJSONObject("twitch").getString("client_id");
     }
 
-    public void refresh(CompletionHandler handler) {
+    public String refresh() {
         final HashMap<String, String> headers = new HashMap<>() {{
             put("Client-ID", clientID);
             put("Accept", "application/vnd.twitchtv.v5+json");
@@ -30,53 +30,44 @@ public enum TwitchClips implements RestAPI {
         final JSONObject json = new JSONObject();
         ParallelStream.stream(types, typeObj -> {
             final String type = (String) typeObj;
-            refresh(headers, query, type, new CompletionHandler() {
-                @Override
-                public void handleJSONObject(JSONObject typeJSON) {
-                    if(typeJSON != null) {
-                        json.put(type, typeJSON);
-                    }
-                }
-            });
-        });
-        final String string = json.toString();
-        handler.handleString(string);
-    }
-    private void refresh(HashMap<String, String> headers, HashMap<String, String> query, String type, CompletionHandler handler) {
-        final String url = "https://api.twitch.tv/kraken/clips/top";
-        query.put("period", type);
-        requestJSONObject(url, RequestMethod.GET, headers, query, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                if(json != null) {
-                    final JSONArray clipsArray = json.getJSONArray("clips");
-                    final JSONObject clips = new JSONObject();
-                    ParallelStream.stream(clipsArray.spliterator(), clipObj -> {
-                        final JSONObject clipJSON = (JSONObject) clipObj;
-                        final String slug = clipJSON.getString("slug");
-
-                        final String clipURL = clipJSON.getString("url"), embedHTML = clipJSON.getString("embed_html");
-                        final String title = clipJSON.getString("title"), game = clipJSON.getString("game");
-                        final String thumbnail = clipJSON.getJSONObject("thumbnails").getString("medium");
-                        final long viewCount = clipJSON.getLong("views");
-                        final float duration = clipJSON.getFloat("duration");
-
-                        final JSONObject broadcasterJSON = clipJSON.getJSONObject("broadcaster");
-                        final String channelURL = clipJSON.getString("channel_url");
-                        final String broadcasterName = broadcasterJSON.getString("display_name"), broadcasterProfileImageURL = broadcasterJSON.getString("logo");
-                        final ClipBroadcaster broadcaster = new ClipBroadcaster(broadcasterName, channelURL, broadcasterProfileImageURL);
-
-                        final EventSources sources = new EventSources();
-                        sources.add(new EventSource("Twitch: Clip URL", clipURL));
-
-                        final Clip clip = new Clip(title, broadcaster, game, thumbnail, viewCount, duration, embedHTML, sources);
-                        clips.put(slug, clip.toJSONObject());
-                    });
-                    handler.handleJSONObject(clips);
-                } else {
-                    handler.handleJSONObject(null);
-                }
+            final JSONObject typeJSON = refresh(headers, query, type);
+            if(typeJSON != null) {
+                json.put(type, typeJSON);
             }
         });
+        return json.toString();
+    }
+    private JSONObject refresh(HashMap<String, String> headers, HashMap<String, String> query, String type) {
+        final String url = "https://api.twitch.tv/kraken/clips/top";
+        query.put("period", type);
+        final JSONObject json = requestJSONObject(url, RequestMethod.GET, headers, query);
+        JSONObject clipsJSON = null;
+        if(json != null) {
+            final JSONArray clipsArray = json.getJSONArray("clips");
+            final JSONObject clips = new JSONObject();
+            ParallelStream.stream(clipsArray.spliterator(), clipObj -> {
+                final JSONObject clipJSON = (JSONObject) clipObj;
+                final String slug = clipJSON.getString("slug");
+
+                final String clipURL = clipJSON.getString("url"), embedHTML = clipJSON.getString("embed_html");
+                final String title = clipJSON.getString("title"), game = clipJSON.getString("game");
+                final String thumbnail = clipJSON.getJSONObject("thumbnails").getString("medium");
+                final long viewCount = clipJSON.getLong("views");
+                final float duration = clipJSON.getFloat("duration");
+
+                final JSONObject broadcasterJSON = clipJSON.getJSONObject("broadcaster");
+                final String channelURL = clipJSON.getString("channel_url");
+                final String broadcasterName = broadcasterJSON.getString("display_name"), broadcasterProfileImageURL = broadcasterJSON.getString("logo");
+                final ClipBroadcaster broadcaster = new ClipBroadcaster(broadcasterName, channelURL, broadcasterProfileImageURL);
+
+                final EventSources sources = new EventSources();
+                sources.add(new EventSource("Twitch: Clip URL", clipURL));
+
+                final Clip clip = new Clip(title, broadcaster, game, thumbnail, viewCount, duration, embedHTML, sources);
+                clips.put(slug, clip.toJSONObject());
+            });
+            clipsJSON = clips;
+        }
+        return clipsJSON;
     }
 }

@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.recode;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.CompletionHandler;
+import me.randomhashtags.worldlaws.Folder;
+import me.randomhashtags.worldlaws.Jsonable;
+import me.randomhashtags.worldlaws.Jsoupable;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -44,94 +47,71 @@ public abstract class TestLawSubdivisionController implements Jsoupable, Jsonabl
 
     public abstract SovereignStateSubdivision getSubdivision();
     public abstract int getPublishedDataYear();
-    public abstract void loadStatute(String index, String chapter, String section, CompletionHandlerLaws handler);
+    public abstract TestStatute loadStatute(String index, String chapter, String section);
 
     @SuppressWarnings({"unchecked"})
-    public void loadIndexes(CompletionHandlerLaws handler) {
+    public HashSet<? extends TestStatuteIndex> loadIndexes() {
         final Document doc = getDocument(indexesURL);
         final HashSet<? extends TestStatuteAbstract> values = getStatutesAbstract(doc, null, null, SubdivisionLegislationType.INDEX);
-        final HashSet<? extends TestStatuteIndex> indexes = (HashSet<? extends TestStatuteIndex>) values;
-        handler.handleIndexes(indexes);
+        return (HashSet<? extends TestStatuteIndex>) values;
     }
 
     @SuppressWarnings({"unchecked"})
-    public void loadTableOfChapters(String index, CompletionHandlerLaws handler) {
+    public HashSet<? extends TestStatuteChapter> loadTableOfChapters(String index) {
         index = index.replace("_", "+").replace(" ", "+");
         final Document doc = getDocument(tableOfChaptersURL.replace("%index%", index));
         final HashSet<? extends TestStatuteAbstract> values = getStatutesAbstract(doc, index, null, SubdivisionLegislationType.CHAPTER);
-        final HashSet<? extends TestStatuteChapter> chapters = (HashSet<? extends TestStatuteChapter>) values;
-        handler.handleTableOfChapters(chapters);
+        return (HashSet<? extends TestStatuteChapter>) values;
     }
 
     @SuppressWarnings({"unchecked"})
-    public void loadStatutesList(String index, String chapter, CompletionHandlerLaws handler) {
+    public HashSet<? extends TestStatuteStatute> loadStatutesList(String index, String chapter) {
         final Document doc = getDocument(statutesListURL.replace("%index%", index).replace("%chapter%", chapter));
         final HashSet<? extends TestStatuteAbstract> values = getStatutesAbstract(doc, index, chapter, SubdivisionLegislationType.STATUTE);
-        final HashSet<? extends TestStatuteStatute> indexes = (HashSet<? extends TestStatuteStatute>) values;
-        handler.handleStatutes(indexes);
+        return (HashSet<? extends TestStatuteStatute>) values;
     }
 
 
     public abstract HashSet<? extends TestStatuteAbstract> getStatutesAbstract(Document doc, String index, String chapter, SubdivisionLegislationType type);
 
-    public void getIndexes(CompletionHandler handler) {
-        test("indexes", new CompletionHandler() {
+    public String getIndexes() {
+        return test("indexes", new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
-                loadIndexes(new CompletionHandlerLaws() {
-                    @Override
-                    public void handleIndexes(HashSet<? extends TestStatuteIndex> indexes) {
-                        final String string = getString(indexes);
-                        handler.handleString(string);
-                    }
-                });
+            public String loadJSONObjectString() {
+                final HashSet<? extends TestStatuteIndex> indexes = loadIndexes();
+                return getString(indexes);
             }
-        }, handler);
+        });
     }
-    public void getTableOfChapters(String index, CompletionHandler handler) {
+    public String getTableOfChapters(String index) {
         final String fileName = index + File.separator + "chapters";
-        test(fileName, new CompletionHandler() {
+        return test(fileName, new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
-                loadTableOfChapters(index, new CompletionHandlerLaws() {
-                    @Override
-                    public void handleTableOfChapters(HashSet<? extends TestStatuteChapter> chapters) {
-                        final String string = getString(chapters);
-                        handler.handleString(string);
-                    }
-                });
+            public String loadJSONObjectString() {
+                final HashSet<? extends TestStatuteChapter> chapters = loadTableOfChapters(index);
+                return getString(chapters);
             }
-        }, handler);
+        });
     }
-    public void getStatutesList(String index, String chapter, CompletionHandler handler) {
+    public String getStatutesList(String index, String chapter) {
         final String fileName = getFileName(index + File.separator + chapter + File.separator + "statutes_list");
-        test(fileName, new CompletionHandler() {
+        return test(fileName, new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
-                loadStatutesList(index, chapter, new CompletionHandlerLaws() {
-                    @Override
-                    public void handleStatutes(HashSet<? extends TestStatuteStatute> statutes) {
-                        final String string = getString(statutes);
-                        handler.handleString(string);
-                    }
-                });
+            public String loadJSONObjectString() {
+                final HashSet<? extends TestStatuteStatute> statutes = loadStatutesList(index, chapter);
+                return getString(statutes);
             }
-        }, handler);
+        });
     }
-    public void getStatute(String index, String chapter, String section, CompletionHandler handler) {
+    public String getStatute(String index, String chapter, String section) {
         final String fileName = getFileName(index + File.separator + chapter + File.separator + "statutes" + File.separator + section);
-        test(fileName, new CompletionHandler() {
+        return test(fileName, new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
-                loadStatute(index, chapter, section, new CompletionHandlerLaws() {
-                    @Override
-                    public void handleStatute(TestStatute statute) {
-                        final String string = statute != null ? statute.toString() : null;
-                        handler.handleString(string);
-                    }
-                });
+            public String loadJSONObjectString() {
+                final TestStatute statute = loadStatute(index, chapter, section);
+                return statute != null ? statute.toString() : null;
             }
-        }, handler);
+        });
     }
     private String getFileName(String input) {
         return input.replace(" ", "_").replace(",", "_").replace(";", "_").replace(".", "_");
@@ -148,26 +128,21 @@ public abstract class TestLawSubdivisionController implements Jsoupable, Jsonabl
         builder.append("}");
         return builder.toString();
     }
-    private void test(String fileName, CompletionHandler loadHandler, CompletionHandler handler) {
+    private String test(String fileName, CompletionHandler loadHandler) {
         final SovereignStateSubdivision subdivision = getSubdivision();
+        String string = null;
         if(subdivision != null) {
             final String countryBackendID = subdivision.getCountry().getBackendID(), backendID = subdivision.getBackendID(), year = Integer.toString(getPublishedDataYear());
             final Folder folder = Folder.LAWS_COUNTRY_SUBDIVISIONS_SUBDIVISION_YEAR;
             folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", countryBackendID).replace("%subdivision%", backendID).replace("%year%", year));
-            getJSONObject(folder, fileName, new CompletionHandler() {
+            final JSONObject json = getJSONObject(folder, fileName, new CompletionHandler() {
                 @Override
-                public void load(CompletionHandler handler) {
-                    loadHandler.load(handler);
-                }
-
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    final String string = json != null ? json.toString() : null;
-                    handler.handleString(string);
+                public String loadJSONObjectString() {
+                    return loadHandler.loadJSONObjectString();
                 }
             });
-        } else {
-            handler.handleString(null);
+            string = json != null ? json.toString() : null;
         }
+        return string;
     }
 }

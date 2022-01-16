@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.country.usa.state.recode;
 
-import me.randomhashtags.worldlaws.CompletionHandlerLaws;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
@@ -70,7 +69,7 @@ public final class Ohio extends TestLawSubdivisionController {
     }
 
     @Override
-    public void loadStatute(String index, String chapter, String section, CompletionHandlerLaws handler) {
+    public TestStatute loadStatute(String index, String chapter, String section) {
         final String url = statuteURL.replace("%chapter%", chapter).replace("%section%", section);
         final Document doc = getDocument(url);
         TestStatute statute = null;
@@ -109,6 +108,6 @@ public final class Ohio extends TestLawSubdivisionController {
             sources.add(new EventSource("Ohio Legislature: Statute Page", url));
             statute = new TestStatute(topic, description.toString(), subdivisions, sources);
         }
-        handler.handleStatute(statute);
+        return statute;
     }
 }

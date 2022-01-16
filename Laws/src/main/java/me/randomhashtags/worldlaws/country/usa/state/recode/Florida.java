@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.country.usa.state.recode;
 
-import me.randomhashtags.worldlaws.CompletionHandlerLaws;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
@@ -72,7 +71,7 @@ public final class Florida extends TestLawSubdivisionController {
     }
 
     @Override
-    public void loadStatute(String index, String chapter, String section, CompletionHandlerLaws handler) {
+    public TestStatute loadStatute(String index, String chapter, String section) {
         chapter = prefixZeros(chapter, 4);
         final String url = statuteURL.replace("%chapter%", chapter).replace("%section%", section);
         final Document doc = getDocument(url);
@@ -107,6 +106,6 @@ public final class Florida extends TestLawSubdivisionController {
             sources.add(new EventSource("Florida Legislature: Statute Page", url));
             statute = new TestStatute(topic, description.toString(), null, sources);
         }
-        handler.handleStatute(statute);
+        return statute;
     }
 }

@@ -15,7 +15,7 @@ public enum ResponseVersions {
     public int getValue() {
         switch (this) {
             case COUNTRIES:
-                return 9;
+                return 10;
             case MOVIE_PRODUCTION_COMPANIES:
                 return 2;
             case MUSIC_ARTISTS:

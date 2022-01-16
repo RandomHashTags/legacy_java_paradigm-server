@@ -15,10 +15,11 @@ import java.util.*;
 public final class WikipediaCountryService implements CountryService {
 
     private final Folder folder, wikiFolder, featuredPicturesFolder;
-    private HashMap<String, String> sovereignStates;
+    private final HashMap<String, String> sovereignStates;
     private Elements featuredPicturesElements, nationalAnimalsElements;
 
     public WikipediaCountryService(boolean isCountries) {
+        sovereignStates = new HashMap<>();
         this.folder = isCountries ? Folder.COUNTRIES_SERVICES_WIKIPEDIA : Folder.COUNTRIES_SUBDIVISIONS_SERVICES_WIKIPEDIA;
         this.wikiFolder = isCountries ? Folder.COUNTRIES_WIKIPEDIA_PAGES : Folder.COUNTRIES_SUBDIVISIONS_WIKIPEDIA_PAGES;
         this.featuredPicturesFolder = isCountries ? Folder.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES : null;
@@ -52,85 +53,65 @@ public final class WikipediaCountryService implements CountryService {
     }
 
     @Override
-    public void getCountryValue(String tag, CompletionHandler handler) {
-        if(sovereignStates == null) {
-            sovereignStates = new HashMap<>();
-        }
+    public String getCountryValue(String tag) {
         final WikipediaCountryService self = this;
+        String string = null;
         if(sovereignStates.containsKey(tag)) {
-            handler.handleServiceResponse(self, sovereignStates.get(tag));
+            return sovereignStates.get(tag);
         } else {
             final long started = System.currentTimeMillis();
-            getJSONObject(folder, tag, new CompletionHandler() {
+            final JSONObject json = getJSONObject(folder, tag, new CompletionHandler() {
                 @Override
-                public void load(CompletionHandler handler) {
-                    loadWikipedia(tag, handler);
-                }
-
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    final String string = json != null ? new CountryServiceValue(self, json.toString()).toString() : null;
-                    WLLogger.logInfo(getInfo().name() + " - loaded \"" + tag + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                    sovereignStates.put(tag, string);
-                    handler.handleServiceResponse(self, string);
+                public String loadJSONObjectString() {
+                    return loadWikipedia(tag);
                 }
             });
+            string = json != null ? new CountryServiceValue(self, json.toString()).toString() : null;
+            WLLogger.logInfo(getInfo().name() + " - loaded \"" + tag + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+            sovereignStates.put(tag, string);
         }
+        return string;
     }
 
-    private void loadWikipedia(String tag, CompletionHandler handler) {
+    private String loadWikipedia(String tag) {
         final String url = "https://en.wikipedia.org/wiki/" + tag.replace(" ", "_");
         Document document = Jsoupable.getLocalDocument(wikiFolder, url);
         if(document == null) {
             document = getDocument(wikiFolder, url, true);
             if(document == null) {
-                handler.handleString(null);
-                return;
+                return null;
             }
         }
         final WikipediaDocument wikiDoc = new WikipediaDocument(url, document);
         final List<Element> paragraphs = wikiDoc.getConsecutiveParagraphs();
+        String string = null;
         if(paragraphs != null && !paragraphs.isEmpty()) {
             String firstParagraph = removeReferences(paragraphs.get(0).text()).replace(" (listen)", "").replace("(listen)", "").replace(" (listen to all)", "").replace("(listen to all)", "");
             firstParagraph = LocalServer.removeWikipediaTranslations(firstParagraph);
             final String paragraph = LocalServer.fixEscapeValues(firstParagraph);
-            getPictures(tag, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    final String value =
-                            "{" +
-                            (string != null ? "\"pictures\":" + string + "," : "") +
-                            "\"paragraph\":\"" + paragraph + "\"," +
-                            "\"url\":\"" + url + "\"" +
-                            "}";
-                    handler.handleString(value);
-                }
-            });
+            final String pictures = getPictures(tag);
+            string = "{" +
+                    (pictures != null ? "\"pictures\":" + pictures + "," : "") +
+                    "\"paragraph\":\"" + paragraph + "\"," +
+                    "\"url\":\"" + url + "\"" +
+                    "}";
         } else {
             WLLogger.logError(this, "missing paragraph for country \"" + tag + "\"!");
-            handler.handleString(null);
         }
+        return string;
     }
 
-    private void getPictures(String tag, CompletionHandler handler) {
+    private String getPictures(String tag) {
+        String string = null;
         if(featuredPicturesFolder != null) {
             final String[] types = new String[] { "nationalAnimal", "nationalTree", "featured" };
             final HashSet<String> values = new HashSet<>();
             ParallelStream.stream(Arrays.asList(types), typeObj -> {
                 final String type = (String) typeObj;
-                getPictures(type, tag, new CompletionHandler() {
-                    @Override
-                    public void handleJSONObject(JSONObject json) {
-                        handleString(json != null ? json.toString() : null);
-                    }
-
-                    @Override
-                    public void handleString(String string) {
-                        if(string != null) {
-                            values.add("\"" + type + "\":" + string);
-                        }
-                    }
-                });
+                final JSONObject json = getPictures(type, tag);
+                if(json != null) {
+                    values.add("\"" + type + "\":" + json.toString());
+                }
             });
 
             String value = null;
@@ -144,30 +125,34 @@ public final class WikipediaCountryService implements CountryService {
                 builder.append("}");
                 value = builder.toString();
             }
-            handler.handleString(value);
-        } else {
-            handler.handleString(null);
+            string = value;
         }
+        return string;
     }
-    private void getPictures(String type, String tag, CompletionHandler handler) {
+    private JSONObject getPictures(String type, String tag) {
+        final JSONObject json;
         switch (type) {
             case "nationalAnimal":
             case "nationalTree":
                 final WikipediaPictureType pictureType = WikipediaPictureType.valueOf(type.substring("national".length()).toUpperCase() + "S");
-                loadFromTable(pictureType, tag, handler);
+                json = loadFromTable(pictureType, tag);
                 break;
             case "featured":
-                getFeaturedPictures(tag, handler);
+                json = getFeaturedPictures(tag);
                 break;
             default:
+                json = null;
                 break;
         }
+
+        return json.has(tag) ? json.getJSONObject(tag) : null;
     }
 
-    private void getFeaturedPictures(String tag, CompletionHandler handler) {
-        getJSONObject(featuredPicturesFolder, tag, new CompletionHandler() {
+    private JSONObject getFeaturedPictures(String tag) {
+        return getJSONObject(featuredPicturesFolder, tag, new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
+            public String loadJSONObjectString() {
+                String string = null;
                 final String country = tag.toLowerCase();
                 final Elements featuredElements = getFeaturedPicturesElements();
                 final Optional<Element> target = new Elements(featuredElements).parallelStream().filter(element -> element.text().toLowerCase().endsWith(country)).findFirst();
@@ -202,15 +187,9 @@ public final class WikipediaCountryService implements CountryService {
                         }
                     }
                     builder.append("}");
-                    handler.handleString(builder.toString());
-                } else {
-                    handler.handleString(null);
+                    string = builder.toString();
                 }
-            }
-
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                handler.handleJSONObject(json);
+                return string;
             }
         });
     }
@@ -221,11 +200,11 @@ public final class WikipediaCountryService implements CountryService {
         return featuredPicturesElements;
     }
 
-    private void loadFromTable(WikipediaPictureType type, String tag, CompletionHandler completionHandler) {
+    private JSONObject loadFromTable(WikipediaPictureType type, String tag) {
         final String fileName = type.getFileName();
-        getJSONObject(folder, fileName, new CompletionHandler() {
+        return getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
+            public String loadJSONObjectString() {
                 final Elements elements = type.getElements(folder);
                 final Elements trs = new Elements(elements);
                 trs.removeIf(row -> row.select("td").isEmpty());
@@ -266,13 +245,7 @@ public final class WikipediaCountryService implements CountryService {
                     }
                 }
                 builder.append("}");
-                handler.handleString(builder.toString());
-            }
-
-            @Override
-            public void handleJSONObject(JSONObject object) {
-                final JSONObject json = object.has(tag) ? object.getJSONObject(tag) : null;
-                completionHandler.handleJSONObject(json);
+                return builder.toString();
             }
         });
     }

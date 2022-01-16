@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.stories.Story;
 
 public final class StoryObj implements Story {
 

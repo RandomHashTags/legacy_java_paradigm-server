@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.upcoming.sports;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.PreUpcomingEvent;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.SportEvent;
@@ -18,7 +21,7 @@ public final class UFC extends USAUpcomingEventController {
     }
 
     @Override
-    public void load(CompletionHandler handler) {
+    public void load() {
         final String wikipagePrefix = "https://en.wikipedia.org";
         final String url = wikipagePrefix + "/wiki/List_of_UFC_events";
         final Document doc = getDocument(url);
@@ -52,15 +55,15 @@ public final class UFC extends USAUpcomingEventController {
                 }
             }
         }
-        handler.handleString(null);
     }
 
     @Override
-    public void loadUpcomingEvent(String id, CompletionHandler handler) {
+    public String loadUpcomingEvent(String id) {
         final PreUpcomingEvent preUpcomingEvent = getPreUpcomingEvent(id);
         final String url = preUpcomingEvent.getURL();
         final String title = preUpcomingEvent.getTitle(), location = preUpcomingEvent.getTag();
         final Document wikidoc = getDocument(url);
+        String string = null;
         if(wikidoc != null) {
             final String description = removeReferences(wikidoc.select("div.mw-parser-output p").get(0).text());
             final Elements infobox = wikidoc.select("table.infobox tbody tr");
@@ -70,11 +73,9 @@ public final class UFC extends USAUpcomingEventController {
 
             final EventSources sources = new EventSources(source);
             final SportEvent ufc = new SportEvent(title, description, location, posterURL, "unknown venue", sources);
-            final String string = ufc.toString();
+            string = ufc.toString();
             putUpcomingEvent(id, string);
-            handler.handleString(string);
-        } else {
-            handler.handleString(null);
         }
+        return string;
     }
 }

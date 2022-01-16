@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.country.ca;
 
 import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.BillStatus;
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.LawController;
 import me.randomhashtags.worldlaws.country.WLCountry;
 
@@ -22,16 +21,17 @@ public final class CanadaLaws extends LawController {
     }
 
     @Override
-    public void refreshRecentActivity(APIVersion version, CompletionHandler handler) {
-        handler.handleString(null);
+    public String refreshRecentActivity(APIVersion version) {
+        return null;
     }
 
     @Override
-    public void getResponse(APIVersion version, String value, CompletionHandler handler) {
-        handler.handleString(null);
+    public String getResponse(APIVersion version, String value) {
+        return null;
     }
 
     @Override
-    public void getGovernmentResponse(APIVersion version, int administration, String value, CompletionHandler handler) {
+    public String getGovernmentResponse(APIVersion version, int administration, String value) {
+        return null;
     }
 }

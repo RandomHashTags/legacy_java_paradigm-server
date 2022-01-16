@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.country.usa.state.recode;
 
-import me.randomhashtags.worldlaws.CompletionHandlerLaws;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
@@ -36,9 +35,9 @@ public final class Washington extends TestLawSubdivisionController {
     }
 
     @Override
-    public void loadStatutesList(String index, String chapter, CompletionHandlerLaws handler) {
+    public HashSet<? extends TestStatuteStatute> loadStatutesList(String index, String chapter) {
         chapter = prefixZeros(chapter, 2);
-        super.loadStatutesList(index, chapter, handler);
+        return super.loadStatutesList(index, chapter);
     }
 
     @Override
@@ -72,7 +71,7 @@ public final class Washington extends TestLawSubdivisionController {
     }
 
     @Override
-    public void loadStatute(String index, String chapter, String section, CompletionHandlerLaws handler) {
+    public TestStatute loadStatute(String index, String chapter, String section) {
         chapter = prefixZeros(chapter, 2);
         section = prefixZeros(section, 3);
         final String url = statuteURL.replace("%index%", index).replace("%chapter%", chapter).replace("%section%", section);
@@ -100,7 +99,7 @@ public final class Washington extends TestLawSubdivisionController {
                 }
             }
         }
-        handler.handleStatute(statute);
+        return statute;
     }
 
     /*

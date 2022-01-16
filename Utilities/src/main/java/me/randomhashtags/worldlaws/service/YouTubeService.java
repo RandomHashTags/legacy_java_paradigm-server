@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.service;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.RestAPI;
@@ -11,7 +10,7 @@ import org.json.JSONObject;
 import java.util.HashMap;
 
 public interface YouTubeService extends RestAPI, Jsonable {
-    default void getVideosJSONArray(YouTubeVideoType type, String title, CompletionHandler handler) {
+    default JSONArray getVideosJSONArray(YouTubeVideoType type, String title) {
         final JSONObject youtubePrivateValues = Jsonable.getSettingsPrivateValuesJSON().getJSONObject("youtube");
         final String apiKey = youtubePrivateValues.getString("key");
         final String url = "https://youtube.googleapis.com/youtube/v3/search";
@@ -25,17 +24,13 @@ public interface YouTubeService extends RestAPI, Jsonable {
         query.put("q", q);
         query.put("type", "video");
         query.put("key", apiKey);
-        requestJSONObject(url, RequestMethod.GET, headers, query, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                JSONArray array = null;
-                if(json != null) {
-                    final JSONArray items = json.getJSONArray("items");
-                    array = filterResults(type, title, items);
-                }
-                handler.handleJSONArray(array != null && array.isEmpty() ? null : array);
-            }
-        });
+        final JSONObject json = requestJSONObject(url, RequestMethod.GET, headers, query);
+        JSONArray array = null;
+        if(json != null) {
+            final JSONArray items = json.getJSONArray("items");
+            array = filterResults(type, title, items);
+        }
+        return array != null && array.isEmpty() ? null : array;
     }
     private JSONArray filterResults(YouTubeVideoType type, String title, JSONArray items) {
         final JSONArray array = new JSONArray();

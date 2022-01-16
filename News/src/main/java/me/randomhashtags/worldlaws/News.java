@@ -21,8 +21,8 @@ public class News implements WLServer {
     }
 
     @Override
-    public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
-        service.getResponseJSON(target, handler);
+    public String getServerResponse(APIVersion version, String target) {
+        return service.getResponseJSON(target);
     }
 
     @Override

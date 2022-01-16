@@ -27,8 +27,8 @@ public enum TravelBriefing implements CountryService {
     }
 
     @Override
-    public void getCountryValue(String countryBackendID, CompletionHandler handler) {
-        getCountryTravelBriefing(countryBackendID, handler);
+    public String getCountryValue(String countryBackendID) {
+        return getCountryTravelBriefing(countryBackendID);
     }
 
     @Override
@@ -36,19 +36,20 @@ public enum TravelBriefing implements CountryService {
         return null;
     }
 
-    private void getCountryTravelBriefing(String country, CompletionHandler handler) {
+    private String getCountryTravelBriefing(String country) {
         final long started = System.currentTimeMillis();
         if(countries == null) {
             countries = new HashMap<>();
         }
 
         final String targetCountry = country.toLowerCase().replace(" ", "_");
+        String string = null;
         if(countries.containsKey(targetCountry)) {
-            handler.handleString(countries.get(targetCountry));
+            string = countries.get(targetCountry);
         } else {
-            getJSONObject(Folder.COUNTRIES_SERVICES_TRAVEL_BRIEFING, country, new CompletionHandler() {
+            final JSONObject json = getJSONObject(Folder.COUNTRIES_SERVICES_TRAVEL_BRIEFING, country, new CompletionHandler() {
                 @Override
-                public void load(CompletionHandler handler) {
+                public JSONObject loadJSONObject() {
                     final String country;
                     switch (targetCountry) {
                         case "british_virgin_islands":
@@ -65,38 +66,30 @@ public enum TravelBriefing implements CountryService {
                             break;
                     }
                     final String url = "https://travelbriefing.org/" + country + "?format=json";
-                    requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
-                        @Override
-                        public void handleJSONObject(JSONObject json) {
-                            if(json != null) {
-                                json.remove("names");
-                                json.remove("timezone");
-                                json.remove("electricity");
-                                json.remove("water");
-                                if(json.getJSONArray("vaccinations").isEmpty()) {
-                                    json.remove("vaccinations");
-                                }
-                                json.getJSONObject("currency").remove("compare");
-                                final List<String> neighbors = getNeighbors(json.getJSONArray("neighbors"));
-                                json.put("neighbors", neighbors);
-                            } else {
-                                WLUtilities.saveLoggedError("TravelBriefing", "Failed to get details for country \"" + country + "\", targetCountry=\"" + targetCountry + "\"!");
-                                json = new JSONObject();
-                            }
-                            handler.handleJSONObject(json);
+                    JSONObject json = requestJSONObject(url, RequestMethod.GET);
+                    if(json != null) {
+                        json.remove("names");
+                        json.remove("timezone");
+                        json.remove("electricity");
+                        json.remove("water");
+                        if(json.getJSONArray("vaccinations").isEmpty()) {
+                            json.remove("vaccinations");
                         }
-                    });
-                }
-
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    final String string = new CountryServiceValue(TravelBriefing.INSTANCE, json.toString()).toString();
-                    WLLogger.logInfo(getInfo().name() + " - loaded \"" + country + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                    countries.put(targetCountry, string);
-                    handler.handleServiceResponse(INSTANCE, string);
+                        json.getJSONObject("currency").remove("compare");
+                        final List<String> neighbors = getNeighbors(json.getJSONArray("neighbors"));
+                        json.put("neighbors", neighbors);
+                    } else {
+                        WLUtilities.saveLoggedError("TravelBriefing", "Failed to get details for country \"" + country + "\", targetCountry=\"" + targetCountry + "\"!");
+                        json = new JSONObject();
+                    }
+                    return json;
                 }
             });
+            string = new CountryServiceValue(TravelBriefing.INSTANCE, json.toString()).toString();
+            WLLogger.logInfo(getInfo().name() + " - loaded \"" + country + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+            countries.put(targetCountry, string);
         }
+        return string;
     }
     private List<String> getNeighbors(JSONArray array) {
         final List<String> neighbors = new ArrayList<>();

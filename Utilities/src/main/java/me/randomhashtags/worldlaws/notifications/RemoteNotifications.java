@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.notifications;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.Folder;
+import me.randomhashtags.worldlaws.Jsonable;
+import me.randomhashtags.worldlaws.RequestMethod;
+import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -41,11 +44,7 @@ public enum RemoteNotifications implements RestAPI {
                 headers.put("apns-id", uuid);
                 headers.put("apns-expiration", "0");
                 headers.put("apns-priority", "5");
-                requestJSONObject(url, RequestMethod.POST, new CompletionHandler() {
-                    @Override
-                    public void handleJSONObject(JSONObject json) {
-                    }
-                });
+                final JSONObject postJSON = requestJSONObject(url, RequestMethod.POST);
             });
         }
     }

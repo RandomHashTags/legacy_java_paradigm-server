@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.info.service.nonstatic;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
@@ -81,7 +80,7 @@ public enum TravelAdvisories implements CountryService {
     }
 
     @Override
-    public void getCountryValue(String countryBackendID, CompletionHandler handler) {
+    public String getCountryValue(String countryBackendID) {
         final TravelAdvisory advisory = new TravelAdvisory();
         if(usTravelAdvisories.containsKey(countryBackendID)) {
             final String url = "https://travel.state.gov" + usTravelAdvisories.get(countryBackendID);
@@ -98,7 +97,7 @@ public enum TravelAdvisories implements CountryService {
         if(!advisory.isEmpty()) {
             string = "\"Travel Advisories\":" + advisory.toString();
         }
-        handler.handleServiceResponse(this, string);
+        return string;
     }
 
     private final class TravelAdvisory {

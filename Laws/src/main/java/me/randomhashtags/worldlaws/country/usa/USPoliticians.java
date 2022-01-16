@@ -20,25 +20,18 @@ public enum USPoliticians implements Jsonable {
 
     private static final HashMap<String, String> CACHE = new HashMap<>();
 
-    public void get(Element elements, String profileSlug, CompletionHandler handler) {
-        if(CACHE.containsKey(profileSlug)) {
-            handler.handleString(CACHE.get(profileSlug));
-        } else {
-            final CompletionHandler completion = new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    CACHE.put(profileSlug, string);
-                    handler.handleString(string);
-                }
-            };
-            getFromBill(profileSlug, elements, completion);
+    public String get(Element elements, String profileSlug) {
+        if(!CACHE.containsKey(profileSlug)) {
+            final String string = getFromBill(profileSlug, elements);
+            CACHE.put(profileSlug, string);
         }
+        return CACHE.get(profileSlug);
     }
-    private void getFromBill(String profileSlug, Element element, CompletionHandler handler) {
+    private String getFromBill(String profileSlug, Element element) {
         final String fileName = profileSlug.substring("members/".length()).replace("/", "-");
-        getJSONObject(Folder.LAWS_USA_MEMBERS, fileName, new CompletionHandler() {
+        final JSONObject json = getJSONObject(Folder.LAWS_USA_MEMBERS, fileName, new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
+            public String loadJSONObjectString() {
                 final String text = element.text();
                 final String[] describingValues = text.split(" \\[")[1].split("]")[0].split("-");
                 final PoliticalParty party = PoliticalParty.fromAbbreviation(describingValues[0]);
@@ -75,14 +68,11 @@ public enum USPoliticians implements Jsonable {
                 }
                 final USPolitician politician = new USPolitician(name, governedTerritory, district, party, imageURL, url.substring("https://www.congress.gov/member/".length()), website);
                 final String string = politician.toServerJSON();
-                handler.handleString(string);
-            }
-
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                final USPolitician politician = new USPolitician(json);
-                handler.handleString(politician.toJSON());
+                return string;
             }
         });
+
+        final USPolitician politician = new USPolitician(json);
+        return politician.toJSON();
     }
 }

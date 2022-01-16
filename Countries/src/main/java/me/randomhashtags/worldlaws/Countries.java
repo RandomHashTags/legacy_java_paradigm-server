@@ -2,6 +2,8 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.country.WLCurrency;
+import me.randomhashtags.worldlaws.currency.CurrencyExchange;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
 import me.randomhashtags.worldlaws.info.agriculture.ProductionFoods;
@@ -34,7 +36,7 @@ import java.util.stream.Collectors;
 // https://en.wikipedia.org/wiki/Lists_by_country
 public final class Countries implements WLServer {
 
-    private HashMap<String, CustomCountry> countriesMap;
+    private final HashMap<String, CustomCountry> countriesMap;
     private String countriesCacheJSON;
 
     public static void main(String[] args) {
@@ -42,6 +44,7 @@ public final class Countries implements WLServer {
     }
 
     private Countries() {
+        countriesMap = new HashMap<>();
         //test();
         load();
     }
@@ -52,18 +55,9 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        loadServices();
-        loadCountries(new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                getServerResponse(APIVersion.v1, "information/canada", new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        WLLogger.logInfo("Countries;test;string=" + string);
-                    }
-                });
-            }
-        });
+        WLLogger.logInfo("Countries;test;test1=" + CurrencyExchange.get(WLCurrency.EUR, WLCurrency.AUD));
+        WLLogger.logInfo("Countries;test;test2=" + CurrencyExchange.get(WLCurrency.AUD, WLCurrency.EUR));
+        WLLogger.logInfo("Countries;test;test3=" + CurrencyExchange.get(WLCurrency.USD, WLCurrency.EUR));
     }
 
     @Override
@@ -114,18 +108,17 @@ public final class Countries implements WLServer {
         });
     }
 
-    private void getCountries(CompletionHandler handler) {
-        if(countriesCacheJSON != null) {
-            handler.handleString(countriesCacheJSON);
-        } else {
-            loadCountries(handler);
+    private String getCountries() {
+        if(countriesCacheJSON == null) {
+            loadCountries();
         }
+        return countriesCacheJSON;
     }
-    private void loadCountries(CompletionHandler handler) {
+    private String loadCountries() {
         final long started = System.currentTimeMillis();
-        getJSONArray(Folder.COUNTRIES, "_List of sovereign states", new CompletionHandler() {
+        final JSONArray array = getJSONArray(Folder.COUNTRIES, "_List of sovereign states", new CompletionHandler() {
             @Override
-            public void load(CompletionHandler handler) {
+            public String loadJSONArrayString() {
                 final Elements table = getDocumentElements(Folder.COUNTRIES, "https://en.wikipedia.org/wiki/List_of_sovereign_states", true, "table.sortable tbody tr");
                 for(int i = 1; i <= 2; i++) {
                     table.remove(0);
@@ -165,25 +158,20 @@ public final class Countries implements WLServer {
                     isFirst = false;
                 }
                 builder.append("]");
-                handler.handleString(builder.toString());
-            }
-
-            @Override
-            public void handleJSONArray(JSONArray array) {
-                loadCountries(started, array, handler);
+                return builder.toString();
             }
         });
+        return loadCountries(started, array);
     }
-    private void loadCountries(long started, JSONArray array, CompletionHandler handler) {
+    private String loadCountries(long started, JSONArray array) {
         final Folder folder = Folder.COUNTRIES;
         final String fileName = "_Countries";
-        countriesMap = new HashMap<>();
         JSONObject countriesJSON = getLocalFileJSONObject(folder, fileName);
         final int responseVersion = countriesJSON != null ? countriesJSON.has("response_version") ? countriesJSON.getInt("response_version") : 1 : 0;
         if(countriesJSON == null || responseVersion != ResponseVersions.COUNTRIES.getValue()) {
             countriesJSON = loadCountriesJSON(folder, fileName, array);
         }
-        loadCountriesFromJSON(started, countriesJSON, handler);
+        return loadCountriesFromJSON(started, countriesJSON);
     }
     private JSONObject loadCountriesJSON(Folder folder, String fileName, JSONArray array) {
         final JSONObject json = new JSONObject();
@@ -200,7 +188,7 @@ public final class Countries implements WLServer {
         setFileJSON(folder, fileName, json.toString());
         return json;
     }
-    private void loadCountriesFromJSON(long started, JSONObject countriesJSON, CompletionHandler handler) {
+    private String loadCountriesFromJSON(long started, JSONObject countriesJSON) {
         countriesJSON.remove("response_version");
         countriesCacheJSON = countriesJSON.toString();
         if(countriesMap.isEmpty()) {
@@ -212,9 +200,7 @@ public final class Countries implements WLServer {
         }
         checkForMissingValues();
         WLLogger.logInfo("Countries - loaded " + countriesMap.size() + " countries (took " + (System.currentTimeMillis()-started) + "ms)");
-        if(handler != null) {
-            handler.handleString(countriesCacheJSON);
-        }
+        return countriesCacheJSON;
     }
 
     private String getUNStatus(String input) {
@@ -252,19 +238,16 @@ public final class Countries implements WLServer {
     }
 
     @Override
-    public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
+    public String getServerResponse(APIVersion version, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
             case "ranked":
-                CountryRankingServices.getRanked(values[1], handler);
-                break;
+                return CountryRankingServices.getRanked(values[1]);
             case "filters":
-                handler.handleString(getFilters());
-                break;
+                return getFilters();
             case "countries":
-                getCountries(handler);
-                break;
+                return getCountries();
             case "information":
                 final String value = values[1];
                 final CustomCountry country = countriesMap.get(value);
@@ -272,29 +255,24 @@ public final class Countries implements WLServer {
                     final int length = values.length;
                     switch (length) {
                         case 2:
-                            country.getInformation(version, handler);
-                            break;
+                            return country.getInformation(version);
                         case 3:
                             final String subdivisionBackendID = values[2];
                             final SovereignStateSubdivision subdivision = country.getWLCountry().valueOfSovereignStateSubdivision(subdivisionBackendID);
                             if(subdivision != null) {
-                                subdivision.getInformation(version, handler);
+                                return subdivision.getInformation(version);
                             } else {
                                 WLLogger.logError(this, "getServerResponse - failed to get information for subdivision \"" + subdivisionBackendID + "\" from country \"" + country.getBackendID() + "\"!");
                             }
-                            break;
+                            return null;
                         default:
-                            handler.handleString(null);
-                            break;
+                            return null;
                     }
-                } else {
-                    handler.handleString(null);
                 }
-                break;
+                return null;
             default:
                 WLLogger.logError(this, "getServerResponse - failed to send response using target \"" + target + "\"!");
-                handler.handleString(null);
-                break;
+                return null;
         }
     }
 

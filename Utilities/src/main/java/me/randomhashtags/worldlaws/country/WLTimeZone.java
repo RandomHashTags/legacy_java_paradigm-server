@@ -156,7 +156,7 @@ public enum WLTimeZone { // https://www.timeanddate.com/time/map/ | https://www.
         return identifier;
     }
 
-    public static WLTimeZone[] getFromCountry(WLCountry country) {
+    public static WLTimeZone[] get(WLCountry country) {
         switch (country) {
             case AFGHANISTAN: return getAfghanistan();
             case ALBANIA:

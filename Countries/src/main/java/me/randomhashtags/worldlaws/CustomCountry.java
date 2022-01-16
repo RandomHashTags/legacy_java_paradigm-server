@@ -89,17 +89,17 @@ public final class CustomCountry implements SovereignState {
     }
 
     @Override
-    public void getInformation(APIVersion version, CompletionHandler handler) {
-        if(informationCache != null) {
-            handler.handleString(informationCache);
-        } else {
+    public String getInformation(APIVersion version) {
+        if(informationCache == null) {
             final long started = System.currentTimeMillis();
-            getJSONObject(Folder.COUNTRIES_INFORMATION, shortName, new CompletionHandler() {
+            final JSONObject json = getJSONObject(Folder.COUNTRIES_INFORMATION, shortName, new CompletionHandler() {
                 @Override
-                public void load(CompletionHandler handler) {
+                public String loadJSONObjectString() {
                     final ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values = new ConcurrentHashMap<>();
                     final WLCountry country = getWLCountry();
-                    if(country != null) {
+                    if(country == null) {
+                        return "{}";
+                    } else {
                         final HashSet<CountryService> services = new HashSet<>(CountryServices.STATIC_SERVICES);
                         final EventSources resources = new EventSources();
 
@@ -113,7 +113,7 @@ public final class CustomCountry implements SovereignState {
                         }
                         values.put(SovereignStateInformationType.RESOURCES_STATIC, set);
 
-                        final WLCountry[] neighbors = WLCountryNeighbors.get(country);
+                        final WLCountry[] neighbors = country.getNeighbors();
                         if(neighbors != null) {
                             final HashSet<String> array = new HashSet<>();
                             for(WLCountry neighbor : neighbors) {
@@ -122,7 +122,7 @@ public final class CustomCountry implements SovereignState {
                             values.put(SovereignStateInformationType.NEIGHBORS, array);
                         }
 
-                        final WLCurrency[] currencies = WLCountryCurrencies.get(country);
+                        final WLCurrency[] currencies = country.getCurrencies();
                         if(currencies != null) {
                             final HashSet<String> array = new HashSet<>();
                             for(WLCurrency currency : currencies) {
@@ -130,39 +130,23 @@ public final class CustomCountry implements SovereignState {
                             }
                             values.put(SovereignStateInformationType.CURRENCIES, array);
                         }
-                        loadNew(country, services, values, handler);
-                    } else {
-                        handler.handleString("{}");
+                        return loadNew(country, services, values);
                     }
-                }
-
-                @Override
-                public void handleJSONObject(JSONObject json) {
-                    if(information == null) {
-                        information = new SovereignStateInformation(json);
-                    }
-                    updateNonStaticInformation();
-                    informationCache = information.toString();
-                    WLLogger.logInfo("CustomCountry - loaded information for country \"" + name + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-                    handler.handleString(informationCache);
                 }
             });
+
+            if(information == null) {
+                information = new SovereignStateInformation(json);
+            }
+            updateNonStaticInformation();
+            WLLogger.logInfo("CustomCountry - loaded information for country \"" + name + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
         }
+        return informationCache;
     }
 
     public void updateNonStaticInformation() {
         final SovereignStateInformationType resourcesType = SovereignStateInformationType.RESOURCES_NONSTATIC;
         final String backendID = getBackendID();
-        final CompletionHandler serviceHandler = new CompletionHandler() {
-            @Override
-            public void handleServiceResponse(CountryService service, String string) {
-                if(string != null && !string.equals("null")) {
-                    final SovereignStateInformationType type = service.getInformationType();
-                    information.putIfAbsent(type, new HashSet<>());
-                    information.get(type).add(string);
-                }
-            }
-        };
 
         for(SovereignStateInformationType type : SovereignStateInformationType.values()) {
             if(type.isNonStatic()) {
@@ -174,6 +158,7 @@ public final class CustomCountry implements SovereignState {
             final WLCountry country = getWLCountry();
             final SovereignStateInfo info = service.getInfo();
             final String countryIdentifier;
+            String string = null;
             switch (info) {
                 case SERVICE_CIA_VALUES:
                     final String targetName;
@@ -193,50 +178,33 @@ public final class CustomCountry implements SovereignState {
             }
             if(countryIdentifier != null) {
                 service.loadData();
-                service.getCountryValue(countryIdentifier, new CompletionHandler() {
-                    @Override
-                    public void handleServiceResponse(CountryService service, String string) {
-                        final EventSources resources = service.getResources(countryIdentifier);
-                        if(resources != null && !resources.isEmpty()) {
-                            information.putIfAbsent(resourcesType, new HashSet<>());
-                            for(EventSource resource : resources) {
-                                information.get(resourcesType).add(resource.toString());
-                            }
-                        }
-                        serviceHandler.handleServiceResponse(service, string);
+                final EventSources resources = service.getResources(countryIdentifier);
+                if(resources != null && !resources.isEmpty()) {
+                    information.putIfAbsent(resourcesType, new HashSet<>());
+                    for(EventSource resource : resources) {
+                        information.get(resourcesType).add(resource.toString());
                     }
-                });
+                }
+                string = service.getCountryValue(countryIdentifier);
+            }
+            if(string != null && !string.equals("null")) {
+                final SovereignStateInformationType type = service.getInformationType();
+                information.putIfAbsent(type, new HashSet<>());
+                information.get(type).add(string);
             }
         });
         informationCache = information.toString();
     }
 
-    private void loadNew(WLCountry country, HashSet<CountryService> services, ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values, CompletionHandler handler) {
+    private String loadNew(WLCountry country, HashSet<CountryService> services, ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values) {
         final SovereignStateInformationType resourcesInformationType = SovereignStateInformationType.RESOURCES_STATIC;
         final String backendID = getBackendID();
-        final CompletionHandler serviceHandler = new CompletionHandler() {
-            @Override
-            public void handleServiceResponse(CountryService service, String string) {
-                if(string != null && !string.equals("null")) {
-                    final SovereignStateInformationType type = service.getInformationType();
-                    values.putIfAbsent(type, new HashSet<>());
-
-                    // TODO: make all CountryService's conform to this
-                    if(service instanceof CountryRankingService) {
-                        final String key = "\"" + service.getInfo().getTitle() + "\":";
-                        if(!string.startsWith(key)) {
-                            string = key + string;
-                        }
-                    }
-                    values.get(type).add(string);
-                }
-            }
-        };
 
         ParallelStream.stream(services, serviceObj -> {
             final CountryService service = (CountryService) serviceObj;
             final SovereignStateInfo info = service.getInfo();
             final String countryIdentifier;
+            String string = null;
             switch (info) {
                 case SERVICE_TRAVEL_BRIEFING:
                 case SERVICE_WIKIPEDIA:
@@ -244,34 +212,42 @@ public final class CustomCountry implements SovereignState {
                     break;
                 case SERVICE_COUNTRY_HISTORY:
                     countryIdentifier = null;
-                    ((CountryHistory) service).getCountryValue(country, serviceHandler);
+                    string = ((CountryHistory) service).getCountryValue(country);
                     break;
                 case AVAILABILITIES:
                     countryIdentifier = null;
-                    ((CountryAvailabilities) service).getCountryAvailabilities(backendID, serviceHandler);
+                    string = ((CountryAvailabilities) service).getCountryAvailabilities(backendID);
                     break;
                 default:
                     countryIdentifier = backendID;
                     break;
             }
             if(countryIdentifier != null) {
-                service.getCountryValue(countryIdentifier, new CompletionHandler() {
-                    @Override
-                    public void handleServiceResponse(CountryService service, String string) {
-                        final EventSources resources = service.getResources(countryIdentifier);
-                        if(resources != null && !resources.isEmpty()) {
-                            values.putIfAbsent(resourcesInformationType, new HashSet<>());
-                            for(EventSource resource : resources) {
-                                values.get(resourcesInformationType).add(resource.toString());
-                            }
-                        }
-                        serviceHandler.handleServiceResponse(service, string);
+                final EventSources resources = service.getResources(countryIdentifier);
+                if(resources != null && !resources.isEmpty()) {
+                    values.putIfAbsent(resourcesInformationType, new HashSet<>());
+                    for(EventSource resource : resources) {
+                        values.get(resourcesInformationType).add(resource.toString());
                     }
-                });
+                }
+                string = service.getCountryValue(countryIdentifier);
+            }
+            if(string != null && !string.equals("null")) {
+                final SovereignStateInformationType type = service.getInformationType();
+                values.putIfAbsent(type, new HashSet<>());
+
+                // TODO: make all CountryService's conform to this
+                if(service instanceof CountryRankingService) {
+                    final String key = "\"" + service.getInfo().getTitle() + "\":";
+                    if(!string.startsWith(key)) {
+                        string = key + string;
+                    }
+                }
+                values.get(type).add(string);
             }
         });
         information = new SovereignStateInformation(values);
-        handler.handleString(information.toString());
+        return information.toString();
     }
 
     public WLCountry getWLCountry() {

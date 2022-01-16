@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming.entertainment.videogames;
 
 import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import org.jsoup.nodes.Document;
@@ -14,32 +15,34 @@ import java.util.List;
 
 public final class VideoGamesSteam extends UpcomingEventController {
 
+    private String cache;
+
     @Override
     public UpcomingEventType getType() {
         return UpcomingEventType.VIDEO_GAME;
     }
 
     @Override
-    public void load(CompletionHandler handler) {
-        loadUpcoming(handler);
+    public void load() {
+        refreshStream();
     }
 
     @Override
-    public void loadUpcomingEvent(String id, CompletionHandler handler) {
+    public String loadUpcomingEvent(String id) {
+        return null;
     }
 
-    private void loadUpcoming(CompletionHandler handler) {
+    private void refreshStream() {
         final String url = "https://store.steampowered.com/search/?os=win%2Cmac%2Clinux&filter=popularcomingsoon";
         final Document doc = getDocument(url);
         if(doc != null) {
             final Elements elements = doc.select("div.search_results div a[href]");
             final int max = elements.size();
-            if(max == 0) {
-                handler.handleString(null);
-            } else {
+            if(max > 0) {
                 final UpcomingEventType eventType = getType();
                 final HashSet<VideoGameRelease> releases = new HashSet<>();
-                elements.parallelStream().forEach(element -> {
+                ParallelStream.stream(elements, elementObj -> {
+                    final Element element = (Element) elementObj;
                     String href = element.attr("href");
                     final String[] hrefValues = href.split("/");
                     href = href.substring(0, href.length()-hrefValues[hrefValues.length-1].length()-1);
@@ -58,10 +61,8 @@ public final class VideoGamesSteam extends UpcomingEventController {
                     isFirst = false;
                 }
                 builder.append("}");
-                handler.handleString(builder.toString());
+                cache = builder.toString();
             }
-        } else {
-            handler.handleString(null);
         }
     }
 

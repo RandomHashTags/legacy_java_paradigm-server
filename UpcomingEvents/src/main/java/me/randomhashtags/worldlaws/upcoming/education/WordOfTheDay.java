@@ -19,7 +19,7 @@ public final class WordOfTheDay extends LoadedUpcomingEventController {
     }
 
     @Override
-    public void load(CompletionHandler handler) {
+    public void load() {
         final UpcomingEventType type = getType();
         final String imageURL = "https://www.trendingpod.com/wp-content/uploads/2017/12/1200px-Merriam-Webster_logo-1024x1024.png";
 
@@ -44,11 +44,11 @@ public final class WordOfTheDay extends LoadedUpcomingEventController {
                 putUpcomingEvent(identifier, event.toString());
             }
         }
-        handler.handleString(null);
     }
 
     @Override
-    public void loadUpcomingEvent(String id, CompletionHandler handler) {
+    public String loadUpcomingEvent(String id) {
+        return null;
     }
 
     private WordOfTheDayObj getWordOfTheDay(String url) { // TODO: more in-depth properties (+"see entry")

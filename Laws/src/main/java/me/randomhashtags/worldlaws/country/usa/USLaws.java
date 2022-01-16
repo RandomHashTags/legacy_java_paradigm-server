@@ -41,7 +41,7 @@ public final class USLaws extends LawController {
     }
 
     @Override
-    public void refreshRecentActivity(APIVersion version, CompletionHandler handler) {
+    public String refreshRecentActivity(APIVersion version) {
         final LocalDate startingDate = LocalDate.now().minusDays(7);
         final USCongress congress = USCongress.getCongress(getCurrentAdministrationVersion());
         final USBillStatus[] statuses = new USBillStatus[] {
@@ -52,19 +52,13 @@ public final class USLaws extends LawController {
         final HashMap<USBillStatus, HashSet<PreCongressBill>> values = new HashMap<>();
         ParallelStream.stream(Arrays.asList(statuses), statusObj -> {
             final USBillStatus status = (USBillStatus) statusObj;
-            congress.getPreCongressBillsBySearch(status, new CompletionHandler() {
-                @Override
-                public void handleObject(Object object) {
-                    if(object != null) {
-                        @SuppressWarnings({ "unchecked" })
-                        final HashSet<PreCongressBill> bills = (HashSet<PreCongressBill>) object;
-                        bills.removeIf(bill -> bill.getDate().getLocalDate().isBefore(startingDate));
-                        if(!bills.isEmpty()) {
-                            values.put(status, bills);
-                        }
-                    }
+            final HashSet<PreCongressBill> bills = congress.getPreCongressBillsBySearch(status);
+            if(bills != null) {
+                bills.removeIf(bill -> bill.getDate().getLocalDate().isBefore(startingDate));
+                if(!bills.isEmpty()) {
+                    values.put(status, bills);
                 }
-            });
+            }
         });
 
         String string = null;
@@ -88,92 +82,75 @@ public final class USLaws extends LawController {
             builder.append("}");
             string = builder.toString();
         }
-        handler.handleString(string);
+        return string;
     }
 
     @Override
-    public void getResponse(APIVersion version, String input, CompletionHandler handler) {
+    public String getResponse(APIVersion version, String input) {
         final String[] values = input.replace("?", "").split("/");
         final String key = values[0];
         switch (key) {
             case "federal":
-                FederalGovernment.INSTANCE.getIndexesJSON();
-                break;
+                return FederalGovernment.INSTANCE.getIndexesJSON();
             case "subdivision":
                 final String[] subdivisionValues = input.substring(key.length()+1).split("/");
                 try {
                     final SubdivisionsUnitedStates usstate = SubdivisionsUnitedStates.valueOf(subdivisionValues[0].toUpperCase());
-                    handleSubdivisionResponse(usstate, subdivisionValues, handler);
-                    return;
+                    return handleSubdivisionResponse(usstate, subdivisionValues);
                 } catch (Exception e) {
                     WLUtilities.saveException(e);
                 }
-                handler.handleString(null);
-                break;
+                return null;
             default:
                 WLLogger.logError(this, "getResponse(" + input + ") == null!");
-                handler.handleString(null);
-                break;
+                return null;
         }
     }
 
     @Override
-    public void getGovernmentResponse(APIVersion version, int administration, String input, CompletionHandler handler) {
+    public String getGovernmentResponse(APIVersion version, int administration, String input) {
         final String[] values = input.split("/");
         final String key = values[0];
         final USCongress congress = USCongress.getCongress(administration);
         switch (key) {
             case "enactedbills":
-                congress.getEnactedBills(handler);
-                break;
+                return congress.getEnactedBills();
             case "bill":
-                congress.getBill(USChamber.valueOf(values[1].toUpperCase()), values[2], handler);
-                break;
+                return congress.getBill(USChamber.valueOf(values[1].toUpperCase()), values[2]);
             case "politician":
-                politicianService.getPolitician(values[1], handler);
-                break;
+                return politicianService.getPolitician(values[1]);
             default:
                 final USBillStatus status = USBillStatus.valueOf(key.toUpperCase());
-                congress.getBillsByStatus(status, handler);
-                break;
+                return congress.getBillsByStatus(status);
         }
     }
 
-    private void handleSubdivisionResponse(SubdivisionsUnitedStates usstate, String[] values, CompletionHandler handler) {
+    private String handleSubdivisionResponse(SubdivisionsUnitedStates usstate, String[] values) {
         final TestLawSubdivisionController controller = getSubdivisionFrom(usstate);
         if(controller != null) {
             final int length = values.length;
             switch (length) {
                 case 1:
-                    controller.getIndexes(handler);
-                    return;
+                    return controller.getIndexes();
                 case 2:
                     final String[] array = values[1].split("\\+");
                     final String zero = array[0];
                     switch (array.length) {
                         case 1:
-                            controller.getTableOfChapters(zero, handler);
-                            return;
+                            return controller.getTableOfChapters(zero);
                         case 2:
-                            controller.getStatutesList(zero, array[1], handler);
-                            return;
+                            return controller.getStatutesList(zero, array[1]);
                         case 3:
-                            controller.getStatute(zero, array[1], array[2], handler);
-                            return;
+                            return controller.getStatute(zero, array[1], array[2]);
                         default:
-                            break;
+                            return null;
                     }
                 default:
-                    break;
+                    return null;
             }
         } else {
-            final String response = getSubdivisionResponse(usstate, values);
-            if(response != null) {
-                handler.handleString(response);
-                return;
-            }
+            return getSubdivisionResponse(usstate, values);
         }
-        handler.handleString(null);
     }
     private String getSubdivisionResponse(SubdivisionsUnitedStates usstate, String[] values) {
         final LawSubdivisionController state = getStateFrom(usstate);

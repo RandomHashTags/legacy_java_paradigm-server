@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.country.usa.state.recode;
 
-import me.randomhashtags.worldlaws.CompletionHandlerLaws;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.RomanNumeral;
@@ -38,15 +37,15 @@ public final class NewHampshire extends TestLawSubdivisionController {
     }
 
     @Override
-    public void loadTableOfChapters(String index, CompletionHandlerLaws handler) {
+    public HashSet<? extends TestStatuteChapter> loadTableOfChapters(String index) {
         index = convertIndexToRoman(index);
-        super.loadTableOfChapters(index, handler);
+        return super.loadTableOfChapters(index);
     }
 
     @Override
-    public void loadStatutesList(String index, String chapter, CompletionHandlerLaws handler) {
+    public HashSet<? extends TestStatuteStatute> loadStatutesList(String index, String chapter) {
         index = convertIndexToRoman(index);
-        super.loadStatutesList(index, chapter, handler);
+        return super.loadStatutesList(index, chapter);
     }
 
     @Override
@@ -93,15 +92,15 @@ public final class NewHampshire extends TestLawSubdivisionController {
     }
 
     @Override
-    public void loadStatute(String index, String chapter, String section, CompletionHandlerLaws handler) {
+    public TestStatute loadStatute(String index, String chapter, String section) {
         index = convertIndexToRoman(index);
         final String url = statuteURL.replace("%index%", index).replace("%chapter%", chapter).replace("%section%", section);
         final Document doc = getDocument(url);
+        TestStatute statute = null;
         if(doc != null) {
             final String titleKey = chapter + ":" + section + " ";
             final Elements titles = doc.select("body b"), titleDescriptions = doc.select("body codesect");
             titles.remove(titles.size()-1);
-            final TestStatute statute;
             final EventSources sources = new EventSources();
             sources.add(new EventSource("New Hampshire Legislature: Statute Page", url));
             if(titles.size() == 1) {
@@ -114,9 +113,7 @@ public final class NewHampshire extends TestLawSubdivisionController {
                 final List<TestSubdivision> subdivisions = new ArrayList<>();
                 statute = new TestStatute("Unknown Title", "Unknown Description", subdivisions, sources);
             }
-            handler.handleStatute(statute);
-            return;
         }
-        handler.handleStatute(null);
+        return statute;
     }
 }

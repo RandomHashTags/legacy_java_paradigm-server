@@ -34,15 +34,14 @@ public final class Technology implements WLServer {
     }
 
     @Override
-    public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
+    public String getServerResponse(APIVersion version, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
             case "smartphones":
-                getSmartphoneCompanyResponse(target.substring(key.length()+1), handler);
-                break;
+                return getSmartphoneCompanyResponse(target.substring(key.length()+1));
             default:
-                break;
+                return null;
         }
     }
 
@@ -56,24 +55,23 @@ public final class Technology implements WLServer {
         return null;
     }
 
-    private void getSmartphoneCompanyResponse(String target, CompletionHandler handler) {
+    private String getSmartphoneCompanyResponse(String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
             case "brands":
-                handler.handleString(getSmartphoneBrands());
-                break;
+                return getSmartphoneBrands();
             default:
                 final int length = values.length;
                 final SmartphoneCompany smartphoneCompany = valueOfSmartphoneCompanyBackendID(key);
                 if(smartphoneCompany != null) {
                     if(length == 1) {
-                        smartphoneCompany.getSmartphoneListJSON(handler);
+                        return smartphoneCompany.getSmartphoneListJSON();
                     } else if(length == 2) {
-                        smartphoneCompany.getSmartphoneDetails(values[1], handler);
+                        return smartphoneCompany.getSmartphoneDetails(values[1]);
                     }
                 }
-                break;
+                return null;
         }
     }
     private String getSmartphoneBrands() {

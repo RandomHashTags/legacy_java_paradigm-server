@@ -20,7 +20,7 @@ public final class Feedback implements WLServer, Jsonable {
     }
 
     @Override
-    public void getServerResponse(APIVersion version, String target, CompletionHandler handler) {
+    public String getServerResponse(APIVersion version, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         final String fileName = Long.toString(System.currentTimeMillis());
@@ -28,23 +28,18 @@ public final class Feedback implements WLServer, Jsonable {
             case "submit":
                 switch (values[1]) {
                     case "bug_report":
-                        submit(Folder.FEEDBACK_BUG_REPORTS, fileName, values[2], handler);
-                        break;
+                        return submit(Folder.FEEDBACK_BUG_REPORTS, fileName, values[2]);
                     case "feature_request":
-                        submit(Folder.FEEDBACK_FEATURE_REQUEST, fileName, values[2], handler);
-                        break;
+                        return submit(Folder.FEEDBACK_FEATURE_REQUEST, fileName, values[2]);
                     default:
-                        break;
+                        return null;
                 }
-                break;
             case "bug_reports":
-                handler.handleString(getAllBugReports());
-                break;
+                return getAllBugReports();
             case "feature_requests":
-                handler.handleString(getAllFeatureRequests());
-                break;
+                return getAllFeatureRequests();
             default:
-                break;
+                return null;
         }
     }
 
@@ -58,8 +53,9 @@ public final class Feedback implements WLServer, Jsonable {
         return null;
     }
 
-    private void submit(Folder folder, String fileName, String value, CompletionHandler handler) {
+    private String submit(Folder folder, String fileName, String value) {
         setFileJSON(folder, fileName, value);
+        return null;
     }
 
     private String getText(String[] headers) {

@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.smartphones;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLLogger;
@@ -25,35 +24,23 @@ public enum PhonesGoogle implements SmartphoneCompany {
     }
 
     @Override
-    public void getSmartphoneListJSON(CompletionHandler handler) {
-        if(modelsList != null) {
-            handler.handleString(modelsList);
-        } else {
-            refresh(new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    handler.handleString(modelsList);
-                }
-            });
+    public String getSmartphoneListJSON() {
+        if(modelsList == null) {
+            refresh();
         }
+        return modelsList;
     }
 
     @Override
-    public void getSmartphoneDetails(String model, CompletionHandler handler) {
-        if(models != null) {
-            handler.handleString(models.get(model));
-        } else {
+    public String getSmartphoneDetails(String model) {
+        if(models == null) {
             models = new HashMap<>();
-            refresh(new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    handler.handleString(models.get(model));
-                }
-            });
+            refresh();
         }
+        return models.get(model);
     }
 
-    private void refresh(CompletionHandler handler) {
+    private void refresh() {
         final long started = System.currentTimeMillis();
         models = new HashMap<>();
         final String url = "https://en.wikipedia.org/wiki/Comparison_of_Google_Pixel_smartphones";
@@ -74,10 +61,8 @@ public enum PhonesGoogle implements SmartphoneCompany {
             }
         }
         builder.append("]");
-        final String string = builder.toString();
-        modelsList = string;
+        modelsList = builder.toString();
         WLLogger.logInfo("PhonesGoogle - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
-        handler.handleString(string);
     }
     private List<Smartphone> getPhonesFromTable(Element table, String url) {
         final String brand = getBackendID();

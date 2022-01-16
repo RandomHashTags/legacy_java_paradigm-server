@@ -31,110 +31,88 @@ public enum WeatherAlerts {
         };
     }
 
-    public void getResponse(String value, CompletionHandler handler) {
+    public String getResponse(String value) {
         final String[] values = value.split("/");
         final String key = values[0];
         String country, prefix, target;
         switch (key) {
             case "all":
-                getAll(handler);
-                break;
+                return getAll();
             case "event":
-                getAllPreAlerts(values[1], handler);
-                break;
+                return getAllPreAlerts(values[1]);
             case "country":
                 country = values[1];
                 prefix = key + "/" + country;
                 final String[] countryValues = value.equals(prefix) ? null : value.substring(prefix.length()+1).split("/");
-                getAlertsForCountry(country, countryValues, handler);
-                break;
+                return getAlertsForCountry(country, countryValues);
             case "subdivision":
                 country = values[1];
                 final String subdivision = values[2];
                 prefix = key + "/" + country + "/" + subdivision;
                 target = value.equals(prefix) ? "" : value.substring(prefix.length()+1);
-                getAlertsForSubdivision(country, subdivision, target.split("/"), handler);
-                break;
+                return getAlertsForSubdivision(country, subdivision, target.split("/"));
             default:
-                break;
+                return null;
         }
     }
-    private void getAlertsForCountry(String country, String[] values, CompletionHandler handler) {
+    private String getAlertsForCountry(String country, String[] values) {
         final WeatherController weather = getCountryWeather(country);
         if(weather != null) {
             if(values == null) {
                 final String countryBackendID = weather.getCountry().getBackendID();
                 if(countries.containsKey(countryBackendID)) {
-                    final String string = countries.get(countryBackendID);
-                    handler.handleString(string);
+                    return countries.get(countryBackendID);
                 } else {
-                    refreshCountry(weather, new CompletionHandler() {
-                        @Override
-                        public void handleStringValue(String key, String value) {
-                            handler.handleString(value);
-                        }
-                    });
+                    final String value = refreshCountry(weather);
+                    countries.put(countryBackendID, value);
                 }
             } else {
                 switch (values[0]) {
                     case "event":
-                        weather.getEventPreAlerts().get(values[1]);
-                        break;
+                        return weather.getEventPreAlerts().get(values[1]);
                     case "id":
-                        weather.getAlert(values[1], handler);
-                        break;
+                        return weather.getAlert(values[1]);
                     case "zone":
-                        weather.getZone(values[1], handler);
-                        break;
+                        return weather.getZone(values[1]);
                     case "zones":
                         final String[] zoneIDs = values[1].split(",");
-                        weather.getZones(zoneIDs, handler);
-                        break;
+                        return weather.getZones(zoneIDs);
                     default:
-                        handler.handleString(null);
                         break;
                 }
             }
-        } else {
-            handler.handleString(null);
         }
+        return null;
     }
-    private void getAlertsForSubdivision(String country, String subdivision, String[] values, CompletionHandler handler) {
+    private String getAlertsForSubdivision(String country, String subdivision, String[] values) {
         final WeatherController weather = getCountryWeather(country);
         if(weather != null) {
             switch (values[0]) {
                 case "":
-                    weather.getSubdivisionEvents(subdivision, handler);
-                    break;
+                    return weather.getSubdivisionEvents(subdivision);
                 case "event":
-                    weather.getSubdivisionPreAlerts(subdivision, values[1], handler);
-                    break;
+                    return weather.getSubdivisionPreAlerts(subdivision, values[1]);
                 default:
-                    handler.handleString(null);
-                    break;
+                    return null;
             }
         } else {
-            handler.handleString(null);
+            return null;
         }
     }
 
-    private void getAllPreAlerts(String event, CompletionHandler handler) {
+    private String getAllPreAlerts(String event) {
         final WeatherController[] controllers = getCountries();
         final HashSet<String> values = new HashSet<>();
         ParallelStream.stream(Arrays.asList(controllers), controllerObj -> {
             final WeatherController controller = (WeatherController) controllerObj;
-            controller.getPreAlerts(event, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    if(string != null) {
-                        final String country = controller.getCountry().getBackendID();
-                        final String source = "\"source\":{" + controller.getSource().toString() + "}";
-                        final String alerts = "\"alerts\":" + string;
-                        final String value = "\"" + country + "\":{" + source + "," + alerts + "}";
-                        values.add(value);
-                    }
-                }
-            });
+            final String string = controller.getPreAlerts(event);
+            if(string != null) {
+                final String country = controller.getCountry().getBackendID();
+                final String source = "\"source\":{" + controller.getSource().toString() + "}";
+                final String alerts = "\"alerts\":" + string;
+                final String value = "\"" + country + "\":{" + source + "," + alerts + "}";
+                values.add(value);
+            }
         });
 
         String value = null;
@@ -148,47 +126,39 @@ public enum WeatherAlerts {
             builder.append("}");
             value = builder.toString();
         }
-        handler.handleString(value);
+        return value;
     }
 
-    private void getAll(CompletionHandler handler) {
-        if(allAlertsJSON != null) {
-            handler.handleString(allAlertsJSON);
-        } else {
+    private String getAll() {
+        if(allAlertsJSON == null) {
             Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL, new CompletionHandler() {
                 @Override
                 public void handleObject(Object object) {
-                    refresh(true, null);
+                    refresh(true);
                 }
             });
-            refresh(false, handler);
+            refresh(false);
         }
+        return allAlertsJSON;
     }
-    private void refreshCountry(WeatherController controller, CompletionHandler handler) {
+    private String refreshCountry(WeatherController controller) {
         final String countryBackendID = controller.getCountry().getBackendID();
-        controller.refresh(new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                if(string != null) {
-                    countries.put(countryBackendID, string);
-                } else {
-                    countries.remove(countryBackendID);
-                }
-                handler.handleStringValue(controller.getClass().getSimpleName(), string);
-            }
-        });
+        final String string = controller.refresh();
+        if(string != null) {
+            countries.put(countryBackendID, string);
+        } else {
+            countries.remove(countryBackendID);
+        }
+        return string;
     }
-    private void refresh(boolean isAutoUpdate, CompletionHandler handler) {
+    private void refresh(boolean isAutoUpdate) {
         final long started = System.currentTimeMillis();
         final HashMap<String, Long> controllerLoadTimes = new HashMap<>();
         final WeatherController[] countries = getCountries();
-        final CompletionHandler completionHandler = new CompletionHandler() {
-            @Override
-            public void handleStringValue(String key, String value) {
-                controllerLoadTimes.put(key, System.currentTimeMillis()-started);
-            }
-        };
-        ParallelStream.stream(Arrays.asList(countries), weather -> refreshCountry((WeatherController) weather, completionHandler));
+        ParallelStream.stream(Arrays.asList(countries), weather -> {
+            refreshCountry((WeatherController) weather);
+            controllerLoadTimes.put(weather.getClass().getSimpleName(), System.currentTimeMillis()-started);
+        });
 
         updateJSON();
         final StringBuilder loadTimes = new StringBuilder();
@@ -200,9 +170,6 @@ public enum WeatherAlerts {
             isFirst = false;
         }
         WLLogger.logInfo("WeatherAlerts - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + (System.currentTimeMillis()-started) + "ms total, " + loadTimes.toString() + ")");
-        if(handler != null) {
-            handler.handleString(allAlertsJSON);
-        }
     }
     private void updateJSON() {
         final StringBuilder builder = new StringBuilder("{");

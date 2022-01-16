@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.info.rankings;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
@@ -10,8 +9,10 @@ import org.json.JSONObject;
 import org.jsoup.select.Elements;
 
 import java.util.Collection;
+import java.util.HashMap;
 
 public interface CountryRankingService extends CountryService {
+    HashMap<SovereignStateInformationType, String> RANKED_JSONS = new HashMap<>();
     String getURL();
     String getSiteName();
     String getSuffix();
@@ -35,9 +36,6 @@ public interface CountryRankingService extends CountryService {
         return getDocumentElements(Folder.COUNTRIES_RANKINGS, url, targetElements, index);
     }
 
-    String getRankedJSON();
-    void setRankedJSON(String rankedJSON);
-
     @Override
     default void insertValuesIntoCountryValueJSONObject(JSONObject json) {
         final int yearOfData = getYearOfData();
@@ -54,14 +52,13 @@ public interface CountryRankingService extends CountryService {
         json.put("sources", sources.toJSONObject());
     }
 
-    default void getRankedJSON(CompletionHandler handler) {
-        final String rankedJSON = getRankedJSON();
-        if(rankedJSON != null) {
-            handler.handleString(rankedJSON);
-        } else {
-            loadData();
-            handler.handleString(getRankedJSON());
+    default String getRankedJSON() {
+        final SovereignStateInformationType type = getInformationType();
+        if(!RANKED_JSONS.containsKey(type)) {
+            final String string = loadData();
+            RANKED_JSONS.put(type, string);
         }
+        return RANKED_JSONS.get(type);
     }
 
     private String toRankedJSON(Collection<CountryRankingInfoValue> values) {

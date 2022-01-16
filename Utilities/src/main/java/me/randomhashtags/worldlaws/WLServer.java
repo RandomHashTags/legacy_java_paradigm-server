@@ -50,59 +50,44 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 if(identifier == null) {
                     identifier = "null";
                 }
-                getResponse(localServer, identifier, target, new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        client.sendResponse(string);
-                    }
-                });
+                final String string = getResponse(localServer, identifier, target);
+                client.sendResponse(string);
             }
         };
         localServer.setCompletionHandler(handler);
     }
 
-    private void getResponse(LocalServer localServer, String identifier, String target, CompletionHandler handler) {
+    private String getResponse(LocalServer localServer, String identifier, String target) {
         final String[] values = target.split("/");
         final String versionString = values[0];
         final APIVersion version = APIVersion.valueOfInput(versionString);
         switch (values[1]) {
             case "home":
-                getHomeResponse(version, handler);
-                break;
+                return getHomeResponse(version);
             case "ping":
-                handler.handleString("1");
-                break;
+                return "1";
             default:
                 localServer.madeRequest(identifier, target);
-                getServerResponse(version, target.substring(versionString.length() + 1), new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        if(string == null) {
-                            string = WLUtilities.SERVER_EMPTY_JSON_RESPONSE;
-                        }
-                        handler.handleString(string);
-                    }
-                });
-                break;
+                String string = getServerResponse(version, target.substring(versionString.length() + 1));
+                if(string == null) {
+                    string = WLUtilities.SERVER_EMPTY_JSON_RESPONSE;
+                }
+                return string;
         }
     }
-    void getServerResponse(APIVersion version, String target, CompletionHandler handler);
+    String getServerResponse(APIVersion version, String target);
     AutoUpdateSettings getAutoUpdateSettings();
     String[] getHomeRequests();
-    default void getHomeResponse(APIVersion version, CompletionHandler handler) {
+    default String getHomeResponse(APIVersion version) {
         final TargetServer server = getServer();
         CACHED_HOME_RESPONSES.putIfAbsent(server, new HashMap<>());
         final HashMap<APIVersion, String> map = CACHED_HOME_RESPONSES.get(server);
         if(map.containsKey(version)) {
-            handler.handleString(map.get(version));
+            return map.get(version);
         } else {
-            refreshHome(server, version, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    tryStartingAutoUpdates(server, version);
-                    handler.handleString(string);
-                }
-            });
+            final String string = refreshHome(server, version);
+            tryStartingAutoUpdates(server, version);
+            return string;
         }
     }
     private void tryStartingAutoUpdates(TargetServer server, APIVersion version) {
@@ -129,32 +114,25 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             });
         }
     }
-    private void refreshHome(String simpleName, long started, String serverName, TargetServer server, APIVersion version) {
-        refreshHome(server, version, new CompletionHandler() {
-            @Override
-            public void handleString(String string) {
-                WLLogger.logInfo(simpleName + " - auto updated \"" + serverName + "\"'s home response (took " + (System.currentTimeMillis()-started) + "ms)");
-            }
-        });
+    private String refreshHome(String simpleName, long started, String serverName, TargetServer server, APIVersion version) {
+        final String string = refreshHome(server, version);
+        WLLogger.logInfo(simpleName + " - auto updated \"" + serverName + "\"'s home response (took " + (System.currentTimeMillis()-started) + "ms)");
+        return string;
     }
-    private void refreshHome(TargetServer server, APIVersion version, CompletionHandler handler) {
+    private String refreshHome(TargetServer server, APIVersion version) {
         final String[] requests = getHomeRequests();
         if(requests == null) {
             CACHED_HOME_RESPONSES.get(server).put(version, null);
-            handler.handleString(null);
+            return null;
         } else {
             final HashSet<String> values = new HashSet<>();
             ParallelStream.stream(Arrays.asList(requests), requestObj -> {
                 final String request = (String) requestObj;
-                getServerResponse(version, request, new CompletionHandler() {
-                    @Override
-                    public void handleString(String string) {
-                        if(string != null) {
-                            final String target = "\"" + request + "\":" + string;
-                            values.add(target);
-                        }
-                    }
-                });
+                final String string = getServerResponse(version, request);
+                if(string != null) {
+                    final String target = "\"" + request + "\":" + string;
+                    values.add(target);
+                }
             });
 
             String value = null;
@@ -169,7 +147,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 value = builder.toString();
             }
             CACHED_HOME_RESPONSES.get(server).put(version, value);
-            handler.handleString(value);
+            return value;
         }
     }
 }

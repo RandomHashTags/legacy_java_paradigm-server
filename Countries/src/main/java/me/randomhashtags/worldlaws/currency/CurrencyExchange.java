@@ -1,84 +1,49 @@
 package me.randomhashtags.worldlaws.currency;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-import me.randomhashtags.worldlaws.RequestMethod;
-import me.randomhashtags.worldlaws.RestAPI;
-import me.randomhashtags.worldlaws.WLLogger;
-import org.json.JSONArray;
-import org.json.JSONObject;
+import me.randomhashtags.worldlaws.Folder;
+import me.randomhashtags.worldlaws.Jsoupable;
+import me.randomhashtags.worldlaws.country.WLCurrency;
+import org.jsoup.nodes.Document;
+import org.jsoup.select.Elements;
 
 import java.util.HashMap;
 
-public enum CurrencyExchange implements RestAPI {
-    INSTANCE;
+public enum CurrencyExchange {
+    ;
 
-    private HashMap<Integer, String> exchangeRates;
-    private HashMap<Integer, HashMap<String, String>> countryExchangeRates;
+    private static final HashMap<WLCurrency, HashMap<WLCurrency, Double>> EXCHANGE_RATES = new HashMap<>();
 
-    CurrencyExchange() {
-        exchangeRates = new HashMap<>();
-        countryExchangeRates = new HashMap<>();
-    }
-
-    public void getExchangeRates(int year, CompletionHandler handler) {
-        if(exchangeRates.containsKey(year)) {
-            handler.handleString(exchangeRates.get(year));
-        } else {
-            refreshCurrencyExchange(year, handler);
+    static {
+        for(WLCurrency currency : WLCurrency.values()) {
+            EXCHANGE_RATES.put(currency, new HashMap<>());
         }
     }
-    public void getExchangeRates(int year, String country, CompletionHandler handler) {
-        if(countryExchangeRates.containsKey(year)) {
-            final String value = getValue(year, country);
-            handler.handleString(value);
+
+    public static double get(WLCurrency from, WLCurrency to) {
+        if(from == to) {
+            return 1;
+        } else if(EXCHANGE_RATES.get(from).containsKey(to)) {
+            return EXCHANGE_RATES.get(from).get(to);
         } else {
-            refreshCurrencyExchange(year, new CompletionHandler() {
-                @Override
-                public void handleString(String string) {
-                    final String value = getValue(year, country);
-                    handler.handleString(value);
-                }
-            });
+            return update(from, to);
         }
     }
-    private String getValue(int year, String country) {
-        country = country.toLowerCase();
-        return countryExchangeRates.containsKey(year) ? countryExchangeRates.get(year).getOrDefault(country.toLowerCase(), null) : null;
-    }
 
-    private void refreshCurrencyExchange(int year, CompletionHandler handler) {
-        final long started = System.currentTimeMillis();
-        final String url = "https://www.transparency.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange?fields=record_date,country,currency,exchange_rate&filter=record_calendar_year:eq:" + year + "&sort=-record_date&page[size]=200";
-        requestJSONObject(url, RequestMethod.GET, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                final JSONArray data = json.getJSONArray("data");
-                final JSONObject first = data.getJSONObject(0);
-                final int month = Integer.parseInt(first.getString("record_date").split("-")[1]);
-                final StringBuilder builder = new StringBuilder("[");
-                boolean isFirst = true;
-                countryExchangeRates.put(year, new HashMap<>());
-                for(Object obj : data) {
-                    final JSONObject currencyJSON = (JSONObject) obj;
-                    final String recordDate = currencyJSON.getString("record_date");
-                    final int recordMonth = Integer.parseInt(recordDate.split("-")[1]);
-                    if(recordMonth == month) {
-                        final String country = currencyJSON.getString("country");
-                        final String currencyName = currencyJSON.getString("currency");
-                        final String exchangeRate = currencyJSON.getString("exchange_rate");
-                        final Currency currency = new Currency(recordDate, country, currencyName, exchangeRate);
-                        final String string = currency.toString();
-                        countryExchangeRates.get(year).put(country.toLowerCase().replace(" ", "_"), string);
-                        builder.append(isFirst ? "" : ",").append(string);
-                        isFirst = false;
-                    }
-                }
-                builder.append("]");
-                final String string = builder.toString();
-                exchangeRates.put(year, string);
-                WLLogger.logInfo("CurrencyExchange - refreshed rates for year " + year + " (took " + (System.currentTimeMillis()-started) + "ms)");
-                handler.handleString(string);
-            }
-        });
+    private static double update(WLCurrency from, WLCurrency to) {
+        final String url = "https://www.xe.com/currencyconverter/convert/?Amount=1&From=" + from.name() + "&To=" + to.name();
+        final Document doc = Jsoupable.getStaticDocument(Folder.OTHER, url, false);
+        double value = 0;
+        if(doc != null) {
+            final Elements form = doc.selectFirst("div main form").select("div p");
+            final String[] values = form.text().split(" = ");
+            final String[] toValues = values[1].split(" ");
+            final double toValue = Double.parseDouble(toValues[0]);
+            value = toValue;
+            EXCHANGE_RATES.get(from).put(to, toValue);
+
+            final double fromValue = Double.parseDouble(values[2].split(" ")[0]);
+            EXCHANGE_RATES.get(to).put(from, fromValue);
+        }
+        return value;
     }
 }

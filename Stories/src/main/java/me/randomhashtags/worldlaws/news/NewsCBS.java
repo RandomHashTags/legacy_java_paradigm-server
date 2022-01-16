@@ -1,14 +1,13 @@
 package me.randomhashtags.worldlaws.news;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.Story;
 import me.randomhashtags.worldlaws.StoryController;
 import me.randomhashtags.worldlaws.StoryObj;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.WLSubdivisions;
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
-import me.randomhashtags.worldlaws.stories.Story;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
@@ -20,15 +19,8 @@ public enum NewsCBS implements StoryController {
     INSTANCE;
 
     @Override
-    public void refresh(CompletionHandler handler) {
-        final HashSet<Story> stories = new HashSet<>();
-        refreshWorld(new CompletionHandler() {
-            @Override
-            public void handleStories(HashSet<Story> usStories) {
-                stories.addAll(usStories);
-                handler.handleStories(stories);
-            }
-        });
+    public HashSet<Story> refresh() {
+        return refreshWorld();
     }
 
     private HashSet<Story> getStoriesFrom(Elements imageElements, Elements titleElements, Elements descriptionElements, HashMap<String, SovereignStateSubdivision> subdivisions, EventSources sources) {
@@ -97,16 +89,16 @@ public enum NewsCBS implements StoryController {
         return stories;
     }
 
-    private void refreshWorld(CompletionHandler handler) {
+    private HashSet<Story> refreshWorld() {
         final HashSet<Story> stories = refresh("https://www.cbsnews.com/world/");
         stories.addAll(refresh("https://www.cbsnews.com/politics/"));
         stories.addAll(refresh("https://www.cbsnews.com/science/"));
-        handler.handleStories(stories);
+        return stories;
     }
-    private void refreshUSA(CompletionHandler handler) {
+    private HashSet<Story> refreshUSA() {
         final SovereignStateSubdivision[] states = SubdivisionsUnitedStates.values();
         final HashSet<Story> stories = refresh("https://www.cbsnews.com/us/", states);
         stories.addAll(refresh("https://www.cbsnews.com/politics/", states));
-        handler.handleStories(stories);
+        return stories;
     }
 }
