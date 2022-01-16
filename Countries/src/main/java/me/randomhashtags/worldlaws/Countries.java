@@ -2,8 +2,6 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
-import me.randomhashtags.worldlaws.country.WLCurrency;
-import me.randomhashtags.worldlaws.currency.CurrencyExchange;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
 import me.randomhashtags.worldlaws.info.agriculture.ProductionFoods;
@@ -21,6 +19,7 @@ import me.randomhashtags.worldlaws.info.service.nonstatic.CIAServices;
 import me.randomhashtags.worldlaws.info.service.nonstatic.TravelAdvisories;
 import me.randomhashtags.worldlaws.service.WikipediaCountryService;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
+import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -55,9 +54,10 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        WLLogger.logInfo("Countries;test;test1=" + CurrencyExchange.get(WLCurrency.EUR, WLCurrency.AUD));
-        WLLogger.logInfo("Countries;test;test2=" + CurrencyExchange.get(WLCurrency.AUD, WLCurrency.EUR));
-        WLLogger.logInfo("Countries;test;test3=" + CurrencyExchange.get(WLCurrency.USD, WLCurrency.EUR));
+        loadServices();
+        loadCountries();
+        final String string = getServerResponse(APIVersion.v1, "information/unitedstates");
+        WLLogger.logInfo("Countries;test;string=" + string);
     }
 
     @Override
@@ -96,16 +96,20 @@ public final class Countries implements WLServer {
                 TravelAdvisories.INSTANCE
         ));
 
-        registerFixedTimer(WLUtilities.COUNTRIES_NON_STATIC_VALUES_UPDATE_INTERVAL, new CompletionHandler() {
-            @Override
-            public void handleObject(Object object) {
-                final long started = System.currentTimeMillis();
-                for(CustomCountry country : countriesMap.values()) {
-                    country.updateNonStaticInformation();
-                }
-                WLLogger.logInfo("Countries - refreshed " + countriesMap.size() + " non-static country information (took " + (System.currentTimeMillis()-started) + "ms)");
-            }
+        registerFixedTimer(WLUtilities.COUNTRIES_NON_STATIC_VALUES_UPDATE_INTERVAL, this::updateNonStaticInformation);
+        updateNonStaticInformation();
+    }
+
+    private void updateNonStaticInformation() {
+        final long started = System.currentTimeMillis();
+        ParallelStream.stream(CountryServices.NONSTATIC_SERVICES, serviceObj -> {
+            final CountryService service = (CountryService) serviceObj;
+            service.loadData();
         });
+        for(CustomCountry country : countriesMap.values()) {
+            country.updateNonStaticInformation();
+        }
+        WLLogger.logInfo("Countries - refreshed " + countriesMap.size() + " non-static country information (took " + (System.currentTimeMillis()-started) + "ms)");
     }
 
     private String getCountries() {

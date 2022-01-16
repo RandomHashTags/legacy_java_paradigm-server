@@ -62,7 +62,7 @@ public enum WeatherUSA implements WeatherController {
 
         final String url = "https://api.weather.gov/alerts/active?status=actual";
         final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
-        headers.put("User-Agent", "(Paradigm Weather Module - Java Application, ***REMOVED***)");
+        headers.put("User-Agent", "(Paradigm Proxy, Weather Module - Java Application, ***REMOVED***)");
         final JSONObject json = requestJSONObject(url, RequestMethod.GET, headers);
         String string = null;
         if(json != null) {
@@ -71,7 +71,7 @@ public enum WeatherUSA implements WeatherController {
                 final HashSet<String> zoneIDs = new HashSet<>();
                 final HashSet<JSONObject> jsons = new HashSet<>();
                 ParallelStream.stream(array.spliterator(), obj -> {
-                    final JSONObject jsonAlert = array.getJSONObject(0);
+                    final JSONObject jsonAlert = (JSONObject) obj;
                     final JSONObject properties = jsonAlert.getJSONObject("properties");
                     final JSONArray affectedZones = properties.getJSONArray("affectedZones");
                     zoneIDs.addAll(getZoneIDs(affectedZones));
@@ -85,14 +85,20 @@ public enum WeatherUSA implements WeatherController {
     }
 
     private void processZones(Collection<String> zoneIDs) {
-        zoneIDs.removeIf(zones::containsKey);
+        zoneIDs.removeIf(zoneID -> {
+            return zones.containsKey(zoneID) || getLocalZone(zoneID, null) != null;
+        });
         final int amount = zoneIDs.size();
         final long started = System.currentTimeMillis();
         WLLogger.logInfo("WeatherUSA - loading " + amount + " zones...");
-        /*ParallelStream.stream(zoneIDs, zoneIDObj -> {
-            final String zoneID = (String) zoneIDObj;
-            getZone(zoneID);
-        });*/
+        for(String zoneID : zoneIDs) {
+            loadZone(zoneID);
+            try {
+                Thread.sleep(1_000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
         WLLogger.logInfo("WeatherUSA - loaded " + amount + " zones (took " + (System.currentTimeMillis()-started) + "ms)");
     }
     private String processAlerts(HashSet<JSONObject> jsons) {
@@ -241,30 +247,38 @@ public enum WeatherUSA implements WeatherController {
         return builder.toString();
     }
 
+    private JSONObject getLocalZone(String zoneID, CompletionHandler handler) {
+        final String[] values = zoneID.split("/");
+        final String zoneType = values[0], zone = values[1], zoneFolder = zone.substring(0, 2);
+        return getJSONObject(Folder.WEATHER_USA_ZONES, zoneType + File.separator + zoneFolder + File.separator + zone.substring(2), handler);
+    }
+
     @Override
     public String getZone(String zoneID) {
         if(!zones.contains(zoneID)) {
-            final String[] values = zoneID.split("/");
-            final String zoneType = values[0], zone = values[1], zoneFolder = zone.substring(0, 2);
-            final JSONObject json = getJSONObject(Folder.WEATHER_USA_ZONES, zoneType + File.separator + zoneFolder + File.separator + zone.substring(2), new CompletionHandler() {
-                @Override
-                public JSONObject loadJSONObject() {
-                    final String url = "https://api.weather.gov/zones/" + zoneID;
-                    return requestJSONObject(url, RequestMethod.GET);
-                }
-            });
-
-            if(json != null) {
-                final JSONObject geometryJSON = json.getJSONObject("geometry"), properties = json.getJSONObject("properties");
-                final Object state = properties.get("state");
-                final String stateString = state instanceof String ? (String) state : null;
-                final SovereignStateSubdivision subdivision = WLCountry.UNITED_STATES.valueOfSovereignStateSubdivision(stateString);
-                final String name = properties.getString("name"), territory = subdivision != null ? subdivision.getName() : "Unknown";
-                final List<Location> geometry = getGeometry(geometryJSON);
-                final WeatherZone weatherZone = new WeatherZone(zoneID, name, territory, geometry);
-                final String string = weatherZone.toString();
-                zones.put(zoneID, string);
+            return loadZone(zoneID);
+        }
+        return zones.getOrDefault(zoneID, null);
+    }
+    private String loadZone(String zoneID) {
+        final JSONObject json = getLocalZone(zoneID, new CompletionHandler() {
+            @Override
+            public JSONObject loadJSONObject() {
+                final String url = "https://api.weather.gov/zones/" + zoneID;
+                return requestJSONObject(url, RequestMethod.GET);
             }
+        });
+
+        if(json != null) {
+            final JSONObject geometryJSON = json.getJSONObject("geometry"), properties = json.getJSONObject("properties");
+            final Object state = properties.get("state");
+            final String stateString = state instanceof String ? (String) state : null;
+            final SovereignStateSubdivision subdivision = WLCountry.UNITED_STATES.valueOfSovereignStateSubdivision(stateString);
+            final String name = properties.getString("name"), territory = subdivision != null ? subdivision.getName() : "Unknown";
+            final List<Location> geometry = getGeometry(geometryJSON);
+            final WeatherZone weatherZone = new WeatherZone(zoneID, name, territory, geometry);
+            final String string = weatherZone.toString();
+            zones.put(zoneID, string);
         }
         return zones.getOrDefault(zoneID, null);
     }

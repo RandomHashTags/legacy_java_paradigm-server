@@ -35,12 +35,7 @@ public enum NASA_EONET implements WLService {
 
     public String getCurrent(APIVersion version) {
         if(!cache.containsKey(version)) {
-            Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL, new CompletionHandler() {
-                @Override
-                public void handleObject(Object object) {
-                    refresh(version);
-                }
-            });
+            Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL, () -> refresh(version));
             refresh(version);
         }
         return cache.get(version);

@@ -22,8 +22,8 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             return localServer;
         }
     }
-    default void registerFixedTimer(long interval, CompletionHandler handler) {
-        getLocalServer().registerFixedTimer(interval, handler);
+    default void registerFixedTimer(long interval, Runnable runnable) {
+        getLocalServer().registerFixedTimer(interval, runnable);
     }
 
     default void load() {
@@ -96,20 +96,17 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             final String serverName = server.getName(), simpleName = getClass().getSimpleName();
             final long interval = settings.interval;
             final CompletionHandler autoUpdateHandler = settings.handler;
-            registerFixedTimer(interval, new CompletionHandler() {
-                @Override
-                public void handleObject(Object object) {
-                    final long started = System.currentTimeMillis();
-                    if(autoUpdateHandler != null) {
-                        autoUpdateHandler.handleCompletionHandler(new CompletionHandler() {
-                            @Override
-                            public void handleObject(Object object) {
-                                refreshHome(simpleName, started, serverName, server, version);
-                            }
-                        });
-                    } else {
-                        refreshHome(simpleName, started, serverName, server, version);
-                    }
+            registerFixedTimer(interval, () -> {
+                final long started = System.currentTimeMillis();
+                if(autoUpdateHandler != null) {
+                    autoUpdateHandler.handleCompletionHandler(new CompletionHandler() {
+                        @Override
+                        public void handleObject(Object object) {
+                            refreshHome(simpleName, started, serverName, server, version);
+                        }
+                    });
+                } else {
+                    refreshHome(simpleName, started, serverName, server, version);
                 }
             });
         }

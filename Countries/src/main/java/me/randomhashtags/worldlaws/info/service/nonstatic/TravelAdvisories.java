@@ -24,6 +24,16 @@ public enum TravelAdvisories implements CountryService {
     }
 
     @Override
+    public SovereignStateInformationType getInformationType() {
+        return SovereignStateInformationType.SERVICES_NONSTATIC;
+    }
+
+    @Override
+    public SovereignStateInfo getInfo() {
+        return SovereignStateInfo.SERVICE_TRAVEL_ADVISORIES;
+    }
+
+    @Override
     public EventSources getResources(String countryBackendID) {
         final EventSources sources = new EventSources();
         if(usTravelAdvisories.containsKey(countryBackendID)) {
@@ -58,8 +68,11 @@ public enum TravelAdvisories implements CountryService {
                         }
                         final WLCountry wlcountry = WLCountry.valueOfBackendID(targetCountry);
                         if(wlcountry != null) {
-                            final String href = advisoryElement.selectFirst("a[href]").attr("href");
-                            urls.put(wlcountry.getBackendID(), href);
+                            final Element hrefElement = advisoryElement.selectFirst("a[href]");
+                            if(hrefElement != null) {
+                                final String href = hrefElement.attr("href");
+                                urls.put(wlcountry.getBackendID(), href);
+                            }
                         }
                     }
                 }
@@ -67,16 +80,6 @@ public enum TravelAdvisories implements CountryService {
             }
         }
         return null;
-    }
-
-    @Override
-    public SovereignStateInformationType getInformationType() {
-        return SovereignStateInformationType.SERVICES_NONSTATIC;
-    }
-
-    @Override
-    public SovereignStateInfo getInfo() {
-        return SovereignStateInfo.SERVICE_TRAVEL_ADVISORIES;
     }
 
     @Override
@@ -107,7 +110,7 @@ public enum TravelAdvisories implements CountryService {
             this.usTravelAdvisory = usTravelAdvisory;
         }
         public boolean isEmpty() {
-            return usTravelAdvisories == null;
+            return usTravelAdvisory == null;
         }
 
         @Override

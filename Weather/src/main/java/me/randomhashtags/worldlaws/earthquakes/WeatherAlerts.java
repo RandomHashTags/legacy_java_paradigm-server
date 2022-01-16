@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.earthquakes;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.WLLogger;
 import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.Weather;
@@ -131,12 +130,7 @@ public enum WeatherAlerts {
 
     private String getAll() {
         if(allAlertsJSON == null) {
-            Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL, new CompletionHandler() {
-                @Override
-                public void handleObject(Object object) {
-                    refresh(true);
-                }
-            });
+            Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL, () -> refresh(true));
             refresh(false);
         }
         return allAlertsJSON;

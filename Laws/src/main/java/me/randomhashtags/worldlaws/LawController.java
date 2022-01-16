@@ -30,13 +30,10 @@ public abstract class LawController {
                     recentActivity.put(version, string);
                 }
             };
-            Laws.INSTANCE.registerFixedTimer(WLUtilities.LAWS_RECENT_ACTIVITY_UPDATE_INTERVAL, new CompletionHandler() {
-                @Override
-                public void handleObject(Object object) {
-                    started.set(System.currentTimeMillis());
-                    final String string = refreshRecentActivity(version);
-                    completionHandler.handleString(string);
-                }
+            Laws.INSTANCE.registerFixedTimer(WLUtilities.LAWS_RECENT_ACTIVITY_UPDATE_INTERVAL, () -> {
+                started.set(System.currentTimeMillis());
+                final String string = refreshRecentActivity(version);
+                completionHandler.handleString(string);
             });
             final String string = refreshRecentActivity(version);
             completionHandler.handleString(string);

@@ -29,11 +29,12 @@ public enum SovereignStateInformationType {
     public boolean isNonStatic() {
         return name().endsWith("NONSTATIC");
     }
-    public boolean isArray() {
+    public boolean isArray(boolean isCountry) {
         switch (this) {
             case CURRENCIES:
-            case NEIGHBORS:
                 return true;
+            case NEIGHBORS:
+                return isCountry;
             default:
                 return false;
         }

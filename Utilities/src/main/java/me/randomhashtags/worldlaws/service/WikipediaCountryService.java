@@ -15,12 +15,10 @@ import java.util.*;
 public final class WikipediaCountryService implements CountryService {
 
     private final Folder folder, wikiFolder, featuredPicturesFolder;
-    private final HashMap<String, String> sovereignStates;
     private Elements featuredPicturesElements, nationalAnimalsElements;
 
     public WikipediaCountryService(boolean isCountries) {
-        sovereignStates = new HashMap<>();
-        this.folder = isCountries ? Folder.COUNTRIES_SERVICES_WIKIPEDIA : Folder.COUNTRIES_SUBDIVISIONS_SERVICES_WIKIPEDIA;
+        this.folder = isCountries ? Folder.COUNTRIES_SERVICES_WIKIPEDIA : null;
         this.wikiFolder = isCountries ? Folder.COUNTRIES_WIKIPEDIA_PAGES : Folder.COUNTRIES_SUBDIVISIONS_WIKIPEDIA_PAGES;
         this.featuredPicturesFolder = isCountries ? Folder.COUNTRIES_SERVICES_WIKIPEDIA_FEATURED_PICTURES : null;
     }
@@ -54,23 +52,8 @@ public final class WikipediaCountryService implements CountryService {
 
     @Override
     public String getCountryValue(String tag) {
-        final WikipediaCountryService self = this;
-        String string = null;
-        if(sovereignStates.containsKey(tag)) {
-            return sovereignStates.get(tag);
-        } else {
-            final long started = System.currentTimeMillis();
-            final JSONObject json = getJSONObject(folder, tag, new CompletionHandler() {
-                @Override
-                public String loadJSONObjectString() {
-                    return loadWikipedia(tag);
-                }
-            });
-            string = json != null ? new CountryServiceValue(self, json.toString()).toString() : null;
-            WLLogger.logInfo(getInfo().name() + " - loaded \"" + tag + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
-            sovereignStates.put(tag, string);
-        }
-        return string;
+        final String json = loadWikipedia(tag);
+        return json != null ? new CountryServiceValue(this, json).toString() : null;
     }
 
     private String loadWikipedia(String tag) {
@@ -86,7 +69,14 @@ public final class WikipediaCountryService implements CountryService {
         final List<Element> paragraphs = wikiDoc.getConsecutiveParagraphs();
         String string = null;
         if(paragraphs != null && !paragraphs.isEmpty()) {
-            String firstParagraph = removeReferences(paragraphs.get(0).text()).replace(" (listen)", "").replace("(listen)", "").replace(" (listen to all)", "").replace("(listen to all)", "");
+            final Element paragraphElement = paragraphs.get(0);
+            final Element listenElement = paragraphElement.selectFirst("span.rt-commentedText");
+            final String listenReplacement = listenElement != null ? " (" + listenElement.text() + ")" : null;
+            String firstParagraph = removeReferences(paragraphElement.text());
+            if(listenReplacement != null) {
+                firstParagraph = firstParagraph.replace(listenReplacement, "");
+            }
+            firstParagraph = firstParagraph.replace(" (listen)", "").replace("(listen)", "").replace(" (listen to all)", "").replace("(listen to all)", "");
             firstParagraph = LocalServer.removeWikipediaTranslations(firstParagraph);
             final String paragraph = LocalServer.fixEscapeValues(firstParagraph);
             final String pictures = getPictures(tag);

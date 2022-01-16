@@ -5,21 +5,21 @@ import org.json.JSONObject;
 
 public enum UpcomingEventType {
     ASTRONOMY_PICTURE_OF_THE_DAY,
+    JOKE_OF_THE_DAY,
     MOVIE,
     MUSIC_ALBUM,
-    TICKETMASTER_MUSIC_EVENT,
 
     SPACE_EVENT,
     //SPACE_X,
     SPACE_NEAR_EARTH_OBJECT,
     SPACE_ROCKET_LAUNCH,
-
     SPORT_CHAMPIONSHIPS,
     SPORT_MLB,
     SPORT_NFL,
     SPORT_UFC,
     SPORT_PROFESSIONAL_WRESTLING,
 
+    TICKETMASTER_MUSIC_EVENT,
     TV_SHOW,
     VIDEO_GAME,
     WORD_OF_THE_DAY,
@@ -95,6 +95,8 @@ public enum UpcomingEventType {
         switch (this) {
             case ASTRONOMY_PICTURE_OF_THE_DAY:
                 return "https://apod.nasa.gov/apod/image/";
+            case JOKE_OF_THE_DAY:
+                return "https://jokes.one/img/joke_of_the_day.jpg";
             case MOVIE:
                 return "https://m.media-amazon.com/images/";
             case MUSIC_ALBUM:
@@ -123,11 +125,11 @@ public enum UpcomingEventType {
                 case ASTRONOMY_PICTURE_OF_THE_DAY: return "Astronomy Picture of the Day";
                 case MOVIE: return "Movie Release";
                 case MUSIC_ALBUM: return "Music Album";
+                case JOKE_OF_THE_DAY: return "Joke of the Day";
 
                 case SPACE_EVENT: return "Space Event";
                 case SPACE_NEAR_EARTH_OBJECT: return "Near Earth Object";
                 case SPACE_ROCKET_LAUNCH: return "Rocket Launch";
-
                 case SPORT_CHAMPIONSHIPS: return "Championship";
                 case SPORT_MLB: return "MLB Event";
                 case SPORT_NFL: return "NFL Event";
@@ -145,11 +147,11 @@ public enum UpcomingEventType {
                 case ASTRONOMY_PICTURE_OF_THE_DAY: return "Astronomy Picture of the Day";
                 case MOVIE: return "Movie Releases";
                 case MUSIC_ALBUM: return "Music Album Releases";
+                case JOKE_OF_THE_DAY: return "Joke of the Day";
 
                 case SPACE_EVENT: return "Space Events";
                 case SPACE_NEAR_EARTH_OBJECT: return "Near Earth Objects";
                 case SPACE_ROCKET_LAUNCH: return "Rocket Launches";
-
                 case SPORT_CHAMPIONSHIPS: return "Championships";
                 case SPORT_MLB: return "MLB Schedule";
                 case SPORT_NFL: return "NFL Schedule";
@@ -170,11 +172,11 @@ public enum UpcomingEventType {
                 case ASTRONOMY_PICTURE_OF_THE_DAY: return "\"%title%\" is today's APOD!";
                 case MOVIE: return "\"%title%\" is making its cinematic debut today!";
                 case MUSIC_ALBUM: return "\"%title%\" by %artist% releases today!";
+                case JOKE_OF_THE_DAY: return "Joke of the day: %title%";
 
                 case SPACE_EVENT: return "%title% is scheduled today!";
                 case SPACE_NEAR_EARTH_OBJECT: return "A near earth object is close by!";
                 case SPACE_ROCKET_LAUNCH: return "%title% is scheduled to take off today!";
-
                 case SPORT_CHAMPIONSHIPS: return "%title% begins today!";
                 case SPORT_MLB: return "%team% has a game today!";
                 case SPORT_NFL: return "%team% has a game today!";
@@ -192,11 +194,11 @@ public enum UpcomingEventType {
                 case ASTRONOMY_PICTURE_OF_THE_DAY: return "\"%title%\" are today's APODs!";
                 case MOVIE: return "\"%title%\" are making their cinematic debut today!";
                 case MUSIC_ALBUM: return "\"%title%\" by %artist% releases today!";
+                case JOKE_OF_THE_DAY: return "Jokes of the Day: %title%";
 
                 case SPACE_EVENT: return "%title% are scheduled today!";
                 case SPACE_NEAR_EARTH_OBJECT: return "Near earth objects are close by!";
                 case SPACE_ROCKET_LAUNCH: return "%title% are scheduled to take off today!";
-
                 case SPORT_CHAMPIONSHIPS: return "%title% begins today!";
                 case SPORT_MLB: return "%team% have games today!";
                 case SPORT_NFL: return "%team% have games today!";

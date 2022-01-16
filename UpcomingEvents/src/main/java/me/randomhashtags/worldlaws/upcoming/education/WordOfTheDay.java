@@ -46,11 +46,6 @@ public final class WordOfTheDay extends LoadedUpcomingEventController {
         }
     }
 
-    @Override
-    public String loadUpcomingEvent(String id) {
-        return null;
-    }
-
     private WordOfTheDayObj getWordOfTheDay(String url) { // TODO: more in-depth properties (+"see entry")
         final Elements mainArticle = getDocumentElements(Folder.OTHER, url, "main article");
         WordOfTheDayObj obj = null;

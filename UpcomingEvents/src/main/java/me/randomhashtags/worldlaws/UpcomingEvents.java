@@ -7,10 +7,7 @@ import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.education.WordOfTheDay;
-import me.randomhashtags.worldlaws.upcoming.entertainment.ProfessionalWrestling;
-import me.randomhashtags.worldlaws.upcoming.entertainment.TVShows;
-import me.randomhashtags.worldlaws.upcoming.entertainment.Ticketmaster;
-import me.randomhashtags.worldlaws.upcoming.entertainment.VideoGames;
+import me.randomhashtags.worldlaws.upcoming.entertainment.*;
 import me.randomhashtags.worldlaws.upcoming.entertainment.movies.Movies;
 import me.randomhashtags.worldlaws.upcoming.entertainment.music.MusicAlbums;
 import me.randomhashtags.worldlaws.upcoming.science.AstronomyPictureOfTheDay;
@@ -32,6 +29,7 @@ public final class UpcomingEvents implements WLServer {
     private static final HashSet<UpcomingEventController> CONTROLLERS = new HashSet<>() {{
         addAll(Arrays.asList(
                 new Championships(),
+                new JokeOfTheDay(),
                 new MLB(),
                 new Movies(),
                 new MusicAlbums(),
@@ -75,7 +73,9 @@ public final class UpcomingEvents implements WLServer {
                 WLLogger.logInfo("UpcomingEvents;test;string=" + json.toString());
             }
         });*/
-        WLLogger.logInfo("UpcomingEvents;test;string=" + UpcomingEventType.getTypesJSON());
+        final HashSet<String> dates = getWeeklyEventDateStrings(LocalDate.now());
+        final String string = new Championships().getEventsFromDates(dates);
+        WLLogger.logInfo("UpcomingEvents;test;string=" + string);
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {

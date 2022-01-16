@@ -21,7 +21,6 @@ public enum Folder {
     COUNTRIES_SUBDIVISIONS_WIKIPEDIA_PAGES("countries" + File.separator + "subdivisions" + File.separator + "wikipediaPages"), // TODO: split into respective country
     COUNTRIES_SUBDIVISIONS_CITIES,
     COUNTRIES_SUBDIVISIONS_INFORMATION("countries" + File.separator + "subdivisions" + File.separator + "information" + File.separator + "%country%"),
-    COUNTRIES_SUBDIVISIONS_SERVICES_WIKIPEDIA,
     COUNTRIES_VALUES,
     COUNTRIES_WIKIPEDIA_PAGES("countries" + File.separator + "wikipediaPages"),
 

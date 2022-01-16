@@ -15,6 +15,7 @@ import java.util.Map;
 public interface RestAPI {
     HashMap<String, String> CONTENT_HEADERS = new HashMap<>() {{
         put("Content-Type", "application/json");
+        put("User-Agent", "(Paradigm Proxy - Java Application, ***REMOVED***)");
     }};
 
     default JSONArray requestJSONArray(String url, RequestMethod method) {

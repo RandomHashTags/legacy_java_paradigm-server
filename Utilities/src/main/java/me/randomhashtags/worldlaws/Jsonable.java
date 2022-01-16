@@ -107,13 +107,13 @@ public interface Jsonable {
     }
     static JSONObject getStaticJSONObject(Folder folder, String fileName, CompletionHandler handler) {
         JSONObject json = getStaticLocalFileJSONObject(folder, fileName);
-        if(json == null) {
+        if(json == null && handler != null) {
             String string = handler.loadJSONObjectString();
             if(string != null) {
-                if(string.startsWith("{") && string.endsWith("}")) {
+                try {
                     json = new JSONObject(string);
-                } else {
-                    WLUtilities.saveLoggedError("Jsonable", "failed loading JSONObject from string\n\n" + string);
+                } catch (Exception e) {
+                    WLUtilities.saveLoggedError("Jsonable", "failed parsing JSONObject from string\n\n" + string);
                 }
             } else {
                 json = handler.loadJSONObject();
@@ -142,13 +142,13 @@ public interface Jsonable {
 
     default JSONArray getJSONArray(Folder type, String fileName, CompletionHandler handler) {
         JSONArray array = getLocalFileJSONArray(type, fileName);
-        if(array == null) {
+        if(array == null && handler != null) {
             String string = handler.loadJSONArrayString();
             if(string != null) {
-                if(string.startsWith("[") && string.endsWith("]")) {
+                try {
                     array = new JSONArray(string);
-                } else {
-                    WLUtilities.saveLoggedError("Jsonable", "failed loading JSONArray from string\n\n" + string);
+                } catch (Exception e) {
+                    WLUtilities.saveLoggedError("Jsonable", "failed parsing JSONArray from string\n\n" + string);
                 }
             } else {
                 array = handler.loadJSONArray();

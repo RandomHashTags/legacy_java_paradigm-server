@@ -153,9 +153,9 @@ public final class CustomCountry implements SovereignState {
                 information.remove(type);
             }
         }
+        final WLCountry country = getWLCountry();
         ParallelStream.stream(CountryServices.NONSTATIC_SERVICES, serviceObj -> {
             final CountryService service = (CountryService) serviceObj;
-            final WLCountry country = getWLCountry();
             final SovereignStateInfo info = service.getInfo();
             final String countryIdentifier;
             String string = null;
@@ -177,7 +177,6 @@ public final class CustomCountry implements SovereignState {
                     break;
             }
             if(countryIdentifier != null) {
-                service.loadData();
                 final EventSources resources = service.getResources(countryIdentifier);
                 if(resources != null && !resources.isEmpty()) {
                     information.putIfAbsent(resourcesType, new HashSet<>());
@@ -185,7 +184,11 @@ public final class CustomCountry implements SovereignState {
                         information.get(resourcesType).add(resource.toString());
                     }
                 }
-                string = service.getCountryValue(countryIdentifier);
+                try {
+                    string = service.getCountryValue(countryIdentifier);
+                } catch (Exception e) {
+                    WLUtilities.saveException(e);
+                }
             }
             if(string != null && !string.equals("null")) {
                 final SovereignStateInformationType type = service.getInformationType();
@@ -193,7 +196,7 @@ public final class CustomCountry implements SovereignState {
                 information.get(type).add(string);
             }
         });
-        informationCache = information.toString();
+        informationCache = information.toString(true);
     }
 
     private String loadNew(WLCountry country, HashSet<CountryService> services, ConcurrentHashMap<SovereignStateInformationType, HashSet<String>> values) {
@@ -206,7 +209,6 @@ public final class CustomCountry implements SovereignState {
             final String countryIdentifier;
             String string = null;
             switch (info) {
-                case SERVICE_TRAVEL_BRIEFING:
                 case SERVICE_WIKIPEDIA:
                     countryIdentifier = shortName;
                     break;
@@ -247,7 +249,7 @@ public final class CustomCountry implements SovereignState {
             }
         });
         information = new SovereignStateInformation(values);
-        return information.toString();
+        return information.toString(true);
     }
 
     public WLCountry getWLCountry() {

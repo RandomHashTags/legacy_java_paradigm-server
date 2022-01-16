@@ -81,11 +81,14 @@ public final class Championships extends UpcomingEventController { // https://en
             final String sport = tds.get(1).text();
 
             final Element eventElement = tds.get(2);
-            final String event = eventElement.text();
+            String event = eventElement.text();
+            while (event.startsWith("/") || event.startsWith(" ")) {
+                event = event.substring(1);
+            }
             final Elements eventElementLinks = eventElement.select("a[href]");
             String eventURL = null;
             final List<String> countries = new ArrayList<>();
-            if(!eventElementLinks.isEmpty()) {
+            if(!eventElementLinks.isEmpty()) { // TODO: fix more than 1 event per row (example: Men & Women's sporting event, same row, same dates)
                 final Elements flagIconElements = eventElement.select("span.flagicon");
                 for(Element flagIcon : flagIconElements) {
                     final String[] href = flagIcon.selectFirst("a[href]").attr("href").split("/");

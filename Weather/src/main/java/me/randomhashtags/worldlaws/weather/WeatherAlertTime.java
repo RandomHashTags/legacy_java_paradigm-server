@@ -21,6 +21,9 @@ public final class WeatherAlertTime {
     }
 
     private long getTimeFrom(String input) {
+        if(input.isEmpty()) {
+            return 0;
+        }
         try {
             return WLUtilities.DATE_FORMAT.parse(input).getTime();
         } catch (Exception e) {

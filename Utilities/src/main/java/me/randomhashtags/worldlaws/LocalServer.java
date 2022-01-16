@@ -35,12 +35,7 @@ public final class LocalServer implements UserServer, DataValues {
         totalRequests = new ConcurrentHashMap<>();
         totalUniqueIdentifiers = new HashSet<>();
         final long interval = WLUtilities.SAVE_STATISTICS_INTERVAL;
-        registerFixedTimer(interval, new CompletionHandler() {
-            @Override
-            public void handleObject(Object object) {
-                saveStatistics();
-            }
-        });
+        registerFixedTimer(interval, this::saveStatistics);
         setupHttpServer();
     }
 
@@ -66,13 +61,13 @@ public final class LocalServer implements UserServer, DataValues {
             WLUtilities.saveException(e);
         }
     }
-    public void registerFixedTimer(long interval, CompletionHandler handler) {
+    public void registerFixedTimer(long interval, Runnable runnable) {
         final Timer timer = new Timer();
         timer.scheduleAtFixedRate(new TimerTask() {
             @Override
             public void run() {
-                if(handler != null) {
-                    handler.handleObject(null);
+                if(runnable != null) {
+                    runnable.run();
                 }
             }
         }, interval, interval);

@@ -34,18 +34,17 @@ public final class SovereignStateInformation extends ConcurrentHashMap<Sovereign
         }
     }
 
-    @Override
-    public String toString() {
+    public String toString(boolean isCountry) {
         final StringBuilder builder = new StringBuilder("{");
         boolean isFirst = true;
         for(Map.Entry<SovereignStateInformationType, HashSet<String>> entry : entrySet()) {
             final SovereignStateInformationType informationType = entry.getKey();
-            final boolean isArray = informationType.isArray();
+            final boolean isArray = informationType.isArray(isCountry);
             final HashSet<String> hashset = entry.getValue();
             builder.append(isFirst ? "" : ",").append("\"").append(informationType.getName()).append("\":").append(isArray ? "[" : "{");
             boolean isFirstString = true;
             for(String string : hashset) {
-                final String realString = string.startsWith("{") ? string.substring(1, string.length()-1) : string;
+                final String realString = string.startsWith("{") || string.startsWith("[") ? string.substring(1, string.length()-1) : string;
                 builder.append(isFirstString ? "" : ",").append(realString);
                 isFirstString = false;
             }

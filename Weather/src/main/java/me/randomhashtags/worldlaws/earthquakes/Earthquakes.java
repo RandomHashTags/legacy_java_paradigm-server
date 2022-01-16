@@ -43,12 +43,7 @@ public enum Earthquakes implements RestAPI {
     private String getFromTerritory(boolean isRecent, String territory) {
         final String string = isRecent ? recentEarthquakes : topRecentEarthquakes;
         if(string == null) {
-            Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_EARTHQUAKES_UPDATE_INTERVAL, new CompletionHandler() {
-                @Override
-                public void handleObject(Object object) {
-                    refresh(true, false);
-                }
-            });
+            Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_EARTHQUAKES_UPDATE_INTERVAL, () -> refresh(true, false));
             refresh(false, isRecent);
         }
         return getValue(isRecent, territory);

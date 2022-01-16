@@ -22,12 +22,15 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
     default SubdivisionType getType() {
         return null;
     }
+    @Override
     default String getBackendID() {
         return getName().toLowerCase().replace(" ", "");
     }
+    @Override
     default String getShortName() {
         return null;
     }
+    @Override
     default String getName() {
         return LocalServer.toCorrectCapitalization(name(), "del", "de", "la", "of", "al", "and");
     }
@@ -62,7 +65,8 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
             return INFORMATION_CACHE.get(fileName);
         }
         final Folder folder = Folder.COUNTRIES_SUBDIVISIONS_INFORMATION;
-        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", getCountry().getBackendID()));
+        final WLCountry country = getCountry();
+        folder.setCustomFolderName(fileName, folder.getFolderName().replace("%country%", country.getBackendID()));
         final JSONObject json = getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
             public String loadJSONObjectString() {
@@ -128,11 +132,11 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
                 });
 
                 final SovereignStateInformation info = new SovereignStateInformation(values);
-                return info.toString();
+                return info.toString(false);
             }
         });
 
-        final String string = json.toString();
+        final String string = json != null ? json.toString() : null;
         INFORMATION_CACHE.put(fileName, string);
         return string;
     }
