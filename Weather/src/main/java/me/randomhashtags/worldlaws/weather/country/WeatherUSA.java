@@ -18,7 +18,7 @@ public enum WeatherUSA implements WeatherController {
 
     private final String zonePrefix;
     private HashMap<String, String> alertIDs, eventPreAlerts, territoryEvents;
-    private final ConcurrentHashMap<String, String> zones;
+    private final ConcurrentHashMap<String, WeatherZone> zones;
     private HashMap<String, HashMap<String, String>> territoryPreAlerts;
     private HashMap<String, WeatherPreAlert> preAlertIDs;
 
@@ -54,12 +54,6 @@ public enum WeatherUSA implements WeatherController {
 
     @Override
     public String refresh() {
-        alertIDs = new HashMap<>();
-        eventPreAlerts = new HashMap<>();
-        territoryEvents = new HashMap<>();
-        territoryPreAlerts = new HashMap<>();
-        preAlertIDs = new HashMap<>();
-
         final String url = "https://api.weather.gov/alerts/active?status=actual";
         final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
         headers.put("User-Agent", "(Paradigm Proxy, Weather Module - Java Application, ***REMOVED***)");
@@ -68,6 +62,12 @@ public enum WeatherUSA implements WeatherController {
         if(json != null) {
             final JSONArray array = json.getJSONArray("features");
             if(array.length() > 0) {
+                alertIDs = new HashMap<>();
+                eventPreAlerts = new HashMap<>();
+                territoryEvents = new HashMap<>();
+                territoryPreAlerts = new HashMap<>();
+                preAlertIDs = new HashMap<>();
+
                 final HashSet<String> zoneIDs = new HashSet<>();
                 final HashSet<JSONObject> jsons = new HashSet<>();
                 ParallelStream.stream(array.spliterator(), obj -> {
@@ -89,17 +89,19 @@ public enum WeatherUSA implements WeatherController {
             return zones.containsKey(zoneID) || getLocalZone(zoneID, null) != null;
         });
         final int amount = zoneIDs.size();
-        final long started = System.currentTimeMillis();
-        WLLogger.logInfo("WeatherUSA - loading " + amount + " zones...");
-        for(String zoneID : zoneIDs) {
-            loadZone(zoneID);
-            try {
-                Thread.sleep(1_000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
+        if(amount > 0) {
+            final long started = System.currentTimeMillis();
+            WLLogger.logInfo("WeatherUSA - loading " + amount + " zones...");
+            for(String zoneID : zoneIDs) {
+                getWeatherZone(zoneID);
+                try {
+                    Thread.sleep(500);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
             }
+            WLLogger.logInfo("WeatherUSA - loaded " + amount + " zones (took " + (System.currentTimeMillis()-started) + "ms)");
         }
-        WLLogger.logInfo("WeatherUSA - loaded " + amount + " zones (took " + (System.currentTimeMillis()-started) + "ms)");
     }
     private String processAlerts(HashSet<JSONObject> jsons) {
         final WLCountry unitedStates = WLCountry.UNITED_STATES;
@@ -113,18 +115,15 @@ public enum WeatherUSA implements WeatherController {
             final JSONObject json = (JSONObject) jsonObj;
             final String id = json.getString("id").split("/alerts/")[1];
             final JSONObject properties = json.getJSONObject("properties");
+
             final JSONArray affectedZones = properties.getJSONArray("affectedZones");
             final HashSet<String> zoneIDs = getZoneIDs(affectedZones);
-
-            final String senderName = properties.getString("senderName");
-            final String[] senderNameValues = senderName.split(" ");
-            final int senderNameLength = senderNameValues.length;
-            final String territoryAbbreviation = senderNameValues[senderNameLength-1];
-            final SovereignStateSubdivision subdivision = unitedStates.valueOfSovereignStateSubdivision(territoryAbbreviation);
-            final String subdivisionName = subdivision != null ? subdivision.getName() : "Unknown";
-            if(subdivisionName.equals("Unknown")) {
-                WLLogger.logError(INSTANCE, "refresh - json != null - failed to find subdivision with string \"" + territoryAbbreviation + "\" from sender \"" + senderName + "\"!");
+            final HashSet<WeatherZone> zones = new HashSet<>();
+            for(String zoneID : zoneIDs) {
+                final WeatherZone zone = getWeatherZone(zoneID);
+                zones.add(zone);
             }
+
             final String severityString = properties.getString("severity"), severity = severityString.equals("Unknown") ? "-1" : severityString;
             final String certainty = properties.getString("certainty");
             final String event = properties.getString("event");
@@ -149,30 +148,40 @@ public enum WeatherUSA implements WeatherController {
 
             final int defcon = getSeverityDEFCON(severity);
             eventsMap.putIfAbsent(event, defcon);
-            subdivisionEventsMap.putIfAbsent(subdivisionName, new HashSet<>());
-            final HashSet<WeatherEvent> territorySet = subdivisionEventsMap.get(subdivisionName);
-            boolean hasEvent = false;
-            for(WeatherEvent newWeatherEvent : territorySet) {
-                if(event.equals(newWeatherEvent.getEvent())) {
-                    hasEvent = true;
-                    break;
-                }
-            }
-            if(!hasEvent) {
-                final WeatherEvent weatherEvent = new WeatherEvent(event, defcon);
-                subdivisionEventsMap.get(subdivisionName).add(weatherEvent);
-            }
 
-            final WeatherPreAlert preAlert = new WeatherPreAlert(defcon, event, id, subdivisionName, certainty, headline, instruction, description, zoneIDs, time);
+
+            final HashSet<String> subdivisions = new HashSet<>();
+            for(WeatherZone zone : zones) {
+                final String subdivisionName = zone.getSubdivision();
+                subdivisions.add(subdivisionName);
+            }
+            final WeatherPreAlert preAlert = new WeatherPreAlert(defcon, event, id, subdivisions, certainty, headline, instruction, description, zones, time);
             preAlertIDs.put(id, preAlert);
 
             eventPreAlertsMap.putIfAbsent(event, new HashSet<>());
             eventPreAlertsMap.get(event).add(preAlert);
 
             final String eventLowercase = event.toLowerCase().replace(" ", "");
-            territoryPreAlertsMap.putIfAbsent(subdivisionName, new ConcurrentHashMap<>());
-            territoryPreAlertsMap.get(subdivisionName).putIfAbsent(eventLowercase, new HashSet<>());
-            territoryPreAlertsMap.get(subdivisionName).get(eventLowercase).add(preAlert);
+            final WeatherEvent weatherEvent = new WeatherEvent(event, defcon);
+            for(String subdivisionName : subdivisions) {
+                subdivisions.add(subdivisionName);
+
+                subdivisionEventsMap.putIfAbsent(subdivisionName, new HashSet<>());
+                final HashSet<WeatherEvent> territorySet = subdivisionEventsMap.get(subdivisionName);
+                boolean hasEvent = false;
+                for(WeatherEvent newWeatherEvent : territorySet) {
+                    if(event.equals(newWeatherEvent.getEvent())) {
+                        hasEvent = true;
+                        break;
+                    }
+                }
+                if(!hasEvent) {
+                    subdivisionEventsMap.get(subdivisionName).add(weatherEvent);
+                }
+                territoryPreAlertsMap.putIfAbsent(subdivisionName, new ConcurrentHashMap<>());
+                territoryPreAlertsMap.get(subdivisionName).putIfAbsent(eventLowercase, new HashSet<>());
+                territoryPreAlertsMap.get(subdivisionName).get(eventLowercase).add(preAlert);
+            }
         });
         putEventPreAlerts(eventPreAlerts, eventPreAlertsMap);
         putSubdivisionEvents(territoryEvents, subdivisionEventsMap);
@@ -203,22 +212,17 @@ public enum WeatherUSA implements WeatherController {
         } else if(preAlertIDs.containsKey(id)) {
             final EventSource source = getSource();
             final WeatherPreAlert preAlert = preAlertIDs.get(id);
-            final HashSet<String> zones = preAlert.getZoneIDs(), values = new HashSet<>();
-            ParallelStream.stream(zones, zoneID -> {
-                final String value = getZone((String) zoneID);
-                if(value != null) {
-                    values.add(value);
-                }
-            });
+            final HashSet<WeatherZone> zones = preAlert.getZones();
 
             final StringBuilder builder = new StringBuilder("[");
             boolean isFirst = true;
-            for(String value : values) {
-                builder.append(isFirst ? "" : ",").append(value);
+            for(WeatherZone zone : zones) {
+                builder.append(isFirst ? "" : ",").append(zone.toString());
                 isFirst = false;
             }
             builder.append("]");
             final String zonesJSON = builder.toString();
+
             final WeatherAlert alert = new WeatherAlert(preAlert, zonesJSON, source);
             string = alert.toString();
             alertIDs.put(id, string);
@@ -255,12 +259,12 @@ public enum WeatherUSA implements WeatherController {
 
     @Override
     public String getZone(String zoneID) {
-        if(!zones.contains(zoneID)) {
-            return loadZone(zoneID);
+        if(!zones.containsKey(zoneID)) {
+            getWeatherZone(zoneID);
         }
-        return zones.getOrDefault(zoneID, null);
+        return zones.containsKey(zoneID) ? zones.get(zoneID).toString() : null;
     }
-    private String loadZone(String zoneID) {
+    private WeatherZone getWeatherZone(String zoneID) {
         final JSONObject json = getLocalZone(zoneID, new CompletionHandler() {
             @Override
             public JSONObject loadJSONObject() {
@@ -276,9 +280,8 @@ public enum WeatherUSA implements WeatherController {
             final SovereignStateSubdivision subdivision = WLCountry.UNITED_STATES.valueOfSovereignStateSubdivision(stateString);
             final String name = properties.getString("name"), territory = subdivision != null ? subdivision.getName() : "Unknown";
             final List<Location> geometry = getGeometry(geometryJSON);
-            final WeatherZone weatherZone = new WeatherZone(zoneID, name, territory, geometry);
-            final String string = weatherZone.toString();
-            zones.put(zoneID, string);
+            final WeatherZone weatherZone = new WeatherZone(name, territory, geometry);
+            zones.put(zoneID, weatherZone);
         }
         return zones.getOrDefault(zoneID, null);
     }

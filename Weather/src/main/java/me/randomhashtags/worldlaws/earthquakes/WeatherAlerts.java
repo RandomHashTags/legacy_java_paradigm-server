@@ -149,9 +149,10 @@ public enum WeatherAlerts {
         final long started = System.currentTimeMillis();
         final HashMap<String, Long> controllerLoadTimes = new HashMap<>();
         final WeatherController[] countries = getCountries();
-        ParallelStream.stream(Arrays.asList(countries), weather -> {
-            refreshCountry((WeatherController) weather);
-            controllerLoadTimes.put(weather.getClass().getSimpleName(), System.currentTimeMillis()-started);
+        ParallelStream.stream(Arrays.asList(countries), controllerObj -> {
+            final WeatherController controller = (WeatherController) controllerObj;
+            refreshCountry(controller);
+            controllerLoadTimes.put(controller.getClass().getSimpleName(), System.currentTimeMillis()-started);
         });
 
         updateJSON();

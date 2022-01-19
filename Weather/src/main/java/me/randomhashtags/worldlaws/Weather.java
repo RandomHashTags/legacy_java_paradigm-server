@@ -23,7 +23,8 @@ public final class Weather implements WLServer {
     }
 
     private void test() {
-        final String string = WeatherUSA.INSTANCE.refresh();
+        final WeatherUSA weather = WeatherUSA.INSTANCE;
+        final String string = weather.refresh();
         WLLogger.logInfo("Weather;test;string=" + string);
     }
 

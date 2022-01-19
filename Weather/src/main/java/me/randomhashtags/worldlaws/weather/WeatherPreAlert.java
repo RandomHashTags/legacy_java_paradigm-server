@@ -6,20 +6,21 @@ import java.util.HashSet;
 
 public final class WeatherPreAlert {
     private final int defcon;
-    private final String event, id, subdivision, certainty, headline, instruction, description;
-    private final HashSet<String> zoneIDs;
+    private final String event, id, certainty, headline, instruction, description;
+    private final HashSet<String> subdivisions;
+    private final HashSet<WeatherZone> zones;
     private final WeatherAlertTime time;
 
-    public WeatherPreAlert(int defcon, String event, String id, String subdivision, String certainty, String headline, String instruction, String description, HashSet<String> zoneIDs, WeatherAlertTime time) {
+    public WeatherPreAlert(int defcon, String event, String id, HashSet<String> subdivisions, String certainty, String headline, String instruction, String description, HashSet<WeatherZone> zones, WeatherAlertTime time) {
         this.defcon = defcon;
         this.event = event;
         this.id = id;
-        this.subdivision = subdivision;
+        this.subdivisions = subdivisions;
         this.certainty = LocalServer.fixEscapeValues(certainty);
         this.headline = LocalServer.fixEscapeValues(headline);
         this.instruction = LocalServer.fixEscapeValues(instruction);
         this.description = LocalServer.fixEscapeValues(description);
-        this.zoneIDs = zoneIDs;
+        this.zones = zones;
         this.time = time;
     }
 
@@ -32,8 +33,8 @@ public final class WeatherPreAlert {
     public String getID() {
         return id;
     }
-    public String getSubdivision() {
-        return subdivision;
+    public HashSet<String> getSubdivisions() {
+        return subdivisions;
     }
     public String getCertainty() {
         return certainty;
@@ -47,16 +48,28 @@ public final class WeatherPreAlert {
     public String getDescription() {
         return description;
     }
-    public HashSet<String> getZoneIDs() {
-        return zoneIDs;
+    public HashSet<WeatherZone> getZones() {
+        return zones;
     }
     public WeatherAlertTime getTime() {
         return time;
     }
 
+    private String getAreas() {
+        final StringBuilder builder = new StringBuilder("[");
+        boolean isFirst = true;
+        for(WeatherZone zone : zones) {
+            builder.append(isFirst ? "" : ",").append("\"").append(zone.getName()).append("\"");
+            isFirst = false;
+        }
+        builder.append("]");
+        return builder.toString();
+    }
+
     @Override
     public String toString() {
         return "\"" + id + "\":{" +
+                "\"areas\":" + getAreas() + "," +
                 "\"time\":" + time.toString() +
                 "}";
     }

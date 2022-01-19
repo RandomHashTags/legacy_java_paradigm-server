@@ -13,7 +13,6 @@ import java.net.URLConnection;
 import java.security.SecureRandom;
 import java.security.cert.CertificateException;
 import java.security.cert.X509Certificate;
-import java.text.SimpleDateFormat;
 import java.time.Clock;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
@@ -32,7 +31,6 @@ public abstract class WLUtilities {
     public static final long WEATHER_EARTHQUAKES_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(30);
     public static final long WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
 
-    public static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ssXXX");
     public static final String SERVER_EMPTY_JSON_RESPONSE = "{}";
 
     static {
@@ -129,6 +127,11 @@ public abstract class WLUtilities {
     }
 
     public static void saveException(Exception exception) {
+        final String trace = getExceptionStackTrace(exception);
+        final String errorName = exception.getClass().getSimpleName();
+        saveError("WLUtilities.saveException", errorName, trace);
+    }
+    public static String getExceptionStackTrace(Exception exception) {
         String message = exception.getLocalizedMessage();
         if(message == null) {
             message = exception.getMessage();
@@ -137,8 +140,7 @@ public abstract class WLUtilities {
         for(StackTraceElement element : exception.getStackTrace()) {
             builder.append("\n").append(element.toString());
         }
-        final String errorName = exception.getClass().getSimpleName();
-        saveError("WLUtilities.saveException", errorName, builder.toString());
+        return builder.toString();
     }
     public static void saveLoggedError(String folderName, String value) {
         saveError("WLUtilities.saveLoggedError", "LoggedError" + File.separator + folderName, value);

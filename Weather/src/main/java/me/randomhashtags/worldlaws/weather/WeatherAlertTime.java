@@ -2,6 +2,10 @@ package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.WLUtilities;
 
+import java.time.LocalDateTime;
+import java.time.ZoneOffset;
+import java.time.format.DateTimeFormatter;
+
 public final class WeatherAlertTime {
     private long sent, effective, expires, ends;
 
@@ -25,9 +29,11 @@ public final class WeatherAlertTime {
             return 0;
         }
         try {
-            return WLUtilities.DATE_FORMAT.parse(input).getTime();
+            final LocalDateTime date = LocalDateTime.parse(input, DateTimeFormatter.ISO_OFFSET_DATE_TIME);
+            return date.toEpochSecond(ZoneOffset.UTC);
         } catch (Exception e) {
-            WLUtilities.saveException(e);
+            final String trace = WLUtilities.getExceptionStackTrace(e);
+            WLUtilities.saveLoggedError("WeatherAlertTime", "failed to parse date format for input \"" + input + "\"!\n\n" + trace);
             return 0;
         }
     }
