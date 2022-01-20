@@ -258,12 +258,10 @@ public enum TargetServer implements RestAPI, DataValues {
     }
 
     private String getHomeResponse(APIVersion version, RequestMethod method, HashMap<String, String> headers, HashSet<String> query) {
-        if(HOME_JSON.containsKey(version)) {
-            return getHomeResponse(version, query);
-        } else {
+        if(!HOME_JSON.containsKey(version)) {
             final String string = updateHomeResponse(version, false, method, headers);
-            return getHomeResponse(version, query);
         }
+        return getHomeResponse(version, query);
     }
     private String getHomeResponse(APIVersion version, HashSet<String> query) {
         if(HOME_JSON_QUERIES.containsKey(version)) {
@@ -328,33 +326,28 @@ public enum TargetServer implements RestAPI, DataValues {
         }
 
         final ConcurrentHashMap<String, JSONObject> values = new ConcurrentHashMap<>();
-        final CompletionHandler completionHandler = new CompletionHandler() {
-            @Override
-            public void handleStringValue(String key, String value) {
-                if(value != null) {
-                    try {
-                        final JSONObject json = new JSONObject(value);
-                        values.put(key, json);
-                    } catch (Exception e) {
-                        WLLogger.logInfo("TargetServer - ERROR - updateHomeResponse - isUpdate=" + isUpdate + ";key=" + key + ";value=" + value);
-                        WLUtilities.saveException(e);
-                    }
-                }
-            }
-        };
         ParallelStream.stream(requests.entrySet(), entryObj -> {
             @SuppressWarnings({ "unchecked" })
             final Map.Entry<String, String> entry = (Map.Entry<String, String>) entryObj;
             final String key = entry.getKey(), value = entry.getValue();
+            final String string;
             switch (key) {
                 case "trending":
                     final JSONObject json = Statistics.INSTANCE.getTrendingJSON();
-                    completionHandler.handleStringValue(key, json.isEmpty() ? null : json.toString());
+                    string = json.isEmpty() ? null : json.toString();
                     break;
                 default:
-                    final String string = request(value, method, headers, null);
-                    completionHandler.handleStringValue(key, string);
+                    string = request(value, method, headers, null);
                     break;
+            }
+            if(string != null) {
+                try {
+                    final JSONObject json = new JSONObject(value);
+                    values.put(key, json);
+                } catch (Exception e) {
+                    WLLogger.logWarning("TargetServer - ERROR - updateHomeResponse - isUpdate=" + isUpdate + ";string!=null;key=" + key + ";value=" + value);
+                    WLUtilities.saveException(e);
+                }
             }
         });
         final JSONObject json = new JSONObject();

@@ -8,7 +8,8 @@ import java.io.File;
 import java.time.Clock;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
+import java.time.ZoneId;
+import java.time.format.TextStyle;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -22,8 +23,9 @@ public enum Statistics implements Jsonable, QuotaHandler {
         if(!totalRequests.isEmpty()) {
             final Folder folder = Folder.LOGS;
             final LocalDateTime now = LocalDateTime.now();
+            final String zoneID = ZoneId.systemDefault().getDisplayName(TextStyle.SHORT, Locale.US);
             final String folderPath = now.getYear() + File.separator + "statistics" + File.separator + now.getMonth().name() + File.separator + now.getDayOfMonth() + File.separator;
-            final String fileName = folderPath + now.format(DateTimeFormatter.ISO_OFFSET_TIME);
+            final String fileName = folderPath + now.getHour() + "_" + now.getMinute() + " " + zoneID;
             final JSONObject json = getJSONObject(folder, fileName, new CompletionHandler() {
                 @Override
                 public JSONObject loadJSONObject() {

@@ -10,6 +10,9 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public interface IMDbService extends DataValues {
 
     default JSONObject getIMDbMovieDetails(String title, int year) {
@@ -53,59 +56,153 @@ public interface IMDbService extends DataValues {
             final Element listElement = doc.selectFirst("ul.ipc-inline-list");
             if(listElement != null) {
                 final Elements list = listElement.select("li.ipc-inline-list__item");
-                if(list.size() >= 3) {
-                    final String rating = list.get(1).selectFirst("a[href]").text();
-                    int runtimeSeconds = 0;
-                    final String[] runtimeValues = list.get(2).text().split(" ");
-                    for(String string : runtimeValues) {
-                        string = string.toLowerCase();
-                        final boolean isHours = string.endsWith("h");
-                        final String target = string.substring(0, string.length()-1);
-                        if(target.matches("[0-9]+")) {
-                            final int value = Integer.parseInt(target);
-                            runtimeSeconds += value * 60 * (isHours ? 60 : 1);
-                        }
-                    }
+                final Element secondElement = list.get(1);
+                final Element secondElementHref = secondElement.selectFirst("a[href]");
+                final String rating = secondElementHref != null ? secondElementHref.text() : null;
+                final boolean isValidRating = isValidMovieRating(rating);
 
-                    final String[] images = doc.selectFirst("div.ipc-poster div.ipc-media img").attr("srcset").split(" ");
-                    String imageURL = null;
-                    for(String image : images) {
-                        final String string = image.split(",")[0];
-                        if(string.endsWith("_UX380_CR0")) {
-                            imageURL = string;
-                        }
+                int runtimeSeconds = 0;
+                final String[] runtimeValues = (isValidRating ? list.get(2) : secondElement).text().split(" ");
+                for(String string : runtimeValues) {
+                    string = string.toLowerCase();
+                    final boolean isHours = string.endsWith("h");
+                    final String target = string.substring(0, string.length()-1);
+                    if(target.matches("[0-9]+")) {
+                        final int value = Integer.parseInt(target);
+                        runtimeSeconds += value * 60 * (isHours ? 60 : 1);
                     }
-
-                    final Element metadataList = doc.selectFirst("div.Storyline__StorylineWrapper-sc-1b58ttw-0 ul.ipc-metadata-list");
-                    final JSONArray genres = new JSONArray();
-                    Elements genreElements = metadataList.select("a.GenresAndPlot__GenreChip-cum89p-3");
-                    String ratingReason = null;
-                    if(!genreElements.isEmpty()) {
-                        ratingReason = metadataList.selectFirst("li.ipc-metadata-list__item ul.ipc-inline-list li.ipc-inline-list__item").text();
-                    } else {
-                        final Elements elements = metadataList.select("li.ipc-metadata-list__item");
-                        final boolean hasTaglines = elements.first().attr("data-testid").equalsIgnoreCase("storyline-taglines");
-                        genreElements = elements.get(hasTaglines ? 1 : 0).select("a");
-                        ratingReason = elements.get(hasTaglines ? 2 : 1).text().substring("Motion Picture Rating (MPAA) ".length());
-                    }
-                    for(Element element : genreElements) {
-                        genres.put(element.text());
-                    }
-
-                    json = new JSONObject();
-                    json.put("rating", rating);
-                    json.put("ratingReason", ratingReason);
-                    json.put("runtimeSeconds", runtimeSeconds);
-                    json.put("imageURL", imageURL);
-                    json.put("genres", genres);
-                    json.put("source", url);
                 }
+
+                final String[] images = doc.selectFirst("div.ipc-poster div.ipc-media img").attr("srcset").split(" ");
+                String imageURL = null;
+                for(String image : images) {
+                    final String string = image.split(",")[0];
+                    if(string.endsWith("_UX380_CR0")) {
+                        imageURL = string;
+                    }
+                }
+
+                final Element metadataList = doc.selectFirst("div.Storyline__StorylineWrapper-sc-1b58ttw-0 ul.ipc-metadata-list");
+                final JSONArray genres = new JSONArray();
+                Elements genreElements = metadataList.select("a.GenresAndPlot__GenreChip-cum89p-3"), taglineElements = null;
+                String ratingReason = null;
+                if(!genreElements.isEmpty()) {
+                    final Element ratingElement = metadataList.selectFirst("li.ipc-metadata-list__item ul.ipc-inline-list li.ipc-inline-list__item");
+                    ratingReason = ratingElement != null ? ratingElement.text() : null;
+                } else {
+                    final Elements elements = metadataList.select("li.ipc-metadata-list__item");
+                    for(Element element : elements) {
+                        final String testID = element.attr("data-testid");
+                        switch (testID) {
+                            case "storyline-taglines":
+                                taglineElements = element.select("span.ipc-metadata-list-item__list-content-item");
+                                break;
+                            case "storyline-genres":
+                                genreElements = element.select("a");
+                                break;
+                            case "storyline-certificate":
+                                ratingReason = element.text().substring("Motion Picture Rating (MPAA) ".length());
+                                break;
+                            default:
+                                break;
+                        }
+                    }
+                }
+                for(Element element : genreElements) {
+                    genres.put(element.text());
+                }
+
+                json = new JSONObject();
+                if(rating != null) {
+                    json.put("rating", rating);
+                }
+                if(ratingReason != null) {
+                    json.put("ratingReason", ratingReason);
+                }
+                json.put("runtimeSeconds", runtimeSeconds);
+                json.put("imageURL", imageURL);
+                json.put("genres", genres);
+                json.put("source", url);
             }
         }
         if(json == null) {
             WLUtilities.saveLoggedError("IMDbService", "failed to get movie details for movie with id \"" + id + "\"!");
         }
         return json;
+    }
+    private boolean isValidMovieRating(String input) { // https://en.wikipedia.org/wiki/Motion_picture_content_rating_system
+        if(input == null) {
+            return false;
+        }
+        input = input.toLowerCase().replace(" ", "");
+        final Set<String> list = Set.of(
+                // Argentina
+                "ATP",
+                "+13",
+                "+16",
+                "+18",
+                "C",
+
+                // Australia
+                "M",
+                "MA 15+",
+                "R 18+",
+                "X 18+",
+                "RC",
+
+                // Bahamas
+                "B",
+                "T",
+                "D",
+
+                // Barbados
+                "GA",
+                "PG13",
+
+                // Belgium
+                "AL", "TOUS", "AL/TOUS",
+                "9",
+                "14",
+
+                // Brazil
+                "ER",
+                "L",
+                "10",
+
+                // Bulgaria
+                "X",
+
+                // Canada
+                "14A",
+                "18A",
+                "A",
+                "E",
+                "Prohibited",
+                "13+",
+                "16+",
+                "18+",
+
+                // Switzerland
+                "0",
+                "6",
+                "12",
+                "16",
+                "18",
+                "Unrated",
+
+                // United States
+                "G",
+                "PG",
+                "PG-13",
+                "R",
+                "NC-17",
+                "Not rated"
+        );
+        final HashSet<String> ratings = new HashSet<>();
+        for(String rating : list) {
+            ratings.add(rating.replace(" ", "").toLowerCase());
+        }
+        return ratings.contains(input);
     }
 
     private JSONObject parseMovie(String id) {

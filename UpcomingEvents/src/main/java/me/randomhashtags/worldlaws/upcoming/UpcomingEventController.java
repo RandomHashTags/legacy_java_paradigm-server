@@ -124,10 +124,8 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         } else {
             final Folder folder = Folder.UPCOMING_EVENTS_IDS;
             final String fileName = getUpcomingEventFileName(folder, identifier);
-            final String string = getLocalFileString(folder, fileName, "json");
-            if(string != null) {
-                return string;
-            } else {
+            String string = getLocalFileString(folder, fileName, "json");
+            if(string == null) {
                 final String todayEventDateString = new EventDate(LocalDate.now()).getDateString() + ".";
                 final JSONObject json = tryLoadingUpcomingEvent(identifier);
                 String value = null;
@@ -144,6 +142,8 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
                 upcomingEvents.put(identifier, jsonString);
                 return jsonString;
             }
+            upcomingEvents.put(identifier, string);
+            return string;
         }
     }
     private String getUpcomingEventFileName(Folder folder, String id) {
