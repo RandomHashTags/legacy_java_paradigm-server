@@ -27,11 +27,10 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
             final HashSet<WeatherPreAlert> preAlerts = map.getValue();
 
             final HashMap<String, HashSet<String>> territoryPreAlerts = new HashMap<>();
-            final HashSet<String> set = new HashSet<>();
             for(WeatherPreAlert preAlert : preAlerts) {
                 final String string = preAlert.toString();
                 for(String subdivision : preAlert.getSubdivisions()) {
-                    territoryPreAlerts.putIfAbsent(subdivision, set);
+                    territoryPreAlerts.putIfAbsent(subdivision, new HashSet<>());
                     territoryPreAlerts.get(subdivision).add(string);
                 }
             }

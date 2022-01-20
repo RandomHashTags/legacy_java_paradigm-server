@@ -47,10 +47,11 @@ public enum NASA_EONET implements WLService {
         final ConcurrentHashMap<String, HashSet<String>> homeValues = new ConcurrentHashMap<>();
         final String url = "https://eonet.sci.gsfc.nasa.gov/api/v3/events?status=open&days=30";
         final JSONObject json = requestJSONObject(url, RequestMethod.GET, CONTENT_HEADERS);
+        int amount = 0;
         if(json != null) {
             final String unitedStatesBackendID = WLCountry.UNITED_STATES.getBackendID();
-
             final JSONArray eventsArray = json.getJSONArray("events");
+            amount += eventsArray.length();
             ParallelStream.stream(eventsArray.spliterator(), obj -> {
                 final JSONObject eventJSON = (JSONObject) obj;
                 String place = eventJSON.getString("title").replace("&#039;", "'");
@@ -153,7 +154,6 @@ public enum NASA_EONET implements WLService {
             });
 
             String string = null;
-            int amount = 0;
             if(!homeValues.isEmpty()) {
                 final StringBuilder builder = new StringBuilder("{");
                 boolean isFirstCategory = true;
@@ -161,7 +161,6 @@ public enum NASA_EONET implements WLService {
                     builder.append(isFirstCategory ? "" : ",").append("\"").append(map.getKey()).append("\":{");
                     boolean isFirstValue = true;
                     final HashSet<String> values = map.getValue();
-                    amount += values.size();
                     for(String value : values) {
                         builder.append(isFirstValue ? "" : ",").append(value);
                         isFirstValue = false;
@@ -173,8 +172,8 @@ public enum NASA_EONET implements WLService {
                 string = builder.toString();
             }
             cache.put(version, string);
-            WLLogger.logInfo("NASA_EONET - loaded " + amount + " events (took " + (System.currentTimeMillis()-started) + "ms)");
         }
+        WLLogger.logInfo("NASA_EONET - loaded " + amount + " events (took " + (System.currentTimeMillis()-started) + "ms)");
     }
     private HashMap<String, String> getVolcanoWikipediaPages() {
         return new HashMap<>() {{

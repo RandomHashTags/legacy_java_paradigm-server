@@ -149,8 +149,7 @@ public enum WeatherUSA implements WeatherController {
             final int defcon = getSeverityDEFCON(severity);
             eventsMap.putIfAbsent(event, defcon);
 
-
-            final HashSet<String> subdivisions = new HashSet<>();
+            final List<String> subdivisions = new ArrayList<>();
             for(WeatherZone zone : zones) {
                 final String subdivisionName = zone.getSubdivision();
                 subdivisions.add(subdivisionName);
@@ -159,13 +158,10 @@ public enum WeatherUSA implements WeatherController {
             preAlertIDs.put(id, preAlert);
 
             eventPreAlertsMap.putIfAbsent(event, new HashSet<>());
-            eventPreAlertsMap.get(event).add(preAlert);
 
             final String eventLowercase = event.toLowerCase().replace(" ", "");
             final WeatherEvent weatherEvent = new WeatherEvent(event, defcon);
             for(String subdivisionName : subdivisions) {
-                subdivisions.add(subdivisionName);
-
                 subdivisionEventsMap.putIfAbsent(subdivisionName, new HashSet<>());
                 final HashSet<WeatherEvent> territorySet = subdivisionEventsMap.get(subdivisionName);
                 boolean hasEvent = false;
@@ -180,7 +176,11 @@ public enum WeatherUSA implements WeatherController {
                 }
                 territoryPreAlertsMap.putIfAbsent(subdivisionName, new ConcurrentHashMap<>());
                 territoryPreAlertsMap.get(subdivisionName).putIfAbsent(eventLowercase, new HashSet<>());
-                territoryPreAlertsMap.get(subdivisionName).get(eventLowercase).add(preAlert);
+
+                final WeatherPreAlert subdivisionPreAlert = preAlert.onlyWithSubdivision(subdivisionName);
+                territoryPreAlertsMap.get(subdivisionName).get(eventLowercase).add(subdivisionPreAlert);
+
+                eventPreAlertsMap.get(event).add(subdivisionPreAlert);
             }
         });
         putEventPreAlerts(eventPreAlerts, eventPreAlertsMap);
@@ -274,13 +274,17 @@ public enum WeatherUSA implements WeatherController {
         });
 
         if(json != null) {
+            final String nameSuffix = zoneID.startsWith("county") ? " County" : null;
             final JSONObject geometryJSON = json.getJSONObject("geometry"), properties = json.getJSONObject("properties");
             final Object state = properties.get("state");
             final String stateString = state instanceof String ? (String) state : null;
             final SovereignStateSubdivision subdivision = WLCountry.UNITED_STATES.valueOfSovereignStateSubdivision(stateString);
-            final String name = properties.getString("name"), territory = subdivision != null ? subdivision.getName() : "Unknown";
+            if(subdivision == null) {
+                WLLogger.logError("WeatherUSA", "failed to find subdivision for stateString \"" + stateString + "\"!");
+            }
+            final String name = properties.getString("name"), territory = subdivision != null ? subdivision.getName() : stateString != null ? stateString : "Unknown";
             final List<Location> geometry = getGeometry(geometryJSON);
-            final WeatherZone weatherZone = new WeatherZone(name, territory, geometry);
+            final WeatherZone weatherZone = new WeatherZone(name, nameSuffix, territory, geometry);
             zones.put(zoneID, weatherZone);
         }
         return zones.getOrDefault(zoneID, null);

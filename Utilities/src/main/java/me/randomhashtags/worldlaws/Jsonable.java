@@ -99,11 +99,11 @@ public interface Jsonable {
     }
     static JSONObject getStaticLocalFileJSONObject(Folder folder, String fileName) {
         final String string = getStaticLocalFileString(folder, fileName, "json");
-        return string != null ? new JSONObject(string) : null;
+        return string != null && string.startsWith("{") && string.endsWith("}") ? new JSONObject(string) : null;
     }
     static JSONArray getStaticFileJSONArray(Folder folder, String fileName) {
         final String string = getStaticLocalFileString(folder, fileName, "json");
-        return string != null ? new JSONArray(string) : null;
+        return string != null && string.startsWith("[") && string.endsWith("]") ? new JSONArray(string) : null;
     }
     static JSONObject getStaticJSONObject(Folder folder, String fileName, CompletionHandler handler) {
         JSONObject json = getStaticLocalFileJSONObject(folder, fileName);

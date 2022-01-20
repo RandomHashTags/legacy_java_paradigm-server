@@ -67,8 +67,7 @@ public enum USPoliticians implements Jsonable {
                     }
                 }
                 final USPolitician politician = new USPolitician(name, governedTerritory, district, party, imageURL, url.substring("https://www.congress.gov/member/".length()), website);
-                final String string = politician.toServerJSON();
-                return string;
+                return politician.toServerJSON();
             }
         });
 

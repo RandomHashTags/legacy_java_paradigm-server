@@ -121,9 +121,7 @@ public final class Alaska extends LawSubdivisionController {
     public String getStatute(String title, String chapter, String section) {
         final String path = title + "." + chapter + "." + section;
         chapter = section.split("\\.")[0];
-        if(statutes.containsKey(path)) {
-            return statutes.get(path);
-        } else {
+        if(!statutes.containsKey(path)) {
             final String url = statuteURL.replace("%token%", pageToken).replace("%index%", title).replace("%chapter%", chapter).replace("%section%", section.split("\\.")[1]);
             final Document doc = getDocument(url);
             String topic = "";
@@ -153,7 +151,7 @@ public final class Alaska extends LawSubdivisionController {
             final SubdivisionStatute statute = new SubdivisionStatute(StateReference.build(title, chapter, section, url), topic, description.toString());
             final String string = statute.toString();
             statutes.put(path, string);
-            return string;
         }
+        return statutes.get(path);
     }
 }

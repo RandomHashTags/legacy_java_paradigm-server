@@ -246,12 +246,17 @@ public enum MovieProductionCompanies {
     }
     private static String getJSON() {
         if(CACHE == null) {
-            final JSONObject json = Jsonable.getStaticJSONObject(Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies", new CompletionHandler() {
+            JSONObject json = Jsonable.getStaticJSONObject(Folder.UPCOMING_EVENTS_MOVIES, "productionCompanies", new CompletionHandler() {
                 @Override
                 public JSONObject loadJSONObject() {
                     return loadJSON();
                 }
             });
+            final int responseVersion = ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue();
+            final int previousVersion = json.has("response_version") ? json.getInt("response_version") : 0;
+            if(previousVersion < responseVersion) {
+                json = loadJSON();
+            }
             CACHE = json.toString();
         }
         return CACHE;
@@ -259,13 +264,11 @@ public enum MovieProductionCompanies {
     private static JSONObject loadJSON() {
         final MovieProductionCompanies[] companies = values();
         final JSONObject companiesJSON = new JSONObject();
-        final CompletionHandler completionHandler = new CompletionHandler() {
-            @Override
-            public void handleJSONValue(String key, JSONObject json) {
-                companiesJSON.put(key, json);
-            }
-        };
-        ParallelStream.stream(Arrays.asList(companies), company -> ((MovieProductionCompanies) company).getDetails(completionHandler));
+        ParallelStream.stream(Arrays.asList(companies), companyObj -> {
+            final MovieProductionCompanies company = (MovieProductionCompanies) companyObj;
+            final JSONObject details = company.getDetails();
+            companiesJSON.put(company.getOriginalWikipediaName(), details);
+        });
 
         final JSONObject json = new JSONObject();
         final int responseVersion = ResponseVersions.MOVIE_PRODUCTION_COMPANIES.getValue();
@@ -277,8 +280,11 @@ public enum MovieProductionCompanies {
     private static String getImageURLPrefix() {
         return "https://upload.wikimedia.org/wikipedia/en/thumb/";
     }
-    public void getDetails(CompletionHandler handler) {
-        final String originalWikipediaName = wikipediaName.replace("_", " ");
+    private String getOriginalWikipediaName() {
+        return wikipediaName.replace("_", " ");
+    }
+    public JSONObject getDetails() {
+        final String originalWikipediaName = getOriginalWikipediaName();
         final String url = "https://en.wikipedia.org/wiki/" + wikipediaName.replace(" ", "_");
         final WikipediaDocument doc = new WikipediaDocument(url);
         final StringBuilder builder = new StringBuilder();
@@ -316,8 +322,7 @@ public enum MovieProductionCompanies {
 
         final JSONObject sourcesJSON = new JSONObject(sources.toString());
         json.put("sources", sourcesJSON);
-
-        handler.handleJSONValue(originalWikipediaName.split(" \\(")[0], json);
+        return json;
     }
 
     private final String wikipediaName;

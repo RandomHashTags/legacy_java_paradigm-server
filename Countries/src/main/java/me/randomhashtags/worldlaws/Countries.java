@@ -97,7 +97,6 @@ public final class Countries implements WLServer {
         ));
 
         registerFixedTimer(WLUtilities.COUNTRIES_NON_STATIC_VALUES_UPDATE_INTERVAL, this::updateNonStaticInformation);
-        updateNonStaticInformation();
     }
 
     private void updateNonStaticInformation() {

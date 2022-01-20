@@ -54,27 +54,31 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         SERVICES = new HashSet<>(Arrays.asList(values()));
         SERVICES.remove(INSTANCE);
         SERVICES.addAll(Arrays.asList(
-                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_CARD),
-                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_CARPLAY),
-                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_PAY),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_ICLOUD_PLUS),
                 new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_APP_STORE_APPS),
                 new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_APP_STORE_GAMES),
                 new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ARCADE),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_CARD),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_CARPLAY),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_HEALTH_BLOOD_GLUCOSE_HIGHLIGHTS),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_HEALTH_DOWNLOAD_HEALTH_RECORDS_TO_IPHONE),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_HEALTH_SHARE_HEALTH_APP_DATA_WITH_HEALTHCARE_PROVIDERS),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_MOVIES),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_MUSIC),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_TV_SHOWS),
                 new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_CONGESTION_ZONES),
                 new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_DIRECTIONS),
                 new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_SPEED_CAMERAS),
                 new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_SPEED_LIMITS),
                 new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MAPS_NEARBY),
                 new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_MUSIC),
-                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_SIRI),
-                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_MOVIES),
-                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_MUSIC),
-                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_ITUNES_STORE_TV_SHOWS),
-                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_TV_APP),
-                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_TV_PLUS),
                 new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_NEWS),
                 new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_NEWS_AUDIO),
                 new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_NEWS_PLUS),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_PAY),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_SIRI),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_TV_APP),
+                new AppleAvailabilityObj(AppleFeatureType.IOS, SovereignStateInfo.AVAILABILITY_APPLE_IOS_TV_PLUS),
 
                 new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_APPLE_MUSIC),
                 new AppleAvailabilityObj(AppleFeatureType.WATCH_OS, SovereignStateInfo.AVAILABILITY_APPLE_WATCH_OS_APPLE_PAY),
@@ -93,11 +97,15 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
         ParallelStream.stream(SERVICES, serviceObj -> {
             final CountryAvailabilityService service = (CountryAvailabilityService) serviceObj;
             final CountryAvailability availability = service.getAvailability(countryBackendID);
-            final String primaryCategory = availability.getPrimaryCategory().name();
-            final boolean availabilityIsAvailable = availability.isAvailable();
-            values.putIfAbsent(availabilityIsAvailable, new ConcurrentHashMap<>());
-            values.get(availabilityIsAvailable).putIfAbsent(primaryCategory, new HashSet<>());
-            values.get(availabilityIsAvailable).get(primaryCategory).add(availability.toString());
+            if(availability != null) {
+                final String primaryCategory = availability.getPrimaryCategory().name();
+                final boolean availabilityIsAvailable = availability.isAvailable();
+                values.putIfAbsent(availabilityIsAvailable, new ConcurrentHashMap<>());
+                values.get(availabilityIsAvailable).putIfAbsent(primaryCategory, new HashSet<>());
+                values.get(availabilityIsAvailable).get(primaryCategory).add(availability.toString());
+            } else {
+                WLLogger.logError("CountryAvailabilities", "missing availability values for service \"" + service.getInfo().name() + "\"!");
+            }
         });
 
         final StringBuilder builder = new StringBuilder("{");

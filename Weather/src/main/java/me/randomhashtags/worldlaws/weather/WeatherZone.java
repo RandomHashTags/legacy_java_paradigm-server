@@ -1,16 +1,18 @@
 package me.randomhashtags.worldlaws.weather;
 
+import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.Location;
 
 import java.util.List;
 
 public final class WeatherZone {
-    private final String name, territory;
+    private final String name, nameSuffix, subdivision;
     private final List<Location> geometry;
 
-    public WeatherZone(String name, String territory, List<Location> geometry) {
-        this.name = name;
-        this.territory = territory;
+    public WeatherZone(String name, String nameSuffix, String subdivision, List<Location> geometry) {
+        this.name = LocalServer.fixEscapeValues(name);
+        this.nameSuffix = LocalServer.fixEscapeValues(nameSuffix);
+        this.subdivision = LocalServer.fixEscapeValues(subdivision);
         this.geometry = geometry;
     }
 
@@ -18,7 +20,7 @@ public final class WeatherZone {
         return name;
     }
     public String getSubdivision() {
-        return territory;
+        return subdivision;
     }
 
     private String getGeometryJSON() {
@@ -37,7 +39,8 @@ public final class WeatherZone {
     public String toString() {
         return "{" +
                 "\"name\":\"" + name + "\"," +
-                "\"territory\":\"" + territory + "\"," +
+                (nameSuffix != null ? "\"nameSuffix\":\"" + nameSuffix + "\"," : "") +
+                "\"subdivision\":\"" + subdivision + "\"," +
                 "\"geometry\":" + getGeometryJSON() +
                 "}";
     }

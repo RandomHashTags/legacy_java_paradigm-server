@@ -11,8 +11,10 @@ public final class FlyoverObj {
         this.location = location;
     }
 
-    @Override
-    public String toString() {
-        return "\"" + city + "\":" + location.toString();
+    public String getCity() {
+        return city;
+    }
+    public Location getLocation() {
+        return location;
     }
 }

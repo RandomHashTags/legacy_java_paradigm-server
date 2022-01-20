@@ -30,7 +30,7 @@ public final class WeatherAlertTime {
         }
         try {
             final LocalDateTime date = LocalDateTime.parse(input, DateTimeFormatter.ISO_OFFSET_DATE_TIME);
-            return date.toEpochSecond(ZoneOffset.UTC);
+            return date.toEpochSecond(ZoneOffset.UTC) * 1000;
         } catch (Exception e) {
             final String trace = WLUtilities.getExceptionStackTrace(e);
             WLUtilities.saveLoggedError("WeatherAlertTime", "failed to parse date format for input \"" + input + "\"!\n\n" + trace);

@@ -66,6 +66,9 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
         final int length = "availability_".length();
         final String infoName = targetInfoName.toLowerCase().substring(length).replace("_", "-");
         switch (info) {
+            case AVAILABILITY_APPLE_ICLOUD_PLUS:
+                return "icloud-icloud-plus";
+
             case AVAILABILITY_APPLE_IOS_APP_STORE_APPS:
             case AVAILABILITY_APPLE_IOS_APP_STORE_GAMES:
             case AVAILABILITY_APPLE_IOS_MAPS_CONGESTION_ZONES:
@@ -78,6 +81,13 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
             case AVAILABILITY_APPLE_IOS_ITUNES_STORE_MOVIES:
             case AVAILABILITY_APPLE_IOS_ITUNES_STORE_TV_SHOWS:
                 return infoName.substring("apple-ios-".length());
+
+            case AVAILABILITY_APPLE_IOS_HEALTH_BLOOD_GLUCOSE_HIGHLIGHTS:
+                return "health-blood-glucose";
+            case AVAILABILITY_APPLE_IOS_HEALTH_DOWNLOAD_HEALTH_RECORDS_TO_IPHONE:
+                return "health-health-records";
+            case AVAILABILITY_APPLE_IOS_HEALTH_SHARE_HEALTH_APP_DATA_WITH_HEALTHCARE_PROVIDERS:
+                return "health-share-health-app-data";
 
             case AVAILABILITY_APPLE_WATCH_OS_APPLE_MUSIC:
                 return infoName.substring("apple-watch-os-".length());
@@ -104,6 +114,8 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
     @Override
     public AvailabilityCategory getPrimaryCategory() {
         switch (info) {
+            case AVAILABILITY_APPLE_ICLOUD_PLUS:
+                return AvailabilityCategory.DIGITAL_STORAGE_SERVICE;
             case AVAILABILITY_APPLE_IOS_CARD:
                 return AvailabilityCategory.PHYSICAL_PAYMENT_METHOD;
             case AVAILABILITY_APPLE_IOS_CARPLAY:
@@ -138,6 +150,9 @@ public final class AppleAvailabilityObj implements AppleFeatureAvailability {
             case AVAILABILITY_APPLE_IOS_NEWS_AUDIO:
             case AVAILABILITY_APPLE_IOS_NEWS_PLUS:
                 return AvailabilityCategory.NEWS_SERVICE;
+            case AVAILABILITY_APPLE_IOS_HEALTH_BLOOD_GLUCOSE_HIGHLIGHTS:
+            case AVAILABILITY_APPLE_IOS_HEALTH_DOWNLOAD_HEALTH_RECORDS_TO_IPHONE:
+            case AVAILABILITY_APPLE_IOS_HEALTH_SHARE_HEALTH_APP_DATA_WITH_HEALTHCARE_PROVIDERS:
             case AVAILABILITY_APPLE_WATCH_OS_BLOOD_OXYGEN_APP:
             case AVAILABILITY_APPLE_WATCH_OS_ECG:
             case AVAILABILITY_APPLE_WATCH_OS_IRREGULAR_RHYTHM_NOTIFICATION:

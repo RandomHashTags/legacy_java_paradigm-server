@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.info.availability;
 public enum AvailabilityCategory {
     COMMUNICATION_SERVICE,
     DIGITAL_PAYMENT_METHOD,
+    DIGITAL_STORAGE_SERVICE,
     DIGITAL_STORE_SERVICE,
     ENTERTAINMENT_SERVICE,
     FINANCIAL_SERVICE,

@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.info.availability;
 
 import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Folder;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.info.service.CountryService;
@@ -52,8 +53,13 @@ public interface CountryAvailabilityService extends CountryService {
         return getJSONArray(folder, fileName, new CompletionHandler() {
             @Override
             public JSONArray loadJSONArray() {
-                final String string = loadData();
-                return string != null && string.startsWith("[") && string.endsWith("]") ? new JSONArray(string) : null;
+                try {
+                    final String string = loadData();
+                    return string != null && string.startsWith("[") && string.endsWith("]") ? new JSONArray(string) : null;
+                } catch (Exception e) {
+                    WLUtilities.saveException(e);
+                    return null;
+                }
             }
         });
     }
@@ -64,9 +70,14 @@ public interface CountryAvailabilityService extends CountryService {
         if(AVAILABILITY_VALUES.containsKey(info)) {
             isTrue = isTrue(countryBackendID, AVAILABILITY_VALUES.get(info));
         } else {
-            final JSONArray array = (JSONArray) getJSONData(getFolder(), info.getTitle(), countryBackendID);
-            AVAILABILITY_VALUES.put(info, array);
-            isTrue = isTrue(countryBackendID, array);
+            final Object obj = getJSONData(getFolder(), info.getTitle(), countryBackendID);
+            if(obj != null) {
+                final JSONArray array = (JSONArray) obj;
+                AVAILABILITY_VALUES.put(info, array);
+                isTrue = isTrue(countryBackendID, array);
+            } else {
+                return null;
+            }
         }
         return getAvailability(isTrue);
     }

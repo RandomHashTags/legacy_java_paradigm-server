@@ -3,15 +3,16 @@ package me.randomhashtags.worldlaws.weather;
 import me.randomhashtags.worldlaws.LocalServer;
 
 import java.util.HashSet;
+import java.util.List;
 
 public final class WeatherPreAlert {
     private final int defcon;
     private final String event, id, certainty, headline, instruction, description;
-    private final HashSet<String> subdivisions;
+    private final List<String> subdivisions;
     private final HashSet<WeatherZone> zones;
     private final WeatherAlertTime time;
 
-    public WeatherPreAlert(int defcon, String event, String id, HashSet<String> subdivisions, String certainty, String headline, String instruction, String description, HashSet<WeatherZone> zones, WeatherAlertTime time) {
+    public WeatherPreAlert(int defcon, String event, String id, List<String> subdivisions, String certainty, String headline, String instruction, String description, HashSet<WeatherZone> zones, WeatherAlertTime time) {
         this.defcon = defcon;
         this.event = event;
         this.id = id;
@@ -24,16 +25,19 @@ public final class WeatherPreAlert {
         this.time = time;
     }
 
+    public WeatherPreAlert onlyWithSubdivision(String subdivision) {
+        final HashSet<WeatherZone> subdivisionZones = new HashSet<>(zones);
+        subdivisionZones.removeIf(zone -> !zone.getSubdivision().equalsIgnoreCase(subdivision));
+        return new WeatherPreAlert(0, null, id, null, null, null, null, null, subdivisionZones, time);
+    }
+
     public int getDefcon() {
         return defcon;
     }
     public String getEvent() {
         return event;
     }
-    public String getID() {
-        return id;
-    }
-    public HashSet<String> getSubdivisions() {
+    public List<String> getSubdivisions() {
         return subdivisions;
     }
     public String getCertainty() {
