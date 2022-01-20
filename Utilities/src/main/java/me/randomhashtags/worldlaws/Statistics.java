@@ -4,8 +4,10 @@ import me.randomhashtags.worldlaws.service.QuotaHandler;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import java.io.File;
 import java.time.Clock;
 import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -18,7 +20,8 @@ public enum Statistics implements Jsonable, QuotaHandler {
         }
         if(!totalRequests.isEmpty()) {
             final Folder folder = Folder.LOGS;
-            final String fileName = "" + LocalDate.now(Clock.systemUTC()).toEpochDay();
+            final LocalDate now = LocalDate.now();
+            final String fileName = now.getYear() + File.separator + "statistics" + File.separator + now.format(DateTimeFormatter.ISO_OFFSET_DATE_TIME);
             final JSONObject json = getJSONObject(folder, fileName, new CompletionHandler() {
                 @Override
                 public JSONObject loadJSONObject() {

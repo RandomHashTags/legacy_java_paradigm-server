@@ -71,11 +71,6 @@ public enum WeatherAlerts {
                         return weather.getEventPreAlerts().get(values[1]);
                     case "id":
                         return weather.getAlert(values[1]);
-                    case "zone":
-                        return weather.getZone(values[1]);
-                    case "zones":
-                        final String[] zoneIDs = values[1].split(",");
-                        return weather.getZones(zoneIDs);
                     default:
                         break;
                 }

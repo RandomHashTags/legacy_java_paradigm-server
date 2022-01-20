@@ -46,6 +46,7 @@ public enum Folder {
     UPCOMING_EVENTS_MOVIES("upcoming events" + File.separator + "movies"),
     UPCOMING_EVENTS_TV_SHOWS("upcoming events" + File.separator + "tv shows"),
     WEATHER_USA_ZONES,
+    WEATHER_USA_OFFICES,
     ;
 
     private final String folderName;

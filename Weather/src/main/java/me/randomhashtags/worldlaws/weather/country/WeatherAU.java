@@ -48,16 +48,6 @@ public enum WeatherAU implements WeatherController {
     }
 
     @Override
-    public String getZones(String[] zones) {
-        return null;
-    }
-
-    @Override
-    public String getZone(String zoneID) {
-        return null;
-    }
-
-    @Override
     public String getAlert(String id) {
         return null;
     }

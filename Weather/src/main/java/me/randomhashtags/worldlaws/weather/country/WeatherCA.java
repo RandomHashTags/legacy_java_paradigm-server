@@ -135,16 +135,6 @@ public enum WeatherCA implements WeatherController {
     }
 
     @Override
-    public String getZones(String[] zones) {
-        return null;
-    }
-
-    @Override
-    public String getZone(String zoneID) {
-        return null;
-    }
-
-    @Override
     public String getAlert(String id) {
         if(alertIDs == null) {
             final String string = refresh();

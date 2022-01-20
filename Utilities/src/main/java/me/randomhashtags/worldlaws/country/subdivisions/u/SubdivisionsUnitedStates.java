@@ -69,6 +69,8 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
     WASHINGTON_DC,
     PUERTO_RICO,
     GUAM,
+    NORTHERN_MARIANA_ISLANDS,
+    UNITED_STATES_VIRGIN_ISLANDS,
     ;
 
     @Override
@@ -87,6 +89,8 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
             case AMERICAN_SAMOA:
             case PUERTO_RICO:
             case GUAM:
+            case NORTHERN_MARIANA_ISLANDS:
+            case UNITED_STATES_VIRGIN_ISLANDS:
                 return SubdivisionType.TERRITORIES;
             case WASHINGTON_DC: return SubdivisionType.FEDERAL_DISTRICTS;
             default: return null;
@@ -159,6 +163,8 @@ public enum SubdivisionsUnitedStates implements SovereignStateSubdivision { // h
             case WASHINGTON_DC: return "DC";
             case PUERTO_RICO: return WLCountry.PUERTO_RICO.getISOAlpha2();
             case GUAM: return WLCountry.GUAM.getISOAlpha2();
+            case NORTHERN_MARIANA_ISLANDS: return WLCountry.NORTHERN_MARIANA_ISLANDS.getISOAlpha2();
+            case UNITED_STATES_VIRGIN_ISLANDS: return "VI";
             default: return null;
         }
     }
