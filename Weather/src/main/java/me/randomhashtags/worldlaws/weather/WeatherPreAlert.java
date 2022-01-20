@@ -28,7 +28,8 @@ public final class WeatherPreAlert {
     public WeatherPreAlert onlyWithSubdivision(String subdivision) {
         final HashSet<WeatherZone> subdivisionZones = new HashSet<>(zones);
         subdivisionZones.removeIf(zone -> !zone.getSubdivision().equalsIgnoreCase(subdivision));
-        return new WeatherPreAlert(0, null, id, null, null, null, null, null, subdivisionZones, time);
+        final List<String> subdivisions = List.of(subdivision);
+        return new WeatherPreAlert(0, null, id, subdivisions, null, null, null, null, subdivisionZones, time);
     }
 
     public int getDefcon() {

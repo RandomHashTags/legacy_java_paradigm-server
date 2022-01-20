@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.service;
 import me.randomhashtags.worldlaws.DataValues;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.Jsoupable;
+import me.randomhashtags.worldlaws.WLUtilities;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.jsoup.nodes.Document;
@@ -11,7 +12,7 @@ import org.jsoup.select.Elements;
 
 public interface IMDbService extends DataValues {
 
-    default String getIMDbMovieDetails(String title, int year) {
+    default JSONObject getIMDbMovieDetails(String title, int year) {
         final String lowercaseTitle = title.toLowerCase();
         final String url = "https://www.imdb.com/find?q=" + lowercaseTitle.replace(" ", "+");
         final Elements elements = Jsoupable.getStaticDocumentElements(Folder.OTHER, url, false, "div div.redesign div.pagecontent div div div.article div.findSection table.findList tr.findResult");
@@ -19,14 +20,17 @@ public interface IMDbService extends DataValues {
         if(elements != null) {
             for(Element element : elements) {
                 final Element resultText = element.selectFirst("td.result_text");
-                final String text = resultText.text().toLowerCase();
-                if(hasMovieTitle(lowercaseTitle, year, text)) {
-                    final String id = resultText.selectFirst("a").attr("href").split("/")[2];
-                    json = getMovie(id);
+                if(resultText != null) {
+                    final String text = resultText.text().toLowerCase();
+                    if(hasMovieTitle(lowercaseTitle, year, text)) {
+                        final String id = resultText.selectFirst("a[href]").attr("href").split("/")[2];
+                        json = getMovie(id);
+                        break;
+                    }
                 }
             }
         }
-        return json != null && !json.isEmpty() ? json.toString() : null;
+        return json;
     }
     private boolean hasMovieTitle(String title, int year, String text) {
         if(text.contains("(" + year + ")") && !text.contains("(video game)") && !text.contains("(tv series)")) {
@@ -45,53 +49,61 @@ public interface IMDbService extends DataValues {
         final Document doc = Jsoupable.getStaticDocument(Folder.OTHER, url, false);
         JSONObject json = null;
         if(doc != null) {
-            final String title = doc.selectFirst("h1.TitleHeader__TitleText-sc-1wu6n3d-0").text();
-            final Elements list = doc.selectFirst("ul.ipc-inline-list").select("li.ipc-inline-list__item");
+            //final String title = doc.selectFirst("h1.TitleHeader__TitleText-sc-1wu6n3d-0").text();
+            final Element listElement = doc.selectFirst("ul.ipc-inline-list");
+            if(listElement != null) {
+                final Elements list = listElement.select("li.ipc-inline-list__item");
+                if(list.size() >= 3) {
+                    final String rating = list.get(1).selectFirst("a[href]").text();
+                    int runtimeSeconds = 0;
+                    final String[] runtimeValues = list.get(2).text().split(" ");
+                    for(String string : runtimeValues) {
+                        string = string.toLowerCase();
+                        final boolean isHours = string.endsWith("h");
+                        final String target = string.substring(0, string.length()-1);
+                        if(target.matches("[0-9]+")) {
+                            final int value = Integer.parseInt(target);
+                            runtimeSeconds += value * 60 * (isHours ? 60 : 1);
+                        }
+                    }
 
-            final String rating = list.get(1).selectFirst("a[href]").text();
-            int runtimeSeconds = 0;
-            for(String string : list.get(2).text().split(" ")) {
-                string = string.toLowerCase();
-                final boolean isHours = string.endsWith("h");
-                final String target = string.substring(0, string.length()-1);
-                if(target.matches("[0-9]+")) {
-                    final int value = Integer.parseInt(target);
-                    runtimeSeconds += value * 60 * (isHours ? 60 : 1);
+                    final String[] images = doc.selectFirst("div.ipc-poster div.ipc-media img").attr("srcset").split(" ");
+                    String imageURL = null;
+                    for(String image : images) {
+                        final String string = image.split(",")[0];
+                        if(string.endsWith("_UX380_CR0")) {
+                            imageURL = string;
+                        }
+                    }
+
+                    final Element metadataList = doc.selectFirst("div.Storyline__StorylineWrapper-sc-1b58ttw-0 ul.ipc-metadata-list");
+                    final JSONArray genres = new JSONArray();
+                    Elements genreElements = metadataList.select("a.GenresAndPlot__GenreChip-cum89p-3");
+                    String ratingReason = null;
+                    if(!genreElements.isEmpty()) {
+                        ratingReason = metadataList.selectFirst("li.ipc-metadata-list__item ul.ipc-inline-list li.ipc-inline-list__item").text();
+                    } else {
+                        final Elements elements = metadataList.select("li.ipc-metadata-list__item");
+                        final boolean hasTaglines = elements.first().attr("data-testid").equalsIgnoreCase("storyline-taglines");
+                        genreElements = elements.get(hasTaglines ? 1 : 0).select("a");
+                        ratingReason = elements.get(hasTaglines ? 2 : 1).text().substring("Motion Picture Rating (MPAA) ".length());
+                    }
+                    for(Element element : genreElements) {
+                        genres.put(element.text());
+                    }
+
+                    json = new JSONObject();
+                    json.put("rating", rating);
+                    json.put("ratingReason", ratingReason);
+                    json.put("runtimeSeconds", runtimeSeconds);
+                    json.put("imageURL", imageURL);
+                    json.put("genres", genres);
+                    json.put("source", url);
                 }
             }
-
-            final String[] images = doc.selectFirst("div.ipc-poster div.ipc-media img").attr("srcset").split(" ");
-            String imageURL = null;
-            for(String image : images) {
-                final String string = image.split(",")[0];
-                if(string.endsWith("_UX380_CR0")) {
-                    imageURL = string;
-                }
-            }
-
-            final Element metadataList = doc.selectFirst("div.Storyline__StorylineWrapper-sc-1b58ttw-0 ul.ipc-metadata-list");
-            final JSONArray genres = new JSONArray();
-            Elements genreElements = metadataList.select("a.GenresAndPlot__GenreChip-cum89p-3");
-            String ratingReason = null;
-            if(!genreElements.isEmpty()) {
-                ratingReason = metadataList.selectFirst("li.ipc-metadata-list__item ul.ipc-inline-list li.ipc-inline-list__item").text();
-            } else {
-                final Elements elements = metadataList.select("li.ipc-metadata-list__item");
-                final boolean hasTaglines = elements.first().attr("data-testid").equalsIgnoreCase("storyline-taglines");
-                genreElements = elements.get(hasTaglines ? 1 : 0).select("a");
-                ratingReason = elements.get(hasTaglines ? 2 : 1).text().substring("Motion Picture Rating (MPAA) ".length());
-            }
-            for(Element element : genreElements) {
-                genres.put(element.text());
-            }
-
-            json = new JSONObject();
-            json.put("rating", rating);
-            json.put("ratingReason", ratingReason);
-            json.put("runtimeSeconds", runtimeSeconds);
-            json.put("imageURL", imageURL);
-            json.put("genres", genres);
-            json.put("source", url);
+        }
+        if(json == null) {
+            WLUtilities.saveLoggedError("IMDbService", "failed to get movie details for movie with id \"" + id + "\"!");
         }
         return json;
     }

@@ -7,6 +7,7 @@ import org.json.JSONObject;
 import java.io.File;
 import java.time.Clock;
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
@@ -20,8 +21,9 @@ public enum Statistics implements Jsonable, QuotaHandler {
         }
         if(!totalRequests.isEmpty()) {
             final Folder folder = Folder.LOGS;
-            final LocalDate now = LocalDate.now();
-            final String fileName = now.getYear() + File.separator + "statistics" + File.separator + now.format(DateTimeFormatter.ISO_OFFSET_DATE_TIME);
+            final LocalDateTime now = LocalDateTime.now();
+            final String folderPath = now.getYear() + File.separator + "statistics" + File.separator + now.getMonth().name() + File.separator + now.getDayOfMonth() + File.separator;
+            final String fileName = folderPath + now.format(DateTimeFormatter.ISO_OFFSET_TIME);
             final JSONObject json = getJSONObject(folder, fileName, new CompletionHandler() {
                 @Override
                 public JSONObject loadJSONObject() {
