@@ -263,7 +263,9 @@ public enum WLCountry {
     UZBEKISTAN,
 
     VANUATU,
-    VATICAN_CITY,
+    VATICAN_CITY(
+            "Holy See"
+    ),
     VENEZUELA,
     VIETNAM,
 
@@ -366,5 +368,12 @@ public enum WLCountry {
     }
     public WLCurrency[] getCurrencies() {
         return WLCountryCurrencies.get(this);
+    }
+
+    public boolean isUNMemberState() {
+        return UNMemberStates.isUNMember(this);
+    }
+    public boolean isUNObserverState() {
+        return UNMemberStates.isUNObserverState(this);
     }
 }

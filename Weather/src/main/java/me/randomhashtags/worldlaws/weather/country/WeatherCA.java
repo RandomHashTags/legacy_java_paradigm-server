@@ -57,7 +57,7 @@ public enum WeatherCA implements WeatherController {
 
         final ConcurrentHashMap<String, Integer> eventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, HashSet<WeatherPreAlert>> eventPreAlertsMap = new ConcurrentHashMap<>();
-        final ConcurrentHashMap<String, HashSet<WeatherEvent>> territoryEventsMap = new ConcurrentHashMap<>();
+        final ConcurrentHashMap<String, ConcurrentHashMap<String, WeatherEvent>> territoryEventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> territoryPreAlertsMap = new ConcurrentHashMap<>();
 
         final Document doc = getDocument(url);
@@ -92,20 +92,10 @@ public enum WeatherCA implements WeatherController {
                                     eventsMap.put(event, defcon);
                                 }
 
-                                if(!territoryEventsMap.containsKey(territory)) {
-                                    territoryEventsMap.put(territory, new HashSet<>());
-                                }
-                                final HashSet<WeatherEvent> territorySet = territoryEventsMap.get(territory);
-                                boolean hasEvent = false;
-                                for(WeatherEvent newWeatherEvent : territorySet) {
-                                    if(event.equals(newWeatherEvent.getEvent())) {
-                                        hasEvent = true;
-                                        break;
-                                    }
-                                }
-                                if(!hasEvent) {
+                                territoryEventsMap.putIfAbsent(territory, new ConcurrentHashMap<>());
+                                if(!territoryEventsMap.get(territory).containsKey(event)) {
                                     final WeatherEvent weatherEvent = new WeatherEvent(event, defcon);
-                                    territoryEventsMap.get(territory).add(weatherEvent);
+                                    territoryEventsMap.get(territory).put(event, weatherEvent);
                                 }
 
                                 final Elements table = detailsDoc.select("main.container div.row div.col-xs-12 p");

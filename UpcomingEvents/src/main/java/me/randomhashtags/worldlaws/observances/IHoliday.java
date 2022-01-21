@@ -62,7 +62,7 @@ public interface IHoliday extends Jsoupable, Jsonable {
             }
         });
     }
-    default HolidaySource getSource() {
+    default HolidaySource getSource() { // TODO: delete this. Use getSources instead
         return HolidaySource.WIKIPEDIA;
     }
     default String getURL() {

@@ -21,11 +21,12 @@ public enum NASA_EONET implements WLService {
     INSTANCE;
 
     private final HashMap<APIVersion, String> cache;
-    private final HashMap<String, String> territoryEvents;
+    private final HashMap<String, String> territoryEvents, cachedVolcanoes;
 
     NASA_EONET() {
         cache = new HashMap<>();
         territoryEvents = new HashMap<>();
+        cachedVolcanoes = new HashMap<>();
     }
 
     @Override
@@ -35,7 +36,9 @@ public enum NASA_EONET implements WLService {
 
     public String getCurrent(APIVersion version) {
         if(!cache.containsKey(version)) {
-            Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL, () -> refresh(version));
+            final Weather weather = Weather.INSTANCE;
+            weather.registerFixedTimer(WLUtilities.WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL, () -> refresh(version));
+            weather.registerFixedTimer(WLUtilities.WEATHER_NASA_WEATHER_VOLCANO_UPDATE_INTERVAL, cachedVolcanoes::clear);
             refresh(version);
         }
         return cache.get(version);
@@ -188,27 +191,31 @@ public enum NASA_EONET implements WLService {
         }};
     }
     private String getLatestVolcanoDescription(String url) {
-        final Document doc = getDocument(url);
-        String string = null;
-        if(doc != null) {
-            final Element tabbedContent = doc.selectFirst("div.tabbed-content");
-            if(tabbedContent != null) {
-                final Element paragraph = tabbedContent.selectFirst("p.tab");
-                if(paragraph != null) {
-                    final StringBuilder builder = new StringBuilder();
-                    boolean isFirst = true;
-                    for(TextNode node : paragraph.textNodes()) {
-                        builder.append(isFirst ? "" : "\n\n").append(node.text());
-                        isFirst = false;
+        final String id = url.split("=")[1];
+        if(!cachedVolcanoes.containsKey(id)) {
+            final Document doc = getDocument(url);
+            String string = null;
+            if(doc != null) {
+                final Element tabbedContent = doc.selectFirst("div.tabbed-content");
+                if(tabbedContent != null) {
+                    final Element paragraph = tabbedContent.selectFirst("p.tab");
+                    if(paragraph != null) {
+                        final StringBuilder builder = new StringBuilder();
+                        boolean isFirst = true;
+                        for(TextNode node : paragraph.textNodes()) {
+                            builder.append(isFirst ? "" : "\n\n").append(node.text());
+                            isFirst = false;
+                        }
+                        string = builder.toString();
                     }
-                    string = builder.toString();
                 }
             }
+            if(string == null) {
+                WLUtilities.saveLoggedError("Weather", "failed to getLatestVolcanoDescription for \"" + url + "\"!");
+            }
+            cachedVolcanoes.put(id, string);
         }
-        if(string == null) {
-            WLUtilities.saveLoggedError("Weather", "failed to getLatestVolcanoDescription for \"" + url + "\"!");
-        }
-        return string;
+        return cachedVolcanoes.get(id);
     }
 
     private static final class NaturalEvent {

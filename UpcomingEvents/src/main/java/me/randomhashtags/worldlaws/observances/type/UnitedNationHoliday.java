@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.observances.HolidaySource;
 import me.randomhashtags.worldlaws.observances.IHoliday;
 
 import java.time.DayOfWeek;
@@ -89,6 +90,13 @@ public enum UnitedNationHoliday implements IHoliday {
     WORLD_WILDLIFE_DAY,
 
     ZERO_DISCRIMINATION_DAY,
+
+    ARABIC_LANGUAGE_DAY,
+    CHINESE_LANGUAGE_DAY,
+    ENGLISH_LANGUAGE_DAY,
+    SPANISH_LANGUAGE_DAY,
+    FRENCH_LANGUAGE_DAY,
+    RUSSIAN_LANGUAGE_DAY,
     ;
 
     private final String wikipediaName;
@@ -120,6 +128,9 @@ public enum UnitedNationHoliday implements IHoliday {
 
     @Override
     public EventDate getDate(WLCountry country, int year) {
+        if(country == null || !country.isUNMemberState() && !country.isUNObserverState()) {
+            return null;
+        }
         switch (this) {
             case EARTH_DAY:
             case INTERNATIONAL_MOTHER_EARTH_DAY:
@@ -181,17 +192,55 @@ public enum UnitedNationHoliday implements IHoliday {
             case WORLD_WATER_DAY: return new EventDate(Month.MARCH, 22, year);
             case WORLD_WILDLIFE_DAY: return new EventDate(Month.MARCH, 3, year);
             case ZERO_DISCRIMINATION_DAY: return new EventDate(Month.MARCH, 1, year);
+
+            case ARABIC_LANGUAGE_DAY: return new EventDate(Month.DECEMBER, 18, year);
+            case CHINESE_LANGUAGE_DAY: return new EventDate(Month.APRIL, 20, year);
+            case ENGLISH_LANGUAGE_DAY: return new EventDate(Month.APRIL, 23, year);
+            case SPANISH_LANGUAGE_DAY: return new EventDate(Month.APRIL, 23, year);
+            case FRENCH_LANGUAGE_DAY: return new EventDate(Month.MARCH, 20, year);
+            case RUSSIAN_LANGUAGE_DAY: return new EventDate(Month.JUNE, 6, year);
+            default: return null;
         }
-        return null;
+    }
+
+    @Override
+    public HolidaySource getSource() {
+        return HolidaySource.UNITED_NATIONS;
     }
 
     @Override
     public EventSources getSources(WLCountry country) {
+        final String unitedNations = "United Nations";
         switch (this) {
             case INTERNATIONAL_DAY_OF_LIGHT:
-                return new EventSources(
+                return collectSources(
                         new EventSource("Official Website", "https://www.lightday.org")
                 );
+            case ARABIC_LANGUAGE_DAY:
+                return collectSources(
+                        new EventSource(unitedNations, "https://www.un.org/ar/observances/arabiclanguageday/")
+                );
+            case CHINESE_LANGUAGE_DAY:
+                return collectSources(
+                        new EventSource(unitedNations, "https://www.un.org/zh/observances/chinese-language-day")
+                );
+            case ENGLISH_LANGUAGE_DAY:
+                return collectSources(
+                        new EventSource(unitedNations, "https://www.un.org/en/observances/english-language-day")
+                );
+            case SPANISH_LANGUAGE_DAY:
+                return collectSources(
+                        new EventSource(unitedNations, "https://www.un.org/es/observances/spanish-language-day")
+                );
+            case FRENCH_LANGUAGE_DAY:
+                return collectSources(
+                        new EventSource(unitedNations, "https://www.un.org/fr/observances/french-language-day/")
+                );
+            case RUSSIAN_LANGUAGE_DAY:
+                return collectSources(
+                        new EventSource(unitedNations, "https://www.un.org/ru/observances/russian-language-day")
+                );
+
             default:
                 return getDefaultSources();
         }

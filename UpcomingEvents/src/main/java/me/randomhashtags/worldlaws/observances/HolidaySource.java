@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.observances;
 public enum HolidaySource {
     NATIONAL_TODAY,
     TIME_AND_DATE,
+    UNITED_NATIONS,
     WIKIPEDIA,
     ;
 
@@ -12,6 +13,8 @@ public enum HolidaySource {
                 return "National Today";
             case TIME_AND_DATE:
                 return "Time and Date";
+            case UNITED_NATIONS:
+                return "United Nations";
             case WIKIPEDIA:
                 return "Wikipedia";
             default:

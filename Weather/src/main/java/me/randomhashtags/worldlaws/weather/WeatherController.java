@@ -61,13 +61,13 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
         final HashMap<String, String> eventPreAlerts = getEventPreAlerts();
         return eventPreAlerts.get(event);
     }
-    default void putSubdivisionEvents(HashMap<String, String> territoryEvents, ConcurrentHashMap<String, HashSet<WeatherEvent>> hashmap) {
-        for(Map.Entry<String, HashSet<WeatherEvent>> map : hashmap.entrySet()) {
+    default void putSubdivisionEvents(HashMap<String, String> territoryEvents, ConcurrentHashMap<String, ConcurrentHashMap<String, WeatherEvent>> hashmap) {
+        for(Map.Entry<String, ConcurrentHashMap<String, WeatherEvent>> map : hashmap.entrySet()) {
             final String territory = map.getKey();
-            final HashSet<WeatherEvent> events = map.getValue();
+            final ConcurrentHashMap<String, WeatherEvent> events = map.getValue();
 
             final HashMap<Integer, HashSet<String>> defconMap = new HashMap<>();
-            for(WeatherEvent weatherEvent : events) {
+            for(WeatherEvent weatherEvent : events.values()) {
                 final int defcon = weatherEvent.getDefcon();
                 defconMap.putIfAbsent(defcon, new HashSet<>());
                 defconMap.get(defcon).add(weatherEvent.getEvent());

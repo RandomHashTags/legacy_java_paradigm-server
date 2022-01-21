@@ -136,7 +136,7 @@ public enum WeatherUSA implements WeatherController {
     private String processAlerts(HashSet<JSONObject> jsons) {
         final ConcurrentHashMap<String, Integer> eventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, HashSet<WeatherPreAlert>> eventPreAlertsMap = new ConcurrentHashMap<>();
-        final ConcurrentHashMap<String, HashSet<WeatherEvent>> subdivisionEventsMap = new ConcurrentHashMap<>();
+        final ConcurrentHashMap<String, ConcurrentHashMap<String, WeatherEvent>> subdivisionEventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> territoryPreAlertsMap = new ConcurrentHashMap<>();
 
         ParallelStream.stream(jsons, jsonObj -> {
@@ -190,17 +190,9 @@ public enum WeatherUSA implements WeatherController {
             final String eventLowercase = event.toLowerCase().replace(" ", "");
             final WeatherEvent weatherEvent = new WeatherEvent(event, defcon);
             for(String subdivisionName : subdivisions) {
-                subdivisionEventsMap.putIfAbsent(subdivisionName, new HashSet<>());
-                final HashSet<WeatherEvent> territorySet = subdivisionEventsMap.get(subdivisionName);
-                boolean hasEvent = false;
-                for(WeatherEvent newWeatherEvent : territorySet) {
-                    if(event.equals(newWeatherEvent.getEvent())) {
-                        hasEvent = true;
-                        break;
-                    }
-                }
-                if(!hasEvent) {
-                    subdivisionEventsMap.get(subdivisionName).add(weatherEvent);
+                subdivisionEventsMap.putIfAbsent(subdivisionName, new ConcurrentHashMap<>());
+                if(!subdivisionEventsMap.get(subdivisionName).containsKey(event)) {
+                    subdivisionEventsMap.get(subdivisionName).put(event, weatherEvent);
                 }
                 territoryPreAlertsMap.putIfAbsent(subdivisionName, new ConcurrentHashMap<>());
                 territoryPreAlertsMap.get(subdivisionName).putIfAbsent(eventLowercase, new HashSet<>());

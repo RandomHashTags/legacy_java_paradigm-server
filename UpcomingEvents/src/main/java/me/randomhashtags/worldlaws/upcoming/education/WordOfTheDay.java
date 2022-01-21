@@ -7,9 +7,7 @@ import me.randomhashtags.worldlaws.upcoming.events.WordOfTheDayEvent;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.time.Clock;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 
 public final class WordOfTheDay extends LoadedUpcomingEventController {
 
@@ -23,26 +21,20 @@ public final class WordOfTheDay extends LoadedUpcomingEventController {
         final UpcomingEventType type = getType();
         final String imageURL = "https://www.trendingpod.com/wp-content/uploads/2017/12/1200px-Merriam-Webster_logo-1024x1024.png";
 
-        final LocalDateTime now = LocalDateTime.now(Clock.systemUTC());
-        final LocalDate leftEarth = now.minusHours(9).toLocalDate();
-        final LocalDate rightEarth = now.plusHours(14).toLocalDate();
-        final int max = leftEarth.equals(rightEarth) ? 1 : 2;
-        for(int i = 1; i <= max; i++) {
-            final LocalDate targetDate = i == 1 ? leftEarth : rightEarth;
-            final int month = targetDate.getMonthValue(), day = targetDate.getDayOfMonth();
-            final String targetDateString = targetDate.getYear() + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : day);
-            final String url = "https://www.merriam-webster.com/word-of-the-day/" + targetDateString;
-            final WordOfTheDayObj wordOfTheDay = getWordOfTheDay(url);
-            if(wordOfTheDay != null) {
-                final EventSources sources = new EventSources(
-                        new EventSource("Merriam-Webster", url)
-                );
-                final String dateString = new EventDate(targetDate).getDateString(), word = wordOfTheDay.word;
-                final String identifier = getEventDateIdentifier(dateString, word);
-                final WordOfTheDayEvent event = new WordOfTheDayEvent(word, wordOfTheDay.description, imageURL, sources);
-                putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, null));
-                putUpcomingEvent(identifier, event.toString());
-            }
+        final LocalDate targetDate = LocalDate.now();
+        final int month = targetDate.getMonthValue(), day = targetDate.getDayOfMonth();
+        final String targetDateString = targetDate.getYear() + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : day);
+        final String url = "https://www.merriam-webster.com/word-of-the-day/" + targetDateString;
+        final WordOfTheDayObj wordOfTheDay = getWordOfTheDay(url);
+        if(wordOfTheDay != null) {
+            final EventSources sources = new EventSources(
+                    new EventSource("Merriam-Webster", url)
+            );
+            final String dateString = new EventDate(targetDate).getDateString(), word = wordOfTheDay.word;
+            final String identifier = getEventDateIdentifier(dateString, word);
+            final WordOfTheDayEvent event = new WordOfTheDayEvent(word, wordOfTheDay.description, imageURL, sources);
+            putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, null));
+            putUpcomingEvent(identifier, event.toString());
         }
     }
 

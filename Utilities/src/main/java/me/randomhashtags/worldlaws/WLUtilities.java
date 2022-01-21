@@ -30,6 +30,7 @@ public abstract class WLUtilities {
     public static final long WEATHER_ALERTS_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);
     public static final long WEATHER_EARTHQUAKES_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(30);
     public static final long WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
+    public static final long WEATHER_NASA_WEATHER_VOLCANO_UPDATE_INTERVAL = TimeUnit.DAYS.toMillis(3);
 
     public static final String SERVER_EMPTY_JSON_RESPONSE = "{}";
 
