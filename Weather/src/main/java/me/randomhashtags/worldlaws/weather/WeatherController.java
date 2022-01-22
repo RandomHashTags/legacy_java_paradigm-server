@@ -8,7 +8,6 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -30,7 +29,7 @@ public interface WeatherController extends RestAPI, Jsoupable, Jsonable {
             final HashMap<String, HashSet<String>> territoryPreAlerts = new HashMap<>();
             for(WeatherPreAlert preAlert : preAlerts) {
                 final String string = preAlert.toString();
-                final List<String> subdivisions = preAlert.getSubdivisions();
+                final HashSet<String> subdivisions = preAlert.getSubdivisions();
                 if(subdivisions != null) {
                     for(String subdivision : subdivisions) {
                         territoryPreAlerts.putIfAbsent(subdivision, new HashSet<>());

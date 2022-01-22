@@ -177,7 +177,7 @@ public enum WeatherUSA implements WeatherController {
             final int defcon = getSeverityDEFCON(severity);
             eventsMap.putIfAbsent(event, defcon);
 
-            final List<String> subdivisions = new ArrayList<>();
+            final HashSet<String> subdivisions = new HashSet<>();
             for(WeatherZone zone : zones) {
                 final String subdivisionName = zone.getSubdivision();
                 subdivisions.add(subdivisionName);

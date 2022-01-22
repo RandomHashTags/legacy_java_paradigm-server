@@ -2,11 +2,11 @@ package me.randomhashtags.worldlaws.weather;
 
 import me.randomhashtags.worldlaws.EventSource;
 
-import java.util.List;
+import java.util.HashSet;
 
 public final class WeatherAlert {
     private final String event, certainty, headline, instruction, description, zones;
-    private final List<String> subdivisions;
+    private final HashSet<String> subdivisions;
     private final int defcon;
     private final WeatherAlertTime time;
     private final EventSource source;
