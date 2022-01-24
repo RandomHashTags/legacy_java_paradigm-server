@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.settings.Settings;
+
 import javax.net.ssl.*;
 import java.io.FileInputStream;
 import java.net.ServerSocket;
@@ -32,7 +34,7 @@ public final class Proxy implements UserServer, RestAPI {
     private void setupServer(boolean https) {
         listenForUserInput();
 
-        final int port = Jsonable.getSettingsJSON().getJSONObject("server").getInt("proxy_port");
+        final int port = Settings.Server.getProxyPort();
         if(https) {
             setupHttpsServer(port);
         } else {

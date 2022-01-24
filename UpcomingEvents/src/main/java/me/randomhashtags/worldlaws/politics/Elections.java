@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.country.WLSubdivisions;
+import me.randomhashtags.worldlaws.settings.Settings;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -14,14 +15,9 @@ import java.util.Map;
 
 public enum Elections implements RestAPI, DataValues {
     INSTANCE;
-
-    private String apiKey;
-
+    
     public String getAPIKey() {
-        if(apiKey == null) {
-            apiKey = Jsonable.getSettingsPrivateValuesJSON().getJSONObject("google").getString("civic_api_key");
-        }
-        return apiKey;
+        return Settings.PrivateValues.Google.getCivicAPIKey();
     }
 
     public String refresh() {

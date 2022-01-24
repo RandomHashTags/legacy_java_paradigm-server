@@ -1,15 +1,11 @@
 package me.randomhashtags.worldlaws.service;
 
-import me.randomhashtags.worldlaws.Jsonable;
+import me.randomhashtags.worldlaws.settings.Settings;
 
 public enum NASAService {
     ;
-    private static String API_KEY;
 
     public static String getNASA_APIKey() {
-        if(API_KEY == null) {
-            API_KEY = Jsonable.getSettingsPrivateValuesJSON().getJSONObject("nasa").getString("api_key");
-        }
-        return API_KEY;
+        return Settings.PrivateValues.NASA.getAPIKey();
     }
 }

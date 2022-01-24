@@ -38,6 +38,9 @@
       },
       "premium": {
         "port": 0
+      },
+      "remote_notifications": {
+        "port": 0
       }
     }
   },

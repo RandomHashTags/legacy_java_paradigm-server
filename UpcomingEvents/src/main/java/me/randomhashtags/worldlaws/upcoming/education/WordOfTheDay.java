@@ -21,16 +21,16 @@ public final class WordOfTheDay extends LoadedUpcomingEventController {
         final UpcomingEventType type = getType();
         final String imageURL = "https://www.trendingpod.com/wp-content/uploads/2017/12/1200px-Merriam-Webster_logo-1024x1024.png";
 
-        final LocalDate targetDate = LocalDate.now();
-        final int month = targetDate.getMonthValue(), day = targetDate.getDayOfMonth();
-        final String targetDateString = targetDate.getYear() + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : day);
+        final LocalDate now = LocalDate.now();
+        final int month = now.getMonthValue(), day = now.getDayOfMonth();
+        final String targetDateString = now.getYear() + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : day);
         final String url = "https://www.merriam-webster.com/word-of-the-day/" + targetDateString;
         final WordOfTheDayObj wordOfTheDay = getWordOfTheDay(url);
         if(wordOfTheDay != null) {
             final EventSources sources = new EventSources(
                     new EventSource("Merriam-Webster", url)
             );
-            final String dateString = new EventDate(targetDate).getDateString(), word = wordOfTheDay.word;
+            final String dateString = new EventDate(now).getDateString(), word = wordOfTheDay.word;
             final String identifier = getEventDateIdentifier(dateString, word);
             final WordOfTheDayEvent event = new WordOfTheDayEvent(word, wordOfTheDay.description, imageURL, sources);
             putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, null));

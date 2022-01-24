@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.notifications.RemoteNotification;
+import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -12,11 +13,9 @@ import java.util.UUID;
 public enum AppleNotifications implements DeviceTokenController {
     INSTANCE;
 
-    private final boolean productionMode;
     private final HashSet<String> deviceTokens;
 
     AppleNotifications() {
-        productionMode = Jsonable.getSettingsPrivateValuesJSON().getJSONObject("apple").getBoolean("production_mode");
         deviceTokens = new HashSet<>();
         final JSONArray array = Jsonable.getStaticFileJSONArray(Folder.DEVICE_TOKENS, "apple");
         if(array != null) {
@@ -39,7 +38,7 @@ public enum AppleNotifications implements DeviceTokenController {
     @Override
     public void sendNotification(RemoteNotification notification) {
         if(!deviceTokens.isEmpty()) {
-            final String key = productionMode ? "" : "sandbox.";
+            final String key = Settings.PrivateValues.Apple.isProductionMode() ? "" : "sandbox.";
             final String url = "https://api." + key + "push.apple.com:443";
 
             final JSONObject json = new JSONObject();

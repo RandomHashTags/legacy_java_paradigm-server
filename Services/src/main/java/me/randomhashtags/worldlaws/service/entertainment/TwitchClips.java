@@ -1,6 +1,10 @@
 package me.randomhashtags.worldlaws.service.entertainment;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.RequestMethod;
+import me.randomhashtags.worldlaws.RestAPI;
+import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -12,13 +16,8 @@ import java.util.List;
 public enum TwitchClips implements RestAPI {
     INSTANCE;
 
-    private final String clientID;
-
-    TwitchClips() {
-        clientID = Jsonable.getSettingsPrivateValuesJSON().getJSONObject("twitch").getString("client_id");
-    }
-
     public String refresh() {
+        final String clientID = Settings.PrivateValues.Twitch.getClientID();
         final HashMap<String, String> headers = new HashMap<>() {{
             put("Client-ID", clientID);
             put("Accept", "application/vnd.twitchtv.v5+json");

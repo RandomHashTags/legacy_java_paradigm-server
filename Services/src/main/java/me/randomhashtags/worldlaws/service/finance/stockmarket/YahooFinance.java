@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.service.finance.stockmarket;
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.service.JSONDataValue;
+import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -15,13 +16,8 @@ import java.util.stream.IntStream;
 public enum YahooFinance implements StockService {
     INSTANCE;
 
-    private String rapidAPIKey;
-
     private String getRapidAPIKey() {
-        if(rapidAPIKey == null) {
-            rapidAPIKey = Jsonable.getSettingsPrivateValuesJSON().getJSONObject("yahoo_finance").getString("rapid_api_key");
-        }
-        return rapidAPIKey;
+        return Settings.PrivateValues.YahooFinance.getAPIKey();
     }
     private HashMap<String, String> getHeaders() {
         final HashMap<String, String> headers = new HashMap<>();

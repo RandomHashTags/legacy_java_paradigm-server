@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
+import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -27,7 +28,6 @@ public enum TargetServer implements RestAPI, DataValues {
     COMBINE,
     ;
 
-    private static JSONObject SERVER_JSON = Jsonable.getSettingsJSON().getJSONObject("server");
     private static final HashMap<APIVersion, JSONObject> HOME_JSON;
     private static final HashMap<APIVersion, HashMap<HashSet<String>, String>> HOME_JSON_QUERIES;
     private static final HashMap<String, TargetServer> BACKEND_IDS;
@@ -68,10 +68,8 @@ public enum TargetServer implements RestAPI, DataValues {
     private static void updateDetails() {
         HOME_JSON.clear();
         HOME_JSON_QUERIES.clear();
-        SERVER_JSON = Jsonable.getSettingsJSON().getJSONObject("server");
-        final JSONObject serversJSON = SERVER_JSON.getJSONObject("servers");
         for(TargetServer server : TargetServer.values()) {
-            server.updateAddressDetails(serversJSON);
+            server.updateAddressDetails();
         }
     }
 
@@ -81,13 +79,13 @@ public enum TargetServer implements RestAPI, DataValues {
 
     private String getIpAddress() {
         if(ipAddressCache == null && isRealServer()) {
-            updateAddressDetails(SERVER_JSON.getJSONObject("servers"));
+            updateAddressDetails();
         }
         return ipAddressCache;
     }
     public int getPort() {
         if(port == 0) {
-            updateAddressDetails(SERVER_JSON.getJSONObject("servers"));
+            updateAddressDetails();
         }
         return port;
     }
@@ -108,12 +106,10 @@ public enum TargetServer implements RestAPI, DataValues {
             default: return -1;
         }
     }
-    private void updateAddressDetails(JSONObject serversJSON) {
+    private void updateAddressDetails() {
         if(isRealServer()) {
-            final JSONObject target = serversJSON.getJSONObject(getNameLowercase());
-            port = target.has("port") ? target.getInt("port") : getDefaultPort();
-            final String addressKey = "address";
-            final String ip = target.has(addressKey) ? target.getString(addressKey) : SERVER_JSON.getString("default_address");
+            port = Settings.Server.getPort(this);
+            final String ip = Settings.Server.getAddress(this);
             ipAddressCache = ip + ":" + port;
         }
     }
@@ -139,18 +135,9 @@ public enum TargetServer implements RestAPI, DataValues {
     }
     public APIVersion getAPIVersion() {
         if(apiVersion == null) {
-            final String key = "api_version", defaultKey = "default_" + key;
-            final JSONObject serverJSON = getServerJSON();
-            final int target = serverJSON != null && serverJSON.has(key) ? serverJSON.getInt(key) : SERVER_JSON.has(defaultKey) ? SERVER_JSON.getInt(defaultKey) : 1;
-            apiVersion = APIVersion.valueOfVersion(target);
+            apiVersion = APIVersion.valueOfVersion(Settings.Server.getAPIVersion(this));
         }
         return apiVersion;
-    }
-
-    private JSONObject getServerJSON() {
-        final String name = getNameLowercase();
-        final JSONObject serversJSON = SERVER_JSON.getJSONObject("servers");
-        return serversJSON.has(name) ? serversJSON.getJSONObject(name) : null;
     }
 
     public String sendResponse(APIVersion version, String identifier, RequestMethod method, String request, HashSet<String> query) {

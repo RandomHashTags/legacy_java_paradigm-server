@@ -27,64 +27,6 @@ public interface Jsonable {
         }
     }
 
-    private static JSONObject getDefaultSettingsJSON() {
-        final JSONObject json = new JSONObject();
-
-        final JSONObject serverJSON = new JSONObject();
-        serverJSON.put("proxy_port", 0);
-        serverJSON.put("default_address", "http://localhost");
-        final JSONObject serversJSON = new JSONObject();
-        for(TargetServer server : TargetServer.values()) {
-            if(server.isRealServer()) {
-                serversJSON.put(server.getNameLowercase(), getDefaultServerSettingsJSON(server));
-            }
-        }
-        serverJSON.put("servers", serversJSON);
-
-        final JSONObject settingsJSON = new JSONObject();
-
-        final JSONObject googleJSON = new JSONObject();
-        googleJSON.put("civic_api_key", "");
-        settingsJSON.put("google", googleJSON);
-
-        final JSONObject nasaJSON = new JSONObject();
-        nasaJSON.put("api_key", "***REMOVED***");
-        settingsJSON.put("nasa", nasaJSON);
-
-        final JSONObject twitchJSON = new JSONObject();
-        twitchJSON.put("request_limit", 100);
-        twitchJSON.put("client_id", "");
-        twitchJSON.put("access_token", "");
-        settingsJSON.put("twitch", twitchJSON);
-
-        final JSONObject yahooFinanceJSON = new JSONObject();
-        yahooFinanceJSON.put("rapid_api_key", "");
-        settingsJSON.put("yahoo_finance", yahooFinanceJSON);
-
-        final JSONObject youtubeJSON = new JSONObject();
-        youtubeJSON.put("request_limit", 49);
-        youtubeJSON.put("key", "");
-        youtubeJSON.put("key_identifier", "***REMOVED***");
-        youtubeJSON.put("key_value", "");
-        settingsJSON.put("youtube", youtubeJSON);
-
-        json.put("server", serverJSON);
-        json.put("settings", settingsJSON);
-        return json;
-    }
-    private static JSONObject getDefaultServerSettingsJSON(TargetServer server) {
-        final JSONObject json = new JSONObject();
-        json.put("port", server.getDefaultPort());
-        return json;
-    }
-
-    static JSONObject getSettingsJSON() {
-        final JSONObject existing = getStaticLocalFileJSONObject(Folder.OTHER, "settings");
-        return existing != null ? existing : getDefaultSettingsJSON();
-    }
-    static JSONObject getSettingsPrivateValuesJSON() {
-        return getSettingsJSON().getJSONObject("private_values");
-    }
     static String getStaticLocalFileString(Folder folder, String fileName, String extension) {
         final String directory = getFilePath(folder, fileName, extension);
         final Path path = Paths.get(directory);

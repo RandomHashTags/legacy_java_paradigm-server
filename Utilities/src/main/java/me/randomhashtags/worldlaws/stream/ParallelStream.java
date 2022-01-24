@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.stream;
 
-import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.settings.Settings;
 
 import java.util.Collection;
 import java.util.Spliterator;
@@ -15,7 +15,7 @@ public enum ParallelStream {
     private static final int MAXIMUM_PARALLEL_THREADS;
 
     static {
-        MAXIMUM_PARALLEL_THREADS = Jsonable.getSettingsJSON().getJSONObject("performance").getInt("maximum_parallel_threads");
+        MAXIMUM_PARALLEL_THREADS = Settings.Performance.getMaximumParallelThreads();
     }
 
     public static void stream(Collection<?> items, Consumer<? super Object> iterator) {
