@@ -23,7 +23,7 @@ public interface DataValues extends Jsonable {
         final String fileName = "data values", identifier = value.getIdentifier();
         final JSONObject dataValuesJSON = getDataValuesJSON();
         dataValuesJSON.put(identifier, json);
-        setFileJSONObject(folder, fileName, dataValuesJSON);
+        Jsonable.setFileJSONObject(folder, fileName, dataValuesJSON);
     }
     private JSONObject getDataValuesJSON() {
         final Folder folder = Folder.OTHER;

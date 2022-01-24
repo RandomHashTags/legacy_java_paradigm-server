@@ -17,4 +17,5 @@ include 'BandwidthTester'
 include 'Health'
 include 'Stories'
 include 'Premium'
+include 'RemoteNotifications'
 

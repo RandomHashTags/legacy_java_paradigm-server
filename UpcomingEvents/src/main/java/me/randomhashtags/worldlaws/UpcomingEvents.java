@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
-import me.randomhashtags.worldlaws.recent.VideoGameUpdates;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -57,8 +56,8 @@ public final class UpcomingEvents implements WLServer {
     private String typesJSON;
 
     private void initialize() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -67,15 +66,14 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        /*AmericanHoliday.HARRIET_TUBMAN_DAY.getHolidayJSON(HolidayType.AMERICAN, new CompletionHandler() {
-            @Override
-            public void handleJSONObject(JSONObject json) {
-                WLLogger.logInfo("UpcomingEvents;test;string=" + json.toString());
-            }
-        });*/
-        final HashSet<String> dates = getWeeklyEventDateStrings(LocalDate.now());
-        final String string = new Championships().getEventsFromDates(dates);
-        WLLogger.logInfo("UpcomingEvents;test;string=" + string);
+        final RecentEvents events = RecentEvents.INSTANCE;
+        events.refresh(60);
+        try {
+            Thread.sleep(1000*5);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        events.refresh(7);
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {
@@ -101,11 +99,11 @@ public final class UpcomingEvents implements WLServer {
                 return refreshEventsFromThisWeek().toString();
             case "music_artists":
                 return null;
-            case "video_games":
-                return VideoGameUpdates.INSTANCE.getAllVideoGames();
+            //case "video_games":
+            //    return VideoGameUpdates.INSTANCE.getAllVideoGames();
 
             case "recent_events":
-                return RecentEvents.INSTANCE.refresh();
+                return RecentEvents.INSTANCE.refresh(7);
             case "elections":
                 return Elections.INSTANCE.refresh();
 

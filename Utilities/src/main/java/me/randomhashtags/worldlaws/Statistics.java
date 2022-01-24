@@ -81,7 +81,7 @@ public enum Statistics implements Jsonable, QuotaHandler {
             json.put("_totalRequests", totalTotalRequests);
             json.put("_totalUniqueRequests", totalUniqueRequests);
             json.put("_totalUniqueIdentifiers", totalUniqueIdentifiers.size());
-            setFileJSONObject(folder, fileName, json);
+            Jsonable.setFileJSONObject(folder, fileName, json);
         }
     }
     public JSONObject getTrendingJSON() {

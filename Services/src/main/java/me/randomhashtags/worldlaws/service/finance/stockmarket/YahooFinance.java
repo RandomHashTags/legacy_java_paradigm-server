@@ -163,7 +163,7 @@ public enum YahooFinance implements StockService {
         final long elapsedTime = System.currentTimeMillis() - json.getLong("request_epoch");
         if(elapsedTime >= 604_800) {
             final JSONObject chartJSON = requestChart(true, version, symbol);
-            setFileJSONObject(folder, symbol, chartJSON);
+            Jsonable.setFileJSONObject(folder, symbol, chartJSON);
             return chartJSON.toString();
         } else {
             return json.toString();

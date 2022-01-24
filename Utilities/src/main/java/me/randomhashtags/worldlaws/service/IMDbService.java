@@ -20,18 +20,30 @@ public interface IMDbService extends DataValues {
         final String url = "https://www.imdb.com/find?q=" + lowercaseTitle.replace(" ", "+");
         final Elements elements = Jsoupable.getStaticDocumentElements(Folder.OTHER, url, false, "div div.redesign div.pagecontent div div div.article div.findSection table.findList tr.findResult");
         JSONObject json = null;
+        String id = null;
+        Element resultTextElement = null;
         if(elements != null) {
             for(Element element : elements) {
-                final Element resultText = element.selectFirst("td.result_text");
-                if(resultText != null) {
-                    final String text = resultText.text().toLowerCase();
+                resultTextElement = element.selectFirst("td.result_text");
+                if(resultTextElement != null) {
+                    final String text = resultTextElement.text().toLowerCase();
                     if(hasMovieTitle(lowercaseTitle, year, text)) {
-                        final String id = resultText.selectFirst("a[href]").attr("href").split("/")[2];
+                        id = resultTextElement.selectFirst("a[href]").attr("href").split("/")[2];
                         json = getMovie(id);
                         break;
                     }
                 }
             }
+        }
+        if(json == null) {
+            final String string = "title=\"" + title + "\"\n" +
+                    "lowercaseTitle=\"" + lowercaseTitle + "\"\n" +
+                    "elements==null=" + (elements == null) + "\n" +
+                    "resultTextElement==null=" + (resultTextElement == null) + "\n" +
+                    "url=\"" + url + "\"\n" +
+                    "id=\"" + id + "\"\n" +
+                    "year=" + year;
+            WLUtilities.saveLoggedError("IMDbService", "failed to get movie details with\n\n" + string);
         }
         return json;
     }
@@ -124,9 +136,6 @@ public interface IMDbService extends DataValues {
                 json.put("genres", genres);
                 json.put("source", url);
             }
-        }
-        if(json == null) {
-            WLUtilities.saveLoggedError("IMDbService", "failed to get movie details for movie with id \"" + id + "\"!");
         }
         return json;
     }

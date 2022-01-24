@@ -10,6 +10,7 @@ import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
 public final class LocalServer implements UserServer, DataValues {
+    private final WLServer wlserver;
     private final String serverName;
     private final int port;
     private CompletionHandler handler;
@@ -20,12 +21,14 @@ public final class LocalServer implements UserServer, DataValues {
     private ConcurrentHashMap<String, HashSet<String>> uniqueRequests;
     private HashSet<String> totalUniqueIdentifiers;
 
-    private LocalServer(TargetServer server) {
-        this.serverName = server.getName();
-        this.port = server.getPort();
+    private LocalServer(WLServer server) {
+        wlserver = server;
+        final TargetServer targetServer = server.getServer();
+        this.serverName = targetServer.getName();
+        this.port = targetServer.getPort();
     }
 
-    public static LocalServer get(TargetServer server) {
+    public static LocalServer get(WLServer server) {
         return new LocalServer(server);
     }
 
@@ -53,6 +56,7 @@ public final class LocalServer implements UserServer, DataValues {
                 timer.cancel();
             }
         }
+        wlserver.stop();
         saveStatistics();
         try {
             server.close();

@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import org.apache.logging.log4j.Level;
 import org.json.JSONObject;
 
 import java.time.*;
@@ -60,6 +59,9 @@ public final class EventDate {
         minute = -1;
     }
 
+    public boolean areEqual(EventDate right) {
+        return month == right.month && year == right.year && day == right.day && hour == right.hour && minute == right.minute;
+    }
     public String getDateString() {
         return month.getValue() + "-" + year + "-" + day;
     }

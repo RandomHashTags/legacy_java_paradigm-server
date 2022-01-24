@@ -160,16 +160,16 @@ public interface Jsonable {
         }
         return array;
     }
-    default void setFileJSONObject(Folder folder, String fileName, JSONObject json) {
+    static void setFileJSONObject(Folder folder, String fileName, JSONObject json) {
         setFileJSON(folder, fileName, json);
     }
-    default void setFileJSONArray(Folder folder, String fileName, JSONArray array) {
+    static void setFileJSONArray(Folder folder, String fileName, JSONArray array) {
         setFileJSON(folder, fileName, array);
     }
     default void setFileJSON(Folder folder, String fileName, String value) {
         setFileJSON(folder, fileName, (Object) value);
     }
-    private void setFileJSON(Folder folder, String fileName, Object value) {
+    private static void setFileJSON(Folder folder, String fileName, Object value) {
         writeFile(null, folder, fileName, value, "json", true);
     }
     static void saveFileJSON(Folder folder, String fileName, String value) {

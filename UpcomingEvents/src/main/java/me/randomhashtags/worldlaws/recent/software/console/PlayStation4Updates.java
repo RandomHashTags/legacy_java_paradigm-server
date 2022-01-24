@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.recent.software.console;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.EventDate;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
@@ -11,18 +14,17 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.util.HashSet;
 
-public enum PlayStation4Updates implements RecentEventController {
-    INSTANCE;
-
+public final class PlayStation4Updates extends RecentEventController {
     @Override
     public RecentEventType getType() {
         return RecentEventType.SOFTWARE_UPDATES;
     }
 
     @Override
-    public void refresh(LocalDate startingDate, CompletionHandler handler) {
+    public HashSet<PreRecentEvent> refreshHashSet(LocalDate startingDate) {
         final String url = "https://www.playstation.com/en-us/support/hardware/ps4/system-software/";
         final Elements box = getDocumentElements(Folder.OTHER, url, false, "div.gdk div.cmp-container div.gdk div.cmp-container div.section section.section--light div div.contentgrid div.content-grid div.box");
+        HashSet<PreRecentEvent> updates = null;
         if(box != null) {
             final Elements elements = box.select("div.textblock div.text-block p");
             final String string = elements.get(0).text();
@@ -42,13 +44,9 @@ public enum PlayStation4Updates implements RecentEventController {
                     isFirst = false;
                 }
                 final PreRecentEvent event = new PreRecentEvent(date, updateNotesTitle, description.toString(), null, new EventSources(new EventSource("PlayStation Support: PS4 System Software", url)));
-                final HashSet<PreRecentEvent> hashset = new HashSet<>() {{ add(event); }};
-                handler.handleObject(hashset);
-            } else {
-                handler.handleObject(null);
+                updates = new HashSet<>() {{ add(event); }};
             }
-        } else {
-            handler.handleObject(null);
         }
+        return updates;
     }
 }

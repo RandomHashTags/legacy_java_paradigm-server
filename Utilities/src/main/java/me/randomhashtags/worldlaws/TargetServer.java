@@ -23,6 +23,7 @@ public enum TargetServer implements RestAPI, DataValues {
 
     HOME,
     PING,
+    REMOTE_NOTIFICATIONS,
     COMBINE,
     ;
 
@@ -102,7 +103,8 @@ public enum TargetServer implements RestAPI, DataValues {
             case TECHNOLOGY: return 0;
             case UPCOMING_EVENTS: return 0;
             case WEATHER: return 0;
-            case PREMIUM: return 01;
+            case PREMIUM: return 0;
+            case REMOTE_NOTIFICATIONS: return 0;
             default: return -1;
         }
     }

@@ -31,6 +31,7 @@ public enum Folder {
     SERVICES_FINANCE_TWELVE_DATA_CHARTS("services" + File.separator + "finance" + File.separator + "twelveData" + File.separator + "charts"),
     SERVICES_FINANCE_YAHOO_FINANCE_CHARTS("services" + File.separator + "finance" + File.separator + "yahooFinance" + File.separator + "charts"),
 
+    DEVICE_TOKENS("device tokens"),
     ERRORS("errors" + File.separator + "%errorName%"),
     FEEDBACK_BUG_REPORTS("feedback" + File.separator + "bug reports"),
     FEEDBACK_FEATURE_REQUEST("feedback" + File.separator + "feature request"),
@@ -81,6 +82,7 @@ public enum Folder {
             folderName = this.folderName;
         }
         switch (this) {
+            case DEVICE_TOKENS:
             case FEEDBACK_BUG_REPORTS:
             case FEEDBACK_FEATURE_REQUEST:
             case LOGS:

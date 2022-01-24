@@ -1,28 +1,44 @@
-package me.randomhashtags.worldlaws.notifications;
+package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.Jsonable;
-import me.randomhashtags.worldlaws.RequestMethod;
-import me.randomhashtags.worldlaws.RestAPI;
+import me.randomhashtags.worldlaws.notifications.RemoteNotification;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.UUID;
 
-public enum RemoteNotifications implements RestAPI {
+public enum AppleNotifications implements DeviceTokenController {
     INSTANCE;
 
     private final boolean productionMode;
+    private final HashSet<String> deviceTokens;
 
-    RemoteNotifications() {
+    AppleNotifications() {
         productionMode = Jsonable.getSettingsPrivateValuesJSON().getJSONObject("apple").getBoolean("production_mode");
+        deviceTokens = new HashSet<>();
+        final JSONArray array = Jsonable.getStaticFileJSONArray(Folder.DEVICE_TOKENS, "apple");
+        if(array != null) {
+            for(Object obj : array) {
+                deviceTokens.add((String) obj);
+            }
+        }
     }
 
-    public void sendAppleNotification(RemoteNotification notification) {
-        final JSONArray deviceTokens = Jsonable.getStaticFileJSONArray(Folder.OTHER, "apple");
-        if(deviceTokens != null && !deviceTokens.isEmpty()) {
+    @Override
+    public void save() {
+        Jsonable.setFileJSONArray(Folder.OTHER, "apple", new JSONArray(deviceTokens));
+    }
+
+    @Override
+    public void register(String deviceToken) {
+        deviceTokens.add(deviceToken);
+    }
+
+    @Override
+    public void sendNotification(RemoteNotification notification) {
+        if(!deviceTokens.isEmpty()) {
             final String key = productionMode ? "" : "sandbox.";
             final String url = "https://api." + key + "push.apple.com:443";
 

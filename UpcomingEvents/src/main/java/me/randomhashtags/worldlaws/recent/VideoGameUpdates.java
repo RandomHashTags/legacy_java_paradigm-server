@@ -13,9 +13,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.concurrent.ConcurrentHashMap;
 
-public enum VideoGameUpdates implements RecentEventController {
-    INSTANCE;
-
+public final class VideoGameUpdates extends RecentEventController {
     public static VideoGameUpdateController[] getSupportedVideoGames() {
         return new VideoGameUpdateController[] {
                 NoMansSky.INSTANCE,
@@ -31,7 +29,7 @@ public enum VideoGameUpdates implements RecentEventController {
     }
 
     @Override
-    public void refresh(LocalDate startingDate, CompletionHandler handler) {
+    public ConcurrentHashMap<String, HashSet<String>> refreshHashMap(LocalDate startingDate) {
         final VideoGameUpdateController[] controllers = getSupportedVideoGames();
         final ConcurrentHashMap<String, HashSet<String>> values = new ConcurrentHashMap<>();
         ParallelStream.stream(Arrays.asList(controllers), controllerObj -> {
@@ -48,7 +46,7 @@ public enum VideoGameUpdates implements RecentEventController {
                 }
             });
         });
-        handler.handleConcurrentHashMapHashSetString(values);
+        return values;
     }
 
     public String getAllVideoGames() {

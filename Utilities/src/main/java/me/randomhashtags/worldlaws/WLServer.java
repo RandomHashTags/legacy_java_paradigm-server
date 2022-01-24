@@ -17,7 +17,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         if(LOCAL_SERVERS.containsKey(server)) {
             return LOCAL_SERVERS.get(server);
         } else {
-            final LocalServer localServer = LocalServer.get(getServer());
+            final LocalServer localServer = LocalServer.get(this);
             LOCAL_SERVERS.put(server, localServer);
             return localServer;
         }
@@ -55,6 +55,8 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             }
         };
         localServer.setCompletionHandler(handler);
+    }
+    default void stop() {
     }
 
     private String getResponse(LocalServer localServer, String identifier, String target) {

@@ -1,6 +1,9 @@
 package me.randomhashtags.worldlaws.recent.software.other;
 
-import me.randomhashtags.worldlaws.*;
+import me.randomhashtags.worldlaws.EventDate;
+import me.randomhashtags.worldlaws.EventSource;
+import me.randomhashtags.worldlaws.EventSources;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
@@ -15,26 +18,22 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 
-public enum AppleSoftwareUpdates implements RecentEventController {
-    INSTANCE;
-
+public final class AppleSoftwareUpdates extends RecentEventController {
     @Override
     public RecentEventType getType() {
         return RecentEventType.SOFTWARE_UPDATES;
     }
 
     @Override
-    public void refresh(LocalDate startingDate, CompletionHandler handler) {
+    public HashSet<PreRecentEvent> refreshHashSet(LocalDate startingDate) {
         final String url = "https://support.apple.com/en-us/HT201222";
         final Document doc = getDocument(url);
         if(doc != null) {
             final Elements updateElements = doc.select("body div div section.section div div.column div.main div div div div div table tbody tr");
             updateElements.removeIf(element -> element.select("td").isEmpty() || updateElements.indexOf(element) > 20);
             final int max = updateElements.size();
-            if(max == 0) {
-                handler.handleObject(null);
-            } else {
-                final HashSet<PreRecentEvent> updates = new HashSet<>();
+            if(max > 0) {
+                final HashSet<PreRecentEvent> events = new HashSet<>();
                 final HashMap<String, String> descriptionValues = new HashMap<>() {{
                     put(" (Details available soon)", "Details available soon");
                     put(" This update has no published CVE entries.", "This update doesn't share its patch notes");
@@ -82,15 +81,14 @@ public enum AppleSoftwareUpdates implements RecentEventController {
                                     sources.add(new EventSource("Apple Support: " + name, ahref));
                                 }
                                 final PreRecentEvent preRecentEvent = new PreRecentEvent(date, name, description, null, sources, customValues);
-                                updates.add(preRecentEvent);
+                                events.add(preRecentEvent);
                             }
                         }
                     }
                 });
-                handler.handleObject(updates);
+                return events;
             }
-        } else {
-            handler.handleObject(null);
         }
+        return null;
     }
 }

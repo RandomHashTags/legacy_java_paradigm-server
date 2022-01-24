@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.LocalServer;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Objects;
 
 public class PreRecentEvent {
     protected final EventDate date;
@@ -25,6 +26,15 @@ public class PreRecentEvent {
         this.customValues = customValues;
     }
 
+    public boolean areEqual(PreRecentEvent right) {
+        return date.areEqual(right.date) && Objects.equals(title, right.title) && Objects.equals(description, right.description);
+    }
+    public String getTitle() {
+        return title;
+    }
+    public String getDescription() {
+        return description;
+    }
     public EventDate getDate() {
         return date;
     }

@@ -134,8 +134,7 @@ public final class WikipediaCountryService implements CountryService {
                 json = null;
                 break;
         }
-
-        return json.has(tag) ? json.getJSONObject(tag) : null;
+        return json != null && json.has(tag) ? json.getJSONObject(tag) : null;
     }
 
     private JSONObject getFeaturedPictures(String tag) {

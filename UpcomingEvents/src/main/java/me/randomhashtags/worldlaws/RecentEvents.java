@@ -19,46 +19,38 @@ public enum RecentEvents {
     INSTANCE;
 
     private final RecentEventController[] events = new RecentEventController[] {
-            AppleSoftwareUpdates.INSTANCE,
-            PlayStation4Updates.INSTANCE,
-            PlayStation5Updates.INSTANCE,
-            VideoGameUpdates.INSTANCE
+            new AppleSoftwareUpdates(),
+            new PlayStation4Updates(),
+            new PlayStation5Updates(),
+            new VideoGameUpdates()
     };
 
-    public String refresh() {
+    public String refresh(int daysOffset) {
         final long started = System.currentTimeMillis();
-        final LocalDate lastWeek = LocalDate.now().minusDays(7);
+        final LocalDate lastWeek = LocalDate.now().minusDays(daysOffset);
         final ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> allValues = new ConcurrentHashMap<>();
-        ParallelStream.stream(Arrays.asList(events), eventObj -> {
-            final RecentEventController event = (RecentEventController) eventObj;
-            event.refresh(lastWeek, new CompletionHandler() {
-                @Override
-                public void handleObject(Object object) {
-                    if(object != null) {
-                        @SuppressWarnings({ "unchecked" })
-                        final HashSet<PreRecentEvent> recentEvents = (HashSet<PreRecentEvent>) object;
-                        if(!recentEvents.isEmpty()) {
-                            final RecentEventType type = event.getType();
-                            allValues.putIfAbsent(type, new ConcurrentHashMap<>());
-                            for(PreRecentEvent recentEvent : recentEvents) {
-                                final String dateString = recentEvent.getDate().getDateString();
-                                allValues.get(type).putIfAbsent(dateString, new HashSet<>());
-                                allValues.get(type).get(dateString).add(recentEvent.toString());
-                            }
-                        }
-                    }
+        ParallelStream.stream(Arrays.asList(events), controllerObj -> {
+            final RecentEventController controller = (RecentEventController) controllerObj;
+            final HashSet<PreRecentEvent> preRecentEvents = controller.refreshHashSet(lastWeek);
+            final boolean hasNewInformation = controller.hasNewInformation(preRecentEvents);
+            if(hasNewInformation) { // TODO: submit remote notification
+                WLLogger.logInfo("RecentEvents;controller=" + controller.getClass().getSimpleName() + ";hasNewInformation!");
+            }
+            if(preRecentEvents != null && !preRecentEvents.isEmpty()) {
+                final RecentEventType type = controller.getType();
+                allValues.putIfAbsent(type, new ConcurrentHashMap<>());
+                for(PreRecentEvent recentEvent : preRecentEvents) {
+                    final String dateString = recentEvent.getDate().getDateString();
+                    allValues.get(type).putIfAbsent(dateString, new HashSet<>());
+                    allValues.get(type).get(dateString).add(recentEvent.toString());
                 }
-
-                @Override
-                public void handleConcurrentHashMapHashSetString(ConcurrentHashMap<String, HashSet<String>> hashmap) {
-                    final int amount = hashmap != null ? hashmap.size() : 0;
-                    if(amount > 0) {
-                        final RecentEventType type = event.getType();
-                        allValues.putIfAbsent(type, new ConcurrentHashMap<>());
-                        allValues.get(type).putAll(hashmap);
-                    }
-                }
-            });
+            }
+            final ConcurrentHashMap<String, HashSet<String>> hashmap = controller.refreshHashMap(lastWeek);
+            if(hashmap != null && !hashmap.isEmpty()) {
+                final RecentEventType type = controller.getType();
+                allValues.putIfAbsent(type, new ConcurrentHashMap<>());
+                allValues.get(type).putAll(hashmap);
+            }
         });
         return completeHandler(started, allValues);
     }
