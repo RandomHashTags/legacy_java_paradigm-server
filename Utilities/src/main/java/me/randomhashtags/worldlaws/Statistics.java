@@ -4,9 +4,6 @@ import me.randomhashtags.worldlaws.service.QuotaHandler;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.io.File;
-import java.time.Clock;
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.format.TextStyle;
@@ -16,22 +13,28 @@ import java.util.concurrent.ConcurrentHashMap;
 public enum Statistics implements Jsonable, QuotaHandler {
     INSTANCE;
 
+    private static final Folder FOLDER = Folder.LOGS;
+    private String fileName;
+
+    private JSONObject getLatestLogJSON() {
+        final LocalDateTime now = LocalDateTime.now();
+        final String zoneID = ZoneId.systemDefault().getDisplayName(TextStyle.SHORT, Locale.ENGLISH);
+        final String folderPath = FOLDER.getFolderName().replace("%year%", Integer.toString(now.getYear())).replace("%month%", now.getMonth().name()).replace("%day%", Integer.toString(now.getDayOfMonth()));
+        fileName = now.getHour() + "_" + now.getMinute() + "_" + zoneID;
+        FOLDER.setCustomFolderName(fileName, folderPath);
+        return getJSONObject(FOLDER, fileName, new CompletionHandler() {
+            @Override
+            public JSONObject loadJSONObject() {
+                return new JSONObject();
+            }
+        });
+    }
     public void save(String serverName, HashSet<String> totalUniqueIdentifiers, ConcurrentHashMap<String, HashSet<String>> uniqueRequests, ConcurrentHashMap<String, Integer> totalRequests) {
         if(!QUOTA_REQUESTS.isEmpty()) {
             saveQuota();
         }
         if(!totalRequests.isEmpty()) {
-            final Folder folder = Folder.LOGS;
-            final LocalDateTime now = LocalDateTime.now();
-            final String zoneID = ZoneId.systemDefault().getDisplayName(TextStyle.SHORT, Locale.US);
-            final String folderPath = now.getYear() + File.separator + "statistics" + File.separator + now.getMonth().name() + File.separator + now.getDayOfMonth() + File.separator;
-            final String fileName = folderPath + now.getHour() + "_" + now.getMinute() + " " + zoneID;
-            final JSONObject json = getJSONObject(folder, fileName, new CompletionHandler() {
-                @Override
-                public JSONObject loadJSONObject() {
-                    return new JSONObject();
-                }
-            });
+            final JSONObject json = getLatestLogJSON();
 
             final JSONObject uniqueJSON = json.has("unique") ? json.getJSONObject("unique") : new JSONObject();
             int totalUniqueRequests = 0;
@@ -81,27 +84,18 @@ public enum Statistics implements Jsonable, QuotaHandler {
             json.put("_totalRequests", totalTotalRequests);
             json.put("_totalUniqueRequests", totalUniqueRequests);
             json.put("_totalUniqueIdentifiers", totalUniqueIdentifiers.size());
-            Jsonable.setFileJSONObject(folder, fileName, json);
+            Jsonable.setFileJSONObject(FOLDER, fileName, json);
         }
     }
     public JSONObject getTrendingJSON() {
-        final Folder folder = Folder.LOGS;
-        final LocalDate nowUTC = LocalDate.now(Clock.systemUTC());
-        final String nowEpoch = "" + nowUTC.toEpochDay();
-        final JSONObject json = getJSONObject(folder, nowEpoch, new CompletionHandler() {
-            @Override
-            public JSONObject loadJSONObject() {
-                return new JSONObject();
-            }
-        });
-
-        final JSONObject trendingJSON = new JSONObject();
-        final List<TrendingRequest> trendingRequests = new ArrayList<>();
+        final JSONObject json = getLatestLogJSON();
+        JSONObject trendingJSON = null;
         if(json.has("unique")) {
             final JSONObject uniqueJSON = json.getJSONObject("unique");
             final String versionString = APIVersion.v1.name();
             if(uniqueJSON.has(versionString)) {
-                final List<TrendingRequest> trendingRequestsList = new ArrayList<>();
+                final List<TrendingRequest> trendingRequests = new ArrayList<>(), trendingRequestsList = new ArrayList<>();
+
                 final JSONObject requestsJSON = uniqueJSON.getJSONObject(versionString);
                 final Set<String> set = requestsJSON.keySet();
                 set.removeIf(string -> string.equals("home"));
@@ -114,10 +108,12 @@ public enum Statistics implements Jsonable, QuotaHandler {
                 for(int i = 0; i < max; i++) {
                     trendingRequests.add(trendingRequestsList.get(i));
                 }
+
+                trendingJSON = new JSONObject();
+                for(TrendingRequest request : trendingRequests) {
+                    trendingJSON.put(request.request, request.requests);
+                }
             }
-        }
-        for(TrendingRequest request : trendingRequests) {
-            trendingJSON.put(request.request, request.requests);
         }
         return trendingJSON;
     }

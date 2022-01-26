@@ -17,7 +17,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         if(LOCAL_SERVERS.containsKey(server)) {
             return LOCAL_SERVERS.get(server);
         } else {
-            final LocalServer localServer = LocalServer.get(this);
+            final LocalServer localServer = new LocalServer(this);
             LOCAL_SERVERS.put(server, localServer);
             return localServer;
         }
@@ -97,19 +97,13 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         if(settings != null) {
             final String serverName = server.getName(), simpleName = getClass().getSimpleName();
             final long interval = settings.interval;
-            final CompletionHandler autoUpdateHandler = settings.handler;
+            final Runnable runnable = settings.runnable;
             registerFixedTimer(interval, () -> {
                 final long started = System.currentTimeMillis();
-                if(autoUpdateHandler != null) {
-                    autoUpdateHandler.handleCompletionHandler(new CompletionHandler() {
-                        @Override
-                        public void handleObject(Object object) {
-                            refreshHome(simpleName, started, serverName, server, version);
-                        }
-                    });
-                } else {
-                    refreshHome(simpleName, started, serverName, server, version);
+                if(runnable != null) {
+                    runnable.run();
                 }
+                refreshHome(simpleName, started, serverName, server, version);
             });
         }
     }

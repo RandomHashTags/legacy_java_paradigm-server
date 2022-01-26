@@ -12,7 +12,6 @@ import java.util.concurrent.ConcurrentHashMap;
 public final class LocalServer implements UserServer, DataValues {
     private final WLServer wlserver;
     private final String serverName;
-    private final int port;
     private CompletionHandler handler;
     private ServerSocket server;
     private HashSet<Timer> timers;
@@ -21,15 +20,10 @@ public final class LocalServer implements UserServer, DataValues {
     private ConcurrentHashMap<String, HashSet<String>> uniqueRequests;
     private HashSet<String> totalUniqueIdentifiers;
 
-    private LocalServer(WLServer server) {
+    public LocalServer(WLServer server) {
         wlserver = server;
         final TargetServer targetServer = server.getServer();
         this.serverName = targetServer.getName();
-        this.port = targetServer.getPort();
-    }
-
-    public static LocalServer get(WLServer server) {
-        return new LocalServer(server);
     }
 
     @Override
@@ -37,9 +31,12 @@ public final class LocalServer implements UserServer, DataValues {
         uniqueRequests = new ConcurrentHashMap<>();
         totalRequests = new ConcurrentHashMap<>();
         totalUniqueIdentifiers = new HashSet<>();
-        final long interval = WLUtilities.SAVE_STATISTICS_INTERVAL;
-        registerFixedTimer(interval, this::saveStatistics);
-        setupHttpServer();
+        final TargetServer server = wlserver.getServer();
+        if(server.recordsStatistics()) {
+            final long interval = WLUtilities.SAVE_STATISTICS_INTERVAL;
+            registerFixedTimer(interval, this::saveStatistics);
+        }
+        setupHttpServer(server.getPort());
     }
 
     public void setCompletionHandler(CompletionHandler handler) {
@@ -57,7 +54,9 @@ public final class LocalServer implements UserServer, DataValues {
             }
         }
         wlserver.stop();
-        saveStatistics();
+        if(wlserver.getServer().recordsStatistics()) {
+            saveStatistics();
+        }
         try {
             server.close();
             WLLogger.logInfo(serverName + " - server has shut down (took " + (System.currentTimeMillis()-started) + "ms)");
@@ -97,15 +96,15 @@ public final class LocalServer implements UserServer, DataValues {
         uniqueRequests.clear();
     }
 
-    private void setupHttpServer() {
+    private void setupHttpServer(int port) {
         try {
             server = new ServerSocket(port);
-            connectClients();
+            connectClients(port);
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
     }
-    private void connectClients() {
+    private void connectClients(int port) {
         listenForUserInput();
         WLLogger.logInfo(serverName + " - Listening for clients on port " + port + "...");
         acceptClients();
@@ -114,7 +113,8 @@ public final class LocalServer implements UserServer, DataValues {
         while (!server.isClosed()) {
             try {
                 final Socket socket = server.accept();
-                new WLClient(socket, handler).start();
+                final WLClient client = new WLClient(socket, handler);
+                client.start();
             } catch (SocketException | SocketTimeoutException ignored) {
             } catch (Exception e) {
                 WLUtilities.saveException(e);

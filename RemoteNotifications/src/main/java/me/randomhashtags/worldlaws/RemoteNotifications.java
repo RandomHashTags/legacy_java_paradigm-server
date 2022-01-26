@@ -40,6 +40,8 @@ public final class RemoteNotifications implements WLServer {
                         break;
                 }
                 break;
+            case "send":
+                break;
             default:
                 break;
         }

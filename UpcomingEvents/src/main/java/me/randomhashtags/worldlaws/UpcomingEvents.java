@@ -56,8 +56,8 @@ public final class UpcomingEvents implements WLServer {
     private String typesJSON;
 
     private void initialize() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -131,11 +131,8 @@ public final class UpcomingEvents implements WLServer {
 
     @Override
     public AutoUpdateSettings getAutoUpdateSettings() {
-        return new AutoUpdateSettings(WLUtilities.UPCOMING_EVENTS_HOME_UPDATE_INTERVAL, new CompletionHandler() {
-            @Override
-            public void handleCompletionHandler(CompletionHandler handler) {
-                Holidays.INSTANCE.refreshNearHolidays();
-            }
+        return new AutoUpdateSettings(WLUtilities.UPCOMING_EVENTS_NEAR_HOLIDAYS_UPDATE_INTERVAL, () -> {
+            Holidays.INSTANCE.refreshNearHolidays();
         });
     }
 
@@ -171,7 +168,7 @@ public final class UpcomingEvents implements WLServer {
                 });
 
                 final JSONObject json = getEventsFromDates(dates);
-                WLLogger.logInfo("UpcomingEvent - refreshed events from this week (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.logInfo("UpcomingEvents - refreshed events from this week (took " + (System.currentTimeMillis()-started) + "ms)");
                 return json;
             }
         });

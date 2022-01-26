@@ -111,6 +111,12 @@ public enum Settings {
             public static String getSharedSecret() {
                 return getOrDefaultString(getPrivateValuesApple(), "app_specific_shared_secret", null);
             }
+            public static String getRemoteNotificationsEncryptionKeyID() {
+                return getOrDefaultString(getPrivateValuesApple(), "remote_notifications_encryption_key_id", null);
+            }
+            public static String getRemoteNotificationsIssuerKey() {
+                return getOrDefaultString(getPrivateValuesApple(), "remote_notifications_issuer_key", null);
+            }
         }
 
         public enum Google {

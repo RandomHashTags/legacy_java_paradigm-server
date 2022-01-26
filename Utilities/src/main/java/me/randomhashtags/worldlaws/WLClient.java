@@ -18,6 +18,7 @@ public final class WLClient extends Thread {
         this.handler = handler;
     }
 
+    @Override
     public void run() {
         try {
             output = new DataOutputStream(httpClient.getOutputStream());

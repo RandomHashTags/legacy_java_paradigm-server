@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.notifications;
 
-public enum NotificationCategory {
+public enum RemoteNotificationCategory {
     SOFTWARE_UPDATE,
     VIDEO_GAME_UPDATE,
     ;

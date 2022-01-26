@@ -34,8 +34,9 @@ public final class JokeOfTheDay extends LoadedUpcomingEventController {
             final String title = jokeJSON.getString("title");
 
             final String text = jokeJSON.getString("text");
-            final String[] textValues = text.substring(2).split("\\?\r\nA: ");
-            final String question = textValues[0] + "?", answer = textValues[1];
+            final boolean isKnockKnockJoke = text.startsWith("Knock Knock - ");
+            final String[] textValues = (isKnockKnockJoke ? text.split("who? ") : text.substring(2).split("\\?\r\nA: "));
+            final String question = textValues[0] + (isKnockKnockJoke ? "who? " : "?"), answer = textValues[1];
 
             final String[] dateValues = jokeJSON.getString("date").split("-");
             final int year = Integer.parseInt(dateValues[0]), monthValue = Integer.parseInt(dateValues[1]), day = Integer.parseInt(dateValues[2]);

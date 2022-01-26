@@ -123,6 +123,17 @@ public enum TargetServer implements RestAPI, DataValues {
                 return true;
         }
     }
+    public boolean recordsStatistics() {
+        if(isRealServer()) {
+            switch (this) {
+                case REMOTE_NOTIFICATIONS:
+                    return false;
+                default:
+                    return true;
+            }
+        }
+        return false;
+    }
 
     public String getBackendID() {
         return name().toLowerCase().replace("_", "");
@@ -318,24 +329,24 @@ public enum TargetServer implements RestAPI, DataValues {
         ParallelStream.stream(requests.entrySet(), entryObj -> {
             @SuppressWarnings({ "unchecked" })
             final Map.Entry<String, String> entry = (Map.Entry<String, String>) entryObj;
-            final String key = entry.getKey(), value = entry.getValue();
-            final String string;
+            final String key = entry.getKey(), serverIP = entry.getValue();
+            final String value;
             switch (key) {
                 case "trending":
                     final JSONObject json = Statistics.INSTANCE.getTrendingJSON();
-                    string = json.isEmpty() ? null : json.toString();
+                    value = json == null ? null : json.toString();
                     break;
                 default:
-                    string = request(value, method, headers, null);
+                    value = request(serverIP, method, headers, null);
                     break;
             }
-            if(string != null) {
+            if(value != null) {
                 try {
                     final JSONObject json = new JSONObject(value);
                     values.put(key, json);
                 } catch (Exception e) {
-                    WLLogger.logWarning("TargetServer - ERROR - updateHomeResponse - isUpdate=" + isUpdate + ";string!=null;key=" + key + ";value=" + value);
-                    WLUtilities.saveException(e);
+                    final String details = "isUpdate=" + isUpdate + ";string!=null;key=" + key + ";server=" + serverIP + "\n\nvalue=" + value + "\n\n" + WLUtilities.getExceptionStackTrace(e);
+                    WLUtilities.saveLoggedError("TargetServer", "failed to parse string to JSONObject! " + details);
                 }
             }
         });
