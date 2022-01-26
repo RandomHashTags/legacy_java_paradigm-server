@@ -45,16 +45,6 @@ public final class Technology implements WLServer {
         }
     }
 
-    @Override
-    public String[] getHomeRequests() {
-        return null;
-    }
-
-    @Override
-    public AutoUpdateSettings getAutoUpdateSettings() {
-        return null;
-    }
-
     private String getSmartphoneCompanyResponse(String target) {
         final String[] values = target.split("/");
         final String key = values[0];

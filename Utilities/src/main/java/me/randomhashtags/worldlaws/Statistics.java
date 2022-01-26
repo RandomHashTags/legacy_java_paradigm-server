@@ -16,25 +16,25 @@ public enum Statistics implements Jsonable, QuotaHandler {
     private static final Folder FOLDER = Folder.LOGS;
     private String fileName;
 
-    private JSONObject getLatestLogJSON() {
+    private JSONObject getLatestLogJSON(CompletionHandler loadHandler) {
         final LocalDateTime now = LocalDateTime.now();
         final String zoneID = ZoneId.systemDefault().getDisplayName(TextStyle.SHORT, Locale.ENGLISH);
         final String folderPath = FOLDER.getFolderName().replace("%year%", Integer.toString(now.getYear())).replace("%month%", now.getMonth().name()).replace("%day%", Integer.toString(now.getDayOfMonth()));
         fileName = now.getHour() + "_" + now.getMinute() + "_" + zoneID;
         FOLDER.setCustomFolderName(fileName, folderPath);
-        return getJSONObject(FOLDER, fileName, new CompletionHandler() {
-            @Override
-            public JSONObject loadJSONObject() {
-                return new JSONObject();
-            }
-        });
+        return getJSONObject(FOLDER, fileName, loadHandler);
     }
     public void save(String serverName, HashSet<String> totalUniqueIdentifiers, ConcurrentHashMap<String, HashSet<String>> uniqueRequests, ConcurrentHashMap<String, Integer> totalRequests) {
         if(!QUOTA_REQUESTS.isEmpty()) {
             saveQuota();
         }
         if(!totalRequests.isEmpty()) {
-            final JSONObject json = getLatestLogJSON();
+            final JSONObject json = getLatestLogJSON(new CompletionHandler() {
+                @Override
+                public JSONObject loadJSONObject() {
+                    return new JSONObject();
+                }
+            });
 
             final JSONObject uniqueJSON = json.has("unique") ? json.getJSONObject("unique") : new JSONObject();
             int totalUniqueRequests = 0;
@@ -88,9 +88,9 @@ public enum Statistics implements Jsonable, QuotaHandler {
         }
     }
     public JSONObject getTrendingJSON() {
-        final JSONObject json = getLatestLogJSON();
+        final JSONObject json = getLatestLogJSON(null);
         JSONObject trendingJSON = null;
-        if(json.has("unique")) {
+        if(json != null && json.has("unique")) {
             final JSONObject uniqueJSON = json.getJSONObject("unique");
             final String versionString = APIVersion.v1.name();
             if(uniqueJSON.has(versionString)) {

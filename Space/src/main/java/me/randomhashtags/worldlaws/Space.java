@@ -41,11 +41,6 @@ public final class Space implements WLServer {
         };
     }
 
-    @Override
-    public AutoUpdateSettings getAutoUpdateSettings() {
-        return null;
-    }
-
     private String getConstellationResponse(APIVersion version, String target) {
         final String[] values = target.split("/");
         final String key = values[0];

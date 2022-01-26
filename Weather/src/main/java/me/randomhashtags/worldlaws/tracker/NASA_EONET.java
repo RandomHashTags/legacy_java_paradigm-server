@@ -36,14 +36,14 @@ public enum NASA_EONET implements WLService {
 
     public String getCurrent(APIVersion version) {
         if(!cache.containsKey(version)) {
-            final Weather weather = Weather.INSTANCE;
-            weather.registerFixedTimer(WLUtilities.WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL, () -> refresh(version));
-            weather.registerFixedTimer(WLUtilities.WEATHER_NASA_WEATHER_VOLCANO_UPDATE_INTERVAL, cachedVolcanoes::clear);
             refresh(version);
         }
         return cache.get(version);
     }
-    private void refresh(APIVersion version) {
+    public void clearCachedVolcanoes() {
+        cachedVolcanoes.clear();
+    }
+    public void refresh(APIVersion version) {
         final long started = System.currentTimeMillis();
         final String wikipediaPrefix = "https://en.wikipedia.org/wiki/";
         final HashMap<String, String> volcanoWikipediaPages = getVolcanoWikipediaPages();

@@ -70,14 +70,4 @@ public final class Laws implements WLServer {
                 return null;
         }
     }
-
-    @Override
-    public String[] getHomeRequests() {
-        return null;
-    }
-
-    @Override
-    public AutoUpdateSettings getAutoUpdateSettings() {
-        return null;
-    }
 }

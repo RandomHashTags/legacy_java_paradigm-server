@@ -1,8 +1,6 @@
 package me.randomhashtags.worldlaws.earthquakes;
 
 import me.randomhashtags.worldlaws.WLLogger;
-import me.randomhashtags.worldlaws.WLUtilities;
-import me.randomhashtags.worldlaws.Weather;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.weather.WeatherController;
 import me.randomhashtags.worldlaws.weather.country.WeatherUSA;
@@ -125,7 +123,6 @@ public enum WeatherAlerts {
 
     private String getAll() {
         if(allAlertsJSON == null) {
-            Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL, () -> refresh(true));
             refresh(false);
         }
         return allAlertsJSON;
@@ -140,7 +137,7 @@ public enum WeatherAlerts {
         }
         return string;
     }
-    private void refresh(boolean isAutoUpdate) {
+    public void refresh(boolean isAutoUpdate) {
         final long started = System.currentTimeMillis();
         final HashMap<String, Long> controllerLoadTimes = new HashMap<>();
         final WeatherController[] countries = getCountries();

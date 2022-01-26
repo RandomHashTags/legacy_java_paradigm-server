@@ -53,8 +53,8 @@ public final class Services implements WLServer {
     }
 
     @Override
-    public AutoUpdateSettings getAutoUpdateSettings() {
-        return null;
+    public long getHomeResponseUpdateInterval() {
+        return 0;
     }
 
     private String getStockMarketResponse(APIVersion version, String value) {

@@ -64,7 +64,6 @@ public interface Jsonable {
             if(json != null) {
                 saveFileJSON(folder, fileName, string);
             }
-            return json;
         }
         return json;
     }

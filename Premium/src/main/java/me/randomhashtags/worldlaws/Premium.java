@@ -23,14 +23,4 @@ public final class Premium implements WLServer {
                 return null;
         }
     }
-
-    @Override
-    public AutoUpdateSettings getAutoUpdateSettings() {
-        return null;
-    }
-
-    @Override
-    public String[] getHomeRequests() {
-        return null;
-    }
 }

@@ -47,7 +47,9 @@
   "private_values": {
     "apple": {
       "production_mode": false,
-      "app_specific_shared_secret": ""
+      "app_specific_shared_secret": "",
+      "remote_notifications_encryption_key_id": "***REMOVED***",
+      "remote_notifications_issuer_key": "***REMOVED***"
     },
     "google": {
       "civic_api_key": "***REMOVED***"

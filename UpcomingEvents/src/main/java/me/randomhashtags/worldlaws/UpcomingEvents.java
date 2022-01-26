@@ -130,10 +130,9 @@ public final class UpcomingEvents implements WLServer {
     }
 
     @Override
-    public AutoUpdateSettings getAutoUpdateSettings() {
-        return new AutoUpdateSettings(WLUtilities.UPCOMING_EVENTS_NEAR_HOLIDAYS_UPDATE_INTERVAL, () -> {
-            Holidays.INSTANCE.refreshNearHolidays();
-        });
+    public long getHomeResponseUpdateInterval() {
+        registerFixedTimer(WLUtilities.UPCOMING_EVENTS_NEAR_HOLIDAYS_UPDATE_INTERVAL, Holidays.INSTANCE::refreshNearHolidays);
+        return WLUtilities.UPCOMING_EVENTS_HOME_UPDATE_INTERVAL;
     }
 
     private String getEventTypesJSON() {

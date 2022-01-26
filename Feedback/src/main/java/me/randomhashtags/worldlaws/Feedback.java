@@ -43,16 +43,6 @@ public final class Feedback implements WLServer, Jsonable {
         }
     }
 
-    @Override
-    public String[] getHomeRequests() {
-        return null;
-    }
-
-    @Override
-    public AutoUpdateSettings getAutoUpdateSettings() {
-        return null;
-    }
-
     private String submit(Folder folder, String fileName, String value) {
         setFileJSON(folder, fileName, value);
         return null;

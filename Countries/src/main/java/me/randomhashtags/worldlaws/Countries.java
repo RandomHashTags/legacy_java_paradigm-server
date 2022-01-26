@@ -66,11 +66,6 @@ public final class Countries implements WLServer {
         startServer();
     }
 
-    @Override
-    public AutoUpdateSettings getAutoUpdateSettings() {
-        return null;
-    }
-
     private void loadServices() {
         final HashSet<CountryService> services = new HashSet<>() {{
             addAll(Arrays.asList(CountryAvailabilities.INSTANCE));

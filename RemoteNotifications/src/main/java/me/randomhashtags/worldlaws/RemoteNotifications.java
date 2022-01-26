@@ -47,14 +47,4 @@ public final class RemoteNotifications implements WLServer {
         }
         return null;
     }
-
-    @Override
-    public AutoUpdateSettings getAutoUpdateSettings() {
-        return null;
-    }
-
-    @Override
-    public String[] getHomeRequests() {
-        return null;
-    }
 }

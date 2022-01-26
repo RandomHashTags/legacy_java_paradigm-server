@@ -43,7 +43,6 @@ public enum Earthquakes implements RestAPI {
     private String getFromTerritory(boolean isRecent, String territory) {
         final String string = isRecent ? recentEarthquakes : topRecentEarthquakes;
         if(string == null) {
-            Weather.INSTANCE.registerFixedTimer(WLUtilities.WEATHER_EARTHQUAKES_UPDATE_INTERVAL, () -> refresh(true, false));
             refresh(false, isRecent);
         }
         return getValue(isRecent, territory);
@@ -65,7 +64,7 @@ public enum Earthquakes implements RestAPI {
         return date.getYear() + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : day);
     }
 
-    private void refresh(boolean isAutoUpdate, boolean isRecent) {
+    public void refresh(boolean isAutoUpdate, boolean isRecent) {
         final long started = System.currentTimeMillis();
         final LocalDate now = Instant.ofEpochMilli(started).atZone(ZoneId.ofOffset("", ZoneOffset.UTC)).toLocalDate(), startDate = now.minusDays(30), recentStartingDate = now.minusDays(7);
         final String url = getURLRequest(startDate, now, 2.0f);

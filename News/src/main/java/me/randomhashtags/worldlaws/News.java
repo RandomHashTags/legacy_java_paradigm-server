@@ -24,14 +24,4 @@ public class News implements WLServer {
     public String getServerResponse(APIVersion version, String target) {
         return service.getResponseJSON(target);
     }
-
-    @Override
-    public String[] getHomeRequests() {
-        return null;
-    }
-
-    @Override
-    public AutoUpdateSettings getAutoUpdateSettings() {
-        return null;
-    }
 }

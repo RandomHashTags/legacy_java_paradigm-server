@@ -78,8 +78,12 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         }
     }
     String getServerResponse(APIVersion version, String target);
-    AutoUpdateSettings getAutoUpdateSettings();
-    String[] getHomeRequests();
+    default long getHomeResponseUpdateInterval() {
+        return 0;
+    }
+    default String[] getHomeRequests() {
+        return null;
+    }
     default String getHomeResponse(APIVersion version) {
         final TargetServer server = getServer();
         CACHED_HOME_RESPONSES.putIfAbsent(server, new HashMap<>());
@@ -93,16 +97,11 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         }
     }
     private void tryStartingAutoUpdates(TargetServer server, APIVersion version) {
-        final AutoUpdateSettings settings = getAutoUpdateSettings();
-        if(settings != null) {
+        final long updateInterval = getHomeResponseUpdateInterval();
+        if(updateInterval > 0) {
             final String serverName = server.getName(), simpleName = getClass().getSimpleName();
-            final long interval = settings.interval;
-            final Runnable runnable = settings.runnable;
-            registerFixedTimer(interval, () -> {
+            registerFixedTimer(updateInterval, () -> {
                 final long started = System.currentTimeMillis();
-                if(runnable != null) {
-                    runnable.run();
-                }
                 refreshHome(simpleName, started, serverName, server, version);
             });
         }
