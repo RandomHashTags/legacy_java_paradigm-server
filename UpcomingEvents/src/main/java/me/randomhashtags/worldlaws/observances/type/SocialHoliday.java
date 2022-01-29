@@ -20,6 +20,7 @@ public enum SocialHoliday implements IHoliday {
     BOXING_DAY,
     CONSTITUTION_DAY,
     CYBER_MONDAY,
+    DATA_PRIVACY_DAY,
     DAY_OF_VALOR,
     EMANCIPATION_DAY,
     FARMERS_DAY(
@@ -149,7 +150,6 @@ public enum SocialHoliday implements IHoliday {
                     default:
                         return null;
                 }
-
             case ORANGE_SHIRT_DAY:
                 switch (country) {
                     case CANADA: return new EventDate(Month.SEPTEMBER, 30, year);
@@ -201,6 +201,7 @@ public enum SocialHoliday implements IHoliday {
             case ARMED_FORCES_DAY: return ArmedForcesDay.INSTANCE;
             case BOXING_DAY: return BoxingDay.INSTANCE;
             case CONSTITUTION_DAY: return ConstitutionDay.INSTANCE;
+            case DATA_PRIVACY_DAY: return DataPrivacyDay.INSTANCE;
             case DAY_OF_VALOR: return DayOfValor.INSTANCE;
             case EMANCIPATION_DAY: return EmancipationDay.INSTANCE;
             case FARMERS_DAY: return FarmersDay.INSTANCE;

@@ -264,8 +264,7 @@ public enum MovieProductionCompanies {
     private static JSONObject loadJSON() {
         final MovieProductionCompanies[] companies = values();
         final JSONObject companiesJSON = new JSONObject();
-        ParallelStream.stream(Arrays.asList(companies), companyObj -> {
-            final MovieProductionCompanies company = (MovieProductionCompanies) companyObj;
+        new ParallelStream<MovieProductionCompanies>().stream(Arrays.asList(companies), company -> {
             final JSONObject details = company.getDetails();
             companiesJSON.put(company.getOriginalWikipediaName(), details);
         });

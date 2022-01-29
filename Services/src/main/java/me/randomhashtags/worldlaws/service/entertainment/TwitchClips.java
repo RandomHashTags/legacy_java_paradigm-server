@@ -27,8 +27,7 @@ public enum TwitchClips implements RestAPI {
         query.put("trending", "false");
         final List<String> types = Arrays.asList("day", "week", "month", "all");
         final JSONObject json = new JSONObject();
-        ParallelStream.stream(types, typeObj -> {
-            final String type = (String) typeObj;
+        new ParallelStream<String>().stream(types, type -> {
             final JSONObject typeJSON = refresh(headers, query, type);
             if(typeJSON != null) {
                 json.put(type, typeJSON);
@@ -44,8 +43,7 @@ public enum TwitchClips implements RestAPI {
         if(json != null) {
             final JSONArray clipsArray = json.getJSONArray("clips");
             final JSONObject clips = new JSONObject();
-            ParallelStream.stream(clipsArray.spliterator(), clipObj -> {
-                final JSONObject clipJSON = (JSONObject) clipObj;
+            new ParallelStream<JSONObject>().stream(clipsArray.spliterator(), clipJSON -> {
                 final String slug = clipJSON.getString("slug");
 
                 final String clipURL = clipJSON.getString("url"), embedHTML = clipJSON.getString("embed_html");

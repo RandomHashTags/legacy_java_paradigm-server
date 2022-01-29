@@ -96,8 +96,7 @@ public final class WikipediaCountryService implements CountryService {
         if(featuredPicturesFolder != null) {
             final String[] types = new String[] { "nationalAnimal", "nationalTree", "featured" };
             final HashSet<String> values = new HashSet<>();
-            ParallelStream.stream(Arrays.asList(types), typeObj -> {
-                final String type = (String) typeObj;
+            new ParallelStream<String>().stream(Arrays.asList(types), type -> {
                 final JSONObject json = getPictures(type, tag);
                 if(json != null) {
                     values.add("\"" + type + "\":" + json.toString());

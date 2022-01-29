@@ -94,8 +94,7 @@ public enum CountryAvailabilities implements CountryAvailabilityService {
 
     public String getCountryAvailabilities(String countryBackendID) {
         final ConcurrentHashMap<Boolean, ConcurrentHashMap<String, HashSet<String>>> values = new ConcurrentHashMap<>();
-        ParallelStream.stream(SERVICES, serviceObj -> {
-            final CountryAvailabilityService service = (CountryAvailabilityService) serviceObj;
+        new ParallelStream<CountryAvailabilityService>().stream(SERVICES, service -> {
             final CountryAvailability availability = service.getAvailability(countryBackendID);
             if(availability != null) {
                 final String primaryCategory = availability.getPrimaryCategory().name();

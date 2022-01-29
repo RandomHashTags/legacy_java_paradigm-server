@@ -50,8 +50,7 @@ public final class USLaws extends LawController {
         };
 
         final HashMap<USBillStatus, HashSet<PreCongressBill>> values = new HashMap<>();
-        ParallelStream.stream(Arrays.asList(statuses), statusObj -> {
-            final USBillStatus status = (USBillStatus) statusObj;
+        new ParallelStream<USBillStatus>().stream(Arrays.asList(statuses), status -> {
             final HashSet<PreCongressBill> bills = congress.getPreCongressBillsBySearch(status);
             if(bills != null) {
                 bills.removeIf(bill -> bill.getDate().getLocalDate().isBefore(startingDate));

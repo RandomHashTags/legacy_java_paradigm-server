@@ -27,9 +27,10 @@ public enum NoMansSky implements VideoGameUpdateController {
     }
 
     @Override
-    public void refresh(LocalDate startingDate, CompletionHandler handler) {
+    public VideoGameUpdate refresh(LocalDate startingDate) {
         final String url = getUpdatePageURL();
         final Document doc = getDocument(url);
+        VideoGameUpdate update = null;
         if(doc != null) {
             final Elements elements = doc.select("main section.section div.section__content div.box div.grid div.grid__cell a.link");
             final Element first = elements.get(0);
@@ -50,9 +51,7 @@ public enum NoMansSky implements VideoGameUpdateController {
                         sources.add(new EventSource(name + ": " + title, ahref));
                         final LocalDate now = WLUtilities.getNowUTC();
                         final EventDate date = new EventDate(now.getMonth(), 1, now.getYear());
-                        final VideoGameUpdate update = new VideoGameUpdate(date, title.replace(" Update", ""), description, imageURL, sources);
-                        handler.handleObject(update);
-                        return;
+                        update = new VideoGameUpdate(date, title.replace(" Update", ""), description, imageURL, sources);
                     }
                 } else {
                     final Document targetDoc = getDocument(ahref);
@@ -69,16 +68,14 @@ public enum NoMansSky implements VideoGameUpdateController {
                                 final String title = box.select("h1").get(0).text();
                                 final String description = first.select("div.grid__cell-content p").get(0).text().replace(". Read more", "");
                                 sources.add(new EventSource(name + ": " + title, ahref));
-                                final VideoGameUpdate update = new VideoGameUpdate(eventDate, title, description, getLatestCoverArtURL(doc), sources);
-                                handler.handleObject(update);
-                                return;
+                                update = new VideoGameUpdate(eventDate, title, description, getLatestCoverArtURL(doc), sources);
                             }
                         }
                     }
                 }
             }
         }
-        handler.handleObject(null);
+        return update;
     }
 
     private String getLatestCoverArtURL(Document doc) {

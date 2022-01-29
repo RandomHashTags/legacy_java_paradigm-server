@@ -78,8 +78,7 @@ public enum Earthquakes implements RestAPI {
             final JSONArray array = json.getJSONArray("features");
             final ConcurrentHashMap<String, HashSet<PreEarthquake>> territoryEarthquakesMap = new ConcurrentHashMap<>();
             final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<String>>> preEarthquakeDates = new ConcurrentHashMap<>();
-            ParallelStream.stream(array.spliterator(), obj -> {
-                final JSONObject earthquakeJSON = (JSONObject) obj;
+            new ParallelStream<JSONObject>().stream(array.spliterator(), earthquakeJSON -> {
                 loadEarthquake(startDate, earthquakeJSON, preEarthquakeDates, territoryEarthquakesMap);
             });
             topRecentEarthquakes = getEarthquakesJSON(null, preEarthquakeDates);

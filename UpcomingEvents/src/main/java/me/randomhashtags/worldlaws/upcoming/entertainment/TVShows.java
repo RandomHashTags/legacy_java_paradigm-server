@@ -42,8 +42,7 @@ public final class TVShows extends LoadedUpcomingEventController {
             final int max = array.length();
             if(max > 0) {
                 final LocalDate nextWeek = LocalDate.now().plusWeeks(1);
-                ParallelStream.stream(array.spliterator(), obj -> {
-                    final JSONObject json = (JSONObject) obj;
+                new ParallelStream<JSONObject>().stream(array.spliterator(), json -> {
                     final int season = json.getInt("season");
                     final JSONObject showJSON = json.getJSONObject("_embedded").getJSONObject("show");
                     if(season < 1000 && !showJSON.getString("status").equalsIgnoreCase("ended")) {

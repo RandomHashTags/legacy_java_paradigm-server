@@ -29,8 +29,7 @@ public enum RecentEvents {
         final long started = System.currentTimeMillis();
         final LocalDate lastWeek = LocalDate.now().minusDays(daysOffset);
         final ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> allValues = new ConcurrentHashMap<>();
-        ParallelStream.stream(Arrays.asList(events), controllerObj -> {
-            final RecentEventController controller = (RecentEventController) controllerObj;
+        new ParallelStream<RecentEventController>().stream(Arrays.asList(events), controller -> {
             final HashSet<PreRecentEvent> preRecentEvents = controller.refreshHashSet(lastWeek);
             final boolean hasNewInformation = controller.hasNewInformation(preRecentEvents);
             if(hasNewInformation) { // TODO: submit remote notification

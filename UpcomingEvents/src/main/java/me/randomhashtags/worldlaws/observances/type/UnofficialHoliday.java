@@ -55,10 +55,10 @@ public enum UnofficialHoliday implements IHoliday {
     @Override
     public String[] getAliases() {
         switch (this) {
-            case APRIL_FOOLS_DAY: return new String[] { "April Fool's Day" };
-            case INTERNATIONAL_MENS_DAY: return new String[] { "IMD", "Men's Day" };
-            case NATIONAL_DONUT_DAY: return new String[] { "National Doughnut Day" };
-            case SUPER_BOWL_SUNDAY: return new String[] { "Super Sunday" };
+            case APRIL_FOOLS_DAY: return collectAliases("April Fool's Day");
+            case INTERNATIONAL_MENS_DAY: return collectAliases("IMD", "Men's Day");
+            case NATIONAL_DONUT_DAY: return collectAliases("National Doughnut Day");
+            case SUPER_BOWL_SUNDAY: return collectAliases("Super Sunday");
             default: return null;
         }
     }

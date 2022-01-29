@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.recent;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.recent.software.videogame.NoMansSky;
 import me.randomhashtags.worldlaws.recent.software.videogame.VideoGameUpdate;
@@ -32,19 +31,13 @@ public final class VideoGameUpdates extends RecentEventController {
     public ConcurrentHashMap<String, HashSet<String>> refreshHashMap(LocalDate startingDate) {
         final VideoGameUpdateController[] controllers = getSupportedVideoGames();
         final ConcurrentHashMap<String, HashSet<String>> values = new ConcurrentHashMap<>();
-        ParallelStream.stream(Arrays.asList(controllers), controllerObj -> {
-            final VideoGameUpdateController controller = (VideoGameUpdateController) controllerObj;
-            controller.refresh(startingDate, new CompletionHandler() {
-                @Override
-                public void handleObject(Object object) {
-                    if(object != null) {
-                        final VideoGameUpdate update = (VideoGameUpdate) object;
-                        final String dateString = update.getDate().getDateString();
-                        values.putIfAbsent(dateString, new HashSet<>());
-                        values.get(dateString).add("\"" + controller.getName() + "\":" + update.toString());
-                    }
-                }
-            });
+        new ParallelStream<VideoGameUpdateController>().stream(Arrays.asList(controllers), controller -> {
+            final VideoGameUpdate update = controller.refresh(startingDate);
+            if(update != null) {
+                final String dateString = update.getDate().getDateString();
+                values.putIfAbsent(dateString, new HashSet<>());
+                values.get(dateString).add("\"" + controller.getName() + "\":" + update.toString());
+            }
         });
         return values;
     }

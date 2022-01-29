@@ -21,8 +21,8 @@ public enum MusicSpotify implements SpotifyService {
             final String description = LocalServer.fixEscapeValues(json.getString("description"));
             final JSONArray tracks = json.getJSONObject("tracks").getJSONArray("items");
             final HashSet<String> values = new HashSet<>();
-            ParallelStream.stream(tracks.spliterator(), track -> {
-                final JSONObject trackJSON = ((JSONObject) track).getJSONObject("track");
+            new ParallelStream<JSONObject>().stream(tracks.spliterator(), track -> {
+                final JSONObject trackJSON = track.getJSONObject("track");
                 final String name = trackJSON.getString("name");
                 final boolean isExplicit = trackJSON.getBoolean("explicit");
                 final long duration = trackJSON.getLong("duration_ms");

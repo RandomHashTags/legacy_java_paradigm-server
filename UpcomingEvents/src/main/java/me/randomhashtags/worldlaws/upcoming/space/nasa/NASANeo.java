@@ -38,9 +38,8 @@ public final class NASANeo extends USAUpcomingEventController {
             final String formattedDateString = year + "-" + (month < 10 ? "0" + month : month) + "-" + (day < 10 ? "0" + day : "" + day);
             final JSONArray nearEarthObjects = json.getJSONObject("near_earth_objects").getJSONArray(formattedDateString);
             final List<Object> list = nearEarthObjects.toList();
-            ParallelStream.stream(list, hashmap -> {
-                @SuppressWarnings("unchecked")
-                final JSONObject mapJSON = new JSONObject((HashMap<String, Object>) hashmap);
+            new ParallelStream<HashMap<String, Object>>().stream(list, hashmap -> {
+                final JSONObject mapJSON = new JSONObject(hashmap);
                 final String name = mapJSON.getString("name");
                 final boolean isPotentiallyHazardousAsteroid = mapJSON.getBoolean("is_potentially_hazardous_asteroid");
 

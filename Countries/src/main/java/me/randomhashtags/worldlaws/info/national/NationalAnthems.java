@@ -37,8 +37,7 @@ public enum NationalAnthems implements CountryNationalService { // https://en.wi
             sources.add(source);
 
             final Elements elements = doc.select("body div div div.custom-page div div main div div div div.list-group a[href]");
-            ParallelStream.stream(elements, elementObj -> {
-                final Element element = (Element) elementObj;
+            new ParallelStream<Element>().stream(elements, element -> {
                 final Element targetElement = element.selectFirst("div.col-9");
                 if(targetElement != null) {
                     final String targetCountry = targetElement.textNodes().get(0).text();

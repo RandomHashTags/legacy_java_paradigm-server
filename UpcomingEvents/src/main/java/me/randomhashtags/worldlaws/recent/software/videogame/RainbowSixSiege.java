@@ -1,7 +1,5 @@
 package me.randomhashtags.worldlaws.recent.software.videogame;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-
 import java.time.LocalDate;
 
 public enum RainbowSixSiege implements VideoGameUpdateController {
@@ -23,7 +21,7 @@ public enum RainbowSixSiege implements VideoGameUpdateController {
     }
 
     @Override
-    public void refresh(LocalDate startingDate, CompletionHandler handler) {
-
+    public VideoGameUpdate refresh(LocalDate startingDate) {
+        return null;
     }
 }

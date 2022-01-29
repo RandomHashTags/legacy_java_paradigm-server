@@ -72,8 +72,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
         String stringValue = null;
         if(set.size() > 0) {
             final ConcurrentHashMap<String, HashSet<String>> map = new ConcurrentHashMap<>();
-            ParallelStream.stream(set, identifierObj -> {
-                final String identifier = (String) identifierObj;
+            new ParallelStream<String>().stream(set, identifier -> {
                 final String string = getLoadedPreUpcomingEvent(identifier);
                 if(string != null) {
                     final String dateString = identifier.split("\\.")[0];

@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.recent.software.videogame;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.Jsoupable;
 import org.json.JSONObject;
 
@@ -10,7 +9,7 @@ public interface VideoGameUpdateController extends Jsoupable {
     String getName();
     String getCoverArtURL();
     String getUpdatePageURL();
-    void refresh(LocalDate startingDate, CompletionHandler handler);
+    VideoGameUpdate refresh(LocalDate startingDate);
 
     default JSONObject getDetailsJSONObject() {
         final JSONObject json = new JSONObject();

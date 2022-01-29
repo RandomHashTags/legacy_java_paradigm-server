@@ -118,8 +118,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             return null;
         } else {
             final HashSet<String> values = new HashSet<>();
-            ParallelStream.stream(Arrays.asList(requests), requestObj -> {
-                final String request = (String) requestObj;
+            new ParallelStream<String>().stream(Arrays.asList(requests), request -> {
                 final String string = getServerResponse(version, request);
                 if(string != null) {
                     final String target = "\"" + request + "\":" + string;

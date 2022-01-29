@@ -154,8 +154,7 @@ public final class CustomCountry implements SovereignState {
             }
         }
         final WLCountry country = getWLCountry();
-        ParallelStream.stream(CountryServices.NONSTATIC_SERVICES, serviceObj -> {
-            final CountryService service = (CountryService) serviceObj;
+        new ParallelStream<CountryService>().stream(CountryServices.NONSTATIC_SERVICES, service -> {
             final SovereignStateInfo info = service.getInfo();
             final String countryIdentifier;
             String string = null;
@@ -203,8 +202,7 @@ public final class CustomCountry implements SovereignState {
         final SovereignStateInformationType resourcesInformationType = SovereignStateInformationType.RESOURCES_STATIC;
         final String backendID = getBackendID();
 
-        ParallelStream.stream(services, serviceObj -> {
-            final CountryService service = (CountryService) serviceObj;
+        new ParallelStream<CountryService>().stream(services, service -> {
             final SovereignStateInfo info = service.getInfo();
             final String countryIdentifier;
             String string = null;
@@ -295,8 +293,7 @@ public final class CustomCountry implements SovereignState {
                 json.put("default_supports_government", true);
             }
             final JSONObject subdivisionsJSON = new JSONObject();
-            ParallelStream.stream(Arrays.asList(subdivisions), subdivisionObj -> {
-                final SovereignStateSubdivision subdivision = (SovereignStateSubdivision) subdivisionObj;
+            new ParallelStream<SovereignStateSubdivision>().stream(Arrays.asList(subdivisions), subdivision -> {
                 String name = subdivision.getRealName();
                 if(name == null) {
                     name = subdivision.getName();

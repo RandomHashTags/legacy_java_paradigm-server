@@ -89,10 +89,7 @@ public final class LocalServer implements UserServer, DataValues {
     @Override
     public void saveStatistics() {
         final long started = System.currentTimeMillis();
-        if(!totalRequests.isEmpty()) {
-            Statistics.INSTANCE.save(serverName, totalUniqueIdentifiers, uniqueRequests, totalRequests);
-            WLLogger.logInfo(serverName + " - Saved statistics (took " + (System.currentTimeMillis()-started) + "ms)");
-        }
+        Statistics.INSTANCE.save(started, serverName, totalUniqueIdentifiers, uniqueRequests, totalRequests);
         totalRequests.clear();
         totalUniqueIdentifiers.clear();
         uniqueRequests.clear();

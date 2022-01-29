@@ -101,8 +101,7 @@ public interface SovereignStateSubdivision extends SovereignState, WikipediaServ
 
                 final String name = getName();
                 final String backendID = name.toLowerCase().replace(" ", "");
-                ParallelStream.stream(services, serviceObj -> {
-                    final CountryService service = (CountryService) serviceObj;
+                new ParallelStream<CountryService>().stream(services, service -> {
                     final SovereignStateInfo info = service.getInfo();
                     final String territory;
                     String string = null;

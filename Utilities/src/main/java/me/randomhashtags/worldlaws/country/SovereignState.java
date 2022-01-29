@@ -27,8 +27,8 @@ public interface SovereignState extends Jsoupable, Jsonable {
 
     default JSONArray getTimeZonesJSONArray(WLTimeZone...timezones) {
         final JSONArray array = new JSONArray();
-        ParallelStream.stream(Arrays.asList(timezones), timezone -> {
-            array.put(((WLTimeZone) timezone).getIdentifier());
+        new ParallelStream<WLTimeZone>().stream(Arrays.asList(timezones), timezone -> {
+            array.put(timezone.getIdentifier());
         });
         return array;
     }

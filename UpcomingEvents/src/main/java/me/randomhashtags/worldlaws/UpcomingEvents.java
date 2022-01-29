@@ -155,8 +155,7 @@ public final class UpcomingEvents implements WLServer {
             @Override
             public JSONObject loadJSONObject() {
                 final HashSet<String> dates = getWeeklyEventDateStrings(now);
-                ParallelStream.stream(CONTROLLERS, controllerObj -> {
-                    final UpcomingEventController controller = (UpcomingEventController) controllerObj;
+                new ParallelStream<UpcomingEventController>().stream(CONTROLLERS, controller -> {
                     controller.refresh();
                 });
 
@@ -171,8 +170,7 @@ public final class UpcomingEvents implements WLServer {
     }
     private JSONObject getEventsFromDates(HashSet<String> dateStrings) {
         final HashSet<String> values = new HashSet<>();
-        ParallelStream.stream(CONTROLLERS, controllerObj -> {
-            final UpcomingEventController controller = (UpcomingEventController) controllerObj;
+        new ParallelStream<UpcomingEventController>().stream(CONTROLLERS, controller -> {
             final String string = controller.getEventsFromDates(dateStrings);
             if(string != null) {
                 final String key = controller.getType().name().toLowerCase();

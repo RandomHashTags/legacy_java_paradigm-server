@@ -182,8 +182,7 @@ public enum TargetServer implements RestAPI, DataValues {
     private String getCombinedResponse(APIVersion version, String identifier, RequestMethod method, String request) {
         final String[] values = request.split("&&");
         final ConcurrentHashMap<String, String> responses = new ConcurrentHashMap<>();
-        ParallelStream.stream(Arrays.asList(values), valueObj -> {
-            final String value = (String) valueObj;
+        new ParallelStream<String>().stream(Arrays.asList(values), value -> {
             final String[] target = value.split("/");
             final String apiVersionString = target[0], serverBackendID = target[1];
             final APIVersion apiVersion = APIVersion.valueOfInput(apiVersionString);
@@ -326,9 +325,7 @@ public enum TargetServer implements RestAPI, DataValues {
         }
 
         final ConcurrentHashMap<String, JSONObject> values = new ConcurrentHashMap<>();
-        ParallelStream.stream(requests.entrySet(), entryObj -> {
-            @SuppressWarnings({ "unchecked" })
-            final Map.Entry<String, String> entry = (Map.Entry<String, String>) entryObj;
+        new ParallelStream<Map.Entry<String, String>>().stream(requests.entrySet(), entry -> {
             final String key = entry.getKey(), serverIP = entry.getValue();
             final String value;
             switch (key) {

@@ -95,8 +95,7 @@ public enum WeatherAlerts {
     private String getAllPreAlerts(String event) {
         final WeatherController[] controllers = getCountries();
         final HashSet<String> values = new HashSet<>();
-        ParallelStream.stream(Arrays.asList(controllers), controllerObj -> {
-            final WeatherController controller = (WeatherController) controllerObj;
+        new ParallelStream<WeatherController>().stream(Arrays.asList(controllers), controller -> {
             final String string = controller.getPreAlerts(event);
             if(string != null) {
                 final String country = controller.getCountry().getBackendID();
@@ -141,8 +140,7 @@ public enum WeatherAlerts {
         final long started = System.currentTimeMillis();
         final HashMap<String, Long> controllerLoadTimes = new HashMap<>();
         final WeatherController[] countries = getCountries();
-        ParallelStream.stream(Arrays.asList(countries), controllerObj -> {
-            final WeatherController controller = (WeatherController) controllerObj;
+        new ParallelStream<WeatherController>().stream(Arrays.asList(countries), controller -> {
             refreshCountry(controller);
             controllerLoadTimes.put(controller.getClass().getSimpleName(), System.currentTimeMillis()-started);
         });

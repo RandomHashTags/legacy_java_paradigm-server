@@ -84,8 +84,7 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
         }
 
         if(urls.size() > 0) {
-            ParallelStream.stream(urls.keySet(), urlObj -> {
-                final String url = (String) urlObj;
+            new ParallelStream<String>().stream(urls.keySet(), url -> {
                 final int tableIndex = urls.get(url);
                 refreshList(url, tableIndex, year, startingMonth, startingDay);
             });

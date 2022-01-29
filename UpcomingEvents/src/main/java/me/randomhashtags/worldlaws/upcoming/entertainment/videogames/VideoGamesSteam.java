@@ -41,8 +41,7 @@ public final class VideoGamesSteam extends UpcomingEventController {
             if(max > 0) {
                 final UpcomingEventType eventType = getType();
                 final HashSet<VideoGameRelease> releases = new HashSet<>();
-                ParallelStream.stream(elements, elementObj -> {
-                    final Element element = (Element) elementObj;
+                new ParallelStream<Element>().stream(elements, element -> {
                     String href = element.attr("href");
                     final String[] hrefValues = href.split("/");
                     href = href.substring(0, href.length()-hrefValues[hrefValues.length-1].length()-1);

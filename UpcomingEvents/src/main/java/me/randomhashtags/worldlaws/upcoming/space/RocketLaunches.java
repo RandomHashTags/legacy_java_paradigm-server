@@ -29,8 +29,7 @@ public final class RocketLaunches extends LoadedUpcomingEventController {
             final LocalDate today = LocalDate.now();
             final JSONArray launches = json.getJSONArray("results");
             final EventSources sources = new EventSources(new EventSource("The Space Devs", "https://thespacedevs.com"));
-            ParallelStream.stream(launches.spliterator(), obj -> {
-                final JSONObject launchJSON = (JSONObject) obj;
+            new ParallelStream<JSONObject>().stream(launches.spliterator(), launchJSON -> {
                 final JSONObject rocketConfigurationJSON = launchJSON.getJSONObject("rocket").getJSONObject("configuration"), padJSON = launchJSON.getJSONObject("pad");
                 final JSONObject serviceProvider = launchJSON.getJSONObject("launch_service_provider");
                 final String windowStart = launchJSON.getString("window_start"), windowEnd = launchJSON.getString("window_end");

@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
+import me.randomhashtags.worldlaws.country.SovereignStateService;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
@@ -96,19 +97,15 @@ public final class Countries implements WLServer {
 
     private void updateNonStaticInformation() {
         final long started = System.currentTimeMillis();
-        ParallelStream.stream(CountryServices.NONSTATIC_SERVICES, serviceObj -> {
-            final CountryService service = (CountryService) serviceObj;
-            service.loadData();
-        });
-        for(CustomCountry country : countriesMap.values()) {
-            country.updateNonStaticInformation();
-        }
+        new ParallelStream<CountryService>().stream(CountryServices.NONSTATIC_SERVICES, SovereignStateService::loadData);
+        new ParallelStream<CustomCountry>().stream(countriesMap.values(), CustomCountry::updateNonStaticInformation);
         WLLogger.logInfo("Countries - refreshed " + countriesMap.size() + " non-static country information (took " + (System.currentTimeMillis()-started) + "ms)");
     }
 
     private String getCountries() {
         if(countriesCacheJSON == null) {
             loadCountries();
+            updateNonStaticInformation();
         }
         return countriesCacheJSON;
     }

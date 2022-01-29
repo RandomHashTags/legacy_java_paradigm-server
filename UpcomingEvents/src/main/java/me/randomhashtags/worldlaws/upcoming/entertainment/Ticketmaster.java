@@ -66,8 +66,7 @@ public enum Ticketmaster implements RestAPI {
             final JSONObject json = getEvents();
             if(json != null) {
                 final JSONArray embeddedEvents = json.getJSONObject("_embedded").getJSONArray("events");
-                ParallelStream.stream(embeddedEvents.spliterator(), objectJSON -> {
-                    final JSONObject eventJSON = (JSONObject) objectJSON;
+                new ParallelStream<JSONObject>().stream(embeddedEvents.spliterator(), eventJSON -> {
                     if(!eventJSON.getBoolean("test") && eventJSON.has("priceRanges") && eventJSON.has("ticketLimit") && eventJSON.has("seatmap")) {
                         final JSONObject dateStartJSON = eventJSON.getJSONObject("dates").getJSONObject("start");
                         if(dateStartJSON.has("dateTime")) {
@@ -121,8 +120,7 @@ public enum Ticketmaster implements RestAPI {
         }
         private HashSet<TicketmasterVenue> getVenuesFrom(JSONArray array) {
             final HashSet<TicketmasterVenue> venues = new HashSet<>();
-            ParallelStream.stream(array.spliterator(), obj -> {
-                final JSONObject json = (JSONObject) obj;
+            new ParallelStream<JSONObject>().stream(array.spliterator(), json -> {
                 if(!json.getBoolean("test")) {
                     final String name = json.getString("name");
                     final String url = json.getString("url");

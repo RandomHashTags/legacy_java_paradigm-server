@@ -82,8 +82,7 @@ public final class Services implements WLServer {
             add("movers");
         }};
         final HashSet<String> values = new HashSet<>();
-        ParallelStream.stream(requests, requestObj -> {
-            final String request = (String) requestObj;
+        new ParallelStream<String>().stream(requests, request -> {
             final String string = getStockMarketResponse(version, request);
             if(string != null) {
                 final String target = "\"" + request + "\":" + string;

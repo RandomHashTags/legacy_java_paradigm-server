@@ -104,8 +104,7 @@ public enum YahooFinance implements StockService {
         final JSONObject quoteResponse = json.getJSONObject("quoteResponse");
         final JSONArray results = quoteResponse.getJSONArray("result");
         final int max = results.length();
-        ParallelStream.stream(results.spliterator(), obj -> {
-            final JSONObject targetQuote = (JSONObject) obj;
+        new ParallelStream<JSONObject>().stream(results.spliterator(), targetQuote -> {
             final String symbol = targetQuote.getString("symbol");
             final String shortName = targetQuote.getString("shortName");
             final String longName = targetQuote.getString("longName");

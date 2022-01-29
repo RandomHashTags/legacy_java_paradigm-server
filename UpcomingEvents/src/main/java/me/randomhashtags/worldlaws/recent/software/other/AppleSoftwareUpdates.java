@@ -38,8 +38,7 @@ public final class AppleSoftwareUpdates extends RecentEventController {
                     put(" (Details available soon)", "Details available soon");
                     put(" This update has no published CVE entries.", "This update doesn't share its patch notes");
                 }};
-                ParallelStream.stream(updateElements, updateElementObj -> {
-                    final Element updateElement = (Element) updateElementObj;
+                new ParallelStream<Element>().stream(updateElements, updateElement -> {
                     final Elements tds = updateElement.select("td");
                     final Element releaseDateElement = tds.get(2);
                     final String releaseDateString = releaseDateElement.text();

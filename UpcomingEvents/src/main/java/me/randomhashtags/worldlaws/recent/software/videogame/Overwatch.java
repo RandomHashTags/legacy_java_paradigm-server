@@ -1,6 +1,5 @@
 package me.randomhashtags.worldlaws.recent.software.videogame;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
@@ -31,9 +30,10 @@ public enum Overwatch implements VideoGameUpdateController {
     }
 
     @Override
-    public void refresh(LocalDate startingDate, CompletionHandler handler) {
+    public VideoGameUpdate refresh(LocalDate startingDate) {
         final String url = getUpdatePageURL();
         final Document doc = getDocument(url);
+        VideoGameUpdate update = null;
         if(doc != null) {
             final Elements patchElements = doc.select("section section.NotchPage-body div.Container div.PatchNotes-body div.PatchNotes-patch");
             final EventSources sources = new EventSources(new EventSource("Overwatch: Patch Notes", url));
@@ -51,12 +51,11 @@ public enum Overwatch implements VideoGameUpdateController {
                     }
                     String month = date.getMonth().name();
                     month = month.charAt(0) + month.substring(1, 3).toLowerCase() + " " + day;
-                    final VideoGameUpdate update = new VideoGameUpdate(eventDate, month + " Patch Notes", description.toString(), null, sources);
-                    handler.handleObject(update);
-                    return;
+                    update = new VideoGameUpdate(eventDate, month + " Patch Notes", description.toString(), null, sources);
+                    break;
                 }
             }
         }
-        handler.handleObject(null);
+        return update;
     }
 }

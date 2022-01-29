@@ -55,8 +55,7 @@ public enum NASA_EONET implements WLService {
             final String unitedStatesBackendID = WLCountry.UNITED_STATES.getBackendID();
             final JSONArray eventsArray = json.getJSONArray("events");
             amount += eventsArray.length();
-            ParallelStream.stream(eventsArray.spliterator(), obj -> {
-                final JSONObject eventJSON = (JSONObject) obj;
+            new ParallelStream<JSONObject>().stream(eventsArray.spliterator(), eventJSON -> {
                 String place = eventJSON.getString("title").replace("&#039;", "'");
                 if(!place.startsWith("Iceberg ")) {
                     final String[] startingReplacements = new String[] {

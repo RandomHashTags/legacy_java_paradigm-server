@@ -19,14 +19,17 @@ public enum Statistics implements Jsonable, QuotaHandler {
     private JSONObject getLatestLogJSON(CompletionHandler loadHandler) {
         final LocalDateTime now = LocalDateTime.now();
         final String zoneID = ZoneId.systemDefault().getDisplayName(TextStyle.SHORT, Locale.ENGLISH);
-        final String folderPath = FOLDER.getFolderName().replace("%year%", Integer.toString(now.getYear())).replace("%month%", now.getMonth().name()).replace("%day%", Integer.toString(now.getDayOfMonth()));
-        fileName = now.getHour() + "_" + now.getMinute() + "_" + zoneID;
+        final String folderPath = FOLDER.getFolderName().replace("%year%", Integer.toString(now.getYear())).replace("%month%", now.getMonth().name()).replace("%day%", Integer.toString(now.getDayOfMonth())).replace("%type%", "statistics");
+        fileName = now.getHour() + "_" + zoneID;
         FOLDER.setCustomFolderName(fileName, folderPath);
         return getJSONObject(FOLDER, fileName, loadHandler);
     }
-    public void save(String serverName, HashSet<String> totalUniqueIdentifiers, ConcurrentHashMap<String, HashSet<String>> uniqueRequests, ConcurrentHashMap<String, Integer> totalRequests) {
+    public void save(long started, String serverName, HashSet<String> totalUniqueIdentifiers, ConcurrentHashMap<String, HashSet<String>> uniqueRequests, ConcurrentHashMap<String, Integer> totalRequests) {
         if(!QUOTA_REQUESTS.isEmpty()) {
             saveQuota();
+        }
+        if(totalRequests.isEmpty()) {
+            return;
         }
         final JSONObject json = getLatestLogJSON(new CompletionHandler() {
             @Override
@@ -84,6 +87,7 @@ public enum Statistics implements Jsonable, QuotaHandler {
         json.put("_totalUniqueRequests", totalUniqueRequests);
         json.put("_totalUniqueIdentifiers", totalUniqueIdentifiers.size());
         Jsonable.setFileJSONObject(FOLDER, fileName, json);
+        WLLogger.logInfo(serverName + " - Saved statistics (took " + (System.currentTimeMillis()-started) + "ms)");
     }
     public JSONObject getTrendingJSON() {
         final JSONObject json = getLatestLogJSON(null);

@@ -72,8 +72,7 @@ public enum WeatherUSA implements WeatherController {
 
                 final HashSet<String> zoneIDs = new HashSet<>();
                 final HashSet<JSONObject> jsons = new HashSet<>();
-                ParallelStream.stream(array.spliterator(), obj -> {
-                    final JSONObject jsonAlert = (JSONObject) obj;
+                new ParallelStream<JSONObject>().stream(array.spliterator(), jsonAlert -> {
                     final JSONObject properties = jsonAlert.getJSONObject("properties");
                     final JSONArray affectedZones = properties.getJSONArray("affectedZones");
                     zoneIDs.addAll(getZoneIDs(affectedZones));
@@ -93,25 +92,30 @@ public enum WeatherUSA implements WeatherController {
         final int amount = zoneIDs.size();
         if(amount > 0) {
             final long started = System.currentTimeMillis();
+            final String suffix = " " + amount + " zone" + (amount == 1 ? "" : "s");
             final HashSet<String> officeIDs = new HashSet<>();
-            WLLogger.logInfo("WeatherUSA - loading " + amount + " zone(s)...");
+            WLLogger.logInfo("WeatherUSA - loading" + suffix + "...");
             for(String zoneID : zoneIDs) {
-                final JSONObject zone = getOrLoadWeatherZone(zoneID);
-                final JSONObject zoneProperties = zone.getJSONObject("properties");
-                if(zoneProperties.get("state") == null) {
-                    final String identifier = zoneProperties.getJSONArray("forecastOffices").getString(0);
-                    officeIDs.add(identifier);
-                }
+                processZone(zoneID, officeIDs);
+                // to prevent spam
                 try {
                     Thread.sleep(500);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
             }
-            WLLogger.logInfo("WeatherUSA - loaded " + amount + " zone(s) (took " + (System.currentTimeMillis()-started) + "ms)");
+            WLLogger.logInfo("WeatherUSA - loaded" + suffix + " (took " + (System.currentTimeMillis()-started) + "ms)");
             if(!officeIDs.isEmpty()) {
                 processZoneOffices(officeIDs);
             }
+        }
+    }
+    private void processZone(String zoneID, HashSet<String> officeIDs) {
+        final JSONObject zone = getOrLoadWeatherZone(zoneID);
+        final JSONObject zoneProperties = zone.getJSONObject("properties");
+        if(zoneProperties.get("state") == null) {
+            final String identifier = zoneProperties.getJSONArray("forecastOffices").getString(0);
+            officeIDs.add(identifier);
         }
     }
     private void processZoneOffices(Collection<String> officeIDs) {
@@ -121,7 +125,8 @@ public enum WeatherUSA implements WeatherController {
         final int amount = officeIDs.size();
         if(amount > 0) {
             final long started = System.currentTimeMillis();
-            WLLogger.logInfo("WeatherUSA - loading " + amount + " forecast office(s)...");
+            final String suffix = " " + amount + " forecast office" + (amount == 1 ? "" : "s");
+            WLLogger.logInfo("WeatherUSA - loading" + suffix + "...");
             for(String identifier : officeIDs) {
                 getForecastOffice(identifier);
                 try {
@@ -130,7 +135,7 @@ public enum WeatherUSA implements WeatherController {
                     e.printStackTrace();
                 }
             }
-            WLLogger.logInfo("WeatherUSA - loaded " + amount + " forecast office(s) (took " + (System.currentTimeMillis()-started) + "ms)");
+            WLLogger.logInfo("WeatherUSA - loaded" + suffix + " (took " + (System.currentTimeMillis()-started) + "ms)");
         }
     }
     private String processAlerts(HashSet<JSONObject> jsons) {
@@ -139,18 +144,9 @@ public enum WeatherUSA implements WeatherController {
         final ConcurrentHashMap<String, ConcurrentHashMap<String, WeatherEvent>> subdivisionEventsMap = new ConcurrentHashMap<>();
         final ConcurrentHashMap<String, ConcurrentHashMap<String, HashSet<WeatherPreAlert>>> territoryPreAlertsMap = new ConcurrentHashMap<>();
 
-        ParallelStream.stream(jsons, jsonObj -> {
-            final JSONObject json = (JSONObject) jsonObj;
+        new ParallelStream<JSONObject>().stream(jsons, json -> {
             final String id = json.getString("id").split("/alerts/")[1];
             final JSONObject properties = json.getJSONObject("properties");
-
-            final JSONArray affectedZones = properties.getJSONArray("affectedZones");
-            final HashSet<String> zoneIDs = getZoneIDs(affectedZones);
-            final HashSet<WeatherZone> zones = new HashSet<>();
-            for(String zoneID : zoneIDs) {
-                final WeatherZone zone = getWeatherZone(zoneID);
-                zones.add(zone);
-            }
 
             final String severityString = properties.getString("severity"), severity = severityString.equals("Unknown") ? "-1" : severityString;
             final String certainty = properties.getString("certainty");
@@ -176,6 +172,14 @@ public enum WeatherUSA implements WeatherController {
 
             final int defcon = getSeverityDEFCON(severity);
             eventsMap.putIfAbsent(event, defcon);
+
+            final JSONArray affectedZones = properties.getJSONArray("affectedZones");
+            final HashSet<String> zoneIDs = getZoneIDs(affectedZones);
+            final HashSet<WeatherZone> zones = new HashSet<>();
+            for(String zoneID : zoneIDs) {
+                final WeatherZone zone = getWeatherZone(zoneID);
+                zones.add(zone);
+            }
 
             final HashSet<String> subdivisions = new HashSet<>();
             for(WeatherZone zone : zones) {

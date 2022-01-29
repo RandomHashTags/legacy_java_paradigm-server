@@ -124,8 +124,7 @@ public enum USCongress implements Jsoupable, Jsonable {
             final int max = items.size();
             if(max > 0) {
                 final HashSet<PreCongressBill> bills = new HashSet<>();
-                ParallelStream.stream(items, elementObj -> {
-                    final Element element = (Element) elementObj;
+                new ParallelStream<Element>().stream(items, element -> {
                     final PreCongressBill bill = getPreCongressBillFrom(element);
                     bills.add(bill);
                 });
@@ -359,8 +358,7 @@ public enum USCongress implements Jsoupable, Jsonable {
             if(!table.isEmpty()) {
                 final USPoliticians politicians = USPoliticians.INSTANCE;
                 final HashSet<String> cosponsors = new HashSet<>();
-                ParallelStream.stream(table, elementObj -> {
-                    final Element elements = (Element) elementObj;
+                new ParallelStream<Element>().stream(table, elements -> {
                     final String profileSlug = elements.attr("href").split("https://www\\.congress\\.gov")[1];
                     final String string = politicians.get(elements, profileSlug);
                     cosponsors.add(string);

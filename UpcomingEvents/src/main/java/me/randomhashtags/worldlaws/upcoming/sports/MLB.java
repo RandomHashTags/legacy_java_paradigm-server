@@ -35,8 +35,7 @@ public final class MLB extends USAUpcomingEventController {
             final Elements dates = doc.select("div.ScheduleCollectionGridstyle__SectionWrapper-sc-c0iua4-0");
             final int max = dates.size();
             if(max > 0) {
-                ParallelStream.stream(dates, dateElementObj -> {
-                    final Element dateElement = (Element) dateElementObj;
+                new ParallelStream<Element>().stream(dates, dateElement -> {
                     final String previousElementString = dateElement.previousElementSibling().text();
                     final String[] values = previousElementString.split(" ");
                     final Month targetMonth = Month.valueOf(values[1].toUpperCase());

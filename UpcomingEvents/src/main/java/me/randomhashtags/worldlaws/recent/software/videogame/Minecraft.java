@@ -1,7 +1,5 @@
 package me.randomhashtags.worldlaws.recent.software.videogame;
 
-import me.randomhashtags.worldlaws.CompletionHandler;
-
 import java.time.LocalDate;
 
 public enum Minecraft implements VideoGameUpdateController {
@@ -23,6 +21,7 @@ public enum Minecraft implements VideoGameUpdateController {
     }
 
     @Override
-    public void refresh(LocalDate startingDate, CompletionHandler handler) {
+    public VideoGameUpdate refresh(LocalDate startingDate) {
+        return null;
     }
 }
