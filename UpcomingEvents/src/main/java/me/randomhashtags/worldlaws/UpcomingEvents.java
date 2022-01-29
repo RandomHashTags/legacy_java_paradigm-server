@@ -66,14 +66,8 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final RecentEvents events = RecentEvents.INSTANCE;
-        events.refresh(60);
-        try {
-            Thread.sleep(1000*5);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        events.refresh(7);
+        final JSONObject json = new Movies().getIMDbMovieDetails("The Fallout", 2022);
+        WLLogger.logInfo("UpcomingEvents;test;json=" + json);
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {

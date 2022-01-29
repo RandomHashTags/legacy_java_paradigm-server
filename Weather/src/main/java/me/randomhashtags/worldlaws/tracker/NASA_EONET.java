@@ -188,6 +188,8 @@ public enum NASA_EONET implements WLService {
             put("Hunga Tonga Hunga Ha'apai", "Hunga_Tonga");
             put("Piton de la Fournaise", "Piton_de_la_Fournaise");
             put("Wolf", "Wolf_Volcano");
+            put("Barren Island", "Barren_Island_(Andaman_Islands)");
+            put("Turrialba", "Turrialba_Volcano");
         }};
     }
     private String getLatestVolcanoDescription(String url) {

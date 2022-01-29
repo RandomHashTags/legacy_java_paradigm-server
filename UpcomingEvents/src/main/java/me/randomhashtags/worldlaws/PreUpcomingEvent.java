@@ -47,7 +47,7 @@ public final class PreUpcomingEvent {
         this.id = id;
         this.title = LocalServer.fixEscapeValues(title);
         this.url = url;
-        this.tag = LocalServer.fixEscapeValues(tag);
+        this.tag = tag;
         this.countries = countries;
         this.customValues = customValues;
     }
@@ -61,8 +61,11 @@ public final class PreUpcomingEvent {
     public String getURL() {
         return url;
     }
-    public String getTag() {
+    public String getUnfixedTag() {
         return tag;
+    }
+    public String getTag() {
+        return LocalServer.fixEscapeValues(tag);
     }
     public List<String> getCountries() {
         return countries;
@@ -107,7 +110,7 @@ public final class PreUpcomingEvent {
     public String toStringWithImageURL(UpcomingEventType type, String imageURL) {
         final String[] values = id.split("\\.");
         return "\"" + id.substring(values[0].length()+1) + "\":{" +
-                (tag != null && !tag.equals(title) ? "\"tag\":\"" + tag + "\"," : "") +
+                (tag != null && !tag.equals(title) ? "\"tag\":\"" + getTag() + "\"," : "") +
                 (imageURL != null ? "\"imageURL\":\"" + optimizeImageURL(type, imageURL) + "\"," : "") +
                 (countries != null ? "\"countries\":" + getCountriesArray() + "," : "") +
                 (customValues != null ? "\"customValues\":" + getCustomValuesJSON() + "," : "") +

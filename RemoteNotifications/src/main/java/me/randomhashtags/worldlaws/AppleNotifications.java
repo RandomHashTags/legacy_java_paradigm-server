@@ -38,6 +38,11 @@ public enum AppleNotifications implements DeviceTokenController {
         deviceTokens.add(deviceToken);
     }
 
+    @Override
+    public void unregister(String deviceToken) {
+        deviceTokens.remove(deviceToken);
+    }
+
     private String getConnectionToken() {
         final JSONObject json = getJSONObject(Folder.OTHER, "appleRemoteNotificationsConnectionToken", new CompletionHandler() {
             @Override

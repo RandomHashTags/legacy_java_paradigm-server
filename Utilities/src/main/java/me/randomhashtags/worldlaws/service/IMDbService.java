@@ -20,30 +20,34 @@ public interface IMDbService extends DataValues {
         final String url = "https://www.imdb.com/find?q=" + lowercaseTitle.replace(" ", "+");
         final Elements elements = Jsoupable.getStaticDocumentElements(Folder.OTHER, url, false, "div div.redesign div.pagecontent div div div.article div.findSection table.findList tr.findResult");
         JSONObject json = null;
-        String id = null;
-        Element resultTextElement = null;
         if(elements != null) {
-            for(Element element : elements) {
-                resultTextElement = element.selectFirst("td.result_text");
-                if(resultTextElement != null) {
-                    final String text = resultTextElement.text().toLowerCase();
-                    if(hasMovieTitle(lowercaseTitle, year, text)) {
-                        id = resultTextElement.selectFirst("a[href]").attr("href").split("/")[2];
-                        json = getMovie(id);
-                        break;
-                    }
-                }
+            json = getFirst(elements, lowercaseTitle, year);
+            if(json == null) {
+                json = getFirst(elements, lowercaseTitle, year-1);
             }
         }
         if(json == null) {
             final String string = "title=\"" + title + "\"\n" +
                     "lowercaseTitle=\"" + lowercaseTitle + "\"\n" +
                     "elements==null=" + (elements == null) + "\n" +
-                    "resultTextElement==null=" + (resultTextElement == null) + "\n" +
                     "url=\"" + url + "\"\n" +
-                    "id=\"" + id + "\"\n" +
                     "year=" + year;
             WLUtilities.saveLoggedError("IMDbService", "failed to get movie details with\n\n" + string);
+        }
+        return json;
+    }
+    private JSONObject getFirst(Elements elements, String lowercaseTitle, int year) {
+        JSONObject json = null;
+        for(Element element : elements) {
+            final Element resultTextElement = element.selectFirst("td.result_text");
+            if(resultTextElement != null) {
+                final String text = resultTextElement.text().toLowerCase();
+                if(hasMovieTitle(lowercaseTitle, year, text)) {
+                    final String id = resultTextElement.selectFirst("a[href]").attr("href").split("/")[2];
+                    json = getMovie(id);
+                    break;
+                }
+            }
         }
         return json;
     }

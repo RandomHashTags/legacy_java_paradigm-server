@@ -28,64 +28,62 @@ public enum Statistics implements Jsonable, QuotaHandler {
         if(!QUOTA_REQUESTS.isEmpty()) {
             saveQuota();
         }
-        if(!totalRequests.isEmpty()) {
-            final JSONObject json = getLatestLogJSON(new CompletionHandler() {
-                @Override
-                public JSONObject loadJSONObject() {
-                    return new JSONObject();
-                }
-            });
-
-            final JSONObject uniqueJSON = json.has("unique") ? json.getJSONObject("unique") : new JSONObject();
-            int totalUniqueRequests = 0;
-            final JSONObject uniqueServerValuesJSON = uniqueJSON.has(serverName) ? uniqueJSON.getJSONObject(serverName) : new JSONObject();
-            for(Map.Entry<String, HashSet<String>> value : uniqueRequests.entrySet()) {
-                final String key = value.getKey();
-                final String[] strings = key.split("/");
-                final String version = strings[0], request = key.substring(version.length()+1);
-                final JSONObject versionJSON = uniqueServerValuesJSON.has(version) ? uniqueServerValuesJSON.getJSONObject(version) : new JSONObject();
-                final JSONObject targetJSON = versionJSON.has(request) ? versionJSON.getJSONObject(request) : new JSONObject();
-                final JSONArray existingRequestValue = targetJSON.has("identifiers") ? targetJSON.getJSONArray("identifiers") : new JSONArray();
-                final List<Object> list = existingRequestValue.toList();
-                for(String string : value.getValue()) {
-                    if(!list.contains(string)) {
-                        existingRequestValue.put(string);
-                    }
-                }
-                final int existingUniqueRequests = existingRequestValue.length();
-                totalUniqueRequests += existingUniqueRequests;
-                targetJSON.put("requests", existingUniqueRequests);
-                targetJSON.put("identifiers", existingRequestValue);
-                versionJSON.put(request, targetJSON);
-                uniqueServerValuesJSON.put(version, versionJSON);
+        final JSONObject json = getLatestLogJSON(new CompletionHandler() {
+            @Override
+            public JSONObject loadJSONObject() {
+                return new JSONObject();
             }
-            uniqueJSON.put(serverName, uniqueServerValuesJSON);
-            json.put("unique", uniqueJSON);
+        });
 
-            final JSONObject totalJSON = json.has("total") ? json.getJSONObject("total") : new JSONObject();
-            if(totalJSON.has("uniqueIdentifiers")) {
-                for(Object obj : totalJSON.getJSONArray("uniqueIdentifiers")) {
-                    totalUniqueIdentifiers.add((String) obj);
+        final JSONObject uniqueJSON = json.has("unique") ? json.getJSONObject("unique") : new JSONObject();
+        int totalUniqueRequests = 0;
+        final JSONObject uniqueServerValuesJSON = uniqueJSON.has(serverName) ? uniqueJSON.getJSONObject(serverName) : new JSONObject();
+        for(Map.Entry<String, HashSet<String>> value : uniqueRequests.entrySet()) {
+            final String key = value.getKey();
+            final String[] strings = key.split("/");
+            final String version = strings[0], request = key.substring(version.length()+1);
+            final JSONObject versionJSON = uniqueServerValuesJSON.has(version) ? uniqueServerValuesJSON.getJSONObject(version) : new JSONObject();
+            final JSONObject targetJSON = versionJSON.has(request) ? versionJSON.getJSONObject(request) : new JSONObject();
+            final JSONArray existingRequestValue = targetJSON.has("identifiers") ? targetJSON.getJSONArray("identifiers") : new JSONArray();
+            final List<Object> list = existingRequestValue.toList();
+            for(String string : value.getValue()) {
+                if(!list.contains(string)) {
+                    existingRequestValue.put(string);
                 }
             }
-            totalJSON.put("uniqueIdentifiers", totalUniqueIdentifiers);
-            int totalTotalRequests = 0;
-            final JSONObject totalServerValuesJSON = totalJSON.has(serverName) ? totalJSON.getJSONObject(serverName) : new JSONObject();
-            for(Map.Entry<String, Integer> value : totalRequests.entrySet()) {
-                final String request = value.getKey();
-                final int existingRequestValue = totalServerValuesJSON.has(request) ? totalServerValuesJSON.getInt(request) : 0;
-                final int requestValue = value.getValue(), total = existingRequestValue + requestValue;
-                totalTotalRequests += total;
-                totalServerValuesJSON.put(request, total);
-            }
-            totalJSON.put(serverName, totalServerValuesJSON);
-            json.put("total", totalJSON);
-
-            json.put("_totalRequests", totalTotalRequests);
-            json.put("_totalUniqueRequests", totalUniqueRequests);
-            json.put("_totalUniqueIdentifiers", totalUniqueIdentifiers.size());
-            Jsonable.setFileJSONObject(FOLDER, fileName, json);
+            final int existingUniqueRequests = existingRequestValue.length();
+            totalUniqueRequests += existingUniqueRequests;
+            targetJSON.put("requests", existingUniqueRequests);
+            targetJSON.put("identifiers", existingRequestValue);
+            versionJSON.put(request, targetJSON);
+            uniqueServerValuesJSON.put(version, versionJSON);
         }
+        uniqueJSON.put(serverName, uniqueServerValuesJSON);
+        json.put("unique", uniqueJSON);
+
+        final JSONObject totalJSON = json.has("total") ? json.getJSONObject("total") : new JSONObject();
+        if(totalJSON.has("uniqueIdentifiers")) {
+            for(Object obj : totalJSON.getJSONArray("uniqueIdentifiers")) {
+                totalUniqueIdentifiers.add((String) obj);
+            }
+        }
+        totalJSON.put("uniqueIdentifiers", totalUniqueIdentifiers);
+        int totalTotalRequests = 0;
+        final JSONObject totalServerValuesJSON = totalJSON.has(serverName) ? totalJSON.getJSONObject(serverName) : new JSONObject();
+        for(Map.Entry<String, Integer> value : totalRequests.entrySet()) {
+            final String request = value.getKey();
+            final int existingRequestValue = totalServerValuesJSON.has(request) ? totalServerValuesJSON.getInt(request) : 0;
+            final int requestValue = value.getValue(), total = existingRequestValue + requestValue;
+            totalTotalRequests += total;
+            totalServerValuesJSON.put(request, total);
+        }
+        totalJSON.put(serverName, totalServerValuesJSON);
+        json.put("total", totalJSON);
+
+        json.put("_totalRequests", totalTotalRequests);
+        json.put("_totalUniqueRequests", totalUniqueRequests);
+        json.put("_totalUniqueIdentifiers", totalUniqueIdentifiers.size());
+        Jsonable.setFileJSONObject(FOLDER, fileName, json);
     }
     public JSONObject getTrendingJSON() {
         final JSONObject json = getLatestLogJSON(null);
@@ -115,6 +113,7 @@ public enum Statistics implements Jsonable, QuotaHandler {
                 }
             }
         }
+        FOLDER.removeCustomFolderName(fileName);
         return trendingJSON;
     }
 

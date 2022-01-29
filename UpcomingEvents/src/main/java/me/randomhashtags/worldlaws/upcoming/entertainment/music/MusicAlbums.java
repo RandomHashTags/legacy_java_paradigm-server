@@ -145,7 +145,7 @@ public final class MusicAlbums extends UpcomingEventController implements Spotif
         final Document albumDoc = getDocument(url);
         String string = null;
         if(albumDoc != null) {
-            final String artist = preUpcomingEvent.getTag(), album = preUpcomingEvent.getTitle();
+            final String artist = preUpcomingEvent.getUnfixedTag(), album = preUpcomingEvent.getTitle();
             final EventSources sources = new EventSources();
 
             final String heading = albumDoc.select("div.mw-body h1.firstHeading").get(0).text();
