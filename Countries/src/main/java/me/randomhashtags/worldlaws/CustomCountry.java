@@ -20,6 +20,8 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public final class CustomCountry implements SovereignState {
 
+    public static boolean LOADED_NON_STATIC_INFORMATION = false;
+
     private final String unStatus, sovereigntyDispute, shortName, name;
     private String flagEmoji;
     private HashSet<Integer> governmentAdministrations;
@@ -145,6 +147,13 @@ public final class CustomCountry implements SovereignState {
     }
 
     public void updateNonStaticInformation() {
+        if(information == null) {
+            return;
+        }
+        if(!LOADED_NON_STATIC_INFORMATION) {
+            LOADED_NON_STATIC_INFORMATION = true;
+            new ParallelStream<CountryService>().stream(CountryServices.NONSTATIC_SERVICES, SovereignStateService::loadData);
+        }
         final SovereignStateInformationType resourcesType = SovereignStateInformationType.RESOURCES_NONSTATIC;
         final String backendID = getBackendID();
 

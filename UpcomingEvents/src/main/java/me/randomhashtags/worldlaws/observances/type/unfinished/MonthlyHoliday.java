@@ -74,8 +74,8 @@ public enum MonthlyHoliday implements IHoliday {
     @Override
     public String[] getAliases() {
         switch (this) {
-            case COPD_AWARENESS_MONTH: return new String[] { "National Chronic Obstructive Pulmonary Disease Awareness Month" };
-            case BLACK_HISTORY_MONTH: return new String[] { "African-American History Month" };
+            case COPD_AWARENESS_MONTH: return collectAliases("National Chronic Obstructive Pulmonary Disease Awareness Month");
+            case BLACK_HISTORY_MONTH: return collectAliases("African-American History Month");
             default: return null;
         }
     }

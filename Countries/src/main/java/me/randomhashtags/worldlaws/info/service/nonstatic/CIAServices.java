@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.info.service.CountryService;
+import org.json.JSONObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -12,11 +13,17 @@ import java.util.HashMap;
 
 public enum CIAServices implements CountryService {
     INSTANCE;
+    // Natural Resources = https://www.cia.gov/the-world-factbook/field/natural-resources/
+    // Natural Hazards = https://www.cia.gov/the-world-factbook/field/natural-hazards/
+    // Current Environment Issues = https://www.cia.gov/the-world-factbook/field/environment-current-issues
 
-    private final HashMap<String, String> backgrounds;
+
+    private final HashMap<String, String> backgrounds, flagDetails, nationalAnthems;
 
     CIAServices() {
         backgrounds = new HashMap<>();
+        flagDetails = new HashMap<>();
+        nationalAnthems = new HashMap<>();
     }
 
     @Override
@@ -37,27 +44,32 @@ public enum CIAServices implements CountryService {
 
     @Override
     public String getCountryValue(String countryBackendID) {
-        String string = backgrounds.get(countryBackendID.replace(" ", "").toLowerCase());
-        if(string != null) {
-            string = "\"CIA\":{" +
-                    "\"background\":\"" + string + "\"" +
-                    "}";
+        final String identifier = countryBackendID.replace(" ", "").toLowerCase();
+        final JSONObject json = new JSONObject();
+        if(backgrounds.containsKey(identifier)) {
+            json.put("background", backgrounds.get(identifier));
         }
-        return string;
+        if(flagDetails.containsKey(identifier)) {
+            json.put("flagDetails", flagDetails.get(identifier));
+        }
+        if(nationalAnthems.containsKey(identifier)) {
+            json.put("nationalAnthemURL", nationalAnthems.get(identifier));
+        }
+        return json.isEmpty() ? null : "\"CIA\":" + json.toString();
     }
 
     @Override
     public EventSources getResources(String shortName) {
         final TravelValues values = loadTravelValues(shortName);
-        return getResourcesFrom(values);
+        return getResourcesFrom(shortName, values);
     }
 
-    private EventSources getResourcesFrom(TravelValues travelValues) {
+    private EventSources getResourcesFrom(String shortName, TravelValues travelValues) {
         final String domain = "https://www.cia.gov";
         return new EventSources(
+                new EventSource("CIA: " + shortName, travelValues.ciaCountryURL),
                 new EventSource("CIA Summary", domain + travelValues.summaryURL),
                 new EventSource("CIA Travel Facts", domain + travelValues.travelFactsURL)
-
         );
     }
 
@@ -86,11 +98,12 @@ public enum CIAServices implements CountryService {
     }
 
     private TravelValues loadTravelValues(String shortName) {
-        final String prefix = "https://www.cia.gov/";
-        final String url = prefix + "the-world-factbook/countries/" + shortName.toLowerCase().replace(" ", "-").replace(",", "") + "/";
-        final String missingMessage = "CIAServices - missing elements for country with short name \"" + shortName + "\", and url \"" + url + "\"!";
+        final String domain = "https://www.cia.gov/";
+        final String identifier = shortName.toLowerCase().replace(" ", "").replace(",", "");
+        final String url = domain + "the-world-factbook/countries/" + identifier + "/";
         final Document doc = getDocument(Folder.OTHER, url, false);
         TravelValues travelValues = null;
+        String flagURL = null;
         if(doc != null) {
             final Elements elements = doc.select("div.thee-link-container a");
             if(!elements.isEmpty()) {
@@ -101,22 +114,45 @@ public enum CIAServices implements CountryService {
                         summaryURL = href;
                     } else if(href.endsWith("-travel-facts.pdf")) {
                         travelFactsURL = href;
+                    } else if(href.endsWith("/flag")) {
+                        flagURL = href;
                     }
                 }
-                travelValues = new TravelValues(summaryURL, travelFactsURL);
-            } else {
-                WLLogger.logError(this, missingMessage);
+                travelValues = new TravelValues(url, summaryURL, travelFactsURL);
             }
-        } else {
+            final Element nationalAnthemElement = doc.selectFirst("span.card-exposed__text div audio");
+            if(nationalAnthemElement != null) {
+                final String nationalAnthemURL = domain + nationalAnthemElement.attr("src").substring(1);
+                nationalAnthems.put(identifier, nationalAnthemURL);
+            }
+        }
+        if(travelValues == null) {
+            final String missingMessage = "CIAServices - missing elements for country with short name \"" + shortName + "\", and url \"" + url + "\"!";
             WLLogger.logError(this, missingMessage);
+        } else {
+            if(flagURL != null) {
+                final Document flagDoc = getDocument(domain + flagURL.substring(1));
+                if(flagDoc != null) {
+                    final Elements paragraphs = flagDoc.selectFirst("div.mb0").select("p");
+                    final StringBuilder flagDescription = new StringBuilder();
+                    boolean isFirst = true;
+                    for(Element element : paragraphs) {
+                        flagDescription.append(isFirst ? "" : "\n\n").append(element.text());
+                        isFirst = false;
+                    }
+                    final String string = LocalServer.fixEscapeValues(flagDescription.toString());
+                    flagDetails.put(identifier, string);
+                }
+            }
         }
         return travelValues;
     }
 
     private final class TravelValues {
-        private final String summaryURL, travelFactsURL;
+        private final String ciaCountryURL, summaryURL, travelFactsURL;
 
-        private TravelValues(String summaryURL, String travelFactsURL) {
+        private TravelValues(String ciaCountryURL, String summaryURL, String travelFactsURL) {
+            this.ciaCountryURL = ciaCountryURL;
             this.summaryURL = summaryURL;
             this.travelFactsURL = travelFactsURL;
         }

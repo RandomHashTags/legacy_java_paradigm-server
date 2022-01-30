@@ -137,4 +137,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
         final String targetArtist = artist.toLowerCase();
         return lowercaseArtists.contains(targetArtist) || lowercaseArtists.contains(targetArtist.replace("...", "")) || lowercaseArtists.contains(targetArtist.replace(" & ", " and ")) || lowercaseArtists.contains(targetArtist.replace(" and ", " & "));
     }
+    private String getFixedAlbum(String album) {
+        return album.replace(":", "%3A");
+    }
 }

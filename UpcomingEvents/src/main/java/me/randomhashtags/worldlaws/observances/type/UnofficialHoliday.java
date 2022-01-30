@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.observances.type;
 
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.observances.HolidaySource;
 import me.randomhashtags.worldlaws.observances.IHoliday;
 import me.randomhashtags.worldlaws.observances.custom.NationalDonutDay;
 
@@ -26,6 +27,8 @@ public enum UnofficialHoliday implements IHoliday {
     NATIONAL_HONEY_BEE_DAY,
     NATIONAL_INTERN_DAY,
     NATIONAL_NUDE_DAY,
+    NATIONAL_PUZZLE_DAY,
+    NATIONAL_SHOWER_WITH_A_FRIEND_DAY,
     SPIRIT_DAY,
     SQUARE_ROOT_DAY,
     SUPER_BOWL_SUNDAY,
@@ -87,6 +90,8 @@ public enum UnofficialHoliday implements IHoliday {
             case NATIONAL_HONEY_BEE_DAY: return country == WLCountry.UNITED_STATES ? getThird(DayOfWeek.SATURDAY, Month.AUGUST, year) : null;
             case NATIONAL_INTERN_DAY: return country == WLCountry.UNITED_STATES ? getLast(DayOfWeek.THURSDAY, Month.JULY, year) : null;
             case NATIONAL_NUDE_DAY: return new EventDate(Month.JULY, 14, year);
+            case NATIONAL_PUZZLE_DAY: return country == WLCountry.UNITED_STATES ? new EventDate(Month.JANUARY, 29, year) : null;
+            case NATIONAL_SHOWER_WITH_A_FRIEND_DAY: return country == WLCountry.UNITED_STATES ? new EventDate(Month.FEBRUARY, 5, year) : null;
 
             case SPIRIT_DAY:
                 if(country != null) {
@@ -136,5 +141,16 @@ public enum UnofficialHoliday implements IHoliday {
             }
         }
         return null;
+    }
+
+    @Override
+    public HolidaySource getSource() {
+        switch (this) {
+            case NATIONAL_PUZZLE_DAY:
+            case NATIONAL_SHOWER_WITH_A_FRIEND_DAY:
+                return HolidaySource.NATIONAL_TODAY;
+            default:
+                return HolidaySource.WIKIPEDIA;
+        }
     }
 }

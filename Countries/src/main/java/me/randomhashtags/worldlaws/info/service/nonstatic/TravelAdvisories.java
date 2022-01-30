@@ -2,7 +2,6 @@ package me.randomhashtags.worldlaws.info.service.nonstatic;
 
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
-import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
 import me.randomhashtags.worldlaws.country.WLCountry;
@@ -16,6 +15,7 @@ import java.util.HashMap;
 
 public enum TravelAdvisories implements CountryService {
     INSTANCE;
+    // US Embassies = https://www.usembassy.gov
 
     private HashMap<String, String> usTravelAdvisories;
 
@@ -87,14 +87,7 @@ public enum TravelAdvisories implements CountryService {
         final TravelAdvisory advisory = new TravelAdvisory();
         if(usTravelAdvisories.containsKey(countryBackendID)) {
             final String url = "https://travel.state.gov" + usTravelAdvisories.get(countryBackendID);
-            final Document doc = getDocument(url);
-            if(doc != null) {
-                final Element htmlElement = doc.selectFirst("div.tsg-rwd-content-page-parsysxxx div.EmergencyAlert div.tsg-rwd-emergency-alert-frame div.tsg-rwd-emergency-alert-text");
-                if(htmlElement != null) {
-                    final UnitedStatesTravelStateGovAdvisory usTravelAdvisory = new UnitedStatesTravelStateGovAdvisory(htmlElement.html());
-                    advisory.setUSTravelAdvisory(usTravelAdvisory);
-                }
-            }
+            advisory.setUSTravelAdvisory(new UnitedStatesTravelStateGovAdvisory(url));
         }
         String string = null;
         if(!advisory.isEmpty()) {
@@ -117,6 +110,7 @@ public enum TravelAdvisories implements CountryService {
         public String toString() {
             return toJSONObject().toString();
         }
+
         public JSONObject toJSONObject() {
             final JSONObject json = new JSONObject();
             json.put("U.S. Department of State", usTravelAdvisory.toJSONObject());
@@ -124,15 +118,15 @@ public enum TravelAdvisories implements CountryService {
         }
     }
     private final class UnitedStatesTravelStateGovAdvisory {
-        private final String html;
+        private final String url;
 
-        public UnitedStatesTravelStateGovAdvisory(String html) {
-            this.html = LocalServer.fixEscapeValues(html);
+        public UnitedStatesTravelStateGovAdvisory(String url) {
+            this.url = url;
         }
 
         public JSONObject toJSONObject() {
             final JSONObject json = new JSONObject();
-            json.put("html", html);
+            json.put("url", url);
             return json;
         }
     }

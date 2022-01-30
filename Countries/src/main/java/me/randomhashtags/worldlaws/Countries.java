@@ -40,7 +40,7 @@ public final class Countries implements WLServer {
     private String countriesCacheJSON;
 
     public static void main(String[] args) {
-        new Countries();
+         new Countries();
     }
 
     private Countries() {
@@ -98,6 +98,7 @@ public final class Countries implements WLServer {
     private void updateNonStaticInformation() {
         final long started = System.currentTimeMillis();
         new ParallelStream<CountryService>().stream(CountryServices.NONSTATIC_SERVICES, SovereignStateService::loadData);
+        CustomCountry.LOADED_NON_STATIC_INFORMATION = true;
         new ParallelStream<CustomCountry>().stream(countriesMap.values(), CustomCountry::updateNonStaticInformation);
         WLLogger.logInfo("Countries - refreshed " + countriesMap.size() + " non-static country information (took " + (System.currentTimeMillis()-started) + "ms)");
     }
@@ -105,7 +106,6 @@ public final class Countries implements WLServer {
     private String getCountries() {
         if(countriesCacheJSON == null) {
             loadCountries();
-            updateNonStaticInformation();
         }
         return countriesCacheJSON;
     }
