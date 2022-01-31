@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws.info.rankings;
 
-import me.randomhashtags.worldlaws.info.service.CountryService;
-import me.randomhashtags.worldlaws.info.service.CountryServices;
+import me.randomhashtags.worldlaws.service.CountryService;
+import me.randomhashtags.worldlaws.service.CountryServices;
 
 import java.util.Optional;
 import java.util.stream.Stream;

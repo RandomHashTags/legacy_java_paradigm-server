@@ -4,7 +4,7 @@ import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.info.service.CountryService;
+import me.randomhashtags.worldlaws.service.CountryService;
 import org.jsoup.select.Elements;
 
 public interface CountryValueService extends CountryService {

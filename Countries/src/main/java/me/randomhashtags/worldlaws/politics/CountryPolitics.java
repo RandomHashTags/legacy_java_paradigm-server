@@ -2,7 +2,7 @@ package me.randomhashtags.worldlaws.politics;
 
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.SovereignStateInformationType;
-import me.randomhashtags.worldlaws.info.service.CountryService;
+import me.randomhashtags.worldlaws.service.CountryService;
 
 public enum CountryPolitics implements CountryService {
     INSTANCE;

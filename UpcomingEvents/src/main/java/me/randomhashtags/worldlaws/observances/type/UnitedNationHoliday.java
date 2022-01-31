@@ -128,7 +128,7 @@ public enum UnitedNationHoliday implements IHoliday {
 
     @Override
     public EventDate getDate(WLCountry country, int year) {
-        if(country == null || !country.isUNMemberState() && !country.isUNObserverState()) {
+        if(country != null && !country.isUNMemberState() && !country.isUNObserverState()) {
             return null;
         }
         switch (this) {

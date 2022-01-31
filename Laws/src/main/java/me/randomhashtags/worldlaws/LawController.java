@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.WLCountry;
-import me.randomhashtags.worldlaws.law.LawUtilities;
 
 import java.util.HashMap;
 import java.util.concurrent.atomic.AtomicLong;

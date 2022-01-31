@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws.service.finance.stockmarket;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.service.JSONDataValue;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
@@ -31,10 +30,10 @@ public enum YahooFinance implements StockService {
         return JSONDataValue.FINANCE_YAHOO_FINANCE;
     }
 
-    @Override
+    /*@Override
     public SovereignStateInfo getInfo() {
         return SovereignStateInfo.SERVICE_YAHOO_FINANCE;
-    }
+    }*/
 
     @Override
     public void getAutoComplete(APIVersion version, String input, CompletionHandler handler) {

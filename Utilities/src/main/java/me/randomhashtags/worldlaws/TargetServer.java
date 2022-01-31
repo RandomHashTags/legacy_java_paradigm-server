@@ -237,7 +237,9 @@ public enum TargetServer implements RestAPI, DataValues {
 
         final JSONObject responseVersions = new JSONObject();
         for(ResponseVersions responseVersion : ResponseVersions.values()) {
-            responseVersions.put(responseVersion.getKey(), responseVersion.getValue());
+            if(responseVersion.isClientSide()) {
+                responseVersions.put(responseVersion.getKey(), responseVersion.getValue());
+            }
         }
         json.put("response_versions", responseVersions);
         final JSONArray offlineServers = new JSONArray();

@@ -57,6 +57,9 @@
     "nasa": {
       "api_key": "***REMOVED***"
     },
+    "twelve_data":{
+      "api_key": "***REMOVED***"
+    },
     "twitch": {
       "request_limit": 100,
       "client_id": "***REMOVED***",

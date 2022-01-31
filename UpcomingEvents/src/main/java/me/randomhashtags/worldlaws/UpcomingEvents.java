@@ -56,8 +56,8 @@ public final class UpcomingEvents implements WLServer {
     private String typesJSON;
 
     private void initialize() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -66,8 +66,8 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final JSONObject json = new Movies().getIMDbMovieDetails("The Fallout", 2022);
-        WLLogger.logInfo("UpcomingEvents;test;json=" + json);
+        final String string = Holidays.INSTANCE.getResponse("all");
+        WLLogger.logInfo("UpcomingEvents;test;string=" + string);
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {

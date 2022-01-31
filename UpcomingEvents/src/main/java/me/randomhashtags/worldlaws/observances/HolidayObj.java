@@ -55,9 +55,11 @@ public final class HolidayObj implements Holiday {
             final JSONObject sourcesJSON = json.getJSONObject("sources");
             for(String key : sourcesJSON.keySet()) {
                 final JSONObject sourceJSON = sourcesJSON.getJSONObject(key);
-                final String url = sourceJSON.getString("homepageURL");
-                final EventSource source = new EventSource(key, url);
-                sources.add(source);
+                if(sourceJSON.has("homepageURL")) {
+                    final String url = sourceJSON.getString("homepageURL");
+                    final EventSource source = new EventSource(key, url);
+                    sources.add(source);
+                }
             }
         }
         this.sources = sources;
@@ -74,15 +76,12 @@ public final class HolidayObj implements Holiday {
         }
         countries.add(country);
     }
-    private String getCountriesArray(HashSet<String> countries) {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+    private JSONArray getCountriesArray(HashSet<String> countries) {
+        final JSONArray array = new JSONArray();
         for(String country : countries) {
-            builder.append(isFirst ? "" : ",").append("\"").append(country).append("\"");
-            isFirst = false;
+            array.put(country);
         }
-        builder.append("]");
-        return builder.toString();
+        return array;
     }
 
     @Override
@@ -100,15 +99,12 @@ public final class HolidayObj implements Holiday {
         return aliases;
     }
 
-    private String getAliasesArray() {
-        final StringBuilder builder = new StringBuilder("[");
-        boolean isFirst = true;
+    private JSONArray getAliasesArray() {
+        final JSONArray array = new JSONArray();
         for(String alias : aliases) {
-            builder.append(isFirst ? "" : ",").append("\"").append(LocalServer.fixEscapeValues(alias)).append("\"");
-            isFirst = false;
+            array.put(LocalServer.fixEscapeValues(alias));
         }
-        builder.append("]");
-        return builder.toString();
+        return array;
     }
 
     @Override
@@ -118,13 +114,26 @@ public final class HolidayObj implements Holiday {
 
     @Override
     public String toString() {
-        return "\"" + getEnglishName() + "\":{" +
-                (countries != null ? "\"countries\":" + getCountriesArray(countries) + "," : "") +
-                (celebrators != null ? "\"celebrators\":\"" + celebrators + "\"," : "") +
-                (emoji != null ? "\"emoji\":\"" + emoji + "\"," : "") +
-                (aliases != null ? "\"aliases\":" + getAliasesArray() + "," : "") +
-                (imageURL != null && !imageURL.equals("null") ? "\"imageURL\":\"" + imageURL + "\"," : "") +
-                "\"sources\":" + (sources != null ? sources : new EventSources()).toString() +
-                "}";
+        return "\"" + getEnglishName() + "\":" + getJSONObject().toString();
+    }
+    public JSONObject getJSONObject() {
+        final JSONObject json = new JSONObject();
+        if(countries != null) {
+            json.put("countries", getCountriesArray(countries));
+        }
+        if(celebrators != null) {
+            json.put("celebrators", celebrators);
+        }
+        if(emoji != null) {
+            json.put("emoji", emoji);
+        }
+        if(aliases != null) {
+            json.put("aliases", getAliasesArray());
+        }
+        if(imageURL != null && !imageURL.equals("null")) {
+            json.put("imageURL", imageURL);
+        }
+        json.put("sources", (sources == null ? new EventSources() : sources).toJSONObject());
+        return json;
     }
 }

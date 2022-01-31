@@ -92,6 +92,9 @@ public enum Settings {
         private static JSONObject getPrivateValuesNASA() {
             return getPrivateValuesJSON("nasa");
         }
+        private static JSONObject getPrivateValuesTwelveData() {
+            return getPrivateValuesJSON("twelve_data");
+        }
         private static JSONObject getPrivateValuesTwitch() {
             return getPrivateValuesJSON("twitch");
         }
@@ -132,6 +135,14 @@ public enum Settings {
 
             public static String getAPIKey() {
                 return getOrDefaultString(getPrivateValuesNASA(), "api_key", "***REMOVED***");
+            }
+        }
+
+        public enum TwelveData {
+            ;
+
+            public static String getAPIKey() {
+                return getOrDefaultString(getPrivateValuesTwelveData(), "api_key", null);
             }
         }
 

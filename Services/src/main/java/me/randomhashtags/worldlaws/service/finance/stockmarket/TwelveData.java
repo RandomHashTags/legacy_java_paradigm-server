@@ -1,8 +1,8 @@
 package me.randomhashtags.worldlaws.service.finance.stockmarket;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.service.JSONDataValue;
+import me.randomhashtags.worldlaws.settings.Settings;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -21,13 +21,13 @@ public enum TwelveData implements StockService {
         return JSONDataValue.FINANCE_TWELVE_DATA;
     }
 
-    @Override
+    /*@Override
     public SovereignStateInfo getInfo() {
         return SovereignStateInfo.SERVICE_TWELVE_DATA;
-    }
+    }*/
 
     private String getAPIKey() {
-        return "***REMOVED***";
+        return Settings.PrivateValues.TwelveData.getAPIKey();
     }
 
     @Override

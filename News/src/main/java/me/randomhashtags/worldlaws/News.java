@@ -1,7 +1,5 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.service.NewsAPIDotOrg;
-
 public class News implements WLServer {
 
     private NewsService service;

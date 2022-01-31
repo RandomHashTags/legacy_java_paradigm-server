@@ -1,7 +1,10 @@
 package me.randomhashtags.worldlaws.tracker;
 
 import me.randomhashtags.worldlaws.*;
-import me.randomhashtags.worldlaws.country.*;
+import me.randomhashtags.worldlaws.country.Location;
+import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
+import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.WLSubdivisions;
 import me.randomhashtags.worldlaws.country.subdivisions.u.SubdivisionsUnitedStates;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
@@ -27,11 +30,6 @@ public enum NASA_EONET implements WLService {
         cache = new HashMap<>();
         territoryEvents = new HashMap<>();
         cachedVolcanoes = new HashMap<>();
-    }
-
-    @Override
-    public SovereignStateInfo getInfo() {
-        return null;
     }
 
     public String getCurrent(APIVersion version) {

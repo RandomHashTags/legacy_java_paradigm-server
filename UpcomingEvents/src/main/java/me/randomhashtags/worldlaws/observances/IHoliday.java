@@ -54,8 +54,10 @@ public interface IHoliday extends Jsoupable, Jsonable {
         return json;
     }
     default JSONObject getHolidayJSON(HolidayType holidayType) {
-        final String fileName = holidayType.name().replace("_EAST", "").replace("_WEST", "") + "_" + getName();
-        return getJSONObject(Folder.UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS, fileName, new CompletionHandler() {
+        final Folder folder = Folder.UPCOMING_EVENTS_HOLIDAYS_DESCRIPTIONS;
+        final String fileName = getName(), realFileName = folder.getFolderName().replace("%type%", holidayType.name().replace("_WEST", "").replace("_EAST", ""));
+        folder.setCustomFolderName(fileName, realFileName);
+        return getJSONObject(folder, fileName, new CompletionHandler() {
             @Override
             public JSONObject loadJSONObject() {
                 return loadHolidayJSON();
