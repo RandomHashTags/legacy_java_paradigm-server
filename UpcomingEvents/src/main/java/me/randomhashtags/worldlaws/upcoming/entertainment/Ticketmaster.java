@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.upcoming.entertainment;
 
 import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.Location;
+import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -18,7 +19,7 @@ public enum Ticketmaster implements RestAPI {
     INSTANCE;
 
     private JSONObject getEvents(String segmentID) {
-        final String apiKey = "***REMOVED***";
+        final String apiKey = Settings.PrivateValues.Ticketmaster.getAPIKey();
         final HashMap<String, String> headers = new HashMap<>(CONTENT_HEADERS);
         final HashMap<String, String> query = new HashMap<>();
         final LocalDate now = LocalDate.now();

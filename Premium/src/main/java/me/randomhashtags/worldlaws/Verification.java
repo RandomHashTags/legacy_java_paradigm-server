@@ -10,7 +10,7 @@ public enum Verification implements RestAPI {
 
     public void verifyApple(String value) {
         final boolean productionMode = Settings.PrivateValues.Apple.isProductionMode();
-        final String sharedSecret = Settings.PrivateValues.Apple.getSharedSecret();
+        final String sharedSecret = Settings.PrivateValues.Apple.getVerifySubscriptionSharedSecret();
 
         final String prefix = productionMode ? "buy" : "sandbox";
         final String url = "https://" + prefix + ".itunes.apple.com/verifyReceipt";

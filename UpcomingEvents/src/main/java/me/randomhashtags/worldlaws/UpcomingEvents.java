@@ -56,8 +56,8 @@ public final class UpcomingEvents implements WLServer {
     private String typesJSON;
 
     private void initialize() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -66,8 +66,11 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final String string = Holidays.INSTANCE.getResponse("all");
-        WLLogger.logInfo("UpcomingEvents;test;string=" + string);
+        final RecentEvents events = RecentEvents.INSTANCE;
+        String string = events.refresh(14);
+        WLLogger.logInfo("UpcomingEvents;test1;string=" + string);
+        string = events.refresh(7);
+        WLLogger.logInfo("UpcomingEvents;test2;string=" + string);
     }
 
     private UpcomingEventController valueOfEventType(String eventType) {

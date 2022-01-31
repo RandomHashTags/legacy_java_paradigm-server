@@ -92,6 +92,9 @@ public enum Settings {
         private static JSONObject getPrivateValuesNASA() {
             return getPrivateValuesJSON("nasa");
         }
+        private static JSONObject getPrivateValuesTicketmaster() {
+            return getPrivateValuesJSON("ticketmaster");
+        }
         private static JSONObject getPrivateValuesTwelveData() {
             return getPrivateValuesJSON("twelve_data");
         }
@@ -111,8 +114,8 @@ public enum Settings {
             public static boolean isProductionMode() {
                 return getOrDefaultBoolean(getPrivateValuesApple(), "production_mode", false);
             }
-            public static String getSharedSecret() {
-                return getOrDefaultString(getPrivateValuesApple(), "app_specific_shared_secret", null);
+            public static String getVerifySubscriptionSharedSecret() {
+                return getOrDefaultString(getPrivateValuesApple(), "verify_subscription_shared_secret", null);
             }
             public static String getRemoteNotificationsEncryptionKeyID() {
                 return getOrDefaultString(getPrivateValuesApple(), "remote_notifications_encryption_key_id", null);
@@ -135,6 +138,14 @@ public enum Settings {
 
             public static String getAPIKey() {
                 return getOrDefaultString(getPrivateValuesNASA(), "api_key", "***REMOVED***");
+            }
+        }
+
+        public enum Ticketmaster {
+            ;
+
+            public static String getAPIKey() {
+                return getOrDefaultString(getPrivateValuesTicketmaster(), "api_key", null);
             }
         }
 
