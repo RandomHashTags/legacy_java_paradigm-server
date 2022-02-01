@@ -1,6 +1,6 @@
 package me.randomhashtags.worldlaws.country;
 
-import org.json.JSONObject;
+import org.json.JSONArray;
 
 public final class Location {
     private final double longitude, latitude;
@@ -12,13 +12,13 @@ public final class Location {
 
     @Override
     public String toString() {
-        return toJSONObject().toString();
+        return toJSONArray().toString();
     }
 
-    public JSONObject toJSONObject() {
-        final JSONObject json = new JSONObject();
-        json.put("latitude", latitude);
-        json.put("longitude", longitude);
-        return json;
+    public JSONArray toJSONArray() {
+        final JSONArray array = new JSONArray();
+        array.put(latitude);
+        array.put(longitude);
+        return array;
     }
 }

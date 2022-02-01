@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.service.entertainment.TwitchClips;
 import me.randomhashtags.worldlaws.service.finance.stockmarket.StockService;
 import me.randomhashtags.worldlaws.service.finance.stockmarket.YahooFinance;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
@@ -17,8 +18,8 @@ public final class Services implements WLServer {
 
     private Services() {
         stockService = YahooFinance.INSTANCE;
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -27,6 +28,8 @@ public final class Services implements WLServer {
     }
 
     private void test() {
+        final String string = TwitchClips.INSTANCE.refresh();
+        WLLogger.logInfo("Services;test;string=" + string);
     }
 
     @Override

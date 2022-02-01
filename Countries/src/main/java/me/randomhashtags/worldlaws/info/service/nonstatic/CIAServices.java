@@ -10,20 +10,18 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.HashMap;
+import java.util.Map;
 
 public enum CIAServices implements CountryService {
     INSTANCE;
-    // Natural Resources = https://www.cia.gov/the-world-factbook/field/natural-resources/
-    // Natural Hazards = https://www.cia.gov/the-world-factbook/field/natural-hazards/
-    // Current Environment Issues = https://www.cia.gov/the-world-factbook/field/environment-current-issues
+    // Telecommunication Systems = https://www.cia.gov/the-world-factbook/field/telecommunication-systems/
 
-
-    private final HashMap<String, String> backgrounds, flagDetails, nationalAnthems;
+    private final HashMap<String, String> nationalAnthems;
+    private final HashMap<String, HashMap<String, String>> values;
 
     CIAServices() {
-        backgrounds = new HashMap<>();
-        flagDetails = new HashMap<>();
         nationalAnthems = new HashMap<>();
+        values = new HashMap<>();
     }
 
     @Override
@@ -38,7 +36,6 @@ public enum CIAServices implements CountryService {
 
     @Override
     public String loadData() {
-        loadBackground();
         return null;
     }
 
@@ -46,15 +43,14 @@ public enum CIAServices implements CountryService {
     public String getCountryValue(String countryBackendID) {
         final String identifier = countryBackendID.replace(" ", "").toLowerCase();
         final JSONObject json = new JSONObject();
-        if(backgrounds.containsKey(identifier)) {
-            json.put("background", backgrounds.get(identifier));
+        if(values.containsKey(identifier)) {
+            for(Map.Entry<String, String> map : values.get(identifier).entrySet()) {
+                json.put(map.getKey(), map.getValue());
+            }
         }
-        if(flagDetails.containsKey(identifier)) {
-            json.put("flagDetails", flagDetails.get(identifier));
-        }
-        if(nationalAnthems.containsKey(identifier)) {
+        /*if(nationalAnthems.containsKey(identifier)) {
             json.put("nationalAnthemURL", nationalAnthems.get(identifier));
-        }
+        }*/
         return json.isEmpty() ? null : "\"CIA\":" + json.toString();
     }
 
@@ -65,6 +61,9 @@ public enum CIAServices implements CountryService {
     }
 
     private EventSources getResourcesFrom(String shortName, TravelValues travelValues) {
+        if(travelValues == null) {
+            return null;
+        }
         final String domain = "https://www.cia.gov";
         return new EventSources(
                 new EventSource("CIA: " + shortName, travelValues.ciaCountryURL),
@@ -73,79 +72,126 @@ public enum CIAServices implements CountryService {
         );
     }
 
-    private void loadBackground() {
-        final String url = "https://www.cia.gov/the-world-factbook/field/background";
-        final Document doc = getDocument(url);
-        if(doc != null) {
-            final Elements elements = doc.select("div.col-lg-6 ul li");
-            elements.removeIf(element -> element.selectFirst("a[href]") == null);
-            for(Element element : elements) {
-                final Element hrefElement = element.selectFirst("a[href]");
-                final String country = hrefElement.text().split("\\(")[0].toLowerCase().replace(" ", "").replace(",", "");
-                final StringBuilder builder = new StringBuilder();
-                boolean isFirst = true;
-                for(Element paragraphElement : element.select("p")) {
-                    final String text = paragraphElement.text();
-                    if(!text.isEmpty()) {
-                        builder.append(isFirst ? "" : "\n\n").append(text);
-                        isFirst = false;
-                    }
-                }
-                final String string = LocalServer.fixEscapeValues(builder.toString());
-                backgrounds.put(country, string);
-            }
-        }
-    }
-
     private TravelValues loadTravelValues(String shortName) {
         final String domain = "https://www.cia.gov/";
-        final String identifier = shortName.toLowerCase().replace(" ", "").replace(",", "");
-        final String url = domain + "the-world-factbook/countries/" + identifier + "/";
+        final String identifier = shortName.toLowerCase().replace(" ", "-").replace(",", "");
+        final String countryBackendID = identifier.replace("-", "");
+        final String url = domain + "the-world-factbook/countries/" + identifier;
         final Document doc = getDocument(Folder.OTHER, url, false);
         TravelValues travelValues = null;
-        String flagURL = null;
         if(doc != null) {
-            final Elements elements = doc.select("div.thee-link-container a");
-            if(!elements.isEmpty()) {
+            final Elements hrefs = doc.select("div.thee-link-container a[href]");
+            if(!hrefs.isEmpty()) {
                 String summaryURL = null, travelFactsURL = null;
-                for(Element element : elements) {
+                for(Element element : hrefs) {
                     final String href = element.attr("href");
                     if(href.endsWith("-summary.pdf")) {
                         summaryURL = href;
                     } else if(href.endsWith("-travel-facts.pdf")) {
                         travelFactsURL = href;
-                    } else if(href.endsWith("/flag")) {
-                        flagURL = href;
                     }
                 }
                 travelValues = new TravelValues(url, summaryURL, travelFactsURL);
             }
             final Element nationalAnthemElement = doc.selectFirst("span.card-exposed__text div audio");
-            if(nationalAnthemElement != null) {
+            /*if(nationalAnthemElement != null) {
                 final String nationalAnthemURL = domain + nationalAnthemElement.attr("src").substring(1);
                 nationalAnthems.put(identifier, nationalAnthemURL);
+            }*/
+
+            final Elements elements = doc.select("div.container div.row div.col-lg-6 div.free-form-content__content");
+            for(Element element : elements) {
+                final String id = element.attr("id");
+                final HashMap<String, String> keys = new HashMap<>();
+                switch (id) {
+                    case "introduction":
+                        keys.put("Background", "background");
+                        break;
+                    case "geography":
+                        keys.put("Natural hazards", "naturalHazards");
+                        keys.put("Natural resources", "naturalResources");
+                        keys.put("Geography - note", "geographyNotes");
+                        break;
+                    case "people-and-society":
+                        keys.put("Median age", "medianAge");
+                        keys.put("Population growth rate", "populationGrowthRate");
+                        keys.put("Population distribution", "populationDistribution");
+                        keys.put("Obesity - adult prevalence rate", "obesityRate");
+                        keys.put("People - note", "peopleNotes");
+                        break;
+                    case "environment":
+                        keys.put("Environment - current issues", "environmentCurrentIssues");
+                        keys.put("Climate", "climate");
+                        keys.put("Major infectious diseases", "majorInfectiousDiseases");
+                        break;
+                    case "government":
+                        keys.put("Citizenship", "citizenship");
+                        keys.put("Flag description", "flagDescription");
+                        keys.put("National symbol(s)", "nationalSymbols");
+                        break;
+                    case "economy":
+                        keys.put("Economic overview", "economicOverview");
+                        keys.put("Agricultural products", "agriculturalProducts");
+                        keys.put("Exports - partners", "exportPartners");
+                        keys.put("Imports - partners", "importPartners");
+                        break;
+                    case "energy":
+                        break;
+                    case "communications":
+                        break;
+                    case "transportation":
+                        break;
+                    case "military-and-security":
+                        keys.put("Military service age and obligation", "militaryAgeAndObligations");
+                        break;
+                    case "transnational-issues":
+                        keys.put("Disputes - international", "internationalDisputes");
+                        keys.put("Illicit drugs", "drugsDescription");
+                        break;
+                    default:
+                        break;
+                }
+                if(!keys.isEmpty()) {
+                    loadTest(countryBackendID, element, keys);
+                }
             }
         }
         if(travelValues == null) {
             final String missingMessage = "CIAServices - missing elements for country with short name \"" + shortName + "\", and url \"" + url + "\"!";
             WLLogger.logError(this, missingMessage);
-        } else {
-            if(flagURL != null) {
-                final Document flagDoc = getDocument(domain + flagURL.substring(1));
-                if(flagDoc != null) {
-                    final Elements paragraphs = flagDoc.selectFirst("div.mb0").select("p");
-                    final StringBuilder flagDescription = new StringBuilder();
+        }
+        return travelValues;
+    }
+    private void loadTest(String country, Element element, HashMap<String, String> keys) {
+        final Elements divs = element.select("div");
+        for(Element div : divs) {
+            final Element headerElement = div.selectFirst("h3");
+            final String header = headerElement != null ? headerElement.text() : null;
+            if(header != null && keys.containsKey(header)) {
+                final Elements paragraphs = div.select("p");
+                if(!paragraphs.isEmpty()) {
+                    final StringBuilder builder = new StringBuilder();
                     boolean isFirst = true;
-                    for(Element element : paragraphs) {
-                        flagDescription.append(isFirst ? "" : "\n\n").append(element.text());
-                        isFirst = false;
+                    for(Element paragraphElement : paragraphs) {
+                        final String text = paragraphElement.text();
+                        if(!text.isEmpty()
+                                && !text.equalsIgnoreCase("NA")
+                                && !text.equalsIgnoreCase("none")
+                                && !text.equalsIgnoreCase("not available")
+                                && !text.startsWith("no economic activity")
+                        ) {
+                            builder.append(isFirst ? "" : "\n\n").append(text);
+                            isFirst = false;
+                        }
                     }
-                    final String string = LocalServer.fixEscapeValues(flagDescription.toString());
-                    flagDetails.put(identifier, string);
+                    final String string = LocalServer.fixEscapeValues(builder.toString());
+                    if(!string.isEmpty()) {
+                        values.putIfAbsent(country, new HashMap<>());
+                        values.get(country).put(keys.get(header), string);
+                    }
                 }
             }
         }
-        return travelValues;
     }
 
     private final class TravelValues {

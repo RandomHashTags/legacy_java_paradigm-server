@@ -55,8 +55,8 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        loadServices();
         loadCountries();
+        loadServices();
         final String string = getServerResponse(APIVersion.v1, "information/unitedstates");
         WLLogger.logInfo("Countries;test;string=" + string);
     }

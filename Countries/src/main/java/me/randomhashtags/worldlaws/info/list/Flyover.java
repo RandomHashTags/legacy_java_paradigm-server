@@ -83,7 +83,7 @@ public enum Flyover implements AppleFeatureAvailability {
                         final JSONObject territoryJSON = new JSONObject();
                         final List<FlyoverObj> flyovers = territoryMap.getValue();
                         for(FlyoverObj flyoverObj : flyovers) {
-                            territoryJSON.put(flyoverObj.getCity(), flyoverObj.getLocation().toJSONObject());
+                            territoryJSON.put(flyoverObj.getCity(), flyoverObj.getLocation().toJSONArray());
                         }
                         String territory = territoryMap.getKey();
                         if(territory == null) {

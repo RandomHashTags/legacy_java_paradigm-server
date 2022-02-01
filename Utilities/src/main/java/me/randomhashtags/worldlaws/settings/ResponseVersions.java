@@ -8,12 +8,16 @@ public enum ResponseVersions {
     UPCOMING_EVENT_TYPES,
 
     // Server Side
+    AVAILABILITIES,
+    COUNTRY_INFORMATION,
     HOLIDAYS,
 
     ;
 
     public boolean isClientSide() {
         switch (this) {
+            case AVAILABILITIES:
+            case COUNTRY_INFORMATION:
             case HOLIDAYS:
                 return false;
             default:
@@ -34,6 +38,10 @@ public enum ResponseVersions {
             case UPCOMING_EVENT_TYPES:
                 return 1;
 
+            case AVAILABILITIES:
+                return 1;
+            case COUNTRY_INFORMATION:
+                return 1;
             case HOLIDAYS:
                 return 1;
 
