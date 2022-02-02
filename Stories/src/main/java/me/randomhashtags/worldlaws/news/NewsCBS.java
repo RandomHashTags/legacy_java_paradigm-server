@@ -50,7 +50,7 @@ public enum NewsCBS implements StoryController {
     private HashMap<String, SovereignStateSubdivision> getSubdivisions(SovereignStateSubdivision...sovereignStateSubdivisions) {
         final HashMap<String, SovereignStateSubdivision> subdivisions = new HashMap<>();
         if(sovereignStateSubdivisions == null || sovereignStateSubdivisions.length == 0) {
-            for(WLCountry country : WLSubdivisions.getSupportedCountries()) {
+            for(WLCountry country : WLSubdivisions.SUPPORTED_COUNTRIES) {
                 putSubdivisions(subdivisions, WLSubdivisions.get(country));
             }
         } else {

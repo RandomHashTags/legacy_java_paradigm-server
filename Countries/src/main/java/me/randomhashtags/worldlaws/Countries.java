@@ -1,7 +1,6 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
-import me.randomhashtags.worldlaws.country.SovereignStateService;
 import me.randomhashtags.worldlaws.country.SovereignStateSubdivision;
 import me.randomhashtags.worldlaws.info.CountryInfoKeys;
 import me.randomhashtags.worldlaws.info.CountryValues;
@@ -18,6 +17,7 @@ import me.randomhashtags.worldlaws.info.service.nonstatic.CIAServices;
 import me.randomhashtags.worldlaws.info.service.nonstatic.TravelAdvisories;
 import me.randomhashtags.worldlaws.service.CountryService;
 import me.randomhashtags.worldlaws.service.CountryServices;
+import me.randomhashtags.worldlaws.service.SovereignStateService;
 import me.randomhashtags.worldlaws.service.WikipediaCountryService;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
@@ -55,10 +55,7 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        loadCountries();
-        loadServices();
-        final String string = getServerResponse(APIVersion.v1, "information/unitedstates");
-        WLLogger.logInfo("Countries;test;string=" + string);
+        //SunriseSunsetCalculator.test();
     }
 
     @Override

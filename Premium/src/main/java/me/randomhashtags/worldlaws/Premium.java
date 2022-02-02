@@ -17,8 +17,12 @@ public final class Premium implements WLServer {
         final String key = values[0];
         switch (key) {
             case "verify":
-                Verification.INSTANCE.verifyApple(null);
-                return null;
+                switch (values[1]) {
+                    case "apple":
+                        return Verification.INSTANCE.verifyAppleAutoRenewableSubscription(values[2]);
+                    default:
+                        return null;
+                }
             default:
                 return null;
         }

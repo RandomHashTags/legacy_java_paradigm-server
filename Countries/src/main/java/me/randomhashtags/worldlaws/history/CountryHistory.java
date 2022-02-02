@@ -1,8 +1,8 @@
 package me.randomhashtags.worldlaws.history;
 
-import me.randomhashtags.worldlaws.country.SovereignStateHistory;
 import me.randomhashtags.worldlaws.country.SovereignStateInfo;
 import me.randomhashtags.worldlaws.country.WLCountry;
+import me.randomhashtags.worldlaws.country.history.SovereignStateHistory;
 import me.randomhashtags.worldlaws.history.country.HistoryUnitedStates;
 
 public enum CountryHistory implements SovereignStateHistory {

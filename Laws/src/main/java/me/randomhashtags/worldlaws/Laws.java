@@ -1,7 +1,7 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.service.usa.USLaws;
-import me.randomhashtags.worldlaws.service.usa.state.recode.Minnesota;
+import me.randomhashtags.worldlaws.country.usa.USLaws;
+import me.randomhashtags.worldlaws.country.usa.state.recode.Minnesota;
 
 import java.util.HashMap;
 

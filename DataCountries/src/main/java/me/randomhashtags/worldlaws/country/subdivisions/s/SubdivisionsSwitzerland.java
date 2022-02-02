@@ -50,6 +50,7 @@ public enum SubdivisionsSwitzerland implements SovereignStateSubdivision { // ht
             case BASLE_STADT: return "Basel-Stadt";
             case NEUCHATEL: return "Neuchâtel";
             case ST_GALLEN: return "St. Gallen";
+            case ZURICH: return "Zürich";
             default: return null;
         }
     }
@@ -68,6 +69,10 @@ public enum SubdivisionsSwitzerland implements SovereignStateSubdivision { // ht
 
     @Override
     public String getGovernmentWebsite() {
-        return null;
+        switch (this) {
+            case URI: return "https://www.ur.ch";
+            case ZURICH: return "https://www.zh.ch/de.html";
+            default: return null;
+        }
     }
 }

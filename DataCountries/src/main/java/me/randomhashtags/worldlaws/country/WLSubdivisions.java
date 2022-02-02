@@ -56,11 +56,8 @@ import java.util.HashSet;
 public enum WLSubdivisions {
     ;
 
-    private static final HashSet<WLCountry> SUPPORTED_COUNTRIES = loadSupportedCountries();
+    public static final HashSet<WLCountry> SUPPORTED_COUNTRIES = loadSupportedCountries();
 
-    public static HashSet<WLCountry> getSupportedCountries() {
-        return SUPPORTED_COUNTRIES;
-    }
     private static HashSet<WLCountry> loadSupportedCountries() {
         final HashSet<WLCountry> countries = new HashSet<>();
         for(WLCountry country : WLCountry.values()) {
@@ -72,7 +69,7 @@ public enum WLSubdivisions {
     }
 
     public static SovereignStateSubdivision valueOfString(String string) {
-        for(WLCountry country : getSupportedCountries()) {
+        for(WLCountry country : SUPPORTED_COUNTRIES) {
             final SovereignStateSubdivision subdivision = country.valueOfSovereignStateSubdivision(string);
             if(subdivision != null) {
                 return subdivision;

@@ -24,15 +24,15 @@ public enum SunriseSunsetCalculator {
         final long julianDay = getCurrentJulianDay(), elevationInFeet = 0;
         final double sunrise = getJulianSunrise(julianDay, longitude, latitude, elevationInFeet);
         final double sunset = getJulianSunset(julianDay, longitude, latitude, elevationInFeet);
-        final LocalDateTime sunriseDate = LocalDateTime.MIN.with(JulianFields.MODIFIED_JULIAN_DAY, julianDay);
-        final LocalDateTime sunsetDate = LocalDateTime.MIN.with(JulianFields.MODIFIED_JULIAN_DAY, julianDay);
-        WLLogger.logInfo("SunriseSunsetCalculator;test;sunrise=" + sunrise + ";sunset=" + sunset);
-        WLLogger.logInfo("SunriseSunsetCalculator;test;sunriseDate=" + sunriseDate.toString() + ";sunsetDate=" + sunsetDate.toString());
+        final LocalDateTime sunriseDate = LocalDateTime.MIN.with(JulianFields.JULIAN_DAY, julianDay);
+        final LocalDateTime sunsetDate = LocalDateTime.MIN.with(JulianFields.JULIAN_DAY, julianDay);
+        WLLogger.logInfo("SunriseSunsetCalculator;test;julianDay=" + julianDay + ";sunrise=" + sunrise + ";sunset=" + sunset);
+        WLLogger.logInfo("SunriseSunsetCalculator;test;julianDay=" + julianDay + ";sunriseDate=" + sunriseDate.toString() + ";sunsetDate=" + sunsetDate.toString());
     }
 
     public static long getCurrentJulianDay() {
         //return (long) (getJulianDate() - 2451545.0 + getFractionalJulianDay());
-        return LocalDate.now().getLong(JulianFields.MODIFIED_JULIAN_DAY);
+        return LocalDate.now().getLong(JulianFields.JULIAN_DAY);
     }
     private static long getJulianDate() {
         final LocalDate now = LocalDate.now();
@@ -69,9 +69,9 @@ public enum SunriseSunsetCalculator {
         return Math.sin(eclipticLongitude) * Math.sin(toDegree(23.44));
     }
     private static double getHourAngle(long julianDay, double longitude, double latitude, long elevationInFeet) {
-        final double addedRadians = (toDegree(-1.15) * Math.sqrt(elevationInFeet)) / 60;
+        final double elevationOfObserverCorrectionDegrees = (toDegree(-1.15) * Math.sqrt(elevationInFeet)) / 60;
         final double declinationOfTheSun = getDeclinationOfTheSun(julianDay, longitude);
-        final double left = Math.sin(toDegree(-0.83 + addedRadians)) - Math.sin(latitude) * Math.sin(declinationOfTheSun);
+        final double left = Math.sin(toDegree(-0.83 + elevationOfObserverCorrectionDegrees)) - Math.sin(latitude) * Math.sin(declinationOfTheSun);
         final double right = Math.cos(latitude) * Math.cos(declinationOfTheSun);
         return left / right;
     }
