@@ -18,9 +18,10 @@ public abstract class RecentEventController implements Jsoupable {
         return null;
     }
 
-    public boolean hasNewInformation(HashSet<PreRecentEvent> events) {
-        boolean value = false;
+    public HashSet<PreRecentEvent> getNewInformation(HashSet<PreRecentEvent> events) {
+        HashSet<PreRecentEvent> newEvents = null;
         if(lastUpdates != null && events != null) {
+            newEvents = new HashSet<>();
             for(PreRecentEvent newEvent : events) {
                 boolean has = false;
                 for(PreRecentEvent event : lastUpdates) {
@@ -30,12 +31,11 @@ public abstract class RecentEventController implements Jsoupable {
                     }
                 }
                 if(!has) {
-                    value = true;
-                    break;
+                    newEvents.add(newEvent);
                 }
             }
         }
         lastUpdates = events;
-        return value;
+        return newEvents != null && !newEvents.isEmpty() ? newEvents : null;
     }
 }

@@ -233,7 +233,7 @@ public enum Earthquakes implements RestAPI {
         final String targetValue = values[values.length-1];
         final String targetValueLowercase = targetValue.toLowerCase();
         final String target = targetValueLowercase.replace(" region", "").replace(" ", "");
-        WLCountry wlcountry = WLCountry.valueOfBackendID(target);
+        WLCountry wlcountry = WLCountry.valueOfString(target);
         if(wlcountry != null) {
             country = target;
         } else {

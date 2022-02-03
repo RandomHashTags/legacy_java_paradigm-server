@@ -36,7 +36,7 @@ public final class AppleSoftwareUpdates extends RecentEventController {
                 final HashSet<PreRecentEvent> events = new HashSet<>();
                 final HashMap<String, String> descriptionValues = new HashMap<>() {{
                     put(" (Details available soon)", "Details available soon");
-                    put(" This update has no published CVE entries.", "This update doesn't share its patch notes");
+                    put(" This update has no published CVE entries.", "This update doesn't share its patch notes.");
                 }};
                 new ParallelStream<Element>().stream(updateElements, updateElement -> {
                     final Elements tds = updateElement.select("td");
@@ -56,15 +56,12 @@ public final class AppleSoftwareUpdates extends RecentEventController {
                                     || name.startsWith("***REMOVED***")
                                     || name.startsWith("***REMOVED***")
                             ) {
-                                final String nameLowercase = name.toLowerCase().replace(" ", "");
                                 String description = null;
                                 for(Map.Entry<String, String> map : descriptionValues.entrySet()) {
                                     final String key = map.getKey();
-                                    final String lowercaseValue = key.toLowerCase().replace(" ", "");
-                                    if(nameLowercase.contains(lowercaseValue)) {
-                                        final String value = map.getValue(), descriptionValue = value == null ? key : value;
-                                        description = descriptionValue;
-                                        name = name.replace(descriptionValue, "");
+                                    if(name.contains(key)) {
+                                        name = name.replace(key, "");
+                                        description = map.getValue();
                                     }
                                 }
 

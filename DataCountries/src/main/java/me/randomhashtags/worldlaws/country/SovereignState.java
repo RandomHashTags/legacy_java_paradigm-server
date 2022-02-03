@@ -3,10 +3,7 @@ package me.randomhashtags.worldlaws.country;
 import me.randomhashtags.worldlaws.APIVersion;
 import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.Jsoupable;
-import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
-
-import java.util.Arrays;
 
 public interface SovereignState extends Jsoupable, Jsonable {
     default String getBackendID() {
@@ -27,9 +24,9 @@ public interface SovereignState extends Jsoupable, Jsonable {
 
     default JSONArray getTimeZonesJSONArray(WLTimeZone...timezones) {
         final JSONArray array = new JSONArray();
-        new ParallelStream<WLTimeZone>().stream(Arrays.asList(timezones), timezone -> {
+        for(WLTimeZone timezone : timezones) {
             array.put(timezone.getIdentifier());
-        });
+        }
         return array;
     }
 }

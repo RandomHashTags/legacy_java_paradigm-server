@@ -78,7 +78,7 @@ public enum NASA_EONET implements WLService {
                             final String[] values = place.split(string);
                             final String value = values[values.length-1];
                             final String targetCountry = value.toLowerCase().replace(" ", "");
-                            final WLCountry wlcountry = WLCountry.valueOfBackendID(targetCountry);
+                            final WLCountry wlcountry = WLCountry.valueOfString(targetCountry);
                             if(wlcountry != null) {
                                 country = wlcountry.getBackendID();
                                 place = place.split(string + value)[0];
@@ -187,6 +187,7 @@ public enum NASA_EONET implements WLService {
             put("Wolf", "Wolf_Volcano");
             put("Barren Island", "Barren_Island_(Andaman_Islands)");
             put("Turrialba", "Turrialba_Volcano");
+            put("Ambrym", "Ambrym");
         }};
     }
     private String getLatestVolcanoDescription(String url) {

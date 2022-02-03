@@ -4,7 +4,6 @@ import me.randomhashtags.worldlaws.LocalServer;
 
 import java.util.Arrays;
 import java.util.HashSet;
-import java.util.stream.Stream;
 
 public enum WLCountry {
     ABKHAZIA,
@@ -286,23 +285,21 @@ public enum WLCountry {
         this.aliases =  aliases != null && aliases.length > 0 ? new HashSet<>(Arrays.asList(aliases)) : null;
     }
 
-    public static WLCountry valueOfBackendID(String backendID) {
-        final WLCountry[] countries = values();
-        final Stream<WLCountry> test = Arrays.stream(countries).parallel().filter(country -> {
-            if(backendID.equalsIgnoreCase(country.getBackendID())) {
-                return true;
+    public static WLCountry valueOfString(String string) {
+        for(WLCountry country : values()) {
+            if(string.equalsIgnoreCase(country.getBackendID()) || string.equalsIgnoreCase(country.getISOAlpha2()) || string.equalsIgnoreCase(country.getISOAlpha3())) {
+                return country;
             }
             final HashSet<String> aliases = country.getAliases();
             if(aliases != null) {
                 for(String alias : country.getAliases()) {
-                    if(backendID.equalsIgnoreCase(alias.replace(" ", ""))) {
-                        return true;
+                    if(string.equalsIgnoreCase(alias.replace(" ", ""))) {
+                        return country;
                     }
                 }
             }
-            return false;
-        });
-        return test.findFirst().orElse(null);
+        }
+        return null;
     }
 
     public String getBackendID() {
@@ -324,14 +321,6 @@ public enum WLCountry {
     }
     public String getISOAlpha3() {
         return WLCountryISOAlpha3.get(this);
-    }
-    public static WLCountry valueOfISOAlpha2(String isoAlpha2) {
-        final WLCountry[] countries = WLCountry.values();
-        final Stream<WLCountry> target = Arrays.stream(countries).filter(country -> {
-            final String alpha2 = country.getISOAlpha2();
-            return alpha2 != null && alpha2.equalsIgnoreCase(isoAlpha2);
-        });
-        return target.findFirst().orElse(null);
     }
 
     public String getFlagEmoji() {

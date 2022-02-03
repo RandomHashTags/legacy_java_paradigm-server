@@ -6,6 +6,7 @@ public enum ResponseVersions {
     MOVIE_PRODUCTION_COMPANIES,
     MUSIC_ARTISTS,
     UPCOMING_EVENT_TYPES,
+    UPDATE_NOTES,
 
     // Server Side
     AVAILABILITIES,
@@ -43,6 +44,9 @@ public enum ResponseVersions {
             case COUNTRY_INFORMATION:
                 return 1;
             case HOLIDAYS:
+                return 2;
+
+            case UPDATE_NOTES:
                 return 1;
 
             default:

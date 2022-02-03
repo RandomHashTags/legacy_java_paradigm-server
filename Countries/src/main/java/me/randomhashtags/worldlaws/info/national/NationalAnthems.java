@@ -42,7 +42,7 @@ public enum NationalAnthems implements CountryNationalService { // https://en.wi
                 if(targetElement != null) {
                     final String targetCountry = targetElement.textNodes().get(0).text();
                     final String countryBackendID = targetCountry.toLowerCase().replace(" ", "");
-                    final WLCountry wlcountry = WLCountry.valueOfBackendID(countryBackendID);
+                    final WLCountry wlcountry = WLCountry.valueOfString(countryBackendID);
                     if(wlcountry != null) {
                         final String href = "https://www.navyband.navy.mil" + element.attr("href");
                         countries.put(countryBackendID, href);

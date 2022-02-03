@@ -1,13 +1,11 @@
 package me.randomhashtags.worldlaws.upcoming.space.nasa;
 
-import me.randomhashtags.worldlaws.EventSource;
-import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.service.NASAService;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.USAUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
-import me.randomhashtags.worldlaws.upcoming.events.UpcomingEvent;
+import me.randomhashtags.worldlaws.upcoming.events.NearEarthObjectEvent;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -51,7 +49,7 @@ public final class NASANeo extends USAUpcomingEventController {
                 final String relativeVelocity = closeApproach.getJSONObject("relative_velocity").getString("kilometers_per_hour");
 
                 final String id = (month + "-" + year + "-" + day) + "." + name.replace(" ", "");
-                final NearEarthObject neo = new NearEarthObject(name, closeApproachEpoch, isPotentiallyHazardousAsteroid, estimatedDiameterMin, estimatedDiameterMax, relativeVelocity);
+                final NearEarthObjectEvent neo = new NearEarthObjectEvent(name, closeApproachEpoch, isPotentiallyHazardousAsteroid, estimatedDiameterMin, estimatedDiameterMax, relativeVelocity);
                 putLoadedPreUpcomingEvent(id, neo.toPreUpcomingEventJSON(type, id, null));
                 putUpcomingEvent(id, neo.toString());
             });
@@ -61,36 +59,5 @@ public final class NASANeo extends USAUpcomingEventController {
     @Override
     public String loadUpcomingEvent(String id) {
         return null;
-    }
-
-    private final class NearEarthObject extends UpcomingEvent {
-        private final String relativeVelocity;
-        private final boolean potentiallyHazardous;
-        private final float closeApproachEpoch, estimatedDiameterMin, estimatedDiameterMax;
-
-        public NearEarthObject(String name, long closeApproachEpoch, boolean potentiallyHazardous, float estimatedDiameterMin, float estimatedDiameterMax, String relativeVelocity) {
-            super("NEO: " + name, "Near earth object description??", null, null, null, new EventSources(new EventSource("NASA", "https://cneos.jpl.nasa.gov")));
-            this.closeApproachEpoch = closeApproachEpoch;
-            this.potentiallyHazardous = potentiallyHazardous;
-            this.estimatedDiameterMin = estimatedDiameterMin;
-            this.estimatedDiameterMax = estimatedDiameterMax;
-            this.relativeVelocity = relativeVelocity;
-        }
-
-        @Override
-        public UpcomingEventType getType() {
-            return UpcomingEventType.SPACE_NEAR_EARTH_OBJECT;
-        }
-
-        @Override
-        public String getPropertiesJSONObject() {
-            return "{" +
-                    "\"closeApproachEpoch\":" + closeApproachEpoch + "," +
-                    "\"potentiallyHazardous\":" + potentiallyHazardous + "," +
-                    "\"estimatedDiameterMin\":" + estimatedDiameterMin + "," +
-                    "\"estimatedDiameterMax\":" + estimatedDiameterMax + "," +
-                    "\"relativeVelocity\":" + relativeVelocity +
-                    "}";
-        }
     }
 }

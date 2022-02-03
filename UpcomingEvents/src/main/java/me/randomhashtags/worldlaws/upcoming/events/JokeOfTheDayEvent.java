@@ -24,8 +24,8 @@ public final class JokeOfTheDayEvent extends UpcomingEvent {
     public String getPropertiesJSONObject() {
         return "{" +
                 "\"copyright\":\"" + copyright + "\"," +
-                "\"question\":\"" + question + "\"," +
-                "\"answer\":\"" + answer + "\"" +
+                (answer != null ? "\"answer\":\"" + answer + "\"," : "") +
+                "\"question\":\"" + question + "\"" +
                 "}";
     }
 }

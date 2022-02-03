@@ -42,7 +42,7 @@ public final class USLaws extends LawController {
 
     @Override
     public String refreshRecentActivity(APIVersion version) {
-        final LocalDate startingDate = LocalDate.now().minusDays(7);
+        final LocalDate startingDate = LocalDate.now().minusDays(30);
         final USCongress congress = USCongress.getCongress(getCurrentAdministrationVersion());
         final USBillStatus[] statuses = new USBillStatus[] {
                 USBillStatus.BECAME_LAW,

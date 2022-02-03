@@ -31,9 +31,12 @@ public enum RecentEvents {
         final ConcurrentHashMap<RecentEventType, ConcurrentHashMap<String, HashSet<String>>> allValues = new ConcurrentHashMap<>();
         new ParallelStream<RecentEventController>().stream(Arrays.asList(events), controller -> {
             final HashSet<PreRecentEvent> preRecentEvents = controller.refreshHashSet(lastWeek);
-            final boolean hasNewInformation = controller.hasNewInformation(preRecentEvents);
-            if(hasNewInformation) { // TODO: submit remote notification
-                WLLogger.logInfo("RecentEvents;controller=" + controller.getClass().getSimpleName() + ";hasNewInformation!");
+            final HashSet<PreRecentEvent> newEvents = controller.getNewInformation(preRecentEvents);
+            if(newEvents != null) { // TODO: submit remote notification
+                final String prefix = "RecentEvents;controller=" + controller.getClass().getSimpleName() + ";newEvent=";
+                for(PreRecentEvent event : newEvents) {
+                    WLLogger.logInfo(prefix + event.toString());
+                }
             }
             if(preRecentEvents != null && !preRecentEvents.isEmpty()) {
                 final RecentEventType type = controller.getType();

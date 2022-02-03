@@ -78,14 +78,16 @@ public interface IMDbService extends DataValues {
                 final boolean isValidRating = isValidMovieRating(rating);
 
                 int runtimeSeconds = 0;
-                final String[] runtimeValues = (isValidRating ? list.get(2) : secondElement).text().split(" ");
-                for(String string : runtimeValues) {
-                    string = string.toLowerCase();
-                    final boolean isHours = string.endsWith("h");
-                    final String target = string.substring(0, string.length()-1);
-                    if(target.matches("[0-9]+")) {
-                        final int value = Integer.parseInt(target);
-                        runtimeSeconds += value * 60 * (isHours ? 60 : 1);
+                if(list.size() > 2) {
+                    final String[] runtimeValues = (isValidRating ? list.get(2) : secondElement).text().split(" ");
+                    for(String string : runtimeValues) {
+                        string = string.toLowerCase();
+                        final boolean isHours = string.endsWith("h");
+                        final String target = string.substring(0, string.length()-1);
+                        if(target.matches("[0-9]+")) {
+                            final int value = Integer.parseInt(target);
+                            runtimeSeconds += value * 60 * (isHours ? 60 : 1);
+                        }
                     }
                 }
 

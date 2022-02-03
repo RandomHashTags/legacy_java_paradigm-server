@@ -163,7 +163,7 @@ public enum HolidayType implements Jsonable {
             json = loadHolidaysJSONObject(isCountries, year);
             if(json != null) {
                 folder.setCustomFolderName(fileName, realFileName);
-                setFileJSON(folder, realFileName, json.toString());
+                setFileJSON(folder, fileName, json.toString());
             }
         }
         return json;
@@ -237,13 +237,7 @@ public enum HolidayType implements Jsonable {
                 json.put(backendID, targetJSON);
             }
         });
-
-        final JSONObject descriptionsJSON = new JSONObject();
-        for(Map.Entry<String, String> map : descriptions.entrySet()) {
-            final String name = map.getKey(), description = LocalServer.fixEscapeValues(map.getValue());
-            descriptionsJSON.put(name, description);
-        }
-        json.put("descriptions", descriptionsJSON);
+        json.put("descriptions", descriptions);
         return json;
     }
     private JSONObject loadCountryHolidays(ConcurrentHashMap<String, String> descriptions, IHoliday[] socialHolidays, WLCountry country, int year) {

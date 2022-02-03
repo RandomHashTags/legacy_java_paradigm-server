@@ -54,7 +54,7 @@ public enum Holidays implements Jsoupable, Jsonable {
     }
     private String getCountryHolidays(int year, String countryBackendID) {
         if(!countryHolidays.containsKey(countryBackendID)) {
-            final WLCountry country = WLCountry.valueOfBackendID(countryBackendID);
+            final WLCountry country = WLCountry.valueOfString(countryBackendID);
             if(country != null) {
                 final String string = loadHolidays(year, countryBackendID, null, new ConcurrentHashMap<>(), new ConcurrentHashMap<>());
                 countryHolidays.put(countryBackendID, string);

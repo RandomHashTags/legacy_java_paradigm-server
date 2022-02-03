@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.settings.Settings;
+
 import java.util.Scanner;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -45,6 +47,9 @@ public interface UserServer {
                 return;
             case "save":
                 saveStatistics();
+                break;
+            case "refresh":
+                Settings.refresh();
                 break;
             case "beginmaintenance":
             case "startmaintenance":

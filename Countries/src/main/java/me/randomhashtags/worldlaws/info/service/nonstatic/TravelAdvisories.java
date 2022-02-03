@@ -66,7 +66,7 @@ public enum TravelAdvisories implements CountryService {
                             default:
                                 break;
                         }
-                        final WLCountry wlcountry = WLCountry.valueOfBackendID(targetCountry);
+                        final WLCountry wlcountry = WLCountry.valueOfString(targetCountry);
                         if(wlcountry != null) {
                             final Element hrefElement = advisoryElement.selectFirst("a[href]");
                             if(hrefElement != null) {
