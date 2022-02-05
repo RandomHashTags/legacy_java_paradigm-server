@@ -10,10 +10,15 @@ public enum UpcomingEventValueType {
     STRING,
 
     CURRENCY,
+    CURRENCY_ID,
     DETAILS_SPOTIFY,
     DETAILS_ITUNES,
+    EVENT_SOURCE,
+    IMAGE,
     PRODUCTION_COMPANIES,
-    ROCKET_LAUNCH_MISSION,
     TICKETMASTER_VENUES,
+    TIMESTAMP,
     ;
+
+    public static final UpcomingEventValueType DEFAULT = UpcomingEventValueType.STRING;
 }

@@ -17,10 +17,8 @@ public final class RocketLaunchMission {
 
     @Override
     public String toString() {
-        return "{" +
-                "\"name\":\"" + name + "\"," +
-                "\"description\":\"" + description + "\"," +
-                "\"type\":\"" + type + "\"" +
-                "}";
+        return "\"missionName\":\"" + name + "\"," +
+                "\"missionDescription\":\"" + description + "\"," +
+                "\"missionType\":\"" + type + "\"";
     }
 }

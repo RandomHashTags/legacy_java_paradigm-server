@@ -1,7 +1,10 @@
 package me.randomhashtags.worldlaws.upcoming;
 
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
+import org.json.JSONArray;
 import org.json.JSONObject;
+
+import java.util.HashSet;
 
 public enum UpcomingEventType {
     ASTRONOMY_PICTURE_OF_THE_DAY,
@@ -28,7 +31,8 @@ public enum UpcomingEventType {
     public static String getTypesJSON() {
         final JSONObject json = new JSONObject();
         json.put("version", ResponseVersions.UPCOMING_EVENT_TYPES.getValue());
-        final JSONObject typesJSON = new JSONObject();
+
+        final JSONObject typesJSON = new JSONObject(), categoriesJSON = new JSONObject();
         for(UpcomingEventType type : UpcomingEventType.values()) {
             final String imageURLPrefix = type.getImageURLPrefix();
             final JSONObject typeJSON = new JSONObject();
@@ -54,9 +58,25 @@ public enum UpcomingEventType {
             if(imageURLPrefix != null) {
                 typeJSON.put("imageURLPrefix", imageURLPrefix);
             }
+
+            final UpcomingEventValue[] values = type.getValues();
+            if(values != null) {
+                final JSONArray valuesJSON = new JSONArray();
+                final HashSet<UpcomingEventValueCategory> categories = new HashSet<>();
+                for(UpcomingEventValue value : values) {
+                    categories.add(value.getCategory());
+                    valuesJSON.put(value.toJSONObject());
+                }
+                typeJSON.put("values", valuesJSON);
+
+                for(UpcomingEventValueCategory category : categories) {
+                    categoriesJSON.put(category.name(), category.toJSONObject());
+                }
+            }
             typesJSON.put(type.getID(), typeJSON);
         }
         json.put("types", typesJSON);
+        json.put("categories", categoriesJSON);
         return json.toString();
     }
 
@@ -211,6 +231,106 @@ public enum UpcomingEventType {
                 case WORD_OF_THE_DAY: return "Today's Words of the Day are \"%title%\"!";
                 default: return "Unknown Plural Notification Description!";
             }
+        }
+    }
+
+    private UpcomingEventValue[] collectValues(UpcomingEventValue...values) {
+        return values;
+    }
+    private UpcomingEventValue[] getValues() {
+        switch (this) {
+            case ASTRONOMY_PICTURE_OF_THE_DAY:
+                return collectValues(
+                        UpcomingEventValue.APOD_COPYRIGHT
+                );
+
+            case JOKE_OF_THE_DAY:
+                return collectValues(
+                        UpcomingEventValue.JOTD_COPYRIGHT,
+                        UpcomingEventValue.JOTD_QUESTION,
+                        UpcomingEventValue.JOTD_ANSWER
+                );
+
+            case MOVIE:
+                return collectValues(
+                        UpcomingEventValue.MUSIC_ALBUM_ARTIST,
+                        UpcomingEventValue.MUSIC_ALBUM_DETAILS_SPOTIFY,
+                        UpcomingEventValue.MUSIC_ALBUM_DETAILS_ITUNES
+                );
+
+            case MUSIC_ALBUM:
+                return collectValues(
+                        UpcomingEventValue.MUSIC_ALBUM_DETAILS_SPOTIFY,
+                        UpcomingEventValue.MUSIC_ALBUM_DETAILS_ITUNES,
+                        UpcomingEventValue.MUSIC_ALBUM_ARTIST
+                );
+
+            case SPACE_EVENT:
+                return collectValues(
+                        UpcomingEventValue.SPACE_EVENT_NEWS_URL,
+                        UpcomingEventValue.SPACE_EVENT_VIDEO_URL
+                );
+
+            case SPORT_MLB:
+                return collectValues(
+                        UpcomingEventValue.MLB_TEAM_AWAY,
+                        UpcomingEventValue.MLB_TEAM_HOME
+                );
+
+            case SPACE_NEAR_EARTH_OBJECT:
+                return collectValues(
+                        UpcomingEventValue.NEO_CLOSE_APPROACH_EPOCH,
+                        UpcomingEventValue.NEO_POTENTIALLY_HAZARDOUS,
+                        UpcomingEventValue.NEO_ESTIMATED_DIAMETER_MAX,
+                        UpcomingEventValue.NEO_ESTIMATED_DIAMETER_MIN,
+                        UpcomingEventValue.NEO_RELATIVE_VELOCITY
+                );
+
+            case SPORT_PROFESSIONAL_WRESTLING:
+                return collectValues(
+                        UpcomingEventValue.WRESTLING_MAIN_EVENT,
+                        UpcomingEventValue.WRESTLING_NOTES
+                );
+
+            case SPACE_ROCKET_LAUNCH:
+                return collectValues(
+                        UpcomingEventValue.ROCKET_LAUNCH_STATUS,
+                        UpcomingEventValue.ROCKET_LAUNCH_MISSION_TYPE,
+                        UpcomingEventValue.ROCKET_LAUNCH_WINDOW_START,
+                        UpcomingEventValue.ROCKET_LAUNCH_WINDOW_END,
+                        UpcomingEventValue.ROCKET_LAUNCH_EXACT_DAY,
+                        UpcomingEventValue.ROCKET_LAUNCH_EXACT_TIME,
+                        UpcomingEventValue.ROCKET_LAUNCH_MISSION_NAME,
+                        UpcomingEventValue.ROCKET_LAUNCH_MISSION_DESCRIPTION,
+                        UpcomingEventValue.ROCKET_LAUNCH_PROBABILITY
+                );
+
+            case TICKETMASTER_MUSIC_EVENT:
+                return collectValues(
+                        UpcomingEventValue.TICKETMASTER_MUSIC_SEAT_MAP_URL,
+                        UpcomingEventValue.TICKETMASTER_MUSIC_TICKET_LIMIT,
+                        UpcomingEventValue.TICKETMASTER_MUSIC_PRICE_RANGE_CURRENCY,
+                        UpcomingEventValue.TICKETMASTER_MUSIC_PRICE_RANGE_MAX,
+                        UpcomingEventValue.TICKETMASTER_MUSIC_PRICE_RANGE_MIN,
+                        UpcomingEventValue.TICKETMASTER_MUSIC_PRICE_RANGE_STRING,
+                        UpcomingEventValue.TICKETMASTER_MUSIC_VENUES
+                );
+
+            case TV_SHOW:
+                return null;
+
+            case VIDEO_GAME:
+                return collectValues(
+                        UpcomingEventValue.VIDEO_GAME_PLATFORMS
+                );
+
+            case WORD_OF_THE_DAY:
+                return collectValues(
+                        UpcomingEventValue.WOTD_PRONUNCIATION_URL
+                );
+
+            default:
+                return null;
         }
     }
 }

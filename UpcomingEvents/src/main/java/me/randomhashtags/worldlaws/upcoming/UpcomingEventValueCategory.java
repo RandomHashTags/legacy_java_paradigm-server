@@ -1,6 +1,10 @@
 package me.randomhashtags.worldlaws.upcoming;
 
+import me.randomhashtags.worldlaws.LocalServer;
+import org.json.JSONObject;
+
 public enum UpcomingEventValueCategory {
+    ASTRONOMY_PICTURE_OF_THE_DAY_DETAILS,
     JOKE_OF_THE_DAY_DETAILS,
     MLB_DETAILS,
     MOVIE_DETAILS(UpcomingEventValueCategoryPosition.PRE_CONTENT),
@@ -12,6 +16,7 @@ public enum UpcomingEventValueCategory {
     TICKETMASTER_MUSIC_EVENT_DETAILS,
     TICKETMASTER_VENUES("Venues"),
     VIDEO_GAME_DETAILS(UpcomingEventValueCategoryPosition.PRE_CONTENT, "Releasing for platforms"),
+    WORD_OF_THE_DAY_DETAILS,
     WRESTLING_DETAILS,
     ;
 
@@ -32,10 +37,12 @@ public enum UpcomingEventValueCategory {
         this.header = header;
     }
 
-    public String getHeader() {
-        return header;
-    }
-    public UpcomingEventValueCategoryPosition getPosition() {
-        return position;
+    public JSONObject toJSONObject() {
+        final JSONObject json = new JSONObject();
+        if(header != null) {
+            json.put("header", LocalServer.fixEscapeValues(header));
+        }
+        json.put("position", position.name());
+        return json;
     }
 }

@@ -119,7 +119,7 @@ public interface IMDbService extends DataValues {
                                 genreElements = element.select("a");
                                 break;
                             case "storyline-certificate":
-                                ratingReason = element.text().substring("Motion Picture Rating (MPAA) ".length());
+                                ratingReason = element.text().replace("Motion Picture Rating (MPAA) ", "").replace("Certificate ", "");
                                 break;
                             default:
                                 break;

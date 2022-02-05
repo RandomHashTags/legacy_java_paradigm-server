@@ -23,7 +23,15 @@ public enum Earthquakes implements RestAPI {
 
     private String recentEarthquakes, topRecentEarthquakes;
     private HashMap<String, String> recentTerritoryEarthquakes, topRecentTerritoryEarthquakes;
-    private HashMap<String, String> cachedEarthquakes;
+    private final HashMap<String, String> cachedEarthquakes;
+
+    Earthquakes() {
+        cachedEarthquakes = new HashMap<>();
+    }
+
+    public void clearCachedEarthquakes() {
+        cachedEarthquakes.clear();
+    }
 
     public String getResponse(String[] values) {
         final String key = values[0];
@@ -71,7 +79,6 @@ public enum Earthquakes implements RestAPI {
 
         recentTerritoryEarthquakes = new HashMap<>();
         topRecentTerritoryEarthquakes = new HashMap<>();
-        cachedEarthquakes = new HashMap<>();
 
         final JSONObject json = requestJSONObject(url, RequestMethod.GET);
         if(json != null) {
@@ -180,10 +187,7 @@ public enum Earthquakes implements RestAPI {
     }
 
     private String getEarthquake(String id) {
-        if(cachedEarthquakes.containsKey(id)) {
-            return cachedEarthquakes.get(id);
-        } else {
-            String string = null;
+        if(!cachedEarthquakes.containsKey(id)) {
             final JSONObject json = requestJSONObject("https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=" + id + "&format=geojson", RequestMethod.GET);
             if(json != null) {
                 final JSONObject properties = json.getJSONObject("properties");
@@ -220,11 +224,11 @@ public enum Earthquakes implements RestAPI {
                 final EventSources sources = new EventSources();
                 sources.add(new EventSource("United States Geological Survey: Earthquakes", url));
                 final Earthquake earthquake = new Earthquake(country, subdivision, cause, magnitude, place, time, lastUpdated, depthKM, location, sources);
-                string = earthquake.toString();
+                final String string = earthquake.toString();
                 cachedEarthquakes.put(id, string);
             }
-            return string;
-         }
+        }
+        return cachedEarthquakes.get(id);
     }
 
     private String[] getRegionValues(String place) {

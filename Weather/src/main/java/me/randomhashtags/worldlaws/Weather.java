@@ -54,9 +54,11 @@ public final class Weather implements WLServer {
     @Override
     public long getHomeResponseUpdateInterval() {
         final APIVersion version = APIVersion.v1;
+        final Earthquakes earthquakes = Earthquakes.INSTANCE;
         final NASA_EONET nasa = NASA_EONET.INSTANCE;
         registerFixedTimer(WLUtilities.WEATHER_ALERTS_UPDATE_INTERVAL, () -> WeatherAlerts.INSTANCE.refresh(true));
-        registerFixedTimer(WLUtilities.WEATHER_EARTHQUAKES_UPDATE_INTERVAL, () -> Earthquakes.INSTANCE.refresh(true, false));
+        registerFixedTimer(WLUtilities.WEATHER_EARTHQUAKES_UPDATE_INTERVAL, () -> earthquakes.refresh(true, false));
+        registerFixedTimer(WLUtilities.WEATHER_EARTHQUAKES_CLEAR_CACHE_INTERVAL, earthquakes::clearCachedEarthquakes);
         registerFixedTimer(WLUtilities.WEATHER_NASA_WEATHER_EVENT_TRACKER_UPDATE_INTERVAL, () -> nasa.refresh(version));
         registerFixedTimer(WLUtilities.WEATHER_NASA_WEATHER_VOLCANO_UPDATE_INTERVAL, nasa::clearCachedVolcanoes);
         return WLUtilities.WEATHER_HOME_UPDATE_INTERVAL;
