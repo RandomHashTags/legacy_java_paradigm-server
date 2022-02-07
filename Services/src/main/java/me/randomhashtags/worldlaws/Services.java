@@ -33,7 +33,7 @@ public final class Services implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String value) {
+    public String getServerResponse(APIVersion version, String identifier, String value) {
         final String[] values = value.split("/");
         final String key = values[0];
         switch (key) {
@@ -104,7 +104,7 @@ public final class Services implements WLServer {
             builder.append("}");
             value = builder.toString();
         }
-        WLLogger.logInfo("Services - loaded stock market home response (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("Services - loaded stock market home response (took " + WLUtilities.getElapsedTime(started) + ")");
         return value;
     }
 }

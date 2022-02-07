@@ -9,10 +9,32 @@ public enum RemoteNotificationCategory {
     SOFTWARE_UPDATE_APPLE_APPLE_TV,
     SOFTWARE_UPDATE_APPLE_SAFARI,
     SOFTWARE_UPDATE_APPLE_XCODE,
+    SOFTWARE_UPDATE_APPLE_SECURITY,
 
     SOFTWARE_UPDATE_CONSOLE_PLAYSTATION_4,
     SOFTWARE_UPDATE_CONSOLE_PLAYSTATION_5,
 
     VIDEO_GAME_UPDATE,
     ;
+
+    public String getTitle() {
+        switch (this) {
+            case SOFTWARE_UPDATE_APPLE_IOS:
+            case SOFTWARE_UPDATE_APPLE_IPADOS:
+            case SOFTWARE_UPDATE_APPLE_MACOS:
+            case SOFTWARE_UPDATE_APPLE_WATCHOS:
+            case SOFTWARE_UPDATE_APPLE_TVOS:
+            case SOFTWARE_UPDATE_APPLE_APPLE_TV:
+            case SOFTWARE_UPDATE_APPLE_SAFARI:
+            case SOFTWARE_UPDATE_APPLE_XCODE:
+                return "Apple Software Update";
+            case SOFTWARE_UPDATE_CONSOLE_PLAYSTATION_4:
+            case SOFTWARE_UPDATE_CONSOLE_PLAYSTATION_5:
+                return "PlayStation Console Update";
+            case VIDEO_GAME_UPDATE:
+                return "Video Game Update";
+            default:
+                return "Unknown";
+        }
+    }
 }

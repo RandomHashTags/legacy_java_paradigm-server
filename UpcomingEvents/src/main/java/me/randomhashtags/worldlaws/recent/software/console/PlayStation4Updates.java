@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.Folder;
+import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
@@ -43,7 +44,7 @@ public final class PlayStation4Updates extends RecentEventController {
                     description.append(isFirst ? "" : "\n").append(element.text());
                     isFirst = false;
                 }
-                final PreRecentEvent event = new PreRecentEvent(date, updateNotesTitle, description.toString(), null, new EventSources(new EventSource("PlayStation Support: PS4 System Software", url)));
+                final PreRecentEvent event = new PreRecentEvent(RemoteNotificationCategory.SOFTWARE_UPDATE_CONSOLE_PLAYSTATION_4, date, updateNotesTitle, description.toString(), null, new EventSources(new EventSource("PlayStation Support: PS4 System Software", url)));
                 updates = new HashSet<>() {{ add(event); }};
             }
         }

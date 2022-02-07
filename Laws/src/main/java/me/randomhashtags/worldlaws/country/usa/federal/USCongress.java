@@ -75,7 +75,7 @@ public enum USCongress implements Jsoupable, Jsonable {
             statuses.putIfAbsent(version, new HashMap<>());
             final String string = json.toString();
             statuses.get(version).put(status, string);
-            WLLogger.logInfo("USCongress - loaded" + suffix.replace("%time%", Long.toString(System.currentTimeMillis()-started)));
+            WLLogger.logInfo("USCongress - loaded" + suffix.replace("%time%", WLUtilities.getElapsedTime(started)));
             return string;
         }
     }
@@ -249,7 +249,7 @@ public enum USCongress implements Jsoupable, Jsonable {
             });
             final String string = json.toString();
             enactedBills.put(versionInt, string);
-            WLLogger.logInfo("USCongress - loaded enacted bills for congress " + version + " (took " + (System.currentTimeMillis()-started) + "ms)");
+            WLLogger.logInfo("USCongress - loaded enacted bills for congress " + version + " (took " + WLUtilities.getElapsedTime(started) + ")");
             return string;
         }
 
@@ -304,7 +304,7 @@ public enum USCongress implements Jsoupable, Jsonable {
             }
             final String string = stringAtomic.get();
             bills.put(id, string);
-            WLLogger.logInfo("USCongress - loaded bill from chamber \"" + chamberName + "\" with title \"" + title[0] + "\" for congress " + version + " (took " + (System.currentTimeMillis()-started) + "ms)");
+            WLLogger.logInfo("USCongress - loaded bill from chamber \"" + chamberName + "\" with title \"" + title[0] + "\" for congress " + version + " (took " + WLUtilities.getElapsedTime(started) + ")");
         }
         return bills.get(id);
     }

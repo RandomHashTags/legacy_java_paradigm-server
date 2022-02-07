@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.smartphones;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.WLUtilities;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -62,7 +63,7 @@ public enum PhonesGoogle implements SmartphoneCompany {
         }
         builder.append("]");
         modelsList = builder.toString();
-        WLLogger.logInfo("PhonesGoogle - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("PhonesGoogle - refreshed (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     private List<Smartphone> getPhonesFromTable(Element table, String url) {
         final String brand = getBackendID();

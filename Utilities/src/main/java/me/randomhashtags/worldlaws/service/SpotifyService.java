@@ -1,9 +1,6 @@
 package me.randomhashtags.worldlaws.service;
 
-import me.randomhashtags.worldlaws.DataValues;
-import me.randomhashtags.worldlaws.RequestMethod;
-import me.randomhashtags.worldlaws.RestAPI;
-import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.*;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -41,7 +38,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
         final int expireDuration = json.getInt("expires_in") * 1_000;
         json.put("expiration", requestTime + expireDuration);
         json.remove("expires_in");
-        WLLogger.logInfo("DataValues - refreshed Spotify Access Token (took " + (System.currentTimeMillis()-requestTime) + "ms)");
+        WLLogger.logInfo("DataValues - refreshed Spotify Access Token (took " + WLUtilities.getElapsedTime(requestTime) + ")");
         return json;
     }
     private JSONObject refreshSpotifyToken() {
@@ -70,7 +67,7 @@ public interface SpotifyService extends QuotaHandler, RestAPI, DataValues {
                 return targetJSON;
             }
         }
-        WLLogger.logError("SpotifyService", "failed to load album with name \"" + album + "\" with artists " + artists.toString() + " (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logError("SpotifyService", "failed to load album with name \"" + album + "\" with artists " + artists.toString() + " (took " + WLUtilities.getElapsedTime(started) + ")");
         return null;
     }
     private JSONObject tryRequesting(String album) {

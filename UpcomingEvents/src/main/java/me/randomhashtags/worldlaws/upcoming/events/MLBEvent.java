@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
 
 public final class MLBEvent extends UpcomingEvent {
     private final String awayTeam, homeTeam;
@@ -20,8 +21,8 @@ public final class MLBEvent extends UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
-                "\"awayTeam\":" + awayTeam + "," +
-                "\"homeTeam\":" + homeTeam +
+                "\"" + UpcomingEventValue.MLB_TEAM_AWAY.getKey() + "\":" + awayTeam + "," +
+                "\"" + UpcomingEventValue.MLB_TEAM_HOME.getKey() + "\":" + homeTeam +
                 "}";
     }
 }

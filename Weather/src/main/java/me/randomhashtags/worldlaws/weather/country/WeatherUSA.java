@@ -104,7 +104,7 @@ public enum WeatherUSA implements WeatherController {
                     e.printStackTrace();
                 }
             }
-            WLLogger.logInfo("WeatherUSA - loaded" + suffix + " (took " + (System.currentTimeMillis()-started) + "ms)");
+            WLLogger.logInfo("WeatherUSA - loaded" + suffix + " (took " + WLUtilities.getElapsedTime(started) + ")");
             if(!officeIDs.isEmpty()) {
                 processZoneOffices(officeIDs);
             }
@@ -135,7 +135,7 @@ public enum WeatherUSA implements WeatherController {
                     e.printStackTrace();
                 }
             }
-            WLLogger.logInfo("WeatherUSA - loaded" + suffix + " (took " + (System.currentTimeMillis()-started) + "ms)");
+            WLLogger.logInfo("WeatherUSA - loaded" + suffix + " (took " + WLUtilities.getElapsedTime(started) + ")");
         }
     }
     private String processAlerts(HashSet<JSONObject> jsons) {

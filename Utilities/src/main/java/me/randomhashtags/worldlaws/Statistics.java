@@ -90,7 +90,7 @@ public enum Statistics implements Jsonable, QuotaHandler {
         json.put("_totalUniqueIdentifiers", totalUniqueIdentifiers.size());
         FOLDER.setCustomFolderName(fileName, getFolderPath());
         Jsonable.setFileJSONObject(FOLDER, fileName, json);
-        WLLogger.logInfo(serverName + " - Saved statistics (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo(serverName + " - Saved statistics (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     public JSONObject getTrendingJSON() {
         final JSONObject json = getLatestLogJSON();

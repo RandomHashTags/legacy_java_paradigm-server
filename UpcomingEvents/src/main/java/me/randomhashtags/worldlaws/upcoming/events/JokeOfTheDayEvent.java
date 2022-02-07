@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.events;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
 
 public final class JokeOfTheDayEvent extends UpcomingEvent {
 
@@ -23,9 +24,9 @@ public final class JokeOfTheDayEvent extends UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
-                "\"copyright\":\"" + copyright + "\"," +
-                (answer != null ? "\"answer\":\"" + answer + "\"," : "") +
-                "\"question\":\"" + question + "\"" +
+                "\"" + UpcomingEventValue.JOKE_OF_THE_DAY_COPYRIGHT.getKey() + "\":\"" + copyright + "\"," +
+                (answer != null ? "\"" + UpcomingEventValue.JOKE_OF_THE_DAY_ANSWER.getKey() + "\":\"" + answer + "\"," : "") +
+                "\"" + UpcomingEventValue.JOKE_OF_THE_DAY_QUESTION + "\":\"" + question + "\"" +
                 "}";
     }
 }

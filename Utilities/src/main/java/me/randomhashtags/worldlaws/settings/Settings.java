@@ -5,6 +5,8 @@ import me.randomhashtags.worldlaws.Jsonable;
 import me.randomhashtags.worldlaws.TargetServer;
 import org.json.JSONObject;
 
+import java.util.UUID;
+
 public enum Settings {
     ;
 
@@ -52,6 +54,9 @@ public enum Settings {
         }
         private static JSONObject getServerJSON(TargetServer server) {
             return getOrDefaultJSONObject(getServersJSON(), server.getBackendID(), new JSONObject());
+        }
+        public static String getUUID() {
+            return getOrDefaultString(getServersJSON(), "uuid", "***REMOVED***");
         }
         public static int getProxyPort() {
             return getOrDefaultInt(getServersJSON(), "proxy_port", 0);

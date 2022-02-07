@@ -4,6 +4,7 @@ import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.WLUtilities;
+import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
@@ -50,12 +51,32 @@ public final class AppleSoftwareUpdates extends RecentEventController {
                         if(localDate.isAfter(startingDate)) {
                             final Element nameElement = tds.get(0);
                             String name = nameElement.text();
-                            if(name.startsWith("***REMOVED***")
-                                    || name.startsWith("***REMOVED***") || name.startsWith("***REMOVED***") || name.startsWith("***REMOVED***") || name.startsWith("***REMOVED***")
-                                    || name.startsWith("***REMOVED***") || name.startsWith("Apple TV")
-                                    || name.startsWith("***REMOVED***")
-                                    || name.startsWith("***REMOVED***")
+                            final boolean isSecurity = name.startsWith("***REMOVED***"),
+                                    isIOS = name.startsWith("***REMOVED***"),
+                                    isIPadOS = name.startsWith("***REMOVED***"),
+                                    isMacOS = name.startsWith("***REMOVED***"),
+                                    isWatchOS = name.startsWith("***REMOVED***"),
+                                    isTVOS = name.startsWith("***REMOVED***"),
+                                    isAppleTV = name.startsWith("Apple TV"),
+                                    isSafari = name.startsWith("***REMOVED***"),
+                                    isXcode = name.startsWith("***REMOVED***")
+                                            ;
+                            if(isSecurity
+                                    || isIOS || isIPadOS || isMacOS || isWatchOS
+                                    || isTVOS || isAppleTV
+                                    || isSafari
+                                    || isXcode
                             ) {
+                                final RemoteNotificationCategory category = isSecurity ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_SECURITY
+                                        : isIOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_IOS
+                                        : isIPadOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_IPADOS
+                                        : isMacOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_MACOS
+                                        : isWatchOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_WATCHOS
+                                        : isTVOS ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_TVOS
+                                        : isAppleTV ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_APPLE_TV
+                                        : isSafari ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_SAFARI
+                                        : isXcode ? RemoteNotificationCategory.SOFTWARE_UPDATE_APPLE_XCODE
+                                        : null;
                                 String description = null;
                                 for(Map.Entry<String, String> map : descriptionValues.entrySet()) {
                                     final String key = map.getKey();
@@ -76,7 +97,7 @@ public final class AppleSoftwareUpdates extends RecentEventController {
                                     final String ahref = link.attr("href");
                                     sources.add(new EventSource("Apple Support: " + name, ahref));
                                 }
-                                final PreRecentEvent preRecentEvent = new PreRecentEvent(date, name, description, null, sources, customValues);
+                                final PreRecentEvent preRecentEvent = new PreRecentEvent(category, date, name, description, null, sources, customValues);
                                 events.add(preRecentEvent);
                             }
                         }

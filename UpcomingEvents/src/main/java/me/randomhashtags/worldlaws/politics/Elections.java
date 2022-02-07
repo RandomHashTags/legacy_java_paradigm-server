@@ -96,7 +96,7 @@ public enum Elections implements RestAPI, DataValues {
             builder.append("}");
             string = builder.toString();
         }
-        WLLogger.logInfo("Elections - refreshed upcoming elections (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("Elections - refreshed upcoming elections (took " + WLUtilities.getElapsedTime(started) + ")");
         return string;
     }
     private void getRepresentatives(String ocdDivisionId, CompletionHandler handler) {

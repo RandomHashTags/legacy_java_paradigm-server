@@ -38,7 +38,7 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
             final String upcomingEventsLoaded = !upcomingEvents.isEmpty() ? upcomingEvents.size() + " upcomingEvents" : null;
             String amount = "(" + (preUpcomingEventsLoaded != null ? preUpcomingEventsLoaded + (upcomingEventsLoaded != null ? ", " : "") : "") + (upcomingEventsLoaded != null ? upcomingEventsLoaded : "") + ")";
             amount = amount.equals("()") ? "0" : amount;
-            WLLogger.logInfo(getType().name() + " - loaded " + amount + " events (took " + (System.currentTimeMillis()-started) + "ms)");
+            WLLogger.logInfo(getType().name() + " - loaded " + amount + " events (took " + WLUtilities.getElapsedTime(started) + ")");
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }
@@ -186,5 +186,12 @@ public abstract class UpcomingEventController implements YouTubeService, Jsoupab
 
     public void putLoadedPreUpcomingEvent(String identifier, String value) {
         loadedPreUpcomingEvents.put(identifier, value);
+    }
+
+    public ConcurrentHashMap<String, String> getLoadedPreUpcomingEvents() {
+        return loadedPreUpcomingEvents;
+    }
+    public ConcurrentHashMap<String, String> getUpcomingEvents() {
+        return upcomingEvents;
     }
 }

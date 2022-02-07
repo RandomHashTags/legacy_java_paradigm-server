@@ -25,7 +25,7 @@ public abstract class LawController {
             final CompletionHandler completionHandler = new CompletionHandler() {
                 @Override
                 public void handleString(String string) {
-                    WLLogger.logInfo(simpleName + " - refreshed recent activity (took " + (System.currentTimeMillis()-started.get()) + "ms)");
+                    WLLogger.logInfo(simpleName + " - refreshed recent activity (took " + WLUtilities.getElapsedTime(started.get()) + ")");
                     recentActivity.put(version, string);
                 }
             };

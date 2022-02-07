@@ -141,7 +141,7 @@ public final class CustomCountry implements SovereignState {
                 information = new SovereignStateInformation(json);
             }
             updateNonStaticInformation();
-            WLLogger.logInfo("CustomCountry - loaded information for country \"" + name + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+            WLLogger.logInfo("CustomCountry - loaded information for country \"" + name + "\" (took " + WLUtilities.getElapsedTime(started) + ")");
         }
         return informationCache;
     }

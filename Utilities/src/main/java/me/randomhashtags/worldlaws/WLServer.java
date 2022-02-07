@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 
 import java.util.Arrays;
@@ -31,15 +32,12 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     }
     default void startServer() {
         final LocalServer localServer = getLocalServer();
+        final String serverUUID = Settings.Server.getUUID();
         final CompletionHandler handler = new CompletionHandler() {
             @Override
             public void handleClient(WLClient client) {
                 final String target = client.getTarget();
                 if(target == null) {
-                    return;
-                }
-                if(target.equals("ping")) {
-                    client.sendResponse("1");
                     return;
                 }
                 if(target.startsWith("favicon")) {
@@ -49,6 +47,19 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 String identifier = client.getIdentifier();
                 if(identifier == null) {
                     identifier = "null";
+                }
+                if(identifier.equals(serverUUID)) {
+                    switch (target) {
+                        case "ping":
+                            client.sendResponse("1");
+                            break;
+                        case "stop":
+                            stop();
+                            break;
+                        default:
+                            break;
+                    }
+                    return;
                 }
                 final String string = getResponse(localServer, identifier, target);
                 client.sendResponse(string);
@@ -66,18 +77,16 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         switch (values[1]) {
             case "home":
                 return getHomeResponse(version);
-            case "ping":
-                return "1";
             default:
                 localServer.madeRequest(identifier, target);
-                String string = getServerResponse(version, target.substring(versionString.length() + 1));
+                String string = getServerResponse(version, identifier, target.substring(versionString.length() + 1));
                 if(string == null) {
                     string = WLUtilities.SERVER_EMPTY_JSON_RESPONSE;
                 }
                 return string;
         }
     }
-    String getServerResponse(APIVersion version, String target);
+    String getServerResponse(APIVersion version, String identifier, String target);
     default long getHomeResponseUpdateInterval() {
         return 0;
     }
@@ -108,7 +117,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     }
     private String refreshHome(String simpleName, long started, String serverName, TargetServer server, APIVersion version) {
         final String string = refreshHome(server, version);
-        WLLogger.logInfo(simpleName + " - auto updated \"" + serverName + "\"'s home response (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo(simpleName + " - auto updated \"" + serverName + "\"'s home response (took " + WLUtilities.getElapsedTime(started) + ")");
         return string;
     }
     private String refreshHome(TargetServer server, APIVersion version) {
@@ -118,8 +127,9 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
             return null;
         } else {
             final HashSet<String> values = new HashSet<>();
+            final String serverUUID = Settings.Server.getUUID();
             new ParallelStream<String>().stream(Arrays.asList(requests), request -> {
-                final String string = getServerResponse(version, request);
+                final String string = getServerResponse(version, serverUUID, request);
                 if(string != null) {
                     final String target = "\"" + request + "\":" + string;
                     values.add(target);

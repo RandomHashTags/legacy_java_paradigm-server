@@ -3,21 +3,24 @@ package me.randomhashtags.worldlaws.recent;
 import me.randomhashtags.worldlaws.EventDate;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 
 public class PreRecentEvent {
+    protected final RemoteNotificationCategory category;
     protected final EventDate date;
     protected final String title, description, imageURL;
     protected final EventSources sources;
     protected final HashMap<String, Object> customValues;
 
-    public PreRecentEvent(EventDate date, String title, String description, String imageURL, EventSources sources) {
-        this(date, title, description, imageURL, sources, null);
+    public PreRecentEvent(RemoteNotificationCategory category, EventDate date, String title, String description, String imageURL, EventSources sources) {
+        this(category, date, title, description, imageURL, sources, null);
     }
-    public PreRecentEvent(EventDate date, String title, String description, String imageURL, EventSources sources, HashMap<String, Object> customValues) {
+    public PreRecentEvent(RemoteNotificationCategory category, EventDate date, String title, String description, String imageURL, EventSources sources, HashMap<String, Object> customValues) {
+        this.category = category;
         this.date = date;
         this.title = LocalServer.fixEscapeValues(title);
         this.description = LocalServer.fixEscapeValues(description);
@@ -28,6 +31,9 @@ public class PreRecentEvent {
 
     public boolean areEqual(PreRecentEvent right) {
         return date.areEqual(right.date) && Objects.equals(title, right.title) && Objects.equals(description, right.description);
+    }
+    public RemoteNotificationCategory getRemoteNotificationCategory() {
+        return category;
     }
     public String getTitle() {
         return title;

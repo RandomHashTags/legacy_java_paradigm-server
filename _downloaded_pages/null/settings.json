@@ -3,6 +3,7 @@
     "maximum_parallel_threads": 25
   },
   "server": {
+    "uuid": "***REMOVED***",
     "proxy_port": 0,
     "default_address": "http://localhost",
     "servers": {

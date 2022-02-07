@@ -173,7 +173,7 @@ public enum NASA_EONET implements WLService {
             }
             cache.put(version, string);
         }
-        WLLogger.logInfo("NASA_EONET - loaded " + amount + " events (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("NASA_EONET - loaded " + amount + " events (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     private HashMap<String, String> getVolcanoWikipediaPages() {
         return new HashMap<>() {{

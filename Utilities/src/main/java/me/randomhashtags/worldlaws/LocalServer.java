@@ -59,7 +59,7 @@ public final class LocalServer implements UserServer, DataValues {
         }
         try {
             server.close();
-            WLLogger.logInfo(serverName + " - server has shut down (took " + (System.currentTimeMillis()-started) + "ms)");
+            WLLogger.logInfo(serverName + " - server has shut down (took " + WLUtilities.getElapsedTime(started) + ")");
         } catch (Exception e) {
             WLUtilities.saveException(e);
         }

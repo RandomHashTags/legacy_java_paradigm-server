@@ -241,14 +241,14 @@ public enum UpcomingEventType {
         switch (this) {
             case ASTRONOMY_PICTURE_OF_THE_DAY:
                 return collectValues(
-                        UpcomingEventValue.APOD_COPYRIGHT
+                        UpcomingEventValue.ASTRONOMY_PICTURE_OF_THE_DAY_COPYRIGHT
                 );
 
             case JOKE_OF_THE_DAY:
                 return collectValues(
-                        UpcomingEventValue.JOTD_COPYRIGHT,
-                        UpcomingEventValue.JOTD_QUESTION,
-                        UpcomingEventValue.JOTD_ANSWER
+                        UpcomingEventValue.JOKE_OF_THE_DAY_COPYRIGHT,
+                        UpcomingEventValue.JOKE_OF_THE_DAY_QUESTION,
+                        UpcomingEventValue.JOKE_OF_THE_DAY_ANSWER
                 );
 
             case MOVIE:
@@ -279,11 +279,11 @@ public enum UpcomingEventType {
 
             case SPACE_NEAR_EARTH_OBJECT:
                 return collectValues(
-                        UpcomingEventValue.NEO_CLOSE_APPROACH_EPOCH,
-                        UpcomingEventValue.NEO_POTENTIALLY_HAZARDOUS,
-                        UpcomingEventValue.NEO_ESTIMATED_DIAMETER_MAX,
-                        UpcomingEventValue.NEO_ESTIMATED_DIAMETER_MIN,
-                        UpcomingEventValue.NEO_RELATIVE_VELOCITY
+                        UpcomingEventValue.NEAR_EARTH_OBJECT_CLOSE_APPROACH_EPOCH,
+                        UpcomingEventValue.NEAR_EARTH_OBJECT_POTENTIALLY_HAZARDOUS,
+                        UpcomingEventValue.NEAR_EARTH_OBJECT_ESTIMATED_DIAMETER_MAX,
+                        UpcomingEventValue.NEAR_EARTH_OBJECT_ESTIMATED_DIAMETER_MIN,
+                        UpcomingEventValue.NEAR_EARTH_OBJECT_RELATIVE_VELOCITY
                 );
 
             case SPORT_PROFESSIONAL_WRESTLING:
@@ -326,7 +326,9 @@ public enum UpcomingEventType {
 
             case WORD_OF_THE_DAY:
                 return collectValues(
-                        UpcomingEventValue.WOTD_PRONUNCIATION_URL
+                        UpcomingEventValue.WORD_OF_THE_DAY_TYPE,
+                        UpcomingEventValue.WORD_OF_THE_DAY_SYLLABLES,
+                        UpcomingEventValue.WORD_OF_THE_DAY_PRONUNCIATION_URL
                 );
 
             default:

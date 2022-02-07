@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.events;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
 
 public class ProWrestlingEvent extends UpcomingEvent {
     private final String mainEvent, notes;
@@ -21,8 +22,8 @@ public class ProWrestlingEvent extends UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
-                (mainEvent != null ? "\"mainEvent\":\"" + mainEvent + "\"" + (notes != null ? "," : "") : "") +
-                (notes != null ? "\"notes\":\"" + notes + "\"" : "") +
+                (mainEvent != null ? "\"" + UpcomingEventValue.WRESTLING_MAIN_EVENT.getKey() +  "\":\"" + mainEvent + "\"" + (notes != null ? "," : "") : "") +
+                (notes != null ? "\"" + UpcomingEventValue.WRESTLING_NOTES.getKey() + "\":\"" + notes + "\"" : "") +
                 "}";
     }
 }

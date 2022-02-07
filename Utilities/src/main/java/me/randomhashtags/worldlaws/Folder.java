@@ -1,6 +1,8 @@
 package me.randomhashtags.worldlaws;
 
 import java.io.File;
+import java.nio.file.Path;
+import java.util.HashSet;
 import java.util.concurrent.ConcurrentHashMap;
 
 public enum Folder {
@@ -37,6 +39,7 @@ public enum Folder {
     FEEDBACK_FEATURE_REQUEST("feedback" + File.separator + "feature request"),
     LOGS("logs" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%" + File.separator + "%type%"),
     OTHER(null),
+    REMOTE_NOTIFICATIONS("remoteNotifications" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%"),
 
     UPCOMING_EVENTS("upcoming events"),
     UPCOMING_EVENTS_YEAR_MONTH_DAY("upcoming events" + File.separator + "%year%" + File.separator + "%month%" + File.separator + "%day%"),
@@ -86,10 +89,30 @@ public enum Folder {
             case FEEDBACK_BUG_REPORTS:
             case FEEDBACK_FEATURE_REQUEST:
             case LOGS:
+            case REMOTE_NOTIFICATIONS:
             case ERRORS:
                 return currentFolder + "_" + folderName;
             default:
                 return currentFolder + "_downloaded_pages" + File.separator + folderName;
         }
+    }
+
+    public HashSet<Path> getAllFilePaths(String id) {
+        final String currentFolder = Jsonable.USER_DIR;
+        String folderName = getFolderName(id);
+        if(folderName == null) {
+            folderName = this.folderName;
+        }
+        final File folderFile = new File(currentFolder + folderName);
+        final File[] files = folderFile.exists() && folderFile.isDirectory() ? folderFile.listFiles() : null;
+        removeCustomFolderName(id);
+
+        final HashSet<Path> paths = new HashSet<>();
+        if(files != null) {
+            for(File file : files) {
+                paths.add(file.toPath());
+            }
+        }
+        return paths.isEmpty() ? null : paths;
     }
 }

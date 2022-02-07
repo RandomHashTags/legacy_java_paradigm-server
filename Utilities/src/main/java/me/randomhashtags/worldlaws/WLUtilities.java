@@ -159,6 +159,12 @@ public abstract class WLUtilities {
         Jsonable.saveFile(sender, folder, fileName, value, "txt");
     }
 
-    static void postRemoteNotification(String title, String message) {
+    public static String getElapsedTime(long started) {
+        long elapsedMilliseconds = System.currentTimeMillis()-started;
+        long elapsedSeconds = elapsedMilliseconds / 1000;
+        elapsedMilliseconds -= elapsedSeconds * 1000;
+        final long elapsedMinutes = elapsedSeconds / 60;
+        elapsedSeconds -= elapsedMinutes * 60;
+        return (elapsedMinutes > 0 ? elapsedMinutes + "m " : "") + (elapsedSeconds > 0 ? elapsedSeconds + "s " : "") + elapsedMilliseconds + "ms";
     }
 }

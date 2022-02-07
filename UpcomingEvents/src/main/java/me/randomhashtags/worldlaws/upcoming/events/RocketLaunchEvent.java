@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.events;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
 
 public final class RocketLaunchEvent extends UpcomingEvent {
     private final String status, windowStart, windowEnd;
@@ -29,13 +30,13 @@ public final class RocketLaunchEvent extends UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
-                (mission != null ? "\"mission\":" + mission.toString() + "," : "") +
-                "\"windowStart\":\"" + windowStart + "\"," +
-                "\"windowEnd\":\"" + windowEnd + "\"," +
-                "\"exactDay\":" + exactDay + "," +
-                "\"exactTime\":" + exactTime + "," +
-                "\"status\":\"" + status + "\"," +
-                "\"probability\":" + probability +
+                (mission != null ? mission.toString() + "," : "") +
+                "\"" + UpcomingEventValue.ROCKET_LAUNCH_WINDOW_START.getKey() + "\":\"" + windowStart + "\"," +
+                "\"" + UpcomingEventValue.ROCKET_LAUNCH_WINDOW_END.getKey() + "\":\"" + windowEnd + "\"," +
+                "\"" + UpcomingEventValue.ROCKET_LAUNCH_EXACT_DAY.getKey() + "\":" + exactDay + "," +
+                "\"" + UpcomingEventValue.ROCKET_LAUNCH_EXACT_TIME.getKey() + "\":" + exactTime + "," +
+                "\"" + UpcomingEventValue.ROCKET_LAUNCH_STATUS.getKey() + "\":\"" + status + "\"," +
+                "\"" + UpcomingEventValue.ROCKET_LAUNCH_PROBABILITY.getKey() + "\":" + probability +
                 "}";
     }
 }

@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
 import org.json.JSONObject;
 
 import java.util.HashSet;
@@ -38,10 +39,10 @@ public final class TicketmasterMusicEvent extends UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
-                "\"seatMapURL\":\"" + seatMapURL + "\"," +
+                "\"" + UpcomingEventValue.TICKETMASTER_MUSIC_SEAT_MAP_URL.getKey() + "\":\"" + seatMapURL + "\"," +
                 "\"ticketLimit\":" + ticketLimit.toString() + "," +
                 "\"priceRange\":" + priceRange.toString() + "," +
-                "\"venues\":" + getVenuesJSON() +
+                "\"" + UpcomingEventValue.TICKETMASTER_MUSIC_VENUES.getKey() + "\":" + getVenuesJSON() +
                 "}";
     }
 }

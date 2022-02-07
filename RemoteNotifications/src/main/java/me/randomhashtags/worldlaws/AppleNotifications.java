@@ -9,7 +9,6 @@ import org.json.JSONObject;
 import java.util.Base64;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.UUID;
 
 public enum AppleNotifications implements DeviceTokenController {
     // https://developer.apple.com/documentation/usernotifications/setting_up_a_remote_notification_server
@@ -83,6 +82,8 @@ public enum AppleNotifications implements DeviceTokenController {
 
     @Override
     public void sendNotification(RemoteNotification notification) {
+        final long started = System.currentTimeMillis();
+        final String uuid = notification.getUUID();
         if(!deviceTokens.isEmpty()) {
             final JSONObject json = new JSONObject();
             final JSONObject aps = new JSONObject();
@@ -92,7 +93,6 @@ public enum AppleNotifications implements DeviceTokenController {
             aps.put("category", notification.getCategory().name());
             json.put("aps", aps);
 
-            final String uuid = "***REMOVED***";
             final String connectionToken = getConnectionToken();
             final HashMap<String, String> primaryHeaders = new HashMap<>();
             primaryHeaders.put("authorization", "bearer " + connectionToken);
@@ -108,5 +108,6 @@ public enum AppleNotifications implements DeviceTokenController {
                 final JSONObject postJSON = requestJSONObject(url, RequestMethod.POST, headers);
             });
         }
+        WLLogger.logInfo("AppleNotifications - sent " + uuid + " to " + deviceTokens.size() + " devices (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 }

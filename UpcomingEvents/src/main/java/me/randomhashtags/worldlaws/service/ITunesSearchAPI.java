@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.service;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.WLUtilities;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -56,7 +57,7 @@ public interface ITunesSearchAPI extends RestAPI {
                 }
             }
         }
-        WLLogger.logError("ITunesSearchAPI", "failed to load album with name \"" + term + "\" with artist " + artist + " (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logError("ITunesSearchAPI", "failed to load album with name \"" + term + "\" with artist " + artist + " (took " + WLUtilities.getElapsedTime(started) + ")");
         return null;
     }
 }

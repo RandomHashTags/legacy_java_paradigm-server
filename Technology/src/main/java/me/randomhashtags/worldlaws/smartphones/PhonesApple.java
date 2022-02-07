@@ -68,7 +68,7 @@ public enum PhonesApple implements SmartphoneCompany {
         }
         builder.append("]");
         modelsList = builder.toString();
-        WLLogger.logInfo("PhonesApple - refreshed (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("PhonesApple - refreshed (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     private List<Smartphone> getPhonesFromTable(Element table, String url, boolean hasLIDAR) {
         final String brand = getBackendID();

@@ -55,7 +55,8 @@ public final class Countries implements WLServer {
     }
 
     private void test() {
-        //SunriseSunsetCalculator.test();
+        final String string = WLUtilities.getElapsedTime(System.currentTimeMillis());
+        WLLogger.logInfo("Countries;test;string=" + string);
     }
 
     @Override
@@ -97,7 +98,7 @@ public final class Countries implements WLServer {
         new ParallelStream<CountryService>().stream(CountryServices.NONSTATIC_SERVICES, SovereignStateService::loadData);
         CustomCountry.LOADED_NON_STATIC_INFORMATION = true;
         new ParallelStream<CustomCountry>().stream(countriesMap.values(), CustomCountry::updateNonStaticInformation);
-        WLLogger.logInfo("Countries - refreshed " + countriesMap.size() + " non-static country information (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("Countries - refreshed " + countriesMap.size() + " non-static country information (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 
     private String getCountries() {
@@ -191,7 +192,7 @@ public final class Countries implements WLServer {
             }
         }
         checkForMissingValues();
-        WLLogger.logInfo("Countries - loaded " + countriesMap.size() + " countries (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("Countries - loaded " + countriesMap.size() + " countries (took " + WLUtilities.getElapsedTime(started) + ")");
         return countriesCacheJSON;
     }
 
@@ -230,7 +231,7 @@ public final class Countries implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String target) {
+    public String getServerResponse(APIVersion version, String identifier, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {

@@ -134,7 +134,7 @@ public enum TwelveData implements StockService {
             isFirst = false;
         }
         final StockChart chart = new StockChart(started, builder.toString());
-        WLLogger.logInfo("TwelveData - loaded chart for symbol \"" + symbol + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("TwelveData - loaded chart for symbol \"" + symbol + "\" (took " + WLUtilities.getElapsedTime(started) + ")");
         return chart.toString();
     }
 }

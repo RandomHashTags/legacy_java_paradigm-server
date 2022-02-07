@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
 import org.json.JSONArray;
 
 public final class VideoGameEvent extends UpcomingEvent {
@@ -20,7 +21,7 @@ public final class VideoGameEvent extends UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return "{" +
-                "\"platforms\":" + platforms +
+                "\"" + UpcomingEventValue.VIDEO_GAME_PLATFORMS.getKey() + "\":" + platforms +
                 "}";
     }
 }

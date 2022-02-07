@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.notifications.RemoteNotification;
+import me.randomhashtags.worldlaws.notifications.RemoteNotificationCategory;
 import me.randomhashtags.worldlaws.recent.PreRecentEvent;
 import me.randomhashtags.worldlaws.recent.RecentEventController;
 import me.randomhashtags.worldlaws.recent.RecentEventType;
@@ -32,11 +34,12 @@ public enum RecentEvents {
         new ParallelStream<RecentEventController>().stream(Arrays.asList(events), controller -> {
             final HashSet<PreRecentEvent> preRecentEvents = controller.refreshHashSet(lastWeek);
             final HashSet<PreRecentEvent> newEvents = controller.getNewInformation(preRecentEvents);
-            if(newEvents != null) { // TODO: submit remote notification
-                final String prefix = "RecentEvents;controller=" + controller.getClass().getSimpleName() + ";newEvent=";
-                for(PreRecentEvent event : newEvents) {
-                    WLLogger.logInfo(prefix + event.toString());
-                }
+            if(newEvents != null) {
+                new ParallelStream<PreRecentEvent>().stream(preRecentEvents, event -> {
+                    final RemoteNotificationCategory category = event.getRemoteNotificationCategory();
+                    new RemoteNotification(category, false, category.getTitle(), event.getTitle(), event.getDescription());
+                });
+                RemoteNotification.pushPending();
             }
             if(preRecentEvents != null && !preRecentEvents.isEmpty()) {
                 final RecentEventType type = controller.getType();
@@ -85,7 +88,7 @@ public enum RecentEvents {
             builder.append("}");
             value = builder.toString();
         }
-        WLLogger.logInfo("RecentEvents - loaded (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("RecentEvents - loaded (took " + WLUtilities.getElapsedTime (started) + ")");
         return value;
     }
 }

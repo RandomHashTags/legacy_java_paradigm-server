@@ -65,7 +65,7 @@ public enum NewsAPIDotOrg implements NewsService {
         builder.append("]");
         final String json = builder.toString();
         countryHeadlines.put(countryISOAlpha2, json);
-        WLLogger.logInfo("NewsAPIDotOrg - refreshed top headlines" + (countryISOAlpha2 != null ? " for country ISO Alpha2 \"" + countryISOAlpha2 + "\"" : "") + " (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("NewsAPIDotOrg - refreshed top headlines" + (countryISOAlpha2 != null ? " for country ISO Alpha2 \"" + countryISOAlpha2 + "\"" : "") + " (took " + WLUtilities.getElapsedTime(started) + ")");
         return json;
     }
 }

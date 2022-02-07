@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.country.usa.service;
 import me.randomhashtags.worldlaws.RequestMethod;
 import me.randomhashtags.worldlaws.RestAPI;
 import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.country.usa.CongressService;
 import me.randomhashtags.worldlaws.people.HumanName;
 import org.json.JSONArray;
@@ -50,7 +51,7 @@ public enum UnitedStatesProject implements RestAPI, CongressService {
         } else {
             WLLogger.logError(this, "loadPoliticians - array == null!");
         }
-        WLLogger.logInfo("UnitedStatesProject - loaded " + amount + " " + typeString + " politicians (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("UnitedStatesProject - loaded " + amount + " " + typeString + " politicians (took " + WLUtilities.getElapsedTime(started) + ")");
     }
     private enum CongressType {
         CURRENT,

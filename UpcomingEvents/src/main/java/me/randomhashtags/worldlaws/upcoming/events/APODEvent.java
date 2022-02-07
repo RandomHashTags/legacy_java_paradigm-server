@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.events;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
 
 public final class APODEvent extends UpcomingEvent {
 
@@ -21,7 +22,7 @@ public final class APODEvent extends UpcomingEvent {
     @Override
     public String getPropertiesJSONObject() {
         return copyright == null ? null : "{" +
-                "\"copyright\":\"" + copyright + "\"" +
+                "\"" + UpcomingEventValue.ASTRONOMY_PICTURE_OF_THE_DAY_COPYRIGHT.getKey() + "\":\"" + copyright + "\"" +
                 "}";
     }
 }

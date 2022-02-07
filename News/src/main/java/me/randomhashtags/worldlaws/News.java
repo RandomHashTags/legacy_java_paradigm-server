@@ -19,7 +19,7 @@ public class News implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String target) {
+    public String getServerResponse(APIVersion version, String identifier, String target) {
         return service.getResponseJSON(target);
     }
 }

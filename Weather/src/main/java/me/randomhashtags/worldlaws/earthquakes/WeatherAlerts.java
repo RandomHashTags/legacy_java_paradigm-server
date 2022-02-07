@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.earthquakes;
 
 import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.WLUtilities;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.weather.WeatherController;
 import me.randomhashtags.worldlaws.weather.country.WeatherUSA;
@@ -142,7 +143,7 @@ public enum WeatherAlerts {
         final WeatherController[] countries = getCountries();
         new ParallelStream<WeatherController>().stream(Arrays.asList(countries), controller -> {
             refreshCountry(controller);
-            controllerLoadTimes.put(controller.getClass().getSimpleName(), System.currentTimeMillis()-started);
+            controllerLoadTimes.put(controller.getClass().getSimpleName(), System.currentTimeMillis());
         });
 
         updateJSON();
@@ -150,11 +151,11 @@ public enum WeatherAlerts {
         boolean isFirst = true;
         for(Map.Entry<String, Long> map : controllerLoadTimes.entrySet()) {
             final String simpleName = map.getKey();
-            final long time = map.getValue();
-            loadTimes.append(isFirst ? "" : ",").append(simpleName).append(" took ").append(time).append("ms");
+            final String time = WLUtilities.getElapsedTime(map.getValue());
+            loadTimes.append(isFirst ? "" : ",").append(simpleName).append(" took ").append(time);
             isFirst = false;
         }
-        WLLogger.logInfo("WeatherAlerts - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + (System.currentTimeMillis()-started) + "ms total, " + loadTimes.toString() + ")");
+        WLLogger.logInfo("WeatherAlerts - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + WLUtilities.getElapsedTime(started) + " total, " + loadTimes.toString() + ")");
     }
     private void updateJSON() {
         final StringBuilder builder = new StringBuilder("{");

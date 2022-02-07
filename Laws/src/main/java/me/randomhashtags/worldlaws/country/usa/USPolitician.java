@@ -1,9 +1,6 @@
 package me.randomhashtags.worldlaws.country.usa;
 
-import me.randomhashtags.worldlaws.Folder;
-import me.randomhashtags.worldlaws.Jsoupable;
-import me.randomhashtags.worldlaws.LegislationType;
-import me.randomhashtags.worldlaws.WLLogger;
+import me.randomhashtags.worldlaws.*;
 import me.randomhashtags.worldlaws.country.usa.federal.PreCongressBill;
 import me.randomhashtags.worldlaws.country.usa.federal.USCongress;
 import me.randomhashtags.worldlaws.people.HumanName;
@@ -95,7 +92,7 @@ public final class USPolitician implements Politician {
             final String string = builder.toString();
             signedLegislation.get(type).put(administration, string);
             final HumanName name = getName();
-            WLLogger.logInfo("USPolitician - loaded \"" + name.getFirstName() + " " + name.getMiddleName() + " " + name.getLastName() + "\"'s " + type.name() + " legislation for administration " + administration + " (took " + (System.currentTimeMillis()-started) + "ms)");
+            WLLogger.logInfo("USPolitician - loaded \"" + name.getFirstName() + " " + name.getMiddleName() + " " + name.getLastName() + "\"'s " + type.name() + " legislation for administration " + administration + " (took " + WLUtilities.getElapsedTime(started) + ")");
             return string;
         }
     }

@@ -3,6 +3,7 @@ package me.randomhashtags.worldlaws.upcoming.events;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
 import org.json.JSONObject;
 
 public final class MusicAlbumEvent extends UpcomingEvent {
@@ -26,7 +27,7 @@ public final class MusicAlbumEvent extends UpcomingEvent {
         return "{" +
                 (spotifyDetails != null ? "\"spotifyDetails\":" + spotifyDetails.toString() + "," : "") +
                 (itunesDetails != null ? "\"itunesDetails\":" + itunesDetails.toString() + "," : "") +
-                "\"artist\":\"" + artist + "\"" +
+                "\"" + UpcomingEventValue.MUSIC_ALBUM_ARTIST.getKey() + "\":\"" + artist + "\"" +
                 "}";
     }
 }

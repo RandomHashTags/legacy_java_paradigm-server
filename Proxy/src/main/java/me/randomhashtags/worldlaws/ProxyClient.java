@@ -38,7 +38,7 @@ public final class ProxyClient extends Thread implements RestAPI {
                     final String response = DataValues.HTTP_SUCCESS_200 + string;
                     writeOutput(client, response);
                 } else if(!TargetServer.isMaintenanceMode()) {
-                    WLLogger.logInfo(prefix + "Failed to connect to \"" + request + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+                    WLLogger.logInfo(prefix + "Failed to connect to \"" + request + "\" (took " + WLUtilities.getElapsedTime(started) + ")");
                 }
                 return;
             }

@@ -20,7 +20,7 @@ public final class Feedback implements WLServer, Jsonable {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String target) {
+    public String getServerResponse(APIVersion version, String identifier, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         final String fileName = Long.toString(System.currentTimeMillis());

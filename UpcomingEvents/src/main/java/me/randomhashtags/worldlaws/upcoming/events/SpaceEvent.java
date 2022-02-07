@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
 
 public final class SpaceEvent extends UpcomingEvent {
 
@@ -22,8 +23,8 @@ public final class SpaceEvent extends UpcomingEvent {
     public String getPropertiesJSONObject() {
         final boolean hasVideoURL = videoURL != null;
         return "{" +
-                (newsURL != null ? "\"newsURL\":\"" + newsURL + "\"" + (hasVideoURL ? "," : "") : "") +
-                (hasVideoURL ? "\"videoURL\":\"" + videoURL + "\"" : "") +
+                (newsURL != null ? "\"" + UpcomingEventValue.SPACE_EVENT_NEWS_URL.getKey() + "\":\"" + newsURL + "\"" + (hasVideoURL ? "," : "") : "") +
+                (hasVideoURL ? "\"" + UpcomingEventValue.SPACE_EVENT_VIDEO_URL.getKey() + "\":\"" + videoURL + "\"" : "") +
                 "}";
     }
 }

@@ -32,7 +32,7 @@ public final class WordOfTheDay extends LoadedUpcomingEventController {
             );
             final String dateString = new EventDate(now).getDateString(), word = wordOfTheDay.word;
             final String identifier = getEventDateIdentifier(dateString, word);
-            final WordOfTheDayEvent event = new WordOfTheDayEvent(word, wordOfTheDay.description, imageURL, sources);
+            final WordOfTheDayEvent event = new WordOfTheDayEvent(word, wordOfTheDay.description, imageURL, wordOfTheDay.pronunciationURL, wordOfTheDay.type, wordOfTheDay.syllables, sources);
             putLoadedPreUpcomingEvent(identifier, event.toPreUpcomingEventJSON(type, identifier, null));
             putUpcomingEvent(identifier, event.toString());
         }
@@ -42,7 +42,18 @@ public final class WordOfTheDay extends LoadedUpcomingEventController {
         final Elements mainArticle = getDocumentElements(Folder.OTHER, url, "main article");
         WordOfTheDayObj obj = null;
         if(mainArticle != null) {
-            final Elements elements = mainArticle.select("div.article-header-container div.quick-def-box div.word-header div.word-and-pronunciation h1");
+            final Element quickDefBox = mainArticle.select("div.article-header-container div.quick-def-box").get(0);
+            final Element attributes = quickDefBox.selectFirst("div.word-attributes");
+            String type = null, syllables = null;
+            final Element typeElement = attributes.selectFirst("span.main-attr"), syllablesElement = attributes.selectFirst("span.word-syllables");
+            if(typeElement != null) {
+                type = typeElement.text();
+            }
+            if(syllablesElement != null) {
+                syllables = syllablesElement.text();
+            }
+
+            final Elements elements = quickDefBox.select("div.word-header div.word-and-pronunciation h1");
             final String word = elements.get(0).text();
             final Elements definitionElements = mainArticle.select("div.lr-cols-area div.left-content div.wod-article-container div.wod-definition-container").get(0).children();
             definitionElements.removeIf(node -> !node.nodeName().equals("p"));
@@ -52,17 +63,20 @@ public final class WordOfTheDay extends LoadedUpcomingEventController {
                 builder.append(isFirst ? "" : "\n").append(paragraph.text());
                 isFirst = false;
             }
-            obj = new WordOfTheDayObj(word, builder.toString());
+            obj = new WordOfTheDayObj(word, builder.toString(), null, type, syllables);
         }
         return obj;
     }
 
     private final class WordOfTheDayObj {
-        private final String word, description;
+        private final String word, description, pronunciationURL, type, syllables;
 
-        public WordOfTheDayObj(String word, String description) {
+        public WordOfTheDayObj(String word, String description, String pronunciationURL, String type, String syllables) {
             this.word = LocalServer.toCorrectCapitalization(word);
             this.description = description;
+            this.pronunciationURL = pronunciationURL;
+            this.type = type;
+            this.syllables = syllables;
         }
     }
 }

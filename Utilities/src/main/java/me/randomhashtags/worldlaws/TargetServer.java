@@ -358,7 +358,7 @@ public enum TargetServer implements RestAPI, DataValues {
         }
         HOME_JSON.put(version, json);
         HOME_JSON_QUERIES.remove(version);
-        WLLogger.logInfo("TargetServer - " + (isUpdate ? "auto-" : "") + "updated " + versionName + " home responses (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("TargetServer - " + (isUpdate ? "auto-" : "") + "updated " + versionName + " home responses (took " + WLUtilities.getElapsedTime(started) + ")");
         return json.toString();
     }
 

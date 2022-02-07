@@ -141,7 +141,7 @@ public enum YahooFinance implements StockService {
         }
         builder.append("}");
         final String string = builder.toString();
-        WLLogger.logInfo("YahooFinance - loaded " + max + " quotes (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("YahooFinance - loaded " + max + " quotes (took " + WLUtilities.getElapsedTime(started) + ")");
         return string;
     }
 
@@ -186,7 +186,7 @@ public enum YahooFinance implements StockService {
         });
 
         jsonObject.put("request_epoch", started);
-        WLLogger.logInfo("YahooFinance - " + (refresh ? "refreshed" : "loaded") + " chart for symbol \"" + symbol + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("YahooFinance - " + (refresh ? "refreshed" : "loaded") + " chart for symbol \"" + symbol + "\" (took " + WLUtilities.getElapsedTime(started) + ")");
         return jsonObject;
     }
 

@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws.upcoming.events;
 
 import me.randomhashtags.worldlaws.LocalServer;
+import me.randomhashtags.worldlaws.upcoming.UpcomingEventValue;
 
 public final class RocketLaunchMission {
     private final String name, description, type;
@@ -17,8 +18,9 @@ public final class RocketLaunchMission {
 
     @Override
     public String toString() {
-        return "\"missionName\":\"" + name + "\"," +
-                "\"missionDescription\":\"" + description + "\"," +
-                "\"missionType\":\"" + type + "\"";
+        return
+                "\"" + UpcomingEventValue.ROCKET_LAUNCH_MISSION_NAME.getKey() + "\":\"" + name + "\"," +
+                "\"" + UpcomingEventValue.ROCKET_LAUNCH_MISSION_DESCRIPTION.getKey() + "\":\"" + description + "\"," +
+                "\"" + UpcomingEventValue.ROCKET_LAUNCH_MISSION_TYPE.getKey() + "\":\"" + type + "\"";
     }
 }

@@ -87,7 +87,7 @@ public enum TravelBriefing implements CountryService {
                 }
             });
             string = new CountryServiceValue(TravelBriefing.INSTANCE, json.toString()).toString();
-            WLLogger.logInfo(getInfo().name() + " - loaded \"" + country + "\" (took " + (System.currentTimeMillis()-started) + "ms)");
+            WLLogger.logInfo(getInfo().name() + " - loaded \"" + country + "\" (took " + WLUtilities.getElapsedTime(started) + ")");
             countries.put(targetCountry, string);
         }
         return string;

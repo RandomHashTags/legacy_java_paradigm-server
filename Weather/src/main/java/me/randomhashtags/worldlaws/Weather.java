@@ -27,7 +27,7 @@ public final class Weather implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String target) {
+    public String getServerResponse(APIVersion version, String identifier, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {

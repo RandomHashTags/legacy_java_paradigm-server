@@ -56,8 +56,8 @@ public final class UpcomingEvents implements WLServer {
     private String typesJSON;
 
     private void initialize() {
-        test();
-        //load();
+        //test();
+        load();
     }
 
     @Override
@@ -66,7 +66,7 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final String string = UpcomingEventType.getTypesJSON();
+        final String string = RecentEvents.INSTANCE.refresh(7);
         WLLogger.logInfo("UpcomingEvents;test;string=" + string);
     }
 
@@ -76,7 +76,7 @@ public final class UpcomingEvents implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String target) {
+    public String getServerResponse(APIVersion version, String identifier, String target) {
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
@@ -160,7 +160,7 @@ public final class UpcomingEvents implements WLServer {
                 });
 
                 final JSONObject json = getEventsFromDates(dates);
-                WLLogger.logInfo("UpcomingEvents - refreshed events from this week (took " + (System.currentTimeMillis()-started) + "ms)");
+                WLLogger.logInfo("UpcomingEvents - refreshed events from this week (took " + WLUtilities.getElapsedTime(started) + ")");
                 return json;
             }
         });

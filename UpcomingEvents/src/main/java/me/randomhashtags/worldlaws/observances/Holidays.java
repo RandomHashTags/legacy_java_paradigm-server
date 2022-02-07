@@ -43,7 +43,7 @@ public enum Holidays implements Jsoupable, Jsonable {
         final long started = System.currentTimeMillis();
         final int year = WLUtilities.getTodayYear();
         final String string = loadNearbyHolidays(year);
-        WLLogger.logInfo("Holidays - refreshed near holidays (took " + (System.currentTimeMillis()-started) + "ms)");
+        WLLogger.logInfo("Holidays - refreshed near holidays (took " + WLUtilities.getElapsedTime(started) + ")");
         return string;
     }
     private String getNearHolidays() {
