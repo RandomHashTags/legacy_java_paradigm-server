@@ -66,7 +66,7 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final String string = RecentEvents.INSTANCE.refresh(7);
+        final String string = UpcomingEventType.getTypesJSON();
         WLLogger.logInfo("UpcomingEvents;test;string=" + string);
     }
 

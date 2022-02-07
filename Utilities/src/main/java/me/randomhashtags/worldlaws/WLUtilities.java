@@ -165,6 +165,6 @@ public abstract class WLUtilities {
         elapsedMilliseconds -= elapsedSeconds * 1000;
         final long elapsedMinutes = elapsedSeconds / 60;
         elapsedSeconds -= elapsedMinutes * 60;
-        return (elapsedMinutes > 0 ? elapsedMinutes + "m " : "") + (elapsedSeconds > 0 ? elapsedSeconds + "s " : "") + elapsedMilliseconds + "ms";
+        return (elapsedMinutes > 0 ? elapsedMinutes + "m" : "") + (elapsedSeconds > 0 ? elapsedSeconds + "s" : "") + elapsedMilliseconds + "ms";
     }
 }
