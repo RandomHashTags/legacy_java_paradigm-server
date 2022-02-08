@@ -5,6 +5,7 @@ import me.randomhashtags.worldlaws.country.WLCountry;
 import me.randomhashtags.worldlaws.observances.type.*;
 import me.randomhashtags.worldlaws.settings.ResponseVersions;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
+import org.apache.commons.text.StringEscapeUtils;
 import org.json.JSONObject;
 
 import java.util.*;
@@ -61,7 +62,7 @@ public enum HolidayType implements Jsonable {
 
     HolidayType(String celebrators, String emoji) {
         this.celebrators = celebrators;
-        this.emoji = emoji;
+        this.emoji = StringEscapeUtils.escapeJava(emoji);
     }
 
     public static void insertNearbyHolidays(int year, Collection<String> nearbyHolidayDays, ConcurrentHashMap<String, String> descriptions, ConcurrentHashMap<String, ConcurrentHashMap<String, HolidayObj>> nearbyHolidays) {

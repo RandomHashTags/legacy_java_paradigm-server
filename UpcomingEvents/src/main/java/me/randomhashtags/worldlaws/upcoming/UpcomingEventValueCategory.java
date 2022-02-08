@@ -16,7 +16,7 @@ public enum UpcomingEventValueCategory {
     TICKETMASTER_MUSIC_EVENT_DETAILS,
     TICKETMASTER_VENUES("Venues"),
     VIDEO_GAME_DETAILS(UpcomingEventValueCategoryPosition.PRE_CONTENT, "Releasing for platforms"),
-    WORD_OF_THE_DAY_DETAILS,
+    WORD_OF_THE_DAY_DETAILS(UpcomingEventValueCategoryPosition.ABOVE_DESCRIPTION),
     WRESTLING_DETAILS,
     ;
 

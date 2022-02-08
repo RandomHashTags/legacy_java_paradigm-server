@@ -9,11 +9,13 @@ public enum UpcomingEventValueType {
     JSON,
     STRING,
 
+
     CURRENCY,
     CURRENCY_ID,
     DETAILS_SPOTIFY,
     DETAILS_ITUNES,
     IMAGE,
+    IMAGE_COPYRIGHT,
     IMDB_INFO,
     MLB_TEAM,
     PRODUCTION_COMPANIES,

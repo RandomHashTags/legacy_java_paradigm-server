@@ -6,6 +6,7 @@ public enum UpcomingEventValue {
     ASTRONOMY_PICTURE_OF_THE_DAY_COPYRIGHT(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.ASTRONOMY_PICTURE_OF_THE_DAY_DETAILS);
         putKey("copyright");
+        putValueType(UpcomingEventValueType.IMAGE_COPYRIGHT);
         putValuePrefix("Copyright: ");
     }}),
 
@@ -124,21 +125,25 @@ public enum UpcomingEventValue {
         putCategory(UpcomingEventValueCategory.ROCKET_DETAILS);
         putKey("windowStart");
         putValueType(UpcomingEventValueType.TIMESTAMP);
+        putValuePrefix("Window Start: ");
     }}),
     ROCKET_LAUNCH_WINDOW_END(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.ROCKET_DETAILS);
         putKey("windowEnd");
         putValueType(UpcomingEventValueType.TIMESTAMP);
+        putValuePrefix("Window End: ");
     }}),
     ROCKET_LAUNCH_EXACT_DAY(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.ROCKET_DETAILS);
         putKey("exactDay");
-        putValueType(UpcomingEventValueType.BOOLEAN);
+        putValueType(UpcomingEventValueType.STRING);
+        putValuePrefix("Exact Day: ");
     }}),
     ROCKET_LAUNCH_EXACT_TIME(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.ROCKET_DETAILS);
         putKey("exactTime");
-        putValueType(UpcomingEventValueType.BOOLEAN);
+        putValueType(UpcomingEventValueType.STRING);
+        putValuePrefix("Exact Time: ");
     }}),
     ROCKET_LAUNCH_STATUS(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.ROCKET_DETAILS);
@@ -164,6 +169,7 @@ public enum UpcomingEventValue {
     TICKETMASTER_MUSIC_SEAT_MAP_URL(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.TICKETMASTER_MUSIC_EVENT_DETAILS);
         putKey("seatMapURL");
+        putValueType(UpcomingEventValueType.IMAGE);
         putCellHeight(250);
     }}),
     TICKETMASTER_MUSIC_TICKET_LIMIT(new UpcomingEventValueMap() {{

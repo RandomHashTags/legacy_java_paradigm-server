@@ -66,7 +66,7 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final String string = UpcomingEventType.getTypesJSON();
+        final String string = Holidays.INSTANCE.getResponse("all");
         WLLogger.logInfo("UpcomingEvents;test;string=" + string);
     }
 

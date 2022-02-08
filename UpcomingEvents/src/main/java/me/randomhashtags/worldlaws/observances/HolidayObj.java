@@ -3,7 +3,6 @@ package me.randomhashtags.worldlaws.observances;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.LocalServer;
-import org.apache.commons.text.StringEscapeUtils;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -27,12 +26,12 @@ public final class HolidayObj implements Holiday {
     public HolidayObj(String celebrators, String emoji, String englishName, String imageURL, String[] aliases, EventSources sources) {
         this(englishName, imageURL, aliases, null, sources);
         this.celebrators = celebrators;
-        this.emoji = StringEscapeUtils.escapeJava(emoji);
+        this.emoji = emoji;
     }
     public HolidayObj(String englishName, JSONObject json) {
         this.englishName = englishName;
         celebrators = json.has("celebrators") ? json.getString("celebrators") : null;
-        emoji = json.has("emoji") ? StringEscapeUtils.escapeJava(json.getString("emoji")) : null;
+        emoji = json.has("emoji") ? json.getString("emoji") : null;
         imageURL = json.has("imageURL") ? json.getString("imageURL") : null;
         if(json.has("aliases")) {
             final JSONArray array = json.getJSONArray("aliases");

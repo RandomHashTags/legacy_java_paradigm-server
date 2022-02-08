@@ -33,8 +33,8 @@ public final class RocketLaunchEvent extends UpcomingEvent {
                 (mission != null ? mission.toString() + "," : "") +
                 "\"" + UpcomingEventValue.ROCKET_LAUNCH_WINDOW_START.getKey() + "\":\"" + windowStart + "\"," +
                 "\"" + UpcomingEventValue.ROCKET_LAUNCH_WINDOW_END.getKey() + "\":\"" + windowEnd + "\"," +
-                "\"" + UpcomingEventValue.ROCKET_LAUNCH_EXACT_DAY.getKey() + "\":" + exactDay + "," +
-                "\"" + UpcomingEventValue.ROCKET_LAUNCH_EXACT_TIME.getKey() + "\":" + exactTime + "," +
+                "\"" + UpcomingEventValue.ROCKET_LAUNCH_EXACT_DAY.getKey() + "\":\"" + exactDay + "\"," +
+                "\"" + UpcomingEventValue.ROCKET_LAUNCH_EXACT_TIME.getKey() + "\":\"" + exactTime + "\"," +
                 "\"" + UpcomingEventValue.ROCKET_LAUNCH_STATUS.getKey() + "\":\"" + status + "\"," +
                 "\"" + UpcomingEventValue.ROCKET_LAUNCH_PROBABILITY.getKey() + "\":" + probability +
                 "}";
