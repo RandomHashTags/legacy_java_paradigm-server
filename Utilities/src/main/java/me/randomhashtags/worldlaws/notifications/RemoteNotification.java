@@ -65,6 +65,6 @@ public final class RemoteNotification extends JSONObject implements Jsonable {
 
     public static void pushPending() {
         final String identifier = Settings.Server.getUUID();
-        final String string = TargetServer.REMOTE_NOTIFICATIONS.sendResponse(APIVersion.v1, identifier, RequestMethod.POST, "trySendingNew", null);
+        final String string = TargetServer.REMOTE_NOTIFICATIONS.sendResponse(APIVersion.v1, identifier, RequestMethod.POST, "push_pending", null);
     }
 }

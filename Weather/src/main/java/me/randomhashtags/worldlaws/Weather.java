@@ -2,6 +2,8 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.earthquakes.Earthquakes;
 import me.randomhashtags.worldlaws.earthquakes.WeatherAlerts;
+import me.randomhashtags.worldlaws.request.ServerRequest;
+import me.randomhashtags.worldlaws.request.server.ServerRequestTypeWeather;
 import me.randomhashtags.worldlaws.tracker.NASA_EONET;
 import me.randomhashtags.worldlaws.weather.country.WeatherUSA;
 
@@ -27,15 +29,15 @@ public final class Weather implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, String target) {
-        final String[] values = target.split("/");
-        final String key = values[0];
-        switch (key) {
-            case "alerts":
-                return WeatherAlerts.INSTANCE.getResponse(target.substring(key.length()+1));
-            case "earthquakes":
-                return Earthquakes.INSTANCE.getResponse(target.substring(key.length()+1).split("/"));
-            case "natural_events":
+    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+        final ServerRequestTypeWeather type = (ServerRequestTypeWeather) request.getType();
+        final String target = request.getTarget();
+        switch (type) {
+            case ALERTS:
+                return WeatherAlerts.INSTANCE.getResponse(target);
+            case EARTHQUAKES:
+                return Earthquakes.INSTANCE.getResponse(target.split("/"));
+            case NATURAL_EVENTS:
                 return NASA_EONET.INSTANCE.getCurrent(version);
             default:
                 return null;
@@ -43,11 +45,11 @@ public final class Weather implements WLServer {
     }
 
     @Override
-    public String[] getHomeRequests() {
-        return new String[] {
-                "alerts/all",
-                "earthquakes/recent",
-                "natural_events"
+    public ServerRequest[] getHomeRequests() {
+        return new ServerRequest[] {
+                new ServerRequest(ServerRequestTypeWeather.ALERTS, "all"),
+                new ServerRequest(ServerRequestTypeWeather.EARTHQUAKES, "recent"),
+                new ServerRequest(ServerRequestTypeWeather.NATURAL_EVENTS),
         };
     }
 

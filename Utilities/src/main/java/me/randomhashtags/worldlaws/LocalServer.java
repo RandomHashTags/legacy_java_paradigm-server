@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.request.ServerRequestType;
 import org.apache.commons.text.StringEscapeUtils;
 
 import java.net.ServerSocket;
@@ -12,6 +13,7 @@ import java.util.concurrent.ConcurrentHashMap;
 public final class LocalServer implements UserServer, DataValues {
     private final WLServer wlserver;
     private final String serverName;
+    private HashMap<String, ServerRequestType> requestTypes;
     private CompletionHandler handler;
     private ServerSocket server;
     private HashSet<Timer> timers;
@@ -78,6 +80,19 @@ public final class LocalServer implements UserServer, DataValues {
             timers = new HashSet<>();
         }
         timers.add(timer);
+    }
+
+    public ServerRequestType parseRequestType(String type) {
+        if(requestTypes == null) {
+            requestTypes = new HashMap<>();
+            final ServerRequestType[] types = wlserver.getRequestTypes();
+            if(types != null) {
+                for(ServerRequestType requestType : types) {
+                    requestTypes.put(requestType.name().toLowerCase(), requestType);
+                }
+            }
+        }
+        return requestTypes.get(type);
     }
 
     public void madeRequest(String identifier, String target) {

@@ -1,6 +1,8 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.notifications.RemoteNotification;
+import me.randomhashtags.worldlaws.request.ServerRequest;
+import me.randomhashtags.worldlaws.request.server.ServerRequestTypeRemoteNotifications;
 import me.randomhashtags.worldlaws.settings.Settings;
 import org.json.JSONObject;
 
@@ -40,43 +42,42 @@ public final class RemoteNotifications implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, String target) {
-        final String[] values = target.split("/");
-        switch (values[0]) {
-            case "register":
-                String token = values[2];
-                switch (values[1]) {
+    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+        final ServerRequestTypeRemoteNotifications type = (ServerRequestTypeRemoteNotifications) request.getType();
+        final String target = request.getTarget();
+        final String[] values = target != null ? target.split("/") : null;
+        switch (type) {
+            case REGISTER:
+                String token = values[1];
+                switch (values[0]) {
                     case "apple":
                         AppleNotifications.INSTANCE.register(token);
-                        break;
+                        return null;
                     case "google":
-                        break;
+                        return null;
                     default:
-                        break;
+                        return null;
                 }
-                break;
-            case "unregister":
-                token = values[2];
-                switch (values[1]) {
+            case UNREGISTER:
+                token = values[1];
+                switch (values[0]) {
                     case "apple":
                         AppleNotifications.INSTANCE.unregister(token);
-                        break;
+                        return null;
                     default:
-                        break;
+                        return null;
                 }
-                break;
-            case "trySendingNew":
+            case PUSH_PENDING:
                 if(identifier.equals(Settings.Server.getUUID())) {
-                    trySendingNew();
+                    pushPending();
                 }
-                break;
+                return null;
             default:
-                break;
+                return null;
         }
-        return null;
     }
 
-    private void trySendingNew() {
+    private void pushPending() {
         final Instant nowInstant = Instant.now();
         final LocalDate now = LocalDate.now();
         final int year = now.getYear(), day = now.getDayOfMonth();

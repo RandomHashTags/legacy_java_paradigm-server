@@ -2,6 +2,8 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.country.usa.USLaws;
 import me.randomhashtags.worldlaws.country.usa.state.recode.Minnesota;
+import me.randomhashtags.worldlaws.request.ServerRequest;
+import me.randomhashtags.worldlaws.request.server.ServerRequestTypeLaws;
 
 import java.util.HashMap;
 
@@ -43,13 +45,14 @@ public final class Laws implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, String target) {
+    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+        final ServerRequestTypeLaws type = (ServerRequestTypeLaws) request.getType();
+        final String target = request.getTarget();
         final String[] values = target.split("/");
-        final String key = values[0];
-        switch (key) {
-            case "recent_activity":
-                if(values.length >= 2) {
-                    final LawController controller = countries.get(values[1]);
+        switch (type) {
+            case RECENT_ACTIVITY:
+                if(values.length >= 1) {
+                    final LawController controller = countries.get(values[0]);
                     if(controller != null) {
                         return controller.getRecentActivity(version);
                     }
@@ -57,6 +60,7 @@ public final class Laws implements WLServer {
                 return null;
             default:
                 if(values.length >= 2) {
+                    final String key = values[0];
                     final LawController controller = countries.get(key);
                     final int keyLength = key.length()+1;
                     final String targetKey = values[1];

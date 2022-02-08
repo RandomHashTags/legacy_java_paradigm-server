@@ -1,6 +1,7 @@
 package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.globalwarming.GlobalWarming;
+import me.randomhashtags.worldlaws.request.ServerRequest;
 
 public final class Environment implements WLServer {
 
@@ -22,7 +23,8 @@ public final class Environment implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, String target) {
+    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+        final String target = request.getTarget();
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {
@@ -34,8 +36,8 @@ public final class Environment implements WLServer {
     }
 
     @Override
-    public String[] getHomeRequests() {
-        return new String[] {
+    public ServerRequest[] getHomeRequests() {
+        return new ServerRequest[] {
         };
     }
 }

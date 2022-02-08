@@ -1,5 +1,6 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.smartphones.*;
 
 public final class Technology implements WLServer {
@@ -34,7 +35,8 @@ public final class Technology implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, String target) {
+    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+        final String target = request.getTarget();
         final String[] values = target.split("/");
         final String key = values[0];
         switch (key) {

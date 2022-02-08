@@ -2,6 +2,8 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.observances.Holidays;
 import me.randomhashtags.worldlaws.politics.Elections;
+import me.randomhashtags.worldlaws.request.ServerRequest;
+import me.randomhashtags.worldlaws.request.server.ServerRequestTypeUpcomingEvents;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
@@ -76,32 +78,31 @@ public final class UpcomingEvents implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, String target) {
-        final String[] values = target.split("/");
-        final String key = values[0];
-        switch (key) {
-            case "event_types":
+    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+        final ServerRequestTypeUpcomingEvents type = (ServerRequestTypeUpcomingEvents) request.getType();
+        final String target = request.getTarget();
+        final String[] values = target != null ? target.split("/") : null;
+        switch (type) {
+            case ELECTIONS:
+                return Elections.INSTANCE.refresh();
+            case EVENT_TYPES:
                 return getEventTypesJSON();
-            case "happeningnow":
+            case HAPPENING_NOW:
                 //StreamingEvents.TWITCH.getUpcomingEvents(handler);
                 return null;
-            case "holidays":
-                final String value = target.substring(key.length()+1);
-                return Holidays.INSTANCE.getResponse(value);
-
-            case "weekly_events":
-                return refreshEventsFromThisWeek().toString();
-            case "music_artists":
+            case HOLIDAYS:
+                return Holidays.INSTANCE.getResponse(target);
+            case MUSIC_ARTISTS:
                 return null;
-            //case "video_games":
-            //    return VideoGameUpdates.INSTANCE.getAllVideoGames();
-
-            case "recent_events":
+            case RECENT_EVENTS:
                 return RecentEvents.INSTANCE.refresh(7);
-            case "elections":
-                return Elections.INSTANCE.refresh();
-
+            case VIDEO_GAMES:
+                return null;
+                //return VideoGameUpdates.INSTANCE.getAllVideoGames();
+            case WEEKLY_EVENTS:
+                return refreshEventsFromThisWeek().toString();
             default:
+                final String key = values[0];
                 final UpcomingEventController controller = valueOfEventType(key);
                 if(controller != null) {
                     return controller.getResponse(target.substring(key.length()+1));
@@ -113,13 +114,15 @@ public final class UpcomingEvents implements WLServer {
     }
 
     @Override
-    public String[] getHomeRequests() {
-        return new String[] {
-                "event_types",
-                "holidays/near",
-                "weekly_events",
-                "recent_events",
-                //"elections"
+    public ServerRequest[] getHomeRequests() {
+        return new ServerRequest[] {
+                //new ServerRequest(ServerRequestTypeUpcomingEvents.ELECTIONS),
+                new ServerRequest(ServerRequestTypeUpcomingEvents.EVENT_TYPES),
+                //new ServerRequest(ServerRequestTypeUpcomingEvents.HAPPENING_NOW),
+                new ServerRequest(ServerRequestTypeUpcomingEvents.HOLIDAYS),
+                //new ServerRequest(ServerRequestTypeUpcomingEvents.MUSIC_ARTISTS),
+                new ServerRequest(ServerRequestTypeUpcomingEvents.RECENT_EVENTS),
+                new ServerRequest(ServerRequestTypeUpcomingEvents.WEEKLY_EVENTS),
         };
     }
 

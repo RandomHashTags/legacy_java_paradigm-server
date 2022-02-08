@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.request.ServerRequest;
+import me.randomhashtags.worldlaws.request.server.ServerRequestTypeServices;
 import me.randomhashtags.worldlaws.service.entertainment.TwitchClips;
 import me.randomhashtags.worldlaws.service.finance.stockmarket.StockService;
 import me.randomhashtags.worldlaws.service.finance.stockmarket.YahooFinance;
@@ -33,15 +35,15 @@ public final class Services implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, String value) {
-        final String[] values = value.split("/");
-        final String key = values[0];
-        switch (key) {
-            case "stock_market":
-                if(value.equals(key)) {
+    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+        final ServerRequestTypeServices type = (ServerRequestTypeServices) request.getType();
+        final String target = request.getTarget();
+        switch (type) {
+            case STOCK_MARKET:
+                if(target == null) {
                     return getStockMarketHomeResponse(version);
                 } else {
-                    return getStockMarketResponse(version, value.substring(key.length()+1));
+                    return getStockMarketResponse(version, target);
                 }
             default:
                 return null;
@@ -49,8 +51,8 @@ public final class Services implements WLServer {
     }
 
     @Override
-    public String[] getHomeRequests() {
-        return new String[] {
+    public ServerRequest[] getHomeRequests() {
+        return new ServerRequest[] {
                 //"stock_market"
         };
     }

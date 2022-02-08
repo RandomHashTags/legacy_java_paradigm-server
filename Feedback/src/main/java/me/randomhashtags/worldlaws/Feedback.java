@@ -1,5 +1,8 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.request.ServerRequest;
+import me.randomhashtags.worldlaws.request.server.ServerRequestTypeFeedback;
+
 public final class Feedback implements WLServer, Jsonable {
 
     public static void main(String[] args) {
@@ -20,23 +23,23 @@ public final class Feedback implements WLServer, Jsonable {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, String target) {
-        final String[] values = target.split("/");
-        final String key = values[0];
-        final String fileName = Long.toString(System.currentTimeMillis());
-        switch (key) {
-            case "submit":
-                switch (values[1]) {
+    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+        final ServerRequestTypeFeedback type = (ServerRequestTypeFeedback) request.getType();
+        switch (type) {
+            case SUBMIT:
+                final String fileName = Long.toString(System.currentTimeMillis());
+                final String[] values = request.getTarget().split("/");
+                switch (values[0]) {
                     case "bug_report":
-                        return submit(Folder.FEEDBACK_BUG_REPORTS, fileName, values[2]);
+                        return submit(Folder.FEEDBACK_BUG_REPORTS, fileName, values[1]);
                     case "feature_request":
-                        return submit(Folder.FEEDBACK_FEATURE_REQUEST, fileName, values[2]);
+                        return submit(Folder.FEEDBACK_FEATURE_REQUEST, fileName, values[1]);
                     default:
                         return null;
                 }
-            case "bug_reports":
+            case BUG_REPORTS:
                 return getAllBugReports();
-            case "feature_requests":
+            case FEATURE_REQUESTS:
                 return getAllFeatureRequests();
             default:
                 return null;

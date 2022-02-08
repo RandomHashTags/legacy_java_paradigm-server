@@ -15,6 +15,8 @@ import me.randomhashtags.worldlaws.info.rankings.CountryRankingServices;
 import me.randomhashtags.worldlaws.info.rankings.CountryRankings;
 import me.randomhashtags.worldlaws.info.service.nonstatic.CIAServices;
 import me.randomhashtags.worldlaws.info.service.nonstatic.TravelAdvisories;
+import me.randomhashtags.worldlaws.request.ServerRequest;
+import me.randomhashtags.worldlaws.request.server.ServerRequestTypeCountries;
 import me.randomhashtags.worldlaws.service.CountryService;
 import me.randomhashtags.worldlaws.service.CountryServices;
 import me.randomhashtags.worldlaws.service.SovereignStateService;
@@ -101,7 +103,7 @@ public final class Countries implements WLServer {
         WLLogger.logInfo("Countries - refreshed " + countriesMap.size() + " non-static country information (took " + WLUtilities.getElapsedTime(started) + ")");
     }
 
-    private String getCountries() {
+    private String getCountries(APIVersion version) {
         if(countriesCacheJSON == null) {
             loadCountries();
         }
@@ -231,26 +233,26 @@ public final class Countries implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, String target) {
-        final String[] values = target.split("/");
-        final String key = values[0];
-        switch (key) {
-            case "ranked":
-                return CountryRankingServices.getRanked(values[1]);
-            case "filters":
-                return getFilters();
-            case "countries":
-                return getCountries();
-            case "information":
-                final String value = values[1];
+    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+        final ServerRequestTypeCountries type = (ServerRequestTypeCountries) request.getType();
+        final String[] values = request.getTarget().split("/");
+        switch (type) {
+            case COUNTRIES:
+                return getCountries(version);
+            case FILTERS:
+                return getFilters(version);
+            case RANKED:
+                return CountryRankingServices.getRanked(values[0]);
+            case INFORMATION:
+                final String value = values[0];
                 final CustomCountry country = countriesMap.get(value);
                 if(country != null) {
                     final int length = values.length;
                     switch (length) {
-                        case 2:
+                        case 1:
                             return country.getInformation(version);
-                        case 3:
-                            final String subdivisionBackendID = values[2];
+                        case 2:
+                            final String subdivisionBackendID = values[1];
                             final SovereignStateSubdivision subdivision = country.getWLCountry().valueOfSovereignStateSubdivision(subdivisionBackendID);
                             if(subdivision != null) {
                                 return subdivision.getInformation(version);
@@ -264,20 +266,19 @@ public final class Countries implements WLServer {
                 }
                 return null;
             default:
-                WLLogger.logError(this, "getServerResponse - failed to send response using target \"" + target + "\"!");
                 return null;
         }
     }
 
     @Override
-    public String[] getHomeRequests() {
-        return new String[] {
-                "filters",
-                "countries"
+    public ServerRequest[] getHomeRequests() {
+        return new ServerRequest[] {
+                new ServerRequest(ServerRequestTypeCountries.COUNTRIES),
+                new ServerRequest(ServerRequestTypeCountries.FILTERS),
         };
     }
 
-    private String getFilters() {
+    private String getFilters(APIVersion version) {
         final StringBuilder builder = new StringBuilder("[");
         boolean isFirst = true;
         final Collection<CountryService> services = CountryRankingServices.getRankingsServices().collect(Collectors.toList());

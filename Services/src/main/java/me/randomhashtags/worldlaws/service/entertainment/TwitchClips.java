@@ -3,7 +3,7 @@ package me.randomhashtags.worldlaws.service.entertainment;
 import me.randomhashtags.worldlaws.EventSource;
 import me.randomhashtags.worldlaws.EventSources;
 import me.randomhashtags.worldlaws.RequestMethod;
-import me.randomhashtags.worldlaws.RestAPI;
+import me.randomhashtags.worldlaws.service.RefreshableService;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 import org.json.JSONArray;
@@ -13,9 +13,10 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-public enum TwitchClips implements RestAPI {
+public enum TwitchClips implements RefreshableService {
     INSTANCE;
 
+    @Override
     public String refresh() {
         final String clientID = Settings.PrivateValues.Twitch.getClientID();
         final HashMap<String, String> headers = new HashMap<>() {{
@@ -23,7 +24,7 @@ public enum TwitchClips implements RestAPI {
             put("Accept", "application/vnd.twitchtv.v5+json");
         }};
         final HashMap<String, String> query = new HashMap<>();
-        query.put("limit", "100");
+        query.put("limit", Integer.toString(Settings.PrivateValues.Twitch.getRequestLimit()));
         query.put("trending", "false");
         final List<String> types = Arrays.asList("day", "week", "month", "all");
         final JSONObject json = new JSONObject();

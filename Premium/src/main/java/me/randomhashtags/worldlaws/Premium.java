@@ -1,5 +1,8 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.request.ServerRequest;
+import me.randomhashtags.worldlaws.request.server.ServerRequestTypePremium;
+
 public final class Premium implements WLServer {
 
     public static void main(String[] args) {
@@ -12,14 +15,14 @@ public final class Premium implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, String target) {
-        final String[] values = target.split("/");
-        final String key = values[0];
-        switch (key) {
-            case "verify":
-                switch (values[1]) {
+    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+        final ServerRequestTypePremium type = (ServerRequestTypePremium) request.getType();
+        switch (type) {
+            case VERIFY:
+                final String[] values = request.getTarget().split("/");
+                switch (values[0]) {
                     case "apple":
-                        return Verification.INSTANCE.verifyAppleAutoRenewableSubscription(values[2]);
+                        return Verification.INSTANCE.verifyAppleAutoRenewableSubscription(values[1]);
                     default:
                         return null;
                 }

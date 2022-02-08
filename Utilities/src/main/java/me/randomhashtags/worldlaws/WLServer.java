@@ -1,5 +1,8 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.request.ServerRequest;
+import me.randomhashtags.worldlaws.request.ServerRequestType;
+import me.randomhashtags.worldlaws.request.server.*;
 import me.randomhashtags.worldlaws.settings.Settings;
 import me.randomhashtags.worldlaws.stream.ParallelStream;
 
@@ -12,6 +15,24 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
     ConcurrentHashMap<TargetServer, HashMap<APIVersion, String>> CACHED_HOME_RESPONSES = new ConcurrentHashMap<>();
     HashMap<TargetServer, LocalServer> LOCAL_SERVERS = new HashMap<>();
     TargetServer getServer();
+    default ServerRequestType[] getRequestTypes() {
+        final TargetServer server = getServer();
+        if(server != null) {
+            switch (server) {
+                case COUNTRIES: return ServerRequestTypeCountries.values();
+                case FEEDBACK: return ServerRequestTypeFeedback.values();
+                case LAWS: return ServerRequestTypeLaws.values();
+                case PREMIUM: return ServerRequestTypePremium.values();
+                case REMOTE_NOTIFICATIONS: return ServerRequestTypeRemoteNotifications.values();
+                case SERVICES: return ServerRequestTypeServices.values();
+                case SPACE: return ServerRequestTypeSpace.values();
+                case UPCOMING_EVENTS: return ServerRequestTypeUpcomingEvents.values();
+                case WEATHER: return ServerRequestTypeWeather.values();
+                default: return null;
+            }
+        }
+        return null;
+    }
 
     default LocalServer getLocalServer() {
         final TargetServer server = getServer();
@@ -80,18 +101,25 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 return getHomeResponse(version);
             default:
                 localServer.madeRequest(identifier, target);
-                String string = getServerResponse(version, identifier, target.substring(versionString.length() + 1));
+                String requestTarget = target.substring(versionString.length() + 1);
+                final String targetType = requestTarget.split("/")[0];
+                final ServerRequestType type = localServer.parseRequestType(targetType);
+                if(type != null) {
+                    requestTarget = requestTarget.substring(targetType.length() + 1);
+                }
+                final ServerRequest request = new ServerRequest(type, requestTarget);
+                String string = getServerResponse(version, identifier, request);
                 if(string == null) {
                     string = WLUtilities.SERVER_EMPTY_JSON_RESPONSE;
                 }
                 return string;
         }
     }
-    String getServerResponse(APIVersion version, String identifier, String target);
+    String getServerResponse(APIVersion version, String identifier, ServerRequest request);
     default long getHomeResponseUpdateInterval() {
         return 0;
     }
-    default String[] getHomeRequests() {
+    default ServerRequest[] getHomeRequests() {
         return null;
     }
     default String getHomeResponse(APIVersion version) {
@@ -122,14 +150,14 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
         return string;
     }
     private String refreshHome(TargetServer server, APIVersion version) {
-        final String[] requests = getHomeRequests();
+        final ServerRequest[] requests = getHomeRequests();
         if(requests == null) {
             CACHED_HOME_RESPONSES.get(server).put(version, null);
             return null;
         } else {
             final HashSet<String> values = new HashSet<>();
             final String serverUUID = Settings.Server.getUUID();
-            new ParallelStream<String>().stream(Arrays.asList(requests), request -> {
+            new ParallelStream<ServerRequest>().stream(Arrays.asList(requests), request -> {
                 final String string = getServerResponse(version, serverUUID, request);
                 if(string != null) {
                     final String target = "\"" + request + "\":" + string;

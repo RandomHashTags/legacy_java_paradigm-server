@@ -1,5 +1,7 @@
 package me.randomhashtags.worldlaws;
 
+import me.randomhashtags.worldlaws.request.ServerRequest;
+
 public class News implements WLServer {
 
     private NewsService service;
@@ -19,7 +21,8 @@ public class News implements WLServer {
     }
 
     @Override
-    public String getServerResponse(APIVersion version, String identifier, String target) {
+    public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
+        final String target = request.getTarget();
         return service.getResponseJSON(target);
     }
 }
