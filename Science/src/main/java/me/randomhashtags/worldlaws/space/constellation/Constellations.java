@@ -1,4 +1,4 @@
-package me.randomhashtags.worldlaws.constellation;
+package me.randomhashtags.worldlaws.space.constellation;
 
 public enum Constellations {
     INSTANCE;

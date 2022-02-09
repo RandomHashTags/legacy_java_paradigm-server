@@ -25,6 +25,8 @@ public abstract class WLUtilities {
     public static final long PROXY_PING_RESPONSE_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);
     public static final long PROXY_HOME_RESPONSE_UPDATE_INTERVAL = TimeUnit.MINUTES.toMillis(10);
     public static final long SAVE_STATISTICS_INTERVAL = TimeUnit.HOURS.toMillis(1);
+    public static final long SERVICES_HOME_RESPONSE_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
+    public static final long SERVICES_TWITCH_CLIPS_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(3);
     public static final long UPCOMING_EVENTS_HOME_UPDATE_INTERVAL = TimeUnit.HOURS.toMillis(1);
     public static final long UPCOMING_EVENTS_NEAR_HOLIDAYS_UPDATE_INTERVAL = TimeUnit.DAYS.toMillis(1);
     public static final long UPCOMING_EVENTS_TV_SHOW_UPDATE_INTERVAL = TimeUnit.DAYS.toMillis(1);
@@ -160,7 +162,9 @@ public abstract class WLUtilities {
     }
 
     public static String getElapsedTime(long started) {
-        long elapsedMilliseconds = System.currentTimeMillis()-started;
+        return getElapsedTimeFromMilliseconds(System.currentTimeMillis()-started);
+    }
+    public static String getElapsedTimeFromMilliseconds(long elapsedMilliseconds) {
         long elapsedSeconds = elapsedMilliseconds / 1000;
         elapsedMilliseconds -= elapsedSeconds * 1000;
         final long elapsedMinutes = elapsedSeconds / 60;

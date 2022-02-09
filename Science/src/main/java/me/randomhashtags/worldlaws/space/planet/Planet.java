@@ -1,6 +1,6 @@
-package me.randomhashtags.worldlaws.planet;
+package me.randomhashtags.worldlaws.space.planet;
 
-import me.randomhashtags.worldlaws.AstronomicalBody;
+import me.randomhashtags.worldlaws.space.AstronomicalBody;
 
 public interface Planet {
     PlanetAtmosphere getAtmosphere();

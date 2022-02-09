@@ -15,12 +15,9 @@ import java.util.stream.IntStream;
 public enum YahooFinance implements StockService {
     INSTANCE;
 
-    private String getRapidAPIKey() {
-        return Settings.PrivateValues.YahooFinance.getAPIKey();
-    }
     private HashMap<String, String> getHeaders() {
         final HashMap<String, String> headers = new HashMap<>();
-        headers.put("x-rapidapi-key", getRapidAPIKey());
+        headers.put("x-rapidapi-key", Settings.PrivateValues.YahooFinance.getAPIKey());
         headers.put("x-rapidapi-host", "apidojo-yahoo-finance-v1.p.rapidapi.com");
         return headers;
     }
@@ -39,7 +36,6 @@ public enum YahooFinance implements StockService {
     public void getAutoComplete(APIVersion version, String input, CompletionHandler handler) {
         final String term = input.toLowerCase();
         final JSONObject json = getJSONObject(Folder.SERVICES_FINANCE_YAHOO_FINANCE_CHARTS, "_Auto completes", new CompletionHandler() {
-
             @Override
             public String loadJSONObjectString() {
                 final HashMap<String, String> query = new HashMap<>();

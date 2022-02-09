@@ -1,16 +1,16 @@
 package me.randomhashtags.worldlaws;
 
-import me.randomhashtags.worldlaws.constellation.Constellations;
 import me.randomhashtags.worldlaws.request.ServerRequest;
-import me.randomhashtags.worldlaws.request.server.ServerRequestTypeSpace;
+import me.randomhashtags.worldlaws.request.server.ServerRequestTypeScience;
+import me.randomhashtags.worldlaws.space.constellation.Constellations;
 
-public final class Space implements WLServer {
+public final class Science implements WLServer {
 
     public static void main(String[] args) {
-        new Space();
+        new Science();
     }
 
-    private Space() {
+    private Science() {
         test();
         //load();
     }
@@ -20,18 +20,29 @@ public final class Space implements WLServer {
 
     @Override
     public TargetServer getServer() {
-        return TargetServer.SPACE;
+        return TargetServer.SCIENCE;
     }
 
     @Override
     public String getServerResponse(APIVersion version, String identifier, ServerRequest request) {
-        final ServerRequestTypeSpace type = (ServerRequestTypeSpace) request.getType();
+        final ServerRequestTypeScience type = (ServerRequestTypeScience) request.getType();
         final String target = request.getTarget();
         switch (type) {
-            case CONSTELLATION:
-                return getConstellationResponse(version, target);
-            case PLANET:
-                return getPlanetResponse(version, target);
+            case SPACE:
+                return getSpaceResponse(version, target);
+            default:
+                return null;
+        }
+    }
+
+    private String getSpaceResponse(APIVersion version, String target) {
+        final String[] values = target.split("/");
+        final String key = values[0];
+        switch (key) {
+            case "constellation":
+                return getConstellationResponse(version, target.substring(key.length() + 1));
+            case "planet":
+                return getPlanetResponse(version, target.substring(key.length() + 1));
             default:
                 return null;
         }

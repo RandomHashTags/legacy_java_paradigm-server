@@ -1,4 +1,6 @@
-package me.randomhashtags.worldlaws;
+package me.randomhashtags.worldlaws.space;
+
+import me.randomhashtags.worldlaws.EventSources;
 
 public interface AstronomicalBody {
     String getName();

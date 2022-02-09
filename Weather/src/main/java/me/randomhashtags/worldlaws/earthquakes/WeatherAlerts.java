@@ -143,16 +143,15 @@ public enum WeatherAlerts {
         final WeatherController[] countries = getCountries();
         new ParallelStream<WeatherController>().stream(Arrays.asList(countries), controller -> {
             refreshCountry(controller);
-            controllerLoadTimes.put(controller.getClass().getSimpleName(), System.currentTimeMillis());
+            controllerLoadTimes.put(controller.getClass().getSimpleName(), started-System.currentTimeMillis());
         });
 
         updateJSON();
         final StringBuilder loadTimes = new StringBuilder();
         boolean isFirst = true;
         for(Map.Entry<String, Long> map : controllerLoadTimes.entrySet()) {
-            final String simpleName = map.getKey();
-            final String time = WLUtilities.getElapsedTime(map.getValue());
-            loadTimes.append(isFirst ? "" : ",").append(simpleName).append(" took ").append(time);
+            final String time = WLUtilities.getElapsedTimeFromMilliseconds(map.getValue());
+            loadTimes.append(isFirst ? "" : ",").append(map.getKey()).append(" took ").append(time);
             isFirst = false;
         }
         WLLogger.logInfo("WeatherAlerts - " + (isAutoUpdate ? "auto-" : "") + "refreshed (took " + WLUtilities.getElapsedTime(started) + " total, " + loadTimes.toString() + ")");

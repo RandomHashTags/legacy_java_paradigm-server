@@ -9,6 +9,11 @@ public enum UpcomingEventValue {
         putValueType(UpcomingEventValueType.IMAGE_COPYRIGHT);
         putValuePrefix("Copyright: ");
     }}),
+    ASTRONOMY_PICTURE_OF_THE_DAY_VIDEO_URL(new UpcomingEventValueMap() {{
+        putCategory(UpcomingEventValueCategory.ASTRONOMY_PICTURE_OF_THE_DAY_DETAILS);
+        putKey("videoURL");
+        putValueType(UpcomingEventValueType.VIDEO_URL);
+    }}),
 
     JOKE_OF_THE_DAY_COPYRIGHT(new UpcomingEventValueMap() {{
         putCategory(UpcomingEventValueCategory.JOKE_OF_THE_DAY_DETAILS);

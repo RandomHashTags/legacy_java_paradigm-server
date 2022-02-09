@@ -9,5 +9,6 @@ public enum UpcomingEventValueCellType {
 
     PRODUCTION_COMPANIES,
     TICKETMASTER_VENUE,
+    VIDEO_URL,
     ;
 }

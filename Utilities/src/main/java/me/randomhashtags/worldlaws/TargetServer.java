@@ -15,8 +15,8 @@ public enum TargetServer implements RestAPI, DataValues {
     FEEDBACK,
     LAWS,
     NEWS,
+    SCIENCE,
     SERVICES,
-    SPACE,
     TECHNOLOGY,
     UPCOMING_EVENTS,
     WEATHER,
@@ -96,8 +96,8 @@ public enum TargetServer implements RestAPI, DataValues {
             case FEEDBACK: return 0;
             case LAWS: return 0;
             case NEWS: return 0;
+            case SCIENCE: return 0;
             case SERVICES: return 0;
-            case SPACE: return 0;
             case TECHNOLOGY: return 0;
             case UPCOMING_EVENTS: return 0;
             case WEATHER: return 0;

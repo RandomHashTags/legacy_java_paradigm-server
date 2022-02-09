@@ -30,7 +30,7 @@ public final class Services implements WLServer {
     }
 
     private void test() {
-        final String string = TwitchClips.INSTANCE.refresh();
+        final String string = TwitchClips.INSTANCE.getResponse("getAll");
         WLLogger.logInfo("Services;test;string=" + string);
     }
 
@@ -45,6 +45,9 @@ public final class Services implements WLServer {
                 } else {
                     return getStockMarketResponse(version, target);
                 }
+            case TWITCH_CLIPS:
+                final TwitchClips clips = TwitchClips.INSTANCE;
+                return clips.getResponse(target);
             default:
                 return null;
         }
@@ -54,12 +57,14 @@ public final class Services implements WLServer {
     public ServerRequest[] getHomeRequests() {
         return new ServerRequest[] {
                 //"stock_market"
+                new ServerRequest(ServerRequestTypeServices.TWITCH_CLIPS, "getAll")
         };
     }
 
     @Override
     public long getHomeResponseUpdateInterval() {
-        return 0;
+        registerFixedTimer(WLUtilities.SERVICES_TWITCH_CLIPS_UPDATE_INTERVAL, TwitchClips.INSTANCE::refresh);
+        return WLUtilities.SERVICES_HOME_RESPONSE_UPDATE_INTERVAL;
     }
 
     private String getStockMarketResponse(APIVersion version, String value) {

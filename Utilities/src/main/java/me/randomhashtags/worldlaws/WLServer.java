@@ -25,7 +25,7 @@ public interface WLServer extends DataValues, Jsoupable, Jsonable {
                 case PREMIUM: return ServerRequestTypePremium.values();
                 case REMOTE_NOTIFICATIONS: return ServerRequestTypeRemoteNotifications.values();
                 case SERVICES: return ServerRequestTypeServices.values();
-                case SPACE: return ServerRequestTypeSpace.values();
+                case SCIENCE: return ServerRequestTypeScience.values();
                 case UPCOMING_EVENTS: return ServerRequestTypeUpcomingEvents.values();
                 case WEATHER: return ServerRequestTypeWeather.values();
                 default: return null;

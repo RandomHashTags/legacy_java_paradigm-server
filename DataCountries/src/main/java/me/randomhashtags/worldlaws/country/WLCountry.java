@@ -64,7 +64,7 @@ public enum WLCountry {
     CROATIA,
     CUBA,
     CYPRUS,
-    CZECH_REPUBLIC,
+    CZECH_REPUBLIC("Czechia"),
 
     DEMOCRATIC_REPUBLIC_OF_THE_CONGO,
     DENMARK,

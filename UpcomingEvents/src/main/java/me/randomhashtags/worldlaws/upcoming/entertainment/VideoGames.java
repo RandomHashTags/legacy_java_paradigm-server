@@ -48,7 +48,8 @@ public final class VideoGames extends UpcomingEventController {
             for(Element element : table) {
                 final Element headline = element.selectFirst("h2 span.mw-headline");
                 if(headlines.contains(element) && headline != null) {
-                    foundReleases = headline.attr("id").equals("Game_releases");
+                    final String id = headline.attr("id");
+                    foundReleases = id.equals("Game_releases") || id.equals("Video_game_releases");
                 } else if(foundReleases) {
                     elementList.add(element);
                 }

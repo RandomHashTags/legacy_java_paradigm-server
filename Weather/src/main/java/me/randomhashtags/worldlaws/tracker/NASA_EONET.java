@@ -188,6 +188,7 @@ public enum NASA_EONET implements WLService {
             put("Barren Island", "Barren_Island_(Andaman_Islands)");
             put("Turrialba", "Turrialba_Volcano");
             put("Ambrym", "Ambrym");
+            put("Krakatau", "Krakatoa");
         }};
     }
     private String getLatestVolcanoDescription(String url) {

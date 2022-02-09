@@ -58,8 +58,8 @@ public final class UpcomingEvents implements WLServer {
     private String typesJSON;
 
     private void initialize() {
-        //test();
-        load();
+        test();
+        //load();
     }
 
     @Override
@@ -68,7 +68,8 @@ public final class UpcomingEvents implements WLServer {
     }
 
     private void test() {
-        final String string = Holidays.INSTANCE.getResponse("all");
+        final VideoGames videoGames = new VideoGames();
+        final String string = videoGames.getEventsFromDates(getWeeklyEventDateStrings(LocalDate.now()));
         WLLogger.logInfo("UpcomingEvents;test;string=" + string);
     }
 
@@ -158,9 +159,7 @@ public final class UpcomingEvents implements WLServer {
             @Override
             public JSONObject loadJSONObject() {
                 final HashSet<String> dates = getWeeklyEventDateStrings(now);
-                new ParallelStream<UpcomingEventController>().stream(CONTROLLERS, controller -> {
-                    controller.refresh();
-                });
+                new ParallelStream<UpcomingEventController>().stream(CONTROLLERS, UpcomingEventController::refresh);
 
                 final JSONObject json = getEventsFromDates(dates);
                 WLLogger.logInfo("UpcomingEvents - refreshed events from this week (took " + WLUtilities.getElapsedTime(started) + ")");

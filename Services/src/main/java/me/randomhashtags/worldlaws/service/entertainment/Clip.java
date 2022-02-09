@@ -5,7 +5,6 @@ import me.randomhashtags.worldlaws.LocalServer;
 import org.json.JSONObject;
 
 public final class Clip {
-
     private final String title, game, thumbnail, embedHTML;
     private final ClipBroadcaster broadcaster;
     private final long viewCount;
@@ -23,16 +22,24 @@ public final class Clip {
         this.sources = sources;
     }
 
+    @Override
+    public String toString() {
+        return toJSONObject().toString();
+    }
     public JSONObject toJSONObject() {
         final JSONObject json = new JSONObject();
+        json.put("embedHTML", embedHTML);
+        json.put("sources", sources.toJSONObject());
+        return json;
+    }
+    public JSONObject toPreJSONObject() {
+        final JSONObject json = new JSONObject();
         json.put("title", title);
-        json.put("broadcaster", broadcaster.toJSONObject());
+        json.put("broadcaster", broadcaster);
         json.put("game", game);
         json.put("thumbnail", thumbnail);
         json.put("viewCount", viewCount);
         json.put("duration", duration);
-        json.put("embedHTML", embedHTML);
-        json.put("sources", sources.toJSONObject());
         return json;
     }
 }

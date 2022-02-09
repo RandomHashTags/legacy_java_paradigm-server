@@ -1,4 +1,4 @@
-package me.randomhashtags.worldlaws.planet;
+package me.randomhashtags.worldlaws.space.planet;
 
 import me.randomhashtags.worldlaws.TemperatureRange;
 
