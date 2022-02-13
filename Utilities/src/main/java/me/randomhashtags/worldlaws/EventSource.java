@@ -6,12 +6,21 @@ public final class EventSource {
     private final String siteName, homepageURL;
 
     public EventSource(String siteName, String homepageURL) {
-        this.siteName = LocalServer.fixEscapeValues(siteName);
+        this.siteName = parseSiteName(siteName);
         this.homepageURL = homepageURL;
     }
     public EventSource(JSONObject json) {
-        siteName = LocalServer.fixEscapeValues(json.getString("siteName"));
+        siteName = parseSiteName(json.getString("siteName"));
         homepageURL = json.getString("homepageURL");
+    }
+
+    private String parseSiteName(String input) {
+        return LocalServer.fixEscapeValues(input)
+                .replace("%2B", "+")
+                .replace("%27", "'")
+                .replace("%E2%80%93", "–")
+                .replace("%E2%80%98", "ʻ")
+                ;
     }
 
     public String getSiteName() {

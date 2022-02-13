@@ -14,7 +14,9 @@ public final class ScienceEvent extends JSONObject {
         if(externalLinks != null) {
             put("externalLinks", externalLinks.toJSONObject());
         }
-        put("sources", sources.toJSONObject());
+        if(!sources.isEmpty()) {
+            put("sources", sources.toJSONObject());
+        }
     }
 
     public void updateMentionedCountries(WLCountry[] countries) {
