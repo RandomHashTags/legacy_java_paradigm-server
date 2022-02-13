@@ -104,6 +104,9 @@ public abstract class WLUtilities {
     }
 
     public static Month valueOfMonthFromInput(String input) {
+        if(input.length() <= 3) {
+            return null;
+        }
         input = input.toLowerCase().substring(0, 3);
         switch (input) {
             case "jan": return Month.JANUARY;

@@ -2,6 +2,7 @@ package me.randomhashtags.worldlaws;
 
 import me.randomhashtags.worldlaws.request.ServerRequest;
 import me.randomhashtags.worldlaws.request.server.ServerRequestTypeScience;
+import me.randomhashtags.worldlaws.service.yearReview.ScienceYearReview;
 import me.randomhashtags.worldlaws.space.constellation.Constellations;
 
 public final class Science implements WLServer {
@@ -16,6 +17,8 @@ public final class Science implements WLServer {
     }
 
     private void test() {
+        final String string = ScienceYearReview.INSTANCE.get(2021);
+        WLLogger.logInfo("Science;test;string=" + string);
     }
 
     @Override

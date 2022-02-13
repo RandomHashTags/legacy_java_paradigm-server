@@ -11,8 +11,10 @@ import java.util.HashSet;
 public final class ScienceEvent extends JSONObject {
     public ScienceEvent(String description, EventSources externalLinks, EventSources sources) {
         put("description", LocalServer.fixEscapeValues(description));
-        put("externalLinks", externalLinks);
-        put("sources", sources);
+        if(externalLinks != null) {
+            put("externalLinks", externalLinks.toJSONObject());
+        }
+        put("sources", sources.toJSONObject());
     }
 
     public void updateMentionedCountries(WLCountry[] countries) {
@@ -23,10 +25,12 @@ public final class ScienceEvent extends JSONObject {
                 mentionedCountries.put(country.getBackendID());
             } else {
                 final HashSet<String> aliases = country.getAliases();
-                for(String alias : aliases) {
-                    if(description.contains(alias.toLowerCase())) {
-                        mentionedCountries.put(country.getBackendID());
-                        break;
+                if(aliases != null) {
+                    for(String alias : aliases) {
+                        if(description.contains(alias.toLowerCase())) {
+                            mentionedCountries.put(country.getBackendID());
+                            break;
+                        }
                     }
                 }
             }
