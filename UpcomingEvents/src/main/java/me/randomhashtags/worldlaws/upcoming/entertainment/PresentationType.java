@@ -13,20 +13,21 @@ import java.util.ArrayList;
 import java.util.List;
 
 public enum PresentationType implements Jsoupable {
-    ACADEMY_AWARDS("https://en.wikipedia.org/wiki/Academy_Awards", PresentationEventType.AWARD_CEREMONY),
+    //ACADEMY_AWARDS("https://en.wikipedia.org/wiki/Academy_Awards", PresentationEventType.AWARD_CEREMONY),
     BLIZZCON("https://en.wikipedia.org/wiki/BlizzCon", PresentationEventType.CONVENTION_GAMING),
     COACHELLA("https://en.wikipedia.org/wiki/Coachella_Valley_Music_and_Arts_Festival", PresentationEventType.FESTIVAL_MUSIC),
     E3("https://en.wikipedia.org/wiki/E3", PresentationEventType.EXPO_GAMING),
-    EGX("https://en.wikipedia.org/wiki/EGX_(expo)", PresentationEventType.EXPO_GAMING),
-    GAME_DEVELOPERS_CONFERENCE("https://en.wikipedia.org/wiki/Game_Developers_Conference", PresentationEventType.CONFERENCE),
-    GAMESCON("https://en.wikipedia.org/wiki/Gamescom", PresentationEventType.EXPO_GAMING),
+    //EGX("https://en.wikipedia.org/wiki/EGX_(expo)", PresentationEventType.EXPO_GAMING),
+    //GAME_DEVELOPERS_CONFERENCE("https://en.wikipedia.org/wiki/Game_Developers_Conference", PresentationEventType.CONFERENCE),
+    //GAMESCON("https://en.wikipedia.org/wiki/Gamescom", PresentationEventType.EXPO_GAMING),
     GOLDEN_GLOBE_AWARDS("https://en.wikipedia.org/wiki/List_of_Golden_Globe_Awards_ceremonies", PresentationEventType.AWARD_CEREMONY),
-    MINECON("https://en.wikipedia.org/wiki/Minecon", PresentationEventType.CONVENTION_GAMING),
+    MET_GALA("https://en.wikipedia.org/wiki/Met_Gala", PresentationEventType.EXHIBIT_FASHION),
+    //MINECON("https://en.wikipedia.org/wiki/Minecon", PresentationEventType.CONVENTION_GAMING),
     NINTENDO_DIRECT("https://en.wikipedia.org/wiki/Nintendo_Direct", PresentationEventType.PRESENTATION),
-    PAX("https://en.wikipedia.org/wiki/List_of_PAX_events", PresentationEventType.FESTIVAL_GAMING),
-    SOUTH_BY_SOUTHWEST("https://en.wikipedia.org/wiki/South_by_Southwest", PresentationEventType.FESTIVAL_MUSIC),
+    //PAX("https://en.wikipedia.org/wiki/List_of_PAX_events", PresentationEventType.FESTIVAL_GAMING),
+    //SOUTH_BY_SOUTHWEST("https://en.wikipedia.org/wiki/South_by_Southwest", PresentationEventType.FESTIVAL_MUSIC),
     TWITCHCON("https://en.wikipedia.org/wiki/TwitchCon", PresentationEventType.CONVENTION_GAMING),
-    TWITCH_RIVALS("https://en.wikipedia.org/wiki/Twitch_Rivals", PresentationEventType.TOURNAMENT_GAMING),
+    //TWITCH_RIVALS("https://en.wikipedia.org/wiki/Twitch_Rivals", PresentationEventType.TOURNAMENT_GAMING),
     ;
 
     private final String url;
@@ -37,18 +38,16 @@ public enum PresentationType implements Jsoupable {
         this.type = type;
     }
 
-    public List<PresentationEvent> refresh() {
-        final LocalDate now = LocalDate.now().minusMonths(1).minusWeeks(1);
+    public List<PresentationEvent> refresh(LocalDate startingDay) {
         final List<PresentationEvent> events = get();
         if(events != null) {
-            final EventSources sources = getSources();
-            events.removeIf(event -> event.getDate().getLocalDate().isBefore(now));
+            final EventSources keySources = getSources();
+            events.removeIf(event -> event.getDate().getLocalDate().isBefore(startingDay));
             for(PresentationEvent event : events) {
+                final EventSources sources = new EventSources(keySources);
+                sources.addAll(event.getExternalLinks());
                 event.setSources(sources);
-                final EventSources external = event.getExternalLinks();
-                if(external != null) {
-                    event.addSources(external);
-                }
+                event.setCustomTypeSingularName(type.getName());
             }
         }
         return events == null || events.isEmpty() ? null : events;
@@ -56,9 +55,13 @@ public enum PresentationType implements Jsoupable {
 
     private List<PresentationEvent> get() {
         switch (this) {
+            case BLIZZCON: return refreshBlizzCon();
             case COACHELLA: return refreshCoachella();
+            case E3: return refreshE3();
             case GOLDEN_GLOBE_AWARDS: return refreshGoldenGlobeAwards();
+            case MET_GALA: return refreshMetGala();
             case NINTENDO_DIRECT: return refreshNintendoDirect();
+            case TWITCHCON: return refreshTwitchCon();
             default: return null;
         }
     }
@@ -94,6 +97,32 @@ public enum PresentationType implements Jsoupable {
         }
     }
 
+    private List<PresentationEvent> refreshBlizzCon() {
+        final String title = "BlizzCon", location = "Anaheim, California, United States", imageURL = null;
+        final WikipediaDocument doc = new WikipediaDocument(url);
+        final String description = doc.getDescription();
+        final EventSources externalLinks = doc.getExternalLinks();
+        final List<PresentationEvent> events = new ArrayList<>();
+        final Element table = doc.selectFirst("table.wikitable");
+        final Elements elements = table.select("tbody tr");
+        elements.removeIf(element -> element.select("td").size() < 7);
+        for(Element element : elements) {
+            final Elements tds = element.select("td");
+            final int year = Integer.parseInt(tds.get(0).text());
+            final List<EventDate> dates = parseDatesFrom(year, tds.get(1).text());
+            if(!dates.isEmpty()) {
+                final EventDate lastDate = dates.get(dates.size()-1);
+                boolean isFirst = true;
+                for(EventDate date : dates) {
+                    final String tag = title + ", " + (isFirst ? "BEGINS TODAY" : date.equals(lastDate) ? "ENDS TODAY" : "CONTINUED");
+                    final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, tag, externalLinks);
+                    events.add(event);
+                    isFirst = false;
+                }
+            }
+        }
+        return events;
+    }
     private List<PresentationEvent> refreshCoachella() {
         final WikipediaDocument doc = new WikipediaDocument(url);
         final List<PresentationEvent> events = new ArrayList<>();
@@ -133,7 +162,49 @@ public enum PresentationType implements Jsoupable {
         }
         return events;
     }
+    private List<PresentationEvent> refreshE3() {
+        final String title = "E3", imageURL = null;
+        final WikipediaDocument doc = new WikipediaDocument(url);
+        final String description = doc.getDescription();
+        final EventSources externalLinks = doc.getExternalLinks();
+
+        final List<PresentationEvent> events = new ArrayList<>();
+        final Element table = doc.selectFirst("table.wikitable");
+        final Elements elements = table.select("tbody tr");
+        elements.remove(0);
+        String previousLocation = null;
+        for(Element element : elements) {
+            final Elements tds = element.select("td");
+            final String dateString = LocalServer.removeWikipediaReferences(tds.get(1).text());
+            if(!dateString.toLowerCase().contains("canceled") && dateString.contains(", ")) {
+                final String[] values = dateString.split(", ");
+                final int year = Integer.parseInt(values[1]);
+                final String targetLocation = LocalServer.removeWikipediaReferences(tds.get(2).text()).replace(",", "");
+                final boolean hasLocation = !targetLocation.matches("[0-9]+");
+                String location = hasLocation ? targetLocation : previousLocation;
+                if(location.toLowerCase().endsWith("california") || location.toLowerCase().endsWith("georgia")) {
+                    location = location + ", United States";
+                }
+                previousLocation = location;
+
+                final List<EventDate> dates = parseDatesFrom(year, values[0]);
+                if(!dates.isEmpty()) {
+                    final String presenters = LocalServer.removeWikipediaReferences(tds.get(hasLocation ? 4 : 3).text()), notes = LocalServer.removeWikipediaReferences(tds.get(hasLocation ? 5 : 4).text());
+                    final EventDate lastDate = dates.get(dates.size()-1);
+                    boolean isFirst = true;
+                    for(EventDate date : dates) {
+                        final String tag = title + ", " + (isFirst ? "BEGINS TODAY" : date.equals(lastDate) ? "ENDS TODAY" : "CONTINUED");
+                        final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, tag, externalLinks);
+                        events.add(event);
+                        isFirst = false;
+                    }
+                }
+            }
+        }
+        return events;
+    }
     private List<PresentationEvent> refreshGoldenGlobeAwards() {
+        final String title = "Golden Globe Awards";
         final WikipediaDocument doc = new WikipediaDocument(url);
         final WikipediaDocument page = new WikipediaDocument("https://en.wikipedia.org/wiki/Golden_Globe_Awards");
         final String description = page.getDescription(), imageURL = null, location = "California, United States";
@@ -150,7 +221,31 @@ public enum PresentationType implements Jsoupable {
                 final int year = Integer.parseInt(dateValues[dateValues.length-1]);
                 final int day = Integer.parseInt(dateArray[1]);
                 final EventDate date = new EventDate(month, day, year);
-                final PresentationEvent event = new PresentationEvent(date, "Golden Globe Awards", description, imageURL, location, null, externalLinks);
+                final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, null, externalLinks);
+                events.add(event);
+            }
+        }
+        return events;
+    }
+    private List<PresentationEvent> refreshMetGala() {
+        final String title = "Met Gala", location = "Fifth Avenue, Manhattan, New York City, New York, United States", imageURL = null;
+        final WikipediaDocument doc = new WikipediaDocument(url);
+        final String description = doc.getDescription();
+        final EventSources externalLinks = doc.getExternalLinks();
+        final List<PresentationEvent> events = new ArrayList<>();
+        final Element table = doc.selectFirst("table.wikitable");
+        final Elements elements = table.select("tbody tr");
+        elements.remove(0);
+        for(Element element : elements) {
+            final Elements tds = element.select("td");
+            final String dateString = tds.get(0).text();
+            if(!dateString.toLowerCase().contains("canceled")) {
+                final String theme = LocalServer.removeWikipediaReferences(tds.get(1).text());
+
+                final String[] dateValues = dateString.split(", ");
+                final int year = Integer.parseInt(dateValues[1]);
+                final EventDate date = parseDatesFrom(year, dateValues[0]).get(0);
+                final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, null, externalLinks);
                 events.add(event);
             }
         }
@@ -182,5 +277,43 @@ public enum PresentationType implements Jsoupable {
             }
         }
         return events;
+    }
+    private List<PresentationEvent> refreshTwitchCon() {
+        final WikipediaDocument doc = new WikipediaDocument(url);
+        final String description = doc.getDescription();
+        final EventSources externalLinks = doc.getExternalLinks();
+        final List<PresentationEvent> events = new ArrayList<>();
+        final Elements tables = doc.select("table.wikitable");
+        for(int i = 0; i < 2; i++) {
+            final String locationSuffix = i == 0 ? ", California, United States" : "";
+            addEventsFromTwitchCon(events, tables.get(i), description, null, externalLinks, locationSuffix);
+        }
+        return events;
+    }
+    private void addEventsFromTwitchCon(List<PresentationEvent> list, Element table, String description, String imageURL, EventSources externalLinks, String locationSuffix) {
+        final String title = "TwitchCon";
+        final Elements elements = table.select("tbody tr");
+        elements.remove(0);
+        for(Element element : elements) {
+            final Elements tds = element.select("td");
+            final String dateString = LocalServer.removeWikipediaReferences(tds.get(1).text());
+            if(dateString.contains(", ") && !tds.get(4).text().toLowerCase().startsWith("cancelled")) {
+                final String location = LocalServer.removeWikipediaReferences(tds.get(2).text()).replace("The Netherlands", "Netherlands").replace("RAI Amsterdam Convention Centre, ", "") + locationSuffix;
+                final String[] values = dateString.split(", ");
+                final int year = Integer.parseInt(values[1]);
+                final List<EventDate> dates = parseDatesFrom(year, values[0]);
+
+                boolean isFirst = true;
+                if(!dates.isEmpty()) {
+                    final EventDate lastDate = dates.get(dates.size()-1);
+                    for(EventDate date : dates) {
+                        final String tag = title + ", " + (isFirst ? "BEGINS TODAY" : date.equals(lastDate) ? "ENDS TODAY" : "CONTINUED");
+                        final PresentationEvent event = new PresentationEvent(date, title, description, imageURL, location, tag, externalLinks);
+                        list.add(event);
+                        isFirst = false;
+                    }
+                }
+            }
+        }
     }
 }

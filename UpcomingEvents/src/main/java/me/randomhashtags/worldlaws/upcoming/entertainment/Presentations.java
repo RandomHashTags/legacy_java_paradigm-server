@@ -6,6 +6,7 @@ import me.randomhashtags.worldlaws.upcoming.LoadedUpcomingEventController;
 import me.randomhashtags.worldlaws.upcoming.UpcomingEventType;
 import me.randomhashtags.worldlaws.upcoming.events.PresentationEvent;
 
+import java.time.LocalDate;
 import java.util.Arrays;
 import java.util.List;
 
@@ -19,8 +20,9 @@ public final class Presentations extends LoadedUpcomingEventController {
     @Override
     public void load() {
         final UpcomingEventType type = getType();
+        final LocalDate startingDay = LocalDate.now();
         new ParallelStream<PresentationType>().stream(Arrays.asList(PresentationType.values()), presentationType -> {
-            final List<PresentationEvent> events = presentationType.refresh();
+            final List<PresentationEvent> events = presentationType.refresh(startingDay);
             if(events != null) {
                 for(PresentationEvent event : events) {
                     final EventDate date = event.getDate();

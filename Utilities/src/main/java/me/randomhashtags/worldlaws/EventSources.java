@@ -10,6 +10,9 @@ public final class EventSources extends ArrayList<EventSource> {
     public EventSources(EventSource...sources) {
         addAll(Arrays.asList(sources));
     }
+    public EventSources(EventSources eventSources) {
+        addAll(eventSources);
+    }
 
     public JSONObject toJSONObject() {
         final JSONObject json = new JSONObject();

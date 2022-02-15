@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Map;
 
 public final class PreUpcomingEvent {
-    private final String id, title, url, tag;
+    private final String customTypeSingularName, id, title, url, tag;
     private final List<String> countries;
     private final HashMap<String, Object> customValues;
 
@@ -44,6 +44,10 @@ public final class PreUpcomingEvent {
         this(id, title, url, tag, countries, null);
     }
     public PreUpcomingEvent(String id, String title, String url, String tag, List<String> countries, HashMap<String, Object> customValues) {
+        this(null, id, title, url, tag, countries, customValues);
+    }
+    public PreUpcomingEvent(String customTypeSingularName, String id, String title, String url, String tag, List<String> countries, HashMap<String, Object> customValues) {
+        this.customTypeSingularName = customTypeSingularName;
         this.id = id;
         this.title = LocalServer.fixEscapeValues(title);
         this.url = url;
@@ -109,7 +113,8 @@ public final class PreUpcomingEvent {
 
     public String toStringWithImageURL(UpcomingEventType type, String imageURL) {
         final String[] values = id.split("\\.");
-        return "\"" + id.substring(values[0].length()+1) + "\":{" +
+        return "\"" + id.substring(values[0].length() + 1) + "\":{" +
+                (customTypeSingularName != null ? "\"customTypeSingularName\":\"" + customTypeSingularName + "\"," : "") +
                 (tag != null && !tag.equals(title) ? "\"tag\":\"" + getTag() + "\"," : "") +
                 (imageURL != null ? "\"imageURL\":\"" + optimizeImageURL(type, imageURL) + "\"," : "") +
                 (countries != null ? "\"countries\":" + getCountriesArray() + "," : "") +

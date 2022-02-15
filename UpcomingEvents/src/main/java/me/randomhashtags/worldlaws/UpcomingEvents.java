@@ -37,6 +37,7 @@ public final class UpcomingEvents implements WLServer {
                 new MusicAlbums(),
                 //NASANeo.INSTANCE,
                 //NFL.INSTANCE, // problem
+                new Presentations(),
                 new ProfessionalWrestling(),
                 new RocketLaunches(),
                 new SpaceEvents(),

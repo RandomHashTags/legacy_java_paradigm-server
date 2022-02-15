@@ -151,6 +151,61 @@ public final class WikipediaDocument {
 
     public EventSources getExternalLinks() {
         final EventSources sources = new EventSources();
+        final Element lastList = document.select("h2 + ul").last();
+        if(lastList != null) {
+            final Elements elements = lastList.select("li");
+            for(Element list : elements) {
+                final Elements hrefs = list.select("a[href].external");
+                hrefs.removeIf(href -> href.attr("href").startsWith("https://www.wikidata.org/wiki/"));
+                if(!hrefs.isEmpty()) {
+                    final String listText = list.text();
+                    final int totalLinks = hrefs.size();
+                    final boolean hasAt = listText.contains(" at ");
+                    final Element href = hrefs.get(0);
+                    String hrefText = href.text(), hrefTextLowercase = hrefText.toLowerCase(), siteName = null;
+                    switch (hrefTextLowercase) {
+                        case "official website":
+                        case "official uk website":
+                        case "linkedin page":
+                            siteName = hasAt ? listText : hrefText;
+                            break;
+                        default:
+                            if(totalLinks >= 2) {
+                                hrefText = hrefs.get(1).text();
+                                hrefTextLowercase = hrefText.toLowerCase();
+                                switch (hrefTextLowercase) {
+                                    case "adult swim":
+                                    case "imdb":
+                                    case "disney+":
+                                    case "facebook":
+                                    case "allmovie":
+                                    case "history vs. hollywood":
+                                    case "netflix":
+                                    case "rotten tomatoes":
+                                    case "metacritic":
+                                    case "box office mojo":
+                                    case "the big cartoon database":
+                                    case "twitter":
+                                    case "youtube":
+                                    case "instagram":
+                                        siteName = hrefText + ": " + href.text();
+                                        break;
+                                    default:
+                                        break;
+                                }
+                            } else if(hrefTextLowercase.contains("official ") && hrefTextLowercase.contains(" website")) {
+                                siteName = hrefText;
+                            }
+                            break;
+                    }
+                    if(siteName != null) {
+                        final EventSource externalSource = new EventSource(siteName, href.attr("href"));
+                        sources.add(externalSource);
+                    }
+                }
+            }
+        }
+        /*
         final Elements elements = document.select("div.mw-parser-output > *");
         final Elements headlines = elements.select("h2");
         headlines.removeIf(headline -> !headline.select("span.mw-headline").text().equalsIgnoreCase("External links"));
@@ -223,7 +278,7 @@ public final class WikipediaDocument {
                     }
                 }
             }
-        }
+        }*/
         return sources;
     }
 }
